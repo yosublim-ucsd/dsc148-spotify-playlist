@@ -4,7 +4,7 @@
 
 > Como el humo voy, como el humo vengo...
 
-58 songs - 3 hr 42 min
+60 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Green Days](https://open.spotify.com/track/3oUIPRIvLWp7s4NhZ69YO3) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN) | [Green Days](https://open.spotify.com/album/7lD7Av6nX15dDbzGEakCnJ) | 3:32 | 2023-09-15 |  |
 | [Ilegal](https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 5:06 | 2023-09-15 |  |
 | [International Love](https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:06 | 2023-09-15 |  |
+| [King Size](https://open.spotify.com/track/5cuhYEoFtVbSU9K8x1UMOT) | [Cráneo](https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD), [Lasser](https://open.spotify.com/artist/5AlWoe0Tl7mmeNMdJCHRhj), [GXNZX](https://open.spotify.com/artist/4wUmJjIAbCAlaWoE63EI5c) | [King Size](https://open.spotify.com/album/2nHsUbAEHjO6rtn30ObJ32) | 3:00 | 2023-10-20 |  |
 | [La Cucabacha](https://open.spotify.com/track/6KB6Fb06cVRvIreioAE9p9) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [La Cucabacha](https://open.spotify.com/album/0HUhbot8nY4uhzq4KRy7G8) | 3:24 | 2023-09-15 |  |
 | [La Hora Es…](https://open.spotify.com/track/31to9V2JYareFfkoLQsEd6) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [El G.O.A.T\. \(Deluxe\)](https://open.spotify.com/album/7dlzGElxjGae4YC49CsLcE) | 3:57 | 2023-09-15 |  |
 | [La Loquera](https://open.spotify.com/track/5jCrRJ8Nw04nkmBqzUpFXU) | [Los Razos](https://open.spotify.com/artist/7HYgqp51TBXZdtjinjkQuZ) | [Hierbabuena](https://open.spotify.com/album/1ErlKLak3UfH1pHu2Qgpag) | 3:51 | 2023-09-15 |  |
@@ -60,6 +61,7 @@
 | [Santo](https://open.spotify.com/track/4fWPN3167JYutAH8WcTJsF) | [Sike Damodar](https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO), [Diavlitx](https://open.spotify.com/artist/2U1jqnxlnyZcVlezYQBb5g) | [Santo](https://open.spotify.com/album/7uym7WnlZzKwsxmf8DmITf) | 1:36 | 2023-09-15 |  |
 | [Sentimento Original](https://open.spotify.com/track/221XD85dLV8jiMyrEz1JBQ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [RAS Portraits](https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9) | 4:50 | 2023-09-15 |  |
 | [Sin Bajar del Viaje](https://open.spotify.com/track/7E2PTz1m6JC04vW7TE6vt9) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Sin Bajar del Viaje](https://open.spotify.com/album/1ffJ53ZlA1tIiLN2X0sFy5) | 3:29 | 2023-09-15 |  |
+| [Sin Descanzo](https://open.spotify.com/track/28O07UWiswSq7HZmSPnc0y) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Sin Descanzo](https://open.spotify.com/album/3nrxadfV9FK4kPkCH6l3wv) | 3:44 | 2023-10-20 |  |
 | [Te Invito a Mi Barrio](https://open.spotify.com/track/2N3fB55i3SY98NZOVaNnL4) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Un Baiza](https://open.spotify.com/album/62We7kcnouERjNBAKo8wG1) | 3:58 | 2023-09-15 |  |
 | [The Highest Flute](https://open.spotify.com/track/445zHds3RAG4b43nxkJbXc) | [Bukkha](https://open.spotify.com/artist/7ADHSBDZKBUoay9s2qXfBA), [Bungalo Dub](https://open.spotify.com/artist/69JPOTvYfcr3R57sMZdJU0), [I Keys Dub](https://open.spotify.com/artist/0eMLf2G0nqG2I2RnX6HOAQ), [Don Fe](https://open.spotify.com/artist/2vsfGqgZiVozPdK0M1GY40) | [..\. In Roots Vol\. 1](https://open.spotify.com/album/0scnG9qj8s8vGr3xmWf6DN) | 4:07 | 2023-09-15 |  |
 | [Trankilikilon](https://open.spotify.com/track/1iBEsTx19SMZNerprDKNQT) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Trankilikilon](https://open.spotify.com/album/6JiEE9Gp2A4ltyUz43mHtn) | 3:34 | 2023-09-15 |  |

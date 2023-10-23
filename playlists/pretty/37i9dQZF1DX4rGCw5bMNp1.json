@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 132836,
+  "num_followers": 132891,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2E0YjI1YWU2NGRkYTM5ZjVkZDZmMjI2NTNmMDJhY2M0M2ZkZDMy",
+  "snapshot_id": "MCxkNTdmNjc1ZmVlNTYyZjc0Nzk2ODk0M2E5MTM2OWE1OTA1NjZkYjQ2",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -185,22 +185,6 @@
       "url": "https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum"
     },
     {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 173533,
-      "name": "Back Door Man",
-      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
-    },
-    {
       "added_at": "2018-02-27 18:08:29",
       "album": {
         "name": "Living Chicago Blues, Vol. 3",
@@ -215,6 +199,22 @@
       "duration_ms": 258226,
       "name": "She's Fine",
       "url": "https://open.spotify.com/track/1GUvbwCftGCU9HTeg1DPAW"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 173533,
+      "name": "Back Door Man",
+      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -331,18 +331,18 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Blowin' Like Hell",
-        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
+        "name": "Living Chicago Blues, Vol. 3",
+        "url": "https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4"
       },
       "artists": [
         {
-          "name": "William Clarke",
-          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
+          "name": "Lacy Gibson",
+          "url": "https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe"
         }
       ],
-      "duration_ms": 345666,
-      "name": "Lonesome Bedroom Blues",
-      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
+      "duration_ms": 280573,
+      "name": "Drown In My Own Tears",
+      "url": "https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -379,18 +379,18 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Living Chicago Blues, Vol. 3",
-        "url": "https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4"
+        "name": "Blowin' Like Hell",
+        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
       },
       "artists": [
         {
-          "name": "Lacy Gibson",
-          "url": "https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe"
+          "name": "William Clarke",
+          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
         }
       ],
-      "duration_ms": 280573,
-      "name": "Drown In My Own Tears",
-      "url": "https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG"
+      "duration_ms": 345666,
+      "name": "Lonesome Bedroom Blues",
+      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
     },
     {
       "added_at": "2018-02-27 18:08:29",

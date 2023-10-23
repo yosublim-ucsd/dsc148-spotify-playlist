@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 58036,
+  "num_followers": 58046,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDMyMzdjODhlZDIxZWRjMDY5N2U4YzQzNTQwYTg2Y2Y2NDYzNGM0",
+  "snapshot_id": "MCxjYzU3MDgxZGM5YTVlNDc2ZTJkYzY4NTg2NDRhM2NhMWVmZWE1YTVi",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Dream Maker (Guitar Smooth Jazz)",
-        "url": "https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc"
-      },
-      "artists": [
-        {
-          "name": "Cristobal Lopez",
-          "url": "https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Susano's Calipso",
-      "url": "https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "...un poco mas.",
         "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 303893,
       "name": "Naila",
       "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Dream Maker (Guitar Smooth Jazz)",
+        "url": "https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc"
+      },
+      "artists": [
+        {
+          "name": "Cristobal Lopez",
+          "url": "https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Susano's Calipso",
+      "url": "https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB"
     },
     {
       "added_at": "2023-04-12 01:24:34",
@@ -303,22 +303,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "2 Cartas",
-        "url": "https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3"
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Antonio S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
         }
       ],
-      "duration_ms": 285386,
-      "name": "2 Cartas",
-      "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
+      "duration_ms": 370613,
+      "name": "Al son de la marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2023-04-13 19:45:15",
@@ -343,18 +339,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+        "name": "2 Cartas",
+        "url": "https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3"
       },
       "artists": [
         {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Antonio S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
         }
       ],
-      "duration_ms": 370613,
-      "name": "Al son de la marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+      "duration_ms": 285386,
+      "name": "2 Cartas",
+      "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Andamos Huyendo",
-        "url": "https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ"
-      },
-      "artists": [
-        {
-          "name": "Amanda Tovalin",
-          "url": "https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK"
-        }
-      ],
-      "duration_ms": 291647,
-      "name": "Andamos Huyendo",
-      "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "D\u00edas Lentos",
         "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 214000,
       "name": "Chorinho Blanco",
       "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Andamos Huyendo",
+        "url": "https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ"
+      },
+      "artists": [
+        {
+          "name": "Amanda Tovalin",
+          "url": "https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK"
+        }
+      ],
+      "duration_ms": 291647,
+      "name": "Andamos Huyendo",
+      "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
     },
     {
       "added_at": "2021-07-28 16:44:28",

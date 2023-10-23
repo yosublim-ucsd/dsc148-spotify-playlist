@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 65652,
+  "num_followers": 65673,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTNiMzFkMDdjODRhNWUxOTJkZjdlYmYyNDljMWQxYzU2YzdkNjVh",
+  "snapshot_id": "MCxhMTg4YTQzMjI5NDRiNDhjNWNhNWEyMmE1YzdkMDk0NmY1MjVmNDZk",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -475,18 +475,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "De Que Tu Priva?",
-        "url": "https://open.spotify.com/album/6rdek5bHbx11piMtwzaZCm"
+        "name": "Tatico Henr\u00edquez",
+        "url": "https://open.spotify.com/album/0JD61srO8ptHAXAghonKen"
       },
       "artists": [
         {
-          "name": "Geovanny Polanco",
-          "url": "https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY"
+          "name": "Tatico Henriquez",
+          "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
         }
       ],
-      "duration_ms": 269533,
-      "name": "La Rubia Y Yo",
-      "url": "https://open.spotify.com/track/2zLZaQsd66qHAR6HWJOOAI"
+      "duration_ms": 187846,
+      "name": "Arriba Santo Domingo",
+      "url": "https://open.spotify.com/track/0JZR9VYEsnkLAlMzXhZHGq"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -507,18 +507,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Tatico Henr\u00edquez",
-        "url": "https://open.spotify.com/album/0JD61srO8ptHAXAghonKen"
+        "name": "De Que Tu Priva?",
+        "url": "https://open.spotify.com/album/6rdek5bHbx11piMtwzaZCm"
       },
       "artists": [
         {
-          "name": "Tatico Henriquez",
-          "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
+          "name": "Geovanny Polanco",
+          "url": "https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY"
         }
       ],
-      "duration_ms": 187846,
-      "name": "Arriba Santo Domingo",
-      "url": "https://open.spotify.com/track/0JZR9VYEsnkLAlMzXhZHGq"
+      "duration_ms": 269533,
+      "name": "La Rubia Y Yo",
+      "url": "https://open.spotify.com/track/2zLZaQsd66qHAR6HWJOOAI"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -559,22 +559,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/0hjzbRJGIAlvfWhoX3n2Oj"
-      },
-      "artists": [
-        {
-          "name": "Blas Duran",
-          "url": "https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb"
-        }
-      ],
-      "duration_ms": 234707,
-      "name": "Sal\u00f3n de Belleza",
-      "url": "https://open.spotify.com/track/70SA4D9VxrH3RI1cDOSHAk"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "Coraz\u00f3n Bonito",
         "url": "https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 385680,
       "name": "Se Fue La Bola",
       "url": "https://open.spotify.com/track/1wC3DYbyjUdYWe3D6hs9UA"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/0hjzbRJGIAlvfWhoX3n2Oj"
+      },
+      "artists": [
+        {
+          "name": "Blas Duran",
+          "url": "https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb"
+        }
+      ],
+      "duration_ms": 234707,
+      "name": "Sal\u00f3n de Belleza",
+      "url": "https://open.spotify.com/track/70SA4D9VxrH3RI1cDOSHAk"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -639,6 +639,22 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
+        "name": "\u00cddolo Del Pueblo",
+        "url": "https://open.spotify.com/album/1b8lRfNkfmqV1BRsyAaNgK"
+      },
+      "artists": [
+        {
+          "name": "Tatico Henriquez",
+          "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
+        }
+      ],
+      "duration_ms": 167760,
+      "name": "Comiendo Gallina",
+      "url": "https://open.spotify.com/track/45B4Uym3KHBziu4olVZHNe"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
         "name": "Los Numero 1",
         "url": "https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 275000,
       "name": "Vamos Hablar Ingles",
       "url": "https://open.spotify.com/track/4VqDSFNWrn7vruGbV5JMiG"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "\u00cddolo Del Pueblo",
-        "url": "https://open.spotify.com/album/1b8lRfNkfmqV1BRsyAaNgK"
-      },
-      "artists": [
-        {
-          "name": "Tatico Henriquez",
-          "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
-        }
-      ],
-      "duration_ms": 167760,
-      "name": "Comiendo Gallina",
-      "url": "https://open.spotify.com/track/45B4Uym3KHBziu4olVZHNe"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -739,18 +739,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Out of Control",
-        "url": "https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08"
+        "name": "60 \u00c9xitos",
+        "url": "https://open.spotify.com/album/6pGQLQMeYtj3MU4H90z2DX"
       },
       "artists": [
         {
-          "name": "Shino Aguakate",
-          "url": "https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI"
+          "name": "Tatico Henriquez",
+          "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
         }
       ],
-      "duration_ms": 250613,
-      "name": "La Batata",
-      "url": "https://open.spotify.com/track/4r2O4YsxfoclLn5AjPLdQa"
+      "duration_ms": 169000,
+      "name": "La Correa",
+      "url": "https://open.spotify.com/track/7KFwD8joQhDszOXDAddttv"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -767,6 +767,22 @@
       "duration_ms": 305773,
       "name": "Tipico Caliente",
       "url": "https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "Out of Control",
+        "url": "https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08"
+      },
+      "artists": [
+        {
+          "name": "Shino Aguakate",
+          "url": "https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI"
+        }
+      ],
+      "duration_ms": 250613,
+      "name": "La Batata",
+      "url": "https://open.spotify.com/track/4r2O4YsxfoclLn5AjPLdQa"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -823,22 +839,6 @@
       "duration_ms": 268373,
       "name": "Por Esa Mujer",
       "url": "https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "Muy Loco",
-        "url": "https://open.spotify.com/album/1qJGNCdWQH7U8Wueh2ojCl"
-      },
-      "artists": [
-        {
-          "name": "Yiki Lee",
-          "url": "https://open.spotify.com/artist/288FjEmxkMZJKZjYfDkd1A"
-        }
-      ],
-      "duration_ms": 358000,
-      "name": "Ya No Te Quiero",
-      "url": "https://open.spotify.com/track/65BnKBgzomEwHIFeZTI5CT"
     }
   ],
   "unique_name": "Merengue T\u00edpico",

@@ -4519,7 +4519,7 @@
     },
     {
       "album": {
-        "name": "Pensamento (feat. Vulgo FK)",
+        "name": "Pensamento (feat. Vulgo FK & Galdino)",
         "url": "https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO"
       },
       "artists": [
@@ -4534,13 +4534,17 @@
         {
           "name": "Vulgo FK",
           "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
         }
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 139200,
-      "name": "Pensamento (feat. Vulgo FK)",
+      "name": "Pensamento (feat. Vulgo FK & Galdino)",
       "url": "https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z"
     },
     {

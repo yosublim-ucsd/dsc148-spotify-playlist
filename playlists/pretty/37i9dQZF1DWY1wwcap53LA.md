@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Reyna Roberts
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,473 likes - 122 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,490 likes - 122 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 121 | [Good Love](https://open.spotify.com/track/7sMoGNd6xOM7CD1WdFRWBQ) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Good Love](https://open.spotify.com/album/3lpdLJbh71M7f7YezuOEww) | 2:59 |
 | 122 | [Small Town](https://open.spotify.com/track/2AQNauizjgSmFeUIdtlNqS) | [Warrick McZeke](https://open.spotify.com/artist/49r2zkItXkIJc5tDfnVCIi) | [Small Town](https://open.spotify.com/album/7ESdUin17RB1cW22mGntRb) | 3:42 |
 
-Snapshot ID: `MCwyOTAwZjViZTc4OTkxZmQxYmM2MTI0MThhODE0OGM4NzlhMzVlOGMx`
+Snapshot ID: `MCw5ZWU1NGZjODdhY2NlOTgzNGEyNjE3YmQ3YjkyYjUxMzA3N2MzZWZh`

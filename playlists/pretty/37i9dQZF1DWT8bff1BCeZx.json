@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 7403,
+  "num_followers": 7464,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWFhOThmZGU1MmIxNjM3NjY4NGU2ZjJkZGI4NjliZWVlNWY2ZmU4",
+  "snapshot_id": "MCwxODRkOGYxNzFmMmNkN2I0ZDVhYTA1NGM4M2Q0NDA3YWUxODkyMTQ4",
   "tracks": [
     {
       "added_at": "2023-10-20 00:01:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Na You Dey Reign",
+        "url": "https://open.spotify.com/album/7EUG7ICDtR5G6FLseXjADm"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/2cf0ayENplwaFuiG0aphAS"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Praises",
         "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
       },
@@ -527,30 +543,6 @@
       "duration_ms": 244300,
       "name": "Praises",
       "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Yeshua (Extended)",
-        "url": "https://open.spotify.com/album/4FxYm4ZXW4qxhiDmADoU8H"
-      },
-      "artists": [
-        {
-          "name": "Holy drill",
-          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
-        },
-        {
-          "name": "Nikki Laoye",
-          "url": "https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP"
-        },
-        {
-          "name": "Sonny Green",
-          "url": "https://open.spotify.com/artist/0JyaUTiOWDW0vjHUXfgrDx"
-        }
-      ],
-      "duration_ms": 156196,
-      "name": "Yeshua (Extended)",
-      "url": "https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -575,18 +567,26 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Na You Dey Reign",
-        "url": "https://open.spotify.com/album/7EUG7ICDtR5G6FLseXjADm"
+        "name": "Yeshua (Extended)",
+        "url": "https://open.spotify.com/album/4FxYm4ZXW4qxhiDmADoU8H"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        },
+        {
+          "name": "Nikki Laoye",
+          "url": "https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP"
+        },
+        {
+          "name": "Sonny Green",
+          "url": "https://open.spotify.com/artist/0JyaUTiOWDW0vjHUXfgrDx"
         }
       ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/2cf0ayENplwaFuiG0aphAS"
+      "duration_ms": 156196,
+      "name": "Yeshua (Extended)",
+      "url": "https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Confam",
-        "url": "https://open.spotify.com/album/7r0C7rE7lg3GjQX8Wuwzln"
-      },
-      "artists": [
-        {
-          "name": "Okey Sokay",
-          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
-        },
-        {
-          "name": "Hugo David",
-          "url": "https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Confam",
-      "url": "https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
       },
@@ -839,6 +819,26 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Confam",
+        "url": "https://open.spotify.com/album/7r0C7rE7lg3GjQX8Wuwzln"
+      },
+      "artists": [
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        },
+        {
+          "name": "Hugo David",
+          "url": "https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Confam",
+      "url": "https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "The Birth of Revival",
         "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Selense",
-        "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 225153,
-      "name": "Selense",
-      "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Bianule",
         "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 284080,
       "name": "Bianule",
       "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Selense",
+        "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 225153,
+      "name": "Selense",
+      "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
     },
     {
       "added_at": "2023-10-20 00:01:00",

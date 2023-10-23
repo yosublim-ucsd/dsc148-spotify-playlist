@@ -1,12 +1,12 @@
 {
   "description": "Fourth quarter, two minutes left .. get locked in. Cover: Las Vegas Aces",
-  "num_followers": 2984940,
+  "num_followers": 2985771,
   "original_name": "Locked In",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjFlNTE3NWJiMzNkNWViNDBhOTM5MjczNWJjNzg3NWJmODkwZDA0",
+  "snapshot_id": "MCxlZDY3ODc4ZTI5NWY4Y2U3ZDRkZWNiNjA1YjZhNGM1N2M2NmRlYzY3",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -555,6 +555,26 @@
       "duration_ms": 217213,
       "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 261543,
+      "name": "On BS",
+      "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
     },
     {
       "added_at": "2023-10-20 04:00:00",

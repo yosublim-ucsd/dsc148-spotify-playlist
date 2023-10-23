@@ -3447,6 +3447,24 @@
     },
     {
       "album": {
+        "name": "From a cloudy sky",
+        "url": "https://open.spotify.com/album/3BbAOcLjpCWeM55OmGtLtO"
+      },
+      "artists": [
+        {
+          "name": "Gogofluc",
+          "url": "https://open.spotify.com/artist/6OrQ9gVexUFxOERMRDEmkH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118333,
+      "name": "From a cloudy sky",
+      "url": "https://open.spotify.com/track/6E0xoTUNynlFT6Lm4LVAaw"
+    },
+    {
+      "album": {
         "name": "fromain",
         "url": "https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK"
       },
@@ -4452,10 +4470,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 125728,
       "name": "Incandescent Sky - Demo",
       "url": "https://open.spotify.com/track/7cYwTwfI2cQdZvnSjsB6ah"
+    },
+    {
+      "album": {
+        "name": "Incredibly happy",
+        "url": "https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs"
+      },
+      "artists": [
+        {
+          "name": "Silk Soul",
+          "url": "https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Incredibly happy",
+      "url": "https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF"
     },
     {
       "album": {
@@ -6578,7 +6614,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 131211,
       "name": "Night In",
       "url": "https://open.spotify.com/track/3feeyGjoIIVNbzRLTSz7Wm"
@@ -6979,6 +7015,24 @@
     },
     {
       "album": {
+        "name": "One more for the road",
+        "url": "https://open.spotify.com/album/55wpECO2frgXtb6JsDtrCO"
+      },
+      "artists": [
+        {
+          "name": "Attic Dizzt",
+          "url": "https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149941,
+      "name": "One more for the road",
+      "url": "https://open.spotify.com/track/3Sp8yHw4Ss2gLNlvv5FJGz"
+    },
+    {
+      "album": {
         "name": "OneTwo",
         "url": "https://open.spotify.com/album/2Icm2s5LdBApWfvalmokYn"
       },
@@ -7116,7 +7170,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 130608,
       "name": "out there",
       "url": "https://open.spotify.com/track/1LpcIXQCaXY5qyNNsSKvYC"
@@ -8411,6 +8465,24 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf"
+      },
+      "artists": [
+        {
+          "name": "M.I Hakone",
+          "url": "https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124336,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400"
+    },
+    {
+      "album": {
         "name": "JAX",
         "url": "https://open.spotify.com/album/3pn1d4UvE6lWQxocZG3hnj"
       },
@@ -8830,7 +8902,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 122602,
       "name": "Soakysun",
       "url": "https://open.spotify.com/track/4mY6CgDg0SU6YeqnQpNHQT"

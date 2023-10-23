@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 237508,
+  "num_followers": 237517,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -135,58 +135,6 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
-        "name": "Antologia Roberto Goyeneche",
-        "url": "https://open.spotify.com/album/6mkrR53e4FhE59s92qE0gX"
-      },
-      "artists": [
-        {
-          "name": "Roberto Goyeneche",
-          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
-        },
-        {
-          "name": "Atilio Stampone y su Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/7BaxhBweRJpcPzkowkOquu"
-        }
-      ],
-      "duration_ms": 168773,
-      "name": "Yira...Yira (with Atilio Stampone y su Orquesta Tipica)",
-      "url": "https://open.spotify.com/track/4OdgV0DhEd9gnXwQf4giSh"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
-        "name": "Raul Lavi\u00e9-Los Elegidos",
-        "url": "https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Lavi\u00e9",
-          "url": "https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Los Mareados",
-      "url": "https://open.spotify.com/track/03bPLvobYz452ePAEksJgY"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
-        "name": "Milonguera: Des femmes et du tango",
-        "url": "https://open.spotify.com/album/37rcqU2wI70tmbQOQsmJlw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Gardel",
-          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
-        }
-      ],
-      "duration_ms": 124146,
-      "name": "Chorra",
-      "url": "https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
         "name": "El Tango Lo Siento As\u00ed",
         "url": "https://open.spotify.com/album/7amr3RlvimM5xJ3ipKCiv9"
       },
@@ -207,18 +155,34 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
+        "name": "Milonguera: Des femmes et du tango",
+        "url": "https://open.spotify.com/album/37rcqU2wI70tmbQOQsmJlw"
       },
       "artists": [
         {
-          "name": "Tita Merello",
-          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
         }
       ],
-      "duration_ms": 183040,
-      "name": "El Choclo",
-      "url": "https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt"
+      "duration_ms": 124146,
+      "name": "Chorra",
+      "url": "https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
+        "name": "Raul Lavi\u00e9-Los Elegidos",
+        "url": "https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Lavi\u00e9",
+          "url": "https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Los Mareados",
+      "url": "https://open.spotify.com/track/03bPLvobYz452ePAEksJgY"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -239,18 +203,70 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
-        "name": "Astor Piazzolla en el Col\u00f3n",
-        "url": "https://open.spotify.com/album/0UIKbjYqLwBMZL08aPtmZr"
+        "name": "Antologia Roberto Goyeneche",
+        "url": "https://open.spotify.com/album/6mkrR53e4FhE59s92qE0gX"
       },
       "artists": [
         {
-          "name": "Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+          "name": "Roberto Goyeneche",
+          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
+        },
+        {
+          "name": "Atilio Stampone y su Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/7BaxhBweRJpcPzkowkOquu"
         }
       ],
-      "duration_ms": 655196,
-      "name": "Adi\u00f3s Nonino",
-      "url": "https://open.spotify.com/track/5vpv1rlqDVfhC5A65XraAN"
+      "duration_ms": 168773,
+      "name": "Yira...Yira (with Atilio Stampone y su Orquesta Tipica)",
+      "url": "https://open.spotify.com/track/4OdgV0DhEd9gnXwQf4giSh"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
+        "name": "Tangazos",
+        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
+      },
+      "artists": [
+        {
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+        }
+      ],
+      "duration_ms": 109386,
+      "name": "Melod\u00eda de Arrabal",
+      "url": "https://open.spotify.com/track/15z8cfqjMyayrtz0eU6GBa"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
+      },
+      "artists": [
+        {
+          "name": "Tita Merello",
+          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "El Choclo",
+      "url": "https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
+        "name": "Milonga de mis amores",
+        "url": "https://open.spotify.com/album/5NZALaO88l6G50M9IpVwA9"
+      },
+      "artists": [
+        {
+          "name": "SEXTETO VISCERAL",
+          "url": "https://open.spotify.com/artist/5OyqRQZbRb8r3TGDGf6X8C"
+        }
+      ],
+      "duration_ms": 142133,
+      "name": "Milonga de mis amores - Estilo Pedro Laurenz",
+      "url": "https://open.spotify.com/track/15tGcGuT4MaynEctZBLaNK"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -275,34 +291,18 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
-        "name": "Tangazos",
-        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
+        "name": "Astor Piazzolla en el Col\u00f3n",
+        "url": "https://open.spotify.com/album/0UIKbjYqLwBMZL08aPtmZr"
       },
       "artists": [
         {
-          "name": "Omar Mollo",
-          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
         }
       ],
-      "duration_ms": 109386,
-      "name": "Melod\u00eda de Arrabal",
-      "url": "https://open.spotify.com/track/15z8cfqjMyayrtz0eU6GBa"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
-        "name": "Milonga de mis amores",
-        "url": "https://open.spotify.com/album/5NZALaO88l6G50M9IpVwA9"
-      },
-      "artists": [
-        {
-          "name": "SEXTETO VISCERAL",
-          "url": "https://open.spotify.com/artist/5OyqRQZbRb8r3TGDGf6X8C"
-        }
-      ],
-      "duration_ms": 142133,
-      "name": "Milonga de mis amores - Estilo Pedro Laurenz",
-      "url": "https://open.spotify.com/track/15tGcGuT4MaynEctZBLaNK"
+      "duration_ms": 655196,
+      "name": "Adi\u00f3s Nonino",
+      "url": "https://open.spotify.com/track/5vpv1rlqDVfhC5A65XraAN"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
-        "name": "Var\u00f3n (Remastered)",
-        "url": "https://open.spotify.com/album/1mIJOhB8422u9D6b7Fjow9"
-      },
-      "artists": [
-        {
-          "name": "Julio Sosa",
-          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
-        }
-      ],
-      "duration_ms": 192815,
-      "name": "Qu\u00e9 me van a hablar de amor - Remastered",
-      "url": "https://open.spotify.com/track/3FfcNuVn1yyNkikUxm6qwW"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
         "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
         "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
+        "name": "Var\u00f3n (Remastered)",
+        "url": "https://open.spotify.com/album/1mIJOhB8422u9D6b7Fjow9"
+      },
+      "artists": [
+        {
+          "name": "Julio Sosa",
+          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
+        }
+      ],
+      "duration_ms": 192815,
+      "name": "Qu\u00e9 me van a hablar de amor - Remastered",
+      "url": "https://open.spotify.com/track/3FfcNuVn1yyNkikUxm6qwW"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
         "name": "Our Last Tango (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6KHuXPoSIy51xXU3IB05L4"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 190573,
       "name": "Remolino",
       "url": "https://open.spotify.com/track/48OjE2RNkrqVOLhiWcWdny"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
+        "name": "Tango Collection",
+        "url": "https://open.spotify.com/album/1PVv7CoAyEKcXdTigwDzQ6"
+      },
+      "artists": [
+        {
+          "name": "Juan D'Arienzo",
+          "url": "https://open.spotify.com/artist/46beGPwcX2QEZcmuvrMqp4"
+        }
+      ],
+      "duration_ms": 140503,
+      "name": "Valsecito Criollo",
+      "url": "https://open.spotify.com/track/4ssSpLiLyPMpd7vKb6Pi6z"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -539,38 +555,6 @@
       "duration_ms": 154951,
       "name": "Ser\u00eda Facil Decir",
       "url": "https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
-        "name": "Tango Collection",
-        "url": "https://open.spotify.com/album/1PVv7CoAyEKcXdTigwDzQ6"
-      },
-      "artists": [
-        {
-          "name": "Juan D'Arienzo",
-          "url": "https://open.spotify.com/artist/46beGPwcX2QEZcmuvrMqp4"
-        }
-      ],
-      "duration_ms": 140503,
-      "name": "Valsecito Criollo",
-      "url": "https://open.spotify.com/track/4ssSpLiLyPMpd7vKb6Pi6z"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
-        "name": "Pucherito de gallina",
-        "url": "https://open.spotify.com/album/6531ccbkg5uE09HQ7KSBsm"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo de la Serna y El Yotivenco",
-          "url": "https://open.spotify.com/artist/7aIqwTieeHhRsxuZbzqv8A"
-        }
-      ],
-      "duration_ms": 147173,
-      "name": "Pucherito de gallina",
-      "url": "https://open.spotify.com/track/5MAM9qZtv56hTZUA5881LR"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -611,6 +595,22 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
+        "name": "Pucherito de gallina",
+        "url": "https://open.spotify.com/album/6531ccbkg5uE09HQ7KSBsm"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo de la Serna y El Yotivenco",
+          "url": "https://open.spotify.com/artist/7aIqwTieeHhRsxuZbzqv8A"
+        }
+      ],
+      "duration_ms": 147173,
+      "name": "Pucherito de gallina",
+      "url": "https://open.spotify.com/track/5MAM9qZtv56hTZUA5881LR"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
         "name": "Manzi, caminos de barro y pampa",
         "url": "https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 216465,
       "name": "Romance de barrio",
       "url": "https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
-        "name": "Lo Mejor de Alfredo Belusi",
-        "url": "https://open.spotify.com/album/3eGpNB9KUDP9KxrXBLKhXq"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Belusi",
-          "url": "https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe"
-        }
-      ],
-      "duration_ms": 124240,
-      "name": "De Puro Curda",
-      "url": "https://open.spotify.com/track/2yiFCdnMggyVo2R5mrs5Hu"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -659,22 +643,18 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
-        "name": "15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche",
-        "url": "https://open.spotify.com/album/7fScjvjQUNV06fB5WO5CZ8"
+        "name": "Lo Mejor de Alfredo Belusi",
+        "url": "https://open.spotify.com/album/3eGpNB9KUDP9KxrXBLKhXq"
       },
       "artists": [
         {
-          "name": "Roberto Goyeneche",
-          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
-        },
-        {
-          "name": "Baffa-Berlingieri y su Orquesta T\u00edpica",
-          "url": "https://open.spotify.com/artist/66hLRrlcZqU3Im4q5rUh86"
+          "name": "Alfredo Belusi",
+          "url": "https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe"
         }
       ],
-      "duration_ms": 176880,
-      "name": "Pompas De Jab\u00f3n",
-      "url": "https://open.spotify.com/track/46MPDWju4JkXKAdPUz1hdx"
+      "duration_ms": 124240,
+      "name": "De Puro Curda",
+      "url": "https://open.spotify.com/track/2yiFCdnMggyVo2R5mrs5Hu"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -695,6 +675,26 @@
       "duration_ms": 224746,
       "name": "Mariposita - En Vivo",
       "url": "https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
+        "name": "15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche",
+        "url": "https://open.spotify.com/album/7fScjvjQUNV06fB5WO5CZ8"
+      },
+      "artists": [
+        {
+          "name": "Roberto Goyeneche",
+          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
+        },
+        {
+          "name": "Baffa-Berlingieri y su Orquesta T\u00edpica",
+          "url": "https://open.spotify.com/artist/66hLRrlcZqU3Im4q5rUh86"
+        }
+      ],
+      "duration_ms": 176880,
+      "name": "Pompas De Jab\u00f3n",
+      "url": "https://open.spotify.com/track/46MPDWju4JkXKAdPUz1hdx"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -731,6 +731,46 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
+        "name": "Canciones del Sur",
+        "url": "https://open.spotify.com/album/1ZuMiZAxMUM7Q5p3FCKZRy"
+      },
+      "artists": [
+        {
+          "name": "Ines Cuello",
+          "url": "https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW"
+        },
+        {
+          "name": "Ram\u00f3n Maschio",
+          "url": "https://open.spotify.com/artist/31IEd3TrZZ2wGU94gvGVNh"
+        }
+      ],
+      "duration_ms": 205546,
+      "name": "El Coraz\u00f3n al Sur",
+      "url": "https://open.spotify.com/track/1sht3HgBWK4yOybGHEGqRE"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+      },
+      "artists": [
+        {
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 221934,
+      "name": "Chiquil\u00edn de Bach\u00edn",
+      "url": "https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
         "name": "El Album Blanco",
         "url": "https://open.spotify.com/album/5yQ4bqbHYzGZfYqg9ZiaAa"
       },
@@ -763,42 +803,18 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+        "name": "Tangazos",
+        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
       },
       "artists": [
         {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
         }
       ],
-      "duration_ms": 221934,
-      "name": "Chiquil\u00edn de Bach\u00edn",
-      "url": "https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
-        "name": "Canciones del Sur",
-        "url": "https://open.spotify.com/album/1ZuMiZAxMUM7Q5p3FCKZRy"
-      },
-      "artists": [
-        {
-          "name": "Ines Cuello",
-          "url": "https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW"
-        },
-        {
-          "name": "Ram\u00f3n Maschio",
-          "url": "https://open.spotify.com/artist/31IEd3TrZZ2wGU94gvGVNh"
-        }
-      ],
-      "duration_ms": 205546,
-      "name": "El Coraz\u00f3n al Sur",
-      "url": "https://open.spotify.com/track/1sht3HgBWK4yOybGHEGqRE"
+      "duration_ms": 161061,
+      "name": "Se Tiran Conmigo",
+      "url": "https://open.spotify.com/track/52bmeu33Kkm1hfEsuvivs5"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -835,22 +851,6 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
-        "name": "Tangazos",
-        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
-      },
-      "artists": [
-        {
-          "name": "Omar Mollo",
-          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
-        }
-      ],
-      "duration_ms": 161061,
-      "name": "Se Tiran Conmigo",
-      "url": "https://open.spotify.com/track/52bmeu33Kkm1hfEsuvivs5"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
         "name": "Mi Version de los Hechos",
         "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 287184,
       "name": "Sue\u00f1o de Barrilete",
       "url": "https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
+        "name": "Celebridades",
+        "url": "https://open.spotify.com/album/5MOLEFcj4EcAda6ob8fUUL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+        }
+      ],
+      "duration_ms": 148093,
+      "name": "Adi\u00f3s Muchachos",
+      "url": "https://open.spotify.com/track/7oazB2sKLoBDC49smTIdoj"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -891,18 +907,62 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
-        "name": "Celebridades",
-        "url": "https://open.spotify.com/album/5MOLEFcj4EcAda6ob8fUUL"
+        "name": "Re-Encuentro",
+        "url": "https://open.spotify.com/album/6kxxUyfgkO5n4NcHDkHMHC"
       },
       "artists": [
         {
-          "name": "Carlos Gardel",
-          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+          "name": "C\u00e9sar Angeleri",
+          "url": "https://open.spotify.com/artist/0dXS98DkHEA9K2H1YjKiTQ"
+        },
+        {
+          "name": "Daniel Binelli",
+          "url": "https://open.spotify.com/artist/3pI9A9672brzUyGUtkaGqh"
         }
       ],
-      "duration_ms": 148093,
-      "name": "Adi\u00f3s Muchachos",
-      "url": "https://open.spotify.com/track/7oazB2sKLoBDC49smTIdoj"
+      "duration_ms": 193738,
+      "name": "Milonga Triste",
+      "url": "https://open.spotify.com/track/184YuzU56OoLcIlQ3Nou5Y"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
+        "name": "A los Cantores (En Vivo)",
+        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ardit",
+          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+        },
+        {
+          "name": "Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "La Luz de un F\u00f3sforo - En Vivo",
+      "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
+        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
+        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
+      },
+      "artists": [
+        {
+          "name": "Horacio Ferrer",
+          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
+        },
+        {
+          "name": "Juan Trepiana",
+          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
+        }
+      ],
+      "duration_ms": 231520,
+      "name": "La Bicicleta Blanca",
+      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -935,46 +995,6 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
-        "name": "A los Cantores (En Vivo)",
-        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ardit",
-          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
-        },
-        {
-          "name": "Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "La Luz de un F\u00f3sforo - En Vivo",
-      "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
-        "name": "Re-Encuentro",
-        "url": "https://open.spotify.com/album/6kxxUyfgkO5n4NcHDkHMHC"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9sar Angeleri",
-          "url": "https://open.spotify.com/artist/0dXS98DkHEA9K2H1YjKiTQ"
-        },
-        {
-          "name": "Daniel Binelli",
-          "url": "https://open.spotify.com/artist/3pI9A9672brzUyGUtkaGqh"
-        }
-      ],
-      "duration_ms": 193738,
-      "name": "Milonga Triste",
-      "url": "https://open.spotify.com/track/184YuzU56OoLcIlQ3Nou5Y"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
         "name": "Fugata",
         "url": "https://open.spotify.com/album/16AGklCV9Z4aCzVZP7sdFy"
       },
@@ -991,26 +1011,6 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
-        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
-        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
-      },
-      "artists": [
-        {
-          "name": "Horacio Ferrer",
-          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
-        },
-        {
-          "name": "Juan Trepiana",
-          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
-        }
-      ],
-      "duration_ms": 231520,
-      "name": "La Bicicleta Blanca",
-      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
         "name": "Un Gui\u00f1o",
         "url": "https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF"
       },
@@ -1023,6 +1023,22 @@
       "duration_ms": 175003,
       "name": "Un Gui\u00f1o",
       "url": "https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
+        "name": "70 A\u00f1os de Tango",
+        "url": "https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk"
+      },
+      "artists": [
+        {
+          "name": "Roberto Siri",
+          "url": "https://open.spotify.com/artist/4LZr3L7Z0rpW0vO0jOgJAl"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "Quiero Verte una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -1047,38 +1063,22 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
-        "name": "Intimos, Vol. 1 en vivo en Bebop",
-        "url": "https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg"
+        "name": "Castiellos",
+        "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
       },
       "artists": [
         {
-          "name": "Ariel Ardit",
-          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+          "name": "Cucuza Castiello",
+          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
         },
         {
-          "name": "Andr\u00e9s Linetzky",
-          "url": "https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH"
+          "name": "Kastiello",
+          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
         }
       ],
-      "duration_ms": 320922,
-      "name": "Fuimos - En Vivo",
-      "url": "https://open.spotify.com/track/3wN0brdVqbMYJdGJ0wD0Za"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
-        "name": "70 A\u00f1os de Tango",
-        "url": "https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk"
-      },
-      "artists": [
-        {
-          "name": "Roberto Siri",
-          "url": "https://open.spotify.com/artist/4LZr3L7Z0rpW0vO0jOgJAl"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "Quiero Verte una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID"
+      "duration_ms": 241546,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
+        "name": "Intimos, Vol. 1 en vivo en Bebop",
+        "url": "https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ardit",
+          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+        },
+        {
+          "name": "Andr\u00e9s Linetzky",
+          "url": "https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH"
+        }
+      ],
+      "duration_ms": 320922,
+      "name": "Fuimos - En Vivo",
+      "url": "https://open.spotify.com/track/3wN0brdVqbMYJdGJ0wD0Za"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
         "name": "Presentando a Charlo",
         "url": "https://open.spotify.com/album/0eZJ7lKZF1MpL2u4wy4bzm"
       },
@@ -1115,38 +1135,38 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
-        "name": "En El Underground",
-        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
+        "name": "A Las Orquestas",
+        "url": "https://open.spotify.com/album/4p7RAcYL71hf4k4RBXGYUF"
       },
       "artists": [
         {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+          "name": "Julio Pane",
+          "url": "https://open.spotify.com/artist/4LfXtXfhAtyH6Htp0x0mUV"
         }
       ],
-      "duration_ms": 242826,
-      "name": "En Ese Ayer/Ventarr\u00f3n",
-      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
+      "duration_ms": 251472,
+      "name": "El Andariego",
+      "url": "https://open.spotify.com/track/4j3uxMq69ROiwQpSCI2g2l"
     },
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
-        "name": "Castiellos",
-        "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
+        "name": "Mi Version de los Hechos",
+        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
       },
       "artists": [
         {
-          "name": "Cucuza Castiello",
-          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
+          "name": "Romina Balestrino",
+          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
         },
         {
-          "name": "Kastiello",
-          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
         }
       ],
-      "duration_ms": 241546,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
+      "duration_ms": 233732,
+      "name": "Cualquiera de Estas Noches",
+      "url": "https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -1183,22 +1203,18 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
-        "name": "Doce Milongas de Amor y un Tango Desesperado",
-        "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
+        "name": "En El Underground",
+        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
       },
       "artists": [
         {
-          "name": "Delfina Cheb",
-          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
-        },
-        {
-          "name": "The Horacio Avilano Guitar Quartet",
-          "url": "https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N"
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
         }
       ],
-      "duration_ms": 190438,
-      "name": "Barrio de Tango",
-      "url": "https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j"
+      "duration_ms": 242826,
+      "name": "En Ese Ayer/Ventarr\u00f3n",
+      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -1219,22 +1235,42 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+        "name": "Sur (Remastered)",
+        "url": "https://open.spotify.com/album/4tNFXEyh7O6YxUVDB1ULz6"
       },
       "artists": [
         {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+          "name": "Edmundo Rivero",
+          "url": "https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi"
         },
         {
-          "name": "Aldo Saralegui",
-          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
+          "name": "Horacio Salg\u00e1n",
+          "url": "https://open.spotify.com/artist/2Bh9iQTtKB9vzl6iLtwZ9W"
         }
       ],
-      "duration_ms": 209866,
-      "name": "Fruta Amarga",
-      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
+      "duration_ms": 310012,
+      "name": "La casita de mis viejos - Remastered",
+      "url": "https://open.spotify.com/track/780oI6gpWrr8ds9gzx98B0"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
+        "name": "Doce Milongas de Amor y un Tango Desesperado",
+        "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
+      },
+      "artists": [
+        {
+          "name": "Delfina Cheb",
+          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
+        },
+        {
+          "name": "The Horacio Avilano Guitar Quartet",
+          "url": "https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N"
+        }
+      ],
+      "duration_ms": 190438,
+      "name": "Barrio de Tango",
+      "url": "https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -1255,78 +1291,6 @@
       "duration_ms": 276093,
       "name": "Las Ciudades",
       "url": "https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
-        "name": "Mi Version de los Hechos",
-        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
-      },
-      "artists": [
-        {
-          "name": "Romina Balestrino",
-          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
-        },
-        {
-          "name": "Guillermo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
-        }
-      ],
-      "duration_ms": 233732,
-      "name": "Cualquiera de Estas Noches",
-      "url": "https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
-        "name": "Un sue\u00f1o de barrio",
-        "url": "https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz"
-      },
-      "artists": [
-        {
-          "name": "Mirta Uguet",
-          "url": "https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O"
-        }
-      ],
-      "duration_ms": 208384,
-      "name": "Confidencias",
-      "url": "https://open.spotify.com/track/53573za1S0cPRlR9TudWro"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
-        "name": "A Las Orquestas",
-        "url": "https://open.spotify.com/album/4p7RAcYL71hf4k4RBXGYUF"
-      },
-      "artists": [
-        {
-          "name": "Julio Pane",
-          "url": "https://open.spotify.com/artist/4LfXtXfhAtyH6Htp0x0mUV"
-        }
-      ],
-      "duration_ms": 251472,
-      "name": "El Andariego",
-      "url": "https://open.spotify.com/track/4j3uxMq69ROiwQpSCI2g2l"
-    },
-    {
-      "added_at": "2023-10-06 14:56:37",
-      "album": {
-        "name": "Sur (Remastered)",
-        "url": "https://open.spotify.com/album/4tNFXEyh7O6YxUVDB1ULz6"
-      },
-      "artists": [
-        {
-          "name": "Edmundo Rivero",
-          "url": "https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi"
-        },
-        {
-          "name": "Horacio Salg\u00e1n",
-          "url": "https://open.spotify.com/artist/2Bh9iQTtKB9vzl6iLtwZ9W"
-        }
-      ],
-      "duration_ms": 310012,
-      "name": "La casita de mis viejos - Remastered",
-      "url": "https://open.spotify.com/track/780oI6gpWrr8ds9gzx98B0"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -1363,18 +1327,38 @@
     {
       "added_at": "2023-10-06 14:56:37",
       "album": {
-        "name": "La Tana Con Todo",
-        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
       "artists": [
         {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Aldo Saralegui",
+          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
         }
       ],
-      "duration_ms": 237226,
-      "name": "Malevaje",
-      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
+      "duration_ms": 209866,
+      "name": "Fruta Amarga",
+      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
+        "name": "Un sue\u00f1o de barrio",
+        "url": "https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz"
+      },
+      "artists": [
+        {
+          "name": "Mirta Uguet",
+          "url": "https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O"
+        }
+      ],
+      "duration_ms": 208384,
+      "name": "Confidencias",
+      "url": "https://open.spotify.com/track/53573za1S0cPRlR9TudWro"
     },
     {
       "added_at": "2023-10-06 14:56:37",
@@ -1407,6 +1391,22 @@
       "duration_ms": 196773,
       "name": "Tango Del Angel",
       "url": "https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog"
+    },
+    {
+      "added_at": "2023-10-06 14:56:37",
+      "album": {
+        "name": "La Tana Con Todo",
+        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 237226,
+      "name": "Malevaje",
+      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
     },
     {
       "added_at": "2023-10-06 14:56:37",

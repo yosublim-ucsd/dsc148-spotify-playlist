@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,089 likes - 149 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,086 likes - 149 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
 | 2 | [Where It's Blue](https://open.spotify.com/track/6i7QP9auNhpIZgPopuXPOm) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Pain Pills Or Pews EP](https://open.spotify.com/album/4EeCNe24c0doMP5YOCtf3j) | 3:45 |
 | 3 | [Currency](https://open.spotify.com/track/43eUMLFb0WHjuBigpHKhNT) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Rock Bottom](https://open.spotify.com/album/21PZ6vS8uahnrZmySYDh3K) | 3:56 |
-| 4 | [The Crowd Goes Wlld](https://open.spotify.com/track/2tLy1jxBdf5LF1IDznBCh9) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [The Crowd Goes Wild](https://open.spotify.com/album/4oNknSciThTh14sb2qZXR3) | 3:34 |
+| 4 | [The Crowd Goes Wlld](https://open.spotify.com/track/6kAl28NPp8AFgGZM8ycyx4) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Coyote](https://open.spotify.com/album/5Hri5F7ckbeJ6cvRd88efH) | 3:34 |
 | 5 | [Fox Hunt](https://open.spotify.com/track/32TjTdbpM9dv5gBVFXbU8S) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Fox Hunt](https://open.spotify.com/album/2bLNZHyv1itJ94dG8Ob5Nq) | 3:16 |
 | 6 | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh) | 3:12 |
 | 7 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [Searching For My Love](https://open.spotify.com/track/4r7q81d4NQGRPixkZWKR7e) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:03 |
 | 149 | [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 |
 
-Snapshot ID: `MCxiMTBiMjk1ZGZmMTM1YjEwMzFkODM0YjM4Y2RmODQxOTA4ZTgwMGE3`
+Snapshot ID: `MCw2ODMxNGI5ODgzZGJhMmVmYzkwYjU1ZjJhNTJkNGQxMjA2ZDYzYWE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026,229 likes - 173 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026,375 likes - 173 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 69 | [Champagne Shit \(feat\. Latto & Quavo\) \- Remix](https://open.spotify.com/track/4WS26ImdBwGa04bNrh17RO) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Champagne Shit \(feat\. Latto & Quavo\) \[Remix\]](https://open.spotify.com/album/0zMgVaXm1Zs34DSjr2kFOM) | 2:57 |
 | 70 | [Members Only \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:37 |
 | 71 | [Luv To A Fck Song](https://open.spotify.com/track/6qDNh0axas6ZxjnMraUasM) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [7](https://open.spotify.com/album/5Sero7LzJaM1Pxp51FW2wY) | 3:18 |
-| 72 | [Wait So Long](https://open.spotify.com/track/3nHLmfDuvY5LK3lCV1LHju) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Wait So Long](https://open.spotify.com/album/0AaPqe9tkDP6LKf7uEf5mw) | 2:28 |
+| 72 | [Wait So Long](https://open.spotify.com/track/1vOhYqGR1bQCzVJVenL6mO) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Phases III \- EP](https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO) | 2:28 |
 | 73 | [New Moves](https://open.spotify.com/track/1Cby5mB1MumgWZb3zBwXgl) | [Gemaine](https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03), [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [New Moves](https://open.spotify.com/album/2VXaTb8Dz9ecOXXMp6ehtv) | 2:44 |
 | 74 | [Hands Tied](https://open.spotify.com/track/6FTtvuPD4Xas3Oj7XJFf3C) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Hands Tied](https://open.spotify.com/album/7zrXcg8W9t7yNBQopdBFw3) | 5:43 |
 | 75 | [It's You \(feat\. BIA\)](https://open.spotify.com/track/2vrrcekBMTpaadCzsBgGxw) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [It's You \(feat\. BIA\)](https://open.spotify.com/album/1bHsKvnj1DJaE2c9Ea4mHY) | 2:12 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 172 | [I Drove U Crazy](https://open.spotify.com/track/3pV6qrTGBNx2nsTHfu71tR) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [I Drove U Crazy](https://open.spotify.com/album/3EaYlUGXxBtUpt0mfuogP0) | 2:49 |
 | 173 | [Sexy Lady \- Remix](https://open.spotify.com/track/6NvlMkDs7m6ZNIf1ioVDbT) | [Cedric Brazle](https://open.spotify.com/artist/537DG59uwJsVL3RKA6YNW6), [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Sexy Lady \(Remix\)](https://open.spotify.com/album/1SxKnUKEoooT5gRfnxMFBE) | 3:42 |
 
-Snapshot ID: `MCwwMWRkYWQwMDU2NzQ5ZGM0MDMzNjI3ZjUyNGRkNzY3YTg0N2QwN2Zk`
+Snapshot ID: `MCw3NmRkNjRiYjU2NDQzNzE1ODk4MmYwZmUwZGU5MDg5YjIxYTQxZWQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=CSlMLdDUSfe4j7XF9eK4Ng">Christina Shusho</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,807 likes - 85 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,810 likes - 85 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 36 | [I Have Tasted / Nimeonja](https://open.spotify.com/track/3BlvopHOGCh134vhugmiyv) | [Reuben Kigame](https://open.spotify.com/artist/0bTD7Hz0264DFfTV9e5PQf), [Sifa Voices](https://open.spotify.com/artist/75UlA58ClvAkoGrCouQQAI) | [Tulia](https://open.spotify.com/album/6xsRFuy3hZsnxqppb5e6mT) | 6:50 |
 | 37 | [Nifundishe Kunyamaza](https://open.spotify.com/track/5ZbqY3dSaJu5WepPqGkxbS) | [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Naiona Kesho](https://open.spotify.com/album/4On0HtZu8oqfzXWki3Vz6f) | 9:14 |
 | 38 | [Narudisha](https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY) | [Gloria Muliro](https://open.spotify.com/artist/22EUP7xdGe9A2jzD7zdSxV) | [Narudisha](https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T) | 4:29 |
-| 39 | [Mlima \- Live](https://open.spotify.com/track/3Bb5vkZxM7QtO0JCiwcEFc) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Mlima \(Live\)](https://open.spotify.com/album/2VxeSdAk3b1vBgCUpxO1Em) | 10:23 |
+| 39 | [Mlima \- Live](https://open.spotify.com/track/3KMb9RdwHVN5yblwN7GyNF) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Higher + Deeper \(Live in Dar Es Salaam\)](https://open.spotify.com/album/3Vsi0VHAZvFXHQg5RKho0T) | 10:23 |
 | 40 | [Organize \(feat\. Moji Shortbabaa\)](https://open.spotify.com/track/2KpAGhLuf7SzVLHDOF4M1S) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Organize \(feat\. Moji Shortbabaa\)](https://open.spotify.com/album/0yCHxjgEI4SqCDmye48Kvp) | 3:55 |
 | 41 | [Neno Lako](https://open.spotify.com/track/5A06x01Ev8EL2FdJK5Fp8d) | [Godwill Babette](https://open.spotify.com/artist/787HVRJFIkDBhj7HeHCVsG) | [Umenibeba](https://open.spotify.com/album/7lKfLz5d1olqce9qgqK1jB) | 5:47 |
 | 42 | [Mungu Mwenye Nguvu](https://open.spotify.com/track/6ry9UkAiQWj9lucisl02OR) | [Solomon Mukubwa](https://open.spotify.com/artist/25Q3rVZVuI2ESBPZEqdZCY) | [Mungu Mwenye Nguvu](https://open.spotify.com/album/2rNVMn4XGUtZewH3WfZNGm) | 7:32 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 84 | [Nikumbushe Yehova](https://open.spotify.com/track/2YTmZTaHazQYsOfC7UqWtO) | [Kurasini SDA Choir](https://open.spotify.com/artist/6iEYr3D5bI9cIgJWSYN0tM) | [Mtanitafuta Pande Zote](https://open.spotify.com/album/70wLfW5cfXi1h1JfIITRUp) | 2:45 |
 | 85 | [Maneno](https://open.spotify.com/track/26CBYYDZANC7IaaAXTJIS1) | [Betty Bayo](https://open.spotify.com/artist/6Ai6VHx0i9hk6u8n7ySE0T) | [11th Hour](https://open.spotify.com/album/3H9GR3WPkAnmcCseOj9XmS) | 6:10 |
 
-Snapshot ID: `MCxiMGI5ODg2ZTEwODlhNTFjN2Q2MDE2YTg3M2JiMjY3MTMzYjM3YzVl`
+Snapshot ID: `MCw5NDA5NGI3MzYzZWViN2U1ODMxNGZmYWZlNDdlMWExY2UzMzQwMTY0`

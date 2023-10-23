@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-810 songs - 1 day 7 hr 30 min
+813 songs - 1 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [in the blink of an eye](https://open.spotify.com/track/5MBfOXuYBd43bQseqvL2yo) | [Summer Clarke](https://open.spotify.com/artist/5VJreBDjx8zamtY3YyZyMr) | [in the blink of an eye](https://open.spotify.com/album/1ckuvr9YJHuv0IleVxJLkd) | 2:27 | 2022-05-20 | 2022-09-30 |
 | [In the Quarry](https://open.spotify.com/track/1ppAYsMbptKwowB1Za8g7A) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Gossamer](https://open.spotify.com/album/5AndD9M9ccTWQXPJpipz2z) | 2:21 | 2022-04-15 |  |
 | [Incandescent Sky \- Demo](https://open.spotify.com/track/7cYwTwfI2cQdZvnSjsB6ah) | [Xoxo Fernandez](https://open.spotify.com/artist/6G4uvbhINpucP5RBxsiPDN) | [False Euphoria](https://open.spotify.com/album/7Dm64niDkqB3n00XPhmEXd) | 2:05 | 2022-09-16 | 2023-10-20 |
+| [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 | 2023-10-20 |  |
 | [Indigo](https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Indigo](https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair) | 2:14 | 2023-09-22 |  |
 | [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 | 2023-09-22 |  |
 | [Inspector Fidget](https://open.spotify.com/track/6qXTQx6WNF4bL8OUqltK5T) | [Monster Guy](https://open.spotify.com/artist/6Aizv6tVH9fFMbEbS4baLY) | [Dangerous Eyes](https://open.spotify.com/album/6fNRme6o5ByiWKfVFIERFz) | 2:07 | 2022-04-15 | 2022-05-20 |
@@ -477,6 +478,7 @@
 | [One Day Soon](https://open.spotify.com/track/0PvHzafa2I1vuVo2uwC7xq) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [One Day Soon](https://open.spotify.com/album/0kGTLVRLQbPyu9DvDcK1bK) | 1:47 | 2022-04-15 | 2022-07-01 |
 | [One Hundred Masters](https://open.spotify.com/track/7cYTfi0NeI7zTNbOguui8H) | [Loaderror](https://open.spotify.com/artist/3zrZn5h0Mmx9aKdzhBX1lB) | [Broken Umbrella](https://open.spotify.com/album/4OUQJxukzSxjwlceCJVG1S) | 1:50 | 2022-04-15 | 2022-06-10 |
 | [One Minute](https://open.spotify.com/track/1cav5cQVWoCppNXXbg7b5m) | [Ed Mate](https://open.spotify.com/artist/6DJfY1YYdNAMLbd1Aj9ITV) | [One Minute](https://open.spotify.com/album/1dQGXOReBiGGZAwag5ZPyW) | 1:10 | 2022-10-28 | 2023-10-06 |
+| [One more for the road](https://open.spotify.com/track/3Sp8yHw4Ss2gLNlvv5FJGz) | [Attic Dizzt](https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI) | [One more for the road](https://open.spotify.com/album/55wpECO2frgXtb6JsDtrCO) | 2:29 | 2023-10-20 |  |
 | [only you](https://open.spotify.com/track/0FvxLuWx3pVjeAhqMyrKLl) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [only you](https://open.spotify.com/album/1MmSnwIwlZY9UWIiUBnobG) | 2:26 | 2022-09-30 | 2023-10-20 |
 | [Opus 2](https://open.spotify.com/track/7JV0q80mvbiEUDGUFxE3J5) | [WillSum](https://open.spotify.com/artist/65yQkihuUYn5wSktWTgSVG) | [Opus 2](https://open.spotify.com/album/716LHTsujovH8m2J576NaV) | 2:00 | 2022-04-15 |  |
 | [Orange and More Orange](https://open.spotify.com/track/7zLvnQVUahgEm9TmV7dtjn) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [This Must Be the Place](https://open.spotify.com/album/6MqKvZpyncm6ycEpmFm1M2) | 3:12 | 2022-07-08 | 2023-09-22 |
@@ -586,15 +588,16 @@
 | [Seals](https://open.spotify.com/track/6hhDdAhtUbPkvPsLbp1KPP) | [kust](https://open.spotify.com/artist/2HTMpw5UmlJ2sUap8z5ZbU) | [Seals](https://open.spotify.com/album/7eDjDYsBjvvaatdJyxmzhY) | 2:14 | 2022-11-11 |  |
 | [searching](https://open.spotify.com/track/5dxj79aIERpUFnd13G1GfY) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [searching](https://open.spotify.com/album/1RmmxwrRiiGuIpFjhkVuL5) | 2:23 | 2023-04-03 |  |
 | [Seasonal Love](https://open.spotify.com/track/4Z9Zuq40Vq6exAXxgcvqTv) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Seasonal Love](https://open.spotify.com/album/3FJTcw8nFi6279pIUipMA7) | 2:00 | 2022-10-14 | 2023-10-06 |
+| [Seasons](https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Seasons](https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf) | 2:04 | 2023-10-20 |  |
 | [Second Flat](https://open.spotify.com/track/7EXuUIbqpxoeEnH0D2cvBw) | [Green Balloon](https://open.spotify.com/artist/2GGLsAPwyfEvtUyKYvELDy) | [Epic Love](https://open.spotify.com/album/5C1vgrBe5b4SeyS2Beap3c) | 1:27 | 2022-04-15 | 2022-05-14 |
 | [See The Flowers](https://open.spotify.com/track/77MvpbDU4b23vr2rkEYOsq) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [JAX](https://open.spotify.com/album/3pn1d4UvE6lWQxocZG3hnj) | 2:12 | 2022-04-15 |  |
 | [Selected](https://open.spotify.com/track/7G4scWFcZcwVE1jRLuXLsf) | [Bullseye Release](https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm) | [Selected](https://open.spotify.com/album/6q0y2RlQ7wRpvz0B2LJXDW) | 3:10 | 2022-04-15 | 2022-05-20 |
 | [Sentimental Mood](https://open.spotify.com/track/3Xl7gON72joBquu8YJG8z9) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Mixtape](https://open.spotify.com/album/2bOYfvwq6ZYGzPtkDjbD95) | 1:49 | 2022-04-15 | 2022-05-14 |
-| [Serene](https://open.spotify.com/track/2y095NA9mFeb4qaSyXe4Uz) | [Damzouka](https://open.spotify.com/artist/74F699PZqX9RIHr4mpALcq) | [Serene](https://open.spotify.com/album/4Vf9zmnJt6SppVluU3diU5) | 2:24 | 2022-11-25 |  |
+| [Serene](https://open.spotify.com/track/2y095NA9mFeb4qaSyXe4Uz) | [Damzouka](https://open.spotify.com/artist/74F699PZqX9RIHr4mpALcq) | [Serene](https://open.spotify.com/album/4Vf9zmnJt6SppVluU3diU5) | 2:24 | 2022-11-25 | 2023-10-23 |
 | [Serenity](https://open.spotify.com/track/5bEZ6aLBteghtOzynCO4WT) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Come Back \| Serenity](https://open.spotify.com/album/6ClJ6EUajiUuSxLAjbaCXH) | 2:08 | 2022-10-14 |  |
 | [Seven](https://open.spotify.com/track/3UdSY1SgSF60lpYdMbmeXm) | [Von Von Bon](https://open.spotify.com/artist/46ex27gVTAa49Ikzk0M6jU) | [Seven](https://open.spotify.com/album/2Oiaj5rQK2zBL5xBtGUhlV) | 2:29 | 2022-04-15 |  |
 | [Seven lifes](https://open.spotify.com/track/0ODqF4q7w8uZ80auAlUww8) | [Lunatic Sad](https://open.spotify.com/artist/2zdUTbS2EdmbSrzK96XvEp) | [Seven lifes](https://open.spotify.com/album/1nTnXy5pPuajYkihPVFWTj) | 2:16 | 2022-09-09 | 2023-07-20 |
-| [Shallow Pools](https://open.spotify.com/track/0UzMLYcdzMb7jp5lZQ5X6g) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Onsen](https://open.spotify.com/album/70WpXKSt4kBPwLBXPy9sBi) | 2:16 | 2022-12-16 |  |
+| [Shallow Pools](https://open.spotify.com/track/0UzMLYcdzMb7jp5lZQ5X6g) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Onsen](https://open.spotify.com/album/70WpXKSt4kBPwLBXPy9sBi) | 2:16 | 2022-12-16 | 2023-10-23 |
 | [Shape](https://open.spotify.com/track/4dvUJBDK0b96VmCjJ6318U) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/4VTfhlLlVm20hgXj5t2NfC) | 1:48 | 2022-10-28 | 2022-11-25 |
 | [Shape](https://open.spotify.com/track/4vctnDV4Kft8buepkkUOI9) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/20odQgHpucqurWxbT3JX8O) | 1:48 | 2022-12-09 |  |
 | [Shape](https://open.spotify.com/track/5teLw6UBWsDFgcK8U94qKL) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/24JwjgSiYN4aUv08jbFC5C) | 1:48 | 2022-11-11 | 2022-12-14 |
@@ -633,7 +636,7 @@
 | [Space Whale](https://open.spotify.com/track/5EIM4pAvU17vH3hs00Q5Z2) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK), [aitlofi](https://open.spotify.com/artist/2LhvxbUfc5pT3NRKkO3UMH) | [Space Whale](https://open.spotify.com/album/0UaSTg34G9s1EaNED2VDXc) | 2:03 | 2022-07-22 | 2023-10-13 |
 | [Spanish Tea](https://open.spotify.com/track/0crQI3ryIPyMbWxcI25mYf) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Spanish Tea](https://open.spotify.com/album/5hUlagOKj7afZAb2q09ZcK) | 2:03 | 2022-04-15 | 2023-07-20 |
 | [Spare No Expense](https://open.spotify.com/track/3ImEq34pURQUCLppdFOap6) | [Snuff Audio](https://open.spotify.com/artist/7m7jvc1wS04q47pXO3MdsX) | [Spare No Expense](https://open.spotify.com/album/4etkVtVjvsEjUXL5hxgCsa) | 1:54 | 2022-10-14 | 2023-07-20 |
-| [Sparkling](https://open.spotify.com/track/2G9BBEiDmuFfd2TTFootms) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sparkling](https://open.spotify.com/album/4BeEaHo85oLeYjUPTnEHSA) | 2:17 | 2022-11-11 |  |
+| [Sparkling](https://open.spotify.com/track/2G9BBEiDmuFfd2TTFootms) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sparkling](https://open.spotify.com/album/4BeEaHo85oLeYjUPTnEHSA) | 2:17 | 2022-11-11 | 2023-10-23 |
 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 | 2022-04-15 | 2022-05-14 |
 | [Spin Free](https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Spin Free](https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH) | 2:20 | 2023-09-08 |  |
 | [Spoiler Alert](https://open.spotify.com/track/3Yabo5fHrlueQUfOtjxTU9) | [Chetco Effect](https://open.spotify.com/artist/1uMK3CGvV87A99PJP76lk7) | [Spoiler Alert](https://open.spotify.com/album/50Ymg0VYsiVGcU8TBpukRm) | 2:23 | 2023-07-19 |  |

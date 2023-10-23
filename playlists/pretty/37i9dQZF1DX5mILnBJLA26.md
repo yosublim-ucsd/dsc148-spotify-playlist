@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI?si=QuxpuRfvQFikTn6l\-tOkqw">DJ Stokie</a>, <a href="https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza?si=yldSjpqOQZ6sN0vui82lRg">Eemoh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,271 likes - 51 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,709 likes - 51 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 50 | [Gojasi](https://open.spotify.com/track/0z2QglVOqge7D0Mo7Pqvow) | [Musical Jazz](https://open.spotify.com/artist/3khoe9PeLSPw1Q0db4TpWW), [Soul Revolver](https://open.spotify.com/artist/1Z4N6qo86BmXMr5SqkHP1r), [Kgocee](https://open.spotify.com/artist/4iy6CMH93Yek4eDd5KlxEy), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD) | [Gojasi](https://open.spotify.com/album/1Ka5oUqNMuSUVbZmQmSUMf) | 7:09 |
 | 51 | [Khekheleza \(Dlala Dlala\)](https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Thama Tee](https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR) | [Khekheleza \(Dlala Dlala\)](https://open.spotify.com/album/0xzQmemSpxC1d1XmNAQY80) | 5:29 |
 
-Snapshot ID: `MCw1NmIzMmY5NTI3NTFiOTMzNTgxNjAwNjE3ZGEwYjEwYTgyZjM2YzBh`
+Snapshot ID: `MCxiYTQ2YzkyYWQ2MjU1NTczNjliYTdlN2JhZGFhMjk5ZjI4ZDI5MDdi`

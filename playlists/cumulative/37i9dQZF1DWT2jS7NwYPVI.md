@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Picture Parlour
 
-1,906 songs - 4 day 4 hr 23 min
+1,908 songs - 4 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1744,7 +1744,8 @@
 | [Troglodyte](https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Troglodyte](https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG) | 3:19 | 2022-05-13 | 2022-06-25 |
 | [Truck](https://open.spotify.com/track/3gpFdIoxvpOPYPbxAcq9VZ) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Truck](https://open.spotify.com/album/4fxXwdUoB6iJ0x2Ik7eNTu) | 3:53 | 2023-07-28 | 2023-08-26 |
 | [Truly.Modern.Love](https://open.spotify.com/track/1Sh15oE0WQQiajIkMG5Ait) | [The Last Royals](https://open.spotify.com/artist/5IdTPFXrveWkm5GNFJa9fw) | [Truly.Modern.Love.](https://open.spotify.com/album/400QneRa5eZVCHBQFqhGlE) | 3:30 | 2022-10-14 | 2022-11-12 |
-| [Try](https://open.spotify.com/track/3mXiKyXnHvjeLHg87CKoP2) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Try](https://open.spotify.com/album/1zZORYYv4dATo41BNEAuG2) | 3:57 | 2023-10-13 |  |
+| [Try](https://open.spotify.com/track/1isiUXaYArJVAFe2f6vRPt) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Some Of It Was True](https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ) | 3:57 | 2023-10-20 |  |
+| [Try](https://open.spotify.com/track/3mXiKyXnHvjeLHg87CKoP2) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Try](https://open.spotify.com/album/1zZORYYv4dATo41BNEAuG2) | 3:57 | 2023-10-13 | 2023-10-23 |
 | [try again](https://open.spotify.com/track/0S09s70YzPQOKChK4ybdMZ) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [try again](https://open.spotify.com/album/5mB0WqDGxpdEvhvEgZlUOL) | 4:14 | 2023-03-03 | 2023-04-09 |
 | [Try Better Next Time](https://open.spotify.com/track/2ljf8Xlq7eD1oM9rCnIJxt) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Try Better Next Time](https://open.spotify.com/album/0oCcVs5cf99dBrjkeArXku) | 3:07 | 2022-01-14 | 2022-02-12 |
 | [Try Try Try](https://open.spotify.com/track/5RIVwMLtGIriw8JS73Fleg) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Leave The Light On](https://open.spotify.com/album/71yW0rxm0PtKpgdCHJabyY) | 4:51 | 2022-04-01 | 2022-04-23 |
@@ -1779,7 +1780,8 @@
 | [Up Against It](https://open.spotify.com/track/4cwhDJiQ3vhbcxOapza2MB) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Up Against It](https://open.spotify.com/album/5qpNqPxwizc4AKeVjAPPpD) | 3:06 | 2023-01-20 | 2023-02-18 |
 | [Up and Comer](https://open.spotify.com/track/0yMfUaFL7LDT38c648msAM) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Up and Comer](https://open.spotify.com/album/4auUOEEMRz5Uox3n79ip6M) | 3:46 | 2023-09-11 | 2023-10-21 |
 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 | 2022-02-18 | 2022-05-20 |
-| [Upside Down](https://open.spotify.com/track/4evQcauyfeqJDYM6RT60Hr) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [Upside Down](https://open.spotify.com/album/2fhkx9t9afX0tBcxNHPjLh) | 2:43 | 2023-08-18 |  |
+| [Upside Down](https://open.spotify.com/track/4evQcauyfeqJDYM6RT60Hr) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [Upside Down](https://open.spotify.com/album/2fhkx9t9afX0tBcxNHPjLh) | 2:43 | 2023-08-18 | 2023-10-23 |
+| [Upside Down](https://open.spotify.com/track/7py3WSQjmnNIqiUilccpg3) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [Face For The Radio](https://open.spotify.com/album/1wMbTB7IKFwlLS3ELUVBH1) | 2:43 | 2023-10-20 |  |
 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:05 | 2022-10-07 | 2022-11-19 |
 | [Ur Mum](https://open.spotify.com/track/4ug5wsIcbAPBun8TCKn2t6) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:21 | 2022-04-08 | 2022-05-28 |
 | [USA](https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [USA](https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG) | 1:38 | 2023-09-15 | 2023-10-07 |

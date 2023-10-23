@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 con Feid getting us in our feels this week \ud83d\udc9a ",
-  "num_followers": 761731,
+  "num_followers": 761736,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzNmMTkwNjU1ZTU5MGRlNWU2Y2VkYmE5ZjZlNTQzN2Q3NmRkZDdh",
+  "snapshot_id": "MCw1MjQyZGY5MzcwMjY1OWE0ODM2MjAzYWVlZGIzY2Y2YzAyMmI5NTg4",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Venus & Blue",
+        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 190679,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Young In California",
         "url": "https://open.spotify.com/album/1reYO7vImj6L4ZshyK9qZP"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Venus & Blue",
-        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 190679,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "egodeath",
         "url": "https://open.spotify.com/album/4ryLP6ODKCP7I0uG9gjnjU"
       },
@@ -703,6 +703,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Tu Camisa",
+        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Shantty",
+          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+        }
+      ],
+      "duration_ms": 188139,
+      "name": "Tu Camisa",
+      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "SOL",
         "url": "https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj"
       },
@@ -715,22 +735,6 @@
       "duration_ms": 169000,
       "name": "SOL",
       "url": "https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Canto a la Imaginaci\u00f3n",
-        "url": "https://open.spotify.com/album/3rR9YROCAzy8a7NzbNZt9H"
-      },
-      "artists": [
-        {
-          "name": "Marina Tuset",
-          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
-        }
-      ],
-      "duration_ms": 181413,
-      "name": "Canto a la Imaginaci\u00f3n",
-      "url": "https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV"
     }
   ],
   "unique_name": "Mixto",

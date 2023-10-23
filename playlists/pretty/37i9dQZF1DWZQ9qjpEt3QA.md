@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,843 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,859 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 52 | [discohaze](https://open.spotify.com/track/7x7CRaBCFtmKFAbc9N3iwx) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [no\-vacancy](https://open.spotify.com/album/5DrKVvCMN1ail6mAmnobXq) | 3:18 |
 | 53 | [Manila](https://open.spotify.com/track/74IGeughWZR1GnipPWuKoB) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Manila](https://open.spotify.com/album/0aj0Z3Z8NnVg7gmdXKtGNO) | 3:35 |
 | 54 | [Groovin \(feat\. Jue\)](https://open.spotify.com/track/6U3c49IZbXVJopmisWnSnS) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Groovin \(Feat\. Jue\)](https://open.spotify.com/album/6oTEsDbZevj1Q0XJIMPlwk) | 3:22 |
-| 55 | [都市爬行](https://open.spotify.com/track/6qram8pcVilZUa5P2Zx0oG) | [力臻](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [都市爬行](https://open.spotify.com/album/0Xd99sbVdjE8Ep1VpnGx3S) | 4:04 |
+| 55 | [都市爬行](https://open.spotify.com/track/6QF0AjR4gtQjpeZhf9s81v) | [力臻](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [Legend 1980](https://open.spotify.com/album/7GvxIxq9KFEQvDTs50rufn) | 4:04 |
 | 56 | [Dan Bila \- 80'S Version](https://open.spotify.com/track/5lev02UnV726JTgVEfgudy) | [Mondo Gascaro](https://open.spotify.com/artist/6x92tfaXHuPBctPxrfTeMY), [Pablo Cikaso](https://open.spotify.com/artist/6TbuyXmFnfO8OvW0KrhIKS) | [Dan Bila \(80'S Version\)](https://open.spotify.com/album/6A48UOi3IqLK6R3S8TcQc2) | 8:36 |
 | 57 | [불을 밝혀줘 Give Me The Light](https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [선데이서울 Ep.1 Sunday Seoul Ep.1](https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V) | 3:10 |
 | 58 | [Have You Ever](https://open.spotify.com/track/6lMcbUMHMDkGCiuj8Dm5BL) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Have You Ever](https://open.spotify.com/album/5Zc4mgLhFNdsjzqeIdPvIv) | 3:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 74 | [LAVLA](https://open.spotify.com/track/5RiDkhVXWyMlh51wSGV8tU) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [LAYERS](https://open.spotify.com/album/1DS9Xblo2wodlneXD9nXYw) | 3:58 |
 | 75 | [The One](https://open.spotify.com/track/3ToRoy9OQHoiz662kJvTTu) | [Purples n' Oranges](https://open.spotify.com/artist/2TmqQRA5s51zD2C4zbiqPq) | [The One](https://open.spotify.com/album/1mHIev96eFTEdby7dAoT67) | 5:18 |
 
-Snapshot ID: `MCw4MTNkYTEyZmQ0MzM3ZTFlMTRhZmY3NjNhNzhlZTljYWJmNjIzNTFi`
+Snapshot ID: `MCw0MGYxZjUyMDY4ZmQ4MDBhZDVjOWU0MzY1ZjBhMDg4YTIxNWU1NWMw`

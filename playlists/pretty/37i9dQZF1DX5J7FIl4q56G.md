@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: The Callous Daoboys
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,776 likes - 62 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,881 likes - 62 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 24 | [Still Dreaming](https://open.spotify.com/track/12rdCy6mfXy7vwU1GN8Slk) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Still Dreaming](https://open.spotify.com/album/4s9PEviBVvvWwk35bJOWcW) | 3:34 |
 | 25 | [Enemy List](https://open.spotify.com/track/3Xrf4ywjVcDhCEEXSHZE2y) | [Dymytry](https://open.spotify.com/artist/74jZjGsZ4aBEZbtrvytbIZ) | [Enemy List](https://open.spotify.com/album/3Cv038EWoHx7IqyS6Kjb8E) | 4:40 |
 | 26 | [Of Course I Still Love You](https://open.spotify.com/track/6R0CR57ZXuavpJ0DsOT8Nu) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [How's The Heart?](https://open.spotify.com/album/2jpIYGOmQAMdH3jmT4x7bJ) | 3:58 |
-| 27 | [Daruma \(feat\. Arjen Anthony Lucassen\)](https://open.spotify.com/track/05dd9knBtlukM9lDlAF3Eu) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J), [Arjen Anthony Lucassen](https://open.spotify.com/artist/0EB6qOap6h8OJSEswOv8y5) | [Daruma](https://open.spotify.com/album/1E5EC74Q8LbJBWS6jPoln0) | 4:23 |
+| 27 | [Daruma \(feat\. Arjen Anthony Lucassen\)](https://open.spotify.com/track/3CIMn48czjGDiud73XSAP4) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J), [Arjen Anthony Lucassen](https://open.spotify.com/artist/0EB6qOap6h8OJSEswOv8y5) | [Hermitage \- Daruma's Eyes Pt\. 2](https://open.spotify.com/album/0BPeqJ9qdWKaWgnPuDHw6V) | 4:23 |
 | 28 | [Mare's Nest](https://open.spotify.com/track/3jgqrsscBJ2WA67IL11cmi) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c) | [Mare's Nest](https://open.spotify.com/album/0u8hC9iFtOE2fuV5WVo32M) | 3:25 |
 | 29 | [Hellbirds](https://open.spotify.com/track/2U72WcsoIurnXk2dPBMqKX) | [Rivers of Nihil](https://open.spotify.com/artist/3UJmyt9ApeZTmOlMvBNGLN) | [Hellbirds](https://open.spotify.com/album/3EXJcYYzCFx3m4ankVY5OY) | 4:34 |
 | 30 | [Mean Str](https://open.spotify.com/track/3CwC1gYH1IRhqn2RYIGIZW) | [Dog Eat Dog](https://open.spotify.com/artist/3K6gIioKTRy1TWaoJlHMgx) | [Free Radicals](https://open.spotify.com/album/6sO4Dam8ZqBUONSOuRiqWe) | 3:23 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 61 | [The Horde](https://open.spotify.com/track/3nVDyoqaBuQ14AsAVvctCt) | [Wratheon](https://open.spotify.com/artist/2gHr1QhqdYhG5xikeSjHXm) | [Becoming Nil](https://open.spotify.com/album/1JPits7XjUaEaymRI918IE) | 2:49 |
 | 62 | [Lost in Chaos](https://open.spotify.com/track/6MZO58CQWrw6C6XjRM50U2) | [FHORCE](https://open.spotify.com/artist/1LN7EN8sPFrm2tMtRtdYTr) | [Lost in Chaos](https://open.spotify.com/album/4WVDlcOJpN6XkdQHmwSVZ5) | 3:51 |
 
-Snapshot ID: `MCwxY2M2MzkyYzEwODhhNjI3Yjg3YWFmY2Q0NmViOWM4MGQxYzhmN2Q0`
+Snapshot ID: `MCw3OTRmN2ZiZTQwODdmMTE5ZmU2NDdkMGU1ZDdlZGYwNjU4ODZjMjk4`

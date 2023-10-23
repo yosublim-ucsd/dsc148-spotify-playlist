@@ -70,7 +70,7 @@
       ],
       "date_added": "2018-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 136960,
       "name": "Adi\u00f3s Mundo Cruel",
       "url": "https://open.spotify.com/track/4GV6b8JkbtEwOsndEw3478"
@@ -272,6 +272,28 @@
       "duration_ms": 141920,
       "name": "Anoche me enamor\u00e9 - Tonight I Fell in Love",
       "url": "https://open.spotify.com/track/49xbG7WdbAKqH2R1qb4Zy0"
+    },
+    {
+      "album": {
+        "name": "El Incre\u00edble Enrique Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/0M7RJ9iPlraVp71heibBWB"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        },
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "date_added": "2018-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145813,
+      "name": "Anoche No Dorm\u00ed",
+      "url": "https://open.spotify.com/track/5xvwLuxrgyxOVXKgikb8rJ"
     },
     {
       "album": {

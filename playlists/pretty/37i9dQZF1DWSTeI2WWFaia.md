@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Earl Sweatshirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,617,349 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,362 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 36 | [Based On True Events, Pt\. 2](https://open.spotify.com/track/6VIF7IamWzKuMlEcW6Bmw8) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:14 |
 | 37 | [Flow](https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8) | [Jourden](https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u) | [Flow](https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc) | 2:42 |
 | 38 | [RIP Tracy \(feat\. Earl Sweatshirt & billy woods\)](https://open.spotify.com/track/2IUJBpKPp9jW3p2d4EbkmB) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [Flying High](https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz) | 3:38 |
-| 39 | [Dangerous Daringer](https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Dangerous Daringer](https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI) | 4:09 |
+| 39 | [Phoenix](https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Phoenix](https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j) | 3:33 |
 | 40 | [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 |
-| 41 | [Phoenix](https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Phoenix](https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j) | 3:33 |
+| 41 | [Dangerous Daringer](https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Dangerous Daringer](https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI) | 4:09 |
 | 42 | [Making The Band \(Danity Kane\)](https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Making The Band \(Danity Kane\)](https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr) | 1:45 |
 | 43 | [ALL 4 YOU](https://open.spotify.com/track/6PTEIszOGU733zIulViPjo) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [TEXAS BOY](https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH) | 2:54 |
 | 44 | [Bless \(feat\. MIKE & Sideshow\)](https://open.spotify.com/track/2iPfam65gH9PWFplrBXwDW) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Sideshow](https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC) | [Flying High](https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz) | 2:59 |
 | 45 | [beauty supply](https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 3:13 |
 | 46 | [FromTheProjects \(feat\. Raekwon & Westside Gunn\)](https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY) | [Nappyhigh](https://open.spotify.com/artist/4MnQuPFIfAFg50h0RmnH0q), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [FromTheProjects \(feat\. Raekwon & Westside Gunn\)](https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB) | 2:35 |
-| 47 | [Mop](https://open.spotify.com/track/1zzr2hAl79SS4tGUrrDZGh) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Patience](https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI) | 2:48 |
-| 48 | [Passion](https://open.spotify.com/track/6oVLxrogWL86DNet6SR6y2) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg) | [Passion](https://open.spotify.com/album/3AFkefqinn7Jz7DuvuvLoe) | 3:05 |
+| 47 | [Passion](https://open.spotify.com/track/6oVLxrogWL86DNet6SR6y2) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg) | [Passion](https://open.spotify.com/album/3AFkefqinn7Jz7DuvuvLoe) | 3:05 |
+| 48 | [Mop](https://open.spotify.com/track/1zzr2hAl79SS4tGUrrDZGh) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Patience](https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI) | 2:48 |
 | 49 | [Burning Desire](https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 1:48 |
 | 50 | [SINCE ELEMENTARY](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [SINCE ELEMENTARY](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 |
 
-Snapshot ID: `MCwwNWUxNWNiM2E1NmEwY2VjMDg0NjBiYTE4MTg5OWY2NzY2M2RmZDNl`
+Snapshot ID: `MCxmN2NlMDc5NGYzMWMwZWNlNGJhNDg1MGYyOGRmMTUxOGMzM2Y1MDQ2`

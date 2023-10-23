@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=pdat4ZEbS9GP1JuDOOI\_TQ"> Wakadinali </a>
 
-162 songs - 8 hr 19 min
+163 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Dice](https://open.spotify.com/track/5SJxfCadODTEdgO9ooKOmR) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ), [Topmali180](https://open.spotify.com/artist/6MrIAMGDktCB2Gib8xcWSV) | [Dice](https://open.spotify.com/album/78nK71bAefWTNdu7mXmdcG) | 2:31 | 2022-07-14 | 2023-04-21 |
 | [Digdat](https://open.spotify.com/track/0gDRCCJF7ywar5zq3Qrv56) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 4:02 | 2022-11-10 | 2023-06-12 |
 | [Digdat](https://open.spotify.com/track/6PU0d8bb9HDNcqaxBxFtnH) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Biggs \(Deluxe\)](https://open.spotify.com/album/0YLs1izGnml8piMRUGJhN7) | 4:11 | 2023-06-08 |  |
-| [Doing It Major](https://open.spotify.com/track/5SWH1zFKXIwNL50sStm7Ei) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Doing It Major](https://open.spotify.com/album/6LhgJz1N20khvZ9P45nqFN) | 3:11 | 2022-07-07 |  |
+| [Doing It Major](https://open.spotify.com/track/02gLLzsm3zUbungGVvfM2l) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Doing It Major](https://open.spotify.com/album/3Gno0czuLunqcqV4RDFIif) | 3:11 | 2023-10-19 |  |
+| [Doing It Major](https://open.spotify.com/track/5SWH1zFKXIwNL50sStm7Ei) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Doing It Major](https://open.spotify.com/album/6LhgJz1N20khvZ9P45nqFN) | 3:11 | 2022-07-07 | 2023-10-23 |
 | [F Tz Rappers 1](https://open.spotify.com/track/3mQcfTWi1Y19wLLgYnW5EU) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [F Tz Rappers 1](https://open.spotify.com/album/6iX9AgvygO9yt0WzQMBbUF) | 2:55 | 2023-09-07 |  |
 | [Feelin' It](https://open.spotify.com/track/1KqtoMNOZbvsiB0K7ZWiHp) | [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Feelin' It](https://open.spotify.com/album/1tYGnwCO1uFu49hkYKK2nc) | 2:54 | 2022-06-16 | 2023-05-06 |
 | [FLEE.](https://open.spotify.com/track/29SlCViPGeON1K5cp0UoJ0) | [NAFFARiOH](https://open.spotify.com/artist/2m3MGtFtxBOff71bHXfeNi), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [FLEE.](https://open.spotify.com/album/4qpvD0IuSc7JV4MxCxozg4) | 2:48 | 2023-06-02 |  |

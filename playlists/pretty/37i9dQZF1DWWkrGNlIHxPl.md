@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Faouzia
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,821 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,839 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [THANK GOD](https://open.spotify.com/track/1o6JHLSAtNsIj8AgAvDxXX) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [WELCOME TO THE JUNGLE \(Deluxe\)](https://open.spotify.com/album/78c0MqaiVSdxo38fjv0vcp) | 3:30 |
 | 50 | [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 |
 
-Snapshot ID: `MCwwZmU1YWUxZjc5NTZiYmE5ODQ4ZTg2MmIzOWYzNDc4MGQ4YzQ0Y2Ex`
+Snapshot ID: `MCwwZTVkYzA0Y2Y5MDNhZmU4YjI1NDA4MmQ3NDczNGM2OTZiZDYwOWJm`

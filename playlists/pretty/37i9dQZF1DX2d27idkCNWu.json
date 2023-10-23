@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWNmMzMxN2QzNTlkMjkyNDBmMjY2MDg4NmEyZDM2Y2E0YzU4MmU4",
+  "snapshot_id": "MCw2NjU1YjdiNTc2ZDQyNDJkODkyY2Q1ZmE3MzA2NmU1MzgzYzcwYThk",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Espero Que N\u00e3o Dure (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2dmxASah4bRnBadFadPbXM"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Lopes",
-          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
-        },
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Espero Que N\u00e3o Dure - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2LipaKn124ClsUoFjCoQIJ"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Bad Memories (Acoustic)",
         "url": "https://open.spotify.com/album/4dF6QWuJKAhhnZcaql39La"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 141330,
       "name": "Bad Memories - Acoustic",
       "url": "https://open.spotify.com/track/38Z2ZEs6tW8D0AnM0AVSxP"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Espero Que N\u00e3o Dure (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2dmxASah4bRnBadFadPbXM"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Lopes",
+          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Espero Que N\u00e3o Dure - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2LipaKn124ClsUoFjCoQIJ"
     },
     {
       "added_at": "2023-10-13 03:00:00",

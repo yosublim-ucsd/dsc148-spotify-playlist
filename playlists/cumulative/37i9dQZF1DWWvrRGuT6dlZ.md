@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: Elaine, ICEBOX\. Artwork: Isu Kim.
 
-542 songs - 1 day 5 hr 53 min
+543 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [ICE\-LEMON](https://open.spotify.com/track/027rTH7gb5WmEI1z67mL7t) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [Blank Canvas](https://open.spotify.com/album/6R7Pcj4kp69W8pjBVXu5if) | 1:52 | 2022-04-21 | 2023-03-10 |
 | [IDOL GIRL](https://open.spotify.com/track/21gR3WjgtzHcUrhm9GIT7Q) | [PRETTY HAVØC](https://open.spotify.com/artist/1LQJ1GBylFxJ6aPVtZ1UHX) | [IDOL GIRL](https://open.spotify.com/album/0BnTfrHYHowe5CUuGq10qL) | 2:15 | 2023-06-30 |  |
 | [idontwannabethe](https://open.spotify.com/track/0jjPD4rt4pZvICwbjhyR9b) | [Eevone](https://open.spotify.com/artist/5NJJStMLtyc5gj5ZvyBIAN) | [idontwannabethe](https://open.spotify.com/album/0kMHdM57qwri6AGfZc28PH) | 2:32 | 2022-11-10 | 2023-06-16 |
+| [idw2fil\(again\)](https://open.spotify.com/track/6CDMbMkBJB2sxdUHZHZQBE) | [KEAT](https://open.spotify.com/artist/5lzooGwfNsjMjk96wHkZJg) | [idw2fil\(again\)](https://open.spotify.com/album/0vkEZU3OwxCthhSlYfbeGY) | 2:49 | 2023-10-22 |  |
 | [If](https://open.spotify.com/track/6M9PJ2I7PsQO1lStofnM7p) | [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk) | [If](https://open.spotify.com/album/0lUgYsYVa9gS6jpIb5MxLc) | 3:26 | 2022-06-30 | 2022-09-23 |
 | [If I Told You](https://open.spotify.com/track/4FQcQxmFQiIlzRC04x8gOd) | [Tiara Maimun](https://open.spotify.com/artist/0YLCRlUQxyVLAlIlqU56SB) | [If I Told You](https://open.spotify.com/album/5oFEP7JTL8qC7aHnBd9etf) | 3:36 | 2021-12-01 | 2022-01-14 |
 | [If Only](https://open.spotify.com/track/408zWjjulyoRLOjkJAJuNn) | [Golden Mammoth](https://open.spotify.com/artist/4ILzCq6Jt8Ykmth9ZuLSqb) | [If Only](https://open.spotify.com/album/7LftLjfpAl3ifSeJv2UJTA) | 4:54 | 2023-09-14 |  |

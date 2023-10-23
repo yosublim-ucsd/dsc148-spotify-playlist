@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 132590,
+  "num_followers": 132705,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGI4NGY2YjE5YTIyZDkwOTE2YjJjYzkxNzgyMmU2NTg1NDM0OWQy",
+  "snapshot_id": "MCwzOGVhYTAyNDk2MTRhMDk1YjNmMTg3N2MzODk4MmNmN2FjZTEzYjU2",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -375,18 +375,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Reyli En La Luna",
-        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
+        "name": "Orgullo De Mujer",
+        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
       },
       "artists": [
         {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 203906,
-      "name": "La Descarada",
-      "url": "https://open.spotify.com/track/0GXGsFQeB1x5H21xjTF2j5"
+      "duration_ms": 243933,
+      "name": "Insensible A Ti (Me Pone A Mil)",
+      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -407,18 +407,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Orgullo De Mujer",
-        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
+        "name": "Reyli En La Luna",
+        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
         }
       ],
-      "duration_ms": 243933,
-      "name": "Insensible A Ti (Me Pone A Mil)",
-      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+      "duration_ms": 203906,
+      "name": "La Descarada",
+      "url": "https://open.spotify.com/track/0GXGsFQeB1x5H21xjTF2j5"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Hasta Ahora",
-        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Amor Real",
-      "url": "https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Alegrije",
         "url": "https://open.spotify.com/album/0Nmu9Wqf6bBvVzGlT5RejR"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 163626,
       "name": "Alegrijes y rebujos",
       "url": "https://open.spotify.com/track/2U0eZH4CmdPMcfUPqsMqae"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Hasta Ahora",
+        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Amor Real",
+      "url": "https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
-      },
-      "artists": [
-        {
-          "name": "Onda Vaselina",
-          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Te Quiero Tanto, Tanto - Versi\u00f3n de la Telenovela Mi Peque\u00f1a Traviesa",
-      "url": "https://open.spotify.com/track/1ycO3Iw4g67JBasAGdYVb7"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Super #1's",
         "url": "https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 220613,
       "name": "Contra Viento Y Marea",
       "url": "https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
+      },
+      "artists": [
+        {
+          "name": "Onda Vaselina",
+          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Te Quiero Tanto, Tanto - Versi\u00f3n de la Telenovela Mi Peque\u00f1a Traviesa",
+      "url": "https://open.spotify.com/track/1ycO3Iw4g67JBasAGdYVb7"
     }
   ],
   "unique_name": "Telenovelas",

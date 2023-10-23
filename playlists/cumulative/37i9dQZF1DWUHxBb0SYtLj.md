@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Asteria
 
-758 songs - 1 day 14 hr 6 min
+759 songs - 1 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,8 @@
 | [In tutti i miei giorni](https://open.spotify.com/track/10bHsZXxPU471xfrmTpEtb) | [Benedetta](https://open.spotify.com/artist/43ROMYbGGklo29rDk1N9Xo) | [In tutti i miei giorni](https://open.spotify.com/album/4YiVQddLuzveAiLuSQSI6H) | 2:17 | 2023-02-09 | 2023-03-01 |
 | [Indisponibile all'amore](https://open.spotify.com/track/1PBcWh0LkCpYaNbFL8Mt0z) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe) | [Indisponibile all'amore](https://open.spotify.com/album/7Kk72gwo5vuJiwlsRzbT0j) | 3:04 | 2022-07-05 | 2022-10-07 |
 | [INIMAGINABLE](https://open.spotify.com/track/2xiUq4DBNxVgNEQWxrsNrV) | [Papiro](https://open.spotify.com/artist/6VTbDjpH8BvvgCtmKz2dPT) | [INIMAGINABLE](https://open.spotify.com/album/1E1odSqMKyhiSTBMs2GSiW) | 3:42 | 2023-04-04 | 2023-05-03 |
-| [INIZIAMO DALLA FINE](https://open.spotify.com/track/1FuzAUsfgMZtksOeZ46bOI) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [INIZIAMO DALLA FINE](https://open.spotify.com/album/2nYRgXrRiB6MPo98W41nF8) | 3:13 | 2023-09-06 |  |
+| [INIZIAMO DALLA FINE](https://open.spotify.com/track/0wgXuoJf3R07NjmaLBBB9Y) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR](https://open.spotify.com/album/2heGtnvVhJfT1j5Z3UpjCA) | 3:13 | 2023-10-05 |  |
+| [INIZIAMO DALLA FINE](https://open.spotify.com/track/1FuzAUsfgMZtksOeZ46bOI) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [INIZIAMO DALLA FINE](https://open.spotify.com/album/2nYRgXrRiB6MPo98W41nF8) | 3:13 | 2023-09-06 | 2023-10-23 |
 | [Interno N.6](https://open.spotify.com/track/57SBANqHenDufs98cl35Vl) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Interno N.6](https://open.spotify.com/album/3TBGbh3LTDNsCUMHWX766z) | 3:24 | 2022-07-05 | 2022-08-03 |
 | [Inutili](https://open.spotify.com/track/0dWShjFsO2nNMOt6QsuJo2) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Inutili](https://open.spotify.com/album/47sEfTh9JmJBUsgpQHYobp) | 3:28 | 2022-11-01 | 2022-12-01 |
 | [io e te](https://open.spotify.com/track/4KPiQ1bm98dOBgFdGHy1rz) | [claro](https://open.spotify.com/artist/0APvLMkrmJV6BSKJWoy3Jz), [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [io e te](https://open.spotify.com/album/6DIgwO37YLRsH378Zx8C1i) | 2:56 | 2023-01-03 | 2023-02-09 |

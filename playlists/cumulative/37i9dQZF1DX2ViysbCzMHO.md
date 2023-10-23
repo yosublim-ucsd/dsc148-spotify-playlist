@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-259 songs - 14 hr 7 min
+260 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Cool \- Acoustic](https://open.spotify.com/track/1q1pEif83MuO9ViKMY3jax) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Cool \(Acoustic\)](https://open.spotify.com/album/4HEV60QmHXJmehJuR79SJe) | 3:24 | 2021-12-17 | 2022-07-29 |
 | [Coulda Loved You Longer \- Acoustic](https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Barstool Whiskey Wonderland \(Wonderland Sides\)](https://open.spotify.com/album/1VpOY5cZtzPWFnv4W7UBeq) | 3:05 | 2023-04-21 | 2023-08-22 |
 | [Cowboy Forever \(Acoustic Version\)](https://open.spotify.com/track/0NWLt71QlmsCPEgLF2NSMS) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Cowboy Forever \(Acoustic Version\)](https://open.spotify.com/album/06oFPRkliY6amtTA188tk8) | 2:50 | 2023-10-06 |  |
+| [Creek Will Rise \- Acoustic](https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Creek Will Rise \(Acoustic\)](https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z) | 2:51 | 2023-10-20 |  |
 | [Dirt Road \- Nashville Session](https://open.spotify.com/track/7HbRlzxSl4zjaY75QNJ169) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [The Nashville Sessions](https://open.spotify.com/album/5xkwEARs8kunLXWeEWglae) | 2:37 | 2022-12-09 | 2023-03-27 |
 | [Don't Come Lookin' \- Live Acoustic](https://open.spotify.com/track/0lkuEYkTZSSLqWOACTGO20) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Don't Come Lookin' \(Live Acoustic\)](https://open.spotify.com/album/77pg4C4XhSOYf2UJaKwpp6) | 3:35 | 2022-07-29 | 2022-10-02 |
 | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\) \- Acoustic](https://open.spotify.com/track/5WlaHL9HnkhRMrVkvsLcd5) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [The Album \(Acoustic\)](https://open.spotify.com/album/6HrXzPva9d1ucDAUO1lyS9) | 2:40 | 2021-12-17 | 2022-08-01 |
@@ -140,7 +141,7 @@
 | [Love Like I Drink](https://open.spotify.com/track/6T9waTBwi2sLjXP7TCbM65) | [Carter Winter](https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3), [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [Love Like I Drink](https://open.spotify.com/album/24iBC56uoPOCzQVXGupwcH) | 3:15 | 2021-12-17 | 2023-05-18 |
 | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/track/3nigSojrGL9YcS9RIt8X8U) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG) | 2:40 | 2023-04-21 | 2023-10-13 |
 | [Love Makes You Blind \- Acoustic Version](https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo) | 2:40 | 2022-02-18 | 2022-10-22 |
-| [Love You a Little Bit \- Acoustic](https://open.spotify.com/track/3US6yXTKKSH0NDTnfNCK13) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY STRIPPED](https://open.spotify.com/album/6NhhLm0vF7Wc4CLMBXpov7) | 3:34 | 2023-10-06 |  |
+| [Love You a Little Bit \- Acoustic](https://open.spotify.com/track/3US6yXTKKSH0NDTnfNCK13) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY STRIPPED](https://open.spotify.com/album/6NhhLm0vF7Wc4CLMBXpov7) | 3:34 | 2023-10-06 | 2023-10-23 |
 | [Loved Me That Way \(stripped\)](https://open.spotify.com/track/3vun63TsuIR6XBEqkuUaoL) | [Lauren Duski](https://open.spotify.com/artist/65Soberz2DNvbx2hrxHcx5) | [Loved Me That Way \(stripped\)](https://open.spotify.com/album/3fxgcZrlq630IxBTSacg7o) | 3:42 | 2021-12-17 | 2023-02-18 |
 | [Made \(Wedding Version\)](https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Made \(Wedding Version\)](https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA) | 3:35 | 2023-04-14 | 2023-08-05 |
 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 | 2021-12-17 | 2022-01-08 |

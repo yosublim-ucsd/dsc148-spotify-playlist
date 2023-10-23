@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-840 songs - 1 day 20 hr 29 min
+842 songs - 1 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Fall In Love](https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Fall In Love](https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET) | 2:23 | 2023-08-17 | 2023-09-09 |
 | [Faller](https://open.spotify.com/track/2ap9hdHdrR9QOiosR9vcwu) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr), [Simeon](https://open.spotify.com/artist/5R42oko4xV2U7uqlZXbzqk) | [Faller](https://open.spotify.com/album/0prJNOqGxgOhTVs52VUlFY) | 2:40 | 2021-12-16 | 2022-03-06 |
 | [Faller](https://open.spotify.com/track/5HhWunSVvHtEGoYYrFobvK) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Faller](https://open.spotify.com/album/4KG76mDkkFzMeKhSPgColG) | 3:53 | 2022-02-17 | 2022-05-12 |
+| [Faller lågt](https://open.spotify.com/track/084ybk6C8yqXeywfJzOlcM) | [Ellen Bergelin](https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ) | [Faller lågt](https://open.spotify.com/album/6CicQWy2IYtoeEG3rgnjiH) | 2:15 | 2023-10-20 |  |
 | [Faller tillbaks](https://open.spotify.com/track/7p1kRbPVjeXLSFk3ZFKlyH) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Moa Michaeli](https://open.spotify.com/artist/3L0guCaIo8WSeLTgBJHRsc) | [Faller tillbaks](https://open.spotify.com/album/17dugdiTQctuhzPaPAEeYb) | 2:48 | 2021-12-16 | 2022-03-11 |
 | [Faller vi tillbaka](https://open.spotify.com/track/2h2EYn1y3oEmQzMp4LcRVc) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Faller vi tillbaka](https://open.spotify.com/album/1YWpzv7Xwa44VksvzyTHQG) | 3:51 | 2021-12-16 | 2022-01-14 |
 | [Falling](https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Falling](https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx) | 3:38 | 2023-08-31 |  |
@@ -552,7 +553,7 @@
 | [Owe You](https://open.spotify.com/track/3JYUzjSvKi2StnQApd5YnD) | [Shadi G](https://open.spotify.com/artist/2vi2Nl9GZnMiCFxdlLT98D), [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Owe You](https://open.spotify.com/album/18hdjoechcQD4ddgF65NDw) | 3:22 | 2022-06-16 | 2022-06-20 |
 | [Painkiller](https://open.spotify.com/track/2CGSIAkgrchoFLl4YWS4ob) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Painkiller](https://open.spotify.com/album/2Ycb3yb7yRlTLuzZsf32AU) | 2:53 | 2022-04-28 | 2022-06-21 |
 | [Pathetic](https://open.spotify.com/track/6Yn2eNxg8npo6Pgcq8UsMv) | [Fibes, Oh Fibes!](https://open.spotify.com/artist/0MGJBcGDyvsk2Qczlmvx8W) | [Pathetic](https://open.spotify.com/album/2t0Nh8aldfMsfg4dEuYmxO) | 3:57 | 2022-04-01 | 2022-07-27 |
-| [Peak of life](https://open.spotify.com/track/2PwaDY6hpMwb1RZCb10Gkf) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Peak of life](https://open.spotify.com/album/4ox2lFM7CKQLoVMYm04F59) | 2:22 | 2023-10-19 |  |
+| [Peak of life](https://open.spotify.com/track/2PwaDY6hpMwb1RZCb10Gkf) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Peak of life](https://open.spotify.com/album/4ox2lFM7CKQLoVMYm04F59) | 2:22 | 2023-10-19 | 2023-10-23 |
 | [Pengar](https://open.spotify.com/track/2qqbehBMkoYX7mxEVP8q9i) | [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1) | [Hydra / Pengar](https://open.spotify.com/album/7FkFLq0d78ZsWvwzOpaKzz) | 3:36 | 2021-12-16 | 2022-03-10 |
 | [Piller](https://open.spotify.com/track/3xZ690zBbgyUX7vwZhCrQv) | [Klara & Jag](https://open.spotify.com/artist/2X2m34XTofjWhhW0Wnya5k) | [I stadens famn](https://open.spotify.com/album/6QKW1QYSFKgwGD0ajHRvNm) | 3:20 | 2022-05-12 | 2022-07-23 |
 | [Piller](https://open.spotify.com/track/5O7wcEKtYa8T7aAPPYEK4B) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Piller](https://open.spotify.com/album/4e12w2ks3KmvLjodwRN7W1) | 3:48 | 2021-12-16 | 2022-02-19 |
@@ -694,7 +695,7 @@
 | [Sunny Days](https://open.spotify.com/track/53sdGp5FZgcpVsg5NPbbiL) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [sometime/Sunny Days](https://open.spotify.com/album/5qWgpA67k7vP42pW2RtHmd) | 4:03 | 2022-03-10 | 2022-04-25 |
 | [Sunny Philadelphia](https://open.spotify.com/track/2fXbCD1qSnIG0qbBooXgSU) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Mercedes](https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS) | 3:15 | 2023-10-19 |  |
 | [Sunshine](https://open.spotify.com/track/7ApIjBn1tqOyof0zvVX7CY) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Sunshine](https://open.spotify.com/album/0wOtQE4XS0U9DPwCFram7H) | 3:41 | 2022-09-15 | 2023-01-27 |
-| [Sunshine Trippin'](https://open.spotify.com/track/3Zvi71vJCbrGOBaYk2Bcp4) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Sunshine Trippin'](https://open.spotify.com/album/7wb8fuayEYDBAQrBYO0KSp) | 3:10 | 2023-10-19 |  |
+| [Sunshine Trippin'](https://open.spotify.com/track/3Zvi71vJCbrGOBaYk2Bcp4) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Sunshine Trippin'](https://open.spotify.com/album/7wb8fuayEYDBAQrBYO0KSp) | 3:10 | 2023-10-19 | 2023-10-23 |
 | [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 | 2023-05-18 | 2023-07-07 |
 | [Superhero ideal \(Pantamera\)](https://open.spotify.com/track/2wxY4U8FtNGHE6fAq6ZY3c) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Superhero ideal \(Pantamera\)](https://open.spotify.com/album/4k49gyiAbRVYsRp3ja9Vzx) | 2:39 | 2022-04-07 | 2022-07-19 |
 | [Superstar](https://open.spotify.com/track/0TjldtyoH2js24XQEu8S4M) | [Bianca Ingrosso](https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa) | [Superstar](https://open.spotify.com/album/1Y5wr6hHJ8Q9ZSlDqaMku5) | 3:10 | 2023-05-19 | 2023-10-20 |
@@ -756,6 +757,7 @@
 | [Touch Yourself](https://open.spotify.com/track/4ycqkyaLSmck669TSsYwqf) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Best You've Ever Had](https://open.spotify.com/album/0BpjvQJqOL7eXISjVFdRVe) | 2:58 | 2021-12-16 | 2022-04-02 |
 | [Tracksuit Pants](https://open.spotify.com/track/7HeuUU0RhWiBDslwL8Py6z) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Tracksuit Pants](https://open.spotify.com/album/6ShzJzQ6B0DFHZZkKG4y6G) | 2:59 | 2023-09-21 |  |
 | [Trip](https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Trip](https://open.spotify.com/album/5qirpX94upVMrdr43t4HYC) | 2:58 | 2022-04-01 | 2022-04-21 |
+| [Träffa andra](https://open.spotify.com/track/12xfklEh742AncfxxkSIzY) | [Sebbe Hauta](https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z) | [Träffa andra](https://open.spotify.com/album/3dVduJktcL11MXUDkH6I9I) | 2:43 | 2023-10-20 |  |
 | [Tumbling Dice](https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Tumbling Dice](https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO) | 2:55 | 2023-06-22 |  |
 | [Turning Onto You](https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Turning Onto You](https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF) | 3:21 | 2022-09-29 | 2023-02-24 |
 | [Turning Onto You \- HNNY Remix](https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1), [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Turning Onto You \(HNNY Remix\)](https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2) | 3:30 | 2023-09-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,710 likes - 130 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,843 likes - 130 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 102 | [We Love Halloween](https://open.spotify.com/track/40WjfvGm7cMJHdElsDwAVG) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Boo! It's Halloween](https://open.spotify.com/album/6fWfpZA7c3puk13L7YfIt2) | 2:00 |
 | 103 | [Skeleton Inside!](https://open.spotify.com/track/5RYJpJXyhU4jxB5JPMKX7Q) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [Kooky Spooky..\. In Stereo!](https://open.spotify.com/album/1V2nJyNQSsEDRhP8xOOSDv) | 4:23 |
 | 104 | [This Is Halloween](https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:16 |
-| 105 | [The Simpsons Halloween Theme \- Halloween Party Mix](https://open.spotify.com/track/5VSPokYYDjEnXyG5mVTqBK) | [The Evolved](https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt) | [Halloween Fun and Games for Kids](https://open.spotify.com/album/7BB3XXoA8ilVktiW4Vn8zv) | 1:24 |
+| 105 | [The Simpsons Halloween Theme \(Halloween Party Mix\)](https://open.spotify.com/track/5VSPokYYDjEnXyG5mVTqBK) | [The Evolved](https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt) | [Halloween Fun and Games for Kids](https://open.spotify.com/album/7BB3XXoA8ilVktiW4Vn8zv) | 1:24 |
 | 106 | [Purple People Eater](https://open.spotify.com/track/4qfZboSJ2RvQ1L1f1FmV2q) | [Kids Beat](https://open.spotify.com/artist/1tZqDZy9Alk30gH9hHbBUe) | [10 Best Halloween Songs 4 Kids](https://open.spotify.com/album/7bo6w5NffPhxBu5sSHVSLB) | 2:14 |
 | 107 | [Chocolate](https://open.spotify.com/track/2Ur5ADNf6q89b3HsEiE9LU) | [Mil's Trills](https://open.spotify.com/artist/2FEJYbtk6YLtBXrTRUpIAj), [Amelia Robinson](https://open.spotify.com/artist/4OqIoFW3JcA73jTeS8bMVK) | [Everyone Together Now!](https://open.spotify.com/album/15zXp1K6Q2RlZxBhuBC9sK) | 3:38 |
 | 108 | [Monster Boogie](https://open.spotify.com/track/77gQppy2SLAQGqMB1LTXX9) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [The Best Of The Laurie Berkner Band](https://open.spotify.com/album/4XbuNhXriszF4L1V4mYBfV) | 1:19 |
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 118 | [Love Potion No\. 9](https://open.spotify.com/track/6cxhVMUVolU0x2LfSeUpGe) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Kids Bop to the Oldies](https://open.spotify.com/album/5rYazUsuP7KAhK4DSNwwyz) | 2:03 |
 | 119 | [Halloween Shark](https://open.spotify.com/track/1Pt4uDDVb4kl9BQngDohY3) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Baby Shark Special](https://open.spotify.com/album/32rfxYeHQua1OqWpmBEK90) | 1:35 |
 | 120 | [Trick or Treating](https://open.spotify.com/track/2SOaGHay97PK2gBrFsVirj) | [Maple Leaf Learning](https://open.spotify.com/artist/7jze83chqHoyro7onnZBx9) | [Spooky Spooky: Halloween Songs for Kids](https://open.spotify.com/album/6Vz0zRCj3cPc11lkzkhLBi) | 2:12 |
-| 121 | [Are You Afraid of the Dark Theme \- Halloween Party Mix](https://open.spotify.com/track/4DwlwNbUMKJvAFkc3dCVpZ) | [The Evolved](https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt) | [Halloween Fun and Games for Kids](https://open.spotify.com/album/7BB3XXoA8ilVktiW4Vn8zv) | 0:44 |
-| 122 | [Thriller \- Halloween Party Mix](https://open.spotify.com/track/243fOom6o8pnOPYmiCJCpd) | [The Evolved](https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt) | [Halloween Fun and Games for Kids](https://open.spotify.com/album/7BB3XXoA8ilVktiW4Vn8zv) | 5:30 |
+| 121 | [Are You Afraid of the Dark \(From "Are You Afraid of the Dark"\) \- Halloween Party Mix](https://open.spotify.com/track/6LFekuyzHrOOoAMHEhpICx) | [The Evolved](https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt) | [Kid's TV Themes \(30 Children's TV Classics New & Old\)](https://open.spotify.com/album/5MwKllUQqlGq1nlM1WvNQ9) | 0:44 |
+| 122 | [Thriller \(Halloween Party Mix\)](https://open.spotify.com/track/243fOom6o8pnOPYmiCJCpd) | [The Evolved](https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt) | [Halloween Fun and Games for Kids](https://open.spotify.com/album/7BB3XXoA8ilVktiW4Vn8zv) | 5:30 |
 | 123 | [I Want Candy \- 2022](https://open.spotify.com/track/41e2OiEDKLjKHnj0lX8elu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1) | 2:48 |
 | 124 | [It's Halloween](https://open.spotify.com/track/0UAxsfIlQZ1XK6RknnN5CE) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [It’s Halloween!](https://open.spotify.com/album/5iCbpallmqJEEdk6EpBVIJ) | 2:15 |
 | 125 | [Spooky Halloween Sounds](https://open.spotify.com/track/0FfgMJRnYNODbeiDdGnOwu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 4:58 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 129 | [Casper The Friendly Ghost](https://open.spotify.com/track/19GKm4dDOz44DRH3OycKJk) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [Bestest Kids Halloween Songs Ever](https://open.spotify.com/album/1xkWTua1mHxl3ZDP5E6VCm) | 1:22 |
 | 130 | [Witch Doctor](https://open.spotify.com/track/2Eyv5QwBHpWIJFOzIXKnm0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 2:25 |
 
-Snapshot ID: `MCxkM2M3NWRjMzBmZWY4NTNiMGEwY2ZjMTUwYzVmMDlmZjM4NTFiMzcx`
+Snapshot ID: `MCwzMGU3MDk2ZGRhNzMwYjMyY2U1YmUyNzNkZTA0OTBiM2Y4ZTk1OGJl`

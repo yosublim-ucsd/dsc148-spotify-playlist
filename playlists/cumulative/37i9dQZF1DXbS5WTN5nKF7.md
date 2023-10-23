@@ -2,7 +2,7 @@
 
 ### [Hit Radio](https://open.spotify.com/playlist/37i9dQZF1DXbS5WTN5nKF7)
 
-> Le meilleur des hits ! Photo : David Kushner
+> Le meilleur des hits ! Photo : Louane
 
 100 songs - 5 hr 16 min
 

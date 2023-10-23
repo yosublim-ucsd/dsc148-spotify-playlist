@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-101 songs - 5 hr 44 min
+102 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Muchuzi](https://open.spotify.com/track/4LAHC8YHdw0IEQZNDUagmD) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Kukaliba](https://open.spotify.com/album/306oZUKME7u2xQ9eIa5cdD) | 3:22 | 2022-06-06 | 2023-01-27 |
 | [Mukama Yamba](https://open.spotify.com/track/1IsHsqhe1ACEaGeJ4jsoHE) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Mukama Yamba](https://open.spotify.com/album/6jszbfelt6NdHu0ncj3cdy) | 4:04 | 2022-06-06 | 2023-02-17 |
 | [Mulisa Omusubbawa](https://open.spotify.com/track/5Efm581hRW2myabSJPwFba) | [Edrine Matovu](https://open.spotify.com/artist/27SQtyfntb31K4H9LJDiwd), [Aldo Onyango](https://open.spotify.com/artist/4q8WaPFlyXWb6wTmAI3uiI) | [Mulisa Omusubbawa](https://open.spotify.com/album/74YrNvBCHoit0jQ0ylTjxB) | 4:18 | 2022-06-24 | 2023-08-26 |
-| [Mutima Gwange](https://open.spotify.com/track/4F5cEnK9Y1ug0SzkcpDmtg) | [Hatim and Dokey](https://open.spotify.com/artist/5Ei5mLhGXCY5Js2qznqUVJ) | [Mutima Gwange](https://open.spotify.com/album/3FCIWqBEOuIKEzX791L8bk) | 3:22 | 2023-06-30 |  |
+| [Mutima Gwange](https://open.spotify.com/track/4F5cEnK9Y1ug0SzkcpDmtg) | [Hatim and Dokey](https://open.spotify.com/artist/5Ei5mLhGXCY5Js2qznqUVJ) | [Mutima Gwange](https://open.spotify.com/album/3FCIWqBEOuIKEzX791L8bk) | 3:22 | 2023-06-30 | 2023-10-23 |
 | [Muunda](https://open.spotify.com/track/2Ce8M6T6HihuA8m0I17GlZ) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX), [King Saha](https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa) | [Muunda](https://open.spotify.com/album/2ImbElVQUItrSNaWJB5VMG) | 3:34 | 2022-11-10 |  |
 | [Naawe](https://open.spotify.com/track/55GWIiAMNisTX5YLav9XuR) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ), [Artin](https://open.spotify.com/artist/0tTAQOHjHY6DXPHEuLCvQG) | [Naawe](https://open.spotify.com/album/08B4E8ScG8wygWm4iR5D9J) | 3:12 | 2023-09-07 |  |
 | [Naki](https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Kibunomu](https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp) | 2:46 | 2022-06-06 |  |
@@ -99,6 +99,7 @@
 | [Tebamanyi](https://open.spotify.com/track/1qcs9CDAWmO1bE3BQ6qAvn) | [Ancient Astronauts](https://open.spotify.com/artist/09JW90QIws2Z3H8hxL5fFN), [MoRoots](https://open.spotify.com/artist/7iLAy1NF90To847mXghSUQ) | [Zik Zak](https://open.spotify.com/album/5lKS2ToJ2YrL044VH6UnF1) | 3:45 | 2022-06-06 | 2022-07-26 |
 | [The Blue Dress Song](https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 3:12 | 2022-06-06 |  |
 | [Tingatsiga](https://open.spotify.com/track/3XmdY82JfJEEsCnOs1MqmP) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol), [Ssebo Lule](https://open.spotify.com/artist/55qMdpIT8tALCAi9A8Adea) | [Niwe Akeine](https://open.spotify.com/album/56P2WzBZ9fmYvRBC1ydNQE) | 2:43 | 2022-06-06 | 2023-04-01 |
+| [Tuli Ntinda](https://open.spotify.com/track/6dNDVtDIcHMd2270C8D53a) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4) | [Finally](https://open.spotify.com/album/4op9HIhvQr2iepCemQ5zxh) | 2:50 | 2023-10-20 |  |
 | [Type of Energy](https://open.spotify.com/track/2AW3jN08vW0zVDSmByMxfW) | [Atino](https://open.spotify.com/artist/4ArO64i3c0kRuFR9ofHisD) | [Type of Energy](https://open.spotify.com/album/2gzUw0OukOocj4QAzOdOap) | 3:08 | 2023-01-12 |  |
 | [Uber Guy.](https://open.spotify.com/track/2tOS1uu6AWw5Z2Y3gUq2WJ) | [J.C Muyonjo](https://open.spotify.com/artist/0BtGF4dneF1Jf95UKn8ZS9) | [Kidandali](https://open.spotify.com/album/6Fj6D9GAUoPGi30S4fvLMF) | 3:23 | 2022-06-06 | 2023-10-13 |
 | [VOICES](https://open.spotify.com/track/3mf0BEmSuDJKFvsOWzz3nT) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE), [peeta](https://open.spotify.com/artist/3hDGXEVK7HUHFfMTlUqgUI) | [VOICES](https://open.spotify.com/album/1G9Eh0VxBpqoryB8nhCVgX) | 2:54 | 2023-06-09 |  |

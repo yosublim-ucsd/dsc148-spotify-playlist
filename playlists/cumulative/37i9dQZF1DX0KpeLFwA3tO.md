@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: blink\-182
 
-1,397 songs - 2 day 21 hr 51 min
+1,398 songs - 2 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1279,7 +1279,8 @@
 | [Trickery](https://open.spotify.com/track/3lM0Wu9V9XRrWpVEfgDEmo) | [Yvet Garden](https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7) | [Trickery](https://open.spotify.com/album/2JQgahfERV5p0qJJ7J14ev) | 3:18 | 2022-11-18 | 2023-02-24 |
 | [Troglodyte](https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Troglodyte](https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG) | 3:19 | 2022-05-12 | 2022-07-01 |
 | [Truth Or Dare](https://open.spotify.com/track/025gicHQKtkMIFNpnZBak2) | [Carry The Crown](https://open.spotify.com/artist/6d45ZKjCEhvAXmnIAzKkQ8) | [Truth Or Dare](https://open.spotify.com/album/3sRZXTXvblTx6UrnijgTbl) | 2:52 | 2022-08-18 | 2022-09-30 |
-| [Try](https://open.spotify.com/track/3mXiKyXnHvjeLHg87CKoP2) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Try](https://open.spotify.com/album/1zZORYYv4dATo41BNEAuG2) | 3:57 | 2023-10-13 |  |
+| [Try](https://open.spotify.com/track/1isiUXaYArJVAFe2f6vRPt) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Some Of It Was True](https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ) | 3:57 | 2023-10-19 |  |
+| [Try](https://open.spotify.com/track/3mXiKyXnHvjeLHg87CKoP2) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Try](https://open.spotify.com/album/1zZORYYv4dATo41BNEAuG2) | 3:57 | 2023-10-13 | 2023-10-23 |
 | [Tu Non Ci Sei](https://open.spotify.com/track/5GnuaKvGbSf5ol4XcQbauc) | [Droppunkk](https://open.spotify.com/artist/6Eq3QanvTWmcrEMYO9vuae) | [Tu Non Ci Sei](https://open.spotify.com/album/1ogeSE6U5NGPAImUCow0pO) | 3:02 | 2023-04-07 | 2023-06-02 |
 | [Tunnel Vision Alibi](https://open.spotify.com/track/2nXRw3r7QhOAIiXmcH2lY6) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Divine Inner Tension](https://open.spotify.com/album/0FPyjINPmP3PgiQf1tHmRk) | 3:11 | 2023-08-10 | 2023-10-06 |
 | [Turn The Lights Off](https://open.spotify.com/track/758nO1KOUiGEjnkGZqDHNX) | [Try Again](https://open.spotify.com/artist/0qa6JDkoQvWpF0hhPFPBGr) | [Turn The Lights Off](https://open.spotify.com/album/0bHSiFQKxzzUlAHJIYoYt1) | 2:34 | 2023-08-24 | 2023-09-22 |

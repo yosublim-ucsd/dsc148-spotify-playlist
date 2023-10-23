@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "MENTERROTA",
+        "url": "https://open.spotify.com/album/4jl8ZsSkkKx2T5t8HNd2oG"
+      },
+      "artists": [
+        {
+          "name": "mario cyrus",
+          "url": "https://open.spotify.com/artist/17SI9H35F9VeNTvLqH1dx5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180211,
+      "name": "MENTERROTA",
+      "url": "https://open.spotify.com/track/2MYdg3KPg6xRdHZQmsJk57"
+    },
+    {
+      "album": {
         "name": "Primer C\u00edrculo (Limbo)",
         "url": "https://open.spotify.com/album/6HYlLpW7CEM5tYga53Y5Ty"
       },
@@ -2068,7 +2086,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 271448,
       "name": "Una Mierda (Autoremix) - Remix",
       "url": "https://open.spotify.com/track/5Fofw7TM0oUhkofttsnGxX"

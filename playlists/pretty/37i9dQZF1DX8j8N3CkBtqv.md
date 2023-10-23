@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Pratsofficial
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,706 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,733 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Tu Aazma](https://open.spotify.com/track/38CMq8hlI8zIzGbENBBG1P) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Tu Aazma](https://open.spotify.com/album/5ME4ICYbKFTTYDqclbINw6) | 3:18 |
 | 50 | [Reh Jaao Yahi](https://open.spotify.com/track/3WZDeTvLZ5C0w2vstW8PVL) | [Aryan Katoch](https://open.spotify.com/artist/4gAmleqQJI116NpfqkMxha) | [Reh Jaao Yahi](https://open.spotify.com/album/5av87cCAj1VWPRwAfk2ShG) | 3:00 |
 
-Snapshot ID: `MCxmYWEzYTNmMTQ0OTc2MzliYzhkYzEzODg1ZjM4OTM5NGQzYTA5MjQ0`
+Snapshot ID: `MCxhNTFjYTI2ZmM3NGU0YjdkZTY3ZmYzNGM5OTAxNTE2NmE3OTE4NDI4`

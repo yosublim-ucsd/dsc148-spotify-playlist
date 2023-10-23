@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,829 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,920 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 20 | [Sacred Blasphemy](https://open.spotify.com/track/35ftdglCpTUAjY5KEJ0vQI) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Sanguivore](https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2) | 2:53 |
 | 21 | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/track/5AzFP6taTTCZp0SU18jxpc) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/album/1dVLmx7MeskNv1bwe6MY8Y) | 3:56 |
 | 22 | [Identical Days](https://open.spotify.com/track/4hrptHq1WUVnUIsZpyt3YE) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Identical Days](https://open.spotify.com/album/519UtOzExBjOwddalv1eJL) | 3:04 |
-| 23 | [Try](https://open.spotify.com/track/3mXiKyXnHvjeLHg87CKoP2) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Try](https://open.spotify.com/album/1zZORYYv4dATo41BNEAuG2) | 3:57 |
+| 23 | [Try](https://open.spotify.com/track/1isiUXaYArJVAFe2f6vRPt) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Some Of It Was True](https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ) | 3:57 |
 | 24 | [Second Solution \- triple j Live at the Wireless 1998](https://open.spotify.com/track/71Ab6vKzlT8XYxR0HkSh0s) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [The Living End \(triple j Live at the Wireless 1998\)](https://open.spotify.com/album/5rHQ788x9MMwfTFYTbcI2T) | 4:50 |
 | 25 | [A Flair For Conclusions, Yet She'll Never Be Swan Queen](https://open.spotify.com/track/3p1pZmEemqIIqXKX7PpZwf) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Face For The Radio](https://open.spotify.com/album/1wMbTB7IKFwlLS3ELUVBH1) | 3:56 |
 | 26 | [Keep Your Mouth Shut](https://open.spotify.com/track/6MQQhRfedFeOUydGYXurNj) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [Keep Your Mouth Shut](https://open.spotify.com/album/2uf3cAx0kR27d4rZzDoIJ3) | 1:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [I Don’t Hate You](https://open.spotify.com/track/07EUiDdpkB8Zo5AZLzYDxU) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [I Don’t Hate You](https://open.spotify.com/album/3tWcMdxF1NBUvLplGZtnFV) | 3:04 |
 | 100 | [Stockholm Syndrome](https://open.spotify.com/track/6v05B04FBFqXPpYYP9oedP) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Stockholm Syndrome](https://open.spotify.com/album/3qEjfWQeyI7KED7GXGDujw) | 2:41 |
 
-Snapshot ID: `MCxmMTIxNjVkMWE4Y2UzNjlmMzMwYTg5MzM2N2IwNzE2NmU2NzA4ZDMy`
+Snapshot ID: `MCxkOGNlM2FjNDA5ZTJhMmQ3NGRiY2Q3MzZiMzg4NGY3MTM5OTA2MjAw`

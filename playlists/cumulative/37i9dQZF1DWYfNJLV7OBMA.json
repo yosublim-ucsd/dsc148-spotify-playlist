@@ -4730,6 +4730,32 @@
     {
       "album": {
         "name": "Pathu Senehe",
+        "url": "https://open.spotify.com/album/7zENKrqYboWq35F1ab0bAX"
+      },
+      "artists": [
+        {
+          "name": "Thilina Ruhunage",
+          "url": "https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn"
+        },
+        {
+          "name": "Kushani Sandarekha",
+          "url": "https://open.spotify.com/artist/5SKyDKN538iUcic8y38gGA"
+        },
+        {
+          "name": "Poorna Sachintha",
+          "url": "https://open.spotify.com/artist/6qv1RiuhjjYJ4AzTWhwZNt"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197908,
+      "name": "Pathu Senehe",
+      "url": "https://open.spotify.com/track/53pagTwB7dRX13H9N83C6t"
+    },
+    {
+      "album": {
+        "name": "Pathu Senehe",
         "url": "https://open.spotify.com/album/2zI0GPFNklCT170bOLHGF5"
       },
       "artists": [
@@ -4748,7 +4774,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 197908,
       "name": "Pathu Senehe",
       "url": "https://open.spotify.com/track/6KUWoAuTBI2cjyEQU3BGGA"

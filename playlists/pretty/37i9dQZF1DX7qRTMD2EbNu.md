@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  <a href="https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T?si=OM3vTCGWTP\-CdTqJ2D1Ing"> Reggie</a> and  <a href="https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac?si=oWJSpy8iSBmwCO8jeie\_tw"> Kofi Mole</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,649 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,674 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 64 | [Konongo Zongo](https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:41 |
 | 65 | [Bobo Shanti](https://open.spotify.com/track/5uu7YY4nUXdT4YT9yuj6Av) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Bobo Shanti](https://open.spotify.com/album/1Q6gcuBL0JZGuwp2T320wA) | 2:10 |
 
-Snapshot ID: `MCw4MDkzMjBjODIwMWI0M2Q4YWM2NDI3ZWUwMzVhNDQyMDNjZGYyY2Q3`
+Snapshot ID: `MCwyNmJhY2QwYzYxMmUxZjIzOTc2YmY2NGYyMmYyOTk0OTQxNjVlNjZi`

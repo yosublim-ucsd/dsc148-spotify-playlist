@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Skip The Use & Youv Dee
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,103 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,125 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 34 | [SNAKES](https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [SNAKES](https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk) | 3:11 |
 | 35 | [On My Mind](https://open.spotify.com/track/6BrXzU8dYbWBn1uOa3gfM8) | [HEY LIFE](https://open.spotify.com/artist/1MnMtr6vo41XzjwgRvD5wf) | [On My Mind](https://open.spotify.com/album/5Tc3N95b5Zg5u18ujeu1me) | 2:54 |
 | 36 | [Break Even](https://open.spotify.com/track/3hwf03RXLPEmAr4BqpOW40) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Break Even](https://open.spotify.com/album/5xXeXLLrzZG9WxcbXdV6se) | 6:10 |
-| 37 | [Baise tout seul](https://open.spotify.com/track/5TE991wFPT4dLTlkvgJthg) | [Princesses Leya](https://open.spotify.com/artist/5YunN7uZjy9Tgvds1IKSVT) | [Baise tout seul](https://open.spotify.com/album/3QFJWu9AxTJr7b930GRUQm) | 2:37 |
+| 37 | [Baise tout seul](https://open.spotify.com/track/02NcPv5dsj3fCDPyLDtdrc) | [Princesses Leya](https://open.spotify.com/artist/5YunN7uZjy9Tgvds1IKSVT) | [Big Bang Therapy](https://open.spotify.com/album/1suiY7lXk68pCXeJiXi9Yl) | 2:37 |
 | 38 | [Counting down the Days](https://open.spotify.com/track/0snV7BsW85mM3Y5J0f0rBN) | [Movement At Night](https://open.spotify.com/artist/3npdUd8ZD22EJkpwOG47fE) | [Failed By Choice](https://open.spotify.com/album/4ZpRjNZsXJIPdIcUO757RE) | 4:26 |
 | 39 | [Scatterbrain](https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Life Is Unfair](https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo) | 2:15 |
 | 40 | [The Bell Behind The Door \(Radio Edit\)](https://open.spotify.com/track/23wkntyHN3cKC7rcKZ6OCL) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [The Bell Behind The Door \(Radio Edit\)](https://open.spotify.com/album/2726pTdi2qf62oMoZaXLZq) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [SOLO](https://open.spotify.com/track/6Qq8s0eASiHcvgbzsMTTo6) | [Sunborn](https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS) | [SOLO](https://open.spotify.com/album/0HboLHFNlLE9YKjvaKzDQQ) | 3:41 |
 | 50 | [Born to Win](https://open.spotify.com/track/4fsVCgzknleqGFmV7WihCF) | [La Rosa](https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB) | [Born to Win](https://open.spotify.com/album/5DVy8NKNSeRGYIjH7rCftk) | 2:31 |
 
-Snapshot ID: `MCxmOWRiMTZmNWJiZWFiMzA5OGVjYzIyMTk0MWYyNGFhYmFmODUxYjAx`
+Snapshot ID: `MCxlNWE1M2NhZWIzYjM5NjJmMzcyNzA3ZmEzZDYwNDQxZTJjYWM4YzNh`

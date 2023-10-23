@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: RL Grime
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,694 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,709 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 36 | [Me and You](https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL) | [Champagne Drip](https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f), [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Me and You](https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb) | 3:46 |
 | 37 | [Anything](https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Anything](https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL) | 3:46 |
 | 38 | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y) | 4:14 |
-| 39 | [Fresh Outta Japan](https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a) | [Yasko](https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS) | [Fresh Outta Japan](https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i) | 1:56 |
+| 39 | [Jungle Juice](https://open.spotify.com/track/1VxQboO0KAsIm8MjSShBJv) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3), [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [Jungle Juice](https://open.spotify.com/album/3ZWcx0FGgPqxpxcQ87cuZM) | 4:34 |
 | 40 | [Stars Tonight](https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [We Are Deadbeats \(Vol\. 4\)](https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ) | 2:53 |
-| 41 | [Jungle Juice](https://open.spotify.com/track/1VxQboO0KAsIm8MjSShBJv) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3), [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [Jungle Juice](https://open.spotify.com/album/3ZWcx0FGgPqxpxcQ87cuZM) | 4:34 |
-| 42 | [Shiawase](https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Shiawase](https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d) | 3:37 |
-| 43 | [Reaper \(feat\. JID\)](https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Reaper \(feat\. JID\)](https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg) | 2:44 |
-| 44 | [Slow Burn](https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Elayna Boynton](https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv) | [The Return of House Music](https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS) | 4:04 |
+| 41 | [Shiawase](https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Shiawase](https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d) | 3:37 |
+| 42 | [Fresh Outta Japan](https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a) | [Yasko](https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS) | [Fresh Outta Japan](https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i) | 1:56 |
+| 43 | [Slow Burn](https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Elayna Boynton](https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv) | [The Return of House Music](https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS) | 4:04 |
+| 44 | [Reaper \(feat\. JID\)](https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Reaper \(feat\. JID\)](https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg) | 2:44 |
 | 45 | [Only Be Me](https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Only Be Me](https://open.spotify.com/album/18jDao69dC593MEAZheoyA) | 3:28 |
 | 46 | [The One \- NGHTMRE Remix](https://open.spotify.com/track/0z6BBM8lek2dzvnuIOX1Wx) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [The One \(The Remixes\)](https://open.spotify.com/album/1pZ4Bycse2Ck26SkSZHNGS) | 2:40 |
 | 47 | [Kaleidoscope \(Feat\. Crystalline\)](https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI) | [Champagne Drip](https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f), [Crystalline](https://open.spotify.com/artist/4NRLMX0IRHkm2qI1WFLxHZ) | [Starman](https://open.spotify.com/album/1ICtb6Z2tf7ZgVZy9VTp8Z) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 99 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 |
 | 100 | [Mumbai Mode](https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [PHASE III](https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo) | 2:58 |
 
-Snapshot ID: `MCxjYWI5MThlODQ0YWJiMDhjMjQ4OGNiNzA2ZTU2NGE1M2JlNTM2N2Zm`
+Snapshot ID: `MCwzODIxZWI0M2E1NTVhM2MwMTA1M2Y5ZTcxNzlhOGRiNDdmMGUzNTU1`

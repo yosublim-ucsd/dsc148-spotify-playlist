@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 32208,
+  "num_followers": 32260,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2M2NDE1MmY5YTYwYmYxODVlMWMxMzI2NjI1YzJjODYyZjIzM2Vj",
+  "snapshot_id": "MCw4YmM5NGU1MTEwYzcxYTY1M2FkNzQxYzExN2M2ZmE2ODA5M2VlNjdj",
   "tracks": [
     {
       "added_at": "2023-10-19 11:38:20",
@@ -479,6 +479,54 @@
     {
       "added_at": "2023-10-19 11:38:20",
       "album": {
+        "name": "Cool Heat",
+        "url": "https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "My Heart Belongs To Daddy",
+      "url": "https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT"
+    },
+    {
+      "added_at": "2023-10-19 11:38:20",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 119426,
+      "name": "Ace In The Hole",
+      "url": "https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad"
+    },
+    {
+      "added_at": "2023-10-19 11:38:20",
+      "album": {
+        "name": "Charlie Parker With Strings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 212386,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
+    },
+    {
+      "added_at": "2023-10-19 11:38:20",
+      "album": {
         "name": "Their Greatest Hits And Finest Performances",
         "url": "https://open.spotify.com/album/3GK2W9eAOQ6585VCGKvKkh"
       },
@@ -503,54 +551,6 @@
     {
       "added_at": "2023-10-19 11:38:20",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 119426,
-      "name": "Ace In The Hole",
-      "url": "https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad"
-    },
-    {
-      "added_at": "2023-10-19 11:38:20",
-      "album": {
-        "name": "Cool Heat",
-        "url": "https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "My Heart Belongs To Daddy",
-      "url": "https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT"
-    },
-    {
-      "added_at": "2023-10-19 11:38:20",
-      "album": {
-        "name": "Charlie Parker With Strings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 212386,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
-    },
-    {
-      "added_at": "2023-10-19 11:38:20",
-      "album": {
         "name": "Jeri Southern Meets Cole Porter",
         "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
       },
@@ -563,22 +563,6 @@
       "duration_ms": 170333,
       "name": "After You",
       "url": "https://open.spotify.com/track/7sIw0bLbI9sJuKVR5HojFE"
-    },
-    {
-      "added_at": "2023-10-19 11:38:20",
-      "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 153866,
-      "name": "I Am In Love - Remastered",
-      "url": "https://open.spotify.com/track/3NXL2cWfgMtADlnh4nLrp7"
     },
     {
       "added_at": "2023-10-19 11:38:20",
@@ -619,18 +603,18 @@
     {
       "added_at": "2023-10-19 11:38:20",
       "album": {
-        "name": "Great Songs From Stage And Screen",
-        "url": "https://open.spotify.com/album/4y6GJcsPLnYDEBtOF7sknV"
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
       "artists": [
         {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 221962,
-      "name": "Mind If I Make Love To You",
-      "url": "https://open.spotify.com/track/3GD3m29NcArkb0AjtdBwM8"
+      "duration_ms": 153866,
+      "name": "I Am In Love - Remastered",
+      "url": "https://open.spotify.com/track/3NXL2cWfgMtADlnh4nLrp7"
     },
     {
       "added_at": "2023-10-19 11:38:20",
@@ -651,6 +635,22 @@
       "duration_ms": 182466,
       "name": "You're The Top",
       "url": "https://open.spotify.com/track/6pdbfNeGcAkMkkVClm532h"
+    },
+    {
+      "added_at": "2023-10-19 11:38:20",
+      "album": {
+        "name": "Great Songs From Stage And Screen",
+        "url": "https://open.spotify.com/album/4y6GJcsPLnYDEBtOF7sknV"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "duration_ms": 221962,
+      "name": "Mind If I Make Love To You",
+      "url": "https://open.spotify.com/track/3GD3m29NcArkb0AjtdBwM8"
     },
     {
       "added_at": "2023-10-19 11:38:20",
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
         }
       ],
-      "duration_ms": 131173,
-      "name": "Where Oh Where",
-      "url": "https://open.spotify.com/track/5pbYO3CUlg89OiQajBRShr"
+      "duration_ms": 173840,
+      "name": "Looking at You",
+      "url": "https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH"
     },
     {
       "added_at": "2023-10-19 11:38:20",
@@ -1144,9 +1144,9 @@
           "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
         }
       ],
-      "duration_ms": 173840,
-      "name": "Looking at You",
-      "url": "https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH"
+      "duration_ms": 131173,
+      "name": "Where Oh Where",
+      "url": "https://open.spotify.com/track/5pbYO3CUlg89OiQajBRShr"
     },
     {
       "added_at": "2023-10-19 11:38:20",
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
         }
       ],
-      "duration_ms": 111306,
-      "name": "I Am Ashamed That Women Are so Simple",
-      "url": "https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ"
+      "duration_ms": 182400,
+      "name": "Use Your Imagination",
+      "url": "https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658"
     },
     {
       "added_at": "2023-10-19 11:38:20",
@@ -1224,9 +1224,9 @@
           "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Use Your Imagination",
-      "url": "https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658"
+      "duration_ms": 111306,
+      "name": "I Am Ashamed That Women Are so Simple",
+      "url": "https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ"
     },
     {
       "added_at": "2023-10-19 11:38:20",

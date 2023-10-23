@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Charli XCX
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,708 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,754 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 69 | [Girls Just Wanna Have Fun](https://open.spotify.com/track/24XAAZIbQriREBFYshbMxV) | [Carine](https://open.spotify.com/artist/5EADzWzO9nhqVZdNW7hrBi), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/7EIBCfvFJeDwPOIVn1FIq9) | 2:42 |
 | 70 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu) | 3:25 |
 
-Snapshot ID: `MCwwMDU2ZjE5NjE3ZTVkYjk1NWE3YjkyNDdkZGE4MmQ1NmU3MDJmZDYy`
+Snapshot ID: `MCw2OGRiNzlhOTU1MjliZmJmZjhiMTY2NTBmZjg1MDVmMzA1NTFjNDk0`

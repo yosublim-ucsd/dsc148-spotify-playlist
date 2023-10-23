@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=tV19pJIgSkSq1IjoAZtWIQ">Anendlessocean</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 167 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 695 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 69 | [ANGELS](https://open.spotify.com/track/5kjPddNRxO0H4DkKfaZjNl) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [ANGELS](https://open.spotify.com/album/3Inj7Hu0KzqT2VImIrnLpL) | 2:57 |
 | 70 | [Away](https://open.spotify.com/track/7KYlHeaju35sZ2hCyPATwd) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Away](https://open.spotify.com/album/5LSYEsjO78YbfwSTq04wYL) | 3:30 |
 
-Snapshot ID: `MCwzN2QyMTEyY2MzNTJlNmQ5M2Y2Zjg1Mjg1YWU2YjU3MTk4MTgyNmVk`
+Snapshot ID: `MCwxMWQxZWI4ZDZkMWYwOTdhMDE3NjRmMWU3ODRhZGM1ZDliODU3YTBl`

@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 53444,
+  "num_followers": 53448,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDE4MDYyN2Q3NTNhMmZiMDAwY2I2Njc3ZWFlZDMwYjA0M2U0YjI1",
+  "snapshot_id": "MCxlM2Q5OWFlOTA5OGIyNGFhMjdkNjJkOTAwZTJmZmUwMTQwMjQ1OGE4",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -271,22 +271,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "A Very Decent Christmas 4",
-        "url": "https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g"
+        "name": "I Wish (feat. Mabel) [Christmas Version]",
+        "url": "https://open.spotify.com/album/6c09xz3peTV2CvMv8Hzezy"
       },
       "artists": [
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
         }
       ],
-      "duration_ms": 193846,
-      "name": "Christmas Trees",
-      "url": "https://open.spotify.com/track/5QfF5xitFXtiqLBS3vdRkx"
+      "duration_ms": 200595,
+      "name": "I Wish (feat. Mabel) - Christmas Version",
+      "url": "https://open.spotify.com/track/6JfqJNzpto4mRuNBfL1prF"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -319,22 +319,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "I Wish (feat. Mabel) [Christmas Version]",
-        "url": "https://open.spotify.com/album/6c09xz3peTV2CvMv8Hzezy"
+        "name": "A Very Decent Christmas 4",
+        "url": "https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         },
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
         }
       ],
-      "duration_ms": 200595,
-      "name": "I Wish (feat. Mabel) - Christmas Version",
-      "url": "https://open.spotify.com/track/6JfqJNzpto4mRuNBfL1prF"
+      "duration_ms": 193846,
+      "name": "Christmas Trees",
+      "url": "https://open.spotify.com/track/5QfF5xitFXtiqLBS3vdRkx"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -727,22 +727,26 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/5maELdJVcuasTlrlY9fgUV"
+        "name": "Battle (Cause & Affect Jingle Bells Remix)",
+        "url": "https://open.spotify.com/album/4OQwvPvXZFW1G2RINQFkZ1"
       },
       "artists": [
         {
-          "name": "Eden Prince",
-          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+          "name": "Riddim Commission",
+          "url": "https://open.spotify.com/artist/6VEfh7l6OPJYzIO8vRsqo9"
         },
         {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Cause & Affect",
+          "url": "https://open.spotify.com/artist/6rrfw2MwiwpIMnA8pWj1UQ"
         }
       ],
-      "duration_ms": 167796,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2XmfGaH8F0OuElPwnovfDe"
+      "duration_ms": 157440,
+      "name": "Battle - Cause & Affect Jingle Bells Remix",
+      "url": "https://open.spotify.com/track/4WZ8F1vkdu0H0Ve98rv0gO"
     }
   ],
   "unique_name": "Electronic Christmas",

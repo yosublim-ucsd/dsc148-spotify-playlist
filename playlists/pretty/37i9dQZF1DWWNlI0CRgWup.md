@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : TIF
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,779 likes - 42 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,801 likes - 42 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 27 | [The Beast](https://open.spotify.com/track/5nE5gmDADdXZ3LwES22kYt) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [The Beast](https://open.spotify.com/album/3U9XwEP5Ia637qr6yX3578) | 4:35 |
 | 28 | [Triste fête](https://open.spotify.com/track/7lF4vYpokRbb9tdAq12tbx) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs \(Version deluxe\)](https://open.spotify.com/album/1UK0794RKtEfbCRhUV2yRj) | 3:40 |
 | 29 | [Celui qui part](https://open.spotify.com/track/3iJQzmcPnLrTC7WOQ2kYUt) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Celui qui part](https://open.spotify.com/album/2I7XAd8CHqNXmuIf6jUnMe) | 2:34 |
-| 30 | [C'est toi](https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [C'est toi](https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4) | 2:11 |
+| 30 | [C'est toi \- Bonus](https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [C'est toi \(Bonus\)](https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4) | 2:11 |
 | 31 | [Nature morte](https://open.spotify.com/track/5NEE9NJOdRrKPMhXFB0XFM) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Nature morte](https://open.spotify.com/album/1cHS4x8PaBByKNW0FPcrIy) | 2:11 |
 | 32 | [Tout ira mieux demain](https://open.spotify.com/track/1m4itVNI3P6yGSA3Ptni9P) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Intérieur Vie](https://open.spotify.com/album/3mnH4p3JR7XSuQoQGmbMnx) | 3:30 |
 | 33 | [Rue des Pervenches](https://open.spotify.com/track/3UcIv7IH3RFHKOVOAJEgiz) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Rue des Pervenches](https://open.spotify.com/album/1vULaCp3YiTYTzgUdPemW5) | 3:39 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 41 | [Docteur](https://open.spotify.com/track/0WoXJsM5EKwhYURKx3p1p2) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [La fin de la nuit](https://open.spotify.com/album/61B9Jgp1u9U46CUNIFOJfb) | 2:57 |
 | 42 | [Alcool Alcool](https://open.spotify.com/track/6wriPlx1qGGI7yOrtSGNvY) | [Gargäntua](https://open.spotify.com/artist/1ScFJG5ccOnTPPUin8cPFu) | [Immoral & Illégal](https://open.spotify.com/album/0KKgZIUwkhKV82olpr3QIU) | 3:53 |
 
-Snapshot ID: `MCwxODg4N2EwNmQwMmEyNmYyNGEzOTI3MTYyYWNkMmQ1NjA1NjU0NWFi`
+Snapshot ID: `MCxhNGQ0YjBiYzAxNWViNjhjMzBlMjc2MGUyM2QxNGFmN2ZjMGE1ZmQ1`

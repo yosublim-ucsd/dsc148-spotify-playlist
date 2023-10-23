@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGUwZGYzODJiOTE3YzMxZTViM2Q1OTk5NWI3OTdjMmRiNmRjMWMw",
+  "snapshot_id": "MCwwZmE4MTQ5ZjdiODQxZjBhODQ3MmM3NTVjMWI4OGQ0YTgxZmRhYTg2",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav"
-      },
-      "artists": [
-        {
-          "name": "Taylor Ellis",
-          "url": "https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY"
-        }
-      ],
-      "duration_ms": 151968,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Any Day Now",
         "url": "https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 153979,
       "name": "Those Nights",
       "url": "https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav"
+      },
+      "artists": [
+        {
+          "name": "Taylor Ellis",
+          "url": "https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY"
+        }
+      ],
+      "duration_ms": 151968,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Valle dei Templi",
-        "url": "https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM"
-      },
-      "artists": [
-        {
-          "name": "Amma Lerato",
-          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
-        }
-      ],
-      "duration_ms": 180070,
-      "name": "Valle dei Templi",
-      "url": "https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Broken Sky",
         "url": "https://open.spotify.com/album/0TnxaPHs6kY6CpS1kT1xun"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 157164,
       "name": "Broken Sky",
       "url": "https://open.spotify.com/track/6AIGjxyH4CnUfBXR8LHn0n"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Valle dei Templi",
+        "url": "https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "duration_ms": 180070,
+      "name": "Valle dei Templi",
+      "url": "https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e"
-      },
-      "artists": [
-        {
-          "name": "Amine Ortega",
-          "url": "https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc"
-        }
-      ],
-      "duration_ms": 192857,
-      "name": "Archetype",
-      "url": "https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Calisto",
         "url": "https://open.spotify.com/album/6v3xFIkiGK5BtXb6IyILMI"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 146935,
       "name": "Calisto",
       "url": "https://open.spotify.com/track/6J35jqkTjXsJz2SQhu3BVt"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e"
+      },
+      "artists": [
+        {
+          "name": "Amine Ortega",
+          "url": "https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "Archetype",
+      "url": "https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Fawns in Spring",
-        "url": "https://open.spotify.com/album/4Oo8SDRLkxG7KkMxlSjsOr"
-      },
-      "artists": [
-        {
-          "name": "Celia Cloten",
-          "url": "https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa"
-        }
-      ],
-      "duration_ms": 159926,
-      "name": "Fawns in Spring",
-      "url": "https://open.spotify.com/track/2C3ykZW6V8CFVEbBrSa0gK"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Meyehualco",
         "url": "https://open.spotify.com/album/5JO6noENoD4vyFxpfUWWZA"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 253297,
       "name": "Meyehualco",
       "url": "https://open.spotify.com/track/60TA1wktj8y67xnmyH0ISC"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Fawns in Spring",
+        "url": "https://open.spotify.com/album/4Oo8SDRLkxG7KkMxlSjsOr"
+      },
+      "artists": [
+        {
+          "name": "Celia Cloten",
+          "url": "https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa"
+        }
+      ],
+      "duration_ms": 159926,
+      "name": "Fawns in Spring",
+      "url": "https://open.spotify.com/track/2C3ykZW6V8CFVEbBrSa0gK"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1491,18 +1491,34 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/18wiVGkktOzfti1YGrhL9W"
+        "name": "Two Trees",
+        "url": "https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd"
       },
       "artists": [
         {
-          "name": "Maisy Anderson",
-          "url": "https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE"
+          "name": "Riverkin",
+          "url": "https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr"
         }
       ],
-      "duration_ms": 150961,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/533SnCwxVytF3viTF5kYql"
+      "duration_ms": 174216,
+      "name": "Evenings at Point Reyes",
+      "url": "https://open.spotify.com/track/2OZrAhYxb2v5ZCFGb7QrD6"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Viajando Solo",
+        "url": "https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij"
+      },
+      "artists": [
+        {
+          "name": "Joseph Gonzalez",
+          "url": "https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa"
+        }
+      ],
+      "duration_ms": 163923,
+      "name": "Viajando Solo",
+      "url": "https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Two Trees",
-        "url": "https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd"
-      },
-      "artists": [
-        {
-          "name": "Riverkin",
-          "url": "https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr"
-        }
-      ],
-      "duration_ms": 174216,
-      "name": "Evenings at Point Reyes",
-      "url": "https://open.spotify.com/track/2OZrAhYxb2v5ZCFGb7QrD6"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "tranquila",
         "url": "https://open.spotify.com/album/2SkyKZ3eE11Hyrg3E1BZZy"
       },
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Viajando Solo",
-        "url": "https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij"
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/18wiVGkktOzfti1YGrhL9W"
       },
       "artists": [
         {
-          "name": "Joseph Gonzalez",
-          "url": "https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa"
+          "name": "Maisy Anderson",
+          "url": "https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE"
         }
       ],
-      "duration_ms": 163923,
-      "name": "Viajando Solo",
-      "url": "https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX"
+      "duration_ms": 150961,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/533SnCwxVytF3viTF5kYql"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Seven Hills of Rome",
-        "url": "https://open.spotify.com/album/5oUkh52zA4MoZQ5G1Zw6y1"
-      },
-      "artists": [
-        {
-          "name": "Carol Maddox",
-          "url": "https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb"
-        }
-      ],
-      "duration_ms": 132281,
-      "name": "Seven Hills of Rome",
-      "url": "https://open.spotify.com/track/6X57NpjrTZmKqzT0tnJPF0"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Window From A Train",
         "url": "https://open.spotify.com/album/6QGcFMaEC1eSBuO2QgH9yT"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 145608,
       "name": "Window From A Train",
       "url": "https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Seven Hills of Rome",
+        "url": "https://open.spotify.com/album/5oUkh52zA4MoZQ5G1Zw6y1"
+      },
+      "artists": [
+        {
+          "name": "Carol Maddox",
+          "url": "https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb"
+        }
+      ],
+      "duration_ms": 132281,
+      "name": "Seven Hills of Rome",
+      "url": "https://open.spotify.com/track/6X57NpjrTZmKqzT0tnJPF0"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Tulum",
-        "url": "https://open.spotify.com/album/3tgYGZiPi1o1G0EII5V9lp"
-      },
-      "artists": [
-        {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
-        }
-      ],
-      "duration_ms": 176917,
-      "name": "Tulum",
-      "url": "https://open.spotify.com/track/4TrvStfO2EppTAYIebF5cL"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Reise um die Welt",
         "url": "https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 171853,
       "name": "Reise um die Welt",
       "url": "https://open.spotify.com/track/5U3Funw31Xlkv6dvsR4QBn"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Tulum",
+        "url": "https://open.spotify.com/album/3tgYGZiPi1o1G0EII5V9lp"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "duration_ms": 176917,
+      "name": "Tulum",
+      "url": "https://open.spotify.com/track/4TrvStfO2EppTAYIebF5cL"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/4bzztnTdgknIshVzOuYiwa"
-      },
-      "artists": [
-        {
-          "name": "Oliver Calum",
-          "url": "https://open.spotify.com/artist/3AEgCo8UbL4AYIe40wUdeR"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/6ihtnlJdg1t4awXzbQtMBt"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Beatriz (Arr. for Guitar by S\u00e9rgio Assad)",
         "url": "https://open.spotify.com/album/0UYrRuHrJcz2il0oww8zeW"
       },
@@ -2007,18 +1991,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Jewel",
-        "url": "https://open.spotify.com/album/77qvXF79TZeKoavRQ4TfPw"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/4bzztnTdgknIshVzOuYiwa"
       },
       "artists": [
         {
-          "name": "American Legion",
-          "url": "https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3"
+          "name": "Oliver Calum",
+          "url": "https://open.spotify.com/artist/3AEgCo8UbL4AYIe40wUdeR"
         }
       ],
-      "duration_ms": 200011,
-      "name": "Jewel",
-      "url": "https://open.spotify.com/track/2faiBPE3tK6ZIaTQlJqryt"
+      "duration_ms": 164000,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/6ihtnlJdg1t4awXzbQtMBt"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2035,6 +2019,22 @@
       "duration_ms": 186878,
       "name": "Don't Save Me Yet",
       "url": "https://open.spotify.com/track/190uB2WD7451d6MIm8ftJd"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Jewel",
+        "url": "https://open.spotify.com/album/77qvXF79TZeKoavRQ4TfPw"
+      },
+      "artists": [
+        {
+          "name": "American Legion",
+          "url": "https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3"
+        }
+      ],
+      "duration_ms": 200011,
+      "name": "Jewel",
+      "url": "https://open.spotify.com/track/2faiBPE3tK6ZIaTQlJqryt"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Camino Del Sol",
-        "url": "https://open.spotify.com/album/4fqXZ2DXJuIOpN1ZID0468"
-      },
-      "artists": [
-        {
-          "name": "Ceriumidis",
-          "url": "https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ"
-        }
-      ],
-      "duration_ms": 145635,
-      "name": "Camino Del Sol",
-      "url": "https://open.spotify.com/track/05tj0VFJS02yNTQd4GRy1C"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Misty Midnight",
         "url": "https://open.spotify.com/album/7JGiEcxXiPHjLEHH0eMzn1"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 134498,
       "name": "Misty Midnight",
       "url": "https://open.spotify.com/track/3os1MjgOwLFIyvyP67JKaE"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Camino Del Sol",
+        "url": "https://open.spotify.com/album/4fqXZ2DXJuIOpN1ZID0468"
+      },
+      "artists": [
+        {
+          "name": "Ceriumidis",
+          "url": "https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ"
+        }
+      ],
+      "duration_ms": 145635,
+      "name": "Camino Del Sol",
+      "url": "https://open.spotify.com/track/05tj0VFJS02yNTQd4GRy1C"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Velvet Morning",
-        "url": "https://open.spotify.com/album/6E4YOwkbhPKrMYsFiCPACh"
-      },
-      "artists": [
-        {
-          "name": "Amma Lerato",
-          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
-        }
-      ],
-      "duration_ms": 148374,
-      "name": "Velvet Morning",
-      "url": "https://open.spotify.com/track/6YNlei2JlZDPL0E0PgEiK1"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Shimmering",
         "url": "https://open.spotify.com/album/5QlqAMPDmZlNYGtb14cgdt"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 173026,
       "name": "Shimmering",
       "url": "https://open.spotify.com/track/0V9hBI4lEPGj4oXB1Sxr2b"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Velvet Morning",
+        "url": "https://open.spotify.com/album/6E4YOwkbhPKrMYsFiCPACh"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "duration_ms": 148374,
+      "name": "Velvet Morning",
+      "url": "https://open.spotify.com/track/6YNlei2JlZDPL0E0PgEiK1"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Mirabella",
-        "url": "https://open.spotify.com/album/1r9ghXZTQnM5TncbR8iCJU"
-      },
-      "artists": [
-        {
-          "name": "Oleks Rudenko",
-          "url": "https://open.spotify.com/artist/32r7SszS0EjJeiaeue1Fnc"
-        }
-      ],
-      "duration_ms": 199656,
-      "name": "Mirabella",
-      "url": "https://open.spotify.com/track/7aRXzPNyUh0hLLJJ3oA1ry"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "A New Strange Feeling",
         "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 199742,
       "name": "A New Strange Feeling",
       "url": "https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Mirabella",
+        "url": "https://open.spotify.com/album/1r9ghXZTQnM5TncbR8iCJU"
+      },
+      "artists": [
+        {
+          "name": "Oleks Rudenko",
+          "url": "https://open.spotify.com/artist/32r7SszS0EjJeiaeue1Fnc"
+        }
+      ],
+      "duration_ms": 199656,
+      "name": "Mirabella",
+      "url": "https://open.spotify.com/track/7aRXzPNyUh0hLLJJ3oA1ry"
     },
     {
       "added_at": "2023-09-15 09:04:35",

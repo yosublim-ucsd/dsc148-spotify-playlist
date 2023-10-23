@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 
 > Celebrate Halloween with spooky sounds from Disney favorites like Nightmare Before Christmas, The Haunted Mansion, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,965 likes - 99 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,619 likes - 99 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 | 6 | [One Way or Another \(Hocus Pocus 2 Version\)](https://open.spotify.com/track/3jGAUGvmWbPe2LPc8Hon1c) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W), [Sarah Jessica Parker](https://open.spotify.com/artist/07fyshwD6z8kprzXN7hQYH), [Kathy Najimy](https://open.spotify.com/artist/1JdX5huLHgBUAHTNinXnN5) | [Hocus Pocus 2 \(Original Soundtrack\)](https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED) | 2:27 |
 | 7 | [Monster Mash](https://open.spotify.com/track/2LbLm24zFdRqFqRNhorfOO) | [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64) | [Mickey's Monster Bash](https://open.spotify.com/album/0dcoxFgMPKe0WWgmoBLGaG) | 2:48 |
 | 8 | [The Witches Are Back](https://open.spotify.com/track/6SWxJnEL4PgRySciwic4N3) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W), [Sarah Jessica Parker](https://open.spotify.com/artist/07fyshwD6z8kprzXN7hQYH), [Kathy Najimy](https://open.spotify.com/artist/1JdX5huLHgBUAHTNinXnN5) | [Hocus Pocus 2 \(Original Soundtrack\)](https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED) | 1:44 |
-| 9 | [Be Prepared \- From "The Lion King" / Soundtrack Version](https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10) | [Jeremy Irons](https://open.spotify.com/artist/6QRb3jE2lCfMU1iUuVQMaV), [Whoopi Goldberg](https://open.spotify.com/artist/1ZsoHNxHMKTgliJcxSRlb5), [Cheech Marin](https://open.spotify.com/artist/68TP2Pr8i7dvyFHU0p748r), [Jim Cummings](https://open.spotify.com/artist/3OIPwMAZipDCLQwHmxS5EG) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:40 |
+| 9 | [Be Prepared](https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10) | [Jeremy Irons](https://open.spotify.com/artist/6QRb3jE2lCfMU1iUuVQMaV), [Whoopi Goldberg](https://open.spotify.com/artist/1ZsoHNxHMKTgliJcxSRlb5), [Cheech Marin](https://open.spotify.com/artist/68TP2Pr8i7dvyFHU0p748r), [Jim Cummings](https://open.spotify.com/artist/3OIPwMAZipDCLQwHmxS5EG) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:40 |
 | 10 | [My Year](https://open.spotify.com/track/77NgPW9Bt7QPU69YsYpiKV) | [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0) | 3:29 |
 | 11 | [Arabian Nights \(2019\)](https://open.spotify.com/track/6ZxPYutGhjLTrcmvcshCa4) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 3:13 |
 | 12 | [Confession](https://open.spotify.com/track/4RaUe35V0kMLeGNtxzuKRz) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [A Haunting in Venice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70hJ7Bu9rmyEsHfiuvvBDw) | 8:14 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 | 98 | [The Suspension Is Killing Me](https://open.spotify.com/track/4pb4UbeCqZx6lkdIsgmds4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Toy Story of Terror!](https://open.spotify.com/album/4L6pTViOcuDnXHhpOrq9yf) | 0:44 |
 | 99 | [Guardians of the Galaxy Monsters After Dark](https://open.spotify.com/track/2m4RlNsMUbxChac9kX1Cu2) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Guardians of the Galaxy Monsters After Dark](https://open.spotify.com/album/2OpuXAttHxigr3ChNOzN3U) | 2:40 |
 
-Snapshot ID: `MCxmNjY4NWUxMjc4N2U4YjYzMGRmMTBmM2YyMWFhZmMzZjQ5NTdiMjY5`
+Snapshot ID: `MCwyZWIxZjM1NTlmOTliYWJkYzUyYmY1ZTcxOGQxZGE0OGU0N2MzNGM2`

@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 180923,
       "name": "24 por 48",
       "url": "https://open.spotify.com/track/22akDLsI3H34M0Lc4upxKJ"
@@ -500,6 +500,24 @@
       "duration_ms": 179439,
       "name": "Ambi\u00e7\u00e3o e Desejo",
       "url": "https://open.spotify.com/track/6RAJXjuBuK2SvSmVRPuoG5"
+    },
+    {
+      "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Amo Te Ver de Juju",
+      "url": "https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V"
     },
     {
       "album": {
@@ -1072,6 +1090,32 @@
       "duration_ms": 157166,
       "name": "Blindada",
       "url": "https://open.spotify.com/track/2zJsF3MNM7S1WaOjSnKfHm"
+    },
+    {
+      "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Dj Alle da coro",
+          "url": "https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146490,
+      "name": "Boa Sorte Mesmo",
+      "url": "https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx"
     },
     {
       "album": {
@@ -2011,6 +2055,40 @@
     },
     {
       "album": {
+        "name": "Dama Da Noite",
+        "url": "https://open.spotify.com/album/40S7HYtIxxVgNTU7Ysx0CG"
+      },
+      "artists": [
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Mc Dena",
+          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175161,
+      "name": "Dama Da Noite",
+      "url": "https://open.spotify.com/track/5uUDn17TF71eR9fC7yR8aU"
+    },
+    {
+      "album": {
         "name": "Dama de Vermelho",
         "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
       },
@@ -2056,7 +2134,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 193564,
       "name": "De Cop\u00e3o Na M\u00e3o",
       "url": "https://open.spotify.com/track/5GMuN4AXlf2PdJyk8IUAoG"
@@ -2517,6 +2595,40 @@
     },
     {
       "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200039,
+      "name": "Ela joga no 7",
+      "url": "https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7"
+    },
+    {
+      "album": {
         "name": "Ela Quer 2",
         "url": "https://open.spotify.com/album/4NGnWjoLQfsOIva635RcO8"
       },
@@ -2688,7 +2800,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 208615,
       "name": "Favorita",
       "url": "https://open.spotify.com/track/6y5giqrAgV0nI7I4VocHXP"
@@ -2991,6 +3103,32 @@
     },
     {
       "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/6Boz5yzdVM8VPQutO8NRou"
+      },
+      "artists": [
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "KANASHIRO",
+          "url": "https://open.spotify.com/artist/3mmlFKPzrG0ZGYneLDt1Y8"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150618,
+      "name": "Fuga Alucinante",
+      "url": "https://open.spotify.com/track/1oftYSKdtat5cJGsFlvIT8"
+    },
+    {
+      "album": {
         "name": "Nova Moda",
         "url": "https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN"
       },
@@ -3048,7 +3186,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 151278,
       "name": "FYE",
       "url": "https://open.spotify.com/track/17VbWFGwifCcaQ695LA45D"
@@ -4331,6 +4469,28 @@
     },
     {
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117056,
+      "name": "Megaloman\u00edaca",
+      "url": "https://open.spotify.com/track/3clfhHrwPNWtN2KlHfzEIi"
+    },
+    {
+      "album": {
         "name": "Melhor Dia 11: Ilus\u00e3o com Autoestima",
         "url": "https://open.spotify.com/album/6lb3vS0CnersbHGvdTIpXM"
       },
@@ -4882,7 +5042,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 170256,
       "name": "Noronha",
       "url": "https://open.spotify.com/track/6i8bPQX4qbTV4OiInAjz0y"
@@ -5455,7 +5615,7 @@
     },
     {
       "album": {
-        "name": "Pensamento (feat. Vulgo FK)",
+        "name": "Pensamento (feat. Vulgo FK & Galdino)",
         "url": "https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO"
       },
       "artists": [
@@ -5470,13 +5630,17 @@
         {
           "name": "Vulgo FK",
           "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
         }
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 139200,
-      "name": "Pensamento (feat. Vulgo FK)",
+      "name": "Pensamento (feat. Vulgo FK & Galdino)",
       "url": "https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z"
     },
     {
@@ -6074,7 +6238,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 142500,
       "name": "Renc Renc",
       "url": "https://open.spotify.com/track/3LkOtPI3tg44XxnYdrST7B"

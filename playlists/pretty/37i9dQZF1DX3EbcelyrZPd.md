@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Mocco Genius
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,756 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,789 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Lonely](https://open.spotify.com/track/5POWdKYIuBfd2KvSPUtwIK) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Abbah](https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV) | [The Kid You Know](https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84) | 4:12 |
 | 70 | [Maokoto](https://open.spotify.com/track/0ldVedbqs0hXp8ijwVUQoQ) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Maokoto](https://open.spotify.com/album/6pn4PsDQDZ5BE2f50TihaU) | 3:36 |
 
-Snapshot ID: `MCwzM2FjNDE1YWQ4ZGEwNjE1MjM3ZDQ3MmIxYWUxZDIyYmNkYjFiNzBk`
+Snapshot ID: `MCwzM2YyMTczNThlNTI4ZGU3MDBhYWM0MzQzZGI0OWEzOWFjZDIxN2Vi`

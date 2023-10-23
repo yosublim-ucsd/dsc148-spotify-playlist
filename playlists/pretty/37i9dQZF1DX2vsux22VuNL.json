@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Delacruz",
-  "num_followers": 288491,
+  "num_followers": 288651,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGQ0NjFmNjM1ZjE0YjE0YmYxZjhiOGYwYmY5NDJhZDE0OWRhZmYw",
+  "snapshot_id": "MCw1OTIxYzYzNjU5ZGQ5NGQ5MzUxZDZiMzk2MGMwYTAzNjJhNWYxZjIz",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -155,7 +155,7 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Pensamento (feat. Vulgo FK)",
+        "name": "Pensamento (feat. Vulgo FK & Galdino)",
         "url": "https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO"
       },
       "artists": [
@@ -170,10 +170,14 @@
         {
           "name": "Vulgo FK",
           "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
         }
       ],
       "duration_ms": 139200,
-      "name": "Pensamento (feat. Vulgo FK)",
+      "name": "Pensamento (feat. Vulgo FK & Galdino)",
       "url": "https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z"
     },
     {
@@ -463,6 +467,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Original Brasil",
+        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 208120,
+      "name": "To Que To A Toa",
+      "url": "https://open.spotify.com/track/68yL6r526zRHhAn3wx3wvZ"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Outro Patamar",
         "url": "https://open.spotify.com/album/2gt5vOzXJxJIa6MCXss0Wj"
       },
@@ -503,22 +523,6 @@
       "duration_ms": 244999,
       "name": "Amor Bandido",
       "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Original Brasil",
-        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 208120,
-      "name": "To Que To A Toa",
-      "url": "https://open.spotify.com/track/68yL6r526zRHhAn3wx3wvZ"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -695,26 +699,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Arcano 19 (Deluxe)",
-        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        }
-      ],
-      "duration_ms": 249798,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Desconectar",
         "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
       },
@@ -771,6 +755,26 @@
       "duration_ms": 154666,
       "name": "Espero Que N\u00e3o Dure - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2LipaKn124ClsUoFjCoQIJ"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Arcano 19 (Deluxe)",
+        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -931,26 +935,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Ref\u00e9m",
-        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/2xecTy7S2ZldxcMSDiYkb3"
       },
@@ -979,26 +963,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Desliga",
-        "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        }
-      ],
-      "duration_ms": 167478,
-      "name": "Desliga",
-      "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "FOME",
         "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
       },
@@ -1015,6 +979,46 @@
       "duration_ms": 169868,
       "name": "FOME",
       "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Ref\u00e9m",
+        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Desliga",
+        "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
+      },
+      "artists": [
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        }
+      ],
+      "duration_ms": 167478,
+      "name": "Desliga",
+      "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1199,6 +1203,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Melhor Que Ontem",
+        "url": "https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Melhor Que Ontem",
+      "url": "https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
       },
@@ -1215,22 +1235,6 @@
       "duration_ms": 174315,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Melhor Que Ontem",
-        "url": "https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Melhor Que Ontem",
-      "url": "https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1331,6 +1335,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Aquelas Coisas",
+        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        },
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Aquelas Coisas",
+      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "espelho",
         "url": "https://open.spotify.com/album/2pnyK2SIEd3MWksx7pDdaW"
       },
@@ -1351,26 +1375,6 @@
       "duration_ms": 223103,
       "name": "espelho",
       "url": "https://open.spotify.com/track/2bHRHxeElocbyFNMZRil2h"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Aquelas Coisas",
-        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        },
-        {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Aquelas Coisas",
-      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1563,26 +1567,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "L\u00e1bia",
-        "url": "https://open.spotify.com/album/3wEHJr1DqFpzRNbFk4o5hC"
-      },
-      "artists": [
-        {
-          "name": "RAMON",
-          "url": "https://open.spotify.com/artist/3sdFrsuQ0ttHe1PcUqZnEl"
-        },
-        {
-          "name": "Two Records",
-          "url": "https://open.spotify.com/artist/4SfxAv3Xdu1gD1HBs6BYSn"
-        }
-      ],
-      "duration_ms": 177997,
-      "name": "L\u00e1bia",
-      "url": "https://open.spotify.com/track/3jiSDYClzVY31izbE8lxGQ"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Contram\u00e3o",
         "url": "https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr"
       },
@@ -1599,6 +1583,26 @@
       "duration_ms": 170538,
       "name": "Contram\u00e3o",
       "url": "https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "L\u00e1bia",
+        "url": "https://open.spotify.com/album/3wEHJr1DqFpzRNbFk4o5hC"
+      },
+      "artists": [
+        {
+          "name": "RAMON",
+          "url": "https://open.spotify.com/artist/3sdFrsuQ0ttHe1PcUqZnEl"
+        },
+        {
+          "name": "Two Records",
+          "url": "https://open.spotify.com/artist/4SfxAv3Xdu1gD1HBs6BYSn"
+        }
+      ],
+      "duration_ms": 177997,
+      "name": "L\u00e1bia",
+      "url": "https://open.spotify.com/track/3jiSDYClzVY31izbE8lxGQ"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1667,30 +1671,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "No Ponto",
-        "url": "https://open.spotify.com/album/0MMeTJK5RBZzPyje8EkZdT"
-      },
-      "artists": [
-        {
-          "name": "Theo Bial",
-          "url": "https://open.spotify.com/artist/2spkAIBJRP7badm280YyB5"
-        },
-        {
-          "name": "Ogrow Beats",
-          "url": "https://open.spotify.com/artist/0Y71tGmD0xjvdg6hZoRywr"
-        },
-        {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
-        }
-      ],
-      "duration_ms": 125333,
-      "name": "No Ponto",
-      "url": "https://open.spotify.com/track/19467mwzgOpeJPFjWlsChc"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
         "url": "https://open.spotify.com/album/5HbjLnESfjN6sui1F6E7rO"
       },
@@ -1711,6 +1691,30 @@
       "duration_ms": 193728,
       "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
       "url": "https://open.spotify.com/track/0mORJWR6L3RSefYVBke8Zs"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "No Ponto",
+        "url": "https://open.spotify.com/album/0MMeTJK5RBZzPyje8EkZdT"
+      },
+      "artists": [
+        {
+          "name": "Theo Bial",
+          "url": "https://open.spotify.com/artist/2spkAIBJRP7badm280YyB5"
+        },
+        {
+          "name": "Ogrow Beats",
+          "url": "https://open.spotify.com/artist/0Y71tGmD0xjvdg6hZoRywr"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+        }
+      ],
+      "duration_ms": 125333,
+      "name": "No Ponto",
+      "url": "https://open.spotify.com/track/19467mwzgOpeJPFjWlsChc"
     }
   ],
   "unique_name": "brisa",

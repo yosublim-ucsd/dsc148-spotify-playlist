@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ska 100% Mexicano, c\u00edrculos de paz y baile! Out Of Control Army en portada. ",
-  "num_followers": 9249,
+  "num_followers": 9254,
   "original_name": "MexSka ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWE1MmFkMGI3NTU4NDdiMzJlNmQ5YzZlYmIzZDM4ZmVlMDg2M2Q5",
+  "snapshot_id": "MCw5ZWVhMzhiMDg5YzgzZTQ5N2RmYTZkMzU2Y2RiZDU4ZjY0ZjliMGM2",
   "tracks": [
     {
       "added_at": "2023-10-13 00:47:14",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Como te extra\u00f1o mi amor",
-      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 267226,
       "name": "Kumbala",
       "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Como te extra\u00f1o mi amor",
+      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "Piel De Banqueta",
-        "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
+        "name": "The Maskatonians All Stars And Friends",
+        "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
       },
       "artists": [
         {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
         }
       ],
-      "duration_ms": 179973,
-      "name": "Me Enamor\u00e9 En La Cola De Las Torillas",
-      "url": "https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63"
+      "duration_ms": 280933,
+      "name": "Tabernero",
+      "url": "https://open.spotify.com/track/0NJrwGUbGfuAhdEbvpkvqu"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -823,24 +823,24 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "The Maskatonians All Stars And Friends",
-        "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
+        "name": "Piel De Banqueta",
+        "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
       },
       "artists": [
         {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 280933,
-      "name": "Tabernero",
-      "url": "https://open.spotify.com/track/0NJrwGUbGfuAhdEbvpkvqu"
+      "duration_ms": 179973,
+      "name": "Me Enamor\u00e9 En La Cola De Las Torillas",
+      "url": "https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63"
     },
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "Venga la Sentencia",
-        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
+        "name": "Frecuencia Rebelde",
+        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
         }
       ],
-      "duration_ms": 196640,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"
+      "duration_ms": 217800,
+      "name": "Ni un paso atras",
+      "url": "https://open.spotify.com/track/0DAixqXelWP3hwdUrJKP0F"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -1015,8 +1015,8 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "Frecuencia Rebelde",
-        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
+        "name": "Venga la Sentencia",
+        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
       },
       "artists": [
         {
@@ -1024,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
         }
       ],
-      "duration_ms": 217800,
-      "name": "Ni un paso atras",
-      "url": "https://open.spotify.com/track/0DAixqXelWP3hwdUrJKP0F"
+      "duration_ms": 196640,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "Monstruo de Bares",
-        "url": "https://open.spotify.com/album/47ZjISrfM9FkXYAMxjSTKZ"
-      },
-      "artists": [
-        {
-          "name": "Radio Catoche",
-          "url": "https://open.spotify.com/artist/5xghcJVVg0kwNKpf0aUdNm"
-        }
-      ],
-      "duration_ms": 142898,
-      "name": "Las Chicas Como T\u00fa",
-      "url": "https://open.spotify.com/track/262jGMuFthtLE5JrmRhQec"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
         "name": "De Todo Tengo Se\u00f1or",
         "url": "https://open.spotify.com/album/3hvT6HiskpLzcwgXIpjhJz"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 150466,
       "name": "Marich\u00fa",
       "url": "https://open.spotify.com/track/269LeYy1CgAmIEAcQF4RHi"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
+        "name": "Monstruo de Bares",
+        "url": "https://open.spotify.com/album/47ZjISrfM9FkXYAMxjSTKZ"
+      },
+      "artists": [
+        {
+          "name": "Radio Catoche",
+          "url": "https://open.spotify.com/artist/5xghcJVVg0kwNKpf0aUdNm"
+        }
+      ],
+      "duration_ms": 142898,
+      "name": "Las Chicas Como T\u00fa",
+      "url": "https://open.spotify.com/track/262jGMuFthtLE5JrmRhQec"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/4viAQXKH3Jq3zHMlCS5eIT"
-      },
-      "artists": [
-        {
-          "name": "El Guato",
-          "url": "https://open.spotify.com/artist/4sZOc9lOvHRcL9Zs9lQbFQ"
-        }
-      ],
-      "duration_ms": 208927,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/5zXXVxHZdPQwFAh0OQ7VD6"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
         "name": "Siente El Movimiento",
         "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 186175,
       "name": "Siente El Movimiento",
       "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/4viAQXKH3Jq3zHMlCS5eIT"
+      },
+      "artists": [
+        {
+          "name": "El Guato",
+          "url": "https://open.spotify.com/artist/4sZOc9lOvHRcL9Zs9lQbFQ"
+        }
+      ],
+      "duration_ms": 208927,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/5zXXVxHZdPQwFAh0OQ7VD6"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
+        "name": "Lamento Egipcio",
+        "url": "https://open.spotify.com/album/6UjC13m2EheNOtFdU5ayVd"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3dulo Ghetto",
+          "url": "https://open.spotify.com/artist/7LC3IkN0ds990xsji4GrhM"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "Lamento Egipcio",
+      "url": "https://open.spotify.com/track/1FPDoLtvmAX1bWzuNWKRJG"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
         "name": "El Chapul\u00edn",
         "url": "https://open.spotify.com/album/165IEkSYLUmnQvd4GS8hNR"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 206636,
       "name": "El Chapul\u00edn",
       "url": "https://open.spotify.com/track/59sQU11cdcoC2HEmMxVFv5"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
-        "name": "Lamento Egipcio",
-        "url": "https://open.spotify.com/album/6UjC13m2EheNOtFdU5ayVd"
-      },
-      "artists": [
-        {
-          "name": "M\u00f3dulo Ghetto",
-          "url": "https://open.spotify.com/artist/7LC3IkN0ds990xsji4GrhM"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "Lamento Egipcio",
-      "url": "https://open.spotify.com/track/1FPDoLtvmAX1bWzuNWKRJG"
     }
   ],
   "unique_name": "MexSka ",

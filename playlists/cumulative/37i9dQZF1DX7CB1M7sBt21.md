@@ -4,7 +4,7 @@
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-187 songs - 9 hr 6 min
+188 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,11 +81,12 @@
 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 | 2021-11-19 | 2023-10-13 |
 | [Hold Me Close \(feat\. Ella Henderson\)](https://open.spotify.com/track/24aN8j7dBw0FxxKUBlCtd6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hold Me Close \(feat\. Ella Henderson\)](https://open.spotify.com/album/17S4c0rf1RXLZ0u4ez15E5) | 3:05 | 2021-11-19 |  |
 | [Holiday \- Frank Walker Remix](https://open.spotify.com/track/7o4KaZkEYqCieZyV03bdOk) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Holiday \(Frank Walker Remix\)](https://open.spotify.com/album/1lpf7O1Bm6l1ncWRA4P2Qp) | 3:24 | 2021-11-19 | 2022-07-28 |
+| [Hollywood](https://open.spotify.com/track/1n2zcm9jlZA5g82K6rE9cB) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Hollywood](https://open.spotify.com/album/5SQuqccOnKASxj94o2C5ro) | 2:25 | 2023-10-19 |  |
 | [How Can I Forget Her](https://open.spotify.com/track/4IfArE62kl6LifwebDZkCe) | [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B) | [How Can I Forget Her](https://open.spotify.com/album/5aQRDDXZIkYpKkkBQPwwSQ) | 2:48 | 2021-11-19 | 2022-07-29 |
 | [I Found You](https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [I Found You](https://open.spotify.com/album/377h4vWvsEO8dcErH6z0DQ) | 2:47 | 2021-11-19 |  |
 | [I like u](https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme \(Extended Cut\)](https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3) | 3:10 | 2023-08-03 |  |
 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 | 2023-07-13 | 2023-08-14 |
-| [I Love My Friends](https://open.spotify.com/track/1oPpiUmhXq0MiyZHlkD0xp) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Neon Future IV](https://open.spotify.com/album/6iXzARQs7wdSYzhYJWvJKc) | 3:05 | 2023-10-12 |  |
+| [I Love My Friends](https://open.spotify.com/track/1oPpiUmhXq0MiyZHlkD0xp) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Neon Future IV](https://open.spotify.com/album/6iXzARQs7wdSYzhYJWvJKc) | 3:05 | 2023-10-12 | 2023-10-23 |
 | [I Miss Myself \(with HRVY\)](https://open.spotify.com/track/5YkmS18BehACOhIIeUqe6l) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [I Miss Myself \(with HRVY\)](https://open.spotify.com/album/0G0ho2sdOWIRRAh1PDTVFd) | 3:11 | 2022-07-28 | 2023-10-13 |
 | [I Wanna Know](https://open.spotify.com/track/1UrgYIBOBEKtgBwDdkpm3m) | [Ludvigsson](https://open.spotify.com/artist/3oa1ydh8eLVXesBUwIfBWQ) | [I Wanna Know](https://open.spotify.com/album/594pqcverP5REfLyFRdxL0) | 2:50 | 2021-11-19 | 2022-07-28 |
 | [I Want It All](https://open.spotify.com/track/3oSCJeOl0XjcpNcigO9vj7) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Letters To Remember](https://open.spotify.com/album/5ewnC9DmcClqT2cqKvvNCe) | 3:11 | 2021-11-19 |  |

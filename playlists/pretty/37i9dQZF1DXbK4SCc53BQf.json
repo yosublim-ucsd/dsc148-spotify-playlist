@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 90211,
+  "num_followers": 90392,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -255,26 +255,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Por Amor",
-        "url": "https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy"
-      },
-      "artists": [
-        {
-          "name": "Mikey A",
-          "url": "https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks"
-        },
-        {
-          "name": "Andrea Dominguez",
-          "url": "https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Tu Eres (feat. Andrea Dominguez)",
-      "url": "https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/0SwG9W9WTQNhAJV8z4LYNU"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 261147,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/6GvSHhIxdWaQJbiQyzdOCy"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Por Amor",
+        "url": "https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy"
+      },
+      "artists": [
+        {
+          "name": "Mikey A",
+          "url": "https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks"
+        },
+        {
+          "name": "Andrea Dominguez",
+          "url": "https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Tu Eres (feat. Andrea Dominguez)",
+      "url": "https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -347,6 +347,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Al\u00e1bale Con Ritmo de Salsa",
+        "url": "https://open.spotify.com/album/4cmpSr90A0JzyVtngmxoMr"
+      },
+      "artists": [
+        {
+          "name": "David Y Abraham",
+          "url": "https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4"
+        }
+      ],
+      "duration_ms": 282984,
+      "name": "Tengo un Nuevo Amor - Salsa",
+      "url": "https://open.spotify.com/track/6jtT0TU60r0ECBtRtNe335"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Vuelve a So\u00f1ar - EP",
         "url": "https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Al\u00e1bale Con Ritmo de Salsa",
-        "url": "https://open.spotify.com/album/4cmpSr90A0JzyVtngmxoMr"
-      },
-      "artists": [
-        {
-          "name": "David Y Abraham",
-          "url": "https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4"
-        }
-      ],
-      "duration_ms": 282984,
-      "name": "Tengo un Nuevo Amor - Salsa",
-      "url": "https://open.spotify.com/track/6jtT0TU60r0ECBtRtNe335"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Soy Sonero - Concierto en Vivo",
         "url": "https://open.spotify.com/album/0BDopJiR33PUsLRU1z6Ybf"
       },
@@ -399,18 +399,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/3Hfdb0KVrFw3gix8Xc0t38"
       },
       "artists": [
         {
-          "name": "GAWVI",
-          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/7k1mBV7McqMl1WEyuC1M4m"
         }
       ],
-      "duration_ms": 283317,
-      "name": "TRAPCHATA",
-      "url": "https://open.spotify.com/track/0sFvANVCB08GDLjjUx7NDm"
+      "duration_ms": 207333,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/4vWqtYT69Ivi5dXOisjL62"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -435,6 +439,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
+      },
+      "artists": [
+        {
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+        }
+      ],
+      "duration_ms": 283317,
+      "name": "TRAPCHATA",
+      "url": "https://open.spotify.com/track/0sFvANVCB08GDLjjUx7NDm"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Chino \" De Viaje \" ..... Camino Al Cielo",
         "url": "https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 204013,
       "name": "Camino Al Cielo (Versi\u00f3n Merengue)",
       "url": "https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/3Hfdb0KVrFw3gix8Xc0t38"
-      },
-      "artists": [
-        {
-          "name": "Daniela Galeano",
-          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/7k1mBV7McqMl1WEyuC1M4m"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/4vWqtYT69Ivi5dXOisjL62"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -531,22 +531,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/57TWQ1wClUOJ8MFDKIVKAH"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Rios",
-          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
-        }
-      ],
-      "duration_ms": 223146,
-      "name": "Jovenes Valientes",
-      "url": "https://open.spotify.com/track/5kjVhultwR25ejaYCJgbKV"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Fiel",
         "url": "https://open.spotify.com/album/0yXPcyG4gS3W6m2aQACbVD"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 278891,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/1nqJ147DenACjQsFw2FWGN"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/57TWQ1wClUOJ8MFDKIVKAH"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Rios",
+          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
+        }
+      ],
+      "duration_ms": 223146,
+      "name": "Jovenes Valientes",
+      "url": "https://open.spotify.com/track/5kjVhultwR25ejaYCJgbKV"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -627,22 +627,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/3Lxyo5wFt4lYA5XzG4ye7V"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        }
-      ],
-      "duration_ms": 190290,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/1oKB6sCR5aeEip3I93EuEf"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Original Love",
         "url": "https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 223516,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/3Lxyo5wFt4lYA5XzG4ye7V"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        }
+      ],
+      "duration_ms": 190290,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1oKB6sCR5aeEip3I93EuEf"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -767,22 +767,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "This Is My Time",
-        "url": "https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        }
-      ],
-      "duration_ms": 228111,
-      "name": "La Misma Mentira",
-      "url": "https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Dios Te Bendiga",
         "url": "https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 349909,
       "name": "Hermoso Nombre",
       "url": "https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "This Is My Time",
+        "url": "https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "duration_ms": 228111,
+      "name": "La Misma Mentira",
+      "url": "https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K"
     },
     {
       "added_at": "2020-11-24 13:23:55",

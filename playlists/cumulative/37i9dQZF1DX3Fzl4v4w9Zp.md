@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Allison Russell
 
-548 songs - 1 day 9 hr 58 min
+549 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,7 +454,8 @@
 | [Talkin' to Myself](https://open.spotify.com/track/4K20Uwh83Jf6i8RXBrLCpD) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Talkin' to Myself](https://open.spotify.com/album/6kiT74gcWiUjW5VefQeknP) | 2:46 | 2021-12-17 | 2022-07-23 |
 | [Tehachapi](https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:07 | 2021-12-17 | 2023-04-01 |
 | [Texas Moon](https://open.spotify.com/track/3EWI7uja1ZE1GF8qaKH3jO) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 3:25 | 2021-12-17 | 2022-11-12 |
-| [The Crowd Goes Wlld](https://open.spotify.com/track/2tLy1jxBdf5LF1IDznBCh9) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [The Crowd Goes Wild](https://open.spotify.com/album/4oNknSciThTh14sb2qZXR3) | 3:34 | 2023-10-20 |  |
+| [The Crowd Goes Wlld](https://open.spotify.com/track/2tLy1jxBdf5LF1IDznBCh9) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [The Crowd Goes Wild](https://open.spotify.com/album/4oNknSciThTh14sb2qZXR3) | 3:34 | 2023-10-20 | 2023-10-23 |
+| [The Crowd Goes Wlld](https://open.spotify.com/track/6kAl28NPp8AFgGZM8ycyx4) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Coyote](https://open.spotify.com/album/5Hri5F7ckbeJ6cvRd88efH) | 3:34 | 2023-10-20 |  |
 | [The Downward Road](https://open.spotify.com/track/5C9y3R4oWlShFgvNqr6egt) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1), [Demeanor](https://open.spotify.com/artist/4HlLzCWkEJQvvWRkjt5J0r) | [The Downward Road](https://open.spotify.com/album/0v9Fn7MgEKL8tfprlJX5Ld) | 3:36 | 2022-09-09 | 2023-10-21 |
 | [The Exception](https://open.spotify.com/track/2JSEqnS5EhLBV0uJXls29I) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Exception](https://open.spotify.com/album/5K0ymB1V7VUBydptTtplUX) | 4:07 | 2021-12-17 | 2022-06-18 |
 | [The Fight Song \(feat\. Caitlin Rose\)](https://open.spotify.com/track/37yOe37MGecnwyReOjmr8O) | [The Kernal](https://open.spotify.com/artist/1hiClSI3M2zxypaLJfNYCu), [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [The Fight Song \(feat\. Caitlin Rose\)](https://open.spotify.com/album/59iB9eRGpm0UhGRrSiJX6D) | 4:31 | 2021-12-17 | 2022-04-02 |

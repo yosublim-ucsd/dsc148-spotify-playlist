@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Rawayana",
-  "num_followers": 1241384,
+  "num_followers": 1241457,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTY3OTNhOGM1YTE4MzE5ZDQ4NDkxYmRkNWQzNmRlYzI1NjQ2MzVl",
+  "snapshot_id": "MCw0NDVhYmVkZjY0NWEyMTg5Mjc0ZTBkMzVjYmQ0MmE4NmRjZjE1MjZi",
   "tracks": [
     {
       "added_at": "2023-09-22 04:59:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "B\u00e9same Morenita",
-        "url": "https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5"
+        "name": "Nonpalidesenchufado",
+        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 165520,
-      "name": "B\u00e9same Morenita",
-      "url": "https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL"
+      "duration_ms": 314772,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Nonpalidesenchufado",
-        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
+        "name": "B\u00e9same Morenita",
+        "url": "https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5"
       },
       "artists": [
         {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 314772,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
+      "duration_ms": 165520,
+      "name": "B\u00e9same Morenita",
+      "url": "https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 238986,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
         "name": "Vibrasound",
         "url": "https://open.spotify.com/album/1x5SELdr0eqHfNDMsMJnv6"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 316066,
       "name": "Con Vos",
       "url": "https://open.spotify.com/track/0UYtcbHyTJYuWLTHBx9GGe"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
-        "name": "Solo Un Eco",
-        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 285117,
-      "name": "Solo Un Eco",
-      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -675,6 +675,38 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
+        "name": "Solo Un Eco",
+        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 285117,
+      "name": "Solo Un Eco",
+      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Activistas",
+        "url": "https://open.spotify.com/album/3VdCyzaFr6nOz358VpRGaH"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 257974,
+      "name": "En el Aire",
+      "url": "https://open.spotify.com/track/6tT7NZT9kUGcntWb7yFX0C"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
         "name": "Cali Roots Riddim 2023",
         "url": "https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT"
       },
@@ -691,38 +723,6 @@
       "duration_ms": 224986,
       "name": "Do It Right",
       "url": "https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 238986,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
-        "name": "Tiempos de Tribulacion",
-        "url": "https://open.spotify.com/album/2nQvDkJgU47Ghb59zb0UVK"
-      },
-      "artists": [
-        {
-          "name": "Kameleba",
-          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
-        }
-      ],
-      "duration_ms": 363120,
-      "name": "Orillas",
-      "url": "https://open.spotify.com/track/7gP7A6Fz8easI7b0qxZPAw"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -771,22 +771,18 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Ll\u00e9vame (Cultura Remix)",
-        "url": "https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy"
+        "name": "Tiempos de Tribulacion",
+        "url": "https://open.spotify.com/album/2nQvDkJgU47Ghb59zb0UVK"
       },
       "artists": [
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+          "name": "Kameleba",
+          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
         }
       ],
-      "duration_ms": 264913,
-      "name": "Ll\u00e9vame",
-      "url": "https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S"
+      "duration_ms": 363120,
+      "name": "Orillas",
+      "url": "https://open.spotify.com/track/7gP7A6Fz8easI7b0qxZPAw"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -823,22 +819,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Activistas",
-        "url": "https://open.spotify.com/album/3VdCyzaFr6nOz358VpRGaH"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 257974,
-      "name": "En el Aire",
-      "url": "https://open.spotify.com/track/6tT7NZT9kUGcntWb7yFX0C"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "Te Cre\u00ed",
         "url": "https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW"
       },
@@ -859,6 +839,26 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
+        "name": "Ll\u00e9vame (Cultura Remix)",
+        "url": "https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 264913,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
         "name": "No Es Solo Rock And Roll",
         "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 296666,
       "name": "Reggae Para Los Amigos",
       "url": "https://open.spotify.com/track/3rLMwqrvbr38wcud6FxB8i"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
-        "name": "Gondwana En Vivo En Buenos Aires",
-        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 338146,
-      "name": "Verde, amarillo y rojo",
-      "url": "https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -907,6 +891,22 @@
       "duration_ms": 233116,
       "name": "Mi Guitarra Enamorada",
       "url": "https://open.spotify.com/track/3P4tO3w6UnIiJy07b1RXCY"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Gondwana En Vivo En Buenos Aires",
+        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 338146,
+      "name": "Verde, amarillo y rojo",
+      "url": "https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Fuiste Cruel",
-        "url": "https://open.spotify.com/album/3gFaZRToVe63cRTJJh94Yo"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 297738,
-      "name": "Fuiste Cruel",
-      "url": "https://open.spotify.com/track/4ElWiTXz0iz5vKO8X2L0hN"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 196071,
       "name": "Morena",
       "url": "https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Fuiste Cruel",
+        "url": "https://open.spotify.com/album/3gFaZRToVe63cRTJJh94Yo"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 297738,
+      "name": "Fuiste Cruel",
+      "url": "https://open.spotify.com/track/4ElWiTXz0iz5vKO8X2L0hN"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
+        "name": "YO",
+        "url": "https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX"
+      },
+      "artists": [
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 206328,
+      "name": "Lo M\u00e1s Sincero",
+      "url": "https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
         "name": "Dimensi\u00f3n Caribe",
         "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
       },
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Tres",
-        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 194981,
-      "name": "Ay, Ay",
-      "url": "https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "La Distancia",
         "url": "https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi"
       },
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "YO",
-        "url": "https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX"
+        "name": "Tres",
+        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
       },
       "artists": [
         {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
         }
       ],
-      "duration_ms": 206328,
-      "name": "Lo M\u00e1s Sincero",
-      "url": "https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM"
+      "duration_ms": 194981,
+      "name": "Ay, Ay",
+      "url": "https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "La M\u00eda",
-      "url": "https://open.spotify.com/track/62An8eF83X04NLkdnRCIqr"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "M\u00fasica Libre",
         "url": "https://open.spotify.com/album/5YQG2L5Xt8XLWWnhUSVdED"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 258693,
       "name": "Tu",
       "url": "https://open.spotify.com/track/2BmtCTlt1A9z4z9k8qL1OV"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "La M\u00eda",
+      "url": "https://open.spotify.com/track/62An8eF83X04NLkdnRCIqr"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Aunque No Sea Conmigo",
-        "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 251680,
-      "name": "Aunque No Sea Conmigo",
-      "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "Vuela Alto",
         "url": "https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 227439,
       "name": "Vuela Alto",
       "url": "https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Aunque No Sea Conmigo",
+        "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 251680,
+      "name": "Aunque No Sea Conmigo",
+      "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "3 Caras",
-        "url": "https://open.spotify.com/album/4Ri4oLcXbyqs3rNs6s1mrs"
-      },
-      "artists": [
-        {
-          "name": "DELLAFUENTE",
-          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
-        }
-      ],
-      "duration_ms": 134960,
-      "name": "3 Caras",
-      "url": "https://open.spotify.com/track/2lk6cFN10oFbEQyJ07VHyx"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "El Sonido Real",
         "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 385560,
       "name": "Mi Sol",
       "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "3 Caras",
+        "url": "https://open.spotify.com/album/4Ri4oLcXbyqs3rNs6s1mrs"
+      },
+      "artists": [
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        }
+      ],
+      "duration_ms": 134960,
+      "name": "3 Caras",
+      "url": "https://open.spotify.com/track/2lk6cFN10oFbEQyJ07VHyx"
     },
     {
       "added_at": "2023-09-22 04:59:00",

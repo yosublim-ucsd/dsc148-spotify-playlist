@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/2Zhpjwk7OjYXrQG3YOhIzo?si=D8ORmxnjSdWgRf0oQY4aKA\">Rae Rae</a> ",
+  "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH?si=lhKwAGQiQ4ClsHHqS8n8xw\">CalledOut Music</a> ",
   "name": "Testify",
   "tracks": [
     {
@@ -563,6 +563,32 @@
     },
     {
       "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507400,
+      "name": "Excess Love - Live",
+      "url": "https://open.spotify.com/track/3eqODi0QYCr5nqMtzpYMoL"
+    },
+    {
+      "album": {
         "name": "Journey To The Deep (Prayer Chants)",
         "url": "https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag"
       },
@@ -654,6 +680,24 @@
       "duration_ms": 304901,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/7IGCwf8COqsDoZsD8Lz5NT"
+    },
+    {
+      "album": {
+        "name": "RADICAL",
+        "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188540,
+      "name": "Greatest",
+      "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
     },
     {
       "album": {
@@ -1584,7 +1628,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-16",
+      "date_removed": null,
       "duration_ms": 531375,
       "name": "On Fire",
       "url": "https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W"
@@ -1804,7 +1848,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 165254,
       "name": "Talk & Do",
       "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"
@@ -1848,7 +1892,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 160239,
       "name": "THIS YEAR (Blessings) (feat. Ehis 'D' Greatest) - Remix",
       "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
@@ -1964,7 +2008,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 201599,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/1RhhWmeGXnBzhgQMvABtVO"

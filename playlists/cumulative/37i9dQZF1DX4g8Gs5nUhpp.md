@@ -4,7 +4,7 @@
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Vũ Phụng Tiên
 
-211 songs - 13 hr 29 min
+212 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Gác Lại Âu Lo \(feat\. Miu Lê\)](https://open.spotify.com/track/1mKDbug8bbfDmLe7I4CJpe) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Miu Lê](https://open.spotify.com/artist/4e5LAUvM35jleGg8gElTsP) | [Gác Lại Âu Lo](https://open.spotify.com/album/510WT3clDw7bTqUcorerQX) | 4:42 | 2022-07-27 | 2023-02-13 |
 | [Gối Gấm](https://open.spotify.com/track/211PBKJlAG1CxXUEjN5nqq) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG) | [Vũ Trụ Cò Bay](https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH) | 3:16 | 2023-10-02 | 2023-10-08 |
 | [hai mươi hai \(22\)](https://open.spotify.com/track/6K2RhGsliOVLgj7iUaayuD) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [hai mươi hai \(22\)](https://open.spotify.com/album/11eMyrE2NYK8q0W43GbR5v) | 3:58 | 2022-05-27 | 2022-10-06 |
+| [Hit Me Up \(feat\. Nomovodka\)](https://open.spotify.com/track/4acXEYw7ayyJnm9GXDrqiL) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Nomovodka](https://open.spotify.com/artist/79BbybQeUyNyFB8ghq4neb) | [Hit Me Up \(feat\. Nomovodka\)](https://open.spotify.com/album/0FZXUfdUtrkzNyzmT1VLlB) | 4:28 | 2023-10-22 |  |
 | [Hoa Cỏ Lau](https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb) | [Phong Max](https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z) | [Hoa Cỏ Lau](https://open.spotify.com/album/3jjbONfjvGpMwi7JPGXZIM) | 3:30 | 2023-07-05 | 2023-08-08 |
 | [Hà Nội \(ft\. VSTRA\)](https://open.spotify.com/track/0SLhB9JLM4Ksz1XdwK3aQD) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 2:45 | 2023-10-18 |  |
 | [Hình Trái Tim](https://open.spotify.com/track/1hyDeosKOqqI4YcqFgzNlQ) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F), [Vũ Thanh Vân](https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN) | [Hình Trái Tim](https://open.spotify.com/album/7oS4wfpgF8ISnA0TBQwqmA) | 3:56 | 2023-01-11 | 2023-02-01 |

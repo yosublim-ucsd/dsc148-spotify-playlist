@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-15",
-  "description": "All the Latin hits that have graced the top of the charts. Cover: Myke Towers",
+  "description": "All the Latin hits that have graced the top of the charts. Cover: Bad Bunny",
   "name": "Viva Latino No. 1s",
   "tracks": [
     {
@@ -174,6 +174,24 @@
       "duration_ms": 210367,
       "name": "MIA (feat. Drake)",
       "url": "https://open.spotify.com/track/3Ueq2zboxwAbsvHrOjdEqz"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
     },
     {
       "album": {

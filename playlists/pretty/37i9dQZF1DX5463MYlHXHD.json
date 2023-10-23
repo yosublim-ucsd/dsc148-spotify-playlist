@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa. Foto: BM & La Champions Liga.",
-  "num_followers": 559842,
+  "num_followers": 559960,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjFkMDE5MDAzM2Y4NDUxOTE3ZjYzZjM3OTYyMWYwMmM5ZWM2YWU1",
+  "snapshot_id": "MCw0NmRiMmFhMjk5ZGFkZTUxMDAzZGI4YjdmMjY1Yjg3YTBmNmQ4NDgz",
   "tracks": [
     {
       "added_at": "2023-10-20 13:43:35",
@@ -1311,26 +1311,18 @@
     {
       "added_at": "2023-10-20 13:43:35",
       "album": {
-        "name": "Pinta",
-        "url": "https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha"
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Pablo Lescano",
-          "url": "https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx"
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
         }
       ],
-      "duration_ms": 177950,
-      "name": "Pinta",
-      "url": "https://open.spotify.com/track/7nXutPtu8epp2VJ300iN2A"
+      "duration_ms": 152813,
+      "name": "Baila Sola",
+      "url": "https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA"
     },
     {
       "added_at": "2023-10-20 13:43:35",
@@ -1351,18 +1343,26 @@
     {
       "added_at": "2023-10-20 13:43:35",
       "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+        "name": "Pinta",
+        "url": "https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha"
       },
       "artists": [
         {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Pablo Lescano",
+          "url": "https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx"
         }
       ],
-      "duration_ms": 152813,
-      "name": "Baila Sola",
-      "url": "https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA"
+      "duration_ms": 177950,
+      "name": "Pinta",
+      "url": "https://open.spotify.com/track/7nXutPtu8epp2VJ300iN2A"
     },
     {
       "added_at": "2023-10-20 13:43:35",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-10-20 13:43:35",
       "album": {
-        "name": "El Aguardiente",
-        "url": "https://open.spotify.com/album/0c9jqeMgjQYucsRyVanPvF"
-      },
-      "artists": [
-        {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        }
-      ],
-      "duration_ms": 195982,
-      "name": "El Aguardiente",
-      "url": "https://open.spotify.com/track/6KSRhpNFsToQMGvFxN7Oam"
-    },
-    {
-      "added_at": "2023-10-20 13:43:35",
-      "album": {
         "name": "Lo Peor",
         "url": "https://open.spotify.com/album/4YY5w9pSiVeWyNvAbIigBc"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 236173,
       "name": "La Motito de Carlitos",
       "url": "https://open.spotify.com/track/1x9OQtBbG9UEOF0Hgpew6h"
+    },
+    {
+      "added_at": "2023-10-20 13:43:35",
+      "album": {
+        "name": "El Aguardiente",
+        "url": "https://open.spotify.com/album/0c9jqeMgjQYucsRyVanPvF"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        }
+      ],
+      "duration_ms": 195982,
+      "name": "El Aguardiente",
+      "url": "https://open.spotify.com/track/6KSRhpNFsToQMGvFxN7Oam"
     },
     {
       "added_at": "2023-10-20 13:43:35",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-10-20 13:43:35",
       "album": {
+        "name": "M\u00e1s Duros que Nunca",
+        "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
+      },
+      "artists": [
+        {
+          "name": "Flor De Piedra",
+          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
+        }
+      ],
+      "duration_ms": 238933,
+      "name": "La Jarra Loca",
+      "url": "https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24"
+    },
+    {
+      "added_at": "2023-10-20 13:43:35",
+      "album": {
         "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
         "url": "https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 171434,
       "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
       "url": "https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F"
-    },
-    {
-      "added_at": "2023-10-20 13:43:35",
-      "album": {
-        "name": "M\u00e1s Duros que Nunca",
-        "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
-      },
-      "artists": [
-        {
-          "name": "Flor De Piedra",
-          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "La Jarra Loca",
-      "url": "https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24"
     },
     {
       "added_at": "2023-10-20 13:43:35",
@@ -2039,30 +2039,6 @@
     {
       "added_at": "2023-10-20 13:43:35",
       "album": {
-        "name": "DALE DALE",
-        "url": "https://open.spotify.com/album/55GZVprq5iYoWZOBu4Xwj9"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Kaleb Di Masi",
-          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        }
-      ],
-      "duration_ms": 183418,
-      "name": "DALE DALE",
-      "url": "https://open.spotify.com/track/5RYg5SW0iqIGAmHDmoU2vb"
-    },
-    {
-      "added_at": "2023-10-20 13:43:35",
-      "album": {
         "name": "Bata Boom (Remix)",
         "url": "https://open.spotify.com/album/3loPcEq9lvN6llnOoJb8z3"
       },
@@ -2087,6 +2063,46 @@
       "duration_ms": 187105,
       "name": "Bata Boom - Remix",
       "url": "https://open.spotify.com/track/5iIi6vDS3ruNjn5sgwBSag"
+    },
+    {
+      "added_at": "2023-10-20 13:43:35",
+      "album": {
+        "name": "DALE DALE",
+        "url": "https://open.spotify.com/album/55GZVprq5iYoWZOBu4Xwj9"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        }
+      ],
+      "duration_ms": 183418,
+      "name": "DALE DALE",
+      "url": "https://open.spotify.com/track/5RYg5SW0iqIGAmHDmoU2vb"
+    },
+    {
+      "added_at": "2023-10-20 13:43:35",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/1CBTqGy6fo7NzRcHGxe9lP"
+      },
+      "artists": [
+        {
+          "name": "Los Dragones",
+          "url": "https://open.spotify.com/artist/0FtOEaKA25lR6G48iP1Jnt"
+        }
+      ],
+      "duration_ms": 211461,
+      "name": "El Mamado del Auto",
+      "url": "https://open.spotify.com/track/59a51WlcUh2OiYm3HZQuXk"
     },
     {
       "added_at": "2023-10-20 13:43:35",
@@ -2119,22 +2135,6 @@
       "duration_ms": 132840,
       "name": "Ritmo Sabroson",
       "url": "https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk"
-    },
-    {
-      "added_at": "2023-10-20 13:43:35",
-      "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/1CBTqGy6fo7NzRcHGxe9lP"
-      },
-      "artists": [
-        {
-          "name": "Los Dragones",
-          "url": "https://open.spotify.com/artist/0FtOEaKA25lR6G48iP1Jnt"
-        }
-      ],
-      "duration_ms": 211461,
-      "name": "El Mamado del Auto",
-      "url": "https://open.spotify.com/track/59a51WlcUh2OiYm3HZQuXk"
     },
     {
       "added_at": "2023-10-20 13:43:35",
@@ -2347,30 +2347,6 @@
     {
       "added_at": "2023-10-20 13:43:35",
       "album": {
-        "name": "L-Gante - El Apache Ness - Perro Primo",
-        "url": "https://open.spotify.com/album/0GnWjEYxMShvTyDeBynKBs"
-      },
-      "artists": [
-        {
-          "name": "El Apache Ness",
-          "url": "https://open.spotify.com/artist/5lPewWWLzFoRj13tTLgeF8"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        }
-      ],
-      "duration_ms": 203867,
-      "name": "L-Gante - El Apache Ness - Perro Primo",
-      "url": "https://open.spotify.com/track/7xPuaedCi3GLu5TmtuUkt9"
-    },
-    {
-      "added_at": "2023-10-20 13:43:35",
-      "album": {
         "name": "Sabado Picado",
         "url": "https://open.spotify.com/album/3jE8jm4PpLL3diaIqngVyl"
       },
@@ -2391,6 +2367,30 @@
       "duration_ms": 137608,
       "name": "Sabado Picado",
       "url": "https://open.spotify.com/track/0F0hZ3ztek0ldfjqNHFYmW"
+    },
+    {
+      "added_at": "2023-10-20 13:43:35",
+      "album": {
+        "name": "L-Gante - El Apache Ness - Perro Primo",
+        "url": "https://open.spotify.com/album/0GnWjEYxMShvTyDeBynKBs"
+      },
+      "artists": [
+        {
+          "name": "El Apache Ness",
+          "url": "https://open.spotify.com/artist/5lPewWWLzFoRj13tTLgeF8"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        }
+      ],
+      "duration_ms": 203867,
+      "name": "L-Gante - El Apache Ness - Perro Primo",
+      "url": "https://open.spotify.com/track/7xPuaedCi3GLu5TmtuUkt9"
     },
     {
       "added_at": "2023-10-20 13:43:35",

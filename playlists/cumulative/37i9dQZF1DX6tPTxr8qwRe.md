@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Dove Cameron
 
-517 songs - 23 hr 46 min
+518 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Barely on My Mind](https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 3:17 | 2022-04-08 | 2022-07-09 |
 | [Becky’s So Hot](https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Becky’s So Hot](https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE) | 2:42 | 2022-07-22 | 2022-11-19 |
 | [Bedroom](https://open.spotify.com/track/7fnICPO0s3jcQ049Yk0EmV) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Now That I've Been Honest](https://open.spotify.com/album/1XVQCnrnScVpeirmTCOZHz) | 2:53 | 2023-10-20 |  |
-| [beetlejuice \(dead to me\)](https://open.spotify.com/track/7uwGJNxwruP07ME7Z1vkVr) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [beetlejuice \(dead to me\)](https://open.spotify.com/album/6JKYIbJaSDxsnzE33TWyMv) | 2:06 | 2023-08-18 |  |
+| [beetlejuice \(dead to me\)](https://open.spotify.com/track/6fKlTefffyQnLwwHnnmiiL) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [life's a bitch..\. but it gets better](https://open.spotify.com/album/2bRpk2HmQS7y9SEyKnybUq) | 2:06 | 2023-10-06 |  |
+| [beetlejuice \(dead to me\)](https://open.spotify.com/track/7uwGJNxwruP07ME7Z1vkVr) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [beetlejuice \(dead to me\)](https://open.spotify.com/album/6JKYIbJaSDxsnzE33TWyMv) | 2:06 | 2023-08-18 | 2023-10-23 |
 | [BETTER](https://open.spotify.com/track/2QgZpszbkDWUYtf0Khmrge) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IF I DIED WOULD ANYONE CARE](https://open.spotify.com/album/0Ze8BkvkvoZ9VmiIM7s2hQ) | 2:57 | 2022-01-28 | 2022-05-14 |
 | [BF](https://open.spotify.com/track/5RAYG4rkqeW3WE5zkVHgdv) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [BF](https://open.spotify.com/album/4rQNdqxfjwv16sF8OxNp9C) | 2:07 | 2023-07-14 | 2023-09-23 |
 | [BIG GUNS](https://open.spotify.com/track/3NVrdvbonOD0DUETFnDFJL) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [BIG GUNS](https://open.spotify.com/album/3eAg2MEEJxhI7pvRxjha3F) | 3:09 | 2022-12-09 | 2023-01-14 |

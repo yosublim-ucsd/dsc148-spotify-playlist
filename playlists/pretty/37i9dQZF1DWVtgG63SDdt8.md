@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:57zYbDb1zNVoTYNUGmv45d">Ben Fuller</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,425 likes - 98 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,596 likes - 98 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 97 | [Flicker](https://open.spotify.com/track/3VUpcKoeWMDn4SjgE0RiWA) | [Theocracy](https://open.spotify.com/artist/627g4H0WzOhvuRRsbdBR6T) | [Mosaic](https://open.spotify.com/album/5EL0L9rYE8pc1ZHpK0Vsem) | 3:58 |
 | 98 | [Fire Fall \- Paris Jones Remix](https://open.spotify.com/track/4qeMpbZvw0szCC4doevP9d) | [Seth & Nirva](https://open.spotify.com/artist/4Om5bNcFn2zgwJPWXbTDJL), [Paris Jones](https://open.spotify.com/artist/1buXx0RSkvGYCCiAl03JIp) | [Fire Fall \(Paris Jones Remix\)](https://open.spotify.com/album/71Leq69TgDsIy5mlGlbBrh) | 4:10 |
 
-Snapshot ID: `MCw2ZTFmNzVhODhlMzJmYzJmNGY2ZmNjNDIzYTJhMzA5YTFlZWE3Njhm`
+Snapshot ID: `MCw1YzRhYWFmOTYzMzAyYjNkNzI5MjNlZGU3ZWE2MzM3ZGI4NGJkYjRh`

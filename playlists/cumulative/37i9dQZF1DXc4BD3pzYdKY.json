@@ -7572,7 +7572,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 205635,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
@@ -8060,6 +8060,24 @@
       "duration_ms": 153749,
       "name": "Kung Fu",
       "url": "https://open.spotify.com/track/5nD0Po382MQJjhgYz34k9o"
+    },
+    {
+      "album": {
+        "name": "L",
+        "url": "https://open.spotify.com/album/7pJtu1Hs5IaC7cIncpN3C6"
+      },
+      "artists": [
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170250,
+      "name": "L",
+      "url": "https://open.spotify.com/track/13GUmWrOYPpjTS1Mf9LQih"
     },
     {
       "album": {
@@ -9248,7 +9266,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 104004,
       "name": "Milk & Honey",
       "url": "https://open.spotify.com/track/3choLLOasD08nJeF3cWkDV"
@@ -9522,7 +9540,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 159469,
       "name": "MOUNTAINS",
       "url": "https://open.spotify.com/track/17OacgPhzAMKNLAkjaCxRD"
@@ -15798,7 +15816,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 173972,
       "name": "Up",
       "url": "https://open.spotify.com/track/3bY6606BZNDJsMJiFUQ9qj"
@@ -17064,7 +17082,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 182831,
       "name": "Worship",
       "url": "https://open.spotify.com/track/41odVDieeX0RhIimwLjgGk"

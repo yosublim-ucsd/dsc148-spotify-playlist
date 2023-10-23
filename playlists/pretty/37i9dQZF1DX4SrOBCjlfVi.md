@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring 21 Savage, Lil Uzi Vert, City Girls and more\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,801 likes - 49 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,009 likes - 49 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 41 | [Gotta Slide](https://open.spotify.com/track/7j9Iy33u0404yWDxGV4CtH) | [Sonny Digital](https://open.spotify.com/artist/655963AgkTZeYUvCyodCIL) | [Gotta Slide](https://open.spotify.com/album/6DSsYxurkVjSSw2aaRqPfg) | 2:13 |
 | 42 | [Check Me](https://open.spotify.com/track/62QMGHCDxMsyFAwAKuf4ML) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Check Me](https://open.spotify.com/album/47ykXljyBCF6mgCpSaM5C1) | 1:52 |
 | 43 | [Hard](https://open.spotify.com/track/5UFyDob8QPz4WerbhcfyM8) | [G6reddot](https://open.spotify.com/artist/4KN1fLTWx19e2jmVpotGmq) | [Hard](https://open.spotify.com/album/6KlqJ4BfHACC9la0oeUWS1) | 1:50 |
-| 44 | [cueto](https://open.spotify.com/track/2vp6MszgPgrV0O0u0dvxxw) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj), [pilotkid](https://open.spotify.com/artist/3ukau5CkXUAKSnegbAStXf) | [cueto](https://open.spotify.com/album/5ZQgThyHJFIeeXKg08hRRn) | 2:47 |
+| 44 | [cueto](https://open.spotify.com/track/2vp6MszgPgrV0O0u0dvxxw) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj), [Pilotkid](https://open.spotify.com/artist/286FnZHn1jC2EwmR0HtCkG) | [cueto](https://open.spotify.com/album/5ZQgThyHJFIeeXKg08hRRn) | 2:47 |
 | 45 | [Spirit \(feat\. 03 Greedo\)](https://open.spotify.com/track/1NrnZgvRMMSCvJzu9Qjr45) | [ASM Bopster](https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Sir CEO](https://open.spotify.com/album/4xYZJKqkjGcg7Od5GFalnx) | 3:04 |
 | 46 | [Monsoon](https://open.spotify.com/track/4eQqu4v3amr4tOsiHFJKlw) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Monsoon](https://open.spotify.com/album/62yXXgcKiIq7yXVgwFCgXY) | 2:01 |
 | 47 | [ABC](https://open.spotify.com/track/0gfD6UrxQWeGYleE2f3072) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx) | [ABC](https://open.spotify.com/album/5VJ38FZ0iYn80PXpriqDxD) | 2:46 |
 | 48 | [Give Em A Show](https://open.spotify.com/track/5l6eIWTmwDkadW03IDbYIe) | [Kidd Kenn](https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m) | [Busy Being Bad](https://open.spotify.com/album/6hVTA7m6JrrK16haH4AAwI) | 3:36 |
 | 49 | [Contacts](https://open.spotify.com/track/0EKNlEfWLUUlXFV2Xv5Ynj) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Contacts](https://open.spotify.com/album/1i0cSt3OejDSrTE7b6op3l) | 2:23 |
 
-Snapshot ID: `MCw4NDIzNDI1NzA2YWQ3NDE3NWM4ZTk5YjQ1MTA0YTUxNTA4ZGU3YzMy`
+Snapshot ID: `MCw2NDk2MDVjMDA0MTU3OWRiMjU4NmUyYjM5YTU5YjVhMTZmYTcxODNj`

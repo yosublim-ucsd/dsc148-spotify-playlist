@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=JERMlZ5YQVuqOQz2ox9UsQ">Manana</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,572 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,615 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 49 | [Friends](https://open.spotify.com/track/2nhyCoUnpb9hea8f95iK4K) | [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Friends](https://open.spotify.com/album/6LGd6l4RhmR8hh99nPdLbK) | 3:18 |
 | 50 | [Only](https://open.spotify.com/track/0BWXrf3aW3ZLgComAYwCR2) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Only](https://open.spotify.com/album/0CS7QjPjgW2cJnLRv2Dc3f) | 2:39 |
 
-Snapshot ID: `MCxiOWFkYjEwNDQwYmIzODA5OGNmNmQyYTQyZjZiOTRhNWJlODg1ZmQ5`
+Snapshot ID: `MCxlMTRlZjM3MmFmYWI1YzU1ODMzYzRmZThiZWMxYTE4ZjlhN2EwNDE4`

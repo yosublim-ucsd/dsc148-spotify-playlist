@@ -4,7 +4,7 @@
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-337 songs - 20 hr 0 min
+338 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,8 @@
 | [Palu Para](https://open.spotify.com/track/1ZtauuV73qklhDRpWQj0UV) | [Maduwa](https://open.spotify.com/artist/6T9FobM9aIj7dJW3daMrGV) | [Palu Para](https://open.spotify.com/album/6uyqQMbWvD2BOHhIagGYQf) | 3:46 | 2022-06-16 | 2022-10-14 |
 | [Paluwe Sathuta](https://open.spotify.com/track/16f1xUbj37jdrqkqLCEEkB) | [Senanga Dissanayake](https://open.spotify.com/artist/5r68YwgGItdBtZdTWQFQsJ), [Methun SK](https://open.spotify.com/artist/321A10RJQEZo2P1nLnS84x) | [Paluwe Sathuta](https://open.spotify.com/album/37jxBySqQ3CwWfFCsbH9wi) | 4:38 | 2023-10-17 |  |
 | [Pandama](https://open.spotify.com/track/4tCZJuBi83jzxwdo8TskUa) | [Dhanith Sri](https://open.spotify.com/artist/25JFNpUo9kGJwGwMPUDBRs) | [Pandama](https://open.spotify.com/album/2jTzaIGhYlWkS3bQjxNMan) | 3:05 | 2023-07-24 |  |
-| [Pathu Senehe](https://open.spotify.com/track/6KUWoAuTBI2cjyEQU3BGGA) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Poorna Sachintha](https://open.spotify.com/artist/6qv1RiuhjjYJ4AzTWhwZNt), [Kushani Sandarekha](https://open.spotify.com/artist/5SKyDKN538iUcic8y38gGA) | [Pathu Senehe](https://open.spotify.com/album/2zI0GPFNklCT170bOLHGF5) | 3:17 | 2023-05-26 |  |
+| [Pathu Senehe](https://open.spotify.com/track/53pagTwB7dRX13H9N83C6t) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Kushani Sandarekha](https://open.spotify.com/artist/5SKyDKN538iUcic8y38gGA), [Poorna Sachintha](https://open.spotify.com/artist/6qv1RiuhjjYJ4AzTWhwZNt) | [Pathu Senehe](https://open.spotify.com/album/7zENKrqYboWq35F1ab0bAX) | 3:17 | 2023-10-17 |  |
+| [Pathu Senehe](https://open.spotify.com/track/6KUWoAuTBI2cjyEQU3BGGA) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Poorna Sachintha](https://open.spotify.com/artist/6qv1RiuhjjYJ4AzTWhwZNt), [Kushani Sandarekha](https://open.spotify.com/artist/5SKyDKN538iUcic8y38gGA) | [Pathu Senehe](https://open.spotify.com/album/2zI0GPFNklCT170bOLHGF5) | 3:17 | 2023-05-26 | 2023-10-23 |
 | [Pawasanna](https://open.spotify.com/track/0oa39TWmQYITVFBSActlL4) | [Romesh Sugathapala](https://open.spotify.com/artist/1e3JYUy2zWuu6afa85vG0C) | [Pawasanna](https://open.spotify.com/album/2IHUbUmNbWUVewDSppBkKN) | 3:05 | 2023-10-03 |  |
 | [Pawela Kodu Akase](https://open.spotify.com/track/3IfseEvp5VAI6Bcc0NZWGe) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Samitha Mudunkotuwa](https://open.spotify.com/artist/4JZtZyM8iEjVLR56DgrI4c) | [Pawela Kodu Akase](https://open.spotify.com/album/5yM7fEWom6JO1g780noZ3d) | 3:57 | 2022-11-30 | 2023-10-18 |
 | [Pawela Kodu Akase Cover](https://open.spotify.com/track/0GW24FIbWpwYn5BIXCKFhR) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Malith Sanjaya](https://open.spotify.com/artist/7pYlTXXfTbiovLc0ZaJvpy) | [Pawela Kodu Akase Cover](https://open.spotify.com/album/13ASLbqFfqXUsQokTuBoBM) | 3:48 | 2023-05-26 | 2023-08-08 |

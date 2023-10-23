@@ -4,7 +4,7 @@
 
 > Perreando toda la noche con Quevedo, Ovy On The Drums & Yandel.
 
-628 songs - 1 day 10 hr 12 min
+629 songs - 1 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,8 @@
 | [Marisola \- Remix](https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Marisola \(Remix\)](https://open.spotify.com/album/262bymaji1sJPAldR7YyaH) | 3:57 | 2022-12-16 | 2023-04-22 |
 | [Marquesina \- Spotify Singles](https://open.spotify.com/track/7BHXZzga7nV1LuTyn1PF2q) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Marquesina \- Spotify Singles](https://open.spotify.com/album/66kMhD2bCMzhwgAtaEzhLM) | 2:17 | 2023-04-28 | 2023-09-30 |
 | [Me Arrepentí](https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Me Arrepentí](https://open.spotify.com/album/3kJfAuZ4uXc4WtccFWExg2) | 3:52 | 2022-04-08 | 2022-10-08 |
-| [Me Encanta](https://open.spotify.com/track/4kQ2SJmi1rPzx4KiI1fP62) | [Young Piri](https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Giuliano Yankees](https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B) | [Me Encanta](https://open.spotify.com/album/2hCZyEHRdv2SQAn6yhbnsq) | 3:37 | 2023-10-06 |  |
+| [Me Encanta](https://open.spotify.com/track/46reF3lUV0LS9OcvXcdoww) | [Young Piri](https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Giuliano Yankees](https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B) | [Me Encanta](https://open.spotify.com/album/5inYy3h8jSkuszKoLDNDVH) | 3:35 | 2023-10-20 |  |
+| [Me Encanta](https://open.spotify.com/track/4kQ2SJmi1rPzx4KiI1fP62) | [Young Piri](https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Giuliano Yankees](https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B) | [Me Encanta](https://open.spotify.com/album/2hCZyEHRdv2SQAn6yhbnsq) | 3:37 | 2023-10-06 | 2023-10-23 |
 | [Me Fije](https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Me Fije](https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC) | 3:22 | 2021-12-24 | 2022-01-29 |
 | [Me Pone Mal](https://open.spotify.com/track/1i7WoaZrt8jGH9vM0GKYdn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Me Pone Mal](https://open.spotify.com/album/7aJJYJalxCJx6kNLINcR9y) | 2:57 | 2023-04-21 | 2023-05-13 |
 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-05-06 | 2022-11-12 |

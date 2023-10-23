@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 347005,
+  "num_followers": 347074,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzdjZDZlNTIzODY4ZDcyZTliMTdlYjk4MTNhNWJiNDNmYjY1M2Fh",
+  "snapshot_id": "MCwxMDgxOTczMTk3ODJmOTc2NWQ2NWZlYzI3NWI2MTBlYWMwYTVmODNl",
   "tracks": [
     {
       "added_at": "2023-10-20 14:34:56",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-10-20 14:34:56",
       "album": {
-        "name": "Narrated For You",
-        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 181522,
-      "name": "If We Have Each Other",
-      "url": "https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF"
-    },
-    {
-      "added_at": "2023-10-20 14:34:56",
-      "album": {
         "name": "Thank You (Deluxe Version)",
         "url": "https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 213506,
       "name": "NO",
       "url": "https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc"
+    },
+    {
+      "added_at": "2023-10-20 14:34:56",
+      "album": {
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 181522,
+      "name": "If We Have Each Other",
+      "url": "https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF"
     },
     {
       "added_at": "2023-10-20 14:34:56",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-10-20 14:34:56",
       "album": {
-        "name": "Sie",
-        "url": "https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Steht Mir",
-      "url": "https://open.spotify.com/track/28z6EGq7hL41nBLCny3U1e"
-    },
-    {
-      "added_at": "2023-10-20 14:34:56",
-      "album": {
         "name": "Der letzte Tanz",
         "url": "https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 200100,
       "name": "Der letzte Tanz",
       "url": "https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM"
+    },
+    {
+      "added_at": "2023-10-20 14:34:56",
+      "album": {
+        "name": "Sie",
+        "url": "https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Steht Mir",
+      "url": "https://open.spotify.com/track/28z6EGq7hL41nBLCny3U1e"
     },
     {
       "added_at": "2023-10-20 14:34:56",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-10-20 14:34:56",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/7zQznatXJv40vMCjR2ztfb"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 172066,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0S5CurjBT1nbbD4YFTRrRv"
-    },
-    {
-      "added_at": "2023-10-20 14:34:56",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 156167,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz"
+    },
+    {
+      "added_at": "2023-10-20 14:34:56",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7zQznatXJv40vMCjR2ztfb"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 172066,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0S5CurjBT1nbbD4YFTRrRv"
     },
     {
       "added_at": "2023-10-20 14:34:56",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-10-20 14:34:56",
       "album": {
-        "name": "Broken Memories",
-        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 151307,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/4EXfwVdsRBBcyuSSy3CMlT"
-    },
-    {
-      "added_at": "2023-10-20 14:34:56",
-      "album": {
         "name": "Remember Roses",
         "url": "https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 192613,
       "name": "Wishing Girl",
       "url": "https://open.spotify.com/track/2iawlVRHk4Q9aPg0OgG20D"
+    },
+    {
+      "added_at": "2023-10-20 14:34:56",
+      "album": {
+        "name": "Broken Memories",
+        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 151307,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/4EXfwVdsRBBcyuSSy3CMlT"
     },
     {
       "added_at": "2023-10-20 14:34:56",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-10-20 14:34:56",
       "album": {
-        "name": "How Many Moons",
-        "url": "https://open.spotify.com/album/52UTuP81SsIORoHYbDjWc9"
-      },
-      "artists": [
-        {
-          "name": "LUI HILL",
-          "url": "https://open.spotify.com/artist/3fuo46vtxoWxN4jo0irBTS"
-        }
-      ],
-      "duration_ms": 183635,
-      "name": "How Many Moons",
-      "url": "https://open.spotify.com/track/6iF73wEQMGzFeSh8hob5so"
-    },
-    {
-      "added_at": "2023-10-20 14:34:56",
-      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/5eSlr42inu5AFjbZ2Wo6RZ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 214383,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/78MATjjZr1LB5RNntxSCGY"
+    },
+    {
+      "added_at": "2023-10-20 14:34:56",
+      "album": {
+        "name": "How Many Moons",
+        "url": "https://open.spotify.com/album/52UTuP81SsIORoHYbDjWc9"
+      },
+      "artists": [
+        {
+          "name": "LUI HILL",
+          "url": "https://open.spotify.com/artist/3fuo46vtxoWxN4jo0irBTS"
+        }
+      ],
+      "duration_ms": 183635,
+      "name": "How Many Moons",
+      "url": "https://open.spotify.com/track/6iF73wEQMGzFeSh8hob5so"
     },
     {
       "added_at": "2023-10-20 14:34:56",

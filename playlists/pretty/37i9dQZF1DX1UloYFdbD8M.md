@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Thaikkudam Bridge
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,075 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,140 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,18 +13,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 3 | [Giddh](https://open.spotify.com/track/3QSD8pMN4h5W7Q1uXf2llP) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Giddh](https://open.spotify.com/album/3xfYCwy48NZw4dKdmDURiO) | 4:18 |
 | 4 | [Be Free](https://open.spotify.com/track/25iXD24rJ3QByQl58vG5hB) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN) | [Kuthu Fire](https://open.spotify.com/album/1t6ey57jKPumpSusx0mMKn) | 3:27 |
 | 5 | [Padayatra \- Live](https://open.spotify.com/track/2PDaNC5MT6HZYE52HYHyjo) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Padayatra \(Live\)](https://open.spotify.com/album/2i97iGps3MYG1kG87i3be1) | 4:50 |
-| 6 | [Marap](https://open.spotify.com/track/66aRgKCtqQFWLSGeFKgWQt) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Marap](https://open.spotify.com/album/5AOF1Y9vmK21GyQk9qhmuu) | 3:46 |
-| 7 | [Chekuthan](https://open.spotify.com/track/5Zoe8tHOVTMOzeapdpQeYL) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan](https://open.spotify.com/album/0HH6caLXMV6xudGoXkFn9q) | 2:48 |
+| 6 | [Chekuthan](https://open.spotify.com/track/5Zoe8tHOVTMOzeapdpQeYL) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan](https://open.spotify.com/album/0HH6caLXMV6xudGoXkFn9q) | 2:48 |
+| 7 | [Marap](https://open.spotify.com/track/66aRgKCtqQFWLSGeFKgWQt) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Marap](https://open.spotify.com/album/5AOF1Y9vmK21GyQk9qhmuu) | 3:46 |
 | 8 | [Pravasi](https://open.spotify.com/track/2T5FVgSvxUyEn1rH4Stfu2) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 4:03 |
 | 9 | [Fish Rock](https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Fish Rock](https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv) | 4:19 |
-| 10 | [Oombalum Kanjiyum](https://open.spotify.com/track/5VmM4mDYJQ0Y0lEWWDEMXr) | [Malayali Monkeys](https://open.spotify.com/artist/6d3qaRXhI6yFy5MgYQ56qI) | [Oombalum Kanjiyum \- From "Think Indie"](https://open.spotify.com/album/2mPXGVd0rEORx5W7GfTRcm) | 4:08 |
-| 11 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR) | 5:49 |
+| 10 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR) | 5:49 |
+| 11 | [Oombalum Kanjiyum](https://open.spotify.com/track/5VmM4mDYJQ0Y0lEWWDEMXr) | [Malayali Monkeys](https://open.spotify.com/artist/6d3qaRXhI6yFy5MgYQ56qI) | [Oombalum Kanjiyum \- From "Think Indie"](https://open.spotify.com/album/2mPXGVd0rEORx5W7GfTRcm) | 4:08 |
 | 12 | [Veyil](https://open.spotify.com/track/2JgpqEHj0uO7s45Fg7womt) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Veyil](https://open.spotify.com/album/5WyjHb4OPKvSBJje60DtZU) | 3:05 |
-| 13 | [I.O.Y.A \(Ayyo Vayye\)](https://open.spotify.com/track/2hs0eVQRkBiGw8nLPN2rIu) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [I.O.Y.A \(Ayyo Vayye\)](https://open.spotify.com/album/3oKCeBPVdQrbrIU28yml2n) | 3:45 |
+| 13 | [Aadiyilalo](https://open.spotify.com/track/11eWp7aUhs9RShuCrnglDc) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Aadiyilalo \- Single](https://open.spotify.com/album/0FAYTUKDSrmcj9yht287Lr) | 4:12 |
 | 14 | [Kaalam \- Hope Project](https://open.spotify.com/track/46UYJcjYixI76qsA8RBrrC) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Kaalam \(Hope Project\)](https://open.spotify.com/album/7gslmJ0SdG9UcuyznLSWty) | 3:48 |
 | 15 | [Puttu Paattu](https://open.spotify.com/track/7i8me6jJ0iAWHeOwdImXFT) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 5:32 |
-| 16 | [Aadiyilalo](https://open.spotify.com/track/11eWp7aUhs9RShuCrnglDc) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Aadiyilalo \- Single](https://open.spotify.com/album/0FAYTUKDSrmcj9yht287Lr) | 4:12 |
-| 17 | [Vaarkadal](https://open.spotify.com/track/457AZM8fq9yR2yRfRRrD9N) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Vaarkadal](https://open.spotify.com/album/2TYy2MAcm8czR5fXD1Ayxp) | 4:25 |
+| 16 | [Vaarkadal](https://open.spotify.com/track/457AZM8fq9yR2yRfRRrD9N) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Vaarkadal](https://open.spotify.com/album/2TYy2MAcm8czR5fXD1Ayxp) | 4:25 |
+| 17 | [I.O.Y.A \(Ayyo Vayye\)](https://open.spotify.com/track/2hs0eVQRkBiGw8nLPN2rIu) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [I.O.Y.A \(Ayyo Vayye\)](https://open.spotify.com/album/3oKCeBPVdQrbrIU28yml2n) | 3:45 |
 | 18 | [Chekele](https://open.spotify.com/track/0qQbAdaUAXz3niHgqKL6Xj) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:01 |
 | 19 | [Enthavo](https://open.spotify.com/track/16Ijfdrq8MPcCZoky28NVP) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Enthavo](https://open.spotify.com/album/1KubOLlcV8zJ21veewmxp1) | 3:39 |
 | 20 | [Navarasam](https://open.spotify.com/track/6w53UWYxXvQv5nU7GdNz1w) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 6:34 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 27 | [Ettam Pattu](https://open.spotify.com/track/1Qdtb5KTgYNN5U6eeuw2jA) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:49 |
 | 28 | [Thaaraattu \- Live](https://open.spotify.com/track/2fe5loAluoPJsHT1nCpgDc) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaaraattu \(Live\)](https://open.spotify.com/album/5kqLzeSaEAv5Shc5wAnvud) | 3:02 |
 | 29 | [Eppo Varuvaro + Kimkim](https://open.spotify.com/track/306LQyajNTdFu8kfzF2suV) | [Sudeep Palanad](https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3), [Remya Vinayakumar](https://open.spotify.com/artist/5r5NmEm8qG0QsBas0EKKjI) | [Eppo Varuvaro + Kimkim](https://open.spotify.com/album/0oWPcz6SiFyEUTAC1UXnHa) | 3:57 |
-| 30 | [Urumbu](https://open.spotify.com/track/3YJhk1j7I3JGekpNKVf0Jn) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 5:13 |
-| 31 | [Athiru Kaakkum](https://open.spotify.com/track/6kwkD4YCRU4pH1NeY1vqt6) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Athiru Kaakkum](https://open.spotify.com/album/4UCDnO9iM4ANbFUG4OV9LW) | 3:42 |
+| 30 | [Athiru Kaakkum](https://open.spotify.com/track/6kwkD4YCRU4pH1NeY1vqt6) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Athiru Kaakkum](https://open.spotify.com/album/4UCDnO9iM4ANbFUG4OV9LW) | 3:42 |
+| 31 | [Urumbu](https://open.spotify.com/track/3YJhk1j7I3JGekpNKVf0Jn) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 5:13 |
 | 32 | [Mazha](https://open.spotify.com/track/6FQlgBbteed9kBiZIHfYuk) | [Rohit Matt](https://open.spotify.com/artist/2NxaBdfeHXKhnl7fBoJBOC), [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T) | [Mazha](https://open.spotify.com/album/0duNv6aeYqZA46xqHLwH4G) | 3:51 |
 | 33 | [Chayapattu](https://open.spotify.com/track/4y7DF2YwXJPcYpX9mFl8pW) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn) | 2:29 |
 | 34 | [Gopa Trance](https://open.spotify.com/track/2U2YHuFB8kYdmYzOp2FHg5) | [Madhuvanthi Narayan](https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8) | [Gopa Trance](https://open.spotify.com/album/3nSlJ9VWwpcX66QgFjSZNe) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 49 | [Oru January](https://open.spotify.com/track/0YuwGkDbm0RzREWYaAfPfP) | [Bineetha Ranjith](https://open.spotify.com/artist/0hYeiOpfSvwJ6IvJPy9aHD) | [Oru January](https://open.spotify.com/album/1PVGkTGupgo1USnoeYfYuM) | 4:42 |
 | 50 | [Dhoore](https://open.spotify.com/track/6den5JW5dn0hLrhnD9UkQS) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Dhoore](https://open.spotify.com/album/6VNO3pELBmVoivHKhoV9I3) | 3:30 |
 
-Snapshot ID: `MCxjYjkxODEwZTMwZGM3ZjM5NjJkODZlNjgwNjUwZmViNTNjOTc4MmVl`
+Snapshot ID: `MCw2ZGJhNGJlYzE3YjAwZTcxNDVjNWNiOWQzNWJhNGIwNWVlYjU4ZTRm`

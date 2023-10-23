@@ -4,7 +4,7 @@
 
 > Los sonidos urbanos de RD, pa' lo tígueres de alta gama\. En portada: Dilon Baby
 
-234 songs - 11 hr 32 min
+235 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,8 @@
 | [Tan Bajando](https://open.spotify.com/track/1zw2QH6AwZQCrZ2UhEDJGT) | [Don Forty Five](https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Tan Bajando](https://open.spotify.com/album/6k2PVJduVsYe9pzkhm51I1) | 2:27 | 2022-12-23 | 2023-09-30 |
 | [Tan Quedao](https://open.spotify.com/track/252C5FtbrETqo6ZJE1vmyx) | [Briante](https://open.spotify.com/artist/7lrpjS4SyP3jdyB7i27Yf4), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Tan Quedao](https://open.spotify.com/album/3mSxOqShLIxTkePLdEDo8Q) | 2:22 | 2023-01-06 | 2023-10-19 |
 | [Tan Quedao](https://open.spotify.com/track/6IhKaUibbPr6XAh916LIKu) | [Briante](https://open.spotify.com/artist/7lrpjS4SyP3jdyB7i27Yf4), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Tan Quedao](https://open.spotify.com/album/7qAEfWnAVoOaUu2y0sE6WZ) | 2:22 | 2023-07-18 |  |
-| [Tatanita](https://open.spotify.com/track/1YQ0FkvlPz8fDqC1xHxyyb) | [Lito Kirino](https://open.spotify.com/artist/3ncPa7jYtkSXeyIDaK6YdA) | [Tatanita](https://open.spotify.com/album/38wNatyY6fjt2AgYMfMmtG) | 3:15 | 2023-05-26 |  |
+| [Tatanita](https://open.spotify.com/track/33yviuo2xDLqUjr6vFPOKi) | [Exotico](https://open.spotify.com/artist/1KlpReitxbGPUQwgBIvhu0), [GTA Montana](https://open.spotify.com/artist/6Uqd8A4SnYzqZqImaDqnaG) | [Tatanita](https://open.spotify.com/album/7qpGOu9U3jDwnDA8Rv8aTm) | 3:15 | 2023-07-18 |  |
+| [Tatanita](https://open.spotify.com/track/1YQ0FkvlPz8fDqC1xHxyyb) | [Lito Kirino](https://open.spotify.com/artist/3ncPa7jYtkSXeyIDaK6YdA) | [Tatanita](https://open.spotify.com/album/38wNatyY6fjt2AgYMfMmtG) | 3:15 | 2023-05-26 | 2023-10-23 |
 | [Te Di](https://open.spotify.com/track/1QQkRCaIx9PGwDiHioHKuz) | [Mainol Mc](https://open.spotify.com/artist/1qTcZh5CksHbA7vbdUYU8f), [La Mas Doll](https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK) | [Te Di](https://open.spotify.com/album/6ejadwbW8Tad3WmUyaiCTd) | 2:20 | 2023-09-29 |  |
 | [Te Estudiamos](https://open.spotify.com/track/02qjedAfRU0kjEfoCUDg6h) | [Dylan](https://open.spotify.com/artist/6MNDsKmYfRubMvFbKaIZiL), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Te Estudiamos](https://open.spotify.com/album/7yY5UUXII2ghOBsoaptppF) | 2:44 | 2023-08-09 |  |
 | [Tiembla](https://open.spotify.com/track/1L96UQiYAT2AGzHir0eXNf) | [Aron Luix](https://open.spotify.com/artist/0g8PbULxKIoYGWwYtpaVqv), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Tiembla](https://open.spotify.com/album/6UPZluwCWXaysCKvksMikq) | 2:33 | 2022-03-15 | 2022-04-15 |

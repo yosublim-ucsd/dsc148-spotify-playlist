@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [New Moon](https://open.spotify.com/track/05gCLdUSYdCMoyu40MC5V0) | [BananaLemon](https://open.spotify.com/artist/3JKU6cvr3SESsNviVlNCZc) | [BESTY](https://open.spotify.com/album/0d3SQNjZ1hynZ14FQmWS3e) | 3:03 |
 | 50 | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/track/5AVYMvMEZ0kFbuskjxTrsP) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Neo Standard](https://open.spotify.com/album/6vXMlkcOS97nxv48Kl76MV) | 3:17 |
 
-Snapshot ID: `MCw2NTBkZTJlMzIzOWJiN2NiNzQyMTczNzA1MWVhNWI2OGU0NzcyYWQ2`
+Snapshot ID: `MCw5ZTM3ZDk1YzE5OTc5MzI3MTBkZmNlZDYwN2MzMTQyZTU4ZTk0OWY1`

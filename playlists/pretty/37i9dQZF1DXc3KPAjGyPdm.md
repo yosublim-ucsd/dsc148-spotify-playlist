@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,118,707 likes - 198 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,118,455 likes - 198 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 72 | [Shiver Me Timbers](https://open.spotify.com/track/5kdKeBozyX8PRvhAUaUrWV) | [Paddy Kingsland](https://open.spotify.com/artist/16esHTYwUm6JWRj2Qijsq6) | [In Character](https://open.spotify.com/album/1bKQrqQnMFyO4ybU3i1t2U) | 0:59 |
 | 73 | [All Hands Forward](https://open.spotify.com/track/26372a3uGIJN6F8A5mupfs) | [Gerald Crossman](https://open.spotify.com/artist/1VPmRAzP5pQtV15VQ3BPHc) | [Well Known Tunes of England, Ireland, America & More](https://open.spotify.com/album/6QQu6K3MCLDPk8iqPO95ly) | 1:32 |
 | 74 | [Gunpoint Affection](https://open.spotify.com/track/5ZZGzKa8TTRiE6tyal0AjX) | [Black Market Baby](https://open.spotify.com/artist/1pI4G6rXOzQdOUWrNO2P6H) | [Coulda..\. Shoulda..\. Woulda \(The Black Market Baby Collection\)](https://open.spotify.com/album/4j1UB6mtgsCYdoz2jcxAqe) | 3:52 |
-| 75 | [Ballroom Foxtrot](https://open.spotify.com/track/1ZwO6QQRl7ld1IBhqPZjT6) | [John Leighton](https://open.spotify.com/artist/62JgHVqcsjhM0GaECg6Q7R) | [Music Featured in "The Catcher Was a Spy"](https://open.spotify.com/album/4yb8x5btcqVaKzymTgZqh0) | 2:50 |
+| 75 | [Ballroom Foxtrot](https://open.spotify.com/track/5FzttJVpvEW05dlgXpZKYf) | [John Leighton](https://open.spotify.com/artist/62JgHVqcsjhM0GaECg6Q7R) | [Music Featured in "The Catcher Was a Spy"](https://open.spotify.com/album/4KfALVBKLZvI1QPVwecENa) | 2:50 |
 | 76 | [Too Late for Tears](https://open.spotify.com/track/7zD01Fccmnldl5plg5B164) | [Andrea Litkei](https://open.spotify.com/artist/67WiEEjHCFYaxyAbs7OXp8), [Ervin Litkei](https://open.spotify.com/artist/5UjzFfveBtER1Oivoaa9X8) | [Diner Jukebox](https://open.spotify.com/album/2Wb6hbl4BRoPC2iqfEq8je) | 2:05 |
 | 77 | [My Bologna](https://open.spotify.com/track/5aUTSJltF24eevgzM2j7gE) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 1:59 |
 | 78 | [Material Girl](https://open.spotify.com/track/2PMcv8wvhIrAGBCFSsiP4w) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 4:00 |

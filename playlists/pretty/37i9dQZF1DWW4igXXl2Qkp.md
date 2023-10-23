@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:4bOqkIGQCcuZgjfDxNuX1I">Anycia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,866 likes - 75 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,927 likes - 75 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [iwannaknow](https://open.spotify.com/track/1cFtl5Anb4WK4OkTVJwMrh) | [Matthew Ali](https://open.spotify.com/artist/3P0ckFbRO6oAmgflWXmM1E) | [ASB2](https://open.spotify.com/album/6fvOLyk3E5slggn3a0R7YW) | 3:37 |
 | 75 | [Call You Back](https://open.spotify.com/track/5szHpSNNHyCWm1QAXSXNAI) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Call You Back](https://open.spotify.com/album/402rHWZJdaBEwHbq4whmJc) | 2:40 |
 
-Snapshot ID: `MCxiMWQ2NzViYWE1YTdlY2JlYWMyNGJhMzYyMWM0MTU3NWZiMzQxMWQ1`
+Snapshot ID: `MCwyNzhmNTAxN2M1NTBlOWMzNzZkOWI4ZmUzYTM2NmJjNWJjNzY5OThi`

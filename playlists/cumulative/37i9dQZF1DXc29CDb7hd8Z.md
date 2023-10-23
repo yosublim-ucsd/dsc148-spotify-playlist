@@ -4,7 +4,7 @@
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-133 songs - 6 hr 56 min
+134 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1981](https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ) | [Hautefort](https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg) | [1981](https://open.spotify.com/album/2sBnGK0TmbE9uSjX8G7bin) | 4:14 | 2022-02-15 |  |
 | [24 Preludes & Fugues, Vol\. 1: Fugue No\. 1 in C Major](https://open.spotify.com/track/36PxV9kIbZkD2r7PYLxEjD) | [Nikita Koshkin](https://open.spotify.com/artist/5N7vvw3UUvJUozmjcC1eZ9), [Asya Selyutina](https://open.spotify.com/artist/57AO6LqZAR78fzCfUyRuOq) | [Nikita Koshkin: 24 Preludes & Fugues, Vol\. 1](https://open.spotify.com/album/0muovX9jauWMbbi9pks3dp) | 2:21 | 2021-09-10 |  |
 | [8 Memories in Watercolor: No\. 7\. Floating Clouds](https://open.spotify.com/track/6YGfqwcBzKwGgDnyfINTgB) | [Tan Dun](https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT), [Warren Lee](https://open.spotify.com/artist/1J58bIgS1UnIVfYO1MINWh) | [Touches & Traces](https://open.spotify.com/album/07lcKgwOWK1SC43nTl2AbW) | 2:26 | 2021-09-10 |  |
+| [A Host for All Kinds of Life](https://open.spotify.com/track/557lM1DeqevRyI3PQm1rI2) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [A Host for All Kinds of Life](https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl) | 3:59 | 2023-10-13 |  |
 | [Acōlmiztli](https://open.spotify.com/track/6TfMblmD4IEYbUkECvnbho) | [Uriel VIllalobos Alva](https://open.spotify.com/artist/7bWtjxmBs2HQH4A4iO8LmA), [Uriel Villalobos](https://open.spotify.com/artist/0xszix5WIkPOTjBrXlJQfu) | [Chicxulub](https://open.spotify.com/album/0ECX5VMP06pTlNkFAprmsv) | 3:34 | 2023-05-12 |  |
 | [aisatsana \[102\]](https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 5:21 | 2021-09-10 |  |
 | [Akureyri](https://open.spotify.com/track/11EzW4cqMMGyOloFA7MdvK) | [Petra Birgisdóttir](https://open.spotify.com/artist/3adgqj7rUBUySnFjtS9QCb) | [Akureyri](https://open.spotify.com/album/4S4I9HnAeOafLLL9FvsrYW) | 1:58 | 2021-09-10 |  |

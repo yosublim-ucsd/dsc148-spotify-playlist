@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 84441,
+  "num_followers": 84889,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzYwOWNmMmNlMjgzYWI0YjM2MzNlNThjOTUzM2JmYWQwZjIyOGE3",
+  "snapshot_id": "MCwwNWYyNzVjMmVlZmRkM2JkYjJiYTM3YTQ4ODk3OTdlMWM0Nzg0MjJk",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Coco Blood",
+        "url": "https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 215848,
+      "name": "Coco Blood",
+      "url": "https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j"
       },
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Coco Blood",
-        "url": "https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 215848,
-      "name": "Coco Blood",
-      "url": "https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Fall into place",
         "url": "https://open.spotify.com/album/6H9LrowBd43bph6WF3NKxo"
       },
@@ -1215,26 +1215,6 @@
       "duration_ms": 168576,
       "name": "Fall into place",
       "url": "https://open.spotify.com/track/0f6kT8WozcmtkenxnhDbp6"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Hyperion",
-        "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
-      },
-      "artists": [
-        {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
-        },
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "So Bad (feat. HAIM)",
-      "url": "https://open.spotify.com/track/2qre5YuCk0fuKw0Z60E28W"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1255,6 +1235,26 @@
       "duration_ms": 216906,
       "name": "Hair Down (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/4QiyTGoMBRz4AHbsPYgiRc"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Hyperion",
+        "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
+      },
+      "artists": [
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "So Bad (feat. HAIM)",
+      "url": "https://open.spotify.com/track/2qre5YuCk0fuKw0Z60E28W"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "How Is Your Soul?",
-        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 166848,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "who knew (from Grown-ish)",
         "url": "https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 202960,
       "name": "who knew - from Grown-ish",
       "url": "https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "How Is Your Soul?",
+        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "duration_ms": 166848,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
     },
     {
       "added_at": "2023-10-19 22:00:00",

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: hemlocke springs
 
-1,692 songs - 3 day 17 hr 11 min
+1,693 songs - 3 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,7 +405,7 @@
 | [dirty laundry](https://open.spotify.com/track/3YqR8e9TdO83Hq0a3MwlEE) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [ap vol\. I](https://open.spotify.com/album/36BzRzxO8gAWRzbM9M0fMe) | 2:31 | 2022-10-15 | 2022-10-22 |
 | [Disco Man](https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj) | 3:12 | 2023-04-21 |  |
 | [Disgustingly Perfect](https://open.spotify.com/track/3TyqbrNobEQI53qfkYiBTV) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [Shades Of Indigo](https://open.spotify.com/album/2MZigZKrCrvDzLK2BQIYEF) | 2:55 | 2022-10-15 | 2022-12-10 |
-| [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25) | 3:35 | 2023-07-21 |  |
+| [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25) | 3:35 | 2023-07-21 | 2023-10-23 |
 | [Dizzy](https://open.spotify.com/track/3Ub91jxLv1QKAa6hUVElf9) | [JDM Global](https://open.spotify.com/artist/3wFZTYWrzLzOf8OICy9fBl) | [Dizzy](https://open.spotify.com/album/3HEwXCIMXuF6c3ggpNlWOR) | 2:37 | 2022-06-14 | 2022-06-25 |
 | [Dizzy](https://open.spotify.com/track/2vB3u3aqSPeH51SSUuNbOh) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Dizzy](https://open.spotify.com/album/6xtaio0Ol0lIHaiOSSvz0m) | 2:40 | 2021-05-05 | 2021-05-21 |
 | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/album/12W0CN6ybPdK5ZeHnff5k4) | 2:38 | 2021-11-19 | 2022-12-07 |
@@ -1404,6 +1404,7 @@
 | [Still Here](https://open.spotify.com/track/5NRFBtaNmTV0F9NaPwhOL2) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Still Here](https://open.spotify.com/album/4rWzxxuZF4Yox7buaxMM6I) | 3:34 | 2021-02-22 | 2021-05-27 |
 | [Still In Love](https://open.spotify.com/track/4nI5nW9MYQ1Sqf9oSotmla) | [Jackson Harris](https://open.spotify.com/artist/0pW16l7mPsVjS9CdmvOstz) | [Still In Love](https://open.spotify.com/album/7ohMD9pTi6zTMLAGlo1Ldy) | 2:57 | 2021-02-22 | 2021-05-26 |
 | [Stomping](https://open.spotify.com/track/2RCxfudVc5y1cPvppLwVAp) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG), [Isa Reyes](https://open.spotify.com/artist/4TByvCGrRIFKUl3rMQKQa1) | [Stomping / 2 Be Loved](https://open.spotify.com/album/2A6g4eLSERVlqQHLF3nVug) | 2:12 | 2022-01-14 | 2022-04-21 |
+| [Stones](https://open.spotify.com/track/2Y9s7N2xW1mPhnasYm5Cuq) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Stones](https://open.spotify.com/album/06spE9ETkbGlW4P82T5A5t) | 3:12 | 2023-09-29 |  |
 | [Stories](https://open.spotify.com/track/6E1ZonB1Fosz99Rg0tUBTi) | [Refs](https://open.spotify.com/artist/7yxpGyw5CZPsrTPpkERpc4) | [Stories](https://open.spotify.com/album/15LF2XANVOYyWG8Hv8TVNp) | 3:39 | 2020-10-20 | 2020-10-21 |
 | [Story](https://open.spotify.com/track/48IX89LSn9RBYD8nPCafqy) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [ROUSSO](https://open.spotify.com/artist/0B0XXiGxIzdpQAvf3otjUb) | [Story](https://open.spotify.com/album/5ZTJQd7edvaKfvOzSumQoK) | 3:11 | 2021-03-15 | 2021-03-19 |
 | [Strangers](https://open.spotify.com/track/2gfTJc2ISxXz7KmsvN8W46) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Strangers](https://open.spotify.com/album/1kYjmWV0qy5tqasdtKjw7V) | 2:46 | 2020-10-20 | 2021-06-03 |

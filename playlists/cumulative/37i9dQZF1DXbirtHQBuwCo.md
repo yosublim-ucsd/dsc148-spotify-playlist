@@ -4,7 +4,7 @@
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: DPR IAN\)
 
-635 songs - 1 day 10 hr 6 min
+636 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [haPPiness](https://open.spotify.com/track/6PZTv0EvVzo6fhgW5ROdHU) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [haPPiness](https://open.spotify.com/album/0ZFcJGKiDF7qr3WiTpUSLn) | 3:31 | 2022-04-19 | 2022-07-18 |
 | [Happy New Year](https://open.spotify.com/track/4eNbLN9Hara5j8WgE6SOo3) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Happy New Year](https://open.spotify.com/album/2OPxnNNxWaSmTWxQVsIWz6) | 2:48 | 2022-05-11 | 2022-06-22 |
 | [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2022-11-09 | 2022-11-15 |
-| [Hear Me Out](https://open.spotify.com/track/44EXniDpWap2veS1gH1svO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Hear Me Out](https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ) | 3:24 | 2023-07-05 |  |
+| [Hear Me Out](https://open.spotify.com/track/44EXniDpWap2veS1gH1svO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Hear Me Out](https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ) | 3:24 | 2023-07-05 | 2023-10-23 |
 | [Heart](https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Belief](https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw) | 3:16 | 2022-04-19 | 2022-07-29 |
 | [Hello \(Feat\. MINHYUK LEE \(HUTA\)\)](https://open.spotify.com/track/6MCyFFKPrmTLQGPtW9H34W) | [CherryB](https://open.spotify.com/artist/0Bd1VLl8A4yk5vo2XfVnCd), [MINHYUK LEE \(HUTA\)](https://open.spotify.com/artist/0joPKRVT2TAG2puWLPGkbx) | [Hello](https://open.spotify.com/album/0cnfSAKHuz3pahoqIpen8V) | 2:57 | 2022-04-19 | 2022-04-21 |
 | [Hey Steve](https://open.spotify.com/track/1OmD2liXaVZmE0Gqg1fSzg) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 1:31 | 2023-02-14 | 2023-02-25 |
@@ -267,6 +267,7 @@
 | [Horizon](https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Horizon \- NCT LAB](https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf) | 3:42 | 2023-08-09 |  |
 | [How About You?](https://open.spotify.com/track/2lKyx5GVAKJUZ4wXlk3nuD) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [How About You?](https://open.spotify.com/album/508XKBxqwGYZbgHrFfqx87) | 3:18 | 2022-04-22 | 2022-07-04 |
 | [How Can You Realize?](https://open.spotify.com/track/2asKgZgqAKStPQX6ofZu8T) | [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z) | [How Can You Realize?](https://open.spotify.com/album/5k4t2hn8vqG7dkIfIJFaL9) | 2:46 | 2022-04-19 | 2022-04-21 |
+| [How much more \(Feat\. Chan\)](https://open.spotify.com/track/0n7dhbhACD43sGsvGwJ1St) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Love & Groove](https://open.spotify.com/album/11tgnCPolVS02npePYySB0) | 3:21 | 2023-10-20 |  |
 | [Hug me](https://open.spotify.com/track/0DR5f8q121WNyg0Sbc1FCD) | [JEMINN](https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2) | [Hug me](https://open.spotify.com/album/1FqsLIzzvRSUGOJRZDk4mJ) | 4:37 | 2022-06-20 | 2022-06-23 |
 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 | 2022-08-12 |  |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-18 |  |

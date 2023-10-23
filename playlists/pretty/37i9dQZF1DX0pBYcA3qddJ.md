@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,240 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,262 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 89 | [Laurel Wreath](https://open.spotify.com/track/7L33XpWETfNg4nxlAiqZT6) | [Kohei Okutani](https://open.spotify.com/artist/5tihKbpd8nwdRbZcuIomTd) | [Laurel Wreath](https://open.spotify.com/album/1z70p8t5Ue8algAcAiMhVx) | 4:33 |
 | 90 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
 | 91 | [tone \- feat\. GIRA MUNDO](https://open.spotify.com/track/3Dgn42lyjmfxyL69qpBCKB) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy), [GIRA MUNDO](https://open.spotify.com/artist/62Va8ffu6xF2kgP4oqHBkW) | [tone \(feat\. GIRA MUNDO\)](https://open.spotify.com/album/64G5fyF0zzLyxxqg4WIKTJ) | 5:18 |
-| 92 | [Reflexion](https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Timo Andres](https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz), [Conor Hanick](https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO) | [Reflections](https://open.spotify.com/album/5VHkiYllmLhZ2ZJ6fzJg21) | 2:57 |
+| 92 | [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 |
 | 93 | [ブルーワンダー](https://open.spotify.com/track/6nXfMNZEVy7F4kDGahfJm7) | [ERWIT](https://open.spotify.com/artist/7AjGWpFOzIh47HAdUo1CMl) | [ブルーワンダー](https://open.spotify.com/album/2sTCnK7Omn6Fqym82oxurH) | 2:45 |
-| 94 | [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 |
+| 94 | [Reflexion](https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Timo Andres](https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz), [Conor Hanick](https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO) | [Reflections](https://open.spotify.com/album/5VHkiYllmLhZ2ZJ6fzJg21) | 2:57 |
 | 95 | [Alone](https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [CeaseTone](https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8) | [Alone](https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW) | 4:33 |
 | 96 | [beautiful day](https://open.spotify.com/track/4ndFUYVNhh4NRPBpt6F890) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [beautiful day](https://open.spotify.com/album/4KcJOUrysPeU4YuDFnpBvm) | 2:45 |
 | 97 | [Romance Dai 2 ban Op.50 \(Beethoven\)](https://open.spotify.com/track/2rKOIRnpxAWTu8x59bbsTE) | [Mariko Senju](https://open.spotify.com/artist/2MkoLewykoUQinAGtZdF9W), [Pierre Dervaux](https://open.spotify.com/artist/0KvsxPaE9zVFOFWGVaQcmU), [Luxembourg Radio Symphony Orchestra](https://open.spotify.com/artist/3PiFts5w1ytZKYU8lKqqpG) | [Ongaku Kenkou Yuuryouji 2 Sawayaka Egao no Ongaku \-Selection\-](https://open.spotify.com/album/6Ml8fEaZpZhmixHQAmTvbG) | 8:51 |
-| 98 | [Hinoki Wood](https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Romantic Piano](https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM) | 1:34 |
+| 98 | [Letting Go](https://open.spotify.com/track/5PTZ3ef9lHE6YJqxp9nhh9) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Letting Go](https://open.spotify.com/album/6i9Q0J3gdMhjra2NRrb5B4) | 3:29 |
 | 99 | [ドビュッシー:夢](https://open.spotify.com/track/3x7A5efAHawOPeh3MML8Ge) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Nobuyuki Tsujii](https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j) | [月の光 〜 辻井伸行 plays ドビュッシー](https://open.spotify.com/album/1HoEFHhXkso8pWbFQvyPG7) | 3:47 |
-| 100 | [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 |
+| 100 | [Hinoki Wood](https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Romantic Piano](https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM) | 1:34 |
 
-Snapshot ID: `MCxkNTZlNzZmMzM1YWZkMGQxYTQwMzU1MmFmZjZiNGNjM2M5NzZmZjE1`
+Snapshot ID: `MCw2ZDc1N2IyMThkNmI1NzQzODg3ODVmNzZhYTA5MzI0NDBjMWUxOTRk`

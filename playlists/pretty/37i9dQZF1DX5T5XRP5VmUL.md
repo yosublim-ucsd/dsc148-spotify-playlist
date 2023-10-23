@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Dreaming of a white Christmas ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,805 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,814 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [Count Your Blessings Instead Of Sheep](https://open.spotify.com/track/0pgP4ROMLqFVDby6dedXwz) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:40 |
 | 100 | [Wrapped Up In A Bow](https://open.spotify.com/track/2rZPw3dfHEcCGGYanVJS4k) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [Wrapped Up In A Bow](https://open.spotify.com/album/2KvS6XY72ABMBWDaZykq4b) | 2:53 |
 
-Snapshot ID: `MCxkZTk0OGI2ZjJhODQ3ZmQ0ZmI4YTg3OTdhZWM1NjhmMWIxOGU1NzYy`
+Snapshot ID: `MCxiYjYyZDZjYzZlZjczYTZiYTBhMTkzODc0YjdiYmRjYjRhNmM5NWE1`

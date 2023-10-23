@@ -974,7 +974,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 283906,
       "name": "Blood Eagle",
       "url": "https://open.spotify.com/track/25wHcwSxLDqX5OsmJOnAj5"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 251506,
       "name": "Charlatan",
       "url": "https://open.spotify.com/track/1mArDDUhC84ngoB7pKQZNi"
@@ -2487,6 +2487,24 @@
     },
     {
       "album": {
+        "name": "Unhealthy Mechanisms",
+        "url": "https://open.spotify.com/album/12TN9balowogEa9934vX3O"
+      },
+      "artists": [
+        {
+          "name": "Go Ahead And Die",
+          "url": "https://open.spotify.com/artist/3VvvNtwzaS0dyqr13Pa113"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232406,
+      "name": "Drug-O-Cop",
+      "url": "https://open.spotify.com/track/18GlFhUte9Rdqax6WtlIx2"
+    },
+    {
+      "album": {
         "name": "Dwell in Desdemona",
         "url": "https://open.spotify.com/album/2VYpH5V2106W6mJ7AtHFaa"
       },
@@ -2714,7 +2732,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 619257,
       "name": "Et smelter",
       "url": "https://open.spotify.com/track/6WMv9iP4O2tvl8hfW5cHVW"
@@ -3765,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "Hellbirds",
+        "url": "https://open.spotify.com/album/3EXJcYYzCFx3m4ankVY5OY"
+      },
+      "artists": [
+        {
+          "name": "Rivers of Nihil",
+          "url": "https://open.spotify.com/artist/3UJmyt9ApeZTmOlMvBNGLN"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274560,
+      "name": "Hellbirds",
+      "url": "https://open.spotify.com/track/2U72WcsoIurnXk2dPBMqKX"
+    },
+    {
+      "album": {
         "name": "Hamartia - EP",
         "url": "https://open.spotify.com/album/57vmtY5HBATeIPGrFQS1hN"
       },
@@ -3888,7 +3924,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 312693,
       "name": "Homeward Polar Spirit",
       "url": "https://open.spotify.com/track/6OFeXeMu1CYGEl69G3j9DR"
@@ -4256,6 +4292,24 @@
       "duration_ms": 471280,
       "name": "I Troldskog Faren Vild",
       "url": "https://open.spotify.com/track/3Snzs0C112fbgi5q9nQKnj"
+    },
+    {
+      "album": {
+        "name": "Veil Of Death, Rapture",
+        "url": "https://open.spotify.com/album/3oOFiLRy6b4EOJh3nrv5ou"
+      },
+      "artists": [
+        {
+          "name": "Asagraum",
+          "url": "https://open.spotify.com/artist/0vYB7kRlczfzsOnK49N7D2"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292547,
+      "name": "Ignem Purificat Lilitu",
+      "url": "https://open.spotify.com/track/2PgdCBf1HMYihOQY0yDFNZ"
     },
     {
       "album": {
@@ -5907,6 +5961,24 @@
     },
     {
       "album": {
+        "name": "How's The Heart?",
+        "url": "https://open.spotify.com/album/2jpIYGOmQAMdH3jmT4x7bJ"
+      },
+      "artists": [
+        {
+          "name": "Bloodred Hourglass",
+          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238760,
+      "name": "Of Course I Still Love You",
+      "url": "https://open.spotify.com/track/6R0CR57ZXuavpJ0DsOT8Nu"
+    },
+    {
+      "album": {
         "name": "Unholy Deification",
         "url": "https://open.spotify.com/album/5SHd2KcCSIvUHcqCLeu60o"
       },
@@ -6873,6 +6945,24 @@
     },
     {
       "album": {
+        "name": "Scorn Manifestation",
+        "url": "https://open.spotify.com/album/5IVsmKW9iaMNs72M47clJQ"
+      },
+      "artists": [
+        {
+          "name": "Cruciamentum",
+          "url": "https://open.spotify.com/artist/4cM4Vlx41zMs5lLQcSFlTy"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332092,
+      "name": "Scorn Manifestation",
+      "url": "https://open.spotify.com/track/65PJ4aaFouzyDtJbeX0ZdS"
+    },
+    {
+      "album": {
         "name": "Scourge of the Offspring",
         "url": "https://open.spotify.com/album/0EOXYZmf3RXHG8ERn4iElN"
       },
@@ -7305,6 +7395,24 @@
     },
     {
       "album": {
+        "name": "Spine",
+        "url": "https://open.spotify.com/album/4suNaIAqTmYMRHobGkoNQK"
+      },
+      "artists": [
+        {
+          "name": "Myrkur",
+          "url": "https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243645,
+      "name": "Spine",
+      "url": "https://open.spotify.com/track/5RH4pMfRt8d0jZQjk0fx3q"
+    },
+    {
+      "album": {
         "name": "Spine Shatter High-Velocity Impact",
         "url": "https://open.spotify.com/album/6efJo7RpkCViFcsu4CFVF0"
       },
@@ -7622,7 +7730,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 264325,
       "name": "The Anticosmic Overload - Live",
       "url": "https://open.spotify.com/track/4FVh7e2020aN1sLgushpRK"
@@ -9082,7 +9190,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 217240,
       "name": "Warmen Are Here For None",
       "url": "https://open.spotify.com/track/3Ryy4TIDEdQ8guagOuf8LO"

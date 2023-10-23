@@ -1,12 +1,12 @@
 {
   "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
-  "num_followers": 163406,
+  "num_followers": 163585,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2UyYWNlMjlkODgwMzE4OGQ0YzgzNmIzNDg4MjhiNzY0YmM5YjZh",
+  "snapshot_id": "MCwyYzhlYTFlOGMzNzAzMTZiZTdiYjRhZjMzNjk1MGZjNjA5NDhhMTJi",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -211,7 +211,7 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "C'est toi",
+        "name": "C'est toi (Bonus)",
         "url": "https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4"
       },
       "artists": [
@@ -221,7 +221,7 @@
         }
       ],
       "duration_ms": 131480,
-      "name": "C'est toi",
+      "name": "C'est toi - Bonus",
       "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
     },
     {

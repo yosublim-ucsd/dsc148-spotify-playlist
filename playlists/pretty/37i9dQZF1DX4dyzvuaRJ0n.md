@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: Sam Feldt
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,013,818 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,013,952 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 74 | [I Will Leave a Light On](https://open.spotify.com/track/2xlSM0k9SCoG6UMaZWWRiC) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [I Will Leave a Light On](https://open.spotify.com/album/2KSD7hHUDnXcgTO56Zhwi2) | 4:00 |
 | 75 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 |
 
-Snapshot ID: `MCwzMGJkOWNiNWNmMjhlZjE4NWZmYTYwNDg3MWRiNjUzZjE5NjgxNWI1`
+Snapshot ID: `MCxkZjBjYTU0ZWIxNjMyYWNhNzRkNDdhZDRlZDEzNzU4M2EzNWE3YTZl`

@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Chris Brown
 
-1,657 songs - 3 day 16 hr 8 min
+1,658 songs - 3 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1548,7 +1548,8 @@
 | [Waistline](https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Waistline](https://open.spotify.com/album/627d1VuZD4LwTuFnND4eVR) | 2:46 | 2023-09-15 |  |
 | [Wait A Little Longer](https://open.spotify.com/track/2WSRSvjNO8wLxvFWQkeUhS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Wait A Little Longer](https://open.spotify.com/album/3V7mjfuYQKZK13uH9rjPxv) | 3:28 | 2023-08-18 | 2023-09-30 |
 | [Wait On Me](https://open.spotify.com/track/1p1wnXfPEaVrMqk2tEZ2BH) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nü Moon](https://open.spotify.com/album/1l9aiypXkyhJx58NTJQz6O) | 3:20 | 2023-04-07 | 2023-05-27 |
-| [Wait So Long](https://open.spotify.com/track/3nHLmfDuvY5LK3lCV1LHju) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Wait So Long](https://open.spotify.com/album/0AaPqe9tkDP6LKf7uEf5mw) | 2:28 | 2023-10-06 |  |
+| [Wait So Long](https://open.spotify.com/track/1vOhYqGR1bQCzVJVenL6mO) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Phases III \- EP](https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO) | 2:28 | 2023-10-06 |  |
+| [Wait So Long](https://open.spotify.com/track/3nHLmfDuvY5LK3lCV1LHju) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Wait So Long](https://open.spotify.com/album/0AaPqe9tkDP6LKf7uEf5mw) | 2:28 | 2023-10-06 | 2023-10-23 |
 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 | 2023-09-15 |  |
 | [Waiting Room](https://open.spotify.com/track/1ZZ9Z2bKmoGNsFUjvM7RDJ) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 2:49 | 2023-08-25 | 2023-10-07 |
 | [Walk Through The Fire \(feat\. Ne\-Yo\)](https://open.spotify.com/track/0Abt1QbqiLu45RN3VPECM6) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Walk Through The Fire \(feat\. Ne\-Yo\)](https://open.spotify.com/album/6mOgBsnfslEZnkdfbUYp2K) | 3:19 | 2022-01-21 | 2022-02-26 |

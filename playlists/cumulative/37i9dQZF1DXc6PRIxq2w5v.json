@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN",
+  "description": "Entre os versos e beats, a palavra do Senhor. Foto: 2metro",
   "name": "Gospel Flow",
   "tracks": [
     {
@@ -478,7 +478,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 199024,
       "name": "Aquebrantado",
       "url": "https://open.spotify.com/track/2xb1pT7KjRB6XKS4yAgu7b"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 168750,
       "name": "Bota F\u00e9 no Pai",
       "url": "https://open.spotify.com/track/0XYJiHecvwpRqmKbsBc7V5"
@@ -1107,7 +1107,7 @@
         },
         {
           "name": "Skinny Beats",
-          "url": "https://open.spotify.com/artist/5qAJZIUIWJiFxjqOluT7h4"
+          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
         }
       ],
       "date_added": "2023-09-01",
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 122193,
       "name": "Cora\u00e7\u00e3o Quebrado",
       "url": "https://open.spotify.com/track/0zDsJEkQ9hITcgucojBQzt"
@@ -1200,6 +1200,32 @@
       "duration_ms": 181090,
       "name": "CQC",
       "url": "https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y"
+    },
+    {
+      "album": {
+        "name": "Crises",
+        "url": "https://open.spotify.com/album/27V8oYBFDgEtNN8Gaqukfe"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "Todah Urban",
+          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144489,
+      "name": "Crises",
+      "url": "https://open.spotify.com/track/3vuXb0bz3HKp2Iey3vOpaX"
     },
     {
       "album": {
@@ -1544,7 +1570,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 193033,
       "name": "Dia Ruim",
       "url": "https://open.spotify.com/track/6jQFNSEryeiNYVCuYHYl4D"
@@ -2569,6 +2595,28 @@
     },
     {
       "album": {
+        "name": "Golias",
+        "url": "https://open.spotify.com/album/7kQYwPYFsTK4BlVXrQoxAt"
+      },
+      "artists": [
+        {
+          "name": "Guimar\u00e3es21",
+          "url": "https://open.spotify.com/artist/4MEKEwDHDkMoOjc1qFZxTk"
+        },
+        {
+          "name": "The Free Church",
+          "url": "https://open.spotify.com/artist/3uIzl2Zys6TrtG8umGBAdM"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213423,
+      "name": "Golias",
+      "url": "https://open.spotify.com/track/1uwWXf8TcEC8z3phwMh4s6"
+    },
+    {
+      "album": {
         "name": "Gospel Playground",
         "url": "https://open.spotify.com/album/75Vtuqs4tWoYRQ5mUDZKtZ"
       },
@@ -3309,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "Mantive a F\u00e9",
+        "url": "https://open.spotify.com/album/3YrGcpbOpjSMzeRC574mRN"
+      },
+      "artists": [
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Mantive a F\u00e9",
+      "url": "https://open.spotify.com/track/4GrQl8Cv3YAoFWDhtK1CQV"
+    },
+    {
+      "album": {
         "name": "Setenta / Maranata",
         "url": "https://open.spotify.com/album/69eIqWuYoPjxBXI1XxKnch"
       },
@@ -3581,6 +3647,40 @@
     },
     {
       "album": {
+        "name": "Metas&Metas",
+        "url": "https://open.spotify.com/album/2tqs9AA2ZrZdmFJgnTiPEV"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "MC Barros",
+          "url": "https://open.spotify.com/artist/73xNvoQk00vAPyiecLqye2"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Dbruine",
+          "url": "https://open.spotify.com/artist/0QpkguUWxW0hiUbsGUcYJA"
+        },
+        {
+          "name": "ELIDE1994",
+          "url": "https://open.spotify.com/artist/5M8MjBkj7O9uHtVe4erVvr"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219706,
+      "name": "Metas&Metas",
+      "url": "https://open.spotify.com/track/77UyH1wND1ZK9EeuxVQI9h"
+    },
+    {
+      "album": {
         "name": "Meu Aliado \u00c9 o Rei dos Reis - Remix",
         "url": "https://open.spotify.com/album/4kjlVXdtRTb9O9yjnpaKzH"
       },
@@ -3819,6 +3919,24 @@
     },
     {
       "album": {
+        "name": "Mundo Fake",
+        "url": "https://open.spotify.com/album/4y8lqaoxaIppfPAyySwxjQ"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163538,
+      "name": "Mundo Fake",
+      "url": "https://open.spotify.com/track/3oxG8EN5ChnjBdUNGfYXyN"
+    },
+    {
+      "album": {
         "name": "Na Paz",
         "url": "https://open.spotify.com/album/2gV7jI1G4hTJgUEB3ud2xS"
       },
@@ -4002,7 +4120,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 129149,
       "name": "N\u00e3o Julgueis?",
       "url": "https://open.spotify.com/track/4gI8ftX2DtRTbWfeiH3CmR"
@@ -4276,7 +4394,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 182910,
       "name": "Oh Senhor",
       "url": "https://open.spotify.com/track/6MhZeWsVclpGClHLwCoAEB"
@@ -4668,6 +4786,10 @@
         {
           "name": "2metro",
           "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        },
+        {
+          "name": "Todah Urban",
+          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
         }
       ],
       "date_added": "2023-09-01",
@@ -4866,7 +4988,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 162036,
       "name": "Primeiro e \u00daltimo",
       "url": "https://open.spotify.com/track/72UhDf5qi1m7KaufxMnL5F"
@@ -4896,6 +5018,42 @@
       "duration_ms": 162036,
       "name": "Primeiro e \u00daltimo",
       "url": "https://open.spotify.com/track/4S5k9fUUASxhDeLOeheKK9"
+    },
+    {
+      "album": {
+        "name": "Problem\u00e3o",
+        "url": "https://open.spotify.com/album/699L4DVaaNNso1lpspNbCg"
+      },
+      "artists": [
+        {
+          "name": "WC12",
+          "url": "https://open.spotify.com/artist/6dQkBBfff6UrkiFWmiPZhe"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Problem\u00e3o",
+      "url": "https://open.spotify.com/track/5imfWcXwnRpbaWTZJJGgjG"
+    },
+    {
+      "album": {
+        "name": "Prosseguir",
+        "url": "https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv"
+      },
+      "artists": [
+        {
+          "name": "Jhonysul",
+          "url": "https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155300,
+      "name": "Prosseguir",
+      "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
     },
     {
       "album": {
@@ -5075,6 +5233,28 @@
     },
     {
       "album": {
+        "name": "Reden\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/67lX5qwhGVrTJUdUBCWp21"
+      },
+      "artists": [
+        {
+          "name": "Moskitto",
+          "url": "https://open.spotify.com/artist/3okdXZyurX68tcNnjx0HQM"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "Reden\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6vxXwPoQH1QWoIurgwcYFC"
+    },
+    {
+      "album": {
         "name": "Rei",
         "url": "https://open.spotify.com/album/3toB0Hw7MjPeTk5JdSLpua"
       },
@@ -5160,6 +5340,28 @@
       "duration_ms": 226339,
       "name": "Repara",
       "url": "https://open.spotify.com/track/76EUcaCEhCkjeMI02Ahyki"
+    },
+    {
+      "album": {
+        "name": "RESPOSTAS",
+        "url": "https://open.spotify.com/album/03OSVIWZ2eWBgiIOKYxyjs"
+      },
+      "artists": [
+        {
+          "name": "BIG THE KIID",
+          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
+        },
+        {
+          "name": "borbabeatz",
+          "url": "https://open.spotify.com/artist/7vVkGGhKfIuTogwznm24kM"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153325,
+      "name": "RESPOSTAS",
+      "url": "https://open.spotify.com/track/4RP61atk3EOYXQcWJIf1Fh"
     },
     {
       "album": {
@@ -5620,10 +5822,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 182574,
       "name": "Sincero",
       "url": "https://open.spotify.com/track/19sztKko1uz7FdhZRLlL8p"
+    },
+    {
+      "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/47m7Wl5I37upam8SijwO8a"
+      },
+      "artists": [
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169173,
+      "name": "Sobrenatural",
+      "url": "https://open.spotify.com/track/2jpK1jHZpKNgemDB38gMuA"
     },
     {
       "album": {
@@ -5686,7 +5906,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 115673,
       "name": "Sombra",
       "url": "https://open.spotify.com/track/75NCotXR81jeskYIQuyC9r"
@@ -5752,6 +5972,32 @@
       "duration_ms": 131476,
       "name": "Sou Campe\u00e3o",
       "url": "https://open.spotify.com/track/3vOTwt90MQ6v8YblGpdazb"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 a Tua Presen\u00e7a Basta",
+        "url": "https://open.spotify.com/album/2IYISPTjlDgSia3BfAEVT1"
+      },
+      "artists": [
+        {
+          "name": "Jana Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb"
+        },
+        {
+          "name": "Liz Mc",
+          "url": "https://open.spotify.com/artist/7eRDqAb3G1WpQdOq2Oxpnt"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "S\u00f3 a Tua Presen\u00e7a Basta",
+      "url": "https://open.spotify.com/track/4V4PLZEwJi26ujFADSQa8B"
     },
     {
       "album": {
@@ -6142,7 +6388,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 220444,
       "name": "Um Dia De Cada Vez (feat. Vit\u00f3ria Affonso)",
       "url": "https://open.spotify.com/track/5GyVZmndjaXQjdfwJ6ITzb"
@@ -6300,10 +6546,36 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 162406,
       "name": "Verificado",
       "url": "https://open.spotify.com/track/5SiaQt3ggeKEictCtaY6zY"
+    },
+    {
+      "album": {
+        "name": "Verificado (Speed)",
+        "url": "https://open.spotify.com/album/1WPKENvszIooJfp1ijsRkt"
+      },
+      "artists": [
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        },
+        {
+          "name": "LAEL BAYER",
+          "url": "https://open.spotify.com/artist/5rYOYWW1FNDS1LvWtDfkSd"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Verificado - Speed",
+      "url": "https://open.spotify.com/track/4WnsGGj9WUQ7ZlSZVJiJVF"
     },
     {
       "album": {
@@ -6362,7 +6634,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 194629,
       "name": "Vida Rasa",
       "url": "https://open.spotify.com/track/2t0D0VYarBz17GcNITr364"

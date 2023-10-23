@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:   <a href="spotify:artist:2CLclpIC43fLzsYq6LQvlL">Elmiene</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,984 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,002 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 5 | [Good Guys](https://open.spotify.com/track/33qepYPIBzWlDVJtpV2oAK) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Nearly Straight](https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9) | 2:36 |
 | 6 | [LUV N DEVOTION](https://open.spotify.com/track/2C2KmQyeGfMVULfrdMVs8i) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LUV N DEVOTION](https://open.spotify.com/album/5R8TDNyNfrrh9PprKnl8Ig) | 3:01 |
 | 7 | [Everything We Did](https://open.spotify.com/track/7jbc6jkT3r6POZgNIcypPZ) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Free Samples, Vol\. 2](https://open.spotify.com/album/1WCxL49gWJL2TxE2sPVhL8) | 3:31 |
-| 8 | [Wait So Long](https://open.spotify.com/track/3nHLmfDuvY5LK3lCV1LHju) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Wait So Long](https://open.spotify.com/album/0AaPqe9tkDP6LKf7uEf5mw) | 2:28 |
+| 8 | [Wait So Long](https://open.spotify.com/track/1vOhYqGR1bQCzVJVenL6mO) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Phases III \- EP](https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO) | 2:28 |
 | 9 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
 | 10 | [Take Me To Church \- Spotify Singles](https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1) | [Spotify Singles](https://open.spotify.com/album/2rIrWq7n4FrnDwEyIUlBpJ) | 4:30 |
 | 11 | [Higher Self](https://open.spotify.com/track/2KcaOSZlR03H41Nhmg2QyH) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Higher Self](https://open.spotify.com/album/1MQEYp0fugw64pyAodgnxe) | 4:01 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 98 | [Holding On](https://open.spotify.com/track/0ltnKNT48JxlcXuWyQ9cu4) | [Lucid Ecstasy](https://open.spotify.com/artist/0grjMzZum71lxVC4bpHQtn) | [Holding On](https://open.spotify.com/album/2Vb6XOlcPWmt17qNYit1C2) | 2:14 |
 | 99 | [Glow On You](https://open.spotify.com/track/3P7OYztpK2xfSRKkGARXgg) | [Street Symphony](https://open.spotify.com/artist/3VqgsVyCuUFy3qEDvn0HXP), [Soda Supreme](https://open.spotify.com/artist/5rM4XqyUmGzH9h5MHqj2o4), [YOURSNDTRK](https://open.spotify.com/artist/3mK9cYGDMSXkuP8wcvYKYF) | [Glow On You](https://open.spotify.com/album/65Xi21sXH49fkVEs4a74z9) | 2:53 |
 
-Snapshot ID: `MCxmZjViZWI5OWFhODc2Y2ZkNjI4ZjEyMmRkODRmNDI1MmQwNTczNGE2`
+Snapshot ID: `MCwyYmU4NWIwNjFkNWFlMzk4ZGE2NTcyOWQ4Y2NmOWQzNDgwMTVhZDAx`

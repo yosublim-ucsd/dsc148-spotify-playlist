@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "brown eyes",
+        "url": "https://open.spotify.com/album/2ZsjTlwVcwkYgcT0R7GA1X"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126624,
+      "name": "brown eyes",
+      "url": "https://open.spotify.com/track/2pLieFj49thsxTBBquLEz9"
+    },
+    {
+      "album": {
         "name": "burbank house",
         "url": "https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR"
       },
@@ -934,6 +952,24 @@
       "duration_ms": 360511,
       "name": "Census Designated",
       "url": "https://open.spotify.com/track/5IhT2qYheXI0O2dHMmAb6B"
+    },
+    {
+      "album": {
+        "name": "i used to just cry about it",
+        "url": "https://open.spotify.com/album/3TZ7OjH6U6LNDpRr8dM9MC"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "checkpoint",
+      "url": "https://open.spotify.com/track/1MRJdd1VnGWDeX1wtsN9f8"
     },
     {
       "album": {
@@ -3479,6 +3515,24 @@
     },
     {
       "album": {
+        "name": "My Love, Pt. 1",
+        "url": "https://open.spotify.com/album/6IZsGlZ5lRiyR7NSp1xbJM"
+      },
+      "artists": [
+        {
+          "name": "Justend",
+          "url": "https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177550,
+      "name": "My Love, Pt. 1",
+      "url": "https://open.spotify.com/track/5BJDEyPcwQpunsTidFPfR8"
+    },
+    {
+      "album": {
         "name": "narcissism (out of yr mind)",
         "url": "https://open.spotify.com/album/7eRiNmuF05YeVRpeFtkAJ8"
       },
@@ -5192,6 +5246,24 @@
       "duration_ms": 114461,
       "name": "The Industry (don't care)",
       "url": "https://open.spotify.com/track/6NAgvXj85XGeUHU1R3uwdE"
+    },
+    {
+      "album": {
+        "name": "the life and death of a dog",
+        "url": "https://open.spotify.com/album/0qRK99XsBIF30KZauxq1vb"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214615,
+      "name": "the life and death of a dog",
+      "url": "https://open.spotify.com/track/4s7KXWpEkoXky0RDNjAU6b"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3515,
+  "num_followers": 3555,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Puerto Rico",
-        "url": "https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G"
-      },
-      "artists": [
-        {
-          "name": "Landis",
-          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
-        }
-      ],
-      "duration_ms": 144375,
-      "name": "Puerto Rico",
-      "url": "https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Alma Roja (DJ CHUS Remix)",
         "url": "https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w"
       },
@@ -315,22 +299,18 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Sway (Mucho Mambo)",
-        "url": "https://open.spotify.com/album/7ngZbEyU4cyL01MU6O0VIr"
+        "name": "Puerto Rico",
+        "url": "https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G"
       },
       "artists": [
         {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+          "name": "Landis",
+          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
         }
       ],
-      "duration_ms": 159360,
-      "name": "Sway (Mucho Mambo)",
-      "url": "https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C"
+      "duration_ms": 144375,
+      "name": "Puerto Rico",
+      "url": "https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf"
     },
     {
       "added_at": "2021-10-29 16:16:48",
@@ -425,6 +405,46 @@
       "url": "https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy"
     },
     {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Sway (Mucho Mambo)",
+        "url": "https://open.spotify.com/album/7ngZbEyU4cyL01MU6O0VIr"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Sway (Mucho Mambo)",
+      "url": "https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc"
+      },
+      "artists": [
+        {
+          "name": "Rene Rodrigezz",
+          "url": "https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO"
+        },
+        {
+          "name": "Yellow Is The New White",
+          "url": "https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u"
+        }
+      ],
+      "duration_ms": 139047,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k"
+    },
+    {
       "added_at": "2021-11-26 07:27:00",
       "album": {
         "name": "Diamonds",
@@ -459,46 +479,6 @@
       "duration_ms": 348000,
       "name": "Olvidar",
       "url": "https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Mamacita",
-        "url": "https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc"
-      },
-      "artists": [
-        {
-          "name": "Rene Rodrigezz",
-          "url": "https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO"
-        },
-        {
-          "name": "Yellow Is The New White",
-          "url": "https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u"
-        }
-      ],
-      "duration_ms": 139047,
-      "name": "Mamacita",
-      "url": "https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Bailar Riddim",
-        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Bailar Riddim",
-      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -539,22 +519,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Dirty Spanish",
-        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
-      },
-      "artists": [
-        {
-          "name": "Sam Blans",
-          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
-        }
-      ],
-      "duration_ms": 274833,
-      "name": "Dirty Spanish",
-      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Jaleo",
         "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
       },
@@ -571,6 +535,26 @@
       "duration_ms": 187500,
       "name": "Jaleo",
       "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Bailar Riddim",
+        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Bailar Riddim",
+      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -627,6 +611,38 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Me Duele el Alma",
+        "url": "https://open.spotify.com/album/7wvDYeqSsbcGI0mjE63Udy"
+      },
+      "artists": [
+        {
+          "name": "Jesse Garcia",
+          "url": "https://open.spotify.com/artist/6dTCOIQmUy1FlxNhITQhLn"
+        }
+      ],
+      "duration_ms": 303240,
+      "name": "Me Duele el Alma",
+      "url": "https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Dirty Spanish",
+        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
+      },
+      "artists": [
+        {
+          "name": "Sam Blans",
+          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
+        }
+      ],
+      "duration_ms": 274833,
+      "name": "Dirty Spanish",
+      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "La Remontada (feat. Tot\u00f3 La Momposina)",
         "url": "https://open.spotify.com/album/6BFacrgHy3c6n1JJYDT0UH"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 172258,
       "name": "La Remontada (feat. Tot\u00f3 La Momposina)",
       "url": "https://open.spotify.com/track/1hllxtk5yhDY9PJF42iYGn"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Me Duele el Alma",
-        "url": "https://open.spotify.com/album/7wvDYeqSsbcGI0mjE63Udy"
-      },
-      "artists": [
-        {
-          "name": "Jesse Garcia",
-          "url": "https://open.spotify.com/artist/6dTCOIQmUy1FlxNhITQhLn"
-        }
-      ],
-      "duration_ms": 303240,
-      "name": "Me Duele el Alma",
-      "url": "https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -721,26 +721,6 @@
       "url": "https://open.spotify.com/track/0FfzWykvVPkB3f8ZcCoWVH"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Cuban Riddim",
-        "url": "https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "Cuban Riddim",
-      "url": "https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb"
-    },
-    {
       "added_at": "2021-11-05 06:05:00",
       "album": {
         "name": "Quem\u00e1",
@@ -763,6 +743,26 @@
       "duration_ms": 149250,
       "name": "Quem\u00e1",
       "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Cuban Riddim",
+        "url": "https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "Cuban Riddim",
+      "url": "https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/3GK8ZbB59raLSX21pp05ST"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw"
-      },
-      "artists": [
-        {
-          "name": "Joan Cases",
-          "url": "https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
-    },
-    {
       "added_at": "2021-10-15 05:57:00",
       "album": {
         "name": "La Vida",
@@ -827,42 +811,6 @@
       "duration_ms": 195000,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Vagabundos",
-        "url": "https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 157530,
-      "name": "Vagabundos",
-      "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/3VNhdA2xtNcLopHG9lep3u"
-      },
-      "artists": [
-        {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/2r9um9Y1MklfVLt6XNylmf"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -883,6 +831,38 @@
       "duration_ms": 213953,
       "name": "Calle ft. Villanueva",
       "url": "https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw"
+      },
+      "artists": [
+        {
+          "name": "Joan Cases",
+          "url": "https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/3VNhdA2xtNcLopHG9lep3u"
+      },
+      "artists": [
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2r9um9Y1MklfVLt6XNylmf"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -923,6 +903,26 @@
       "duration_ms": 210491,
       "name": "Why Can't We Live Together - Gregor Salto & Ibitaly Edit",
       "url": "https://open.spotify.com/track/261BVXzaPgsLFTSPQ3NmiP"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Vagabundos",
+        "url": "https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 157530,
+      "name": "Vagabundos",
+      "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
     },
     {
       "added_at": "2021-10-08 15:53:55",

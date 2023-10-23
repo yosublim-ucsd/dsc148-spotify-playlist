@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Tayc",
-  "num_followers": 38531,
+  "num_followers": 38547,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWQ3MzhiN2QyZDEwOTE3MTBmYTNmYTE2YzU2OGY3MWU0YTBhMmQy",
+  "snapshot_id": "MCw1MmMyZGNjZjQ1ZmRlOWFjYzVkOWJlOGQxYjUzZTc4NWUxMjYxYWQ1",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "LOVE'n'TENDRESSE",
-        "url": "https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6"
+        "name": "ATHENA",
+        "url": "https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP"
       },
       "artists": [
         {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
         }
       ],
-      "duration_ms": 194666,
-      "name": "LOVE'n'TENDRESSE",
-      "url": "https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S"
+      "duration_ms": 191416,
+      "name": "Warda",
+      "url": "https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -511,34 +511,38 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "ATHENA",
-        "url": "https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP"
+        "name": "LOVE'n'TENDRESSE",
+        "url": "https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6"
       },
       "artists": [
         {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
         }
       ],
-      "duration_ms": 191416,
-      "name": "Warda",
-      "url": "https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV"
+      "duration_ms": 194666,
+      "name": "LOVE'n'TENDRESSE",
+      "url": "https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S"
     },
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Diff\u00e9rent",
-        "url": "https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y"
+        "name": "TRAP$TAR 3",
+        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
       },
       "artists": [
         {
-          "name": "Beendo Z",
-          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 159841,
-      "name": "Diff\u00e9rent",
-      "url": "https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K"
+      "duration_ms": 160858,
+      "name": "Dans le noir",
+      "url": "https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -555,6 +559,22 @@
       "duration_ms": 189230,
       "name": "Encore plus",
       "url": "https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Diff\u00e9rent",
+        "url": "https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y"
+      },
+      "artists": [
+        {
+          "name": "Beendo Z",
+          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
+        }
+      ],
+      "duration_ms": 159841,
+      "name": "Diff\u00e9rent",
+      "url": "https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -595,22 +615,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "TRAP$TAR 3",
-        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
+        "name": "Allo",
+        "url": "https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD"
       },
       "artists": [
         {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
         },
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
         }
       ],
-      "duration_ms": 160858,
-      "name": "Dans le noir",
-      "url": "https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F"
+      "duration_ms": 195375,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -647,26 +667,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Allo",
-        "url": "https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD"
-      },
-      "artists": [
-        {
-          "name": "Moha K",
-          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
-        },
-        {
-          "name": "Lyna Mahyem",
-          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
-        }
-      ],
-      "duration_ms": 195375,
-      "name": "Allo",
-      "url": "https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "C\u00f4t\u00e9 passager",
         "url": "https://open.spotify.com/album/4FWxAiJKbG63FCND0gXgiR"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "OH MADELEINE",
-        "url": "https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx"
-      },
-      "artists": [
-        {
-          "name": "Disiz",
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-        }
-      ],
-      "duration_ms": 159603,
-      "name": "OH MADELEINE",
-      "url": "https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Charlotte",
         "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
       },
@@ -715,22 +699,6 @@
       "duration_ms": 188093,
       "name": "Promets-moi",
       "url": "https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Z\u00e9nith",
-        "url": "https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r"
-      },
-      "artists": [
-        {
-          "name": "Kalash Criminel",
-          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Z\u00e9nith",
-      "url": "https://open.spotify.com/track/7waEJapWACgWkq3by4intP"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -751,18 +719,54 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sentiments Heureux",
-        "url": "https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5"
+        "name": "OH MADELEINE",
+        "url": "https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx"
       },
       "artists": [
         {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+          "name": "Disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
         }
       ],
-      "duration_ms": 175483,
-      "name": "A quoi tu penses vraiment",
-      "url": "https://open.spotify.com/track/0YRaJCYiH7PCBY7hRxz3XV"
+      "duration_ms": 159603,
+      "name": "OH MADELEINE",
+      "url": "https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Z\u00e9nith",
+        "url": "https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r"
+      },
+      "artists": [
+        {
+          "name": "Kalash Criminel",
+          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Z\u00e9nith",
+      "url": "https://open.spotify.com/track/7waEJapWACgWkq3by4intP"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Terminus",
+        "url": "https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT"
+      },
+      "artists": [
+        {
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 158782,
+      "name": "Terminus",
+      "url": "https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -779,6 +783,22 @@
       "duration_ms": 175706,
       "name": "\u00c0 l'inverse",
       "url": "https://open.spotify.com/track/4ljLseBCdBixUTd56quaVZ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Sentiments Heureux",
+        "url": "https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 175483,
+      "name": "A quoi tu penses vraiment",
+      "url": "https://open.spotify.com/track/0YRaJCYiH7PCBY7hRxz3XV"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -835,38 +855,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Terminus",
-        "url": "https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT"
+        "name": "Un morceau de Sicre",
+        "url": "https://open.spotify.com/album/7LEv9OJgjyFBLqevLi6NvO"
       },
       "artists": [
         {
-          "name": "Sidiki Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
         }
       ],
-      "duration_ms": 158782,
-      "name": "Terminus",
-      "url": "https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Mauvais r\u00eave",
-        "url": "https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv"
-      },
-      "artists": [
-        {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
-        }
-      ],
-      "duration_ms": 170413,
-      "name": "Mauvais r\u00eave",
-      "url": "https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5"
+      "duration_ms": 242360,
+      "name": "Un morceau de Sicre",
+      "url": "https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

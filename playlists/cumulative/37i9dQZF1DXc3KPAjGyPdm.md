@@ -4,7 +4,7 @@
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-289 songs - 17 hr 17 min
+290 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,9 +28,10 @@
 | [Atmosphere \- 2010 Remaster](https://open.spotify.com/track/5UPnBgnylUCjtAPtAH4tJY) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Substance](https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ) | 4:09 | 2017-12-20 |  |
 | [B.g.’s One Eye](https://open.spotify.com/track/1V3CJZwyzkDw0QBZY8C0ns) | [The Nuchez's](https://open.spotify.com/artist/5juac9B6Ytvkp5a5s12muD) | [Chocolate Soup for Diabetics, Vol\. 1](https://open.spotify.com/album/4H3Y4L9NS0OTKHFGI5cNnc) | 2:12 | 2022-07-01 |  |
 | [Baba O'Riley \- ConfidentialMX Remix](https://open.spotify.com/track/5iq0Tela3gm73ZW72XZ5dm) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 2:33 | 2019-07-08 |  |
-| [Ballroom Foxtrot](https://open.spotify.com/track/1ZwO6QQRl7ld1IBhqPZjT6) | [John Leighton](https://open.spotify.com/artist/62JgHVqcsjhM0GaECg6Q7R) | [Music Featured in "The Catcher Was a Spy"](https://open.spotify.com/album/4yb8x5btcqVaKzymTgZqh0) | 2:50 | 2019-07-10 |  |
+| [Ballroom Foxtrot](https://open.spotify.com/track/1ZwO6QQRl7ld1IBhqPZjT6) | [John Leighton](https://open.spotify.com/artist/62JgHVqcsjhM0GaECg6Q7R) | [Music Featured in "The Catcher Was a Spy"](https://open.spotify.com/album/4yb8x5btcqVaKzymTgZqh0) | 2:50 | 2019-07-10 | 2023-10-23 |
 | [Ballroom Foxtrot](https://open.spotify.com/track/1uWss2nb6rJJruwejEkDAz) | [John Leighton](https://open.spotify.com/artist/62JgHVqcsjhM0GaECg6Q7R) | [Music Featured in "The Catcher Was a Spy"](https://open.spotify.com/album/7s9M6tb7yDJNEis3UbHAnl) | 2:50 | 2019-07-10 | 2022-12-03 |
 | [Ballroom Foxtrot](https://open.spotify.com/track/2YlEtl30aS6DODEXKoV9qC) | [John Leighton](https://open.spotify.com/artist/62JgHVqcsjhM0GaECg6Q7R) | [Music Featured in "Stranger Things" Season 3](https://open.spotify.com/album/2OUrEij0mnI8LFkoe9bGS2) | 2:50 | 2023-02-27 | 2023-05-15 |
+| [Ballroom Foxtrot](https://open.spotify.com/track/5FzttJVpvEW05dlgXpZKYf) | [John Leighton](https://open.spotify.com/artist/62JgHVqcsjhM0GaECg6Q7R) | [Music Featured in "The Catcher Was a Spy"](https://open.spotify.com/album/4KfALVBKLZvI1QPVwecENa) | 2:50 | 2023-02-27 |  |
 | [Ben Hur Chariot Race](https://open.spotify.com/track/4TALhYPQAQLofYU2MksB52) | [Wurlitzer 157 Carousel Organ](https://open.spotify.com/artist/2nKFWbh9n6qxFVBayalksC) | ["COME TO THE FAIR" Old Time Wurlitzer Carousel Music](https://open.spotify.com/album/1wOejKvxw935MURiYqUKnZ) | 3:25 | 2019-07-10 |  |
 | [Blank Makes You Crazy](https://open.spotify.com/track/2urfEsVC3wlZkGSVUKsuF4) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR) | 1:06 | 2023-02-27 |  |
 | [Blank Makes You Crazy](https://open.spotify.com/track/4rGvCeSB0Sk3iNRGiDC0me) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:06 | 2019-07-10 | 2023-04-09 |

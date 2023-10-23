@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,393,593 likes - 100 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,393,547 likes - 100 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [First Things First](https://open.spotify.com/track/7DFTrjG8Y4uNSUGj8bfLMR) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [First Things First](https://open.spotify.com/album/7vC8AyFxSAN0qPQwE4RxBm) | 1:46 |
 | 100 | [Imagine](https://open.spotify.com/track/1OXBgL6v7PbBlsW04YTqHr) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Imagine](https://open.spotify.com/album/3eE3jvTL3vFOXQuVlXM1sr) | 2:32 |
 
-Snapshot ID: `MCw5ZTBjZDAzZmFiNGU2MzhjNDM4ZjNiYWQzYTJlZDZiOTAwMTAzZDhj`
+Snapshot ID: `MCwxNzQ5NzI2M2IwY2RmODU5NzM1MjYwZjc5OTM2Zjc5NTllYjE5NmM2`

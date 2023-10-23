@@ -4,7 +4,7 @@
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Skip The Use & Youv Dee
 
-68 songs - 4 hr 1 min
+69 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Accidents](https://open.spotify.com/track/3IiyRusvy9yOh2uuDsG1Ai) | [Deportivo](https://open.spotify.com/artist/7k8b9tyD9a0WEoPgidHrGK) | [Accidents](https://open.spotify.com/album/5gij4p2FSt40MgqYfnPJyV) | 3:41 | 2023-10-12 | 2023-10-14 |
 | [All Saints](https://open.spotify.com/track/67PbgSOlVPaxKfbG4QosTC) | [Dirty Black Summer](https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq) | [All Saints](https://open.spotify.com/album/6XHyKhBONAA6IH1KTZJHTw) | 4:04 | 2023-10-19 |  |
 | [Anxiety](https://open.spotify.com/track/4WlWURWhySwwK7lq0kwyIO) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [Anxiety](https://open.spotify.com/album/2QRKR6Pm7MjSoDcLZuVdX2) | 3:26 | 2023-09-28 |  |
-| [Baise tout seul](https://open.spotify.com/track/5TE991wFPT4dLTlkvgJthg) | [Princesses Leya](https://open.spotify.com/artist/5YunN7uZjy9Tgvds1IKSVT) | [Baise tout seul](https://open.spotify.com/album/3QFJWu9AxTJr7b930GRUQm) | 2:37 | 2023-09-28 |  |
+| [Baise tout seul](https://open.spotify.com/track/02NcPv5dsj3fCDPyLDtdrc) | [Princesses Leya](https://open.spotify.com/artist/5YunN7uZjy9Tgvds1IKSVT) | [Big Bang Therapy](https://open.spotify.com/album/1suiY7lXk68pCXeJiXi9Yl) | 2:37 | 2023-10-20 |  |
+| [Baise tout seul](https://open.spotify.com/track/5TE991wFPT4dLTlkvgJthg) | [Princesses Leya](https://open.spotify.com/artist/5YunN7uZjy9Tgvds1IKSVT) | [Baise tout seul](https://open.spotify.com/album/3QFJWu9AxTJr7b930GRUQm) | 2:37 | 2023-09-28 | 2023-10-23 |
 | [BIG](https://open.spotify.com/track/5zPzmBPamaT9eDGduGtxqG) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [BIG](https://open.spotify.com/album/1L8bOet9vwhCUUHgJewc2Q) | 2:15 | 2023-10-19 |  |
 | [Born to Win](https://open.spotify.com/track/4fsVCgzknleqGFmV7WihCF) | [La Rosa](https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB) | [Born to Win](https://open.spotify.com/album/5DVy8NKNSeRGYIjH7rCftk) | 2:31 | 2023-10-12 |  |
 | [Break Even](https://open.spotify.com/track/3hwf03RXLPEmAr4BqpOW40) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Break Even](https://open.spotify.com/album/5xXeXLLrzZG9WxcbXdV6se) | 6:10 | 2023-10-05 |  |

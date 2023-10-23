@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 195961,
+  "num_followers": 195974,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODhjMWYzMzg4YmQxZGYxNzc5MGRiY2EyMzVmZjdjMjg5ZWU1NDg2",
+  "snapshot_id": "MCxjYWU2YzEzZTkwZTc0ZDhhZGE1NmRlNTY5MzhlMTE3OGQxZjk1MThi",
   "tracks": [
     {
       "added_at": "2023-10-20 10:35:17",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
+        "name": "Superlativ 97",
+        "url": "https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "Hoppas att jag gjorde allt jag kan",
+      "url": "https://open.spotify.com/track/6msOfq0hbXa5pbqlVFhgj0"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
         "name": "FEMININE ENERGY",
         "url": "https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 210013,
       "name": "Turning Onto You - HNNY Remix",
       "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "Superlativ 97",
-        "url": "https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "Hoppas att jag gjorde allt jag kan",
-      "url": "https://open.spotify.com/track/6msOfq0hbXa5pbqlVFhgj0"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
+        "name": "Valborg - Spotify Singles",
+        "url": "https://open.spotify.com/album/2gh1otyRAP056ov4kwzPpz"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        }
+      ],
+      "duration_ms": 153830,
+      "name": "Valborg - Spotify Singles",
+      "url": "https://open.spotify.com/track/6rHvgDYUjdYRf4K5jVLfpw"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
         "name": "Satellit",
         "url": "https://open.spotify.com/album/69LrfrvfBFYag9DoBuXtep"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Sweet Tea",
-        "url": "https://open.spotify.com/album/7KgXqySqEbM0qbJuyhfrXp"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 247957,
-      "name": "Sweet Tea",
-      "url": "https://open.spotify.com/track/2cxtkjiJYEiGD4hcZsjBWr"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
         "name": "Fight Like A Girl",
         "url": "https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e"
       },
@@ -399,22 +399,18 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Slipping Into Color",
-        "url": "https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO"
+        "name": "Sweet Tea",
+        "url": "https://open.spotify.com/album/7KgXqySqEbM0qbJuyhfrXp"
       },
       "artists": [
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        },
-        {
-          "name": "April + VISTA",
-          "url": "https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 225764,
-      "name": "Slumber",
-      "url": "https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz"
+      "duration_ms": 247957,
+      "name": "Sweet Tea",
+      "url": "https://open.spotify.com/track/2cxtkjiJYEiGD4hcZsjBWr"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -447,6 +443,26 @@
       "duration_ms": 154125,
       "name": "Happy Again",
       "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "Slipping Into Color",
+        "url": "https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        },
+        {
+          "name": "April + VISTA",
+          "url": "https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj"
+        }
+      ],
+      "duration_ms": 225764,
+      "name": "Slumber",
+      "url": "https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -491,22 +507,6 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/6k49rwllp13RrGFHYw6Eik"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 126153,
-      "name": "Glitter",
-      "url": "https://open.spotify.com/track/22pR21715Xw2yB2uQrcdIr"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
         "name": "Moon Eyes",
         "url": "https://open.spotify.com/album/5E9eUYrMYgFRdN8IVcRvex"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 214253,
       "name": "Moon Eyes",
       "url": "https://open.spotify.com/track/408rMnVFcIlyrme7bc1Ma0"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/6k49rwllp13RrGFHYw6Eik"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 126153,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/22pR21715Xw2yB2uQrcdIr"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -539,50 +555,18 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Valborg - Spotify Singles",
-        "url": "https://open.spotify.com/album/2gh1otyRAP056ov4kwzPpz"
+        "name": "Pistol - Spotify Singles",
+        "url": "https://open.spotify.com/album/4VuiBokNrif0KZFLNCNNAj"
       },
       "artists": [
         {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+          "name": "Parham",
+          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
         }
       ],
-      "duration_ms": 153830,
-      "name": "Valborg - Spotify Singles",
-      "url": "https://open.spotify.com/track/6rHvgDYUjdYRf4K5jVLfpw"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "Dead Man Walking",
-        "url": "https://open.spotify.com/album/1gW2Nl2haUPLXN2FNHVpsb"
-      },
-      "artists": [
-        {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
-        }
-      ],
-      "duration_ms": 177915,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/5X4EeFwgG6YYzU7xRt96RH"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "Famlande fingrar",
-        "url": "https://open.spotify.com/album/3SRC61hkO8NFtgsPjt3Zuk"
-      },
-      "artists": [
-        {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
-        }
-      ],
-      "duration_ms": 161407,
-      "name": "Famlande fingrar",
-      "url": "https://open.spotify.com/track/6inUJXZBkpQRiCSgcazVjQ"
+      "duration_ms": 218181,
+      "name": "Pistol - Spotify Singles",
+      "url": "https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -599,6 +583,22 @@
       "duration_ms": 221489,
       "name": "Woman",
       "url": "https://open.spotify.com/track/2aZghG8jayn0ZjvUN3EiL5"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "Dead Man Walking",
+        "url": "https://open.spotify.com/album/1gW2Nl2haUPLXN2FNHVpsb"
+      },
+      "artists": [
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "duration_ms": 177915,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/5X4EeFwgG6YYzU7xRt96RH"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
+        "name": "Famlande fingrar",
+        "url": "https://open.spotify.com/album/3SRC61hkO8NFtgsPjt3Zuk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "duration_ms": 161407,
+      "name": "Famlande fingrar",
+      "url": "https://open.spotify.com/track/6inUJXZBkpQRiCSgcazVjQ"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
         "name": "Kan n\u00e5tt fint f\u00e5 h\u00e4nda sen",
         "url": "https://open.spotify.com/album/44SEVloUXwb3w9NWJPXrAN"
       },
@@ -671,6 +687,22 @@
       "duration_ms": 166265,
       "name": "i'm tired",
       "url": "https://open.spotify.com/track/60JzQWgLHTNO68YTpS9YzJ"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "B\u00e4sta som h\u00e4nt",
+        "url": "https://open.spotify.com/album/7plgkCP375uQfQtP9O8wh2"
+      },
+      "artists": [
+        {
+          "name": "Jobe",
+          "url": "https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP"
+        }
+      ],
+      "duration_ms": 176997,
+      "name": "B\u00e4sta som h\u00e4nt",
+      "url": "https://open.spotify.com/track/2FqMN5yQNBTN1argtzblRl"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -711,54 +743,6 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "B\u00e4sta som h\u00e4nt",
-        "url": "https://open.spotify.com/album/7plgkCP375uQfQtP9O8wh2"
-      },
-      "artists": [
-        {
-          "name": "Jobe",
-          "url": "https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP"
-        }
-      ],
-      "duration_ms": 176997,
-      "name": "B\u00e4sta som h\u00e4nt",
-      "url": "https://open.spotify.com/track/2FqMN5yQNBTN1argtzblRl"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "Pistol - Spotify Singles",
-        "url": "https://open.spotify.com/album/4VuiBokNrif0KZFLNCNNAj"
-      },
-      "artists": [
-        {
-          "name": "Parham",
-          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Pistol - Spotify Singles",
-      "url": "https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "Tiotusen",
-        "url": "https://open.spotify.com/album/3fKfngPRKG4XJACGK1vqtk"
-      },
-      "artists": [
-        {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
-        }
-      ],
-      "duration_ms": 194643,
-      "name": "Tiotusen",
-      "url": "https://open.spotify.com/track/0hpsopcXjR8nXMXE7EWwn7"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
+        "name": "Tiotusen",
+        "url": "https://open.spotify.com/album/3fKfngPRKG4XJACGK1vqtk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "duration_ms": 194643,
+      "name": "Tiotusen",
+      "url": "https://open.spotify.com/track/0hpsopcXjR8nXMXE7EWwn7"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
         "name": "Konsten att fly",
         "url": "https://open.spotify.com/album/6px7zvuCY3QhjzbD15W8bt"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 190871,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/4Q9sJipq22mVAHpOnoWprj"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/1G5PjW6Cy80XPTmyRr2nyv"
+      },
+      "artists": [
+        {
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+        }
+      ],
+      "duration_ms": 160058,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/69C61BkstEREBdizQrgbQi"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -975,22 +991,6 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/1G5PjW6Cy80XPTmyRr2nyv"
-      },
-      "artists": [
-        {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
-        }
-      ],
-      "duration_ms": 160058,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/69C61BkstEREBdizQrgbQi"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
         "name": "LIGHTS",
         "url": "https://open.spotify.com/album/2VOmS03kyA3Gqvf79dgp9c"
       },
@@ -1007,30 +1007,6 @@
       "duration_ms": 187181,
       "name": "LIGHTS",
       "url": "https://open.spotify.com/track/1AoR3F9cAjoHm6qpB0wpFe"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "h4msterb0y <3 Canada",
-        "url": "https://open.spotify.com/album/68a1344ExnvtFpRfrM1aUu"
-      },
-      "artists": [
-        {
-          "name": "Virgin Miri",
-          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
-        },
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        },
-        {
-          "name": "Madelline",
-          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
-        }
-      ],
-      "duration_ms": 202734,
-      "name": "h4msterb0y <3 Canada",
-      "url": "https://open.spotify.com/track/3tj6aTMyJBKaELb1Jj280s"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1083,6 +1059,30 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
+        "name": "h4msterb0y <3 Canada",
+        "url": "https://open.spotify.com/album/68a1344ExnvtFpRfrM1aUu"
+      },
+      "artists": [
+        {
+          "name": "Virgin Miri",
+          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
+        },
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        },
+        {
+          "name": "Madelline",
+          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
+        }
+      ],
+      "duration_ms": 202734,
+      "name": "h4msterb0y <3 Canada",
+      "url": "https://open.spotify.com/track/3tj6aTMyJBKaELb1Jj280s"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
         "name": "Cold Turkey",
         "url": "https://open.spotify.com/album/6cMalQrIbI5ycQijYAjHMc"
       },
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "H\u00e4lften \u00e4r rakt fr\u00e5n hj\u00e4rtat",
-        "url": "https://open.spotify.com/album/4Vq2qQiX6deoCpyKvkPbB4"
-      },
-      "artists": [
-        {
-          "name": "Timo R\u00e4is\u00e4nen",
-          "url": "https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP"
-        },
-        {
-          "name": "Felicia Takman",
-          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
-        }
-      ],
-      "duration_ms": 168040,
-      "name": "H\u00e4lften \u00e4r rakt fr\u00e5n hj\u00e4rtat",
-      "url": "https://open.spotify.com/track/28irQUos9MYFrNzTuRCXzf"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
         "name": "2004",
         "url": "https://open.spotify.com/album/3JWFv8NvxaigTuSaQDFI9t"
       },
@@ -1183,18 +1163,22 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "THERAPY",
-        "url": "https://open.spotify.com/album/3CBtXeUWfk0aRCx6Ri5YQU"
+        "name": "H\u00e4lften \u00e4r rakt fr\u00e5n hj\u00e4rtat",
+        "url": "https://open.spotify.com/album/4Vq2qQiX6deoCpyKvkPbB4"
       },
       "artists": [
         {
-          "name": "Elliphant",
-          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+          "name": "Timo R\u00e4is\u00e4nen",
+          "url": "https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP"
+        },
+        {
+          "name": "Felicia Takman",
+          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
         }
       ],
-      "duration_ms": 197333,
-      "name": "THERAPY",
-      "url": "https://open.spotify.com/track/3ijEcYXQWIKn2Ndx0jubx2"
+      "duration_ms": 168040,
+      "name": "H\u00e4lften \u00e4r rakt fr\u00e5n hj\u00e4rtat",
+      "url": "https://open.spotify.com/track/28irQUos9MYFrNzTuRCXzf"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1215,18 +1199,34 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Stupid Little Party Girl",
-        "url": "https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw"
+        "name": "THERAPY",
+        "url": "https://open.spotify.com/album/3CBtXeUWfk0aRCx6Ri5YQU"
       },
       "artists": [
         {
-          "name": "Virgin Miri",
-          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
         }
       ],
-      "duration_ms": 179936,
-      "name": "Stupid Little Party Girl",
-      "url": "https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk"
+      "duration_ms": 197333,
+      "name": "THERAPY",
+      "url": "https://open.spotify.com/track/3ijEcYXQWIKn2Ndx0jubx2"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "Konsten att fly",
+        "url": "https://open.spotify.com/album/6px7zvuCY3QhjzbD15W8bt"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "V\u00e4ck mig",
+      "url": "https://open.spotify.com/track/1TnsKoURsEMCOTwITqSHg5"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
+        "name": "Stupid Little Party Girl",
+        "url": "https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw"
+      },
+      "artists": [
+        {
+          "name": "Virgin Miri",
+          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
+        }
+      ],
+      "duration_ms": 179936,
+      "name": "Stupid Little Party Girl",
+      "url": "https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
         "name": "Wolf Cries",
         "url": "https://open.spotify.com/album/2UbWIKOOJj6Zgg8LrVCAY3"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 190133,
       "name": "Wolf Cries",
       "url": "https://open.spotify.com/track/1UENNNlQETDaFv7Yvyoc5v"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "Konsten att fly",
-        "url": "https://open.spotify.com/album/6px7zvuCY3QhjzbD15W8bt"
-      },
-      "artists": [
-        {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
-        }
-      ],
-      "duration_ms": 177053,
-      "name": "V\u00e4ck mig",
-      "url": "https://open.spotify.com/track/1TnsKoURsEMCOTwITqSHg5"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
+        "name": "Regn",
+        "url": "https://open.spotify.com/album/4RRAIXVFdUa1YboX4IFpr5"
+      },
+      "artists": [
+        {
+          "name": "Maxida M\u00e4rak",
+          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
+        },
+        {
+          "name": "Elz",
+          "url": "https://open.spotify.com/artist/7wIGeHEPQNYmDGIOuoJ8fY"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Regn",
+      "url": "https://open.spotify.com/track/4iDTjX0zb7QSAJJX8F8q98"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
         "name": "I Got It All",
         "url": "https://open.spotify.com/album/7eIkDteTCxxbkjDahZkneg"
       },
@@ -1343,26 +1363,6 @@
       "duration_ms": 130509,
       "name": "SVAG",
       "url": "https://open.spotify.com/track/4ONPQrk76tFwINmmnDVUTS"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "Regn",
-        "url": "https://open.spotify.com/album/4RRAIXVFdUa1YboX4IFpr5"
-      },
-      "artists": [
-        {
-          "name": "Maxida M\u00e4rak",
-          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
-        },
-        {
-          "name": "Elz",
-          "url": "https://open.spotify.com/artist/7wIGeHEPQNYmDGIOuoJ8fY"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Regn",
-      "url": "https://open.spotify.com/track/4iDTjX0zb7QSAJJX8F8q98"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1"
+        "name": "Blommorna p\u00e5 min tapet",
+        "url": "https://open.spotify.com/album/2kPi230tn7Lt9f8S4HOOWe"
       },
       "artists": [
         {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+          "name": "Clara Klingenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
         }
       ],
-      "duration_ms": 244693,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4"
+      "duration_ms": 176223,
+      "name": "Blommorna p\u00e5 min tapet",
+      "url": "https://open.spotify.com/track/1Ogr51K4YQisSHOwrK8Tfl"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Blommorna p\u00e5 min tapet",
-        "url": "https://open.spotify.com/album/2kPi230tn7Lt9f8S4HOOWe"
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1"
       },
       "artists": [
         {
-          "name": "Clara Klingenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
         }
       ],
-      "duration_ms": 176223,
-      "name": "Blommorna p\u00e5 min tapet",
-      "url": "https://open.spotify.com/track/1Ogr51K4YQisSHOwrK8Tfl"
+      "duration_ms": 244693,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1523,6 +1523,22 @@
       "duration_ms": 151500,
       "name": "Both Ways",
       "url": "https://open.spotify.com/track/7fJT8SSG96Su9Q40Bjs8x2"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "Faller l\u00e5gt",
+        "url": "https://open.spotify.com/album/6CicQWy2IYtoeEG3rgnjiH"
+      },
+      "artists": [
+        {
+          "name": "Ellen Bergelin",
+          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
+        }
+      ],
+      "duration_ms": 135652,
+      "name": "Faller l\u00e5gt",
+      "url": "https://open.spotify.com/track/084ybk6C8yqXeywfJzOlcM"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1587,6 +1603,22 @@
       "duration_ms": 174560,
       "name": "Again and Again",
       "url": "https://open.spotify.com/track/0AzidKkUPGyBypvcwuKp0x"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "Tr\u00e4ffa andra",
+        "url": "https://open.spotify.com/album/3dVduJktcL11MXUDkH6I9I"
+      },
+      "artists": [
+        {
+          "name": "Sebbe Hauta",
+          "url": "https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z"
+        }
+      ],
+      "duration_ms": 163361,
+      "name": "Tr\u00e4ffa andra",
+      "url": "https://open.spotify.com/track/12xfklEh742AncfxxkSIzY"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1659,38 +1691,6 @@
       "duration_ms": 250393,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2HjiabJKOLvVze6mEZ7Yrk"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "Sunshine Trippin'",
-        "url": "https://open.spotify.com/album/7wb8fuayEYDBAQrBYO0KSp"
-      },
-      "artists": [
-        {
-          "name": "Violet Days",
-          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
-        }
-      ],
-      "duration_ms": 190768,
-      "name": "Sunshine Trippin'",
-      "url": "https://open.spotify.com/track/3Zvi71vJCbrGOBaYk2Bcp4"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "Peak of life",
-        "url": "https://open.spotify.com/album/4ox2lFM7CKQLoVMYm04F59"
-      },
-      "artists": [
-        {
-          "name": "Teddy Failure",
-          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
-        }
-      ],
-      "duration_ms": 142849,
-      "name": "Peak of life",
-      "url": "https://open.spotify.com/track/2PwaDY6hpMwb1RZCb10Gkf"
     }
   ],
   "unique_name": "Made in Sweden",

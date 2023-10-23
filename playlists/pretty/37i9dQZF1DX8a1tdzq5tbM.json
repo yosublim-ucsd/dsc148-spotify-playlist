@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1419227,
+  "num_followers": 1419492,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjQ2NDYzNjZmYjY0NzgxNDVmZTVmN2UxMzc4Y2NiZGEwMTg4Njlh",
+  "snapshot_id": "MCw0M2NmM2IxYjNlMWRmNzVjY2YzODBjNDM1NGViZjFiNTc0ZmM2YjI4",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 169426,
+      "name": "Call On Me - Radio Edit",
+      "url": "https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Strictly Hardrive",
         "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 489373,
       "name": "Love Comes Again",
       "url": "https://open.spotify.com/track/23x1l5fneuI3tfw52NftWH"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 169426,
-      "name": "Call On Me - Radio Edit",
-      "url": "https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Vocal Trance Hits - The Anthems",
-        "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
-      },
-      "artists": [
-        {
-          "name": "John O'Callaghan",
-          "url": "https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb"
-        },
-        {
-          "name": "Sarah Howells",
-          "url": "https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw"
-        }
-      ],
-      "duration_ms": 151621,
-      "name": "Find Yourself",
-      "url": "https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Somewhere (feat. Sarah Lynn)",
         "url": "https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 235866,
       "name": "Somewhere (feat. Sarah Lynn) - Radio Edit",
       "url": "https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Vocal Trance Hits - The Anthems",
+        "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
+      },
+      "artists": [
+        {
+          "name": "John O'Callaghan",
+          "url": "https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb"
+        },
+        {
+          "name": "Sarah Howells",
+          "url": "https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw"
+        }
+      ],
+      "duration_ms": 151621,
+      "name": "Find Yourself",
+      "url": "https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1503,6 +1503,30 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Show Me Love (feat. Robin S)",
+        "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 185613,
+      "name": "Show Me Love (feat. Robin S) - Radio Edit",
+      "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Army Of Two",
         "url": "https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R"
       },
@@ -1559,26 +1583,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Every Word",
-        "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
-      },
-      "artists": [
-        {
-          "name": "Ercola",
-          "url": "https://open.spotify.com/artist/09okhKMLoUZYOM6OTzAbNb"
-        },
-        {
-          "name": "Daniella",
-          "url": "https://open.spotify.com/artist/2TufAuLE4LXykfXEt76MqY"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Every Word (feat. Daniella) - Wendel Kos Radio Edit",
-      "url": "https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Pop Life",
         "url": "https://open.spotify.com/album/2ox4UcntoWsFQL5RDPKFUF"
       },
@@ -1607,6 +1611,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Every Word",
+        "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
+      },
+      "artists": [
+        {
+          "name": "Ercola",
+          "url": "https://open.spotify.com/artist/09okhKMLoUZYOM6OTzAbNb"
+        },
+        {
+          "name": "Daniella",
+          "url": "https://open.spotify.com/artist/2TufAuLE4LXykfXEt76MqY"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Every Word (feat. Daniella) - Wendel Kos Radio Edit",
+      "url": "https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Ready to Dare",
         "url": "https://open.spotify.com/album/5Qaao9KPcE0dL21razJGx9"
       },
@@ -1623,6 +1647,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Hypnotica",
+        "url": "https://open.spotify.com/album/2467y5gcxljWnMqbYwWxwu"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "The Biz",
+          "url": "https://open.spotify.com/artist/4oMCu6hBgTy2RFh8rRMFD0"
+        }
+      ],
+      "duration_ms": 285413,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/5JZnjM9ijpit0d5zjT8MM7"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Don't Stop!",
         "url": "https://open.spotify.com/album/2lN1TfOytRsnosYBm70kZ6"
       },
@@ -1635,30 +1679,6 @@
       "duration_ms": 163004,
       "name": "Don't Stop! - X-Cabs Radio Edit",
       "url": "https://open.spotify.com/track/2U8kSj6bS0IUdMD8JSxOm3"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Show Me Love (feat. Robin S)",
-        "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
-        }
-      ],
-      "duration_ms": 185613,
-      "name": "Show Me Love (feat. Robin S) - Radio Edit",
-      "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1727,22 +1747,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Hypnotica",
-        "url": "https://open.spotify.com/album/2467y5gcxljWnMqbYwWxwu"
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
       },
       "artists": [
         {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        },
-        {
-          "name": "The Biz",
-          "url": "https://open.spotify.com/artist/4oMCu6hBgTy2RFh8rRMFD0"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         }
       ],
-      "duration_ms": 285413,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/5JZnjM9ijpit0d5zjT8MM7"
+      "duration_ms": 237386,
+      "name": "Move For Me",
+      "url": "https://open.spotify.com/track/5KOt1QRD9YQQrrzwLCWuTN"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1827,22 +1843,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Move For Me",
-      "url": "https://open.spotify.com/track/5KOt1QRD9YQQrrzwLCWuTN"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Nervous Rewind 2008",
         "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
       },
@@ -1859,6 +1859,26 @@
       "duration_ms": 219146,
       "name": "Deep At Night (Adam K & Soha Radio Mix)",
       "url": "https://open.spotify.com/track/4ggVmEvo9FzExPonRRqqIS"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 283040,
+      "name": "I Remember (Strobelight Edit)",
+      "url": "https://open.spotify.com/track/2OZrV4yyOZNuEFx22VVfFm"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1907,26 +1927,6 @@
       "duration_ms": 251706,
       "name": "Baba O'Riley (Radio Edit)",
       "url": "https://open.spotify.com/track/31gTL5XTmcI4JCSglW5Sda"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 283040,
-      "name": "I Remember (Strobelight Edit)",
-      "url": "https://open.spotify.com/track/2OZrV4yyOZNuEFx22VVfFm"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Take Me Away (Into the Night)",
+        "url": "https://open.spotify.com/album/4WB7XNlgLRBQHt0I6cLqIc"
+      },
+      "artists": [
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        }
+      ],
+      "duration_ms": 191120,
+      "name": "Take Me Away - Vocal Radio Mix",
+      "url": "https://open.spotify.com/track/2iXSGmkft1qLUwxkRolc9U"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Star 69",
         "url": "https://open.spotify.com/album/5Ek7bYGxRPFNoFZB71pTZJ"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 357160,
       "name": "Summerfish - Scandall Sunset On Ibiza Instrumental",
       "url": "https://open.spotify.com/track/2rVoUSkbUS0dbKrHkZN2mi"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Take Me Away (Into the Night)",
-        "url": "https://open.spotify.com/album/4WB7XNlgLRBQHt0I6cLqIc"
-      },
-      "artists": [
-        {
-          "name": "4 Strings",
-          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
-        }
-      ],
-      "duration_ms": 191120,
-      "name": "Take Me Away - Vocal Radio Mix",
-      "url": "https://open.spotify.com/track/2iXSGmkft1qLUwxkRolc9U"
     },
     {
       "added_at": "2023-03-22 14:00:00",

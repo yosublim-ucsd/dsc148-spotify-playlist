@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,637 likes - 143 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,678 likes - 143 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 90 | [Pioneer](https://open.spotify.com/track/1WEGo5CZafSDrtAmkuK7Qu) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Pioneer](https://open.spotify.com/album/0dWFb0mT7OSSuEZr6X5WMm) | 3:52 |
 | 91 | [Burning Fever](https://open.spotify.com/track/5UqvhEIhVrnT4mTYFfEjhP) | [KRISTINE](https://open.spotify.com/artist/5MveLSSy2uJw20qq12EQ94) | [Kristine](https://open.spotify.com/album/7McQf4SkP9hQpgB30agxUj) | 4:15 |
 | 92 | [Dance Hall Days](https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I) | [Wang Chung](https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm) | [Points On The Curve](https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P) | 4:00 |
-| 93 | [Here I Go Again](https://open.spotify.com/track/29pzjF6ZkzcW3ofgOVbF0t) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Saints & Sinners](https://open.spotify.com/album/5HSdx1824FepWuf8NbG7B3) | 5:08 |
+| 93 | [Here I Go Again](https://open.spotify.com/track/66yF4fCC4NiFZTjhegI90o) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Dig! Rock Classics](https://open.spotify.com/album/5LTC8pH1pEnDoPLhBO4AzZ) | 5:08 |
 | 94 | [If You Leave \- From "Pretty In Pink"](https://open.spotify.com/track/05oFyvdztPdpwSwpoclD4c) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [If You Leave](https://open.spotify.com/album/3FSWIgpM4r649Pgr6KoMNf) | 4:28 |
 | 95 | [Scallywag](https://open.spotify.com/track/34FLj5RqgeXVViHSBrLWsX) | [Sonic Graffiti](https://open.spotify.com/artist/6g3uYH2AinRZRHtdWRpYt2) | [Bad Twin](https://open.spotify.com/album/0EMzo97TgJNHf0D7FDYMXU) | 1:57 |
 | 96 | [White Tape](https://open.spotify.com/track/70GFuDDRVEdi4Yasu2p9dS) | [Amazing Police](https://open.spotify.com/artist/4JBMBRwrP1lwnF7EM7fgRA) | [Amazing Police](https://open.spotify.com/album/0tmsIjtpvPOvQM7ppSXJLA) | 6:05 |

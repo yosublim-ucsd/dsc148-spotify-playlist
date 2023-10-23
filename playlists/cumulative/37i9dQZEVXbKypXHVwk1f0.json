@@ -348,7 +348,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -2430,7 +2430,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 171800,
       "name": "Borracho y Loco",
       "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
@@ -3108,6 +3108,28 @@
       "duration_ms": 413110,
       "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
+    },
+    {
+      "album": {
+        "name": "Celular",
+        "url": "https://open.spotify.com/album/6l3fBDxMFrlvX2D0ZOC5nl"
+      },
+      "artists": [
+        {
+          "name": "Deny K",
+          "url": "https://open.spotify.com/artist/14l5S8E3j7RgPY5Q6Nlnbw"
+        },
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        }
+      ],
+      "date_added": "2023-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191378,
+      "name": "Celular",
+      "url": "https://open.spotify.com/track/4sw8J2dZcT9lQE0kRfSaar"
     },
     {
       "album": {
@@ -9990,7 +10012,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 182857,
       "name": "Lujuria Favorita",
       "url": "https://open.spotify.com/track/5z6xis1rcEjjs7MuM4eL1x"
@@ -11642,7 +11664,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 173991,
       "name": "Narcotics (with Bryant Myers)",
       "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
@@ -14892,6 +14914,28 @@
       "duration_ms": 538462,
       "name": "Quiero Fumar - Remix",
       "url": "https://open.spotify.com/track/62jJgYMqkNuVlOiyscQo15"
+    },
+    {
+      "album": {
+        "name": "Greatest Hit\u00b4s",
+        "url": "https://open.spotify.com/album/5CZTSDYXBso93w28LLm1Nk"
+      },
+      "artists": [
+        {
+          "name": "Chris Jonex",
+          "url": "https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E"
+        },
+        {
+          "name": "Buxxi",
+          "url": "https://open.spotify.com/artist/08Cb5OwPZ7SrS19MNYaHqz"
+        }
+      ],
+      "date_added": "2023-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226664,
+      "name": "Quiero Ser",
+      "url": "https://open.spotify.com/track/6Bc55onCuouUiPcY1abddK"
     },
     {
       "album": {

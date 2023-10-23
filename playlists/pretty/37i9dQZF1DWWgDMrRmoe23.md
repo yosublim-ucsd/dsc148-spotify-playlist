@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgDMrRmoe23.md) - [plain]
 
 > "because it's funny" \- Thundercat\. Welcome to mixtape, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,696 likes - 25 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,724 likes - 25 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgDMrRmoe23.md) - [plain]
 | 19 | [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 |
 | 20 | [Topdown](https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Channel Tres](https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG) | 3:50 |
 | 21 | [You Better Move](https://open.spotify.com/track/6YAxCn4juTWn5hWl2hzHGw) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:16 |
-| 22 | [I Just Can't Wait to Be King \- From "The Lion King" Soundtrack](https://open.spotify.com/track/0qxtQ8rf3W1nId3D2r0xH4) | [Jason Weaver](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ), [Rowan Atkinson](https://open.spotify.com/artist/5U4QDnlOlmZx9MHV45EoDE), [Laura Williams](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 2:50 |
+| 22 | [I Just Can't Wait to Be King](https://open.spotify.com/track/0qxtQ8rf3W1nId3D2r0xH4) | [Jason Weaver](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ), [Rowan Atkinson](https://open.spotify.com/artist/5U4QDnlOlmZx9MHV45EoDE), [Laura Williams](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 2:50 |
 | 23 | [Pokémon Theme](https://open.spotify.com/track/3OIHgTyQdiAGMmpjQaNxp3) | [Pokémon](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) | [Pokemon \- 2.b.a\. Master \- Music From The Hit Tv Series](https://open.spotify.com/album/4R0boGQyiCUt3i7pAKCitR) | 3:18 |
 | 24 | [Hot Dog](https://open.spotify.com/track/6Zj3YsYfj8YTY9aGMDnpn8) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 3:50 |
 | 25 | [I2I](https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE), [Rosie Gaines](https://open.spotify.com/artist/1HRiWIhV7rgiL74L2AqZ5W) | [A Goofy Movie](https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P) | 4:01 |
 
-Snapshot ID: `MCwwMDdkN2UyOTY2NWMyMmYyM2VlMWFiZTcwNWZlYjNmODRjMzFhYzAz`
+Snapshot ID: `MCw1MWEzM2YzNmIzODVhZjM5YWZjMWUzZTY4ZjlmYTU5OGNiMGMzZTZl`

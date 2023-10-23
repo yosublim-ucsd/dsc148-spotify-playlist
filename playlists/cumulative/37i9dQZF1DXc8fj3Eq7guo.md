@@ -4,7 +4,7 @@
 
 > Where you at? We outside!
 
-55 songs - 3 hr 54 min
+56 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ethiopia](https://open.spotify.com/track/6QGdSpLFgV2XSFETaDXf0Z) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 6:37 | 2023-09-08 |  |
 | [Ghana](https://open.spotify.com/track/6sOITd3VYPzrGOWZnHqwYM) | [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Ghana](https://open.spotify.com/album/2qjTD6OsQqyry3q7J0yETh) | 4:11 | 2023-09-08 |  |
 | [Ghana](https://open.spotify.com/track/5SCbTbJ5Q8c6eLktMWFqqg) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Phola](https://open.spotify.com/album/30y3OcmLbW8kB6eO9QV3JP) | 5:24 | 2023-09-08 |  |
+| [Ghana](https://open.spotify.com/track/6Lqg26xjGQzxQLo851bWnW) | [JJ PAULO](https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm) | [Ghana](https://open.spotify.com/album/28pQbxgVu4UVBQwpQ3xIq8) | 2:17 | 2023-10-20 |  |
 | [Ghana Bounce](https://open.spotify.com/track/1AVVencV5yF6KzISmmjUbg) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [What Happens in Lagos](https://open.spotify.com/album/3U8mj36DD0Rv3f3LlT1lrk) | 3:45 | 2023-09-08 |  |
 | [Githurai](https://open.spotify.com/track/1bhXFMTeq9gvBXGpZI5LpG) | [Mr\. Lenny](https://open.spotify.com/artist/5tETuh1p6FPXwPHqHdf5WB), [Mr\. Googz](https://open.spotify.com/artist/5d4BOJk2FraY1wX67nnNp8), [Vinnie Banton](https://open.spotify.com/artist/5OA8lNrPkC0aLCNvEo4POE) | [Best of Kenyan Local Classics 3](https://open.spotify.com/album/5qmcjoEaVsK9KVNOdrVKI5) | 4:42 | 2023-09-08 | 2023-10-10 |
 | [Jericho](https://open.spotify.com/track/6PrImSndUslYTiN77tqlp8) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Omo Charlie Champagne Vol\. 1](https://open.spotify.com/album/0DfMhXwJEtsRauBcpb2rz7) | 3:15 | 2023-09-08 | 2023-10-13 |
@@ -46,7 +47,7 @@
 | [Mombasa](https://open.spotify.com/track/3CtfRT0hfvNGhEivMI4CCY) | [Safari Sound Band](https://open.spotify.com/artist/2mCLJWF0Fy3eEHPvgRCEFM) | [The Best Of African Songs](https://open.spotify.com/album/1i6Xt02mq2p85ywAei5f58) | 4:09 | 2023-09-08 |  |
 | [Mombasa After Midnight](https://open.spotify.com/track/7rIqwiH9uCLuBYyr2cu7vH) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Exotic Moods Of Les Baxter](https://open.spotify.com/album/2ht6iWCY9PPVS4CuBYVcD1) | 2:10 | 2023-09-08 |  |
 | [Morocco](https://open.spotify.com/track/2ljF7c0hX2YU2K5BOzC5LU) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:06 | 2023-09-08 |  |
-| [Morogoro](https://open.spotify.com/track/653sdYtuZPYKZHr6GRplOX) | [Tankie DJ](https://open.spotify.com/artist/5QhPNPVnSivVz4R0PXZN3L) | [Morogoro](https://open.spotify.com/album/1SwmQQRqFY1OsPBpXjGE4k) | 6:58 | 2023-09-08 |  |
+| [Morogoro](https://open.spotify.com/track/653sdYtuZPYKZHr6GRplOX) | [Tankie DJ](https://open.spotify.com/artist/5QhPNPVnSivVz4R0PXZN3L) | [Morogoro](https://open.spotify.com/album/1SwmQQRqFY1OsPBpXjGE4k) | 6:58 | 2023-09-08 | 2023-10-23 |
 | [Mzansi](https://open.spotify.com/track/6h6lRoxhGgkfLw6pVMvPHN) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Eindo](https://open.spotify.com/artist/6kHkTLWCtE88wnK3XKXFFr), [Turaz](https://open.spotify.com/artist/6G0KGHioY6sCFMNozFUQRC) | [Necessary Evil](https://open.spotify.com/album/5DAnRaWABIjjFFNdMFOPrc) | 3:49 | 2023-09-08 |  |
 | [Nairobi](https://open.spotify.com/track/1QzPmQynOP65qaOuZDJUbm) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [NAIROBI](https://open.spotify.com/album/2pVb3IsYOZWdYNk6KJIjh4) | 3:40 | 2023-09-08 |  |
 | [Nairobi](https://open.spotify.com/track/7ipje7w6H8in5Otc4pEex4) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Nairobi](https://open.spotify.com/album/7uWo9YZ9ggrk7E00QddrXm) | 3:16 | 2023-09-08 |  |

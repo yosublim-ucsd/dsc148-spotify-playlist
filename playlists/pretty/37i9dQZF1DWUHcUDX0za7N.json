@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=HVlq4wOvRTOtVCoJDJtpKA\"> Blaqbonez </a>  and <a href=\"https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=EYuG6hCJQCibu_udVtsN-Q\"> Zlatan </a> ",
-  "num_followers": 28653,
+  "num_followers": 28778,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2MxMzI0MTk2Y2ZhMzVhODM1MzRiMWQ0N2EyODk3MDJhNzYzOTVk",
+  "snapshot_id": "MCw1ZWY0MTc3N2QwZmQyMzVjZWFhYmNkMTExOTNiODQzYTAxYzU1YjQ2",
   "tracks": [
     {
       "added_at": "2023-10-20 06:18:44",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-10-20 06:18:44",
       "album": {
+        "name": "No Wam",
+        "url": "https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "No Wam",
+      "url": "https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b"
+    },
+    {
+      "added_at": "2023-10-20 06:18:44",
+      "album": {
         "name": "Guy Man",
         "url": "https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 166956,
       "name": "Guy Man",
       "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
-    },
-    {
-      "added_at": "2023-10-20 06:18:44",
-      "album": {
-        "name": "No Wam",
-        "url": "https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "No Wam",
-      "url": "https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b"
     },
     {
       "added_at": "2023-10-20 06:18:44",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-10-20 06:18:44",
       "album": {
+        "name": "Kpos Lifestyle, Vol. 1",
+        "url": "https://open.spotify.com/album/3XpW2dVRMpVwDZU0igQPEZ"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0VOLzICIqLKFHQYLBxLw51"
+    },
+    {
+      "added_at": "2023-10-20 06:18:44",
+      "album": {
         "name": "Vigilante Bop",
         "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 182500,
       "name": "Where Dem Dey",
       "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
-    },
-    {
-      "added_at": "2023-10-20 06:18:44",
-      "album": {
-        "name": "Kpos Lifestyle, Vol. 1",
-        "url": "https://open.spotify.com/album/3XpW2dVRMpVwDZU0igQPEZ"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0VOLzICIqLKFHQYLBxLw51"
     },
     {
       "added_at": "2023-10-20 06:18:44",
@@ -1203,6 +1203,30 @@
     {
       "added_at": "2023-10-20 06:18:44",
       "album": {
+        "name": "2 Pac",
+        "url": "https://open.spotify.com/album/7nVSprHJxzWVvVdlD4YP4D"
+      },
+      "artists": [
+        {
+          "name": "EESKAY",
+          "url": "https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+        }
+      ],
+      "duration_ms": 300463,
+      "name": "Bad Character - Remix",
+      "url": "https://open.spotify.com/track/5TNLFv24z226zDK7aAYXjf"
+    },
+    {
+      "added_at": "2023-10-20 06:18:44",
+      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -1227,30 +1251,6 @@
       "duration_ms": 168247,
       "name": "Awolowo",
       "url": "https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg"
-    },
-    {
-      "added_at": "2023-10-20 06:18:44",
-      "album": {
-        "name": "2 Pac",
-        "url": "https://open.spotify.com/album/7nVSprHJxzWVvVdlD4YP4D"
-      },
-      "artists": [
-        {
-          "name": "EESKAY",
-          "url": "https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "DanDizzy",
-          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
-        }
-      ],
-      "duration_ms": 300463,
-      "name": "Bad Character - Remix",
-      "url": "https://open.spotify.com/track/5TNLFv24z226zDK7aAYXjf"
     },
     {
       "added_at": "2023-10-20 06:18:44",

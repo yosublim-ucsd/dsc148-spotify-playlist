@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > dorian alert
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,664 likes - 105 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,661 likes - 105 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 43 | [Shoplifting From Nike](https://open.spotify.com/track/5EeFXlnVF1b7y1n5HzpCQg) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Dystopia Girl](https://open.spotify.com/album/3o7ThcbaOB3nZIJdyDPDVu) | 2:21 |
 | 44 | [leaving shibuya for once \[>﹏< \]](https://open.spotify.com/track/4qTUJy6jQ36THWBxJOV1QN) | [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn) | [leaving shibuya for once \[>﹏< \]](https://open.spotify.com/album/0bsHDJkudQlYyNJRLiadQl) | 2:46 |
 | 45 | [whiplash](https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [whiplash / cliche](https://open.spotify.com/album/6xE5ALjPamqaG7iPIx4dGX) | 2:47 |
-| 46 | [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 |
+| 46 | [SHYPOP](https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:28 |
 | 47 | [No Body](https://open.spotify.com/track/3iZt8KJvoKxOYj0cLXGluK) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 2:44 |
 | 48 | [halo](https://open.spotify.com/track/3S98DaraI3lEwWBCVaEDnn) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF) | [halo](https://open.spotify.com/album/0tnFLnIqnt052ZMWWiif9M) | 3:03 |
 | 49 | [Perfect Picture](https://open.spotify.com/track/22V4BZlNonTO0EbWrq1zSb) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Perfect Picture](https://open.spotify.com/album/33ltmTvbMZ7OaM8ul5MlOW) | 2:49 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 104 | [Baby My Phone](https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Baby My Phone](https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq) | 3:35 |
 | 105 | [lost n found](https://open.spotify.com/track/4QTb29gVaviE9RXyeeabkT) | [i9bonsai](https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3) | [lost n found](https://open.spotify.com/album/24RsDhoXk1dS3xSCRWgB1w) | 2:44 |
 
-Snapshot ID: `MCxkNzFkOTljNmIwOWQ5ZWJkMzFlNDAxNzVhYjdmNGJiN2IxOGNmYTZj`
+Snapshot ID: `MCxkZjk4MmE2ZjBkZmY1YzI1YTQ4MjlmNTMwZjY3YTdiZDE4NjBkNGM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,587 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,636 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [Luces \(Remix\)](https://open.spotify.com/track/6qR4XWoqRIZFmrnHwGlQW4) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Renato del Real](https://open.spotify.com/artist/5js8GdUIAckJjkMEur6dw6) | [Luces \(Remix\)](https://open.spotify.com/album/6rySQJGYP8imuRNPGg7UC2) | 3:19 |
 | 50 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 |
 
-Snapshot ID: `MCwwYzNmNzRlMWI5ZGZlNDg2OTM4ZjAyZmVjOWJhYTg3NDAzMTY2MDM0`
+Snapshot ID: `MCwwNjk2YzhhMGY1NGI3NWM3ODcwZTNhNWE1MGFmMDhiMjViOTBjMDFi`

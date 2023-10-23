@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Hermanos Guti\u00e9rrez",
-  "num_followers": 17865,
+  "num_followers": 17877,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjkwYzdhOGY1MWMwMTgxYTI1YjgyMTQyZDhlNThjZjg5YWYyZTQy",
+  "snapshot_id": "MCwyM2U5YzYwOTJlN2I5MmQ3N2FhN2M0M2Q5MjRmZTYzYjE2YzI2MjJh",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -291,18 +291,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Mujer El\u00e9ctrica",
-        "url": "https://open.spotify.com/album/3sgIcq7sXDaw1patJDSd59"
+        "name": "El Bueno Y El Malo",
+        "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
       },
       "artists": [
         {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        },
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
         }
       ],
-      "duration_ms": 113639,
-      "name": "Caf\u00e9 Con Leche",
-      "url": "https://open.spotify.com/track/6SfkPzqzG62lkvkyKJGUKY"
+      "duration_ms": 201413,
+      "name": "Tres Hermanos",
+      "url": "https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -343,22 +347,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "El Bueno Y El Malo",
-        "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
+        "name": "Mujer El\u00e9ctrica",
+        "url": "https://open.spotify.com/album/3sgIcq7sXDaw1patJDSd59"
       },
       "artists": [
         {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        },
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 201413,
-      "name": "Tres Hermanos",
-      "url": "https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap"
+      "duration_ms": 113639,
+      "name": "Caf\u00e9 Con Leche",
+      "url": "https://open.spotify.com/track/6SfkPzqzG62lkvkyKJGUKY"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/7rFobKKdxE3gRflCho8mUY"
-      },
-      "artists": [
-        {
-          "name": "Inazio",
-          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
-        }
-      ],
-      "duration_ms": 190380,
-      "name": "Norte",
-      "url": "https://open.spotify.com/track/14DdKjlEHuI1DlSS8aKW0o"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Love Song (Helado Negro Remix)",
         "url": "https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 259226,
       "name": "Love Song - Helado Negro Remix",
       "url": "https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/7rFobKKdxE3gRflCho8mUY"
+      },
+      "artists": [
+        {
+          "name": "Inazio",
+          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
+        }
+      ],
+      "duration_ms": 190380,
+      "name": "Norte",
+      "url": "https://open.spotify.com/track/14DdKjlEHuI1DlSS8aKW0o"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "\u00bfY Si Te Invito?",
+        "url": "https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR"
+      },
+      "artists": [
+        {
+          "name": "Axel M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/0nY0rYPHRYTji024zspDCw"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "\u00bfY Si Te Invito?",
+      "url": "https://open.spotify.com/track/0foW7sax16CI8UizVAek32"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Estas Canciones Me Recuerdan a Ti",
         "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 203950,
       "name": "La Ola",
       "url": "https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "\u00bfY Si Te Invito?",
-        "url": "https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR"
-      },
-      "artists": [
-        {
-          "name": "Axel M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/0nY0rYPHRYTji024zspDCw"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "\u00bfY Si Te Invito?",
-      "url": "https://open.spotify.com/track/0foW7sax16CI8UizVAek32"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Te mereces un amor",
+        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "La Casa de la Esquina",
+      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Sagitario",
         "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 229524,
       "name": "Mi otra mitad",
       "url": "https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Te mereces un amor",
-        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "La Casa de la Esquina",
-      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
     }
   ],
   "unique_name": "Latin Folk",

@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: The Callous Daoboys
 
-4,865 songs - 13 day 17 hr 46 min
+4,866 songs - 13 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -968,7 +968,8 @@
 | [Darkness Won't Take Me](https://open.spotify.com/track/3YcfbbJcK2vPzO6YTtuZnj) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [The Loss of Beauty](https://open.spotify.com/album/64GTRfZD77H80wLB7xzLE3) | 4:13 | 2023-03-24 | 2023-04-01 |
 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2023-10-13 | 2023-10-21 |
 | [Darkspawn](https://open.spotify.com/track/3wI2uagpkbsZmlceScPoQv) | [Hatesphere](https://open.spotify.com/artist/5WQuRVeLXX0qH2lVFZYhl5) | [Darkspawn](https://open.spotify.com/album/0u2TzjdwTxooHArts4Fg3A) | 4:17 | 2023-03-03 | 2023-03-11 |
-| [Daruma \(feat\. Arjen Anthony Lucassen\)](https://open.spotify.com/track/05dd9knBtlukM9lDlAF3Eu) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J), [Arjen Anthony Lucassen](https://open.spotify.com/artist/0EB6qOap6h8OJSEswOv8y5) | [Daruma](https://open.spotify.com/album/1E5EC74Q8LbJBWS6jPoln0) | 4:23 | 2023-08-25 |  |
+| [Daruma \(feat\. Arjen Anthony Lucassen\)](https://open.spotify.com/track/05dd9knBtlukM9lDlAF3Eu) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J), [Arjen Anthony Lucassen](https://open.spotify.com/artist/0EB6qOap6h8OJSEswOv8y5) | [Daruma](https://open.spotify.com/album/1E5EC74Q8LbJBWS6jPoln0) | 4:23 | 2023-08-25 | 2023-10-23 |
+| [Daruma \(feat\. Arjen Anthony Lucassen\)](https://open.spotify.com/track/3CIMn48czjGDiud73XSAP4) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J), [Arjen Anthony Lucassen](https://open.spotify.com/artist/0EB6qOap6h8OJSEswOv8y5) | [Hermitage \- Daruma's Eyes Pt\. 2](https://open.spotify.com/album/0BPeqJ9qdWKaWgnPuDHw6V) | 4:23 | 2023-10-20 |  |
 | [Das Wunderland](https://open.spotify.com/track/34JBmiQ3iJx68rtJoE0rLl) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Das Wunderland](https://open.spotify.com/album/720vftPF0WPeCWObcArbcL) | 3:24 | 2022-03-24 | 2022-04-01 |
 | [Data Fortress Orbital Stationary](https://open.spotify.com/track/7oc3g2lOyb5mabY0BTMXFe) | [Wormhole](https://open.spotify.com/artist/2foAanYCza7knczRDB8DFt) | [Almost Human](https://open.spotify.com/album/11ijTGeUpHPm1Jn2Ktvqd6) | 3:28 | 2023-09-22 | 2023-09-30 |
 | [Datalysium](https://open.spotify.com/track/5pNXfPMQK2MCplLsa9OzdD) | [The Zenith Passage](https://open.spotify.com/artist/55ISuKXdlefU2R5hV3GWnf) | [Datalysium](https://open.spotify.com/album/5jK98rWaNqgZISUm3Mg5QG) | 7:01 | 2023-07-21 | 2023-07-29 |

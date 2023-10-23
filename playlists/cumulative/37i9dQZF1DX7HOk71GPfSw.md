@@ -4,7 +4,7 @@
 
 > dorian alert
 
-1,857 songs - 3 day 12 hr 25 min
+1,858 songs - 3 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1465,7 +1465,8 @@
 | [Show Me What](https://open.spotify.com/track/4P35PqdhvLRnVssvVvAuaS) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [7G](https://open.spotify.com/album/0PHVIdlkceOpjYgvUER4Nd) | 2:49 | 2021-02-10 | 2021-07-17 |
 | [Shut Up !](https://open.spotify.com/track/1daJ96vO2XVqiVfzM0vvHe) | [Nova](https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF), [Hiko Momoji](https://open.spotify.com/artist/37pvblQAxulAdUFbZdYwdh) | [Destination Unknown](https://open.spotify.com/album/0dBmoJWa0hN0Xfj7BGqkmz) | 2:31 | 2022-01-28 | 2022-04-29 |
 | [shut up i don't want to talk](https://open.spotify.com/track/6imdTlpE7MOkqu6i334BXb) | [miraie](https://open.spotify.com/artist/3U2oWd07HPgl60o8RBMG4P) | [shut up i don't want to talk](https://open.spotify.com/album/0NLQw3ulzQfswyyftmdrOY) | 2:31 | 2021-05-27 | 2022-01-13 |
-| [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 | 2023-08-25 |  |
+| [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 | 2023-08-25 | 2023-10-23 |
+| [SHYPOP](https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:28 | 2023-08-25 |  |
 | [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 | 2023-08-25 | 2023-09-26 |
 | [sick](https://open.spotify.com/track/4c9sDWdPn61U5gkwlu8zke) | [bleach](https://open.spotify.com/artist/3lQ7lf6EHZzz2EhFBhVdtp) | [sick](https://open.spotify.com/album/5hLP6G8OzuxMDUjMjn7McU) | 2:46 | 2021-12-03 | 2022-03-17 |
 | [Sick Duck](https://open.spotify.com/track/7AYm98xV9UJiQYlENdO2dq) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [Sick Duck](https://open.spotify.com/album/67MgQff67S1DB5diFOUUfk) | 3:58 | 2020-10-13\* | 2021-01-08 |

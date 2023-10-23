@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Luke Grimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,689 likes - 102 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,862 likes - 102 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 101 | [When It's My Time](https://open.spotify.com/track/2HKTn21q37EC4EibvaoEzg) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [When It's My Time](https://open.spotify.com/album/3QRherbInt8fExzq41yyoZ) | 4:33 |
 | 102 | [Denim & Diamonds](https://open.spotify.com/track/7jAw05wdvqQhKDtKnFOH93) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:12 |
 
-Snapshot ID: `MCxiZDRhZmIyMDg4ZGZlYjdmMTJkZjFlODFiOWVmMWYxMGQ5YTEzN2Ji`
+Snapshot ID: `MCxkNDFjNjY2OTMyNDU2Nzk4NjJmOGMyN2I2YTNkNTRiYjk0NGE4Njky`

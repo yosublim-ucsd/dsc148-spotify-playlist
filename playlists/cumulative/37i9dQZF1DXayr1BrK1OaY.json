@@ -1959,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174344,
+      "name": "Just Over",
+      "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
+    },
+    {
+      "album": {
         "name": "Just Over",
         "url": "https://open.spotify.com/album/2Y14Dz0r9cImcQ9Usm0xcx"
       },
@@ -4124,7 +4142,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 238901,
       "name": "To be honest - SG Lewis Remix",
       "url": "https://open.spotify.com/track/15D7d8uC0db0q0QkMdHia8"

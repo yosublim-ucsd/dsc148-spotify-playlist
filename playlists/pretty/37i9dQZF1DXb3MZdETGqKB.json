@@ -1,6 +1,6 @@
 {
   "description": "All new, all blues. Cover: ZZ Ward",
-  "num_followers": 143938,
+  "num_followers": 144070,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
@@ -1583,6 +1583,22 @@
       "duration_ms": 123452,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/1kQX0xM3efET212Y1Lq0ZG"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "The Man Was Burning",
+        "url": "https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly"
+      },
+      "artists": [
+        {
+          "name": "Jake Blount",
+          "url": "https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1"
+        }
+      ],
+      "duration_ms": 155665,
+      "name": "The Man Was Burning",
+      "url": "https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv"
     },
     {
       "added_at": "2022-02-18 05:02:00",

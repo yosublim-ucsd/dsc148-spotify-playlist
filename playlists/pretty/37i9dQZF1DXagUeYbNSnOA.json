@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists and labels, featuring Olivia Garc\u00eda. Updates every Wednesday.",
-  "num_followers": 172490,
+  "num_followers": 172516,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-10-18 06:00:00",
       "album": {
-        "name": "Pienso en vos",
-        "url": "https://open.spotify.com/album/6xhpQWkWXC8M1aTSlytBHq"
+        "name": "\u00bfCu\u00e1nto Cotizar\u00e1 Mi Alma?",
+        "url": "https://open.spotify.com/album/4kQXXs8lhIt8Q3vSLQCO9P"
       },
       "artists": [
         {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+          "name": "Amelia",
+          "url": "https://open.spotify.com/artist/54DOvUaX10WtpRddMhbI4P"
         }
       ],
-      "duration_ms": 134623,
-      "name": "Pienso en vos",
-      "url": "https://open.spotify.com/track/1c0EhzGr82yULGW3ebKX74"
+      "duration_ms": 227576,
+      "name": "\u00bfCu\u00e1nto Cotizar\u00e1 Mi Alma?",
+      "url": "https://open.spotify.com/track/3HzRUVUhEB5upfj92jcPpI"
     },
     {
       "added_at": "2023-10-18 06:00:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-10-18 06:00:00",
       "album": {
-        "name": "\u00bfCu\u00e1nto Cotizar\u00e1 Mi Alma?",
-        "url": "https://open.spotify.com/album/4kQXXs8lhIt8Q3vSLQCO9P"
+        "name": "Pienso en vos",
+        "url": "https://open.spotify.com/album/6xhpQWkWXC8M1aTSlytBHq"
       },
       "artists": [
         {
-          "name": "Amelia",
-          "url": "https://open.spotify.com/artist/54DOvUaX10WtpRddMhbI4P"
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
         }
       ],
-      "duration_ms": 227576,
-      "name": "\u00bfCu\u00e1nto Cotizar\u00e1 Mi Alma?",
-      "url": "https://open.spotify.com/track/3HzRUVUhEB5upfj92jcPpI"
+      "duration_ms": 134623,
+      "name": "Pienso en vos",
+      "url": "https://open.spotify.com/track/1c0EhzGr82yULGW3ebKX74"
     },
     {
       "added_at": "2023-10-18 06:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-10-18 06:00:00",
       "album": {
+        "name": "Delirando",
+        "url": "https://open.spotify.com/album/5IO7Xu0Nb5gP9DqNLsA0zf"
+      },
+      "artists": [
+        {
+          "name": "Eloisa",
+          "url": "https://open.spotify.com/artist/1GbHLsyBjx0L5uJoPRoelG"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "Delirando",
+      "url": "https://open.spotify.com/track/2YK1bWEZYctEqUmk6dnTFi"
+    },
+    {
+      "added_at": "2023-10-18 06:00:00",
+      "album": {
         "name": "Hipnotizado",
         "url": "https://open.spotify.com/album/0VKUaQ4Y8qAbbCFE4LLlH9"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 126720,
       "name": "Dosix",
       "url": "https://open.spotify.com/track/3od8ElTDYe2ZToTFP5OsgZ"
-    },
-    {
-      "added_at": "2023-10-18 06:00:00",
-      "album": {
-        "name": "Delirando",
-        "url": "https://open.spotify.com/album/5IO7Xu0Nb5gP9DqNLsA0zf"
-      },
-      "artists": [
-        {
-          "name": "Eloisa",
-          "url": "https://open.spotify.com/artist/1GbHLsyBjx0L5uJoPRoelG"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Delirando",
-      "url": "https://open.spotify.com/track/2YK1bWEZYctEqUmk6dnTFi"
     },
     {
       "added_at": "2023-10-18 06:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-10-18 06:00:00",
       "album": {
-        "name": "T\u00d3XICA",
-        "url": "https://open.spotify.com/album/3tIg0qMA3ZngRWqyyYR8W7"
-      },
-      "artists": [
-        {
-          "name": "Legorreta",
-          "url": "https://open.spotify.com/artist/7H7PSOSgC6q5dLbytIl4bV"
-        }
-      ],
-      "duration_ms": 155004,
-      "name": "T\u00d3XICA",
-      "url": "https://open.spotify.com/track/6ahdxx6xNTnA2MVDxhS3we"
-    },
-    {
-      "added_at": "2023-10-18 06:00:00",
-      "album": {
         "name": "Metro (Una Fiesta de Disfraces)",
         "url": "https://open.spotify.com/album/1GLy9HJJrGLKU7FTpSU0b3"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 240000,
       "name": "Metro (Una Fiesta de Disfraces)",
       "url": "https://open.spotify.com/track/6pPlLe11poISH7sAfrzn3P"
+    },
+    {
+      "added_at": "2023-10-18 06:00:00",
+      "album": {
+        "name": "T\u00d3XICA",
+        "url": "https://open.spotify.com/album/3tIg0qMA3ZngRWqyyYR8W7"
+      },
+      "artists": [
+        {
+          "name": "Legorreta",
+          "url": "https://open.spotify.com/artist/7H7PSOSgC6q5dLbytIl4bV"
+        }
+      ],
+      "duration_ms": 155004,
+      "name": "T\u00d3XICA",
+      "url": "https://open.spotify.com/track/6ahdxx6xNTnA2MVDxhS3we"
     },
     {
       "added_at": "2023-10-18 06:00:00",

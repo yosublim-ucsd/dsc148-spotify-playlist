@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 328916,
+  "num_followers": 328973,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTViYTJmNDMxOTg0M2NkZGMzN2M4OWVkNmJkOTZiZjY3MTI2ZTVm",
+  "snapshot_id": "MCwyMTYyOWU4YWVmMzg2NzdkOGNjYWI4YjJiZDRiYjYyMjNhNjMxNjY4",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "O Tempo \u00c9 Agora",
-        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 220566,
-      "name": "Ai, Amor",
-      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Mar\u00edlia Mendon\u00e7a - Ao Vivo",
         "url": "https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 201904,
       "name": "Infiel - Ao Vivo",
       "url": "https://open.spotify.com/track/38MpAndIjGAyVdcC6npX95"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "O Tempo \u00c9 Agora",
+        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 220566,
+      "name": "Ai, Amor",
+      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "N\u00e3o sou obrigada",
-        "url": "https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ"
-      },
-      "artists": [
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        }
-      ],
-      "duration_ms": 148340,
-      "name": "N\u00e3o sou obrigada",
-      "url": "https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
-        "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
+        "name": "N\u00e3o sou obrigada",
+        "url": "https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ"
       },
       "artists": [
         {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
         }
       ],
-      "duration_ms": 300333,
-      "name": "Reconvexo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
+      "duration_ms": 148340,
+      "name": "N\u00e3o sou obrigada",
+      "url": "https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -451,6 +435,22 @@
       "duration_ms": 223266,
       "name": "Andan\u00e7a",
       "url": "https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
+        "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 300333,
+      "name": "Reconvexo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Andarilho",
-        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
-      },
-      "artists": [
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        }
-      ],
-      "duration_ms": 230160,
-      "name": "Andarilho",
-      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Envolvimento",
         "url": "https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 146602,
       "name": "Envolvimento",
       "url": "https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Andarilho",
+        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "Andarilho",
+      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -747,18 +747,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Primeira Vez",
-        "url": "https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6"
+        "name": "Sempre a Cantar",
+        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
       },
       "artists": [
         {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
         }
       ],
-      "duration_ms": 193125,
-      "name": "Primeira Vez",
-      "url": "https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG"
+      "duration_ms": 304866,
+      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
+      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sempre a Cantar",
-        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
+        "name": "Primeira Vez",
+        "url": "https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6"
       },
       "artists": [
         {
-          "name": "Dona Ivone Lara",
-          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
         }
       ],
-      "duration_ms": 304866,
-      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
-      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
+      "duration_ms": 193125,
+      "name": "Primeira Vez",
+      "url": "https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
-        "url": "https://open.spotify.com/album/4Lh4g0DvwP1yT2d0ThGj9r"
-      },
-      "artists": [
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        }
-      ],
-      "duration_ms": 137608,
-      "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
-      "url": "https://open.spotify.com/track/1vXMChJ2MGtI0vq9t6kjDB"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Vem",
         "url": "https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 235128,
       "name": "Voc\u00ea N\u00e3o Presta",
       "url": "https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
+        "url": "https://open.spotify.com/album/4Lh4g0DvwP1yT2d0ThGj9r"
+      },
+      "artists": [
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        }
+      ],
+      "duration_ms": 137608,
+      "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
+      "url": "https://open.spotify.com/track/1vXMChJ2MGtI0vq9t6kjDB"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -995,26 +995,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Day",
-        "url": "https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        }
-      ],
-      "duration_ms": 161819,
-      "name": "Clich\u00ea",
-      "url": "https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Sol e Mar, Vol. 2",
         "url": "https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 193004,
       "name": "JBL",
       "url": "https://open.spotify.com/track/6THoM5F4gvHguHHyLfxGjU"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Day",
+        "url": "https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 161819,
+      "name": "Clich\u00ea",
+      "url": "https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Psiu",
-        "url": "https://open.spotify.com/album/71oJRTxnV00wZA0NwPRH0v"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 297128,
-      "name": "Psiu",
-      "url": "https://open.spotify.com/track/3aMOVCxQt9Xhoy1MdygCcv"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Boladona",
         "url": "https://open.spotify.com/album/4xhz8Ge90YWgmDzxUtr5oB"
       },
@@ -1263,22 +1247,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "S\u00f3 Porque Eu Sou Mulher",
-        "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
+        "name": "Psiu",
+        "url": "https://open.spotify.com/album/71oJRTxnV00wZA0NwPRH0v"
       },
       "artists": [
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 163535,
-      "name": "S\u00f3 Porque Eu Sou Mulher",
-      "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
+      "duration_ms": 297128,
+      "name": "Psiu",
+      "url": "https://open.spotify.com/track/3aMOVCxQt9Xhoy1MdygCcv"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1295,6 +1275,26 @@
       "duration_ms": 162444,
       "name": "Que Tiro Foi Esse",
       "url": "https://open.spotify.com/track/7g9l2KZ1IsxJReWQeMzqX2"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "S\u00f3 Porque Eu Sou Mulher",
+        "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 163535,
+      "name": "S\u00f3 Porque Eu Sou Mulher",
+      "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1447,6 +1447,38 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "\u00c9 o Que Temos",
+        "url": "https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Eug\u00eania",
+          "url": "https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4l9yenHEy1NXpRl4xEYnhu"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "De Cabe\u00e7a Pra Baixo",
+        "url": "https://open.spotify.com/album/2mgNZSUNUVTsnjMWQflmd5"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Cafe\u00edna",
+      "url": "https://open.spotify.com/track/5FWVI1VWVmEuuzP5pVjJ6d"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Ora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1w6qsdlglZBK5wYxTH6Ndb"
       },
@@ -1487,38 +1519,6 @@
       "duration_ms": 239669,
       "name": "Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2OuCkfX39Geg49wLwjsQ9z"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "\u00c9 o Que Temos",
-        "url": "https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Eug\u00eania",
-          "url": "https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4l9yenHEy1NXpRl4xEYnhu"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "De Cabe\u00e7a Pra Baixo",
-        "url": "https://open.spotify.com/album/2mgNZSUNUVTsnjMWQflmd5"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Cafe\u00edna",
-      "url": "https://open.spotify.com/track/5FWVI1VWVmEuuzP5pVjJ6d"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Pra Te Lembrar [Trilha da Novela Sete Vidas]",
-        "url": "https://open.spotify.com/album/20RxMq4XRBg30WRqjBwTGb"
-      },
-      "artists": [
-        {
-          "name": "Luiza Possi",
-          "url": "https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "Pra Te Lembrar [Trilha da Novela Sete Vidas]",
-      "url": "https://open.spotify.com/track/3OE8rx6lNYxRnjCZ6wMlPs"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Solo Seduzente",
         "url": "https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 167341,
       "name": "Baldin de Gelo",
       "url": "https://open.spotify.com/track/2sv7wfMG7h8EJl3j2KxTGZ"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Pra Te Lembrar [Trilha da Novela Sete Vidas]",
+        "url": "https://open.spotify.com/album/20RxMq4XRBg30WRqjBwTGb"
+      },
+      "artists": [
+        {
+          "name": "Luiza Possi",
+          "url": "https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "Pra Te Lembrar [Trilha da Novela Sete Vidas]",
+      "url": "https://open.spotify.com/track/3OE8rx6lNYxRnjCZ6wMlPs"
     },
     {
       "added_at": "2022-10-07 03:01:33",

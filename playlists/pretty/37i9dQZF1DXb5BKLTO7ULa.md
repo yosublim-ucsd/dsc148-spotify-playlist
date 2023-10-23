@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,721 likes - 103 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,736 likes - 103 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 68 | [Het Langste Jaar](https://open.spotify.com/track/3bAPn0i07voGzwS2uolZcu) | [Het Zesde Metaal](https://open.spotify.com/artist/0BqOXpkslA5Kxud9UXi2yG) | [Het Langste Jaar](https://open.spotify.com/album/3EcBZJHl6nljRE4Nlzz71L) | 5:19 |
 | 69 | [kerosene](https://open.spotify.com/track/6dn8A7K3ZfYbDfCRKWFs6P) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Sie](https://open.spotify.com/artist/4hs7Io6w7BHOxlbtOIjGH1) | [kerosene](https://open.spotify.com/album/2dPwrPd5fUcz3Lgn22KJut) | 2:48 |
 | 70 | [KARMA BITCH](https://open.spotify.com/track/6NvKbtiZwt6fE5BWaCmxxk) | [NETTE MEISJES](https://open.spotify.com/artist/3LpkveIRhXiMWw6JGHKtFX) | [KARMA BITCH \(SKA CARAVAN SESSIES\)](https://open.spotify.com/album/2QTJ48DNRvCbFEhx2Oi51I) | 2:18 |
-| 71 | [MIRROR MIRROR](https://open.spotify.com/track/1zQ0BwziXMRrMMfVQjV8j5) | [Sue the Night](https://open.spotify.com/artist/09mG88dA6PdovfkatUxvRh), [Thijs van der Klugt](https://open.spotify.com/artist/34N2UcEzKAPQ6BCnmqmsEl) | [Susanne And The Sad Sunset Disco](https://open.spotify.com/album/10mdFzQe3BCbja2JYjWDug) | 3:51 |
+| 71 | [MIRROR MIRROR](https://open.spotify.com/track/1zQ0BwziXMRrMMfVQjV8j5) | [Sue the Night](https://open.spotify.com/artist/09mG88dA6PdovfkatUxvRh) | [Susanne And The Sad Sunset Disco](https://open.spotify.com/album/10mdFzQe3BCbja2JYjWDug) | 3:51 |
 | 72 | [Heimwee](https://open.spotify.com/track/3e4tQ9QyAx5LbeXI6Fi24q) | [L CIANO](https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd) | [Heimwee](https://open.spotify.com/album/07Ndtj0kll88VGabH13idl) | 2:24 |
 | 73 | [LUV](https://open.spotify.com/track/0xnttNgKqryVAbQXbGlGRO) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [LUV](https://open.spotify.com/album/35EVYlPHG90tTTq4tWf18U) | 2:22 |
 | 74 | [Friend Of Mine](https://open.spotify.com/track/6amr2Sdv9yw7Y917GZToj9) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Friend Of Mine](https://open.spotify.com/album/26EjAdOrdU9jo56sG11uy9) | 3:14 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 84 | [Waiting For Tomorrow](https://open.spotify.com/track/2c8kr7F49pgOLDUWhsDreD) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q), [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew) | [Roots](https://open.spotify.com/album/7yu5ozdJWDS0tjQV8jrdv4) | 2:43 |
 | 85 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 |
 | 86 | [Believe](https://open.spotify.com/track/1D53ZjgCcPlFYEryfd0c8r) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Believe](https://open.spotify.com/album/13tmGqDNlyfIbSEAC7iaey) | 2:48 |
-| 87 | [Eenzaam Samen](https://open.spotify.com/track/5gAwwq5heHnzLpLIIFc4NF) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [Eenzaam Samen](https://open.spotify.com/album/4WTBwa2BmjQFdFzuPHL2OY) | 3:03 |
+| 87 | [Eenzaam Samen](https://open.spotify.com/track/5gAwwq5heHnzLpLIIFc4NF) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [Eenzaam Samen](https://open.spotify.com/album/4WTBwa2BmjQFdFzuPHL2OY) | 2:54 |
 | 88 | [Kleine Versie Van Mezelf](https://open.spotify.com/track/7rlXVJqu0f1H7YNbda8HfW) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd) | [Kleine Versie Van Mezelf](https://open.spotify.com/album/1ThUqYsEZVmnRVHbppBVlD) | 2:57 |
 | 89 | [My Way \(with Anna Margo\)](https://open.spotify.com/track/6AuTEZjVz0VZUsSLyezRma) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Anna Margo](https://open.spotify.com/artist/6MYSB8gVxAqHrdIkdDxKXR) | [My Way](https://open.spotify.com/album/2kmx7iuGnBVuNlFscd2xky) | 2:55 |
 | 90 | [LET'S GO](https://open.spotify.com/track/2dRwRtYFH95QcMcRhUVWBB) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [LET'S GO](https://open.spotify.com/album/22ucq2C8fUF9VHN3dcVvan) | 3:16 |

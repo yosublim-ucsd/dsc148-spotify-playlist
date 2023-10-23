@@ -4,7 +4,7 @@
 
 > Ouça as novidades da cena eletrônica\. Foto: Beltran
 
-129 songs - 7 hr 19 min
+130 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Get The F\*\*\* Down](https://open.spotify.com/track/14zDs39mus5oEs4DKZpcz4) | [EME](https://open.spotify.com/artist/004h2uqVUpmOuz4oY6aTqw) | [Get The F\*\*\* Down](https://open.spotify.com/album/2GAkMksQoYhAAm22ZVVQV0) | 2:32 | 2023-07-21 | 2023-10-07 |
 | [Girl](https://open.spotify.com/track/0zRVIO4GWFugJk5taaym0f) | [Phael](https://open.spotify.com/artist/1zWOPmDwXSO50211NJHi0g), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Girl](https://open.spotify.com/album/0P3BWt3FWwy4PCiVo4xO4z) | 3:03 | 2023-10-06 |  |
 | [HALO](https://open.spotify.com/track/7qVhddvtZxC02rmzqwO5Fb) | [Elekfantz](https://open.spotify.com/artist/2qPvJviDwokwrQtNzR1Udv), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0) | [HALO](https://open.spotify.com/album/01G8MH9AZimcasPjp2ZPxQ) | 3:09 | 2023-09-15 |  |
-| [Haunting Me](https://open.spotify.com/track/1rYSTJRgyGCa5Yl1SXC5sR) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Haunting Me](https://open.spotify.com/album/4xRmlHLvoZ2OEISy3SJ7TC) | 4:51 | 2023-10-20 |  |
+| [Haunting Me](https://open.spotify.com/track/1rYSTJRgyGCa5Yl1SXC5sR) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Haunting Me](https://open.spotify.com/album/4xRmlHLvoZ2OEISy3SJ7TC) | 4:51 | 2023-10-20 | 2023-10-23 |
+| [Haunting Me](https://open.spotify.com/track/7iXNeFZwe4CwUaiHT9qK99) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Haunting Me](https://open.spotify.com/album/2FAmKfV5eesqqXSH3pXH2i) | 4:51 | 2023-10-20 |  |
 | [HIGH](https://open.spotify.com/track/03AMYFWydfyeyv6v94N8rs) | [Hoost](https://open.spotify.com/artist/6YCbTELaAeqFQfjzVMcNG9) | [HIGH](https://open.spotify.com/album/1ioCS6aAaw6zmMl2pGwYqT) | 3:05 | 2023-07-21 | 2023-10-07 |
 | [High](https://open.spotify.com/track/6n4GYiUFj4A67Cc7U4j4Uq) | [Overdriver Duo](https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18) | [High](https://open.spotify.com/album/0mJbAkaZOAW9eFGIVUoPcX) | 3:05 | 2023-07-21 |  |
 | [High & Low](https://open.spotify.com/track/1qGWZn2Xhvk2Svp6Od6p5S) | [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9), [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx) | [High & Low](https://open.spotify.com/album/4dcBZK2j3GrHCxUH4SrlyL) | 2:36 | 2023-07-21 | 2023-09-16 |
@@ -107,7 +108,7 @@
 | [Shattered Ego](https://open.spotify.com/track/55x1qja65P0L0m8VisGMN9) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Shattered Ego](https://open.spotify.com/album/4QDz9D4zU81o43991NumKu) | 3:34 | 2023-09-15 | 2023-09-30 |
 | [Show You](https://open.spotify.com/track/3Prgb5oHGJpaVanWZUHODc) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [No ExpressioN](https://open.spotify.com/artist/6RNcIa7VcxBBIgW6boctFo) | [Show You](https://open.spotify.com/album/6Y3EKiOO4EVu4if9Ge0KMr) | 2:39 | 2023-07-21 | 2023-08-19 |
 | [Siento Siento](https://open.spotify.com/track/6gBzC3Aldrj78W0dLWgqC3) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Siento Siento](https://open.spotify.com/album/1pGfEaQriYYtZhvP1GBc8p) | 2:57 | 2023-07-28 |  |
-| [So Bad](https://open.spotify.com/track/1ZYHIV76qQYr59eIMqF92C) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [3Beat](https://open.spotify.com/artist/6GygHIe8zmVX42gMgFQ3z8), [LÖÖC](https://open.spotify.com/artist/4qWBiHPlkgepfncAsj1Zzu) | [So Bad](https://open.spotify.com/album/2vDifuf2AOtvrxVUbBZYGw) | 2:25 | 2023-10-20 |  |
+| [So Bad](https://open.spotify.com/track/1ZYHIV76qQYr59eIMqF92C) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [3Beat](https://open.spotify.com/artist/6GygHIe8zmVX42gMgFQ3z8), [LÖÖC](https://open.spotify.com/artist/2zPE3wnLyhZHbWqtjDOlmB) | [So Bad](https://open.spotify.com/album/2vDifuf2AOtvrxVUbBZYGw) | 2:25 | 2023-10-20 |  |
 | [So Beautiful](https://open.spotify.com/track/1yLkoxMWyzo39M5AIeEceQ) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S) | [So Beautiful](https://open.spotify.com/album/23RzzkhH3R2swSwhasgq3N) | 5:30 | 2023-07-21 | 2023-10-14 |
 | [Still Alone \- Radio Mix](https://open.spotify.com/track/1Tdm1UZvAGhuftWElWq1SX) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Airsand](https://open.spotify.com/artist/4rlSlj2XnxKA05eZ7sLWSC), [TuraniQa](https://open.spotify.com/artist/7kXkMWoPg5UfAc4LQmfI9V) | [Still Alone](https://open.spotify.com/album/6yuKeb3lMCXGSqnDfRIU86) | 3:16 | 2023-09-01 |  |
 | [Supermodel](https://open.spotify.com/track/4xwTi99Mgyecsb4MbujBQc) | [Slow Sense](https://open.spotify.com/artist/03wQGBVieetF4FUmhKHRpK) | [Supermodel](https://open.spotify.com/album/5YygfYum5iE1KeXOqvSQg5) | 2:38 | 2023-07-21 | 2023-09-16 |

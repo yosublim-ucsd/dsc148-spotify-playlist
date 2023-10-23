@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 14971,
+  "num_followers": 15014,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2M4YWZhNDQwMGFjZDRlNDZkNjE5MTZiY2JlZWQyMDQxODY0MmU5",
+  "snapshot_id": "MCw5ZGU1ZjFjNzNhNmU1ODlhZTU3NDQ1OWZmZDVkMGJiMTk3NzBhNDA1",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Tape Chants",
-        "url": "https://open.spotify.com/album/11KyPBhF9RpbILPg8NNuEC"
-      },
-      "artists": [
-        {
-          "name": "Gregg Kowalsky",
-          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
-        }
-      ],
-      "duration_ms": 76106,
-      "name": "V",
-      "url": "https://open.spotify.com/track/1TInFFEp6bNWX4E2wLHh39"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Pop",
         "url": "https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk"
       },
@@ -219,18 +203,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Choral",
-        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
+        "name": "Tape Chants",
+        "url": "https://open.spotify.com/album/11KyPBhF9RpbILPg8NNuEC"
       },
       "artists": [
         {
-          "name": "Mountains",
-          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+          "name": "Gregg Kowalsky",
+          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
         }
       ],
-      "duration_ms": 158133,
-      "name": "Sheets Two",
-      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
+      "duration_ms": 76106,
+      "name": "V",
+      "url": "https://open.spotify.com/track/1TInFFEp6bNWX4E2wLHh39"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -247,6 +231,22 @@
       "duration_ms": 243546,
       "name": "Tears From The Compound Eye",
       "url": "https://open.spotify.com/track/4G794o3M8KSCqO9QXpPYar"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Choral",
+        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
+      },
+      "artists": [
+        {
+          "name": "Mountains",
+          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Sheets Two",
+      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 161853,
+      "name": "Sherbet Head",
+      "url": "https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "The Tired Sounds of Stars of the Lid",
         "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 161853,
-      "name": "Sherbet Head",
-      "url": "https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Dragging a Dead Deer Up a Hill",
         "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
       },
@@ -383,6 +383,22 @@
       "duration_ms": 141746,
       "name": "I'm Dragging a Dead Deer Up a Hill",
       "url": "https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Dead Texan",
+        "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
+      },
+      "artists": [
+        {
+          "name": "The Dead Texan",
+          "url": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT"
+        }
+      ],
+      "duration_ms": 182720,
+      "name": "The Six Million Dollar Sandwich",
+      "url": "https://open.spotify.com/track/50agOpq6jS1rg4VrZ9Noly"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -427,22 +443,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Dead Texan",
-        "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
-      },
-      "artists": [
-        {
-          "name": "The Dead Texan",
-          "url": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "The Six Million Dollar Sandwich",
-      "url": "https://open.spotify.com/track/50agOpq6jS1rg4VrZ9Noly"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Solaris (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 300680,
       "name": "Will She Come Back",
       "url": "https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Tired Sounds of Stars of the Lid",
+        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
+      },
+      "artists": [
+        {
+          "name": "Stars Of The Lid",
+          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+        }
+      ],
+      "duration_ms": 457146,
+      "name": "Requiem for Dying Mothers, Pt. 2",
+      "url": "https://open.spotify.com/track/7m2iqOIBuCT0XvMkv4wYNv"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -491,6 +507,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Corsair",
+      "url": "https://open.spotify.com/track/4rRe3lijaWtTbLEtAmwGKH"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Black One",
         "url": "https://open.spotify.com/album/3oFLD6FiLtAe1Ykq3wWuPf"
       },
@@ -507,22 +539,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Tired Sounds of Stars of the Lid",
-        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
-      },
-      "artists": [
-        {
-          "name": "Stars Of The Lid",
-          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
-        }
-      ],
-      "duration_ms": 457146,
-      "name": "Requiem for Dying Mothers, Pt. 2",
-      "url": "https://open.spotify.com/track/7m2iqOIBuCT0XvMkv4wYNv"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Burial",
         "url": "https://open.spotify.com/album/5ij6VfAkBwTa5Y3951PdAx"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 133694,
       "name": "Night Bus",
       "url": "https://open.spotify.com/track/4VIyN0UbWutIfE529r0XOg"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Geogaddi",
-        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Corsair",
-      "url": "https://open.spotify.com/track/4rRe3lijaWtTbLEtAmwGKH"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Talk Amongst the Trees",
-        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 129800,
-      "name": "We Say Goodbye To Ourselves",
-      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Tired Sounds of Stars of the Lid",
         "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 397813,
       "name": "Requiem for Dying Mothers, Pt. 1",
       "url": "https://open.spotify.com/track/4iCjh6ybA5uiLSIAlcrFuV"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Talk Amongst the Trees",
+        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 129800,
+      "name": "We Say Goodbye To Ourselves",
+      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Sings Reign Rebuilder",
-        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
+        "name": "The Tired Sounds of Stars of the Lid",
+        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
       },
       "artists": [
         {
-          "name": "Set Fire To Flames",
-          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+          "name": "Stars Of The Lid",
+          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
         }
       ],
-      "duration_ms": 169439,
-      "name": "Fading Lights Are Fading... / Reign Rebuilder (Tail Out)",
-      "url": "https://open.spotify.com/track/6K15unc1vl82m4O5CcKykE"
+      "duration_ms": 347520,
+      "name": "Austin Texas Mental Hospital, Pt. 3",
+      "url": "https://open.spotify.com/track/7DggAuNltLAhPaineGWUpD"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Tired Sounds of Stars of the Lid",
-        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
+        "name": "Sings Reign Rebuilder",
+        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
       },
       "artists": [
         {
-          "name": "Stars Of The Lid",
-          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+          "name": "Set Fire To Flames",
+          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
         }
       ],
-      "duration_ms": 347520,
-      "name": "Austin Texas Mental Hospital, Pt. 3",
-      "url": "https://open.spotify.com/track/7DggAuNltLAhPaineGWUpD"
+      "duration_ms": 169439,
+      "name": "Fading Lights Are Fading... / Reign Rebuilder (Tail Out)",
+      "url": "https://open.spotify.com/track/6K15unc1vl82m4O5CcKykE"
     },
     {
       "added_at": "2023-08-04 12:53:28",

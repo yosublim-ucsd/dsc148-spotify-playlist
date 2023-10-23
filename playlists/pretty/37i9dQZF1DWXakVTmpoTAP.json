@@ -1,12 +1,12 @@
 {
   "description": "Songs that show your dad love and appreciation",
-  "num_followers": 15227,
+  "num_followers": 15223,
   "original_name": "Father's Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWM2NDgzOGZjZTIzYTcxOWQ3NDlkMzBmYzNiYzM5YzBmY2I5NDFk",
+  "snapshot_id": "MCwxOWZjM2FkNDYxZWI3YjU1YjViNzNhZjMyZjFkNzMzNjgxMzhiOTA4",
   "tracks": [
     {
       "added_at": "2023-05-24 15:45:04",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Like My Father",
-        "url": "https://open.spotify.com/album/0EKm3aZ46GWhE31rdKY5oj"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Like My Father",
-      "url": "https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "Heavier Things",
         "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 237906,
       "name": "Daughters",
       "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Like My Father",
+        "url": "https://open.spotify.com/album/0EKm3aZ46GWhE31rdKY5oj"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Like My Father",
+      "url": "https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX"
     },
     {
       "added_at": "2023-05-24 15:50:54",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Proud To Be Here (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0FXZIMW55PBOpCGPS5mW8R"
-      },
-      "artists": [
-        {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Just Fishin'",
-      "url": "https://open.spotify.com/track/1ZxNwqYsJA41CKf2YEhmIK"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "Strange Weirdos: Music From And Inspired By The Film Knocked Up",
         "url": "https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 212866,
       "name": "Daughter",
       "url": "https://open.spotify.com/track/3p58uPQ08nLtr8IwVGdYKg"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Proud To Be Here (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0FXZIMW55PBOpCGPS5mW8R"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Just Fishin'",
+      "url": "https://open.spotify.com/track/1ZxNwqYsJA41CKf2YEhmIK"
     },
     {
       "added_at": "2023-05-31 15:14:57",

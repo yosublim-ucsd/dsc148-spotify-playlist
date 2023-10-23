@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 168185,
+  "num_followers": 168240,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDZmNjhkMDY3ZThmZGUyYzU5NzZhZWZmNmM3Y2JmMjU3ZjY2ZmI5",
+  "snapshot_id": "MCwyZDYzZjQ2ZDFkMWIzZWFjZGFkYmVlYmM1NDNjYzUxODk1OGM2NTJj",
   "tracks": [
     {
       "added_at": "2023-10-10 00:48:29",
@@ -105,6 +105,34 @@
       "url": "https://open.spotify.com/track/2qvOC1CRBtwOcl2dlcOCM1"
     },
     {
+      "added_at": "2023-10-22 04:22:10",
+      "album": {
+        "name": "Suono Assente",
+        "url": "https://open.spotify.com/album/4dxsHCE1N9S5CTHApseLiG"
+      },
+      "artists": [
+        {
+          "name": "V/Z",
+          "url": "https://open.spotify.com/artist/1JFG0sOdzCS6jTopfu5331"
+        },
+        {
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+        },
+        {
+          "name": "Zongamin",
+          "url": "https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy"
+        },
+        {
+          "name": "Cathy Lucas",
+          "url": "https://open.spotify.com/artist/4zpSU9qVWKxjzruKmoo71D"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Habadash",
+      "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
+    },
+    {
       "added_at": "2023-08-11 14:07:42",
       "album": {
         "name": "Girl Supreme",
@@ -135,22 +163,6 @@
       "duration_ms": 208293,
       "name": "Stone Killer",
       "url": "https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR"
-    },
-    {
-      "added_at": "2023-04-05 03:09:18",
-      "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 197779,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
     },
     {
       "added_at": "2023-10-19 18:49:28",
@@ -187,6 +199,22 @@
       "duration_ms": 204895,
       "name": "Force 10 From Navarone",
       "url": "https://open.spotify.com/track/49zWAZOQGNitbu35AwJCuz"
+    },
+    {
+      "added_at": "2023-04-05 03:09:18",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 197779,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
     },
     {
       "added_at": "2023-05-26 18:09:55",
@@ -753,6 +781,42 @@
       "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
     },
     {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
+        "name": "STORY OF BLOOD",
+        "url": "https://open.spotify.com/album/6voVkae1055milSYpRzzGc"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 451986,
+      "name": "STORY OF BLOOD",
+      "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Moot!",
+        "url": "https://open.spotify.com/album/6E2kC2kf3D5iXQDY3KQBgT"
+      },
+      "artists": [
+        {
+          "name": "Moin",
+          "url": "https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e"
+        }
+      ],
+      "duration_ms": 297239,
+      "name": "Right is Alright, Wrong is to Belong",
+      "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Hildegard",
@@ -777,26 +841,6 @@
       "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
     },
     {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
-        "name": "STORY OF BLOOD",
-        "url": "https://open.spotify.com/album/6voVkae1055milSYpRzzGc"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        },
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 451986,
-      "name": "STORY OF BLOOD",
-      "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "void beats/invocation trex",
@@ -811,22 +855,6 @@
       "duration_ms": 233903,
       "name": "melody in high feedback tones",
       "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Moot!",
-        "url": "https://open.spotify.com/album/6E2kC2kf3D5iXQDY3KQBgT"
-      },
-      "artists": [
-        {
-          "name": "Moin",
-          "url": "https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e"
-        }
-      ],
-      "duration_ms": 297239,
-      "name": "Right is Alright, Wrong is to Belong",
-      "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
     },
     {
       "added_at": "2023-01-03 01:09:50",
@@ -909,22 +937,6 @@
       "url": "https://open.spotify.com/track/343FRF9gbsQRFesy9H2V5M"
     },
     {
-      "added_at": "2023-09-25 01:38:39",
-      "album": {
-        "name": "The Path",
-        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 262560,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
-    },
-    {
       "added_at": "2022-08-31 05:00:32",
       "album": {
         "name": "\u00a1Ay!",
@@ -939,6 +951,22 @@
       "duration_ms": 164598,
       "name": "Dicen",
       "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
+    },
+    {
+      "added_at": "2023-09-25 01:38:39",
+      "album": {
+        "name": "The Path",
+        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 262560,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
     },
     {
       "added_at": "2022-09-09 13:45:31",
@@ -1035,22 +1063,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Robber",
-        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 320524,
-      "name": "Robber",
-      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "Jacqueline",
         "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
       },
@@ -1063,6 +1075,22 @@
       "duration_ms": 324022,
       "name": "Dream St.",
       "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Robber",
+        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 320524,
+      "name": "Robber",
+      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1341,6 +1369,22 @@
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
     },
     {
+      "added_at": "2022-08-13 01:40:58",
+      "album": {
+        "name": "NIGHT CRAWLING",
+        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 293706,
+      "name": "NIGHT CRAWLING",
+      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
+    },
+    {
       "added_at": "2023-03-31 19:24:48",
       "album": {
         "name": "Counter Melodies",
@@ -1355,26 +1399,6 @@
       "duration_ms": 318750,
       "name": "Windows Open",
       "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
-    },
-    {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
-        "name": "MERCY",
-        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        },
-        {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
-        }
-      ],
-      "duration_ms": 315213,
-      "name": "I KNOW YOU'RE HAPPY",
-      "url": "https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1419,30 +1443,6 @@
       "duration_ms": 236054,
       "name": "Make My Way Back Home",
       "url": "https://open.spotify.com/track/5zwDRRsVri8kOTDwQt9dRU"
-    },
-    {
-      "added_at": "2022-01-11 00:08:03",
-      "album": {
-        "name": "Phantom Throb",
-        "url": "https://open.spotify.com/album/16Ef9V1B7iapKPERf50U3L"
-      },
-      "artists": [
-        {
-          "name": "Hymie's Basement",
-          "url": "https://open.spotify.com/artist/13EcvIBumjgScGWRdX4z3b"
-        },
-        {
-          "name": "WHY?",
-          "url": "https://open.spotify.com/artist/0d7aBBLFcc4dlETnae6zcH"
-        },
-        {
-          "name": "Fog",
-          "url": "https://open.spotify.com/artist/07fCHWZAafI3Dd4T1svHhd"
-        }
-      ],
-      "duration_ms": 234274,
-      "name": "Phantom Throb",
-      "url": "https://open.spotify.com/track/0QsQEgTZoi83rFri3jEKZt"
     },
     {
       "added_at": "2022-04-20 13:58:09",
@@ -1497,56 +1497,24 @@
       "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
     },
     {
-      "added_at": "2022-08-13 01:40:58",
+      "added_at": "2023-01-20 04:21:17",
       "album": {
-        "name": "NIGHT CRAWLING",
-        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+        "name": "MERCY",
+        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
       },
       "artists": [
         {
           "name": "John Cale",
           "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 293706,
-      "name": "NIGHT CRAWLING",
-      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
-    },
-    {
-      "added_at": "2021-10-15 03:46:13",
-      "album": {
-        "name": "Vines",
-        "url": "https://open.spotify.com/album/4vkPu8SShGB8BBvQvaEMX8"
-      },
-      "artists": [
-        {
-          "name": "Damiana",
-          "url": "https://open.spotify.com/artist/1xmYJRmMNBC7ucGQ1TTOIx"
-        }
-      ],
-      "duration_ms": 406163,
-      "name": "Sunken Lupine",
-      "url": "https://open.spotify.com/track/72SzjydU6s6oVsj2Ml1YV3"
-    },
-    {
-      "added_at": "2023-05-12 04:28:08",
-      "album": {
-        "name": "The Lava Is Calm",
-        "url": "https://open.spotify.com/album/5aHkYVIe5sD87SjN4lmFvg"
-      },
-      "artists": [
-        {
-          "name": "Kassa Overall",
-          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
         },
         {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
         }
       ],
-      "duration_ms": 186678,
-      "name": "The Lava Is Calm",
-      "url": "https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR"
+      "duration_ms": 315213,
+      "name": "I KNOW YOU'RE HAPPY",
+      "url": "https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr"
     },
     {
       "added_at": "2022-07-14 12:42:06",
@@ -1589,6 +1557,22 @@
       "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
     },
     {
+      "added_at": "2021-10-15 03:46:13",
+      "album": {
+        "name": "Vines",
+        "url": "https://open.spotify.com/album/4vkPu8SShGB8BBvQvaEMX8"
+      },
+      "artists": [
+        {
+          "name": "Damiana",
+          "url": "https://open.spotify.com/artist/1xmYJRmMNBC7ucGQ1TTOIx"
+        }
+      ],
+      "duration_ms": 406163,
+      "name": "Sunken Lupine",
+      "url": "https://open.spotify.com/track/72SzjydU6s6oVsj2Ml1YV3"
+    },
+    {
       "added_at": "2022-03-11 06:40:47",
       "album": {
         "name": "SEIM",
@@ -1629,20 +1613,24 @@
       "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
     },
     {
-      "added_at": "2022-02-09 04:03:27",
+      "added_at": "2023-05-12 04:28:08",
       "album": {
-        "name": "Unfamiliar Minds",
-        "url": "https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0"
+        "name": "The Lava Is Calm",
+        "url": "https://open.spotify.com/album/5aHkYVIe5sD87SjN4lmFvg"
       },
       "artists": [
         {
-          "name": "Elena Seti\u00e9n",
-          "url": "https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg"
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
         }
       ],
-      "duration_ms": 180560,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
+      "duration_ms": 186678,
+      "name": "The Lava Is Calm",
+      "url": "https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1659,6 +1647,22 @@
       "duration_ms": 316413,
       "name": "Big Appetite",
       "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
+    },
+    {
+      "added_at": "2022-02-09 04:03:27",
+      "album": {
+        "name": "Unfamiliar Minds",
+        "url": "https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0"
+      },
+      "artists": [
+        {
+          "name": "Elena Seti\u00e9n",
+          "url": "https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
     },
     {
       "added_at": "2022-08-31 04:56:45",

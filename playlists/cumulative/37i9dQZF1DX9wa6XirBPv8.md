@@ -2,7 +2,7 @@
 
 ### [Emo Forever](https://open.spotify.com/playlist/37i9dQZF1DX9wa6XirBPv8)
 
-> feel it all\. Cover: My Chemical Romance
+> feel it all\. Cover: Something Corporate
 
 179 songs - 10 hr 49 min
 

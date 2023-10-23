@@ -1,12 +1,12 @@
 {
   "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: V\u0169 Ph\u1ee5ng Ti\u00ean",
-  "num_followers": 163502,
+  "num_followers": 163602,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzA0NTJlYTVkODcyYjEzZGI1OGM3NTU0NmQwNTUxYTNkODcxZjM2",
+  "snapshot_id": "MCw3MjA1ZWM3ZjNhYjhiNjMxMjAwNzEzYmYwNGM3Y2VjYTY3ZGQyNWMy",
   "tracks": [
     {
       "added_at": "2023-10-18 02:09:47",
@@ -67,6 +67,26 @@
       "duration_ms": 197998,
       "name": "Mi\u00ean Man",
       "url": "https://open.spotify.com/track/7tFwBnuaGXqiiONukPRaCo"
+    },
+    {
+      "added_at": "2023-10-22 17:00:00",
+      "album": {
+        "name": "Hit Me Up (feat. Nomovodka)",
+        "url": "https://open.spotify.com/album/0FZXUfdUtrkzNyzmT1VLlB"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "Nomovodka",
+          "url": "https://open.spotify.com/artist/79BbybQeUyNyFB8ghq4neb"
+        }
+      ],
+      "duration_ms": 268200,
+      "name": "Hit Me Up (feat. Nomovodka)",
+      "url": "https://open.spotify.com/track/4acXEYw7ayyJnm9GXDrqiL"
     },
     {
       "added_at": "2023-10-18 02:09:47",

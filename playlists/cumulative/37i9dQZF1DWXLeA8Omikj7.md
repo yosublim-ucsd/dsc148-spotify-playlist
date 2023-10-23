@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-864 songs - 2 day 13 hr 50 min
+865 songs - 2 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,7 @@
 | [Little Guy](https://open.spotify.com/track/3Ca3zAKGzcrd9ToMleCcdX) | [Bob Juburi](https://open.spotify.com/artist/4LOhQlFTKM4iFTNlpueiqM) | [Little Guy](https://open.spotify.com/album/5D0r2UquUzoaVC2HQcD1h0) | 2:26 | 2019-07-25 | 2020-10-22 |
 | [Live Ambient 8](https://open.spotify.com/track/1dUZgreAdnfoLyUStKQ2lN) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Live Ambient Improvised Recordings, Vol\. 1](https://open.spotify.com/album/38Vwhxf7JAO7ErH2h4j9q0) | 6:55 | 2021-02-27 | 2022-05-25 |
 | [Live Ambient 8](https://open.spotify.com/track/6sIDaDtNWydboSKd3rnOWV) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Live Ambient Improvised Recordings, Vol\. 1](https://open.spotify.com/album/6X32uxtJkOAe5RI0yOhM67) | 6:55 | 2023-09-29 |  |
-| [Log In Your Fire](https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:51 | 2023-10-13 |  |
+| [Log In Your Fire](https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:51 | 2023-10-13 | 2023-10-23 |
 | [Log In Your Fire](https://open.spotify.com/track/6yliSAfFs2LzlfHAMLX7ds) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Log In Your Fire](https://open.spotify.com/album/5U5jYij147XIbaDyRMU0gq) | 2:51 | 2021-08-13 | 2022-04-21 |
 | [London Island](https://open.spotify.com/track/6Z0xV1FASyxZ76L15nMSs2) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Love + Light](https://open.spotify.com/album/1z6IaOUkRc2bcZvpQ9vN31) | 5:49 | 2020-08-26 | 2022-04-20 |
 | [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 | 2022-07-15 |  |
@@ -501,6 +501,7 @@
 | [Mutter \- 2020 Remaster](https://open.spotify.com/track/38loordkxsYzwiQpE7FHaj) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Mutter \(2020 Remaster\)](https://open.spotify.com/album/7yr0zY7ZrK4wUvuAAfr75H) | 8:10 | 2020-12-19 | 2022-04-21 |
 | [Más Profundo](https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:12 | 2019-06-21 | 2020-08-26 |
 | [Nation](https://open.spotify.com/track/7u6e2bismSIAH1fyUvj3Ru) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Life](https://open.spotify.com/album/525ORJiAr0Gt29UjF1hpJU) | 4:36 | 2023-05-12 |  |
+| [Nazar Se](https://open.spotify.com/track/5BeApeMWZDwQOzRgwuLmBX) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Nazar Se](https://open.spotify.com/album/3SL5fK6hFveXMPAeYjMjBc) | 4:14 | 2023-10-20 |  |
 | [Needless to Say](https://open.spotify.com/track/2L564Gg8T5QvE3I9qc4Okr) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Needless to Say](https://open.spotify.com/album/7ooLEVtJYscAdXs1dZGHJz) | 3:07 | 2019-06-19\* | 2020-10-21 |
 | [Neo \(Tiger Lou Remix\)](https://open.spotify.com/track/7s1WxIDmQ9OsFqApFLj6E3) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Tiger Lou](https://open.spotify.com/artist/7Jr7XgWFnKQ3mUgbhrVNlx) | [Mare Reworks](https://open.spotify.com/album/5bYn4Wb0pXW3NVh0eSlgh4) | 3:49 | 2019-06-19\* | 2022-04-21 |
 | [Neon Light](https://open.spotify.com/track/52ID6pQUnptVQlg7WbLx7x) | [Bituke](https://open.spotify.com/artist/3VCEbWGFkgN6oLTMvkhl2M) | [Neon Light](https://open.spotify.com/album/1WgdVyRz3le2abd7xudewz) | 3:44 | 2019-06-19\* | 2020-10-21 |

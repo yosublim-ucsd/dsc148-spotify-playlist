@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-252 songs - 13 hr 8 min
+253 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [I'll Be Gone](https://open.spotify.com/track/5s0gxKFZCSQ6USPwKMdgUu) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 2:31 | 2022-05-19 |  |
 | [Illusory](https://open.spotify.com/track/6X7AjIztCoKnA1E1jfYoMo) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Illusory](https://open.spotify.com/album/2uoO43SIsOdbxYBOT9Jgs7) | 2:24 | 2023-05-26 |  |
 | [In Deep Colors](https://open.spotify.com/track/4UZ2mG3RkVtXBBCwHNdN3J) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [In Deep Colors](https://open.spotify.com/album/0hg2UklcSrQrctoVPNbhbw) | 3:21 | 2022-09-02 |  |
-| [Infinite Space](https://open.spotify.com/track/0iG8vGMvNGv7k4hY8ptM0L) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Relaxing Easy Beats](https://open.spotify.com/album/5NdhMBBItWYBpowfK67tp7) | 2:48 | 2023-10-12 |  |
+| [Infinite Space](https://open.spotify.com/track/0iG8vGMvNGv7k4hY8ptM0L) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Relaxing Easy Beats](https://open.spotify.com/album/5NdhMBBItWYBpowfK67tp7) | 2:48 | 2023-10-12 | 2023-10-23 |
+| [Infinite Space](https://open.spotify.com/track/1DhpEFYy2EKCorHZTeYnX1) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Infinite Space](https://open.spotify.com/album/04i8zW71zD7SN5OXlONEbC) | 2:48 | 2023-10-20 |  |
 | [Into Eternity](https://open.spotify.com/track/25yRT1t6w9wW1EusZfFVUM) | [Focus X](https://open.spotify.com/artist/6CIaQ7n8f0Q2C7zOg77Gw0) | [Into Eternity](https://open.spotify.com/album/3ukOH1Vyk15ymIIM4pRC2N) | 2:48 | 2023-02-03 |  |
 | [It's Clearer Now](https://open.spotify.com/track/595vc6ubtRdC13RRF7fpmX) | [elmtwig](https://open.spotify.com/artist/1FoIOzjaAdSvxVlT10cWwS) | [It's Clearer Now](https://open.spotify.com/album/1LHpeaSuu3SPArkwZIJahV) | 2:44 | 2023-08-18 |  |
 | [january](https://open.spotify.com/track/0P54f5kEDE7dpqgE0VARhL) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [july](https://open.spotify.com/album/1qdyW78nO5jD8U4ecLYBJ2) | 5:05 | 2023-06-30 | 2023-08-10 |

@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 140347,
+  "num_followers": 140457,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWYzYjNjZWM0OTFlMDlmNDg3ZjhkOGQzOWY1YzgxNTk5Y2M5ODhi",
+  "snapshot_id": "MCwzYjU2NGVlOWI4NWIxZWFmNzdlM2MzNjliNTQ3ZTIyODYxYjVjNDcw",
   "tracks": [
     {
       "added_at": "2023-10-20 09:26:23",
@@ -499,26 +499,18 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
-        "name": "Diamond Therapy",
-        "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
         }
       ],
-      "duration_ms": 199472,
-      "name": "Diamond Therapy",
-      "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
+      "duration_ms": 206250,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -543,18 +535,26 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
-        "name": "Hooked",
-        "url": "https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H"
+        "name": "Diamond Therapy",
+        "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
       },
       "artists": [
         {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 206250,
-      "name": "Hooked",
-      "url": "https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM"
+      "duration_ms": 199472,
+      "name": "Diamond Therapy",
+      "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -615,6 +615,26 @@
       "duration_ms": 192000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1kP8aDUnowfDgH1y1xLNVf"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
+        "name": "OUTSIDER",
+        "url": "https://open.spotify.com/album/0gAyGESgFfil520X4zmk1v"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        },
+        {
+          "name": "Carrie Baxter",
+          "url": "https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "FOUND LOVE (feat. Carrie Baxter)",
+      "url": "https://open.spotify.com/track/5Ndsdhx3jKxjQmHw7QkHmi"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -687,26 +707,6 @@
       "duration_ms": 155691,
       "name": "Not Over Yet (feat. Tom Grennan)",
       "url": "https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
-        "name": "OUTSIDER",
-        "url": "https://open.spotify.com/album/0gAyGESgFfil520X4zmk1v"
-      },
-      "artists": [
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        },
-        {
-          "name": "Carrie Baxter",
-          "url": "https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "FOUND LOVE (feat. Carrie Baxter)",
-      "url": "https://open.spotify.com/track/5Ndsdhx3jKxjQmHw7QkHmi"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
+        "name": "Getting Started (Chase & Status Remix)",
+        "url": "https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Getting Started - Chase & Status Remix",
+      "url": "https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
         "name": "Through It All (Hedex Remix)",
         "url": "https://open.spotify.com/album/3g9yPWc8yVPueR4Zk1LPot"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 266929,
       "name": "Party All the Time (feat. Kay)",
       "url": "https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
-        "name": "Getting Started (Chase & Status Remix)",
-        "url": "https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        },
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Getting Started - Chase & Status Remix",
-      "url": "https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -1263,30 +1263,6 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
-        "name": "Sliding",
-        "url": "https://open.spotify.com/album/5WvQFSYrjHNsZ85XP22GtT"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        },
-        {
-          "name": "Window Kid",
-          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
-        },
-        {
-          "name": "Charlie Choppa",
-          "url": "https://open.spotify.com/artist/4aTBKDsrXC1os9HzfPuDTR"
-        }
-      ],
-      "duration_ms": 257200,
-      "name": "Sliding",
-      "url": "https://open.spotify.com/track/5iAp1pQB3dqB3rWfs38Yb6"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
         "name": "Absolute",
         "url": "https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9"
       },
@@ -1307,6 +1283,30 @@
       "duration_ms": 184270,
       "name": "Absolute",
       "url": "https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
+        "name": "Sliding",
+        "url": "https://open.spotify.com/album/5WvQFSYrjHNsZ85XP22GtT"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        },
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        },
+        {
+          "name": "Charlie Choppa",
+          "url": "https://open.spotify.com/artist/4aTBKDsrXC1os9HzfPuDTR"
+        }
+      ],
+      "duration_ms": 257200,
+      "name": "Sliding",
+      "url": "https://open.spotify.com/track/5iAp1pQB3dqB3rWfs38Yb6"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -1395,18 +1395,22 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
-        "name": "When It Rains, It Pours",
-        "url": "https://open.spotify.com/album/7gw75X0Cp4ya2yz6tW0Rio"
+        "name": "Kraken",
+        "url": "https://open.spotify.com/album/1Ac1pcGtOMPK4JEuWRqUsP"
       },
       "artists": [
         {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Konetix",
+          "url": "https://open.spotify.com/artist/5PeWO3p58iWJNlYdsW4wmV"
         }
       ],
-      "duration_ms": 197253,
-      "name": "When It Rains, It Pours",
-      "url": "https://open.spotify.com/track/0Qb8vbig4Wky0RKhOWh2Ze"
+      "duration_ms": 158400,
+      "name": "Kraken",
+      "url": "https://open.spotify.com/track/76FWqanqrb3nf3XZ3vIv7x"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -1435,42 +1439,6 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        }
-      ],
-      "duration_ms": 134305,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
-        "name": "Kraken",
-        "url": "https://open.spotify.com/album/1Ac1pcGtOMPK4JEuWRqUsP"
-      },
-      "artists": [
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Konetix",
-          "url": "https://open.spotify.com/artist/5PeWO3p58iWJNlYdsW4wmV"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Kraken",
-      "url": "https://open.spotify.com/track/76FWqanqrb3nf3XZ3vIv7x"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
         "name": "Lazers Not Included",
         "url": "https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB"
       },
@@ -1483,6 +1451,38 @@
       "duration_ms": 287241,
       "name": "Take You Higher",
       "url": "https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
+        "name": "When It Rains, It Pours",
+        "url": "https://open.spotify.com/album/7gw75X0Cp4ya2yz6tW0Rio"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "When It Rains, It Pours",
+      "url": "https://open.spotify.com/track/0Qb8vbig4Wky0RKhOWh2Ze"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        }
+      ],
+      "duration_ms": 134305,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls"
     },
     {
       "added_at": "2023-10-20 09:26:23",

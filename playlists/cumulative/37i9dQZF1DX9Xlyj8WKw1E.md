@@ -4,7 +4,7 @@
 
 > Midwest music breaking waves\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-521 songs - 1 day 1 hr 23 min
+522 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,7 +497,8 @@
 | [Waddup \(feat\. Polo G\)](https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Waddup \(feat\. Polo G\)](https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9) | 3:01 | 2022-04-15 | 2022-07-19 |
 | [Waddup \(Swervo Mix\) \(feat\. G Herbo\)](https://open.spotify.com/track/4i1LWSslhvIyS9IKBWcxl5) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Switch Music](https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7) | 3:32 | 2022-07-18 | 2023-01-14 |
 | [Wait A Minute \- Vocal Mix](https://open.spotify.com/track/5iqshVJZ5mWUZo0be4tnJS) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [Wait A Minute](https://open.spotify.com/album/1a8RwDxp7VfIY7n3Wb92rV) | 4:24 | 2022-08-26 | 2022-12-03 |
-| [Wait So Long](https://open.spotify.com/track/3nHLmfDuvY5LK3lCV1LHju) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Wait So Long](https://open.spotify.com/album/0AaPqe9tkDP6LKf7uEf5mw) | 2:28 | 2023-10-13 |  |
+| [Wait So Long](https://open.spotify.com/track/1vOhYqGR1bQCzVJVenL6mO) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Phases III \- EP](https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO) | 2:28 | 2023-10-13 |  |
+| [Wait So Long](https://open.spotify.com/track/3nHLmfDuvY5LK3lCV1LHju) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Wait So Long](https://open.spotify.com/album/0AaPqe9tkDP6LKf7uEf5mw) | 2:28 | 2023-10-13 | 2023-10-23 |
 | [Waiting](https://open.spotify.com/track/0slSHucujyo0L3xeUlcrZp) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Waiting](https://open.spotify.com/album/3PnoMC6IC5WpU6oJxcHjWu) | 2:51 | 2023-04-24 | 2023-07-15 |
 | [Walk](https://open.spotify.com/track/1AhsFz02X7WPTUzWym9Tam) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Keara Alyse](https://open.spotify.com/artist/02H48vsx5HKCncQp9pJRya), [DJ Yung 1](https://open.spotify.com/artist/3eJ6V6TUhy1oI1hfTltu04) | [Walk](https://open.spotify.com/album/5UsPv8xhVsRB7htl7Bc6qj) | 2:41 | 2022-08-01 | 2022-08-13 |
 | [Walked In](https://open.spotify.com/track/0H9vB4bVCnCoI39wp7fqAt) | [Rockie Fresh](https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3) | [Walked In](https://open.spotify.com/album/01R8suZ0DTrsN44Z4FWIL3) | 2:48 | 2022-04-02 | 2022-04-16 |

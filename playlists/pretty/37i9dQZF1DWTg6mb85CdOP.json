@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos el 17, 18 y 19 de Febrero en Las Estacas para disfrutar juntos! \u00bfA qui\u00e9n no te vas a perder? ",
-  "num_followers": 11905,
+  "num_followers": 11907,
   "original_name": "Carnaval de Bahidor\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2I4MDA2M2U3NTQxMGIyMWJlNDdlNmZhZGY5MzZkZjAyMzA0MmFj",
+  "snapshot_id": "MCxjNTI5MjI0MWU2ZGJjNTZhN2ZlZmFlMzczM2Q2MGYzYzFiZmQ0ZmQy",
   "tracks": [
     {
       "added_at": "2023-02-03 06:30:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Tu Color",
-        "url": "https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm"
-      },
-      "artists": [
-        {
-          "name": "BUDAYA",
-          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Tu Color",
-      "url": "https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Goteo",
         "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
       },
@@ -1087,22 +1071,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "The Only Way Out Is In",
-        "url": "https://open.spotify.com/album/1A5nm5ciRNT5KyhHxM8Cko"
-      },
-      "artists": [
-        {
-          "name": "Suricata",
-          "url": "https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b"
-        }
-      ],
-      "duration_ms": 506612,
-      "name": "Love Is Dancing",
-      "url": "https://open.spotify.com/track/2e2K17EZwg6ygzxYt8DCRP"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Estraik Back",
         "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
       },
@@ -1135,18 +1103,18 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Ruise\u00f1or en su tinta",
-        "url": "https://open.spotify.com/album/4H24kwEBnj5HXFqojqTl9q"
+        "name": "The Only Way Out Is In",
+        "url": "https://open.spotify.com/album/1A5nm5ciRNT5KyhHxM8Cko"
       },
       "artists": [
         {
-          "name": "Ruise\u00f1or",
-          "url": "https://open.spotify.com/artist/58QcmTFKcNJrvRAZxuadGD"
+          "name": "Suricata",
+          "url": "https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b"
         }
       ],
-      "duration_ms": 215849,
-      "name": "Te invito a santiago con Leinadh",
-      "url": "https://open.spotify.com/track/5WTn6NbKBQRXiiAtkqFOCc"
+      "duration_ms": 506612,
+      "name": "Love Is Dancing",
+      "url": "https://open.spotify.com/track/2e2K17EZwg6ygzxYt8DCRP"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -1163,6 +1131,38 @@
       "duration_ms": 211000,
       "name": "El Peruanito",
       "url": "https://open.spotify.com/track/4eMUX8A7fy1SgV5Lgyc5Z5"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "CLAR%SCURO",
+        "url": "https://open.spotify.com/album/27oMHySev9yNNTbME6hAJL"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Tu Color",
+      "url": "https://open.spotify.com/track/5F5iYSIvNIZTfr2xInIz99"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Ruise\u00f1or en su tinta",
+        "url": "https://open.spotify.com/album/4H24kwEBnj5HXFqojqTl9q"
+      },
+      "artists": [
+        {
+          "name": "Ruise\u00f1or",
+          "url": "https://open.spotify.com/artist/58QcmTFKcNJrvRAZxuadGD"
+        }
+      ],
+      "duration_ms": 215849,
+      "name": "Te invito a santiago con Leinadh",
+      "url": "https://open.spotify.com/track/5WTn6NbKBQRXiiAtkqFOCc"
     },
     {
       "added_at": "2023-02-03 06:30:00",

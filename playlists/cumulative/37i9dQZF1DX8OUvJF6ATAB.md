@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-317 songs - 1 day 3 hr 26 min
+318 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Birthmark](https://open.spotify.com/track/7COvUw2SjHzBsqbSqsx1On) | [Minotauro](https://open.spotify.com/artist/25adRravBvCxFrjrs3527m) | [Birthmark](https://open.spotify.com/album/3XTEDDQrax78NT8svV3tLj) | 3:09 | 2021-10-06 | 2022-09-17 |
 | [Blonde](https://open.spotify.com/track/1yy59D7L2Ym3wYLQct8dHR) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Blonde](https://open.spotify.com/album/725lNa4TQ4kMUOphWG0iCl) | 4:10 | 2021-10-06 |  |
 | [Boo Boo Tannenbaum](https://open.spotify.com/track/1QC4gJrhknpzziXGMmnHHr) | [Casey Scott](https://open.spotify.com/artist/2sjwDJ8VpQ2Oj0YjctNxpC) | [Orrery](https://open.spotify.com/album/2iYGCxK8yrOIFmGXHPMyf4) | 5:18 | 2022-03-15 | 2022-07-29 |
-| [Boreal](https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 2:34 | 2021-10-06 |  |
+| [Boreal](https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 2:34 | 2021-10-06 | 2023-10-23 |
 | [Bud](https://open.spotify.com/track/6X6H1sICpwagtO6T2r6T79) | [Ans M](https://open.spotify.com/artist/5JSQJFQcdMQIvt1iKnbOyF) | [Cicada Lullaby](https://open.spotify.com/album/3cRBLw9qVfwjz6jwNGkKDb) | 4:52 | 2023-06-07 |  |
 | [Building Lights](https://open.spotify.com/track/5oGLsflNC9Y6xlZWyxi3j7) | [HELIOCHRYSUM](https://open.spotify.com/artist/0McohN0KW4zvtvJpATBGRy) | [Forbidden Structures](https://open.spotify.com/album/1kGckxkwJIXtE6IiueKjPd) | 3:30 | 2021-10-06 | 2022-07-23 |
 | [Burned](https://open.spotify.com/track/32bSNM2r6rNrj8abnSaXxP) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Reduct](https://open.spotify.com/album/3mNZPQiVKNEvKp7mYhRQPd) | 4:28 | 2021-10-06 | 2022-07-28 |
@@ -266,6 +266,7 @@
 | [Tar \- Jan Jelinek Remix](https://open.spotify.com/track/40p5kLXy8xuJ0UWAy67pb9) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9), [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Tar \(Jan Jelinek Remix\)](https://open.spotify.com/album/06GWd4BqT8WFdmwpU4mx9A) | 5:59 | 2021-10-06 | 2022-07-16 |
 | [Temple of Aesthetic Action](https://open.spotify.com/track/2uJ68HZNjTNRsAyJy1TZol) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/20sKBptJV69qrBXUEQVlzp) | 24:55 | 2021-10-06 | 2022-07-29 |
 | [Temple of Aesthetic Action](https://open.spotify.com/track/4pFLly7AXNRU3bQ9piWJdv) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS) | 24:55 | 2021-10-06 |  |
+| [The Abyss](https://open.spotify.com/track/3lhesp9GC2OTAy7ANEKSmp) | [Venus Ex Machina](https://open.spotify.com/artist/70kUH4TKwLNkPozC2zye3p) | [Doxa](https://open.spotify.com/album/5RYRAYaGjgDAaWUMeEwt2J) | 6:56 | 2023-10-22 |  |
 | [The Cage](https://open.spotify.com/track/1PIHkD3asRl8CiDkQNS5OX) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Menhir](https://open.spotify.com/artist/1XGNW7AotFO4oSHxZC09OL) | [Just Before Silence](https://open.spotify.com/album/2xPNHjqmyhTpLK4XvSNIXl) | 3:51 | 2022-02-18 | 2022-07-28 |
 | [The Cage](https://open.spotify.com/track/5PhKqxHWmlpygmNOIQuAL7) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Menhir](https://open.spotify.com/artist/1XGNW7AotFO4oSHxZC09OL) | [Just Before Silence](https://open.spotify.com/album/5t2haO57gh05cN1oO1ZQAn) | 3:51 | 2022-02-18 | 2023-10-17 |
 | [The Last Retention \- Thomas Ragsdale's Deep Space Mix](https://open.spotify.com/track/0SzKbI4scZulf94FEjJMx3) | [Ronnie & Clyde](https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ), [Thomas Ragsdale](https://open.spotify.com/artist/09HagWD8vD5RLYn9DNDuG4) | [The Last Retention](https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t) | 5:28 | 2021-10-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3911,
+  "num_followers": 3910,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTI2YzE1NjdmYjg0YzQ1MGIwMmIxYmMwMmZlNDVlMjE0YTNmYjA0",
+  "snapshot_id": "MCxkOGU2NzAxZDY3YTZjMmJiZGIyMzgxYjY0NDgxMGM0ZDZkZTZiNWY1",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Adieu les monstres",
-        "url": "https://open.spotify.com/album/0UrbIea2sXlvZfMhD9PkFA"
-      },
-      "artists": [
-        {
-          "name": "KALIKA",
-          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
-        },
-        {
-          "name": "Yelle",
-          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "Les gla\u00e7ons",
-      "url": "https://open.spotify.com/track/2c5qBGUZBUm6g369hX6nSz"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Foufoune",
         "url": "https://open.spotify.com/album/6TbzA1mI1xWwcQwkprcE8I"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 147750,
       "name": "Foufoune",
       "url": "https://open.spotify.com/track/5GhXbPjtLjx1lxVFgNx4Y6"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Adieu les monstres",
+        "url": "https://open.spotify.com/album/0UrbIea2sXlvZfMhD9PkFA"
+      },
+      "artists": [
+        {
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
+        },
+        {
+          "name": "Yelle",
+          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "Les gla\u00e7ons",
+      "url": "https://open.spotify.com/track/2c5qBGUZBUm6g369hX6nSz"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Tipatshimushtunan",
-        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
-      },
-      "artists": [
-        {
-          "name": "Matiu",
-          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "40h semaine",
-      "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Le soleil et la mer",
         "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 168190,
       "name": "Le matin",
       "url": "https://open.spotify.com/track/1vNQPck3HugkKRZrmRrRp6"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Tipatshimushtunan",
+        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
+      },
+      "artists": [
+        {
+          "name": "Matiu",
+          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "40h semaine",
+      "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1647,38 +1647,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "C-17",
-        "url": "https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc"
+        "name": "La fable de la grenouille dor\u00e9e",
+        "url": "https://open.spotify.com/album/2tcDyiKN4BWbQXgW494el5"
       },
       "artists": [
         {
-          "name": "Lova",
-          "url": "https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2"
-        },
-        {
-          "name": "MikeZup",
-          "url": "https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk"
+          "name": "Vend\u00f4me",
+          "url": "https://open.spotify.com/artist/0Ynccr9no1SvYRuIL8jKqJ"
         }
       ],
-      "duration_ms": 172440,
-      "name": "C-17",
-      "url": "https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Soleil",
-        "url": "https://open.spotify.com/album/25Fs9y1TTVzAtTyxzUtJ7T"
-      },
-      "artists": [
-        {
-          "name": "Peanut Butter Sunday",
-          "url": "https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/1gyGXCiMFynb95T18Oc8yl"
+      "duration_ms": 224000,
+      "name": "03.04.19",
+      "url": "https://open.spotify.com/track/1rnnLXCZgFbnXw529B21H6"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1695,6 +1675,26 @@
       "duration_ms": 236906,
       "name": "Rock Band",
       "url": "https://open.spotify.com/track/6rqWGgXtPRQ00iEOQMUbCB"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "C-17",
+        "url": "https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc"
+      },
+      "artists": [
+        {
+          "name": "Lova",
+          "url": "https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2"
+        },
+        {
+          "name": "MikeZup",
+          "url": "https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk"
+        }
+      ],
+      "duration_ms": 172440,
+      "name": "C-17",
+      "url": "https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "La fable de la grenouille dor\u00e9e",
-        "url": "https://open.spotify.com/album/2tcDyiKN4BWbQXgW494el5"
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/25Fs9y1TTVzAtTyxzUtJ7T"
       },
       "artists": [
         {
-          "name": "Vend\u00f4me",
-          "url": "https://open.spotify.com/artist/0Ynccr9no1SvYRuIL8jKqJ"
+          "name": "Peanut Butter Sunday",
+          "url": "https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB"
         }
       ],
-      "duration_ms": 224000,
-      "name": "03.04.19",
-      "url": "https://open.spotify.com/track/1rnnLXCZgFbnXw529B21H6"
+      "duration_ms": 147000,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/1gyGXCiMFynb95T18Oc8yl"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Tous les jours printemps",
-        "url": "https://open.spotify.com/album/0lLG060tds4iQhGQHGAixA"
-      },
-      "artists": [
-        {
-          "name": "Original Gros Bonnet",
-          "url": "https://open.spotify.com/artist/3J6TngTFpTA7THynTV7BbX"
-        }
-      ],
-      "duration_ms": 249480,
-      "name": "Glace noire",
-      "url": "https://open.spotify.com/track/22FXAL3JiYeeYK8E54SLat"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Pas l'temps d'niaiser",
         "url": "https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 189986,
       "name": "Inconfortable",
       "url": "https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Tous les jours printemps",
+        "url": "https://open.spotify.com/album/0lLG060tds4iQhGQHGAixA"
+      },
+      "artists": [
+        {
+          "name": "Original Gros Bonnet",
+          "url": "https://open.spotify.com/artist/3J6TngTFpTA7THynTV7BbX"
+        }
+      ],
+      "duration_ms": 249480,
+      "name": "Glace noire",
+      "url": "https://open.spotify.com/track/22FXAL3JiYeeYK8E54SLat"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2115,18 +2115,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "El Futuro Es Tribal",
-        "url": "https://open.spotify.com/album/0aBNYVK8WtwYXkbXs46tkp"
+        "name": "Chou",
+        "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
       },
       "artists": [
         {
-          "name": "Akawui",
-          "url": "https://open.spotify.com/artist/5TJm6jLWb218v4BE4ZcTBa"
+          "name": "Chou",
+          "url": "https://open.spotify.com/artist/1Cqb7NVdvCVvToNwW8Tgb2"
         }
       ],
-      "duration_ms": 307337,
-      "name": "Breath Of Fire",
-      "url": "https://open.spotify.com/track/66kQ9RYFHdW4FIcjDOUYCV"
+      "duration_ms": 123541,
+      "name": "Chou",
+      "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2147,18 +2147,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Chou",
-        "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
+        "name": "El Futuro Es Tribal",
+        "url": "https://open.spotify.com/album/0aBNYVK8WtwYXkbXs46tkp"
       },
       "artists": [
         {
-          "name": "Chou",
-          "url": "https://open.spotify.com/artist/1Cqb7NVdvCVvToNwW8Tgb2"
+          "name": "Akawui",
+          "url": "https://open.spotify.com/artist/5TJm6jLWb218v4BE4ZcTBa"
         }
       ],
-      "duration_ms": 123541,
-      "name": "Chou",
-      "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
+      "duration_ms": 307337,
+      "name": "Breath Of Fire",
+      "url": "https://open.spotify.com/track/66kQ9RYFHdW4FIcjDOUYCV"
     },
     {
       "added_at": "2023-05-25 23:46:15",

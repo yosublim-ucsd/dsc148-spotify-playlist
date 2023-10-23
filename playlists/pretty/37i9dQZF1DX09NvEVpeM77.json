@@ -1,12 +1,12 @@
 {
   "description": "Classic rock favorites. Cover: Bruce Springsteen",
-  "num_followers": 343117,
+  "num_followers": 343360,
   "original_name": "Dad Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjViNWRjNjAwMWVhNmZlN2UzZmM5MWIzZDhkZmQyNGUzMWZkZjU3",
+  "snapshot_id": "MCw3NTkwMDdjNWU3ZTk4ZGM1NGM0OTQ2MjQ5Y2RiMTlkZWFiNDllY2Vl",
   "tracks": [
     {
       "added_at": "2022-06-15 19:50:25",
@@ -797,20 +797,20 @@
       "url": "https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI"
     },
     {
-      "added_at": "2022-03-14 17:21:32",
+      "added_at": "2022-03-04 19:14:07",
       "album": {
-        "name": "Permanent Waves",
-        "url": "https://open.spotify.com/album/3nUNxSh2szhmN7iifAKv5i"
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
       },
       "artists": [
         {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
         }
       ],
-      "duration_ms": 296466,
-      "name": "The Spirit Of Radio",
-      "url": "https://open.spotify.com/track/4e9hUiLsN4mx61ARosFi7p"
+      "duration_ms": 161466,
+      "name": "Up Around The Bend",
+      "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
     }
   ],
   "unique_name": "Dad Rock",

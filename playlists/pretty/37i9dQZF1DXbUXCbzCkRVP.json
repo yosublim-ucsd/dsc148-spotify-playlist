@@ -1,6 +1,6 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 40519,
+  "num_followers": 40674,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Chicago/The Blues/Today!",
-        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann's South Side Piano",
-          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
-        }
-      ],
-      "duration_ms": 141560,
-      "name": "Spann's Stomp",
-      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "The Guitar And Banjo Of Reverend Gary Davis",
         "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 144373,
       "name": "Slow Drag (Cincinnati Flow Rag) - Instrumental",
       "url": "https://open.spotify.com/track/3TbRCDUuUTxQW4y2KUz1MJ"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Chicago/The Blues/Today!",
+        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann's South Side Piano",
+          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
+        }
+      ],
+      "duration_ms": 141560,
+      "name": "Spann's Stomp",
+      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -499,18 +499,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Io",
-        "url": "https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20"
+        "name": "Sunfall",
+        "url": "https://open.spotify.com/album/31IQCVhObypc1oxn2Zw4e5"
       },
       "artists": [
         {
-          "name": "Daniel Arena",
-          "url": "https://open.spotify.com/artist/1YP7BAcfpCRnxermSsAXEA"
+          "name": "Sarah Rogo",
+          "url": "https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy"
+        },
+        {
+          "name": "Haus Music",
+          "url": "https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw"
+      "duration_ms": 240259,
+      "name": "Sunfall Blues",
+      "url": "https://open.spotify.com/track/6QxcurDWPr29J2c26aF70s"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -535,18 +539,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+        "name": "Io",
+        "url": "https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20"
       },
       "artists": [
         {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+          "name": "Daniel Arena",
+          "url": "https://open.spotify.com/artist/1YP7BAcfpCRnxermSsAXEA"
         }
       ],
-      "duration_ms": 154506,
-      "name": "Okie Dokie Stomp",
-      "url": "https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6"
+      "duration_ms": 284000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -567,38 +571,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Sunfall",
-        "url": "https://open.spotify.com/album/31IQCVhObypc1oxn2Zw4e5"
+        "name": "The Peacock Recordings: 1949-1959",
+        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
       },
       "artists": [
         {
-          "name": "Sarah Rogo",
-          "url": "https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy"
-        },
-        {
-          "name": "Haus Music",
-          "url": "https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6"
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
         }
       ],
-      "duration_ms": 240259,
-      "name": "Sunfall Blues",
-      "url": "https://open.spotify.com/track/6QxcurDWPr29J2c26aF70s"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Theresa Fungus Amung Us",
-        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 267506,
-      "name": "End Of The Blues",
-      "url": "https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E"
+      "duration_ms": 154506,
+      "name": "Okie Dokie Stomp",
+      "url": "https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -623,18 +607,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Stand Back!",
-        "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
+        "name": "Theresa Fungus Amung Us",
+        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
       },
       "artists": [
         {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Cha Cha The Blues",
-      "url": "https://open.spotify.com/track/44759fbdnc1zfQZLZt8U0i"
+      "duration_ms": 267506,
+      "name": "End Of The Blues",
+      "url": "https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -651,6 +635,22 @@
       "duration_ms": 172173,
       "name": "Jam On A Monday Morning",
       "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Stand Back!",
+        "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Cha Cha The Blues",
+      "url": "https://open.spotify.com/track/44759fbdnc1zfQZLZt8U0i"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -743,34 +743,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Night Train",
-        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4"
       },
       "artists": [
         {
-          "name": "Jimmy Forrest",
-          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
+          "name": "Gary O'Slide",
+          "url": "https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf"
         }
       ],
-      "duration_ms": 179440,
-      "name": "Night Train",
-      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Boedo's Blues",
-        "url": "https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf"
-      },
-      "artists": [
-        {
-          "name": "Atacustico",
-          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
-        }
-      ],
-      "duration_ms": 133088,
-      "name": "Boedo's Blues",
-      "url": "https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7"
+      "duration_ms": 122924,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/5cFGwaWYOp1vP96BEMCZdU"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -791,6 +775,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Forrest",
+          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
+        }
+      ],
+      "duration_ms": 179440,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -807,38 +807,34 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Vagabond",
-        "url": "https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4"
+        "name": "Boedo's Blues",
+        "url": "https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf"
       },
       "artists": [
         {
-          "name": "Gary O'Slide",
-          "url": "https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf"
+          "name": "Atacustico",
+          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
         }
       ],
-      "duration_ms": 122924,
-      "name": "Vagabond",
-      "url": "https://open.spotify.com/track/5cFGwaWYOp1vP96BEMCZdU"
+      "duration_ms": 133088,
+      "name": "Boedo's Blues",
+      "url": "https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7"
     },
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Mercy Me",
-        "url": "https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj"
+        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
+        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
       },
       "artists": [
         {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
-        },
-        {
-          "name": "The Broadcasters",
-          "url": "https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH"
+          "name": "Little Sonny",
+          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
         }
       ],
-      "duration_ms": 463400,
-      "name": "Blues For Duke Robillard",
-      "url": "https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk"
+      "duration_ms": 253733,
+      "name": "The Creeper Returns",
+      "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -859,18 +855,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
-        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
+        "name": "Mercy Me",
+        "url": "https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj"
       },
       "artists": [
         {
-          "name": "Little Sonny",
-          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        },
+        {
+          "name": "The Broadcasters",
+          "url": "https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH"
         }
       ],
-      "duration_ms": 253733,
-      "name": "The Creeper Returns",
-      "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
+      "duration_ms": 463400,
+      "name": "Blues For Duke Robillard",
+      "url": "https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Music For Mad Men - Robust Blues",
-        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
+        "name": "Blues On Blues",
+        "url": "https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V"
       },
       "artists": [
         {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
         }
       ],
-      "duration_ms": 139413,
-      "name": "Jukebox Shuffle",
-      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
+      "duration_ms": 183279,
+      "name": "Blues After Hours",
+      "url": "https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Music For Mad Men - Robust Blues",
+        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 139413,
+      "name": "Jukebox Shuffle",
+      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "The Sulfur Blues",
         "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 206000,
       "name": "The Sulfur Blues",
       "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Blues On Blues",
-        "url": "https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 183279,
-      "name": "Blues After Hours",
-      "url": "https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Paul Butterfield Blues Band",
-        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Thank You Mr. Poobah",
-      "url": "https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "I Feel Like Goin' On",
         "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Broken Halo",
-        "url": "https://open.spotify.com/album/0Dpk0b9BcgKUFaYYSgVh3S"
+        "name": "The Paul Butterfield Blues Band",
+        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
       },
       "artists": [
         {
-          "name": "Tim \"Too Slim\" Langford",
-          "url": "https://open.spotify.com/artist/2kx2O6JbEPkAS2bfaVXswy"
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
         }
       ],
-      "duration_ms": 178826,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/6gLPSVs7lhIxm6HNsrjMkn"
+      "duration_ms": 245933,
+      "name": "Thank You Mr. Poobah",
+      "url": "https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Broken Halo",
+        "url": "https://open.spotify.com/album/0Dpk0b9BcgKUFaYYSgVh3S"
+      },
+      "artists": [
+        {
+          "name": "Tim \"Too Slim\" Langford",
+          "url": "https://open.spotify.com/artist/2kx2O6JbEPkAS2bfaVXswy"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/6gLPSVs7lhIxm6HNsrjMkn"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "Room To Move 1969 - 1974",
         "url": "https://open.spotify.com/album/6YGnkpsMZTH3fMuvhdC3WL"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 133533,
       "name": "Boogie Albert",
       "url": "https://open.spotify.com/track/54XdAhnIsuW0YevJyI1e1P"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "True Stories",
-        "url": "https://open.spotify.com/album/6zOeNQ5ynaT2DwlRUiYDr9"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Thackery And The Drivers",
-          "url": "https://open.spotify.com/artist/00f9rh6qgLy3a4eYqugUyg"
-        }
-      ],
-      "duration_ms": 564133,
-      "name": "The Messiah Will Come",
-      "url": "https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Paul Butterfield Blues Band",
-        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/6zOeNQ5ynaT2DwlRUiYDr9"
       },
       "artists": [
         {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+          "name": "Jimmy Thackery And The Drivers",
+          "url": "https://open.spotify.com/artist/00f9rh6qgLy3a4eYqugUyg"
         }
       ],
-      "duration_ms": 276933,
-      "name": "Screamin'",
-      "url": "https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p"
+      "duration_ms": 564133,
+      "name": "The Messiah Will Come",
+      "url": "https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
+        "name": "The Paul Butterfield Blues Band",
+        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
       },
       "artists": [
         {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
         }
       ],
-      "duration_ms": 340840,
-      "name": "Dockside Boogie",
-      "url": "https://open.spotify.com/track/0GJ71mJKG0FSPMS13GSFzD"
+      "duration_ms": 276933,
+      "name": "Screamin'",
+      "url": "https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1307,6 +1291,22 @@
       "duration_ms": 177120,
       "name": "The Clock Strikes Twelve",
       "url": "https://open.spotify.com/track/30gyTs0Ycve2NqwaQD4CV2"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 340840,
+      "name": "Dockside Boogie",
+      "url": "https://open.spotify.com/track/0GJ71mJKG0FSPMS13GSFzD"
     },
     {
       "added_at": "2023-08-23 10:31:46",

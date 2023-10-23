@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Il Ghost, Darden
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,016 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,038 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [XXL](https://open.spotify.com/track/38WBxeWWDxnggsr3USYSnP) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr) | [XXL](https://open.spotify.com/album/5IqtWy8AZcWFEuQNShmgZ3) | 3:36 |
 | 50 | [DON'T TRUST HOES](https://open.spotify.com/track/6c8ttfvaawdm8iKhSvgWzc) | [MISSVIVS](https://open.spotify.com/artist/4M8Y3T3ocS8wJNw9hAWkY1) | [DON'T TRUST HOES](https://open.spotify.com/album/0qnzven1Tz6v5C8qPpXjzR) | 2:43 |
 
-Snapshot ID: `MCw2NzQ1NDdhZmM4YmVjZGE4Mzk1NjRmYjNkYzc1Nzk3NGUxNjQyYjU3`
+Snapshot ID: `MCxhYmY1MWIyMTUzMmYwMzk3YjYzNDQ1NmUwYjA3ODIzYzIzZWJhYzVk`

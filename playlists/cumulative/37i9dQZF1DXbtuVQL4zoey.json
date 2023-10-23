@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 146500,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/3jPOhzt1Xy0lqq1iPm6nFJ"
@@ -2585,7 +2585,7 @@
         },
         {
           "name": "M\u00e1rcio Tubino",
-          "url": "https://open.spotify.com/artist/5aUNPTRKlaafKWfKtXIU8s"
+          "url": "https://open.spotify.com/artist/2jCoX3FSnlnkivr2NtMKkd"
         }
       ],
       "date_added": "2022-12-09",
@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 152000,
       "name": "Free Ride",
       "url": "https://open.spotify.com/track/7lS8JzmEblLIz2NEA2y9IY"
@@ -3562,6 +3562,24 @@
       "duration_ms": 160982,
       "name": "Good Dog",
       "url": "https://open.spotify.com/track/6EQhgTDwXZ4OudcdZzutM2"
+    },
+    {
+      "album": {
+        "name": "goodnight paris",
+        "url": "https://open.spotify.com/album/1FXQ6DYZWVY6FLf0zvPDwy"
+      },
+      "artists": [
+        {
+          "name": "Clocktown Stars",
+          "url": "https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171833,
+      "name": "goodnight paris",
+      "url": "https://open.spotify.com/track/4ml3CC6HTNaGnFgiRnAiFH"
     },
     {
       "album": {
@@ -4476,7 +4494,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 157037,
       "name": "june days",
       "url": "https://open.spotify.com/track/0NhMR9KnMFwu0te2GSuW3Z"
@@ -5280,7 +5298,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 115764,
       "name": "Mallorca",
       "url": "https://open.spotify.com/track/5fwUgcNVOqWaAiO7q0m5S4"
@@ -6058,7 +6076,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 210531,
       "name": "Open Mind",
       "url": "https://open.spotify.com/track/3uWz3YOFSLri0qCmiWCmzY"
@@ -6414,7 +6432,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 142428,
       "name": "Pear Pressure",
       "url": "https://open.spotify.com/track/51YRwAeesNlpvB5U51lZY7"
@@ -7562,7 +7580,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 112941,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/2LTcqJRepokYQMofS53rjt"
@@ -7754,7 +7772,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 146666,
       "name": "special",
       "url": "https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC"
@@ -8990,7 +9008,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 214000,
       "name": "Toucan",
       "url": "https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT"
@@ -9044,7 +9062,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 151000,
       "name": "Train Ride",
       "url": "https://open.spotify.com/track/5hCXtdsOhwWCG6zX0ivfYg"

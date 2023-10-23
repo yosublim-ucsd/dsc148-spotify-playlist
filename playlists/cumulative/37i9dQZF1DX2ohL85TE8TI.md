@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: BALLERINA\(발레리나\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 순정복서\)
 
-734 songs - 1 day 20 hr 29 min
+735 songs - 1 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [Summer Night](https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Summer Strike, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF) | 4:28 | 2022-11-25 | 2023-02-25 |
 | [Summer Rain](https://open.spotify.com/track/0lsE1vjZQazyEnexXpD4B1) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/5G8GZvgWdarjynQ0hLGehC) | 3:21 | 2022-01-14 | 2022-04-22 |
 | [Sunday to Monday](https://open.spotify.com/track/4GlfPmVBquQ8uNV60FVE4B) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Woori The Virgin, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/09jEbMGUNe8el2xPyJrhDj) | 3:42 | 2022-06-18 | 2022-08-20 |
+| [Sunset Kiss](https://open.spotify.com/track/5uAPDJnAl6Iide6UfzXZ3J) | [MONE](https://open.spotify.com/artist/25pqKY5XQQCDyPZgtzUM9Q) | [The Escape of the Seven OST Special Track](https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ) | 3:06 | 2023-10-22 |  |
 | [Sunset Village](https://open.spotify.com/track/1dFwUiafCcOqp8EYAQdR8r) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/6Rg3OPU1ySX27gmUVVzN57) | 4:29 | 2022-09-19 | 2023-01-14 |
 | [Sunshine](https://open.spotify.com/track/3m0HexxOcrMfxluUl5uxBf) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Never give up, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/4Gc0hzGUPKynsRUdbhbrZI) | 3:36 | 2022-06-09 | 2022-08-13 |
 | [SUPERPOWERS](https://open.spotify.com/track/2T0cn0hvGrG8vqqB8sK4zX) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Strong Girl Nam\-soon \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1atx6ADNPFNf3PKvBiSa6l) | 2:55 | 2023-10-10 |  |

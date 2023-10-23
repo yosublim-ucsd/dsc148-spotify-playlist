@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Jockstrap
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,589 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,724 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 25 | [A Running Start](https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [A Running Start](https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG) | 4:21 |
 | 26 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 |
 | 27 | [drywall](https://open.spotify.com/track/49XjLtTAwwhC8tupC8E8wp) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [drywall](https://open.spotify.com/album/2cbcM8spLBGvSIxsiOwIkz) | 3:42 |
-| 28 | [Tekken 2 \(feat\. Chaka Khan\)](https://open.spotify.com/track/5F2sBRf79hjdKdlzNZ0sX2) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Tekken 2 \(feat\. Chaka Khan\)](https://open.spotify.com/album/4z2R1paeBuJJiIcYsGtvfX) | 3:50 |
+| 28 | [Tekken 2 \- feat\. Chaka Khan](https://open.spotify.com/track/0hSnzumPBlfWTT9puEBCv6) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:50 |
 | 29 | [BORING](https://open.spotify.com/track/63RCUs24Zch5w1EE3W1WH3) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [BORING](https://open.spotify.com/album/1QdU9ucWowBxXbHnGourRR) | 2:29 |
 | 30 | [Cherry Cola](https://open.spotify.com/track/3aDVFROpHHBjfp53IqcxJv) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [Cherry Cola](https://open.spotify.com/album/2NxQLiwDuB7tPN67gIvRTQ) | 2:44 |
 | 31 | [Angel](https://open.spotify.com/track/586hlWbs36IwHNBQHDkT0v) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Angel](https://open.spotify.com/album/4ymSlc0IgdFvc61mLUKDbl) | 3:19 |

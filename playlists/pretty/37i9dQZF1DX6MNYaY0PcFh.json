@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 69567,
+  "num_followers": 69614,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGVhNjFiMDUxNTQwZmZmYzc0NjdlZjMyMDRiOWVjN2Y2ZDVlYTRm",
+  "snapshot_id": "MCw2ODZmNzg1YzM4NGQ4MDBkNzY1MzRlOWUxNGVlNzJhMDlkZGQ4MDU3",
   "tracks": [
     {
       "added_at": "2023-10-20 09:22:01",
@@ -335,26 +335,6 @@
     {
       "added_at": "2023-10-20 09:22:01",
       "album": {
-        "name": "Stone",
-        "url": "https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H"
-      },
-      "artists": [
-        {
-          "name": "Effy",
-          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 182270,
-      "name": "Stone",
-      "url": "https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW"
-    },
-    {
-      "added_at": "2023-10-20 09:22:01",
-      "album": {
         "name": "Alright (feat. Lucy Virji)",
         "url": "https://open.spotify.com/album/0EkRVya5ip9pn0Vp6Tj4Au"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 277000,
       "name": "Alright (feat. Lucy Virji)",
       "url": "https://open.spotify.com/track/1FlZn4gmHOIriuqNxWIyOX"
+    },
+    {
+      "added_at": "2023-10-20 09:22:01",
+      "album": {
+        "name": "Stone",
+        "url": "https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 182270,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW"
     },
     {
       "added_at": "2023-10-20 09:22:01",
@@ -399,30 +399,6 @@
     {
       "added_at": "2023-10-20 09:22:01",
       "album": {
-        "name": "Thinkin of You",
-        "url": "https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6"
-      },
-      "artists": [
-        {
-          "name": "Dylan & Harry",
-          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
-        },
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Thinkin of You",
-      "url": "https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej"
-    },
-    {
-      "added_at": "2023-10-20 09:22:01",
-      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/4wK0QQxpdnLH7BO64lMYZ5"
       },
@@ -443,6 +419,30 @@
       "duration_ms": 209745,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/0nO2WPTc3UY51COGw27Dls"
+    },
+    {
+      "added_at": "2023-10-20 09:22:01",
+      "album": {
+        "name": "Thinkin of You",
+        "url": "https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6"
+      },
+      "artists": [
+        {
+          "name": "Dylan & Harry",
+          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
+        },
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Thinkin of You",
+      "url": "https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej"
     },
     {
       "added_at": "2023-10-20 09:22:01",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-10-20 09:22:01",
       "album": {
+        "name": "Girls Like You",
+        "url": "https://open.spotify.com/album/7qNTaqipmaWESVIFLLAX4p"
+      },
+      "artists": [
+        {
+          "name": "Cortese",
+          "url": "https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77"
+        },
+        {
+          "name": "Emma Cannon",
+          "url": "https://open.spotify.com/artist/5lImHD87PNxK8nA7mGRRSN"
+        }
+      ],
+      "duration_ms": 266395,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/6sYgR77BllMDNXYRY1PxVB"
+    },
+    {
+      "added_at": "2023-10-20 09:22:01",
+      "album": {
         "name": "REPLAY",
         "url": "https://open.spotify.com/album/4rNLK6g8hfpXK5wkpHAZ6n"
       },
@@ -743,22 +763,18 @@
     {
       "added_at": "2023-10-20 09:22:01",
       "album": {
-        "name": "Girls Like You",
-        "url": "https://open.spotify.com/album/7qNTaqipmaWESVIFLLAX4p"
+        "name": "Garage Queen EP",
+        "url": "https://open.spotify.com/album/32SCg0bTY5tdRUGyUeQZig"
       },
       "artists": [
         {
-          "name": "Cortese",
-          "url": "https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77"
-        },
-        {
-          "name": "Emma Cannon",
-          "url": "https://open.spotify.com/artist/5lImHD87PNxK8nA7mGRRSN"
+          "name": "ABSOLUTE.",
+          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
         }
       ],
-      "duration_ms": 266395,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/6sYgR77BllMDNXYRY1PxVB"
+      "duration_ms": 183680,
+      "name": "Don't Ya Want It",
+      "url": "https://open.spotify.com/track/0hAKAySNyqvjMyjMFG0lY9"
     },
     {
       "added_at": "2023-10-20 09:22:01",
@@ -783,38 +799,6 @@
     {
       "added_at": "2023-10-20 09:22:01",
       "album": {
-        "name": "Garage Queen EP",
-        "url": "https://open.spotify.com/album/32SCg0bTY5tdRUGyUeQZig"
-      },
-      "artists": [
-        {
-          "name": "ABSOLUTE.",
-          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
-        }
-      ],
-      "duration_ms": 183680,
-      "name": "Don't Ya Want It",
-      "url": "https://open.spotify.com/track/0hAKAySNyqvjMyjMFG0lY9"
-    },
-    {
-      "added_at": "2023-10-20 09:22:01",
-      "album": {
-        "name": "Lost City Archives, Vol. 7",
-        "url": "https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp"
-      },
-      "artists": [
-        {
-          "name": "Deadly Habitz",
-          "url": "https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "Henney & Coke",
-      "url": "https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi"
-    },
-    {
-      "added_at": "2023-10-20 09:22:01",
-      "album": {
         "name": "Poolside (feat. Katy Alex)",
         "url": "https://open.spotify.com/album/5We5TEZ4yRugprf8QqcfmW"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 176000,
       "name": "Poolside (feat. Katy Alex)",
       "url": "https://open.spotify.com/track/2xoeyiHgdFQtALq4bjwscy"
+    },
+    {
+      "added_at": "2023-10-20 09:22:01",
+      "album": {
+        "name": "Lost City Archives, Vol. 7",
+        "url": "https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp"
+      },
+      "artists": [
+        {
+          "name": "Deadly Habitz",
+          "url": "https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "Henney & Coke",
+      "url": "https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi"
     },
     {
       "added_at": "2023-10-20 09:22:01",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-10-20 09:22:01",
       "album": {
-        "name": "Estate Royalty",
-        "url": "https://open.spotify.com/album/5A53s3TnstEoTDmwO9CwOb"
-      },
-      "artists": [
-        {
-          "name": "S Dog",
-          "url": "https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38"
-        },
-        {
-          "name": "Toddla T",
-          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
-        }
-      ],
-      "duration_ms": 152374,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/3JgvbAIabTHI9UvGStpxM1"
-    },
-    {
-      "added_at": "2023-10-20 09:22:01",
-      "album": {
         "name": "care 4",
         "url": "https://open.spotify.com/album/14UGM6sZZnYrvtpgEE30kU"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 232855,
       "name": "care 4",
       "url": "https://open.spotify.com/track/2LNzaAAzQMSp6TGpFi3oIB"
+    },
+    {
+      "added_at": "2023-10-20 09:22:01",
+      "album": {
+        "name": "Estate Royalty",
+        "url": "https://open.spotify.com/album/5A53s3TnstEoTDmwO9CwOb"
+      },
+      "artists": [
+        {
+          "name": "S Dog",
+          "url": "https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38"
+        },
+        {
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+        }
+      ],
+      "duration_ms": 152374,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/3JgvbAIabTHI9UvGStpxM1"
     },
     {
       "added_at": "2023-10-20 09:22:01",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-10-20 09:22:01",
       "album": {
-        "name": "Flex",
-        "url": "https://open.spotify.com/album/439lrfWjzWWqkuokp5PevY"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        },
-        {
-          "name": "Slick Don",
-          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/3OaGNvp9q7DkUKbJfMRxIk"
-    },
-    {
-      "added_at": "2023-10-20 09:22:01",
-      "album": {
         "name": "Microdosing (Conducta Remix)",
         "url": "https://open.spotify.com/album/52r0BbElKJLiF59usacC0A"
       },
@@ -1103,6 +1083,26 @@
     {
       "added_at": "2023-10-20 09:22:01",
       "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/439lrfWjzWWqkuokp5PevY"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Slick Don",
+          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/3OaGNvp9q7DkUKbJfMRxIk"
+    },
+    {
+      "added_at": "2023-10-20 09:22:01",
+      "album": {
         "name": "Love Me, Leave Me Alone",
         "url": "https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 193880,
       "name": "Love Me, Leave Me Alone",
       "url": "https://open.spotify.com/track/55MckToyWVSitUdMySgApN"
-    },
-    {
-      "added_at": "2023-10-20 09:22:01",
-      "album": {
-        "name": "Do What You Want",
-        "url": "https://open.spotify.com/album/7DrbNlS3HCEVF7pRzGrMT4"
-      },
-      "artists": [
-        {
-          "name": "DJ Zinc",
-          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
-        }
-      ],
-      "duration_ms": 159812,
-      "name": "Do What You Want",
-      "url": "https://open.spotify.com/track/20cGWwVYbi0pBxW4VY3GNO"
     },
     {
       "added_at": "2023-10-20 09:22:01",
@@ -1163,6 +1147,22 @@
       "duration_ms": 271717,
       "name": "lights up",
       "url": "https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG"
+    },
+    {
+      "added_at": "2023-10-20 09:22:01",
+      "album": {
+        "name": "Do What You Want",
+        "url": "https://open.spotify.com/album/7DrbNlS3HCEVF7pRzGrMT4"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinc",
+          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
+        }
+      ],
+      "duration_ms": 159812,
+      "name": "Do What You Want",
+      "url": "https://open.spotify.com/track/20cGWwVYbi0pBxW4VY3GNO"
     }
   ],
   "unique_name": "New UK Garage",

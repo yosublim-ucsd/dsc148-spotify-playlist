@@ -1,12 +1,12 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 93389,
+  "num_followers": 93446,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTQ4Y2IyYmYxMDdlODFjZTk1N2EyNTY4YTZhZTI2ZDBhYTQxNzMz",
+  "snapshot_id": "MCw3N2IzY2U1ODE1OGI4NmYyNDdjM2JjM2NiNzhhNTFiZTJkNTAyZDVj",
   "tracks": [
     {
       "added_at": "2023-07-14 16:56:11",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "Fernanda Brum - Falando de Amor",
+        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 263639,
+      "name": "Te Amaria Outra Vez",
+      "url": "https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "Mais (Studio Session)",
         "url": "https://open.spotify.com/album/4jSX0OJw7dzgzvT3GSWleW"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 250416,
       "name": "Mais - Studio Session",
       "url": "https://open.spotify.com/track/0o6nEehnkqsyy1J4pMvoEZ"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Fernanda Brum - Falando de Amor",
-        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 263639,
-      "name": "Te Amaria Outra Vez",
-      "url": "https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "Florescer",
+        "url": "https://open.spotify.com/album/4mnmZ8vTDecixJuGcUbhUI"
+      },
+      "artists": [
+        {
+          "name": "Pamela",
+          "url": "https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG"
+        }
+      ],
+      "duration_ms": 296286,
+      "name": "Florescer",
+      "url": "https://open.spotify.com/track/63dnEh5jxM49lNHRRgvxOG"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "Onde Est\u00e1 Voc\u00ea",
         "url": "https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 226626,
       "name": "Como da Primeira Vez",
       "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Florescer",
-        "url": "https://open.spotify.com/album/4mnmZ8vTDecixJuGcUbhUI"
-      },
-      "artists": [
-        {
-          "name": "Pamela",
-          "url": "https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG"
-        }
-      ],
-      "duration_ms": 296286,
-      "name": "Florescer",
-      "url": "https://open.spotify.com/track/63dnEh5jxM49lNHRRgvxOG"
     },
     {
       "added_at": "2023-07-14 16:56:11",

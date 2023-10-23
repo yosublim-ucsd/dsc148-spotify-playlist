@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,048 songs - 23 hr 19 min
+1,049 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Divided](https://open.spotify.com/track/6ZsneTepMm115P6isojL6R) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Divided](https://open.spotify.com/album/1s5iJHPOqx0gCVVwwXR82B) | 2:11 | 2022-01-12 |  |
 | [Do We Wake](https://open.spotify.com/track/5nEvhoKxYs665DDlRyhtrU) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Do We Wake](https://open.spotify.com/album/3Dc0xwwuSUKPQ0FxuuN8VZ) | 3:36 | 2022-01-12 |  |
 | [Dona Nobis Pacem \- Ambient Piano Version](https://open.spotify.com/track/6uL24uD7DAqmuJJgPlnxAj) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Dona Nobis Pacem \(Ambient Piano Version\)](https://open.spotify.com/album/6oDmNKWzW3nS1sYg3OldYH) | 1:01 | 2023-09-17 |  |
+| [Dona Nobis Pacem \- Grand Piano Version](https://open.spotify.com/track/7l1IhG5robhlqJquzedp0m) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Dona Nobis Pacem \(Grand Piano Version\)](https://open.spotify.com/album/5dC0frMVVY8QhpiYVJO2KP) | 1:04 | 2023-10-22 |  |
 | [Dona Nobis Pacem Arr\. For Grand Piano](https://open.spotify.com/track/6vZ8hY7sGgenfJqTKcI7bw) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Dona Nobis Pacem Arr\. For Grand Piano](https://open.spotify.com/album/2VVdmXV3QuwhF5u8GUw7gV) | 1:03 | 2023-10-06 |  |
 | [Doorways](https://open.spotify.com/track/0x1yZZapJzD58BXSdvvaVE) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Eternal Sky](https://open.spotify.com/album/1gkgnmM8Sb6C5pSjR9MYfX) | 1:01 | 2022-05-17 |  |
 | [Doves](https://open.spotify.com/track/1V1XmnRJBDg0zX88ZqLHRG) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:53 | 2022-01-12 |  |

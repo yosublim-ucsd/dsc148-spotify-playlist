@@ -4,7 +4,7 @@
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Drake
 
-557 songs - 1 day 5 hr 43 min
+558 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-04-15 | 2022-08-06 |
 | [Addicted \(feat\. Lil Baby\)](https://open.spotify.com/track/3Mr7AWHQj2ZUfMwNWq59MK) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Breezy \(Deluxe\)](https://open.spotify.com/album/79WcTJuCulopfqul1awYJk) | 3:38 | 2022-07-08 | 2022-08-20 |
 | [Afterparty \(with DESTIN CONRAD\)](https://open.spotify.com/track/4x2DdocX3IrZD3JTO2KvoZ) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Breathwork](https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0) | 3:29 | 2023-06-16 | 2023-10-07 |
-| [Aint Mine \(feat\. Lay Bankz\)](https://open.spotify.com/track/6BPmObReZ1rymdDoVD9QTw) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Aint Mine \(feat\. Lay Bankz\)](https://open.spotify.com/album/78U18GMv2NiqgMTHeu0QcH) | 2:36 | 2023-06-16 |  |
+| [Aint Mine](https://open.spotify.com/track/52hK9zEXqx2Fvxz8X4nWxb) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Aint Mine](https://open.spotify.com/album/5d0DWeqL8vlJAM6dIIRP46) | 2:36 | 2023-06-16 |  |
+| [Aint Mine \(feat\. Lay Bankz\)](https://open.spotify.com/track/6BPmObReZ1rymdDoVD9QTw) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Aint Mine \(feat\. Lay Bankz\)](https://open.spotify.com/album/78U18GMv2NiqgMTHeu0QcH) | 2:36 | 2023-06-16 | 2023-10-23 |
 | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/track/69TzD9PfuWekKoak6pAdcV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/album/4zVXUfWSP8ndHCQUW1a6HI) | 3:04 | 2022-09-23 | 2023-02-15 |
 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-08-12 | 2022-12-10 |
 | [ALL EARS](https://open.spotify.com/track/71npaVc8R0tKEF9avvZe7o) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [ALL EARS](https://open.spotify.com/album/0cUuScs99kjjb19BeDqB25) | 3:15 | 2022-09-23 | 2023-02-25 |

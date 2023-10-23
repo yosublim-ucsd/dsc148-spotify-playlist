@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best of today's chill pop\. Cover: Laufey & beabadoobee
 
-1,456 songs - 3 day 6 hr 11 min
+1,457 songs - 3 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1303,7 +1303,8 @@
 | [This Shouldn't Work](https://open.spotify.com/track/5emMvT62CP2ulTtk7Q1TsZ) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [This Shouldn't Work](https://open.spotify.com/album/36GFEZJyNWa3bWlMgxE8Qn) | 3:14 | 2020-04-26\* | 2020-05-01 |
 | [This Summer](https://open.spotify.com/track/6esheCKKzDlgyms0c1wOhv) | [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA) | [This Summer](https://open.spotify.com/album/4WNXsgnqvcYSEREmSB74Fr) | 3:19 | 2020-09-18 | 2020-10-16 |
 | [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 | 2022-07-26 | 2023-01-09 |
-| [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-01-06 |  |
+| [Those Eyes](https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Based On A True Story...](https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz) | 3:40 | 2023-10-13 |  |
+| [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-01-06 | 2023-10-23 |
 | [Those Eyes](https://open.spotify.com/track/7q9YKaWxCfnAggtc92Snxa) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4X9LKWIzfcFX6aTjmskhWP) | 3:40 | 2022-06-24 | 2022-07-29 |
 | [Thoughts](https://open.spotify.com/track/2jm0S3dMxpAz5H59z4lOJH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Thoughts](https://open.spotify.com/album/3XFWmmwiJR0i7WnHDvgten) | 3:05 | 2020-04-26\* | 2020-06-19 |
 | [THREE STRIKES \(feat\. Khalid\)](https://open.spotify.com/track/5s0R5zybi2MKaJxf0og3hM) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO?](https://open.spotify.com/album/4sih9lWIIKldL1n5kcotjI) | 3:24 | 2021-10-23 | 2022-03-05 |

@@ -298,10 +298,28 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 233592,
       "name": "Cama y Mesa",
       "url": "https://open.spotify.com/track/1KPHUKA7exXzdbCNv9ZsTf"
+    },
+    {
+      "album": {
+        "name": "Amar Con Estilo",
+        "url": "https://open.spotify.com/album/2NtwCSpWVCygB3lE5QYK0O"
+      },
+      "artists": [
+        {
+          "name": "Estilo 45",
+          "url": "https://open.spotify.com/artist/3iX3bXH69NndDYy5WyFUsA"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233592,
+      "name": "Cama Y Mesa",
+      "url": "https://open.spotify.com/track/5hs6YtYfMC3819HTXlPB0L"
     },
     {
       "album": {

@@ -19,19 +19,7 @@
         },
         {
           "name": "Smokk",
-          "url": "https://open.spotify.com/artist/6lcmuIRdh6cglv54iYnhH6"
-        },
-        {
-          "name": "Hava",
-          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
-        },
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        },
-        {
-          "name": "Cabas",
-          "url": "https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i"
+          "url": "https://open.spotify.com/artist/5dNSyB3hCG9s3mIzmSunP3"
         }
       ],
       "date_added": "2023-09-29",
@@ -80,6 +68,24 @@
       "duration_ms": 167586,
       "name": "333",
       "url": "https://open.spotify.com/track/1b4XF16Y0WnRXj3qsTRm6S"
+    },
+    {
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/13k2zzqSV0ZCV8tmYGhvSL"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111456,
+      "name": "777",
+      "url": "https://open.spotify.com/track/3a72rKC1wpcoVx6HIpEzRO"
     },
     {
       "album": {
@@ -138,7 +144,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 122482,
       "name": "A2UL",
       "url": "https://open.spotify.com/track/6GaXs0SohJwpaWmBqEMzZi"
@@ -594,7 +600,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 150495,
       "name": "Broken",
       "url": "https://open.spotify.com/track/1CZpJAHjKh3kdUnP7SPE7Z"
@@ -836,10 +842,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 152778,
       "name": "CLARO QUE SI",
       "url": "https://open.spotify.com/track/0yNH4efNYWKCqiF1S11mV9"
+    },
+    {
+      "album": {
+        "name": "Click Clack",
+        "url": "https://open.spotify.com/album/4fhvYqXo4GkFrtXmmFqGmi"
+      },
+      "artists": [
+        {
+          "name": "Tryzty",
+          "url": "https://open.spotify.com/artist/3WwHNlLL31bBoiHYzd8hAS"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160261,
+      "name": "Click Clack",
+      "url": "https://open.spotify.com/track/4MbcHX9uujyyo6W9JOXp0x"
     },
     {
       "album": {
@@ -1018,10 +1042,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 153403,
       "name": "D3Monio Millonari0",
       "url": "https://open.spotify.com/track/5yTsDXd4O8ycHNG721VsIy"
+    },
+    {
+      "album": {
+        "name": "Pa las Baby's Y Belikeada",
+        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151950,
+      "name": "Dafuk",
+      "url": "https://open.spotify.com/track/1Rt5PxKde8JdrCk4ZTnu0g"
     },
     {
       "album": {
@@ -1229,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "El Hijo del Trap",
+        "url": "https://open.spotify.com/album/3TB7lbyD87aCAb7hNgHwkO"
+      },
+      "artists": [
+        {
+          "name": "Sadr\u00e1ck",
+          "url": "https://open.spotify.com/artist/6nVrBvc6HT6J8ye8EGybz1"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114743,
+      "name": "El Hijo del Trap",
+      "url": "https://open.spotify.com/track/7jA2uP83uhzOtFlDvBvnAm"
+    },
+    {
+      "album": {
         "name": "El Llor\u00f3n",
         "url": "https://open.spotify.com/album/2pDfl8RG9fMNEzLIV0mdTS"
       },
@@ -1321,6 +1381,32 @@
     },
     {
       "album": {
+        "name": "Embrujada",
+        "url": "https://open.spotify.com/album/22Mv876unIa1hz4uCcdtKj"
+      },
+      "artists": [
+        {
+          "name": "Awexa",
+          "url": "https://open.spotify.com/artist/1tv5NHtc4XP7MpNeupdfYa"
+        },
+        {
+          "name": "Chzter",
+          "url": "https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj"
+        },
+        {
+          "name": "Mikeb\u00f8i",
+          "url": "https://open.spotify.com/artist/0lVNQEG85cu3cc6J3hAE3c"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Embrujada",
+      "url": "https://open.spotify.com/track/0S40TsZWJQB1LZiYoNnZP9"
+    },
+    {
+      "album": {
         "name": "RELATOSS DEE AAYER YY HOYY DDE: UNN JJOVEN MMORENOO",
         "url": "https://open.spotify.com/album/6jsVqd1uJebc2dgB7oGvD0"
       },
@@ -1387,7 +1473,7 @@
     },
     {
       "album": {
-        "name": "FERRAGAMO",
+        "name": "Ferragamo",
         "url": "https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X"
       },
       "artists": [
@@ -1404,7 +1490,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 218785,
-      "name": "FERRAGAMO",
+      "name": "Ferragamo",
       "url": "https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR"
     },
     {
@@ -1901,6 +1987,28 @@
     },
     {
       "album": {
+        "name": "Jovenes Traperos",
+        "url": "https://open.spotify.com/album/5uZlkaUbmrnMjbcRpYDL5d"
+      },
+      "artists": [
+        {
+          "name": "Gedec",
+          "url": "https://open.spotify.com/artist/33tz2qddAWmjpcIXadDexN"
+        },
+        {
+          "name": "Vida Robot",
+          "url": "https://open.spotify.com/artist/7q02Ro5duhKaT270E27czj"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Jovenes Traperos",
+      "url": "https://open.spotify.com/track/309Mby6sxHFaL5A6ForkW0"
+    },
+    {
+      "album": {
         "name": "k me la coma todo el tr4p",
         "url": "https://open.spotify.com/album/7yFHxE9JNqUzDIH2jfuy9D"
       },
@@ -2377,6 +2485,28 @@
     },
     {
       "album": {
+        "name": "Mismos Planes",
+        "url": "https://open.spotify.com/album/6fAc3grMv2iOWVdw8r2wyl"
+      },
+      "artists": [
+        {
+          "name": "Flavor Dudes",
+          "url": "https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y"
+        },
+        {
+          "name": "Morfin BG",
+          "url": "https://open.spotify.com/artist/1pTjTbVIKeovr6b96NHxCD"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Mismos Planes",
+      "url": "https://open.spotify.com/track/4zAvBCFELHr9GC2hjGErs1"
+    },
+    {
+      "album": {
         "name": "CIRCUS",
         "url": "https://open.spotify.com/album/1RKKNHSeD6HuG15HevvGbe"
       },
@@ -2732,7 +2862,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 151792,
       "name": "No Wifi",
       "url": "https://open.spotify.com/track/5uxDbCFArvfMZhnjWhqr3e"
@@ -2790,7 +2920,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 138666,
       "name": "Odio Estar Horny",
       "url": "https://open.spotify.com/track/7yfvQHFDKJRbSrX5WWkdk5"
@@ -3752,7 +3882,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 191076,
       "name": "tu ciudad",
       "url": "https://open.spotify.com/track/0o3eb8tDTW5yMBmcjcEjcK"

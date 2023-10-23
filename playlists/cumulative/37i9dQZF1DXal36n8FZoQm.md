@@ -4,7 +4,7 @@
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-169 songs - 10 hr 8 min
+170 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Head Games](https://open.spotify.com/track/5nk6wxUSFUBxUKxjz0fKD6) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Head Games](https://open.spotify.com/album/05Z3MG7G3Vl5ThsFQkWjiJ) | 3:37 | 2022-01-07 |  |
 | [Hear My Heart](https://open.spotify.com/track/1PDkqKq5PtfjwsoqnQctAz) | [Midnight Mantics](https://open.spotify.com/artist/0kcInZGL88CR9QoMeUsdwv) | [Vibe City](https://open.spotify.com/album/5qB9fJHiKOpeUxiOkepKBj) | 4:04 | 2022-01-06 | 2022-07-29 |
 | [Hear My Heart](https://open.spotify.com/track/7yl21WlxXzzYblzkxDyqE5) | [Midnight Mantics](https://open.spotify.com/artist/0kcInZGL88CR9QoMeUsdwv) | [Vibe City](https://open.spotify.com/album/6FtILJfVlycAU484t2GA1l) | 4:04 | 2022-01-06 |  |
-| [Here I Go Again](https://open.spotify.com/track/29pzjF6ZkzcW3ofgOVbF0t) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Saints & Sinners](https://open.spotify.com/album/5HSdx1824FepWuf8NbG7B3) | 5:08 | 2022-01-07 |  |
+| [Here I Go Again](https://open.spotify.com/track/66yF4fCC4NiFZTjhegI90o) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Dig! Rock Classics](https://open.spotify.com/album/5LTC8pH1pEnDoPLhBO4AzZ) | 5:08 | 2022-01-07 |  |
+| [Here I Go Again](https://open.spotify.com/track/29pzjF6ZkzcW3ofgOVbF0t) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Saints & Sinners](https://open.spotify.com/album/5HSdx1824FepWuf8NbG7B3) | 5:08 | 2022-01-07 | 2023-10-23 |
 | [Highway Down](https://open.spotify.com/track/4QifC5kFkaDACx0vbfDwQo) | [I See Hawks In L.A.](https://open.spotify.com/artist/1b5IKVz30ek0dp7zFOUdcQ) | [Hallowed Ground](https://open.spotify.com/album/7wbNlBcZ0b04oW8TwBfxLX) | 5:14 | 2022-01-07 |  |
 | [Hold Steady](https://open.spotify.com/track/0EsDXxLglW6znXTnJ4hCz3) | [Justin Forrest](https://open.spotify.com/artist/0glyJh3jYJ2B2xlUPYgfbf) | [Hold Steady](https://open.spotify.com/album/3ORSmzn6M2xEIh0dZFnm8u) | 3:14 | 2022-01-07 |  |
 | [I Wanna Be Somebody](https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:43 | 2022-01-07 |  |

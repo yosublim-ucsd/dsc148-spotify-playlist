@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the The Escape of the Seven\. \(7인의 탈출의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-23 songs - 1 hr 7 min
+31 songs - 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,11 @@
 | [Control](https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:34 | 2023-10-21 |  |
 | [Curated by Lee Yubi](https://open.spotify.com/track/0PcrcVmCHTe3vdkke3HyGC) | [The Escape of the Seven](https://open.spotify.com/artist/2e40rNSF1VHxeDBkJR0xZ5) | [The Escape of the Seven audio liner](https://open.spotify.com/album/5Ss3JF1zGufz0NLnBIi2q9) | 0:20 | 2023-10-21 |  |
 | [Designed Revenge](https://open.spotify.com/track/5pvKruLtg3tV1VbrjjWkA1) | [Jung Se Rin](https://open.spotify.com/artist/1ueh3BEkIrO9i87v8Ymr5e) | [The Glory, Pt\. 2 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bt1BOedK4Rmq0FgNKLPux) | 4:07 | 2023-10-21 |  |
+| [Disappear](https://open.spotify.com/track/3npyCr1ht50WqZF537vr8t) | [Richard Parkers](https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C) | [The Escape of the Seven OST Part.2](https://open.spotify.com/album/1CgrARHgGDA67xWn9JJ3uG) | 3:42 | 2023-10-22 |  |
+| [Disappear \(Inst.\)](https://open.spotify.com/track/1g0WFid0GCww3TFA39flaV) | [Richard Parkers](https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C) | [The Escape of the Seven OST Part.2](https://open.spotify.com/album/1CgrARHgGDA67xWn9JJ3uG) | 3:42 | 2023-10-22 |  |
 | [Endless Story](https://open.spotify.com/track/5qGw224wECCHxTEfa1k42v) | [Gaemi](https://open.spotify.com/artist/40yhtwh7I0fHUlcL80rAdp), [Lee Gun Young](https://open.spotify.com/artist/1hliskWXXblmLcokaMUjhY) | [The World of the Married Special \(Original Television Soundtrack\)](https://open.spotify.com/album/7E2Lp36dLyyJn2zaSkE8GW) | 2:53 | 2023-10-21 |  |
+| [EXIT](https://open.spotify.com/track/0aXjaZxWiorYro27xglNJH) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [The Escape of the Seven OST Part.1](https://open.spotify.com/album/3Uv6LiZNT7I2hLKVQBK6SS) | 3:25 | 2023-10-22 |  |
+| [EXIT \(inst.\)](https://open.spotify.com/track/0UfVAMsF6C5d50QDInN7kY) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [The Escape of the Seven OST Part.1](https://open.spotify.com/album/3Uv6LiZNT7I2hLKVQBK6SS) | 3:23 | 2023-10-22 |  |
 | [Fire!](https://open.spotify.com/track/3KxwePed3M2ItHEyxI59Gt) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 1:15 | 2023-10-21 |  |
 | [Gasoline](https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:19 | 2023-10-21 |  |
 | [ilomilo](https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:36 | 2023-10-21 |  |
@@ -22,6 +26,10 @@
 | [Losing Her Heart to a Fake](https://open.spotify.com/track/6TqMHhBiuFUl5XJDLNYzJE) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 1:19 | 2023-10-21 |  |
 | [Prelude To The Glory](https://open.spotify.com/track/4FQQun1A4LoltKWawFzmht) | [Jung Se Rin](https://open.spotify.com/artist/1ueh3BEkIrO9i87v8Ymr5e) | [The Glory, Pt\. 2 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bt1BOedK4Rmq0FgNKLPux) | 4:34 | 2023-10-21 |  |
 | [Sad](https://open.spotify.com/track/5GCgK80s9iTYIguVt8AAso) | [Sonnet Son](https://open.spotify.com/artist/1Dq0pavG6AfUkfbYmRRBjC) | [The World of the Married, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/1gP5RgwQ47g8d1KrAsKnSS) | 3:36 | 2023-10-21 |  |
+| [Sunset Kiss](https://open.spotify.com/track/5uAPDJnAl6Iide6UfzXZ3J) | [MONE](https://open.spotify.com/artist/25pqKY5XQQCDyPZgtzUM9Q) | [The Escape of the Seven OST Special Track](https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ) | 3:06 | 2023-10-22 |  |
+| [Sunset Kiss \(Inst.\)](https://open.spotify.com/track/3msC9dJ6Jec8iQsHSJ4FPr) | [MONE](https://open.spotify.com/artist/25pqKY5XQQCDyPZgtzUM9Q) | [The Escape of the Seven OST Special Track](https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ) | 3:06 | 2023-10-22 |  |
+| [Sunset Kiss \(Pool Party Ver.\)](https://open.spotify.com/track/5o10SzMQAeOsImjqzs8Byl) | [MONE](https://open.spotify.com/artist/25pqKY5XQQCDyPZgtzUM9Q) | [The Escape of the Seven OST Special Track](https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ) | 3:14 | 2023-10-22 |  |
+| [Sunset Kiss \(Pool Party Ver.\) \(Inst.\)](https://open.spotify.com/track/3tcnCNTTjqHhYJwnarAi8J) | [MONE](https://open.spotify.com/artist/25pqKY5XQQCDyPZgtzUM9Q) | [The Escape of the Seven OST Special Track](https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ) | 3:14 | 2023-10-22 |  |
 | [The Duchess Juliette](https://open.spotify.com/track/5zcvtY9ubOHVjWZ20lXyuA) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 1:43 | 2023-10-21 |  |
 | [The Tree from Mount Fuji](https://open.spotify.com/track/4VulISo0xgXeWnOQsS1IgN) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 2:28 | 2023-10-21 |  |
 | [The Way To Get To You](https://open.spotify.com/track/6P5gda3H0xUSFcnYVxR6QU) | [Lee Yun Ji](https://open.spotify.com/artist/1dKNPccLLzE4YURnf2ab99) | [The Glory, Pt\. 2 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bt1BOedK4Rmq0FgNKLPux) | 2:54 | 2023-10-21 |  |

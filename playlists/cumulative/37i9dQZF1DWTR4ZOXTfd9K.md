@@ -4,7 +4,7 @@
 
 > The best music from one of the greatest jazz labels.
 
-144 songs - 15 hr 0 min
+145 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Nice And Easy \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/3E7QzgM8Je4hyf0kK8tGmD) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 4:19 | 2021-12-02 |  |
 | [Oblighetto](https://open.spotify.com/track/5H9ndwyE50LFwZFuZnVe2o) | [Jack McDuff](https://open.spotify.com/artist/0GX5PlFlvOiEdNvA7YHJzs) | [Moon Rappin'](https://open.spotify.com/album/25sQE6mJ38XKqKm4VKgWp8) | 6:36 | 2021-12-02 |  |
 | [Old Folks](https://open.spotify.com/track/1pfckgGedZWa6JGNhAWdOI) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Old Folks](https://open.spotify.com/album/74XZhsk5g0Mm6Pf7vX6VuT) | 5:50 | 2023-08-22 | 2023-10-04 |
-| [Old Folks](https://open.spotify.com/track/42Xv2whNPhZtJv9z0DvyVA) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Paris](https://open.spotify.com/album/0or0gacjz3Rx1mTw4DrVnX) | 5:50 | 2023-09-22 |  |
+| [Old Folks](https://open.spotify.com/track/42Xv2whNPhZtJv9z0DvyVA) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Paris](https://open.spotify.com/album/0or0gacjz3Rx1mTw4DrVnX) | 5:50 | 2023-09-22 | 2023-10-23 |
+| [Old Folks](https://open.spotify.com/track/5iLiu2yxhOs97x9VILKzHF) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Vol\. 1](https://open.spotify.com/album/5ogYqVF7SaAZSgdYM9sDba) | 5:50 | 2023-10-12 |  |
 | [One For 'Grew \(For Mulgrew Miller\)](https://open.spotify.com/track/55hyRqaAASnPhQEHK8ts9a) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [In My Element](https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS) | 6:33 | 2021-12-02 |  |
 | [One For Daddy\-O \- Remastered](https://open.spotify.com/track/4f0D7T8yswXUJ62AKLoMtS) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 8:25 | 2021-12-02 | 2022-10-07 |
 | [Orange Peel](https://open.spotify.com/track/1rgBIkLubecld0M92q5ulV) | [Reuben Wilson](https://open.spotify.com/artist/1lkarpPUSukugn1UWuU2Ut) | [Blue Mode](https://open.spotify.com/album/0e0wYhumzrbDwoAhhZihs8) | 6:39 | 2022-10-06 |  |

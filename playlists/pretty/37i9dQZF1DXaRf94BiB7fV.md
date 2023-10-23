@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Whale In The Pond , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,449 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,473 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Aao Zara](https://open.spotify.com/track/6Zc1kIVs8fAt5Rol3CjQg4) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Aao Zara](https://open.spotify.com/album/4QvcSQ2zjaoAGmk8ZZzCvI) | 3:42 |
 | 100 | [Humdum Tera](https://open.spotify.com/track/0dCicXrl4h0lO087jMm5hM) | [Rachit Shrivastava](https://open.spotify.com/artist/5k3Iw8VrxwZyFdi4dBPeBn), [Swapnil Tare](https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax) | [Humdum Tera](https://open.spotify.com/album/2XNwrtWLOTLXj5W4VQ1Ara) | 3:09 |
 
-Snapshot ID: `MCwyOTA2M2QyZWIxZmRiZDM1NDk5ZDFmNDkyMTc2ZjlhZTVkZjk2N2Jm`
+Snapshot ID: `MCw0ZTVmYTA5ZDM5NzZjNjhkY2MwMTk5ZWQ1NzM5NTViNThkYjcxYjkx`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,259 songs - 2 day 10 hr 11 min
+1,260 songs - 2 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [6AM в Будапеште](https://open.spotify.com/track/6cicFqh6IvNOc4FGXChnFB) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [6AM в Будапеште](https://open.spotify.com/album/1HL8rCyocGXRmHPE796Gqb) | 3:06 | 2023-04-15 | 2023-04-23 |
 | [6AM в Будапеште](https://open.spotify.com/track/788Sc88rcCe1GWVZ3ofJKQ) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [Cкучаю, Но Работаю](https://open.spotify.com/album/1jfgIZ6NpbIMApVH5qq7um) | 3:06 | 2023-04-22 | 2023-04-24 |
 | [99 Problems](https://open.spotify.com/track/0r9fpWPI6z3V3YZXIiVaNC) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:39 | 2021-10-23 | 2022-07-22 |
+| [9mm](https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5TaVh9bj30QqGbvmC2CFoq) | 1:26 | 2023-10-22 |  |
 | [^\_\_^ ;D :3](https://open.spotify.com/track/4GUbuZEijCo6AlKFcBe5lN) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 1:19 | 2022-04-30 | 2022-05-02 |
 | [A Different Kind of Blues](https://open.spotify.com/track/6ZG7EV2sV2M1MI9XxANAdF) | [IAMJJ](https://open.spotify.com/artist/5IXAoFwq3CLAMjvWorc6WJ), [Baker Grace](https://open.spotify.com/artist/70RgxMmZhLLWxRlbUFQKR2) | [A Different Kind of Blues](https://open.spotify.com/album/0Xw89z1Kmx2dt5q21N11CJ) | 3:18 | 2023-10-17 | 2023-10-20 |
 | [A&W](https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [A&W](https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS) | 7:13 | 2023-02-16 | 2023-02-26 |
@@ -228,7 +229,7 @@
 | [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 | 2022-05-16 | 2022-06-04 |
 | [Gladiator](https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Gladiator](https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01) | 3:31 | 2023-05-12 | 2023-06-24 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-15 | 2022-07-02 |
-| [GMFU](https://open.spotify.com/track/6GdhBJBl51BAITWjFyhbtl) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Myspace Addiction](https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S) | 2:07 | 2023-10-20 |  |
+| [GMFU](https://open.spotify.com/track/6GdhBJBl51BAITWjFyhbtl) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Myspace Addiction](https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S) | 2:07 | 2023-10-20 | 2023-10-23 |
 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 | 2023-07-27 | 2023-10-21 |
 | [Go!](https://open.spotify.com/track/4PeIyJqqTRniRDBcYGHPGw) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE), [FRESCO](https://open.spotify.com/artist/1y7Z43CechG6wRW27zTxJQ), [Moneykush](https://open.spotify.com/artist/0lWGH8NcBGs1075287YCg9) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 1:50 | 2021-04-11 | 2021-04-13 |
 | [Go! Смув](https://open.spotify.com/track/7pimTwSxwlq3OeG8ARZqEK) | [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR) | [Viva la vida](https://open.spotify.com/album/4xu3a1LuYV0r3uCgiiuPNy) | 2:30 | 2021-03-27\* | 2021-05-22 |

@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: The Rolling Stones
 
-3,523 songs - 7 day 17 hr 17 min
+3,523 songs - 7 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -919,7 +919,7 @@
 | [Ecstasy](https://open.spotify.com/track/7gT3poPl89krqi8qcBinyU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [MEDUZA](https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc) | 2:19 | 2023-10-12 | 2023-10-21 |
 | [Een Aperolletje](https://open.spotify.com/track/3c8k4sF4W6Sm7EGuMlnPFM) | [De Offsiders](https://open.spotify.com/artist/5H7tPK4zehUJwM5K8czsDz), [Andy Van Der Meijde](https://open.spotify.com/artist/4HVTe60HStIQsAlofkW9Ff), [Wesley Sneijder](https://open.spotify.com/artist/23Uo7jJGqKzrIwrtkvRk2m), [Wilfred Genee](https://open.spotify.com/artist/5oh8O9m6Cc8zFSq6udk6Hs) | [Een Aperolletje](https://open.spotify.com/album/7J6utnaaB0HDRg1ByWMWbB) | 4:03 | 2023-05-25 | 2023-06-02 |
 | [Een Beetje Meer](https://open.spotify.com/track/77UIVVbNb6GW3h0gwwiUeK) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Een Beetje Meer](https://open.spotify.com/album/0LjN6nmQuz6bQEHTlFIKfz) | 2:53 | 2023-10-20 |  |
-| [Eenzaam Samen](https://open.spotify.com/track/5gAwwq5heHnzLpLIIFc4NF) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [Eenzaam Samen](https://open.spotify.com/album/4WTBwa2BmjQFdFzuPHL2OY) | 3:03 | 2023-10-20 |  |
+| [Eenzaam Samen](https://open.spotify.com/track/5gAwwq5heHnzLpLIIFc4NF) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [Eenzaam Samen](https://open.spotify.com/album/4WTBwa2BmjQFdFzuPHL2OY) | 2:54 | 2023-10-20 |  |
 | [EHBO](https://open.spotify.com/track/2fV9KAR1xwFnnKHukvk9Yg) | [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [EHBO](https://open.spotify.com/album/2VmvwwLxnB8X3BCqFnlMV2) | 3:41 | 2023-09-21 | 2023-09-29 |
 | [Eigen Schuld](https://open.spotify.com/track/5pf1eSfMJE4efPzwpqB5jK) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Eigen Schuld](https://open.spotify.com/album/06lZcDwBLxPbT326eAxqS7) | 3:13 | 2023-09-21 | 2023-09-29 |
 | [Eigen Weg](https://open.spotify.com/track/2KPnl58uwUlx0wCRVOpZfj) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Eigen Weg](https://open.spotify.com/album/73AN0JXVr2eGgLp6rbVaL3) | 3:06 | 2023-08-24 | 2023-09-01 |
@@ -1963,7 +1963,7 @@
 | [MIRAGE \(feat\. Ozuna, GIMS & Sfera Ebbasta\)](https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P) | [AriBeatz](https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MIRAGE \(feat\. Ozuna, Sfera Ebbasta & GIMS\)](https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH) | 3:26 | 2023-04-13 | 2023-04-21 |
 | [Mirage \- for Assassin's Creed Mirage](https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Mirage \(for Assassin's Creed Mirage\)](https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz) | 2:13 | 2023-09-21 | 2023-09-29 |
 | [Mirchi Anthem](https://open.spotify.com/track/7vJHyiAJMDZwUmbDWRsIKI) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Mirchi Anthem](https://open.spotify.com/album/78UwNMNUqcvuJ4Ji2RBM8m) | 2:52 | 2023-07-14 | 2023-07-21 |
-| [MIRROR MIRROR](https://open.spotify.com/track/1zQ0BwziXMRrMMfVQjV8j5) | [Sue the Night](https://open.spotify.com/artist/09mG88dA6PdovfkatUxvRh), [Thijs van der Klugt](https://open.spotify.com/artist/34N2UcEzKAPQ6BCnmqmsEl) | [Susanne And The Sad Sunset Disco](https://open.spotify.com/album/10mdFzQe3BCbja2JYjWDug) | 3:51 | 2023-10-20 |  |
+| [MIRROR MIRROR](https://open.spotify.com/track/1zQ0BwziXMRrMMfVQjV8j5) | [Sue the Night](https://open.spotify.com/artist/09mG88dA6PdovfkatUxvRh) | [Susanne And The Sad Sunset Disco](https://open.spotify.com/album/10mdFzQe3BCbja2JYjWDug) | 3:51 | 2023-10-20 |  |
 | [Mirror Talk](https://open.spotify.com/track/2AXHeIYQOwZuCnTmXBjpOh) | [Malu](https://open.spotify.com/artist/3CoTT8moVNIv2ccIKX42gd) | [Mirror Talk](https://open.spotify.com/album/2pjxVn6Ox6hr8rgO1ZtENd) | 3:38 | 2023-08-10 | 2023-08-18 |
 | [Mirrors](https://open.spotify.com/track/1pg5PiMPffZsqnWc1ZPaXz) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73) | [Mirrors](https://open.spotify.com/album/4PwWb9YJYbchO4g10yRtCx) | 5:10 | 2023-03-02 | 2023-03-10 |
 | [Miss Me The Same \(with Anson Seabra\)](https://open.spotify.com/track/5pSueoHUFxwBiLebqpcGUU) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Miss Me The Same \(with Anson Seabra\)](https://open.spotify.com/album/6trwAd4aAcGduTeXvuVwN3) | 3:36 | 2023-04-27 | 2023-05-05 |

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Kyrie \(アイナ・ジ・エンド\)
 
-1,838 songs - 4 day 22 hr 50 min
+1,839 songs - 4 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,6 +731,7 @@
 | [Pre\-Romance](https://open.spotify.com/track/4Vyd2DEveTVKeieRy2S4oD) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance / Finale.](https://open.spotify.com/album/6W4jYeU8AYaiJgXpE8dThG) | 3:12 | 2022-11-10 | 2022-11-13 |
 | [Pre\-Romance](https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance](https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2) | 3:12 | 2022-08-23 | 2023-10-20 |
 | [Presence](https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Presence](https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn) | 4:09 | 2022-08-30 | 2023-05-24 |
+| [Prince Shoutoku](https://open.spotify.com/track/4z85bLqYNMp0ixpiARiCgC) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Prince Shoutoku](https://open.spotify.com/album/0pF7LdM6RM99pJZXq9dOIN) | 3:29 | 2023-10-19 |  |
 | [Psycho](https://open.spotify.com/track/3ifDwg8GUpVtBzfk3FBc22) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Psycho](https://open.spotify.com/album/39CCXCE9ccNdvzc00JfYdn) | 2:49 | 2023-08-15 | 2023-09-27 |
 | [PUMP! feat.chelmico](https://open.spotify.com/track/4qpy0cXQehWHQCNNpMvijC) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 3:00 | 2023-05-09 | 2023-05-17 |
 | [Purple gray](https://open.spotify.com/track/6CXRxR8iaXSxIKdHTzRkHP) | [Mao Uchu](https://open.spotify.com/artist/1XZBuRxX5xORatBQJLsakP) | [Purple gray](https://open.spotify.com/album/0VGlPzdL9whcWEqlgxaF0d) | 3:35 | 2023-08-29 | 2023-09-13 |
@@ -1758,7 +1759,7 @@
 | [翼をください](https://open.spotify.com/track/2YY2NC3YWyagyTnt3LzXRg) | [Anne](https://open.spotify.com/artist/6DFoZlEPrlWz7bNXfNZr0i) | [翼をください](https://open.spotify.com/album/6p4QK7a29s3SERURjPwpsl) | 4:08 | 2022-10-13 | 2022-10-19 |
 | [翼をください](https://open.spotify.com/track/5dLnHCcMxfonAwwxvddYmW) | [比嘉歌子](https://open.spotify.com/artist/1VOlbNGFRks8N598A1ukfe) | [翼をください](https://open.spotify.com/album/71hPTOsdbwPtS8pFWLLrbH) | 3:44 | 2022-06-30 | 2022-07-12 |
 | [耳をすます](https://open.spotify.com/track/5y56dgniQ2Ai7FCW3foQGr) | [Yo Hitoto](https://open.spotify.com/artist/5sm4rWbXSE6K8MdyTIZg7q) | [耳をすます](https://open.spotify.com/album/3bE5saoLwKQIdPPNVEs0r9) | 5:34 | 2022-08-17 | 2022-08-24 |
-| [聖徳太子](https://open.spotify.com/track/3VlUafN0sD9ptDNLWQ38Ih) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [聖徳太子](https://open.spotify.com/album/0KUZJCsVYE0G1L9yv9uKa6) | 3:29 | 2023-10-17 |  |
+| [聖徳太子](https://open.spotify.com/track/3VlUafN0sD9ptDNLWQ38Ih) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [聖徳太子](https://open.spotify.com/album/0KUZJCsVYE0G1L9yv9uKa6) | 3:29 | 2023-10-17 | 2023-10-23 |
 | [聖者の行進](https://open.spotify.com/track/6sm09Seh0gwvS3X9meLVC4) | [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [聖者の行進](https://open.spotify.com/album/043lYQYegE0GwwVvILfRkS) | 3:22 | 2023-03-07 | 2023-03-15 |
 | [肌](https://open.spotify.com/track/4feplpsR36DD09WfE5MqLl) | [DADARAY](https://open.spotify.com/artist/5YVpCleE4Ysa6YRa66nzIN) | [肌](https://open.spotify.com/album/3gt2UvnXJQHQugGxaZO6Jx) | 3:43 | 2022-12-01 | 2022-12-07 |
 | [背伸び](https://open.spotify.com/track/6S9hUNHDxAfJavmC16FyT1) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [背伸び](https://open.spotify.com/album/694IZpVis7LuvjPGrPfo2e) | 4:33 | 2022-06-02 | 2022-07-04 |

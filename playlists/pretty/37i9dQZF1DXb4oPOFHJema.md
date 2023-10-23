@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb4oPOFHJema.md) - [plain]
 
 > Relaxing continuous brown noise for a good nights sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,300 likes - 198 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,342 likes - 198 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

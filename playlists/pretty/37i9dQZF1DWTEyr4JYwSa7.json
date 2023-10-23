@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 52183,
+  "num_followers": 52193,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2U4ODE1YjI5M2I1N2E4NTJhNDQ1ZWE3YThlOTJlMDhhNzlkOTUy",
+  "snapshot_id": "MCw2ZTAyMjMyY2ZhNjY4MWFkODBhNGU0OTQxOTcxMzA3ZDZkNWUzOTU2",
   "tracks": [
     {
       "added_at": "2023-10-13 22:20:24",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Sheezus",
-        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
       },
       "artists": [
         {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         }
       ],
-      "duration_ms": 208504,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
+      "duration_ms": 144253,
+      "name": "Winter Wonderland - Remastered 2006",
+      "url": "https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Bing Crosby - Christmas Classics",
-        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+        "name": "Sheezus",
+        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 144253,
-      "name": "Winter Wonderland - Remastered 2006",
-      "url": "https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0"
+      "duration_ms": 208504,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Les nuits de Repentigny",
-        "url": "https://open.spotify.com/album/0XCvQlTZV9Pyp3SyyceAsc"
-      },
-      "artists": [
-        {
-          "name": "Les Cowboys Fringants",
-          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
-        }
-      ],
-      "duration_ms": 255327,
-      "name": "No\u00ebl brun",
-      "url": "https://open.spotify.com/track/3b27vkCsStP9LIAiRWa8bj"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
         "name": "No\u00ebl, C'est L'amour",
         "url": "https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 176106,
       "name": "Le P\u00e8re No\u00ebl C't'un Qu\u00e9b\u00e9cois",
       "url": "https://open.spotify.com/track/7adJp4379R1irkezIA3zjd"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
+        "name": "Les nuits de Repentigny",
+        "url": "https://open.spotify.com/album/0XCvQlTZV9Pyp3SyyceAsc"
+      },
+      "artists": [
+        {
+          "name": "Les Cowboys Fringants",
+          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
+        }
+      ],
+      "duration_ms": 255327,
+      "name": "No\u00ebl brun",
+      "url": "https://open.spotify.com/track/3b27vkCsStP9LIAiRWa8bj"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Reprises Vol.1",
-        "url": "https://open.spotify.com/album/3lSPJWmIKB3lFKxOxTvYA0"
-      },
-      "artists": [
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
-        }
-      ],
-      "duration_ms": 186376,
-      "name": "Le sentier de neige",
-      "url": "https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
         "name": "No\u00ebl chez moi",
         "url": "https://open.spotify.com/album/2Clfi6J5G7Aa1kxKv09ahV"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 162160,
       "name": "Le sentier de neige",
       "url": "https://open.spotify.com/track/2CJJUz69TEqLrAyK2h02wp"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
+        "name": "Reprises Vol.1",
+        "url": "https://open.spotify.com/album/3lSPJWmIKB3lFKxOxTvYA0"
+      },
+      "artists": [
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "duration_ms": 186376,
+      "name": "Le sentier de neige",
+      "url": "https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji"
     },
     {
       "added_at": "2023-10-13 22:20:24",

@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 159755,
       "name": "Airflight",
       "url": "https://open.spotify.com/track/5epiOISgJX7oqrVvEoBhNh"
@@ -1727,7 +1727,7 @@
       "artists": [
         {
           "name": "Pi Teddy",
-          "url": "https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu"
+          "url": "https://open.spotify.com/artist/1EgAw1a0CGugEuAVPpHDdx"
         }
       ],
       "date_added": "2022-12-09",
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 195189,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/0XmnlDKrzvIXoOsp8YwWbY"
@@ -3358,6 +3358,24 @@
       "duration_ms": 118206,
       "name": "Context",
       "url": "https://open.spotify.com/track/53fRXKyA5gszPQS4kyEstO"
+    },
+    {
+      "album": {
+        "name": "cool nights",
+        "url": "https://open.spotify.com/album/3XoC1k7u7oPWjyI7XT7hka"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156583,
+      "name": "cool nights",
+      "url": "https://open.spotify.com/track/5MfKUo0KFcld9CLj08cKKt"
     },
     {
       "album": {
@@ -5952,7 +5970,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 150000,
       "name": "flame fluids",
       "url": "https://open.spotify.com/track/3rlLUdQ1eaCFl0OCjThlKU"
@@ -6788,7 +6806,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 110435,
       "name": "Gardening On Mars",
       "url": "https://open.spotify.com/track/79i8XMKhu0RGMFV9ppZF8n"
@@ -7610,6 +7628,24 @@
       "duration_ms": 113142,
       "name": "Him & Her",
       "url": "https://open.spotify.com/track/6kUwrt8mM8wf0Od8UvoxOa"
+    },
+    {
+      "album": {
+        "name": "Hokkaido Breeze",
+        "url": "https://open.spotify.com/album/2FuriS42295H1EzGOwZV6x"
+      },
+      "artists": [
+        {
+          "name": "Furry Beats",
+          "url": "https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140470,
+      "name": "Hokkaido Breeze",
+      "url": "https://open.spotify.com/track/20aWMDQFYgx0da54JctdZd"
     },
     {
       "album": {
@@ -9227,6 +9263,32 @@
     },
     {
       "album": {
+        "name": "L e v i t a t i o n",
+        "url": "https://open.spotify.com/album/7LhYuyxs5jxhQLQVE8JuQZ"
+      },
+      "artists": [
+        {
+          "name": "Lawiss",
+          "url": "https://open.spotify.com/artist/4mxHJw47AENAdjoIb43Ac6"
+        },
+        {
+          "name": "Alcynoos",
+          "url": "https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY"
+        },
+        {
+          "name": "Future of Lofi",
+          "url": "https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187058,
+      "name": "L e v i t a t i o n",
+      "url": "https://open.spotify.com/track/6NiwXlhsItvM0QDcH4RNLc"
+    },
+    {
+      "album": {
         "name": "l u s h",
         "url": "https://open.spotify.com/album/6suXLgCTe0G8yQRLkY2IlD"
       },
@@ -9614,6 +9676,24 @@
       "duration_ms": 162290,
       "name": "Lemon Market",
       "url": "https://open.spotify.com/track/2CFwwaPy6N1VHxEY48ADfc"
+    },
+    {
+      "album": {
+        "name": "Leon",
+        "url": "https://open.spotify.com/album/6wTN0qhaCAFQdd3UMnvj5s"
+      },
+      "artists": [
+        {
+          "name": "Veiva",
+          "url": "https://open.spotify.com/artist/1p7qeEg0md2NDp79AQTx1k"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135468,
+      "name": "Leon",
+      "url": "https://open.spotify.com/track/4XlPSTOOCYHEgxdzPdlaMN"
     },
     {
       "album": {
@@ -10132,7 +10212,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 124044,
       "name": "Lori",
       "url": "https://open.spotify.com/track/6CJ5YJVLZmFoA8DTvawxuV"
@@ -15350,7 +15430,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 92562,
       "name": "Seeds",
       "url": "https://open.spotify.com/track/3GNKg8aQHtdx24BOTt2XZh"
@@ -17259,6 +17339,24 @@
     },
     {
       "album": {
+        "name": "Sushi Brain",
+        "url": "https://open.spotify.com/album/3zwdMxlU8Ups7n2ZyJwL9B"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Road",
+          "url": "https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134112,
+      "name": "Sushi Brain",
+      "url": "https://open.spotify.com/track/6qsaBLpqxkxCkS2pUYDslr"
+    },
+    {
+      "album": {
         "name": "The Shape of Your Name",
         "url": "https://open.spotify.com/album/1FFADbkquD5LR9RRYTOFMB"
       },
@@ -18758,6 +18856,24 @@
       "duration_ms": 135194,
       "name": "Tune in",
       "url": "https://open.spotify.com/track/4L6KI2P3DKrJU69ff6C1QZ"
+    },
+    {
+      "album": {
+        "name": "Turnarounds",
+        "url": "https://open.spotify.com/album/59pR0anVAX7bEA1nlDnGdA"
+      },
+      "artists": [
+        {
+          "name": "HLY WUD",
+          "url": "https://open.spotify.com/artist/51htK4Ln3sMNbTBcs7Ft8S"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116624,
+      "name": "Turnarounds",
+      "url": "https://open.spotify.com/track/4d2UJiZtKRJMc4DZMqo9m9"
     },
     {
       "album": {

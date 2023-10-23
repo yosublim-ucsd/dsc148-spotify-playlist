@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: Cleo",
-  "num_followers": 365566,
+  "num_followers": 365700,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2UwMjc3YjA2MmJkM2JmNDU5YjhkNzA0NGNhZTkxOTJiOWQzYmYw",
+  "snapshot_id": "MCw3MDg3OGRkZTU4ZDU3ZDg1M2QxMmY2Y2E4ODIyNmY1OTA1ODg2MDQ4",
   "tracks": [
     {
       "added_at": "2023-10-20 18:06:13",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-20 18:06:13",
       "album": {
-        "name": "Coisas Simples",
-        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 157772,
-      "name": "Coisas Simples",
-      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
-    },
-    {
-      "added_at": "2023-10-20 18:06:13",
-      "album": {
         "name": "Desculpa por Eu N\u00e3o Te Amar",
         "url": "https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 186188,
       "name": "Desculpa por Eu N\u00e3o Te Amar",
       "url": "https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG"
+    },
+    {
+      "added_at": "2023-10-20 18:06:13",
+      "album": {
+        "name": "Coisas Simples",
+        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 157772,
+      "name": "Coisas Simples",
+      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
     },
     {
       "added_at": "2023-10-20 18:06:13",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-10-20 18:06:13",
       "album": {
-        "name": "Ondas",
-        "url": "https://open.spotify.com/album/2vF6eAgdrbrlfXwYhNHG9r"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 168220,
-      "name": "Ondas",
-      "url": "https://open.spotify.com/track/5jgRQRPhDC8sBoCNZYq7a5"
-    },
-    {
-      "added_at": "2023-10-20 18:06:13",
-      "album": {
         "name": "TE ODEIO",
         "url": "https://open.spotify.com/album/6gvXPaIkbnjAI0TdKbMp1W"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 142889,
       "name": "TE ODEIO",
       "url": "https://open.spotify.com/track/5W9RiXy0RIO3sQi2dQxF96"
+    },
+    {
+      "added_at": "2023-10-20 18:06:13",
+      "album": {
+        "name": "Ondas",
+        "url": "https://open.spotify.com/album/2vF6eAgdrbrlfXwYhNHG9r"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 168220,
+      "name": "Ondas",
+      "url": "https://open.spotify.com/track/5jgRQRPhDC8sBoCNZYq7a5"
     },
     {
       "added_at": "2023-10-20 18:06:13",
@@ -1203,30 +1203,6 @@
     {
       "added_at": "2023-10-20 18:06:13",
       "album": {
-        "name": "Las Delicias de La Abuela de Lucas",
-        "url": "https://open.spotify.com/album/1fW9AwbqWNwcRLTSlkYw2E"
-      },
-      "artists": [
-        {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
-        },
-        {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "teu sinal",
-      "url": "https://open.spotify.com/track/5dOolVYZWx4APORj56Lbuw"
-    },
-    {
-      "added_at": "2023-10-20 18:06:13",
-      "album": {
         "name": "puro osso",
         "url": "https://open.spotify.com/album/5fr6TVmir3T7hUCQWZWUw0"
       },
@@ -1255,6 +1231,30 @@
       "duration_ms": 164682,
       "name": "Carinha De Sol",
       "url": "https://open.spotify.com/track/7aWj6KIVFvecD207YszjVU"
+    },
+    {
+      "added_at": "2023-10-20 18:06:13",
+      "album": {
+        "name": "Las Delicias de La Abuela de Lucas",
+        "url": "https://open.spotify.com/album/1fW9AwbqWNwcRLTSlkYw2E"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "teu sinal",
+      "url": "https://open.spotify.com/track/5dOolVYZWx4APORj56Lbuw"
     },
     {
       "added_at": "2023-10-20 18:06:13",
@@ -1299,6 +1299,46 @@
       "duration_ms": 158467,
       "name": "Um Dois",
       "url": "https://open.spotify.com/track/5iSYwmatz4QkD60IiZGMQA"
+    },
+    {
+      "added_at": "2023-10-20 18:06:13",
+      "album": {
+        "name": "f:)da-se",
+        "url": "https://open.spotify.com/album/3vMYpDQKiuAxtHzj6R5QSY"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        },
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 163569,
+      "name": "f:)da-se",
+      "url": "https://open.spotify.com/track/2UBAm99YG2MubgLymHqXOl"
+    },
+    {
+      "added_at": "2023-10-20 18:06:13",
+      "album": {
+        "name": "Ato 3: TODAMANH\u00c3",
+        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "Raridade",
+      "url": "https://open.spotify.com/track/3u89ugK8QORSu1A7ZgpvV5"
     },
     {
       "added_at": "2023-10-20 18:06:13",
@@ -1363,6 +1403,22 @@
     {
       "added_at": "2023-10-20 18:06:13",
       "album": {
+        "name": "S\u00f3 Minha",
+        "url": "https://open.spotify.com/album/6Ra6EkKXpxMzlj9LDzAb4H"
+      },
+      "artists": [
+        {
+          "name": "Sofia Gayoso",
+          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
+        }
+      ],
+      "duration_ms": 171536,
+      "name": "S\u00f3 Minha",
+      "url": "https://open.spotify.com/track/5MWedCrdHFDo0LA9CA6Giz"
+    },
+    {
+      "added_at": "2023-10-20 18:06:13",
+      "album": {
         "name": "ele diz que me ama s2",
         "url": "https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P"
       },
@@ -1383,66 +1439,6 @@
       "duration_ms": 241371,
       "name": "ele diz que me ama s2",
       "url": "https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ"
-    },
-    {
-      "added_at": "2023-10-20 18:06:13",
-      "album": {
-        "name": "S\u00f3 Minha",
-        "url": "https://open.spotify.com/album/6Ra6EkKXpxMzlj9LDzAb4H"
-      },
-      "artists": [
-        {
-          "name": "Sofia Gayoso",
-          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
-        }
-      ],
-      "duration_ms": 171536,
-      "name": "S\u00f3 Minha",
-      "url": "https://open.spotify.com/track/5MWedCrdHFDo0LA9CA6Giz"
-    },
-    {
-      "added_at": "2023-10-20 18:06:13",
-      "album": {
-        "name": "Cachoeira",
-        "url": "https://open.spotify.com/album/4mAithietzaFqqKXXniP44"
-      },
-      "artists": [
-        {
-          "name": "BADZILLA",
-          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
-        },
-        {
-          "name": "MC Taya",
-          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
-        },
-        {
-          "name": "Mc Fredd",
-          "url": "https://open.spotify.com/artist/4UHmkWMHvZlj2ryO8gpwM5"
-        }
-      ],
-      "duration_ms": 167366,
-      "name": "Cachoeira",
-      "url": "https://open.spotify.com/track/0LqOJ2Vcm5uupnsHin7gRC"
-    },
-    {
-      "added_at": "2023-10-20 18:06:13",
-      "album": {
-        "name": "f:)da-se",
-        "url": "https://open.spotify.com/album/3vMYpDQKiuAxtHzj6R5QSY"
-      },
-      "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        },
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 163569,
-      "name": "f:)da-se",
-      "url": "https://open.spotify.com/track/2UBAm99YG2MubgLymHqXOl"
     },
     {
       "added_at": "2023-10-20 18:06:13",
@@ -1471,22 +1467,26 @@
     {
       "added_at": "2023-10-20 18:06:13",
       "album": {
-        "name": "Ato 3: TODAMANH\u00c3",
-        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
+        "name": "Cachoeira",
+        "url": "https://open.spotify.com/album/4mAithietzaFqqKXXniP44"
       },
       "artists": [
         {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+          "name": "BADZILLA",
+          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
         },
         {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
+        },
+        {
+          "name": "Mc Fredd",
+          "url": "https://open.spotify.com/artist/4UHmkWMHvZlj2ryO8gpwM5"
         }
       ],
-      "duration_ms": 173653,
-      "name": "Raridade",
-      "url": "https://open.spotify.com/track/3u89ugK8QORSu1A7ZgpvV5"
+      "duration_ms": 167366,
+      "name": "Cachoeira",
+      "url": "https://open.spotify.com/track/0LqOJ2Vcm5uupnsHin7gRC"
     },
     {
       "added_at": "2023-10-20 18:06:13",
@@ -1507,22 +1507,6 @@
       "duration_ms": 146224,
       "name": "Voc\u00ea N\u00e3o Sabe Amar",
       "url": "https://open.spotify.com/track/1oUksabtI48IdGhcBkzjHn"
-    },
-    {
-      "added_at": "2023-10-20 18:06:13",
-      "album": {
-        "name": "CASALZ\u00c3O DA PORRA",
-        "url": "https://open.spotify.com/album/2q6EXTOaMRoozRJAE19e76"
-      },
-      "artists": [
-        {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
-        }
-      ],
-      "duration_ms": 130586,
-      "name": "CASALZ\u00c3O DA PORRA",
-      "url": "https://open.spotify.com/track/0TwYstDiRvaqGEQA7jNhUj"
     },
     {
       "added_at": "2023-10-20 18:06:13",
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2023-10-20 18:06:13",
       "album": {
+        "name": "CASALZ\u00c3O DA PORRA",
+        "url": "https://open.spotify.com/album/2q6EXTOaMRoozRJAE19e76"
+      },
+      "artists": [
+        {
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+        }
+      ],
+      "duration_ms": 130586,
+      "name": "CASALZ\u00c3O DA PORRA",
+      "url": "https://open.spotify.com/track/0TwYstDiRvaqGEQA7jNhUj"
+    },
+    {
+      "added_at": "2023-10-20 18:06:13",
+      "album": {
         "name": "Canc\u00fan",
         "url": "https://open.spotify.com/album/2fHM4ZxQCcFe7pbflBMpgD"
       },
@@ -1575,18 +1575,22 @@
     {
       "added_at": "2023-10-20 18:06:13",
       "album": {
-        "name": "Venturana",
-        "url": "https://open.spotify.com/album/5S5jCik9vydVacGnKfrp1S"
+        "name": "Grand Piano",
+        "url": "https://open.spotify.com/album/2OhFT1MP2QaII57FQjNEH8"
       },
       "artists": [
         {
-          "name": "Camaleoa",
-          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
+          "name": "ALVA",
+          "url": "https://open.spotify.com/artist/5H48mmfpWMyzWSqFd4qy5s"
+        },
+        {
+          "name": "Jenni Mosello",
+          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Venturana",
-      "url": "https://open.spotify.com/track/3ngZu880Lq0euIIfYyh7LZ"
+      "duration_ms": 153904,
+      "name": "Grand Piano",
+      "url": "https://open.spotify.com/track/7EAqV4qeoHo6IO8IVs7THx"
     }
   ],
   "unique_name": "Palco POP",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Alexandra Kay
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,913 likes - 171 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,956 likes - 171 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 62 | [Over the Weekend](https://open.spotify.com/track/14rwllmMI8akokL4gQPLIN) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8), [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Over the Weekend](https://open.spotify.com/album/4LZNKWl3QV2ByeYItaYaec) | 3:30 |
 | 63 | [Hate Me](https://open.spotify.com/track/3ICvHsbfVNSw0lYsPq81ao) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [Hate Me](https://open.spotify.com/album/2cO5M6ZN4NoPNppgOAsFuN) | 2:54 |
 | 64 | [Habit](https://open.spotify.com/track/5xL8e1wBrpqcMxMzeBDlWX) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Habit](https://open.spotify.com/album/0Mmppw4dHragYwpRhbhqhC) | 2:49 |
-| 65 | [When You Don't](https://open.spotify.com/track/3m1W8mCvokv36QHK5cXwtC) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/6Bcu7BwS7c5Lh5KqBsVu60) | 3:33 |
+| 65 | [When You Don't](https://open.spotify.com/track/7ImYS5oswVxcksD3VCG6dz) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [Leave Us In A Memory](https://open.spotify.com/album/0ohrkH1X8tQDz72jvCQ0HO) | 3:33 |
 | 66 | [Best Worst Ex](https://open.spotify.com/track/3fRdUaeiNkAU3tpGhLS4Ma) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Best Worst Ex](https://open.spotify.com/album/21jYnUmAjAhjROZDzMV6lL) | 2:44 |
 | 67 | [Tell 'Em Why](https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Tell 'Em Why](https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER) | 2:46 |
 | 68 | [Makes A Man](https://open.spotify.com/track/1qMASb6fdkPGoyGrCID2f0) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [Makes A Man](https://open.spotify.com/album/0JvHSNkY62km7WrW8nWw9B) | 2:55 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 170 | [You Can Have Him](https://open.spotify.com/track/6dEnXxziCl4UwUL3BZUE9g) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [You Can Have Him](https://open.spotify.com/album/4An9zUetG23BuNpjDVo28D) | 3:17 |
 | 171 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 |
 
-Snapshot ID: `MCwxNzhjYTAzYzJhOTc3OGUzMmY0NTE3ZWUxMWE4ODc0ZTM1OTFkZjBi`
+Snapshot ID: `MCwyYWE0ODc0NTM1YjU4Y2UwODA3NzQ2MGEwZmFmM2ZiYWNmOTlkOWI0`

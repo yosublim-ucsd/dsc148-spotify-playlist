@@ -874,7 +874,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 250971,
       "name": "Choolenge Aasma",
       "url": "https://open.spotify.com/track/3RyfIFxOrHLJV3reR37Xwr"
@@ -4194,13 +4194,21 @@
       },
       "artists": [
         {
-          "name": "Devi Sri Prasad, Shravana Bhargavi, Magizhini Manimaran",
-          "url": "https://open.spotify.com/artist/0vnJveSQRSfL2I9d4qlcaR"
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Sravana Bhargavi",
+          "url": "https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk"
+        },
+        {
+          "name": "Magizhini Manimaran",
+          "url": "https://open.spotify.com/artist/1Q1vEBErkzeovtGx8kZXKD"
         }
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 278188,
       "name": "Super Machi",
       "url": "https://open.spotify.com/track/3WTHnUPLqVZXSw54PFLtiL"

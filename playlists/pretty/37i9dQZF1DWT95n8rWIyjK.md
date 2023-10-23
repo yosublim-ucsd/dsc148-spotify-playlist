@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT95n8rWIyjK.md) - [plain]
 
 > Música Mexicana curated by <a href="https://open.spotify.com/show/408KWeYfiDfXvhqbmPEIsg?si=fb7f4db31ff64f53">Agushto Papa</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,126 likes - 71 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,124 likes - 71 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT95n8rWIyjK.md) - [plain]
 | 36 | [Mi Estilo](https://open.spotify.com/track/5Mh7ttqT7eDrAMSDdYLT2m) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Mi Estilo](https://open.spotify.com/album/09hkkkk36xgJfcg8fssPlq) | 4:45 |
 | 37 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 | 38 | [Abcdario](https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Abcdario](https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD) | 3:40 |
-| 39 | [Cama y Mesa](https://open.spotify.com/track/1KPHUKA7exXzdbCNv9ZsTf) | [Estilo 45](https://open.spotify.com/artist/3iX3bXH69NndDYy5WyFUsA) | [Amar Con Estilo](https://open.spotify.com/album/4KmCP2nlBJRttn28ONRqHD) | 3:53 |
+| 39 | [Cama Y Mesa](https://open.spotify.com/track/5hs6YtYfMC3819HTXlPB0L) | [Estilo 45](https://open.spotify.com/artist/3iX3bXH69NndDYy5WyFUsA) | [Amar Con Estilo](https://open.spotify.com/album/2NtwCSpWVCygB3lE5QYK0O) | 3:53 |
 | 40 | [Vida Recia](https://open.spotify.com/track/6uBbxdKJ6FVO8vooSc5eHK) | [Herencia de la Bahia](https://open.spotify.com/artist/4v85XOrcqjh4pe8paYxBdt) | [Vida Recia](https://open.spotify.com/album/0K6xJsfR3Ktmk8XQeHZeBG) | 2:37 |
 | 41 | [LA 701](https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [LA 701](https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3) | 2:44 |
 | 42 | [La White Gold \- En Vivo](https://open.spotify.com/track/7bzHP0TKLmIJtabwWrfqq6) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [La White Gold \(En Vivo\)](https://open.spotify.com/album/3kfjDQR2OVz7GGvsw1JV82) | 3:30 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT95n8rWIyjK.md) - [plain]
 | 70 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 |
 | 71 | [Que Sigan Llegando Las Pacas](https://open.spotify.com/track/75jkAn2RtEOwaPy3MFxJB4) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Que Sigan Llegando Las Pacas](https://open.spotify.com/album/0R2nIBuNtolLYK0UGUdlU7) | 2:36 |
 
-Snapshot ID: `MCw3ZDNmODlmYmRiOGRlZWE0YWFiNzY0NWQ1ZjNkZjc1Y2RiZjkyMGJm`
+Snapshot ID: `MCxjZTQ3Yzk4YzgwYmY3ZTFlNzIzNzExODM5MTU3YThhYzQxZTU3MjEy`

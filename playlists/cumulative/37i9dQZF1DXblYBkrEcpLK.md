@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: 上坂すみれ\(Sumire Uesaka\)
 
-513 songs - 1 day 10 hr 53 min
+514 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/track/5lpuUXJrebI7zTMCJvkw2c) | [Isobe Karin](https://open.spotify.com/artist/12H5I8U8pbnUVkfjW5yGLE) | [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/album/7dNZvllHiZ4x3z89gM9JoJ) | 4:49 | 2023-09-05 | 2023-09-22 |
 | [Kimi no Tonaride](https://open.spotify.com/track/38LULZ1VrM0u9p13WT7JlZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kimi no Tonaride](https://open.spotify.com/album/23CWIjCLZrE3FfZbCRQ90A) | 4:34 | 2022-06-09 | 2022-07-28 |
 | [Kiss Me](https://open.spotify.com/track/2QcjNoNPdkYy0RqPFoRKrk) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [Kiss Me/Hold Me Now](https://open.spotify.com/album/7oZVM8iL1dVOuVEioAIsGE) | 4:00 | 2022-06-14 | 2022-07-14 |
-| [know me...](https://open.spotify.com/track/2E5ysbHpbYGmJvwyhQubaG) | [八木海莉](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [know me...](https://open.spotify.com/album/36lFXBqcHUeZAW9Cij58xE) | 3:30 | 2023-10-17 |  |
+| [know me...](https://open.spotify.com/track/2E5ysbHpbYGmJvwyhQubaG) | [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [know me...](https://open.spotify.com/album/36lFXBqcHUeZAW9Cij58xE) | 3:30 | 2023-10-17 |  |
 | [Koi! Koi Koi](https://open.spotify.com/track/4HbCJpVZ12gsYf3aNdsOy6) | [Nene Yashiro\(CV:Akari Kito\)](https://open.spotify.com/artist/77VxZhzSfnxHOwV0iEWv64), [mokke\(CV:Yuuri Yoshida, Chitose Morinaga, Mai Kanazawa\)](https://open.spotify.com/artist/7ApP60cc6Ji7e1doiKh4iI) | [Koi! Koi Koi](https://open.spotify.com/album/1iNtcsA0N8ips7q9X1QjbO) | 3:29 | 2023-10-17 |  |
 | [Koino Uta](https://open.spotify.com/track/15St0qWPnH4xKflV39vk28) | [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [Tsukasa Yuzaki](https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A) | [Koino Uta](https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy) | 3:29 | 2022-07-28 | 2023-08-16 |
 | [Koko de Iki wo Shite](https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Palette](https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S) | 3:35 | 2022-09-20 | 2022-11-12 |
@@ -188,7 +188,8 @@
 | [Play the world](https://open.spotify.com/track/6ctN3LYzoYjyc41ptpNxcv) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [スタート!](https://open.spotify.com/album/3f2TjJitmfOmVAGun8f4DM) | 4:30 | 2022-06-09 | 2022-07-27 |
 | [Plunderer](https://open.spotify.com/track/02XTOEBvTvzqMGmz9apUGB) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [Rhythmic Flavor](https://open.spotify.com/album/77kgZ2PjSFNmomA9N9V5pc) | 3:28 | 2022-07-07 | 2022-07-20 |
 | [Pretty Fever](https://open.spotify.com/track/2MkZIwCwTJR6wZH2unpwMV) | [Minako Kotobuki](https://open.spotify.com/artist/1NGAO9BGAOwKrv0dtjXRpP) | [Tick](https://open.spotify.com/album/24iNTW4PeXS3yTTftTj4yZ) | 4:22 | 2022-07-07 | 2022-07-16 |
-| [Princess' Happy Ending](https://open.spotify.com/track/5q1Kl4azsGJXk6N8wLMQdI) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Princess' Happy Ending](https://open.spotify.com/album/3Mug6SQYCxcd0CtlLVqd4O) | 3:28 | 2023-10-17 |  |
+| [Princess' Happy Ending](https://open.spotify.com/track/24vRXvYkICy96v83qLHhMT) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Princess' Happy Ending](https://open.spotify.com/album/35HvSyER3h21DPhsyv545F) | 3:28 | 2023-10-17 |  |
+| [Princess' Happy Ending](https://open.spotify.com/track/5q1Kl4azsGJXk6N8wLMQdI) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Princess' Happy Ending](https://open.spotify.com/album/3Mug6SQYCxcd0CtlLVqd4O) | 3:28 | 2023-10-17 | 2023-10-23 |
 | [RADIANT](https://open.spotify.com/track/4wJq1JyMEo91X06guiVcHd) | [Run Girls, Run!](https://open.spotify.com/artist/7vWFgEpnOyJ5wgvDzNIAlz) | [Get set,Go!](https://open.spotify.com/album/5rkIz5qpVOxf36LrAD7Z8l) | 4:26 | 2022-06-21 | 2022-07-16 |
 | [Rainbow Light](https://open.spotify.com/track/6tcRzcr3q8J06UwXbEBxH2) | [今井麻美](https://open.spotify.com/artist/6Yy5HRdcdZR1r2A2YnEefb) | [Balancing Journey](https://open.spotify.com/album/4SutUtj3aibooPa7eTVPrA) | 4:34 | 2022-06-21 | 2022-07-15 |
 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 | 2023-08-08 |  |

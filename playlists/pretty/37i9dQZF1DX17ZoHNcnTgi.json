@@ -1,12 +1,12 @@
 {
   "description": "Una uni\u00f3n que no sabr\u00e1s olvidar. Escucha la Fusi\u00f3n entre Jos\u00e9 Alfredo y Silvana Estrada. ",
-  "num_followers": 18708,
+  "num_followers": 18733,
   "original_name": "Silvana Estrada + Jos\u00e9 Alfredo Jim\u00e9nez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTM5MDQ2ZjI0MzZjODlhYzNmY2YzNzVhOTE0MGU5ODc3NTBmOTdm",
+  "snapshot_id": "MCxjOWUyMjFkNmIyYzgxZDY4MDRiZmU5YjkwNzEzZjBiMjgyYzMzZmVj",
   "tracks": [
     {
       "added_at": "2023-10-17 06:00:00",
@@ -295,18 +295,22 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Luis Aguilar",
+          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
+        },
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 179133,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/6qxQMPMbwn8l5CuPeTRa7O"
+      "duration_ms": 240906,
+      "name": "El Mala Estrella",
+      "url": "https://open.spotify.com/track/5XjtX9V4qh0WCGnK8MWQBr"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -343,22 +347,18 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
       "artists": [
         {
-          "name": "Luis Aguilar",
-          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
-        },
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 240906,
-      "name": "El Mala Estrella",
-      "url": "https://open.spotify.com/track/5XjtX9V4qh0WCGnK8MWQBr"
+      "duration_ms": 179133,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/6qxQMPMbwn8l5CuPeTRa7O"
     },
     {
       "added_at": "2023-10-17 06:00:00",

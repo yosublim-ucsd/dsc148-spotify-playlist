@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Whee In\(휘인\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,467 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,542 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [What i can't forget is](https://open.spotify.com/track/1LRGV6MpzodcHHw6CTIcLR) | [PEKKI](https://open.spotify.com/artist/6yTrk5y7hFaFJn3PEWuSQq) | [What i can't forget is](https://open.spotify.com/album/7Fcsm6kJuA3N2EVZ4ExNm3) | 2:50 |
 | 50 | [Why](https://open.spotify.com/track/0tbDP39a9Z8XPhAD8WfsBp) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [WHY](https://open.spotify.com/album/5kV8W1zJiIWOvaYIECzY3M) | 4:04 |
 
-Snapshot ID: `MCxkM2VjZDlmMmY0Zjk2OTAyMDE4OTY4MjljZGNjMzY5MGI2YTdlMjNk`
+Snapshot ID: `MCwyMDc5YzYwY2MwMTUwMGZiYjk0NjU4ODlkZTdhYjZkZWI4OGQ1Y2Qx`

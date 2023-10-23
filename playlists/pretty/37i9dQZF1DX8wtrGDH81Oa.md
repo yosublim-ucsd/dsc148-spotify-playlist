@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 
 > Instrumental house for when you need to focus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,905 likes - 116 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,009 likes - 116 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 | 8 | [Sense of space](https://open.spotify.com/track/63Hmij2UQ8aYdrqfIFUE36) | [SCRP](https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1) | [Sense of space](https://open.spotify.com/album/6FSlJy1FFldk7uapUgi99q) | 3:32 |
 | 9 | [Written on paper](https://open.spotify.com/track/4NCTkLOi0BD0ODmpvCVthj) | [Nino The Dino](https://open.spotify.com/artist/6Zf359QwgLxZM7Q2Fjkwhi) | [Time Goes On](https://open.spotify.com/album/0VdC2Ekluyo1tMZCmwCFzp) | 2:38 |
 | 10 | [it is](https://open.spotify.com/track/0GJapcRCiJv2fzpEKLwWcx) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [it is](https://open.spotify.com/album/3t3VphVnoCyUchyVjwaIa4) | 2:15 |
-| 11 | [In Reverse](https://open.spotify.com/track/5qNcvzFbJJdL2rpLdYZvA8) | [Cluster](https://open.spotify.com/artist/6muNOCYNkZNb4QUPTmFjPN) | [In Reverse](https://open.spotify.com/album/41nziVs86CibkQEtEKws6D) | 2:07 |
-| 12 | [Heavy Wish](https://open.spotify.com/track/3yZ9HqGcPmJElydRYDPdNY) | [9Fivey](https://open.spotify.com/artist/5U5RKfPTGsbCTyLTnaUHXU) | [Heavy Wish](https://open.spotify.com/album/1pY9mh46YEBv5hAUYnozJa) | 2:10 |
+| 11 | [Heavy Wish](https://open.spotify.com/track/3yZ9HqGcPmJElydRYDPdNY) | [9Fivey](https://open.spotify.com/artist/5U5RKfPTGsbCTyLTnaUHXU) | [Heavy Wish](https://open.spotify.com/album/1pY9mh46YEBv5hAUYnozJa) | 2:10 |
+| 12 | [In Reverse](https://open.spotify.com/track/5qNcvzFbJJdL2rpLdYZvA8) | [Cluster](https://open.spotify.com/artist/6muNOCYNkZNb4QUPTmFjPN) | [In Reverse](https://open.spotify.com/album/41nziVs86CibkQEtEKws6D) | 2:07 |
 | 13 | [Amalfi](https://open.spotify.com/track/2BfwEdLt4TWg97w6GBbyRs) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Amalfi](https://open.spotify.com/album/6FmCT0T8CChRDUXJMyhcjI) | 2:28 |
 | 14 | [Less Is More](https://open.spotify.com/track/4D4D6Jxim8f68o5Z9BhkXi) | [Comfykids](https://open.spotify.com/artist/755IegiHaN6XOu548LkDf2) | [Less Is More](https://open.spotify.com/album/4JBuQYUfBGp0PeTMDEJKy6) | 3:04 |
 | 15 | [Tea Time](https://open.spotify.com/track/0RwQfHjZztHwmuSVeXs3H2) | [GRNY](https://open.spotify.com/artist/0QAkOxdHSnNUsk1WlTXKOu) | [Tea Time](https://open.spotify.com/album/0XOeePwCgFrwZ2SwrIC08h) | 2:40 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 | 115 | [Aurora](https://open.spotify.com/track/6wHt80ii2pZjjffzLfM1mg) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [Aurora](https://open.spotify.com/album/6K3FYQWAQcANDZjQgcxaCM) | 4:34 |
 | 116 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 |
 
-Snapshot ID: `MCxlZTQ5ZTFmMzE2ZTlkYzc3ODRjN2RiZGU1ODNhNDRhODYyMzdiZGU0`
+Snapshot ID: `MCxhNTZmZmZhOTVhOGFiZDFlODUyMjViYjQzMDI1YWM3NmY3MTAwNGJh`

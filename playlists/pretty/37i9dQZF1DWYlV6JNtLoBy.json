@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 3253,
+  "num_followers": 3277,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWRkNGQ5NDUxNTQwZGZjNTQxZDhlNDVjY2YxZTcxZTQzZDIwNjcx",
+  "snapshot_id": "MCw4MjY5YTIwM2U0ZjlhNTM4YmNjZDM1MzY1Zjc2NTIwMmMzNmZhZjE2",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Oke Mmiri",
-        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
+        "name": "Faith is Rising",
+        "url": "https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
         }
       ],
-      "duration_ms": 504000,
-      "name": "Oke Mmiri - Live",
-      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
+      "duration_ms": 279066,
+      "name": "You are Yahweh",
+      "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Faith is Rising",
-        "url": "https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs"
+        "name": "Oke Mmiri",
+        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
       },
       "artists": [
         {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 279066,
-      "name": "You are Yahweh",
-      "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"
+      "duration_ms": 504000,
+      "name": "Oke Mmiri - Live",
+      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Nimekutana Na Yesu",
+        "url": "https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2"
+      },
+      "artists": [
+        {
+          "name": "Angela Chibalonza",
+          "url": "https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR"
+        }
+      ],
+      "duration_ms": 295920,
+      "name": "Ebenezer",
+      "url": "https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "WINNING",
         "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
       },
@@ -571,18 +587,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Nimekutana Na Yesu",
-        "url": "https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2"
+        "name": "Umusirikare",
+        "url": "https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh"
       },
       "artists": [
         {
-          "name": "Angela Chibalonza",
-          "url": "https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR"
+          "name": "Israel Mbonyi",
+          "url": "https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH"
         }
       ],
-      "duration_ms": 295920,
-      "name": "Ebenezer",
-      "url": "https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh"
+      "duration_ms": 670000,
+      "name": "Nina Siri",
+      "url": "https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -599,22 +615,6 @@
       "duration_ms": 349492,
       "name": "Mkono Wa Bwana",
       "url": "https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Umusirikare",
-        "url": "https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh"
-      },
-      "artists": [
-        {
-          "name": "Israel Mbonyi",
-          "url": "https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH"
-        }
-      ],
-      "duration_ms": 670000,
-      "name": "Nina Siri",
-      "url": "https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Uko Single?",
-        "url": "https://open.spotify.com/album/5ub2GKGHFCglwgxkpiq3v0"
-      },
-      "artists": [
-        {
-          "name": "Zabron Singers",
-          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
-        }
-      ],
-      "duration_ms": 224189,
-      "name": "Uko Single?",
-      "url": "https://open.spotify.com/track/1LYgA4jCtKJQ3sx8WjMIcz"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Good",
         "url": "https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 216111,
       "name": "Good",
       "url": "https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Uko Single?",
+        "url": "https://open.spotify.com/album/5ub2GKGHFCglwgxkpiq3v0"
+      },
+      "artists": [
+        {
+          "name": "Zabron Singers",
+          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
+        }
+      ],
+      "duration_ms": 224189,
+      "name": "Uko Single?",
+      "url": "https://open.spotify.com/track/1LYgA4jCtKJQ3sx8WjMIcz"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Sweetie Sweetie",
+        "url": "https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg"
+      },
+      "artists": [
+        {
+          "name": "Zabron Singers",
+          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
+        }
+      ],
+      "duration_ms": 316473,
+      "name": "Sweetie Sweetie",
+      "url": "https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Yatupasa Kushukuru",
         "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 283469,
       "name": "Yatupasa Kushukuru",
       "url": "https://open.spotify.com/track/1Rjd4KCqOmUnrHtuorPgxD"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Mungu Ni Mungu Tu",
-        "url": "https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl"
-      },
-      "artists": [
-        {
-          "name": "Christopher Mwahangila",
-          "url": "https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt"
-        }
-      ],
-      "duration_ms": 507425,
-      "name": "Mungu Ni Mungu Tu",
-      "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Sweetie Sweetie",
-        "url": "https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg"
+        "name": "Mungu Ni Mungu Tu",
+        "url": "https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl"
       },
       "artists": [
         {
-          "name": "Zabron Singers",
-          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
+          "name": "Christopher Mwahangila",
+          "url": "https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt"
         }
       ],
-      "duration_ms": 316473,
-      "name": "Sweetie Sweetie",
-      "url": "https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP"
+      "duration_ms": 507425,
+      "name": "Mungu Ni Mungu Tu",
+      "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
     },
     {
       "added_at": "2023-10-20 00:01:00",

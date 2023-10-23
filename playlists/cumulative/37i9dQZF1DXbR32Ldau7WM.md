@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now! Cover: 04 Limited Sazabys
 
-845 songs - 2 day 8 hr 21 min
+846 songs - 2 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [KANASHIBARI](https://open.spotify.com/track/34e9BXXUPrLzUYGgw2kyIO) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [KANASHIBARI](https://open.spotify.com/album/6QgXfxc8yzYGEKCXzPVfhH) | 4:57 | 2023-04-18 | 2023-06-28 |
 | [KARMA](https://open.spotify.com/track/4DIVVUgITYlu9P2tzzUUcN) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [KARMA](https://open.spotify.com/album/01LOAVkFBEV0p1GuH5mc8L) | 4:05 | 2022-05-12 | 2022-07-22 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-18 |  |
-| [Kizukeyo Baby](https://open.spotify.com/track/3EEaEEltAaQAp0EhIwJEaK) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:13 | 2023-08-01 |  |
+| [Kizukeyo Baby](https://open.spotify.com/track/3EEaEEltAaQAp0EhIwJEaK) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:13 | 2023-08-01 | 2023-10-23 |
 | [Kowareso](https://open.spotify.com/track/3Z3RDXIcMsCQ3GJB32Q5qg) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [DOKI DOKI](https://open.spotify.com/album/0ahFITufRRpuHUXx2REpDq) | 3:55 | 2022-11-01 | 2022-11-16 |
 | [Kujira no Stage](https://open.spotify.com/track/4QYow0TygMiFEJYyQbewak) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Kujira no Stage](https://open.spotify.com/album/6i1bkPuMVk0eSbBpmQK3NL) | 5:24 | 2023-02-07 | 2023-02-15 |
 | [Kyo no Tsuzuki o](https://open.spotify.com/track/3GUxnsyhw0sBlHB5w0Y01o) | [SCOOBIE DO](https://open.spotify.com/artist/5W6Mi5J8L2fUefI1Krcacu) | [Tough Layer](https://open.spotify.com/album/7g8uOemIk4xT5HqaKEtPX5) | 3:32 | 2022-08-23 | 2022-09-07 |
@@ -310,7 +310,7 @@
 | [No more cry](https://open.spotify.com/track/0pxhbWaseLjZbcFCKpMrn3) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [No more cry](https://open.spotify.com/album/6zpFA9iNwQHkV4xSXzIQEK) | 4:38 | 2023-10-10 |  |
 | [No more ステートメント](https://open.spotify.com/track/4OeYtOIASIY9bBF0v8MDqK) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [No more ステートメント](https://open.spotify.com/album/41HbWao46UHDzaD9GMOZHD) | 2:57 | 2022-06-02 | 2022-06-05 |
 | [Nowhere](https://open.spotify.com/track/3dqh1uFzMF44p7yjSkxXIm) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [THE SPELLBOUND](https://open.spotify.com/album/3MZXw1nHoIRIyWK0H091xa) | 4:31 | 2022-05-10 | 2022-07-25 |
-| [O.T.S.S.](https://open.spotify.com/track/1xp4xPXKoWHkB6yWxfJaNT) | [SBK](https://open.spotify.com/artist/2zHoXYzIEiq5t25A4dqMDD), [ラッパ我リヤ](https://open.spotify.com/artist/0rNAEraQzDXHYQdurLutVe) | [O.T.S.S.](https://open.spotify.com/album/1prN09WZiCP2TOZuNLBgxQ) | 3:25 | 2023-10-17 |  |
+| [O.T.S.S.](https://open.spotify.com/track/1xp4xPXKoWHkB6yWxfJaNT) | [SBK](https://open.spotify.com/artist/2zHoXYzIEiq5t25A4dqMDD), [Rappagariya](https://open.spotify.com/artist/2AIgd1f6tXGh7TALqY7uQm) | [O.T.S.S.](https://open.spotify.com/album/1prN09WZiCP2TOZuNLBgxQ) | 3:25 | 2023-10-17 |  |
 | [O2](https://open.spotify.com/track/3OMBXsuVWujn3bPQXZgHvh) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [デイドリーム ビリーヴァー \(Complete Edition\)](https://open.spotify.com/album/0lyTVQuqKMhQDoedVeaxEW) | 3:59 | 2022-11-15 | 2022-12-31 |
 | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/track/3CNiAI3yOlCmjjTpv6xH5J) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/album/6rZjtBvAUd2AS6Hzks3vYc) | 4:03 | 2022-08-04 | 2022-10-02 |
 | [OH!](https://open.spotify.com/track/0inYnQKUEtJf3b9FIScJzk) | [Tsuyoshi Nagabuchi](https://open.spotify.com/artist/5hHNaYRpbcz1qo09jeVcg8) | [OH!](https://open.spotify.com/album/2raRMs0fp9kJiWI8Uz3qrI) | 5:58 | 2023-06-15 | 2023-06-21 |
@@ -355,6 +355,7 @@
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-09-19 | 2023-09-30 |
 | [Relay\~Mori no Uta](https://open.spotify.com/track/2flCpqsq9WAwFTjrtWtYBc) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Relay\~Mori no Uta](https://open.spotify.com/album/7ByYblgTDE2xEhL8pi5DK8) | 3:59 | 2023-09-19 | 2023-10-04 |
 | [REMEMBER](https://open.spotify.com/track/3zQfJvpdIOPxGLu3NR9zy4) | [Masato\(coldrain\)](https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8), [coladrain](https://open.spotify.com/artist/4qLXYL3mOJD057YL4puyU4), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ『呪術廻戦』オリジナル・サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 4:03 | 2022-05-10 | 2022-06-01 |
+| [Re方程式](https://open.spotify.com/track/5gMvuRZRAtYxsYBs5lRDMH) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [Re方程式](https://open.spotify.com/album/26zVnYZBcPIBYDXv2Id7w7) | 4:12 | 2023-10-19 |  |
 | [RIDE TOUGH!](https://open.spotify.com/track/4qxKHtMonriSKpEgwRUG1V) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/15ilf9j2ihJbr2JXW3lMkW) | 2:06 | 2023-04-04 | 2023-04-06 |
 | [RIDE TOUGH!](https://open.spotify.com/track/6LCz9LsnSyO9AFbquwLxO3) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/6es5vAYj4JJpyMucQiBNNn) | 2:06 | 2023-04-04 | 2023-04-26 |
 | [Ring Em Up](https://open.spotify.com/track/7hCeKuxSSVEQ8qvisUXcnR) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Ring Em Up](https://open.spotify.com/album/1BTy9dpLQhW3ITJM7yMv5O) | 3:03 | 2022-11-19 | 2022-11-23 |
@@ -630,7 +631,7 @@
 | [ダニ](https://open.spotify.com/track/1ZcYKVMKwn6Nc3V0e3PR5V) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [COMPACT DISC](https://open.spotify.com/album/6eSqLM101PkLtOunSsmjYe) | 4:29 | 2023-02-07 | 2023-02-09 |
 | [チョイス](https://open.spotify.com/track/0k9m6iduQbeTeqxxFHZ62z) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx) | 2:55 | 2023-07-11 | 2023-07-19 |
 | [チョイス](https://open.spotify.com/track/7eSRFqmnYepZtjJ4IdrlNT) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 2:55 | 2023-07-11 | 2023-07-13 |
-| [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 | 2022-12-31 | 2023-10-11 |
+| [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 | 2022-12-31 |  |
 | [ツイス島&シャウ島](https://open.spotify.com/track/2zj6zuZJG0t0nYmDIthbEm) | [UNICORN](https://open.spotify.com/artist/0z4FY376uhecutd5Adph8s) | [ツイス島&シャウ島](https://open.spotify.com/album/1kRmUc2mjUeROgPvI6Kvza) | 4:07 | 2022-05-17 | 2022-06-04 |
 | [ツーベーコーベー](https://open.spotify.com/track/6rFUgYqJVGtlUDsj55NZWF) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [ツーベーコーベー](https://open.spotify.com/album/1IwC7sKrMJium5uOs2iQRq) | 3:31 | 2022-10-18 | 2022-10-20 |
 | [デイトリッパー](https://open.spotify.com/track/08KAPLzpglA5mMdYLD2oPN) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [デイトリッパー](https://open.spotify.com/album/0PvJW9b9BTrAan7HSEO2F4) | 3:59 | 2022-07-26 | 2022-08-03 |
@@ -732,7 +733,7 @@
 | [少年セゾン](https://open.spotify.com/track/6mhif68sfKzj8Tp4nEKEWY) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [少年セゾン](https://open.spotify.com/album/08uVRPJ95oNwUI2TyHUim2) | 3:43 | 2023-07-06 | 2023-07-19 |
 | [少年少女](https://open.spotify.com/track/1AwfJENb63nQKuIWiuh0cy) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [少年少女](https://open.spotify.com/album/5ugjgbvqSNYigkw9gemwmC) | 3:28 | 2022-05-12 | 2022-06-05 |
 | [希望を鳴らせ](https://open.spotify.com/track/4DRHvWmMLFZkkbd0rwqDkG) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [希望を鳴らせ](https://open.spotify.com/album/2XlmRic9iwoVLR5YwI2Gzh) | 4:12 | 2022-05-10 | 2022-07-28 |
-| [平成ペイン](https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FOOLs](https://open.spotify.com/album/7sUJFlz84jJ2vbLFDePctW) | 3:56 | 2023-09-12 |  |
+| [平成ペイン](https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FOOLs](https://open.spotify.com/album/7sUJFlz84jJ2vbLFDePctW) | 3:56 | 2023-09-12 | 2023-10-23 |
 | [底無しビューティー](https://open.spotify.com/track/48pKZsACcRAZVCHh8CdfT6) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [PINEAPPLE](https://open.spotify.com/album/7jVmOwYX0wF4249BewyKKl) | 4:10 | 2023-04-11 | 2023-04-13 |
 | [心とは\~kolu\_kokolu\~](https://open.spotify.com/track/57nRoeGXWOdS3kVW80pROC) | [LEGO BIG MORL](https://open.spotify.com/artist/6AbHzcOyvyvubx7AcyQ1f9) | [心とは\~kolu\_kokolu\~](https://open.spotify.com/album/2dHeF7Wjy2vnQLpQl2VLnW) | 4:21 | 2022-05-22 | 2022-07-28 |
 | [心の防弾チョッキ](https://open.spotify.com/track/4184Nq5Rj9cuJD6fCXIkNb) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [Sugarless III](https://open.spotify.com/album/2tfaYhmvswkrIhVzdn88IM) | 4:01 | 2022-05-10 | 2022-07-29 |

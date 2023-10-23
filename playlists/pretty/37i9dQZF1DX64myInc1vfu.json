@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Noreh",
-  "num_followers": 75454,
+  "num_followers": 75473,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTJjY2ZiM2EwNjVkM2MzYjM5MzNjNWNlMjEyNzdmZDk4NjA4NzM2",
+  "snapshot_id": "MCwxNzc3OWU2ZjFhNWNkODU3YjI2ZjVlZjNlMjFjN2UzNTFjYzljYTI1",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -423,18 +423,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Enemigo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB"
+        "name": "Como habla una mujer (feat. C. Tangana)",
+        "url": "https://open.spotify.com/album/09sHAU8dDbAuIy3RfCM3wZ"
       },
       "artists": [
         {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
         }
       ],
-      "duration_ms": 242840,
-      "name": "Enemigo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp"
+      "duration_ms": 206889,
+      "name": "Como habla una mujer (feat. C. Tangana)",
+      "url": "https://open.spotify.com/track/1pJeLDLduCZS4hLuc1JByJ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -455,22 +459,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Como habla una mujer (feat. C. Tangana)",
-        "url": "https://open.spotify.com/album/09sHAU8dDbAuIy3RfCM3wZ"
+        "name": "Enemigo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB"
       },
       "artists": [
         {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         }
       ],
-      "duration_ms": 206889,
-      "name": "Como habla una mujer (feat. C. Tangana)",
-      "url": "https://open.spotify.com/track/1pJeLDLduCZS4hLuc1JByJ"
+      "duration_ms": 242840,
+      "name": "Enemigo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "D\u00e9jame Conocerte",
-        "url": "https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP"
-      },
-      "artists": [
-        {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
-        }
-      ],
-      "duration_ms": 279824,
-      "name": "D\u00e9jame Conocerte",
-      "url": "https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Estas Canciones Me Recuerdan a Ti",
         "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 240495,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "D\u00e9jame Conocerte",
+        "url": "https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        }
+      ],
+      "duration_ms": 279824,
+      "name": "D\u00e9jame Conocerte",
+      "url": "https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR"
     },
     {
       "added_at": "2023-10-20 04:00:00",

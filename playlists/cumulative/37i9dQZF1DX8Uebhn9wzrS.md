@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,634 songs - 2 day 14 hr 2 min
+1,635 songs - 2 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1041,6 +1041,7 @@
 | [On The Ropes](https://open.spotify.com/track/4sO0G4xNHYN2Z7u710SrdN) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [On The Ropes](https://open.spotify.com/album/3rKkbhXfzpRHPfRLZfxUfN) | 1:24 | 2023-09-22 |  |
 | [Once in a Long Time](https://open.spotify.com/track/1gDsteQdz9bPNta2myhsK8) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Once in a Long Time](https://open.spotify.com/album/7dTvnxJyJLuGH8ipnEpn1V) | 3:22 | 2023-07-13 | 2023-08-18 |
 | [Once Upon A Time](https://open.spotify.com/track/5xnRYlgjP2eUNkGqusGytQ) | [Too Lamb](https://open.spotify.com/artist/49B2agZFE9BySVXPshGCqC) | [Once Upon A Time](https://open.spotify.com/album/3lmq7930x9ksc0Foz7Egzx) | 2:30 | 2022-04-15 | 2022-05-27 |
+| [One more for the road](https://open.spotify.com/track/3Sp8yHw4Ss2gLNlvv5FJGz) | [Attic Dizzt](https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI) | [One more for the road](https://open.spotify.com/album/55wpECO2frgXtb6JsDtrCO) | 2:29 | 2023-10-20 |  |
 | [One Nap At a Time](https://open.spotify.com/track/1HPkUkxIEVAyc4AcEUIqIA) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [One Nap At a Time](https://open.spotify.com/album/0Kz8fdcYlkHRYYJVoIQaYT) | 2:20 | 2022-05-13 | 2023-04-04 |
 | [One Note Steez](https://open.spotify.com/track/2I2IId1IhTbZPviHmNFCde) | [Herr Kaschke](https://open.spotify.com/artist/2dGqSVZSyxJpLWtWRkm7Ba) | [One Note Steez](https://open.spotify.com/album/5iN4X1NrR61zXIs340Dopn) | 2:24 | 2022-10-14 | 2023-01-13 |
 | [One Or Two](https://open.spotify.com/track/42Y2XqAMP2qXpNtAdi9qCU) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [One Or Two](https://open.spotify.com/album/4dbvFkMYZU4l2KdfSo8ZI0) | 2:08 | 2023-02-06 | 2023-09-29 |
@@ -1310,7 +1311,7 @@
 | [Soft Light](https://open.spotify.com/track/2Wsb2fbA8no8F1Xe6BJiTT) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Soft Light](https://open.spotify.com/album/5FtyeuqHAhq5wLfKZ8TFD5) | 2:38 | 2023-04-20 |  |
 | [Soft Slap](https://open.spotify.com/track/3umoNiC2gyJ4oaGj7t74Zk) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Soft Slap](https://open.spotify.com/album/4KZNYiyOffr0ugdRRcgFMK) | 4:03 | 2022-04-15 | 2022-05-27 |
 | [Softly Spoken](https://open.spotify.com/track/2MUyfYFjFfoHmQ1LnsNOU0) | [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77), [floridomi](https://open.spotify.com/artist/4I3pwCrFsOXd1laaCNzziZ), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Softly Spoken](https://open.spotify.com/album/0SBcRk7L26ySFBEMYWujkB) | 2:12 | 2022-12-02 | 2023-09-16 |
-| [Softly Whispering](https://open.spotify.com/track/6CVpyt67DY1JwuR8prqPmP) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Softly Whispering](https://open.spotify.com/album/100YLSEn3RzaqIyNKQzEk3) | 3:07 | 2023-10-20 |  |
+| [Softly Whispering](https://open.spotify.com/track/6CVpyt67DY1JwuR8prqPmP) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Softly Whispering](https://open.spotify.com/album/100YLSEn3RzaqIyNKQzEk3) | 3:07 | 2023-10-20 | 2023-10-23 |
 | [Solar](https://open.spotify.com/track/0HlH9RWqLzlop5jeuNVlxV) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Solar](https://open.spotify.com/album/3Ffecx6cyJhztdHVkBs4nr) | 2:35 | 2023-01-20 | 2023-09-22 |
 | [solar power](https://open.spotify.com/track/5yD3bPDztGiHCicBLyeI8w) | [titicon](https://open.spotify.com/artist/5v5Qkgl02bizOecA6OY7p3) | [supernova beats \#1](https://open.spotify.com/album/0C7D11HuXwMTRj03jIdwhn) | 1:25 | 2022-04-15 | 2022-07-15 |
 | [Solutions](https://open.spotify.com/track/09o5eBgKfrfXh6JZBd5S6I) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t) | [Cold Nights](https://open.spotify.com/album/0rwTZ7187ULO6YpLEDGSsf) | 1:46 | 2023-04-20 |  |

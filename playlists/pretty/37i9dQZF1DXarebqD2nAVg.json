@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 441109,
+  "num_followers": 441197,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "falling down",
+        "url": "https://open.spotify.com/album/1ophVAxCyBO9AQ5Mvh2ALP"
+      },
+      "artists": [
+        {
+          "name": "LoofiMixKichi",
+          "url": "https://open.spotify.com/artist/0L7TeDYhHDrrrZp2Mbzq6V"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "falling down",
+      "url": "https://open.spotify.com/track/6gN6kwb5xLVfup7d2A33aS"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Lonely EP",
         "url": "https://open.spotify.com/album/1dXhepwQGzqvbFBylgMbZF"
       },
@@ -587,26 +603,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Apart",
-        "url": "https://open.spotify.com/album/5e0VJVWtQZQt7v0zgAi2If"
-      },
-      "artists": [
-        {
-          "name": "Equity Slate",
-          "url": "https://open.spotify.com/artist/5DGq8gX5QOoVCJEyf4Pe1Q"
-        },
-        {
-          "name": "soojeong",
-          "url": "https://open.spotify.com/artist/4rEitMoJNhlt1utt58uuAO"
-        }
-      ],
-      "duration_ms": 72583,
-      "name": "making her smile",
-      "url": "https://open.spotify.com/track/6jE4qBqHoR90GPI4D5W882"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "When You Forgive",
         "url": "https://open.spotify.com/album/5xG0QYLqbR4dTJknfhYtlu"
       },
@@ -623,18 +619,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "falling down",
-        "url": "https://open.spotify.com/album/1ophVAxCyBO9AQ5Mvh2ALP"
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/5e0VJVWtQZQt7v0zgAi2If"
       },
       "artists": [
         {
-          "name": "LoofiMixKichi",
-          "url": "https://open.spotify.com/artist/0L7TeDYhHDrrrZp2Mbzq6V"
+          "name": "Equity Slate",
+          "url": "https://open.spotify.com/artist/5DGq8gX5QOoVCJEyf4Pe1Q"
+        },
+        {
+          "name": "soojeong",
+          "url": "https://open.spotify.com/artist/4rEitMoJNhlt1utt58uuAO"
         }
       ],
-      "duration_ms": 96000,
-      "name": "falling down",
-      "url": "https://open.spotify.com/track/6gN6kwb5xLVfup7d2A33aS"
+      "duration_ms": 72583,
+      "name": "making her smile",
+      "url": "https://open.spotify.com/track/6jE4qBqHoR90GPI4D5W882"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -659,26 +659,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Seymour (with Dawn Golden)",
-        "url": "https://open.spotify.com/album/7BccR0AIrdXUozgZTAX6gE"
-      },
-      "artists": [
-        {
-          "name": "Drevm",
-          "url": "https://open.spotify.com/artist/4pHeEHS66wGubk4WCJ5BZG"
-        },
-        {
-          "name": "Dawn Golden",
-          "url": "https://open.spotify.com/artist/6MzxeKydmXufvX7HYPknFW"
-        }
-      ],
-      "duration_ms": 113345,
-      "name": "Seymour (with Dawn Golden)",
-      "url": "https://open.spotify.com/track/3tpr337B8DsgKo7JR2eYAS"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Corals",
         "url": "https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4"
       },
@@ -695,18 +675,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "in.the.forest.we.are.wizards",
-        "url": "https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS"
+        "name": "Seymour (with Dawn Golden)",
+        "url": "https://open.spotify.com/album/7BccR0AIrdXUozgZTAX6gE"
       },
       "artists": [
         {
-          "name": "Kupla",
-          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
+          "name": "Drevm",
+          "url": "https://open.spotify.com/artist/4pHeEHS66wGubk4WCJ5BZG"
+        },
+        {
+          "name": "Dawn Golden",
+          "url": "https://open.spotify.com/artist/6MzxeKydmXufvX7HYPknFW"
         }
       ],
-      "duration_ms": 154074,
-      "name": "emerald",
-      "url": "https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej"
+      "duration_ms": 113345,
+      "name": "Seymour (with Dawn Golden)",
+      "url": "https://open.spotify.com/track/3tpr337B8DsgKo7JR2eYAS"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -739,6 +723,22 @@
       "duration_ms": 171627,
       "name": "Louie's Lullaby",
       "url": "https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "in.the.forest.we.are.wizards",
+        "url": "https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS"
+      },
+      "artists": [
+        {
+          "name": "Kupla",
+          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
+        }
+      ],
+      "duration_ms": 154074,
+      "name": "emerald",
+      "url": "https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6myBiEX4iPLOWQpGOVqXZm"
-      },
-      "artists": [
-        {
-          "name": "Floreyyyy",
-          "url": "https://open.spotify.com/artist/2fMMmMEc0ZPVLNggWnomXv"
-        }
-      ],
-      "duration_ms": 148578,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/0ggWXuDQjK8EoQAFWQkJHX"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "No I'm Not",
         "url": "https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 117196,
       "name": "No I'm Not",
       "url": "https://open.spotify.com/track/2QE6nuYctAHddZOupghtms"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6myBiEX4iPLOWQpGOVqXZm"
+      },
+      "artists": [
+        {
+          "name": "Floreyyyy",
+          "url": "https://open.spotify.com/artist/2fMMmMEc0ZPVLNggWnomXv"
+        }
+      ],
+      "duration_ms": 148578,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/0ggWXuDQjK8EoQAFWQkJHX"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "Keep On Going",
+        "url": "https://open.spotify.com/album/66bMNbYRV8vuMEbELg1UpD"
+      },
+      "artists": [
+        {
+          "name": "SPEECHLESS",
+          "url": "https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0"
+        }
+      ],
+      "duration_ms": 160403,
+      "name": "Keep On Going",
+      "url": "https://open.spotify.com/track/1t2o9QX8hlJGEQ4DA1oLNw"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "leaving us",
         "url": "https://open.spotify.com/album/6byIGSY3mMn5JxSfUE1qcC"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 169941,
       "name": "can't tell",
       "url": "https://open.spotify.com/track/2vf6pbQcLYnbZfNkmZ57La"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "nobody else",
-        "url": "https://open.spotify.com/album/3aHZpDjLZLWpGD9qJyFPAW"
-      },
-      "artists": [
-        {
-          "name": "Idealism",
-          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "cold door handles",
-      "url": "https://open.spotify.com/track/6JMR13j2R0YAVReTSMzryz"
     },
     {
       "added_at": "2023-02-16 22:50:07",

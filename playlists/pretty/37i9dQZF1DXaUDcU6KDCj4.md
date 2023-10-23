@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Mustafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,338 likes - 150 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,372 likes - 150 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 17 | [Sister Moon](https://open.spotify.com/track/2H3YinZBSSC1r6Wvc4uBPL) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Sister Moon](https://open.spotify.com/album/6nYPFmSCk7JqAMbrAypnv8) | 2:54 |
 | 18 | [hallow's eve](https://open.spotify.com/track/257WCspICXPffkvdEvVaIP) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F), [Timothy Edward Carpenter](https://open.spotify.com/artist/5Ey3CuclF1I1yTc1i0YDgc) | [hallow's eve](https://open.spotify.com/album/6LdgrA1mQmS4BfHVlqAPOU) | 2:13 |
 | 19 | [Take Me To Church \- Spotify Singles](https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1) | [Spotify Singles](https://open.spotify.com/album/2rIrWq7n4FrnDwEyIUlBpJ) | 4:30 |
-| 20 | [The Crowd Goes Wlld](https://open.spotify.com/track/2tLy1jxBdf5LF1IDznBCh9) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [The Crowd Goes Wild](https://open.spotify.com/album/4oNknSciThTh14sb2qZXR3) | 3:34 |
+| 20 | [The Crowd Goes Wlld](https://open.spotify.com/track/6kAl28NPp8AFgGZM8ycyx4) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Coyote](https://open.spotify.com/album/5Hri5F7ckbeJ6cvRd88efH) | 3:34 |
 | 21 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 |
 | 22 | [Do You](https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd) | 4:08 |
 | 23 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 81 | [Nothing's Working](https://open.spotify.com/track/43TxkY20TAOijR8XnNZJ6y) | [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Queen of Time](https://open.spotify.com/album/03BbJ28iqI6PukTonhdbCb) | 3:32 |
 | 82 | [Giordano’s Dream, Pt\. I](https://open.spotify.com/track/5h0xusp4iYdXb9LROnJhR1) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5), [MAVICA](https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW) | [Tarifa](https://open.spotify.com/album/0ZiiZQCm1aez7Kt77j78QG) | 3:43 |
 | 83 | [North Country Girl](https://open.spotify.com/track/7FE3mLKIjNzKNYYoUtqhnc) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [North Country Girl](https://open.spotify.com/album/6gheTdNKqPtJfTofdcVPv4) | 4:35 |
-| 84 | [Coyote](https://open.spotify.com/track/7xd1eA7kWHr2q9kAdehaFl) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Coyote](https://open.spotify.com/album/5lRpPVZe7QtgX2m23fnA3y) | 4:05 |
+| 84 | [Coyote](https://open.spotify.com/track/5x3mWd9IcT543gzIK3coBo) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Coyote](https://open.spotify.com/album/5Hri5F7ckbeJ6cvRd88efH) | 4:05 |
 | 85 | [This Beautiful Life](https://open.spotify.com/track/2ezz2WUsgs3ZwYn6VTPrYx) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [This Beautiful Life](https://open.spotify.com/album/4oP1IooqkgeGhJUusjnNm7) | 2:30 |
 | 86 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
 | 87 | [Stones](https://open.spotify.com/track/2Y9s7N2xW1mPhnasYm5Cuq) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Stones](https://open.spotify.com/album/06spE9ETkbGlW4P82T5A5t) | 3:12 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Dumb](https://open.spotify.com/track/3aYNByMwUHzFjLD2XpjP7Z) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Nighthawks](https://open.spotify.com/album/6fvPCH09RdjrTF56T9fZfu) | 3:04 |
 | 150 | [Didn't Know You Then](https://open.spotify.com/track/6oyDy1XJfGKBjvwdQMWpOX) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/0Dw5lEKTJgSULnuv7iYBKg) | 4:13 |
 
-Snapshot ID: `MCwwOTk2YmRiNTc0ZmZiZDNkY2MzMGNmYTBjNjcwMmUzZTFkMGZhYmU3`
+Snapshot ID: `MCxlOGM5ZDJjZWY4MDliYjg4NDVhMjVjMmFmYWYwNWRkOGNiNTRlNDM0`

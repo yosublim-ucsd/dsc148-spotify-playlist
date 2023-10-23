@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: Sweeney Todd
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,845 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,918 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 | 73 | [Apex Predator](https://open.spotify.com/track/649R9kCgcTrjHaKSMUooia) | [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Apex Predator](https://open.spotify.com/album/2QPzwNzwDcarN4We4eYPB9) | 3:13 |
 | 74 | [It's Only a Matter of Time](https://open.spotify.com/track/1uYnCRBvnHmUFyymYkzjJn) | [Olly Dobson](https://open.spotify.com/artist/2MKDnkJRt2edRbWYow65iI) | [Back to the Future: The Musical](https://open.spotify.com/album/5cfiZFpFlkL6hazHrRV2Bi) | 3:02 |
 | 75 | [It's Quiet Uptown](https://open.spotify.com/track/40LYL1Z6xgCn5cBybo5K0D) | [Renée Elise Goldsberry](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 4:30 |
-| 76 | [Ring of Keys](https://open.spotify.com/track/2zTjKIhgvU7mt6pbkWdzhi) | [Sydney Lucas](https://open.spotify.com/artist/2NC0NvcP3iJvpCPepplwof), [Beth Malone](https://open.spotify.com/artist/60zvRmhQHRxokEB1taAVpN) | [Fun Home \(A New Broadway Musical\)](https://open.spotify.com/album/2GKE26bq2o8qoukpNlZnrh) | 3:07 |
+| 76 | [Ring of Keys](https://open.spotify.com/track/2zTjKIhgvU7mt6pbkWdzhi) | [Jeanine Tesori](https://open.spotify.com/artist/3bW9aRkzZhlE53ca3djW8Z), [Lisa Kron](https://open.spotify.com/artist/1vrC8QDkFBw7mkWShqEcXZ), [Sydney Lucas](https://open.spotify.com/artist/2NC0NvcP3iJvpCPepplwof), [Beth Malone](https://open.spotify.com/artist/60zvRmhQHRxokEB1taAVpN) | [Fun Home \(A New Broadway Musical\)](https://open.spotify.com/album/2GKE26bq2o8qoukpNlZnrh) | 3:07 |
 | 77 | [I Get a Kick out of You](https://open.spotify.com/track/23B3o2laQ6r35OQMgtXTRo) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 2:24 |
 | 78 | [Santa Fe](https://open.spotify.com/track/6aWJOPC5gpjTpRiyvrFOQm) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk) | 3:12 |
 | 79 | [Sweet Transvestite](https://open.spotify.com/track/0K9n8TBThz4xNAkF1eIlB6) | [Tim Curry](https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 | 99 | [Heart of Stone](https://open.spotify.com/track/3akeuMy9bqJbqDlfYevbwN) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0), [Natalie Paris](https://open.spotify.com/artist/4rNKsg7PLOeJY6EFH2sW2u) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 5:11 |
 | 100 | [Aquarius](https://open.spotify.com/track/0WviwuG403gqtW6bZevBpP) | [Galt MacDermot](https://open.spotify.com/artist/3b6TinIPahsS8iSCYAeinr), [Tom Pierson](https://open.spotify.com/artist/37pKA6kY6h4rcFUBwrrTDk) | [Hair](https://open.spotify.com/album/1llShsXxqoYFxKEX7JkKBj) | 4:48 |
 
-Snapshot ID: `MCwzZDJkNTZiZjFiMmZiMTA1MDE2MjE4MDk3ZjUzOTUwZDJmYmMzOTNk`
+Snapshot ID: `MCwwYWVmYjZiZTM0M2FiZDVhOWI1YmNiZWM2ZmE1YWRhOGM1OWI2OWY3`

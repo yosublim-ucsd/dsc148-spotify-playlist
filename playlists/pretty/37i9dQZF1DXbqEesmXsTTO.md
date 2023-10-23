@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqEesmXsTTO.md) - [plain]
 
 > 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: 신유진\(Shin Yujin\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,859 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,873 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqEesmXsTTO.md) - [plain]
 | 28 | [홀로아리랑 \(prod\. 박경훈\)](https://open.spotify.com/track/2NYhv60zNkD4nciDt0GJUO) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [우리家](https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w) | 4:46 |
 | 29 | [Nolja Taryeong](https://open.spotify.com/track/1OETWDN0GQwfv0pdskSgIy) | [Gukjeondan](https://open.spotify.com/artist/7I4YtHja8lGC90BpH6H0lO) | [Chosun Electronic Music Big Party](https://open.spotify.com/album/5p1MJJemKllvFRIKTdA9ub) | 1:56 |
 | 30 | [Sarang\-Ga](https://open.spotify.com/track/72XPDX00pwj9OEagtNlBeT) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [사랑가](https://open.spotify.com/album/0FAaDS3Pjvgmbmpff1afEC) | 3:58 |
-| 31 | [ride the wind \(feat\. Blank!d\)](https://open.spotify.com/track/0FrarKu8G7izoH2NuqPxDx) | [Band Kyongji](https://open.spotify.com/artist/1Y87ZFsWo8jHO3mu5yPqer), [Blank!d](https://open.spotify.com/artist/18LCQDhzfktqMyKT8pqFQ3) | [ride the wind](https://open.spotify.com/album/2sHuTeFDcA5KegsWOc9hmz) | 5:07 |
+| 31 | [ride the wind \(feat\. Blank!d\)](https://open.spotify.com/track/0FrarKu8G7izoH2NuqPxDx) | [Band KyongJi](https://open.spotify.com/artist/1Y87ZFsWo8jHO3mu5yPqer), [Blank!d](https://open.spotify.com/artist/18LCQDhzfktqMyKT8pqFQ3) | [ride the wind](https://open.spotify.com/album/2sHuTeFDcA5KegsWOc9hmz) | 5:07 |
 | 32 | [Night Sea](https://open.spotify.com/track/2efR2mfIfPAx9Sf96pOtNL) | [sEODo](https://open.spotify.com/artist/7uB71Iy85Sxm7OclRykqTh) | [In Summer](https://open.spotify.com/album/5sDkMwuCbhOOw8oFMyh6yx) | 3:03 |
 | 33 | [Arirang for you](https://open.spotify.com/track/02Li3zuBHmYvTU3snTt48H) | [NEUL](https://open.spotify.com/artist/5SaYHywNAcLUqIFcel7xwn) | [Piece Of Love](https://open.spotify.com/album/69A1ez7jfXMcLGOWRCk7lf) | 3:27 |
 | 34 | [sEcREt](https://open.spotify.com/track/5j01kyREle1q5e9xq3n2ah) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [sEcREt](https://open.spotify.com/album/4Zg5JPkF1JTVe8h2vewyZO) | 3:35 |
 | 35 | [Wind Blowing From The East](https://open.spotify.com/track/4nQxpwAHhLMZGG9g6HyFPB) | [Mago](https://open.spotify.com/artist/3JoAChLOYQem9dlwqaTW1t) | [Wind Blowing From The East](https://open.spotify.com/album/4yb06uEYQVKG8HpZdroRuz) | 4:38 |
-| 36 | [Here comes Byeoljubu](https://open.spotify.com/track/3n2xF9MQ8emHwLHtfr4QmV) | [Band Kyongji](https://open.spotify.com/artist/1Y87ZFsWo8jHO3mu5yPqer) | [Here comes Byeoljubu](https://open.spotify.com/album/0Hz72QFtM5VQQB6fP8tasS) | 2:53 |
+| 36 | [Here comes Byeoljubu](https://open.spotify.com/track/3n2xF9MQ8emHwLHtfr4QmV) | [Band KyongJi](https://open.spotify.com/artist/1Y87ZFsWo8jHO3mu5yPqer) | [Here comes Byeoljubu](https://open.spotify.com/album/0Hz72QFtM5VQQB6fP8tasS) | 2:53 |
 | 37 | [farewell song](https://open.spotify.com/track/7F4j0ajE6AKZouEh33R52r) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [farewell song](https://open.spotify.com/album/24O48umyQCklMttrpWzHst) | 4:04 |
 | 38 | [In My View](https://open.spotify.com/track/1QJIIMzo6sSf7SLfkLHII3) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX), [ColdoK](https://open.spotify.com/artist/78tQQcdlRdUWKILrwpdolL) | [In My View](https://open.spotify.com/album/4BQs0ok8uj0FIKgd9K2IxN) | 3:35 |
-| 39 | [Naval Commander of the Three Provinces](https://open.spotify.com/track/0qzjdgdYvY9JXxlFbFQLUP) | [Band Kyongji](https://open.spotify.com/artist/1Y87ZFsWo8jHO3mu5yPqer) | [Naval Commander of the Three Provinces](https://open.spotify.com/album/0aFKByWB3ZqHcqrVcNQ1oC) | 3:45 |
+| 39 | [Naval Commander of the Three Provinces](https://open.spotify.com/track/0qzjdgdYvY9JXxlFbFQLUP) | [Band KyongJi](https://open.spotify.com/artist/1Y87ZFsWo8jHO3mu5yPqer) | [Naval Commander of the Three Provinces](https://open.spotify.com/album/0aFKByWB3ZqHcqrVcNQ1oC) | 3:45 |
 | 40 | [Frame](https://open.spotify.com/track/3ex2LupXmbd11zECCgT4zg) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [Frame](https://open.spotify.com/album/02HMGsHNWWkqS7z2TdEOFi) | 4:59 |
 | 41 | [Sarang\-Ga](https://open.spotify.com/track/72XPDX00pwj9OEagtNlBeT) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [사랑가](https://open.spotify.com/album/0FAaDS3Pjvgmbmpff1afEC) | 3:58 |
 | 42 | [Difficult Love](https://open.spotify.com/track/3COuVim71pbexDPN6hkuf5) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Prelude](https://open.spotify.com/artist/5iDrzHiqbcQR9b0Po8EA9M) | [Korean Men](https://open.spotify.com/album/1RxHiOGUmdVAI3VUjtPqsi) | 4:27 |

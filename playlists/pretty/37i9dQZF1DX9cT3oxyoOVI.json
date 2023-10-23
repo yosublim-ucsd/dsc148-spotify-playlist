@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music",
-  "num_followers": 128284,
+  "num_followers": 128299,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTQzNGVkN2YyZTRhYTViNDc4MTNmOGE2M2NlYjFmMGJhOThhMzA5",
+  "snapshot_id": "MCxjYmNmMjNkNDYwMTJmZjBkZmE5MDIzZGE4OWVjYmQwMGM1Y2U2ZmNi",
   "tracks": [
     {
       "added_at": "2023-01-30 15:22:38",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "Why Am I Like This?",
-        "url": "https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 212713,
-      "name": "Why Am I Like This?",
-      "url": "https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "Stranger in the Alps (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 232373,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/4GvdsVns332wQ3JsWAg2OV"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "Why Am I Like This?",
+        "url": "https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 212713,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "My Own Person",
-        "url": "https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 264873,
-      "name": "My Own Person",
-      "url": "https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "worm food",
         "url": "https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 190853,
       "name": "fall in love with a girl (feat. Beabadoobee)",
       "url": "https://open.spotify.com/track/1oPd8gfPWu6zeKQX9flbpk"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "My Own Person",
+        "url": "https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "duration_ms": 264873,
+      "name": "My Own Person",
+      "url": "https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy"
     },
     {
       "added_at": "2023-01-30 15:22:38",

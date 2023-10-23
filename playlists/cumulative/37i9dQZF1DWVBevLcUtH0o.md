@@ -4,7 +4,7 @@
 
 > When the music and the message is honest, songs can be both personal and universal\.   Here is a list that pushes and reflects the culture at large.
 
-56 songs - 3 hr 32 min
+57 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Eagles](https://open.spotify.com/track/1VAosut57lKIu4WPBvIorV) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Loose Canon, Vol\. 3](https://open.spotify.com/album/6M9TeCyxRBSWyl5Am0HgEF) | 4:49 | 2021-03-27 |  |
 | [Every Single Day](https://open.spotify.com/track/0YanAug6GPUaAEQ2CGeqJG) | [Shopé](https://open.spotify.com/artist/539ZsoCQY3Y24f38ZuIBgp) | [Every Single Day](https://open.spotify.com/album/6z53jJdsAqnnjAynw3NMSd) | 2:39 | 2021-03-27 |  |
 | [Flood](https://open.spotify.com/track/5uM243tBt7bWKDrXH8HbJv) | [Davis Absolute](https://open.spotify.com/artist/3ky8U0naf7LBnhlA1VC5IW) | [Flood](https://open.spotify.com/album/6aPYWi3ttbbolu1wapO4p4) | 3:15 | 2021-03-27 |  |
-| [Free](https://open.spotify.com/track/4Nwg7uzEwzvZn4benVKUxi) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Free \- Single](https://open.spotify.com/album/23gjUd99fxgxYtKqgA4VCT) | 4:31 | 2021-03-27 |  |
+| [Free](https://open.spotify.com/track/4Nwg7uzEwzvZn4benVKUxi) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Free \- Single](https://open.spotify.com/album/23gjUd99fxgxYtKqgA4VCT) | 4:31 | 2021-03-27 | 2023-10-23 |
+| [Free](https://open.spotify.com/track/4k7MdzaPet3T4AwBWGFRCV) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Free](https://open.spotify.com/album/1zHaOgQHRG3d9ixL5AQLR2) | 4:31 | 2021-03-27 |  |
 | [Goals](https://open.spotify.com/track/32UKCfhHvwFpJH8iq6szEK) | [Zach Banes](https://open.spotify.com/artist/4LEv5Ekvqewmlr0sXdwCxr) | [Goals](https://open.spotify.com/album/3YxZzA1IbzzuJjQPXCvfnP) | 2:53 | 2021-03-27 |  |
 | [Gold](https://open.spotify.com/track/3wiw6GBuZrz9NK8V33Uecz) | [A.I\. The Anomaly](https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa), [Eshon Burgundy](https://open.spotify.com/artist/25VsRrXJg8wvvMSSVwmp8E) | [Soul's Acrylic](https://open.spotify.com/album/5S1GbXsBQnHi4rsIXbh8CL) | 4:24 | 2021-03-27 |  |
 | [His Image \(feat\. Dre Murray\)](https://open.spotify.com/track/3mS7hT6FEfWlcdik5xcJ0v) | [Corey Paul](https://open.spotify.com/artist/25ksFneQI7WRWIerxd8eg0), [Dre Murray](https://open.spotify.com/artist/5Q45hW4q5wKLjtnJlSgeq0) | [Untold Story: Trill Young King](https://open.spotify.com/album/1iAutTArJ3ZqpLZUI87HqA) | 3:38 | 2021-03-27 |  |

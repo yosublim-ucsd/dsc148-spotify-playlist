@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 228740,
+  "num_followers": 228824,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZThjYzI3MmQ1Mjc4YWFiNjg2OWVlOWZjMjUzYjlmNmMzZjU4OTQy",
+  "snapshot_id": "MCw1ZTM3OWVjMmQ1NzkxMTc2ZDdjOGY4OWY4MDM0ZDk4YmNlZjk3MWEx",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -679,18 +679,26 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Yo Voy Pa Encima - Single",
-        "url": "https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ"
+        "name": "Latino 59 presenta: Bailando (Salsa Bachata Merengue Urbano Reggaeton Dembow Fitness)",
+        "url": "https://open.spotify.com/album/3lHRgY0YptnHbpFjysFb7S"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
         }
       ],
-      "duration_ms": 206992,
-      "name": "Yo Voy Pa Encima",
-      "url": "https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz"
+      "duration_ms": 273853,
+      "name": "Bailando - Official Salsa Version",
+      "url": "https://open.spotify.com/track/60rfRiqSdX2allhe9Qs4Qy"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -715,26 +723,18 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Latino 59 presenta: Bailando (Salsa Bachata Merengue Urbano Reggaeton Dembow Fitness)",
-        "url": "https://open.spotify.com/album/3lHRgY0YptnHbpFjysFb7S"
+        "name": "Yo Voy Pa Encima - Single",
+        "url": "https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ"
       },
       "artists": [
         {
-          "name": "Issac Delgado",
-          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 273853,
-      "name": "Bailando - Official Salsa Version",
-      "url": "https://open.spotify.com/track/60rfRiqSdX2allhe9Qs4Qy"
+      "duration_ms": 206992,
+      "name": "Yo Voy Pa Encima",
+      "url": "https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -823,26 +823,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Party Full Nasty (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/01MOvDJDnOLpU47OT2zkFw"
-      },
-      "artists": [
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        },
-        {
-          "name": "Yakarta",
-          "url": "https://open.spotify.com/artist/7a639C80zwLMF0NYMpMxzG"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Besito Con Lengua",
-      "url": "https://open.spotify.com/track/4jVEcFzRACgZm5gpkhXigP"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Los Amigos",
         "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 382360,
       "name": "Agua De Clavelito",
       "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Party Full Nasty (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/01MOvDJDnOLpU47OT2zkFw"
+      },
+      "artists": [
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        },
+        {
+          "name": "Yakarta",
+          "url": "https://open.spotify.com/artist/7a639C80zwLMF0NYMpMxzG"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Besito Con Lengua",
+      "url": "https://open.spotify.com/track/4jVEcFzRACgZm5gpkhXigP"
     }
   ],
   "unique_name": "Salsa Cubana",

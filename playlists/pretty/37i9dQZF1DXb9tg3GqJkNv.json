@@ -1,6 +1,6 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Belly",
-  "num_followers": 8382,
+  "num_followers": 8423,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "88GLAM2",
+        "url": "https://open.spotify.com/album/1BgPkFMgud3lmEc6enZsjd"
+      },
+      "artists": [
+        {
+          "name": "88GLAM",
+          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
+        }
+      ],
+      "duration_ms": 180813,
+      "name": "Lil Boat",
+      "url": "https://open.spotify.com/track/3Zcv9IeYgCvEhxFTfsduaQ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Twin Flame",
         "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 232122,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "88GLAM2",
-        "url": "https://open.spotify.com/album/1BgPkFMgud3lmEc6enZsjd"
-      },
-      "artists": [
-        {
-          "name": "88GLAM",
-          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
-        }
-      ],
-      "duration_ms": 180813,
-      "name": "Lil Boat",
-      "url": "https://open.spotify.com/track/3Zcv9IeYgCvEhxFTfsduaQ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -555,6 +555,26 @@
       "duration_ms": 180748,
       "name": "Live Up to My Name",
       "url": "https://open.spotify.com/track/79KZAInFkxA0XLukZCGzvh"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "88GLAM RELOADED",
+        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
+      },
+      "artists": [
+        {
+          "name": "88GLAM",
+          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 185316,
+      "name": "Bali",
+      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -615,22 +635,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "88GLAM RELOADED",
-        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
+        "name": "Pizzazz",
+        "url": "https://open.spotify.com/album/53LZZfDTXEmbo9uhV70uTL"
       },
       "artists": [
         {
-          "name": "88GLAM",
-          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+          "name": "Akintoye",
+          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
         }
       ],
-      "duration_ms": 185316,
-      "name": "Bali",
-      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
+      "duration_ms": 191489,
+      "name": "Pizzazz",
+      "url": "https://open.spotify.com/track/0h82txCyS3TGgW0F31gew5"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -655,22 +671,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Pizzazz",
-        "url": "https://open.spotify.com/album/53LZZfDTXEmbo9uhV70uTL"
-      },
-      "artists": [
-        {
-          "name": "Akintoye",
-          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
-        }
-      ],
-      "duration_ms": 191489,
-      "name": "Pizzazz",
-      "url": "https://open.spotify.com/track/0h82txCyS3TGgW0F31gew5"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Canada Goose",
         "url": "https://open.spotify.com/album/4x2T0CZ0uxbA3Z6hL1Vq14"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "EXTRA EXTRA!",
-        "url": "https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "MUST BE",
-      "url": "https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Griselda Blanco",
         "url": "https://open.spotify.com/album/17LK6OSJ1oVihjzSHYIiMj"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 207293,
       "name": "Griselda Blanco",
       "url": "https://open.spotify.com/track/5TuREdxaWbjceZbX1945f8"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "EXTRA EXTRA!",
+        "url": "https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "duration_ms": 145173,
+      "name": "MUST BE",
+      "url": "https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -895,46 +895,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Pedro Activated",
-        "url": "https://open.spotify.com/album/3LuXNv2ZXL9ErZklnvSJ0W"
+        "name": "Time & It's Order",
+        "url": "https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV"
       },
       "artists": [
         {
-          "name": "Top5",
-          "url": "https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "6ixbuzz",
-          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
         }
       ],
-      "duration_ms": 204000,
-      "name": "21 Questions",
-      "url": "https://open.spotify.com/track/7xYZrvdWXSGmNgobMEqqoC"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "no long talk.",
-        "url": "https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT"
-      },
-      "artists": [
-        {
-          "name": "Baka Not Nice",
-          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
-        },
-        {
-          "name": "Giggs",
-          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
-        }
-      ],
-      "duration_ms": 198676,
-      "name": "My Town (feat. Giggs)",
-      "url": "https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC"
+      "duration_ms": 135221,
+      "name": "Time & It's Order",
+      "url": "https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -963,18 +935,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Time & It's Order",
-        "url": "https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV"
+        "name": "no long talk.",
+        "url": "https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT"
       },
       "artists": [
         {
-          "name": "FRVRFRIDAY",
-          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+          "name": "Baka Not Nice",
+          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
         }
       ],
-      "duration_ms": 135221,
-      "name": "Time & It's Order",
-      "url": "https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D"
+      "duration_ms": 198676,
+      "name": "My Town (feat. Giggs)",
+      "url": "https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -995,6 +971,30 @@
       "duration_ms": 228545,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/13YxiBp1U1ZLgnlFKuYr1v"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Pedro Activated",
+        "url": "https://open.spotify.com/album/3LuXNv2ZXL9ErZklnvSJ0W"
+      },
+      "artists": [
+        {
+          "name": "Top5",
+          "url": "https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "6ixbuzz",
+          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "21 Questions",
+      "url": "https://open.spotify.com/track/7xYZrvdWXSGmNgobMEqqoC"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1039,6 +1039,22 @@
       "duration_ms": 266599,
       "name": "Come Inside (Kaytranada Edit)",
       "url": "https://open.spotify.com/track/3jQL0t4Jg4EZ77oNEvjEtN"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Body & A Face",
+        "url": "https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J"
+      },
+      "artists": [
+        {
+          "name": "Baka Not Nice",
+          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
+        }
+      ],
+      "duration_ms": 159205,
+      "name": "Body & A Face",
+      "url": "https://open.spotify.com/track/6cezfmuJT9mpkv7AwWRYpQ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1091,22 +1107,6 @@
       "duration_ms": 151310,
       "name": "KING OF THE TOWN",
       "url": "https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Body & A Face",
-        "url": "https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J"
-      },
-      "artists": [
-        {
-          "name": "Baka Not Nice",
-          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
-        }
-      ],
-      "duration_ms": 159205,
-      "name": "Body & A Face",
-      "url": "https://open.spotify.com/track/6cezfmuJT9mpkv7AwWRYpQ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "30,000 ft",
+        "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
+      },
+      "artists": [
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        },
+        {
+          "name": "Dj Charlie B",
+          "url": "https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5"
+        }
+      ],
+      "duration_ms": 157873,
+      "name": "30,000 ft",
+      "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Priceless",
         "url": "https://open.spotify.com/album/3IkBPsHdtfjTozntH3W9ek"
       },
@@ -1207,6 +1227,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Vallie Mode",
+        "url": "https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN"
+      },
+      "artists": [
+        {
+          "name": "Dom Vallie",
+          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
+        }
+      ],
+      "duration_ms": 148349,
+      "name": "Vallie Mode",
+      "url": "https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Different Route",
         "url": "https://open.spotify.com/album/1W8pJAcbgIrU8QSPinu1s2"
       },
@@ -1227,38 +1263,34 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "30,000 ft",
-        "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
+        "name": "NightmareZ",
+        "url": "https://open.spotify.com/album/2YlFBQKbefAcrWtidbdms7"
       },
       "artists": [
         {
-          "name": "NorthSideBenji",
-          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
-        },
-        {
-          "name": "Dj Charlie B",
-          "url": "https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5"
+          "name": "Duvy",
+          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
         }
       ],
-      "duration_ms": 157873,
-      "name": "30,000 ft",
-      "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
+      "duration_ms": 109446,
+      "name": "NightmareZ",
+      "url": "https://open.spotify.com/track/7eziXF3TKXmpwSXs0XX7ZR"
     },
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Vallie Mode",
-        "url": "https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN"
+        "name": "While You on Road",
+        "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
       },
       "artists": [
         {
-          "name": "Dom Vallie",
-          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
         }
       ],
-      "duration_ms": 148349,
-      "name": "Vallie Mode",
-      "url": "https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y"
+      "duration_ms": 182535,
+      "name": "While You on Road",
+      "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1283,38 +1315,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "While You on Road",
-        "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "While You on Road",
-      "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "NightmareZ",
-        "url": "https://open.spotify.com/album/2YlFBQKbefAcrWtidbdms7"
-      },
-      "artists": [
-        {
-          "name": "Duvy",
-          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
-        }
-      ],
-      "duration_ms": 109446,
-      "name": "NightmareZ",
-      "url": "https://open.spotify.com/track/7eziXF3TKXmpwSXs0XX7ZR"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Fleurever",
         "url": "https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH"
       },
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Save Yourself",
-        "url": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA"
-      },
-      "artists": [
-        {
-          "name": "LocoCity",
-          "url": "https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou"
-        }
-      ],
-      "duration_ms": 139213,
-      "name": "Job Done",
-      "url": "https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "All Time High",
         "url": "https://open.spotify.com/album/5ptOOTLiiSnYMUCnAgUE3N"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 130560,
       "name": "Dwayne Carter Flow",
       "url": "https://open.spotify.com/track/2B5QF7KSCv5jz2hIxyKic5"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA"
+      },
+      "artists": [
+        {
+          "name": "LocoCity",
+          "url": "https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou"
+        }
+      ],
+      "duration_ms": 139213,
+      "name": "Job Done",
+      "url": "https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC"
     },
     {
       "added_at": "2023-10-20 04:00:00",

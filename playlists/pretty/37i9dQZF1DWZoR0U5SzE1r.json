@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 274928,
+  "num_followers": 275128,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDU0ZGU4NzljMjExMDJmMWEyNzFhNGFmY2UxZDc0Y2U5Njk4MzJm",
+  "snapshot_id": "MCwyNDg0ZDE2MzkxNDIxODQ4NWZkOTc0ZjY1NTBmYWZjYzA2MjYxYzA2",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -159,30 +159,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Make Room",
-        "url": "https://open.spotify.com/album/1nHJuPtXp1aO7DT7xSPMws"
-      },
-      "artists": [
-        {
-          "name": "The Church Will Sing",
-          "url": "https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige"
-        },
-        {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
-        },
-        {
-          "name": "Community Music",
-          "url": "https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R"
-        }
-      ],
-      "duration_ms": 351349,
-      "name": "Make Room",
-      "url": "https://open.spotify.com/track/0X98LFhbqEYiUv4g1Vjppr"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "The Blessing (Live)",
         "url": "https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE"
       },
@@ -203,6 +179,30 @@
       "duration_ms": 514664,
       "name": "The Blessing - Live",
       "url": "https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Make Room",
+        "url": "https://open.spotify.com/album/1nHJuPtXp1aO7DT7xSPMws"
+      },
+      "artists": [
+        {
+          "name": "The Church Will Sing",
+          "url": "https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        },
+        {
+          "name": "Community Music",
+          "url": "https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R"
+        }
+      ],
+      "duration_ms": 351349,
+      "name": "Make Room",
+      "url": "https://open.spotify.com/track/0X98LFhbqEYiUv4g1Vjppr"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 272426,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/78pKjOa4gToyRxn3cVc7Sa"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Church Volume One (Live)",
         "url": "https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj"
       },
@@ -1175,18 +1155,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Dancing On The Waves (Live)",
-        "url": "https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r"
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
       },
       "artists": [
         {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
-      "duration_ms": 269040,
-      "name": "Dancing On The Waves - Live At The Wheelhouse",
-      "url": "https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0"
+      "duration_ms": 272426,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/78pKjOa4gToyRxn3cVc7Sa"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1203,6 +1187,22 @@
       "duration_ms": 309173,
       "name": "Call on Your Name",
       "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Dancing On The Waves (Live)",
+        "url": "https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 269040,
+      "name": "Dancing On The Waves - Live At The Wheelhouse",
+      "url": "https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Is He Worthy?",
-        "url": "https://open.spotify.com/album/4a3w0ALiId0cypY92u9g8m"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 271920,
-      "name": "Is He Worthy?",
-      "url": "https://open.spotify.com/track/2fLm3XEZnGnsw0caZh8v8T"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Stir a Passion",
         "url": "https://open.spotify.com/album/5pjsLhandWZP3rUF7NQuZ9"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 499760,
       "name": "Stir a Passion - Live",
       "url": "https://open.spotify.com/track/5Yd2LrQZg3ouzzvgC1QKvJ"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Is He Worthy?",
+        "url": "https://open.spotify.com/album/4a3w0ALiId0cypY92u9g8m"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 271920,
+      "name": "Is He Worthy?",
+      "url": "https://open.spotify.com/track/2fLm3XEZnGnsw0caZh8v8T"
     },
     {
       "added_at": "2020-06-26 04:02:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > Un paseo por la ciudad pintada de violeta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,694 likes - 61 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,718 likes - 61 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 60 | [Precious Love](https://open.spotify.com/track/4LpFfd70HLdNIoVXZplfxH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Special Night](https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD) | 4:38 |
 | 61 | [Pomegranate Tree](https://open.spotify.com/track/0j1r9LUCbmB4v9sy6Af7VD) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Joven Navegante](https://open.spotify.com/album/3BG9yYvOHbYblsASg6biYg) | 2:58 |
 
-Snapshot ID: `MCxmYjQ0ZTgyY2Q4MTJlMDJlYjljNTE1NmRjZmE4MWEyOTAxOTk2NjQy`
+Snapshot ID: `MCxmOGZkZTQ3NjM5MTVmMWQwMTk1ZTQyMzc5NDVjY2VkNTlkNzhkOTMw`

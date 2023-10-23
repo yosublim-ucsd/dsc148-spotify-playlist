@@ -352,12 +352,12 @@
       },
       "artists": [
         {
-          "name": "Halford",
-          "url": "https://open.spotify.com/artist/0kq4QvLGV5t1ZoE6ittrLQ"
-        },
-        {
           "name": "Rob Halford",
           "url": "https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy"
+        },
+        {
+          "name": "Halford",
+          "url": "https://open.spotify.com/artist/0kq4QvLGV5t1ZoE6ittrLQ"
         }
       ],
       "date_added": "2021-11-26",
@@ -1362,12 +1362,12 @@
       },
       "artists": [
         {
-          "name": "Halford",
-          "url": "https://open.spotify.com/artist/0kq4QvLGV5t1ZoE6ittrLQ"
-        },
-        {
           "name": "Rob Halford",
           "url": "https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy"
+        },
+        {
+          "name": "Halford",
+          "url": "https://open.spotify.com/artist/0kq4QvLGV5t1ZoE6ittrLQ"
         }
       ],
       "date_added": "2021-11-26",
@@ -2461,28 +2461,6 @@
     },
     {
       "album": {
-        "name": "Halford III: Winter Songs",
-        "url": "https://open.spotify.com/album/23gl11F7n7YNPGdI9L8XSd"
-      },
-      "artists": [
-        {
-          "name": "Halford",
-          "url": "https://open.spotify.com/artist/0kq4QvLGV5t1ZoE6ittrLQ"
-        },
-        {
-          "name": "Rob Halford",
-          "url": "https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy"
-        }
-      ],
-      "date_added": "2021-11-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 245946,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/4PHKTROdkM3lW5he03HqEa"
-    },
-    {
-      "album": {
         "name": "The Classic Christmas Hard Rock Album",
         "url": "https://open.spotify.com/album/0UDicfLBTHSBUhA5i9j5ni"
       },
@@ -2502,6 +2480,28 @@
       "duration_ms": 246586,
       "name": "We Three Kings",
       "url": "https://open.spotify.com/track/2bkpNwz8rvai42l18BIyj4"
+    },
+    {
+      "album": {
+        "name": "Halford III: Winter Songs",
+        "url": "https://open.spotify.com/album/23gl11F7n7YNPGdI9L8XSd"
+      },
+      "artists": [
+        {
+          "name": "Rob Halford",
+          "url": "https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy"
+        },
+        {
+          "name": "Halford",
+          "url": "https://open.spotify.com/artist/0kq4QvLGV5t1ZoE6ittrLQ"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245946,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/4PHKTROdkM3lW5he03HqEa"
     },
     {
       "album": {

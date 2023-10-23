@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,098 likes - 200 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,155 likes - 200 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 199 | [Cayendo](https://open.spotify.com/track/2zsURKVmLUWKbsUHea8Wqz) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [alivio](https://open.spotify.com/album/2IDSJ1Xw2yNJPkHdWbUvTI) | 2:34 |
 | 200 | [Ear Candy](https://open.spotify.com/track/5ON80qE04mljMqEZ7K4is5) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [alivio](https://open.spotify.com/album/2IDSJ1Xw2yNJPkHdWbUvTI) | 2:36 |
 
-Snapshot ID: `MCxmYzFjY2FkMGNjOWQ4MzBkYzJiM2Q5ZGY3NDI4YTI4ODk4ODJhYWMx`
+Snapshot ID: `MCxmNzBmNTg2ZmY0NjZlMGFhNzE4MTllNGY5MDU2MWU4OGRkOGRiMDc2`

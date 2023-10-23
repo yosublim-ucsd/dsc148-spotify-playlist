@@ -4,7 +4,7 @@
 
 > ft\. Riovaz
 
-324 songs - 14 hr 26 min
+328 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [bones](https://open.spotify.com/track/0fwYe53RLfXtqJzjvzfTn4) | [Numl6ck](https://open.spotify.com/artist/2anlj4dNUn9I1VxxmjRHRx), [pwon](https://open.spotify.com/artist/3KTZgaWBh344GgAHftarFM) | [bones](https://open.spotify.com/album/3KmErbslecY06JTn8vJU8s) | 2:22 | 2023-06-09 |  |
 | [Borderline Personality](https://open.spotify.com/track/2XQh0Gvc6KGOIPQRm30M3K) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Sick Sad Obsession](https://open.spotify.com/album/2i5cPdBPvsRMfml8bhKqZb) | 2:03 | 2023-06-23 |  |
 | [boythots](https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [boythots](https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv) | 2:17 | 2023-03-01 | 2023-09-22 |
+| [brown eyes](https://open.spotify.com/track/2pLieFj49thsxTBBquLEz9) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [brown eyes](https://open.spotify.com/album/2ZsjTlwVcwkYgcT0R7GA1X) | 2:06 | 2023-10-20 |  |
 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 | 2022-12-04 | 2023-09-19 |
 | [Burning Angel](https://open.spotify.com/track/0y3yMEAlP3S11L4oSuR3uq) | [Damazein](https://open.spotify.com/artist/4Vr5ULgjQOQQRZS0FVvQMi), [kimj](https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw) | [Burning Angel](https://open.spotify.com/album/07mBF3CloQiwm9RItifrcG) | 1:58 | 2023-06-23 | 2023-09-22 |
 | [Butterfly](https://open.spotify.com/track/3isB66Bn1418EHQ2Z9aLUp) | [nomu.](https://open.spotify.com/artist/2NSBzBPu05xNzAUv10mdTc) | [Butterfly](https://open.spotify.com/album/0slkV34l718fubBPy4GzOB) | 2:28 | 2023-02-17 | 2023-09-22 |
@@ -56,6 +57,7 @@
 | [cautionary tale](https://open.spotify.com/track/6ax64goKOuFHjIHPwK2zh8) | [biteki](https://open.spotify.com/artist/0pd6Sz8WXHG3txxWo0tr5K), [Love Jai](https://open.spotify.com/artist/7L3NGwYlrFSB9eLQrJDEkx) | [cautionary tale](https://open.spotify.com/album/0OssSph0nFsfudPMZCd7nk) | 2:05 | 2023-08-04 | 2023-09-22 |
 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 | 2022-12-04 | 2023-09-19 |
 | [Census Designated](https://open.spotify.com/track/5IhT2qYheXI0O2dHMmAb6B) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0TsaSQLM21To1HMz2ou5yI) | 6:00 | 2023-09-20 |  |
+| [checkpoint](https://open.spotify.com/track/1MRJdd1VnGWDeX1wtsN9f8) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i used to just cry about it](https://open.spotify.com/album/3TZ7OjH6U6LNDpRr8dM9MC) | 2:12 | 2023-10-20 |  |
 | [cherry](https://open.spotify.com/track/45MvVAvEVHeIh5eReP2m6o) | [andy polk](https://open.spotify.com/artist/0pjzVvlSShyf6ZiWa7ICzw), [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [cherry](https://open.spotify.com/album/32bC46BdtyzmMkNlKPlfGA) | 3:06 | 2023-08-04 |  |
 | [chewing on my tongue](https://open.spotify.com/track/7AvoOqTRdH6hafhZKVBLwA) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [ALTAR74](https://open.spotify.com/album/1i12M4uoJJqRNsZrvFMG85) | 1:58 | 2023-08-04 | 2023-09-22 |
 | [chronically online bitch](https://open.spotify.com/track/4p25lyI6HiIdLrjaBVdJoU) | [Stevyn](https://open.spotify.com/artist/72xvR0gA7IoOaPP5pX5nGQ), [CThruRio](https://open.spotify.com/artist/0zQSlXfHpiKFcQNf9izlvA) | [chronically online bitch](https://open.spotify.com/album/1BjkuSizpVWZuZqNtYcbFM) | 2:09 | 2023-06-23 | 2023-08-16 |
@@ -189,6 +191,7 @@
 | [MOTHS](https://open.spotify.com/track/2dT5M4bdibcfjLiqfzawi1) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/6YhEVN0VrEINMMLZlkiOv1) | 1:20 | 2022-12-04 | 2023-02-18 |
 | [Muse](https://open.spotify.com/track/51R1xeUf5cPnZRqsnndBxo) | [GOM](https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu) | [Muse](https://open.spotify.com/album/4ETMbTOkSeUx4lANoYQi1F) | 1:49 | 2022-12-04 | 2023-09-22 |
 | [my fault](https://open.spotify.com/track/1QVUrnCCndXQj7exQApOaV) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU) | [teeth](https://open.spotify.com/album/2kwMpS2boGu2KgvT4UIxCh) | 2:24 | 2023-08-16 |  |
+| [My Love, Pt\. 1](https://open.spotify.com/track/5BJDEyPcwQpunsTidFPfR8) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp) | [My Love, Pt\. 1](https://open.spotify.com/album/6IZsGlZ5lRiyR7NSp1xbJM) | 2:57 | 2023-10-20 |  |
 | [narcissism \(outofyrmind\)](https://open.spotify.com/track/2W6buc64CxZZ4LC38sMJ98) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [narcissism \(out of yr mind\)](https://open.spotify.com/album/7eRiNmuF05YeVRpeFtkAJ8) | 2:58 | 2023-03-03 | 2023-09-30 |
 | [nerve gas](https://open.spotify.com/track/5lZL7EafDdjRsPNLTRLqwU) | [Belak](https://open.spotify.com/artist/2y83yKCgoia21m1ot4WxPL) | [nerve gas](https://open.spotify.com/album/2xETxfVzBG4ss5f7c2ByHE) | 2:45 | 2023-04-28 | 2023-06-17 |
 | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/track/2kwuHsLUrCCFDxPwOu1b11) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr), [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/album/603LFBRrrCMiwfQlBaQNwl) | 2:15 | 2022-12-04 | 2023-02-18 |
@@ -279,6 +282,7 @@
 | [teeth \(you\)](https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [teeth \(you\)](https://open.spotify.com/album/2wcvDXC1imEEkkrmW5DwCY) | 2:01 | 2022-12-04 |  |
 | [the end.](https://open.spotify.com/track/65iEXVHRkbm5pibetOFL4y) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [stuck\. run\. sink\. die\. the end.](https://open.spotify.com/album/77Vn3DDWatnu93qk2c0CoE) | 2:33 | 2023-08-25 |  |
 | [The Industry \(don't care\)](https://open.spotify.com/track/6NAgvXj85XGeUHU1R3uwdE) | [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [The Industry \(don't care\)](https://open.spotify.com/album/6rUilXx3us9UOXNrl0pqoR) | 1:54 | 2023-01-06 | 2023-09-19 |
+| [the life and death of a dog](https://open.spotify.com/track/4s7KXWpEkoXky0RDNjAU6b) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [the life and death of a dog](https://open.spotify.com/album/0qRK99XsBIF30KZauxq1vb) | 3:34 | 2023-10-20 |  |
 | [The Poison's The Weather](https://open.spotify.com/track/3gV6pc8ERKK7e174TRxuBU) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [The Poison's The Weather](https://open.spotify.com/album/6sAC8GdyWcFqtzrbxejyso) | 2:40 | 2023-03-24 | 2023-09-22 |
 | [the Rake \(can’t complain\)](https://open.spotify.com/track/4wXMa4oleu4CaD06V7zEyG) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [the Rake \(can’t complain\)](https://open.spotify.com/album/15uH3yROMIfOmC3UZKwtVF) | 3:01 | 2023-09-15 |  |
 | [the Rake \(can’t complain\)](https://open.spotify.com/track/6UsCvuLD64nzgGSSJu6fnd) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [the Rake \(can’t complain\)](https://open.spotify.com/album/1fThTzAJxKmxgg2WgpeTD4) | 3:01 | 2023-09-15 | 2023-09-22 |

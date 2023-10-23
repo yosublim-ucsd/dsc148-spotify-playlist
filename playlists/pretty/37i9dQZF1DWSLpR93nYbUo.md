@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: Beltran
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,564 likes - 73 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,581 likes - 73 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 3 | [Tasty](https://open.spotify.com/track/1T0qmEAMLiRkei11Xouph3) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1), [INGEK](https://open.spotify.com/artist/2gk1ww8aKvkheN0f6WJ0G2) | [Tasty](https://open.spotify.com/album/3GfSnsAJoEar9vU5DcKbxa) | 2:20 |
 | 4 | [Up N' Down \(feat\. JmNPR\)](https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj), [JmNPR](https://open.spotify.com/artist/30tkBTplmnwCCDx8Ueuau2) | [Up N' Down \(feat\. JmNPR\)](https://open.spotify.com/album/6q9a42z7A1E3a19aRcO1j9) | 3:28 |
 | 5 | [House Control](https://open.spotify.com/track/7tsH71rhspuf92v6wSldzM) | [The Fish House](https://open.spotify.com/artist/0TXfVIHlCROnWuH89PfnJj) | [House Control](https://open.spotify.com/album/5zihJErsGYTaRkZ7t7OyuB) | 1:55 |
-| 6 | [So Bad](https://open.spotify.com/track/1ZYHIV76qQYr59eIMqF92C) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [3Beat](https://open.spotify.com/artist/6GygHIe8zmVX42gMgFQ3z8), [LÖÖC](https://open.spotify.com/artist/4qWBiHPlkgepfncAsj1Zzu) | [So Bad](https://open.spotify.com/album/2vDifuf2AOtvrxVUbBZYGw) | 2:25 |
+| 6 | [So Bad](https://open.spotify.com/track/1ZYHIV76qQYr59eIMqF92C) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [3Beat](https://open.spotify.com/artist/6GygHIe8zmVX42gMgFQ3z8), [LÖÖC](https://open.spotify.com/artist/2zPE3wnLyhZHbWqtjDOlmB) | [So Bad](https://open.spotify.com/album/2vDifuf2AOtvrxVUbBZYGw) | 2:25 |
 | 7 | [Please Press Play \- Radio Edit](https://open.spotify.com/track/37JCQAFq3xloM2QraYGUUk) | [Agguiar](https://open.spotify.com/artist/6TapvGfMBXqnvHSQCAuouV) | [Please Press Play](https://open.spotify.com/album/7F7lLV1T0hqmR3GOSiENan) | 2:40 |
 | 8 | [Lay Down](https://open.spotify.com/track/2xjPXHyvzpg1cFzBPpjd2J) | [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Lay Down](https://open.spotify.com/album/4wfYn8TbTw3ROMnXWJEseB) | 2:59 |
 | 9 | [Your Hands](https://open.spotify.com/track/21BVw3x8eljRQ7MHPV4vn6) | [Reezer](https://open.spotify.com/artist/0A0qH0k5vzwUrAAjcxZsN0) | [Your Hands](https://open.spotify.com/album/4d1U4rr00SMGwUeDqDNClS) | 2:54 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 12 | [Falling Down](https://open.spotify.com/track/34p4fCmqhtRLRhmODfibZ4) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [Lowdelic](https://open.spotify.com/artist/5Kddhc8aFjVx5Ab2MBCVnD) | [Falling Down](https://open.spotify.com/album/76deBFvpUGQkq3tnZdwHAj) | 3:21 |
 | 13 | [Kairos](https://open.spotify.com/track/6wd0dPO0ajkgBkhWD7jaw4) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Kairos](https://open.spotify.com/album/1HAbjNEmRND9a1AWMg0L2u) | 3:06 |
 | 14 | [Girl](https://open.spotify.com/track/0zRVIO4GWFugJk5taaym0f) | [Phael](https://open.spotify.com/artist/1zWOPmDwXSO50211NJHi0g), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Girl](https://open.spotify.com/album/0P3BWt3FWwy4PCiVo4xO4z) | 3:03 |
-| 15 | [Haunting Me](https://open.spotify.com/track/1rYSTJRgyGCa5Yl1SXC5sR) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Haunting Me](https://open.spotify.com/album/4xRmlHLvoZ2OEISy3SJ7TC) | 4:51 |
+| 15 | [Haunting Me](https://open.spotify.com/track/7iXNeFZwe4CwUaiHT9qK99) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Haunting Me](https://open.spotify.com/album/2FAmKfV5eesqqXSH3pXH2i) | 4:51 |
 | 16 | [Algo\-Rhythm](https://open.spotify.com/track/0d0sOLCfbxF9dLy5gihuir) | [From House To Disco](https://open.spotify.com/artist/4Om5TKdmuYUR1Slg1jKBnc) | [Algo\-Rhythm](https://open.spotify.com/album/0WtnaH4yQfcENErwoa3zcu) | 6:22 |
 | 17 | [I Need You](https://open.spotify.com/track/37Bz57c2aHf0G1SZSNlyYt) | [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB), [Adrian Mønteiro](https://open.spotify.com/artist/6ziI5fDvwg8r0QPT0nAT7r) | [I Need You](https://open.spotify.com/album/3WYVqWa7S671phWjQXi3hT) | 3:26 |
 | 18 | [Hit The Floor](https://open.spotify.com/track/7oHh5kXBg4Ppuqwb5nJJW7) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Ruiz](https://open.spotify.com/artist/3O2qgIUDvVtm7iXuzV7BTN) | [Hit The Floor](https://open.spotify.com/album/2vabxPUkVCQGmA78JtjCvU) | 2:40 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 72 | [Siento Siento](https://open.spotify.com/track/6gBzC3Aldrj78W0dLWgqC3) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Siento Siento](https://open.spotify.com/album/1pGfEaQriYYtZhvP1GBc8p) | 2:57 |
 | 73 | [Believe Me](https://open.spotify.com/track/6Z3fxMhJqzXHvD6aPqevWQ) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Believe Me](https://open.spotify.com/album/6QgMlohOjyqxqnM8yoX3dV) | 3:13 |
 
-Snapshot ID: `MCw5NTRmMzlkNzNmOTdjY2I4NTc2NzMyOWI2NGI0MzhiZDJkMDY3OTg0`
+Snapshot ID: `MCwwODgwYjIwYzM2OTU1NzYxYzM0NDg2NmQ5ZGI4YTFhMTY1ZWNmMTYx`

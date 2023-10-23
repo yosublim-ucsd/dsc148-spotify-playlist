@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 68198,
+  "num_followers": 68787,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWY1MTMxYjVhMzJjZDgyODAxY2I1MzcwZjQ5NGYyNTdhY2Q3Yjk2",
+  "snapshot_id": "MCw2MDQ5OTA1NGRkYmM3MjljNGYyZTZlMmU3NTQ3YmEwYjgyMjliNGUw",
   "tracks": [
     {
       "added_at": "2023-10-17 16:38:23",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "The Smiths",
-        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 223253,
-      "name": "Pretty Girls Make Graves - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
         "name": "Your face",
         "url": "https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 227426,
       "name": "Your face",
       "url": "https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
+        "name": "The Smiths",
+        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 223253,
+      "name": "Pretty Girls Make Graves - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "Norm",
-        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 179280,
-      "name": "Halloween Store",
-      "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
         "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
         "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 215179,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
+        "name": "Norm",
+        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Halloween Store",
+      "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 245253,
-      "name": "We Only Come Out At Night - Remastered 2012",
-      "url": "https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
         "name": "Introducing The Sonics",
         "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 158680,
       "name": "The Witch",
       "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 245253,
+      "name": "We Only Come Out At Night - Remastered 2012",
+      "url": "https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "The Physical World",
-        "url": "https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs"
-      },
-      "artists": [
-        {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
-        }
-      ],
-      "duration_ms": 185386,
-      "name": "Right On, Frankenstein!",
-      "url": "https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
         "name": "Guero",
         "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 255666,
       "name": "Scarecrow",
       "url": "https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
+        "name": "The Physical World",
+        "url": "https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 185386,
+      "name": "Right On, Frankenstein!",
+      "url": "https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
+        "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
+        "url": "https://open.spotify.com/album/3CiQoxlWPtdMJwLIVQyAPM"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
+      "url": "https://open.spotify.com/track/01d3ikcS8fpRKTBgOLcwqO"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
         "name": "Come Of Age",
         "url": "https://open.spotify.com/album/2XWOaQwiK4GAODTPVwDSr4"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 213640,
       "name": "Skeleton Boy",
       "url": "https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
-        "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
-        "url": "https://open.spotify.com/album/3CiQoxlWPtdMJwLIVQyAPM"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
-      "url": "https://open.spotify.com/track/01d3ikcS8fpRKTBgOLcwqO"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -1115,6 +1115,30 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
+        "name": "Boogieman",
+        "url": "https://open.spotify.com/album/3ngRFbcy8cThWOZ7FFqS1K"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        },
+        {
+          "name": "Elliot Lee",
+          "url": "https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5"
+        },
+        {
+          "name": "Lucky Dog",
+          "url": "https://open.spotify.com/artist/2EzEehpkduwnWPYQdHaJfi"
+        }
+      ],
+      "duration_ms": 182007,
+      "name": "Boogieman",
+      "url": "https://open.spotify.com/track/2nMog3num0pGta2SsWEuRG"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
         "name": "In Ghost Colours (UK Version Delux)",
         "url": "https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS"
       },
@@ -1179,22 +1203,6 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "No Regerts",
-        "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
-      },
-      "artists": [
-        {
-          "name": "Chastity Belt",
-          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
-        }
-      ],
-      "duration_ms": 159883,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
         "name": "Rest Now, Weary Head! You Will Get Well Soon",
         "url": "https://open.spotify.com/album/48ypMHut6U8zn4AQlJdtcF"
       },
@@ -1207,6 +1215,22 @@
       "duration_ms": 239866,
       "name": "Witches! Witches! Rest Now in the Fire",
       "url": "https://open.spotify.com/track/7a6SaJ71Kwn1caXPAY3OsB"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
+        "name": "No Regerts",
+        "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
+      },
+      "artists": [
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+        }
+      ],
+      "duration_ms": 159883,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -1271,30 +1295,6 @@
       "duration_ms": 162320,
       "name": "Pumpkin",
       "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
-        "name": "Boogieman",
-        "url": "https://open.spotify.com/album/3ngRFbcy8cThWOZ7FFqS1K"
-      },
-      "artists": [
-        {
-          "name": "Baby Bugs",
-          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
-        },
-        {
-          "name": "Elliot Lee",
-          "url": "https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5"
-        },
-        {
-          "name": "Lucky Dog",
-          "url": "https://open.spotify.com/artist/2EzEehpkduwnWPYQdHaJfi"
-        }
-      ],
-      "duration_ms": 182007,
-      "name": "Boogieman",
-      "url": "https://open.spotify.com/track/2nMog3num0pGta2SsWEuRG"
     }
   ],
   "unique_name": "Indie Halloween",

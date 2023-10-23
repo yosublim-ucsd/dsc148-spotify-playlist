@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 258462,
+  "num_followers": 258490,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTkzY2JkYTQ5ZmYzYzRkZjYzNjZmM2RlNDM1MDQyMWY1MWQ1YTNj",
+  "snapshot_id": "MCwxNWQwODlhYzlhM2E2NjJjZGUxN2Q4MmY3M2Q3MmIzODAzZmRiMDMw",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -271,22 +271,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Aromanticism",
-        "url": "https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 188557,
-      "name": "Plastic",
-      "url": "https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/2qTYTA1clU0UK3Ai5hhvRy"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 144000,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/3WbkPwphjmI2nMKFyRfbjy"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Aromanticism",
+        "url": "https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 188557,
+      "name": "Plastic",
+      "url": "https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -691,22 +691,6 @@
     {
       "added_at": "2019-05-24 08:01:00",
       "album": {
-        "name": "Aisle of Palm",
-        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
-      },
-      "artists": [
-        {
-          "name": "Beshken",
-          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
-        }
-      ],
-      "duration_ms": 218311,
-      "name": "White Gemini",
-      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
-    },
-    {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
         "name": "another time (world$tar money)",
         "url": "https://open.spotify.com/album/0bMuRzy7dDIfKgliEaw4DV"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 181681,
       "name": "another time (world$tar money)",
       "url": "https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Aisle of Palm",
+        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
+      },
+      "artists": [
+        {
+          "name": "Beshken",
+          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
+        }
+      ],
+      "duration_ms": 218311,
+      "name": "White Gemini",
+      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -779,22 +779,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Cycle",
-        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
-      },
-      "artists": [
-        {
-          "name": "Su Na",
-          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Cycle",
-      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Home (feat. LEES)",
         "url": "https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
+      },
+      "artists": [
+        {
+          "name": "Su Na",
+          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Canyon",
         "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 189445,
       "name": "Canyon",
       "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "frozenthere",
+        "url": "https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T"
+      },
+      "artists": [
+        {
+          "name": "altopalo",
+          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
+        }
+      ],
+      "duration_ms": 168919,
+      "name": "Frozen Away",
+      "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -847,22 +863,6 @@
       "duration_ms": 259423,
       "name": "Fleur",
       "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "frozenthere",
-        "url": "https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T"
-      },
-      "artists": [
-        {
-          "name": "altopalo",
-          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
-        }
-      ],
-      "duration_ms": 168919,
-      "name": "Frozen Away",
-      "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -931,22 +931,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/0id4OAtEVPbvZHLuTErrF0"
-      },
-      "artists": [
-        {
-          "name": "Hazey Eyes",
-          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "Our Story",
-      "url": "https://open.spotify.com/track/3Q2L3ElOwMYki1aEV5kBQw"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Wave001",
         "url": "https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 182857,
       "name": "Glow",
       "url": "https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/0id4OAtEVPbvZHLuTErrF0"
+      },
+      "artists": [
+        {
+          "name": "Hazey Eyes",
+          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Our Story",
+      "url": "https://open.spotify.com/track/3Q2L3ElOwMYki1aEV5kBQw"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1009,26 +1009,6 @@
       "url": "https://open.spotify.com/track/1G7KYThXAkjO11OhoKr6z1"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "Holiday (Kyson Remix)",
-        "url": "https://open.spotify.com/album/47zoz7TyC4OsXUTOSZiMRx"
-      },
-      "artists": [
-        {
-          "name": "Drinker",
-          "url": "https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur"
-        },
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
-        }
-      ],
-      "duration_ms": 281727,
-      "name": "Holiday - Kyson Remix",
-      "url": "https://open.spotify.com/track/4k9izZqQMgE5nSGYFXQSHZ"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Think Like I Do",
@@ -1047,6 +1027,26 @@
       "duration_ms": 174000,
       "name": "Think Like I Do",
       "url": "https://open.spotify.com/track/2qjwe0mMqOne5HVFrpvdM8"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Holiday (Kyson Remix)",
+        "url": "https://open.spotify.com/album/47zoz7TyC4OsXUTOSZiMRx"
+      },
+      "artists": [
+        {
+          "name": "Drinker",
+          "url": "https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        }
+      ],
+      "duration_ms": 281727,
+      "name": "Holiday - Kyson Remix",
+      "url": "https://open.spotify.com/track/4k9izZqQMgE5nSGYFXQSHZ"
     }
   ],
   "unique_name": "Mellow Mood",

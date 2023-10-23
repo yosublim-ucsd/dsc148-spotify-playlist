@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: ericdoa
 
-1,546 songs - 3 day 2 hr 38 min
+1,547 songs - 3 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,7 +664,8 @@
 | [i think i wanna be alone](https://open.spotify.com/track/1md2KOmyjGwQxuy5W39Lsz) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [i think i wanna be alone](https://open.spotify.com/album/0QhJHjBtJmNy8sfdQU7XoJ) | 1:42 | 2020-10-13\* | 2020-10-16 |
 | [i tried](https://open.spotify.com/track/5SpZDtg5U1W35HNjq1xYrM) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [TYRON](https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj) | 2:14 | 2022-05-09 | 2022-07-23 |
 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2021-03-06 | 2021-10-16 |
-| [I Want To Be Your Only Pet](https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Want To Be Your Only Pet](https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW) | 3:34 | 2023-08-25 |  |
+| [I Want To Be Your Only Pet](https://open.spotify.com/track/0bRtjZg3D4IrSJPLj3Jyhu) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:34 | 2023-09-22 |  |
+| [I Want To Be Your Only Pet](https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Want To Be Your Only Pet](https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW) | 3:34 | 2023-08-25 | 2023-10-23 |
 | [I want to see the World](https://open.spotify.com/track/4bFuEfGVuIrgUxr2bFPrDe) | [Hobo Johnson](https://open.spotify.com/artist/05SdqPzK4m3k1ljK2wrTSP) | [I want to see the World](https://open.spotify.com/album/2otzvA1zirTWTbKDfDBkFN) | 2:53 | 2021-06-05 | 2021-06-19 |
 | [I'LL TAKE YOU ON \(feat\. Charlie Wilson\)](https://open.spotify.com/track/3HeHUhpH7heTjyJU5pBnBp) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [ROADRUNNER: NEW LIGHT, NEW MACHINE](https://open.spotify.com/album/6sPcgDto5EI6EBPc2jhDC7) | 4:14 | 2021-04-10 | 2021-09-04 |
 | [I'm a Mess](https://open.spotify.com/track/1cfoP2ZOuwM5mcFUsZ1UH9) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [I'm a Mess](https://open.spotify.com/album/2mqY2v3uVMRYNFTERP3812) | 2:16 | 2022-02-11 | 2022-03-01 |

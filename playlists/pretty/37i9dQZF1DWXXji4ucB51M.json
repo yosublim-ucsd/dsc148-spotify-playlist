@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 104002,
+  "num_followers": 104001,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTM5ZTcwZmIyYWE5MmZkMDViMjVkMzE2OGM3NTNiYTBlNDU2MzQ3",
+  "snapshot_id": "MCw3ZGJkNDMwOGE3MWUzNjBlYWVlMDMzMGNjODgxODBkNjRiMTFlZWY3",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 163861,
-      "name": "strawberry lipstick",
-      "url": "https://open.spotify.com/track/75ELnvpSiymLZVmYvqyvZJ"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Honey Boo",
         "url": "https://open.spotify.com/album/2MtqE42Ibi1CWWiyMRb8rr"
       },
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 163861,
+      "name": "strawberry lipstick",
+      "url": "https://open.spotify.com/track/75ELnvpSiymLZVmYvqyvZJ"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
         "name": "If You\u2019re Too Shy (Let Me Know)",
         "url": "https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 239876,
       "name": "If You\u2019re Too Shy (Let Me Know) - Edit",
       "url": "https://open.spotify.com/track/3iEqGBZ2wcpVzhiAcwXVC6"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "The Bitter Truth",
+        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 264312,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/6SeiHTSmnC6CJ9tGvVLdMR"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -1175,22 +1191,6 @@
       "duration_ms": 170040,
       "name": "Dear Future Self (Hands Up)",
       "url": "https://open.spotify.com/track/1tm4Bl2E5RwTevOiBs4gtH"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
-        "name": "The Bitter Truth",
-        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 264312,
-      "name": "Wasted On You",
-      "url": "https://open.spotify.com/track/6SeiHTSmnC6CJ9tGvVLdMR"
     },
     {
       "added_at": "2020-08-24 22:19:29",

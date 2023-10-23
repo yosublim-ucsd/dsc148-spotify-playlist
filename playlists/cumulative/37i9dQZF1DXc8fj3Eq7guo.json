@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Ghana",
+        "url": "https://open.spotify.com/album/28pQbxgVu4UVBQwpQ3xIq8"
+      },
+      "artists": [
+        {
+          "name": "JJ PAULO",
+          "url": "https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137771,
+      "name": "Ghana",
+      "url": "https://open.spotify.com/track/6Lqg26xjGQzxQLo851bWnW"
+    },
+    {
+      "album": {
         "name": "What Happens in Lagos",
         "url": "https://open.spotify.com/album/3U8mj36DD0Rv3f3LlT1lrk"
       },
@@ -792,7 +810,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 418000,
       "name": "Morogoro",
       "url": "https://open.spotify.com/track/653sdYtuZPYKZHr6GRplOX"

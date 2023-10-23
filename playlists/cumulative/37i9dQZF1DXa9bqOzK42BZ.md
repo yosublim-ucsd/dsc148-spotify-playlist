@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=CSlMLdDUSfe4j7XF9eK4Ng">Christina Shusho</a>
 
-120 songs - 11 hr 25 min
+121 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Mimi Ni Wa Juu](https://open.spotify.com/track/13uQrjPPEOv9pVfTJm14LU) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Mimi Ni Wa Juu](https://open.spotify.com/album/6OYWPLTZstNkzi8de2fRdB) | 3:50 | 2022-06-24 |  |
 | [Mimi Ni Wa Juu](https://open.spotify.com/track/1LaX0UP4cGeNNTO97BfVdW) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Mimi Ni Wa Juu](https://open.spotify.com/album/0tGxET5L3eT9Sd8JzEmTma) | 3:51 | 2022-06-24 | 2022-07-29 |
 | [MIPANGO YA MUNGU \- LIVE](https://open.spotify.com/track/4WtjItEj1oDmzoGnMww63A) | [Jemmimah Thiong'o](https://open.spotify.com/artist/5qSYakkSOUagBtuyQE7CDC) | [BY FAITH ALL THE WAY \(LIVE\)](https://open.spotify.com/album/0BYK7CQapZgEasptDNl9Gr) | 5:32 | 2023-07-07 |  |
-| [Mlima \- Live](https://open.spotify.com/track/3Bb5vkZxM7QtO0JCiwcEFc) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Mlima \(Live\)](https://open.spotify.com/album/2VxeSdAk3b1vBgCUpxO1Em) | 10:23 | 2022-06-24 |  |
+| [Mlima \- Live](https://open.spotify.com/track/3Bb5vkZxM7QtO0JCiwcEFc) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Mlima \(Live\)](https://open.spotify.com/album/2VxeSdAk3b1vBgCUpxO1Em) | 10:23 | 2022-06-24 | 2023-10-23 |
+| [Mlima \- Live](https://open.spotify.com/track/3KMb9RdwHVN5yblwN7GyNF) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Higher + Deeper \(Live in Dar Es Salaam\)](https://open.spotify.com/album/3Vsi0VHAZvFXHQg5RKho0T) | 10:23 | 2022-06-24 |  |
 | [Moyo Wangu](https://open.spotify.com/track/2QhujhH9Sq63INScYDMa0Z) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Coeur à Coeur](https://open.spotify.com/album/49ssUVOK4uqFvzQyVHNFkh) | 5:09 | 2022-06-24 |  |
 | [MOYO WANGU BMM Yombo Vituka](https://open.spotify.com/track/6X7sY5M6IziPbUJyG0G2xl) | [FLSA\_ENTERTAINMENT](https://open.spotify.com/artist/4KxxxfPxkFJ2IbWfVMU1Ye) | [EASTER PASAKA YETU](https://open.spotify.com/album/2sYU0Di9FKjrdTBn1nYQ1S) | 8:18 | 2022-06-24 |  |
 | [Msaada](https://open.spotify.com/track/3QxGvXzFz43WkhdhwOXDGY) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL), [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Msaada](https://open.spotify.com/album/0JfHXADJpWRHgHB1XPg1k1) | 4:04 | 2023-10-20 |  |

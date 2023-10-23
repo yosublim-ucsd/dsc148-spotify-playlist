@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Bou
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,357 likes - 55 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,427 likes - 55 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 36 | [Break It Down](https://open.spotify.com/track/5pg0g6o6ePcRHiQOxgzDMd) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Break It Down](https://open.spotify.com/album/3Wexk9iIasCfB4h57xcFzw) | 3:23 |
 | 37 | [Nightmares](https://open.spotify.com/track/6mzDDGA0c1eNIFRqMt6kB1) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Nightmares](https://open.spotify.com/album/2lQ23jZfDgcb2s4v47W1NK) | 3:01 |
 | 38 | [Rampage Anthem VIP](https://open.spotify.com/track/0m9BpxJvsHlPTyQta201uF) | [SASASAS](https://open.spotify.com/artist/7CKAyjXz7Z7se4oGh07mGe), [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [DJ Phantasy](https://open.spotify.com/artist/4yavtFwoJqzLN6uZvbU1Ai), [MC Shabba D](https://open.spotify.com/artist/3mNLI3NXEFH2CoYFDRN2vr), [Stormin MC](https://open.spotify.com/artist/0qaij0H7kB9o3YtANjvkiM), [MC Skibadee](https://open.spotify.com/artist/22VzVYdRYWrUqjbUD28huU), [Harry Shotta](https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb) | [Rampage Anthem VIP](https://open.spotify.com/album/69szID4oSWL2iSddE56ryG) | 3:46 |
-| 39 | [Freak \- Used Remix](https://open.spotify.com/track/48261IylfaueSdk1XKX0nh) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Freak \(Used Remix\)](https://open.spotify.com/album/0y7mYfre8eBAUSpHVCRFXY) | 4:12 |
-| 40 | [Forever Changes](https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Forever Changes](https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6) | 3:04 |
+| 39 | [Forever Changes](https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Forever Changes](https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6) | 3:04 |
+| 40 | [Freak \- Used Remix](https://open.spotify.com/track/48261IylfaueSdk1XKX0nh) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Freak \(Used Remix\)](https://open.spotify.com/album/0y7mYfre8eBAUSpHVCRFXY) | 4:12 |
 | 41 | [Lightspeed](https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Back To Normal](https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9) | 4:28 |
 | 42 | [You & I](https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Patch Edison](https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI) | [Essence](https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9) | 3:57 |
 | 43 | [Dancing in the Dark](https://open.spotify.com/track/3DZExPtWIJE8LPMCLpHGxK) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Buunshin](https://open.spotify.com/artist/5ucX3eT8wlEQGRVwUyeqBj) | [Dancing in the Dark](https://open.spotify.com/album/35bk4rPp9c8t7wEmXgrBFU) | 2:47 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 48 | [Empire](https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Empire](https://open.spotify.com/album/33h47MZRYtzLnHjLTIPIFn) | 6:07 |
 | 49 | [Transcend](https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Transcend](https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8) | 4:52 |
 | 50 | [Ultralight](https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight](https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI) | 3:43 |
-| 51 | [Now Wait](https://open.spotify.com/track/6lIl5VaoIh9NnG73KJtiAm) | [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E) | [Now Wait](https://open.spotify.com/album/29zLqmECn4j5RLalG5Mu1g) | 4:31 |
-| 52 | [High Roller](https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [High Roller](https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM) | 4:35 |
+| 51 | [High Roller](https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [High Roller](https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM) | 4:35 |
+| 52 | [Now Wait](https://open.spotify.com/track/6lIl5VaoIh9NnG73KJtiAm) | [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E) | [Now Wait](https://open.spotify.com/album/29zLqmECn4j5RLalG5Mu1g) | 4:31 |
 | 53 | [All Night](https://open.spotify.com/track/6D0sSoC203d1T7ojLff5vs) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ) | [All Night](https://open.spotify.com/album/69tWFPs75Z5mThgLAdQ3xt) | 4:41 |
 | 54 | [Spotlight](https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Redemption](https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h) | 3:45 |
 | 55 | [Do It Like Me](https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Complex](https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Do It Like Me](https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR) | 3:24 |
 
-Snapshot ID: `MCxmYmE3YjI3OTc1NzYzNzRlNmRmMDdhNjZmMjBiY2U0MWIzYjA5YjRj`
+Snapshot ID: `MCw0YjMxMWNiYTM5ZmVkNjJmYjE2M2ExYzM1ZTdiNWVkZWI4NWQ3NzFk`

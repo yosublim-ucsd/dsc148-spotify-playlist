@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,820 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,833 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 98 | [Evighet](https://open.spotify.com/track/4cEN3svbqObdDpaZiv9sWP) | [Död Mark](https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9) | [Död Mark 4Evigt](https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft) | 2:37 |
 | 99 | [Ragdoll](https://open.spotify.com/track/3tjtbPyiHve15Hr8RULO9J) | [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY) | [Ragdoll](https://open.spotify.com/album/373SKtxQAt2HsC6qCARaoC) | 2:53 |
 
-Snapshot ID: `MCw5N2ZjOTQ3ZDdjMDk5NDg5NzVjNjA4YWVmOWQxZDU3ZmQ0ZWRjMDZk`
+Snapshot ID: `MCxkN2IwMmNjNjM3ZDdkYjcwM2UwNGRkNzFlNDRmY2QwYmJkOGRiNzIz`

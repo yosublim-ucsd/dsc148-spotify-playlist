@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBevLcUtH0o.md) - [plain]
 
 > When the music and the message is honest, songs can be both personal and universal\.   Here is a list that pushes and reflects the culture at large.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,220 likes - 52 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,233 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBevLcUtH0o.md) - [plain]
 | 45 | [King](https://open.spotify.com/track/3Klw5pno7AxSdl1W7IFSuW) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [H.U.R.T.](https://open.spotify.com/artist/1mOPjLn8di3tMig4uO4Fgq) | [Crowns & Crosses](https://open.spotify.com/album/7pxrgXnK0sYcH0Z1bJ9Joy) | 4:29 |
 | 46 | [Crooked Ways](https://open.spotify.com/track/2IKm4pDopgAgBSVKZd2Fqw) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Terence F\. Clark](https://open.spotify.com/artist/1POjjGDdXoEeXv27GsMxp5) | [Crooked](https://open.spotify.com/album/0DzwXN6eBlVAU3qCslDgv4) | 6:22 |
 | 47 | [Flood](https://open.spotify.com/track/5uM243tBt7bWKDrXH8HbJv) | [Davis Absolute](https://open.spotify.com/artist/3ky8U0naf7LBnhlA1VC5IW) | [Flood](https://open.spotify.com/album/6aPYWi3ttbbolu1wapO4p4) | 3:15 |
-| 48 | [Free](https://open.spotify.com/track/4Nwg7uzEwzvZn4benVKUxi) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Free \- Single](https://open.spotify.com/album/23gjUd99fxgxYtKqgA4VCT) | 4:31 |
+| 48 | [Free](https://open.spotify.com/track/4k7MdzaPet3T4AwBWGFRCV) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Free](https://open.spotify.com/album/1zHaOgQHRG3d9ixL5AQLR2) | 4:31 |
 | 49 | [Made Straight](https://open.spotify.com/track/2eLwiHI5DFTgVOXzzx1iD9) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Crooked](https://open.spotify.com/album/0DzwXN6eBlVAU3qCslDgv4) | 5:49 |
 | 50 | [Dangerous Streets \(feat\. M.A.L.I.\)](https://open.spotify.com/track/6ruOgK80AAJlVlHqBkA21Q) | [Mouthpi3ce](https://open.spotify.com/artist/5ccLg9PXtgNpXdkIzw7Pvw) | [No Grey Lines](https://open.spotify.com/album/5U64ACHc6y4CqyYbFKAbpa) | 4:02 |
 | 51 | [One Day](https://open.spotify.com/track/6oH5sjilDhOF7cZpkocOJc) | [Lawren](https://open.spotify.com/artist/2g6ZseL9bJT7cB4T0BdiXj), [Beleaf](https://open.spotify.com/artist/7N204QRVuZ3LCoVkKRPf1T) | [Pieces](https://open.spotify.com/album/6ricKbHwORwyebGUNEKkw7) | 2:18 |
 | 52 | [No Hate \(feat\. Bumps Inf\)](https://open.spotify.com/track/4JFHumqDdqiJ8hzazjZT23) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Bumps Inf](https://open.spotify.com/artist/0kbnFIVENMVtl0VBSwdysP) | [Surrender](https://open.spotify.com/album/4lMRz04k2wnJmf2Yr3F15E) | 3:51 |
 
-Snapshot ID: `MCw5NTEyNjM2ZmRhNDY0M2QyMWY5OWNiNjRmNjkzMzIzNWUxYzc3Njll`
+Snapshot ID: `MCwyNTMyZTJjY2E1MmZlOTg1MGJiMzgxNzhkZDY2NTM4MTdlNWE5ZmRi`

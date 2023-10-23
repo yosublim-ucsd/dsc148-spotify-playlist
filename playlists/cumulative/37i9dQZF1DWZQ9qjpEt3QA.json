@@ -2305,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "Legend 1980",
+        "url": "https://open.spotify.com/album/7GvxIxq9KFEQvDTs50rufn"
+      },
+      "artists": [
+        {
+          "name": "\u529b\u81fb",
+          "url": "https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244154,
+      "name": "\u90fd\u5e02\u722c\u884c",
+      "url": "https://open.spotify.com/track/6QF0AjR4gtQjpeZhf9s81v"
+    },
+    {
+      "album": {
         "name": "\u90fd\u5e02\u722c\u884c",
         "url": "https://open.spotify.com/album/0Xd99sbVdjE8Ep1VpnGx3S"
       },
@@ -2316,7 +2334,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 244154,
       "name": "\u90fd\u5e02\u722c\u884c",
       "url": "https://open.spotify.com/track/6qram8pcVilZUa5P2Zx0oG"

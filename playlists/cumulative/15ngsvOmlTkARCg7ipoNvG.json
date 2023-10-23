@@ -4659,6 +4659,24 @@
     },
     {
       "album": {
+        "name": "Dona Nobis Pacem (Grand Piano Version)",
+        "url": "https://open.spotify.com/album/5dC0frMVVY8QhpiYVJO2KP"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Echoes",
+          "url": "https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC"
+        }
+      ],
+      "date_added": "2023-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64327,
+      "name": "Dona Nobis Pacem - Grand Piano Version",
+      "url": "https://open.spotify.com/track/7l1IhG5robhlqJquzedp0m"
+    },
+    {
+      "album": {
         "name": "Dona Nobis Pacem Arr. For Grand Piano",
         "url": "https://open.spotify.com/album/2VVdmXV3QuwhF5u8GUw7gV"
       },

@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,760 songs - 3 day 6 hr 52 min
+1,761 songs - 3 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,7 @@
 | [Escaping Reality](https://open.spotify.com/track/7yMHwH6DywcjlVhTWtjlvs) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Escaping Reality](https://open.spotify.com/album/0fBSqtlGo2gheiYkSZqdjV) | 3:02 | 2021-03-10 | 2022-04-15 |
 | [Eselsbrücke](https://open.spotify.com/track/230vejrWpxzH8YQmEQZS3K) | [Heike Blau](https://open.spotify.com/artist/3dcO6J0QtVq4xwePBwkq3W) | [Eselsbrücke](https://open.spotify.com/album/7kGv4jUzQ3yus7kMOsqbzi) | 2:21 | 2022-04-14 | 2022-04-19 |
 | [Eskilso](https://open.spotify.com/track/5Wn4IspBj6auYHTwsEKanx) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Eskilso](https://open.spotify.com/album/69qs0SeMBSp8Gx7G9IyYsq) | 2:15 | 2021-11-19 | 2022-01-12 |
-| [Estelle](https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb) | [Doris Casella](https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ) | [Estelle](https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY) | 1:58 | 2022-05-13 |  |
+| [Estelle](https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb) | [Doris Casella](https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ) | [Estelle](https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY) | 1:58 | 2022-05-13 | 2023-10-23 |
 | [Et spørgsmål](https://open.spotify.com/track/6d6yZionLIexUZpzbrh4Gq) | [Tosh Møller](https://open.spotify.com/artist/2CUZliHXKYjXEV2BOZqMvi) | [Et spørgsmål](https://open.spotify.com/album/6bvkPH8RTKxTI75DujyeYV) | 2:05 | 2021-05-18 | 2022-04-20 |
 | [Eternity](https://open.spotify.com/track/18cs2lrsWuS7AVptA4FtvC) | [Roman Nadler](https://open.spotify.com/artist/6PJNmKUT1INuhRkWesPjLK) | [Eternity](https://open.spotify.com/album/3zObeyDAK82cibzDbSBh2u) | 2:29 | 2022-03-29 | 2022-04-04 |
 | [Eternity](https://open.spotify.com/track/0ZTkd15cwmZiOmtb8Gg3q5) | [String Astronauts](https://open.spotify.com/artist/3uesHPllAYmqsy4sdQqFJr) | [Eternity](https://open.spotify.com/album/5F9HeSB4R2MUHZ9IUPC0ry) | 2:50 | 2021-03-10 | 2021-03-17 |
@@ -1566,6 +1566,7 @@
 | [To Brodie](https://open.spotify.com/track/5ByK15THRduWp3LYKJrx5p) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [To Brodie](https://open.spotify.com/album/2q5nbVAbsFkfwvdarg2Da2) | 2:16 | 2021-03-17 | 2022-04-14 |
 | [to god knows where \- silence](https://open.spotify.com/track/7a4ZCgxbjGlcOEDXeadkGS) | [BigRicePiano](https://open.spotify.com/artist/6NZehyzoXBTOmvFzJyp6RV) | [to god knows where](https://open.spotify.com/album/3IkfQcMF1gPMIessnYkMg1) | 3:24 | 2023-04-15 | 2023-07-17 |
 | [To Let Go](https://open.spotify.com/track/2MUBJrvs9yanwhD9HZnXUB) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 2:26 | 2022-09-29 | 2022-12-25 |
+| [To New Beginnings](https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [To New Beginnings](https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui) | 2:09 | 2023-10-17 |  |
 | [To the Rain](https://open.spotify.com/track/025aQi6Ffw676y8m4zLPk7) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [To the Rain](https://open.spotify.com/album/30HSC1ogeWpwBZXroMTTDW) | 2:25 | 2022-09-29 | 2022-12-24 |
 | [To You Again](https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [To You Again](https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm) | 2:08 | 2021-12-21 | 2022-12-13 |
 | [To You I Promise](https://open.spotify.com/track/0CdK66oFSkXcMeByNepB9C) | [Marion Jennings](https://open.spotify.com/artist/248oRp4ueWg44sVGXXqUhY) | [To You I Promise](https://open.spotify.com/album/5RuKgBDDuZMxfJhKzV9fgE) | 2:10 | 2021-03-23 | 2022-04-20 |

@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-256 songs - 12 hr 33 min
+257 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Forest Night](https://open.spotify.com/track/3GPHBNaJEtE7cB2XvTes0o) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Forest Night](https://open.spotify.com/album/2J6U4M4eojgtfsah2x4tNb) | 2:12 | 2023-03-31 |  |
 | [Forms](https://open.spotify.com/track/6MePLoqcI97WjWyx5Sq2JV) | [Zonara](https://open.spotify.com/artist/66vglaSm3akRPCCPcc86mm) | [Forms](https://open.spotify.com/album/3RxxsAszW6YwW9YdPvWn8z) | 2:40 | 2023-03-31 |  |
 | [Four Months](https://open.spotify.com/track/7mKa4BPGbRgRt9OQq8NNtY) | [Leyre Bacque](https://open.spotify.com/artist/3cSOS105ZsQjSVzTf8Gc1L) | [Four Months](https://open.spotify.com/album/3xsuA6xUgUzUWoZ88GBoG6) | 2:37 | 2023-03-31 |  |
-| [Framandi](https://open.spotify.com/track/5yP77S2R52lPrfCEhQekCF) | [Syfjaður](https://open.spotify.com/artist/5kdOHIeSUebjZdlYo7rZb0) | [Framandi](https://open.spotify.com/album/4KzDuHiXkG0TT0NHivvLDX) | 3:01 | 2023-03-31 |  |
+| [Framandi](https://open.spotify.com/track/5yP77S2R52lPrfCEhQekCF) | [Syfjaður](https://open.spotify.com/artist/5kdOHIeSUebjZdlYo7rZb0) | [Framandi](https://open.spotify.com/album/4KzDuHiXkG0TT0NHivvLDX) | 3:01 | 2023-03-31 | 2023-10-23 |
 | [From Ice to Water](https://open.spotify.com/track/3ddCRaKiwydCnvYSy6tL2D) | [Debyah](https://open.spotify.com/artist/3hw1f70k0kbqoslclzORGa) | [From Ice to Water](https://open.spotify.com/album/2eREwlxTjnvkpVI5lFmvZB) | 3:01 | 2023-03-31 |  |
 | [Ganymede](https://open.spotify.com/track/6gW7wl7Dbzvv4Az3RbolkD) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Ganymede](https://open.spotify.com/album/29sGh5uT3kHsrjPF7ASy89) | 2:32 | 2023-03-31 |  |
 | [Garden Charm](https://open.spotify.com/track/6TkkTtMH7X4E8B4GDIYznl) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Garden Charm](https://open.spotify.com/album/6EglOGkaaosZN9Iw2UQhSz) | 3:16 | 2023-03-31 | 2023-09-01 |
@@ -212,6 +212,7 @@
 | [Sineway](https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Sineway](https://open.spotify.com/album/3pm1lsNsbrEeOAJqts6hOO) | 2:21 | 2023-03-31 | 2023-09-16 |
 | [Sleepy Octaves](https://open.spotify.com/track/4yxzs04RjHm7phdG6qNgUH) | [Remi Asana](https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc) | [Sleepy Octaves](https://open.spotify.com/album/1JeQa2LsszYiBLHlPiwZFU) | 2:13 | 2023-03-31 |  |
 | [Sluimeren](https://open.spotify.com/track/66pwfPIsgHrqmpq30wUTjE) | [Chaima Bergevoet](https://open.spotify.com/artist/5fjdDidIgzZ6pFIXk3q5Bj) | [Sluimeren](https://open.spotify.com/album/42yS37sBL5qc7cjkaowUsC) | 2:59 | 2023-03-31 |  |
+| [Snowflake](https://open.spotify.com/track/3IftdsEdhYBjFenO3VWDht) | [Amanda Wildt](https://open.spotify.com/artist/4acmjvEdOPeKKwiRv3hZ4h) | [Snowflake](https://open.spotify.com/album/1huCY9aSFYlnJ3FyI4eaI8) | 3:02 | 2023-10-20 |  |
 | [Soft Ardour](https://open.spotify.com/track/1iL1vDGQ1OAf8wW5lqzXMa) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Soft Ardour](https://open.spotify.com/album/0BTuhivz5n6te5nMjtMENN) | 2:31 | 2023-03-31 |  |
 | [Sogno Illuminum](https://open.spotify.com/track/2XwakW5X0FkLa7xGfgDwot) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Sogno Illuminum](https://open.spotify.com/album/278BtYoGB8VN4tnOcsTyHu) | 2:20 | 2023-03-31 |  |
 | [Somnium](https://open.spotify.com/track/1AAarJ2ZVp2JNvoRY43V41) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Somnium](https://open.spotify.com/album/3A13wz1QjS5umrWC7sEA7L) | 2:14 | 2023-03-31 |  |

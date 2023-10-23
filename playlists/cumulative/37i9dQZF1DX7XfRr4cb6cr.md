@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-247 songs - 20 hr 48 min
+248 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [And A Twist](https://open.spotify.com/track/1OA0e38XJKFh8rcGhmHRLg) | [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Observation of Breath](https://open.spotify.com/album/2XGBwfEC7ovLUTttUVUpmZ) | 2:42 | 2022-01-21 |  |
 | [Ardent](https://open.spotify.com/track/28XnWGHQ1c3fhxZGBbJVKb) | [Giuliano Poles](https://open.spotify.com/artist/3BvVMUz8byTqm9nFMezZk4) | [Ardent](https://open.spotify.com/album/3NuQL86Pn1mTYcej6XwOCI) | 2:12 | 2023-01-27 | 2023-03-10 |
 | [Arena](https://open.spotify.com/track/6BydEdGxofGj0FmP6BVG1E) | [Julian Gomez](https://open.spotify.com/artist/5aPdwHVVmfNKqm4CcTZIIq) | [62000 \| 62508](https://open.spotify.com/album/4MxHMfindjyks5Qq4t8tR1) | 4:24 | 2022-01-28 | 2022-07-29 |
+| [ascending](https://open.spotify.com/track/7fNXK4v2n9IlxrN90o7R9o) | [Oscuro](https://open.spotify.com/artist/2FYj4Dc7l6f8JyLB2I3eLl), [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [ascending](https://open.spotify.com/album/1C2CwoRoJkLC2pVvvDLtBR) | 2:51 | 2023-10-23 |  |
 | [Ascent](https://open.spotify.com/track/6IV2VvCA0li8ShOy03haGf) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [ThePianoPlayer](https://open.spotify.com/artist/53W6G847URB4LUmls2hLjD) | [Ascent](https://open.spotify.com/album/0dt7jRDx1D3f2q9TKSDwoU) | 5:02 | 2022-01-21 | 2022-07-26 |
 | [Ascent](https://open.spotify.com/track/1qQUvt1yMWwgGKtdNuQMgX) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Ascent](https://open.spotify.com/album/2t7gXzOW5dPHmPuLUdlzxM) | 6:47 | 2023-01-13 | 2023-02-21 |
 | [Ashes](https://open.spotify.com/track/2m1XpzhxIr7l7dEyrYX5dQ) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:03 | 2022-07-01 |  |
@@ -96,7 +97,7 @@
 | [Hávamál](https://open.spotify.com/track/5dURxMxfTaxka4rsMlGC3m) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Winter Ashes](https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N) | 5:18 | 2022-01-21 |  |
 | [i don't know](https://open.spotify.com/track/6IdTGiVPwOhI5kJCH32Ue5) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy), [Miranda Rain](https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c) | [i don't know](https://open.spotify.com/album/2AUH1ICjCVPn89ToFgeqyg) | 1:57 | 2023-06-29 | 2023-10-06 |
 | [i lost my heart \- Slowed + Reverb](https://open.spotify.com/track/6E7srZ5EkQ4oOmqB3iU4Bo) | [auroratønes](https://open.spotify.com/artist/25xv3luiiLhzEWDSk0SOmy), [$adness](https://open.spotify.com/artist/6jiqToMlWSzv4F4IH4Knf6) | [i lost my heart \(Slowed + Reverb\)](https://open.spotify.com/album/40HHfGDkYr6GM6ANlH74un) | 2:48 | 2023-09-01 |  |
-| [I See Your Picture, It's in the Same Old Frame](https://open.spotify.com/track/1admOcHNEDufX4KbPM6zqC) | [Katia Krow](https://open.spotify.com/artist/2YykFr6zggCoi2GHZbFlSG) | [I've Called off the Search, I Know Exactly Where You Are](https://open.spotify.com/album/1Gsd8mV3HxMu4uqimgh8yu) | 2:47 | 2022-07-22 |  |
+| [I See Your Picture, It's in the Same Old Frame](https://open.spotify.com/track/1admOcHNEDufX4KbPM6zqC) | [Katia Krow](https://open.spotify.com/artist/2YykFr6zggCoi2GHZbFlSG) | [I've Called off the Search, I Know Exactly Where You Are](https://open.spotify.com/album/1Gsd8mV3HxMu4uqimgh8yu) | 2:47 | 2022-07-22 | 2023-10-23 |
 | [i'm lost](https://open.spotify.com/track/2gZvLUKJiPWCmFrTTnVThH) | [Magician of W21](https://open.spotify.com/artist/4qWysN8Ub3gWFUXjkZrsck) | [darkpath](https://open.spotify.com/album/3y4UnRclOikrK3o9NAJgbD) | 1:19 | 2023-02-17 | 2023-10-06 |
 | [In Time You Will](https://open.spotify.com/track/1SET0qRs8EQwmARr4heA63) | [Kenneth James Gibson](https://open.spotify.com/artist/02YQpuCkgfk5jhZJSqjQdG) | [In Time You Will](https://open.spotify.com/album/2iu3K2wnI5e1oDQz5zVSLj) | 6:08 | 2022-03-25 | 2022-07-29 |
 | [In Waves](https://open.spotify.com/track/4M9tpdXFcV41nJgLiuEEM8) | [Loke Rahbek](https://open.spotify.com/artist/6fiX1FdXGRLUMN8xvwfgpw), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y), [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz) | [Elephant](https://open.spotify.com/album/5dcLbUaWSJPcYykHbhEIBs) | 3:16 | 2022-01-21 |  |

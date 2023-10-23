@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 36914,
+  "num_followers": 36958,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmFlMTM3YzRkNzRhN2M1NWE5N2JjYzVlNWMwNjgzYTBlMWQ3NmZl",
+  "snapshot_id": "MCwwZjVlNTQ1MzZkNjVmNGY5ZDlkZDBlNmY4ZTQxODg1NTNhZDA2N2E0",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
-        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
-      },
-      "artists": [
-        {
-          "name": "Flor Sinque\u00f1a",
-          "url": "https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe"
-        }
-      ],
-      "duration_ms": 160640,
-      "name": "Vas a Llorar",
-      "url": "https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Como Siempre Con El Mayor Cari\u00f1o",
         "url": "https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 224773,
       "name": "Adi\u00f3s Pueblo De Ayacucho",
       "url": "https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
+        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
+      },
+      "artists": [
+        {
+          "name": "Flor Sinque\u00f1a",
+          "url": "https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe"
+        }
+      ],
+      "duration_ms": 160640,
+      "name": "Vas a Llorar",
+      "url": "https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "El Imperio de los Apus",
-        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
-      },
-      "artists": [
-        {
-          "name": "Los Apus",
-          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Sirwana",
-      "url": "https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Soy Provinciano",
         "url": "https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 382876,
       "name": "Soy Provinciano",
       "url": "https://open.spotify.com/track/3ZkFqIPa7HL9ijEiONlUpf"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "El Imperio de los Apus",
+        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
+      },
+      "artists": [
+        {
+          "name": "Los Apus",
+          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Sirwana",
+      "url": "https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Soy Provinciano",
+        "url": "https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt"
+      },
+      "artists": [
+        {
+          "name": "Pumita Cazador",
+          "url": "https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks"
+        }
+      ],
+      "duration_ms": 340584,
+      "name": "La Cornuda",
+      "url": "https://open.spotify.com/track/6OzTUt05pxFJAFJjGPxqU5"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Huayno, Vol. 2",
         "url": "https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 167466,
       "name": "Sihuarsito",
       "url": "https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Cantares Huaracinos",
-        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
-      },
-      "artists": [
-        {
-          "name": "Jilguero Del Huascar\u00e1n",
-          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "Carrito del Gobierno",
-      "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Cantares Huaracinos",
+        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
+      },
+      "artists": [
+        {
+          "name": "Jilguero Del Huascar\u00e1n",
+          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "Carrito del Gobierno",
+      "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "La Nueva Expresi\u00f3n del Folklore de Bolivia",
         "url": "https://open.spotify.com/album/0X1nBJpPBaIT8mFh0XnBoU"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 240293,
       "name": "Un Pasajero en T\u00fa Camino",
       "url": "https://open.spotify.com/track/3LZccAbS0T0UdH661mUno3"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Soy Provinciano",
-        "url": "https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt"
-      },
-      "artists": [
-        {
-          "name": "Pumita Cazador",
-          "url": "https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks"
-        }
-      ],
-      "duration_ms": 340584,
-      "name": "La Cornuda",
-      "url": "https://open.spotify.com/track/6OzTUt05pxFJAFJjGPxqU5"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

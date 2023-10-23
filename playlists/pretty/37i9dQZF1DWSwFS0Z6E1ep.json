@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 230105,
+  "num_followers": 230241,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTlmYTY1MzQzZGM4NTViOGI1MTU4YWI5MTE3YjkwYTI2ZmJlODJi",
+  "snapshot_id": "MCw3YTE1Y2U2NWY2YWNjMjJlMzc3NjQ4NjUwYjI2ZGI4ODQzN2IzZTA5",
   "tracks": [
     {
       "added_at": "2022-06-07 05:25:13",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 127560,
-      "name": "Heartbreak Hotel",
-      "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 172400,
       "name": "Whole Lot of Shakin' Going On",
       "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 127560,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2043,18 +2043,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records - Rockabilly Archive",
-        "url": "https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL"
+        "name": "Cliff: Cliff Sings",
+        "url": "https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er"
       },
       "artists": [
         {
-          "name": "Dean Beard",
-          "url": "https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5"
+          "name": "Cliff Richard & The Drifters",
+          "url": "https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b"
         }
       ],
-      "duration_ms": 139181,
-      "name": "Rock Around The Town",
-      "url": "https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh"
+      "duration_ms": 138133,
+      "name": "Move It - Live; 1998 Remaster",
+      "url": "https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2075,18 +2075,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Cliff: Cliff Sings",
-        "url": "https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er"
+        "name": "Sun Records - Rockabilly Archive",
+        "url": "https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL"
       },
       "artists": [
         {
-          "name": "Cliff Richard & The Drifters",
-          "url": "https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b"
+          "name": "Dean Beard",
+          "url": "https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5"
         }
       ],
-      "duration_ms": 138133,
-      "name": "Move It - Live; 1998 Remaster",
-      "url": "https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA"
+      "duration_ms": 139181,
+      "name": "Rock Around The Town",
+      "url": "https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh"
     },
     {
       "added_at": "2022-06-07 05:25:13",

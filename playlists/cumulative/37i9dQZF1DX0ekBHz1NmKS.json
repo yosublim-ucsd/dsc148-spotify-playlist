@@ -4027,6 +4027,24 @@
     },
     {
       "album": {
+        "name": "Faller l\u00e5gt",
+        "url": "https://open.spotify.com/album/6CicQWy2IYtoeEG3rgnjiH"
+      },
+      "artists": [
+        {
+          "name": "Ellen Bergelin",
+          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Faller l\u00e5gt",
+      "url": "https://open.spotify.com/track/084ybk6C8yqXeywfJzOlcM"
+    },
+    {
+      "album": {
         "name": "Faller tillbaks",
         "url": "https://open.spotify.com/album/17dugdiTQctuhzPaPAEeYb"
       },
@@ -10208,7 +10226,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 142849,
       "name": "Peak of life",
       "url": "https://open.spotify.com/track/2PwaDY6hpMwb1RZCb10Gkf"
@@ -12868,7 +12886,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 190768,
       "name": "Sunshine Trippin'",
       "url": "https://open.spotify.com/track/3Zvi71vJCbrGOBaYk2Bcp4"
@@ -13998,6 +14016,24 @@
       "duration_ms": 178780,
       "name": "Trip",
       "url": "https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq"
+    },
+    {
+      "album": {
+        "name": "Tr\u00e4ffa andra",
+        "url": "https://open.spotify.com/album/3dVduJktcL11MXUDkH6I9I"
+      },
+      "artists": [
+        {
+          "name": "Sebbe Hauta",
+          "url": "https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163361,
+      "name": "Tr\u00e4ffa andra",
+      "url": "https://open.spotify.com/track/12xfklEh742AncfxxkSIzY"
     },
     {
       "album": {

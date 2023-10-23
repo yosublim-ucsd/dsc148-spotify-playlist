@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1980s\. Cover: Michael Jackson.
 
-681 songs - 2 day 0 hr 19 min
+682 songs - 2 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Carrie](https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:32 | 2019-06-26 | 2022-11-13 |
 | [Celebration](https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebrate!](https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI) | 4:58 | 2020-12-22 |  |
 | [Cendrillon \- Remasterisé en 2015](https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my) | [Téléphone](https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK) | [Dure limite \(Remasterisé en 2015\)](https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf) | 3:58 | 2019-08-26 | 2019-08-27 |
-| [Centerfold](https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Freeze Frame](https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch) | 3:36 | 2019-06-21 |  |
+| [Centerfold](https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Freeze Frame](https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch) | 3:36 | 2019-06-21 | 2023-10-23 |
 | [Chain Reaction](https://open.spotify.com/track/2S9lDlH0ZLVwpJiRQUdLJE) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Love and Life: The Very Best of Diana Ross](https://open.spotify.com/album/6syCFYImxKPSf6G8Oh3bIq) | 3:50 | 2022-06-02 | 2022-07-29 |
 | [Cheri Cheri Lady](https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr) | [Modern Talking](https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7) | [Let's Talk About Love](https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr) | 3:46 | 2019-06-24 |  |
 | [Cherish](https://open.spotify.com/track/2OY17ER3xSmNXjGsqWzgn7) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Emergency \(Reissue\)](https://open.spotify.com/album/1lLHdYAPp0kZdBiMrLbsJV) | 4:50 | 2020-12-22 | 2021-10-12 |
@@ -521,6 +521,7 @@
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/4P0UmzUN00aoPLrgnqfZUX) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Kids Songs: Halloween Party!](https://open.spotify.com/album/3ieg9cbiq6SacHVpPFQo14) | 3:56 | 2022-08-11 | 2022-11-07 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 3:57 | 2020-06-12 | 2021-05-28 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 3:58 | 2022-08-11 | 2022-11-12 |
+| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody’s Watching Me \(Sped Up\)](https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT) | 3:58 | 2023-07-27 |  |
 | [Something About You \- 7" Version](https://open.spotify.com/track/2uXewDKMktNkkMfotqSxN6) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Level Best](https://open.spotify.com/album/43lw3eUmzsmn3YSxUiMY9x) | 3:43 | 2020-06-12 | 2021-10-09 |
 | [St Elmo's Fire \(Anniversary Edition\)](https://open.spotify.com/track/1lZeAoeRbCSKRyqx1PBvT6) | [John Parr](https://open.spotify.com/artist/3Z1tibPKhUYWCno0IYicCN) | [St Elmo's Fire \(Anniversary Edition\)](https://open.spotify.com/album/2Y6rBYCPAx5VUlFi2E4E6K) | 4:15 | 2020-04-25 | 2020-06-12 |
 | [St\. Elmos Fire \(Man in Motion\)](https://open.spotify.com/track/1A2PWRltFrX8iB8IP3CUgo) | [John Parr](https://open.spotify.com/artist/3Z1tibPKhUYWCno0IYicCN) | [St\. Elmo's Fire \- Music From The Original Motion Picture Soundtrack](https://open.spotify.com/album/70P9doc1EAqyb36gRmaPcU) | 4:11 | 2019-05-26\* | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 空気公団 \(Kukikodan\)
 
-933 songs - 2 day 9 hr 59 min
+934 songs - 2 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,6 +616,7 @@
 | [yasumon](https://open.spotify.com/track/0AAjbsUNnuEACRKI93isbg) | [SATTU CREW](https://open.spotify.com/artist/60OqpOuH9PILCjKoEwIXjj), [COCOLO BLAND](https://open.spotify.com/artist/3qYpP7aCDOYMIFf8FloJ18) | [Early in the Morning](https://open.spotify.com/album/2wI2aMVP6dB8i2498AYRpd) | 2:58 | 2023-08-15 | 2023-08-23 |
 | [yoru](https://open.spotify.com/track/2WeKnXuEF5TWJqsMJSimLG) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [yoru](https://open.spotify.com/album/78VeUYC6QBWZ9AR59PDWx4) | 4:05 | 2023-07-11 | 2023-07-26 |
 | [You can't turn back time](https://open.spotify.com/track/65oMR06aRT1Yv4ssgJY123) | [WANG GUNG BAND](https://open.spotify.com/artist/7yHwDGb1SxYEJGjqnjTNtP) | [You can't turn back time](https://open.spotify.com/album/2Z6By4lg64njKYzE6hgprg) | 4:39 | 2023-09-20 | 2023-09-27 |
+| [You're Young](https://open.spotify.com/track/3g18LxsivreftG2yU39qCg) | [YOUR SONG IS GOOD](https://open.spotify.com/artist/4Yt6N4u5vIpjRhT2O7zsLk), [Joelene](https://open.spotify.com/artist/7mKMhWh1Ujzds93YSodcnE) | [You're Young](https://open.spotify.com/album/6z6MALYTU7My2psRJwgUZf) | 4:14 | 2023-10-22 |  |
 | [Your Song On The Radio](https://open.spotify.com/track/1IQshfYUQE7H2z00aRMTqE) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Your Song On The Radio](https://open.spotify.com/album/03Epz45tqENNY3BS4uP1V3) | 3:01 | 2023-04-20 | 2023-05-31 |
 | [Youth](https://open.spotify.com/track/2G4l5sBOXBYY4EmnBBoG0H) | [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [・archive:EIEN19](https://open.spotify.com/album/4byUZtHuvqbeemGJEhKkuW) | 3:53 | 2023-07-11 | 2023-08-16 |
 | [Y・U・R・A・I](https://open.spotify.com/track/7bOW2XisqY0PNLP1T0Zed6) | [黄鶯睍睆\(uguisu\-naku\)](https://open.spotify.com/artist/6XUG7F74W7f7j36VzVPlSl) | [Y・U・R・A・I](https://open.spotify.com/album/5AJtgPcaqSM2R9jBZ4TA73) | 3:14 | 2023-06-13 | 2023-06-21 |
@@ -757,7 +758,7 @@
 | [伝えたい](https://open.spotify.com/track/5PMH2m73WhuCs10kw0s2Bz) | [中川理沙](https://open.spotify.com/artist/4MyrgJ1rFn4ZxeKIH49jDO) | [動物の庭](https://open.spotify.com/album/42oeZcCANlpXLzGq1nAunm) | 4:45 | 2023-10-03 | 2023-10-18 |
 | [低気圧のせい](https://open.spotify.com/track/59yxpxb7OTJLXJHlXWJAAG) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [低気圧のせい](https://open.spotify.com/album/10VSjS5qHqeYjzhVQzcYHP) | 3:24 | 2023-06-27 | 2023-07-05 |
 | [低空](https://open.spotify.com/track/6WVmWMn8ZknjbA70Xr93wc) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [低空](https://open.spotify.com/album/5069TeKV6SsMxz4PQW9GEp) | 3:54 | 2023-03-21 | 2023-04-16 |
-| [何度大人になったって](https://open.spotify.com/track/1hqDNBeFeplMihnRMt6ipS) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [何度大人になったって](https://open.spotify.com/album/3PV4XJnhX3UI55hZFCjpCL) | 4:09 | 2023-09-26 |  |
+| [何度大人になったって](https://open.spotify.com/track/1hqDNBeFeplMihnRMt6ipS) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [何度大人になったって](https://open.spotify.com/album/3PV4XJnhX3UI55hZFCjpCL) | 4:09 | 2023-09-26 | 2023-10-23 |
 | [修羅だってクラスメイト](https://open.spotify.com/track/1kpObJxRAUgfv49R96pzRP) | [The Otals](https://open.spotify.com/artist/2L8w8wwNFtKVGd9CLkicfe), [eureka](https://open.spotify.com/artist/7oUqP2q81T2SIUBoJjippe) | [修羅だってクラスメイト](https://open.spotify.com/album/0EnNucQLOsbYInAA8HMK8w) | 3:21 | 2023-07-11 | 2023-07-19 |
 | [僕しか知らない](https://open.spotify.com/track/5bO0x5yT69HKIDVekQWUVV) | [Nerd Magnet](https://open.spotify.com/artist/5GMWMP2vINSe4wq4mS5xle) | [僕しか知らない](https://open.spotify.com/album/1tDVydiEgw1y82hjmOvEcN) | 3:34 | 2023-09-26 | 2023-09-28 |
 | [僕の右手](https://open.spotify.com/track/2CLJmMe5g3ZKmQg13zKR9o) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [僕の右手](https://open.spotify.com/album/7bKj3wV1x34nhrkaTTO7rq) | 4:59 | 2023-08-15 | 2023-08-23 |

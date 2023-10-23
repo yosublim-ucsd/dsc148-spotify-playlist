@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 41693,
+  "num_followers": 41815,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTEwMTFjOWMzZjA3YTZiM2IzMjkyZGM0MDMyNzRkYWZiYWYyMzg3",
+  "snapshot_id": "MCwzZjM3Zjc3MDIxZTY1YTE5M2VkMjA3ZDM3MmUwYWE3ZjAxZGU0M2Fl",
   "tracks": [
     {
       "added_at": "2023-10-02 12:14:32",
@@ -103,30 +103,6 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Tell Me How",
-        "url": "https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv"
-      },
-      "artists": [
-        {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
-        },
-        {
-          "name": "offrami",
-          "url": "https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1"
-        },
-        {
-          "name": "Jeannette",
-          "url": "https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw"
-        }
-      ],
-      "duration_ms": 132742,
-      "name": "Tell Me How",
-      "url": "https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
         "name": "Careless Whisper",
         "url": "https://open.spotify.com/album/1XjxeJw2RkvKoyj9ZQKqjI"
       },
@@ -147,6 +123,30 @@
       "duration_ms": 172800,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/4wyIAKiAc8Twh1jgzylZWo"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
+        "name": "Tell Me How",
+        "url": "https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv"
+      },
+      "artists": [
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        },
+        {
+          "name": "offrami",
+          "url": "https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1"
+        },
+        {
+          "name": "Jeannette",
+          "url": "https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw"
+        }
+      ],
+      "duration_ms": 132742,
+      "name": "Tell Me How",
+      "url": "https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "The Sea",
-        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "The Sea",
-      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
         "name": "Dancing With Your Ghost",
         "url": "https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "The Beach",
-        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
+        "name": "The Sea",
+        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
       },
       "artists": [
         {
-          "name": "Mathieu Koss",
-          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
         }
       ],
-      "duration_ms": 217377,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
+      "duration_ms": 190720,
+      "name": "The Sea",
+      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -651,6 +635,22 @@
       "duration_ms": 137142,
       "name": "The Boys Of Summer",
       "url": "https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
+        "name": "The Beach",
+        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+        }
+      ],
+      "duration_ms": 217377,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Never Give Up On You",
-        "url": "https://open.spotify.com/album/5SxcIZ1qmurQOKL7Io5xCa"
-      },
-      "artists": [
-        {
-          "name": "Ryan Shepherd",
-          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
-        },
-        {
-          "name": "Georgi Kay",
-          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
-        }
-      ],
-      "duration_ms": 216538,
-      "name": "Never Give Up On You",
-      "url": "https://open.spotify.com/track/2gsB29hjEctVqLCtg7HsQS"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
         "name": "I Blame You",
         "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 132927,
       "name": "I Blame You",
       "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
+        "name": "Never Give Up On You",
+        "url": "https://open.spotify.com/album/5SxcIZ1qmurQOKL7Io5xCa"
+      },
+      "artists": [
+        {
+          "name": "Ryan Shepherd",
+          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
+        },
+        {
+          "name": "Georgi Kay",
+          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
+        }
+      ],
+      "duration_ms": 216538,
+      "name": "Never Give Up On You",
+      "url": "https://open.spotify.com/track/2gsB29hjEctVqLCtg7HsQS"
     },
     {
       "added_at": "2023-10-02 12:14:32",

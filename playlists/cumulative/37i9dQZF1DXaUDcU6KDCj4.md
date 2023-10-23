@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Mustafa
 
-1,590 songs - 4 day 1 hr 21 min
+1,592 songs - 4 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,8 @@
 | [Could’ve Been](https://open.spotify.com/track/2bmYuAIAGJEgLwwIHtusHR) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Ellen](https://open.spotify.com/album/6BATuu8z9yFBk41UeHe9E0) | 3:25 | 2021-11-12 | 2022-02-19 |
 | [Count On Me](https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [The Hating Game \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5) | 3:16 | 2021-12-10 | 2022-02-05 |
 | [Cover You](https://open.spotify.com/track/2ieUJFsBqyqFY2ve0RuNyl) | [Phillip LaRue](https://open.spotify.com/artist/7gIDHAJ0iFOGSMTiqsNUZT) | [Colors](https://open.spotify.com/album/54czM290XrgPLNKfs5WChy) | 3:14 | 2023-07-14 | 2023-09-16 |
-| [Coyote](https://open.spotify.com/track/7xd1eA7kWHr2q9kAdehaFl) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Coyote](https://open.spotify.com/album/5lRpPVZe7QtgX2m23fnA3y) | 4:05 | 2023-09-29 |  |
+| [Coyote](https://open.spotify.com/track/5x3mWd9IcT543gzIK3coBo) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Coyote](https://open.spotify.com/album/5Hri5F7ckbeJ6cvRd88efH) | 4:05 | 2023-10-20 |  |
+| [Coyote](https://open.spotify.com/track/7xd1eA7kWHr2q9kAdehaFl) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Coyote](https://open.spotify.com/album/5lRpPVZe7QtgX2m23fnA3y) | 4:05 | 2023-09-29 | 2023-10-23 |
 | [Coyotes](https://open.spotify.com/track/0Ap3RZ5lv127IZZxUpcBku) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Coyotes](https://open.spotify.com/album/1VunM6vUqbKR0ASBarnSOi) | 6:27 | 2022-09-16 | 2023-02-04 |
 | [Creatures of a Day](https://open.spotify.com/track/7kgZkJICJVicsUHlLHU2W3) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Creatures of a Day](https://open.spotify.com/album/7lyyQADnh3myS4myNUjEFN) | 2:16 | 2023-10-06 |  |
 | [creek](https://open.spotify.com/track/5ea7yawzmWpuYQazo0UlGQ) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w), [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [mountain songs](https://open.spotify.com/album/2QuZhSjVBLP1LyKNWiIq8c) | 2:33 | 2022-07-22 | 2022-09-17 |
@@ -1303,7 +1304,8 @@
 | [The Big One](https://open.spotify.com/track/2yzo8yTdYCJ6VEBO8qUyNB) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [The Big One](https://open.spotify.com/album/7pwt1GDIuIvHcWkirF8OwQ) | 3:39 | 2022-03-11 | 2022-04-09 |
 | [The Cabin](https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [The Cabin](https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl) | 3:57 | 2023-08-11 | 2023-10-07 |
 | [The Crab / Waterbaby](https://open.spotify.com/track/6QfXcEL2CXKk5EnvUDk92x) | [Tiny Ruins](https://open.spotify.com/artist/4G4W57CTe85hPEGZ6hJ0Du) | [The Crab / Waterbaby](https://open.spotify.com/album/1xkntXIy8dYQux4sBrcw0M) | 3:51 | 2023-01-20 | 2023-04-29 |
-| [The Crowd Goes Wlld](https://open.spotify.com/track/2tLy1jxBdf5LF1IDznBCh9) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [The Crowd Goes Wild](https://open.spotify.com/album/4oNknSciThTh14sb2qZXR3) | 3:34 | 2023-10-20 |  |
+| [The Crowd Goes Wlld](https://open.spotify.com/track/2tLy1jxBdf5LF1IDznBCh9) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [The Crowd Goes Wild](https://open.spotify.com/album/4oNknSciThTh14sb2qZXR3) | 3:34 | 2023-10-20 | 2023-10-23 |
+| [The Crowd Goes Wlld](https://open.spotify.com/track/6kAl28NPp8AFgGZM8ycyx4) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Coyote](https://open.spotify.com/album/5Hri5F7ckbeJ6cvRd88efH) | 3:34 | 2023-10-20 |  |
 | [The Dream](https://open.spotify.com/track/3HgIuUrS5KQdbrRBWhyXCJ) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [The Dream](https://open.spotify.com/album/1YaZ7V974D5KoARkbFUWYI) | 4:37 | 2023-03-03 | 2023-05-20 |
 | [The Drive](https://open.spotify.com/track/0pUp3X87abCUaFUpgmt5Ee) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [The Jacket](https://open.spotify.com/album/4hQuSru2tXIiematsn2Q4a) | 4:21 | 2022-03-11 | 2022-05-14 |
 | [The End](https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [The End](https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox) | 3:10 | 2023-03-10 | 2023-04-22 |

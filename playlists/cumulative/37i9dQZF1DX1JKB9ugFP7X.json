@@ -722,7 +722,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 205238,
       "name": "Entender la luz",
       "url": "https://open.spotify.com/track/6BF2d8f9xm8ws6orycS1cZ"
@@ -1092,6 +1092,28 @@
       "duration_ms": 218663,
       "name": "Maquillada en la Cama",
       "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
+    },
+    {
+      "album": {
+        "name": "Lado V (Remixes de Postal)",
+        "url": "https://open.spotify.com/album/5qFHdRCzIW7YgxDRyAt52J"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        },
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197146,
+      "name": "ME QUEDO AC\u00c1. - Lupe Remix",
+      "url": "https://open.spotify.com/track/1553JqZizFxv9hyNth0y0N"
     },
     {
       "album": {

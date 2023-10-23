@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Q
 
-1,001 songs - 2 day 5 hr 40 min
+1,002 songs - 2 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [Keep It Lo](https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Keep It Lo](https://open.spotify.com/album/0hDyuoQRlGBEHKUk8HpWMQ) | 2:33 | 2022-10-14 | 2023-04-15 |
 | [Keep Your Head Up](https://open.spotify.com/track/7LKeX6HZw7lSSlaLRGMWWY) | [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs) | [Keep Your Head Up](https://open.spotify.com/album/5iigwSrb7BkMa9Flopzkr8) | 2:43 | 2022-07-15 | 2022-10-20 |
 | [keisha](https://open.spotify.com/track/0ICoAzphnJ3i5I9KHcBLdo) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [keisha](https://open.spotify.com/album/6lIhuQnAGRVi0DMNUmdNCD) | 2:55 | 2022-03-21 | 2022-04-26 |
+| [kerosene](https://open.spotify.com/track/6dn8A7K3ZfYbDfCRKWFs6P) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Sie](https://open.spotify.com/artist/4hs7Io6w7BHOxlbtOIjGH1) | [kerosene](https://open.spotify.com/album/2dPwrPd5fUcz3Lgn22KJut) | 2:48 | 2023-10-20 |  |
 | [Kerosene](https://open.spotify.com/track/6PamSzxRNCbbBH2OXrz9Yl) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Kerosene](https://open.spotify.com/album/4MSiTkDNGzUCGPzrOjwegY) | 3:29 | 2021-06-11 | 2022-01-29 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2022-12-09 | 2023-05-27 |
 | [Killing Me](https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Killing Me](https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm) | 2:45 | 2022-04-01 | 2022-07-29 |
@@ -568,7 +569,7 @@
 | [mine](https://open.spotify.com/track/11Alrz5mSQvQNt6VYtCh4t) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [soft thing](https://open.spotify.com/album/1iBeLmJBT417B8XHmIuctN) | 3:58 | 2021-06-25 | 2022-07-28 |
 | [Minotaur](https://open.spotify.com/track/0JPVY47L4Dwi0kjbVbEO6a) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Minotaur](https://open.spotify.com/album/7dHYk2N7AgCFh1eAfHpGlz) | 4:38 | 2022-04-01 | 2022-04-13 |
 | [MiSS BEHAVE](https://open.spotify.com/track/442BDy6jx8GcqKWZmjMaLg) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 2:53 | 2023-05-05 | 2023-06-10 |
-| [MiSS BEHAVE](https://open.spotify.com/track/5ShRfLOfpUdmDLGqLWrGKq) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/3eZdxMaUii7OAahX0hFcJU) | 2:53 | 2023-05-05 |  |
+| [MiSS BEHAVE](https://open.spotify.com/track/5ShRfLOfpUdmDLGqLWrGKq) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/3eZdxMaUii7OAahX0hFcJU) | 2:53 | 2023-05-05 | 2023-10-23 |
 | [Miss Summer](https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Miss Summer](https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco) | 2:42 | 2021-03-19 | 2022-07-30 |
 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 | 2021-03-19 | 2022-07-29 |
 | [Moderation](https://open.spotify.com/track/4wqBRSqEPrL4UjP00lZB1M) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Chekhov's Gun](https://open.spotify.com/album/5Ej0IOSmRQbb1o961TqMzG) | 2:03 | 2023-06-09 | 2023-10-21 |

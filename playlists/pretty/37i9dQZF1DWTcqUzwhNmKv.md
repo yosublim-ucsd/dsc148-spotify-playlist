@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Catch Your Breath on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,455,408 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,455,658 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Obliquity of the Ecliptic](https://open.spotify.com/track/0c1EnTUEQoXVH73NbVDi3D) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Luminescent Bridge](https://open.spotify.com/album/6fw6OaFAR6IsxWk1ZjIYUJ) | 8:53 |
 | 75 | [Beholden to Clan](https://open.spotify.com/track/5LxBDSxTZH9hrNTMXnMEGT) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Crypt of Ancestral Knowledge](https://open.spotify.com/album/2gWPiPmcyw7Hdha3wR74g4) | 6:57 |
 
-Snapshot ID: `MCw5YjA1NTI3NGFmZjlhYmY5ODZiODhhNmRkNDE4NWI5NTNjYWE2Yjcy`
+Snapshot ID: `MCwwODhkYzczYTU5OTA2MTljMDU1OTEwNmVjZTg0YzYwM2MyYmQ2NGQ3`

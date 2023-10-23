@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,668 likes - 148 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,670 likes - 148 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

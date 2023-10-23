@@ -3327,6 +3327,32 @@
     },
     {
       "album": {
+        "name": "in my restless dreams, i see you",
+        "url": "https://open.spotify.com/album/5YlMDbNU9agz8VY656cNii"
+      },
+      "artists": [
+        {
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        },
+        {
+          "name": "KAMAARA",
+          "url": "https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0"
+        },
+        {
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155428,
+      "name": "flowers by her grave",
+      "url": "https://open.spotify.com/track/45YnYNao28Y4CT2X2z0BVQ"
+    },
+    {
+      "album": {
         "name": "flowers by her grave",
         "url": "https://open.spotify.com/album/4N5RtPcGOwTzDvnIkaY58R"
       },
@@ -3346,7 +3372,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 155428,
       "name": "flowers by her grave",
       "url": "https://open.spotify.com/track/4MQT5ai1Jk0oZjrxnSpMU9"
@@ -3922,7 +3948,7 @@
     {
       "album": {
         "name": "GOD MODE!",
-        "url": "https://open.spotify.com/album/5xqiMjCLUJBOtEM2hsCLaP"
+        "url": "https://open.spotify.com/album/2zHlG0i6QwyFox9mhxynMO"
       },
       "artists": [
         {
@@ -3937,6 +3963,28 @@
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 163307,
+      "name": "GOD MODE!",
+      "url": "https://open.spotify.com/track/21yw08HRAH2A7XAse3huYT"
+    },
+    {
+      "album": {
+        "name": "GOD MODE!",
+        "url": "https://open.spotify.com/album/5xqiMjCLUJBOtEM2hsCLaP"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        },
+        {
+          "name": "Dozy Doe",
+          "url": "https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-23",
       "duration_ms": 163307,
       "name": "GOD MODE!",
       "url": "https://open.spotify.com/track/61ONKytCePkZCWzfipmPhy"

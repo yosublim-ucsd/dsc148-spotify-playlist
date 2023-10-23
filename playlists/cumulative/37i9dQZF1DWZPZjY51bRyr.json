@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "All Love 432 Hz",
+        "url": "https://open.spotify.com/album/1Oze9JvFoFm7mG7XfGq2pa"
+      },
+      "artists": [
+        {
+          "name": "Emeli Saga",
+          "url": "https://open.spotify.com/artist/3J5btrvXNSchP5VZiE3vcj"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187202,
+      "name": "All Love 432 Hz",
+      "url": "https://open.spotify.com/track/4F3vEHACpu26azg1x8TDJX"
+    },
+    {
+      "album": {
         "name": "Alternating Current",
         "url": "https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU"
       },
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 154786,
       "name": "Messiah Silica",
       "url": "https://open.spotify.com/track/00dKAndxIdVhbJv0f2IKi7"

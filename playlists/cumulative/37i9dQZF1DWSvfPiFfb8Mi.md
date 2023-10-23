@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-224 songs - 15 hr 24 min
+225 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,9 +30,10 @@
 | [Better Times](https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Better Times](https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T) | 3:19 | 2023-06-09 |  |
 | [Bless Me \(with Discrete\)](https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov) | [Bless Me \(with Discrete\)](https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq) | 3:10 | 2023-06-16 |  |
 | [Boogie Woogie](https://open.spotify.com/track/71rTjuTsuh03etRwpIOPRj) | [Shaqdi](https://open.spotify.com/artist/4dpL6PzaCCpEekHtTHu3CN), [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6), [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB) | [Boogie Woogie](https://open.spotify.com/album/7hRR0f0wMiV0Th2fceOHxn) | 2:53 | 2023-05-19 | 2023-07-29 |
-| [Boys Don't Sob](https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Boys Don't Sob](https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J) | 2:56 | 2023-05-19 |  |
+| [Boys Don't Sob](https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Boys Don't Sob](https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J) | 2:56 | 2023-05-19 | 2023-10-23 |
 | [Break My Heart / Cosmic Girl \(Dimitri From Paris Edit\) \[Mixed\]](https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Club Future Nostalgia \(DJ Mix\)](https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C) | 3:00 | 2021-07-24 |  |
 | [Bruises](https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Bruises](https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj) | 3:10 | 2023-06-16 |  |
+| [Cabo Player](https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Cabo Player](https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO) | 2:19 | 2023-10-13 |  |
 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7s47cTLl4j1JKawu308yId) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Forward](https://open.spotify.com/album/1pDgEvP1r2JI9HZl39clKx) | 3:17 | 2023-05-19 |  |
 | [CAN'T GO HOME](https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR) | [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [CAN'T GO HOME](https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc) | 2:52 | 2023-05-19 |  |
 | [Can't Let Go](https://open.spotify.com/track/3BOPpN9AKSP7bMB1C5IPI2) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [The Godfather](https://open.spotify.com/artist/4cwes8iJ00ShgVaEX7yKZb), [Tony Sherman](https://open.spotify.com/artist/5PGrx2urmHR1xmOvSMAK3l) | [Can't Let Go](https://open.spotify.com/album/7GkzL6dZQiXLuveDeOKY7h) | 3:14 | 2023-05-19 | 2023-07-26 |

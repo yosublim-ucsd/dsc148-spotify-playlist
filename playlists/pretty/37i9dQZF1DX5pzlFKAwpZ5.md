@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music\. Masayoshi Fujita on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,270 likes - 154 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,316 likes - 154 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 14 | [Tsukamu](https://open.spotify.com/track/2bQUrDK1UsJpdERbyX5ElU) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Tsukamu](https://open.spotify.com/album/2dgAWmc93VxlOIHoDuxp4l) | 2:54 |
 | 15 | [Twilight](https://open.spotify.com/track/7l8yPCXB66bLXVSBEjqWtO) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Hachirogata Lake](https://open.spotify.com/album/2mWRW0iRCW4p5y4664IIky) | 5:48 |
 | 16 | [splashes of ink](https://open.spotify.com/track/7CH9rwUG0SOkgIHpNNzjKX) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [splashes of ink / yours to give](https://open.spotify.com/album/5CnrS3T44HOFOF98wfncUj) | 1:51 |
-| 17 | [Kiteki](https://open.spotify.com/track/01Vg2gmX03mM3ku0MD9FKC) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ) | 3:58 |
+| 17 | [Kiteki](https://open.spotify.com/track/5ElIBhljMv506V5OZChLbW) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/5PxpE5M4KNm4pl1EKbsCjc) | 3:58 |
 | 18 | [Shaded Navy](https://open.spotify.com/track/0ssU0CAQUDiqhPTG1iNCHo) | [Shaded Navy](https://open.spotify.com/artist/3uMPx1jmWJ2rvzrLgrsX4T), [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Shaded Navy](https://open.spotify.com/album/4lAwEpCkSyoyCQO7yO5F9l) | 3:12 |
 | 19 | [Rear View](https://open.spotify.com/track/1zlOiXXQostUPBPinAuW8A) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Crépuscule I & II](https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs) | 3:22 |
 | 20 | [honnkakuha](https://open.spotify.com/track/3SqTFpSAlMdl3J84674IWx) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kimi](https://open.spotify.com/album/7jRxYILcGpWI1ETlXIiNEX) | 2:33 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 36 | [Postcards](https://open.spotify.com/track/6PiGxd8jyfWCGPojb4tpf5) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 5:36 |
 | 37 | [Colors](https://open.spotify.com/track/2UQoFEcg70YOsFhT5RTvNO) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Colors](https://open.spotify.com/album/07brEdWd5EwlQfbQVV31Ye) | 2:45 |
 | 38 | [Deep Slope](https://open.spotify.com/track/7eMuRAkos8JufYmNwjxshE) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/5iAC5AAza3lS6gUIpCuz6N) | 6:43 |
-| 39 | [Breeze from Mt\. Rokko](https://open.spotify.com/track/6j6ARhxCVB9r0cSbfccTon) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ) | 5:34 |
+| 39 | [Breeze from Mt\. Rokko](https://open.spotify.com/track/20lMLALJMUe3dwwtjqVq30) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/5PxpE5M4KNm4pl1EKbsCjc) | 5:34 |
 | 40 | [Moon](https://open.spotify.com/track/6rOc7kTPNL6SxSVugGlPoG) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Moon](https://open.spotify.com/album/45cho4OqwcoNEvhFbI6Tpt) | 2:43 |
 | 41 | [The buzz of the forest](https://open.spotify.com/track/7INHRFTJ8ZrXjomdjYjadN) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [Relieving anxiety and healing a good night's sleep recommended by mental trainers \- Music that connects with nature \-](https://open.spotify.com/album/0UcMdGC8UJwzGcHXfX8PG5) | 5:12 |
 | 42 | [Kokyo](https://open.spotify.com/track/4ZsDYS4F4ilZIsNwnpUrx1) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [My Story, The Buraku Story \(An Original Soundtrack\)](https://open.spotify.com/album/3xPYYJCZLvg3LpjK2xWVrP) | 2:31 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 153 | [Körper](https://open.spotify.com/track/5LoatYCsraVXB08X6bhpzO) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Raum](https://open.spotify.com/album/1CPBp6tHWeEUM87bEBCpxS) | 5:55 |
 | 154 | [Communication](https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [Air Dance](https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819) | 4:09 |
 
-Snapshot ID: `MCw3NjQ4NmFkYzdjMzMwOGNjODE0ZDY4NTE1OWVhMDcyNmU1ZTMwNTll`
+Snapshot ID: `MCxhNTIxNDFmNjMzYjAwNjA4YzVmNzQxZDM4YzkzNDgxYTIwZTM4NTAw`

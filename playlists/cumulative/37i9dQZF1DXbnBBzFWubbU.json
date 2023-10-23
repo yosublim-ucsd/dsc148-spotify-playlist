@@ -90,7 +90,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 416000,
       "name": "Bad Karma",
       "url": "https://open.spotify.com/track/5ZVujHtwnsqFJvLnqRSdch"
@@ -292,6 +292,32 @@
       "duration_ms": 231438,
       "name": "Clarify My Soul",
       "url": "https://open.spotify.com/track/483jACYT1HWbgvWSgYxEFq"
+    },
+    {
+      "album": {
+        "name": "DESI TRILL",
+        "url": "https://open.spotify.com/album/4895fLdXIYE9fg9YohL1eW"
+      },
+      "artists": [
+        {
+          "name": "DJ LYAN",
+          "url": "https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B"
+        },
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "Malkit Singh",
+          "url": "https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158785,
+      "name": "DESI TRILL",
+      "url": "https://open.spotify.com/track/3OgRRx4Lkm5TasN179rdZh"
     },
     {
       "album": {

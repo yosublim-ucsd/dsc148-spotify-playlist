@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-394 songs - 22 hr 32 min
+395 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Flare](https://open.spotify.com/track/030SJMnWzEaAE7979A3NcW) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Mirrors](https://open.spotify.com/album/6rPIY9dx2jNh9VFsX86ErA) | 3:10 | 2022-01-07 | 2022-07-28 |
 | [Flash Drive](https://open.spotify.com/track/3gA35jxypCyQczOR5Tew9J) | [Wave Racer](https://open.spotify.com/artist/147jymD5t0TCXW0DbaXry0), [B▲BY](https://open.spotify.com/artist/5xJ32qIdXRe84ETWIv2RDA) | [Flash Drive](https://open.spotify.com/album/2eaTv2nNOFNPjmlPP21Fdg) | 3:23 | 2022-03-11 | 2023-05-13 |
 | [Flashback](https://open.spotify.com/track/3pUwFUuGgxrUwUaLFDlA8B) | [Marc Antonix](https://open.spotify.com/artist/73hmgKy5dPtfbmkzOH7Uco), [Revaeon](https://open.spotify.com/artist/1NubCpQK9Tz3JEIm4UhrUC) | [Flashback](https://open.spotify.com/album/3SU1UJpZqk15qVlYO6VyWk) | 3:26 | 2022-10-07 | 2023-07-31 |
-| [Flicker](https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc) | [Flicker](https://open.spotify.com/album/2FEono1vla7gHmopKAAmjC) | 3:06 | 2023-06-16 |  |
+| [Flicker](https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc) | [Flicker](https://open.spotify.com/album/2FEono1vla7gHmopKAAmjC) | 3:06 | 2023-06-16 | 2023-10-23 |
 | [Flight](https://open.spotify.com/track/4Uhty1kvytzqhwoLO2CVoi) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Braken](https://open.spotify.com/artist/1SFSz2SewAsgPeFvGmAouI) | [Flight](https://open.spotify.com/album/6mOUQ523znFWPykhV0uvfa) | 3:39 | 2022-03-11 |  |
 | [FOREVER 1 \- Matisse & Sadko Remix](https://open.spotify.com/track/5dJ6HlXlZw4MvIkH9293M5) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [iScreaM Vol.19 : FOREVER 1 Remixes](https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu) | 3:33 | 2022-11-18 | 2023-08-12 |
 | [Forever Till The End Of Time](https://open.spotify.com/track/4ZzKw1gXBYEhG65jKayPbC) | [Bby Eco](https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu) | [Forever Till The End Of Time](https://open.spotify.com/album/3Q5dfZXifl3WoG4irg5wqj) | 2:34 | 2022-01-07 | 2022-07-10 |
@@ -315,10 +315,11 @@
 | [She](https://open.spotify.com/track/26D0cJCvW1pWwl89qAhmHg) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Mercenary](https://open.spotify.com/album/2Lzc95UUYfBJLzgOTnI6cg) | 4:05 | 2022-01-07 |  |
 | [She's A Killer Part 2](https://open.spotify.com/track/7A9cnc8k2b3242i8WbhcT7) | [Justin OH](https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L), [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9) | [She's A Killer Part 2](https://open.spotify.com/album/5wQSlsZcjf2DZnuX0fFOiQ) | 3:38 | 2022-01-07 | 2022-07-29 |
 | [Shelter](https://open.spotify.com/track/2CgOd0Lj5MuvOqzqdaAXtS) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Shelter](https://open.spotify.com/album/1n8ESe5nt7EeuZedZUI3yu) | 3:38 | 2022-01-07 |  |
-| [Shine](https://open.spotify.com/track/76FR3MBARic3eh86RQjubB) | [Whereisalex](https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT) | [Shine](https://open.spotify.com/album/0omuuALyVUOzng14lYzWXi) | 3:45 | 2022-01-07 | 2023-10-22 |
+| [Shine](https://open.spotify.com/track/76FR3MBARic3eh86RQjubB) | [Whereisalex](https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT) | [Shine](https://open.spotify.com/album/0omuuALyVUOzng14lYzWXi) | 3:45 | 2022-01-07 |  |
 | [Shining Star](https://open.spotify.com/track/5dKZd2yHkWuPAPRRPgqUiF) | [Dark0](https://open.spotify.com/artist/1Jehpab4kMvjrpsHcBtYHR) | [Shining Star](https://open.spotify.com/album/6KpouJSne56JYW0CnvH83b) | 5:22 | 2022-03-11 | 2022-04-23 |
 | [Shy Guy Beach](https://open.spotify.com/track/5ijS06iISEy4sWLN78BQpR) | [LAMEBOT](https://open.spotify.com/artist/3JKuaX35gCpazGcXeLaScA) | [Shy Guy Beach](https://open.spotify.com/album/2szEfAXYwk0yJsh4o6KzBo) | 2:57 | 2022-01-07 | 2022-07-29 |
-| [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 | 2023-09-08 |  |
+| [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 | 2023-09-08 | 2023-10-23 |
+| [SHYPOP](https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:28 | 2023-10-06 |  |
 | [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 | 2023-08-25 | 2023-09-26 |
 | [Silence](https://open.spotify.com/track/2ezhpsQj2wNPjOKC1oh1PB) | [Axollo](https://open.spotify.com/artist/08DhNYXQjr5i8ZL041APOI), [Josh Bogert](https://open.spotify.com/artist/2MbO01KZTMshiRXcOLo88R) | [Silence](https://open.spotify.com/album/5hm09HsXv0q2SaarsbxVLQ) | 2:25 | 2022-07-14 | 2023-05-13 |
 | [Silence](https://open.spotify.com/track/7uESPYfdmMUaZCRFhw7Em6) | [Axollo](https://open.spotify.com/artist/08DhNYXQjr5i8ZL041APOI), [Josh Bogert](https://open.spotify.com/artist/2MbO01KZTMshiRXcOLo88R) | [Silence](https://open.spotify.com/album/3IygZmlcrvGKazIInbITuV) | 2:25 | 2022-01-07 | 2022-04-13 |

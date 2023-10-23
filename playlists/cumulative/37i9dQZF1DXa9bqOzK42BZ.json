@@ -910,10 +910,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 623693,
       "name": "Mlima - Live",
       "url": "https://open.spotify.com/track/3Bb5vkZxM7QtO0JCiwcEFc"
+    },
+    {
+      "album": {
+        "name": "Higher + Deeper (Live in Dar Es Salaam)",
+        "url": "https://open.spotify.com/album/3Vsi0VHAZvFXHQg5RKho0T"
+      },
+      "artists": [
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 623693,
+      "name": "Mlima - Live",
+      "url": "https://open.spotify.com/track/3KMb9RdwHVN5yblwN7GyNF"
     },
     {
       "album": {

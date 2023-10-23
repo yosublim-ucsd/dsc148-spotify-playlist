@@ -543,6 +543,32 @@
     },
     {
       "album": {
+        "name": "Dance Haffi Nice (feat. SHY FX & Ms. Dynamite)",
+        "url": "https://open.spotify.com/album/23ryyZOLRTuybgJOc0LfKi"
+      },
+      "artists": [
+        {
+          "name": "Mr. Williamz",
+          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
+        },
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "Ms. Dynamite",
+          "url": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149302,
+      "name": "Dance Haffi Nice (feat. SHY FX & Ms. Dynamite)",
+      "url": "https://open.spotify.com/track/2WDWIzmU23PCDbcBPGyenl"
+    },
+    {
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/1RubtkrLtdx1N3oNJx5tUm"
       },
@@ -1759,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "Shake the Foundations",
+        "url": "https://open.spotify.com/album/4ueQeW187BVwaMpMugNvT0"
+      },
+      "artists": [
+        {
+          "name": "Watch the Ride",
+          "url": "https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182790,
+      "name": "Shake the Foundations",
+      "url": "https://open.spotify.com/track/41oMLrpW7SND8rk8GXYMsz"
+    },
+    {
+      "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/6tUgcJ42LlOwmQiUEuaYhF"
       },
@@ -1808,19 +1852,19 @@
           "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
         },
         {
-          "name": "SHY FX",
-          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
-        },
-        {
           "name": "Specialist Moss",
           "url": "https://open.spotify.com/artist/0Sclq3c13du0AJMrihvEx2"
+        },
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
         }
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168965,
-      "name": "Sound Killa, Pt. 2 (feat. Shy FX)",
+      "name": "Sound Killa, Pt. 2 (Featuring SHY FX & Specialist Moss)",
       "url": "https://open.spotify.com/track/1uWmfb5OF1mEfNsZKypRpd"
     },
     {
@@ -1981,7 +2025,7 @@
         },
         {
           "name": "Vegas",
-          "url": "https://open.spotify.com/artist/78B5Hx7vRH6H50MKFXClUz"
+          "url": "https://open.spotify.com/artist/4lo6i2rysNEx4k22kBFNTt"
         }
       ],
       "date_added": "2022-12-09",

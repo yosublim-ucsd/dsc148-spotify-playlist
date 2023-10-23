@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not NOT pop\. Cover: ericdoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,327 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,339 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 49 | [KEEP UP!](https://open.spotify.com/track/0Z0KOXMTCR86yt7udgKgtb) | [paleblue.](https://open.spotify.com/artist/5Nc11nTr6PdpDe6xJFdUqw), [Monto](https://open.spotify.com/artist/1mXFL9lV4VY7dDstryxvD0) | [KEEP UP!](https://open.spotify.com/album/0aSBe3lB5Rr1z20UQUL14A) | 2:26 |
 | 50 | [tongues](https://open.spotify.com/track/3jbivGLXf7sguAk3P7SyOR) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [tongues](https://open.spotify.com/album/4We7nxOuoxs57oz6pbEFx2) | 3:01 |
 | 51 | [maybe i won't get high](https://open.spotify.com/track/0JR0sxHccA1Arbq5lc65ak) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T), [mykel online](https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6) | [maybe i won't get high](https://open.spotify.com/album/05DzxjpzuuxTBDUO3DR3OR) | 2:22 |
-| 52 | [I Want To Be Your Only Pet](https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Want To Be Your Only Pet](https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW) | 3:34 |
+| 52 | [I Want To Be Your Only Pet](https://open.spotify.com/track/0bRtjZg3D4IrSJPLj3Jyhu) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:34 |
 | 53 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 |
 | 54 | [just sayin \(づ￣ ³￣\)づ](https://open.spotify.com/track/4DbvcF5jOZTMOKeczBPPSg) | [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [nu genesis](https://open.spotify.com/album/0nRwPTtogG3muGAFSw6J2r) | 2:11 |
 | 55 | [have a good time](https://open.spotify.com/track/0YnfIvaUWgwBMvJqEIxPyJ) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23) | [have a good time](https://open.spotify.com/album/17pjEE2XXRHEl6MKuE7p4N) | 2:06 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 98 | [Driver](https://open.spotify.com/track/1D0JQnRvAP5vsEg3eKNTPy) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Driver](https://open.spotify.com/album/3PqeO4aB2VIw27kSffCZL4) | 2:45 |
 | 99 | [love that 4 u](https://open.spotify.com/track/7ulWHAI8brxFTmunoAqRCz) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE), [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [frenemy](https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU) | 4:19 |
 
-Snapshot ID: `MCw4NGEyOWU0ZGFkNWY4MDJlNDhlOTk2YTNhODUwOGM1ZWZiNTgwZTQ5`
+Snapshot ID: `MCwzMzc1NWY1YTVhN2Q1MzFkNDJmOWNiYTFiMGFmMTA0MjM4ZGIyNmY4`

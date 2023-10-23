@@ -4,7 +4,7 @@
 
 > Música Mexicana curated by <a href="https://open.spotify.com/show/408KWeYfiDfXvhqbmPEIsg?si=fb7f4db31ff64f53">Agushto Papa</a>.
 
-129 songs - 6 hr 41 min
+130 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Bye](https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bye](https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB) | 3:32 | 2023-05-31 |  |
 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 | 2023-03-30 | 2023-07-01 |
 | [Calidad](https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Calidad](https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb) | 2:50 | 2023-03-07 | 2023-03-31 |
-| [Cama y Mesa](https://open.spotify.com/track/1KPHUKA7exXzdbCNv9ZsTf) | [Estilo 45](https://open.spotify.com/artist/3iX3bXH69NndDYy5WyFUsA) | [Amar Con Estilo](https://open.spotify.com/album/4KmCP2nlBJRttn28ONRqHD) | 3:53 | 2023-07-01 |  |
+| [Cama y Mesa](https://open.spotify.com/track/1KPHUKA7exXzdbCNv9ZsTf) | [Estilo 45](https://open.spotify.com/artist/3iX3bXH69NndDYy5WyFUsA) | [Amar Con Estilo](https://open.spotify.com/album/4KmCP2nlBJRttn28ONRqHD) | 3:53 | 2023-07-01 | 2023-10-23 |
+| [Cama Y Mesa](https://open.spotify.com/track/5hs6YtYfMC3819HTXlPB0L) | [Estilo 45](https://open.spotify.com/artist/3iX3bXH69NndDYy5WyFUsA) | [Amar Con Estilo](https://open.spotify.com/album/2NtwCSpWVCygB3lE5QYK0O) | 3:53 | 2023-09-15 |  |
 | [Ch y la Pizza](https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ch y la Pizza](https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa) | 2:16 | 2023-03-07 | 2023-07-01 |
 | [Champagne Y Besos](https://open.spotify.com/track/553kKD0hqgrDF3KxJZTxDf) | [Seth Cottengim](https://open.spotify.com/artist/04pqalX0SdiyyQWp4LXb8C), [Adan Valenzuela](https://open.spotify.com/artist/7oftszKmS5VL2SRfGuMtQX) | [Champagne Y Besos](https://open.spotify.com/album/3cg47R3f7a9DEEoMN0t0pe) | 2:08 | 2023-09-15 |  |
 | [Chanel](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Chanel](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 | 2023-05-23 | 2023-08-09 |

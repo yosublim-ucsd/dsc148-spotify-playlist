@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 775837,
+  "num_followers": 777281,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2VmODdjMTQ3MjA1YzBhOGIzNTM5MmM2NDM4M2VmMTJiOTJiMDdi",
+  "snapshot_id": "MCw3MmZiOWIxNWU4N2ZjYTZkZGZkNDE1OGY4YTgyZGM5NzExNmM2YTEx",
   "tracks": [
     {
       "added_at": "2023-09-26 20:58:57",
@@ -211,18 +211,26 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
-        "name": "COWBELL WARRIOR!",
-        "url": "https://open.spotify.com/album/5XyrJDyXLimURWjVboM1tC"
+        "name": "Sassy Scene",
+        "url": "https://open.spotify.com/album/5jBSw53XwT6G0slLxKSZLl"
       },
       "artists": [
         {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "Pixel Hood",
+          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
         }
       ],
-      "duration_ms": 149461,
-      "name": "COWBELL WARRIOR!",
-      "url": "https://open.spotify.com/track/4eDE92gbf1iKImxBIKS64V"
+      "duration_ms": 135160,
+      "name": "Hands up!",
+      "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -275,30 +283,6 @@
       "duration_ms": 150674,
       "name": "Step Back!",
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
-        "name": "Sassy Scene",
-        "url": "https://open.spotify.com/album/5jBSw53XwT6G0slLxKSZLl"
-      },
-      "artists": [
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        },
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        },
-        {
-          "name": "Pixel Hood",
-          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
-        }
-      ],
-      "duration_ms": 135160,
-      "name": "Hands up!",
-      "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -459,6 +443,22 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
+        "name": "IFeelLikeDirt",
+        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 75428,
+      "name": "AirplaneMode",
+      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
         "name": "CODE MISTAKE",
         "url": "https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 165303,
       "name": "CODE MISTAKE",
       "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
-        "name": "IFeelLikeDirt",
-        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 75428,
-      "name": "AirplaneMode",
-      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -559,26 +543,6 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
-        "name": "HOT DEMON B!TCHES NEAR U ! ! !",
-        "url": "https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "HOT DEMON B!TCHES NEAR U ! ! !",
-      "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
         "name": "BABY I'M HOME (w/ Kanii & 9lives)",
         "url": "https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H"
       },
@@ -599,6 +563,26 @@
       "duration_ms": 208938,
       "name": "BABY I'M HOME (w/ Kanii & 9lives)",
       "url": "https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
+        "name": "HOT DEMON B!TCHES NEAR U ! ! !",
+        "url": "https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "HOT DEMON B!TCHES NEAR U ! ! !",
+      "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -675,6 +659,22 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
+        "name": "\u602a\u7269",
+        "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "\u602a\u7269",
+      "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
         "name": "MISA MISA!",
         "url": "https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 85894,
       "name": "MISA MISA!",
       "url": "https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
-        "name": "\u602a\u7269",
-        "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "\u602a\u7269",
-      "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
+        "name": "ALL GIRLS ARE THE SAME",
+        "url": "https://open.spotify.com/album/4TAzpXkWYb1PqsACEXG8sI"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8NIN",
+          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
+        }
+      ],
+      "duration_ms": 121949,
+      "name": "ALL GIRLS ARE THE SAME",
+      "url": "https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
         "name": "E-GIRLS ARE RUINING MY LIFE!",
         "url": "https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 105176,
       "name": "E-GIRLS ARE RUINING MY LIFE!",
       "url": "https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
-        "name": "ALL GIRLS ARE THE SAME",
-        "url": "https://open.spotify.com/album/4TAzpXkWYb1PqsACEXG8sI"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8NIN",
-          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
-        }
-      ],
-      "duration_ms": 121949,
-      "name": "ALL GIRLS ARE THE SAME",
-      "url": "https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -901,6 +885,26 @@
       "url": "https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw"
     },
     {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "die",
+        "url": "https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY"
+      },
+      "artists": [
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        },
+        {
+          "name": "Key Kelly",
+          "url": "https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss"
+        }
+      ],
+      "duration_ms": 99560,
+      "name": "die",
+      "url": "https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi"
+    },
+    {
       "added_at": "2023-09-26 20:58:57",
       "album": {
         "name": "Corrupted",
@@ -935,26 +939,6 @@
       "duration_ms": 133896,
       "name": "Death Lotto",
       "url": "https://open.spotify.com/track/1fd3XY9w5SzDPT40K92Bch"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "die",
-        "url": "https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY"
-      },
-      "artists": [
-        {
-          "name": "lucidbeatz",
-          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
-        },
-        {
-          "name": "Key Kelly",
-          "url": "https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss"
-        }
-      ],
-      "duration_ms": 99560,
-      "name": "die",
-      "url": "https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -1319,6 +1303,38 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
+        "name": "V-12",
+        "url": "https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE"
+      },
+      "artists": [
+        {
+          "name": "Lil Dew'",
+          "url": "https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ"
+        }
+      ],
+      "duration_ms": 140460,
+      "name": "V-12",
+      "url": "https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
+        "name": "2077",
+        "url": "https://open.spotify.com/album/4MWsQHhgiMXbH3KkffTd7i"
+      },
+      "artists": [
+        {
+          "name": "do not resurrect",
+          "url": "https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3"
+        }
+      ],
+      "duration_ms": 135074,
+      "name": "2077",
+      "url": "https://open.spotify.com/track/6kRxT8sggyNJ6mYoSKTwCh"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
         "name": "My Swisher Sweet, But My Sig Sauer",
         "url": "https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 226932,
       "name": "My Swisher Sweet, But My Sig Sauer",
       "url": "https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
-        "name": "V-12",
-        "url": "https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE"
-      },
-      "artists": [
-        {
-          "name": "Lil Dew'",
-          "url": "https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ"
-        }
-      ],
-      "duration_ms": 140460,
-      "name": "V-12",
-      "url": "https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"
     }
   ],
   "unique_name": "sh\u014dnen",

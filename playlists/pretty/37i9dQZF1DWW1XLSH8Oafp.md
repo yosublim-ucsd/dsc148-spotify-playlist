@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Snakehips, Au/Ra
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,600 likes - 150 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,638 likes - 150 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 63 | [Thinkin Of U \- Club Mix](https://open.spotify.com/track/2SGfFXzi5LhqGmTGSzIGYx) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Thinkin Of U](https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS) | 3:35 |
 | 64 | [Sapphire](https://open.spotify.com/track/7c2KxaKXubBqTS3juqe85M) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Brain Theory](https://open.spotify.com/album/0LP3ZVvvlEg1ABh0BiG7Zp) | 3:24 |
 | 65 | [XTC](https://open.spotify.com/track/2ue7BMHrkz44k9Yxg0bq3o) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [XTC](https://open.spotify.com/album/2fOLGzu0x0JVuV7rTuGJXE) | 3:12 |
-| 66 | [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 |
+| 66 | [SHYPOP](https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:28 |
 | 67 | [In Luv](https://open.spotify.com/track/5TqJk3sBqryMoZqKMYxUnG) | [Good Luck](https://open.spotify.com/artist/4qjYf4FY77csjIalUFicQS) | [In Luv](https://open.spotify.com/album/0K4faqdamNDNazCkrhcT0l) | 5:22 |
 | 68 | [Beautiful \(2023 Edit\)](https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Beautiful \(2023 Edit\)](https://open.spotify.com/album/3LEJXj4WKlgjnEFQJscKJS) | 3:04 |
 | 69 | [Under the Moon](https://open.spotify.com/track/2pkIZ2AuuKwkkqasf5wXRo) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Part Time Killer](https://open.spotify.com/artist/0LAMskg8u2rGlNDYvlRZdq) | [Under the Moon](https://open.spotify.com/album/2PDpZsSQl8lGwojy7oouAi) | 3:41 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 149 | [Kiera ♡](https://open.spotify.com/track/6wxp4xFZqVO1sY5ibRKa71) | [Pearling](https://open.spotify.com/artist/3q7tzDobzMqdYhv6huNbr7) | [Kiera ♡](https://open.spotify.com/album/6P9rbLVVB0D9lSZ7HXHYGn) | 2:56 |
 | 150 | [Don't Want This To Be Over](https://open.spotify.com/track/5twf1eTmqVUvPpmjGPPaX0) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Don't Want This To Be Over](https://open.spotify.com/album/2F3GrHb6K3khg9mzFwRYj8) | 2:01 |
 
-Snapshot ID: `MCwxOTdlZWZkYTM1ZTAxZWM2NjJiOTk4YzQ2ZTE3MDRiYmQ1Y2M5Yjdi`
+Snapshot ID: `MCwyNjJkNDdmYmU1NWY3Y2M2OGRjMDIwNzM0MDM4NzIzYzA3NmQxM2Fk`

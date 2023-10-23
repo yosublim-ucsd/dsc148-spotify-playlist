@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,158 likes - 45 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,247 likes - 45 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 34 | [Boom Chicka Boom](https://open.spotify.com/track/3wwjGWZLyBv4SJwYxc9KZy) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Toddler Action Learning Songs](https://open.spotify.com/album/5MTRkg3C6Sk2am4AbN3h3F) | 2:34 |
 | 35 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 |
 | 36 | [Down By The Bay](https://open.spotify.com/track/6jTZGXH1cOQM3jhh07ZE1y) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Singable Songs for the Very Young](https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH) | 2:08 |
-| 37 | [Hakuna Matata \- From "The Lion King" Soundtrack](https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN) | [Nathan Lane](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv), [Ernie Sabella](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr), [Jason Weaver](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ), [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:33 |
+| 37 | [Hakuna Matata](https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN) | [Nathan Lane](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv), [Ernie Sabella](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr), [Jason Weaver](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ), [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:33 |
 | 38 | [Shoo\-Fly](https://open.spotify.com/track/69u6Wps4uQfwd2Jl4Jd3Ij) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Favorite Classic Kids' Songs](https://open.spotify.com/album/6q0jz3n3Hk7XAir2AaqaaC) | 2:58 |
 | 39 | [Just Sing](https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:41 |
 | 40 | [Under the Sea \- From "The Little Mermaid" / Soundtrack Version](https://open.spotify.com/track/5ts818owahWjkhiBgMwlCX) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney's Greatest Volume 2](https://open.spotify.com/album/6KSC0FkAhdErc0azFDze0i) | 3:15 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 44 | [Wheels on the Bus \(All Through the Town\)](https://open.spotify.com/track/7LydPBAO6s0froW5cOZdfa) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [World Nursery Rhyme Week with Little Baby Bum](https://open.spotify.com/album/3kQQC6EpBgZ8sSdMBKk0TW) | 2:10 |
 | 45 | [Kiss the Girl](https://open.spotify.com/track/4HGIPyqDxSf863tPOwXiLJ) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 2:43 |
 
-Snapshot ID: `MCw1Njk1NjRlNjE5YTE4YjljNDUwOTJmNzM5YzM4ZGZiM2E3Y2QzNzE3`
+Snapshot ID: `MCw2ODM0MmNkYmY4YjQzYTMwOGU4MDUxYzFhYWI3OGNjOTU3NzNiNTMw`

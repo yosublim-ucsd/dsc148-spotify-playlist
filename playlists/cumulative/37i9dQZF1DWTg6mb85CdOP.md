@@ -4,7 +4,7 @@
 
 > ¡Nos vemos el 17, 18 y 19 de Febrero en Las Estacas para disfrutar juntos! ¿A quién no te vas a perder?
 
-71 songs - 5 hr 34 min
+72 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Tojo](https://open.spotify.com/track/4Ihf287hDTQJ0Eo2G6bFcv) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 3:59 | 2023-02-03 | 2023-10-18 |
 | [Tojo](https://open.spotify.com/track/5w3b1UFMnOqxeNSiJBLzqO) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl) | 3:59 | 2023-02-03 |  |
 | [Towards The Mountain](https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5) | 3:20 | 2023-02-03 |  |
-| [Tu Color](https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm) | 3:46 | 2023-02-03 |  |
+| [Tu Color](https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm) | 3:46 | 2023-02-03 | 2023-10-23 |
+| [Tu Color](https://open.spotify.com/track/5F5iYSIvNIZTfr2xInIz99) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [CLAR%SCURO](https://open.spotify.com/album/27oMHySev9yNNTbME6hAJL) | 3:46 | 2023-02-03 |  |
 | [U Feel Mi \- Kai Alce's New Feel](https://open.spotify.com/track/7kAWkF6EHSxR0lXmFJokYc) | [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN), [Kai Alcé](https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi) | [The Remixes EP](https://open.spotify.com/album/6HNu1M0z0dSVFTyA9WPGxQ) | 5:25 | 2023-02-03 |  |
 | [UNA PENA \- ORGINAL](https://open.spotify.com/track/0KD97PT97Qi2a7Zuq2gJkL) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Una Pena](https://open.spotify.com/album/4KHVqwTF2jO1gTYHATQVMM) | 8:05 | 2023-02-03 |  |
 | [Vapour](https://open.spotify.com/track/3xAHEcyhPEX2kEVYkmb7Uy) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Automatic](https://open.spotify.com/album/4l8HTiPwY1GrY3WNUNOZ8q) | 4:22 | 2023-02-03 |  |

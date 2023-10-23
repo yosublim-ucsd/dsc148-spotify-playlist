@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,709 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,940 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 23 | [Sugar Hill \- Roisto Remix](https://open.spotify.com/track/4mPa2hYYzVACNKBJCcbgaY) | [Rose Rose](https://open.spotify.com/artist/7m5YHkCbSEVutUThNF5Lc9), [Roisto](https://open.spotify.com/artist/0zkoIIaqJT7WP0rly4rOMk) | [Sugar Hill \(Roisto Remix\)](https://open.spotify.com/album/60UTuv8Qx9koLLSIme158o) | 4:24 |
 | 24 | [Let her go](https://open.spotify.com/track/3lorZ6d6wi7xwzjP0tT1q2) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [LUCASV](https://open.spotify.com/artist/4wuJEvClymsGVYXCP00JZB) | [Let her go](https://open.spotify.com/album/2cm797zjKrsntb3q2bfNKg) | 3:02 |
 | 25 | [The Fool](https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [The Fool](https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0) | 3:26 |
-| 26 | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25) | 3:35 |
+| 26 | [Diving \- feat\. Holly Humberstone](https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:35 |
 | 27 | [Still Rolling](https://open.spotify.com/track/4uHTsdgtVHUbJcLvs9jE3P) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisurevision](https://open.spotify.com/album/7GjS4SK8fvJFWfvlRw2jtU) | 3:39 |
 | 28 | [Buzzing Bee](https://open.spotify.com/track/4qSGkTqUiH5Kd7LYsCRVUJ) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Gabi Hartmann](https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv) | 3:21 |
 | 29 | [Diamond](https://open.spotify.com/track/172M4kIkFD7k0B3Q8DH35U) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Diamond](https://open.spotify.com/album/3o28lmmD2GQZDR2hPECUD5) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |
 | 50 | [Sweet Tooth](https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Sweet Tooth](https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL) | 2:04 |
 
-Snapshot ID: `MCw5ZGNmYTFjYjMyNjNmYTA3YWI0OGM5MDUxNjUwODk1OGNmNTg1Mzhk`
+Snapshot ID: `MCw2NjY0NGYzMjQ2ZTY2NTRjZDBjOTkyNjIwMTBhZmU5MTU5Y2ZlMTM0`

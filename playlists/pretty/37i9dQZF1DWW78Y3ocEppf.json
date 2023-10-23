@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: VEDO",
-  "num_followers": 43067,
+  "num_followers": 43070,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODEwMWU2YWM2NDYxNmY5ZjVhNjA5NGNmNTA1MzhlZWY4ODZhYzVm",
+  "snapshot_id": "MCxiYzczNjNlMDc0MTAzNTdlMTNlOGY5YmQ3YjQzZWJlNjRiODc2ZWRh",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -913,38 +913,6 @@
       "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
     },
     {
-      "added_at": "2023-07-28 08:00:10",
-      "album": {
-        "name": "Pretty Ass Bish",
-        "url": "https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8"
-      },
-      "artists": [
-        {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
-        }
-      ],
-      "duration_ms": 143743,
-      "name": "Pretty Ass Bish",
-      "url": "https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Meet Me Upstrz",
-        "url": "https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY"
-      },
-      "artists": [
-        {
-          "name": "Upstrz",
-          "url": "https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi"
-        }
-      ],
-      "duration_ms": 156107,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
-    },
-    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "Nuclear Reactor",
@@ -959,6 +927,22 @@
       "duration_ms": 195498,
       "name": "Nuclear Reactor",
       "url": "https://open.spotify.com/track/12P1Scb3vywGXUU5LdJIxi"
+    },
+    {
+      "added_at": "2023-07-28 08:00:10",
+      "album": {
+        "name": "Pretty Ass Bish",
+        "url": "https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 143743,
+      "name": "Pretty Ass Bish",
+      "url": "https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -979,6 +963,22 @@
       "duration_ms": 144869,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Meet Me Upstrz",
+        "url": "https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY"
+      },
+      "artists": [
+        {
+          "name": "Upstrz",
+          "url": "https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi"
+        }
+      ],
+      "duration_ms": 156107,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1013,6 +1013,26 @@
       "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
     },
     {
+      "added_at": "2023-07-28 08:00:10",
+      "album": {
+        "name": "Just Like Me",
+        "url": "https://open.spotify.com/album/2Xxg1dEOlzY4DY1W9hqZ9n"
+      },
+      "artists": [
+        {
+          "name": "Ivory Scott",
+          "url": "https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Just Like Me",
+      "url": "https://open.spotify.com/track/4zEy7q415WjIawOFLhsMBN"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
@@ -1035,26 +1055,6 @@
       "duration_ms": 154552,
       "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
       "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
-    },
-    {
-      "added_at": "2023-07-28 08:00:10",
-      "album": {
-        "name": "Just Like Me",
-        "url": "https://open.spotify.com/album/2Xxg1dEOlzY4DY1W9hqZ9n"
-      },
-      "artists": [
-        {
-          "name": "Ivory Scott",
-          "url": "https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "Just Like Me",
-      "url": "https://open.spotify.com/track/4zEy7q415WjIawOFLhsMBN"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1317,6 +1317,26 @@
       "url": "https://open.spotify.com/track/2av5w5YWi6lZAJKueee1gs"
     },
     {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Tripolar 3",
+        "url": "https://open.spotify.com/album/5vwy12wlYqVXOcsyhdcoiM"
+      },
+      "artists": [
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        },
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Strip for You (feat. Vedo)",
+      "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
+    },
+    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Either Way",
@@ -1347,26 +1367,6 @@
       "duration_ms": 156624,
       "name": "ISN'T THE SAME",
       "url": "https://open.spotify.com/track/5c5WpahqfyGJ7ZibFt8Es7"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Tripolar 3",
-        "url": "https://open.spotify.com/album/5vwy12wlYqVXOcsyhdcoiM"
-      },
-      "artists": [
-        {
-          "name": "Ann Marie",
-          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
-        },
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Strip for You (feat. Vedo)",
-      "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
     },
     {
       "added_at": "2023-05-05 04:18:58",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK"
     },
     {
-      "added_at": "2023-05-05 04:18:58",
-      "album": {
-        "name": "212",
-        "url": "https://open.spotify.com/album/3zgMK2eV0XgSjoxfCk6vnk"
-      },
-      "artists": [
-        {
-          "name": "Journey Montana",
-          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
-        }
-      ],
-      "duration_ms": 146799,
-      "name": "212",
-      "url": "https://open.spotify.com/track/5dPXwjX9VgldfSkl5IFnYy"
-    },
-    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "How Many",
@@ -1481,20 +1465,36 @@
       "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
     },
     {
-      "added_at": "2023-09-01 04:55:52",
+      "added_at": "2023-05-05 04:18:58",
       "album": {
-        "name": "five more",
-        "url": "https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m"
+        "name": "212",
+        "url": "https://open.spotify.com/album/3zgMK2eV0XgSjoxfCk6vnk"
       },
       "artists": [
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
         }
       ],
-      "duration_ms": 165428,
-      "name": "five more",
-      "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
+      "duration_ms": 146799,
+      "name": "212",
+      "url": "https://open.spotify.com/track/5dPXwjX9VgldfSkl5IFnYy"
+    },
+    {
+      "added_at": "2022-11-04 06:34:53",
+      "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp"
+      },
+      "artists": [
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        }
+      ],
+      "duration_ms": 138157,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -1513,20 +1513,20 @@
       "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
     },
     {
-      "added_at": "2022-11-04 06:34:53",
+      "added_at": "2023-09-01 04:55:52",
       "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp"
+        "name": "five more",
+        "url": "https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m"
       },
       "artists": [
         {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 138157,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK"
+      "duration_ms": 165428,
+      "name": "five more",
+      "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1569,22 +1569,6 @@
       "url": "https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "Too Good",
-        "url": "https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf"
-    },
-    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Thanks 4 Nothing",
@@ -1599,6 +1583,38 @@
       "duration_ms": 149020,
       "name": "New Nigga",
       "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Pretty Conversation",
+        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
+      },
+      "artists": [
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        }
+      ],
+      "duration_ms": 140474,
+      "name": "More Than Anything",
+      "url": "https://open.spotify.com/track/5X57YbtIeVPhJTXENLd1No"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "Too Good",
+        "url": "https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1637,22 +1653,6 @@
       "url": "https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Pretty Conversation",
-        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
-      },
-      "artists": [
-        {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
-        }
-      ],
-      "duration_ms": 140474,
-      "name": "More Than Anything",
-      "url": "https://open.spotify.com/track/5X57YbtIeVPhJTXENLd1No"
-    },
-    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "The Other Side",
@@ -1685,54 +1685,6 @@
       "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "C+A",
-        "url": "https://open.spotify.com/album/27yBMv7dvHS7Lvi3Mpfh6X"
-      },
-      "artists": [
-        {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
-        }
-      ],
-      "duration_ms": 159225,
-      "name": "C+A",
-      "url": "https://open.spotify.com/track/6JMSuPOANWkvzhjlHB7P96"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 175999,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "OMM (ON MY MIND)",
-        "url": "https://open.spotify.com/album/4mymgTMpML68SYUEklclr4"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 192555,
-      "name": "OMM (ON MY MIND)",
-      "url": "https://open.spotify.com/track/2Z5hM3KQYNgupmC93TggBl"
-    },
-    {
       "added_at": "2023-06-16 05:24:07",
       "album": {
         "name": "Pretty Conversation",
@@ -1763,6 +1715,54 @@
       "duration_ms": 143903,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 175999,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "WNTRS OUTCAST",
+        "url": "https://open.spotify.com/album/1LA1WiLkc7Md9u6ABOU1Zl"
+      },
+      "artists": [
+        {
+          "name": "Melii",
+          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3QfAjgURz2FywuZFyTM8z5"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "OMM (ON MY MIND)",
+        "url": "https://open.spotify.com/album/4mymgTMpML68SYUEklclr4"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 192555,
+      "name": "OMM (ON MY MIND)",
+      "url": "https://open.spotify.com/track/2Z5hM3KQYNgupmC93TggBl"
     }
   ],
   "unique_name": "Some Kinda Way",

@@ -4,7 +4,7 @@
 
 > 
 
-41 songs - 2 hr 24 min
+42 songs - 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Dracula From Houston](https://open.spotify.com/track/4KJKj7GZLzxq1bXRu0XP6l) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Weird Revolution](https://open.spotify.com/album/1nrZ789CcB2NWW3xn8MBfe) | 3:42 | 2023-06-17 |  |
 | [Every Morning](https://open.spotify.com/track/0BfcEHpbpAvvZok7OnIHEN) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Sugar Ray Collection](https://open.spotify.com/album/717p2dG02D55NmbZY61135) | 3:39 | 2022-02-03 |  |
 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 | 2022-04-01 |  |
+| [Hitchin' a Ride](https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:51 | 2023-10-22 |  |
 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 | 2023-10-12 |  |
 | [Lump](https://open.spotify.com/track/0BkfgzhxeFtLBbmTjbPJ97) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/3ItI6JFnsUIt5PajojH8kJ) | 2:14 | 2022-02-03 |  |
 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/09zcsg2TgceQZ5GCmzrUDZ) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [Eddie Stobart \- Trucking Songs](https://open.spotify.com/album/1ruxsc2tZWcHR9DcO0ChsM) | 3:53 | 2022-02-03 |  |

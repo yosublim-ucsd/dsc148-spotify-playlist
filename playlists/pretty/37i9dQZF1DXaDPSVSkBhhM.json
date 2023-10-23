@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 65186,
+  "num_followers": 65199,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2FmZjkxZTJkYjQ5MzNmODYxNzBmNGZlNGNmZTFhYzkxNjhhOTM2",
+  "snapshot_id": "MCwxNjhmNTk2N2Y2NTE3YjdlOTIwMDBmZTA5ODY3MWE2OWQzMTk2Yjg5",
   "tracks": [
     {
       "added_at": "2023-09-22 06:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Ella Miente",
-        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
-      },
-      "artists": [
-        {
-          "name": "Helian Evans",
-          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
-        }
-      ],
-      "duration_ms": 139700,
-      "name": "Ella Miente",
-      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "C\u00e1llate La Boca",
         "url": "https://open.spotify.com/album/3s9LUzvbeqfQWeNKZ3TTut"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 217600,
       "name": "C\u00e1llate La Boca",
       "url": "https://open.spotify.com/track/4ck93bVIVf9yMwjs8CjSve"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Ella Miente",
+        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
+      },
+      "artists": [
+        {
+          "name": "Helian Evans",
+          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
+        }
+      ],
+      "duration_ms": 139700,
+      "name": "Ella Miente",
+      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Disparos",
-        "url": "https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68"
-      },
-      "artists": [
-        {
-          "name": "INSITE",
-          "url": "https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Disparos",
-      "url": "https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Volver a Empezar",
         "url": "https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 209306,
       "name": "Ll\u00e9vate Todo",
       "url": "https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Disparos",
+        "url": "https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68"
+      },
+      "artists": [
+        {
+          "name": "INSITE",
+          "url": "https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Disparos",
+      "url": "https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Bacard\u00ed",
-        "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
-      },
-      "artists": [
-        {
-          "name": "Pet Friendly",
-          "url": "https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW"
-        }
-      ],
-      "duration_ms": 151572,
-      "name": "Bacard\u00ed",
-      "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "La teor\u00eda de los septenios",
         "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 151757,
       "name": "No olvides de enfocarte siempre en lo importante",
       "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Bacard\u00ed",
+        "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
+      },
+      "artists": [
+        {
+          "name": "Pet Friendly",
+          "url": "https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW"
+        }
+      ],
+      "duration_ms": 151572,
+      "name": "Bacard\u00ed",
+      "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Al infierno y de regreso",
-        "url": "https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa"
-      },
-      "artists": [
-        {
-          "name": "NUNO",
-          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "No Digas Lo Siento",
         "url": "https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 171821,
       "name": "No Digas Lo Siento",
       "url": "https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Al infierno y de regreso",
+        "url": "https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa"
+      },
+      "artists": [
+        {
+          "name": "NUNO",
+          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai"
     },
     {
       "added_at": "2023-09-22 06:00:00",

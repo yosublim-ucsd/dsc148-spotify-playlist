@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 685777,
+  "num_followers": 685780,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzRkNjQ4MzA4MzAxNWVhOTkxNzVjMjUzZmI5ZGMxYmVjNDU5OTBi",
+  "snapshot_id": "MCw5MDEwNzBlZDZjMTk3NjI1OTk2MzQ2N2VlYzJlNzFiNjI0YzlhNWM3",
   "tracks": [
     {
       "added_at": "2023-10-18 13:22:07",
@@ -219,26 +219,6 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "Down Under (feat. Colin Hay)",
-        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Colin Hay",
-          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "Down Under (feat. Colin Hay)",
-      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
         "name": "Drums (Feat. Kim Petras)",
         "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 152400,
       "name": "Drums (Feat. Kim Petras)",
       "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
+        "name": "Down Under (feat. Colin Hay)",
+        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Down Under (feat. Colin Hay)",
+      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 256406,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
+        "name": "Just Feels Tight",
+        "url": "https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 197977,
+      "name": "Just Feels Tight",
+      "url": "https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
         "name": "Freedom 2",
         "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 206931,
       "name": "Freedom 2",
       "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
-        "name": "Just Feels Tight",
-        "url": "https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 197977,
-      "name": "Just Feels Tight",
-      "url": "https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "They Don't Know (Radio Edit)",
-        "url": "https://open.spotify.com/album/3PFPHmT6f2Meat5xuT42MV"
-      },
-      "artists": [
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
-        }
-      ],
-      "duration_ms": 161726,
-      "name": "They Don't Know - Radio Edit",
-      "url": "https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
         "name": "God Made Me Phunky (Jess Bays Remix)",
         "url": "https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 220270,
       "name": "God Made Me Phunky - Jess Bays Remix",
       "url": "https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
+        "name": "They Don't Know (Radio Edit)",
+        "url": "https://open.spotify.com/album/3PFPHmT6f2Meat5xuT42MV"
+      },
+      "artists": [
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        }
+      ],
+      "duration_ms": 161726,
+      "name": "They Don't Know - Radio Edit",
+      "url": "https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
+        "name": "Settle (Deluxe)",
+        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 284026,
+      "name": "When A Fire Starts To Burn",
+      "url": "https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/2R65x1NUpvpI1Dp97sEPFU"
       },
@@ -1387,18 +1403,22 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "Settle (Deluxe)",
-        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
+        "name": "Black Hole (Goodboys Remix)",
+        "url": "https://open.spotify.com/album/6tule1mz3fhX8MwY1k7rAn"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
         }
       ],
-      "duration_ms": 284026,
-      "name": "When A Fire Starts To Burn",
-      "url": "https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE"
+      "duration_ms": 166742,
+      "name": "Black Hole - Goodboys Remix",
+      "url": "https://open.spotify.com/track/7FWDL4IevECW4AFWeovlOG"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1423,26 +1443,6 @@
       "duration_ms": 208217,
       "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
       "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
-        "name": "Black Hole (Goodboys Remix)",
-        "url": "https://open.spotify.com/album/6tule1mz3fhX8MwY1k7rAn"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 166742,
-      "name": "Black Hole - Goodboys Remix",
-      "url": "https://open.spotify.com/track/7FWDL4IevECW4AFWeovlOG"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "Who Let The Dogs Out (feat. EVALINA)",
-        "url": "https://open.spotify.com/album/6HuFQMd2x57nMXOImxw9Tm"
-      },
-      "artists": [
-        {
-          "name": "ABOUT THAT",
-          "url": "https://open.spotify.com/artist/6HMAEvj17gDdNB5EotNEOe"
-        },
-        {
-          "name": "EVALINA",
-          "url": "https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE"
-        }
-      ],
-      "duration_ms": 136120,
-      "name": "Who Let The Dogs Out (feat. EVALINA)",
-      "url": "https://open.spotify.com/track/5eF4cNJ30kdTXnlmUfN8dw"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
         "name": "Enter The Dragon (Are You Up?)",
         "url": "https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 180774,
       "name": "Enter The Dragon (Are You Up?)",
       "url": "https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
+        "name": "Who Let The Dogs Out (feat. EVALINA)",
+        "url": "https://open.spotify.com/album/6HuFQMd2x57nMXOImxw9Tm"
+      },
+      "artists": [
+        {
+          "name": "ABOUT THAT",
+          "url": "https://open.spotify.com/artist/6HMAEvj17gDdNB5EotNEOe"
+        },
+        {
+          "name": "EVALINA",
+          "url": "https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE"
+        }
+      ],
+      "duration_ms": 136120,
+      "name": "Who Let The Dogs Out (feat. EVALINA)",
+      "url": "https://open.spotify.com/track/5eF4cNJ30kdTXnlmUfN8dw"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/6HCH2cdZK9JAAbgDeijTJR"
-      },
-      "artists": [
-        {
-          "name": "THAT KIND",
-          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
-        }
-      ],
-      "duration_ms": 153412,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/7GxgdE0yni4IKu8DSg5ibQ"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
         "name": "Lies",
         "url": "https://open.spotify.com/album/2hvJIyjOG3bn3hNRS2za58"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 196188,
       "name": "Lies",
       "url": "https://open.spotify.com/track/0WWSJNzZ3GUXNMHkWj0Kno"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/6HCH2cdZK9JAAbgDeijTJR"
+      },
+      "artists": [
+        {
+          "name": "THAT KIND",
+          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
+        }
+      ],
+      "duration_ms": 153412,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/7GxgdE0yni4IKu8DSg5ibQ"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
+        "name": "Every Little Time",
+        "url": "https://open.spotify.com/album/1GT4rl83DhiEsl6yvUwOHC"
+      },
+      "artists": [
+        {
+          "name": "Matt Guy",
+          "url": "https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Every Little Time",
+      "url": "https://open.spotify.com/track/5ThtmhhQkaGSbVq9CSK6Qn"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/27y8dcpjACvddY2gnoi1J3"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 174649,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/14agcnE3UapOnnxYufVMZZ"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
-        "name": "Every Little Time",
-        "url": "https://open.spotify.com/album/1GT4rl83DhiEsl6yvUwOHC"
-      },
-      "artists": [
-        {
-          "name": "Matt Guy",
-          "url": "https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Every Little Time",
-      "url": "https://open.spotify.com/track/5ThtmhhQkaGSbVq9CSK6Qn"
     },
     {
       "added_at": "2023-10-18 13:22:07",

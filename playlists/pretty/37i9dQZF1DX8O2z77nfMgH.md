@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,331 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,342 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 69 | [Track 001](https://open.spotify.com/track/1vYa4X5IWUNj96pqGyA7Ck) | [Vera Delacruz](https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt) | [Track 001](https://open.spotify.com/album/4d6T4rYs3jZZRMCRLWl8oi) | 3:07 |
 | 70 | [De Pie Es La Lucha](https://open.spotify.com/track/5Gag8UscRudKeuAIOK9srO) | [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25) | [The Vibraphone is Back](https://open.spotify.com/album/6eLC0XQ6OEOUyGuiDLQ0ZA) | 3:33 |
 
-Snapshot ID: `MCxkY2RmOWFmODAxMDhjZTExYTM3ZWEyN2U1MDZmZWQwYmJhNGVkNDUx`
+Snapshot ID: `MCwzOWZkY2UzYjJmNmMwYjkwNjNkNWE2NzQyNDdkYmMxZDFlNmE5Yjkx`

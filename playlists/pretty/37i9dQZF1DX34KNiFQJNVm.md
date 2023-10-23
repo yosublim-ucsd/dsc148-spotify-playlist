@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Simone Mendes, Anitta, Tz da Coronel, Os Barões da Pisadinha, Charli XCX e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921,153 likes - 96 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,921,664 likes - 96 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 90 | [Bomba Relógio](https://open.spotify.com/track/3mNdnKuJz4R0doVNRsTvoZ) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [Bomba Relógio](https://open.spotify.com/album/2o759BamXSEuef3mFMX00X) | 4:03 |
 | 91 | [Indecisão \- Ao Vivo](https://open.spotify.com/track/3GrzuwxLOUDF3524QtqEWg) | [Bruno Rosa](https://open.spotify.com/artist/0SPHfj49UeOgHKwSYcn8xZ) | [Indecisão \(Ao Vivo\)](https://open.spotify.com/album/5eJVVGnS75eHlA8Cs8x2mY) | 2:45 |
 | 92 | [Dois Estranhos](https://open.spotify.com/track/5cltfwCaYJmR7vRAsGjHct) | [Dan Ferrera](https://open.spotify.com/artist/61BPtX1EyPbqJuqLZlJthx) | [Do Meu Jeito](https://open.spotify.com/album/4fOltzBnY8R4hPQAx9HHVO) | 2:26 |
-| 93 | [So Bad](https://open.spotify.com/track/1ZYHIV76qQYr59eIMqF92C) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [3Beat](https://open.spotify.com/artist/6GygHIe8zmVX42gMgFQ3z8), [LÖÖC](https://open.spotify.com/artist/4qWBiHPlkgepfncAsj1Zzu) | [So Bad](https://open.spotify.com/album/2vDifuf2AOtvrxVUbBZYGw) | 2:25 |
+| 93 | [So Bad](https://open.spotify.com/track/1ZYHIV76qQYr59eIMqF92C) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [3Beat](https://open.spotify.com/artist/6GygHIe8zmVX42gMgFQ3z8), [LÖÖC](https://open.spotify.com/artist/2zPE3wnLyhZHbWqtjDOlmB) | [So Bad](https://open.spotify.com/album/2vDifuf2AOtvrxVUbBZYGw) | 2:25 |
 | 94 | [Twice](https://open.spotify.com/track/2UHnJzIiyNqPTufzxHdTQx) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 2:22 |
 | 95 | [Próximo Vôo](https://open.spotify.com/track/2ccMEpGXZqb9CXajHd72g4) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Próximo Vôo](https://open.spotify.com/album/7sXAisagtRJZkEJGwFLupU) | 2:27 |
 | 96 | [Espetacular](https://open.spotify.com/track/3AARS3at2VsMGhR08Z9lNr) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Arizinho](https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F) | [Espetacular](https://open.spotify.com/album/1h4vZZxG13ls00M4YRYRWm) | 2:09 |
 
-Snapshot ID: `MCxjNGQyY2IxODI0ZGQ5MjlmYWRmNGEwMTFiMDJlYmQzYjRjZjEzNTgy`
+Snapshot ID: `MCxhYzIwOTA0ZTdiMGZhYTVkMWQ4NDM2OTI1YTA0NzI4NzBiNTM2MTMx`

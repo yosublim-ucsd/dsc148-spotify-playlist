@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Griff
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,255 likes - 102 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,313 likes - 102 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 101 | [Quitter](https://open.spotify.com/track/7ocv79icTTz2R4K398X6wy) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Quitter](https://open.spotify.com/album/5bBwJpH95Uip1jBJORRZDf) | 2:44 |
 | 102 | [Cross My Heart I Hope U Die \(With Chandler Leighton\)](https://open.spotify.com/track/2YWQGk9zzkAkGXmjP027db) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Cross My Heart I Hope U Die \(With Chandler Leighton\)](https://open.spotify.com/album/7oXLJl1mwaPoewLLvE9emw) | 2:49 |
 
-Snapshot ID: `MCw1ODU2ZGRkNGJjMmYzZDVlNjhhOWI5MjI3M2UwNDQ0NWM5MzZhZmVl`
+Snapshot ID: `MCxmYWIwZjU2MWYxMzA3NTdlMDBiZmM1ODkwZDEwZWZmNTcyYWI3ZWVi`

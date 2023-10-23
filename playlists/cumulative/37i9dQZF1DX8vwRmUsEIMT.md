@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Charli XCX
 
-1,434 songs - 3 day 5 hr 30 min
+1,435 songs - 3 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1217,7 +1217,8 @@
 | [Talking to Yourself](https://open.spotify.com/track/06sSzWzwwfFsye2btA4mcf) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/45iDZ9IhhSCk1oth97aMx4) | 2:53 | 2022-09-26 | 2022-10-21 |
 | [Talking to Yourself](https://open.spotify.com/track/1sEBlj6fYXiiaGR8XrLSbr) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/03O3E9D52ADAd2nzr3wCtb) | 2:53 | 2022-09-15 | 2022-09-28 |
 | [Tears In My Amiri's](https://open.spotify.com/track/11jbH68hBKmLTTsGP0YvWG) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Tears In My Amiri's](https://open.spotify.com/album/3b69Kmo9ZwejpFtCuxG5pq) | 3:01 | 2023-01-20 | 2023-02-17 |
-| [Tekken 2 \(feat\. Chaka Khan\)](https://open.spotify.com/track/5F2sBRf79hjdKdlzNZ0sX2) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Tekken 2 \(feat\. Chaka Khan\)](https://open.spotify.com/album/4z2R1paeBuJJiIcYsGtvfX) | 3:50 | 2023-10-12 |  |
+| [Tekken 2 \(feat\. Chaka Khan\)](https://open.spotify.com/track/5F2sBRf79hjdKdlzNZ0sX2) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Tekken 2 \(feat\. Chaka Khan\)](https://open.spotify.com/album/4z2R1paeBuJJiIcYsGtvfX) | 3:50 | 2023-10-12 | 2023-10-23 |
+| [Tekken 2 \- feat\. Chaka Khan](https://open.spotify.com/track/0hSnzumPBlfWTT9puEBCv6) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:50 | 2023-10-19 |  |
 | [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 | 2023-09-08 | 2023-10-06 |
 | [Tell Me I’m Alive](https://open.spotify.com/track/3Bzw0mcFyIcVgQbLfxbDGt) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I’m Alive](https://open.spotify.com/album/4QaPQwoYarzNUuus6wBhCu) | 2:35 | 2023-01-13 | 2023-02-03 |
 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2023-10-12 |  |

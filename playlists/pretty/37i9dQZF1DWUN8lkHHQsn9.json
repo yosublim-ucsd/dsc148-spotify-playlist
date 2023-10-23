@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:4GUR4UKtbNQiAV2h5qV2df\">Kamil Kempi\u0144ski</a>",
-  "num_followers": 6689,
+  "num_followers": 6688,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzhlNzM4MTUxNjQ2MDVmNDhmYTQwYjUxYThjZjMwMThhOTljZGFl",
+  "snapshot_id": "MCw5M2E1NzE3ZjU4YjliNjlkN2Q4NzU4MjA3ZThkNjAzMDljYWZjZTk4",
   "tracks": [
     {
       "added_at": "2023-10-20 09:12:18",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Hydra",
-        "url": "https://open.spotify.com/album/7A7tpEscBr4gb6G5dJAqZv"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "Hydra",
-      "url": "https://open.spotify.com/track/5IIkGVU8NWqjWmxWSKyD6u"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
         "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "OLIMP",
-        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
+        "name": "Hydra",
+        "url": "https://open.spotify.com/album/7A7tpEscBr4gb6G5dJAqZv"
       },
       "artists": [
         {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
         }
       ],
-      "duration_ms": 192557,
-      "name": "Tamto Lato",
-      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
+      "duration_ms": 288480,
+      "name": "Hydra",
+      "url": "https://open.spotify.com/track/5IIkGVU8NWqjWmxWSKyD6u"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -615,6 +599,22 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
+        "name": "oddaj\u0119 Ci melodi\u0119",
+        "url": "https://open.spotify.com/album/4OVGD8MkQjwtXeUaJwpJ7U"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 143443,
+      "name": "oddaj\u0119 Ci melodi\u0119",
+      "url": "https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
         "name": "miss u",
         "url": "https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 150001,
       "name": "miss u",
       "url": "https://open.spotify.com/track/6264KCYuGN6YncMjaGbiRH"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "OLIMP",
+        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 192557,
+      "name": "Tamto Lato",
+      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -647,22 +663,6 @@
       "duration_ms": 171379,
       "name": "Wiem, \u017ce Smakuj\u0119 Jak...",
       "url": "https://open.spotify.com/track/4GMIKtwsgJwa6zvA0krAS4"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
-        "name": "oddaj\u0119 Ci melodi\u0119",
-        "url": "https://open.spotify.com/album/4OVGD8MkQjwtXeUaJwpJ7U"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 143443,
-      "name": "oddaj\u0119 Ci melodi\u0119",
-      "url": "https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "OLIMP",
-        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
-      },
-      "artists": [
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
-        }
-      ],
-      "duration_ms": 207732,
-      "name": "Jako\u015b To Przetrwamy",
-      "url": "https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "OH WOW",
         "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 174000,
       "name": "OH WOW",
       "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "OLIMP",
+        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 207732,
+      "name": "Jako\u015b To Przetrwamy",
+      "url": "https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
+        "name": "SLAY",
+        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
         "name": "Diego M.",
         "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "SLAY",
-        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
+        "name": "Scarchest",
+        "url": "https://open.spotify.com/album/5uRIdLZnznQsisjxhqFZ8P"
       },
       "artists": [
         {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
         }
       ],
-      "duration_ms": 179000,
-      "name": "SLAY",
-      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
+      "duration_ms": 154000,
+      "name": "Scarchest",
+      "url": "https://open.spotify.com/track/32MEv5faahEWBKUKFoYLSY"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -907,18 +923,22 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Scarchest",
-        "url": "https://open.spotify.com/album/5uRIdLZnznQsisjxhqFZ8P"
+        "name": "Pokussa Na Parkiecie",
+        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
       },
       "artists": [
         {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Scarchest",
-      "url": "https://open.spotify.com/track/32MEv5faahEWBKUKFoYLSY"
+      "duration_ms": 176000,
+      "name": "POKUSSA",
+      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1003,26 +1023,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Pokussa Na Parkiecie",
-        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "POKUSSA",
-      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "Spina",
         "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Polska",
-        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
-      },
-      "artists": [
-        {
-          "name": "Raf Skowro\u0144ski",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 243062,
-      "name": "Polska",
-      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "BSoD (Bluescreen)",
         "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
       },
@@ -1083,6 +1067,38 @@
       "duration_ms": 179986,
       "name": "BSoD (Bluescreen)",
       "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
+      },
+      "artists": [
+        {
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+        }
+      ],
+      "duration_ms": 262014,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Polska",
+        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
+      },
+      "artists": [
+        {
+          "name": "Raf Skowro\u0144ski",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 243062,
+      "name": "Polska",
+      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1103,18 +1119,26 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
+        "name": "Technikolor",
+        "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
       },
       "artists": [
         {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "Twoja Stara",
+          "url": "https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ"
+        },
+        {
+          "name": "Lola Eyeonyou Potocki",
+          "url": "https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP"
         }
       ],
-      "duration_ms": 262014,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
+      "duration_ms": 230906,
+      "name": "Technikolor",
+      "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1151,30 +1175,6 @@
       "duration_ms": 175200,
       "name": "Ulubione miejsce",
       "url": "https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
-        "name": "Technikolor",
-        "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "Twoja Stara",
-          "url": "https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ"
-        },
-        {
-          "name": "Lola Eyeonyou Potocki",
-          "url": "https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "Technikolor",
-      "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Rojava",
-        "url": "https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L"
-      },
-      "artists": [
-        {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Rojava",
-      "url": "https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "4900 Groszy",
         "url": "https://open.spotify.com/album/4YLvr3nm2e4Dt8L04dwu2a"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 129500,
       "name": "49 Groszy - Remix",
       "url": "https://open.spotify.com/track/4dve4Ig2kTxUCxSIcaoNcd"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Rojava",
+        "url": "https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L"
+      },
+      "artists": [
+        {
+          "name": "MICU\u0141A",
+          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Rojava",
+      "url": "https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1327,22 +1327,6 @@
       "duration_ms": 260000,
       "name": "Cztery Dwa Zero",
       "url": "https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
-        "name": "Organic Love",
-        "url": "https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX"
-      },
-      "artists": [
-        {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Organic Love",
-      "url": "https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1419,6 +1403,22 @@
       "duration_ms": 431721,
       "name": "Duel 35 Chamber Orchestra",
       "url": "https://open.spotify.com/track/3CMYL3nRaIIPN7kInmRZy5"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Girls, Gays, People",
+        "url": "https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9"
+      },
+      "artists": [
+        {
+          "name": "Yanch",
+          "url": "https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ"
+        }
+      ],
+      "duration_ms": 395000,
+      "name": "Girls, Gays, People",
+      "url": "https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10"
     },
     {
       "added_at": "2023-10-20 09:12:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: マコトコンドウ
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,807 likes - 81 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,821 likes - 81 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 80 | [good bye summer time](https://open.spotify.com/track/2GKe2DIHJS0MR2pnp76CA9) | [anna fujishiro](https://open.spotify.com/artist/2PrSK9P06senXWQxvBKpkH) | [good bye summer time](https://open.spotify.com/album/1DIACzv0BiHpbBMhvS6ceG) | 3:40 |
 | 81 | [花様年華](https://open.spotify.com/track/4LkH4PpFcaTXLVsum4dGPm) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:29 |
 
-Snapshot ID: `MCxkOTQ1ZjUxNmJjMGY3ZDljOWZlYmEwYTUxNjgzOGQ3YzUxYzFjOTUy`
+Snapshot ID: `MCw3YTNjMDEzYWZmM2YzNGE4ZTYwZjAzODA1NjM3ZDE1YjJhMDNhNmZk`

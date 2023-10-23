@@ -576,7 +576,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 360359,
       "name": "En Kadhale",
       "url": "https://open.spotify.com/track/1NyK6HEYrFuA6nNwEaCOai"
@@ -1613,6 +1613,28 @@
     },
     {
       "album": {
+        "name": "Dance King Prabhu Deva Songs",
+        "url": "https://open.spotify.com/album/4qMNbXtEi2ehsoFIrNDaLe"
+      },
+      "artists": [
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435600,
+      "name": "Malargaley",
+      "url": "https://open.spotify.com/track/3xb6R9m6TMTQr85R41RkFg"
+    },
+    {
+      "album": {
         "name": "Love Songs Of Ilaiyaraja & A. R. Rahman",
         "url": "https://open.spotify.com/album/2pTLn5ypUdGINKImS1iHyr"
       },
@@ -1628,7 +1650,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 435600,
       "name": "Malargaley (From \"Love Birds\")",
       "url": "https://open.spotify.com/track/08h7noiVJ51fou2fVNIVC4"
@@ -1776,7 +1798,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-18",
+      "date_removed": null,
       "duration_ms": 495882,
       "name": "Mettuppodu Mettuppodu",
       "url": "https://open.spotify.com/track/01iiqDKJPQpfCOgG4rfjid"
@@ -2497,6 +2519,28 @@
     },
     {
       "album": {
+        "name": "Kaviperarasu Vairamuthu Best Songs Collection",
+        "url": "https://open.spotify.com/album/7jwUdwSjV5x9C894Ez9Lh4"
+      },
+      "artists": [
+        {
+          "name": "Unni Menon",
+          "url": "https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144"
+        },
+        {
+          "name": "Sujatha",
+          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342204,
+      "name": "Poraale Ponnuthayi (Form \"Karuthamma\")",
+      "url": "https://open.spotify.com/track/2Z2b0KbOyW3AA3L2yVRlOx"
+    },
+    {
+      "album": {
         "name": "Karuthamma",
         "url": "https://open.spotify.com/album/5YJelfY5sPdfUNzgka0yOW"
       },
@@ -2512,7 +2556,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 342204,
       "name": "Poralea Ponnu Thai-Happy",
       "url": "https://open.spotify.com/track/1nMnhtBGhdwu04naNw2mbf"
@@ -3284,7 +3328,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 302686,
       "name": "Theanmearkku Paruva",
       "url": "https://open.spotify.com/track/2SUGmWWOTWH0UU332Xv7TN"
@@ -3328,6 +3372,28 @@
       "duration_ms": 407604,
       "name": "Theenadai",
       "url": "https://open.spotify.com/track/4boyKRs06dwMUPJlPGibFb"
+    },
+    {
+      "album": {
+        "name": "Kaviperarasu Vairamuthu Best Songs Collection",
+        "url": "https://open.spotify.com/album/7jwUdwSjV5x9C894Ez9Lh4"
+      },
+      "artists": [
+        {
+          "name": "P. Unni Krishnan",
+          "url": "https://open.spotify.com/artist/4ZDwdzsDZCHSEwoe053UVl"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302686,
+      "name": "Thenmerku Paruva Kaatru (Form \"Karuthamma\")",
+      "url": "https://open.spotify.com/track/5JjFg2hJQeDr7L8UZ3O7FP"
     },
     {
       "album": {
@@ -3555,6 +3621,24 @@
     },
     {
       "album": {
+        "name": "Sangamam",
+        "url": "https://open.spotify.com/album/5gjVW4mRgMu0kqdl7kJyBr"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377644,
+      "name": "Varaaha Nathi",
+      "url": "https://open.spotify.com/track/7fDspJMr8PD39mquXZffTy"
+    },
+    {
+      "album": {
         "name": "Sangamam (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6vdKBhSKTE87sq6zq4BoAM"
       },
@@ -3566,7 +3650,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 378040,
       "name": "Varaaha Nathi",
       "url": "https://open.spotify.com/track/5Lw43l88SSLFl0hbeQgjcJ"

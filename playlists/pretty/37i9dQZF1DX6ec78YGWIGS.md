@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Feat\. TINI, Big One y BM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,415 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,638 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
 | 100 | [LORO](https://open.spotify.com/track/55UW6NYVtbjUgX4vwEV3GQ) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [LORO](https://open.spotify.com/album/1HXRxYf1zHa5WZu70DXYCo) | 2:36 |
 
-Snapshot ID: `MCwwZDJkYTA2YmRmNWI4YmRiZjI5Njg5NjFjNDU1MzVkNWNlMzU1NmY2`
+Snapshot ID: `MCw5MWQxMDdhYTFmOWNhOWY2NzI3MGRhNWI4MjE2YTY1Njc2ZGMzNjc0`

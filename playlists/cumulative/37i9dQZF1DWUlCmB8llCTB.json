@@ -7526,6 +7526,32 @@
     {
       "album": {
         "name": "Me Encanta",
+        "url": "https://open.spotify.com/album/5inYy3h8jSkuszKoLDNDVH"
+      },
+      "artists": [
+        {
+          "name": "Young Piri",
+          "url": "https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Giuliano Yankees",
+          "url": "https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215956,
+      "name": "Me Encanta",
+      "url": "https://open.spotify.com/track/46reF3lUV0LS9OcvXcdoww"
+    },
+    {
+      "album": {
+        "name": "Me Encanta",
         "url": "https://open.spotify.com/album/2hCZyEHRdv2SQAn6yhbnsq"
       },
       "artists": [
@@ -7544,7 +7570,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 217331,
       "name": "Me Encanta",
       "url": "https://open.spotify.com/track/4kQ2SJmi1rPzx4KiI1fP62"

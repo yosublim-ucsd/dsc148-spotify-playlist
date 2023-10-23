@@ -1,15 +1,143 @@
 {
   "description": "Listen to the soundtracks of the The Escape of the Seven. (7\uc778\uc758 \ud0c8\ucd9c\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to songs selected by the cast. (\ucd9c\uc5f0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uc815\ud55c \ucd94\ucc9c\uace1\ub4e4\ub3c4 \ub4e4\uc5b4\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
-  "num_followers": 2,
+  "num_followers": 383,
   "original_name": "7\uc778\uc758 \ud0c8\ucd9c(The Escape of the Seven)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjM3MDE1NjY5OWU2MjRlNGRlMDg4Zjc1NjNkZDVjMmVhZmYwYzRh",
+  "snapshot_id": "MCwwNTU0M2ExOTViZjRlYmE1NWJiZWE3MWQ2NTMwMzk4YzQ4Njc3MmZk",
   "tracks": [
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
+      "album": {
+        "name": "The Escape of the Seven OST Special Track",
+        "url": "https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ"
+      },
+      "artists": [
+        {
+          "name": "MONE",
+          "url": "https://open.spotify.com/artist/25pqKY5XQQCDyPZgtzUM9Q"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Sunset Kiss",
+      "url": "https://open.spotify.com/track/5uAPDJnAl6Iide6UfzXZ3J"
+    },
+    {
+      "added_at": "2023-10-22 04:16:22",
+      "album": {
+        "name": "The Escape of the Seven OST Special Track",
+        "url": "https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ"
+      },
+      "artists": [
+        {
+          "name": "MONE",
+          "url": "https://open.spotify.com/artist/25pqKY5XQQCDyPZgtzUM9Q"
+        }
+      ],
+      "duration_ms": 194226,
+      "name": "Sunset Kiss (Pool Party Ver.)",
+      "url": "https://open.spotify.com/track/5o10SzMQAeOsImjqzs8Byl"
+    },
+    {
+      "added_at": "2023-10-22 04:16:22",
+      "album": {
+        "name": "The Escape of the Seven OST Part.2",
+        "url": "https://open.spotify.com/album/1CgrARHgGDA67xWn9JJ3uG"
+      },
+      "artists": [
+        {
+          "name": "Richard Parkers",
+          "url": "https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C"
+        }
+      ],
+      "duration_ms": 222621,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/3npyCr1ht50WqZF537vr8t"
+    },
+    {
+      "added_at": "2023-10-22 04:16:22",
+      "album": {
+        "name": "The Escape of the Seven OST Part.1",
+        "url": "https://open.spotify.com/album/3Uv6LiZNT7I2hLKVQBK6SS"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "duration_ms": 205361,
+      "name": "EXIT",
+      "url": "https://open.spotify.com/track/0aXjaZxWiorYro27xglNJH"
+    },
+    {
+      "added_at": "2023-10-22 04:16:22",
+      "album": {
+        "name": "The Escape of the Seven OST Special Track",
+        "url": "https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ"
+      },
+      "artists": [
+        {
+          "name": "MONE",
+          "url": "https://open.spotify.com/artist/25pqKY5XQQCDyPZgtzUM9Q"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Sunset Kiss (Inst.)",
+      "url": "https://open.spotify.com/track/3msC9dJ6Jec8iQsHSJ4FPr"
+    },
+    {
+      "added_at": "2023-10-22 04:16:22",
+      "album": {
+        "name": "The Escape of the Seven OST Special Track",
+        "url": "https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ"
+      },
+      "artists": [
+        {
+          "name": "MONE",
+          "url": "https://open.spotify.com/artist/25pqKY5XQQCDyPZgtzUM9Q"
+        }
+      ],
+      "duration_ms": 194226,
+      "name": "Sunset Kiss (Pool Party Ver.) (Inst.)",
+      "url": "https://open.spotify.com/track/3tcnCNTTjqHhYJwnarAi8J"
+    },
+    {
+      "added_at": "2023-10-22 04:16:22",
+      "album": {
+        "name": "The Escape of the Seven OST Part.2",
+        "url": "https://open.spotify.com/album/1CgrARHgGDA67xWn9JJ3uG"
+      },
+      "artists": [
+        {
+          "name": "Richard Parkers",
+          "url": "https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C"
+        }
+      ],
+      "duration_ms": 222621,
+      "name": "Disappear (Inst.)",
+      "url": "https://open.spotify.com/track/1g0WFid0GCww3TFA39flaV"
+    },
+    {
+      "added_at": "2023-10-22 04:16:22",
+      "album": {
+        "name": "The Escape of the Seven OST Part.1",
+        "url": "https://open.spotify.com/album/3Uv6LiZNT7I2hLKVQBK6SS"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "duration_ms": 203461,
+      "name": "EXIT (inst.)",
+      "url": "https://open.spotify.com/track/0UfVAMsF6C5d50QDInN7kY"
+    },
+    {
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "The Escape of the Seven audio liner",
         "url": "https://open.spotify.com/album/5Ss3JF1zGufz0NLnBIi2q9"
@@ -25,7 +153,7 @@
       "url": "https://open.spotify.com/track/0PcrcVmCHTe3vdkke3HyGC"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "The Glory, Pt. 2 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0bt1BOedK4Rmq0FgNKLPux"
@@ -41,7 +169,7 @@
       "url": "https://open.spotify.com/track/4FQQun1A4LoltKWawFzmht"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "The Glory, Pt. 1 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0OR9LHwVKfeRjkHxcDm1mc"
@@ -57,7 +185,7 @@
       "url": "https://open.spotify.com/track/0oi3D2PxgQMZIPUoIJw3It"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
@@ -73,7 +201,7 @@
       "url": "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "BADLANDS (Deluxe)",
         "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
@@ -89,7 +217,7 @@
       "url": "https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "The Glory, Pt. 1 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0OR9LHwVKfeRjkHxcDm1mc"
@@ -105,7 +233,7 @@
       "url": "https://open.spotify.com/track/3Otuszwf8HYjUyZwoehVNh"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
@@ -121,7 +249,7 @@
       "url": "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "BADLANDS (Deluxe)",
         "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
@@ -137,7 +265,7 @@
       "url": "https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "Bones UK",
         "url": "https://open.spotify.com/album/6YkF6eWFU0EhVHBnYzAgqv"
@@ -153,7 +281,7 @@
       "url": "https://open.spotify.com/track/6uguPVToau9mv1nDKU1JL8"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "Fur and Gold",
         "url": "https://open.spotify.com/album/0MBMbIshl7jfto6yWs8BFN"
@@ -169,7 +297,7 @@
       "url": "https://open.spotify.com/track/6nX4R2UiVrg6XZphd3QjaI"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
@@ -185,7 +313,7 @@
       "url": "https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "Remarriage and Desires (Original Soundtrack from The Netflix Series)",
         "url": "https://open.spotify.com/album/2YM9Oahck5kVuWGiFQK1dg"
@@ -201,7 +329,7 @@
       "url": "https://open.spotify.com/track/3B4u3uZGm7PCfhc18oTi1J"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "The Glory, Pt. 2 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0bt1BOedK4Rmq0FgNKLPux"
@@ -217,7 +345,7 @@
       "url": "https://open.spotify.com/track/6P5gda3H0xUSFcnYVxR6QU"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "The World of the Married, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2NQlkVEtbwLnNr8XfaSAvD"
@@ -233,7 +361,7 @@
       "url": "https://open.spotify.com/track/60HW5OezE9PdVounCVzOrY"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "The World of the Married, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1gP5RgwQ47g8d1KrAsKnSS"
@@ -249,7 +377,7 @@
       "url": "https://open.spotify.com/track/5GCgK80s9iTYIguVt8AAso"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "The Glory, Pt. 2 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0bt1BOedK4Rmq0FgNKLPux"
@@ -265,7 +393,7 @@
       "url": "https://open.spotify.com/track/0ciNC39cTmJkZ9vtapdYoL"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "The World of the Married Special (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7E2Lp36dLyyJn2zaSkE8GW"
@@ -285,7 +413,7 @@
       "url": "https://open.spotify.com/track/5qGw224wECCHxTEfa1k42v"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "THE HANDMAIDEN (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk"
@@ -301,7 +429,7 @@
       "url": "https://open.spotify.com/track/6TqMHhBiuFUl5XJDLNYzJE"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "The Glory, Pt. 2 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0bt1BOedK4Rmq0FgNKLPux"
@@ -317,7 +445,7 @@
       "url": "https://open.spotify.com/track/5pvKruLtg3tV1VbrjjWkA1"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "THE HANDMAIDEN (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk"
@@ -333,7 +461,7 @@
       "url": "https://open.spotify.com/track/5zcvtY9ubOHVjWZ20lXyuA"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "The Glory, Pt. 2 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0bt1BOedK4Rmq0FgNKLPux"
@@ -349,7 +477,7 @@
       "url": "https://open.spotify.com/track/4Nu2PLji2KqE8C68wOzRyI"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "THE HANDMAIDEN (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk"
@@ -365,7 +493,7 @@
       "url": "https://open.spotify.com/track/4VulISo0xgXeWnOQsS1IgN"
     },
     {
-      "added_at": "2023-10-21 09:55:36",
+      "added_at": "2023-10-22 04:16:22",
       "album": {
         "name": "THE HANDMAIDEN (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk"

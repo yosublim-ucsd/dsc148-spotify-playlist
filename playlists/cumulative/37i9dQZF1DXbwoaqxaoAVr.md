@@ -4,7 +4,7 @@
 
 > Pop style reggae for a sunny summer vibe!
 
-160 songs - 10 hr 5 min
+161 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,8 +54,9 @@
 | [Have It All \- Easy Star All\-Stars & Michael Goldwasser Reggae Mix](https://open.spotify.com/track/7wrvNHeaoRB0jvjXpDEvwK) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Easy Star All\-Stars](https://open.spotify.com/artist/5FWTu1MZdB5fjKif2rZldJ) | [Have It All \(Easy Star All\-Stars & Michael Goldwasser Reggae Mix\)](https://open.spotify.com/album/0FoK1TuctubDMyF7sJTjhq) | 4:19 | 2021-11-25 |  |
 | [Hell and High Water \(feat\. Alessia Cara\)](https://open.spotify.com/track/5C2ry6OWozoqrEDyBz7MOX) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Music Is The Weapon](https://open.spotify.com/album/5sfr7pnsTBW9wcQPbxuitJ) | 2:25 | 2021-11-25 | 2022-07-29 |
 | [Hell and High Water \(feat\. Alessia Cara\)](https://open.spotify.com/track/4H7IgCtaB7fy2tSS3B87RX) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g) | 2:25 | 2022-07-07 | 2022-10-29 |
-| [Hello \(Reggae Cover\)](https://open.spotify.com/track/0TcRO9NJlWZqWhV6BERO8z) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Rosie Delmah](https://open.spotify.com/artist/1oA050idm4VgCncQUWA20d) | [Hello \(Reggae Cover\)](https://open.spotify.com/album/4ogYCeBex0mcjW5uNlLH4x) | 3:58 | 2023-09-13 |  |
+| [Hello \(Reggae Cover\)](https://open.spotify.com/track/0TcRO9NJlWZqWhV6BERO8z) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Rosie Delmah](https://open.spotify.com/artist/1oA050idm4VgCncQUWA20d) | [Hello \(Reggae Cover\)](https://open.spotify.com/album/4ogYCeBex0mcjW5uNlLH4x) | 3:58 | 2023-09-13 | 2023-10-23 |
 | [Hello \(Reggae Cover\)](https://open.spotify.com/track/0vq0qoIMXjE8uFzIIyiOy9) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Rosie Delmah](https://open.spotify.com/artist/1oA050idm4VgCncQUWA20d) | [Hello \(Reggae Cover\)](https://open.spotify.com/album/0GOiltu9AuvqfcDhCE5wqQ) | 3:58 | 2021-11-25 | 2022-07-29 |
+| [Hello \(Reggae Cover\)](https://open.spotify.com/track/55zkWif6hmMdBdIQdjXk82) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Rosie Delmah](https://open.spotify.com/artist/1oA050idm4VgCncQUWA20d) | [Ultra Presents: St\. Barths \- La Plage](https://open.spotify.com/album/64MyeNTXLpwofHEFqgG0aA) | 3:58 | 2023-09-13 |  |
 | [Hello \(Reggae Cover\)](https://open.spotify.com/track/5QJSPscaVvF1faWSDOd9ot) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Rosie Delmah](https://open.spotify.com/artist/1oA050idm4VgCncQUWA20d) | [Hello \(Reggae Cover\)](https://open.spotify.com/album/4Bye7G4TGLm2vSF7LxiM8v) | 3:58 | 2022-07-07 | 2023-10-19 |
 | [Here Comes the Sun](https://open.spotify.com/track/23Bxv0YiYXpv3OPkv3Jbmx) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Celebrating Nina: A Reggae Tribute to Nina Simone](https://open.spotify.com/album/0QjYnaPCjDUqpBYx3ijRhF) | 3:21 | 2022-03-17 |  |
 | [Here I Go Again](https://open.spotify.com/track/07gLSfLyr23jSKaUpRgR1B) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [J\-Status](https://open.spotify.com/artist/28ykFujzSxWjvgZ7owaROx) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:11 | 2021-11-25 |  |

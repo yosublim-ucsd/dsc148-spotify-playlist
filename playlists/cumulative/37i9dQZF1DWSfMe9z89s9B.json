@@ -9161,6 +9161,28 @@
     },
     {
       "album": {
+        "name": "kerosene",
+        "url": "https://open.spotify.com/album/2dPwrPd5fUcz3Lgn22KJut"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        },
+        {
+          "name": "Sie",
+          "url": "https://open.spotify.com/artist/4hs7Io6w7BHOxlbtOIjGH1"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168081,
+      "name": "kerosene",
+      "url": "https://open.spotify.com/track/6dn8A7K3ZfYbDfCRKWFs6P"
+    },
+    {
+      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/4MSiTkDNGzUCGPzrOjwegY"
       },
@@ -10828,7 +10850,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 173506,
       "name": "MiSS BEHAVE",
       "url": "https://open.spotify.com/track/5ShRfLOfpUdmDLGqLWrGKq"

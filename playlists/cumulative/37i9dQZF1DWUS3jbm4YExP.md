@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-613 songs - 1 day 20 hr 16 min
+614 songs - 1 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,6 +562,7 @@
 | [Totem \- David Walters Remix](https://open.spotify.com/track/2sMtCMxY9ocTQybHW7KxLg) | [Anthony Joseph](https://open.spotify.com/artist/622cbugSJevUkEanSBCab9), [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7) | [Totem \(David Walters Remix\)](https://open.spotify.com/album/3uPQR7dKbS3SsAbqqumoqz) | 6:32 | 2022-01-14 | 2022-07-29 |
 | [Towards The Mountain](https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 3:20 | 2022-03-30 | 2022-07-28 |
 | [Tripping Up](https://open.spotify.com/track/6yTgIPx8OsFOQnwr1Baj9o) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8) | [Indigo \- EP](https://open.spotify.com/album/2IgjsbxHF0dC4jjT5Cl5Jd) | 4:47 | 2021-10-06 | 2022-07-24 |
+| [True Love](https://open.spotify.com/track/06jMkCnqgcIJw01GeLFQFo) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [True Love](https://open.spotify.com/album/2TWA3tCKCHR2gLrLoxTntN) | 2:52 | 2023-10-20 |  |
 | [Truenatruena](https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [Truenatruena](https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0) | 4:32 | 2022-08-19 | 2022-09-24 |
 | [Tucheza \- Esa Extended Mix](https://open.spotify.com/track/3NFRY3bt1rsgyVmM15fJve) | [Ze Spirits Band](https://open.spotify.com/artist/07NE1hzpDhvTw4vriH5Ec5), [Esa Williams](https://open.spotify.com/artist/7aYAOm7Y43oWIXMYILSlPH) | [Tucheza \(Esa Extended Mix\)](https://open.spotify.com/album/6CLvBUW4Y6m0Nt3KZNqsm9) | 4:57 | 2021-10-06 | 2022-04-13 |
 | [Tukumtak](https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Tukumtak](https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7) | 3:02 | 2022-08-09 | 2022-09-29 |
@@ -580,7 +581,7 @@
 | [Vem Vem](https://open.spotify.com/track/1fJqZ900sHgKpSWQFbOHDI) | [Sangit](https://open.spotify.com/artist/76Z3dgckcGa6EaeLzWdHOf), [Elisete](https://open.spotify.com/artist/6FN1lbm72BEdMDjQb3jDHx), [Juarez dos Santos](https://open.spotify.com/artist/4yXziRMYdJ2PhZ8ctTXcYC), [Gadi Gaster](https://open.spotify.com/artist/3PzVRbzwrgTZ0KHhZ2mnSx) | [Vem Vem](https://open.spotify.com/album/3Gn6NmpNVxf9Sy7J7eLtGJ) | 4:20 | 2021-10-06 | 2022-05-12 |
 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 | 2022-08-08 | 2022-11-25 |
 | [Vení](https://open.spotify.com/track/4YJr7t041in4HD6sGp2Rp9) | [La Pacifican Power](https://open.spotify.com/artist/2xp0qk4c05JNAzXNxrMtL3) | [La Pacifican Power](https://open.spotify.com/album/3YI9uNNQALKdD1wJsxnvvc) | 3:41 | 2022-01-21 | 2022-02-02 |
-| [Verde](https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Ritmo](https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB) | 3:22 | 2021-10-06 |  |
+| [Verde](https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Ritmo](https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB) | 3:22 | 2021-10-06 | 2023-10-23 |
 | [Vision 9](https://open.spotify.com/track/5UEvuAF0uXVHZ2hIY0uzhH) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Vision 9](https://open.spotify.com/album/3BpxJkpmH9yNYqLLcshcU9) | 7:19 | 2021-10-06 | 2022-07-28 |
 | [Vlinders](https://open.spotify.com/track/03jcvnZBur8sF2pZ3A1Ni6) | [KOFFIE](https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA) | [kokon](https://open.spotify.com/album/2zckcXgFYNW53mXVfKlwLK) | 2:43 | 2023-05-22 | 2023-07-25 |
 | [Voy de Aquí Pa'allá](https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Levante la Mano](https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ) | 3:08 | 2022-03-11 | 2022-04-15 |

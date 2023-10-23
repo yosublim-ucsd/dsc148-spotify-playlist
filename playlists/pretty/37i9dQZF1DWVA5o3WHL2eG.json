@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Joy Denalane",
-  "num_followers": 29413,
+  "num_followers": 29407,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmU3NjFiNzcxYjZlZmM2MDJmZTg2ZjRmZWU4MTY2MTRiOTc4NTFj",
+  "snapshot_id": "MCxlMjU1MTIxOWQ4Y2YzMTMwNTdhZmZmOWNlYWI0ZjVjYTM5ZmUwOTA5",
   "tracks": [
     {
       "added_at": "2023-10-03 22:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "150 BPM (TW)",
-        "url": "https://open.spotify.com/album/3Ml1xcc0w1rQe2EZ70qqOD"
-      },
-      "artists": [
-        {
-          "name": "Marisabelle",
-          "url": "https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH"
-        }
-      ],
-      "duration_ms": 134853,
-      "name": "150 BPM (TW)",
-      "url": "https://open.spotify.com/track/3rNmDu82LVwcRkDcRoPlTe"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
         "name": "Benzer",
         "url": "https://open.spotify.com/album/6Ue6149UREqLkpHVuPrrDB"
       },
@@ -239,7 +223,23 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "berlin nightlife",
+        "name": "150 BPM (TW)",
+        "url": "https://open.spotify.com/album/3Ml1xcc0w1rQe2EZ70qqOD"
+      },
+      "artists": [
+        {
+          "name": "Marisabelle",
+          "url": "https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH"
+        }
+      ],
+      "duration_ms": 134853,
+      "name": "150 BPM (TW)",
+      "url": "https://open.spotify.com/track/3rNmDu82LVwcRkDcRoPlTe"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
+        "name": "berlin night life",
         "url": "https://open.spotify.com/album/7uuaGrUECPqIhVe4P7tlP0"
       },
       "artists": [
@@ -249,7 +249,7 @@
         }
       ],
       "duration_ms": 183401,
-      "name": "berlin nightlife",
+      "name": "berlin night life",
       "url": "https://open.spotify.com/track/2ZmE6SXMTsHpcbR14awchh"
     },
     {

@@ -2240,6 +2240,32 @@
     {
       "album": {
         "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        },
+        {
+          "name": "Una Rams",
+          "url": "https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269504,
+      "name": "Flava (feat. Una Rams & Tellaman)",
+      "url": "https://open.spotify.com/track/4I5RFixXyhu6Bb43S2gchs"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
         "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
       "artists": [
@@ -2258,7 +2284,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 269504,
       "name": "Flava (feat. Una Rams & Tellaman)",
       "url": "https://open.spotify.com/track/2mhkxRse3yU8bx6zJuiNI7"
@@ -2942,10 +2968,32 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 462560,
       "name": "I'm Fallin (feat. RY X)",
       "url": "https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462560,
+      "name": "I'm Fallin (feat. RY X) (feat. RY X)",
+      "url": "https://open.spotify.com/track/5QnQSKDvXTvJzfHQDikskY"
     },
     {
       "album": {
@@ -4294,10 +4342,36 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 364951,
       "name": "Lost (with Angelos feat. Jinadu)",
       "url": "https://open.spotify.com/track/4MjW0jp8b9hAe1dmzJIBCG"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Angelos",
+          "url": "https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq"
+        },
+        {
+          "name": "Jinadu",
+          "url": "https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364951,
+      "name": "Lost (with Angelos feat. Jinadu)",
+      "url": "https://open.spotify.com/track/5XsorNI7KEXkUsnhPuaZDB"
     },
     {
       "album": {
@@ -6002,6 +6076,28 @@
       "duration_ms": 393717,
       "name": "Power Of You",
       "url": "https://open.spotify.com/track/5fALbPu4XNwQG0N6mXGAXg"
+    },
+    {
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/1NZkyhAekQAvKmOcuz7Wxk"
+      },
+      "artists": [
+        {
+          "name": "Dj KID",
+          "url": "https://open.spotify.com/artist/25Sn4onoayoqiyWutL2Ssl"
+        },
+        {
+          "name": "The Siege DJ",
+          "url": "https://open.spotify.com/artist/39KVav2Jh3upmt7K4U5Dk1"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/0djUoVHsisLjUcyB7iMRxH"
     },
     {
       "album": {

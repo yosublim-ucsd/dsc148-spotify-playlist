@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena",
-  "num_followers": 987152,
+  "num_followers": 987236,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTI1MWE3M2M3MjgwNTM2NzYyZGZhNzE1M2RmNDU1YjhjMGE1OWE1",
+  "snapshot_id": "MCwzOTVlMzM0MGU3OWEyM2M4YmIzNWY2NjZmMTMzMTc4YzU0MzExYWMy",
   "tracks": [
     {
       "added_at": "2023-10-19 22:01:00",
@@ -327,26 +327,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "XQ Sigues Pasando :(",
-        "url": "https://open.spotify.com/album/5yupynAvNgH8LwQomVJEzz"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "XQ Sigues Pasando :(",
-      "url": "https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Someone I Used To Know",
         "url": "https://open.spotify.com/album/0jHmLiL2rX5R8KLQ5lNiBf"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 175833,
       "name": "Someone I Used to Know",
       "url": "https://open.spotify.com/track/6JZD3cr8CTNOmZg205emdw"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "XQ Sigues Pasando :(",
+        "url": "https://open.spotify.com/album/5yupynAvNgH8LwQomVJEzz"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "XQ Sigues Pasando :(",
+      "url": "https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -439,6 +439,26 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
+        "name": "COBARDE",
+        "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 166081,
+      "name": "COBARDE",
+      "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
         "name": "LUCES DE CIUDAD (feat. \u00c1lvaro De Luna, Dani Fern\u00e1ndez)",
         "url": "https://open.spotify.com/album/3EBBkRkTqYd59GNwxUH3ar"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 163401,
       "name": "LUCES DE CIUDAD (feat. \u00c1lvaro De Luna, Dani Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/4GrbQq8TcYoUd4s5YmzydE"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
-        "name": "COBARDE",
-        "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 166081,
-      "name": "COBARDE",
-      "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Derecho a No Declarar",
-        "url": "https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B"
-      },
-      "artists": [
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 146763,
-      "name": "Derecho a No Declarar",
-      "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Puerta del Sol",
         "url": "https://open.spotify.com/album/0Feep6LUA5614f0kBIgLtU"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 193150,
       "name": "Puerta del Sol",
       "url": "https://open.spotify.com/track/13Cpy3Cl5f1K0VlNw0xPaT"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Derecho a No Declarar",
+        "url": "https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "duration_ms": 146763,
+      "name": "Derecho a No Declarar",
+      "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "El Olor De Tu Pelo",
-        "url": "https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1"
-      },
-      "artists": [
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 163448,
-      "name": "El Olor De Tu Pelo",
-      "url": "https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "SUPERH\u00c9ROES",
         "url": "https://open.spotify.com/album/5GbT5hePpbTYqlx61G7ggt"
       },
@@ -663,22 +647,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Poquito a Poquito",
-        "url": "https://open.spotify.com/album/1v7khGGbZK12Y7CMofMFxI"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Poquito a Poquito",
-      "url": "https://open.spotify.com/track/1Uf6XdCFBmIrbs1Rbx8t9v"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
       },
@@ -691,6 +659,22 @@
       "duration_ms": 151214,
       "name": "La Tortura - Spotify Singles",
       "url": "https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "Poquito a Poquito",
+        "url": "https://open.spotify.com/album/1v7khGGbZK12Y7CMofMFxI"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Poquito a Poquito",
+      "url": "https://open.spotify.com/track/1Uf6XdCFBmIrbs1Rbx8t9v"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -715,22 +699,34 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Copita Champagne",
-        "url": "https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU"
+        "name": "El Olor De Tu Pelo",
+        "url": "https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1"
       },
       "artists": [
         {
-          "name": "Mireya Rivas",
-          "url": "https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps"
-        },
-        {
-          "name": "Chema Rivas",
-          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Copita Champagne",
-      "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
+      "duration_ms": 163448,
+      "name": "El Olor De Tu Pelo",
+      "url": "https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "bellodrama",
+        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 164351,
+      "name": "Me Enamoro",
+      "url": "https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -751,18 +747,22 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "bellodrama",
-        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
+        "name": "Copita Champagne",
+        "url": "https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU"
       },
       "artists": [
         {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "Mireya Rivas",
+          "url": "https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps"
+        },
+        {
+          "name": "Chema Rivas",
+          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
         }
       ],
-      "duration_ms": 164351,
-      "name": "Me Enamoro",
-      "url": "https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp"
+      "duration_ms": 163000,
+      "name": "Copita Champagne",
+      "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "VUELA ALTO",
-        "url": "https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 201206,
-      "name": "MI BANDERA",
-      "url": "https://open.spotify.com/track/4lTgUY1rtzieQLFGCzfpmA"
-    },
-    {
-      "added_at": "2023-10-19 22:01:00",
-      "album": {
         "name": "A Mi Lao",
         "url": "https://open.spotify.com/album/7efm9aS7o0nb2XJHJkkpJU"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 163615,
       "name": "A Mi Lao",
       "url": "https://open.spotify.com/track/2zWsvszAYDfq9sOJ0yjCfm"
+    },
+    {
+      "added_at": "2023-10-19 22:01:00",
+      "album": {
+        "name": "VUELA ALTO",
+        "url": "https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 201206,
+      "name": "MI BANDERA",
+      "url": "https://open.spotify.com/track/4lTgUY1rtzieQLFGCzfpmA"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -943,22 +943,18 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "Si Supieran",
-        "url": "https://open.spotify.com/album/0T8lt5lLQi5bB9s7yLQiFW"
+        "name": "de mi pa ti",
+        "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
       },
       "artists": [
         {
-          "name": "Serko",
-          "url": "https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq"
-        },
-        {
-          "name": "Dilas",
-          "url": "https://open.spotify.com/artist/28UGYcxxUBg3GeQdTvi5t4"
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         }
       ],
-      "duration_ms": 220881,
-      "name": "Si Supieran",
-      "url": "https://open.spotify.com/track/0wpMKiXORO28u3C439Qj5C"
+      "duration_ms": 206351,
+      "name": "de mi pa ti",
+      "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
     },
     {
       "added_at": "2023-10-19 22:01:00",
@@ -979,18 +975,22 @@
     {
       "added_at": "2023-10-19 22:01:00",
       "album": {
-        "name": "de mi pa ti",
-        "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
+        "name": "Si Supieran",
+        "url": "https://open.spotify.com/album/0T8lt5lLQi5bB9s7yLQiFW"
       },
       "artists": [
         {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+          "name": "Serko",
+          "url": "https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq"
+        },
+        {
+          "name": "Dilas",
+          "url": "https://open.spotify.com/artist/28UGYcxxUBg3GeQdTvi5t4"
         }
       ],
-      "duration_ms": 206351,
-      "name": "de mi pa ti",
-      "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
+      "duration_ms": 220881,
+      "name": "Si Supieran",
+      "url": "https://open.spotify.com/track/0wpMKiXORO28u3C439Qj5C"
     },
     {
       "added_at": "2023-10-19 22:01:00",

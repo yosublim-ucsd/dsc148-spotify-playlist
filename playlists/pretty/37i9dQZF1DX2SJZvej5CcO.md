@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SJZvej5CcO.md) - [plain]
 
 > Apasiónate con sus éxitos en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,244 likes - 71 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,343 likes - 71 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SJZvej5CcO.md) - [plain]
 | 70 | [Donde quedo solo yo \(with Alex Ubago\)](https://open.spotify.com/track/1BoeL6LCpjViLGIdKrcYGT) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Donde quedo solo yo \(with Alex Ubago\)](https://open.spotify.com/album/6loE6FrLzjVFKWgXOout5r) | 3:41 |
 | 71 | [Verdades a medias](https://open.spotify.com/track/5rHP4mgLryrfQIGUiSWU8B) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Bebe](https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts) | [Verdades a medias](https://open.spotify.com/album/4DjvUxpQOBDBlpXD5NFydK) | 4:00 |
 
-Snapshot ID: `MCwzNDAxNWVjZThlMGE3MjQ1YWM5NzQwOTBkMThjODgyNjdjNzFmY2Iy`
+Snapshot ID: `MCwwMjkzMjI2Y2YxNDk0NGIwMGFkNjQzYWUyY2U5MjY3ZjYwY2RhZTRl`

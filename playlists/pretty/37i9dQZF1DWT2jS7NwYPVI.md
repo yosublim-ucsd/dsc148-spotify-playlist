@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Picture Parlour
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,692 likes - 121 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,764 likes - 121 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 26 | [What Now](https://open.spotify.com/track/1g8becOwXRFEkYukY94L99) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/34hq1FBvredIMga6KyZnF2) | 3:46 |
 | 27 | [Run Run Run](https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Run Run Run](https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K) | 2:53 |
 | 28 | [Hell](https://open.spotify.com/track/44cwcFNclhaQm29UTexzDg) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Hell](https://open.spotify.com/album/02zLqSxOwNG6OlppSNHvOK) | 3:13 |
-| 29 | [Try](https://open.spotify.com/track/3mXiKyXnHvjeLHg87CKoP2) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Try](https://open.spotify.com/album/1zZORYYv4dATo41BNEAuG2) | 3:57 |
+| 29 | [Try](https://open.spotify.com/track/1isiUXaYArJVAFe2f6vRPt) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Some Of It Was True](https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ) | 3:57 |
 | 30 | [The Hills](https://open.spotify.com/track/1McBsb9H3rFIl5cENthWd6) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [The Hills](https://open.spotify.com/album/0iFGP0AHWd8UHjpeHDUIMz) | 3:31 |
 | 31 | [ring in ur ear](https://open.spotify.com/track/2iWGSNrMCPAebDQ78YmHGt) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [new planet heaven](https://open.spotify.com/album/2yLcWY0KENr1OAQ7ZAL7vD) | 3:18 |
 | 32 | [Kismet](https://open.spotify.com/track/7pMSBupRMxTmMvoDbESqDy) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 3:03 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 96 | [Down, Down](https://open.spotify.com/track/0miXex5MBdN0ddRL79GX4I) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Down, Down](https://open.spotify.com/album/370vppY6IUYVcPirKxqVEe) | 3:05 |
 | 97 | [2 FOR THA SHOW](https://open.spotify.com/track/6OJzYB7wzVhxI2YIjVrfr6) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Traffic Fiction](https://open.spotify.com/album/0MkenTu5G8qe0SgyE619fA) | 3:56 |
 | 98 | [Molly.](https://open.spotify.com/track/2g3B6kkxZ2wYenuvUkW6Ac) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Molly.](https://open.spotify.com/album/0GEJrBRW8yzoM65MMg3nw8) | 2:40 |
-| 99 | [Upside Down](https://open.spotify.com/track/4evQcauyfeqJDYM6RT60Hr) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [Upside Down](https://open.spotify.com/album/2fhkx9t9afX0tBcxNHPjLh) | 2:43 |
+| 99 | [Upside Down](https://open.spotify.com/track/7py3WSQjmnNIqiUilccpg3) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [Face For The Radio](https://open.spotify.com/album/1wMbTB7IKFwlLS3ELUVBH1) | 2:43 |
 | 100 | [Johnny's Dead](https://open.spotify.com/track/6qh5yE6FEk0n6hsCufMIX6) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [Johnny's Dead](https://open.spotify.com/album/5y8pk29U5u1ZF2Woi7jqgn) | 2:37 |
 | 101 | [PHD](https://open.spotify.com/track/0MzNvq7rOR7zYfJcRf7Yzz) | [Malice K](https://open.spotify.com/artist/02teRYFHjIArrcuL5TkxmI) | [PHD](https://open.spotify.com/album/3clusQ6T8jI8LenvmGB15O) | 1:57 |
 | 102 | [Racecar](https://open.spotify.com/track/7z5B2QlL2XUL0Q0mmScv14) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a), [LOOSEY](https://open.spotify.com/artist/1FoT7J7IGM1b34GNr51VFB) | [BRAND NEW SOUL](https://open.spotify.com/album/1shl6JL6IJcBat7yMjydU5) | 3:09 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 120 | [Karaoke](https://open.spotify.com/track/7keNZhvY8vbs3AyqDewmjj) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Karaoke](https://open.spotify.com/album/7FfYlliKoC99WzeDwyIbqn) | 3:20 |
 | 121 | [My Own Hell](https://open.spotify.com/track/3FiRWP4QJ1Di59fGDOYQAR) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [My Own Hell](https://open.spotify.com/album/3MHaxJDs6Z9Z9iwVtZt8ip) | 3:25 |
 
-Snapshot ID: `MCxkY2NmNWFmY2JmODU2Y2EzOGEzNGU3NjA2YThhYWRmNzVkYzZmMTEz`
+Snapshot ID: `MCw0NzM0MmFmZmE4NjE5ZWVmMzk0YjM2NDhlYzE0MzNhYWY5OWZiY2Ex`

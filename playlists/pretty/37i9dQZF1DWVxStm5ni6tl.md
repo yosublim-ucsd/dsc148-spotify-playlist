@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: harper, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,815 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,844 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [Be Your Rock](https://open.spotify.com/track/6YiGuj2SCjMO2Vi9x0uVyM) | [Yehra](https://open.spotify.com/artist/3PLqRcOQ0mbGN3mPELPAZI) | [Be Your Rock](https://open.spotify.com/album/3HpvTK4O2ssB8uO33Fb6So) | 2:31 |
 | 75 | [reason to live](https://open.spotify.com/track/22pEzfVt8rd7jwNQpiD5rm) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [reason to live](https://open.spotify.com/album/6ozLFVr3NpiqSqXAseJGDw) | 2:32 |
 
-Snapshot ID: `MCwwMTI5NDIwMmU0OThmNzJkMmRhYzAwMGRhZDc2NTFiNGFmMGQ5ZTU5`
+Snapshot ID: `MCwyZGEyMjU2ZDYxZjc1YzBlMTdlZjNkZmRkM2MyOTFiZGIwMmRhZTIw`

@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 424160,
+  "num_followers": 424318,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDdkNTkzMGU2ZDVmYTkzMDdiOWVmMGExNGNmN2MzNGQ2OWY5MWY5",
+  "snapshot_id": "MCw3MGE3ZWFiMmM3OGEzMWJkM2U4ZGI0MjVmMTNjNDgzMjFjNzdmOWI2",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Carry On (EarthLife Remix)",
-        "url": "https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "EarthLife",
-          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
-        }
-      ],
-      "duration_ms": 218789,
-      "name": "Carry On - EarthLife Remix",
-      "url": "https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Bayati Shiraz (feat. Kenan Bayramli)",
         "url": "https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 214214,
       "name": "Bayati Shiraz (feat. Kenan Bayramli)",
       "url": "https://open.spotify.com/track/4T5fdxoMBLOdUBb8CtRuNW"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Carry On (EarthLife Remix)",
+        "url": "https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "EarthLife",
+          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
+        }
+      ],
+      "duration_ms": 218789,
+      "name": "Carry On - EarthLife Remix",
+      "url": "https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Si Te Portas Bonito",
+        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 117539,
+      "name": "Si Te Portas Bonito - Edit",
+      "url": "https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "The Silence",
         "url": "https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL"
       },
@@ -983,18 +999,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Si Te Portas Bonito",
-        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
+        "name": "Silence & Secrets (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI"
       },
       "artists": [
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         }
       ],
-      "duration_ms": 117539,
-      "name": "Si Te Portas Bonito - Edit",
-      "url": "https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9"
+      "duration_ms": 474093,
+      "name": "Silence & Secrets - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1015,26 +1035,6 @@
       "duration_ms": 200952,
       "name": "Little Darling - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Silence & Secrets (Black Coffee Remix)",
-        "url": "https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        }
-      ],
-      "duration_ms": 474093,
-      "name": "Silence & Secrets - Black Coffee Remix",
-      "url": "https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Dale",
-        "url": "https://open.spotify.com/album/57UcRw8voA5xTPL7ctpBIG"
-      },
-      "artists": [
-        {
-          "name": "Like Mike",
-          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
-        },
-        {
-          "name": "Eden Shalev",
-          "url": "https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "Dale",
-      "url": "https://open.spotify.com/track/6c3qEL7Vqln2z2UKvnPjjm"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "UUUU (&ME Remix)",
         "url": "https://open.spotify.com/album/6WcXcUljr548zs4lB6zWBb"
       },
@@ -1239,6 +1219,50 @@
       "duration_ms": 417346,
       "name": "UUUU - &ME Remix",
       "url": "https://open.spotify.com/track/0rfLJGjPdvqHXgvDCTdGc6"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Real Love (Liva K Remix)",
+        "url": "https://open.spotify.com/album/3joNpvmZheGoKgbIiQL1kd"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        },
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "duration_ms": 177577,
+      "name": "Real Love - Liva K Remix",
+      "url": "https://open.spotify.com/track/3TyPUGvK4G8pdrM3oEWlwg"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Dale",
+        "url": "https://open.spotify.com/album/57UcRw8voA5xTPL7ctpBIG"
+      },
+      "artists": [
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Eden Shalev",
+          "url": "https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "Dale",
+      "url": "https://open.spotify.com/track/6c3qEL7Vqln2z2UKvnPjjm"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1483,30 +1507,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Real Love (Liva K Remix)",
-        "url": "https://open.spotify.com/album/3joNpvmZheGoKgbIiQL1kd"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        },
-        {
-          "name": "Liva K",
-          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
-        }
-      ],
-      "duration_ms": 177577,
-      "name": "Real Love - Liva K Remix",
-      "url": "https://open.spotify.com/track/3TyPUGvK4G8pdrM3oEWlwg"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Disappear (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/4kKx5XKmv83JwNfVtR30k7"
       },
@@ -1595,38 +1595,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Starz",
-        "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 300975,
-      "name": "Starz",
-      "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "The Rhythm",
-        "url": "https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv"
-      },
-      "artists": [
-        {
-          "name": "THEMBA",
-          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
-        }
-      ],
-      "duration_ms": 199044,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "All I Ever Wanted",
         "url": "https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT"
       },
@@ -1647,6 +1615,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        }
+      ],
+      "duration_ms": 199044,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Groove You EP",
         "url": "https://open.spotify.com/album/00dMUIYEjfWzbK19QK301E"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 396097,
       "name": "Nothingness",
       "url": "https://open.spotify.com/track/3qVkFZ5WdPZpqyV9fVKt68"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Starz",
+        "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 300975,
+      "name": "Starz",
+      "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1751,22 +1751,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/2c8F3AAuXBYz3npCbBmFRO"
+        "name": "3 Sense",
+        "url": "https://open.spotify.com/album/4Fhh3zH4xdalFWodUJYwQQ"
       },
       "artists": [
         {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
         },
         {
-          "name": "Mario Reyes",
-          "url": "https://open.spotify.com/artist/0Hf3UN7p1AVi3bQBish6YX"
+          "name": "Anorre",
+          "url": "https://open.spotify.com/artist/26TRIoeGpch6h8plv1siMh"
+        },
+        {
+          "name": "The NGHBRS",
+          "url": "https://open.spotify.com/artist/2YYAp30sXeDAKiTLMfKGTT"
         }
       ],
-      "duration_ms": 469596,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/2fHtXQkRN2Mwp6nFTSxH9q"
+      "duration_ms": 163278,
+      "name": "3 Sense",
+      "url": "https://open.spotify.com/track/7BbCFISQVNWlWIh0BUPAit"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1783,6 +1787,26 @@
       "duration_ms": 315026,
       "name": "Kami",
       "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/2c8F3AAuXBYz3npCbBmFRO"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Mario Reyes",
+          "url": "https://open.spotify.com/artist/0Hf3UN7p1AVi3bQBish6YX"
+        }
+      ],
+      "duration_ms": 469596,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/2fHtXQkRN2Mwp6nFTSxH9q"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1819,30 +1843,6 @@
       "duration_ms": 208124,
       "name": "The Otherside (feat. Robinson)",
       "url": "https://open.spotify.com/track/5En5CwjHaxxj7LpwpHojL3"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "3 Sense",
-        "url": "https://open.spotify.com/album/4Fhh3zH4xdalFWodUJYwQQ"
-      },
-      "artists": [
-        {
-          "name": "Eran Hersh",
-          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
-        },
-        {
-          "name": "Anorre",
-          "url": "https://open.spotify.com/artist/26TRIoeGpch6h8plv1siMh"
-        },
-        {
-          "name": "The NGHBRS",
-          "url": "https://open.spotify.com/artist/2YYAp30sXeDAKiTLMfKGTT"
-        }
-      ],
-      "duration_ms": 163278,
-      "name": "3 Sense",
-      "url": "https://open.spotify.com/track/7BbCFISQVNWlWIh0BUPAit"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -2011,6 +2011,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "My Love for You (Yebba's Heartbreak)",
+        "url": "https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc"
+      },
+      "artists": [
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "My Love for You (Yebba's Heartbreak) - Edit",
+      "url": "https://open.spotify.com/track/4IC4M64imsv7BGowdrFEzH"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Morning Glory",
         "url": "https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR"
       },
@@ -2079,6 +2095,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Ethos",
+        "url": "https://open.spotify.com/album/4wjQEJULPMyZSlxtp53TGi"
+      },
+      "artists": [
+        {
+          "name": "Bonsaye",
+          "url": "https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG"
+        }
+      ],
+      "duration_ms": 222785,
+      "name": "Ethos",
+      "url": "https://open.spotify.com/track/61vtSOrJad1A4DIC1jhoXZ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Before The Flood (Ankho\u00ef Remix)",
         "url": "https://open.spotify.com/album/3G4VhXCiJY7gHFgFoQssyH"
       },
@@ -2115,22 +2147,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Children Of 95",
-        "url": "https://open.spotify.com/album/0lPtLvaconuzEsRPFEnRKv"
-      },
-      "artists": [
-        {
-          "name": "Tal Fussman",
-          "url": "https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb"
-        }
-      ],
-      "duration_ms": 357842,
-      "name": "Children Of 95",
-      "url": "https://open.spotify.com/track/0W3fiSN6ebq9V3kFb0KGPn"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/2kjZNNrlthQ6IYg7wTFwRJ"
       },
@@ -2155,34 +2171,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "My Love for You (Yebba's Heartbreak)",
-        "url": "https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc"
+        "name": "Children Of 95",
+        "url": "https://open.spotify.com/album/0lPtLvaconuzEsRPFEnRKv"
       },
       "artists": [
         {
-          "name": "Marten Lou",
-          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+          "name": "Tal Fussman",
+          "url": "https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb"
         }
       ],
-      "duration_ms": 205573,
-      "name": "My Love for You (Yebba's Heartbreak) - Edit",
-      "url": "https://open.spotify.com/track/4IC4M64imsv7BGowdrFEzH"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Ethos",
-        "url": "https://open.spotify.com/album/4wjQEJULPMyZSlxtp53TGi"
-      },
-      "artists": [
-        {
-          "name": "Bonsaye",
-          "url": "https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG"
-        }
-      ],
-      "duration_ms": 222785,
-      "name": "Ethos",
-      "url": "https://open.spotify.com/track/61vtSOrJad1A4DIC1jhoXZ"
+      "duration_ms": 357842,
+      "name": "Children Of 95",
+      "url": "https://open.spotify.com/track/0W3fiSN6ebq9V3kFb0KGPn"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "SILVERLAKE 03",
-        "url": "https://open.spotify.com/album/3EHHWKU0W1jIsFcmpaXqas"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 311622,
-      "name": "YOUR NAME",
-      "url": "https://open.spotify.com/track/7uHnPv1DBxADOMBemb1Xdn"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Die Dunkle Biene",
         "url": "https://open.spotify.com/album/3rQs5F0Mt9r9oV8Jrt00bx"
       },
@@ -2275,22 +2259,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Intuici\u00f3n",
-        "url": "https://open.spotify.com/album/5Se3Q7PFRqnmC6QefliKUE"
+        "name": "SILVERLAKE 03",
+        "url": "https://open.spotify.com/album/3EHHWKU0W1jIsFcmpaXqas"
       },
       "artists": [
         {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
-        },
-        {
-          "name": "Sil Romero",
-          "url": "https://open.spotify.com/artist/0ZuVGmLXDBzT1XQaUdUoBG"
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
         }
       ],
-      "duration_ms": 252790,
-      "name": "Intuici\u00f3n",
-      "url": "https://open.spotify.com/track/1UUqAz5dCRcnquV3vOQ4ny"
+      "duration_ms": 311622,
+      "name": "YOUR NAME",
+      "url": "https://open.spotify.com/track/7uHnPv1DBxADOMBemb1Xdn"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -2307,42 +2287,6 @@
       "duration_ms": 260500,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/6LBNRWUS3dKeZxREy3WHTL"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Metropolis",
-        "url": "https://open.spotify.com/album/08sIlCIFAfna5R07yRrVTj"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 273250,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/1vJj7yCeCtimK37DCfDggZ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Farsi",
-        "url": "https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 521940,
-      "name": "Farsi",
-      "url": "https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -2367,6 +2311,46 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Intuici\u00f3n",
+        "url": "https://open.spotify.com/album/5Se3Q7PFRqnmC6QefliKUE"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        },
+        {
+          "name": "Sil Romero",
+          "url": "https://open.spotify.com/artist/0ZuVGmLXDBzT1XQaUdUoBG"
+        }
+      ],
+      "duration_ms": 252790,
+      "name": "Intuici\u00f3n",
+      "url": "https://open.spotify.com/track/1UUqAz5dCRcnquV3vOQ4ny"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Farsi",
+        "url": "https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 521940,
+      "name": "Farsi",
+      "url": "https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/0mVSBUkT9iJDGwl0fO3oom"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 454008,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/6DkDlro1m7qqktqpePSWwM"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/08sIlCIFAfna5R07yRrVTj"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 273250,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/1vJj7yCeCtimK37DCfDggZ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -2527,30 +2527,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Piano Republik (Remixes)",
-        "url": "https://open.spotify.com/album/0rq3Jg8TCAfln9gJIwBBh8"
+        "name": "Bad Love (Antdot & Maz Remix)",
+        "url": "https://open.spotify.com/album/0ZsUU0Sz04c4NtLzvBAWsr"
       },
       "artists": [
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Fahlberg",
+          "url": "https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk"
         },
         {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Ape Drums",
-          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+          "name": "Maz (BR)",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
         }
       ],
-      "duration_ms": 401064,
-      "name": "Oh Yeah - Ape Drums Remix",
-      "url": "https://open.spotify.com/track/1jk27KIDpTs4L4UHLgu2oJ"
+      "duration_ms": 230082,
+      "name": "Bad Love - Antdot & Maz Remix",
+      "url": "https://open.spotify.com/track/1OzMejgdMtjfTdlS5iQHud"
     }
   ],
   "unique_name": "Tantra",

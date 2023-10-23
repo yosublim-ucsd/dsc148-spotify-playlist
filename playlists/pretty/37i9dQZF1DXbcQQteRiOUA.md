@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcQQteRiOUA.md) - [plain]
 
 > <a href="spotify:artist:2C0q6kKsOqXe490AYXubeA">Dish Dash</a>'s favorite tracks\. Updated regularly\. Curated by Dish Dash\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,651 likes - 52 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,707 likes - 52 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

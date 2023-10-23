@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 16067,
+  "num_followers": 16088,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjVkZGMyZGI2NzZlODFhMmM0ZGU5OTM4Yzk4NDMwNWE3YzdkNDg3",
+  "snapshot_id": "MCxhYjJhYjYyZThlZTlkM2FmZjhhMmFjNTFjNzkyM2I1ZTBjOWM4Mzcw",
   "tracks": [
     {
       "added_at": "2023-10-20 00:01:00",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Lova",
+        "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 173810,
+      "name": "Lova",
+      "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Routine Lover",
         "url": "https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 168510,
       "name": "Routine Lover",
       "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Lova",
-        "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 173810,
-      "name": "Lova",
-      "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -583,6 +583,26 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "7 SEAS",
+        "url": "https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Messi",
+      "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "TOP BOY",
         "url": "https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq"
       },
@@ -627,42 +647,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "7 SEAS",
-        "url": "https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Messi",
-      "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 169031,
-      "name": "safe haven",
-      "url": "https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 212307,
       "name": "All In",
       "url": "https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 169031,
+      "name": "safe haven",
+      "url": "https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Say Salud",
-        "url": "https://open.spotify.com/album/6Yk2SJXrtKsP64Sdn1y3Z6"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "Say Salud",
-      "url": "https://open.spotify.com/track/3LaMO5jj65HG15NqlJsI3I"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "5th Dimension",
         "url": "https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 200000,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Say Salud",
+        "url": "https://open.spotify.com/album/6Yk2SJXrtKsP64Sdn1y3Z6"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Say Salud",
+      "url": "https://open.spotify.com/track/3LaMO5jj65HG15NqlJsI3I"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Beautiful Lies",
+        "url": "https://open.spotify.com/album/6WlznjoXtwxdJvmTRabNxY"
+      },
+      "artists": [
+        {
+          "name": "Runda",
+          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
+        }
+      ],
+      "duration_ms": 174964,
+      "name": "Beautiful Lies",
+      "url": "https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Undercover Lover",
         "url": "https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 152072,
       "name": "Undercover Lover",
       "url": "https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Beautiful Lies",
-        "url": "https://open.spotify.com/album/6WlznjoXtwxdJvmTRabNxY"
-      },
-      "artists": [
-        {
-          "name": "Runda",
-          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
-        }
-      ],
-      "duration_ms": 174964,
-      "name": "Beautiful Lies",
-      "url": "https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Little Things I want (Sync Version)",
-        "url": "https://open.spotify.com/album/5Q52c4OQE5Tv94HhAhygb2"
+        "name": "Sarafina",
+        "url": "https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe"
       },
       "artists": [
         {
-          "name": "Sam Opoku",
-          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
         }
       ],
-      "duration_ms": 80000,
-      "name": "Little Things I want - Sync Version",
-      "url": "https://open.spotify.com/track/2GmDuSpcIHuAi9OCye3ZMm"
+      "duration_ms": 190344,
+      "name": "Sarafina",
+      "url": "https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1187,18 +1187,34 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Sarafina",
-        "url": "https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe"
+        "name": "Little Things I want (Sync Version)",
+        "url": "https://open.spotify.com/album/5Q52c4OQE5Tv94HhAhygb2"
       },
       "artists": [
         {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
         }
       ],
-      "duration_ms": 190344,
-      "name": "Sarafina",
-      "url": "https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3"
+      "duration_ms": 80000,
+      "name": "Little Things I want - Sync Version",
+      "url": "https://open.spotify.com/track/2GmDuSpcIHuAi9OCye3ZMm"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "FACETS",
+        "url": "https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 192278,
+      "name": "HIGH",
+      "url": "https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "IN CASE I NEVER LOVE AGAIN ( ICINLA)",
-        "url": "https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY"
-      },
-      "artists": [
-        {
-          "name": "Oladapo",
-          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
-        }
-      ],
-      "duration_ms": 182361,
-      "name": "Break Up",
-      "url": "https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Sail",
         "url": "https://open.spotify.com/album/6QyzYTkLfUpToqNDd8SpSm"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 148695,
       "name": "Sail",
       "url": "https://open.spotify.com/track/26mrUHchbcgiCahub27gZY"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "IN CASE I NEVER LOVE AGAIN ( ICINLA)",
+        "url": "https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY"
+      },
+      "artists": [
+        {
+          "name": "Oladapo",
+          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
+        }
+      ],
+      "duration_ms": 182361,
+      "name": "Break Up",
+      "url": "https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1315,26 +1331,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Analyze Love",
-        "url": "https://open.spotify.com/album/3tMt7EOBb1KBbfiKKJaWKj"
-      },
-      "artists": [
-        {
-          "name": "Azekel",
-          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
-        },
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 140410,
-      "name": "Chocolati",
-      "url": "https://open.spotify.com/track/2GnmljVcpgOs1kX2ysKazT"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "When It Blooms",
         "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
@@ -1355,18 +1351,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "FACETS",
-        "url": "https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk"
+        "name": "Analyze Love",
+        "url": "https://open.spotify.com/album/3tMt7EOBb1KBbfiKKJaWKj"
       },
       "artists": [
         {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+        },
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
         }
       ],
-      "duration_ms": 192278,
-      "name": "HIGH",
-      "url": "https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs"
+      "duration_ms": 140410,
+      "name": "Chocolati",
+      "url": "https://open.spotify.com/track/2GnmljVcpgOs1kX2ysKazT"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1399,6 +1399,22 @@
       "duration_ms": 170721,
       "name": "Monsta Alta",
       "url": "https://open.spotify.com/track/4CzjRsUOISdhNlpB09rIz6"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "For Keeps - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3"
+      },
+      "artists": [
+        {
+          "name": "Lisa Oduor-Noah",
+          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
+        }
+      ],
+      "duration_ms": 254726,
+      "name": "For Keeps - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1459,6 +1475,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Moneybag",
+        "url": "https://open.spotify.com/album/26MQEJC5dvEQL1rfShAXao"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "duration_ms": 134526,
+      "name": "Touch\u00e9",
+      "url": "https://open.spotify.com/track/6AmCAKY1V1msPUiqogglVW"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Don't Leave",
         "url": "https://open.spotify.com/album/709IXOjBvnPvOtoQZmPrX4"
       },
@@ -1475,22 +1507,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "For Keeps - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3"
-      },
-      "artists": [
-        {
-          "name": "Lisa Oduor-Noah",
-          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
-        }
-      ],
-      "duration_ms": 254726,
-      "name": "For Keeps - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Matter of Time",
         "url": "https://open.spotify.com/album/0sVpDSPL1inRRowIw7YI6g"
       },
@@ -1503,30 +1519,6 @@
       "duration_ms": 174545,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/6Kh0SVrpJkEWbOGtFKAKFB"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
-      },
-      "artists": [
-        {
-          "name": "Chxf Barry",
-          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
-        },
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "Nick Souza",
-          "url": "https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt"
-        }
-      ],
-      "duration_ms": 190144,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
     }
   ],
   "unique_name": "Cocoa Butter ",

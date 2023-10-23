@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Eurice Diniz",
-  "num_followers": 101508,
+  "num_followers": 101678,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjkyZDM5ODU1OGY5YTY3OGZiNjk4MzNlZmI2ODk3NDM2MjU2ZDdk",
+  "snapshot_id": "MCw3NGU5NTE1MzQ2NmM4MmM5MjllOGQxMmE5YjM4ODllYTk3ZTM5NDYx",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -51,6 +51,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "Volte a Sonhar",
+      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Eu N\u00e3o Desisto",
         "url": "https://open.spotify.com/album/6D3eEwIDgbIgoqJsBauwRq"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 270981,
       "name": "Eu N\u00e3o Desisto",
       "url": "https://open.spotify.com/track/5uGArnuiyPbbMZXO3scXMM"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "Volte a Sonhar",
-      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Aguente, Guerreiro",
-        "url": "https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 307750,
-      "name": "Aguente, Guerreiro",
-      "url": "https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Eu N\u00e3o Era Nada",
         "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 343799,
       "name": "Eu N\u00e3o Era Nada",
       "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Aguente, Guerreiro",
+        "url": "https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 307750,
+      "name": "Aguente, Guerreiro",
+      "url": "https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK"
+        "name": "Fara\u00f3 ou Deus",
+        "url": "https://open.spotify.com/album/5hctfaJa4vZnZtSLaddWkZ"
       },
       "artists": [
         {
-          "name": "Eurice Diniz",
-          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
-        },
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Dependente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
+      "duration_ms": 357599,
+      "name": "Fara\u00f3 ou Deus",
+      "url": "https://open.spotify.com/track/1twjJuqTo6G1blS2Eh4699"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1339,18 +1335,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Fara\u00f3 ou Deus",
-        "url": "https://open.spotify.com/album/5hctfaJa4vZnZtSLaddWkZ"
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK"
       },
       "artists": [
         {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
+        },
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
         }
       ],
-      "duration_ms": 357599,
-      "name": "Fara\u00f3 ou Deus",
-      "url": "https://open.spotify.com/track/1twjJuqTo6G1blS2Eh4699"
+      "duration_ms": 240000,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
     },
     {
       "added_at": "2023-10-20 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,260 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,685 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 28 | [T'malade \(feat\. Didi B\)](https://open.spotify.com/track/0nFQCrF06b4s2NJ5gFHnkR) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [T'malade \(feat\. Didi B\)](https://open.spotify.com/album/3kBNaqaE4dc6HJ6s0hOCzw) | 2:27 |
 | 29 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 |
 | 30 | [Enjoy](https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15) | 3:36 |
-| 31 | [C'est toi](https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [C'est toi](https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4) | 2:11 |
+| 31 | [C'est toi \- Bonus](https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [C'est toi \(Bonus\)](https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4) | 2:11 |
 | 32 | [Fefe Ne Fefe](https://open.spotify.com/track/4RxqGYYDnx1R6JfQAfd7B9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Fefe Ne Fefe](https://open.spotify.com/album/24ZhqMl3si2HuUPZC9IjZc) | 2:26 |
 | 33 | [Roll On Me](https://open.spotify.com/track/503wKpMyZNr1fvB5eSZ8LC) | [Lavaud](https://open.spotify.com/artist/5vN74Jan4kXV79cq9SLp7T), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Saint & Citizen](https://open.spotify.com/artist/3a1mtJHahvdHcYQEBQB5YY) | [Roll On Me](https://open.spotify.com/album/6ssSTfQhXX5lDGanUJkOvJ) | 3:10 |
 | 34 | [Jusqu'à demain](https://open.spotify.com/track/5inaMIqw4pp7PtJELvraCj) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Jusqu'à demain](https://open.spotify.com/album/4ntHZfs7UQ8b2rqeCcYmA7) | 2:37 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 48 | [Yo Fam!](https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Yo Fam!](https://open.spotify.com/album/7rty6S4IzzigIfDhVmUDV3) | 2:41 |
 | 49 | [Descends](https://open.spotify.com/track/4o0RcUuzfNTDsssjYdU9Ty) | [BÉNI BASS DJ](https://open.spotify.com/artist/0LTdSULKSgSW95izfDSS8V), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Descends](https://open.spotify.com/album/7j8nuI3KFkRz2jECQSadOd) | 3:30 |
 
-Snapshot ID: `MCw0N2RhM2FlNzMzZGY5NTdhMzNiYTcwOWYyYjIyMzE1NDdhMDkxYzkw`
+Snapshot ID: `MCw0ZGQ1MjI3NzQyZjA1ZjBjNjIxZjliNjE1ZjJmNzYyNGYyZWZjYTM1`

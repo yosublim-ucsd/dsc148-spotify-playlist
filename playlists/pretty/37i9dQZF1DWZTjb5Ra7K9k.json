@@ -1,12 +1,12 @@
 {
   "description": "Hora de aumentar o som e cair na \u00e1gua!",
-  "num_followers": 189411,
+  "num_followers": 189424,
   "original_name": "Free Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGM3NGRhNDIyMzU5MGJlMWZiMTQzODQ5Y2I4MWUwOWIyMzhmMDU1",
+  "snapshot_id": "MCwyZGRhZTA4YTJiZDI3ODY5M2QxMGZkMmI2ZWU1ODk0M2ZhMTM3ZGU3",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Forty Licks",
+        "url": "https://open.spotify.com/album/2WvMWgLvHvBHT2IknyXiMi"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 223289,
+      "name": "Jumpin' Jack Flash",
+      "url": "https://open.spotify.com/track/1GOdYykgw2W0OcjPANvwgE"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "The Essential Fishbone",
         "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 229464,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/1qexQ5omdTZEY5W1YteopP"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Forty Licks",
-        "url": "https://open.spotify.com/album/2WvMWgLvHvBHT2IknyXiMi"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 223289,
-      "name": "Jumpin' Jack Flash",
-      "url": "https://open.spotify.com/track/1GOdYykgw2W0OcjPANvwgE"
     },
     {
       "added_at": "2023-07-28 03:01:00",

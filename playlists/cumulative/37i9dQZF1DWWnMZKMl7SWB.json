@@ -5174,7 +5174,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 135529,
       "name": "Dear Friends",
       "url": "https://open.spotify.com/track/1ZaTA2e51aBZoAL8CuaePU"
@@ -6818,7 +6818,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 83136,
       "name": "feel better",
       "url": "https://open.spotify.com/track/2APoCwZ3G1JIQnU3Vsjay7"
@@ -7682,6 +7682,24 @@
       "duration_ms": 117906,
       "name": "Frog-School Beat",
       "url": "https://open.spotify.com/track/5WYyLP0tXdtamiUJ6jRODo"
+    },
+    {
+      "album": {
+        "name": "From a cloudy sky",
+        "url": "https://open.spotify.com/album/3BbAOcLjpCWeM55OmGtLtO"
+      },
+      "artists": [
+        {
+          "name": "Gogofluc",
+          "url": "https://open.spotify.com/artist/6OrQ9gVexUFxOERMRDEmkH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118333,
+      "name": "From a cloudy sky",
+      "url": "https://open.spotify.com/track/6E0xoTUNynlFT6Lm4LVAaw"
     },
     {
       "album": {
@@ -9643,6 +9661,24 @@
     },
     {
       "album": {
+        "name": "Incredibly happy",
+        "url": "https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs"
+      },
+      "artists": [
+        {
+          "name": "Silk Soul",
+          "url": "https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Incredibly happy",
+      "url": "https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF"
+    },
+    {
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair"
       },
@@ -9832,7 +9868,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 112941,
       "name": "introspection",
       "url": "https://open.spotify.com/track/623oh9a6Vrc4NlUkgPuvvi"
@@ -10164,7 +10200,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 129882,
       "name": "kinda wonderful",
       "url": "https://open.spotify.com/track/2HYaWr21HZQrC8gDFSFsz8"
@@ -13975,6 +14011,24 @@
     },
     {
       "album": {
+        "name": "One more for the road",
+        "url": "https://open.spotify.com/album/55wpECO2frgXtb6JsDtrCO"
+      },
+      "artists": [
+        {
+          "name": "Attic Dizzt",
+          "url": "https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149941,
+      "name": "One more for the road",
+      "url": "https://open.spotify.com/track/3Sp8yHw4Ss2gLNlvv5FJGz"
+    },
+    {
+      "album": {
         "name": "One Or Two",
         "url": "https://open.spotify.com/album/4dbvFkMYZU4l2KdfSo8ZI0"
       },
@@ -16749,6 +16803,24 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf"
+      },
+      "artists": [
+        {
+          "name": "M.I Hakone",
+          "url": "https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124336,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400"
+    },
+    {
+      "album": {
         "name": "Seattle",
         "url": "https://open.spotify.com/album/7z312yRo96Kz4FmncwfLjB"
       },
@@ -17912,6 +17984,24 @@
       "duration_ms": 158000,
       "name": "Soft Light",
       "url": "https://open.spotify.com/track/2Wsb2fbA8no8F1Xe6BJiTT"
+    },
+    {
+      "album": {
+        "name": "Softly Whispering",
+        "url": "https://open.spotify.com/album/100YLSEn3RzaqIyNKQzEk3"
+      },
+      "artists": [
+        {
+          "name": "Convivial",
+          "url": "https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187022,
+      "name": "Softly Whispering",
+      "url": "https://open.spotify.com/track/6CVpyt67DY1JwuR8prqPmP"
     },
     {
       "album": {
@@ -20414,7 +20504,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-23",
       "duration_ms": 130000,
       "name": "Tram",
       "url": "https://open.spotify.com/track/2qrguu9bcFrNC40tpTu8ys"

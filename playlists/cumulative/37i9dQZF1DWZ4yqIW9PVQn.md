@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZ4yqIW9PVQn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZ4yqIW9PVQn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ4yqIW9PVQn)
 
-### [가을가을한 마음](https://open.spotify.com/playlist/37i9dQZF1DWZ4yqIW9PVQn)
+### [가을가을해](https://open.spotify.com/playlist/37i9dQZF1DWZ4yqIW9PVQn)
 
-> 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
+> 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요.
 
 133 songs - 8 hr 5 min
 

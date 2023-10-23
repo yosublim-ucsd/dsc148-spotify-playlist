@@ -1,12 +1,12 @@
 {
   "description": "From the jazzy, up-beat New Orleans blues to the slower, zydeco and Cajun-influenced Swamp blues. Cover: Kenny Neal",
-  "num_followers": 12999,
+  "num_followers": 13000,
   "original_name": "Louisiana Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjBiZTZjNGEzOTdmOGQwNWVjZTYzNmUyZWQ1YzIzMzY5MzBhMjU1",
+  "snapshot_id": "MCxiZGZkMDM2MjFmMWE0ZjA4MGRjN2I3NjE4ZGEzNDVmMDJkY2E4MTA1",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Blues",
-        "url": "https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli"
+        "name": "The Best of Clifton Chenier: The King of Zydeco & Louisiana Blues",
+        "url": "https://open.spotify.com/album/2hwL2KfeYCpeMHeve8Y3QF"
       },
       "artists": [
         {
-          "name": "Earl King",
-          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
+          "name": "Clifton Chenier",
+          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
         }
       ],
-      "duration_ms": 163293,
-      "name": "Mother's Love",
-      "url": "https://open.spotify.com/track/5rUM5gwYkbmSERNgvJ6rQA"
+      "duration_ms": 199893,
+      "name": "I'm Coming Home (To See My Mother)",
+      "url": "https://open.spotify.com/track/75E2RVwx6dncaH51QTFAeU"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -379,18 +379,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "The Best of Clifton Chenier: The King of Zydeco & Louisiana Blues",
-        "url": "https://open.spotify.com/album/2hwL2KfeYCpeMHeve8Y3QF"
+        "name": "New Orleans Blues",
+        "url": "https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli"
       },
       "artists": [
         {
-          "name": "Clifton Chenier",
-          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
+          "name": "Earl King",
+          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
         }
       ],
-      "duration_ms": 199893,
-      "name": "I'm Coming Home (To See My Mother)",
-      "url": "https://open.spotify.com/track/75E2RVwx6dncaH51QTFAeU"
+      "duration_ms": 163293,
+      "name": "Mother's Love",
+      "url": "https://open.spotify.com/track/5rUM5gwYkbmSERNgvJ6rQA"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -459,22 +459,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "The Sonet Blues Story",
-        "url": "https://open.spotify.com/album/4vANqROsyz5dkzlwnO6zwx"
+        "name": "Zodico Blues & Boogie",
+        "url": "https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC"
       },
       "artists": [
         {
-          "name": "Earl King",
-          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
-        },
-        {
-          "name": "Sam Charters",
-          "url": "https://open.spotify.com/artist/4P62HkfjQe9Ojf6YkILrbP"
+          "name": "Clifton Chenier",
+          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
         }
       ],
-      "duration_ms": 188600,
-      "name": "Trick Bag",
-      "url": "https://open.spotify.com/track/2rofi4Z4X7UdaMjKdraagu"
+      "duration_ms": 141000,
+      "name": "Boppin' The Rock",
+      "url": "https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -495,18 +491,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Zodico Blues & Boogie",
-        "url": "https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC"
+        "name": "The Sonet Blues Story",
+        "url": "https://open.spotify.com/album/4vANqROsyz5dkzlwnO6zwx"
       },
       "artists": [
         {
-          "name": "Clifton Chenier",
-          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
+          "name": "Earl King",
+          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
+        },
+        {
+          "name": "Sam Charters",
+          "url": "https://open.spotify.com/artist/4P62HkfjQe9Ojf6YkILrbP"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Boppin' The Rock",
-      "url": "https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R"
+      "duration_ms": 188600,
+      "name": "Trick Bag",
+      "url": "https://open.spotify.com/track/2rofi4Z4X7UdaMjKdraagu"
     },
     {
       "added_at": "2022-03-28 20:10:01",

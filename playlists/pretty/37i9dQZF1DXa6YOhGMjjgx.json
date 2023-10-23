@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: Teenage Wrist",
-  "num_followers": 474832,
+  "num_followers": 474842,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmI4OGE2Yzg1Nzc5MWZlYTY2YjlmZGNlMDg2MTA1YjIxZjY5MDY2",
+  "snapshot_id": "MCxhN2I3NjRlZDBiZGY0OWJkMTlkZTZlNWM0N2I3MzQ2YzhlZmQxOGE4",
   "tracks": [
     {
       "added_at": "2023-09-08 20:23:35",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "Myopic",
+        "url": "https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Myopic",
+      "url": "https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "Lose You (feat. Soccer Mommy)",
         "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 175386,
       "name": "Lose You (feat. Soccer Mommy)",
       "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Myopic",
-        "url": "https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Myopic",
-      "url": "https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -741,22 +741,6 @@
       "url": "https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6"
     },
     {
-      "added_at": "2023-10-05 15:20:21",
-      "album": {
-        "name": "Old Wounds",
-        "url": "https://open.spotify.com/album/1SBSorzR4CV7sQiN4gTFG5"
-      },
-      "artists": [
-        {
-          "name": "L.S. Dunes",
-          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
-        }
-      ],
-      "duration_ms": 335733,
-      "name": "Old Wounds",
-      "url": "https://open.spotify.com/track/75RGCZ1i8sxXMeBetvp84e"
-    },
-    {
       "added_at": "2023-09-08 20:23:35",
       "album": {
         "name": "delirious",
@@ -789,6 +773,22 @@
       "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
     },
     {
+      "added_at": "2023-10-05 15:20:21",
+      "album": {
+        "name": "Old Wounds",
+        "url": "https://open.spotify.com/album/1SBSorzR4CV7sQiN4gTFG5"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "duration_ms": 335733,
+      "name": "Old Wounds",
+      "url": "https://open.spotify.com/track/75RGCZ1i8sxXMeBetvp84e"
+    },
+    {
       "added_at": "2023-09-08 20:23:35",
       "album": {
         "name": "We Are Between",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm"
+        "name": "Gaslight",
+        "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
       },
       "artists": [
         {
-          "name": "The Luka State",
-          "url": "https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF"
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 182100,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/5IvLbjMiltRtWsjgteVyRW"
+      "duration_ms": 173314,
+      "name": "Gaslight",
+      "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Gaslight",
-        "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "The Luka State",
+          "url": "https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF"
         }
       ],
-      "duration_ms": 173314,
-      "name": "Gaslight",
-      "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
+      "duration_ms": 182100,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/5IvLbjMiltRtWsjgteVyRW"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Common Chaos",
-        "url": "https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo"
-      },
-      "artists": [
-        {
-          "name": "IRONTOM",
-          "url": "https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q"
-        }
-      ],
-      "duration_ms": 171426,
-      "name": "Common Chaos",
-      "url": "https://open.spotify.com/track/231wGywsY9is10w83qwrwC"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Draw Down The Moon",
         "url": "https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 205600,
       "name": "If I Believed In Love",
       "url": "https://open.spotify.com/track/051k1srOqbQ6bTaCGUdrmj"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Common Chaos",
+        "url": "https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo"
+      },
+      "artists": [
+        {
+          "name": "IRONTOM",
+          "url": "https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q"
+        }
+      ],
+      "duration_ms": 171426,
+      "name": "Common Chaos",
+      "url": "https://open.spotify.com/track/231wGywsY9is10w83qwrwC"
     },
     {
       "added_at": "2023-09-08 20:23:35",

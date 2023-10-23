@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,520 likes - 267 songs - 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,576 likes - 267 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 96 | [Yasashii](https://open.spotify.com/track/2Zq0snCBJhOzT61Lhroxr6) | [Asahi Haru](https://open.spotify.com/artist/2n6xoAIjeAig3mKdbHWrgM) | [Yasashii](https://open.spotify.com/album/3lpTY9zCdlgiZV1EZm4UJR) | 2:14 |
 | 97 | [If You Should Go](https://open.spotify.com/track/4EQRrRdoQ8vC4ULe8Kygpw) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [If You Should Go](https://open.spotify.com/album/42aYTFmSW7WVfrgLJMgkvP) | 2:07 |
 | 98 | [Iris](https://open.spotify.com/track/0D5YPSKMbCvMdlMQpzdSzz) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Iris](https://open.spotify.com/album/0g3IMaraB7gFx6CKCYre8x) | 2:25 |
-| 99 | [quiet dream](https://open.spotify.com/track/45eijXxK33ulZc8WByHYUu) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [quiet dream](https://open.spotify.com/album/76I5c8mQvOxBOovUtNcqVn) | 2:09 |
+| 99 | [quiet dream](https://open.spotify.com/track/0XgnVABCWfrB9QG0e7246E) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [105 years](https://open.spotify.com/album/25l0iXZ0zKly8INJamNzRw) | 2:09 |
 | 100 | [Connected](https://open.spotify.com/track/1y9latq5huZUKyxCiiauHX) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm), [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Connected](https://open.spotify.com/album/1WRqDyfVZbGtCjGOJDMTID) | 2:05 |
 | 101 | [Retrospect](https://open.spotify.com/track/5iSifjMixcgREH6uzunq1P) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Retrospect](https://open.spotify.com/album/15IKoauTEvz6dQQ1egPE9H) | 2:49 |
 | 102 | [Searching for peace](https://open.spotify.com/track/1oTDH6fYxlZT0MitUs0HPb) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Searching for peace](https://open.spotify.com/album/693uXrfZISnow1uU36mzn6) | 3:05 |
@@ -276,4 +276,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 266 | [Cador](https://open.spotify.com/track/3DHvdguXXEjrlZuileL4hi) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Cador](https://open.spotify.com/album/4znBjjfy0I1p2wpTAVULSb) | 2:29 |
 | 267 | [Tu me donne de la force](https://open.spotify.com/track/69ZVTxad3rNnwZPwMOk9yX) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Tu me donne de la force](https://open.spotify.com/album/5UgRWAzUPftuejgEhpjdM8) | 2:16 |
 
-Snapshot ID: `MCw4YmEwNjE2ZDg3MGIxZTFhYTI1MGY3MTFjZmRkNjk2YjMzOWY1ZjMx`
+Snapshot ID: `MCw2NzdiYzhkNzQ3MTVhNDNkMTdmMzM0NDYxODgwNDU5ZjUyNzcxMzEy`

@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Chico Buarque",
-  "num_followers": 345042,
+  "num_followers": 345125,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTc2NTBkOWI1NGFhNGU2MTMxMDNmNmJhYjA3YmEwNWMxZDRjYzFl",
+  "snapshot_id": "MCw2MzYwZDdmYzQxZWQ3ZjFjMGI5ZjgxMTQwMTYxZmJiOTk1YTA0ZjRj",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -83,8 +83,8 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Um P\u00f4r do Sol Na Praia",
-        "url": "https://open.spotify.com/album/1UVkJQfyY6tX2su3aLSgXO"
+        "name": "Silva & Liniker (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
       },
       "artists": [
         {
@@ -92,13 +92,13 @@
           "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         },
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 188415,
-      "name": "Um P\u00f4r do Sol Na Praia",
-      "url": "https://open.spotify.com/track/7JGjgJOUPjyc35carv8hoh"
+      "duration_ms": 230746,
+      "name": "Sorte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -231,8 +231,8 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Silva & Liniker (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
+        "name": "Um P\u00f4r do Sol Na Praia",
+        "url": "https://open.spotify.com/album/1UVkJQfyY6tX2su3aLSgXO"
       },
       "artists": [
         {
@@ -240,13 +240,13 @@
           "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         },
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 230746,
-      "name": "Sorte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
+      "duration_ms": 188415,
+      "name": "Um P\u00f4r do Sol Na Praia",
+      "url": "https://open.spotify.com/track/7JGjgJOUPjyc35carv8hoh"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -399,18 +399,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
-        "url": "https://open.spotify.com/album/3vCdZZO5Q0gxSUblcsSZtq"
+        "name": "N\u00f3s e o Mar",
+        "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
       },
       "artists": [
         {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Diogo Monzo",
+          "url": "https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc"
+        },
+        {
+          "name": "Ricardo Bacelar",
+          "url": "https://open.spotify.com/artist/0ydGW5O1ai60prNBXKWSbF"
         }
       ],
-      "duration_ms": 229426,
-      "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
-      "url": "https://open.spotify.com/track/73sHSwoXam1tNDWEwEfHWe"
+      "duration_ms": 233273,
+      "name": "O Barquinho",
+      "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -435,26 +443,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "N\u00f3s e o Mar",
-        "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
+        "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
+        "url": "https://open.spotify.com/album/3vCdZZO5Q0gxSUblcsSZtq"
       },
       "artists": [
         {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Diogo Monzo",
-          "url": "https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc"
-        },
-        {
-          "name": "Ricardo Bacelar",
-          "url": "https://open.spotify.com/artist/0ydGW5O1ai60prNBXKWSbF"
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
         }
       ],
-      "duration_ms": 233273,
-      "name": "O Barquinho",
-      "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
+      "duration_ms": 229426,
+      "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
+      "url": "https://open.spotify.com/track/73sHSwoXam1tNDWEwEfHWe"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "O Caderno",
-      "url": "https://open.spotify.com/track/6d9kLmczO7tjudF3zMCyb1"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Meu Parceiro Belchior",
         "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 166006,
       "name": "A Palo Seco",
       "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "O Caderno",
+      "url": "https://open.spotify.com/track/6d9kLmczO7tjudF3zMCyb1"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "alma doce",
-        "url": "https://open.spotify.com/album/43oxXXEyDxbwlS0modn0cW"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 169915,
-      "name": "o sabi\u00e1 e a lua",
-      "url": "https://open.spotify.com/track/0dEaMNjKjyLxY17M4lG1b9"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Caravana Sair\u00e9",
         "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 240834,
       "name": "Lembran\u00e7a de um Beijo",
       "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "alma doce",
+        "url": "https://open.spotify.com/album/43oxXXEyDxbwlS0modn0cW"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 169915,
+      "name": "o sabi\u00e1 e a lua",
+      "url": "https://open.spotify.com/track/0dEaMNjKjyLxY17M4lG1b9"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Sonhos & Ilus\u00f5es (acoustic)",
+        "url": "https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 241250,
+      "name": "Sonhos & Ilus\u00f5es - acoustic",
+      "url": "https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Alceu Valen\u00e7a e Paulo Rafael",
         "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
       },
@@ -1295,22 +1315,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Lusco-Fusco",
-        "url": "https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW"
-      },
-      "artists": [
-        {
-          "name": "Assucena",
-          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
-        }
-      ],
-      "duration_ms": 272842,
-      "name": "Reluzente",
-      "url": "https://open.spotify.com/track/2UeumKHIIwlHuZS09znv0P"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Tiramis\u00f9",
         "url": "https://open.spotify.com/album/1im365PiyIdcKbl3spm4EC"
       },
@@ -1335,6 +1339,42 @@
       "duration_ms": 168282,
       "name": "Tiramis\u00f9",
       "url": "https://open.spotify.com/track/6MFDT82605T8TS1pkZNM9v"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Lusco-Fusco",
+        "url": "https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW"
+      },
+      "artists": [
+        {
+          "name": "Assucena",
+          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
+        }
+      ],
+      "duration_ms": 272842,
+      "name": "Reluzente",
+      "url": "https://open.spotify.com/track/2UeumKHIIwlHuZS09znv0P"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
+        "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        },
+        {
+          "name": "Orquestra Ouro Preto",
+          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
+        }
+      ],
+      "duration_ms": 319000,
+      "name": "Papel Mach\u00ea",
+      "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1391,26 +1431,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
-        "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
-        },
-        {
-          "name": "Orquestra Ouro Preto",
-          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
-        }
-      ],
-      "duration_ms": 319000,
-      "name": "Papel Mach\u00ea",
-      "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Paci\u00eancia",
         "url": "https://open.spotify.com/album/6cXORwSG04rxXhOJwYDNYK"
       },
@@ -1423,6 +1443,22 @@
       "duration_ms": 226240,
       "name": "Paci\u00eancia",
       "url": "https://open.spotify.com/track/0Mqz6vciorU81IDJf1Q7X9"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Oswaldo Montenegro e Orquestra",
+        "url": "https://open.spotify.com/album/1MtecGxFiRth68STj2JSHf"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo Montenegro",
+          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
+        }
+      ],
+      "duration_ms": 168162,
+      "name": "A Lista",
+      "url": "https://open.spotify.com/track/47Tc85pV7z2ivBetN14Y8t"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1447,26 +1483,6 @@
       "duration_ms": 234405,
       "name": "Aqui em Casa",
       "url": "https://open.spotify.com/track/3AtSBHBXc5rN50VrJQmTTe"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Sonhos & Ilus\u00f5es (acoustic)",
-        "url": "https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 241250,
-      "name": "Sonhos & Ilus\u00f5es - acoustic",
-      "url": "https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Oswaldo Montenegro e Orquestra",
-        "url": "https://open.spotify.com/album/1MtecGxFiRth68STj2JSHf"
-      },
-      "artists": [
-        {
-          "name": "Oswaldo Montenegro",
-          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
-        }
-      ],
-      "duration_ms": 168162,
-      "name": "A Lista",
-      "url": "https://open.spotify.com/track/47Tc85pV7z2ivBetN14Y8t"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Tenho Sede",
         "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
       },
@@ -1587,26 +1587,6 @@
       "duration_ms": 196614,
       "name": "Alagados",
       "url": "https://open.spotify.com/track/4tFVcNSN26d2OSWSlOxRIf"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Querer Bem",
-        "url": "https://open.spotify.com/album/5EsxhSjXVxOFehJlRk4peT"
-      },
-      "artists": [
-        {
-          "name": "Mariene De Castro",
-          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
-        },
-        {
-          "name": "Roberto Mendes",
-          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
-        }
-      ],
-      "duration_ms": 194752,
-      "name": "Querer Bem",
-      "url": "https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1731,38 +1711,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Bom Dia",
-        "url": "https://open.spotify.com/album/1ewAbVlnYMY7NhhkYSBKmg"
+        "name": "Querer Bem",
+        "url": "https://open.spotify.com/album/5EsxhSjXVxOFehJlRk4peT"
       },
       "artists": [
         {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
-        }
-      ],
-      "duration_ms": 165826,
-      "name": "Bom Dia",
-      "url": "https://open.spotify.com/track/4ucz6yGAHvmL4V5DrfNrcK"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Doce Carnaval",
-        "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
-      },
-      "artists": [
-        {
-          "name": "Alexia Bomtempo",
-          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
         },
         {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+          "name": "Roberto Mendes",
+          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
         }
       ],
-      "duration_ms": 270186,
-      "name": "Mal Acostumada",
-      "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
+      "duration_ms": 194752,
+      "name": "Querer Bem",
+      "url": "https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1815,6 +1779,42 @@
       "duration_ms": 191043,
       "name": "Ontem, Hoje e Amanh\u00e3",
       "url": "https://open.spotify.com/track/29Ecov9FcydQR4VDr6GYso"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Bom Dia",
+        "url": "https://open.spotify.com/album/1ewAbVlnYMY7NhhkYSBKmg"
+      },
+      "artists": [
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+        }
+      ],
+      "duration_ms": 165826,
+      "name": "Bom Dia",
+      "url": "https://open.spotify.com/track/4ucz6yGAHvmL4V5DrfNrcK"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Doce Carnaval",
+        "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
+      },
+      "artists": [
+        {
+          "name": "Alexia Bomtempo",
+          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 270186,
+      "name": "Mal Acostumada",
+      "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
     },
     {
       "added_at": "2023-10-20 03:00:00",

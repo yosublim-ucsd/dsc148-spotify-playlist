@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyOTYyNDAsMDAwMDAwMDBlY2RiYzYxMGY2OWI5ZmEyYTVlYjZkMjA2YWExMjFmMg==",
+  "snapshot_id": "MjgyOTYyNDAsMDAwMDAwMDAzZjJiYjMwZjM1MzYxZjEwM2Q3NDJjODg1OTNiNTlhMw==",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -59,22 +59,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sleeper",
-        "url": "https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD"
+        "name": "Te Mata",
+        "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
       },
       "artists": [
         {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 244271,
-      "name": "Sleeper",
-      "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
+      "duration_ms": 232306,
+      "name": "Te Mata",
+      "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -95,130 +91,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Cherish",
-        "url": "https://open.spotify.com/album/5CHZD9I0LTF6Jfclc8zXbo"
+        "name": "Sleeper",
+        "url": "https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD"
       },
       "artists": [
         {
-          "name": "Vacationer",
-          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
-        }
-      ],
-      "duration_ms": 133792,
-      "name": "Dialogue",
-      "url": "https://open.spotify.com/track/6G1pMFiINOJgyGjmIgXXQ9"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "All Fire",
-        "url": "https://open.spotify.com/album/5UHkKq9zXfS1h44eSuIZUq"
-      },
-      "artists": [
-        {
-          "name": "Hanz On",
-          "url": "https://open.spotify.com/artist/7ifoWUchkVgZUnNy6PTl4D"
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         },
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Iron Mic",
-          "url": "https://open.spotify.com/artist/0hbTyscdYO3E5KUjIPu6rH"
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
         }
       ],
-      "duration_ms": 182914,
-      "name": "All Fire",
-      "url": "https://open.spotify.com/track/1W23eHsDwug2HNvkio2Wgm"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "\u010cohkka/Cort\u00e8ge (Live In Helsinki St. John's Church)",
-        "url": "https://open.spotify.com/album/7wZR2dWNOpsRpEZ2GPhWMJ"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 370293,
-      "name": "\u010cohkka/Cort\u00e8ge - Live In Helsinki St. John's Church",
-      "url": "https://open.spotify.com/track/0086lDreUts8H4OQRxlxEu"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Te Mata",
-        "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 232306,
-      "name": "Te Mata",
-      "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "I Left My Heart In Ladera",
-        "url": "https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 135189,
-      "name": "Glad I Found You",
-      "url": "https://open.spotify.com/track/2ShpBw0zpxdnclk7gv8eHY"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Birth4000",
-        "url": "https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 286274,
-      "name": "Birth4000",
-      "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Power Them Off",
-        "url": "https://open.spotify.com/album/5olgCqRatEu1l1MfHv7BWI"
-      },
-      "artists": [
-        {
-          "name": "Jake Sherman",
-          "url": "https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 400697,
-      "name": "Power Them Off",
-      "url": "https://open.spotify.com/track/1bhuaLmL5HeEfwLkw6dODH"
+      "duration_ms": 244271,
+      "name": "Sleeper",
+      "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -239,30 +127,34 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Napalm Freestyle",
-        "url": "https://open.spotify.com/album/51uEqNOSAPNfVabfgaEOV2"
+        "name": "Birth4000",
+        "url": "https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx"
       },
       "artists": [
         {
-          "name": "DJ Scandalous",
-          "url": "https://open.spotify.com/artist/6d8XbEaXA2yds0kcGlOPGe"
-        },
-        {
-          "name": "Killah Priest",
-          "url": "https://open.spotify.com/artist/0JYmatsiEQMn2v5KchV8u2"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Napalm Freestyle",
-      "url": "https://open.spotify.com/track/2nHACBOlIx8jWEEAoRd9Pr"
+      "duration_ms": 286274,
+      "name": "Birth4000",
+      "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Cherish",
+        "url": "https://open.spotify.com/album/5CHZD9I0LTF6Jfclc8zXbo"
+      },
+      "artists": [
+        {
+          "name": "Vacationer",
+          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+        }
+      ],
+      "duration_ms": 133792,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/6G1pMFiINOJgyGjmIgXXQ9"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -283,42 +175,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "we're going wrong",
-        "url": "https://open.spotify.com/album/0cxzv4qbITfKKH1N2lxq65"
+        "name": "\u010cohkka/Cort\u00e8ge (Live In Helsinki St. John's Church)",
+        "url": "https://open.spotify.com/album/7wZR2dWNOpsRpEZ2GPhWMJ"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Brie O'Banion",
-          "url": "https://open.spotify.com/artist/3EoSm0VXLJgVCAPsPS4a6G"
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
         }
       ],
-      "duration_ms": 258924,
-      "name": "we're going wrong",
-      "url": "https://open.spotify.com/track/0ZSKRyeth2Bo3sin3QvC6q"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/1RzEe2SHJlPOIRQv6BFVSe"
-      },
-      "artists": [
-        {
-          "name": "Malik Baptiste",
-          "url": "https://open.spotify.com/artist/3kOQ7t9MH5gt289CcfWZUW"
-        },
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/2ZhOrhhlB7QAzNQsXEm6EZ"
+      "duration_ms": 370293,
+      "name": "\u010cohkka/Cort\u00e8ge - Live In Helsinki St. John's Church",
+      "url": "https://open.spotify.com/track/0086lDreUts8H4OQRxlxEu"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -351,6 +219,114 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Napalm (Freestyle) [Mixtape Version]",
+        "url": "https://open.spotify.com/album/4rLeJ2U52jeMBQstlO1jVW"
+      },
+      "artists": [
+        {
+          "name": "DJ Scandalous",
+          "url": "https://open.spotify.com/artist/6d8XbEaXA2yds0kcGlOPGe"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Killah Priest",
+          "url": "https://open.spotify.com/artist/0JYmatsiEQMn2v5KchV8u2"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Napalm (Freestyle) - Mixtape Version",
+      "url": "https://open.spotify.com/track/1y82hcLboiyDgRFIMHDUNs"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "we're going wrong",
+        "url": "https://open.spotify.com/album/0cxzv4qbITfKKH1N2lxq65"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Brie O'Banion",
+          "url": "https://open.spotify.com/artist/3EoSm0VXLJgVCAPsPS4a6G"
+        }
+      ],
+      "duration_ms": 258924,
+      "name": "we're going wrong",
+      "url": "https://open.spotify.com/track/0ZSKRyeth2Bo3sin3QvC6q"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "I Left My Heart In Ladera",
+        "url": "https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 135189,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/2ShpBw0zpxdnclk7gv8eHY"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/1RzEe2SHJlPOIRQv6BFVSe"
+      },
+      "artists": [
+        {
+          "name": "Malik Baptiste",
+          "url": "https://open.spotify.com/artist/3kOQ7t9MH5gt289CcfWZUW"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/2ZhOrhhlB7QAzNQsXEm6EZ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Power Them Off",
+        "url": "https://open.spotify.com/album/5olgCqRatEu1l1MfHv7BWI"
+      },
+      "artists": [
+        {
+          "name": "Jake Sherman",
+          "url": "https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 400697,
+      "name": "Power Them Off",
+      "url": "https://open.spotify.com/track/1bhuaLmL5HeEfwLkw6dODH"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Chet on Poetry",
         "url": "https://open.spotify.com/album/6ixxTaomYhDBVdm6A4qmKo"
       },
@@ -363,22 +339,6 @@
       "duration_ms": 204277,
       "name": "Almost blue",
       "url": "https://open.spotify.com/track/2TvvypFABr65clA6O68qfn"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Sgt. Pepper's Lonely Hearts Club Band (Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967)",
-        "url": "https://open.spotify.com/album/6XW3aKGGCReIq2NIhTJRq8"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 100618,
-      "name": "Sgt. Pepper's Lonely Hearts Club Band - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
-      "url": "https://open.spotify.com/track/2kwUETBvq1zr0HpUsM2B3n"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -415,6 +375,22 @@
       "duration_ms": 219133,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/21vLEEtCTBS6fxw1TuPJAy"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967)",
+        "url": "https://open.spotify.com/album/6XW3aKGGCReIq2NIhTJRq8"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 100618,
+      "name": "Sgt. Pepper's Lonely Hearts Club Band - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/2kwUETBvq1zr0HpUsM2B3n"
     },
     {
       "added_at": "2023-10-20 04:00:00",

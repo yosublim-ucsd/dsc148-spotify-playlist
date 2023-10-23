@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 284214,
+  "num_followers": 284370,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTNjMzk2MjhmYjQzNzVjMWZmZGM5YjU5ZjdlNjUyN2Y1NDNiNDQ1",
+  "snapshot_id": "MCw0MTM1MTgwZmI4MzQ4MDYyMGE3NTgzZTlkOTBkMTFmMzI0NzA5ZjMx",
   "tracks": [
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1391,18 +1391,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "HAG: The Hits Volume 2",
-        "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
+        "name": "Good 'N' Country",
+        "url": "https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        },
+        {
+          "name": "Deborah Allen",
+          "url": "https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u"
         }
       ],
-      "duration_ms": 169346,
-      "name": "The Fightin' Side Of Me",
-      "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
+      "duration_ms": 139466,
+      "name": "Don't Let Me Cross Over",
+      "url": "https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1423,22 +1427,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Good 'N' Country",
-        "url": "https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu"
+        "name": "HAG: The Hits Volume 2",
+        "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
-        },
-        {
-          "name": "Deborah Allen",
-          "url": "https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 139466,
-      "name": "Don't Let Me Cross Over",
-      "url": "https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls"
+      "duration_ms": 169346,
+      "name": "The Fightin' Side Of Me",
+      "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Kendalls - 42 Massive Hits",
-        "url": "https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz"
-      },
-      "artists": [
-        {
-          "name": "The Kendalls",
-          "url": "https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN"
-        }
-      ],
-      "duration_ms": 145253,
-      "name": "Heaven's Just A Sin Away",
-      "url": "https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Ramblin' Fever",
         "url": "https://open.spotify.com/album/4gny1TLw5OtuAceGWhQIHX"
       },
@@ -1555,18 +1539,34 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "If You Love Me, Let Me Know",
-        "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
+        "name": "The Kendalls - 42 Massive Hits",
+        "url": "https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz"
       },
       "artists": [
         {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+          "name": "The Kendalls",
+          "url": "https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN"
         }
       ],
-      "duration_ms": 196266,
-      "name": "If You Love Me (Let Me Know)",
-      "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
+      "duration_ms": 145253,
+      "name": "Heaven's Just A Sin Away",
+      "url": "https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "The Essential Jerry Reed",
+        "url": "https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0"
+      },
+      "artists": [
+        {
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+        }
+      ],
+      "duration_ms": 167706,
+      "name": "East Bound and Down",
+      "url": "https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0"
+        "name": "If You Love Me, Let Me Know",
+        "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
       },
       "artists": [
         {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         }
       ],
-      "duration_ms": 167706,
-      "name": "East Bound and Down",
-      "url": "https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu"
+      "duration_ms": 196266,
+      "name": "If You Love Me (Let Me Know)",
+      "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
     },
     {
       "added_at": "2023-08-21 19:26:53",

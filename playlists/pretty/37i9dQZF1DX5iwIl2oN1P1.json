@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 93342,
+  "num_followers": 93442,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDQ1ODQ4MDJiNzc3YzllNzYwY2U3ZWJlZDNlMTNjODA2ZDc2MDhm",
+  "snapshot_id": "MCw1MWQ5ZjIzNjRiMGJjMmUwYTQ2YjE1OGFkYWIxNTcxYWM3MTI4YTQ0",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -943,22 +943,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Bigger Than Me",
-        "url": "https://open.spotify.com/album/4nTMAzLLBuB1YrKOEjcVe4"
-      },
-      "artists": [
-        {
-          "name": "Le'Andria Johnson",
-          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Bigger Than Me",
-      "url": "https://open.spotify.com/track/1d4fH9BBbKwZmq2CJynsuL"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "I'm All In",
         "url": "https://open.spotify.com/album/2OGtoyigrfRs1h9TdZWlSK"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 203911,
       "name": "I'm All In",
       "url": "https://open.spotify.com/track/1ijoiBbxkaeqsGO0Dnsssn"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Bigger Than Me",
+        "url": "https://open.spotify.com/album/4nTMAzLLBuB1YrKOEjcVe4"
+      },
+      "artists": [
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Bigger Than Me",
+      "url": "https://open.spotify.com/track/1d4fH9BBbKwZmq2CJynsuL"
     },
     {
       "added_at": "2020-06-03 14:33:10",

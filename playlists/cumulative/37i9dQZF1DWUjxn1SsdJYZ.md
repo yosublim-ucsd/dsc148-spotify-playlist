@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Vv Pete
 
-590 songs - 1 day 3 hr 28 min
+591 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Arabian Nights](https://open.spotify.com/track/5Pg5qp7OcAxSeIDTp6smYZ) | [SheWantSev](https://open.spotify.com/artist/6ZtJ96ByRPhrhusA2SInLB) | [Arabian Nights](https://open.spotify.com/album/0JPS47gplkJvwHWL8yBYH2) | 3:08 | 2023-01-05 | 2023-06-23 |
 | [Arbok](https://open.spotify.com/track/078n3HIwMmlhfx7aYQKrDQ) | [Rydah](https://open.spotify.com/artist/78arWeRSIBit1TYTcTOcAY) | [Arbok](https://open.spotify.com/album/31Vj9Ku1YcQMC0FNjaoY60) | 2:41 | 2022-09-08 | 2022-12-16 |
 | [Area Baby](https://open.spotify.com/track/5BFaSmEPZSu4A7hcTtoNlP) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 2:41 | 2022-03-21 | 2022-06-17 |
-| [ARMY OF DEAD](https://open.spotify.com/track/1GOvffkotVFfzv8wlo4UDq) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [ARMY OF DEAD](https://open.spotify.com/album/3wszn7THOCPXy3JbPfrSjo) | 2:24 | 2023-08-31 |  |
+| [ARMY OF DEAD](https://open.spotify.com/track/0e5e7oCJbs5S7Muhm4AW1v) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [ARMY OF DEAD](https://open.spotify.com/album/7g1HHDYEQsx13Z3cCtkohN) | 2:24 | 2023-10-19 |  |
+| [ARMY OF DEAD](https://open.spotify.com/track/1GOvffkotVFfzv8wlo4UDq) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [ARMY OF DEAD](https://open.spotify.com/album/3wszn7THOCPXy3JbPfrSjo) | 2:24 | 2023-08-31 | 2023-10-23 |
 | [Aussie Raver](https://open.spotify.com/track/2IxukbfXzRflTlE06OFI7l) | [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [Aussie Raver](https://open.spotify.com/album/4TKmOab6AcYpZmYw44Qkxd) | 2:59 | 2022-03-21 | 2022-08-11 |
 | [Avalanche](https://open.spotify.com/track/6NTZCq7P6aZRbP6KpJTIvw) | [JK\-47](https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF), [Jay Orient](https://open.spotify.com/artist/7bgViO0G1B9CmxmNovYasB), [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [Avalanche](https://open.spotify.com/album/3uyRVYklYijNZbk5wgfsEr) | 2:36 | 2023-09-28 |  |
 | [Azn E$hay](https://open.spotify.com/track/2GRnCWUs63ZxKgL0HwVvhY) | [Fooligan Kevs](https://open.spotify.com/artist/4bGHAmqEYRB5tsPiGjFH2g) | [Azn E$hay](https://open.spotify.com/album/01zyRaej4TUOnM8CyFAKGn) | 1:32 | 2022-12-01 | 2023-03-03 |

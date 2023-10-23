@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,829 likes - 95 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,878 likes - 95 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 73 | [Man Italiye Thani Una](https://open.spotify.com/track/11oGbpKNMqMWAStXluVPpn) | [Gayan Udawatta](https://open.spotify.com/artist/6nqL4Zw9dlneJn4CDNKPhI) | [Man Italiye Thani Una](https://open.spotify.com/album/0BlrxPb7Nj8QXk56qIxLl6) | 4:16 |
 | 74 | [Mohini](https://open.spotify.com/track/4UlPkYWzyo3Z8nHuoyj5LP) | [SANUKA](https://open.spotify.com/artist/6FD5oL7fAbrg43q0bcbWhe) | [Mohini](https://open.spotify.com/album/773CcSlELfchY80wB0smkb) | 4:01 |
 | 75 | [Adharema Geethayak](https://open.spotify.com/track/46VimbcJgReDr9shAcyVJ3) | [Raj Thillaiyampalam](https://open.spotify.com/artist/0j0eGN0Ujo81Qm1z1Yc7ak), [Kasun Kalhara](https://open.spotify.com/artist/33Y7dADrRWpD5ZVrVm8tw9) | [Adharema Geethayak \- Single](https://open.spotify.com/album/0PG9iipAVPaTyGGrYgQTyz) | 3:16 |
-| 76 | [Pathu Senehe](https://open.spotify.com/track/6KUWoAuTBI2cjyEQU3BGGA) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Poorna Sachintha](https://open.spotify.com/artist/6qv1RiuhjjYJ4AzTWhwZNt), [Kushani Sandarekha](https://open.spotify.com/artist/5SKyDKN538iUcic8y38gGA) | [Pathu Senehe](https://open.spotify.com/album/2zI0GPFNklCT170bOLHGF5) | 3:17 |
+| 76 | [Pathu Senehe](https://open.spotify.com/track/53pagTwB7dRX13H9N83C6t) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Kushani Sandarekha](https://open.spotify.com/artist/5SKyDKN538iUcic8y38gGA), [Poorna Sachintha](https://open.spotify.com/artist/6qv1RiuhjjYJ4AzTWhwZNt) | [Pathu Senehe](https://open.spotify.com/album/7zENKrqYboWq35F1ab0bAX) | 3:17 |
 | 77 | [Nurawee](https://open.spotify.com/track/4CcxO8JFiX6pYxXHBT7Ncs) | [Sandeep Jayalath](https://open.spotify.com/artist/1YXPaC4veUevXiHXh7D41t) | [Nurawee](https://open.spotify.com/album/7o9VkXQeL8JznotCU6iaWs) | 3:51 |
 | 78 | [Radhawani](https://open.spotify.com/track/5rG1xu8DZCl3yGTZFFYy5Q) | [Supun Perera](https://open.spotify.com/artist/2bnE4eD3MMcteNaIhd9TqN), [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP) | [Radhawani](https://open.spotify.com/album/0BupRDRcYRA4HlotHdPS8G) | 3:28 |
 | 79 | [Maria](https://open.spotify.com/track/36n8XmkPHq2VQEy6hpxdG6) | [Radeesh Vandebona](https://open.spotify.com/artist/1XJqTUg7BCcJgzk976s2q0) | [Me Sansare](https://open.spotify.com/album/3bRZpHvDNFf3wK0xjGpvoU) | 3:57 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 94 | [Hith Ochcham](https://open.spotify.com/track/792WeaFnWJIIEed9JnnWLW) | [Lashan Herath](https://open.spotify.com/artist/2GKt5532rbjOVlrGyvVHcC) | [Hith Ochcham](https://open.spotify.com/album/46s4zoRLxIbIa3UfjOKwRH) | 3:30 |
 | 95 | [Paluwe Sathuta](https://open.spotify.com/track/16f1xUbj37jdrqkqLCEEkB) | [Senanga Dissanayake](https://open.spotify.com/artist/5r68YwgGItdBtZdTWQFQsJ), [Methun SK](https://open.spotify.com/artist/321A10RJQEZo2P1nLnS84x) | [Paluwe Sathuta](https://open.spotify.com/album/37jxBySqQ3CwWfFCsbH9wi) | 4:38 |
 
-Snapshot ID: `MCw1MGQyNjNhNjFhNGEzNzk2YjU1OTIzNTBiYTBlODc4YTAxNTU0N2Q4`
+Snapshot ID: `MCwwZWYxZmIxMDRjNzU4OTZkNDk3YWM4NGM3ZDI0ODM1NjM0YjI5ODBi`

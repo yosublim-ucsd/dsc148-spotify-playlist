@@ -1,12 +1,12 @@
 {
   "description": "Ist nur einmal im Jahr!",
-  "num_followers": 364921,
+  "num_followers": 365056,
   "original_name": "Malle Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWEzMzc1OTFkMzM4NTcwYWI0OWQ3YjRmMWVkYWFkZGVmN2QwNDYw",
+  "snapshot_id": "MCxmOTdjOTQ5NGQzZGUxZDY1ODJhMzZmMmRkOWY2ZTVlYTg3MjY5MjBm",
   "tracks": [
     {
       "added_at": "2023-10-20 15:43:15",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
-        "name": "Crackstreet Boys 3 (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK"
-      },
-      "artists": [
-        {
-          "name": "Trailerpark",
-          "url": "https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB"
-        }
-      ],
-      "duration_ms": 265494,
-      "name": "Bleib in der Schule",
-      "url": "https://open.spotify.com/track/14ZdGRgEojosST783o66CX"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
         "name": "Der Zug hat keine Bremse (Mallorcastyle Edition)",
         "url": "https://open.spotify.com/album/1EqQTMuCCCO7wXH8S9pZyZ"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 207301,
       "name": "Der Zug hat keine Bremse - Mallorcastyle Edition",
       "url": "https://open.spotify.com/track/3T4DdPVqWeaC4U7vrIxlKz"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
+        "name": "Crackstreet Boys 3 (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK"
+      },
+      "artists": [
+        {
+          "name": "Trailerpark",
+          "url": "https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB"
+        }
+      ],
+      "duration_ms": 265494,
+      "name": "Bleib in der Schule",
+      "url": "https://open.spotify.com/track/14ZdGRgEojosST783o66CX"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
+        "name": "Das Beste von Geier Sturzflug",
+        "url": "https://open.spotify.com/album/28Uw8SirDAGkAOYAKrWsz3"
+      },
+      "artists": [
+        {
+          "name": "Geier Sturzflug",
+          "url": "https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Bruttosozialprodukt",
+      "url": "https://open.spotify.com/track/6Z0k1oFdDR5zwAr59InV2q"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
         "name": "Rapunzel (DJ Robin Remix)",
         "url": "https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 165045,
       "name": "Rapunzel - DJ Robin Remix",
       "url": "https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
-        "name": "Das Beste von Geier Sturzflug",
-        "url": "https://open.spotify.com/album/28Uw8SirDAGkAOYAKrWsz3"
-      },
-      "artists": [
-        {
-          "name": "Geier Sturzflug",
-          "url": "https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Bruttosozialprodukt",
-      "url": "https://open.spotify.com/track/6Z0k1oFdDR5zwAr59InV2q"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
+        "name": "Reim (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 220373,
+      "name": "Verdammt, ich lieb Dich - 2020 Remastered",
+      "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
         "name": "BIER",
         "url": "https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 129652,
       "name": "BIER",
       "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
-        "name": "Reim (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
-      },
-      "artists": [
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 220373,
-      "name": "Verdammt, ich lieb Dich - 2020 Remastered",
-      "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
-        "name": "Zum Greifen nah",
-        "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        },
-        {
-          "name": "Anstandslos & Durchgeknallt",
-          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Zum Greifen nah",
-      "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
         "name": "Ich liebe das Leben (Stereoact #Remix)",
         "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 203900,
       "name": "Ich liebe das Leben - Stereoact #Remix",
       "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
+        "name": "Zum Greifen nah",
+        "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Zum Greifen nah",
+      "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
+        "name": "Ich will mehr",
+        "url": "https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Petry",
+          "url": "https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Wahnsinn",
+      "url": "https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
         "name": "Hoch die H\u00e4nde Wochenende",
         "url": "https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 174719,
       "name": "Hoch die H\u00e4nde Wochenende",
       "url": "https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
-        "name": "Ich will mehr",
-        "url": "https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Petry",
-          "url": "https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "Wahnsinn",
-      "url": "https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu"
     },
     {
       "added_at": "2023-10-20 15:43:15",
