@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Talal Qureshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,726 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,885 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Choo Lo](https://open.spotify.com/track/2qgXrzJsry4KgYoJCpuaul) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:53 |
-| 2 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 |
+| 1 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 |
+| 2 | [Choo Lo](https://open.spotify.com/track/2qgXrzJsry4KgYoJCpuaul) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:53 |
 | 3 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 |
 | 4 | [Kundi](https://open.spotify.com/track/2qRGcuJlvSXCkd0KYDywKr) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [blal bloch](https://open.spotify.com/artist/2PKXVvqPC7pNaLWnDbr1RF), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 2:58 |
 | 5 | [Pardes Katenda](https://open.spotify.com/track/4IR5cCTkL4DjgJwtSijbjL) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Pardes Katenda](https://open.spotify.com/album/0Vvg3mHBvuZkXTg7rRSLnd) | 2:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 74 | [Faasla](https://open.spotify.com/track/3TB0OtQMzrPoNcmXfUMVzC) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:19 |
 | 75 | [Pretty Lies](https://open.spotify.com/track/0pvlhF2kQRKGxKqsiUMJwI) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Pretty Lies](https://open.spotify.com/album/76TgmgMlZzqrMOckjo5eFV) | 2:43 |
 
-Snapshot ID: `MCxhYTJkZTk4ZDcyMmNkZjk3YzZjNThkN2RiOTMzODg1MmUzZGEyNjNl`
+Snapshot ID: `MCw5YmI4NTYxOGE4YjU4YWIxMTgzYzIyOThjMzY2YzA0ZTc0NDY1ZGI4`

@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-418 songs - 22 hr 1 min
+419 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/track/7msMFkuYQdBaJhiav2UrM1) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/album/6GPfETz7e4MYd3kU4CtLIK) | 4:05 | 2023-08-03 | 2023-09-15 |
 | [Ego Oyibo](https://open.spotify.com/track/0pqrP2OT0JMdHa5sPwpjr7) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Ego Oyibo](https://open.spotify.com/album/3eh4uQxSDuk3CWeXMEh3SB) | 3:03 | 2023-07-20 | 2023-09-15 |
 | [Elmina](https://open.spotify.com/track/3NlFpLNLAyv1f838clGuQD) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [F65](https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i) | 2:40 | 2023-05-04 | 2023-06-23 |
-| [Emotions](https://open.spotify.com/track/6Kh0SVrpJkEWbOGtFKAKFB) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Matter of Time](https://open.spotify.com/album/0sVpDSPL1inRRowIw7YI6g) | 2:54 | 2022-11-04 |  |
+| [Emotions](https://open.spotify.com/track/6Kh0SVrpJkEWbOGtFKAKFB) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Matter of Time](https://open.spotify.com/album/0sVpDSPL1inRRowIw7YI6g) | 2:54 | 2022-11-04 | 2023-10-24 |
 | [Encorps](https://open.spotify.com/track/1e9uba4Ei8fHrXDYrNTuTN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr) | 3:56 | 2023-02-16 | 2023-02-19 |
 | [Encorps](https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:56 | 2023-02-16 | 2023-02-24 |
 | [Escape](https://open.spotify.com/track/2syWCWxrwfqBqBLKMRCb1N) | [Novemba](https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ) | [Escapade](https://open.spotify.com/album/5Crdlhgl0QFmuOGxfTvjke) | 3:14 | 2023-01-12 | 2023-03-25 |
@@ -325,6 +325,7 @@
 | [Secret](https://open.spotify.com/track/5MT626GZnhfFdIKHqeJItw) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Secret](https://open.spotify.com/album/1vXDudcC0TiOmdgLrzvt9p) | 3:14 | 2023-04-27 | 2023-05-05 |
 | [Selling Dreams](https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Selling Dreams](https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL) | 2:28 | 2023-02-03 |  |
 | [Sempe \- Acoustic](https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Sempe \(Acoustic\)](https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe) | 1:38 | 2022-06-24 | 2023-02-11 |
+| [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 | 2023-10-23 |  |
 | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG) | 4:09 | 2022-09-02 | 2023-02-24 |
 | [Shakara](https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Shakara](https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI) | 3:20 | 2022-06-24 |  |
 | [Sharp Attack](https://open.spotify.com/track/2W45RFSn0zM0eH0GFHimHS) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Sharp Attack](https://open.spotify.com/album/0SjvPXWpMpndsohnyiS5n0) | 2:43 | 2023-09-09 | 2023-10-13 |

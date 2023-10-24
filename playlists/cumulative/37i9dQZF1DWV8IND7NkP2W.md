@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-674 songs - 1 day 6 hr 10 min
+675 songs - 1 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Arigato Mama](https://open.spotify.com/track/2yxnnVeeS0s4hUqhFiDEdi) | [Dj Yutaka](https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn) | [Arigato Mama](https://open.spotify.com/album/70gkTjKai4oN4fEtDXL8Ce) | 3:09 | 2023-05-11 |  |
 | [ARUKAS](https://open.spotify.com/track/2Xz31K3sBzPdec0AE696Jl) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [ARUKAS](https://open.spotify.com/album/33OiJXL1eRdwzz9nmjQyRA) | 5:41 | 2022-01-06 | 2022-07-28 |
 | [ARUKAS](https://open.spotify.com/track/6JZvi1dibOiGyJ8yBsGYUq) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Garden](https://open.spotify.com/album/7x5O7JrQUeqy45LEDkxXW5) | 5:41 | 2022-12-01 | 2023-03-27 |
-| [August](https://open.spotify.com/track/70k46TfLjn6qblZCUCf9bH) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4), [Chillin' Spot](https://open.spotify.com/artist/2m2qscBJxMvD2sWSijVHwd) | [August](https://open.spotify.com/album/5wzbMXEUG0Nk5tPmzWceiS) | 3:49 | 2023-08-29 |  |
+| [August](https://open.spotify.com/track/70k46TfLjn6qblZCUCf9bH) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4), [Chillin' Spot](https://open.spotify.com/artist/2m2qscBJxMvD2sWSijVHwd) | [August](https://open.spotify.com/album/5wzbMXEUG0Nk5tPmzWceiS) | 3:49 | 2023-08-29 | 2023-10-24 |
 | [August](https://open.spotify.com/track/0My6Dyc0r3CmybSjOS925M) | [Qindnesic](https://open.spotify.com/artist/2Nt6Q3Rj1de4HX7jn1NOba) | [August](https://open.spotify.com/album/2cibXowpQl5M6R4AC1x9MY) | 2:14 | 2022-01-06 | 2022-07-25 |
 | [Awash](https://open.spotify.com/track/52yJEEIQMe7WbhGGqR8myV) | [Eccy](https://open.spotify.com/artist/7uld07kmI7qKWujYC7dnbO) | [Nutrients](https://open.spotify.com/album/7ApnDVqkJTEWUB7ye95jVd) | 1:54 | 2022-01-13 | 2022-07-08 |
 | [Awesome City](https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/05PDJXae0t0adaepucRPVP) | 2:40 | 2023-10-19 | 2023-10-21 |
@@ -466,6 +466,7 @@
 | [Playing It Simple](https://open.spotify.com/track/4nZdOauCI0UsRFFi9SrFjW) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Playing It Simple](https://open.spotify.com/album/56yTlOgrClDyGwyEEMdA48) | 2:55 | 2022-03-17 | 2022-06-30 |
 | [Pleasant rain](https://open.spotify.com/track/7cemJ8rocM4qmycJ8r9VTw) | [DJ ZEEK](https://open.spotify.com/artist/6jX9IZnwPeKQyuAMkJE8OK) | [Pleasant rain](https://open.spotify.com/album/78I8I5FRvCYmRrmcFvowih) | 2:34 | 2021-12-23 | 2022-07-06 |
 | [Please Think Twice](https://open.spotify.com/track/3XAtKEECaYJYeoiH5PXutP) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Beat Theme](https://open.spotify.com/album/4R3lrPQgBGF3FIAQdb6UPP) | 3:41 | 2021-12-23 | 2022-07-29 |
+| [Please Think Twice](https://open.spotify.com/track/4AkAe7RDJP6GhwqFM2JhEL) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Beat Theme](https://open.spotify.com/album/40OrSf0345Z0a6CuBizw4Q) | 3:41 | 2023-10-19 |  |
 | [Points of light](https://open.spotify.com/track/6kppyz5XQdXFFdjDRqFmbm) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Points of light](https://open.spotify.com/album/2cvoaxFVvRl6FsuHFQYVDG) | 2:48 | 2021-12-23 | 2022-07-21 |
 | [Potato Girl](https://open.spotify.com/track/5dNMmnprmuoWeelL1LtUQm) | [SENZU BEATS](https://open.spotify.com/artist/6pi8VD4XdJYHEesPGqySWV) | [Potato Girl](https://open.spotify.com/album/3RdKZ3eR1bTi6H4dzRchSV) | 2:02 | 2022-01-06 | 2022-06-29 |
 | [potatoL](https://open.spotify.com/track/6paRGNFtYLHyBdxTk5TGV5) | [MAHBIE](https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs) | [FRESH PACK LIVE vol.5](https://open.spotify.com/album/3onvol4QDwHNg0i2LRqOdX) | 11:56 | 2021-12-23 | 2022-07-21 |

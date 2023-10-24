@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: The Chainsmokers
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,623 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,674 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 74 | [You're So Cold](https://open.spotify.com/track/0k4Ntfwh6jqxnyenlsuy6d) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [You're So Cold](https://open.spotify.com/album/1VirA73LPzNcJLgLWS4rqZ) | 2:33 |
 | 75 | [I'll Be There](https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [I'll Be There](https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ) | 2:46 |
 
-Snapshot ID: `MCw0YjFlYWMyYTk4ZmNhYjZhY2E0NTZmNjRlZDIyOWYyNzg3OGM3NWFk`
+Snapshot ID: `MCwyM2I3NWM4ODQ1Mjc3OTE5N2NlZWEzMzgzMjM2NTBlMmI4MzBhZTMx`

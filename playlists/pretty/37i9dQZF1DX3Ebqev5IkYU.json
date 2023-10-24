@@ -1,12 +1,12 @@
 {
   "description": "Schlechte Laune? Dr\u00fcck den Play Button!",
-  "num_followers": 1975751,
+  "num_followers": 1975838,
   "original_name": "Stimmungsmacher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWQ1ZTc1NjFlMTZiZTAyOWFiNmRiYzM0NmM1MTUzZGYzOTRhZjA0",
+  "snapshot_id": "MCw5OGJkOTY3ODM2ZjVmNzY5ZDZhYTcwOGIyYTUyYTM4NTdkYzIwNzYw",
   "tracks": [
     {
       "added_at": "2023-10-20 08:59:34",
@@ -143,30 +143,6 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
-        "name": "Baby Don't Hurt Me",
-        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 140017,
-      "name": "Baby Don't Hurt Me",
-      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
@@ -207,6 +183,30 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -307,6 +291,38 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
       },
@@ -323,6 +339,30 @@
       "duration_ms": 142677,
       "name": "Words (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -359,46 +399,6 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
-        }
-      ],
-      "duration_ms": 191365,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
       },
@@ -415,6 +415,26 @@
       "duration_ms": 154560,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -455,26 +475,6 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -511,30 +511,6 @@
       "duration_ms": 167613,
       "name": "Green Green Grass",
       "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Mae Stephens",
-          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -603,6 +579,30 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
       },
@@ -659,26 +659,6 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
-        "name": "Hold Me Closer",
-        "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 202245,
-      "name": "Hold Me Closer",
-      "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
         "name": "Where Did You Go (feat. MNEK)",
         "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 202245,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
-        "name": "Summertime Friends",
-        "url": "https://open.spotify.com/album/4Fskvi7B1rmq52xIx9zTsV"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 136586,
-      "name": "Summertime Friends",
-      "url": "https://open.spotify.com/track/7JLzv38qr5GxXYqQfuQJP9"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 229436,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/1ELMCVbADOtZj8tYdS01nI"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
+        "name": "Summertime Friends",
+        "url": "https://open.spotify.com/album/4Fskvi7B1rmq52xIx9zTsV"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 136586,
+      "name": "Summertime Friends",
+      "url": "https://open.spotify.com/track/7JLzv38qr5GxXYqQfuQJP9"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -983,6 +983,26 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
+        "name": "Hands On Me (feat. Meghan Trainor)",
+        "url": "https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 183022,
+      "name": "Hands On Me (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
         "name": "Living In A Haze",
         "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 132000,
       "name": "Heavy Metal Love",
       "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
-        "name": "Hands On Me (feat. Meghan Trainor)",
-        "url": "https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 183022,
-      "name": "Hands On Me (feat. Meghan Trainor)",
-      "url": "https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
-        "name": "HERZINFUCKED",
-        "url": "https://open.spotify.com/album/4wJVpq8vt31kB9wySZY0WB"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 165476,
-      "name": "Auf & Ab",
-      "url": "https://open.spotify.com/track/2sFsvaMRe8PKo5AFdBE9qC"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
         "name": "I Can Feel",
         "url": "https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7"
       },
@@ -1211,22 +1195,6 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/0x89tPjR3KUl3KsG4Rlztv"
-      },
-      "artists": [
-        {
-          "name": "KAMRAD",
-          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
-        }
-      ],
-      "duration_ms": 147007,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/2CewvqbfMOcnvYE3yayAJV"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ"
       },
@@ -1247,6 +1215,62 @@
       "duration_ms": 166632,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
+        "name": "HERZINFUCKED",
+        "url": "https://open.spotify.com/album/4wJVpq8vt31kB9wySZY0WB"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 165476,
+      "name": "Auf & Ab",
+      "url": "https://open.spotify.com/track/2sFsvaMRe8PKo5AFdBE9qC"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/0x89tPjR3KUl3KsG4Rlztv"
+      },
+      "artists": [
+        {
+          "name": "KAMRAD",
+          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
+        }
+      ],
+      "duration_ms": 147007,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2CewvqbfMOcnvYE3yayAJV"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
+        "name": "Mercy (feat. Jacob Lusk)",
+        "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        },
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 178242,
+      "name": "Mercy (feat. Jacob Lusk)",
+      "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -1279,30 +1303,6 @@
       "duration_ms": 146654,
       "name": "people pleaser",
       "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
-        "name": "Mercy (feat. Jacob Lusk)",
-        "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Jacob Lusk",
-          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
-        },
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 178242,
-      "name": "Mercy (feat. Jacob Lusk)",
-      "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -1379,42 +1379,6 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
-        "name": "Following the Sun",
-        "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
-      },
-      "artists": [
-        {
-          "name": "SUPER-Hi",
-          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
-        },
-        {
-          "name": "NEEKA",
-          "url": "https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Following the Sun",
-      "url": "https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
-        "name": "Mangos mit Chili",
-        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 134887,
-      "name": "Mangos mit Chili",
-      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
         "name": "Young Right Now",
         "url": "https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw"
       },
@@ -1431,6 +1395,26 @@
       "duration_ms": 186140,
       "name": "Young Right Now",
       "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
+        "name": "Following the Sun",
+        "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
+      },
+      "artists": [
+        {
+          "name": "SUPER-Hi",
+          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+        },
+        {
+          "name": "NEEKA",
+          "url": "https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Following the Sun",
+      "url": "https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -1487,6 +1471,22 @@
       "duration_ms": 139422,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
+        "name": "Mangos mit Chili",
+        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 134887,
+      "name": "Mangos mit Chili",
+      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
     },
     {
       "added_at": "2023-10-20 08:59:34",

@@ -2520,7 +2520,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 174222,
       "name": "Keep Going Up (with Nelly Furtado & Justin Timberlake)",
       "url": "https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q"
@@ -3749,6 +3749,24 @@
     },
     {
       "album": {
+        "name": "Back To Life",
+        "url": "https://open.spotify.com/album/1J3os6fg6lvIoEC6czG8EY"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203067,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7s3uaWJcIvGMo0MswS3l5A"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
       },
@@ -4334,7 +4352,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 156391,
       "name": "Rush",
       "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
@@ -5122,7 +5140,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 211797,
       "name": "Telephone Line",
       "url": "https://open.spotify.com/track/602hMiOBUq8jmSnZxEyNdP"

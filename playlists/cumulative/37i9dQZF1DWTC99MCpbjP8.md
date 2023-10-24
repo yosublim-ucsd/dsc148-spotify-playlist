@@ -4,7 +4,7 @@
 
 > Slow down and soothe anxiety with soft, relaxing piano music.
 
-504 songs - 21 hr 54 min
+506 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Apelblom](https://open.spotify.com/track/6FiFFLgiC4yfPfTCXWIKtT) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:04 | 2022-04-22 |  |
 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 | 2022-04-22 | 2023-08-15 |
 | [as the sun shines, dewdrops glisten](https://open.spotify.com/track/4ZrV1hcAXWu6ahXEE8PIK0) | [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [as the sun shines, dewdrops glisten](https://open.spotify.com/album/0vRufu0u2fR8A6H6GlUcTN) | 2:31 | 2022-04-22 | 2023-01-27 |
+| [Astray](https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Astray](https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2) | 2:00 | 2023-10-23 |  |
 | [At A Glance](https://open.spotify.com/track/2UsLov7NMKkN1Uh9WUBEw9) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [At A Glance](https://open.spotify.com/album/4vBxCrmYU5niiq6ihQiYd0) | 2:37 | 2023-10-04 |  |
 | [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2022-04-22 |  |
 | [Augury](https://open.spotify.com/track/11Ipu3bo6eWoa9TiiOEJ0I) | [Anne Franco](https://open.spotify.com/artist/6IEySWUOgBlDS2HQfjCbSw) | [Augury](https://open.spotify.com/album/3bWQAA7YZqmobEapyM8Vgu) | 2:40 | 2022-04-22 |  |
@@ -194,6 +195,7 @@
 | [In Those Years](https://open.spotify.com/track/1arB0eICekrhg2CAj2bGfR) | [Ray Hutchcraft](https://open.spotify.com/artist/1COhhQQfq4nVKDEBi3JU7R) | [In Those Years](https://open.spotify.com/album/2YLWbPKyE27RsWLdpTnht3) | 2:20 | 2022-11-14 |  |
 | [Infinite](https://open.spotify.com/track/6FPMx8iE0KmRFecOqkk3td) | [Leo Mano](https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM) | [Infinite](https://open.spotify.com/album/2fpijf8Ci9JIaznRWSifT0) | 2:26 | 2023-01-26 |  |
 | [Ingénue](https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Ingénue](https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b) | 2:27 | 2023-08-14 |  |
+| [Innocent heart](https://open.spotify.com/track/7ad0AC5r7Vc2vev9X6uf1K) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Innocent heart](https://open.spotify.com/album/46p0bxJqS2pTqWKgb9S6Lb) | 2:17 | 2023-10-23 |  |
 | [Innocent Pleasure](https://open.spotify.com/track/77mJp2S0dP7PITIBWBN9KE) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Innocent Pleasure](https://open.spotify.com/album/278QhSkHqoR0B0eNATZFd5) | 3:29 | 2022-04-22 | 2022-09-16 |
 | [Insomnia](https://open.spotify.com/track/5jKUoCq3PWz3bpB1X5dIon) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Insomnia](https://open.spotify.com/album/03L0T3H6lTrd3upsTHFUPG) | 2:40 | 2022-04-22 | 2023-04-19 |
 | [Interlude](https://open.spotify.com/track/0VH0UgyTVKnhvxtSF4lD6L) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Interlude](https://open.spotify.com/album/0BQe2Itdulp3NTtJxqu7Q9) | 2:12 | 2022-04-22 |  |

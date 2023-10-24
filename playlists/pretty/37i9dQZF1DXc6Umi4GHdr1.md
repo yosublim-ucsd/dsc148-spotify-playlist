@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,411 likes - 101 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,426 likes - 101 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 100 | [Is It Worth The Sacrifice](https://open.spotify.com/track/1sEQxb89LCu1u1WtjSOxNL) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Is It Worth The Sacrifice](https://open.spotify.com/album/3acE1KO951uFGG7x2Z7WzQ) | 3:46 |
 | 101 | [Rio Segundo](https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Rio Segundo](https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU) | 2:49 |
 
-Snapshot ID: `MCwzOTY0NDkwOTlhYjIyZGYwMjdlN2NiNmRhZjBjN2Y4YzgwYzQ1Y2M5`
+Snapshot ID: `MCxmZGI5NzcxMWRkN2QxN2EwOTY3M2ZjNjA2ODU5OWY4Mjg1MGYxM2I0`

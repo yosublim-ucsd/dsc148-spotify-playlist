@@ -1,12 +1,12 @@
 {
   "description": "< insert emo glitter gif here >",
-  "num_followers": 58142,
+  "num_followers": 58293,
   "original_name": "CrySpace",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjExZjQxODFlMzE4OTk3N2NiN2U1ZDAyM2IyNWUwODQ2NzdlMmM3",
+  "snapshot_id": "MCxjY2ZiNjlmMGFhYzk4NzE4MmFiYTgyMGM1ZmI1NmMwYmU4MDA4Mjgy",
   "tracks": [
     {
       "added_at": "2023-10-20 22:49:42",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "Left for Dead",
-        "url": "https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs"
-      },
-      "artists": [
-        {
-          "name": "Lustra",
-          "url": "https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Scotty Doesn't Know",
-      "url": "https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
         "name": "WANT",
         "url": "https://open.spotify.com/album/6MSOHtUiG49Grd7BdZrRUm"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 192573,
       "name": "DONTTRUSTME",
       "url": "https://open.spotify.com/track/5jzX4dWVQeBTtfBaXnMRt5"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "Left for Dead",
+        "url": "https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs"
+      },
+      "artists": [
+        {
+          "name": "Lustra",
+          "url": "https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Scotty Doesn't Know",
+      "url": "https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "If It Means A Lot To You",
-      "url": "https://open.spotify.com/track/3rEwGRmPVVudVjqdgv0tRR"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
         "name": "One-X",
         "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 209333,
       "name": "Never Too Late",
       "url": "https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "If It Means A Lot To You",
+      "url": "https://open.spotify.com/track/3rEwGRmPVVudVjqdgv0tRR"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 189373,
+      "name": "crushcrushcrush",
+      "url": "https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
         "name": "Take This to Your Grave",
         "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 206520,
       "name": "The Great Escape",
       "url": "https://open.spotify.com/track/56Tl3UgyZTqfZtvFNS31wm"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 189373,
-      "name": "crushcrushcrush",
-      "url": "https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
+        "name": "Love Drunk",
+        "url": "https://open.spotify.com/album/7DphDayDRJ1NtRmveflFWD"
+      },
+      "artists": [
+        {
+          "name": "BOYS LIKE GIRLS",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
+        }
+      ],
+      "duration_ms": 226706,
+      "name": "Love Drunk",
+      "url": "https://open.spotify.com/track/20X9OeC606XNwEtDBOym5u"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
         "name": "Dying Is Your Latest Fashion",
         "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 244000,
       "name": "I Don't Wanna Be In Love (Dance Floor Anthem)",
       "url": "https://open.spotify.com/track/36UVZPoK8a1Oxh13cY8kOp"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
-        "name": "Love Drunk",
-        "url": "https://open.spotify.com/album/7DphDayDRJ1NtRmveflFWD"
-      },
-      "artists": [
-        {
-          "name": "BOYS LIKE GIRLS",
-          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
-        }
-      ],
-      "duration_ms": 226706,
-      "name": "Love Drunk",
-      "url": "https://open.spotify.com/track/20X9OeC606XNwEtDBOym5u"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "Define The Great Line",
-        "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 242413,
-      "name": "Writing On The Walls",
-      "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
         "name": "Instant Gratification",
         "url": "https://open.spotify.com/album/75Z98z7kl42oWcT0UvtO6e"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 250973,
       "name": "Death Of A Strawberry",
       "url": "https://open.spotify.com/track/0ZcQUwVyXgpUepJsvgOYgk"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "Define The Great Line",
+        "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 242413,
+      "name": "Writing On The Walls",
+      "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -871,22 +871,6 @@
       "duration_ms": 244826,
       "name": "It Ends Tonight",
       "url": "https://open.spotify.com/track/5ZqNz8GXWpkb95f7aVxTA0"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
-        "name": "Louder Now (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 191133,
-      "name": "Liar (It Takes One To Know One)",
-      "url": "https://open.spotify.com/track/5heRy6IDNiQXDJf1tZ6SUc"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -935,6 +919,22 @@
       "duration_ms": 187000,
       "name": "Damned If I Do Ya (Damned If I Don't)",
       "url": "https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "Louder Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "Liar (It Takes One To Know One)",
+      "url": "https://open.spotify.com/track/5heRy6IDNiQXDJf1tZ6SUc"
     },
     {
       "added_at": "2023-10-20 22:49:42",

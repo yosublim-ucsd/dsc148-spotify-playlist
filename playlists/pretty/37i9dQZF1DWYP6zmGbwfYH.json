@@ -1,12 +1,12 @@
 {
   "description": "El icuiricui, el matalacachimba y el ruletero.",
-  "num_followers": 247368,
+  "num_followers": 247488,
   "original_name": "Ruleteando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Zjk4NTE0YzNmZDVlMGYxMjFiMzZjNTQ2YTljNDc5NzhmZGQwNTcw",
+  "snapshot_id": "MCxhNzFlMTFhMDZlOGM3ZGU0MTAxNTM0NWJjZDhlNmRkMTJmYzVhOTgw",
   "tracks": [
     {
       "added_at": "2023-06-02 20:08:38",
@@ -139,26 +139,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Bebe Dame",
-        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 271861,
-      "name": "Bebe Dame",
-      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Simplemente Gracias",
         "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
       },
@@ -171,6 +151,22 @@
       "duration_ms": 255640,
       "name": "Si Te Pudiera Mentir",
       "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "El Vals Del Olvido",
+      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -211,6 +207,26 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
+        "name": "Bebe Dame",
+        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
@@ -243,22 +259,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "El Vals Del Olvido",
-      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "The Last",
         "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
@@ -271,6 +271,22 @@
       "duration_ms": 238720,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Corazon de Acero",
+        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 225953,
+      "name": "Corazon de Acero",
+      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -327,34 +343,18 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Corazon de Acero",
-        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
+        "name": "Internacionales Y Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3"
       },
       "artists": [
         {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
         }
       ],
-      "duration_ms": 225953,
-      "name": "Corazon de Acero",
-      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez"
+      "duration_ms": 175013,
+      "name": "Ven Porque Te Necesito",
+      "url": "https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Internacionales Y Rom\u00e1nticos",
-        "url": "https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 175013,
-      "name": "Ven Porque Te Necesito",
-      "url": "https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 189293,
       "name": "Mi C\u00f3mplice",
       "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -459,38 +459,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
-        "name": "Mi Vida Eres T\u00fa",
-        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 250026,
-      "name": "Mi Vida Eres T\u00fa",
-      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Mi Satisfacci\u00f3n",
         "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
       },
@@ -535,6 +503,38 @@
       "duration_ms": 225360,
       "name": "Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Mi Vida Eres T\u00fa",
+        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 250026,
+      "name": "Mi Vida Eres T\u00fa",
+      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "Fuerte No Soy",
+      "url": "https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
         "name": "M\u00e1s All\u00e1 Del Sol",
         "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "Fuerte No Soy",
-      "url": "https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Atrevido Y Diferente",
         "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 235906,
       "name": "Loco",
       "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
-        "name": "Afortunado",
-        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 167514,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -763,6 +747,22 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 167514,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
         "name": "El Primer Ministro",
         "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 145560,
       "name": "Ma\u00f1ana Voy A Conquistarla",
       "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU"
-      },
-      "artists": [
-        {
-          "name": "Los Dinnosaurios",
-          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "El Taxista",
-      "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -811,18 +795,18 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU"
       },
       "artists": [
         {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+          "name": "Los Dinnosaurios",
+          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
         }
       ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
+      "duration_ms": 224946,
+      "name": "El Taxista",
+      "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -839,6 +823,22 @@
       "duration_ms": 229653,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Los Yaguaru",
-        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 234945,
-      "name": "Suavemente Amor",
-      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 214293,
       "name": "Tu Traici\u00f3n",
       "url": "https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Los Yaguaru",
+        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 234945,
+      "name": "Suavemente Amor",
+      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Culpable T\u00fa",
-        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
-      },
-      "artists": [
-        {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
-        }
-      ],
-      "duration_ms": 155513,
-      "name": "Te Deseo Lo Mejor",
-      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Directo Al Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 280120,
       "name": "Ese Loco Soy Yo",
       "url": "https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "Culpable T\u00fa",
+        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 155513,
+      "name": "Te Deseo Lo Mejor",
+      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/6JckkNzJVY33kAwZ7FOd4J"
-      },
-      "artists": [
-        {
-          "name": "Mandingo",
-          "url": "https://open.spotify.com/artist/4KPkl90SSF2y1VYNt7dmba"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Te V\u00ed Con El",
-      "url": "https://open.spotify.com/track/3TK5wK5bPpM4vIpAmkhkuX"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
         "name": "Corazoncito Pum Pum",
         "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 207516,
       "name": "Como Decirte Adios",
       "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/6JckkNzJVY33kAwZ7FOd4J"
+      },
+      "artists": [
+        {
+          "name": "Mandingo",
+          "url": "https://open.spotify.com/artist/4KPkl90SSF2y1VYNt7dmba"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Te V\u00ed Con El",
+      "url": "https://open.spotify.com/track/3TK5wK5bPpM4vIpAmkhkuX"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
+        "name": "Los Yonic's",
+        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
       },
       "artists": [
         {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 175373,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2Y1qcW4b9aVRnX1fHaVvxY"
+      "duration_ms": 192440,
+      "name": "Un Dolor",
+      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1755,34 +1755,18 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "Los Yonic's",
-        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
       },
       "artists": [
         {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
         }
       ],
-      "duration_ms": 192440,
-      "name": "Un Dolor",
-      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
-        "name": "M\u00e1rchate Y Olv\u00eddame",
-        "url": "https://open.spotify.com/album/1laTU2tuhmcjEaZHCgwOiP"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "Olv\u00eddame",
-      "url": "https://open.spotify.com/track/0S0O5SDpY3DSAz4cLED6Ay"
+      "duration_ms": 175373,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2Y1qcW4b9aVRnX1fHaVvxY"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1799,6 +1783,22 @@
       "duration_ms": 189013,
       "name": "La Fuerza Del Destino",
       "url": "https://open.spotify.com/track/3WjmQylxM3VhcCcajyYGAK"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
+        "name": "M\u00e1rchate Y Olv\u00eddame",
+        "url": "https://open.spotify.com/album/1laTU2tuhmcjEaZHCgwOiP"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "Olv\u00eddame",
+      "url": "https://open.spotify.com/track/0S0O5SDpY3DSAz4cLED6Ay"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
+        "name": "La Otra Cara De La Moneda",
+        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Comp\u00e1rame",
+      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
+    },
+    {
+      "added_at": "2023-06-02 20:08:38",
+      "album": {
         "name": "Salvaje Y Tierno",
         "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
       },
@@ -1851,18 +1867,18 @@
     {
       "added_at": "2023-06-02 20:08:38",
       "album": {
-        "name": "La Otra Cara De La Moneda",
-        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
+        "name": "16 \u00c9xitos De Oro",
+        "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 225826,
-      "name": "Comp\u00e1rame",
-      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
+      "duration_ms": 213600,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
     },
     {
       "added_at": "2023-06-02 20:08:38",
@@ -1911,22 +1927,6 @@
       "duration_ms": 197400,
       "name": "Prefiero Partir",
       "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
-    },
-    {
-      "added_at": "2023-06-02 20:08:38",
-      "album": {
-        "name": "16 \u00c9xitos De Oro",
-        "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
     },
     {
       "added_at": "2023-06-02 20:08:38",

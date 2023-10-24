@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: PUNPEE
 
-173 songs - 8 hr 49 min
+174 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [GO](https://open.spotify.com/track/5xfXVYH1u85wbvE5SvjXd8) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ SHINTARO](https://open.spotify.com/artist/4XyRNMkxh04XdwNewJhT2L), [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [INNER WORLD](https://open.spotify.com/album/3hkzAi33jvsra7mNi9BMzU) | 4:01 | 2023-09-26 |  |
 | [GO FUSION](https://open.spotify.com/track/35VMDe4mPBrdZoOfClyYSa) | [Diva Wisteria](https://open.spotify.com/artist/1pULTdGy91pturvFKAbhBn), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [GO FUSION](https://open.spotify.com/album/5xscjWb56OBdOT6YRWG0AW) | 3:14 | 2023-10-17 |  |
 | [Greedy](https://open.spotify.com/track/7ADojJAmNMr7ESb9v2OBrm) | [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz) | [MANIA](https://open.spotify.com/album/1Yl0UPm8taUyYrdYcMTgGd) | 3:36 | 2023-09-21 | 2023-09-27 |
+| [HAHAHA](https://open.spotify.com/track/2g2RTLYybr4euVKkinEFrR) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [Watson](https://open.spotify.com/artist/25qmeRJcYUyBT19rjsNTyv) | [HAHAHA](https://open.spotify.com/album/7neXYQbGZraV3HIrKKP7jg) | 1:57 | 2023-10-24 |  |
 | [HANEDA](https://open.spotify.com/track/4z6SmTNvgLtOudHcs6Zvkl) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [HANEDA](https://open.spotify.com/album/0Msh8zd3ZgeOf7XIyFXRR9) | 2:19 | 2023-09-26 | 2023-10-11 |
 | [HANEDA \- remix](https://open.spotify.com/track/374RryLOtbOtmZcLn54kIQ) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3), [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [HANEDA](https://open.spotify.com/album/6NI4hfNavdSk8mWDOJNgsm) | 2:19 | 2023-09-26 | 2023-09-28 |
 | [Heartache](https://open.spotify.com/track/1pBeYVoKOTXOotNJ1MjHrk) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [vanitas](https://open.spotify.com/album/4SKmZ9UDkL4NrEgXzJw81z) | 2:28 | 2023-09-21 |  |

@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ITZY
 
-784 songs - 1 day 18 hr 54 min
+788 songs - 1 day 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Girls’ Capitalism](https://open.spotify.com/track/2ivVS2ageitCQqnmmMaWoH) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [LOVElution <ↀ>](https://open.spotify.com/album/4hXAHIWkBpmSskQ8MccyZf) | 3:38 | 2023-08-18 |  |
 | [Glitch](https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Color](https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03) | 3:44 | 2022-04-04 | 2022-06-17 |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-03-29 | 2022-06-22 |
+| [God of Music](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 | 2023-10-23 |  |
 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2023-10-04 |  |
 | [Goes on](https://open.spotify.com/track/2Y9KdZldoTAXBfy5P9IcdU) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Goes on](https://open.spotify.com/album/5AhqIXtThzlDFpdLlBZhgw) | 3:30 | 2022-08-16 | 2022-09-28 |
 | [Golden Age](https://open.spotify.com/track/6NVdrwoqcAD16HMPOT6FLE) | [NCT 2023](https://open.spotify.com/artist/7e0ruktNBO8etVJ5rjvhbG) | [Golden Age](https://open.spotify.com/album/2PCdWOGSx5Xt8rBE5wD8Bu) | 3:38 | 2023-08-24 | 2023-10-11 |
@@ -490,6 +491,7 @@
 | [PANORAMA](https://open.spotify.com/track/7DwR5sQ0kpwvAz60Fm0FEk) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [PANORAMA](https://open.spotify.com/album/4vuOLGwkgHN5UqkDqkThDB) | 2:58 | 2023-08-24 | 2023-10-07 |
 | [Paradigm](https://open.spotify.com/track/2YeteVB8F8UkB5gmRPevLm) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.PARADIGM](https://open.spotify.com/album/2f1QQQD15aeu9e5EWO3XrA) | 3:13 | 2022-11-29 | 2023-03-04 |
 | [PARALLEL PARALLEL](https://open.spotify.com/track/5JeIo5GWHq8mJbnI7R5ypk) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [PARALLEL PARALLEL](https://open.spotify.com/album/4apOFp29EkxRXbDlKNxb9S) | 3:37 | 2023-01-31 | 2023-03-08 |
+| [PARANOIA](https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP) | [HEARTSTEEL](https://open.spotify.com/artist/4lY2DXvRv9RPeFcUtn6PUh), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Cal Scruby](https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu) | [PARANOIA](https://open.spotify.com/album/1RPJNNRo1WUciegpWfioAc) | 3:18 | 2023-10-23 |  |
 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 | 2023-07-11 |  |
 | [PARTY ROCK](https://open.spotify.com/track/5n81hoM1QMLib476FVMp2Y) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [NEW WAVE](https://open.spotify.com/album/43PdGV8b4Xb1a4ffk3Ywt6) | 3:04 | 2022-09-27 | 2022-12-24 |
 | [Patbingsu](https://open.spotify.com/track/3B6t6zKMa959qbWvLUWxxl) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [track by YOON: Patbingsu](https://open.spotify.com/album/6c6wbjLgOX3crURuTPfaL8) | 3:29 | 2022-07-15 | 2022-08-26 |
@@ -590,6 +592,7 @@
 | [SKATEBOARD](https://open.spotify.com/track/6l73YRbkfTjBUtTm3DrkAu) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Delicious](https://open.spotify.com/album/0if8s53ZdbpKQnE2vH1Ggl) | 3:05 | 2023-06-12 | 2023-08-11 |
 | [Skater](https://open.spotify.com/track/2XIAyrfqLiI5gWpZGRUtu9) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : HOW TO PLAY](https://open.spotify.com/album/4JoVx1AssR7dcAZrtwFVfW) | 3:47 | 2023-08-02 | 2023-08-30 |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-08 |  |
+| [Slow Dancing \(FRNK Remix\)](https://open.spotify.com/track/6mSCY4xjKyt5xLlgOXXHSk) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [FRNK](https://open.spotify.com/artist/6rI2O8GMY9k1JYDDWkD0a8) | [Slow Dancing \(Remixes\)](https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K) | 2:49 | 2023-10-23 |  |
 | [SMARTPHONE](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [SMARTPHONE](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) | 3:18 | 2022-08-03 | 2022-11-22 |
 | [Smile](https://open.spotify.com/track/2gj9ojku1zRQ5o1dTBvts2) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO: THE BEST \-Japan Edition\-](https://open.spotify.com/album/1bUXcFlwOS8Lh9N40oFi6p) | 3:04 | 2022-03-23 | 2022-06-08 |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-18 | 2022-04-15 |
@@ -782,6 +785,7 @@
 | [六等星](https://open.spotify.com/track/7DUin3zPxgW9vD4NnhSlkk) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [六等星](https://open.spotify.com/album/63cB2tLiZJdgy8jN7O4Qx4) | 3:29 | 2022-04-12 | 2022-06-21 |
 | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/track/5yR9bGLr8Zz2EndMrthui1) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/album/4i69b6pT4wIAIkoYGA71Um) | 3:24 | 2022-08-23 | 2023-01-13 |
 | [君の声 \(Your voice\)](https://open.spotify.com/track/1eRlhfcn1xtBeCcayadirV) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [iKON JAPAN TOUR 2022 \[FLASHBACK\] \(Live\)](https://open.spotify.com/album/2vvQxmQOjAgMrlU1MT0qcC) | 3:20 | 2022-10-11 | 2023-01-10 |
+| [明日に向かって](https://open.spotify.com/track/2IRd4YapC0S3mVhFo09lnW) | [L \(キム・ミョンス\)](https://open.spotify.com/artist/7IKwZ7A0LEPpAZfIgSdjao) | [moments](https://open.spotify.com/album/641cArZ8NkDgTF4CcisYii) | 4:55 | 2023-10-23 |  |
 | [時を駆けて](https://open.spotify.com/track/5rLb9sJEfvEMcWTVhEIZwG) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Blooming](https://open.spotify.com/album/59WPwlL2LisK1iTOEZ5rkf) | 3:30 | 2022-03-29 | 2022-05-11 |
 | [木蘭の涙](https://open.spotify.com/track/7iBecj6numquqBjVCaqjAC) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [木蘭の涙](https://open.spotify.com/album/1VU49IhAsRovcWXa8YgnKn) | 5:32 | 2023-09-21 | 2023-09-27 |
 | [束の間の恋](https://open.spotify.com/track/27WqCs6kN18Uw2PtFHxCvr) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [君という桜の花びらが僕の心に舞い降りた。](https://open.spotify.com/album/6QvUd4r5lYp7wJSS64woW6) | 3:19 | 2023-05-24 | 2023-06-21 |

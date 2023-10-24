@@ -1,12 +1,12 @@
 {
   "description": "Roses are red, violet are blue, its been fun but i'm leaving you. \n",
-  "num_followers": 89078,
+  "num_followers": 89114,
   "original_name": "Breakup Szn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjcxZjAwOTI5M2YwOTU1OTdlZmFiMzAzZGRhZjA2OTFjZTY5YmE3",
+  "snapshot_id": "MCw3NDkwOWY5ZTk5N2YyMzFmNTM3ZjZkMjMwNmEyNTlmODk4NGVjZjIz",
   "tracks": [
     {
       "added_at": "2023-09-03 14:52:51",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-09-03 14:52:51",
       "album": {
-        "name": "Speak Now (Taylor's Version)",
-        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 220306,
-      "name": "Better Than Revenge (Taylor's Version)",
-      "url": "https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58"
-    },
-    {
-      "added_at": "2023-09-03 14:52:51",
-      "album": {
         "name": "Left Of The Middle",
         "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 244666,
       "name": "Torn",
       "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
+    },
+    {
+      "added_at": "2023-09-03 14:52:51",
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 220306,
+      "name": "Better Than Revenge (Taylor's Version)",
+      "url": "https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58"
     },
     {
       "added_at": "2023-09-03 14:52:51",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-09-03 14:52:51",
       "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2023-09-03 14:52:51",
+      "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 214840,
       "name": "Break Free",
       "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
-    },
-    {
-      "added_at": "2023-09-03 14:52:51",
-      "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're So Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2023-09-03 14:52:51",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-09-03 14:52:51",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
-    },
-    {
-      "added_at": "2023-09-03 14:52:51",
-      "album": {
         "name": "Glory Days (Expanded Edition)",
         "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 246240,
       "name": "Shout Out to My Ex",
       "url": "https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs"
+    },
+    {
+      "added_at": "2023-09-03 14:52:51",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
       "added_at": "2023-09-03 14:52:51",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-09-03 14:52:51",
       "album": {
-        "name": "The High Road",
-        "url": "https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa"
-      },
-      "artists": [
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "Too Little Too Late",
-      "url": "https://open.spotify.com/track/4T4NLIMypdmyUwK54jECk4"
-    },
-    {
-      "added_at": "2023-09-03 14:52:51",
-      "album": {
         "name": "The Fame Monster (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2023-09-03 14:52:51",
       "album": {
+        "name": "The High Road",
+        "url": "https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa"
+      },
+      "artists": [
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "Too Little Too Late",
+      "url": "https://open.spotify.com/track/4T4NLIMypdmyUwK54jECk4"
+    },
+    {
+      "added_at": "2023-09-03 14:52:51",
+      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
       },
@@ -767,26 +767,6 @@
       "duration_ms": 205473,
       "name": "You should be sad",
       "url": "https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK"
-    },
-    {
-      "added_at": "2023-09-03 14:52:51",
-      "album": {
-        "name": "Hot In It",
-        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 129817,
-      "name": "Hot In It",
-      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
       "added_at": "2023-09-03 14:52:51",
@@ -819,6 +799,26 @@
       "duration_ms": 216160,
       "name": "Part Of Me",
       "url": "https://open.spotify.com/track/6yARPLK0PV4heEyh7pVMGz"
+    },
+    {
+      "added_at": "2023-09-03 14:52:51",
+      "album": {
+        "name": "Hot In It",
+        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 129817,
+      "name": "Hot In It",
+      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
       "added_at": "2023-09-03 14:52:51",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-09-03 14:52:51",
       "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Single Ladies (Put a Ring on It)",
+      "url": "https://open.spotify.com/track/2ZBNclC5wm4GtiWaeh0DMx"
+    },
+    {
+      "added_at": "2023-09-03 14:52:51",
+      "album": {
         "name": "All My Exes' Moms",
         "url": "https://open.spotify.com/album/7D78EyeNCsv7f8fAlYLrvx"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 205745,
       "name": "Confident",
       "url": "https://open.spotify.com/track/0Mn3amMRMoabaoTf1Publ4"
-    },
-    {
-      "added_at": "2023-09-03 14:52:51",
-      "album": {
-        "name": "everything means nothing",
-        "url": "https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 171171,
-      "name": "queen of broken hearts",
-      "url": "https://open.spotify.com/track/1xyUCr7dIJYaUaaiDf4Q1L"
     }
   ],
   "unique_name": "Breakup Szn",

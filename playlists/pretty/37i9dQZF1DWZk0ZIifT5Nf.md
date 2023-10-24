@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk0ZIifT5Nf.md) - [plain]
 
 > Featuring Cruz Cafuné, Mora, Rels B & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273 likes - 25 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 278 likes - 25 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk0ZIifT5Nf.md) - [plain]
 | 24 | [No Dice Na'](https://open.spotify.com/track/1JZ8bH1RCRqepLSR8HLcfr) | [DreamyBaby](https://open.spotify.com/artist/0eoD8oTKamUPrgSKNxRewE) | [CUMPLEAÑOS](https://open.spotify.com/album/4hhZgb0s5TtKFazP2Vo9vr) | 3:48 |
 | 25 | [jukiada](https://open.spotify.com/track/1o069EXYorALqprEPFrjqu) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [jukiada](https://open.spotify.com/album/2mch4cEQ6AiGuDeTfqFr3A) | 3:15 |
 
-Snapshot ID: `MCw4MzJkMmMzMWNlY2QzYzBiNGQ3YWFkZmI5MjE3MTdhZGZkMjUwMzI4`
+Snapshot ID: `MCxiZjEwNjk5ZmFiMzkyM2Y3NjcxMDkxZjM5ODA2ZTMzZDJlZDkwN2Q0`

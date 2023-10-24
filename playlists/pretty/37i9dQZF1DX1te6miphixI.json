@@ -1,12 +1,12 @@
 {
   "description": "Grandes temas del rock de ayer y de hoy.",
-  "num_followers": 779243,
+  "num_followers": 779296,
   "original_name": "Radio Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTAyYmQ1NDg0NWViNTVjMWMyZDdlYTg3NDJkMWVmNmJlZWNjNzFm",
+  "snapshot_id": "MCw4NjZmY2MyMGViNjkxYjg1OTMyYWQyYTdiM2Y2OTE4Y2ZmOTc3YTg1",
   "tracks": [
     {
       "added_at": "2023-10-18 19:29:31",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-10-18 19:29:31",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
-    },
-    {
-      "added_at": "2023-10-18 19:29:31",
-      "album": {
         "name": "Bleed American",
         "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
       },
@@ -319,22 +303,6 @@
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
-    },
-    {
-      "added_at": "2023-10-18 19:29:31",
-      "album": {
-        "name": "Flowers For The Grave",
-        "url": "https://open.spotify.com/album/3zPoeWuvwtFwlXbvSBNGyI"
-      },
-      "artists": [
-        {
-          "name": "Normandie",
-          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
-        }
-      ],
-      "duration_ms": 214830,
-      "name": "Blood In The Water",
-      "url": "https://open.spotify.com/track/0pZt6FBIYTgLBUE0QGH2mF"
     },
     {
       "added_at": "2023-10-18 19:29:31",
@@ -355,6 +323,38 @@
     {
       "added_at": "2023-10-18 19:29:31",
       "album": {
+        "name": "Flowers For The Grave",
+        "url": "https://open.spotify.com/album/3zPoeWuvwtFwlXbvSBNGyI"
+      },
+      "artists": [
+        {
+          "name": "Normandie",
+          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+        }
+      ],
+      "duration_ms": 214830,
+      "name": "Blood In The Water",
+      "url": "https://open.spotify.com/track/0pZt6FBIYTgLBUE0QGH2mF"
+    },
+    {
+      "added_at": "2023-10-18 19:29:31",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "added_at": "2023-10-18 19:29:31",
+      "album": {
         "name": "Blur (Special Edition)",
         "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
       },
@@ -367,22 +367,6 @@
       "duration_ms": 121160,
       "name": "Song 2 - 2012 Remaster",
       "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
-    },
-    {
-      "added_at": "2023-10-18 19:29:31",
-      "album": {
-        "name": "HONEY (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 167276,
-      "name": "HONEY (ARE U COMING?)",
-      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
     },
     {
       "added_at": "2023-10-18 19:29:31",
@@ -419,6 +403,22 @@
     {
       "added_at": "2023-10-18 19:29:31",
       "album": {
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+    },
+    {
+      "added_at": "2023-10-18 19:29:31",
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 224493,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
-    },
-    {
-      "added_at": "2023-10-18 19:29:31",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2023-10-18 19:29:31",
@@ -467,6 +451,22 @@
     {
       "added_at": "2023-10-18 19:29:31",
       "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
+    },
+    {
+      "added_at": "2023-10-18 19:29:31",
+      "album": {
         "name": "Led Zeppelin III (Remaster)",
         "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
       },
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-10-18 19:29:31",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 200306,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2023-10-18 19:29:31",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-10-18 19:29:31",
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Learn to Fly",
-      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
-    },
-    {
-      "added_at": "2023-10-18 19:29:31",
-      "album": {
         "name": "The Resistance",
         "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 304840,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
+    },
+    {
+      "added_at": "2023-10-18 19:29:31",
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
     },
     {
       "added_at": "2023-10-18 19:29:31",
@@ -687,22 +687,6 @@
       "duration_ms": 168840,
       "name": "Rock And Roll All Nite",
       "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
-    },
-    {
-      "added_at": "2023-10-18 19:29:31",
-      "album": {
-        "name": "In Your Honor",
-        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 255626,
-      "name": "Best of You",
-      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
     },
     {
       "added_at": "2023-10-18 19:29:31",
@@ -783,6 +767,22 @@
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2023-10-18 19:29:31",
+      "album": {
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 255626,
+      "name": "Best of You",
+      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
     },
     {
       "added_at": "2023-10-18 19:29:31",

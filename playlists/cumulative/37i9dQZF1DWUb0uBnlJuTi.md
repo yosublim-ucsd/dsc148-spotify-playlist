@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-359 songs - 1 day 3 hr 41 min
+360 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Dark Side Riddim](https://open.spotify.com/track/5pIjTEPxQx4JJc14CkVlgf) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Dark Side Riddim / Samuel L.Riddim](https://open.spotify.com/album/3xx8mVv8jR6rzFMGcq0VWY) | 5:14 | 2020-10-09 | 2023-03-11 |
 | [Deadlines](https://open.spotify.com/track/0JRsF8dhA1REeU30rW9mKL) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Deadlines](https://open.spotify.com/album/7fb3KnLxUDdpWdDWr9vAT5) | 4:30 | 2020-10-09 | 2022-08-04 |
 | [Degnan Dreams \(feat\. Keyon Harrold, Justin Tyson & Dominique Sanders\)](https://open.spotify.com/track/2Auq5wDqrTARXnp0a08wkE) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Dominique Sanders](https://open.spotify.com/artist/17CyoltNZz638iotR5AAxt), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [Degnan Dreams \(feat\. Keyon Harrold, Justin Tyson & Dominique Sanders\)](https://open.spotify.com/album/6ipIcbUQYfajQa4GWZn5tL) | 3:46 | 2023-06-30 |  |
-| [Deluxe Refuge](https://open.spotify.com/track/3fbRtTiwsr5cYyLvVMrWF3) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Deluxe Refuge](https://open.spotify.com/album/4bmmEf1HnNsp44VM8YKWbg) | 5:27 | 2023-09-15 |  |
+| [Deluxe Refuge](https://open.spotify.com/track/3bPk42yKpTX0UWkICl8btZ) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Behind the Tea Chronicles](https://open.spotify.com/album/2NRg9UqRH3YFWJG7XEwba9) | 5:27 | 2023-09-15 |  |
+| [Deluxe Refuge](https://open.spotify.com/track/3fbRtTiwsr5cYyLvVMrWF3) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Deluxe Refuge](https://open.spotify.com/album/4bmmEf1HnNsp44VM8YKWbg) | 5:27 | 2023-09-15 | 2023-10-24 |
 | [Desert Rain](https://open.spotify.com/track/077KnQCjOyA2qCDcECZ72T) | [Doug Carn](https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Desert Rain](https://open.spotify.com/album/7dZPZfRTKe4IFnfZxfRGV6) | 3:47 | 2020-10-30 | 2022-07-29 |
 | [Desert Rain](https://open.spotify.com/track/3BhIyhUaz8s4QeJqyWc6R5) | [Doug Carn](https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Doug Carn JID005](https://open.spotify.com/album/2NECEnZwEaR6at7uEP8Kmj) | 3:47 | 2021-04-09 | 2023-04-29 |
 | [Desert Rain](https://open.spotify.com/track/3KfBhRPQ7AaxQYh6r1CAXw) | [Doug Carn](https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Doug Carn JID005](https://open.spotify.com/album/7KGmy3wpG6ofn4ZC79Ih7W) | 3:47 | 2021-04-09 |  |

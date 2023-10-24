@@ -4,7 +4,7 @@
 
 > New Rock & Alt driving the current, every week\. Cover: Meet Me @ The Altar
 
-233 songs - 11 hr 43 min
+234 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [DIRTY WHITE VANS REMIX// \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/4itBuIySoAuWR1gVk1xA1S) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [DIRTY WHITE VANS REMIX// \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/5jODAtLZwHOfDaOWprFtZL) | 2:21 | 2022-08-26 | 2023-06-03 |
 | [DIRTY WHITE VANS//](https://open.spotify.com/track/51tegOXmUxqJKWMh8l3Oxi) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [DIRTY WHITE VANS//](https://open.spotify.com/album/7GFoR6svUHjlQrG71ipmky) | 2:21 | 2022-03-18 | 2022-10-08 |
 | [Don't Bother Me](https://open.spotify.com/track/29sqgoWhw6KZawQCnDvSIB) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Black Dots](https://open.spotify.com/album/6xhmQ9CwgYxj5NiTkNovbu) | 2:36 | 2022-07-22 | 2022-08-27 |
-| [Don't Look At Me](https://open.spotify.com/track/5hQZDntIU1PbXhmH94kZoM) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2) | 3:08 | 2022-08-26 |  |
+| [Don't Look At Me](https://open.spotify.com/track/3U7mehH6qFWzsDrAljZ7VW) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2kKR8sRKNRqlN8axIsAvnB) | 3:08 | 2023-09-15 |  |
+| [Don't Look At Me](https://open.spotify.com/track/5hQZDntIU1PbXhmH94kZoM) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2) | 3:08 | 2022-08-26 | 2023-10-24 |
 | [DORRIGO](https://open.spotify.com/track/2HADhFSuN65iC1qDHQeWGr) | [Roberto](https://open.spotify.com/artist/5tE6Vl7ytONXbf5JYVJJ4S) | [DORRIGO](https://open.spotify.com/album/2NAXiM6NNBmnr5vOeWxvtg) | 3:08 | 2022-02-12 | 2022-03-18 |
 | [Dream Big](https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Dream Big](https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c) | 3:05 | 2023-09-15 |  |
 | [Dying to Live](https://open.spotify.com/track/0W6SPZVgUEtM34xR0Ap4LI) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone](https://open.spotify.com/album/1IIqfOuXvkV4idBpMQPQQx) | 3:09 | 2022-02-12 | 2022-07-23 |

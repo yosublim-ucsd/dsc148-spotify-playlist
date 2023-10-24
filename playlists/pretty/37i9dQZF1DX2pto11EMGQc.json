@@ -1,12 +1,12 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 93708,
+  "num_followers": 93712,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWNmOGIyNGQyMDc4MDk4YmE1ZTU4Njc3NjRlY2VjYzFkNTk3Mzdm",
+  "snapshot_id": "MCw1ZDVlZWY0OWVlZmEzNWI0MDBiODVhYTZjYzlmOGRhZDdjY2I2OWIw",
   "tracks": [
     {
       "added_at": "2022-05-11 15:37:27",
@@ -183,26 +183,6 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Music To Be Murdered By",
-        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "Godzilla (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
         "name": "Globalization",
         "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
       },
@@ -259,22 +239,22 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+        "name": "Music To Be Murdered By",
+        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 220293,
-      "name": "Congratulations",
-      "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
+      "duration_ms": 210800,
+      "name": "Godzilla (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -315,6 +295,26 @@
       "duration_ms": 170769,
       "name": "Eastside (with Halsey & Khalid)",
       "url": "https://open.spotify.com/track/7FGq80cy8juXBCD2nrqdWU"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 192190,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
         "name": "One Right Now",
         "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 192190,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "The Click (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/51iPchT1rPmDNT5FYGoPn5"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Burn The House Down",
-      "url": "https://open.spotify.com/track/0TkJIyL69RAUIbNwGub6uR"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/4Tk1gvdwy7TL3Ma2s9iZ9f"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 289746,
       "name": "Blame It",
       "url": "https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
+        "name": "The Click (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/51iPchT1rPmDNT5FYGoPn5"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Burn The House Down",
+      "url": "https://open.spotify.com/track/0TkJIyL69RAUIbNwGub6uR"
     },
     {
       "added_at": "2022-05-11 15:37:27",

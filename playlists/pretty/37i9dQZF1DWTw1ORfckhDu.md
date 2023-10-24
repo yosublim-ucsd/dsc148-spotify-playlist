@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Cledos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,440 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,483 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 69 | [Ihmisen ikävä toisen luo](https://open.spotify.com/track/6pKNXyQ10fTPDUZYzwIHaz) | [Mansesteri](https://open.spotify.com/artist/11OHTUETXL6VR3cnv9KNF1), [Inde Morjesta](https://open.spotify.com/artist/0oozCXvUcoIq24bjj0JKdY), [Mikko Alatalo](https://open.spotify.com/artist/0sXNaEi0XSZIEkCAOACaMI) | [Ihmisen ikävä toisen luo](https://open.spotify.com/album/3ETPXRQTmqp6d9VqYGSOgp) | 3:05 |
 | 70 | [Bad Body](https://open.spotify.com/track/3hRfRk5bwhrvHkHIE1KVje) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [W1NDY SEASON](https://open.spotify.com/album/0AMQd51PmhVYbnM3M35dBL) | 2:34 |
 
-Snapshot ID: `MCxhMzU3ODg4ZWFiZTA4ZjM5MTNlMTE5Mzk1NzZhOGQxNDY2YzViMWM0`
+Snapshot ID: `MCxlMmI5ZTkxOTkyMjkyMDdiNWQ4MDFkNjRhYjM5MDg5N2MyODJhZmFh`

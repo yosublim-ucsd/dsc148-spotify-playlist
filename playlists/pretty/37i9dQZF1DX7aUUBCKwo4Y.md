@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aUUBCKwo4Y.md) - [plain]
 
 > Country music's 50 most played songs in the world\. Updated weekly\. Cover: Morgan Wallen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,792 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,246 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aUUBCKwo4Y.md) - [plain]
 | 49 | [The Painter](https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [The Painter](https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu) | 3:31 |
 | 50 | [Son Of A Sinner](https://open.spotify.com/track/25VQoiuyc0HkC5FQTj1a8G) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads Of The Broken](https://open.spotify.com/album/4aWPCLZWr9gG0ucLIMJavx) | 3:52 |
 
-Snapshot ID: `MCw2ZjExY2M4YWE0MjA3NWZhMjE2ODdmYWQwZWRkYjkwM2M0YzU1ZGU1`
+Snapshot ID: `MCwzNDY4YzQyNzEyNjY4MWNhMGIwZTBjMjlkOWZjOTAxOTViZGQyZDE1`

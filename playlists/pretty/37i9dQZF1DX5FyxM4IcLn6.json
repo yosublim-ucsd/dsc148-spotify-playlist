@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 125367,
+  "num_followers": 125365,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzdmNDZiZDcyYzcwMTA2MGE0Y2RjMDhiNTQzYzQ4ODIzYWRjMjZl",
+  "snapshot_id": "MCwxZmQzMjcwYzkyYTQ1YTUxODgwYzcwODczNTYxMzZjMTJkY2U1MmZk",
   "tracks": [
     {
       "added_at": "2023-02-07 01:47:20",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-02-07 01:47:20",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+    },
+    {
+      "added_at": "2023-02-07 01:47:20",
+      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "added_at": "2023-02-07 01:47:20",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "added_at": "2023-02-07 01:47:20",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-02-07 01:47:20",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 245939,
+      "name": "Moscow Mule",
+      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
+    },
+    {
+      "added_at": "2023-02-07 01:47:20",
+      "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2023-02-07 01:47:20",
       "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
-    },
-    {
-      "added_at": "2023-02-07 01:47:20",
-      "album": {
         "name": "Bam Bam (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
+    },
+    {
+      "added_at": "2023-02-07 01:47:20",
+      "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
       "added_at": "2023-02-07 01:47:20",
@@ -539,22 +555,6 @@
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
-    },
-    {
-      "added_at": "2023-02-07 01:47:20",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 245939,
-      "name": "Moscow Mule",
-      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
     },
     {
       "added_at": "2023-02-07 01:47:20",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-02-07 01:47:20",
       "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 187388,
-      "name": "Certainty",
-      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
-    },
-    {
-      "added_at": "2023-02-07 01:47:20",
-      "album": {
         "name": "Holy Forever",
         "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 308066,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
+    },
+    {
+      "added_at": "2023-02-07 01:47:20",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 187388,
+      "name": "Certainty",
+      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
     },
     {
       "added_at": "2023-02-07 01:47:20",
@@ -983,26 +983,6 @@
     {
       "added_at": "2023-02-07 01:47:20",
       "album": {
-        "name": "Don't Forget My Love",
-        "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Don't Forget My Love",
-      "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
-    },
-    {
-      "added_at": "2023-02-07 01:47:20",
-      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 565833,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
+    },
+    {
+      "added_at": "2023-02-07 01:47:20",
+      "album": {
+        "name": "Don't Forget My Love",
+        "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Don't Forget My Love",
+      "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
     },
     {
       "added_at": "2023-02-07 01:47:20",
@@ -1143,38 +1143,6 @@
     {
       "added_at": "2023-02-07 01:47:20",
       "album": {
-        "name": "I Don\u2019t Live Here Anymore",
-        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 386346,
-      "name": "Harmonia's Dream",
-      "url": "https://open.spotify.com/track/4Qzx5fRypU4q1wEaYwHpnr"
-    },
-    {
-      "added_at": "2023-02-07 01:47:20",
-      "album": {
-        "name": "Linger Awhile",
-        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 222401,
-      "name": "Can't Get Out Of This Mood",
-      "url": "https://open.spotify.com/track/7ekSJz0V4gXbrPndFAhLye"
-    },
-    {
-      "added_at": "2023-02-07 01:47:20",
-      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -1199,6 +1167,38 @@
       "duration_ms": 625062,
       "name": "Fear Is Not My Future (feat. Brandon Lake)",
       "url": "https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr"
+    },
+    {
+      "added_at": "2023-02-07 01:47:20",
+      "album": {
+        "name": "Linger Awhile",
+        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 222401,
+      "name": "Can't Get Out Of This Mood",
+      "url": "https://open.spotify.com/track/7ekSJz0V4gXbrPndFAhLye"
+    },
+    {
+      "added_at": "2023-02-07 01:47:20",
+      "album": {
+        "name": "I Don\u2019t Live Here Anymore",
+        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 386346,
+      "name": "Harmonia's Dream",
+      "url": "https://open.spotify.com/track/4Qzx5fRypU4q1wEaYwHpnr"
     },
     {
       "added_at": "2023-02-07 01:47:20",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-02-07 01:47:20",
       "album": {
+        "name": "When I Pray",
+        "url": "https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 221915,
+      "name": "When I Pray",
+      "url": "https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt"
+    },
+    {
+      "added_at": "2023-02-07 01:47:20",
+      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
-    },
-    {
-      "added_at": "2023-02-07 01:47:20",
-      "album": {
-        "name": "When I Pray",
-        "url": "https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 221915,
-      "name": "When I Pray",
-      "url": "https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt"
     },
     {
       "added_at": "2023-02-07 01:47:20",

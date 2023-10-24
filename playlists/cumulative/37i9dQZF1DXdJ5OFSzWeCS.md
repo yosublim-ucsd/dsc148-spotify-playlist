@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-584 songs - 17 hr 28 min
+589 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Brahms Vaggvisa](https://open.spotify.com/track/15q1SJ8WqdYkUZGX2PBltu) | [Roy Söderlund](https://open.spotify.com/artist/7KEsz1mNNgvyjdgjzAtW34) | [Brahms Vaggvisa](https://open.spotify.com/album/6zEQShTq3MmGrN9oIC86vQ) | 1:54 | 2022-09-02 |  |
 | [Breathing](https://open.spotify.com/track/4QCKiWC9Q2IMiASCzlAXPv) | [Sandra Forster](https://open.spotify.com/artist/3TLHL40IaEycdPNoxTqK3a) | [Breathing](https://open.spotify.com/album/4O1Q00FDVBKrb7Gw9sbmWe) | 1:34 | 2023-08-10 |  |
 | [Breezy Lane](https://open.spotify.com/track/2Y41IwEydQrdzrcWiLGLn7) | [Rebecca Saylor](https://open.spotify.com/artist/3TsSACF1ONolmTjD3AEXVX) | [Start the Stars](https://open.spotify.com/album/5sldwHUZsGj7uwoA3nzh44) | 1:56 | 2022-02-10 | 2023-09-09 |
+| [Brother John](https://open.spotify.com/track/1oke7KQOl3qlW7PPRq0oF4) | [April Ball](https://open.spotify.com/artist/2GUsnUd4hKTZUWYSXKMLae) | [Brother John](https://open.spotify.com/album/0Ezi1LTWkJHw3jeFLa4gWa) | 1:48 | 2023-10-20 |  |
 | [Buddy Bunny](https://open.spotify.com/track/2w74bukk70ZMQtOTAYt6nw) | [Sue Rafaela](https://open.spotify.com/artist/6YDhd35GwfO967U1dtYxHa) | [Buddy Bunny](https://open.spotify.com/album/69aBnIu18ZPC1bP3rvFry7) | 2:18 | 2022-02-10 | 2023-05-12 |
 | [Butterflies at the Window](https://open.spotify.com/track/6WvEYYOfRDe005lOIUKiRz) | [Tom Tilly](https://open.spotify.com/artist/7HPp7WF50ubbdWOHeWqhuc) | [Believe in the Moon](https://open.spotify.com/album/35CSrtpigvrlVKRqgx0Wt7) | 1:38 | 2022-02-10 | 2023-01-13 |
 | [Butterflies In My Stomach](https://open.spotify.com/track/2Zvf5qCoore4Sx9NjpEMDu) | [Bernice Stanford](https://open.spotify.com/artist/2g1Hf5dYttt4q2xm9131Qo) | [Butterflies In My Stomach](https://open.spotify.com/album/7Fo0wT9KJBOPqn7xpzn4sL) | 2:09 | 2022-02-10 |  |
@@ -101,7 +102,7 @@
 | [Calm Comfort](https://open.spotify.com/track/5d6jUDRtXiPOWR4whP2TeK) | [Miso Miso](https://open.spotify.com/artist/7yN9ZD8Kb1D8yt5LWTz4yD) | [Calm Comfort](https://open.spotify.com/album/5KSDOIDI5EEqfjss6vPZ2f) | 3:11 | 2022-02-10 | 2022-10-29 |
 | [Calm Sleep](https://open.spotify.com/track/2qgahPCEqNBdm5NbwkDAOg) | [Poppy Penguin](https://open.spotify.com/artist/70lc84qIQU7cNBmLtOQrt3) | [Calm Sleep](https://open.spotify.com/album/0fo0yoW8CMrleEuMmhDrCw) | 1:32 | 2023-05-12 |  |
 | [Can I Tell You A Secret?](https://open.spotify.com/track/3rGQCq9JFcEHsYkOExmt5R) | [Margeret Lester](https://open.spotify.com/artist/0Sq9dQ0aNHxORRb8uJiwrW) | [Can I Tell You A Secret?](https://open.spotify.com/album/3txpHDpFOgl7jHFMWkEjQm) | 2:59 | 2022-02-10 | 2022-09-23 |
-| [Can You Feel The Love Tonight](https://open.spotify.com/track/6cqW515aoleN8m91ciwZ5S) | [Wallis Lucian](https://open.spotify.com/artist/1Or9KeOiV1t9RBflmBEJKY) | [Can You Feel The Love Tonight](https://open.spotify.com/album/60ce9m4ExUhmNMzrjObe9A) | 2:19 | 2022-02-10 |  |
+| [Can You Feel The Love Tonight](https://open.spotify.com/track/6cqW515aoleN8m91ciwZ5S) | [Wallis Lucian](https://open.spotify.com/artist/1Or9KeOiV1t9RBflmBEJKY) | [Can You Feel The Love Tonight](https://open.spotify.com/album/60ce9m4ExUhmNMzrjObe9A) | 2:19 | 2022-02-10 | 2023-10-24 |
 | [Carousel Song](https://open.spotify.com/track/7Dj72t41W0iwmIBccjmuij) | [Lullaby Panda](https://open.spotify.com/artist/4snCdKvo0v65k09GXhOO9R) | [Carousel Song](https://open.spotify.com/album/6HJOfS5AslTswPheCLFm4r) | 2:29 | 2022-07-29 | 2023-06-23 |
 | [Caterpillar](https://open.spotify.com/track/07vy6BJFMk6PBBG9Nap8Xd) | [Miso Miso](https://open.spotify.com/artist/7yN9ZD8Kb1D8yt5LWTz4yD) | [Bumblebee](https://open.spotify.com/album/1TfjkMXApV7f5j2yYJtM5B) | 2:28 | 2022-09-22 |  |
 | [Children's song](https://open.spotify.com/track/1pnAa2nKBeG005ypwBGGb7) | [Beverly Eldon](https://open.spotify.com/artist/06BB8F56CNXYbq4Cd1Lttv) | [Children's song](https://open.spotify.com/album/2tPEtXxHqmX54mPlpaDyQI) | 1:20 | 2022-02-10 | 2022-10-29 |
@@ -267,6 +268,7 @@
 | [Itsy Bitsy Spider](https://open.spotify.com/track/2Tp0gVMGxB3s23g8dScJes) | [Kai Francis](https://open.spotify.com/artist/7AMBpuyTV9bPqWhFVFE5e0) | [Itsy Bitsy Spider](https://open.spotify.com/album/0TCJggJbNemEyLDEEYxygm) | 1:16 | 2022-02-10 |  |
 | [Jag hamrar och spikar](https://open.spotify.com/track/1RyQp87YG9thnWamzRjsaa) | [Mia Sander](https://open.spotify.com/artist/0LnIcNhu7arRU9zzbCuYA7) | [Jag hamrar och spikar](https://open.spotify.com/album/11G3dOC1O5kIfJw6XrOVoQ) | 1:08 | 2023-02-10 |  |
 | [Jett's Plane](https://open.spotify.com/track/1XOcP7P9TACSIVG0CXmL8F) | [Joseph Benning](https://open.spotify.com/artist/71HPZYBaN0mpPmy1qeaE6d) | [Jett's Plane](https://open.spotify.com/album/2HzdAD4D7Ds1jYPvAK1Vuq) | 1:55 | 2022-02-10 |  |
+| [John Brown's Song](https://open.spotify.com/track/2V9YbhqLsxC7Llpb6e1CS7) | [Claire Pasteur](https://open.spotify.com/artist/6uxwKpyg4gLxdvZIWzBrDy) | [John Brown's Song](https://open.spotify.com/album/6SecsP3G8PkZ8STwhLpdbB) | 1:51 | 2023-10-20 |  |
 | [John Jacob Jingleheimer Schmidt](https://open.spotify.com/track/7lZchqGAL8PHAg2ejkGeYG) | [Melanie Peters](https://open.spotify.com/artist/2xuGQvF3z0rrsgxZVM0D0S) | [John Jacob Jingleheimer Schmidt](https://open.spotify.com/album/0nFZ4ryJUrrf4bbIDFAN1I) | 1:42 | 2022-02-10 | 2022-10-29 |
 | [Junto Contigo](https://open.spotify.com/track/3Zs8I69FxacZYhKOjgAhHt) | [Nannie Villegas](https://open.spotify.com/artist/5sjdqGVROt3sdrSTPg79yg) | [Junto Contigo](https://open.spotify.com/album/3kkFgjTEJrlpPqYwmwV55I) | 2:05 | 2022-02-10 | 2023-04-07 |
 | [Just a Little Dream](https://open.spotify.com/track/0YbzNPaLUDCVW8pUNUhByv) | [Carol Barron](https://open.spotify.com/artist/1VRIGqmkeKK6BzSDlbIvQY) | [Just a Little Dream](https://open.spotify.com/album/1kUhV0mjo1Y0GuF5LE7JAe) | 1:26 | 2022-02-10 |  |
@@ -298,6 +300,7 @@
 | [Little Brother](https://open.spotify.com/track/1QMroXKRoMZQEXVZTpViVM) | [Cora Reiling](https://open.spotify.com/artist/5LRKGG5C5HFerUMllPHfe8) | [Little Brother](https://open.spotify.com/album/5zKDf9QA8OOyoFJg0awiG5) | 1:43 | 2022-02-10 | 2022-12-24 |
 | [Little Cat](https://open.spotify.com/track/1080yvoZTJD8OuzGMshUGY) | [Sandy Mann](https://open.spotify.com/artist/4U0WeDTmYxws8KvdlCCV1a) | [Little Cat](https://open.spotify.com/album/0X3ifRzEJLrB4OwtW5FdVY) | 1:25 | 2022-12-23 |  |
 | [Little George](https://open.spotify.com/track/2FQzlc7Ce8DRqJJXaoB9Yg) | [Thora Nelson](https://open.spotify.com/artist/32SpgZv8WZjxnzitTsP6R3) | [Little George](https://open.spotify.com/album/6MAEf2HE0oXGtnxmHRcXzh) | 1:57 | 2022-02-10 | 2023-01-13 |
+| [Little Juniper Tree](https://open.spotify.com/track/73LIz9HyLLfU1KsSSI3Xjm) | [Klara Söderman](https://open.spotify.com/artist/3M4QRATGYND6tUfBYU0Qyt) | [Little Juniper Tree](https://open.spotify.com/album/1F0uOct26s41A46zw0jwom) | 1:01 | 2023-10-20 |  |
 | [Little Miss Muffet](https://open.spotify.com/track/6dX1fMyirxr0U87dlGMbRK) | [Selma June](https://open.spotify.com/artist/2f08UC5AufQFaVZi8r6V91) | [I'm A Little Teapot](https://open.spotify.com/album/2CB5tQ4QOHZ67YFdbU4zNd) | 1:47 | 2022-12-23 | 2023-03-18 |
 | [Little Pumpkin](https://open.spotify.com/track/3iGlQlJgDCtFmRjkJXlQ3L) | [Rio Harris](https://open.spotify.com/artist/4YhneMQhRMaouol2rVzMzs) | [Little Pumpkin](https://open.spotify.com/album/3ajzh5uRcgyStZwfsQHtwI) | 1:35 | 2022-05-16 | 2023-04-07 |
 | [Little Sleepyhead](https://open.spotify.com/track/35WKM8YZBabLU6hJm82cCc) | [Laura Olejnik](https://open.spotify.com/artist/510b8N0CM4dvQR311fMOOP) | [Little Sleepyhead](https://open.spotify.com/album/1rcLCOZCv6KtWzEUKlbnTk) | 1:53 | 2023-03-17 | 2023-09-26 |
@@ -351,7 +354,7 @@
 | [Mój Anioł](https://open.spotify.com/track/6vuyQpRo2hobQiVXfYrhBl) | [Jolanda Novak](https://open.spotify.com/artist/12Jx6Bt5MqHJS4AtWJl6JB) | [Mój Anioł](https://open.spotify.com/album/5DjpUSAvFfIwZcuNWNHwbf) | 1:37 | 2022-02-10 | 2022-07-01 |
 | [Mr\. Cat](https://open.spotify.com/track/4eIZdb7KkPKcXhmWimNTE1) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Mr\. Cat](https://open.spotify.com/album/2wzOOWuEcaYrpkLQWX3bMy) | 2:00 | 2022-02-10 | 2023-01-13 |
 | [Mu süda](https://open.spotify.com/track/0OkSBhsiWFlTWhYUKl82wW) | [Sofia Ilves](https://open.spotify.com/artist/6uzwRsbAQINtnVfKKIbEs7) | [Mu süda](https://open.spotify.com/album/0KkduWEiqKw7kkMqQQz63j) | 1:38 | 2022-02-10 |  |
-| [Mulberry Bush](https://open.spotify.com/track/2RoP68As4FinolmU7t9dx4) | [Lily Hodges](https://open.spotify.com/artist/4NNYjQ7N1R7TTNtcfTq8MS) | [Mister Sun](https://open.spotify.com/album/5NMgj4HmX7cJ3JWa7IFnLp) | 1:07 | 2022-07-29 |  |
+| [Mulberry Bush](https://open.spotify.com/track/2RoP68As4FinolmU7t9dx4) | [Lily Hodges](https://open.spotify.com/artist/4NNYjQ7N1R7TTNtcfTq8MS) | [Mister Sun](https://open.spotify.com/album/5NMgj4HmX7cJ3JWa7IFnLp) | 1:07 | 2022-07-29 | 2023-10-24 |
 | [My Best Friend](https://open.spotify.com/track/3Pjr6fXxRACoqhYLJYMFAm) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [My Best Friend](https://open.spotify.com/album/08eD65rw3Zz8t7MpZdImn0) | 2:01 | 2022-09-02 |  |
 | [My Bonnie](https://open.spotify.com/track/7x0fGEkhYCC91G8bUjE5BA) | [Emily McQueen](https://open.spotify.com/artist/0khalqPDXKHMDan1ntiuiw) | [My Bonnie](https://open.spotify.com/album/1qfOQ6KkwYh3TXZ4idE7nR) | 2:37 | 2022-11-25 |  |
 | [My Deer Friend](https://open.spotify.com/track/49EEQXTPYcKUeoBbXXCtcd) | [Ani Ander](https://open.spotify.com/artist/4tgweMpFuTmUl1mXLTgb4W) | [My Deer Friend](https://open.spotify.com/album/41qgkgJTMGPgJsSGfKQWOE) | 1:53 | 2023-08-10 |  |
@@ -389,6 +392,7 @@
 | [O Mio Bambino Caro](https://open.spotify.com/track/50SWjq7hM9mHBI1sw3Ffzm) | [Manny Michaels](https://open.spotify.com/artist/7ahYIRaeY5SSfYkSq8jmZ8) | [Sleepless Cure](https://open.spotify.com/album/4YeEfXzCKEinOarIXn6Sbb) | 2:46 | 2022-02-10 | 2022-05-17 |
 | [Ocean Lullaby](https://open.spotify.com/track/0n1Q3owF4MjejYHI95LjHU) | [Myrna Maguire](https://open.spotify.com/artist/0Hfs99lRGuzu8SRwQ0qWrB) | [Ocean Lullaby](https://open.spotify.com/album/1adRvl9STHysdmmtpGMxPN) | 1:53 | 2022-02-10 | 2023-02-10 |
 | [Ode To Joy](https://open.spotify.com/track/6WjN7RnFRQLRbWxaInD0yr) | [Mauve Dream](https://open.spotify.com/artist/5qAdQ8ZpVTZAA0M3xEExBE) | [One Finger One Thumb](https://open.spotify.com/album/7MPA2j9lkjIDITSkNHOUl2) | 1:29 | 2022-12-23 |  |
+| [Off To Neverland](https://open.spotify.com/track/7vmFAq28mL1vKnhffypkrC) | [Jim Fauer](https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG) | [Off To Neverland](https://open.spotify.com/album/26VfqQhvyNkkBWsRtP8u7S) | 1:54 | 2023-10-20 |  |
 | [Oh Dear! What Can the Matter Be?](https://open.spotify.com/track/3Ozjemz1YafnKgcjE0WWLL) | [Rita James](https://open.spotify.com/artist/1RvUEvUmNBz3SouH9hSzXK) | [Oh Dear! What Can the Matter Be?](https://open.spotify.com/album/0peN7BB75NgNr1AOZP2Gmj) | 1:48 | 2022-06-30 |  |
 | [Oh Where, Oh Where Has My Little Dog Gone](https://open.spotify.com/track/2aEw7nghP2iiHroWPNnbi2) | [Rita James](https://open.spotify.com/artist/1RvUEvUmNBz3SouH9hSzXK) | [Oh Dear! What Can the Matter Be?](https://open.spotify.com/album/0peN7BB75NgNr1AOZP2Gmj) | 1:38 | 2022-07-29 |  |
 | [Old Macdonald Had A Farm](https://open.spotify.com/track/75apuD4FSexqsVIVE6czFc) | [Maverick Selby](https://open.spotify.com/artist/70qivo8pTGpQqrjHgWYvqO) | [Old Macdonald Had A Farm](https://open.spotify.com/album/2EGM0gLcMaipzCOQLx7Jg3) | 1:38 | 2022-02-10 |  |
@@ -565,6 +569,7 @@
 | [Walt the Windmill](https://open.spotify.com/track/4l8NnW6grz6GYE7HNLzTFV) | [Lilly Bear](https://open.spotify.com/artist/3JlR3VCnC7Ma0pICaXZKLT) | [Penny Piano](https://open.spotify.com/album/4JOdx95C6tLgaC4iJs68N5) | 2:46 | 2022-02-10 | 2022-10-29 |
 | [Warm Breeze](https://open.spotify.com/track/2By5z0SpEoqzQ6sslvZWfp) | [Lily Lullaby](https://open.spotify.com/artist/59q70buEf9vwjspG2sNLET) | [Warm Breeze](https://open.spotify.com/album/31SAPV5z9PJ8SZqru2yGFf) | 1:33 | 2023-08-10 | 2023-09-26 |
 | [Warm Calm Bed](https://open.spotify.com/track/78dU1gM1haK1t75PB9pgaJ) | [Hartley Peter](https://open.spotify.com/artist/0wuQZyVvfkgYcB6o2lkT9v) | [Warm Calm Bed](https://open.spotify.com/album/6BVjIAKfRRvbk19vJFkgAR) | 1:29 | 2023-02-10 |  |
+| [Warm Milk](https://open.spotify.com/track/0L2o3G1JJfzDd6PWjZn6F2) | [Fraire Jaques](https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI) | [Warm Milk](https://open.spotify.com/album/76HAoSan8BRJWIteFhzh0h) | 3:10 | 2023-10-20 |  |
 | [We Are Three Musicians](https://open.spotify.com/track/6M0tKLVH56wlV7WEo9bgf1) | [Anton Bruch](https://open.spotify.com/artist/7zT8gDSxsr4jwMiv2gCqIs) | [We Are Three Musicians](https://open.spotify.com/album/1ststXxX5u4D6FXKAAEZMa) | 1:07 | 2023-08-31 |  |
 | [We'll Play Again Tomorrow](https://open.spotify.com/track/2mlIe6mQ6PT105w0sFsAuX) | [Amos Green](https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY) | [We'll Play Again Tomorrow](https://open.spotify.com/album/2Q9YW7Bn3rffxLvoUgzRh3) | 1:34 | 2022-04-25 |  |
 | [Whatever Happens](https://open.spotify.com/track/2gAfWIJA9wcWEDy6BmTosY) | [Cosima Bradley](https://open.spotify.com/artist/6l8VqzILTHqmDJfISU6bPg) | [Whatever Happens](https://open.spotify.com/album/4B6EdTLWq7HQm56bVX5ocU) | 1:19 | 2023-10-06 |  |

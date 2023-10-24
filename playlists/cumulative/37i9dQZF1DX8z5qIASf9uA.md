@@ -4,7 +4,7 @@
 
 > Honramos la memoria de las leyendas de nuestra Música Mexicana\. Jenni Rivera en portada.
 
-94 songs - 5 hr 20 min
+95 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,12 +19,12 @@
 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 | 2021-11-24 |  |
 | [Bésame Morenita](https://open.spotify.com/track/5sUsur7KIwd3KQJzI1XqMi) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Te Vengo A Ver..\. Con Banda Sinaloense](https://open.spotify.com/album/1Q509CJBSRfYQeJ9lqZ0P4) | 2:31 | 2023-07-11 |  |
 | [Cada Quien](https://open.spotify.com/track/3T6M9C9eOTSeGyDFVbV8uN) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:07 | 2023-02-24 | 2023-04-11 |
-| [Caja de Muerte](https://open.spotify.com/track/5XpEpxGo0ejjR84KvIleV0) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69) | [20 Exitos Querido Amigo](https://open.spotify.com/album/1Eefry3zt4cvMqj2EXktCa) | 3:31 | 2021-11-24 | 2023-02-17 |
+| [Caja de Muerte](https://open.spotify.com/track/5XpEpxGo0ejjR84KvIleV0) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69) | [20 Exitos Querido Amigo](https://open.spotify.com/album/1Eefry3zt4cvMqj2EXktCa) | 3:31 | 2021-11-24 |  |
 | [Como La Flor \- Remastered](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 | 2021-11-24 |  |
 | [Cosas Del Diablo](https://open.spotify.com/track/5AWc1V5Tou8j8lF9ngc3cg) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [20 Canciones Banda y Norteno](https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt) | 3:15 | 2021-11-24 |  |
 | [Costumbres](https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 4:32 | 2021-11-24 |  |
 | [Cuando el Sol Salga Al Revés](https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Cuando El Sol Salga Al Revés](https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa) | 3:07 | 2021-11-24 |  |
-| [Cuatro Cirios](https://open.spotify.com/track/27fFEQ1xSjRaSPJ4JUPDg7) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Los Boleros Morunos Solis](https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq) | 2:47 | 2021-11-24 |  |
+| [Cuatro Cirios](https://open.spotify.com/track/27fFEQ1xSjRaSPJ4JUPDg7) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Los Boleros Morunos Solis](https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq) | 2:47 | 2021-11-24 | 2023-10-24 |
 | [Cómo Pude Enamorarme De Ti](https://open.spotify.com/track/0A4lH5fAqNuLCSOYA3Bp7V) | [Patrulla 81](https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN) | [Como Pude Enamorarme De Ti](https://open.spotify.com/album/4kPZh0MgavSWBIr1LXgBQU) | 2:11 | 2021-11-24 |  |
 | [Dama Divina](https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:36 | 2023-02-24 | 2023-04-11 |
 | [Dueño de Ti](https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 3:40 | 2021-11-24 |  |
@@ -62,7 +62,7 @@
 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 | 2021-11-24 |  |
 | [Me Gustas Mucho](https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:04 | 2021-11-24 |  |
 | [Media Vuelta](https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Boleros\-Boleros\-Bole](https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl) | 2:11 | 2021-11-24 |  |
-| [Mi Credo](https://open.spotify.com/track/6bAlfC82cMGBV42KaROje8) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Más Capaces Que Nunca](https://open.spotify.com/album/3nfwzm26fjNgYKHHUBcdAM) | 3:02 | 2021-11-24 |  |
+| [Mi Credo](https://open.spotify.com/track/6bAlfC82cMGBV42KaROje8) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Más Capaces Que Nunca](https://open.spotify.com/album/3nfwzm26fjNgYKHHUBcdAM) | 3:02 | 2021-11-24 | 2023-10-24 |
 | [Mi Destino Fue Quererte](https://open.spotify.com/track/2kBbwQgrKtdMLxcU5smeki) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [15 Éxitos](https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg) | 3:30 | 2021-11-24 |  |
 | [Millonario De Amor](https://open.spotify.com/track/7LCymER3kimMSSMBnuyEub) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 3:42 | 2021-11-24 |  |
 | [Misión Cumplida](https://open.spotify.com/track/4LMQxOMgUPlugjBlfp2ZK6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Misión Cumplida](https://open.spotify.com/album/0uQRZ1SvseWfRuu5kl14hc) | 3:11 | 2022-12-09 | 2023-02-25 |
@@ -99,6 +99,7 @@
 | [Volveré \(Tornero\)](https://open.spotify.com/track/3OpUzRY4MNYo3RtmNIhb8s) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Los Súper Éxitos](https://open.spotify.com/album/1zew7ZgJGk5PElzwUAsTgG) | 3:24 | 2021-11-24 |  |
 | [Y Aquí Estoy](https://open.spotify.com/track/2fKimbKY2cu68b63kYODbB) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359), [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Conquistando Corazones](https://open.spotify.com/album/2sVo3Q8BIKVwRtgplt6YYP) | 3:44 | 2021-11-24 |  |
 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 | 2021-11-24 |  |
+| [Yo la Quería para Mi](https://open.spotify.com/track/6JRJhfBSAGgQKXkXsTH4b0) | [Jerry Demara](https://open.spotify.com/artist/4fo4CVWELgeLeKwqzJqdY7) | [Brindemos](https://open.spotify.com/album/1qdf86Qo4CCnxyCJn8JbGs) | 3:27 | 2023-10-17 |  |
 | [Yo Quisiera Entrar](https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:42 | 2021-11-24 |  |
 | [Yo sería](https://open.spotify.com/track/61vBr1IQfCxXiVBVT1w4us) | [Julian Figueroa](https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m) | [Yo sería](https://open.spotify.com/album/6YSpbbCORCR6esUsg74rlf) | 2:58 | 2023-04-10 | 2023-07-12 |
 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:02 | 2021-11-24 |  |

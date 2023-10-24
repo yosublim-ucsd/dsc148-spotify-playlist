@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 233839,
+  "num_followers": 234393,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDY5ZjY3NDM1MDM0MzNhMDdhZjVmZjMyYTdlN2ZlYTljZDY4OGVk",
+  "snapshot_id": "MCxkNWY4OTE5YTIxODE5NTQ1NjE4M2VlYjVhMDA3OWNhOGI5Mjg5Nzk3",
   "tracks": [
     {
       "added_at": "2023-10-13 08:11:02",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
-        "name": "Formula EP",
-        "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 433971,
-      "name": "Doppler",
-      "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
         "name": "We Control",
         "url": "https://open.spotify.com/album/60rhOCClApo0duvJbe2A18"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 206625,
       "name": "We Control",
       "url": "https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
+        "name": "Formula EP",
+        "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 433971,
+      "name": "Doppler",
+      "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
+        "name": "Colonia EP",
+        "url": "https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "Colonia",
+      "url": "https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/5PrEi7aLxDosgWfIa3eegg"
       },
@@ -507,22 +523,6 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
-        "name": "Colonia EP",
-        "url": "https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Colonia",
-      "url": "https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
         "name": "Bells of Notre Dame",
         "url": "https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
-        "name": "Club Vibes Part 05",
-        "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 485760,
-      "name": "Black Unicorn",
-      "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3CBJ2fnrJfyp5UnrIt6Wvw"
       },
@@ -567,6 +551,42 @@
       "duration_ms": 408669,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1STyRAWBlr18jm9aRBVrqE"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
+        "name": "The Seduction EP",
+        "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Seduction",
+      "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
+        "name": "Club Vibes Part 05",
+        "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 485760,
+      "name": "Black Unicorn",
+      "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -603,26 +623,6 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
-        "name": "The Seduction EP",
-        "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Olly James",
-          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Seduction",
-      "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
         "name": "Injection (Original Mix)",
         "url": "https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 421846,
       "name": "Injection - Original Mix",
       "url": "https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 220488,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -695,22 +711,6 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 220488,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
         "name": "We Control",
         "url": "https://open.spotify.com/album/2dWojT5wPowGSARgpHAENj"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
-      },
-      "artists": [
-        {
-          "name": "Felix Kr\u00f6cher",
-          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
-        }
-      ],
-      "duration_ms": 271729,
-      "name": "Affection - Radio Edit",
-      "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
         "name": "Flying Octopus",
         "url": "https://open.spotify.com/album/5My1BEqn9HJ2ig4pDlsZ0m"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 211617,
       "name": "Flying Octopus",
       "url": "https://open.spotify.com/track/0n2jPpNThUiLaf39k1Jfz7"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
+      },
+      "artists": [
+        {
+          "name": "Felix Kr\u00f6cher",
+          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+        }
+      ],
+      "duration_ms": 271729,
+      "name": "Affection - Radio Edit",
+      "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
     },
     {
       "added_at": "2023-10-13 08:11:02",

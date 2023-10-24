@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,635 songs - 2 day 14 hr 4 min
+1,636 songs - 2 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,6 +698,7 @@
 | [In The Deep](https://open.spotify.com/track/57NUJvvaolgDOw4DwumiDN) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [In The Deep](https://open.spotify.com/album/780tID6S852uS2Bo2s3qWz) | 2:06 | 2022-04-15 | 2022-11-12 |
 | [in the mood](https://open.spotify.com/track/3kodK5rNUxTV3eG7opjFEA) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [in the mood](https://open.spotify.com/album/43Rd81GVbTlTaFTPA2rzSR) | 2:07 | 2022-12-02 | 2023-04-21 |
 | [In The Now](https://open.spotify.com/track/1HNdxZPy022HHL0leTB3sR) | [2 Liter](https://open.spotify.com/artist/13FWCiQOR1emUlfK9wN9FM) | [In The Now](https://open.spotify.com/album/5lu1YNBvZkApFwJfJSXLs5) | 2:19 | 2022-09-09 | 2023-03-25 |
+| [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 | 2023-10-20 |  |
 | [Indigo](https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Indigo](https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair) | 2:14 | 2023-09-22 |  |
 | [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 | 2023-09-22 |  |
 | [inomhus](https://open.spotify.com/track/3K5QUVmUCm5BEc3pc8Apit) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [inomhus](https://open.spotify.com/album/2X4RjOlFofB0xTIOMGrwgi) | 2:43 | 2022-07-29 | 2022-10-29 |
@@ -917,7 +918,7 @@
 | [miss u](https://open.spotify.com/track/6N5gXsOkGnUSA4Q7mmXrfx) | [Samu Rai](https://open.spotify.com/artist/7fJdohGW8ELBvPXnETK4Um) | [shinjuku station](https://open.spotify.com/album/1tZMflXbwcZ8T2OL8kwQLE) | 2:22 | 2023-02-21 |  |
 | [Missing You](https://open.spotify.com/track/0IhDHRbFUfg3MaG1iQUClb) | [Tru Beri](https://open.spotify.com/artist/5ycHMRtAIjlIQ2P5NMvI5k) | [Missing You](https://open.spotify.com/album/3qjbuBW6voCrKP8N2xvqGQ) | 1:36 | 2022-04-15 | 2022-10-14 |
 | [Mist](https://open.spotify.com/track/20PI4A6FMkxYnNESr4pF6p) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [Mist](https://open.spotify.com/album/0lvAkLDRDZgi2CntWtw0TI) | 2:57 | 2022-11-25 | 2023-04-21 |
-| [Mistle](https://open.spotify.com/track/09F4NbaDx67AaQdukx5tIw) | [furozun](https://open.spotify.com/artist/5voSeB7AkXaFy0akWb5w3U) | [Mistle](https://open.spotify.com/album/7AdlNag6CqJMNTTpHsqsVs) | 2:16 | 2022-10-07 |  |
+| [Mistle](https://open.spotify.com/track/09F4NbaDx67AaQdukx5tIw) | [furozun](https://open.spotify.com/artist/5voSeB7AkXaFy0akWb5w3U) | [Mistle](https://open.spotify.com/album/7AdlNag6CqJMNTTpHsqsVs) | 2:16 | 2022-10-07 | 2023-10-24 |
 | [Mistletoe](https://open.spotify.com/track/6QA4PFuLTaHGlcakQuEQ1h) | [wake deprived](https://open.spotify.com/artist/7GjL7O7YHh0GpFqxacW7xP) | [Mistletoe](https://open.spotify.com/album/5oOCRsrE5ws6J1cLCLDUSP) | 2:01 | 2023-04-20 | 2023-10-06 |
 | [Misty Woods](https://open.spotify.com/track/0pPlRossaqIMFOkLtwg5XI) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Misty Woods](https://open.spotify.com/album/0vDPVK064wZnWv3nMToFf2) | 2:02 | 2023-08-31 |  |
 | [miyu](https://open.spotify.com/track/5Manub8VP5SyKpJ9kcKSTD) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [ambassing](https://open.spotify.com/album/7dTO5q5UVSUOZh7YKwCWvC) | 2:14 | 2022-04-15 | 2022-09-17 |
@@ -1311,7 +1312,7 @@
 | [Soft Light](https://open.spotify.com/track/2Wsb2fbA8no8F1Xe6BJiTT) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Soft Light](https://open.spotify.com/album/5FtyeuqHAhq5wLfKZ8TFD5) | 2:38 | 2023-04-20 |  |
 | [Soft Slap](https://open.spotify.com/track/3umoNiC2gyJ4oaGj7t74Zk) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Soft Slap](https://open.spotify.com/album/4KZNYiyOffr0ugdRRcgFMK) | 4:03 | 2022-04-15 | 2022-05-27 |
 | [Softly Spoken](https://open.spotify.com/track/2MUyfYFjFfoHmQ1LnsNOU0) | [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77), [floridomi](https://open.spotify.com/artist/4I3pwCrFsOXd1laaCNzziZ), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Softly Spoken](https://open.spotify.com/album/0SBcRk7L26ySFBEMYWujkB) | 2:12 | 2022-12-02 | 2023-09-16 |
-| [Softly Whispering](https://open.spotify.com/track/6CVpyt67DY1JwuR8prqPmP) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Softly Whispering](https://open.spotify.com/album/100YLSEn3RzaqIyNKQzEk3) | 3:07 | 2023-10-20 | 2023-10-23 |
+| [Softly Whispering](https://open.spotify.com/track/6CVpyt67DY1JwuR8prqPmP) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Softly Whispering](https://open.spotify.com/album/100YLSEn3RzaqIyNKQzEk3) | 3:07 | 2023-10-20 |  |
 | [Solar](https://open.spotify.com/track/0HlH9RWqLzlop5jeuNVlxV) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Solar](https://open.spotify.com/album/3Ffecx6cyJhztdHVkBs4nr) | 2:35 | 2023-01-20 | 2023-09-22 |
 | [solar power](https://open.spotify.com/track/5yD3bPDztGiHCicBLyeI8w) | [titicon](https://open.spotify.com/artist/5v5Qkgl02bizOecA6OY7p3) | [supernova beats \#1](https://open.spotify.com/album/0C7D11HuXwMTRj03jIdwhn) | 1:25 | 2022-04-15 | 2022-07-15 |
 | [Solutions](https://open.spotify.com/track/09o5eBgKfrfXh6JZBd5S6I) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t) | [Cold Nights](https://open.spotify.com/album/0rwTZ7187ULO6YpLEDGSsf) | 1:46 | 2023-04-20 |  |
@@ -1627,7 +1628,7 @@
 | [Workit](https://open.spotify.com/track/7GmA2dTy4r4MPxenVVDzMy) | [Netta Inn](https://open.spotify.com/artist/7lF2gpQHWssOuxR1kipNsn) | [Workit](https://open.spotify.com/album/1WSr66Wahw1IvFjmystaxW) | 2:45 | 2022-04-15 | 2022-07-01 |
 | [World Is My Pillow](https://open.spotify.com/track/0V2A3Wj3b7wLbEf0kLZAhn) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [World Is My Pillow](https://open.spotify.com/album/4DtC7Dy60nNTJP6vOoCG5q) | 1:44 | 2022-04-15 | 2022-10-14 |
 | [World Wonders](https://open.spotify.com/track/7ECNeHwthaexm4DlKXoB6L) | [Anex Xi Ko](https://open.spotify.com/artist/49aViG8nPbDT9il51JrGD4) | [World Wonders](https://open.spotify.com/album/3WBitz6lZdhmXpW7Nu7FzO) | 1:58 | 2022-10-28 |  |
-| [wrapped arms](https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [wrapped arms](https://open.spotify.com/album/23SKlJ7adcyLeKDQcjrZ5E) | 1:57 | 2022-07-15 |  |
+| [wrapped arms](https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [wrapped arms](https://open.spotify.com/album/23SKlJ7adcyLeKDQcjrZ5E) | 1:57 | 2022-07-15 | 2023-10-24 |
 | [wwwonderful](https://open.spotify.com/track/75EDTSiCdoU7D1fudbsVRj) | [chilliament](https://open.spotify.com/artist/6XpSrMMpim7PcR2s9dMnu7) | [llofi](https://open.spotify.com/album/1jPxjaOPiE04TzQbJiU1ow) | 2:18 | 2022-04-15 | 2023-02-14 |
 | [XOXO](https://open.spotify.com/track/6Bc5p9BJM9YPS9sZNaBp9V) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Night Life](https://open.spotify.com/album/5cNuT4skHDNiMmiwehhknD) | 1:31 | 2022-04-15 | 2022-07-15 |
 | [yellow](https://open.spotify.com/track/0lVHOXO4RZVfAog2QnCQ3T) | [ThinkChill](https://open.spotify.com/artist/0UFcspQ3mJJHtvaU43z460), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [yellow](https://open.spotify.com/album/7DVT4nL7IW52rubRdiEfut) | 2:06 | 2022-08-05 | 2022-12-03 |

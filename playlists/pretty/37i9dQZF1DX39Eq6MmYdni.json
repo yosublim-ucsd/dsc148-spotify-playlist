@@ -1,12 +1,12 @@
 {
   "description": "Everything in Texas is best! Lo que suena in the Lone Star state. Cover: Grupo Frontera & Grupo Firme",
-  "num_followers": 17235,
+  "num_followers": 17288,
   "original_name": "Rompiendo: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjQyNzI1ZThkZTljNzBlMjI5MTk3M2M0NWUyOThjYjBhMjk5MGI0",
+  "snapshot_id": "MCxkNTA5M2EzMGY3ZDJiMzFjZWU0ZDFjODJhYmYwOGYzODM0MWQ2MjBi",
   "tracks": [
     {
       "added_at": "2023-08-18 21:56:20",
@@ -235,6 +235,26 @@
     {
       "added_at": "2023-08-18 21:56:20",
       "album": {
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+    },
+    {
+      "added_at": "2023-08-18 21:56:20",
+      "album": {
         "name": "No Es Mentira (Version Norte\u00f1a)",
         "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
       },
@@ -271,22 +291,18 @@
     {
       "added_at": "2023-08-18 21:56:20",
       "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+        "name": "Pacas De Billetes",
+        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
       },
       "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
         {
           "name": "Natanael Cano",
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+      "duration_ms": 188074,
+      "name": "Pacas De Billetes",
+      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
     },
     {
       "added_at": "2023-08-18 21:56:20",
@@ -307,22 +323,6 @@
       "duration_ms": 113019,
       "name": "Dijeron Que No La Iba Lograr",
       "url": "https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV"
-    },
-    {
-      "added_at": "2023-08-18 21:56:20",
-      "album": {
-        "name": "Pacas De Billetes",
-        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 188074,
-      "name": "Pacas De Billetes",
-      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
     },
     {
       "added_at": "2023-08-18 21:56:20",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-08-18 21:56:20",
       "album": {
-        "name": "Tirando la H",
-        "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 119333,
-      "name": "Tirando la H",
-      "url": "https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU"
-    },
-    {
-      "added_at": "2023-08-18 21:56:20",
-      "album": {
         "name": "Princesa",
         "url": "https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 151486,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf"
+    },
+    {
+      "added_at": "2023-08-18 21:56:20",
+      "album": {
+        "name": "Tirando la H",
+        "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 119333,
+      "name": "Tirando la H",
+      "url": "https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU"
     },
     {
       "added_at": "2023-08-18 21:56:20",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-08-18 21:56:20",
       "album": {
+        "name": "Me Rehuso",
+        "url": "https://open.spotify.com/album/2PoPSX8a3Nw2CUe3rha7DY"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 167131,
+      "name": "Me Rehuso",
+      "url": "https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya"
+    },
+    {
+      "added_at": "2023-08-18 21:56:20",
+      "album": {
         "name": "Mi Tesoro (En Vivo)",
         "url": "https://open.spotify.com/album/3izA85ST6c3tnSLoYg8v6W"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 179158,
       "name": "Te Quiero, I Love You",
       "url": "https://open.spotify.com/track/3RrbxvX4plpA9uNdLDTXjm"
-    },
-    {
-      "added_at": "2023-08-18 21:56:20",
-      "album": {
-        "name": "Me Rehuso",
-        "url": "https://open.spotify.com/album/2PoPSX8a3Nw2CUe3rha7DY"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 167131,
-      "name": "Me Rehuso",
-      "url": "https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya"
     }
   ],
   "unique_name": "Rompiendo: Texas",

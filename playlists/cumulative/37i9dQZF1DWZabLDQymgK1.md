@@ -4,7 +4,7 @@
 
 > Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-70 songs - 6 hr 25 min
+71 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Mothership Reconnection \(feat\. Parliament/Funkadelic\) \- \(Daft Punk Remix\)](https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t) | [Scott Grooves](https://open.spotify.com/artist/7hwWjHjLHvhSDngoe2Pkbe), [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH), [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 4:00 | 2021-06-02 |  |
 | [Native Love \(Step By Step\) \- Original Mix](https://open.spotify.com/track/4AY6chAqcKO4TUB7EYXjNI) | [Divine](https://open.spotify.com/artist/1wASklF2AQfIVhSBWnUHwz) | [Native Love \(Step by Step\)](https://open.spotify.com/album/5MqdDaVdkpqAN54T5wgiaA) | 5:06 | 2021-06-02 |  |
 | [Nini \- Claude Monnet Remix](https://open.spotify.com/track/1HvnSNUGVzGdiWknoN568h) | [Clarisse Muvemba](https://open.spotify.com/artist/3VhZAwL3pwSfh1YgrPB9wr), [Sumo](https://open.spotify.com/artist/68hlYvUTBm1WJXhpO6re7X) | [Nini](https://open.spotify.com/album/6uGbxYqV6n3Nzudd28Ol3A) | 8:13 | 2021-06-02 |  |
-| [Perspex Sex \- Ewan's Hi\-NRG Remix](https://open.spotify.com/track/0UuI04fLX0AFGIVqwzTZwZ) | [Freeform Five](https://open.spotify.com/artist/5moj04MGEjXS0834GF3wK5), [Ewan Pearson](https://open.spotify.com/artist/6PQgiQKFKgk7EJElgUPo7y) | [Perspex Sex \(Remixes\)](https://open.spotify.com/album/0nF7cu31srje4db7gbv3wH) | 8:00 | 2021-06-02 |  |
+| [Perspex Sex \- Ewan's Hi\-NRG Remix](https://open.spotify.com/track/0UuI04fLX0AFGIVqwzTZwZ) | [Freeform Five](https://open.spotify.com/artist/5moj04MGEjXS0834GF3wK5), [Ewan Pearson](https://open.spotify.com/artist/6PQgiQKFKgk7EJElgUPo7y) | [Perspex Sex \(Remixes\)](https://open.spotify.com/album/0nF7cu31srje4db7gbv3wH) | 8:00 | 2021-06-02 | 2023-10-24 |
+| [Perspex Sex \- Ewan's Hi\-NRG Remix](https://open.spotify.com/track/0vOwZdWXxzWe3nt22O5N8b) | [Freeform Five](https://open.spotify.com/artist/5moj04MGEjXS0834GF3wK5), [Ewan Pearson](https://open.spotify.com/artist/6PQgiQKFKgk7EJElgUPo7y) | [Glitterbox \- Discotheque](https://open.spotify.com/album/4KmCA6vJr9rGXz4GahkzDc) | 8:00 | 2021-06-02 |  |
 | [Plaything](https://open.spotify.com/track/3CRuaG93yRRpSkPjTwsjF9) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Plaything / Like](https://open.spotify.com/album/2PYTm1KTUE0pwZcUoW8jm1) | 6:03 | 2021-06-02 |  |
 | [Plaything](https://open.spotify.com/track/6wIeea8ZJXsGB4QCGICSjC) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Plaything / Like](https://open.spotify.com/album/4zhnnXeezlwuPXyl0Ozt0z) | 6:03 | 2021-06-02 | 2022-07-29 |
 | [Say Hello, Wave Goodbye \- 7" Single Version](https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 5:23 | 2021-06-02 |  |

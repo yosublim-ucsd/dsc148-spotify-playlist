@@ -4,7 +4,7 @@
 
 > El infierno hecho ruido\. Bienvenido al culto de La Bestia\. Brujería en portada.
 
-75 songs - 5 hr 3 min
+78 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Digital Heart](https://open.spotify.com/track/0k8pDMZgAt22N7Th3tA7F4) | [Anima Tempo](https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5) | [Digital Heart](https://open.spotify.com/album/65uWokH8rg3bjtMxiBTLA5) | 5:12 | 2023-09-22 |  |
 | [El Corrido del Podrido](https://open.spotify.com/track/7qyE9Rjml9fJi0AFZ8sgLj) | [Diabetica](https://open.spotify.com/artist/6tAZ3DefynTMT92oHC8qyu) | [Las Canciones Más Estremecedoras de La Historia](https://open.spotify.com/album/5DgZ5SYKP9azjewKKT1A0G) | 4:52 | 2023-09-22 |  |
 | [El Punk Salvo Mi Vida](https://open.spotify.com/track/7pfkjn0MkDu1SrPrwcIIA4) | [Acidez](https://open.spotify.com/artist/6WLR9DKDnuIRXUXtEBPl8D) | [In Punk We Thrash](https://open.spotify.com/album/2rIqZ6MegnhrAoZaHHgC0a) | 4:22 | 2023-09-22 |  |
+| [Estática](https://open.spotify.com/track/1tJy7CJuv33Tre4DmrZgx3) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estática](https://open.spotify.com/album/4epHlWTKUURK4kDlRcKASZ) | 3:53 | 2023-10-23 |  |
 | [False Democracy](https://open.spotify.com/track/28hXLPYRU5s4G5s7nhL6zF) | [Chemicide](https://open.spotify.com/artist/4ax8Q2ingc59UDymaYLqFn) | [Common Sense](https://open.spotify.com/album/7kyjqxu2jx5Up2HwUoScFp) | 3:31 | 2023-09-22 |  |
 | [Fear](https://open.spotify.com/track/2aCfgVWQZYJJdzrlF2um1p) | [Introtyl](https://open.spotify.com/artist/6Im0py5F0Y2RMJTQ6MlX6A) | [Adfectus](https://open.spotify.com/album/3Bj1bfNMhOKMPVaj0kWd2B) | 3:23 | 2023-09-22 |  |
 | [Fuego](https://open.spotify.com/track/34KdEEbN9SJ7PtpprhWsTB) | [Bones of Minerva](https://open.spotify.com/artist/43EJ0fWSA2sQ5U3twJaZBZ) | [Embers](https://open.spotify.com/album/6vXIUx3svkyAY7TrtMGGrN) | 5:01 | 2023-09-22 |  |
@@ -55,6 +56,7 @@
 | [Mother Fucking Liar](https://open.spotify.com/track/69cAueyI0ScyB14D4hvp6t) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [The New Dark Ages](https://open.spotify.com/album/0nZtZf8AwbrEm23nYinCpn) | 3:12 | 2023-09-22 |  |
 | [One More Shot At Glory](https://open.spotify.com/track/5nGzT7p0NO81ucXm4C7qaP) | [KK's Priest](https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3) | [One More Shot At Glory](https://open.spotify.com/album/1vopbDWtuFfETB2zu9xT9w) | 4:27 | 2023-09-22 |  |
 | [Outside The Spiral](https://open.spotify.com/track/6Pv3NZoqEflCbPAy0tRURr) | [Till The Dirt](https://open.spotify.com/artist/3bJBvA9DFvhQGhCMlYrQnL) | [Outside The Spiral](https://open.spotify.com/album/1WjXvDm2pINSSOOkJxR2RI) | 3:58 | 2023-09-22 |  |
+| [Panic Attack](https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Panic Attack](https://open.spotify.com/album/02DtysqFzSbWAfptGA7mec) | 5:25 | 2023-10-23 |  |
 | [Pipe Dreams](https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y) | [Konvent](https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q) | [Pipe Dreams](https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl) | 4:05 | 2023-09-22 |  |
 | [Prestehammeren](https://open.spotify.com/track/14Kf2KHVTWkrlPtxEAZaq2) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Helvegr](https://open.spotify.com/album/6eH7gLDHor7ZPiz4VQtWDM) | 4:01 | 2023-09-22 |  |
 | [Putrid Angels Ritual](https://open.spotify.com/track/6dJgBHIF22OQh1FvvCpGRC) | [Vulcano](https://open.spotify.com/artist/7qfrFvOUlXFc8Xzhn8I1p7) | [Stone Orange](https://open.spotify.com/album/3wPt30rdfVoejHwRKcjBfd) | 2:33 | 2023-09-22 |  |
@@ -75,6 +77,7 @@
 | [Tu Puño Dentro De Mí](https://open.spotify.com/track/03wXtLGSG6lKBx8Cer689U) | [Larva](https://open.spotify.com/artist/70fgQkaCL6ITJxg1E8Q9iP) | [Tu Puño Dentro De Mí](https://open.spotify.com/album/3H95nMXGOPKyuAdQ5rqSbq) | 4:31 | 2023-09-22 |  |
 | [Us Against Them](https://open.spotify.com/track/33bghBAXcT8PypSUHQABFc) | [Dead Legacy](https://open.spotify.com/artist/2959HnSzlYRaGRXMRZmNAt) | [Us Against Them](https://open.spotify.com/album/3bX15eCIHTmPTwZmzqQzQp) | 3:44 | 2023-09-22 |  |
 | [Vida Profana](https://open.spotify.com/track/34RNwS9sBpEeYlXM8Rsz5s) | [JesuCristo Mentiroso](https://open.spotify.com/artist/61yMpECIaGfrNMLwdOjhQO) | [Ruido Asesino](https://open.spotify.com/album/0dsHhzlxqnhSlpUYREXS91) | 1:09 | 2023-09-22 |  |
+| [We die tonight](https://open.spotify.com/track/5KuyyehLeWqenJkzocFs4k) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [We die tonight](https://open.spotify.com/album/1eTAAZuzJhwHpgTBnMxSWP) | 3:36 | 2023-10-23 |  |
 | [We Eat Our Young](https://open.spotify.com/track/2VREb6SYgne3Eai0nrXUPk) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [Terrasite](https://open.spotify.com/album/3T8t8sAqgPIy4ZvqjAIsNy) | 3:55 | 2023-09-22 |  |
 | [We Will Rock You \- Udo Dirkschneider Version](https://open.spotify.com/track/5EARD3LqHo44LlvOmLJapD) | [Udo Dirkschneider](https://open.spotify.com/artist/07CIzmTuAiQk4N2OikMfbw) | [We Will Rock You \(Udo Dirkschneider Version\)](https://open.spotify.com/album/1tYRBdrU3at54ASdnsvIxj) | 3:12 | 2023-09-22 |  |
 | [Wereldreinheid](https://open.spotify.com/track/2nFxKbwWHAk8sSf1r3adY1) | [D.R.E.P.](https://open.spotify.com/artist/00Hsf2GxcOvDZQKF4L7oMP) | [Drastically Reducing Earth's Population](https://open.spotify.com/album/2Zh6XOam7uG8u1N0M0XItp) | 4:00 | 2023-09-22 |  |

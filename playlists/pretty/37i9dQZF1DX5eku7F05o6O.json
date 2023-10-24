@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTNmYTIwZjBmODc3NGFkNjg2NDhmNjU3Nzk1NWY4NTIzZDU2YzY2",
+  "snapshot_id": "MCwzODY5YjM3N2Q0ODc2YzZhYmFjNDIwYTU3MmZlYWI3OWU5ZjY5Yzky",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Dans ma main",
-        "url": "https://open.spotify.com/album/7kCt6SHmlogqzWmkjKSW6v"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "dans ma main",
-      "url": "https://open.spotify.com/track/167qZTfvySsqycIvFPUbyp"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le fil",
         "url": "https://open.spotify.com/album/2Ee68ldGNltX6l3KpTgvIZ"
       },
@@ -419,22 +403,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Nous apr\u00e8s nous",
-        "url": "https://open.spotify.com/album/2n4xhHEEmloZT0tNTJLQai"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Nous apr\u00e8s nous",
-      "url": "https://open.spotify.com/track/5BnsjduILegn9lyXBINBh9"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Comme une odeur de d\u00e9clin",
         "url": "https://open.spotify.com/album/0B46PUCUbNH1lJJPVAmJ8s"
       },
@@ -451,6 +419,38 @@
       "duration_ms": 192653,
       "name": "Dans le ruisseau",
       "url": "https://open.spotify.com/track/0pP4TkjbnooOW2OQ4qamkO"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Dans ma main",
+        "url": "https://open.spotify.com/album/7kCt6SHmlogqzWmkjKSW6v"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "dans ma main",
+      "url": "https://open.spotify.com/track/167qZTfvySsqycIvFPUbyp"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Nous apr\u00e8s nous",
+        "url": "https://open.spotify.com/album/2n4xhHEEmloZT0tNTJLQai"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Nous apr\u00e8s nous",
+      "url": "https://open.spotify.com/track/5BnsjduILegn9lyXBINBh9"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -487,38 +487,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Matthias & Maxime (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1DBjSrdtHrW3RudYzyhCKR"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 167436,
-      "name": "Un autre amour",
-      "url": "https://open.spotify.com/track/329d06nIUGV7dRE6xYwblR"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "4488 de l'amour",
-        "url": "https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "Pri\u00e8re",
-      "url": "https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le cours des jours",
         "url": "https://open.spotify.com/album/5ofuvpieZ3jgTNb9WF1u6o"
       },
@@ -535,6 +503,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Matthias & Maxime (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1DBjSrdtHrW3RudYzyhCKR"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 167436,
+      "name": "Un autre amour",
+      "url": "https://open.spotify.com/track/329d06nIUGV7dRE6xYwblR"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Astronomie",
         "url": "https://open.spotify.com/album/2BqchQyOThcNvM6Sx1lvnc"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 249346,
       "name": "Intuition #1",
       "url": "https://open.spotify.com/track/7k6npoTeYlr65vcgjCo7XV"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "4488 de l'amour",
+        "url": "https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "Pri\u00e8re",
+      "url": "https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le feu de chaque jour",
-        "url": "https://open.spotify.com/album/4j1nx0dlIVExJ9uxjkVPo8"
-      },
-      "artists": [
-        {
-          "name": "Patrice Michaud",
-          "url": "https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1"
-        }
-      ],
-      "duration_ms": 271360,
-      "name": "Loin de Disneyland",
-      "url": "https://open.spotify.com/track/76CGTEQ17dXFWw6llOycSj"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "27 fois l'aurore",
         "url": "https://open.spotify.com/album/50NmsF9dRHdp2vXaVwTvfT"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 191853,
       "name": "Vers le sud",
       "url": "https://open.spotify.com/track/7k5JH3TPQppL1zZt40kIbz"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Le feu de chaque jour",
+        "url": "https://open.spotify.com/album/4j1nx0dlIVExJ9uxjkVPo8"
+      },
+      "artists": [
+        {
+          "name": "Patrice Michaud",
+          "url": "https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1"
+        }
+      ],
+      "duration_ms": 271360,
+      "name": "Loin de Disneyland",
+      "url": "https://open.spotify.com/track/76CGTEQ17dXFWw6llOycSj"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Hisser haut",
-        "url": "https://open.spotify.com/album/19GytsXYQogaXM5Yxh9iu8"
-      },
-      "artists": [
-        {
-          "name": "David Gigu\u00e8re",
-          "url": "https://open.spotify.com/artist/5p1R7oow69gd6tiEypZG3B"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "L'atelier",
-      "url": "https://open.spotify.com/track/1bfhchdMYgx3kbieRtemH2"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Les amours parall\u00e8les",
         "url": "https://open.spotify.com/album/6t5F9hgEjkanSW3opjKB82"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 218935,
       "name": "L\u2019oiseau m\u00e9canique",
       "url": "https://open.spotify.com/track/1TCklgqTPFMMD8YV5G4wNB"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Hisser haut",
+        "url": "https://open.spotify.com/album/19GytsXYQogaXM5Yxh9iu8"
+      },
+      "artists": [
+        {
+          "name": "David Gigu\u00e8re",
+          "url": "https://open.spotify.com/artist/5p1R7oow69gd6tiEypZG3B"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "L'atelier",
+      "url": "https://open.spotify.com/track/1bfhchdMYgx3kbieRtemH2"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Stella",
-        "url": "https://open.spotify.com/album/35I4P4msenASz5z5xjSIdo"
-      },
-      "artists": [
-        {
-          "name": "Ariane Brunet",
-          "url": "https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg"
-        }
-      ],
-      "duration_ms": 257546,
-      "name": "Ciel",
-      "url": "https://open.spotify.com/track/4RzXLiXCQTPi84oxicyNtV"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Les Ombres Longues",
         "url": "https://open.spotify.com/album/1VWw0MtGZlUXZMcANHMzCX"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Stella",
+        "url": "https://open.spotify.com/album/35I4P4msenASz5z5xjSIdo"
+      },
+      "artists": [
+        {
+          "name": "Ariane Brunet",
+          "url": "https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg"
+        }
+      ],
+      "duration_ms": 257546,
+      "name": "Ciel",
+      "url": "https://open.spotify.com/track/4RzXLiXCQTPi84oxicyNtV"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Himalaya mon amour",
         "url": "https://open.spotify.com/album/6pr1J7ekJbaOIPELBTmGVb"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 164226,
       "name": "Si tu restes",
       "url": "https://open.spotify.com/track/47RDT6K7pUYnO1NWWCw1z7"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Bygone",
+        "url": "https://open.spotify.com/album/6kULtQJS1RP8J2s3Ra7aT2"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9atrice Keeler",
+          "url": "https://open.spotify.com/artist/7dPic1kgMyta4N0pDKS9kK"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Je ne veux pas savoir",
+      "url": "https://open.spotify.com/track/1rDEtB371gA4hjDRypHpqS"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Bygone",
-        "url": "https://open.spotify.com/album/6kULtQJS1RP8J2s3Ra7aT2"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9atrice Keeler",
-          "url": "https://open.spotify.com/artist/7dPic1kgMyta4N0pDKS9kK"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Je ne veux pas savoir",
-      "url": "https://open.spotify.com/track/1rDEtB371gA4hjDRypHpqS"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "LUNES",
         "url": "https://open.spotify.com/album/3mV5Ke3VjwZhuDQMsHmeYY"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Habit",
-        "url": "https://open.spotify.com/album/47BeET8hEy09koztGMjD70"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Shonk",
-          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "Trop tard",
-      "url": "https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "A Wider Space, B-Sides",
         "url": "https://open.spotify.com/album/5mUBEzLAxef1iGhMFIEcLx"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 222720,
       "name": "Cabin (VF)",
       "url": "https://open.spotify.com/track/1LEB7rebJJrztPAKKa8zay"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/47BeET8hEy09koztGMjD70"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Shonk",
+          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "Trop tard",
+      "url": "https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le plein de r\u00e9confort",
-        "url": "https://open.spotify.com/album/3vkPYDNAcj1AeHtkrau0bd"
+        "name": "Marie-Pierre Arthur",
+        "url": "https://open.spotify.com/album/24zKTvO9WBhCj9meQWEqnJ"
       },
       "artists": [
         {
-          "name": "Marie-Ange",
-          "url": "https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR"
+          "name": "Marie-Pierre Arthur",
+          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
         }
       ],
-      "duration_ms": 215295,
-      "name": "Le plein de r\u00e9confort",
-      "url": "https://open.spotify.com/track/5bK1QSJQr6bzmw14C38cB8"
+      "duration_ms": 253145,
+      "name": "Le vent m\u2019appelle par mon pr\u00e9nom",
+      "url": "https://open.spotify.com/track/68ImzFuf1GPwyhy4VrFi2k"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Marie-Pierre Arthur",
-        "url": "https://open.spotify.com/album/24zKTvO9WBhCj9meQWEqnJ"
+        "name": "Le plein de r\u00e9confort",
+        "url": "https://open.spotify.com/album/3vkPYDNAcj1AeHtkrau0bd"
       },
       "artists": [
         {
-          "name": "Marie-Pierre Arthur",
-          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+          "name": "Marie-Ange",
+          "url": "https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR"
         }
       ],
-      "duration_ms": 253145,
-      "name": "Le vent m\u2019appelle par mon pr\u00e9nom",
-      "url": "https://open.spotify.com/track/68ImzFuf1GPwyhy4VrFi2k"
+      "duration_ms": 215295,
+      "name": "Le plein de r\u00e9confort",
+      "url": "https://open.spotify.com/track/5bK1QSJQr6bzmw14C38cB8"
     },
     {
       "added_at": "2021-02-06 03:12:40",

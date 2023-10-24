@@ -1,12 +1,12 @@
 {
   "description": "60s rock to fuel your ride. Cover: Jimi Hendrix",
-  "num_followers": 184192,
+  "num_followers": 184320,
   "original_name": "60s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDA3N2QyMjViMmQwMjA4OTBhY2Y3ZDM4Mzk2MjkzNjY2NTg1YjRl",
+  "snapshot_id": "MCw4ZjBlNDQxNjY4OGNiZWJkZGFjODNkMjNjN2NmNGE4MDgyMjFiNDM0",
   "tracks": [
     {
       "added_at": "2021-03-22 17:56:31",
@@ -123,6 +123,22 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 270773,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
         "name": "Odessey and Oracle",
         "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
       },
@@ -171,18 +187,18 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Let It Bleed",
-        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 270773,
-      "name": "Gimme Shelter",
-      "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
+      "duration_ms": 170813,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -215,22 +231,6 @@
       "duration_ms": 176333,
       "name": "Green Onions",
       "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Kinks (Deluxe)",
-        "url": "https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 141506,
-      "name": "All Day and All of the Night",
-      "url": "https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "Willy And The Poor Boys (Expanded Edition)",
         "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
       },
@@ -327,6 +311,38 @@
       "duration_ms": 166280,
       "name": "Down On The Corner",
       "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Kinks (Deluxe)",
+        "url": "https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 141506,
+      "name": "All Day and All of the Night",
+      "url": "https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -379,8 +395,24 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+        "name": "From Nowhere",
+        "url": "https://open.spotify.com/album/1myVNI7Ucy8g9HudbJ8Vu2"
+      },
+      "artists": [
+        {
+          "name": "The Troggs",
+          "url": "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
+        }
+      ],
+      "duration_ms": 155333,
+      "name": "Wild Thing",
+      "url": "https://open.spotify.com/track/7jGzYUZ2Bgg8BDfYlQRfn8"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
       "artists": [
         {
@@ -388,9 +420,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 210160,
-      "name": "Hey Joe",
-      "url": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
+      "duration_ms": 313373,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -407,22 +439,6 @@
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
-        "name": "From Nowhere",
-        "url": "https://open.spotify.com/album/1myVNI7Ucy8g9HudbJ8Vu2"
-      },
-      "artists": [
-        {
-          "name": "The Troggs",
-          "url": "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
-        }
-      ],
-      "duration_ms": 155333,
-      "name": "Wild Thing",
-      "url": "https://open.spotify.com/track/7jGzYUZ2Bgg8BDfYlQRfn8"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -507,6 +523,22 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "Crosstown Traffic",
+      "url": "https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
         "name": "The Band",
         "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
       },
@@ -539,22 +571,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "Buffalo Springfield Again",
         "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
       },
@@ -583,6 +599,22 @@
       "duration_ms": 258466,
       "name": "Crossroads - Live",
       "url": "https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 467320,
+      "name": "I Want You (She's So Heavy) - Remastered 2009",
+      "url": "https://open.spotify.com/track/3Z25k4ZF6QENy2d9YatsM5"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -639,22 +671,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 467320,
-      "name": "I Want You (She's So Heavy) - Remastered 2009",
-      "url": "https://open.spotify.com/track/3Z25k4ZF6QENy2d9YatsM5"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "Psychotic Reaction",
         "url": "https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 185523,
       "name": "Psychotic Reaction",
       "url": "https://open.spotify.com/track/5JcaA4A9ZoXthwEnxOxWvP"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Crosstown Traffic",
-      "url": "https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -767,6 +767,22 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 122893,
+      "name": "Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009",
+      "url": "https://open.spotify.com/track/4fUKE8EULjQdHF4zb0M8FO"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
         "name": "Tons Of Sobs",
         "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 237040,
       "name": "Evil Ways",
       "url": "https://open.spotify.com/track/4JFG8RLpi8m0xhjYmstb38"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
-        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 122893,
-      "name": "Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009",
-      "url": "https://open.spotify.com/track/4fUKE8EULjQdHF4zb0M8FO"
     }
   ],
   "unique_name": "60s Rock Drive",

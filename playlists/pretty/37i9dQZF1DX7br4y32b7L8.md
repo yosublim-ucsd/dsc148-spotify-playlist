@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#voorjou \#danceforme \#sino \#prada
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,673 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,716 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 63 | [Outside](https://open.spotify.com/track/70VDwHuba0z6HMHG6UifIG) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Outside](https://open.spotify.com/album/3r1dWitPtJXSO5BQbWDoPr) | 2:47 |
 | 64 | [Hosselen](https://open.spotify.com/track/3pupFhUH3n5CfXQ8KO70S0) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Gewoon BOEF](https://open.spotify.com/album/3vJ9aTYd6r9klB1SsMcpqr) | 3:28 |
 | 65 | [Home](https://open.spotify.com/track/0BVUA3FXqQLvZb7r4T22NJ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5) | 4:28 |
-| 66 | [MALA](https://open.spotify.com/track/4epHhc2lvhFYzMlKA23O3G) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [DUMMY BOY](https://open.spotify.com/album/06XM9ExRELs8dcuwEAn1jd) | 3:26 |
+| 66 | [MALA \(feat\. Anuel AA\)](https://open.spotify.com/track/5tYCl2bT9bDjMuTyn6OVb0) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [DUMMY BOY \(Revised\)](https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr) | 3:26 |
 | 67 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
 | 68 | [On & On](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [On & On](https://open.spotify.com/album/2R1IseXguOsELhULk1H60P) | 2:50 |
 | 69 | [This Is The Life](https://open.spotify.com/track/2T3jgoAMbBXiMMD8pSc6QL) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [This Is The Life \(eDeluxe\)](https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq) | 3:04 |
 | 70 | [Banaan Meloen Kiwi & Citroen](https://open.spotify.com/track/2PPViwxoP2YtX3S2BUxTdj) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Banaan Meloen Kiwi & Citroen](https://open.spotify.com/album/5pNo8aSlYbMJf9Nb3VZ2os) | 2:55 |
 
-Snapshot ID: `MCwxMDY5OTkwY2I3MTE2NWM2ZDdmNGU4YjZjNDI5YmUxNDQ5MWQ2Zjll`
+Snapshot ID: `MCxjMTdjNTJiOWJiMTRhYzg0ZGNmZTIzNTk1ZjhhMDhmYjVlZTY2MWJh`

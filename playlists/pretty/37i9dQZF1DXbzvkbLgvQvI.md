@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzvkbLgvQvI.md) - [plain]
 
 > All the Latin hits that have graced the top of the charts\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,075 likes - 17 songs - 58 min 56 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,099 likes - 17 songs - 58 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzvkbLgvQvI.md) - [plain]
 | 16 | [Mi Gente](https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Mi Gente](https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k) | 3:09 |
 | 17 | [Despacito \- Remix](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Despacito Feat\. Justin Bieber \(Remix\)](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) | 3:48 |
 
-Snapshot ID: `MCxiZmQ3YjI2ZGYyM2MwYmY0ZWRmNmFiM2I1MzEyNTdhOWJmNDM4Mzhi`
+Snapshot ID: `MCw1YzMyNDYxYjc1NDMzMTQ0MzFkMWUyOWNkMWQ3NTBkOTE4NDQzYTE3`

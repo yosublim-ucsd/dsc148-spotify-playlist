@@ -1,12 +1,12 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 417317,
+  "num_followers": 417590,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjRlNjMyOWE2MWU5NWM2NGFjMTkwMmJjMWI4NmNiNDUwZTUyZGRm",
+  "snapshot_id": "MCw4YTE3MTUzNDc0ODYwM2U1ZDI4OGU5OGUxY2M4YmVhMjVkZjc5OWQz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Birthplace",
-        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "State Lines",
-      "url": "https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Where's My Love",
         "url": "https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 239880,
       "name": "Where's My Love - Acoustic",
       "url": "https://open.spotify.com/track/0ElpbbncWT9aS7mgoqEHbQ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Birthplace",
+        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "State Lines",
+      "url": "https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -459,22 +459,6 @@
       "duration_ms": 129463,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 267256,
-      "name": "Northern Attitude",
-      "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -559,6 +543,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 267256,
+      "name": "Northern Attitude",
+      "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Turning Page",
         "url": "https://open.spotify.com/album/7lh3v8GsuH6TKFQcTimkji"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Cape Elizabeth",
-        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 232618,
-      "name": "Maine",
-      "url": "https://open.spotify.com/track/3Z2anmIVG8b1GelyeFQdnP"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 188000,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Cape Elizabeth",
+        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 232618,
+      "name": "Maine",
+      "url": "https://open.spotify.com/track/3Z2anmIVG8b1GelyeFQdnP"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Caamp",
-        "url": "https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 193048,
-      "name": "All the Debts I Owe",
-      "url": "https://open.spotify.com/track/6gwMhuVPNWwFTTKHKRtJun"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Love You For A Long Time",
         "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 223120,
       "name": "Love You For A Long Time",
       "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Caamp",
+        "url": "https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 193048,
+      "name": "All the Debts I Owe",
+      "url": "https://open.spotify.com/track/6gwMhuVPNWwFTTKHKRtJun"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
-        }
-      ],
-      "duration_ms": 189247,
-      "name": "reckless driving",
-      "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "That Funny Feeling",
         "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
       },
@@ -1007,18 +987,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Resin",
-        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
         }
       ],
-      "duration_ms": 203939,
-      "name": "Resin",
-      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
+      "duration_ms": 189247,
+      "name": "reckless driving",
+      "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1035,6 +1019,22 @@
       "duration_ms": 203869,
       "name": "Portland, Maine",
       "url": "https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Resin",
+        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 203939,
+      "name": "Resin",
+      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "To the Mountains",
+      "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 152613,
       "name": "Naked as We Came",
       "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "To the Mountains",
-      "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "London's Song",
-        "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
-      },
-      "artists": [
-        {
-          "name": "Matt Hartke",
-          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "London's Song",
-      "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 268455,
       "name": "Only",
       "url": "https://open.spotify.com/track/1GxNPd5r7D1zChEMuMhue0"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "London's Song",
+        "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
+      },
+      "artists": [
+        {
+          "name": "Matt Hartke",
+          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "London's Song",
+      "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+      "duration_ms": 266706,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Fatal Line",
         "url": "https://open.spotify.com/album/02389joKGpQeSgbeMocOI2"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 181933,
       "name": "Fatal Line",
       "url": "https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Roadtripsong",
-        "url": "https://open.spotify.com/album/0hVKsOrcrxQIoXVdJ5Nu5O"
-      },
-      "artists": [
-        {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "Roadtripsong",
-      "url": "https://open.spotify.com/track/6OMnH9uEKd7W3YK3ncuUF7"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "The Way That Lovers Do",
         "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 193733,
       "name": "Favorite Peeps",
       "url": "https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Roadtripsong",
+        "url": "https://open.spotify.com/album/0hVKsOrcrxQIoXVdJ5Nu5O"
+      },
+      "artists": [
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Roadtripsong",
+      "url": "https://open.spotify.com/track/6OMnH9uEKd7W3YK3ncuUF7"
     },
     {
       "added_at": "2023-10-06 04:00:00",

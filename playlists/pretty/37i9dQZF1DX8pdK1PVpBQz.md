@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Sahara Beck\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,826 likes - 104 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,837 likes - 104 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 103 | [ELEGANTE](https://open.spotify.com/track/366Kk1owEIW4NJ5CHU5T1N) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [ELEGANTE](https://open.spotify.com/album/0Pol9jlvTYrOFftlWhdYDS) | 2:46 |
 | 104 | [on & on](https://open.spotify.com/track/6oAonvnwPnw3IadUWTyvhm) | [SAFETY CLUB](https://open.spotify.com/artist/52OF5mGGrAg9kdlq9Qkkd4) | [on & on](https://open.spotify.com/album/4ZPyfnsy8jy5vT9Hw4MlN1) | 2:49 |
 
-Snapshot ID: `MCxmMzg0OTA0NDhhOTg1M2YyZDdjMGVmMjc0NWViZTFhODkzMmVjM2Iy`
+Snapshot ID: `MCxhYTdiMzQ3NTRjNzQyYTU4M2Q3YTJhYzZkMmEwMWI2OTc1ZmExN2Zi`

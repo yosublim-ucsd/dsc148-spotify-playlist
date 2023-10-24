@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,206 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,736 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 37 | [Alma de 80's](https://open.spotify.com/track/59bZ2k0TSk6qf9gzbvPEw5) | [Pelo Madueño](https://open.spotify.com/artist/0lJSc4CHUrJA90bk4a11Gx) | [Ciudad Naufragio](https://open.spotify.com/album/1IaNvFMcMGBA1ehjtARFS5) | 4:05 |
 | 38 | [Si Me Dejas Ahora](https://open.spotify.com/track/0Bbk8jjpxm9XllmcLAeLaH) | [Los Trece Baladas](https://open.spotify.com/artist/4GLu0ai9hvNL68OEgIj6KX) | [Lo Que un Día Fue..\. No Será](https://open.spotify.com/album/1sh7DEeT2lk832ABzr0EWN) | 3:36 |
 | 39 | [La peor de las guerras \- Remastered](https://open.spotify.com/track/67SdBqjGew9i3eKeiF14Ie) | [La Liga del Sueño](https://open.spotify.com/artist/0K1keFZ7bOlTIGX1p3APB2) | [Por Tierra \(Remastered\)](https://open.spotify.com/album/3mC1bT6CET5GCB74NbK9sZ) | 3:47 |
-| 40 | [Máquina](https://open.spotify.com/track/1OTgiJYTDcXxp4KFeNzmgh) | [Cuchillazo](https://open.spotify.com/artist/2PUyeJkrdcOntByKHmnKtv) | [DÍas Negros](https://open.spotify.com/album/3PEirdybTes0NQVNKlKzEv) | 2:50 |
+| 40 | [Máquina](https://open.spotify.com/track/1OTgiJYTDcXxp4KFeNzmgh) | [Cuchillazo](https://open.spotify.com/artist/2PUyeJkrdcOntByKHmnKtv) | [Días Negros](https://open.spotify.com/album/3PEirdybTes0NQVNKlKzEv) | 2:50 |
 | 41 | [Gracias](https://open.spotify.com/track/711rKcAa0NsjGDlfsJ0ghb) | [Chachi Luján](https://open.spotify.com/artist/7y0peWaS8foIWpoTuLfO1Y) | [Crónicas del Rock Peruano](https://open.spotify.com/album/2mHkM0wvLB7V8qNibFxB3c) | 3:49 |
 | 42 | [Personalidad](https://open.spotify.com/track/2UO1BZ44RhM74qv13PCixW) | [Jas](https://open.spotify.com/artist/47nHIKTmZwcDtIOaSflgPZ) | [Mueres en Tu Ley](https://open.spotify.com/album/16m1xehdAu0dlKIrWeXuEw) | 3:12 |
 | 43 | [Pronóstico Reservado](https://open.spotify.com/track/7GQX7wuSBQcQfkMcWFeblQ) | [La Banda Azul](https://open.spotify.com/artist/6egHTp2ACHZXellZBMPXGS) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0MFkglbEJAh1dT5D6Q9Rd7) | 2:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 59 | [Confusión](https://open.spotify.com/track/6SiQcAM3WKVf9eP2WQZ0Ok) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Confusión](https://open.spotify.com/album/39JBhk7OBHt3Zv61nZcFte) | 2:46 |
 | 60 | [Los Finos](https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:08 |
 
-Snapshot ID: `MCxkYmFmZmQxNTk3NGJiNWYwM2JhMzUyNTQ4NDE4MGE0ZjExZGM2MDQ1`
+Snapshot ID: `MCw0OGQ0ZDQ4MGRkNDY3ZmIyYTI2OTVmNzBlYjMxYzEwMTcwOTJjZDZl`

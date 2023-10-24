@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: IDLES
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,861 likes - 125 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,872 likes - 125 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 124 | [Impressively Average](https://open.spotify.com/track/1sL6n9kMtrlAvPokQKlZGP) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Impressively Average](https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv) | 3:18 |
 | 125 | [DUMB](https://open.spotify.com/track/47MthNdmvuTrV3SP4MPFGV) | [Hunter Oliveri](https://open.spotify.com/artist/1y3NQbmjuRQshFiRjiterz) | [DUMB](https://open.spotify.com/album/1CEYnd0M5NIW7u6HheJka5) | 2:53 |
 
-Snapshot ID: `MCxjMTA0OTEwOTFjMzhiZTkzNDAxMDg3MTgwNmUxMWI2NDFiZjEzN2M0`
+Snapshot ID: `MCw1NjI0YTljMzM2MDU2NWQ3MjBhNDc3ZDhlODM2MjgzMDEzYjA2NGE0`

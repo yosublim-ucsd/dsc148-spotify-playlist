@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere & celebrating Filipino Heritage Month all month long! Cover: Ez Mil.
 
-632 songs - 1 day 8 hr 53 min
+633 songs - 1 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-18 |  |
 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 | 2022-05-27 | 2023-08-12 |
 | [Golden Age](https://open.spotify.com/track/3hModU6Dy7ym4BO9r7zxFG) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Golden Age](https://open.spotify.com/album/17HxYIWUvrRw9xIpx6AFqM) | 2:56 | 2022-08-15 | 2023-05-13 |
+| [Gone](https://open.spotify.com/track/4OUJAdeUmoqDh0iBWlvaoy) | [niko rain](https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [Gone](https://open.spotify.com/album/4q2bsMhNwwPFu57oEg3MZ6) | 2:41 | 2023-10-20 |  |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-09-23 | 2022-10-08 |
 | [Good In Me](https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Good In Me](https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX) | 2:28 | 2022-06-10 | 2023-08-12 |
 | [Good Love 2.0](https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [damnshestamil](https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm) | 2:54 | 2022-09-23 | 2022-10-08 |
@@ -278,7 +279,7 @@
 | [I Don't Care](https://open.spotify.com/track/7hoJyGOvmRfM7y6T55Ccde) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/0q1qdWv8rj53CQ0cayv6hD) | 3:03 | 2023-02-07 | 2023-05-20 |
 | [I Just Wanna Know](https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Just Wanna Know](https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T) | 2:24 | 2023-05-19 |  |
 | [i like red](https://open.spotify.com/track/3GQ4GdXU8wBbPqBcKDTJ65) | [Charlene Su](https://open.spotify.com/artist/5Ltw2zQx9zqzyXfsQkkFBD) | [i like red](https://open.spotify.com/album/2DYmZa0uuVkUGdwqjNTJNj) | 2:02 | 2022-05-27 | 2023-08-12 |
-| [I Miss My Friends \(feat\. Phum Viphurit\)](https://open.spotify.com/track/6CqB5fiJw1yKnytkAPprxr) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [I Miss My Friends \(feat\. Phum Viphurit\)](https://open.spotify.com/album/33HFtu7PiE4xTeV3FFGoOD) | 3:43 | 2022-11-11 |  |
+| [I Miss My Friends \(feat\. Phum Viphurit\)](https://open.spotify.com/track/6CqB5fiJw1yKnytkAPprxr) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [I Miss My Friends \(feat\. Phum Viphurit\)](https://open.spotify.com/album/33HFtu7PiE4xTeV3FFGoOD) | 3:43 | 2022-11-11 | 2023-10-24 |
 | [I say bye](https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [I say bye](https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ) | 3:00 | 2023-09-22 |  |
 | [I Wish I Didn't Love You](https://open.spotify.com/track/6JuD8oygJeA3kfUH7BqXZg) | [Ashley Mehta](https://open.spotify.com/artist/0SkdOD7lcoBZaLOh2dsMsA) | [I Wish I Didn't Love You](https://open.spotify.com/album/106vwzEKRQeu6OqP7KOk2p) | 3:09 | 2023-03-10 | 2023-08-26 |
 | [i'm having a hard time being myself](https://open.spotify.com/track/0SWaiAaopRPU4waN2GO9lZ) | [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU) | [i'm having a hard time being myself](https://open.spotify.com/album/3NdGDRYfBGATp0dKub8B09) | 2:56 | 2022-05-27 | 2022-12-30 |

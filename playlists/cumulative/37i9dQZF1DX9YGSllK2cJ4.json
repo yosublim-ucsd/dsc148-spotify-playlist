@@ -5315,6 +5315,24 @@
     },
     {
       "album": {
+        "name": "Then I Saw You",
+        "url": "https://open.spotify.com/album/11e0Rf3uYRPR4nQUOqKpOQ"
+      },
+      "artists": [
+        {
+          "name": "Theordor Wessman",
+          "url": "https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186708,
+      "name": "Then I Saw You",
+      "url": "https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx"
+    },
+    {
+      "album": {
         "name": "Those Moments",
         "url": "https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g"
       },

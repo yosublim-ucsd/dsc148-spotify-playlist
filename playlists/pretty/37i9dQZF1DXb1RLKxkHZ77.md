@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Masdo, Aisyah Aziz
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,894 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,955 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Terus Menunggu](https://open.spotify.com/track/3Sw1AuJxpwJEmfqDcGO9Zv) | [gonebloom](https://open.spotify.com/artist/50ic5Z28Rbu8He7HZMdAOf) | [Terus Menunggu](https://open.spotify.com/album/7pv7AHF92fZicH93EaBgAC) | 3:54 |
 | 50 | [Pejam](https://open.spotify.com/track/70ZVALP5Zdc5RwYmRqcCuJ) | [Khai Bahar](https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq), [Adira Suhaimi](https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF) | [Pejam](https://open.spotify.com/album/5Mx54PHn9cyvTA7MqHIRNb) | 3:45 |
 
-Snapshot ID: `MCxiMzE2MjE0YTBmMGY4ZWVlZmJmYjg3M2JlMGM1NDVkODgwODJiMDlk`
+Snapshot ID: `MCxiMmQ5YzFjNzUwNjdkZTY2NmUzOGUwY2M0N2QyYTY3NDlmODc3MjZk`

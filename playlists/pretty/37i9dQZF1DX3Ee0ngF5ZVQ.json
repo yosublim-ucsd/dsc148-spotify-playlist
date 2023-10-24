@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randy Rogers and Wade Bowen",
-  "num_followers": 418570,
+  "num_followers": 418619,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTNiZTBlNTkzMjJlNGU4NWNkYWNjMTVkY2ZhOWQ4OWVjNDliYTZk",
+  "snapshot_id": "MCwxYWRmMjNkNjE1YjdmODhjN2E2Y2UwOGI3ODNkNzVmMDVmM2M0MzNm",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Stay Tuned",
-        "url": "https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6"
-      },
-      "artists": [
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "Stay Tuned",
-      "url": "https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Work Boots and More from Leather",
         "url": "https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 169013,
       "name": "Work Boots",
       "url": "https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Stay Tuned",
+        "url": "https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Stay Tuned",
+      "url": "https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "The Greys Between",
-        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 255159,
-      "name": "The Greys Between",
-      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Pretty Little Poison",
         "url": "https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 189013,
       "name": "West Texas Weather",
       "url": "https://open.spotify.com/track/4SKO7VBkJOwyfLNzYC8CkB"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "The Greys Between",
+        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "duration_ms": 255159,
+      "name": "The Greys Between",
+      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "I Just Killed A Man",
+        "url": "https://open.spotify.com/album/128clheSrjkaaJLnYe4ykz"
+      },
+      "artists": [
+        {
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+        }
+      ],
+      "duration_ms": 212215,
+      "name": "I Just Killed A Man",
+      "url": "https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Tough Country",
         "url": "https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "I Just Killed A Man",
-        "url": "https://open.spotify.com/album/128clheSrjkaaJLnYe4ykz"
+        "name": "Oughta See You (The Way I Do)",
+        "url": "https://open.spotify.com/album/71vntnzbDCNp3CpFc0RiET"
       },
       "artists": [
         {
-          "name": "Catie Offerman",
-          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 212215,
-      "name": "I Just Killed A Man",
-      "url": "https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG"
+      "duration_ms": 235446,
+      "name": "Oughta See You (The Way I Do)",
+      "url": "https://open.spotify.com/track/7tkXLhjS4lZjuykWzGkBF7"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -735,22 +751,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Last Goodbye",
-        "url": "https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA"
-      },
-      "artists": [
-        {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Last Goodbye",
-      "url": "https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "What Were You Thinking",
         "url": "https://open.spotify.com/album/4YudDYjGcci2sS7avHGVDJ"
       },
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Oughta See You (The Way I Do)",
-        "url": "https://open.spotify.com/album/71vntnzbDCNp3CpFc0RiET"
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA"
       },
       "artists": [
         {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
         }
       ],
-      "duration_ms": 235446,
-      "name": "Oughta See You (The Way I Do)",
-      "url": "https://open.spotify.com/track/7tkXLhjS4lZjuykWzGkBF7"
+      "duration_ms": 212946,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY"
+        "name": "Wherever I Am",
+        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
       "artists": [
         {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
         }
       ],
-      "duration_ms": 257146,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
+      "duration_ms": 253101,
+      "name": "Wherever I Am",
+      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Green Eyes Blue",
-        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
         }
       ],
-      "duration_ms": 217093,
-      "name": "Green Eyes Blue",
-      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
+      "duration_ms": 257146,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Wherever I Am",
-        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
+        "name": "Green Eyes Blue",
+        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
       },
       "artists": [
         {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 253101,
-      "name": "Wherever I Am",
-      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
+      "duration_ms": 217093,
+      "name": "Green Eyes Blue",
+      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Easy as Hello",
-        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
       "artists": [
         {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
         }
       ],
-      "duration_ms": 279796,
-      "name": "Easy as Hello",
-      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
         }
       ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Here's To You. Here's To Me.",
-        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
-      },
-      "artists": [
-        {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
-        }
-      ],
-      "duration_ms": 182318,
-      "name": "Tennessee Drinkin'",
-      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Dancin' With The Devil",
         "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 178848,
       "name": "Dancin' With The Devil",
       "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Here's To You. Here's To Me.",
+        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
+      },
+      "artists": [
+        {
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+        }
+      ],
+      "duration_ms": 182318,
+      "name": "Tennessee Drinkin'",
+      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Heartfelt",
-        "url": "https://open.spotify.com/album/5sCBCyGbNmMg4PzIg674ge"
+        "name": "blood",
+        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
       },
       "artists": [
         {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 195123,
-      "name": "Heartfelt",
-      "url": "https://open.spotify.com/track/0OGcW962TOINe5X95LeAhl"
+      "duration_ms": 298906,
+      "name": "blood",
+      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "blood",
-        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
+        "name": "Heartfelt",
+        "url": "https://open.spotify.com/album/5sCBCyGbNmMg4PzIg674ge"
       },
       "artists": [
         {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
         }
       ],
-      "duration_ms": 298906,
-      "name": "blood",
-      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
+      "duration_ms": 195123,
+      "name": "Heartfelt",
+      "url": "https://open.spotify.com/track/0OGcW962TOINe5X95LeAhl"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Lovin' Not Leavin'",
-        "url": "https://open.spotify.com/album/6mc464jvzmrvUJBwlLdExy"
+        "name": "Fooled Around",
+        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
       },
       "artists": [
         {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "Presley Drake",
+          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
         }
       ],
-      "duration_ms": 281973,
-      "name": "Lovin' Not Leavin'",
-      "url": "https://open.spotify.com/track/5rdW1DHY49AjT38jP4NZhf"
+      "duration_ms": 192125,
+      "name": "Fooled Around",
+      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Fooled Around",
-        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
+        "name": "Lovin' Not Leavin'",
+        "url": "https://open.spotify.com/album/6mc464jvzmrvUJBwlLdExy"
       },
       "artists": [
         {
-          "name": "Presley Drake",
-          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
         }
       ],
-      "duration_ms": 192125,
-      "name": "Fooled Around",
-      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
+      "duration_ms": 281973,
+      "name": "Lovin' Not Leavin'",
+      "url": "https://open.spotify.com/track/5rdW1DHY49AjT38jP4NZhf"
     },
     {
       "added_at": "2023-10-20 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 171388,
+  "num_followers": 171426,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzM5MmYxOTFhZTA2MzNjMDJhZDFlOWRhZTlhOTAxOWVlNWU2ZGM2",
+  "snapshot_id": "MCw3ZDgyYzExMzhlOTNjMDAyNjI3ZGEyYzBlYmRlZTcxOWRmZThhZmY1",
   "tracks": [
     {
       "added_at": "2023-10-12 20:02:07",
@@ -131,6 +131,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Someone To Spend Time With",
+        "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "duration_ms": 173953,
+      "name": "Someone To Spend Time With",
+      "url": "https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 227586,
       "name": "Mi Buen Amor",
       "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Someone To Spend Time With",
-        "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
-      },
-      "artists": [
-        {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
-        }
-      ],
-      "duration_ms": 173953,
-      "name": "Someone To Spend Time With",
-      "url": "https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -215,18 +215,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+        "name": "Piel Canela",
+        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 199505,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
+      "duration_ms": 102371,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -243,42 +243,6 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Am\u00e1rrame",
-      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Piel Canela",
-        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 102371,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -331,6 +295,26 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Am\u00e1rrame",
+      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Superclean, Vol. I",
         "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 236000,
       "name": "V\u00e1monos De Viaje",
       "url": "https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 199505,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/4JOcTTsqOx4g1G0U3lnt9m"
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
       "artists": [
         {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 159533,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/50efMyG2rMRQZ755G5iYMN"
+      "duration_ms": 254993,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -479,18 +479,34 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 254993,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
+      "duration_ms": 207346,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/4JOcTTsqOx4g1G0U3lnt9m"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "duration_ms": 159533,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/50efMyG2rMRQZ755G5iYMN"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -523,22 +539,6 @@
       "duration_ms": 220887,
       "name": "Yours",
       "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -603,6 +603,22 @@
       "duration_ms": 201986,
       "name": "1977",
       "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Unbothered",
+        "url": "https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 124954,
+      "name": "Unbothered",
+      "url": "https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -683,22 +699,6 @@
       "duration_ms": 223465,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Unbothered",
-        "url": "https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 124954,
-      "name": "Unbothered",
-      "url": "https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "\u00c9pocas",
-        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 221853,
-      "name": "\u00c9pocas",
-      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Tornaluna",
         "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 250073,
       "name": "Malas Amistades",
       "url": "https://open.spotify.com/track/1fVVT89PhHDh9COdU5DB9B"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "\u00c9pocas",
+        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "\u00c9pocas",
+      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "I'm Your Empress Of",
-        "url": "https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Love Is A Drug",
-      "url": "https://open.spotify.com/track/1plMJh3KzL9iza1xBtGfG9"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "El Invento",
         "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 153413,
       "name": "El Invento",
       "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "I'm Your Empress Of",
+        "url": "https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Love Is A Drug",
+      "url": "https://open.spotify.com/track/1plMJh3KzL9iza1xBtGfG9"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "jard\u00edn de flores",
-        "url": "https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 199523,
-      "name": "jard\u00edn de flores",
-      "url": "https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Far In",
         "url": "https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 290106,
       "name": "There Must Be a Song Like You",
       "url": "https://open.spotify.com/track/0686tzFJ79mRZPApYYLiMA"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "jard\u00edn de flores",
+        "url": "https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 199523,
+      "name": "jard\u00edn de flores",
+      "url": "https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "Te Guardo",
-      "url": "https://open.spotify.com/track/7c0Au5lLOgO8HmeCRNHoOb"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Daikiri",
         "url": "https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Ag\u00fcita: Remixes",
-        "url": "https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39"
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
       "artists": [
         {
-          "name": "Gabriel Garz\u00f3n-Montano",
-          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Flor",
-      "url": "https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM"
+      "duration_ms": 202360,
+      "name": "Te Guardo",
+      "url": "https://open.spotify.com/track/7c0Au5lLOgO8HmeCRNHoOb"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1527,6 +1511,22 @@
       "duration_ms": 195693,
       "name": "Despues De Almuerzo Parte 3",
       "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Ag\u00fcita: Remixes",
+        "url": "https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Garz\u00f3n-Montano",
+          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Flor",
+      "url": "https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Pastel",
-        "url": "https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3"
-      },
-      "artists": [
-        {
-          "name": "Katz\u00f9 Oso",
-          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
-        }
-      ],
-      "duration_ms": 129281,
-      "name": "Pastel",
-      "url": "https://open.spotify.com/track/6Xur7MWcS7np7zm3ijJO0w"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Garden of Lucid",
         "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 190462,
       "name": "Cuando",
       "url": "https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Pastel",
+        "url": "https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3"
+      },
+      "artists": [
+        {
+          "name": "Katz\u00f9 Oso",
+          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
+        }
+      ],
+      "duration_ms": 129281,
+      "name": "Pastel",
+      "url": "https://open.spotify.com/track/6Xur7MWcS7np7zm3ijJO0w"
     },
     {
       "added_at": "2023-10-12 20:02:07",

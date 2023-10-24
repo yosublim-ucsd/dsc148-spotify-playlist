@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-366 songs - 18 hr 18 min
+367 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Gold](https://open.spotify.com/track/2SmxSYAPK79ev2XAC7jZ7Q) | [Tokyo.Extra0rdinaire](https://open.spotify.com/artist/2Ju1k3o35LHhJ8GYP5TxAO), [Fonzo3rd](https://open.spotify.com/artist/23MovkrsUbue4vLRrU9uil) | [Gold](https://open.spotify.com/album/2TA0BZw2TGUjXAaD5liuhD) | 3:02 | 2021-12-11 | 2022-07-28 |
 | [Good Morning](https://open.spotify.com/track/2A4gRO5i9fZvmS5rRyVRhF) | [Jubril](https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX) | [Good Morning](https://open.spotify.com/album/5C47DQlpqPQ2tBIWOlmkGB) | 2:25 | 2022-05-28 | 2022-07-24 |
 | [Good News](https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:13 | 2022-11-18 |  |
+| [GOOD TO ME](https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW) | [nathan huang](https://open.spotify.com/artist/4dzy2MaxMOZwVTWXXq3JAL), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [GOOD TO ME](https://open.spotify.com/album/3Cfnat6JaNYV3ol0qOzzek) | 3:27 | 2023-02-18 |  |
 | [Grateful](https://open.spotify.com/track/71zr0NvefhBcxGr3I1tz9n) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Grateful](https://open.spotify.com/album/0bOUYrO3nah1TG2foN7xAg) | 3:48 | 2021-12-11 | 2022-07-24 |
 | [Graves](https://open.spotify.com/track/1CEYsFOS0hAoVxuqtRmaLz) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves](https://open.spotify.com/album/7IyWwzTZC4NAGp9Sg0UAKM) | 4:20 | 2022-11-18 |  |
 | [Great Is He](https://open.spotify.com/track/7baxiYAhAx9MHum5NhtOML) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Great Is He](https://open.spotify.com/album/0F2g2Lr7ejLUJkLKToHRSf) | 3:21 | 2023-02-18 |  |
@@ -278,7 +279,7 @@
 | [Quarantino](https://open.spotify.com/track/3LKmwpIWHicHZbVKEz1usZ) | [DaShawn Shauntá](https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9) | [Quarantino](https://open.spotify.com/album/4B63Fl7bus1DEph97L9uQu) | 2:40 | 2021-12-11 | 2022-03-19 |
 | [Que Rica \(feat\. Rockie Fresh & Wes Writer\)](https://open.spotify.com/track/7yzKT78H8rYKCn2S6pDkhq) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Rockie Fresh](https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3), [Wes Writer](https://open.spotify.com/artist/4mqKTYiFfZKN9SI9QLzEE1) | [Que Rica \(feat\. Rockie Fresh & Wes Writer\)](https://open.spotify.com/album/7rlWZtosAzuvPIyxMoOu5f) | 2:53 | 2021-12-11 | 2022-03-17 |
 | [Ram in the Bush](https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Ram in the Bush](https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn) | 2:28 | 2022-05-28 |  |
-| [Reality Checks](https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz) | [Dru Bex](https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe) | [Reality Checks](https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo) | 3:10 | 2023-02-18 |  |
+| [Reality Checks](https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz) | [Dru Bex](https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe) | [Reality Checks](https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo) | 3:10 | 2023-02-18 | 2023-10-24 |
 | [Reasons](https://open.spotify.com/track/1JnLTx6HzwbLpslHe8WuAW) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Reasons](https://open.spotify.com/album/1MBqLO9XLipfFfYGbZx8mt) | 3:27 | 2021-12-11 | 2022-11-19 |
 | [Reborn](https://open.spotify.com/track/7IPD7tvVOxDasWX0ZTU8Gx) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Desesperado \(Español\)](https://open.spotify.com/album/3KkwQBbgUCdbStPTGEN8qQ) | 3:01 | 2021-12-11 | 2022-11-19 |
 | [Red Light Green Light](https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Tree](https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY) | 4:02 | 2022-11-18 | 2023-10-19 |

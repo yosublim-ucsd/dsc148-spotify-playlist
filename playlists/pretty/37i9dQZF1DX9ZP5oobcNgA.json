@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 115661,
+  "num_followers": 115695,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTdkYTI5MDRlYjdkZjlmNzA5NTEwN2UzNzQ5ZDA2ODU0OGJjNjk0",
+  "snapshot_id": "MCxmYTA3MWQ1OWE2NmZkYzQ0YTM1ZTgxNDA2N2QyMDM3ZWI0NzJjMWIy",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -343,26 +343,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Keyboard Suites, Vol. 1",
-        "url": "https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Philip Edward Fisher",
-          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Keyboard Suite No. 2 (Set I) in F Major, HWV 427: I. Adagio",
-      "url": "https://open.spotify.com/track/30HCgiGH4R8rgUMdF7njJK"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Water Music",
         "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 70786,
       "name": "Water Music, Suite No. 1, HWV 348: No. 8, Bourr\u00e9e",
       "url": "https://open.spotify.com/track/6jzEwUfXtY2tlZj9O158b8"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Keyboard Suites, Vol. 1",
+        "url": "https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Philip Edward Fisher",
+          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Keyboard Suite No. 2 (Set I) in F Major, HWV 427: I. Adagio",
+      "url": "https://open.spotify.com/track/30HCgiGH4R8rgUMdF7njJK"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -631,6 +631,30 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Organ Concertos, Op. 4",
+        "url": "https://open.spotify.com/album/2pflqKce344roWZ9shdTiC"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Richard Egarr",
+          "url": "https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        }
+      ],
+      "duration_ms": 434333,
+      "name": "Organ Concertos, Op. 4, Concerto No. 6 in B-Flat Major, HWV 294: I. Andante allegro",
+      "url": "https://open.spotify.com/track/2hRO0WN2Goxy4NWaQW58XB"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Royal Fireworks",
         "url": "https://open.spotify.com/album/5VBPDKdQ3UDSf3jXvOiIcr"
       },
@@ -655,30 +679,6 @@
       "duration_ms": 133106,
       "name": "Handel: Music for the Royal Fireworks, HWV 351: I. Overture (Adagio)",
       "url": "https://open.spotify.com/track/3rUZoFYbTiFJc4gxQDz3Hg"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Organ Concertos, Op. 4",
-        "url": "https://open.spotify.com/album/2pflqKce344roWZ9shdTiC"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Richard Egarr",
-          "url": "https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq"
-        },
-        {
-          "name": "Academy of Ancient Music",
-          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
-        }
-      ],
-      "duration_ms": 434333,
-      "name": "Organ Concertos, Op. 4, Concerto No. 6 in B-Flat Major, HWV 294: I. Andante allegro",
-      "url": "https://open.spotify.com/track/2hRO0WN2Goxy4NWaQW58XB"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -751,26 +751,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Keyboard Suites, Vol. 2",
-        "url": "https://open.spotify.com/album/3UdKO86YCgjHG20bXFiIRR"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Philip Edward Fisher",
-          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Keyboard Suite No. 5 in E Major, HWV 430: IV. Air and Doubles (\"Harmonious Blacksmith\")",
-      "url": "https://open.spotify.com/track/2bYyrku1w6I6hjHkiIND1x"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Peaceful Handel",
         "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 227000,
       "name": "Serse (Xerxes), Hwv 40 (arr. for oboe and orchestra): Act I: Ombra mai fu, \"largo\"",
       "url": "https://open.spotify.com/track/0Bzw4breRe6YyvaHpjaSYD"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Keyboard Suites, Vol. 2",
+        "url": "https://open.spotify.com/album/3UdKO86YCgjHG20bXFiIRR"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Philip Edward Fisher",
+          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Keyboard Suite No. 5 in E Major, HWV 430: IV. Air and Doubles (\"Harmonious Blacksmith\")",
+      "url": "https://open.spotify.com/track/2bYyrku1w6I6hjHkiIND1x"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1119,30 +1119,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "John Eliot Gardiner Conducts Handel",
-        "url": "https://open.spotify.com/album/5c1KNy2PXJttM46NhAq3hN"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        }
-      ],
-      "duration_ms": 131479,
-      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
-      "url": "https://open.spotify.com/track/6cWPW3Z6t4ECwzYVybTA6T"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel Coronation Anthems",
         "url": "https://open.spotify.com/album/4c8lcNQ6aSjGJ2pJEWACw8"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 164320,
       "name": "Handel: Coronation Anthem No. 4, HWV 261 \"My Heart Is Inditing\": I. My Heart Is Inditing",
       "url": "https://open.spotify.com/track/5VPuxHjU7hVG4kWkSyAR1H"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "John Eliot Gardiner Conducts Handel",
+        "url": "https://open.spotify.com/album/5c1KNy2PXJttM46NhAq3hN"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "duration_ms": 131479,
+      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
+      "url": "https://open.spotify.com/track/6cWPW3Z6t4ECwzYVybTA6T"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1367,6 +1367,30 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Laudate Pueri, Nisi Dominus",
+        "url": "https://open.spotify.com/album/6W9KFtCnix2uLaJtEBLPIx"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Alfred Deller",
+          "url": "https://open.spotify.com/artist/1A4CqshmD4SFeTbu1mJ8Q7"
+        },
+        {
+          "name": "The Deller Consort",
+          "url": "https://open.spotify.com/artist/3GIgkzvdc1l9dMzlhsnuZV"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Laudate Pueri (Psalm 112): Laudate Pueri Dominum",
+      "url": "https://open.spotify.com/track/2iypBiPebvQux3ZyZY5Sbe"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Ren\u00e9e Fleming - Handel Arias",
         "url": "https://open.spotify.com/album/53QDC8TNL7CEHRhbwpuudB"
       },
@@ -1391,30 +1415,6 @@
       "duration_ms": 292373,
       "name": "Giulio Cesare / Act 2: \"V'adoro, pupille\"",
       "url": "https://open.spotify.com/track/1WlUctCmXbyC5eKbJZ8Un0"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Laudate Pueri, Nisi Dominus",
-        "url": "https://open.spotify.com/album/6W9KFtCnix2uLaJtEBLPIx"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Alfred Deller",
-          "url": "https://open.spotify.com/artist/1A4CqshmD4SFeTbu1mJ8Q7"
-        },
-        {
-          "name": "The Deller Consort",
-          "url": "https://open.spotify.com/artist/3GIgkzvdc1l9dMzlhsnuZV"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Laudate Pueri (Psalm 112): Laudate Pueri Dominum",
-      "url": "https://open.spotify.com/track/2iypBiPebvQux3ZyZY5Sbe"
     },
     {
       "added_at": "2022-06-28 08:56:25",

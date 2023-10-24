@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Grand Corps Malade
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,285 likes - 113 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,289 likes - 113 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 112 | [Close Quarters](https://open.spotify.com/track/7eCpxZdpP7kz9j2OUJLbpd) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Close Quarters](https://open.spotify.com/album/4JEizeJf7M3cbLEzbtmxif) | 3:40 |
 | 113 | [Stufen](https://open.spotify.com/track/0Aj0hJaWiHeplZ1LHIfTNz) | [Antifuchs](https://open.spotify.com/artist/5cPSq1945RxgQSIHkxp3Jq), [TACKA77](https://open.spotify.com/artist/2qW5OrEpn4I48VeS2p9sKb) | [FEMINEM](https://open.spotify.com/album/5HojPPDJe5l4YXE5av33YX) | 2:27 |
 
-Snapshot ID: `MCw5MzViODNjNmRhZmE5MWEzZDcyNTkzYTc1ZmI2MWY1ODY2Y2JkZjZk`
+Snapshot ID: `MCw0MzU2ZGExNGUzNWU2ODNjZDI4N2E0M2MzYTcxODgzYzhjOTkyMTdh`

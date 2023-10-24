@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: BoyWithUke
 
-2,235 songs - 5 day 10 hr 20 min
+2,236 songs - 5 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Better Left Unsaid](https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Better Left Unsaid](https://open.spotify.com/album/0Bvhx5LTA2K3XWAXqrypCj) | 3:26 | 2023-05-21 | 2023-05-30 |
 | [Better Love](https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Better Love](https://open.spotify.com/album/0delJu1UUzdBfufg94lbME) | 2:18 | 2023-03-05 | 2023-03-20 |
 | [Better Man](https://open.spotify.com/track/2BHbnX2TI08CyUa9gWFeqK) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 2:52 | 2023-04-09 | 2023-04-17 |
-| [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC) | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS) | 2:31 | 2023-10-01 |  |
+| [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC) | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS) | 2:31 | 2023-10-01 | 2023-10-24 |
 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 | 2023-10-01 | 2023-10-09 |
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-20 | 2023-08-28 |
 | [BETTING](https://open.spotify.com/track/2D4FPjRVAWPGZUnO3Qzz8d) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx), [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [BETTING](https://open.spotify.com/album/5tVF9innz1XK3xj72Phi7e) | 3:18 | 2023-01-29 | 2023-02-06 |
@@ -641,7 +641,7 @@
 | [Grapefruit Moon](https://open.spotify.com/track/4u6rKlnEBE1Ul3Ll7IUuH9) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Grapefruit Moon](https://open.spotify.com/album/0JFZ2rVwfkL6YpBfyNIN1l) | 3:16 | 2023-09-24 | 2023-09-30 |
 | [Grateful Days](https://open.spotify.com/track/3oC5ojye9bZTp1Z5UDEUhl) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [Grateful Days](https://open.spotify.com/album/3LIVv7tHwJ3wXthuXT8APm) | 3:08 | 2023-06-18 | 2023-06-26 |
 | [Graveyard](https://open.spotify.com/track/2GtYzWux5LwmdOzKkYLbZG) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [A R I Z O N A](https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED) | 3:43 | 2023-05-14 | 2023-05-23 |
-| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-17 |  |
+| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-17 | 2023-10-24 |
 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 | 2023-01-29 | 2023-02-06 |
 | [Green Honda](https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Green Honda](https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq) | 2:46 | 2023-02-12 | 2023-04-03 |
 | [GREENAPPLE](https://open.spotify.com/track/5nXP1BgrG7yFiYfAkU5cCB) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [GREENAPPLE](https://open.spotify.com/album/6X8QNNJt97xmpXIpurPXLD) | 3:27 | 2023-05-28 | 2023-06-05 |
@@ -1786,6 +1786,7 @@
 | [When I Feel You](https://open.spotify.com/track/5TyOOFGwABSR6OoX3k65j4) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB), [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [When I Feel You](https://open.spotify.com/album/5pJU06vlP1sffr47RXgF3n) | 3:28 | 2023-02-26 | 2023-03-06 |
 | [When I Get There](https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [When I Get There](https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G) | 3:20 | 2023-02-19 | 2023-03-06 |
 | [When Love Sucks \(feat\. Dido\)](https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [When Love Sucks \(feat\. Dido\)](https://open.spotify.com/album/0BmbK3Ayd0Q9BWOCQYOdQw) | 2:49 | 2023-05-21 | 2023-05-30 |
+| [When You Were Mine](https://open.spotify.com/track/4pv5pR4JudHAwMPBWiGNDe) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q) | [When You Were Mine](https://open.spotify.com/album/33YCqN3U3IXTdEQFYJzdPU) | 3:00 | 2023-10-23 |  |
 | [Where Do We Go?](https://open.spotify.com/track/3n2YaCic0C3gjCgkTkwfOz) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Where Do We Go?](https://open.spotify.com/album/13ukRIGlCs6RbRAvDVzhF8) | 3:22 | 2023-04-30 | 2023-05-08 |
 | [WHERE DOES YOUR SPIRIT GO?](https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [WHERE DOES YOUR SPIRIT GO?](https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ) | 3:21 | 2023-04-23 | 2023-05-01 |
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-05-21 | 2023-05-30 |

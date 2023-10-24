@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 286168,
+  "num_followers": 286245,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDZlZmNjODIwMWVjOTYzYTI5NzZhNzcwZjhjNDJhZDBkZGY5YTVh",
+  "snapshot_id": "MCxlOTM1ZDg0NTU5ZWM4Nzc5MzgyZGI5NDk2MzgyY2EzNjIyNmU0Y2Uw",
   "tracks": [
     {
       "added_at": "2023-10-15 21:13:33",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-10-15 21:13:33",
       "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 185898,
+      "name": "On the Low",
+      "url": "https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
         "name": "UN DIA (ONE DAY) (Feat. Tainy)",
         "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 185898,
-      "name": "On the Low",
-      "url": "https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd"
     },
     {
       "added_at": "2023-10-15 21:13:33",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-10-15 21:13:33",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
         "name": "ZaZa Vibes",
         "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
       },
@@ -563,6 +547,58 @@
       "duration_ms": 171428,
       "name": "Sempe",
       "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
+        "name": "Love Don't Cost A Dime (Re-Up)",
+        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Love Don't Cost A Dime (Re-Up)",
+      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
     },
     {
       "added_at": "2023-10-15 21:13:33",
@@ -587,42 +623,6 @@
       "duration_ms": 218826,
       "name": "COMO UN BEB\u00c9",
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
-        "name": "Tiki Taka",
-        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Tiki Taka",
-      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
-        "name": "Love Don't Cost A Dime (Re-Up)",
-        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Love Don't Cost A Dime (Re-Up)",
-      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
       "added_at": "2023-10-15 21:13:33",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-10-15 21:13:33",
       "album": {
-        "name": "AFROBOY",
-        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
-      },
-      "artists": [
-        {
-          "name": "kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        }
-      ],
-      "duration_ms": 191827,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
         "name": "Fleur froide (Donum Novae)",
         "url": "https://open.spotify.com/album/1wfBteislDojq5pAYJufME"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 197240,
       "name": "Le temps",
       "url": "https://open.spotify.com/track/6yIh43XrY4Mc5xOxeagVhp"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
+        "name": "AFROBOY",
+        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "duration_ms": 191827,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
     },
     {
       "added_at": "2023-10-15 21:13:33",
@@ -823,6 +823,26 @@
       "duration_ms": 153946,
       "name": "i'm a mess",
       "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
+        "name": "Cough (Odo)",
+        "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "duration_ms": 176134,
+      "name": "Cough (Odo)",
+      "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
     },
     {
       "added_at": "2023-10-15 21:13:33",
@@ -891,26 +911,6 @@
       "duration_ms": 135480,
       "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
       "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
-        "name": "Cough (Odo)",
-        "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
-        }
-      ],
-      "duration_ms": 176134,
-      "name": "Cough (Odo)",
-      "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
     },
     {
       "added_at": "2023-10-15 21:13:33",
@@ -991,6 +991,26 @@
     {
       "added_at": "2023-10-15 21:13:33",
       "album": {
+        "name": "Buga (Lo Lo Lo)",
+        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 183103,
+      "name": "Buga (Lo Lo Lo)",
+      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
       },
@@ -1063,26 +1083,6 @@
     {
       "added_at": "2023-10-15 21:13:33",
       "album": {
-        "name": "Buga (Lo Lo Lo)",
-        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 183103,
-      "name": "Buga (Lo Lo Lo)",
-      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
         "name": "Ghazali (feat. Bryan Mg)",
         "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-10-15 21:13:33",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
         "name": "Sounds From The Other Side",
         "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 183349,
       "name": "All Of Us (Ashawo)",
       "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
     },
     {
       "added_at": "2023-10-15 21:13:33",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-10-15 21:13:33",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 168742,
-      "name": "woman",
-      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
         "name": "5 Star",
         "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2023-10-15 21:13:33",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 168742,
+      "name": "woman",
+      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
         "name": "Peru",
         "url": "https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe"
       },
@@ -1475,26 +1475,6 @@
       "duration_ms": 151640,
       "name": "Peru",
       "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
-        "name": "Tucu",
-        "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Amarion",
-          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
-        }
-      ],
-      "duration_ms": 186895,
-      "name": "Tucu",
-      "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
     },
     {
       "added_at": "2023-10-15 21:13:33",
@@ -1515,6 +1495,26 @@
       "duration_ms": 145066,
       "name": "Baila",
       "url": "https://open.spotify.com/track/3t52Hs4LPHYt1OeUSliFpP"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
+        "name": "Tucu",
+        "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        }
+      ],
+      "duration_ms": 186895,
+      "name": "Tucu",
+      "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
     },
     {
       "added_at": "2023-10-15 21:13:33",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-10-15 21:13:33",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 207474,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 155307,
       "name": "Can't Anymore",
       "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 207474,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
       "added_at": "2023-10-15 21:13:33",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-10-15 21:13:33",
       "album": {
+        "name": "understand",
+        "url": "https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "understand",
+      "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
         "name": "Sound from Africa",
         "url": "https://open.spotify.com/album/5ku1S5rs8OsxdMeAxjZk9q"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 152608,
       "name": "Tetema (feat. Diamond Platnumz)",
       "url": "https://open.spotify.com/track/50tFLjmKu1pftJONIbaljz"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
-        "name": "understand",
-        "url": "https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "understand",
-      "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
     },
     {
       "added_at": "2023-10-15 21:13:33",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-10-15 21:13:33",
       "album": {
-        "name": "MOTO",
-        "url": "https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 178579,
-      "name": "MOTO",
-      "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
         "name": "Tigini (Remix)",
         "url": "https://open.spotify.com/album/5Z0OHKESY25HeRWOjEUrKp"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 196033,
       "name": "Tigini - Remix",
       "url": "https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
+        "name": "MOTO",
+        "url": "https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 178579,
+      "name": "MOTO",
+      "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
     },
     {
       "added_at": "2023-10-15 21:13:33",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-10-15 21:13:33",
       "album": {
-        "name": "Waistline",
-        "url": "https://open.spotify.com/album/6EdcTJXFmTNBtPbujaXYJ6"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 165154,
-      "name": "Waistline",
-      "url": "https://open.spotify.com/track/0wd6imcxxLZhP7cTzyBeua"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
         "name": "Do You Mind?",
         "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 147174,
       "name": "Do You Mind?",
       "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
+        "name": "Waistline",
+        "url": "https://open.spotify.com/album/6EdcTJXFmTNBtPbujaXYJ6"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 165154,
+      "name": "Waistline",
+      "url": "https://open.spotify.com/track/0wd6imcxxLZhP7cTzyBeua"
     },
     {
       "added_at": "2023-10-15 21:13:33",
@@ -2211,18 +2211,18 @@
     {
       "added_at": "2023-10-15 21:13:33",
       "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
+        "name": "Section",
+        "url": "https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K"
       },
       "artists": [
         {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
         }
       ],
-      "duration_ms": 171092,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
+      "duration_ms": 134400,
+      "name": "Section",
+      "url": "https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP"
     },
     {
       "added_at": "2023-10-15 21:13:33",
@@ -2239,22 +2239,6 @@
       "duration_ms": 148283,
       "name": "Selling Dreams",
       "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
-        "name": "Section",
-        "url": "https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Section",
-      "url": "https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP"
     },
     {
       "added_at": "2023-10-15 21:13:33",
@@ -2295,8 +2279,8 @@
     {
       "added_at": "2023-10-15 21:13:33",
       "album": {
-        "name": "West Indies",
-        "url": "https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq"
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
       },
       "artists": [
         {
@@ -2304,9 +2288,9 @@
           "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
         }
       ],
-      "duration_ms": 237458,
-      "name": "West Indies",
-      "url": "https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE"
+      "duration_ms": 171092,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
     },
     {
       "added_at": "2023-10-15 21:13:33",
@@ -2439,6 +2423,38 @@
     {
       "added_at": "2023-10-15 21:13:33",
       "album": {
+        "name": "West Indies",
+        "url": "https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 237458,
+      "name": "West Indies",
+      "url": "https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
+        "name": "Drunk in Love (Henny)",
+        "url": "https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "duration_ms": 104357,
+      "name": "Drunk in Love (Henny)",
+      "url": "https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
         "name": "Baila Kumi",
         "url": "https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav"
       },
@@ -2483,46 +2499,6 @@
     {
       "added_at": "2023-10-15 21:13:33",
       "album": {
-        "name": "Caribe 2.0",
-        "url": "https://open.spotify.com/album/1tPnFAJ2ihuiKlh05HUh9o"
-      },
-      "artists": [
-        {
-          "name": "KILATE TESLA",
-          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
-        },
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Jeon",
-          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "Caribe 2.0",
-      "url": "https://open.spotify.com/track/4L8bFIYzXyK7U8EJk5POlO"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
-        "name": "Drunk in Love (Henny)",
-        "url": "https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn"
-      },
-      "artists": [
-        {
-          "name": "JMANI",
-          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
-        }
-      ],
-      "duration_ms": 104357,
-      "name": "Drunk in Love (Henny)",
-      "url": "https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
         "name": "\u00c7a Sert \u00e0 Rien",
         "url": "https://open.spotify.com/album/2GIqPe6SrTBebOm1DCgJG5"
       },
@@ -2543,6 +2519,30 @@
       "duration_ms": 170068,
       "name": "\u00c7a Sert \u00e0 Rien",
       "url": "https://open.spotify.com/track/0FmQ6iu0RCCUdIntK2q2eL"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
+        "name": "Caribe 2.0",
+        "url": "https://open.spotify.com/album/1tPnFAJ2ihuiKlh05HUh9o"
+      },
+      "artists": [
+        {
+          "name": "KILATE TESLA",
+          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Jeon",
+          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "Caribe 2.0",
+      "url": "https://open.spotify.com/track/4L8bFIYzXyK7U8EJk5POlO"
     },
     {
       "added_at": "2023-10-15 21:13:33",
@@ -2823,26 +2823,6 @@
     {
       "added_at": "2023-10-15 21:13:33",
       "album": {
-        "name": "Handle It",
-        "url": "https://open.spotify.com/album/3sROPPitey2yWNNdeQNQEK"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        }
-      ],
-      "duration_ms": 203001,
-      "name": "Handle It",
-      "url": "https://open.spotify.com/track/53MCnnU5XI7Xr1IbaF6KN8"
-    },
-    {
-      "added_at": "2023-10-15 21:13:33",
-      "album": {
         "name": "Pelikula",
         "url": "https://open.spotify.com/album/4uBGxgyGUu0Vf0ZYxCrKDr"
       },
@@ -2859,6 +2839,26 @@
       "duration_ms": 193543,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/7nYG5KBe9rMuZ06Idhi2Rq"
+    },
+    {
+      "added_at": "2023-10-15 21:13:33",
+      "album": {
+        "name": "Handle It",
+        "url": "https://open.spotify.com/album/3sROPPitey2yWNNdeQNQEK"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "duration_ms": 203001,
+      "name": "Handle It",
+      "url": "https://open.spotify.com/track/53MCnnU5XI7Xr1IbaF6KN8"
     },
     {
       "added_at": "2023-10-15 21:13:33",

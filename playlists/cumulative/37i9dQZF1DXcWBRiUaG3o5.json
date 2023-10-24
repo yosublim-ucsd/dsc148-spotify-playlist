@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 317266,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH"
@@ -1812,6 +1812,24 @@
       "duration_ms": 192998,
       "name": "Leave the Light On - Demo",
       "url": "https://open.spotify.com/track/2nxBkZ02hsiU3SIowH4XQI"
+    },
+    {
+      "album": {
+        "name": "Campfire, Vol. 1",
+        "url": "https://open.spotify.com/album/5iAggKoFENKm9glKjYBivz"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205454,
+      "name": "Let's Go Outside - Campfire Version",
+      "url": "https://open.spotify.com/track/6TTY6RUXmtl8VgKzm5szBO"
     },
     {
       "album": {
@@ -2680,7 +2698,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 133786,
       "name": "Sang About It",
       "url": "https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg"
@@ -3726,7 +3744,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 186560,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt"

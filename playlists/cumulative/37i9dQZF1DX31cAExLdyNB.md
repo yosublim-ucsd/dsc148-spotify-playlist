@@ -4,7 +4,7 @@
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-120 songs - 7 hr 27 min
+121 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [PAGA DIOS](https://open.spotify.com/track/2CGc8zqNbsnYVV5oPXZIku) | [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAGA DIOS](https://open.spotify.com/album/6N0HJ7vRJLzUVjBmQPrDit) | 2:16 | 2022-03-18 | 2023-03-11 |
 | [Polish Girl](https://open.spotify.com/track/7vA9zWg6fmjLZn105Uj4TE) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Era Extraña](https://open.spotify.com/album/2N9pVEQw0ByXjNn9QSknz3) | 4:24 | 2022-01-07 | 2022-03-18 |
 | [Precipicio](https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Lavandina](https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw) | 4:59 | 2022-01-07 |  |
+| [Realidades No Ordinarias](https://open.spotify.com/track/58VAdJ19ENSELUjofs5Ocn) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT), [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Realidades No Ordinarias, Vol\. 2](https://open.spotify.com/album/6RhTZGJrzknEtNjWQqTkaI) | 4:49 | 2023-03-10 |  |
 | [Realidades No Ordinarias](https://open.spotify.com/track/71GdwydcMwyK63mJncZwTt) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT), [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Realidades No Ordinarias, Vol\. 2](https://open.spotify.com/album/7iDKNoDsFFEZrTUqvKsXAM) | 4:49 | 2022-01-07 | 2023-04-26 |
 | [Se Eu Soubesse](https://open.spotify.com/track/0T7iwFLmkeKuKvFdtUTKGe) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [Cura](https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt) | 3:37 | 2022-01-07 |  |
 | [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 | 2022-01-07 |  |
@@ -110,7 +111,7 @@
 | [Suéltame, Bogotá](https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI) | 3:48 | 2023-03-10 |  |
 | [Swimming Pool](https://open.spotify.com/track/3BMqVk2NJbH4fxf84e8kDC) | [Marie Madeleine](https://open.spotify.com/artist/42Wmw8g4Cl9ZsxYR8prhSC) | [Swimming Pool](https://open.spotify.com/album/2fzPtlFd8OSlCaIXVYrdls) | 5:25 | 2022-01-21 | 2022-03-18 |
 | [Tainted Love](https://open.spotify.com/track/1wAPbQ5XjbZqPl0WDl5mHH) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:59 | 2022-01-07 |  |
-| [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 | 2022-01-21 |  |
+| [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 | 2022-01-21 | 2023-10-24 |
 | [Tears at Bae](https://open.spotify.com/track/3WPFFAjIYYGnfRkjO29lqQ) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Tears at Bae](https://open.spotify.com/album/0nVGuICcGzCEm3A3psO84B) | 3:22 | 2022-03-18 | 2022-07-29 |
 | [Tears At Bae](https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:22 | 2022-03-18 |  |
 | [Temporal](https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY) | [Temporal](https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj) | 2:56 | 2022-03-18 |  |

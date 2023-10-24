@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Sarah Kang
 
-353 songs - 20 hr 22 min
+355 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,8 @@
 | [Living My Best Life](https://open.spotify.com/track/0jDROv5ssPfOrkj23VqEIq) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/2XoxoOgF9kXJeXOp9GbGwI) | 3:35 | 2022-01-07 | 2022-07-31 |
 | [Living with Your Memory](https://open.spotify.com/track/6aCrKdFRzobnkNT65cDGUe) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Living with Your Memory](https://open.spotify.com/album/4BxjNBVsvFNvDBebXVPfrn) | 3:14 | 2022-04-01 | 2022-07-09 |
 | [Lonely](https://open.spotify.com/track/3uniYjDIM3FZEdL2fE1MLc) | [Local Nomad](https://open.spotify.com/artist/48Dewct2nrCHCT3NvDcydV), [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [Lonely](https://open.spotify.com/album/15sFi94U2Y45drc3e8mD6U) | 3:42 | 2021-12-03 | 2022-07-27 |
-| [Long Goodbye](https://open.spotify.com/track/16DVu0Kqj2RpmiCuLpqRQp) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/7JXHOJzHPh43y5gxDHoV97) | 4:23 | 2023-09-08 |  |
+| [Long Goodbye](https://open.spotify.com/track/16DVu0Kqj2RpmiCuLpqRQp) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/7JXHOJzHPh43y5gxDHoV97) | 4:23 | 2023-09-08 | 2023-10-24 |
+| [Long Goodbye](https://open.spotify.com/track/5HFouuI6G4RNFoQFnr0cOU) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/1FY6Ov9aGkNEhXa7GbeRwM) | 4:23 | 2023-09-08 |  |
 | [Long Way 'Round](https://open.spotify.com/track/0mmhjGwRqZ5tTVYxF2ewpb) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Long Way 'Round](https://open.spotify.com/album/4uUuLVYP7mwMRvovExURYk) | 4:05 | 2022-03-18 | 2023-02-16 |
 | [Looking Through The Hours](https://open.spotify.com/track/10fIQMKiKrbTswLiwSQSZ8) | [Bombargo](https://open.spotify.com/artist/5gcuakqbbCNnx9fBZWCFfW) | [Looking Through The Hours](https://open.spotify.com/album/5K3qB9W5nsVnMXsuqJLZeA) | 3:57 | 2022-05-13 | 2022-07-22 |
 | [Love](https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:32 | 2021-12-03 | 2022-07-29 |
@@ -237,6 +238,7 @@
 | [Not Dead Yet](https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 2:57 | 2021-12-03 | 2023-01-28 |
 | [Off The Ground](https://open.spotify.com/track/6Wndl2xyawNa2fQNVYPVt8) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Off The Ground](https://open.spotify.com/album/1Yxdm1iJz3y3qo2Gv2QET0) | 4:02 | 2021-12-03 | 2022-07-24 |
 | [ok with it](https://open.spotify.com/track/2LRvqsiYThrc2zbBp8vElD) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [ok with it](https://open.spotify.com/album/1VTt9SI2yCJMHuJ9JItnt9) | 2:45 | 2023-05-19 |  |
+| [OMG](https://open.spotify.com/track/1BWfBlp8iDl2moH11H8uT1) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [OMG](https://open.spotify.com/album/7gF4FonOZVm7DXUEh9uNdC) | 3:19 | 2023-10-13 |  |
 | [omw](https://open.spotify.com/track/46b0Hj6XPgIrwKURVsZeVA) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [omw](https://open.spotify.com/album/7gjkHNt9Vc71PPXPp5Pja0) | 2:51 | 2022-10-14 |  |
 | [On Top of the World](https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [On Top of the World](https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj) | 3:59 | 2021-12-03 | 2022-12-13 |
 | [One Thing](https://open.spotify.com/track/7JZLDYLLyoRJ97NoZMEXZl) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [One Thing](https://open.spotify.com/album/4YNRtUmWyTeKmpt402o33l) | 2:20 | 2022-01-28 | 2023-09-23 |
@@ -285,7 +287,7 @@
 | [SING](https://open.spotify.com/track/73qyiny4KFB8kh4n2TUkOX) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [SING](https://open.spotify.com/album/1o3sKhWeAePQIl0DQegPla) | 3:11 | 2021-12-03 | 2022-07-29 |
 | [Skate](https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Skate](https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo) | 3:23 | 2021-12-03 | 2022-07-28 |
 | [Skate](https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:23 | 2021-12-03 | 2023-01-28 |
-| [Slitted Tongue](https://open.spotify.com/track/6lZpYp8Cd6tQlCDchtg3ch) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Slitted Tongue](https://open.spotify.com/album/5co49ntVCysUnAHuIBiBh2) | 3:08 | 2022-03-25 |  |
+| [Slitted Tongue](https://open.spotify.com/track/6lZpYp8Cd6tQlCDchtg3ch) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Slitted Tongue](https://open.spotify.com/album/5co49ntVCysUnAHuIBiBh2) | 3:08 | 2022-03-25 | 2023-10-24 |
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 | 2022-02-18 |  |
 | [Smile](https://open.spotify.com/track/2AHGHX3SIsBUmSXAbBhWHb) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Smile](https://open.spotify.com/album/5yQX2nTKX3Fkk4M1N9YJbu) | 2:50 | 2022-02-04 |  |
 | [Smooth Sailin'](https://open.spotify.com/track/3JbqwFY5q0ORO3siv5zL3A) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:03 | 2021-12-03 | 2022-05-08 |

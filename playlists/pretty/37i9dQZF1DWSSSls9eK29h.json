@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 123471,
+  "num_followers": 123571,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Nzk5YzI4M2FiNDA3OWU5N2U0M2MwOTVmNGZiMGU2ZmViYjU1NTA3",
+  "snapshot_id": "MCxjNDcxYWQxMDJkMTMxZmE4MjQ0MjkzZDkyMTM1ZTBiNjZlOTZlOGVl",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -187,22 +187,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "From The Heart",
-        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 313066,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "After The Storm",
         "url": "https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 285466,
       "name": "That's The Way Love Goes",
       "url": "https://open.spotify.com/track/6UkHSbQcqBwWZr98OSELoL"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 313066,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -331,22 +331,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Just Between Us",
         "url": "https://open.spotify.com/album/6bwAkYAEZ8eA9rskEYtPoN"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 289040,
       "name": "So Amazing",
       "url": "https://open.spotify.com/track/6vRfKcVF63Chfd63VQyqhT"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -507,6 +507,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "A River In The Desert",
+        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
+      },
+      "artists": [
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        }
+      ],
+      "duration_ms": 338933,
+      "name": "The East from the West",
+      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "The Power Of Touch",
         "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 310893,
       "name": "Aruban Nights",
       "url": "https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Urban Knights",
-        "url": "https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW"
-      },
-      "artists": [
-        {
-          "name": "Urban Knights",
-          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
-        }
-      ],
-      "duration_ms": 437133,
-      "name": "Hearts Of Longing",
-      "url": "https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -555,34 +555,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "A River In The Desert",
-        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
+        "name": "Urban Knights",
+        "url": "https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW"
       },
       "artists": [
         {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+          "name": "Urban Knights",
+          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
         }
       ],
-      "duration_ms": 338933,
-      "name": "The East from the West",
-      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Straight To You",
-        "url": "https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9"
-      },
-      "artists": [
-        {
-          "name": "Brian Hughes",
-          "url": "https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb"
-        }
-      ],
-      "duration_ms": 316466,
-      "name": "Pamela",
-      "url": "https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np"
+      "duration_ms": 437133,
+      "name": "Hearts Of Longing",
+      "url": "https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -599,6 +583,22 @@
       "duration_ms": 230533,
       "name": "Fly Away (Thinking Of You)",
       "url": "https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Straight To You",
+        "url": "https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9"
+      },
+      "artists": [
+        {
+          "name": "Brian Hughes",
+          "url": "https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb"
+        }
+      ],
+      "duration_ms": 316466,
+      "name": "Pamela",
+      "url": "https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -667,22 +667,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Easy Street",
-        "url": "https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74"
-      },
-      "artists": [
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 317133,
-      "name": "Easy Street",
-      "url": "https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "I Came To Play",
         "url": "https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 317800,
       "name": "Let's Wait Awhile",
       "url": "https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Easy Street",
+        "url": "https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74"
+      },
+      "artists": [
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        }
+      ],
+      "duration_ms": 317133,
+      "name": "Easy Street",
+      "url": "https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -731,22 +731,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "107 In The Shade",
-        "url": "https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF"
-      },
-      "artists": [
-        {
-          "name": "Alex Bugnon",
-          "url": "https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "107 In the Shade",
-      "url": "https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "First View",
         "url": "https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 326933,
       "name": "West End",
       "url": "https://open.spotify.com/track/5KVlCe3igMGYLOY8PlIFCg"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "107 In The Shade",
+        "url": "https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF"
+      },
+      "artists": [
+        {
+          "name": "Alex Bugnon",
+          "url": "https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "107 In the Shade",
+      "url": "https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -875,22 +875,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/2pqZnilWdNRtwv5Se30hA4"
-      },
-      "artists": [
-        {
-          "name": "George Howard",
-          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
-        }
-      ],
-      "duration_ms": 329826,
-      "name": "I Want You For Myself",
-      "url": "https://open.spotify.com/track/5rkVq7MwaVJHS9ZFt3uOjo"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Saxtress",
         "url": "https://open.spotify.com/album/2Zf6Lb0XbvnqBaXBTFHVBj"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 302306,
       "name": "Castine",
       "url": "https://open.spotify.com/track/3fWldcBwLpvt3JSWU5EsAT"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/2pqZnilWdNRtwv5Se30hA4"
+      },
+      "artists": [
+        {
+          "name": "George Howard",
+          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
+        }
+      ],
+      "duration_ms": 329826,
+      "name": "I Want You For Myself",
+      "url": "https://open.spotify.com/track/5rkVq7MwaVJHS9ZFt3uOjo"
     },
     {
       "added_at": "2020-08-19 00:00:21",

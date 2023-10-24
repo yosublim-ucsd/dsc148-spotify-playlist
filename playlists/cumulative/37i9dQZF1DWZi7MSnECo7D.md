@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Supercombo, Tuyo
 
-509 songs - 1 day 4 hr 45 min
+510 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,8 @@
 | [Quarta Obra](https://open.spotify.com/track/5rqGTsecw0HNMwOC3j3yCb) | [Saskia](https://open.spotify.com/artist/2kcQw1XkWgIMzF2sArt6NT) | [Quartas](https://open.spotify.com/album/0CJn9AMkYslFvMEWM9W4x1) | 3:55 | 2022-04-29 | 2022-05-14 |
 | [Quarto Sem Janela](https://open.spotify.com/track/2CNpYIScasnONCyhsxV1KJ) | [Revna](https://open.spotify.com/artist/5euRHFqQ2U4fCCctRKkpf0) | [Quarto Sem Janela](https://open.spotify.com/album/00oztNjsDIsSItMlifZWrK) | 3:04 | 2022-01-14 | 2022-02-26 |
 | [Quem Me Dera](https://open.spotify.com/track/4Wbupcobm9ryFXY5M3Hwoa) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Quem Me Dera](https://open.spotify.com/album/6xyftajgJC0tmzaKgyLINz) | 2:26 | 2022-11-18 | 2023-01-14 |
-| [Quem Será?](https://open.spotify.com/track/00BK2exmvdM76fULBDrAvf) | [Colibri](https://open.spotify.com/artist/3R9wxOS0XWvgNBJZxtXi4y), [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r) | [Quem Será?](https://open.spotify.com/album/1ANOn0G6F1e2PyXyDgkjNS) | 6:16 | 2023-08-04 |  |
+| [Quem Será?](https://open.spotify.com/track/00BK2exmvdM76fULBDrAvf) | [Colibri](https://open.spotify.com/artist/3R9wxOS0XWvgNBJZxtXi4y), [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r) | [Quem Será?](https://open.spotify.com/album/1ANOn0G6F1e2PyXyDgkjNS) | 6:16 | 2023-08-04 | 2023-10-24 |
+| [Quem Será?](https://open.spotify.com/track/6tw0Csa29CYVHEVAehI2Nm) | [Colibri](https://open.spotify.com/artist/3R9wxOS0XWvgNBJZxtXi4y), [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r) | [Quem Será?](https://open.spotify.com/album/5I7TlP98sFvVBcuYcwz6lS) | 6:16 | 2023-10-20 |  |
 | [Quem somos nós](https://open.spotify.com/track/1GqXsiusqMiPmZtjnBfL6t) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw), [Oh! I Kill](https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI) | [Ressaca](https://open.spotify.com/album/3rkkLKfD5NpXDnwxQU79y3) | 3:41 | 2022-01-14 | 2022-08-06 |
 | [Quem vai apagar a luz](https://open.spotify.com/track/17o3WyVnuZB0YtvQ6zjNMG) | [Sophia Chablau e Uma Enorme Perda de Tempo](https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj), [Negro Leo](https://open.spotify.com/artist/6UKn12Sg5H3SyiFX5GalB6) | [Música do Esquecimento](https://open.spotify.com/album/3SjN7O4XsEYEuyddLFKXpb) | 2:39 | 2023-09-08 |  |
 | [Querer Nunca Fez Planos](https://open.spotify.com/track/2XEuJHY9Ak80QwI1BVhmMa) | [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb), [Boogarins](https://open.spotify.com/artist/0ohvsn0lgt51qZUbu9ct4s) | [Querer Nunca Fez Planos](https://open.spotify.com/album/6JrS5ydirAAPoXipEYqD6I) | 3:37 | 2022-05-27 | 2022-07-02 |

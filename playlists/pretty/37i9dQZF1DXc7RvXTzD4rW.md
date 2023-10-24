@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: ヒプノシスマイク
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,633 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,657 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [HYSTERIC CARAVAN](https://open.spotify.com/track/1p953nVyKEK6cMgylIdoAi) | [Showtaro Morikubo](https://open.spotify.com/artist/5fQSlPZkg4fbVVPO6lB7dj) | [HYSTERIC CARAVAN / MOTIVE RAIN](https://open.spotify.com/album/3q93aoH2sgczqNM9dbJPbb) | 3:59 |
 | 50 | [Nyamboree de Moffy!!](https://open.spotify.com/track/1NYDPB36pncEVVndu7vbcI) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Nyamboree de Moffy!!](https://open.spotify.com/album/3gvmGoa0ePBbM7EdF0p7io) | 3:03 |
 
-Snapshot ID: `MCxmZTJkYTk2YTE4ODk4MzEzNTJjYzkyYjE3ODFiNGY0ODc2ZWFhMWY3`
+Snapshot ID: `MCw1Y2IwZGE0NTgxYzQyOGM4OTRjOGFhZGRlNTZkYjFmZWY2NDdkODgz`

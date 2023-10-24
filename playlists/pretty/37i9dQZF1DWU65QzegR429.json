@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 9894,
+  "num_followers": 9902,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGRlMTViMTA0NzI0MDYzNzJjOWY5NWMxNjZjMDgxNThkOGNkMjE2",
+  "snapshot_id": "MCxkZGY2OWE0YmYzYWU5MTIwZGI3OGNhYWU0ZWIxNjVmOTJhMmI5MGYz",
   "tracks": [
     {
       "added_at": "2023-07-24 18:55:43",
@@ -207,26 +207,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Sin Sol",
-        "url": "https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 204955,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Icy Hot",
         "url": "https://open.spotify.com/album/2rebo6PvPbmBY3KGYT8KzG"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 202012,
       "name": "Soso - Remix",
       "url": "https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Sin Sol",
+        "url": "https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 204955,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Chivirika",
         "url": "https://open.spotify.com/album/4en63LsV1rqze6270c9wBn"
       },
@@ -387,22 +371,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 216737,
-      "name": "Una Perla En San Juan",
-      "url": "https://open.spotify.com/track/2zrWel0JCpX4bWjs3uJxi7"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
       },
@@ -415,6 +383,38 @@
       "duration_ms": 185002,
       "name": "Mimosas",
       "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 216737,
+      "name": "Una Perla En San Juan",
+      "url": "https://open.spotify.com/track/2zrWel0JCpX4bWjs3uJxi7"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Acurrucao",
-        "url": "https://open.spotify.com/album/0H4BRh7Cl8ErMlks9Wj80s"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Sofia LaSanta",
-          "url": "https://open.spotify.com/artist/7FKAgyZsXEwIWvCC9uwRl0"
-        }
-      ],
-      "duration_ms": 186428,
-      "name": "Acurrucao",
-      "url": "https://open.spotify.com/track/7aOWxZ4KoVg4cKF8x2iiGI"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Ghetto Kumb\u00e9",
         "url": "https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 176000,
       "name": "Come",
       "url": "https://open.spotify.com/track/1b7V8nIDDItoLTUmB7IZsz"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Acurrucao",
+        "url": "https://open.spotify.com/album/0H4BRh7Cl8ErMlks9Wj80s"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Sofia LaSanta",
+          "url": "https://open.spotify.com/artist/7FKAgyZsXEwIWvCC9uwRl0"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "Acurrucao",
+      "url": "https://open.spotify.com/track/7aOWxZ4KoVg4cKF8x2iiGI"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Pa' El Alma",
+        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "Rojo Rub\u00ed",
         "url": "https://open.spotify.com/album/6S1KXwY7uaibxhjMmKGCbk"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 195276,
       "name": "Dime La Verdad",
       "url": "https://open.spotify.com/track/2ksfEETsqZ0La3QnJcfxbV"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Pa' El Alma",
-        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
-      },
-      "artists": [
-        {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
     },
     {
       "added_at": "2023-07-24 18:55:43",

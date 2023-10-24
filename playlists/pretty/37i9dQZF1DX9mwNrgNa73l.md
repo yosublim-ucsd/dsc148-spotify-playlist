@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,501 likes - 90 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,583 likes - 90 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 41 | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl) | 8:27 |
 | 42 | [Wohi Khuda](https://open.spotify.com/track/0c8eAkUFDMCgJB53lplqJv) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Wohi Khuda](https://open.spotify.com/album/4obnIXVOOxpSRY8mgzsDjp) | 6:49 |
 | 43 | [Tasbih](https://open.spotify.com/track/01X1vwWYDvUzIW78ZmBO7q) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [Tasbih](https://open.spotify.com/album/40i5w2FOxwHsnO6ubxn5kF) | 4:13 |
-| 44 | [Javeda Zindag](https://open.spotify.com/track/7KKgE6UHxqhuxkNV2k3AKn) | [Kshitij](https://open.spotify.com/artist/2SzDI11JbzzEnNFYB6MrkS), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Anwar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc) | 8:22 |
+| 44 | [Javeda Zindag](https://open.spotify.com/track/7KKgE6UHxqhuxkNV2k3AKn) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Anwar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc) | 8:22 |
 | 45 | [Akhiyan Udeek Diyan](https://open.spotify.com/track/4DeJZKLeq2sKRIRMVUQfr3) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Whirling Sufis 50 Greatest Hits](https://open.spotify.com/album/36KaeUjT0XPK2gNe2Ui3go) | 15:03 |
 | 46 | [Dost](https://open.spotify.com/track/3RCfKFNxqYyvyULjAWq8Wg) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:35 |
 | 47 | [Bhar Do Jholi Meri](https://open.spotify.com/track/5etuDMYaAMqK2mREqcTpep) | [Sabri Brothers](https://open.spotify.com/artist/0sbtGmW8r5bxfXzla8a7eI) | [50 Greatest Sufi Hits](https://open.spotify.com/album/0Zk3ZjRiCKB0wizNHmm7CI) | 19:53 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 89 | [Laghzish E Mastana](https://open.spotify.com/track/3Kuv5p4j3TLkdKB7mUsVjQ) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Laghzish E Mastana](https://open.spotify.com/album/0YfA7xNSyqscjCLg1c97uL) | 5:27 |
 | 90 | [Ali Ali](https://open.spotify.com/track/3Akh5yIVkkHJImEobcrXRp) | [Afaq Munir](https://open.spotify.com/artist/2xpY02EIF6tEPh6MwaW0MU) | [Ali Ali](https://open.spotify.com/album/5HOkWmLlJfuIQZRQehlEUS) | 2:42 |
 
-Snapshot ID: `MCw4NzRiZDMxM2FhMjVmNmY2MzU4ZmUzMjBmODc4ZjExY2MzYzE5NzEy`
+Snapshot ID: `MCw5Mjg5NTliYTQ2NmFjNTFjYzA5ZTdkODc2ZGUyZWI5NWNhN2Q1NTFk`

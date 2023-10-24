@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: PNAU, Empire of the Sun
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,576 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,633 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pepper](https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq) | [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Pepper](https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y) | 2:28 |
-| 2 | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35) | 2:54 |
-| 3 | [Freedom](https://open.spotify.com/track/2toG8FXCAMobw0sPPJz78K) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Freedom](https://open.spotify.com/album/2vUaYEF6z6FASGBOM3dnxu) | 2:53 |
-| 4 | [AEIOU](https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [AEIOU](https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc) | 3:15 |
+| 1 | [AEIOU](https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [AEIOU](https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc) | 3:15 |
+| 2 | [Pepper](https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq) | [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Pepper](https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y) | 2:28 |
+| 3 | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35) | 2:54 |
+| 4 | [Freedom](https://open.spotify.com/track/2toG8FXCAMobw0sPPJz78K) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Freedom](https://open.spotify.com/album/2vUaYEF6z6FASGBOM3dnxu) | 2:53 |
 | 5 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 |
 | 6 | [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 |
 | 7 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 99 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 |
 | 100 | [Like It \(feat\. Reckz'Capo\)](https://open.spotify.com/track/4yWySFuYFhkVrHggrfnulp) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm), [Reckz'Capo](https://open.spotify.com/artist/0mmIDGCcblwYtZgsNPGDlo) | [Like It \(feat\. Reckz'Capo\)](https://open.spotify.com/album/7uE7ppiL1rC4JOjfkYryay) | 3:15 |
 
-Snapshot ID: `MCw5NDAzNTc3NjBkMTExNTc2OGZlYTVlNjQ1ODhhNTMyMjhjOGE4NDc1`
+Snapshot ID: `MCxhNjYzNjIxMDIzZWE4Yjk4NzMyMjQ0YTBkNjU3NTM1MzE5Y2UyYTli`

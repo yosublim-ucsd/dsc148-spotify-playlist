@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-394 songs - 22 hr 17 min
+397 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Happy Now \- Acoustic](https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Happy Now \(Acoustic Version\)](https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm) | 3:33 | 2021-03-12 |  |
 | [Heartbeats](https://open.spotify.com/track/11X4Gw3T4hoktVruLgTnm1) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/7M6XGBvDi3smtRuPUkrqsG) | 2:40 | 2021-03-12 | 2022-07-29 |
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2022-04-22 |  |
+| [Heat Waves](https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Heat Waves](https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb) | 2:21 | 2023-10-23 |  |
 | [Here I Go Again](https://open.spotify.com/track/1H7w7BA05jZOr7DWxnM97h) | [Drew Amaranth](https://open.spotify.com/artist/28exFbaUPO9CnIzHK4eiEj) | [Here I Go Again](https://open.spotify.com/album/4yFIc1YHqohNGLkeHm0ppH) | 4:22 | 2021-03-12 |  |
 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 | 2022-04-22 |  |
 | [Hey There Delilah](https://open.spotify.com/track/0FjjrjsvTF3nLdjziL5bwf) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Best Hits 2010](https://open.spotify.com/album/1s7CA2iYVtII01MqyBXeyj) | 3:52 | 2022-04-22 | 2022-11-13 |
@@ -148,6 +149,7 @@
 | [I Kissed A Girl](https://open.spotify.com/track/0otWa3vl6k8wTh7LOk3K1g) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Derivatives](https://open.spotify.com/album/0oL6dcMZUFGBaX1wxUS0x6) | 3:12 | 2023-03-31 | 2023-04-02 |
 | [I Know What You Did Last Summer \(Acoustic\)](https://open.spotify.com/track/1d4vRGY5dfRWbKZrv6uU0E) | [Alex G](https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg), [Dustin Tavella](https://open.spotify.com/artist/2DKaXcxblDmk0Ua6iPELK3) | [I Know What You Did Last Summer \(Acoustic\)](https://open.spotify.com/album/18GQWIehhia0R6pTPnqA6z) | 3:58 | 2022-04-22 |  |
 | [I Know What You Did Last Summer \- Acoustic](https://open.spotify.com/track/32uEIvxpeXKFAXbRDgdGwe) | [Alex G](https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg), [Dustin Tavella](https://open.spotify.com/artist/2DKaXcxblDmk0Ua6iPELK3) | [I Know What You Did Last Summer \(Acoustic\)](https://open.spotify.com/album/5wUKap8GKCKJWH4C0jU3uE) | 3:57 | 2021-03-12 | 2022-07-29 |
+| [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 | 2023-10-23 |  |
 | [I Wanna Know \- Acoustic](https://open.spotify.com/track/78dhp5G3n3KbA2ThlSkl2b) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [I Wanna Know \(Acoustic\)](https://open.spotify.com/album/6qLfMUCl0M4VHGOYKjc7ek) | 3:20 | 2021-03-12 |  |
 | [I Want You Back](https://open.spotify.com/track/2vtJ4rBe0LTbbMeaNaEMey) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Never Can Say Goodbye](https://open.spotify.com/album/5883OS71ULt0vnreAUe9hV) | 2:41 | 2021-03-12 |  |
 | [I Want You Back](https://open.spotify.com/track/1edPtZh5Mik6ULPiiJIAIB) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg) | [Tyler Ward Covers, Vol\. 5](https://open.spotify.com/album/0btFx3XFaoLDkJArPlxWEt) | 2:10 | 2021-03-12 |  |
@@ -275,6 +277,7 @@
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7hmcaSpHioj7SGfOU565WI) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [September Song \(Guitar Acoustic\)](https://open.spotify.com/album/5jnRfyqVu1M8ATrJ0hOrVD) | 3:32 | 2021-03-12 | 2022-07-29 |
 | [Set Fire To The Rain](https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU) | 3:53 | 2021-03-12 | 2022-07-29 |
 | [Set Fire to the Rain \- Cover](https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz) | 3:53 | 2022-04-22 |  |
+| [Sex is on fire](https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Sex is on fire](https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e) | 2:43 | 2023-10-23 |  |
 | [Señorita \- Acoustic](https://open.spotify.com/track/3kSYLN853QF9qDkmmFy66C) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Covers with Friends](https://open.spotify.com/album/6XBy6IeZBCHz5D1Frv6jGY) | 3:19 | 2022-04-22 |  |
 | [Señorita \- Acoustic](https://open.spotify.com/track/5OlWYjnUaiOM8ItJ1PWpjY) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Señorita \(Acoustic\)](https://open.spotify.com/album/7v4xFuB9hrEHmtQPAe5Nsg) | 3:19 | 2022-04-22 | 2022-11-13 |
 | [Shake It Off](https://open.spotify.com/track/7nOaQdcXWnkihLcWPzLQMB) | [Ali Brustofski](https://open.spotify.com/artist/6KxBixTtWRYyojmIvlFvjD) | [Shake It Off](https://open.spotify.com/album/73JSumL9fEU1txY72F3uZR) | 3:33 | 2021-03-12 |  |

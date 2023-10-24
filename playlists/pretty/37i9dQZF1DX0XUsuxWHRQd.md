@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > Music from Lil Tecca, Lil Uzi Vert and Gucci Mane.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,596,469 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,598,775 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [bigger thën everything](https://open.spotify.com/track/11B7WTuoInwUvuP1BnnGWW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [bigger thën everything](https://open.spotify.com/album/5bVIz2j5nOioetMjM0T4F9) | 3:38 |
 | 50 | [The Secret Recipe](https://open.spotify.com/track/0pRqj4CrVCHOjDngEXZxcz) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Secret Recipe](https://open.spotify.com/album/5BP1CTcTZFiYDoaaX5hNrP) | 4:08 |
 
-Snapshot ID: `MCwzODNhZjU1OGYxM2VmYTEyODgxMDQ2NGY2Y2Y0YjAwZWY5NDQ3Yzli`
+Snapshot ID: `MCw5YmVjOWE1MGI2YWZiZmRhOTM4ZmZlODk0NjUyODgwZGEwNzAyNzc0`

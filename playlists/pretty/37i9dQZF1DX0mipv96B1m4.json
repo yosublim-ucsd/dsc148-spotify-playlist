@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 827,
+  "num_followers": 828,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDU1NjE3ZTQ3YmM5NGZjMWQ5MjhiZjNkN2VkZjQzZmM1YTE2ZTM5",
+  "snapshot_id": "MCxkYjA3OGE0ZmJlMTZjYzcwNGI0MTllNzdmZWIyMGY4MTVlYWM1MzVm",
   "tracks": [
     {
       "added_at": "2023-08-18 12:29:53",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
+        "name": "Kisses at Midnight",
+        "url": "https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        }
+      ],
+      "duration_ms": 196858,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 217704,
       "name": "Izulu",
       "url": "https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
-        "name": "Kisses at Midnight",
-        "url": "https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye"
-      },
-      "artists": [
-        {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
-        }
-      ],
-      "duration_ms": 196858,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R"
     },
     {
       "added_at": "2023-08-18 12:29:53",
@@ -519,6 +519,54 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
+        "name": "Pull Up On Mi Bumpa",
+        "url": "https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        },
+        {
+          "name": "Mungo's Hi Fi",
+          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
+        }
+      ],
+      "duration_ms": 227896,
+      "name": "Pull Up On Mi Bumpa",
+      "url": "https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
+        "name": "Tick Talk",
+        "url": "https://open.spotify.com/album/2XwaGscvD5onaAsMxOkrvT"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        },
+        {
+          "name": "DJ LITO",
+          "url": "https://open.spotify.com/artist/5RCEUVWtUJd79uYpz4buHT"
+        },
+        {
+          "name": "Sheilah Gashumba",
+          "url": "https://open.spotify.com/artist/5f5GUoXpzjXpjrkBeMg3H2"
+        },
+        {
+          "name": "Slick Stuart & DJ Roja",
+          "url": "https://open.spotify.com/artist/7ySGRkXppoKtu2fI3H3NVb"
+        }
+      ],
+      "duration_ms": 220206,
+      "name": "Tick Talk",
+      "url": "https://open.spotify.com/track/363p4oaCiyyPKWOkouJwYK"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
         "name": "Sikyegomba",
         "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
       },
@@ -539,26 +587,6 @@
       "duration_ms": 210364,
       "name": "Sikyegomba",
       "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
-        "name": "Pull Up On Mi Bumpa",
-        "url": "https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc"
-      },
-      "artists": [
-        {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
-        },
-        {
-          "name": "Mungo's Hi Fi",
-          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
-        }
-      ],
-      "duration_ms": 227896,
-      "name": "Pull Up On Mi Bumpa",
-      "url": "https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp"
     },
     {
       "added_at": "2023-08-18 12:29:53",
@@ -623,34 +651,6 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
-        "name": "Tick Talk",
-        "url": "https://open.spotify.com/album/2XwaGscvD5onaAsMxOkrvT"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        },
-        {
-          "name": "DJ LITO",
-          "url": "https://open.spotify.com/artist/5RCEUVWtUJd79uYpz4buHT"
-        },
-        {
-          "name": "Sheilah Gashumba",
-          "url": "https://open.spotify.com/artist/5f5GUoXpzjXpjrkBeMg3H2"
-        },
-        {
-          "name": "Slick Stuart & DJ Roja",
-          "url": "https://open.spotify.com/artist/7ySGRkXppoKtu2fI3H3NVb"
-        }
-      ],
-      "duration_ms": 220206,
-      "name": "Tick Talk",
-      "url": "https://open.spotify.com/track/363p4oaCiyyPKWOkouJwYK"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
         "name": "Feel Me",
         "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
       },
@@ -667,94 +667,6 @@
       "duration_ms": 196963,
       "name": "Gyal A Bubble",
       "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
-        "name": "LIFIST",
-        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
-      },
-      "artists": [
-        {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
-        }
-      ],
-      "duration_ms": 214729,
-      "name": "LIFIST",
-      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
-      },
-      "artists": [
-        {
-          "name": "Arrow Bwoy",
-          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
-        },
-        {
-          "name": "Jackie Chandiru",
-          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
-        "name": "Hot Like Dat",
-        "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
-      },
-      "artists": [
-        {
-          "name": "Beenie Gunter",
-          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
-        },
-        {
-          "name": "Rosa Ree",
-          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Hot Like Dat",
-      "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
-        "name": "Welcome",
-        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
-      },
-      "artists": [
-        {
-          "name": "Ivanka",
-          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
-        }
-      ],
-      "duration_ms": 193959,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
-        "name": "Tebali Ready",
-        "url": "https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P"
-      },
-      "artists": [
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 159853,
-      "name": "Tebali Ready",
-      "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
     },
     {
       "added_at": "2023-08-18 12:29:53",
@@ -783,6 +695,78 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
+        "name": "LIFIST",
+        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
+      },
+      "artists": [
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "duration_ms": 214729,
+      "name": "LIFIST",
+      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
+        "name": "Hot Like Dat",
+        "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
+      },
+      "artists": [
+        {
+          "name": "Beenie Gunter",
+          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
+        },
+        {
+          "name": "Rosa Ree",
+          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "Hot Like Dat",
+      "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
+      },
+      "artists": [
+        {
+          "name": "Arrow Bwoy",
+          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
+        },
+        {
+          "name": "Jackie Chandiru",
+          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
+      },
+      "artists": [
+        {
+          "name": "Ivanka",
+          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
+        }
+      ],
+      "duration_ms": 193959,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
         "name": "Bwonjagala",
         "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 178834,
       "name": "Bwonjagala",
       "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
+        "name": "Tebali Ready",
+        "url": "https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 159853,
+      "name": "Tebali Ready",
+      "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
     },
     {
       "added_at": "2023-08-18 12:29:53",
@@ -895,6 +895,26 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
+        "name": "Misege",
+        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
+      },
+      "artists": [
+        {
+          "name": "Dax Vibez",
+          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
+        },
+        {
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+        }
+      ],
+      "duration_ms": 188235,
+      "name": "Misege",
+      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
         "name": "Kiriza Rmx",
         "url": "https://open.spotify.com/album/5WLHEoba9VjkYusf0zaE0F"
       },
@@ -915,46 +935,26 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
-        "name": "Nkwatewa",
-        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
+        "name": "Nothing to Something",
+        "url": "https://open.spotify.com/album/1VG1MkMJs5v7o3phdQ5vtv"
       },
       "artists": [
         {
-          "name": "selecta jef",
-          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
-        },
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
         },
         {
           "name": "Bebe Cool",
           "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 181890,
-      "name": "Nkwatewa",
-      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
-        "name": "Misege",
-        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
-      },
-      "artists": [
-        {
-          "name": "Dax Vibez",
-          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
         },
         {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+          "name": "Sumi Crazy",
+          "url": "https://open.spotify.com/artist/0RD6wSCv8A4zf8hblm8fvB"
         }
       ],
-      "duration_ms": 188235,
-      "name": "Misege",
-      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
+      "duration_ms": 218400,
+      "name": "Wi Di Best (feat. Bebe Cool & Sumi Crazy)",
+      "url": "https://open.spotify.com/track/6oZMoPM3UFaUozKIiRNjVK"
     }
   ],
   "unique_name": "Kidandali Parte",

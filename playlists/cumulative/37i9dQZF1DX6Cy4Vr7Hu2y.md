@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: HWASA\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-351 songs - 19 hr 43 min
+354 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [AURA](https://open.spotify.com/track/4jP982FpZoDv729D0X8BiN) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:35 | 2022-06-01 | 2022-08-08 |
 | [Bad](https://open.spotify.com/track/4xpquaJtTBKbtFjXJ8rvSg) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Prologue : Love](https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo) | 4:42 | 2023-02-28 | 2023-04-05 |
 | [BAD BOY \(feat\. BIG Naughty\)](https://open.spotify.com/track/5DvSOtsX1zRg1M2TjkK9BF) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The Drift](https://open.spotify.com/album/5aIC9W1wlhJVl3sGmkbRyV) | 2:44 | 2023-06-06 | 2023-07-05 |
+| [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 | 2023-10-23 |  |
 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 | 2021-11-21 |  |
 | [Be Happy](https://open.spotify.com/track/7nbJ3glHErMd2tcDbTYvrU) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Be Happy](https://open.spotify.com/album/6Vy2eFJEQYrZgyFvLVIsxH) | 3:35 | 2022-02-14 | 2022-07-05 |
 | [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 | 2022-08-01 | 2023-06-13 |
@@ -60,6 +61,7 @@
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-11-21 | 2022-11-30 |
 | [Cheers \(ZZAN\)](https://open.spotify.com/track/3eAI3CXukjPxjXdzGMmeih) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Just One Bite 2](https://open.spotify.com/album/0Fgu7agMrAXcHyw4dFh70c) | 2:59 | 2022-03-22 | 2022-04-19 |
 | [Chica](https://open.spotify.com/track/6wV0zmb3delVInoCiWdEdZ) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) | 3:12 | 2021-11-21 | 2022-03-05 |
+| [Chili](https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Chili](https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK) | 2:15 | 2023-10-23 |  |
 | [CHIQUITA](https://open.spotify.com/track/0dap7YUNPlUiEPYSA1bRg3) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:06 | 2022-03-07 | 2022-07-28 |
 | [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 | 2023-01-10 | 2023-01-17 |
 | [Comfort for me 물음표가 가득한 나의 밤](https://open.spotify.com/track/0p0bxSUnzKGT08qq1luWG4) | [조소정 Jo SoJeong](https://open.spotify.com/artist/5oZ0cR8xbAQyt85ZzwWs3H) | [A diary for me 들켜버려도 좋은\(일기\)](https://open.spotify.com/album/6r63fND2KfLsB3Ky5D8yDV) | 2:59 | 2022-03-22 | 2022-04-21 |
@@ -203,7 +205,7 @@
 | [New](https://open.spotify.com/track/1vu104daKjc0v1Acfopza2) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [New](https://open.spotify.com/album/7w8HoXrinhQcgDRxBEaiRZ) | 3:02 | 2021-11-21 | 2022-04-18 |
 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 | 2023-07-07 |  |
 | [NO THANKS](https://open.spotify.com/track/5jzMrbCnHeBjw6ARXJEgsD) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [iCE](https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB) | 3:01 | 2022-08-02 | 2022-08-19 |
-| [NUNU NANA](https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:15 | 2022-07-07 |  |
+| [NUNU NANA](https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:15 | 2022-07-07 | 2023-10-24 |
 | [NUNU NANA](https://open.spotify.com/track/4Bmk7JYOquhWmSMMW4WebM) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/4LqLe7NBEYYiUN4pfQJStN) | 3:15 | 2021-11-21 | 2022-07-29 |
 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2022-10-19 |  |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 | 2022-07-18 |
@@ -249,7 +251,7 @@
 | [RING ma Bell \(what a wonderful world\)](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter two](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) | 3:26 | 2022-09-06 | 2022-11-21 |
 | [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 | 2021-11-21 | 2022-07-29 |
 | [Rollin'](https://open.spotify.com/track/4ajYy2PqT3czWrpI4rgmIP) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/4GQIMQs8dxEjI3el1HCGzq) | 3:17 | 2022-07-07 | 2022-08-04 |
-| [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 | 2022-08-02 |  |
+| [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 | 2022-08-02 | 2023-10-24 |
 | [Roomie](https://open.spotify.com/track/1KH10P3M4x3ONABMhiv8B5) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Roomie](https://open.spotify.com/album/0XIFtmJyxwfYFzTxzq4ILi) | 3:52 | 2021-11-21 | 2022-06-14 |
 | [Rose Blossom](https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 1st Mini Album \[Rose Blossom\]](https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L) | 3:15 | 2023-01-11 | 2023-03-29 |
 | [RUN](https://open.spotify.com/track/4gHUimlUJuaZMn1E7mFBvt) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [RUN](https://open.spotify.com/album/5WQdyEPsMtXtFIldEhgqpF) | 3:15 | 2022-07-07 | 2022-08-02 |
@@ -280,6 +282,7 @@
 | [Stardust love song](https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 | 2022-03-08 | 2022-05-27 |
 | [Stationary Store Episode: Stationary Store \(Music From "Sound Garden"\)](https://open.spotify.com/track/3ib1Uq2wjsuZAJkDTyFOzn) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Stationary Store Episode: Stationary Store \(Music From "Sound Garden"\)](https://open.spotify.com/album/0qpjqbPLcGLTpGZO0rPWG9) | 3:22 | 2021-11-21 | 2022-04-20 |
 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2022-07-06 | 2022-11-28 |
+| [STRANGER](https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [STRANGER](https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X) | 2:46 | 2023-10-23 |  |
 | [strawberry moon](https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [strawberry moon](https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb) | 3:25 | 2021-11-21 | 2023-02-21 |
 | [Summer Comes](https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 3:20 | 2023-08-03 | 2023-09-06 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-07 |  |
@@ -314,7 +317,7 @@
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-06-20 | 2023-03-09 |
 | [Ven para](https://open.spotify.com/track/3kwr2hlIDwmwVAjKC7zshR) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Play Game : AWAKE](https://open.spotify.com/album/6ACwt54tvpe4XrMbxXzXXb) | 3:14 | 2022-03-07 | 2022-07-15 |
 | [VISION](https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Follow us\]](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) | 3:09 | 2022-10-12 | 2023-01-12 |
-| [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 | 2022-01-19 |  |
+| [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 | 2022-01-19 | 2023-10-24 |
 | [Waka Boom \(My Way\) \(feat\. Lee Young Ji\)](https://open.spotify.com/track/7ffdSBhoPgPcyVn2hNmiDz) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 4:33 | 2022-06-01 | 2022-06-07 |
 | [Walking Through The Moon](https://open.spotify.com/track/4werDUuriHrRrTxZx1p029) | [Lee Su Jeong](https://open.spotify.com/artist/2Mq5D1zR3yQIQWhiXOAoeL) | [My Name](https://open.spotify.com/album/1s1c2che6OuIyA8Do2bkNE) | 3:32 | 2022-06-18 | 2022-07-28 |
 | [Wander & Flow](https://open.spotify.com/track/7caryRzxCgEcDTKsLEY8n9) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Jumpin'](https://open.spotify.com/album/5zIcY1Rd64xth4HmCwmYwu) | 3:42 | 2022-03-22 | 2022-04-21 |

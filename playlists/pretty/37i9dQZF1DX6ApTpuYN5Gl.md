@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,090 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,228 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 4 | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34) | 2:19 |
 | 5 | [Kyle \(i found you\)](https://open.spotify.com/track/6Ao5d7TMQ92h87jQqSHGyw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:16 |
 | 6 | [Miss You](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jamis](https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Miss You](https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951) | 3:14 |
-| 7 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Kx5](https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg) | 4:00 |
-| 8 | [Echo](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [Echo](https://open.spotify.com/album/3oVQAqfrzIg4S5pF74au4x) | 2:14 |
+| 7 | [Echo](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [Echo](https://open.spotify.com/album/3oVQAqfrzIg4S5pF74au4x) | 2:14 |
+| 8 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Kx5](https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg) | 4:00 |
 | 9 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 |
 | 10 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 |
 | 11 | [I Can't See](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo) | [ROW](https://open.spotify.com/artist/6t6YsIZkxd0VC7mXKD9Ziw), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [I Can't See](https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 49 | [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:33 |
 | 50 | [Sorry](https://open.spotify.com/track/3vkzxY2aRL7uhz2BIFzT0V) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Sorry](https://open.spotify.com/album/3QEx4nahZb3ewLKs8b87UV) | 2:42 |
 
-Snapshot ID: `MCw5NTRjM2UyOGQxYTJjZTUxMWVjMTViNjMxMGU5ZDBkZTA3ZGQ2NmU4`
+Snapshot ID: `MCw5OWIxNWE1MmJlZTMxMjRkYjcxNWQ2M2MyOWU5Nzg0NjUxMGRmYjY4`

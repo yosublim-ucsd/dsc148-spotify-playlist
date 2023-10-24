@@ -2,9 +2,9 @@
 
 ### [FRONTEO](https://open.spotify.com/playlist/37i9dQZF1DX6jW9mPgBGv2)
 
-> El rango más alto\. Ellos lo tienen y lo saben\. Eladio Carrion y Morad plantando cara.
+> El rango más alto\. Ellos lo tienen y lo saben\. Bad Bunny plantando cara.
 
-97 songs - 6 hr 5 min
+99 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,10 +62,12 @@
 | [Ma' G](https://open.spotify.com/track/4iFSDLdPrWIaYo2VQeCv4f) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Ma' G](https://open.spotify.com/album/4jSlgVZD4bbTuxOYrXTPWe) | 3:46 | 2021-12-01 |  |
 | [Mas Dinero Mas Problemas](https://open.spotify.com/track/6YxXzFaGbErX7dwFbBNEY1) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Mas Dinero Mas Problemas](https://open.spotify.com/album/3Jeo9mcf3FtB9ZigNMtYLM) | 3:32 | 2021-12-01 |  |
 | [Medusa](https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Medusa](https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn) | 5:05 | 2021-12-01 |  |
+| [MERCEDES CAROTA](https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:22 | 2023-10-23 |  |
 | [Mi Estilo de Vida II](https://open.spotify.com/track/4jpzkaXeIglP7BfyhmtNW9) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Kenai](https://open.spotify.com/artist/6lca9phTiMCNjObnwuCFi1), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Mi Estilo de Vida II](https://open.spotify.com/album/1Zpuz09ffF0B2HyGDgPObZ) | 8:08 | 2021-12-01 |  |
 | [Mi Tío Snoop](https://open.spotify.com/track/48XgkAh1fkcZqA2EZWCDX6) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Mi Tío Snoop](https://open.spotify.com/album/6ugE8dVzZdepHyyGxCt2kW) | 3:23 | 2021-12-01 |  |
 | [Michael Myers](https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Michael Myers](https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ) | 4:11 | 2021-12-01 |  |
 | [Millones](https://open.spotify.com/track/3AMjach3UjnwFdcx3q2hIF) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jay Menez](https://open.spotify.com/artist/5RVuxgqu3esPo4LIrf4HUs), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Millones](https://open.spotify.com/album/0NZkGI7pgZ8lJeczt7CfSB) | 5:34 | 2022-04-25 |  |
+| [MR\. OCTOBER](https://open.spotify.com/track/1ODFVLQszq0hCOdZtqV5wq) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:09 | 2023-10-23 |  |
 | [My Name](https://open.spotify.com/track/0O1AdqQhfLoWp0gNsG8ysy) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [My Name](https://open.spotify.com/album/5VX1xk0uVSPBVUsD80v1ji) | 3:02 | 2023-05-05 |  |
 | [Narcos](https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:19 | 2021-12-01 |  |
 | [Ni Me Enmascaro \(feat\. Shootter Ledo\)](https://open.spotify.com/track/4j4soHVvYe98jsLYTsL3eO) | [Joel Melody](https://open.spotify.com/artist/0rcA9xExulHK8nAe6J54ii), [Mark Poow](https://open.spotify.com/artist/6Y0IhGYKvjkuynhtWfFbNL), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Shootter Ledo](https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH) | [Ni Me Enmascaro \(feat\. Shootter Ledo\)](https://open.spotify.com/album/0oz5CzJzRX8w0cRZ2enPYd) | 3:13 | 2023-06-16 |  |

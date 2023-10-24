@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The best in modern punk rock music. Cover: SPRINTS",
+  "description": "The best in modern punk rock music. Cover: Sleaford Mods",
   "name": "The Punk List",
   "tracks": [
     {
@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Sanguivore",
+        "url": "https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2"
+      },
+      "artists": [
+        {
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267864,
+      "name": "Cry To Heaven",
+      "url": "https://open.spotify.com/track/1iNKQ8LIG4OVFK3o9vmmUY"
+    },
+    {
+      "album": {
         "name": "Cry To Heaven",
         "url": "https://open.spotify.com/album/5mY2RBEc4jQmWzXaW9evvM"
       },
@@ -644,7 +662,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 269260,
       "name": "Cry To Heaven",
       "url": "https://open.spotify.com/track/5oqVYnqZOZJDmwD3BtcJty"
@@ -846,7 +864,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 191589,
       "name": "DESPERATE BREAKFAST",
       "url": "https://open.spotify.com/track/0dWxRisAsPcoN1DOWj4hRR"
@@ -1500,6 +1518,24 @@
       "duration_ms": 105874,
       "name": "Hiccup",
       "url": "https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z"
+    },
+    {
+      "album": {
+        "name": "Invite me, kindly",
+        "url": "https://open.spotify.com/album/77D1XYQxm5bRFsiWUNTXal"
+      },
+      "artists": [
+        {
+          "name": "HotWax",
+          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176933,
+      "name": "High Tea",
+      "url": "https://open.spotify.com/track/2jpkUfj8a8G32DzsIYXxHM"
     },
     {
       "album": {
@@ -3223,6 +3259,24 @@
     },
     {
       "album": {
+        "name": "MORE UK GRIM",
+        "url": "https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213402,
+      "name": "Under The Rules",
+      "url": "https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49"
+    },
+    {
+      "album": {
         "name": "Unlike Me",
         "url": "https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT"
       },
@@ -3306,7 +3360,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 186996,
       "name": "Waste",
       "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"

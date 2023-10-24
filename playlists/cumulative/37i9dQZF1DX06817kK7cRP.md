@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-145 songs - 6 hr 39 min
+146 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Daygrooves](https://open.spotify.com/track/60ypA21Lm4l9A19fR7FJuB) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [Equilibrium](https://open.spotify.com/album/3kqWqfzGCVESFoN7vI1kbt) | 1:59 | 2023-01-12 | 2023-03-29 |
 | [Delta](https://open.spotify.com/track/5DdzyKfJMCGTk4RTbpSaXL) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Delta](https://open.spotify.com/album/6SOsPztuO7oRa0NI5hSMJv) | 2:08 | 2023-01-12 |  |
 | [Dew Point](https://open.spotify.com/track/1h6pKwYlbxjV2rouBmol9T) | [Lofty](https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0), [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [Dew Point](https://open.spotify.com/album/4paxIGuHZFBrESPdMnx6uX) | 2:14 | 2023-01-12 |  |
+| [Dive In!](https://open.spotify.com/track/6Y5w1dN90F0jreQGos2ypf) | [Lavender Box](https://open.spotify.com/artist/4qQYvOHb8QQ0E3mwOTPQk9) | [Dive In!](https://open.spotify.com/album/5ZnX85acDURGkTmsOKTUq5) | 2:58 | 2023-10-20 |  |
 | [Do not disturb](https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE) | [Matty Mel Jr](https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW) | [Do not disturb](https://open.spotify.com/album/4RG39enCANdnjbagkDndcp) | 2:59 | 2023-01-26 | 2023-04-21 |
 | [Driftwood](https://open.spotify.com/track/6dkFwu9Z7HUuz69P2Nr6yF) | [Just Steezy Things](https://open.spotify.com/artist/1WGInLKTtABkRppFt2637E) | [Driftwood](https://open.spotify.com/album/0A6bH7eWnye4Pe25YdCv6g) | 2:19 | 2023-01-12 |  |
 | [Early Rio](https://open.spotify.com/track/0rpf1OhSfp8hkOsFhONU0d) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Early Rio](https://open.spotify.com/album/2a1LMvKsH5AowfwGC49jhI) | 2:40 | 2023-01-12 |  |
@@ -52,7 +53,7 @@
 | [Glass](https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Glass](https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ) | 3:22 | 2023-01-13 |  |
 | [Golden Age](https://open.spotify.com/track/1ZVi3Mfl9UO3i26SXU43Ta) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 2:22 | 2023-01-12 | 2023-09-29 |
 | [Good feeling](https://open.spotify.com/track/39kvnRTzzHJYq564oiuJjP) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Good feeling](https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s) | 2:15 | 2023-06-20 |  |
-| [Harvest Time](https://open.spotify.com/track/3ykIHaFm72d2vQJx5PW89z) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 3:00 | 2023-01-12 |  |
+| [Harvest Time](https://open.spotify.com/track/3ykIHaFm72d2vQJx5PW89z) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 3:00 | 2023-01-12 | 2023-10-24 |
 | [Heatwave](https://open.spotify.com/track/03gunYpOFHu4swpyry4QKX) | [Danny James](https://open.spotify.com/artist/2v04CAaxpr6sSELBPMOkoQ), [Es\-K](https://open.spotify.com/artist/0Ece4RFAFNTEpYaTHZWuhe), [John Culbreth](https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN) | [Heatwave](https://open.spotify.com/album/5ifo18NW9f8DwVhvpTNJLg) | 3:11 | 2023-01-12 | 2023-09-29 |
 | [Heroic](https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg) | [rwethree](https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT) | [Heroic](https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w) | 2:12 | 2023-09-29 |  |
 | [Hi](https://open.spotify.com/track/4ndGRAECW0JscMcund7I7Q) | [Sidual.](https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI) | [Hi](https://open.spotify.com/album/6zAeYgebURbZNvR5AoyQ7A) | 2:55 | 2023-09-29 |  |

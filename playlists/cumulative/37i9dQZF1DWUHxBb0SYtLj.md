@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Asteria
 
-759 songs - 1 day 14 hr 9 min
+760 songs - 1 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [Per le ragazze come me](https://open.spotify.com/track/5VY3FfrFU27uqQssRstdHK) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Per le ragazze come me](https://open.spotify.com/album/6BL3SNqJaoVoGlR3un5tVV) | 3:36 | 2023-04-04 | 2023-06-08 |
 | [Perdermi](https://open.spotify.com/track/6pF0XneVxp19Yd0tn40Rqx) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Perdermi](https://open.spotify.com/album/0dkeFFn1v88UbqZ9P7DDq1) | 2:57 | 2023-02-09 | 2023-03-01 |
 | [Perdo Tempo](https://open.spotify.com/track/0QUbRVMAHMxiPt0TCUlNZM) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Perdo Tempo](https://open.spotify.com/album/66JdPSPWoJrYem4QTVsb5B) | 2:56 | 2022-06-02 | 2022-08-03 |
+| [PETARDI](https://open.spotify.com/track/6aBkkxEVmDGC1o0DpxQcjM) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PETARDI](https://open.spotify.com/album/0KFD7ttxVpwUGGHws8HKod) | 2:28 | 2023-10-23 |  |
 | [Pianeti](https://open.spotify.com/track/050rIkxAVEaZp41RBfYqH5) | [Tamì](https://open.spotify.com/artist/3DPniGk3KehPU6Z3dOy34Y) | [Liverpool Lime Street](https://open.spotify.com/album/71cKSv9bZGyaTnnLmZkXEi) | 3:30 | 2023-08-01 | 2023-09-07 |
 | [Piango In Discoteca](https://open.spotify.com/track/3Pc1M4PKxL8LhZ6nDMLAWJ) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Piango In Discoteca](https://open.spotify.com/album/1anbRiJBO8gwQigkTZrtQD) | 3:19 | 2023-08-01 | 2023-10-04 |
 | [Piazzale del Verano](https://open.spotify.com/track/3JYAycoOhf9Q9Hyv8jYzP8) | [Elex](https://open.spotify.com/artist/4j4Lzob5lrhowmGN5HKZWe) | [Piazzale del Verano](https://open.spotify.com/album/1tUMRZA8NCHxN8ctDLmJsq) | 2:37 | 2022-02-02 | 2022-03-08 |
@@ -584,7 +585,7 @@
 | [Residui](https://open.spotify.com/track/2QhVRIYxFNFO6I2nZFZp4O) | [Ama Dee](https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y) | [Residui](https://open.spotify.com/album/4z6EbOQlW2wfyx55F3ZQ6f) | 3:23 | 2023-06-07 | 2023-08-02 |
 | [Respiro](https://open.spotify.com/track/0bL0U4dxXlSNKgtJfVEgDL) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Respiro](https://open.spotify.com/album/1LykpuCRBeWXB9KnFYcYL8) | 3:33 | 2022-06-02 | 2023-01-04 |
 | [RESTARE INSIEME](https://open.spotify.com/track/4AMBkDmbcbyZhG4W5zkFoT) | [Red Roses](https://open.spotify.com/artist/3dA6K34y5FCgngffHJTjpY) | [RESTARE INSIEME](https://open.spotify.com/album/3EYPXrbZSc2nCjrjkYLYdO) | 1:45 | 2023-10-03 |  |
-| [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 | 2023-10-03 |  |
+| [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 | 2023-10-03 | 2023-10-24 |
 | [RICORDI \(?\)](https://open.spotify.com/track/3PNdQmkF5Z7UopHJII0tn5) | [Sbazzee](https://open.spotify.com/artist/2bFy8BEjn97wFtXAFelhY8) | [RICORDI \(?\)](https://open.spotify.com/album/5J9Y597V7UTIN1l1UGUaaj) | 2:20 | 2023-02-09 | 2023-04-05 |
 | [Right Pitch](https://open.spotify.com/track/47VtTPhBwMY8ZiJAv3WNZU) | [Diora Madama](https://open.spotify.com/artist/7wOA7etbtOByr52HImiMI2) | [2D](https://open.spotify.com/album/7k5a8l4UOIrqXqBkIpj6TB) | 2:54 | 2023-01-03 | 2023-02-09 |
 | [RIP](https://open.spotify.com/track/1ypk28iGe0k4xBlr1LPHH3) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [RIP](https://open.spotify.com/album/7GlSRm0BwDf9CBtXvvofJi) | 3:20 | 2022-06-02 | 2022-07-06 |

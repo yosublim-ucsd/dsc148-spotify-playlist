@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Supercombo, Tuyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,906 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,939 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 59 | [Entre na Água](https://open.spotify.com/track/6RA2QfzU3X9OgcXlD8HmDm) | [A Olívia](https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg) | [Entre na Água](https://open.spotify.com/album/4W1nKR7GeHJhuaW6ZHhH2U) | 2:56 |
 | 60 | [Não Saio](https://open.spotify.com/track/5qasQTEYxcYe3GwZI3oWFv) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Não Saio](https://open.spotify.com/album/6DPb16RRvFWZiPR9e3xScw) | 2:23 |
 | 61 | [Girassol](https://open.spotify.com/track/3ujHWJpRyT2DZtwsSI7lpo) | [j4mpa](https://open.spotify.com/artist/6x1PjwopHU4qaamzJrAhAt) | [Girassol](https://open.spotify.com/album/1D3DNwCke32gvuo1HbJWZN) | 3:09 |
-| 62 | [Quem Será?](https://open.spotify.com/track/00BK2exmvdM76fULBDrAvf) | [Colibri](https://open.spotify.com/artist/3R9wxOS0XWvgNBJZxtXi4y), [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r) | [Quem Será?](https://open.spotify.com/album/1ANOn0G6F1e2PyXyDgkjNS) | 6:16 |
+| 62 | [Quem Será?](https://open.spotify.com/track/6tw0Csa29CYVHEVAehI2Nm) | [Colibri](https://open.spotify.com/artist/3R9wxOS0XWvgNBJZxtXi4y), [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r) | [Quem Será?](https://open.spotify.com/album/5I7TlP98sFvVBcuYcwz6lS) | 6:16 |
 | 63 | [Aquele Outono](https://open.spotify.com/track/1GZAxktxsYntDgkXp9XrbN) | [Cronistas](https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq) | [Aquele Outono](https://open.spotify.com/album/6ou7lqgI2uo0gtz0wtAP4P) | 3:12 |
 | 64 | [Aimê](https://open.spotify.com/track/1SUnvJLHXSWDddMUjuVTcE) | [Julie Ramos](https://open.spotify.com/artist/72MhucM5doKoAXE5GIApaV) | [Aimê](https://open.spotify.com/album/3ULDlTFQBZv8oOURPQEN4u) | 3:02 |
 | 65 | [nesse verão](https://open.spotify.com/track/2o7Dnb3uCe2NRJhSEAruNv) | [Ente](https://open.spotify.com/artist/2lOXiSPGZ3mm6JpMhmL1bZ) | [nesse verão](https://open.spotify.com/album/51jNv8hQZrxuUg1tGbNU1A) | 2:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 74 | [Desabriga](https://open.spotify.com/track/4lZACQsjOZo5XxwUBK3KW2) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Desabriga](https://open.spotify.com/album/60jnx3HvluMJu7Q0G3xIw3) | 3:05 |
 | 75 | [cê disse que me ama](https://open.spotify.com/track/0ES1WHS9pYIAxHtR5EhkV2) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [cê disse que me ama](https://open.spotify.com/album/4hc5JdVbwXs2cPmYsm2Yz9) | 2:35 |
 
-Snapshot ID: `MCw1YWJjMzQwZDBhNzhkOTIyNTNjMTU5ZDY2YjIxYzk0ZjIwNzVlMGVm`
+Snapshot ID: `MCw4ZDA4Yzc5NzcwNmYyMjA5NGMwMjIyYWQ5NTQ1MDVmYzhlMDc4ZjIz`

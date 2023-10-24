@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Janelle Mon\u00e1e",
-  "num_followers": 76029,
+  "num_followers": 76031,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzk1MTU4Nzg4Nzg2OTIyMGE2NDJmNjQ0M2E2NTFhMWRkOTg0ZGRm",
+  "snapshot_id": "MCwyYjRhNTAzMTE1NDNkY2ViZDM3MTU4MWMyZDY5NTI0NDIzZGRiZDE1",
   "tracks": [
     {
       "added_at": "2021-08-03 17:22:27",
@@ -181,38 +181,6 @@
       "url": "https://open.spotify.com/track/0zBVnui5j6g5lDEfPpbobx"
     },
     {
-      "added_at": "2023-10-05 17:45:18",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 184258,
-      "name": "On My Mama",
-      "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
-    },
-    {
-      "added_at": "2023-05-25 04:09:32",
-      "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 181144,
-      "name": "DAYDREAM",
-      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
-    },
-    {
       "added_at": "2022-05-31 20:14:29",
       "album": {
         "name": "dirty dancer",
@@ -231,50 +199,18 @@
     {
       "added_at": "2023-05-25 04:09:32",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 186666,
-      "name": "BMHWDY",
-      "url": "https://open.spotify.com/track/7xlEcaR9vhZzNwC2TReE0l"
-    },
-    {
-      "added_at": "2023-05-25 04:09:32",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/2D37uNhXgherfImusGBKTx"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 199209,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/5QTdOvIF2ehBMZpSIIGzIo"
-    },
-    {
-      "added_at": "2022-10-03 01:21:50",
-      "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/4srecdfVYmg9qp7cIGFj0Z"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 222457,
-      "name": "Mango Butter",
-      "url": "https://open.spotify.com/track/2biRwgdbRj553k78fgoz86"
+      "duration_ms": 181144,
+      "name": "DAYDREAM",
+      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
     },
     {
       "added_at": "2020-06-01 21:07:43",
@@ -295,6 +231,70 @@
       "duration_ms": 158706,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n"
+    },
+    {
+      "added_at": "2023-05-25 04:09:32",
+      "album": {
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "BMHWDY",
+      "url": "https://open.spotify.com/track/7xlEcaR9vhZzNwC2TReE0l"
+    },
+    {
+      "added_at": "2023-10-05 17:45:18",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 184258,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
+    },
+    {
+      "added_at": "2022-10-03 01:21:50",
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/4srecdfVYmg9qp7cIGFj0Z"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 222457,
+      "name": "Mango Butter",
+      "url": "https://open.spotify.com/track/2biRwgdbRj553k78fgoz86"
+    },
+    {
+      "added_at": "2023-05-25 04:09:32",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/2D37uNhXgherfImusGBKTx"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 199209,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5QTdOvIF2ehBMZpSIIGzIo"
     },
     {
       "added_at": "2023-04-06 23:29:21",
@@ -619,6 +619,26 @@
     {
       "added_at": "2020-06-01 21:07:43",
       "album": {
+        "name": "Dirty Computer",
+        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "Pynk (feat. Grimes)",
+      "url": "https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH"
+    },
+    {
+      "added_at": "2020-06-01 21:07:43",
+      "album": {
         "name": "Grrrl Like",
         "url": "https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp"
       },
@@ -631,6 +651,22 @@
       "duration_ms": 171667,
       "name": "Grrrl Like",
       "url": "https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a"
+    },
+    {
+      "added_at": "2020-10-23 15:11:26",
+      "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
       "added_at": "2023-04-06 23:29:21",
@@ -669,42 +705,6 @@
       "url": "https://open.spotify.com/track/1YqXXJDSlDHrp66g9as4uo"
     },
     {
-      "added_at": "2020-06-01 21:07:43",
-      "album": {
-        "name": "Dirty Computer",
-        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Pynk (feat. Grimes)",
-      "url": "https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH"
-    },
-    {
-      "added_at": "2020-10-23 15:11:26",
-      "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
-    },
-    {
       "added_at": "2023-05-25 04:09:32",
       "album": {
         "name": "Camille",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/6OqDwiemWUNCb2yRzWNoza"
     },
     {
-      "added_at": "2021-02-26 05:00:00",
-      "album": {
-        "name": "Caution",
-        "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 155758,
-      "name": "Caution",
-      "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
-    },
-    {
       "added_at": "2023-10-05 17:45:18",
       "album": {
         "name": "who's loving you?",
@@ -751,6 +735,22 @@
       "duration_ms": 185949,
       "name": "BAD HABITS",
       "url": "https://open.spotify.com/track/6syPVEsTBgBnBORZAsNQnH"
+    },
+    {
+      "added_at": "2021-02-26 05:00:00",
+      "album": {
+        "name": "Caution",
+        "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 155758,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
     },
     {
       "added_at": "2020-06-01 21:07:43",

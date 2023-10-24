@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 340369,
+  "num_followers": 340604,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzZlYmE4OGM3ZjE1Nzc4ODU0Yzg3NTgyM2JjMDk4MDNkMzg3OGMw",
+  "snapshot_id": "MCxkZmFlMjQwOGE1N2JhNWNkYWMzMmNhZjlhMTM2NzgxOGMwNTZmYmQ3",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:02",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Creio Que Tu \u00c9s a Cura",
-        "url": "https://open.spotify.com/album/1C6VxwtIawHZhDybYTXol6"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 351708,
-      "name": "Creio Que Tu \u00c9s a Cura",
-      "url": "https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Let the Ground Rest",
         "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 254115,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Creio Que Tu \u00c9s a Cura",
+        "url": "https://open.spotify.com/album/1C6VxwtIawHZhDybYTXol6"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 351708,
+      "name": "Creio Que Tu \u00c9s a Cura",
+      "url": "https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Twenty Four",
+        "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 138019,
+      "name": "06:00 Sunrise",
+      "url": "https://open.spotify.com/track/3mCfc1Sf16fonjtBdxZOXC"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Helpless One",
         "url": "https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "If I Had Stayed",
-        "url": "https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J"
-      },
-      "artists": [
-        {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
-        }
-      ],
-      "duration_ms": 131641,
-      "name": "If I Had Stayed",
-      "url": "https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Onward & Upward",
         "url": "https://open.spotify.com/album/6bPc9nUVS4Hk4M2RCGtjFi"
       },
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Twenty Four",
-        "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
+        "name": "If I Had Stayed",
+        "url": "https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J"
       },
       "artists": [
         {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
         }
       ],
-      "duration_ms": 138019,
-      "name": "06:00 Sunrise",
-      "url": "https://open.spotify.com/track/3mCfc1Sf16fonjtBdxZOXC"
+      "duration_ms": 131641,
+      "name": "If I Had Stayed",
+      "url": "https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Todos A La Mesa",
-        "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
+        "name": "Shiloh",
+        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
       },
       "artists": [
         {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
         }
       ],
-      "duration_ms": 305562,
-      "name": "Transparente",
-      "url": "https://open.spotify.com/track/53OH88v4fyx4cqRlHE1Ezy"
+      "duration_ms": 268360,
+      "name": "Shiloh",
+      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Shiloh",
-        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
+        "name": "Todos A La Mesa",
+        "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
       },
       "artists": [
         {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
         }
       ],
-      "duration_ms": 268360,
-      "name": "Shiloh",
-      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
+      "duration_ms": 305562,
+      "name": "Transparente",
+      "url": "https://open.spotify.com/track/53OH88v4fyx4cqRlHE1Ezy"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/4UycA6we6inG3usBonCkN5"
-      },
-      "artists": [
-        {
-          "name": "Lydia Laird",
-          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Ever Closer",
         "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 232687,
       "name": "Ever Closer",
       "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/4UycA6we6inG3usBonCkN5"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Whisper (Acoustic Sessions)",
-        "url": "https://open.spotify.com/album/3njl0Jd9S5nSGIYJxp5UuT"
-      },
-      "artists": [
-        {
-          "name": "Stillman",
-          "url": "https://open.spotify.com/artist/7oiurd2k5JbvCNjP3PWKTH"
-        }
-      ],
-      "duration_ms": 267754,
-      "name": "Whisper (Acoustic)",
-      "url": "https://open.spotify.com/track/73ZcbnETkq6chgu1RhVULY"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Learning to Let You Go",
         "url": "https://open.spotify.com/album/4M7526VytrMjd32RxtGJXy"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 253378,
       "name": "Way Maker - Acoustic",
       "url": "https://open.spotify.com/track/4mX7EwCwqR6iW2Wl5WzDxG"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Whisper (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/3njl0Jd9S5nSGIYJxp5UuT"
+      },
+      "artists": [
+        {
+          "name": "Stillman",
+          "url": "https://open.spotify.com/artist/7oiurd2k5JbvCNjP3PWKTH"
+        }
+      ],
+      "duration_ms": 267754,
+      "name": "Whisper (Acoustic)",
+      "url": "https://open.spotify.com/track/73ZcbnETkq6chgu1RhVULY"
     },
     {
       "added_at": "2023-02-07 17:43:02",

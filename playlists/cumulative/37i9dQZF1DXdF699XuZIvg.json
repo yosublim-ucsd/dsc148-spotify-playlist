@@ -384,7 +384,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 189133,
       "name": "Blame It on the Boom Boom",
       "url": "https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h"
@@ -460,6 +460,24 @@
       "duration_ms": 274615,
       "name": "Blue On Black",
       "url": "https://open.spotify.com/track/1nemRFgJG6WIAtNwKArjXt"
+    },
+    {
+      "album": {
+        "name": "YOUNG&DANGEROUS",
+        "url": "https://open.spotify.com/album/1mFRTnYk72zZfVk7l25G3g"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178115,
+      "name": "Body Talks",
+      "url": "https://open.spotify.com/track/6spaGIZEfeDYlgAupMI34k"
     },
     {
       "album": {
@@ -3672,7 +3690,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 120506,
       "name": "Two-Timing Touch and Broken Bones",
       "url": "https://open.spotify.com/track/5F7AoCwgftgUdGUgd57RVE"
@@ -3784,7 +3802,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 211813,
       "name": "Walk Idiot Walk",
       "url": "https://open.spotify.com/track/5Pdd4QCr0rREXM03zBM2Eh"

@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> A Spotify program to promote exciting artists! RADAR BNLX: Shermanology \(cover\), Siggy & D1ns, Kids With Buns, Pommelien Thijs, Haunted Youth & Zoë Tauran
+> A Spotify program to promote exciting artists! RADAR BNLX:  Kids With Buns, \(cover\) Shermanology, Siggy & D1ns, Pommelien Thijs, Haunted Youth & Zoë Tauran
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,936 likes - 35 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,939 likes - 35 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jabula](https://open.spotify.com/track/6Kb5zYN5rUlBAZC3EqAB0T) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Verseless](https://open.spotify.com/artist/2kXwMFHdIbk3FVjJe9XOXM), [King Her](https://open.spotify.com/artist/6acKJrfjda2y2rbJ9lKLm5) | [Roots EP](https://open.spotify.com/album/6ZAcM29Ot4yCMlsRTmA7ze) | 3:38 |
-| 2 | [stubborn mind](https://open.spotify.com/track/7CCG7aIeTh3HRHfjz3SxQR) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [out of place](https://open.spotify.com/album/3v5oBoElWXugqDj7gCd1eO) | 3:00 |
-| 3 | [how bad could it be](https://open.spotify.com/track/5R85xX9Vl6GAvNkaCIDARF) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [how bad could it be](https://open.spotify.com/album/5IerYtedPaWMjgMNb4qdpM) | 3:08 |
-| 4 | [clutter](https://open.spotify.com/track/7aqLykWVESt4fuwX05tzmE) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [clutter](https://open.spotify.com/album/4YCV5lQcuCZGVaJUqm6Uk6) | 2:47 |
-| 5 | [daughter](https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [daughter](https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE) | 3:23 |
-| 6 | [Dingen Die Ik Doe](https://open.spotify.com/track/4l4GsNFlVt6J3Wr4LJqmlg) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Vlieg Hoog](https://open.spotify.com/album/3CsqojxAZHZpVQW7TFYoGQ) | 2:27 |
-| 7 | [Vlieg Hoog](https://open.spotify.com/track/42kJZkC1MFlarkImGzLk7r) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Vlieg Hoog](https://open.spotify.com/album/3CsqojxAZHZpVQW7TFYoGQ) | 2:41 |
-| 8 | [180](https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [180](https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj) | 3:31 |
-| 9 | [Ribéry](https://open.spotify.com/track/4LSO1o2dTqJedirEoyBNP0) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Ribéry](https://open.spotify.com/album/0qTO7678yKV6K6fdeFIb1Q) | 2:54 |
-| 10 | [Sometimes](https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Sometimes](https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p) | 2:55 |
-| 11 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
-| 12 | [Coco Loco](https://open.spotify.com/track/2n4Ul3ywASFI46NKxWrGtL) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [KUENTA](https://open.spotify.com/artist/3pr6mWxBNnh2OHul3o0A0p), [Cheryl Lispier](https://open.spotify.com/artist/57DvbdvXfkpcMOgSlo8rnt) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:52 |
+| 1 | [stubborn mind](https://open.spotify.com/track/7CCG7aIeTh3HRHfjz3SxQR) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [out of place](https://open.spotify.com/album/3v5oBoElWXugqDj7gCd1eO) | 3:00 |
+| 2 | [how bad could it be](https://open.spotify.com/track/5R85xX9Vl6GAvNkaCIDARF) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [how bad could it be](https://open.spotify.com/album/5IerYtedPaWMjgMNb4qdpM) | 3:08 |
+| 3 | [clutter](https://open.spotify.com/track/7aqLykWVESt4fuwX05tzmE) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [clutter](https://open.spotify.com/album/4YCV5lQcuCZGVaJUqm6Uk6) | 2:47 |
+| 4 | [daughter](https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [daughter](https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE) | 3:23 |
+| 5 | [Jabula](https://open.spotify.com/track/6Kb5zYN5rUlBAZC3EqAB0T) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Verseless](https://open.spotify.com/artist/2kXwMFHdIbk3FVjJe9XOXM), [King Her](https://open.spotify.com/artist/6acKJrfjda2y2rbJ9lKLm5) | [Roots EP](https://open.spotify.com/album/6ZAcM29Ot4yCMlsRTmA7ze) | 3:38 |
+| 6 | [Sometimes](https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Sometimes](https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p) | 2:55 |
+| 7 | [Coco Loco](https://open.spotify.com/track/2n4Ul3ywASFI46NKxWrGtL) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [KUENTA](https://open.spotify.com/artist/3pr6mWxBNnh2OHul3o0A0p), [Cheryl Lispier](https://open.spotify.com/artist/57DvbdvXfkpcMOgSlo8rnt) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:52 |
+| 8 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
+| 9 | [Dingen Die Ik Doe](https://open.spotify.com/track/4l4GsNFlVt6J3Wr4LJqmlg) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Vlieg Hoog](https://open.spotify.com/album/3CsqojxAZHZpVQW7TFYoGQ) | 2:27 |
+| 10 | [Vlieg Hoog](https://open.spotify.com/track/42kJZkC1MFlarkImGzLk7r) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Vlieg Hoog](https://open.spotify.com/album/3CsqojxAZHZpVQW7TFYoGQ) | 2:41 |
+| 11 | [180](https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [180](https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj) | 3:31 |
+| 12 | [Ribéry](https://open.spotify.com/track/4LSO1o2dTqJedirEoyBNP0) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Ribéry](https://open.spotify.com/album/0qTO7678yKV6K6fdeFIb1Q) | 2:54 |
 | 13 | [Erop Of Eronder](https://open.spotify.com/track/1dCSj3mSC1mulxiBoWgDNV) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Per Ongeluk](https://open.spotify.com/album/4e4ksXE7OauJdBlmebPHJJ) | 2:41 |
 | 14 | [Droom Het Donker Weg \(feat\. MEAU\)](https://open.spotify.com/track/7mYoKmUoppdfr51cIYdR1l) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Per Ongeluk](https://open.spotify.com/album/4e4ksXE7OauJdBlmebPHJJ) | 2:54 |
 | 15 | [Kleine Tornado](https://open.spotify.com/track/5rtx20BLAII8V5IxJILFOd) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [Kaat Thijs](https://open.spotify.com/artist/22SPS2g9kKMFBpzU4UnxLK) | [Kleine Tornado](https://open.spotify.com/album/5aoieYMrik5dAkFSh9WykV) | 3:22 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 34 | [Grow](https://open.spotify.com/track/2VkQOOtMhEkd2KF2AAGVKD) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Grow](https://open.spotify.com/album/7n1mEyOkjx2HUeW43vBRMH) | 2:59 |
 | 35 | [mind games](https://open.spotify.com/track/4UpvfveHlxiH4QQuf8V7Wj) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [mind games](https://open.spotify.com/album/5Dx5DV0R1o7rugHiZaur0X) | 3:30 |
 
-Snapshot ID: `MCxkMTIwNGQwN2U0ODMxNDZmY2ViNTY1ODk3MjljYWI0ZDY5YzcwODNj`
+Snapshot ID: `MCwwN2FhYjNjNTFmN2U0YzM1NGQzNTFhNWI1MDZhNmVmNDgyYTMxYzBl`

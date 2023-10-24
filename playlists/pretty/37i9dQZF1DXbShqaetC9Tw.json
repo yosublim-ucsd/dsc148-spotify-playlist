@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 94092,
+  "num_followers": 94116,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWU1MjMxZjQxZjFkYWY4Y2FjMmQ3NmE4MmNjNjM4MTQyMGE4ZDgx",
+  "snapshot_id": "MCw4ZTc3Mjc5YTY3ZGEyOTE0NTBiNTUxYmJjZWY2Njk4ZDdlM2FmMjVl",
   "tracks": [
     {
       "added_at": "2023-10-20 06:09:14",
@@ -127,6 +127,26 @@
     {
       "added_at": "2023-10-20 06:09:14",
       "album": {
+        "name": "Love Part 2",
+        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "When Dawn Comes Again (feat. BAEKHYUN)",
+      "url": "https://open.spotify.com/track/0mrgAyhYrP2JWT9yoUUFRj"
+    },
+    {
+      "added_at": "2023-10-20 06:09:14",
+      "album": {
         "name": "CR\u00c8ME",
         "url": "https://open.spotify.com/album/50OexC7HF7AMO8ypWaGvPd"
       },
@@ -163,22 +183,6 @@
     {
       "added_at": "2023-10-20 06:09:14",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 239002,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
-    },
-    {
-      "added_at": "2023-10-20 06:09:14",
-      "album": {
         "name": "LOVE.",
         "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
       },
@@ -195,22 +199,18 @@
     {
       "added_at": "2023-10-20 06:09:14",
       "album": {
-        "name": "Love Part 2",
-        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        },
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 236666,
-      "name": "When Dawn Comes Again (feat. BAEKHYUN)",
-      "url": "https://open.spotify.com/track/0mrgAyhYrP2JWT9yoUUFRj"
+      "duration_ms": 239002,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
     },
     {
       "added_at": "2023-10-20 06:09:14",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-10-20 06:09:14",
       "album": {
-        "name": "bath",
-        "url": "https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r"
+        "name": "idealism",
+        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
       },
       "artists": [
         {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
         }
       ],
-      "duration_ms": 261705,
-      "name": "bath",
-      "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
+      "duration_ms": 289000,
+      "name": "A Song Nobody Knows",
+      "url": "https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7"
     },
     {
       "added_at": "2023-10-20 06:09:14",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-10-20 06:09:14",
       "album": {
-        "name": "idealism",
-        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "A Song Nobody Knows",
-      "url": "https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7"
-    },
-    {
-      "added_at": "2023-10-20 06:09:14",
-      "album": {
         "name": "Take You Down",
         "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 177680,
       "name": "11:59 (feat. Goopy)",
       "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
+    },
+    {
+      "added_at": "2023-10-20 06:09:14",
+      "album": {
+        "name": "bath",
+        "url": "https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 261705,
+      "name": "bath",
+      "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
     },
     {
       "added_at": "2023-10-20 06:09:14",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-10-20 06:09:14",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 223141,
-      "name": "Moon, 12:04am",
-      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
-    },
-    {
-      "added_at": "2023-10-20 06:09:14",
-      "album": {
         "name": "starry night \u201817",
         "url": "https://open.spotify.com/album/2RPyn31wYLC9lWn4p0OVEI"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 211997,
       "name": "PIZZA",
       "url": "https://open.spotify.com/track/3xzl4MYc0YLQHJbaD6LxT6"
+    },
+    {
+      "added_at": "2023-10-20 06:09:14",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 223141,
+      "name": "Moon, 12:04am",
+      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
     },
     {
       "added_at": "2023-10-20 06:09:14",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-10-20 06:09:14",
       "album": {
-        "name": "BLUE MOON",
-        "url": "https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh"
-      },
-      "artists": [
-        {
-          "name": "JAY",
-          "url": "https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "BLUE MOON",
-      "url": "https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf"
-    },
-    {
-      "added_at": "2023-10-20 06:09:14",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6lc1CGb9DBXKszqEzMGZq7"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": "2023-10-20 06:09:14",
       "album": {
+        "name": "BLUE MOON",
+        "url": "https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh"
+      },
+      "artists": [
+        {
+          "name": "JAY",
+          "url": "https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB"
+        }
+      ],
+      "duration_ms": 171880,
+      "name": "BLUE MOON",
+      "url": "https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf"
+    },
+    {
+      "added_at": "2023-10-20 06:09:14",
+      "album": {
         "name": "Evergray",
         "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 233333,
       "name": "In the Blur of the Rain",
       "url": "https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j"
-    },
-    {
-      "added_at": "2023-10-20 06:09:14",
-      "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 233958,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
     },
     {
       "added_at": "2023-10-20 06:09:14",
@@ -635,6 +619,22 @@
       "duration_ms": 259000,
       "name": "Please Love Me",
       "url": "https://open.spotify.com/track/4SFNHcxBFUmhAWwVZUpx4n"
+    },
+    {
+      "added_at": "2023-10-20 06:09:14",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 233958,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
     },
     {
       "added_at": "2023-10-20 06:09:14",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-10-20 06:09:14",
       "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "Black & White Film (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
+    },
+    {
+      "added_at": "2023-10-20 06:09:14",
+      "album": {
         "name": "Rose",
         "url": "https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 190588,
       "name": "This Night",
       "url": "https://open.spotify.com/track/15BICHMgXBWNJ8EXwHuSXZ"
-    },
-    {
-      "added_at": "2023-10-20 06:09:14",
-      "album": {
-        "name": "Black & White Film",
-        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "Black & White Film (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
     },
     {
       "added_at": "2023-10-20 06:09:14",
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-10-20 06:09:14",
       "album": {
-        "name": "That's Why I Can't Talk About Love",
-        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
-      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
-    },
-    {
-      "added_at": "2023-10-20 06:09:14",
-      "album": {
         "name": "Seoul Vibes Pt.1",
         "url": "https://open.spotify.com/album/6Vr9ohrwbRRG2YiZOqtOqY"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 182062,
       "name": "Sad Love Song (feat. slchld & Rheehab)",
       "url": "https://open.spotify.com/track/23A5k0zdbGThnBIu1lanyr"
+    },
+    {
+      "added_at": "2023-10-20 06:09:14",
+      "album": {
+        "name": "That's Why I Can't Talk About Love",
+        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
+      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
     },
     {
       "added_at": "2023-10-20 06:09:14",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-10-20 06:09:14",
       "album": {
-        "name": "Track 03",
-        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
-      },
-      "artists": [
-        {
-          "name": "KLANG",
-          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Airplane Mode",
-      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
-    },
-    {
-      "added_at": "2023-10-20 06:09:14",
-      "album": {
         "name": "ANTIRIVER",
         "url": "https://open.spotify.com/album/6XDZyVUQriuOqCERhaqGlj"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 267048,
       "name": "ANTIRIVER",
       "url": "https://open.spotify.com/track/7DcKCWQ770DoNOIov3pVnb"
+    },
+    {
+      "added_at": "2023-10-20 06:09:14",
+      "album": {
+        "name": "Track 03",
+        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
+      },
+      "artists": [
+        {
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

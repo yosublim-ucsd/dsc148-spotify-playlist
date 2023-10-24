@@ -1,12 +1,12 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 18359,
+  "num_followers": 18457,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODkxNjY2YTVhYTkxZGEzZDZhZTk2YTEwMzNkMWMxMTRiNjJmNTcy",
+  "snapshot_id": "MCxmMTM0NThjODRmOTA2MTIwMDVkODMyZjNhZTNkM2EyZDAxYTI5NTgx",
   "tracks": [
     {
       "added_at": "2020-07-23 21:45:59",
@@ -201,26 +201,6 @@
       "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
     },
     {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 288293,
-      "name": "Boogie Wonderland",
-      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
-    },
-    {
       "added_at": "2020-07-23 21:45:59",
       "album": {
         "name": "Let's Stay Together",
@@ -269,6 +249,26 @@
       "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 288293,
+      "name": "Boogie Wonderland",
+      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
+    },
+    {
       "added_at": "2020-07-23 21:45:59",
       "album": {
         "name": "Off the Wall",
@@ -283,22 +283,6 @@
       "duration_ms": 365466,
       "name": "Don't Stop 'Til You Get Enough",
       "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -319,6 +303,22 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -331,22 +331,6 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Raise!",
-        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 339320,
-      "name": "Let's Groove",
-      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -363,6 +347,22 @@
       "duration_ms": 248573,
       "name": "Shoop",
       "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Raise!",
+        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 339320,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -395,26 +395,6 @@
       "duration_ms": 274000,
       "name": "Can't Get Enough Of Your Love, Babe",
       "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "The Way You Move (feat. Sleepy Brown)",
-      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -463,6 +443,26 @@
       "duration_ms": 352906,
       "name": "When Doves Cry",
       "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "The Way You Move (feat. Sleepy Brown)",
+      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "This Is How We Do It",
-        "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
-      },
-      "artists": [
-        {
-          "name": "Montell Jordan",
-          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
-        },
-        {
-          "name": "Wino",
-          "url": "https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "This Is How We Do It",
-      "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "Stompin' At The Savoy",
         "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
@@ -571,22 +551,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 208893,
-      "name": "Brick House",
-      "url": "https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -599,6 +563,42 @@
       "duration_ms": 239026,
       "name": "P.Y.T. (Pretty Young Thing)",
       "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "This Is How We Do It",
+        "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
+      },
+      "artists": [
+        {
+          "name": "Montell Jordan",
+          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
+        },
+        {
+          "name": "Wino",
+          "url": "https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "This Is How We Do It",
+      "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "Brick House",
+      "url": "https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
-      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "Time for a Change",
         "url": "https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 231360,
       "name": "Cupid Shuffle",
       "url": "https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
+      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80"
     },
     {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "Aijuswanaseing",
-        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 251426,
-      "name": "Just Friends (Sunny)",
-      "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
-    },
-    {
       "added_at": "2023-06-16 17:58:31",
       "album": {
         "name": "Where There's Smoke...",
@@ -915,6 +899,22 @@
       "duration_ms": 352920,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "Aijuswanaseing",
+        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 251426,
+      "name": "Just Friends (Sunny)",
+      "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/7LikBkHerFGZ58QHVOKp1t"
     },
     {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "The Gap Band IV",
-        "url": "https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG"
-      },
-      "artists": [
-        {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Outstanding",
-      "url": "https://open.spotify.com/track/2yd0XI7g0BhAgY9GkpPClU"
-    },
-    {
       "added_at": "2020-07-23 21:45:59",
       "album": {
         "name": "Heart Break",
@@ -1143,6 +1127,38 @@
       "duration_ms": 309840,
       "name": "If It Isn't Love",
       "url": "https://open.spotify.com/track/7JmPqImeW3kLoYVNBA9v11"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "Hotter Than July",
+        "url": "https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 306666,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "The Gap Band IV",
+        "url": "https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Outstanding",
+      "url": "https://open.spotify.com/track/2yd0XI7g0BhAgY9GkpPClU"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -1163,22 +1179,6 @@
       "duration_ms": 290466,
       "name": "Fantasy (feat. O.D.B.)",
       "url": "https://open.spotify.com/track/2itAOPLerxnnc8KXHMqPWu"
-    },
-    {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "Hotter Than July",
-        "url": "https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 306666,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5"
     },
     {
       "added_at": "2020-07-23 21:45:59",

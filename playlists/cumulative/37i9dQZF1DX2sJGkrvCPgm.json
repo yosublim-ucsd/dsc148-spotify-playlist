@@ -468,7 +468,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 239932,
       "name": "At This Table",
       "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
@@ -566,6 +566,24 @@
       "duration_ms": 281323,
       "name": "Before the King",
       "url": "https://open.spotify.com/track/7ncXTtHMsR1BI6GjHG9mxk"
+    },
+    {
+      "album": {
+        "name": "Behold",
+        "url": "https://open.spotify.com/album/7vnaWVAKt5MxKIr4M4CTeH"
+      },
+      "artists": [
+        {
+          "name": "Plumb",
+          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198213,
+      "name": "Behold",
+      "url": "https://open.spotify.com/track/0HL5CdY1nmtv2gplIWlgph"
     },
     {
       "album": {
@@ -2198,7 +2216,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 271769,
       "name": "He Comes",
       "url": "https://open.spotify.com/track/0lYkt2IT6tsgccbVjKXTOf"
@@ -5842,7 +5860,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 199572,
       "name": "Your Majesty",
       "url": "https://open.spotify.com/track/5OBE1D4jtm1TJUZmViqOQQ"

@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 40876,
+  "num_followers": 40882,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmMwMmQ4MTRhNjY4MDNiMTdhYTZmOTNlNzAyOTVjYmQ0ZWJhMDEy",
+  "snapshot_id": "MCxmZjg2YTJhYzFkZTc5OGM0NDg1MzVjYWZkMTlmZGI3YzZlMGQwMzkx",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "For Abby",
-        "url": "https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 135581,
-      "name": "Honeypie",
-      "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
@@ -243,38 +227,6 @@
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Someone To Spend Time With",
-        "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
-      },
-      "artists": [
-        {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
-        }
-      ],
-      "duration_ms": 173953,
-      "name": "Someone To Spend Time With",
-      "url": "https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 248934,
-      "name": "Norman fucking Rockwell",
-      "url": "https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -295,6 +247,38 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "For Abby",
+        "url": "https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 135581,
+      "name": "Honeypie",
+      "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Someone To Spend Time With",
+        "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "duration_ms": 173953,
+      "name": "Someone To Spend Time With",
+      "url": "https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "i met sarah in the bathroom",
         "url": "https://open.spotify.com/album/3z7kfJNZsrAjHY3Q24N4QQ"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 121374,
       "name": "i met sarah in the bathroom",
       "url": "https://open.spotify.com/track/0mr8FAnN9X70p5KRUwMIJx"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 248934,
+      "name": "Norman fucking Rockwell",
+      "url": "https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/5LbiR8iqC4hYeIKifnmVqc"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 256266,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/2flxduIqEbsicdmPyj1WVW"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -375,18 +359,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/5LbiR8iqC4hYeIKifnmVqc"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
         }
       ],
-      "duration_ms": 218287,
-      "name": "Fuck it I love you",
-      "url": "https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh"
+      "duration_ms": 256266,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/2flxduIqEbsicdmPyj1WVW"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -403,6 +387,22 @@
       "duration_ms": 209829,
       "name": "Cradles",
       "url": "https://open.spotify.com/track/5sSYvDVyP0CP9TUiqy3fuF"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 218287,
+      "name": "Fuck it I love you",
+      "url": "https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "Black Madonna",
-      "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "I Am Easy to Find",
         "url": "https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "Black Madonna",
+      "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Remind Me Tomorrow",
         "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 157303,
       "name": "Lava",
       "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Ready To Let Go",
-      "url": "https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -895,6 +879,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Ready To Let Go",
+      "url": "https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "The Balance",
         "url": "https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r"
       },
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Face to Face",
+      "url": "https://open.spotify.com/track/0YdIIMb2MHuxoUudkAY9gS"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Everything Else Has Gone Wrong",
         "url": "https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ"
       },
@@ -955,26 +971,6 @@
       "duration_ms": 219893,
       "name": "Eat, Sleep, Wake (Nothing But You)",
       "url": "https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Assume Form",
-        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Barefoot In The Park (feat. ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -995,18 +991,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+        "name": "Assume Form",
+        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Face to Face",
-      "url": "https://open.spotify.com/track/0YdIIMb2MHuxoUudkAY9gS"
+      "duration_ms": 211200,
+      "name": "Barefoot In The Park (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 138115,
+      "name": "Doom Days",
+      "url": "https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Women In Music Pt. III",
         "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 204280,
       "name": "Now I'm In It - Bonus Track",
       "url": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 196776,
-      "name": "Shine A Little Light",
-      "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1179,34 +1179,34 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },
       "artists": [
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 138115,
-      "name": "Doom Days",
-      "url": "https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt"
+      "duration_ms": 236819,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ"
     },
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 252301,
-      "name": "People Need A Melody",
-      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
+      "duration_ms": 196776,
+      "name": "Shine A Little Light",
+      "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Tomb",
-        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
       "artists": [
         {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 236819,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ"
+      "duration_ms": 252301,
+      "name": "People Need A Melody",
+      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Everything Not Saved Will Be Lost Part I",
-        "url": "https://open.spotify.com/album/6uVaLj0YV3mWRFUw4xJ6eR"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 192695,
-      "name": "On the Luna",
-      "url": "https://open.spotify.com/track/2wSZ6ynM06pJE8lroAhyy8"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 262266,
       "name": "Naeem",
       "url": "https://open.spotify.com/track/0XOsqpvDLx0FhizUCqwSNf"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Everything Not Saved Will Be Lost Part I",
+        "url": "https://open.spotify.com/album/6uVaLj0YV3mWRFUw4xJ6eR"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 192695,
+      "name": "On the Luna",
+      "url": "https://open.spotify.com/track/2wSZ6ynM06pJE8lroAhyy8"
     },
     {
       "added_at": "2022-09-16 04:53:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,360,359 likes - 85 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,360,892 likes - 85 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Hyper](https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N) | 4:17 |
 | 85 | [Skyline](https://open.spotify.com/track/4eKbNMZEejC4lWxkRaDyan) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Skyline](https://open.spotify.com/album/6MiQuUPf4xQK3QaVC2f7uO) | 3:57 |
 
-Snapshot ID: `MCwyNWNhYjM1ODdkZDQ0M2IyYjEzNjQxODljNmRkNmYzZDhjYjUxMDhh`
+Snapshot ID: `MCw4ZTNjMWZmOWMzMDhkOWQxMTczYTExNmJmNzNiMjMxOGI2NDFhOTg3`

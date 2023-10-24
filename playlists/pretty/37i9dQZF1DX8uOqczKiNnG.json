@@ -1,12 +1,12 @@
 {
   "description": "Los m\u00e1s grandes \u00e9xitos de los 70 en Argentina.",
-  "num_followers": 82222,
+  "num_followers": 82243,
   "original_name": "Los 70 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDU0MTUxY2IwOWRiZGIxOTgzMjM1Njc0NDcxMTgyMDY1YWM4NjUy",
+  "snapshot_id": "MCwyMzg3ZDA2M2E4ODZlODJiMjBhOTYwODdkMmE0NGZlYTg3NmIxMzcw",
   "tracks": [
     {
       "added_at": "2020-03-13 18:13:53",
@@ -159,22 +159,6 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "Let It Be - Remastered 2009",
-      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
-    },
-    {
-      "added_at": "2020-03-13 18:13:53",
-      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
@@ -223,18 +207,18 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 285373,
-      "name": "Stayin' Alive",
-      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
+      "duration_ms": 243026,
+      "name": "Let It Be - Remastered 2009",
+      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
     },
     {
       "added_at": "2020-03-13 18:13:53",
@@ -328,9 +312,9 @@
           "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 197213,
-      "name": "More Than A Woman",
-      "url": "https://open.spotify.com/track/49OMJ1prsRA7ZYgrAjz70c"
+      "duration_ms": 285373,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
     },
     {
       "added_at": "2020-03-13 18:13:53",
@@ -367,22 +351,6 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
-        "name": "News Of The World (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 122066,
-      "name": "We Will Rock You - Remastered 2011",
-      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
-    },
-    {
-      "added_at": "2020-03-13 18:13:53",
-      "album": {
         "name": "Diego En Los 70",
         "url": "https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb"
       },
@@ -411,6 +379,22 @@
       "duration_ms": 350400,
       "name": "Sultans of Swing",
       "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
+    },
+    {
+      "added_at": "2020-03-13 18:13:53",
+      "album": {
+        "name": "News Of The World (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
     },
     {
       "added_at": "2020-03-13 18:13:53",
@@ -463,6 +447,22 @@
       "duration_ms": 212481,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu"
+    },
+    {
+      "added_at": "2020-03-13 18:13:53",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "More Than A Woman",
+      "url": "https://open.spotify.com/track/49OMJ1prsRA7ZYgrAjz70c"
     },
     {
       "added_at": "2020-03-13 18:13:53",
@@ -595,22 +595,6 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
-        }
-      ],
-      "duration_ms": 175520,
-      "name": "Fuiste M\u00eda un Verano",
-      "url": "https://open.spotify.com/track/2pK7tq9N5Yr7w9gZbWpNxe"
-    },
-    {
-      "added_at": "2020-03-13 18:13:53",
-      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
       },
@@ -643,18 +627,34 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+        "name": "Sus Mas Grandes Exit",
+        "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
       },
       "artists": [
         {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+          "name": "Angela Carrasco",
+          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
         }
       ],
-      "duration_ms": 130080,
-      "name": "Todas las Hojas Son del Viento",
-      "url": "https://open.spotify.com/track/689lBKIELtWGHfsPWpR6rv"
+      "duration_ms": 275600,
+      "name": "Quererte a Ti",
+      "url": "https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo"
+    },
+    {
+      "added_at": "2020-03-13 18:13:53",
+      "album": {
+        "name": "Fuiste M\u00eda un Verano",
+        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+        }
+      ],
+      "duration_ms": 175520,
+      "name": "Fuiste M\u00eda un Verano",
+      "url": "https://open.spotify.com/track/2pK7tq9N5Yr7w9gZbWpNxe"
     },
     {
       "added_at": "2020-03-13 18:13:53",
@@ -675,18 +675,34 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
-        "name": "Sus Mas Grandes Exit",
-        "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
+        "name": "Artaud",
+        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
       },
       "artists": [
         {
-          "name": "Angela Carrasco",
-          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
         }
       ],
-      "duration_ms": 275600,
-      "name": "Quererte a Ti",
-      "url": "https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo"
+      "duration_ms": 130080,
+      "name": "Todas las Hojas Son del Viento",
+      "url": "https://open.spotify.com/track/689lBKIELtWGHfsPWpR6rv"
+    },
+    {
+      "added_at": "2020-03-13 18:13:53",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 132973,
+      "name": "Quiz\u00e1s, Porque",
+      "url": "https://open.spotify.com/track/1qa1RJbrfCOZ8ptY73DzS1"
     },
     {
       "added_at": "2020-03-13 18:13:53",
@@ -755,22 +771,6 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 132973,
-      "name": "Quiz\u00e1s, Porque",
-      "url": "https://open.spotify.com/track/1qa1RJbrfCOZ8ptY73DzS1"
-    },
-    {
-      "added_at": "2020-03-13 18:13:53",
-      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Las Habladurias del Mundo",
-      "url": "https://open.spotify.com/track/5K6fJf9l8WTsscngGert0b"
-    },
-    {
-      "added_at": "2020-03-13 18:13:53",
-      "album": {
         "name": "Begin the Beguine",
         "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 251600,
       "name": "Quiereme Mucho - Yours",
       "url": "https://open.spotify.com/track/3D1ourR6ar31jOZmHGCoa2"
+    },
+    {
+      "added_at": "2020-03-13 18:13:53",
+      "album": {
+        "name": "Confesiones De Invierno",
+        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "Rasgu\u00f1a las Piedras",
+      "url": "https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78"
     }
   ],
   "unique_name": "Los 70 Argentina",

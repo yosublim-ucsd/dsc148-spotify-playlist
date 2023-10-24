@@ -4,7 +4,7 @@
 
 > 時には、思いっきりラウドな音に感情を乗せてシャウト。 Shout your heart out with these loud tracks.
 
-65 songs - 3 hr 37 min
+66 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [About Face](https://open.spotify.com/track/4UtVrX1mjZZVlCqNAgc2z4) | [TRUE FIGHT](https://open.spotify.com/artist/4ZmXWMtBQWqaB8dq5fusNN) | [About Face](https://open.spotify.com/album/1LpsAWfPqXfS4kPPIsOAkD) | 1:22 | 2023-10-17 |  |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-09-07 |  |
 | [AREA PD](https://open.spotify.com/track/2vdO4HCh3Ya4B6U044UdCh) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [AREA PD](https://open.spotify.com/album/4QC4o5bDLPMDLPk4Hs2M22) | 2:57 | 2023-09-07 |  |
+| [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 | 2023-10-19 |  |
 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 | 2023-09-07 |  |
 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 | 2023-10-03 |  |
 | [Burn the System](https://open.spotify.com/track/1iyCbqo9UgeLCVYo867Nol) | [KRUELTY](https://open.spotify.com/artist/0R2MCc7Bg2RsZb7nOKpJdU) | [Untopia](https://open.spotify.com/album/11xqOdJhWSMrVgds4m5gLY) | 4:49 | 2023-09-07 | 2023-10-04 |
@@ -55,7 +56,7 @@
 | [Rave\-up Tonight](https://open.spotify.com/track/4a6UFsB5YKrGYwC50RK5im) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [PHASE 2](https://open.spotify.com/album/5NvvNBuNHN9iDy1MdNYDrK) | 3:22 | 2023-09-07 |  |
 | [RUMBLE](https://open.spotify.com/track/5TJii7hQr93G7yYdgO5RAU) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Masato](https://open.spotify.com/artist/11xDXwn09ERXhnM1wZgywo) | [RUMBLE](https://open.spotify.com/album/1q3QicMrnFJ4RrdFcVyvig) | 4:41 | 2023-10-03 |  |
 | [Save Yourself](https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:17 | 2023-09-07 |  |
-| [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-10-03 |  |
+| [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-10-03 | 2023-10-24 |
 | [Shambles](https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Shambles](https://open.spotify.com/album/4hhkj6li1ULllYOZJHFt7w) | 3:22 | 2023-09-07 |  |
 | [Shinra Dark Pop](https://open.spotify.com/track/1EcQCDJGRTbUyGHhAvyRvT) | [星熊南巫](https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U) | [Shinra Dark Pop](https://open.spotify.com/album/1pD3UcDc6DNbzkYNl9yehf) | 2:10 | 2023-09-07 | 2023-10-20 |
 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 | 2023-09-07 |  |

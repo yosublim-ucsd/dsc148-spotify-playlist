@@ -1,12 +1,12 @@
 {
   "description": "All 70s, all ballads. Cover: Barbra Streisand",
-  "num_followers": 243578,
+  "num_followers": 243708,
   "original_name": "70s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDEyMjliZWM2NjlmZGQ3NDNlZmEyOWZiMDUyOTdlNWU4ZDdiNzNk",
+  "snapshot_id": "MCwzZWYzMTk2NTY2YzdkZTMzNTk1NjE5MTY4ZTA1Njc4MDcxOTRlMWNm",
   "tracks": [
     {
       "added_at": "2023-01-02 17:44:56",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
         "name": "Back Home Again",
         "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 192200,
       "name": "Make It with You",
       "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "Desperado (2013 Remaster)",
-        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 213712,
-      "name": "Desperado - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
         "name": "Abandoned Luncheonette",
         "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 313373,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 213712,
+      "name": "Desperado - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "Blue Moves",
-        "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Sorry Seems To Be The Hardest Word",
-      "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
         "name": "Let It Be (Remastered)",
         "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 218186,
       "name": "The Long And Winding Road - Remastered 2009",
       "url": "https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
+        "name": "Blue Moves",
+        "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Sorry Seems To Be The Hardest Word",
+      "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -727,22 +727,6 @@
       "duration_ms": 430000,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
-        "name": "Caribou (Remastered 1995)",
-        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 336733,
-      "name": "Don't Let The Sun Go Down On Me - Remastered 1995",
-      "url": "https://open.spotify.com/track/11FcfHd3SOmmrWJPGe7Y30"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -807,6 +791,22 @@
       "duration_ms": 241746,
       "name": "Just When I Needed You Most",
       "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
+        "name": "Anytime... Anywhere",
+        "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
+      },
+      "artists": [
+        {
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
+        }
+      ],
+      "duration_ms": 220520,
+      "name": "We're All Alone",
+      "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
     }
   ],
   "unique_name": "70s Ballads",

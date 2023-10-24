@@ -4,7 +4,7 @@
 
 > Hits terpanas dari Fabio Asher, Nadhif Basalamah serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-122 songs - 7 hr 38 min
+124 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-14 | 2023-09-12 |
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-09-07 | 2023-10-13 |
 | [Bercinta Lewat Kata \- OST Jatuh Cinta Seperti di Film\-Film](https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Bercinta Lewat Kata \(OST Jatuh Cinta Seperti di Film\-Film\)](https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd) | 2:49 | 2023-10-06 |  |
+| [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 | 2023-10-23 |  |
 | [Bertahan Terluka](https://open.spotify.com/track/62sancAaHEMwPxBuatzaay) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:00 | 2023-03-23 | 2023-05-20 |
 | [Broken Melodies](https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Broken Melodies](https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W) | 3:46 | 2023-06-22 | 2023-07-06 |
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2023-05-12 |  |
@@ -118,7 +119,8 @@
 | [Tertawan Hati](https://open.spotify.com/track/0DVCvSb8PhHchIP23JOP9q) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/4pHrGkGuL62BjpAwLxhoJo) | 3:57 | 2023-09-22 |  |
 | [Tertawan Hati](https://open.spotify.com/track/3i0h88q1HBtbdIg2bPxs54) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/3Je4P8ARv9FvEIcOJJXIKl) | 3:57 | 2023-03-23 | 2023-10-02 |
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2023-03-23 | 2023-03-31 |
-| [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-03-23 |  |
+| [Those Eyes](https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Based On A True Story...](https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz) | 3:40 | 2023-10-23 |  |
+| [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-03-23 | 2023-10-24 |
 | [Trauma](https://open.spotify.com/track/5mS6XpcsLnKxXrdvw4uzBk) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p) | [Trauma \(feat\. Aan Story\)](https://open.spotify.com/album/42zqQhzRx05UFLDVY5XOvE) | 3:38 | 2023-08-03 | 2023-08-10 |
 | [Trauma](https://open.spotify.com/track/6SITe0StjnWHjyNOVzyJTX) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p) | [Trauma](https://open.spotify.com/album/6H3lJJCLJjrKAKfm7KaE3Z) | 3:38 | 2023-08-03 |  |
 | [Trauma](https://open.spotify.com/track/6bOW2X3ffFoOpMfDoz91Q6) | [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p), [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk) | [Trauma](https://open.spotify.com/album/6X4KUt8RZEuJnlXXX04JC9) | 3:38 | 2023-06-01 | 2023-08-04 |

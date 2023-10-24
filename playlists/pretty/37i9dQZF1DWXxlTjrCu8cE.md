@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,645 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,640 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 49 | [Metade Vai, Metade Fica \- Ao Vivo](https://open.spotify.com/track/2wjPolk9weQkKhsNtjaTSs) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [Close Friends \(Ao Vivo\)](https://open.spotify.com/album/0JDiWK0YzOeg45K86BLY8S) | 2:43 |
 | 50 | [Não Vai Ter Fim \- Ao Vivo](https://open.spotify.com/track/4Iza3iQfmkWrY1dVEa51Sv) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9) | [Oi, Prazer BG! Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0ev4mqX85Oa3g2TnNYN4LO) | 3:07 |
 
-Snapshot ID: `MCxmZmEyMjkxZTExYzdjMjRhYzc3MzVhMGQ3MDMwNmM3NTBlNDdlN2Yw`
+Snapshot ID: `MCw2N2FmZjcyNTEwZjQ0ZDI5YzVlZjA4M2ZlZTc2YmZlZTdkMTljODJk`

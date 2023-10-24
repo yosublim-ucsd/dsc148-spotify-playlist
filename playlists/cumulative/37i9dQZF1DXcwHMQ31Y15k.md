@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Gilga Sahid
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: James AP
 
-231 songs - 19 hr 4 min
+232 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Kudu Nangis](https://open.spotify.com/track/1W6dPS3Fko21XHOkKQ2rMI) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB) | [Kudu Nangis](https://open.spotify.com/album/4aFca7kL4Hp1y0hzYFZpBv) | 5:04 | 2022-08-25 | 2023-08-11 |
 | [Kurangku Opo](https://open.spotify.com/track/5v2gEm7WZNJChdoNqgGSxA) | [Ronda Genk](https://open.spotify.com/artist/67H1jUlHffu3RzhSAWRl7z) | [Kurangku Opo](https://open.spotify.com/album/5rCg6XiVS9xmBiUEoYn0Dq) | 6:28 | 2023-08-11 |  |
 | [Lagu Galau](https://open.spotify.com/track/3czrfH9M8dT34boJCL6iwV) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A), [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Lagu Galau](https://open.spotify.com/album/2ssc0LBXdKKmPoQSKivKIy) | 4:15 | 2023-02-16 | 2023-08-11 |
+| [Langganan Kleru \- Cover](https://open.spotify.com/track/6cDrGW9pKEq52SebLnfI8V) | [James AP](https://open.spotify.com/artist/62nZapVtmkig653PBkIsq5) | [Langganan Kleru \(Cover\)](https://open.spotify.com/album/6Dt3EM50CpMHVVS8HVSxAU) | 5:15 | 2023-10-20 |  |
 | [Lemah Teles](https://open.spotify.com/track/5c8Yuef8DL7Okp8Y9KhJMK) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Lemah Teles](https://open.spotify.com/album/4PlE7GG0LpXSEEN1B5tuqK) | 6:16 | 2022-05-26 | 2023-08-11 |
 | [Lengo Lan Banyu](https://open.spotify.com/track/7hGRnpcfRRqZjmbEaBJVEK) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Lengo Lan Banyu](https://open.spotify.com/album/24FEvuzz1HYxNZcxVIttZo) | 5:34 | 2023-03-09 | 2023-08-11 |
 | [Lilakno Lungaku](https://open.spotify.com/track/6bleTipsKDs3CH6TA1W1bh) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/2xkJB4SULWjjsqOLeq7dsD) | 5:09 | 2023-08-11 |  |

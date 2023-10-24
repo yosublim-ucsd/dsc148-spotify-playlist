@@ -4,7 +4,7 @@
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-313 songs - 19 hr 1 min
+315 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Afterglow](https://open.spotify.com/track/32MX9K3PwpcUtdhiSx6sef) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Faber Drive](https://open.spotify.com/artist/3SziwNj6JCnqd2ajUdXlIT), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Afterglow](https://open.spotify.com/album/3wErxE6WjMSWYHpJUrNzXX) | 3:18 | 2021-11-12 | 2022-01-06 |
 | [Alaska](https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Alaska](https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe) | 3:00 | 2022-05-27 |  |
 | [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 | 2021-11-12 |  |
+| [All I Want](https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE) | [Rosebud Nash](https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE) | [All I Want](https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS) | 3:18 | 2023-10-23 |  |
 | [All the Black \- Acoustic](https://open.spotify.com/track/1vrmpURbKzyZtA4HpdBIjw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [All the Black \(Acoustic\)](https://open.spotify.com/album/0FAMv3fpW9irLjHX9dTafh) | 4:33 | 2021-11-12 | 2022-07-29 |
 | [All the Black \- Acoustic](https://open.spotify.com/track/4lfQxqq0aBXtwNEielFRaa) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Good Bones](https://open.spotify.com/album/3OUZMBy3tMEHJtEUn70xQD) | 4:33 | 2022-07-27 |  |
 | [Always Be My Baby](https://open.spotify.com/track/2hVaNGGvdvvzRPCK9BUZmA) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Josh Ottum](https://open.spotify.com/artist/0HuUZip4HsqYsjkq4qZ6NB) | [Always Be My Baby](https://open.spotify.com/album/5pjrFrxKA33xQWnj0UbfYp) | 4:14 | 2022-03-11 |  |
@@ -257,6 +258,7 @@
 | [Stayin Out All Night / Habits \(Acoustic Mashup\)](https://open.spotify.com/track/4NkQfLPOtO9lyr4bIUQFXI) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5) | [Stayin Out All Night / Habits \(Acoustic Mashup\)](https://open.spotify.com/album/37AWn0kDhAkvf5JxokIyxy) | 3:45 | 2022-07-27 |  |
 | [Stayin Out All Night / Habits \(Acoustic Mashup\)](https://open.spotify.com/track/2rW0rwAgf7i7i8mOsmCip4) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Emily Hackett](https://open.spotify.com/artist/4dTcd3R8sIuVhoOlqgqr0V) | [Stayin Out All Night / Habits \(Acoustic Mashup\)](https://open.spotify.com/album/0fKYcG0jotBxCOVqNQlq9F) | 3:45 | 2021-11-12 | 2022-07-29 |
 | [Steal My Girl](https://open.spotify.com/track/1A0ikIo9hqyp2D3SHxsLk4) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Steal My Girl \- Single](https://open.spotify.com/album/4ak0sQEx1xteb1eO6nupIp) | 3:28 | 2021-11-12 |  |
+| [Still The One](https://open.spotify.com/track/1euXH7sEOodtVT7S4QNYRD) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [Still The One](https://open.spotify.com/album/2A7NsEN1bbpAROAOiRIGkC) | 3:31 | 2023-10-23 |  |
 | [Stitches](https://open.spotify.com/track/3Jy394MtpM2xciRBTzxBlg) | [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Stitches](https://open.spotify.com/album/0SHdoaGuQV2EjhQ6HEX9K2) | 4:06 | 2021-11-12 |  |
 | [Stolen Dance](https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5) | 3:55 | 2022-07-27 |  |
 | [Stolen Dance](https://open.spotify.com/track/6tXrb9kJTmgGOZqpq1powO) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/0Qt0bpaJqOxRqDy3eiGXAO) | 3:55 | 2021-11-12 | 2022-07-29 |

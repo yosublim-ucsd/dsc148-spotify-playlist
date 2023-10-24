@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwnhpAC5MCO.md) - [plain]
 
 > Reprenez ces hymnes tous en choeur jusqu'à votre prochaine destination
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,731 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,832 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwnhpAC5MCO.md) - [plain]
 | 28 | [Oui ou non](https://open.spotify.com/track/7rBP4bLjMLNkix1nGHjheP) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol La Suite](https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu) | 3:16 |
 | 29 | [Roule](https://open.spotify.com/track/4aie3id34NbdlJEaWNlKyZ) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [L'Everest \(Deluxe Edition\)](https://open.spotify.com/album/7sNP8kJJr8Ji1wc4eA9HHr) | 3:58 |
 | 30 | [La même](https://open.spotify.com/track/1Y4FUedllg2jNVA5BRIwEc) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Ceinture noire](https://open.spotify.com/album/1A8bVeAEqVs7GYfdls22hl) | 3:20 |
-| 31 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déja ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 |
+| 31 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 |
 | 32 | [J't'emmène au vent](https://open.spotify.com/track/0Wr98MVkENZXddiLB3bPb0) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 3:04 |
 | 33 | [Formidable](https://open.spotify.com/track/382n05RtneO3ykQlFQrAd1) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Racine Carrée \(Standard US Version\)](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) | 3:33 |
 | 34 | [Une belle histoire](https://open.spotify.com/track/5jWaYdEILLzuElA854tfXV) | [Michel Fugain](https://open.spotify.com/artist/3Uitc0uNSbhVrqJON4NCMY), [Le Big Bazar](https://open.spotify.com/artist/3Flcm9X9nGdFzBfptzOI3K) | [Fais comme l'oiseau](https://open.spotify.com/album/3OElRBTgFwCluz9sF4wlSt) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwnhpAC5MCO.md) - [plain]
 | 49 | [Je veux](https://open.spotify.com/track/734dz1YaFITwawPpM25fSt) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Zaz](https://open.spotify.com/album/6MuoqipFgorIZEYwGWEFAU) | 3:35 |
 | 50 | [Il est où le bonheur](https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [L'attrape\-rêves](https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI) | 4:10 |
 
-Snapshot ID: `MCwwMGFlZGNmY2VlNzZhODMzMTEyMTYwOTY5MzAxOTdmMDMxZjcyZjJm`
+Snapshot ID: `MCw5NDgxZTQ4NmVhODFlNTU0Y2M2MzdmYmJkZTYzNjZhMTY5ZDM2ZDAz`

@@ -384,7 +384,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 241013,
       "name": "Albanera",
       "url": "https://open.spotify.com/track/5pZsX5r10LBZtQ0H1YbTF8"
@@ -8353,6 +8353,24 @@
     },
     {
       "album": {
+        "name": "Maledetta Quella Notte",
+        "url": "https://open.spotify.com/album/53rZDVzeELEDGg9XSfoYym"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234436,
+      "name": "Saraceno",
+      "url": "https://open.spotify.com/track/30IZCDeSKztWbsgBFa4snW"
+    },
+    {
+      "album": {
         "name": "RISERVE",
         "url": "https://open.spotify.com/album/355pIopHNw6bmPned9sBlg"
       },
@@ -8570,6 +8588,24 @@
       "duration_ms": 197722,
       "name": "Seduci",
       "url": "https://open.spotify.com/track/4tDdBZoyhIgvyUueCEMxvG"
+    },
+    {
+      "album": {
+        "name": "LANGUORE",
+        "url": "https://open.spotify.com/album/0zE57SWOx61FS3wjdY1UXL"
+      },
+      "artists": [
+        {
+          "name": "Ibisco",
+          "url": "https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199066,
+      "name": "Seduci",
+      "url": "https://open.spotify.com/track/0CPsIehtiLTUnI85XGB4qP"
     },
     {
       "album": {

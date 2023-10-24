@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/jharden13/">James Harden</a>
 
-52 songs - 2 hr 49 min
+53 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [FUCCWITCHU](https://open.spotify.com/track/6y0AwrWm1E63waiByoKYam) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [OUTSIDE](https://open.spotify.com/album/3gn74laPFNRL9OO9GHLxZL) | 3:28 | 2022-10-01 |  |
 | [GATTI](https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 3:01 | 2022-10-01 |  |
 | [Go Crazy](https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 2:56 | 2022-10-01 |  |
-| [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/track/2IePEfMAtqWS6rLXXFZIgI) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/album/1arPptaPtDyBisMtMBe2q6) | 3:44 | 2022-10-01 |  |
+| [His & Hers \(feat\. Don Toliver & Lil Uzi Vert\)](https://open.spotify.com/track/5LKIZ4UTKebSE5VFbLSQnr) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [His & Hers \(feat\. Don Toliver & Lil Uzi Vert\)](https://open.spotify.com/album/6FJQeinfF6MQckQ0HbTRxe) | 3:44 | 2022-10-01 |  |
+| [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/track/2IePEfMAtqWS6rLXXFZIgI) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/album/1arPptaPtDyBisMtMBe2q6) | 3:44 | 2022-10-01 | 2023-10-24 |
 | [How It Feels](https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 2:46 | 2022-10-01 |  |
 | [Humble](https://open.spotify.com/track/6heRfvHrUIIPx9TqRg8SCq) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 3:11 | 2022-10-01 |  |
 | [Jumpin on a Jet](https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:17 | 2022-10-01 |  |

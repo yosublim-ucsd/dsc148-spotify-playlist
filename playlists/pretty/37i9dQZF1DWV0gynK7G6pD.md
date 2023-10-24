@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Gautier Capuçon
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,803 likes - 92 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,898 likes - 92 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 91 | [Dawn, Op\. 60](https://open.spotify.com/track/5kpIhGFAPeBckJ3YRE2j2e) | [Mieczysław Weinberg](https://open.spotify.com/artist/6roPI9Y9n0FmCWxI3GxjaH), [BBC Philharmonic](https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X), [John Storgårds](https://open.spotify.com/artist/2TizFx4bl9T8efWXNuxWor) | [Weinberg: Dawn; Symphony No\. 12](https://open.spotify.com/album/1JZOQtX5fWFs3QvGdrBrYZ) | 17:18 |
 | 92 | [Bunte Blätter, Op\. 99: VI\. Ziemlich langsam](https://open.spotify.com/track/5tuGuAokHbbTR3v2f6PUva) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Jimin Oh\-Havenith](https://open.spotify.com/artist/7FZNxD7tx9zw8OmqZp7AhN) | [R\. Schumann: Bunte Blätter, Op\. 99: VI\. Ziemlich langsam](https://open.spotify.com/album/5oWMhjr9kzxA9k113ScJbf) | 2:26 |
 
-Snapshot ID: `MCxiYzg2NDQ2ZTQxMjA4NWY3MDI1NjVhYmYyMTc2YTFjOGYxMTI0ZjQx`
+Snapshot ID: `MCw1NGQwNGVkZGRlODAxYzJjOGY0OTU2ZGI2ZjcwM2UxNGMzOTE2ZjZm`

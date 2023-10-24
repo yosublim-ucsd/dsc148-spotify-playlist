@@ -4,7 +4,7 @@
 
 > Afrobeats' hottest singles\. Cover:  <a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=4RQWi4qnQYSr7OHrr08ouA"> ODUMODUBLVCK </a>
 
-246 songs - 11 hr 55 min
+247 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [DECLAN RICE](https://open.spotify.com/track/0QdQh3umB7stVOExuHlWvl) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:04 | 2023-10-13 | 2023-10-20 |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-04-14 |  |
 | [DESIGNER \- OMO ILE ELERU](https://open.spotify.com/track/3rzVwJPZux1j4K72fva17l) | [AJIMOVOIX DRUMS](https://open.spotify.com/artist/7yIkWOCQGXIJnArztUyK5e) | [AVAILABLE FOR THE STREET \(AFTS\)](https://open.spotify.com/album/0MpK5JDdoJX49yEg2FdDre) | 1:40 | 2023-03-23 | 2023-04-11 |
-| [Different Size \(feat\. Victony\)](https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:29 | 2022-07-07 |  |
+| [Different Size \(feat\. Victony\)](https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:29 | 2022-07-07 | 2023-10-24 |
 | [DND](https://open.spotify.com/track/24RnCHp1JaRJAANJXAZCPu) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DND](https://open.spotify.com/album/0rq0mponMq2JxvmnPbQWhg) | 2:48 | 2023-07-13 | 2023-09-15 |
 | [Do You Mind?](https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Do You Mind?](https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw) | 2:27 | 2023-05-26 | 2023-06-23 |
 | [Dog Eat Dog](https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Dog Eat Dog](https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH) | 2:29 | 2023-04-25 |  |
@@ -203,6 +203,7 @@
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-09-16 | 2023-05-20 |
 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 | 2023-02-09 | 2023-09-27 |
 | [san siro \- remix](https://open.spotify.com/track/0uslkdkt54FiKvwEOOeFoH) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [san siro \(remix\)](https://open.spotify.com/album/4sb3gCQUk95ciN325RAQII) | 3:27 | 2023-09-08 | 2023-09-15 |
+| [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 | 2023-10-23 |  |
 | [SETE REMIX \(feat\. Young Stunna, Diamond Platnumz & Oxlade\)](https://open.spotify.com/track/5YF4Kg3ksqyNqzbXDvR8mp) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [SETE REMIX \(feat\. Young Stunna, Diamond Platnumz & Oxlade\)](https://open.spotify.com/album/04fBNopmMepdbuk96REyzW) | 4:12 | 2023-03-23 | 2023-04-26 |
 | [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-20 |  |
 | [Shaye](https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Shaye](https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH) | 2:49 | 2022-07-21 | 2023-03-15 |

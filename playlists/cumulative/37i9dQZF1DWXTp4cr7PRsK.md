@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ogchaseb/">Chase B</a>
 
-31 songs - 1 hr 38 min
+32 songs - 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Go Crazy](https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 2:56 | 2022-10-01 |  |
 | [Hit Different](https://open.spotify.com/track/7Bar1kLTmsRmH6FCKKMEyU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hit Different](https://open.spotify.com/album/4xmJCh7ct63QvQ5wRc44db) | 3:22 | 2022-10-01 |  |
 | [hooligan](https://open.spotify.com/track/02iYJG3KLBJODa5JkQ4O6y) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [hooligan / sons & critics](https://open.spotify.com/album/3DkdRBEwaFuyDTjsrf5dGl) | 2:36 | 2022-10-01 |  |
-| [Lemonade \- Remix](https://open.spotify.com/track/57FNYz14MjKVoRTbxtv4A1) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [B4 The Storm \(Complete Edition\)](https://open.spotify.com/album/21rCymkjqfD8yeyeoPbJMS) | 3:01 | 2022-10-01 |  |
+| [Lemonade \- Remix](https://open.spotify.com/track/3gU7Pr1I4plN6QSxF6jFh3) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [B4 The Storm](https://open.spotify.com/album/7bPIbMw7lgncHBoFfzjQRj) | 3:01 | 2022-10-01 |  |
+| [Lemonade \- Remix](https://open.spotify.com/track/57FNYz14MjKVoRTbxtv4A1) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [B4 The Storm \(Complete Edition\)](https://open.spotify.com/album/21rCymkjqfD8yeyeoPbJMS) | 3:01 | 2022-10-01 | 2023-10-24 |
 | [Lost Kids Get Money](https://open.spotify.com/track/47y5boKoOnJoSpBpPEZvhz) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 2:58 | 2022-10-01 |  |
 | [Love Is Gangster](https://open.spotify.com/track/4zAGbKyTxOUUEovHovHMJU) | [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Rap N Roll](https://open.spotify.com/album/1K1x5xDGJoPrZVitY4H7Iu) | 2:52 | 2022-10-01 |  |
 | [Luka/New President](https://open.spotify.com/track/0OIXxIL4UmAU0vO30lwEUY) | [Dougie F](https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ) | [Without A Smile](https://open.spotify.com/album/50lVvEUE53is3DbDazGMHr) | 3:04 | 2022-10-01 |  |

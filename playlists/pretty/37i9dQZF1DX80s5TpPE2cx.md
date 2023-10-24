@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,418 likes - 79 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,438 likes - 79 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 78 | [Don't](https://open.spotify.com/track/3Nynva3Aa4iDyQmclJ6fxV) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [War EP](https://open.spotify.com/album/42R2uH3FUDSG7Akey6HdlU) | 2:57 |
 | 79 | [Godzilla](https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [La Meme Tape](https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT) | 3:21 |
 
-Snapshot ID: `MCw3NzNhYWJkODk1N2MxNWY0OGEzNjgzODRhYjg4ZjI2ZDhjNDUyODZi`
+Snapshot ID: `MCwxM2RkMWExYzk2Y2ZmYzRiYWViNjE0Y2ZhYjk3NDQ1NTY5MDkyNDA5`

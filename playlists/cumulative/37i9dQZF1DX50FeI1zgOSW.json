@@ -2243,6 +2243,32 @@
     },
     {
       "album": {
+        "name": "Oh Penne",
+        "url": "https://open.spotify.com/album/3LsdoeaD3w9t12wWjQ8Hkr"
+      },
+      "artists": [
+        {
+          "name": "SKN Sona",
+          "url": "https://open.spotify.com/artist/2Pa0z0e54IOaDO4RbKffmf"
+        },
+        {
+          "name": "Sathya",
+          "url": "https://open.spotify.com/artist/4J6eao4KqjRmLHH0Y77yh1"
+        },
+        {
+          "name": "Snehaa Sesh",
+          "url": "https://open.spotify.com/artist/1moWcGMsA7nQ4jcpuMs3HO"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255999,
+      "name": "Oh Penne",
+      "url": "https://open.spotify.com/track/2ONbOG4fGuX6fS4HhIy3ia"
+    },
+    {
+      "album": {
         "name": "Ooru Sanam",
         "url": "https://open.spotify.com/album/3QnlQ9p9YcUM3drcQxH0iM"
       },

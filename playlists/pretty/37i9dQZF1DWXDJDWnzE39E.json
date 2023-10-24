@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: NOVELISTS",
-  "num_followers": 649046,
+  "num_followers": 649088,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmUyODc1NzQyZmU2N2M5ZTkzOWRjMjBhOWQ4MzZhM2ExMTMzMWU2",
+  "snapshot_id": "MCwzMTE3OGE0MjVkZDQ0ODhmYmYzZTMyZTBkMDlkNDA3MzJkMGIyZGFi",
   "tracks": [
     {
       "added_at": "2023-09-15 12:26:41",
@@ -159,54 +159,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Rotoscope",
-        "url": "https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 215362,
-      "name": "Rotoscope",
-      "url": "https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "I Disagree",
-        "url": "https://open.spotify.com/album/4uTce2w80loIu3oLnW0irN"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 193499,
-      "name": "I Disagree",
-      "url": "https://open.spotify.com/track/5M1OSRePFJzlQCTJRKVGQQ"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "Bimbocore",
-        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 118863,
-      "name": "Pink Rover",
-      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "You're Not Gone, You're Just Dead!",
         "url": "https://open.spotify.com/album/3w8fUu7HiL0TZH36GcB5hc"
       },
@@ -235,6 +187,54 @@
       "duration_ms": 254811,
       "name": "The In-Between",
       "url": "https://open.spotify.com/track/3WZiHsjugLgasZW7wGemNN"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "duration_ms": 118863,
+      "name": "Pink Rover",
+      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Rotoscope",
+        "url": "https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 215362,
+      "name": "Rotoscope",
+      "url": "https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "I Disagree",
+        "url": "https://open.spotify.com/album/4uTce2w80loIu3oLnW0irN"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 193499,
+      "name": "I Disagree",
+      "url": "https://open.spotify.com/track/5M1OSRePFJzlQCTJRKVGQQ"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -291,38 +291,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
+        "name": "The Bitter Truth",
+        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        },
-        {
-          "name": "Sam Carter",
-          "url": "https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 198067,
-      "name": "Yellowjacket (feat. Sam Carter)",
-      "url": "https://open.spotify.com/track/3yk51U329nwdpeIHV0O5ez"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "Fear of Dying",
-        "url": "https://open.spotify.com/album/56Dlp0JgocLaF8r6HYZe0Z"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 163062,
-      "name": "Fear of Dying",
-      "url": "https://open.spotify.com/track/30NCaDbTGyUJKTMrQwgXQG"
+      "duration_ms": 245470,
+      "name": "Better Without You",
+      "url": "https://open.spotify.com/track/2Mall0tN73JmkmihTZPlVt"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -343,22 +323,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "The Bitter Truth",
-        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 245470,
-      "name": "Better Without You",
-      "url": "https://open.spotify.com/track/2Mall0tN73JmkmihTZPlVt"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Talk To Me (feat. Lzzy Hale)",
         "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
       },
@@ -375,6 +339,42 @@
       "duration_ms": 208021,
       "name": "Talk To Me (feat. Lzzy Hale)",
       "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Fear of Dying",
+        "url": "https://open.spotify.com/album/56Dlp0JgocLaF8r6HYZe0Z"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 163062,
+      "name": "Fear of Dying",
+      "url": "https://open.spotify.com/track/30NCaDbTGyUJKTMrQwgXQG"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        },
+        {
+          "name": "Sam Carter",
+          "url": "https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK"
+        }
+      ],
+      "duration_ms": 198067,
+      "name": "Yellowjacket (feat. Sam Carter)",
+      "url": "https://open.spotify.com/track/3yk51U329nwdpeIHV0O5ez"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hurt You",
-      "url": "https://open.spotify.com/track/2rFaJ6NRIRWn335tQr8lWD"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Archangel",
         "url": "https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2"
       },
@@ -507,38 +491,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Bang Ya Head",
-        "url": "https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5"
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
       },
       "artists": [
         {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        },
-        {
-          "name": "Fred Durst",
-          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 216280,
-      "name": "Bang Ya Head (feat. Fred Durst)",
-      "url": "https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "The Purge",
-      "url": "https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL"
+      "duration_ms": 226186,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/2rFaJ6NRIRWn335tQr8lWD"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -559,6 +523,26 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "Bang Ya Head",
+        "url": "https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        },
+        {
+          "name": "Fred Durst",
+          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
+        }
+      ],
+      "duration_ms": 216280,
+      "name": "Bang Ya Head (feat. Fred Durst)",
+      "url": "https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "I Wish A Bitch Would",
         "url": "https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR"
       },
@@ -575,34 +559,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Looking for You",
-        "url": "https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9"
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
       "artists": [
         {
-          "name": "Amberian Dawn",
-          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 233472,
-      "name": "Lay All Your Love on Me",
-      "url": "https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "Do It So Good",
-        "url": "https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Do It So Good",
-      "url": "https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt"
+      "duration_ms": 256466,
+      "name": "The Purge",
+      "url": "https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -619,6 +587,22 @@
       "duration_ms": 219280,
       "name": "Secret Garden",
       "url": "https://open.spotify.com/track/39sAePHCDbaZlpLow8lRp4"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Looking for You",
+        "url": "https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9"
+      },
+      "artists": [
+        {
+          "name": "Amberian Dawn",
+          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
+        }
+      ],
+      "duration_ms": 233472,
+      "name": "Lay All Your Love on Me",
+      "url": "https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -675,18 +659,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94"
+        "name": "Do It So Good",
+        "url": "https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm"
       },
       "artists": [
         {
-          "name": "As Everything Unfolds",
-          "url": "https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT"
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
         }
       ],
-      "duration_ms": 232608,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9"
+      "duration_ms": 202466,
+      "name": "Do It So Good",
+      "url": "https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -703,6 +687,22 @@
       "duration_ms": 211045,
       "name": "Entertain You",
       "url": "https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94"
+      },
+      "artists": [
+        {
+          "name": "As Everything Unfolds",
+          "url": "https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT"
+        }
+      ],
+      "duration_ms": 232608,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "weapon",
-        "url": "https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7"
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/41oKTRBkRzF4qXFR7IFGrl"
       },
       "artists": [
         {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
         }
       ],
-      "duration_ms": 197209,
-      "name": "weapon",
-      "url": "https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD"
+      "duration_ms": 116750,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/6flXyAriVIl6IcMtkgvb7G"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Parasite",
-        "url": "https://open.spotify.com/album/41oKTRBkRzF4qXFR7IFGrl"
+        "name": "weapon",
+        "url": "https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7"
       },
       "artists": [
         {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
         }
       ],
-      "duration_ms": 116750,
-      "name": "Parasite",
-      "url": "https://open.spotify.com/track/6flXyAriVIl6IcMtkgvb7G"
+      "duration_ms": 197209,
+      "name": "weapon",
+      "url": "https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD"
-      },
-      "artists": [
-        {
-          "name": "Unleash The Archers",
-          "url": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
-        }
-      ],
-      "duration_ms": 404093,
-      "name": "Abyss",
-      "url": "https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Bottom of a Bottle",
         "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 199672,
       "name": "Bottom of a Bottle",
       "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD"
+      },
+      "artists": [
+        {
+          "name": "Unleash The Archers",
+          "url": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
+        }
+      ],
+      "duration_ms": 404093,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 237115,
-      "name": "Atonement",
-      "url": "https://open.spotify.com/track/1IcUvKPxQSbGCL4fhf0oaK"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "The Cost of Greatness",
         "url": "https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 188388,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/7qzCzgC2uTpmnWwXJXsqwn"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 237115,
+      "name": "Atonement",
+      "url": "https://open.spotify.com/track/1IcUvKPxQSbGCL4fhf0oaK"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "The Bitter Truth",
+        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 210848,
+      "name": "Yeah Right",
+      "url": "https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "The Bitter Truth",
-        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
+        "name": "The Reckoning",
+        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
       },
       "artists": [
         {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
         }
       ],
-      "duration_ms": 210848,
-      "name": "Yeah Right",
-      "url": "https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO"
+      "duration_ms": 228626,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "The Reckoning",
-        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
-      },
-      "artists": [
-        {
-          "name": "Icon For Hire",
-          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Brat",
         "url": "https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Noise",
-        "url": "https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 340281,
-      "name": "Noise",
-      "url": "https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "BEAVER CAGE",
         "url": "https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 218487,
       "name": "BEAVER CAGE",
       "url": "https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Noise",
+        "url": "https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 340281,
+      "name": "Noise",
+      "url": "https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Ghost Myself",
-        "url": "https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F"
-      },
-      "artists": [
-        {
-          "name": "DIAMANTE",
-          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ghost Myself",
-      "url": "https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Cover You",
         "url": "https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3"
       },
@@ -1279,18 +1263,34 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Salma Hayek",
-        "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
+        "name": "Sleeping with the Enemy",
+        "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
       },
       "artists": [
         {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
         }
       ],
-      "duration_ms": 219630,
-      "name": "Salma Hayek",
-      "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
+      "duration_ms": 212927,
+      "name": "Sleeping with the Enemy",
+      "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Ghost Myself",
+        "url": "https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F"
+      },
+      "artists": [
+        {
+          "name": "DIAMANTE",
+          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Ghost Myself",
+      "url": "https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Sleeping with the Enemy",
-        "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
+        "name": "Salma Hayek",
+        "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
       },
       "artists": [
         {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
         }
       ],
-      "duration_ms": 212927,
-      "name": "Sleeping with the Enemy",
-      "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
+      "duration_ms": 219630,
+      "name": "Salma Hayek",
+      "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
     }
   ],
   "unique_name": "Heavy Queens",

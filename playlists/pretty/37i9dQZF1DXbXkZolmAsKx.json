@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 6591,
+  "num_followers": 6621,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGViYjk5YzhjODEwMmIyYTA3MjE2ZDBkYzE3NWFjNTMyZjI0ZTM2",
+  "snapshot_id": "MCxkN2UxMzAwM2VhYmJjYjhlMjhhNjMxZWU2ZmYxMDUyMmM3NDc1YjIy",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Weightless (Ambient Transmission Vol. 2)",
-        "url": "https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR"
-      },
-      "artists": [
-        {
-          "name": "Marconi Union",
-          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
-        }
-      ],
-      "duration_ms": 458906,
-      "name": "Weightless Part 3",
-      "url": "https://open.spotify.com/track/70FfytITXJOz0s2xY3rOzz"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Passive Aggressive",
         "url": "https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l"
       },
@@ -175,22 +159,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "The Social Network",
-        "url": "https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 99278,
-      "name": "It Catches up With You",
-      "url": "https://open.spotify.com/track/2cryrajucGmbV6mwNUhQPB"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Sea Island",
         "url": "https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led"
       },
@@ -207,6 +175,38 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Weightless (Ambient Transmission Vol. 2)",
+        "url": "https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR"
+      },
+      "artists": [
+        {
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+        }
+      ],
+      "duration_ms": 458906,
+      "name": "Weightless Part 3",
+      "url": "https://open.spotify.com/track/70FfytITXJOz0s2xY3rOzz"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "The Social Network",
+        "url": "https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 99278,
+      "name": "It Catches up With You",
+      "url": "https://open.spotify.com/track/2cryrajucGmbV6mwNUhQPB"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Fire Light",
         "url": "https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 249758,
       "name": "Sunrise on the Mississippi",
       "url": "https://open.spotify.com/track/5CUVMOya16zes7XHR8Kja7"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Weightless (Ambient Transmission Vol. 2)",
-        "url": "https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR"
-      },
-      "artists": [
-        {
-          "name": "Marconi Union",
-          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
-        }
-      ],
-      "duration_ms": 310146,
-      "name": "Weightless Part 6",
-      "url": "https://open.spotify.com/track/1Mua0g96hUldJWj00GDsel"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -275,6 +259,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Weightless (Ambient Transmission Vol. 2)",
+        "url": "https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR"
+      },
+      "artists": [
+        {
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+        }
+      ],
+      "duration_ms": 310146,
+      "name": "Weightless Part 6",
+      "url": "https://open.spotify.com/track/1Mua0g96hUldJWj00GDsel"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Replica",
         "url": "https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA"
       },
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Gave in Rest",
-        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 210716,
-      "name": "Gilded",
-      "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Ravedeath, 1972",
         "url": "https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 204266,
       "name": "No Drums",
       "url": "https://open.spotify.com/track/04cuyaLUTKspSKLyfcrCc1"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Gave in Rest",
+        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 210716,
+      "name": "Gilded",
+      "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Water Memory",
-        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 448133,
-      "name": "Water Memory 1",
-      "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Late Night Tales: Floating Points",
         "url": "https://open.spotify.com/album/1LhNRSweuF57DJ2IbWrKx8"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 563427,
       "name": "Moments In Love",
       "url": "https://open.spotify.com/track/4UJZRzCw6tNu6EDXGmD47U"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Water Memory",
+        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 448133,
+      "name": "Water Memory 1",
+      "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Ravedeath, 1972",
-        "url": "https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "Analog Paralysis, 1978",
-      "url": "https://open.spotify.com/track/3guEVTjNJHoR5D7GJRZMs5"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "In Arboreal Whispering",
         "url": "https://open.spotify.com/album/7hHtQmDjx7srb9fyMueT4s"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 249159,
       "name": "Intransigence",
       "url": "https://open.spotify.com/track/4eMOIEdYGXThAxGb7SdNZd"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Ravedeath, 1972",
+        "url": "https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Analog Paralysis, 1978",
+      "url": "https://open.spotify.com/track/3guEVTjNJHoR5D7GJRZMs5"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Goodbye To Language",
-        "url": "https://open.spotify.com/album/10bvLR2PyyfhP9xzU9feBu"
-      },
-      "artists": [
-        {
-          "name": "Daniel Lanois",
-          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
-        }
-      ],
-      "duration_ms": 158950,
-      "name": "Low Sudden",
-      "url": "https://open.spotify.com/track/3kptDtRlM4b7et3gUzhilp"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 98946,
       "name": "Made of Metal",
       "url": "https://open.spotify.com/track/4v9gSomhAcOYSU7VBpJkA1"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Goodbye To Language",
+        "url": "https://open.spotify.com/album/10bvLR2PyyfhP9xzU9feBu"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lanois",
+          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
+        }
+      ],
+      "duration_ms": 158950,
+      "name": "Low Sudden",
+      "url": "https://open.spotify.com/track/3kptDtRlM4b7et3gUzhilp"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Sea Island",
-        "url": "https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 371480,
-      "name": "Holding Pattern",
-      "url": "https://open.spotify.com/track/565i055O62arjZp2Z3yJed"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "From Sleep",
         "url": "https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 287786,
       "name": "Space 21 (petrichor)",
       "url": "https://open.spotify.com/track/5bpmEsR82Yg8x82zNQ9MDD"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Sea Island",
+        "url": "https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 371480,
+      "name": "Holding Pattern",
+      "url": "https://open.spotify.com/track/565i055O62arjZp2Z3yJed"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+        "name": "Forgotten Hill",
+        "url": "https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf"
       },
       "artists": [
         {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
         }
       ],
-      "duration_ms": 362609,
-      "name": "To All It",
-      "url": "https://open.spotify.com/track/3iHLnn2XiItvL0PD9x87Sp"
+      "duration_ms": 321894,
+      "name": "Cherry Blossom Petals Fall Like Heavy Snow",
+      "url": "https://open.spotify.com/track/5xWpxxbOgiVJnveonlraii"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Forgotten Hill",
-        "url": "https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf"
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
       },
       "artists": [
         {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
         }
       ],
-      "duration_ms": 321894,
-      "name": "Cherry Blossom Petals Fall Like Heavy Snow",
-      "url": "https://open.spotify.com/track/5xWpxxbOgiVJnveonlraii"
+      "duration_ms": 362609,
+      "name": "To All It",
+      "url": "https://open.spotify.com/track/3iHLnn2XiItvL0PD9x87Sp"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Breaks My Heart Each Time",
-        "url": "https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3"
-      },
-      "artists": [
-        {
-          "name": "Leyland Kirby",
-          "url": "https://open.spotify.com/artist/2xr5chbaC1VNbzqOlCYgyC"
-        }
-      ],
-      "duration_ms": 558877,
-      "name": "Diminishing Emotion",
-      "url": "https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "LUX 1",
         "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
       },
@@ -1379,22 +1363,6 @@
       "duration_ms": 212839,
       "name": "LUX 1.4",
       "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Make Me Know You Sweet",
-        "url": "https://open.spotify.com/album/4cq8lOA5PvprvOw8xpLEFI"
-      },
-      "artists": [
-        {
-          "name": "Pendant",
-          "url": "https://open.spotify.com/artist/3Dwfw1WTW4TyJJim9hblas"
-        }
-      ],
-      "duration_ms": 445241,
-      "name": "AAE-KZT",
-      "url": "https://open.spotify.com/track/6kHS5vk5QLUlxy2qbCMlop"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1415,18 +1383,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Bring Me The Head of Kyle Bobby Dunn",
-        "url": "https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph"
+        "name": "Breaks My Heart Each Time",
+        "url": "https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3"
       },
       "artists": [
         {
-          "name": "Kyle Bobby Dunn",
-          "url": "https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl"
+          "name": "Leyland Kirby",
+          "url": "https://open.spotify.com/artist/2xr5chbaC1VNbzqOlCYgyC"
         }
       ],
-      "duration_ms": 489535,
-      "name": "An Evening With Dusty",
-      "url": "https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx"
+      "duration_ms": 558877,
+      "name": "Diminishing Emotion",
+      "url": "https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1443,6 +1411,38 @@
       "duration_ms": 328826,
       "name": "Ogives / Redistributed",
       "url": "https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Make Me Know You Sweet",
+        "url": "https://open.spotify.com/album/4cq8lOA5PvprvOw8xpLEFI"
+      },
+      "artists": [
+        {
+          "name": "Pendant",
+          "url": "https://open.spotify.com/artist/3Dwfw1WTW4TyJJim9hblas"
+        }
+      ],
+      "duration_ms": 445241,
+      "name": "AAE-KZT",
+      "url": "https://open.spotify.com/track/6kHS5vk5QLUlxy2qbCMlop"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Bring Me The Head of Kyle Bobby Dunn",
+        "url": "https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph"
+      },
+      "artists": [
+        {
+          "name": "Kyle Bobby Dunn",
+          "url": "https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl"
+        }
+      ],
+      "duration_ms": 489535,
+      "name": "An Evening With Dusty",
+      "url": "https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Living With Yourself",
-        "url": "https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx"
-      },
-      "artists": [
-        {
-          "name": "Mark McGuire",
-          "url": "https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Two Different People",
-      "url": "https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Goodbye To Language",
         "url": "https://open.spotify.com/album/10bvLR2PyyfhP9xzU9feBu"
       },
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Living With Yourself",
+        "url": "https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx"
+      },
+      "artists": [
+        {
+          "name": "Mark McGuire",
+          "url": "https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Two Different People",
+      "url": "https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "chapter",
         "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
       },
@@ -1555,26 +1555,6 @@
       "duration_ms": 287843,
       "name": "soft rime",
       "url": "https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Glider 10: Reworks",
-        "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        },
-        {
-          "name": "Leandro Fresco",
-          "url": "https://open.spotify.com/artist/0gJgTQEVl62dN80lQbOBK5"
-        }
-      ],
-      "duration_ms": 464874,
-      "name": "Without Motion - Leandro Fresco Remix",
-      "url": "https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1607,6 +1587,26 @@
       "duration_ms": 209560,
       "name": "Nightmare 5",
       "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Glider 10: Reworks",
+        "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        },
+        {
+          "name": "Leandro Fresco",
+          "url": "https://open.spotify.com/artist/0gJgTQEVl62dN80lQbOBK5"
+        }
+      ],
+      "duration_ms": 464874,
+      "name": "Without Motion - Leandro Fresco Remix",
+      "url": "https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1691,22 +1691,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Glider 10: Reworks",
-        "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
+        "name": "Centralia",
+        "url": "https://open.spotify.com/album/6fkI0lgbExJfl0q3wNI4sG"
       },
       "artists": [
         {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        },
-        {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+          "name": "Mountains",
+          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
         }
       ],
-      "duration_ms": 348750,
-      "name": "Further Away - Beno\u00eet Pioulard Rework",
-      "url": "https://open.spotify.com/track/05ApgAqW3FKoDAR1uDe7zw"
+      "duration_ms": 296133,
+      "name": "Living Lens",
+      "url": "https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh"
     },
     {
       "added_at": "2023-06-07 15:21:34",

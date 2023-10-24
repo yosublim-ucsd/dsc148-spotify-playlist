@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Asteria
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,664 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,663 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 |
+| 1 | [PETARDI](https://open.spotify.com/track/6aBkkxEVmDGC1o0DpxQcjM) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PETARDI](https://open.spotify.com/album/0KFD7ttxVpwUGGHws8HKod) | 2:28 |
 | 2 | [Ragazza Sola](https://open.spotify.com/track/5vBXZGUcMAbgizTjzkG9c1) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Ragazza Sola](https://open.spotify.com/album/7pIwLFUMrWOLd9o0edX64Z) | 3:19 |
 | 3 | [A Fari Spenti](https://open.spotify.com/track/7Ggmq6P4cTVReTVyyxfLPP) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [A Fari Spenti](https://open.spotify.com/album/3J1c80dg2FWqUMsn4q0fRq) | 3:18 |
 | 4 | [INIZIAMO DALLA FINE](https://open.spotify.com/track/0wgXuoJf3R07NjmaLBBB9Y) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR](https://open.spotify.com/album/2heGtnvVhJfT1j5Z3UpjCA) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [CAOTICA](https://open.spotify.com/track/5Vh7cwTM43jfQHq8iMFtZc) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [CAOTICA](https://open.spotify.com/album/48Uk2Z5KiJK9CmNUQt4ODM) | 3:11 |
 | 50 | [PUGNI ALLO STOMACO](https://open.spotify.com/track/7rZfTAWWCDYt49dY1bYZFC) | [Martina](https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p) | [PUGNI ALLO STOMACO](https://open.spotify.com/album/6sEngoRFNdplYWTPH5aAZ9) | 2:02 |
 
-Snapshot ID: `MCwzZTU1YTdiMTNjNjAwM2I2ZDk1NWJkMGIxYWIzNGViOWQ0MTdjNGNi`
+Snapshot ID: `MCw5MTg2ZWVhZDkyY2U2YmViNjk5NGE3ZTM5NjUyNmIzOGJmN2ZhM2Fj`

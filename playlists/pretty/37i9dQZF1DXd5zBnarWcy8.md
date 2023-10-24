@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 
 > New Orleans kind of funk\. Cover: Cha Wa
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,378 likes - 49 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,403 likes - 49 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 | 22 | [Here Come The Girls](https://open.spotify.com/track/3wiSzBv2UUK3skM74i22uM) | [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Cyril Neville](https://open.spotify.com/artist/7gZpdFerSL21Z6544jJIzI), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [With You In Mind](https://open.spotify.com/album/3prIp8tw4hQx5nHmd9Uhya) | 4:06 |
 | 23 | [Love Will Tear Us Apart](https://open.spotify.com/track/1j2iplFjazFwShpHmlx10W) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Love Will Tear Us Apart](https://open.spotify.com/album/4BOdO6NVndpFv6P1bLNCZU) | 3:36 |
 | 24 | [Voodoo](https://open.spotify.com/track/465JohWeaz2FKbdKVmXvrJ) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 4:27 |
-| 25 | [Back Street Lover \- Remastered](https://open.spotify.com/track/30HZp745HgvVFIIW1PDi89) | [Ernie K\-Doe](https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly) | [Emperor Of New Orleans \(Remastered\)](https://open.spotify.com/album/5KcmoI0xNnzHv2EWxMlzAe) | 2:28 |
+| 25 | [Backstreet Lover](https://open.spotify.com/track/5BDrEmLb5inDyHn7ZSGSsF) | [Ernie K\-Doe](https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly) | [Soul Jazz Records Presents New Orleans Soul: The Original Sound of New Orleans Soul 1960\-76](https://open.spotify.com/album/3tnRmKxUYvCPWLILT5PZL4) | 2:27 |
 | 26 | [Pop, Popcorn Children](https://open.spotify.com/track/0YUzEKoTak7VHts4p1jglt) | [Eldridge Holmes](https://open.spotify.com/artist/25aWvOh8uTg8ZZSZvOPB9P) | [Soul Jazz Records Presents New Orleans Funk 4: Voodoo Fire In New Orleans 1951\-75](https://open.spotify.com/album/0U19UvTHNfTrxKlXe3FvcA) | 2:51 |
 | 27 | [Monk's Mardi Gras](https://open.spotify.com/track/3ts8VLXkDDZhjXYTSOKB0J) | [Big Chief Monk Boudreaux](https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer) | [Won't Bow Down](https://open.spotify.com/album/5H5loW7aKraS3pVG4BnSLP) | 3:45 |
 | 28 | [The Booger Man](https://open.spotify.com/track/0urdlB0O4g9GmevYMKt7y6) | [The Gaturs](https://open.spotify.com/artist/2EHyjVJsfQWhloS0nJErz9), [Willie Tee](https://open.spotify.com/artist/0J4hhNPKGkF96BvCakh2Ab) | [Wasted](https://open.spotify.com/album/2KGCGxusSMQukNV8mvGvFS) | 2:33 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 | 48 | [Going On](https://open.spotify.com/track/6E6yIFd8X0XGCbjMHJ9mPH) | [Johnny Sketch & The Dirty Notes](https://open.spotify.com/artist/4euiFJVFE4gijlrQl4b7DF) | [Sketch](https://open.spotify.com/album/0yvRNAIe87HXEiQtxV3DmM) | 4:26 |
 | 49 | [Four Horsemen](https://open.spotify.com/track/2rnxsfbS4peLw0ZP71YRO8) | [Big Chief Monk Boudreaux](https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer) | [Won't Bow Down](https://open.spotify.com/album/5H5loW7aKraS3pVG4BnSLP) | 6:47 |
 
-Snapshot ID: `MCwzYjUyZTJhNGFkYTU5NjVkYzYxMzI4MWM5MzRkYzNjYWE2Y2UxNWMx`
+Snapshot ID: `MCw1Mjc5ZmQyMWM4NmYzYWUxZmE5ZDIwMjQ4Zjc1NDA2ZTkzYmI3ZGM1`

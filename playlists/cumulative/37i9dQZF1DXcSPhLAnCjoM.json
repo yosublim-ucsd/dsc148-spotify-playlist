@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Grand Corps Malade au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
+  "description": "Fo\u00e9 au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -436,7 +436,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 192266,
       "name": "HORIZON",
       "url": "https://open.spotify.com/track/5RwpbhPihTkwqLWldaMTE1"
@@ -462,6 +462,24 @@
       "duration_ms": 222111,
       "name": "Il faudrait",
       "url": "https://open.spotify.com/track/62raj97K1yOi8mk54SLohm"
+    },
+    {
+      "album": {
+        "name": "J'me barre",
+        "url": "https://open.spotify.com/album/73Rk8FmhOaBIza5bOYnTmT"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e9",
+          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179760,
+      "name": "J'me barre",
+      "url": "https://open.spotify.com/track/2ZkWEkVDL73dSNAv21aa0B"
     },
     {
       "album": {
@@ -523,6 +541,24 @@
     },
     {
       "album": {
+        "name": "Je reste calme",
+        "url": "https://open.spotify.com/album/3nYlOopDy3IUXx1fV3YQQy"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172813,
+      "name": "Je reste calme",
+      "url": "https://open.spotify.com/track/3Or4BEBgd0TSlQWqqxFYHR"
+    },
+    {
+      "album": {
         "name": "n\u00b09",
         "url": "https://open.spotify.com/album/4uBYBjrLksYgMtkUqSO10g"
       },
@@ -538,7 +574,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 171918,
       "name": "Je te donne",
       "url": "https://open.spotify.com/track/6p6itTnPOqEatoQJxU2vek"
@@ -596,7 +632,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 172569,
       "name": "La belle \u00e9poque",
       "url": "https://open.spotify.com/track/4DHuh5umihj3cgiuyQ7jbE"
@@ -962,6 +998,24 @@
       "duration_ms": 238653,
       "name": "Popcorn Sal\u00e9",
       "url": "https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH"
+    },
+    {
+      "album": {
+        "name": "Respire",
+        "url": "https://open.spotify.com/album/3troTVEc8IZUyYF6N85BJW"
+      },
+      "artists": [
+        {
+          "name": "Laura",
+          "url": "https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177049,
+      "name": "Respire",
+      "url": "https://open.spotify.com/track/7n2mcTJtSNgGRrAFEneYRz"
     },
     {
       "album": {

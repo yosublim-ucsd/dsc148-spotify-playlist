@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 65199,
+  "num_followers": 65208,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjhmNTk2N2Y2NTE3YjdlOTIwMDBmZTA5ODY3MWE2OWQzMTk2Yjg5",
+  "snapshot_id": "MCw5Y2FmZjkxZTJkYjQ5MzNmODYxNzBmNGZlNGNmZTFhYzkxNjhhOTM2",
   "tracks": [
     {
       "added_at": "2023-09-22 06:00:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Vamos Perdiendo el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn"
-      },
-      "artists": [
-        {
-          "name": "Tungas",
-          "url": "https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM"
-        }
-      ],
-      "duration_ms": 241532,
-      "name": "Dicen Que Estoy Muerto",
-      "url": "https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Ay Equis, Nada Que Ver... (Pinche Raza Igualada)",
         "url": "https://open.spotify.com/album/09sex9lgVpZBDbkaQCp2ot"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 213306,
       "name": "Ay Equis, Nada Que Ver... (Pinche Raza Igualada)",
       "url": "https://open.spotify.com/track/4gXv8ukCY5oIpzVMMfSFAi"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Vamos Perdiendo el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn"
+      },
+      "artists": [
+        {
+          "name": "Tungas",
+          "url": "https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM"
+        }
+      ],
+      "duration_ms": 241532,
+      "name": "Dicen Que Estoy Muerto",
+      "url": "https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Solo Dios lo Sabe",
-        "url": "https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv"
-      },
-      "artists": [
-        {
-          "name": "GUFI",
-          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
-        }
-      ],
-      "duration_ms": 165605,
-      "name": "Solo Dios lo Sabe",
-      "url": "https://open.spotify.com/track/2PA11HBziALO8mnvnh3qXw"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Entre La Guerra Y El Amor",
         "url": "https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 185493,
       "name": "Quemando Cartas",
       "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Solo Dios lo Sabe",
+        "url": "https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv"
+      },
+      "artists": [
+        {
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
+        }
+      ],
+      "duration_ms": 165605,
+      "name": "Solo Dios lo Sabe",
+      "url": "https://open.spotify.com/track/2PA11HBziALO8mnvnh3qXw"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
+      },
+      "artists": [
+        {
+          "name": "Aurum",
+          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
+        }
+      ],
+      "duration_ms": 216296,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
         "name": "Nadie Me Entiende",
         "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
       },
@@ -523,18 +539,18 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
+        "name": "UNODOCE",
+        "url": "https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd"
       },
       "artists": [
         {
-          "name": "Aurum",
-          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
         }
       ],
-      "duration_ms": 216296,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
+      "duration_ms": 73533,
+      "name": "UNODOCE",
+      "url": "https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -567,22 +583,6 @@
       "duration_ms": 229500,
       "name": "Disparos",
       "url": "https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
-        "name": "UNODOCE",
-        "url": "https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd"
-      },
-      "artists": [
-        {
-          "name": "ALOISIO",
-          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
-        }
-      ],
-      "duration_ms": 73533,
-      "name": "UNODOCE",
-      "url": "https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50"
     },
     {
       "added_at": "2023-09-22 06:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 390756,
+  "num_followers": 390886,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTY0NzFmZDQzN2NkMjYxYWQyZjQ5NTc0ZDFlMTkzNDZhYjNjOGRj",
+  "snapshot_id": "MCw4NGNkNWYwZjY0NjA5ODAzYjQzYTlhZjBhNGQ3NTU5ZTA3YjJlMzM1",
   "tracks": [
     {
       "added_at": "2023-08-02 16:20:29",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Elephant Stone",
-        "url": "https://open.spotify.com/album/41HLlu4L2IDH7n9rHk8Yix"
-      },
-      "artists": [
-        {
-          "name": "Elephant Stone",
-          "url": "https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo"
-        }
-      ],
-      "duration_ms": 104786,
-      "name": "Sally Go Round the Sun",
-      "url": "https://open.spotify.com/track/16k2KM42CJEZ8uOC4v1vGV"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Lonerism",
         "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 192960,
       "name": "Feels Like We Only Go Backwards",
       "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Elephant Stone",
+        "url": "https://open.spotify.com/album/41HLlu4L2IDH7n9rHk8Yix"
+      },
+      "artists": [
+        {
+          "name": "Elephant Stone",
+          "url": "https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo"
+        }
+      ],
+      "duration_ms": 104786,
+      "name": "Sally Go Round the Sun",
+      "url": "https://open.spotify.com/track/16k2KM42CJEZ8uOC4v1vGV"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Forest of Lost Children",
-        "url": "https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA"
+        "name": "Ice, Death, Planets, Lungs, Mushrooms And Lava",
+        "url": "https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s"
       },
       "artists": [
         {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 436171,
-      "name": "Smoke and Mirrors",
-      "url": "https://open.spotify.com/track/5skAQdEOEjdRVBcNtMtExs"
+      "duration_ms": 615939,
+      "name": "Ice V",
+      "url": "https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+        "name": "Forest of Lost Children",
+        "url": "https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
         }
       ],
-      "duration_ms": 271880,
-      "name": "Mind Mischief",
-      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
+      "duration_ms": 436171,
+      "name": "Smoke and Mirrors",
+      "url": "https://open.spotify.com/track/5skAQdEOEjdRVBcNtMtExs"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -447,8 +447,24 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Ice, Death, Planets, Lungs, Mushrooms And Lava",
-        "url": "https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s"
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 271880,
+      "name": "Mind Mischief",
+      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "L.W.",
+        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
       },
       "artists": [
         {
@@ -456,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 615939,
-      "name": "Ice V",
-      "url": "https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0"
+      "duration_ms": 220216,
+      "name": "O.N.E.",
+      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -491,22 +507,6 @@
       "duration_ms": 266992,
       "name": "Fuzz Jam",
       "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 292267,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "L.W.",
-        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 220216,
-      "name": "O.N.E.",
-      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "World Music",
         "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
       },
@@ -619,6 +603,38 @@
       "duration_ms": 440014,
       "name": "Waves",
       "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 292267,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "K.G.",
+        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 273854,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -751,22 +767,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 273854,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Fase Luna",
         "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "The Underdog",
-        "url": "https://open.spotify.com/album/3t24SFsyPmgC5K20d3aOof"
-      },
-      "artists": [
-        {
-          "name": "GUM",
-          "url": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
-        }
-      ],
-      "duration_ms": 285643,
-      "name": "The Blue Marble",
-      "url": "https://open.spotify.com/track/4qvPp0Lt3MWWwHVb72Taox"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Planet Caravan",
         "url": "https://open.spotify.com/album/34ybO2ipCxno1JatWdXnsS"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 551138,
       "name": "Planet Caravan",
       "url": "https://open.spotify.com/track/5QBzorRtkUglhnTQBzNJMU"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "The Underdog",
+        "url": "https://open.spotify.com/album/3t24SFsyPmgC5K20d3aOof"
+      },
+      "artists": [
+        {
+          "name": "GUM",
+          "url": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+        }
+      ],
+      "duration_ms": 285643,
+      "name": "The Blue Marble",
+      "url": "https://open.spotify.com/track/4qvPp0Lt3MWWwHVb72Taox"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
+        "name": "V.",
+        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
+      },
+      "artists": [
+        {
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+        }
+      ],
+      "duration_ms": 383100,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
         "name": "Wading Out / Shell Island",
         "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "V.",
-        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
+        "name": "Egypt",
+        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
       },
       "artists": [
         {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+          "name": "KYANOS",
+          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
         }
       ],
-      "duration_ms": 383100,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+      "duration_ms": 261634,
+      "name": "Egypt",
+      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Egypt",
-        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
-      },
-      "artists": [
-        {
-          "name": "KYANOS",
-          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
-        }
-      ],
-      "duration_ms": 261634,
-      "name": "Egypt",
-      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Reap the Storm",
-        "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
-      },
-      "artists": [
-        {
-          "name": "Wucan",
-          "url": "https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO"
-        }
-      ],
-      "duration_ms": 325015,
-      "name": "The Rat Catcher",
-      "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Time Bazaar",
         "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 277589,
       "name": "Los Estimados",
       "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Reap the Storm",
+        "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
+      },
+      "artists": [
+        {
+          "name": "Wucan",
+          "url": "https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO"
+        }
+      ],
+      "duration_ms": 325015,
+      "name": "The Rat Catcher",
+      "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Aquarium Drunkard's Lagniappe Session",
-        "url": "https://open.spotify.com/album/4IM6Ut2jf9cHvgnLSgJWzV"
-      },
-      "artists": [
-        {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        }
-      ],
-      "duration_ms": 310144,
-      "name": "Lady Rachel",
-      "url": "https://open.spotify.com/track/0Sx7vYgpMShPW7obwHjt1a"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "EP1",
         "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 207000,
       "name": "The Seaside - Edit",
       "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Aquarium Drunkard's Lagniappe Session",
+        "url": "https://open.spotify.com/album/4IM6Ut2jf9cHvgnLSgJWzV"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "duration_ms": 310144,
+      "name": "Lady Rachel",
+      "url": "https://open.spotify.com/track/0Sx7vYgpMShPW7obwHjt1a"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "A New Day Dawning",
-        "url": "https://open.spotify.com/album/3efSeqmN9bPRMnGWbyYySh"
-      },
-      "artists": [
-        {
-          "name": "Siena Root",
-          "url": "https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l"
-        }
-      ],
-      "duration_ms": 540684,
-      "name": "Rasayana",
-      "url": "https://open.spotify.com/track/2WTKsltOhi7DtLPPvfSC8J"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Fudge Sandwich",
         "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 217103,
       "name": "Pascuales",
       "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "A New Day Dawning",
+        "url": "https://open.spotify.com/album/3efSeqmN9bPRMnGWbyYySh"
+      },
+      "artists": [
+        {
+          "name": "Siena Root",
+          "url": "https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l"
+        }
+      ],
+      "duration_ms": 540684,
+      "name": "Rasayana",
+      "url": "https://open.spotify.com/track/2WTKsltOhi7DtLPPvfSC8J"
     },
     {
       "added_at": "2023-08-02 16:20:29",

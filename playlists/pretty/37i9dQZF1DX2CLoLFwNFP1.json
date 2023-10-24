@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30392,
+  "num_followers": 30433,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGM1NTM1MDdjZGVmMjM0OWNkNDc5ZmI0YzdiNDhkM2NiMzI3M2Vl",
+  "snapshot_id": "MCw3YjgxOGVlMzI5ZDc2Njk2M2QwNmI0ZDE0MTYwYjY5OGMyZjEzNzhl",
   "tracks": [
     {
       "added_at": "2023-07-31 16:03:37",
@@ -367,6 +367,46 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "Does She",
+      "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 218375,
+      "name": "DEJAVU (Feat. Jay Park) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
         "name": "GANG (Official Remix)",
         "url": "https://open.spotify.com/album/7sSR7cyAVVr1OkCouJpxc6"
       },
@@ -395,46 +435,6 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 218375,
-      "name": "DEJAVU (Feat. Jay Park) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "Does She",
-      "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
       },
@@ -451,78 +451,6 @@
       "duration_ms": 166813,
       "name": "Dedication (feat. Jay Park)",
       "url": "https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "H1GHR : RED TAPE",
-        "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "Woodie Gochild",
-          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 245786,
-      "name": "Tel\u00e9fono Remix",
-      "url": "https://open.spotify.com/track/0vZi38VepxZWh0ACqYaXio"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "WATER",
-        "url": "https://open.spotify.com/album/1jPLfwzHnBTJIMzrA2lb7y"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Woodie Gochild",
-          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 262560,
-      "name": "WATER (Prod. by GooseBumps)",
-      "url": "https://open.spotify.com/track/7EBxRB5zybo2zutJuiAwoF"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -567,6 +495,46 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
+        "name": "H1GHR : RED TAPE",
+        "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "Woodie Gochild",
+          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Tel\u00e9fono Remix",
+      "url": "https://open.spotify.com/track/0vZi38VepxZWh0ACqYaXio"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/6CcrXh8NHk5agJtbGt0tYR"
       },
@@ -583,26 +551,6 @@
       "duration_ms": 191141,
       "name": "Butterflies (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/2I7OULYLv1IVo3Q4KOt88D"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "POST IT",
-        "url": "https://open.spotify.com/album/4QEyVgpccxmKuzeb5VQmNm"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 226989,
-      "name": "POST IT (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/1ByJ2Pn1yxfTVl2cjCdYGO"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -643,6 +591,26 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
+        "name": "POST IT",
+        "url": "https://open.spotify.com/album/4QEyVgpccxmKuzeb5VQmNm"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 226989,
+      "name": "POST IT (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/1ByJ2Pn1yxfTVl2cjCdYGO"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
         "name": "BRB",
         "url": "https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2"
       },
@@ -655,6 +623,38 @@
       "duration_ms": 304746,
       "name": "BRB",
       "url": "https://open.spotify.com/track/620yE97rij2snTka7EbKH0"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
+        "name": "WATER",
+        "url": "https://open.spotify.com/album/1jPLfwzHnBTJIMzrA2lb7y"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Woodie Gochild",
+          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 262560,
+      "name": "WATER (Prod. by GooseBumps)",
+      "url": "https://open.spotify.com/track/7EBxRB5zybo2zutJuiAwoF"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -691,30 +691,6 @@
       "duration_ms": 187200,
       "name": "Forget About Tomorrow",
       "url": "https://open.spotify.com/track/6u7ipGHDJsBA3UOwuz0W2T"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "BOYCOLD",
-        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 292109,
-      "name": "h1ghr gang",
-      "url": "https://open.spotify.com/track/2fFeKfvIEJxpFbeTZ0tsJ5"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -803,34 +779,6 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
-        "name": "H1GHR : BLUE TAPE",
-        "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Golden",
-          "url": "https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Gotta Go",
-      "url": "https://open.spotify.com/track/6KhpVr8sgIkJpMvFwf4xW3"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
         "name": "B.A.R.S, Vol. 1",
         "url": "https://open.spotify.com/album/5396jqhnc6ExzfTb797qVO"
       },
@@ -855,22 +803,26 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
-        "name": "Westcoast",
-        "url": "https://open.spotify.com/album/23khvZGgUKTP9J6K1qD0g1"
+        "name": "BOYCOLD",
+        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
       },
       "artists": [
         {
-          "name": "YULTRON",
-          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Westcoast",
-      "url": "https://open.spotify.com/track/3oLTFTg2LC3P3E8QhcV71I"
+      "duration_ms": 292109,
+      "name": "h1ghr gang",
+      "url": "https://open.spotify.com/track/2fFeKfvIEJxpFbeTZ0tsJ5"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -955,6 +907,26 @@
       "duration_ms": 188106,
       "name": "DNA (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/47b1jmZFEs2lDSZPN9bmcE"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
+        "name": "Westcoast",
+        "url": "https://open.spotify.com/album/23khvZGgUKTP9J6K1qD0g1"
+      },
+      "artists": [
+        {
+          "name": "YULTRON",
+          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Westcoast",
+      "url": "https://open.spotify.com/track/3oLTFTg2LC3P3E8QhcV71I"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -1071,6 +1043,34 @@
       "duration_ms": 213306,
       "name": "Dior Socks",
       "url": "https://open.spotify.com/track/7qVIWLqMGF2XFNXW1kXXuy"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
+        "name": "H1GHR : BLUE TAPE",
+        "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Golden",
+          "url": "https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/6KhpVr8sgIkJpMvFwf4xW3"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
-        "name": "SUMMERIDE",
-        "url": "https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 218026,
-      "name": "SUMMERIDE",
-      "url": "https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 237903,
       "name": "My Last",
       "url": "https://open.spotify.com/track/2LTLUWY6bTkBZD5OAqhkuI"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
+        "name": "SUMMERIDE",
+        "url": "https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 218026,
+      "name": "SUMMERIDE",
+      "url": "https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ"
     },
     {
       "added_at": "2023-07-31 16:03:37",

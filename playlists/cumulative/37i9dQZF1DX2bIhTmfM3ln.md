@@ -4,7 +4,7 @@
 
 > Afrobeats love stories have the best beginnings
 
-349 songs - 17 hr 25 min
+350 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Different](https://open.spotify.com/track/7BaPu3b5wbBtQ6Z09XL05O) | [ginius](https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw) | [Not My Concern / Different](https://open.spotify.com/album/6sgnWlAAGZI5p1FHoWTXFE) | 2:11 | 2023-09-14 | 2023-09-29 |
 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 | 2022-05-26 | 2022-08-26 |
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2022-02-11 |  |
-| [Do You Mind?](https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Do You Mind?](https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw) | 2:27 | 2023-05-26 |  |
+| [Do You Mind?](https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Do You Mind?](https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw) | 2:27 | 2023-05-26 | 2023-10-24 |
 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 | 2023-04-25 |  |
 | [Early Momo](https://open.spotify.com/track/3q9OiLZVS3Om7uI6cBfaOZ) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Early Momo](https://open.spotify.com/album/0MeNdDh80OeWXNrRFA9QEs) | 3:13 | 2022-02-11 | 2022-11-14 |
 | [Early Momo](https://open.spotify.com/track/30vg5dgv2jtW6LCjgLnRSd) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Teslim: The Energy Still Lives in Me](https://open.spotify.com/album/08k2IfdgUGN3JycLGkREJI) | 3:14 | 2023-01-13 |  |
@@ -279,6 +279,7 @@
 | [Santorini Coffee](https://open.spotify.com/track/6TTR7tXftck5lU7BPRY7bV) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa) | [THENIGHTISYOUNG.](https://open.spotify.com/album/4np0ohQb06VAAitOpk3Rt4) | 2:14 | 2022-02-14 | 2023-09-29 |
 | [See Finish](https://open.spotify.com/track/5ydzXyCRG9AUq9w8pIf0Uc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [See Finish](https://open.spotify.com/album/2f3gCbx2qefdq823voOXuh) | 3:00 | 2023-02-10 | 2023-10-20 |
 | [Seek & Find \(feat\. Azanti\)](https://open.spotify.com/track/77jghFtCt5TBqaK7gutlrf) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Seek & Find \(feat\. Azanti\)](https://open.spotify.com/album/6ZIig4udjxAl6Zs27aHtpg) | 3:36 | 2023-06-30 | 2023-07-21 |
+| [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 | 2023-10-23 |  |
 | [SETE REMIX \(feat\. Young Stunna, Diamond Platnumz & Oxlade\)](https://open.spotify.com/track/5YF4Kg3ksqyNqzbXDvR8mp) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [SETE REMIX \(feat\. Young Stunna, Diamond Platnumz & Oxlade\)](https://open.spotify.com/album/04fBNopmMepdbuk96REyzW) | 4:12 | 2023-03-24 | 2023-10-12 |
 | [Shakara](https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Shakara](https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI) | 3:20 | 2022-02-11 | 2023-03-16 |
 | [Sharp Attack](https://open.spotify.com/track/2W45RFSn0zM0eH0GFHimHS) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Sharp Attack](https://open.spotify.com/album/0SjvPXWpMpndsohnyiS5n0) | 2:43 | 2023-09-09 | 2023-09-15 |

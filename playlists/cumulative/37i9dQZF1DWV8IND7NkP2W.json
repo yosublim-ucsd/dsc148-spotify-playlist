@@ -802,7 +802,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 229112,
       "name": "August",
       "url": "https://open.spotify.com/track/70k46TfLjn6qblZCUCf9bH"
@@ -8774,6 +8774,24 @@
       "duration_ms": 221071,
       "name": "Please Think Twice",
       "url": "https://open.spotify.com/track/3XAtKEECaYJYeoiH5PXutP"
+    },
+    {
+      "album": {
+        "name": "Beat Theme",
+        "url": "https://open.spotify.com/album/40OrSf0345Z0a6CuBizw4Q"
+      },
+      "artists": [
+        {
+          "name": "Sweet William",
+          "url": "https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221071,
+      "name": "Please Think Twice",
+      "url": "https://open.spotify.com/track/4AkAe7RDJP6GhwqFM2JhEL"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Alu Mix y Los Menores en portada ",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Yeri Mua en portada ",
   "name": "Reggaet\u00f3n MX ",
   "tracks": [
     {
@@ -3429,6 +3429,32 @@
     },
     {
       "album": {
+        "name": "La B Es de Bellaka",
+        "url": "https://open.spotify.com/album/0cd0WR5vvoleRlvjdygUrs"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "Salon Sandunga",
+          "url": "https://open.spotify.com/artist/7GO5cbRGVs48OP0lPdjLyo"
+        },
+        {
+          "name": "Kapostik",
+          "url": "https://open.spotify.com/artist/7abYZTZ9ewdRuVUSJbowO3"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146328,
+      "name": "La B Es de Bellaka",
+      "url": "https://open.spotify.com/track/0ArhUN6zFdmFn5l7q6CO23"
+    },
+    {
+      "album": {
         "name": "La B Es De Bellaka",
         "url": "https://open.spotify.com/album/2qg17ULjiGLq2C28wWvwKT"
       },
@@ -3448,7 +3474,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 146328,
       "name": "La B Es De Bellaka",
       "url": "https://open.spotify.com/track/0SUMky81PpkC1mYSl1UPNq"

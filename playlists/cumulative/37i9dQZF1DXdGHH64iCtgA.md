@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-249 songs - 19 hr 30 min
+250 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Love On A Real Train](https://open.spotify.com/track/49y78l709VxMkIcq7jUJKN) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Dream Sequence](https://open.spotify.com/album/7ALFR4o9ZXfqNVv9EOORn1) | 3:56 | 2022-05-06 | 2022-07-29 |
 | [Love On A Real Train \- From 'Risky Business' Original Motion Picture Soundtrack](https://open.spotify.com/track/0DYCw5AZIX3S11QQUiPiqN) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Hyperborea \(Deluxe Version / Remastered 2020\)](https://open.spotify.com/album/4Mft3FkYzPHdWTmRW0yS1U) | 3:59 | 2022-06-14 |  |
 | [Lucid](https://open.spotify.com/track/0ATFMjLib1XaK01KibIyLj) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Kelly Lee Owens](https://open.spotify.com/album/0aol42apbylFf2POjiAOeP) | 3:32 | 2023-09-07 | 2023-10-02 |
-| [Lucky](https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a) | [Club Eat](https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc) | [Club Eat](https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR) | 3:54 | 2022-05-06 | 2023-10-04 |
+| [Lucky](https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a) | [Club Eat](https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc) | [Club Eat](https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR) | 3:54 | 2022-05-06 |  |
 | [Lucky \- Edit](https://open.spotify.com/track/32NQyxOI8S3Cvvt3Dp6s8K) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Lucky](https://open.spotify.com/album/1twdlt63HPInhVkVgZ1Dr2) | 3:11 | 2022-05-06 | 2022-07-29 |
 | [Lune est l'autre](https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:53 | 2022-05-06 |  |
 | [MADELINE](https://open.spotify.com/track/04o27HjgqTVm8NwgEfOqRH) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [MADELINE](https://open.spotify.com/album/5x9JJzj5K9J6IldkIMonXM) | 3:24 | 2022-09-02 | 2022-09-15 |
@@ -181,7 +181,7 @@
 | [Paris to Milan](https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [Paris to Milan](https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U) | 1:52 | 2023-10-01 |  |
 | [Parola \- Rework](https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Anna Caragnano](https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ) | [Variations](https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck) | 7:09 | 2022-05-06 |  |
 | [Pick Up \- Even Shorter Version](https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Pick Up \(Even Shorter Version\)](https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO) | 3:48 | 2022-05-06 |  |
-| [Pinnacles of You](https://open.spotify.com/track/08aiKNo2DdNxOUh9PFxEz3) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Ecstatic Computation](https://open.spotify.com/album/1hOgPjM2AP2zUJnaXmmEGb) | 5:47 | 2022-05-06 |  |
+| [Pinnacles of You](https://open.spotify.com/track/08aiKNo2DdNxOUh9PFxEz3) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Ecstatic Computation](https://open.spotify.com/album/1hOgPjM2AP2zUJnaXmmEGb) | 5:47 | 2022-05-06 | 2023-10-24 |
 | [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 | 2022-06-14 |  |
 | [Places](https://open.spotify.com/track/6mW2IiQDrp66AUjCsRu6Kg) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [Dancehall](https://open.spotify.com/album/6WbMZYQ1SAU8HrgZSuH0xJ) | 3:34 | 2022-05-06 | 2022-07-29 |
 | [Play In The Dark](https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Play In The Dark](https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC) | 4:55 | 2022-05-06 |  |
@@ -218,7 +218,8 @@
 | [Someone Great](https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 6:30 | 2023-09-07 | 2023-10-02 |
 | [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 | 2022-05-06 |  |
 | [Strut](https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Strut](https://open.spotify.com/album/7BlIfuZ7PO07szpAjTCKKa) | 3:05 | 2022-05-06 |  |
-| [Suricate](https://open.spotify.com/track/2t21BOjWID8CUXCup4XXZ1) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Euphories](https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg) | 3:15 | 2022-05-06 |  |
+| [Suricate](https://open.spotify.com/track/2t21BOjWID8CUXCup4XXZ1) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Euphories](https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg) | 3:15 | 2022-05-06 | 2023-10-24 |
+| [Suricate \- ODZ](https://open.spotify.com/track/2wLpYTxV3laz3kaGL3xH38) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 3:13 | 2023-10-01 |  |
 | [Sweat](https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Sweat](https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E) | 2:56 | 2022-05-06 |  |
 | [TASTY \- Boys Noize Remix](https://open.spotify.com/track/4InDcTU0WkizVukh4Yua0Q) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [TASTY](https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB) | 3:50 | 2022-05-06 |  |
 | [Tell Me \(Feat\. Saoirse Ronan\)](https://open.spotify.com/track/0NSSZTpUoEtA8b0j1WtuvY) | [Johnny Jewel](https://open.spotify.com/artist/2KofAEA8S0jDDXjSg6a3HR) | [Lost River Original Motion Picture Score](https://open.spotify.com/album/0u5okKZvztQ0ciPxcJ2zLa) | 2:42 | 2023-09-07 | 2023-10-02 |

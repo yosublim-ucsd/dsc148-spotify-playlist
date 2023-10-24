@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-339 songs - 1 day 0 hr 16 min
+340 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Running Away](https://open.spotify.com/track/7AocbcViWJ73c5iu1N9OvR) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/0FHU2NxNeg7sw3pjuUHk5w) | 5:43 | 2021-10-18 | 2022-09-12 |
 | [Saint](https://open.spotify.com/track/2PzWUwFXApjQBZzKMl4Hd6) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 3:12 | 2023-01-20 | 2023-03-18 |
 | [Samo](https://open.spotify.com/track/6H0U5EsYf8BjshvMyVNA1u) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Samo](https://open.spotify.com/album/7JFdt15T1UnQmqhjq7yPr6) | 2:54 | 2023-03-31 | 2023-04-03 |
-| [SAMO](https://open.spotify.com/track/7tUp7rwXgZ1VN9rjD6dn7F) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [1982](https://open.spotify.com/album/2qNRcFR3VnrxgrBGB2JFuZ) | 2:54 | 2023-03-31 |  |
+| [SAMO](https://open.spotify.com/track/7tUp7rwXgZ1VN9rjD6dn7F) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [1982](https://open.spotify.com/album/2qNRcFR3VnrxgrBGB2JFuZ) | 2:54 | 2023-03-31 | 2023-10-24 |
 | [Saturdays](https://open.spotify.com/track/6ZHPwqdzTslbKAYOsWnHCQ) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Saturdays](https://open.spotify.com/album/26yeOGjAAvWuonpIdyDBcO) | 3:07 | 2022-08-13 | 2022-10-01 |
 | [Saturnine Night](https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Find The Sun](https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI) | 7:06 | 2021-10-06 | 2022-09-30 |
 | [Say What You Will](https://open.spotify.com/track/5vUZMotVhkVcizIP0qrgr8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Say What You Will](https://open.spotify.com/album/2SCoCvaMwKuORfPTK7B33O) | 4:40 | 2023-01-20 | 2023-03-25 |
@@ -298,6 +298,7 @@
 | [The Oh Zone](https://open.spotify.com/track/1nyMpGw10guuyKFtxLshVl) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Off Planet](https://open.spotify.com/album/5An8eMki7iyqgQoufrMlI0) | 2:10 | 2023-06-27 | 2023-08-11 |
 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 | 2022-09-22 | 2023-04-01 |
 | [The Path](https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Path](https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey) | 4:22 | 2023-09-25 |  |
+| [The Presence](https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Pearlies](https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T) | 3:35 | 2023-10-23 |  |
 | [The Revolution Of Super Visions](https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Revolution Of Super Visions](https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP) | 5:01 | 2021-10-06 | 2023-02-07 |
 | [The Revolution of Super Visions](https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Flock](https://open.spotify.com/album/5akulaga7LWVPkHIqCHEgD) | 5:01 | 2021-10-06 |  |
 | [the slab](https://open.spotify.com/track/2qvOC1CRBtwOcl2dlcOCM1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 5:10 | 2023-08-11 |  |

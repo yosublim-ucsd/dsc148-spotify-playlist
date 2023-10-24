@@ -422,7 +422,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 72133,
       "name": "Garden - SIDE A",
       "url": "https://open.spotify.com/track/4pGnWlr2Lk5MDPI6zgG972"
@@ -1268,6 +1268,24 @@
       "duration_ms": 237600,
       "name": "YoSoyMatt (feat. Hermanu)",
       "url": "https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l"
+    },
+    {
+      "album": {
+        "name": "\u00bfY Si Eras T\u00fa?",
+        "url": "https://open.spotify.com/album/4oPDRXXH8YgDh5Ywf14NGA"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169613,
+      "name": "\u00bfY Si Eras T\u00fa?",
+      "url": "https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcFwsXuG6tG8"

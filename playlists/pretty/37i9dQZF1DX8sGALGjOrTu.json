@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: The Used",
-  "num_followers": 439939,
+  "num_followers": 440142,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2FlMjMyMmZlM2EwYzE1M2Q0NTZkZjhjODc1ZGEwN2M3NjJiNGVm",
+  "snapshot_id": "MCwwNDAzN2IxZTIyOTJiNjA4Zjc1MWEwNWRiZmVmNmJlYTgxNWFiOWUz",
   "tracks": [
     {
       "added_at": "2023-03-28 16:00:32",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 209093,
-      "name": "The Downfall Of Us All",
-      "url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Let's Cheers To This",
         "url": "https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 250240,
       "name": "If You Can't Hang",
       "url": "https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 209093,
+      "name": "The Downfall Of Us All",
+      "url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Selfish Machines",
-        "url": "https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 268480,
-      "name": "Caraphernelia",
-      "url": "https://open.spotify.com/track/2G8PweZBBwTpyP8vpNQJK2"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness",
         "url": "https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN"
       },
@@ -335,6 +319,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "Selfish Machines",
+        "url": "https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 268480,
+      "name": "Caraphernelia",
+      "url": "https://open.spotify.com/track/2G8PweZBBwTpyP8vpNQJK2"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "Lies for the Liars",
         "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 215146,
       "name": "Pretty Handsome Awkward",
       "url": "https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "Tell All Your Friends (Remastered)",
-        "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 181336,
-      "name": "You're So Last Summer - Remastered",
-      "url": "https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -383,34 +367,18 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Saosin",
-        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+        "name": "Tell All Your Friends (Remastered)",
+        "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
       },
       "artists": [
         {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 238053,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "Dance Gavin Dance",
-        "url": "https://open.spotify.com/album/12mJ1euri9hLMgGTT6RdQL"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 218453,
-      "name": "Uneasy Hearts Weigh The Most",
-      "url": "https://open.spotify.com/track/5oC0AAgJ7RoWOT3HznLMe1"
+      "duration_ms": 181336,
+      "name": "You're So Last Summer - Remastered",
+      "url": "https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -427,6 +395,22 @@
       "duration_ms": 231506,
       "name": "Not Good Enough For Truth In Clich\u00e9",
       "url": "https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 238053,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -463,6 +447,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "Dance Gavin Dance",
+        "url": "https://open.spotify.com/album/12mJ1euri9hLMgGTT6RdQL"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "Uneasy Hearts Weigh The Most",
+      "url": "https://open.spotify.com/track/5oC0AAgJ7RoWOT3HznLMe1"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 207586,
       "name": "My Heroine",
       "url": "https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "This War Is Ours (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "This War Is Ours (The Guillotine II)",
+      "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -575,22 +591,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "This War Is Ours (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "This War Is Ours (The Guillotine II)",
-      "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "I Brought You My Bullets, You Brought Me Your Love",
         "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "They're Only Chasing Safety",
-        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Reinventing Your Exit",
-      "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Page Avenue",
         "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 187680,
       "name": "Saying Sorry",
       "url": "https://open.spotify.com/track/3tNF4ktNoFYVbzd5LAgfMY"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "They're Only Chasing Safety",
+        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Reinventing Your Exit",
+      "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Still Searching",
-        "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Calling All Cars",
-      "url": "https://open.spotify.com/track/6fgsRsszz3omU60YckE5ah"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "The Silence In Black And White (Re-Issue)",
         "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Hours",
-        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
       },
       "artists": [
         {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 247426,
-      "name": "Roses for the Dead",
-      "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
+      "duration_ms": 203573,
+      "name": "Calling All Cars",
+      "url": "https://open.spotify.com/track/6fgsRsszz3omU60YckE5ah"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -907,6 +891,22 @@
       "duration_ms": 216293,
       "name": "The Words \"Best Friend\" Become Redefined",
       "url": "https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Roses for the Dead",
+      "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "The Emptiness",
-        "url": "https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg"
-      },
-      "artists": [
-        {
-          "name": "Alesana",
-          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "The Thespian",
-      "url": "https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "The Illusion of Safety",
         "url": "https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "The Emptiness",
+        "url": "https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg"
+      },
+      "artists": [
+        {
+          "name": "Alesana",
+          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "The Thespian",
+      "url": "https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "Bone Palace Ballet: Grand Coda",
         "url": "https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 227706,
       "name": "Ready To Fall",
       "url": "https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "Emarosa",
-        "url": "https://open.spotify.com/album/1OlewCHNhDBcQBqzXhNws5"
-      },
-      "artists": [
-        {
-          "name": "Emarosa",
-          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "A Toast to the future kids!",
-      "url": "https://open.spotify.com/track/7jDZIM59S1utHXZcmYSEYx"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1167,18 +1151,34 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "On Frail Wings Of Vanity And Wax",
-        "url": "https://open.spotify.com/album/137oCE2bto6cK6EKMzhCGa"
+        "name": "The Weak's End",
+        "url": "https://open.spotify.com/album/7fiFm9mCrQ9s0iswgK4X0a"
       },
       "artists": [
         {
-          "name": "Alesana",
-          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+          "name": "Emery",
+          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
         }
       ],
-      "duration_ms": 185333,
-      "name": "Ambrosia",
-      "url": "https://open.spotify.com/track/0CsngWR4MiYHiDbBebVxql"
+      "duration_ms": 203706,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Emarosa",
+        "url": "https://open.spotify.com/album/1OlewCHNhDBcQBqzXhNws5"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "A Toast to the future kids!",
+      "url": "https://open.spotify.com/track/7jDZIM59S1utHXZcmYSEYx"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "The Weak's End",
-        "url": "https://open.spotify.com/album/7fiFm9mCrQ9s0iswgK4X0a"
+        "name": "30 Seconds To Mars",
+        "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
       },
       "artists": [
         {
-          "name": "Emery",
-          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
         }
       ],
-      "duration_ms": 203706,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ"
+      "duration_ms": 233000,
+      "name": "Capricorn (A Brand New Name)",
+      "url": "https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5"
     }
   ],
   "unique_name": "Chaos Anthems",

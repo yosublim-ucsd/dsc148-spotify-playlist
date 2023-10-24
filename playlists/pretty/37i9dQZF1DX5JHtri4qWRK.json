@@ -1,12 +1,12 @@
 {
   "description": "R&B jams for the brokenhearted.",
-  "num_followers": 7849,
+  "num_followers": 7852,
   "original_name": "Heartbreak Hotel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWRkOWRlMDM1MWU2ZDQzNjliOWIwOTcyNTQ3ZTUxMTA3NDFjN2Vl",
+  "snapshot_id": "MCw5M2EyODUyMDI3NzBhMTFlY2JkYTY4YjNlYmFkNmU5MTczYTEyMGE5",
   "tracks": [
     {
       "added_at": "2021-12-14 12:56:56",
@@ -131,6 +131,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 222091,
+      "name": "Grenade",
+      "url": "https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
@@ -183,22 +199,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 222091,
-      "name": "Grenade",
-      "url": "https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Ashanti",
         "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
       },
@@ -227,22 +227,6 @@
       "duration_ms": 326533,
       "name": "Ex-Factor",
       "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "FutureSex/LoveSounds",
-        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 448573,
-      "name": "What Goes Around.../...Comes Around (Interlude)",
-      "url": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -351,6 +335,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "FutureSex/LoveSounds",
+        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 448573,
+      "name": "What Goes Around.../...Comes Around (Interlude)",
+      "url": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "Cooleyhighharmony (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
       },
@@ -363,6 +363,22 @@
       "duration_ms": 351466,
       "name": "End Of The Road",
       "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -431,22 +447,6 @@
       "duration_ms": 227853,
       "name": "Irreplaceable",
       "url": "https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 241760,
       "name": "Got 'Til It's Gone",
       "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Pray You Catch Me",
-      "url": "https://open.spotify.com/track/7rLDARtJALM7QdiJDMXW7m"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 327693,
       "name": "I Should Have Cheated",
       "url": "https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Pray You Catch Me",
+      "url": "https://open.spotify.com/track/7rLDARtJALM7QdiJDMXW7m"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Comin' From Where I'm From",
-        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 246773,
-      "name": "Charlene",
-      "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "Comin' From Where I'm From",
+        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 246773,
+      "name": "Charlene",
+      "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
@@ -1207,22 +1207,6 @@
       "duration_ms": 317160,
       "name": "We Gonna Take U Back (Lude) / Don't Leave Me",
       "url": "https://open.spotify.com/track/13oGc1Mi9niBlo5eTmgGMa"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "Brian McKnight",
-        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
-      },
-      "artists": [
-        {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
-        }
-      ],
-      "duration_ms": 295357,
-      "name": "One Last Cry",
-      "url": "https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1255,6 +1239,22 @@
       "duration_ms": 224146,
       "name": "Girl",
       "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Brian McKnight",
+        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 295357,
+      "name": "One Last Cry",
+      "url": "https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Jackie (Deluxe)",
-        "url": "https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "I Bet",
-      "url": "https://open.spotify.com/track/20lNo44eUUCnyNNInzwkv9"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 236400,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/01Aj44KIjCrPmZeXq4UOky"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Jackie (Deluxe)",
+        "url": "https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "I Bet",
+      "url": "https://open.spotify.com/track/20lNo44eUUCnyNNInzwkv9"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204174,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "My Thoughts",
         "url": "https://open.spotify.com/album/6dt3CBDoU2ae7JDSipqXdf"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 255600,
       "name": "Separated",
       "url": "https://open.spotify.com/track/5S0cvScXb33JVpjTiY9Ivi"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204174,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
     },
     {
       "added_at": "2021-12-14 12:56:56",

@@ -1,12 +1,12 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 41631,
+  "num_followers": 41638,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTk2MGRjOTFhYTAxNTdjODcyNWFiY2MwZjNhMTZkYTY0OTRiNjA4",
+  "snapshot_id": "MCwwMWQ0YWFjZmRjNThhZTU3ZTlmM2MzMTgxOTAyOTFkZTQ5M2U2MWE3",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -187,6 +187,22 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
+        "name": "Adicto al Rock N Roll",
+        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
+      },
+      "artists": [
+        {
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "Perro Negro y Callejero",
+      "url": "https://open.spotify.com/track/7lQVq7S3mqEJnF6mDfKka8"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
         "name": "Si T\u00fa Te Acuerdas de Mi",
         "url": "https://open.spotify.com/album/0Lg4pYC31TmqCggVLFk5ZG"
       },
@@ -235,22 +251,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Adicto al Rock N Roll",
-        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
-      },
-      "artists": [
-        {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "Perro Negro y Callejero",
-      "url": "https://open.spotify.com/track/7lQVq7S3mqEJnF6mDfKka8"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Tesoros De Coleccion - Banda Macho",
         "url": "https://open.spotify.com/album/1TA36qabBslE9IWynbEJhQ"
       },
@@ -283,38 +283,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Psychedelic Drugstore - Remastered",
-        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
-      },
-      "artists": [
-        {
-          "name": "Aguaturbia",
-          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
-        }
-      ],
-      "duration_ms": 184163,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/44ixJpyPZYW5pgwgfTsSaR"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "Back",
-        "url": "https://open.spotify.com/album/38o2ntxhlyxZlCM2WmfeDw"
-      },
-      "artists": [
-        {
-          "name": "The Spiders",
-          "url": "https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL"
-        }
-      ],
-      "duration_ms": 250946,
-      "name": "Back",
-      "url": "https://open.spotify.com/track/7eZGDGbEoyZJeBl4PGyFSF"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Abraxas",
         "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
       },
@@ -327,22 +295,6 @@
       "duration_ms": 319773,
       "name": "Black Magic Woman / Gypsy Queen",
       "url": "https://open.spotify.com/track/7cDxjUnMitNKQC5c8RQUko"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "La Revoluci\u00f3n de Emiliano Zapata 45 Aniversario",
-        "url": "https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v"
-      },
-      "artists": [
-        {
-          "name": "La Revoluci\u00f3n De Emiliano Zapata",
-          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
-        }
-      ],
-      "duration_ms": 188395,
-      "name": "Preludio de la Felicidad",
-      "url": "https://open.spotify.com/track/5pPdMdO7P2V7fG2ELZbI8b"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -363,6 +315,22 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
+        "name": "Psychedelic Drugstore - Remastered",
+        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
+      },
+      "artists": [
+        {
+          "name": "Aguaturbia",
+          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
+        }
+      ],
+      "duration_ms": 184163,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/44ixJpyPZYW5pgwgfTsSaR"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
         "name": "Peace and Love",
         "url": "https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2"
       },
@@ -379,6 +347,38 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
+        "name": "Back",
+        "url": "https://open.spotify.com/album/38o2ntxhlyxZlCM2WmfeDw"
+      },
+      "artists": [
+        {
+          "name": "The Spiders",
+          "url": "https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL"
+        }
+      ],
+      "duration_ms": 250946,
+      "name": "Back",
+      "url": "https://open.spotify.com/track/7eZGDGbEoyZJeBl4PGyFSF"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "La Revoluci\u00f3n de Emiliano Zapata 45 Aniversario",
+        "url": "https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v"
+      },
+      "artists": [
+        {
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+        }
+      ],
+      "duration_ms": 188395,
+      "name": "Preludio de la Felicidad",
+      "url": "https://open.spotify.com/track/5pPdMdO7P2V7fG2ELZbI8b"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN"
       },
@@ -391,6 +391,54 @@
       "duration_ms": 173356,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/3AYFCwZNWpArhFGHJnJhjw"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Santana (III)",
+        "url": "https://open.spotify.com/album/3iE6Jik24CBE0uv1lyyplI"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 331333,
+      "name": "No One to Depend On",
+      "url": "https://open.spotify.com/track/3pPnys7mGV0DQkQoxmovXi"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
+      },
+      "artists": [
+        {
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+        }
+      ],
+      "duration_ms": 123386,
+      "name": "Abuso de autoridad",
+      "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Peace and Love",
+        "url": "https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2"
+      },
+      "artists": [
+        {
+          "name": "Peace and Love",
+          "url": "https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z"
+        }
+      ],
+      "duration_ms": 139459,
+      "name": "Peace and Love",
+      "url": "https://open.spotify.com/track/4Ngt4pSPtlMWOpuNkdRotF"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -415,18 +463,18 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Santana (III)",
-        "url": "https://open.spotify.com/album/3iE6Jik24CBE0uv1lyyplI"
+        "name": "La Revoluci\u00f3n de Emiliano Zapata 45 Aniversario",
+        "url": "https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
         }
       ],
-      "duration_ms": 331333,
-      "name": "No One to Depend On",
-      "url": "https://open.spotify.com/track/3pPnys7mGV0DQkQoxmovXi"
+      "duration_ms": 494471,
+      "name": "La Ciudad Perd\u00edda",
+      "url": "https://open.spotify.com/track/2HUStBRlw7k3zbEsAA7Aw4"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -447,70 +495,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Toncho Pilatos",
-        "url": "https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK"
-      },
-      "artists": [
-        {
-          "name": "Toncho Pilatos",
-          "url": "https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3"
-        }
-      ],
-      "duration_ms": 230973,
-      "name": "Tommy Lyz",
-      "url": "https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "La Revoluci\u00f3n de Emiliano Zapata 45 Aniversario",
-        "url": "https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v"
-      },
-      "artists": [
-        {
-          "name": "La Revoluci\u00f3n De Emiliano Zapata",
-          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
-        }
-      ],
-      "duration_ms": 494471,
-      "name": "La Ciudad Perd\u00edda",
-      "url": "https://open.spotify.com/track/2HUStBRlw7k3zbEsAA7Aw4"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "Peace and Love",
-        "url": "https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2"
-      },
-      "artists": [
-        {
-          "name": "Peace and Love",
-          "url": "https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z"
-        }
-      ],
-      "duration_ms": 139459,
-      "name": "Peace and Love",
-      "url": "https://open.spotify.com/track/4Ngt4pSPtlMWOpuNkdRotF"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
-      },
-      "artists": [
-        {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
-        }
-      ],
-      "duration_ms": 123386,
-      "name": "Abuso de autoridad",
-      "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Serie de Colecci\u00f3n 18 Aut\u00e9nticos \u00c9xitos Hit\u00b4s de Grupos, Vol. 2",
         "url": "https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 115853,
       "name": "In-a-Gadda-da-Vida",
       "url": "https://open.spotify.com/track/27bwyWQYuTFwvvks3JkeF7"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Toncho Pilatos",
+        "url": "https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK"
+      },
+      "artists": [
+        {
+          "name": "Toncho Pilatos",
+          "url": "https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "Tommy Lyz",
+      "url": "https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Colecci\u00f3n Avandaro",
-        "url": "https://open.spotify.com/album/52secMI8PGxRR44sNXPkcP"
-      },
-      "artists": [
-        {
-          "name": "EL RITUAL",
-          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
-        }
-      ],
-      "duration_ms": 482510,
-      "name": "Satan\u00e1s",
-      "url": "https://open.spotify.com/track/6hG2T8xkFaCTscKbAIPYYm"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Rock en Av\u00e1ndaro Valle de Bravo",
         "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 228080,
       "name": "The Call of the Woman (El Llamado de la Hembra)",
       "url": "https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Colecci\u00f3n Avandaro",
+        "url": "https://open.spotify.com/album/52secMI8PGxRR44sNXPkcP"
+      },
+      "artists": [
+        {
+          "name": "EL RITUAL",
+          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
+        }
+      ],
+      "duration_ms": 482510,
+      "name": "Satan\u00e1s",
+      "url": "https://open.spotify.com/track/6hG2T8xkFaCTscKbAIPYYm"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -703,18 +703,18 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "El Ritual",
-        "url": "https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN"
       },
       "artists": [
         {
-          "name": "EL RITUAL",
-          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
+          "name": "La M\u00e1quina Del Sonido",
+          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
         }
       ],
-      "duration_ms": 234498,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir"
+      "duration_ms": 204180,
+      "name": "No Quiero Ya Volver",
+      "url": "https://open.spotify.com/track/6Pv5pNSFNIO9FvOm1qGQ5F"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -735,18 +735,18 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN"
+        "name": "El Ritual",
+        "url": "https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo"
       },
       "artists": [
         {
-          "name": "La M\u00e1quina Del Sonido",
-          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
+          "name": "EL RITUAL",
+          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
         }
       ],
-      "duration_ms": 204180,
-      "name": "No Quiero Ya Volver",
-      "url": "https://open.spotify.com/track/6Pv5pNSFNIO9FvOm1qGQ5F"
+      "duration_ms": 234498,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir"
     },
     {
       "added_at": "2021-09-06 15:34:44",

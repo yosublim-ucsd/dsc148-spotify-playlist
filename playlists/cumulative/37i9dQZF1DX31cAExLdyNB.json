@@ -1778,6 +1778,28 @@
     {
       "album": {
         "name": "Realidades No Ordinarias, Vol. 2",
+        "url": "https://open.spotify.com/album/6RhTZGJrzknEtNjWQqTkaI"
+      },
+      "artists": [
+        {
+          "name": "Bardo Jos\u00e9",
+          "url": "https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT"
+        },
+        {
+          "name": "Boris Vian",
+          "url": "https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289335,
+      "name": "Realidades No Ordinarias",
+      "url": "https://open.spotify.com/track/58VAdJ19ENSELUjofs5Ocn"
+    },
+    {
+      "album": {
+        "name": "Realidades No Ordinarias, Vol. 2",
         "url": "https://open.spotify.com/album/7iDKNoDsFFEZrTUqvKsXAM"
       },
       "artists": [
@@ -2012,7 +2034,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 203625,
       "name": "Takotsubo",
       "url": "https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz"

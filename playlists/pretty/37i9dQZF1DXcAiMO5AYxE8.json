@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 488437,
+  "num_followers": 488502,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmNjNTdjMjBmMjljODExOGJkOWMxMDkzNjYzNmNhZmM0YmE2MWI4",
+  "snapshot_id": "MCwxMzE4ODA2YzRkNzk3N2NiNDk4NTk1YTNjNWIzNDQyNGM1ZTZmMDMy",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -115,22 +115,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "September (sped up + slowed)",
-        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 216022,
-      "name": "September",
-      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "September (sped up + slowed)",
+        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 216022,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -211,6 +211,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "Raise!",
+        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 339320,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "I Love To Love - The Best Of",
         "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 281200,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Raise!",
-        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 339320,
-      "name": "Let's Groove",
-      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Destiny (Expanded Version)",
-        "url": "https://open.spotify.com/album/4uHjiaukvzX2i2IzLkUqWy"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 227261,
-      "name": "Shake Your Body (Down to the Ground) - 7\" Version",
-      "url": "https://open.spotify.com/track/26QORAYrHVWk6Pn6ELkzvn"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "More Monty",
         "url": "https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 272000,
       "name": "Yes Sir, I Can Boogie",
       "url": "https://open.spotify.com/track/76709jfVPvKWp7ChPQjCk7"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Destiny (Expanded Version)",
+        "url": "https://open.spotify.com/album/4uHjiaukvzX2i2IzLkUqWy"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "duration_ms": 227261,
+      "name": "Shake Your Body (Down to the Ground) - 7\" Version",
+      "url": "https://open.spotify.com/track/26QORAYrHVWk6Pn6ELkzvn"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -683,22 +683,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "My Time: A Boz Scaggs Anthology (1969-1997)",
-        "url": "https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "What Can I Say",
-      "url": "https://open.spotify.com/track/1bDjowPMtoft6kd33wUkof"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Dream On (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4aCdchywqaGFfH2kIK4blx"
       },
@@ -711,22 +695,6 @@
       "duration_ms": 312680,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/7BOAXgaGfRDWwYbUqE5tuQ"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "More Monty",
-        "url": "https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh"
-      },
-      "artists": [
-        {
-          "name": "Vicki Sue Robinson",
-          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Turn the Beat Around",
-      "url": "https://open.spotify.com/track/1kR8zUFIRLXpk1v9aC2VcA"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -747,6 +715,38 @@
       "duration_ms": 213853,
       "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
       "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "My Time: A Boz Scaggs Anthology (1969-1997)",
+        "url": "https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "What Can I Say",
+      "url": "https://open.spotify.com/track/1bDjowPMtoft6kd33wUkof"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "More Monty",
+        "url": "https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh"
+      },
+      "artists": [
+        {
+          "name": "Vicki Sue Robinson",
+          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Turn the Beat Around",
+      "url": "https://open.spotify.com/track/1kR8zUFIRLXpk1v9aC2VcA"
     },
     {
       "added_at": "2021-07-04 17:34:32",

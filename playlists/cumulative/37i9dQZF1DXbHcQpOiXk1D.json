@@ -7459,6 +7459,24 @@
     },
     {
       "album": {
+        "name": "Slice",
+        "url": "https://open.spotify.com/album/4zZ29RjFtFEN1TPxPHBH7r"
+      },
+      "artists": [
+        {
+          "name": "O.",
+          "url": "https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204270,
+      "name": "Slice",
+      "url": "https://open.spotify.com/track/6SR5Lk3NYfaiEFm2ZhG9mC"
+    },
+    {
+      "album": {
         "name": "So Cold",
         "url": "https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT"
       },
@@ -7474,7 +7492,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 252000,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge"

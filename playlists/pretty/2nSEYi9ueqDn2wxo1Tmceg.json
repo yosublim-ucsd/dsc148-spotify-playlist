@@ -1,13 +1,65 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 75918,
+  "num_followers": 75916,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "Mzc5Nyw1OTlmMDlkOTM3YThiODUxYjFlZjMzNzE4YjI2Zjk3YjgxMjkyYzYw",
+  "snapshot_id": "Mzc5OSw4Y2Q5ZDAxZDdmNjNjNzgyODVjZmYwNjlmYmZkMDQ5MTljN2U1YjM5",
   "tracks": [
+    {
+      "added_at": "2023-10-23 10:07:45",
+      "album": {
+        "name": "It's You (Alan Braxe Remix)",
+        "url": "https://open.spotify.com/album/0KC0z52CypXX2vNTX8XX0h"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        }
+      ],
+      "duration_ms": 277085,
+      "name": "It's You - Alan Braxe Remix",
+      "url": "https://open.spotify.com/track/48tAxJPKyxs3KeIrKIzmuY"
+    },
+    {
+      "added_at": "2023-10-23 13:47:35",
+      "album": {
+        "name": "Mr. Tambourine Man / Like A Rolling Stone",
+        "url": "https://open.spotify.com/album/33gN6TGmTa8lRyWmEFGXpl"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 389386,
+      "name": "Mr. Tambourine Man - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/1a4EjPsElUgNXx3io1DbIo"
+    },
+    {
+      "added_at": "2023-10-23 13:47:35",
+      "album": {
+        "name": "Mr. Tambourine Man / Like A Rolling Stone",
+        "url": "https://open.spotify.com/album/33gN6TGmTa8lRyWmEFGXpl"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 396515,
+      "name": "Like A Rolling Stone - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/3rZIBBP3s8F4DiHxenSOjC"
+    },
     {
       "added_at": "2023-10-18 14:12:42",
       "album": {

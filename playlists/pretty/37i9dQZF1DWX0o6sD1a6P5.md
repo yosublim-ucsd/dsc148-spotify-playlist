@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,685 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,137 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 48 | [Yo Fam!](https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Yo Fam!](https://open.spotify.com/album/7rty6S4IzzigIfDhVmUDV3) | 2:41 |
 | 49 | [Descends](https://open.spotify.com/track/4o0RcUuzfNTDsssjYdU9Ty) | [BÉNI BASS DJ](https://open.spotify.com/artist/0LTdSULKSgSW95izfDSS8V), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Descends](https://open.spotify.com/album/7j8nuI3KFkRz2jECQSadOd) | 3:30 |
 
-Snapshot ID: `MCw0ZGQ1MjI3NzQyZjA1ZjBjNjIxZjliNjE1ZjJmNzYyNGYyZWZjYTM1`
+Snapshot ID: `MCwwYjkyY2M0ZGI5YjY2YTE2M2UzNzRlNTIwMTU0NjViMjk3Mjc1MzM0`

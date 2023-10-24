@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: YOUNITE\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? \(Cover: SEVENTEEN\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-500 songs - 1 day 4 hr 2 min
+501 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 | 2023-09-15 |  |
 | [Bad News](https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [It’s ME, It's WE](https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB) | 3:32 | 2022-03-02 | 2022-07-11 |
 | [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-08-28 | 2023-09-28 |
-| [Baila Conmigo](https://open.spotify.com/track/3KXqLK4qPxr6qlrfzVVmNY) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [La Dolce Vita](https://open.spotify.com/album/4ycaoQvk5OsGiRoXP1SLq5) | 3:08 | 2023-09-27 | 2023-10-21 |
+| [Baila Conmigo](https://open.spotify.com/track/3KXqLK4qPxr6qlrfzVVmNY) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [La Dolce Vita](https://open.spotify.com/album/4ycaoQvk5OsGiRoXP1SLq5) | 3:08 | 2023-09-27 |  |
 | [Be Mine](https://open.spotify.com/track/6xE5nzfGQvUCNIjkjQwzL4) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [Road to Kingdom \(Your Song\), Pt\. 1](https://open.spotify.com/album/69u5RBm7sL60Y1BK3dtUDH) | 3:35 | 2022-01-27 | 2022-05-27 |
 | [Be My Lover](https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Season Songs](https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ) | 4:02 | 2022-03-02 | 2022-05-07 |
 | [Be Your Star](https://open.spotify.com/track/5EqxbTYuoxO0Vogf29lLCW) | [WE IN THE ZONE](https://open.spotify.com/artist/2aCSYXdXqJNaXk99vjYnkQ) | [Be Your Star](https://open.spotify.com/album/7F8dZ0pPGvWHWYZf8a5k2D) | 4:08 | 2022-03-31 | 2022-04-07 |
@@ -81,7 +81,7 @@
 | [BOY](https://open.spotify.com/track/6SqOpxXMMS8axhJoqz8Nel) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER ONE](https://open.spotify.com/album/7IGNNe8FGyEtOZdoUBjLPw) | 3:16 | 2021-12-08 | 2022-07-29 |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 | 2022-07-27 |  |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK) | 3:49 | 2021-12-08 | 2022-07-15 |
-| [Break the Brake](https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Livelock](https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh) | 3:20 | 2023-10-13 |  |
+| [Break the Brake](https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Livelock](https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh) | 3:20 | 2023-10-13 | 2023-10-24 |
 | [BREATHE](https://open.spotify.com/track/4XbyRgWe6yU4wE6WShdTEs) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [B:COMPLETE](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) | 3:37 | 2021-12-08 | 2022-07-11 |
 | [BREATHE \- 2023](https://open.spotify.com/track/3oxptVONUXfzsvXuQ7ZnqE) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [B:COMPLETE \(2023\)](https://open.spotify.com/album/16j7UDoD3JFu9kvNLdolRU) | 3:38 | 2023-09-27 | 2023-10-14 |
 | [Breathe For You](https://open.spotify.com/track/03XXbMFb0v4Yb4u26oJELG) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Breathe For You](https://open.spotify.com/album/2P8qHjgJpt3OQhr0hcHJcx) | 3:33 | 2022-03-22 | 2022-04-21 |
@@ -190,6 +190,7 @@
 | [Give You My All](https://open.spotify.com/track/5qnEx0iZtcFoUXPlY8iQhk) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Give You My All](https://open.spotify.com/album/7492V3qcwPAToQhe9KXo1A) | 2:45 | 2023-10-17 |  |
 | [Given\-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 | 2021-12-08 |  |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-04-12 | 2023-01-10 |
+| [God of Music](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 | 2023-10-23 |  |
 | [God’s Menu](https://open.spotify.com/track/0RzT9tBLcQhofW2TNiHP9B) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 2:47 | 2021-12-08 | 2022-07-29 |
 | [God’s Menu](https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:47 | 2022-07-27 |  |
 | [Golden \(feat\. XIAOJUN of WayV, pH\-1\)](https://open.spotify.com/track/3PAdRq6wr8XloSVdCneAMH) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [XIAOJUN](https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 3:18 | 2022-03-22 | 2022-04-17 |
@@ -300,7 +301,7 @@
 | [Marvelous](https://open.spotify.com/track/45op3j9bOEPAJnqq5gZ3Q5) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Marvelous \- MIRAE 3rd Mini Album](https://open.spotify.com/album/75m8JyqF8ZgDCk01v0QVoR) | 3:09 | 2022-01-12 | 2022-04-04 |
 | [MAVERICK](https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd Single Album \[MAVERICK\]](https://open.spotify.com/album/2nR7Wi1KtRYrDSqsCW8JVi) | 3:28 | 2022-03-22 | 2022-05-14 |
 | [ME= \(NANEUN\)](https://open.spotify.com/track/2fRzv9XVm3o5kk6ed5FjIU) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [= \(NEUN\)](https://open.spotify.com/album/5raCfFI9NNJyjsseHkdkPH) | 3:12 | 2022-11-17 | 2022-11-24 |
-| [MEDUSA](https://open.spotify.com/track/6ZhLGUfleWoL751FUIDUYl) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [÷ \(NANUGI\)](https://open.spotify.com/album/6OYLlrSEe5QxS89FQ5PpYr) | 2:48 | 2023-10-13 |  |
+| [MEDUSA](https://open.spotify.com/track/6ZhLGUfleWoL751FUIDUYl) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [÷ \(NANUGI\)](https://open.spotify.com/album/6OYLlrSEe5QxS89FQ5PpYr) | 2:48 | 2023-10-13 | 2023-10-24 |
 | [Memento](https://open.spotify.com/track/5BuvRDep3503zAgrOvfalf) | [IZ](https://open.spotify.com/artist/4XiZ3nAGoPv8K8IMktGc3b) | [Memento](https://open.spotify.com/album/3msXwm2ApxwHTjJNeCOosf) | 3:59 | 2022-03-22 | 2022-04-18 |
 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-23 |  |
 | [Midnight Sun](https://open.spotify.com/track/1o6OdD35Z7A1qtgIQKIWdg) | [Seven O'Clock](https://open.spotify.com/artist/4NeKLW82adFCE8Y6r50X1E) | [White Night](https://open.spotify.com/album/5mkUMTAVUZfE1zTkfI62EN) | 3:42 | 2022-03-22 | 2022-04-18 |
@@ -413,7 +414,7 @@
 | [SOMEONE'S SOMEONE](https://open.spotify.com/track/0nP9JFMx8z5QNl5Ph8ExEa) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SOMEONE'S SOMEONE](https://open.spotify.com/album/3CFYV1F2RIDoHyinrBv8y5) | 2:21 | 2021-12-08 | 2022-07-29 |
 | [SOS](https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [REALIEZ](https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0) | 3:11 | 2023-06-20 | 2023-09-02 |
 | [SOSO](https://open.spotify.com/track/5r8b02M37428Axrmya9Nrv) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [CROSS](https://open.spotify.com/album/3oDUvgzEoNkQfC0UCWHIPD) | 3:18 | 2022-01-27 | 2022-05-25 |
-| [Sour & Sweet](https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [Sour & Sweet](https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET) | 2:27 | 2023-03-31 | 2023-10-05 |
+| [Sour & Sweet](https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [Sour & Sweet](https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET) | 2:27 | 2023-03-31 |  |
 | [SPARK](https://open.spotify.com/track/7uUZ4nJhnKf7PQUcdUjxJM) | [JBJ95](https://open.spotify.com/artist/7G6wtLzZON7qJQ2Cw2kxVp) | [SPARK](https://open.spotify.com/album/4FsxA8z9EGHmnHnR2ogQOl) | 3:37 | 2021-12-08 | 2022-04-21 |
 | [SPIN OFF](https://open.spotify.com/track/6xstWwvswCDUclHQCRkLVZ) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [CONNECTION](https://open.spotify.com/album/6woaNcVnybcymVzGHZbdhG) | 3:25 | 2022-03-31 | 2022-04-17 |
 | [Splash](https://open.spotify.com/track/6jDg7fyZRymvKPYWdBxTgu) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Splash \- MIRAE 2nd Mini Album](https://open.spotify.com/album/6i4asWHVJ6ji44qYYSUakM) | 3:25 | 2022-03-31 | 2022-04-11 |
@@ -469,7 +470,7 @@
 | [ULlala: Poisoning](https://open.spotify.com/track/2KRW7vfIQXiuXchn8O1ISy) | [IN2IT](https://open.spotify.com/artist/43GYq8c6nVEgaEyg0qtzJd) | [PUZZLE](https://open.spotify.com/album/1qc2j0eoYT8fOYmtvnrE0U) | 3:12 | 2022-03-22 | 2022-04-04 |
 | [Valkyrie](https://open.spotify.com/track/0oNFVyzwK6TFdFHSsD1dmC) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [LIGHT US](https://open.spotify.com/album/6tSOZb6wWFG8EZdcxXDyli) | 3:27 | 2022-04-04 | 2022-05-10 |
 | [VAMOS](https://open.spotify.com/track/3JNgIY0WqPk3qgQapkFumz) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Mini Album 'VAMOS'](https://open.spotify.com/album/1RUIMYrQC6RBohtz83WP7a) | 3:30 | 2022-03-31 | 2022-04-12 |
-| [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 | 2022-04-04 |  |
+| [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 | 2022-04-04 | 2023-10-24 |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 | 2023-05-09 |  |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 | 2023-01-13 | 2023-05-01 |
 | [View](https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Odd \- The 4th Album](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) | 3:10 | 2022-03-22 | 2022-04-14 |

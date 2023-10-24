@@ -1,12 +1,12 @@
 {
   "description": "canto de tristeza porque lo nuestro termin\u00f3 ",
-  "num_followers": 61963,
+  "num_followers": 62027,
   "original_name": "perd\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTViYzhiMTc2N2NiMjZjNmYzZWE2ZmU2NzJiNDk4MmI5ZGQ5NWQ3",
+  "snapshot_id": "MCxiZDgwZTE2Y2JiODY4YTFmYzkyYzI2YmZmZTdmM2QwNGFlNjQ2NDg3",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Arriba Huentitan",
-        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Volver, Volver",
-      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
         "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
       },
@@ -367,6 +351,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Arriba Huentitan",
+        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Siempre En Mi Mente",
         "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
       },
@@ -379,30 +379,6 @@
       "duration_ms": 205866,
       "name": "Siempre en Mi Mente",
       "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Ricky Martin MTV Unplugged",
-        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Lamari",
-          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
-        },
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
-      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -467,6 +443,30 @@
       "duration_ms": 199482,
       "name": "Un Idiota",
       "url": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Ricky Martin MTV Unplugged",
+        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Lamari",
+          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
+        },
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
+      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -555,6 +555,26 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Que Sea",
+        "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "Que Sea",
+      "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Elypse",
         "url": "https://open.spotify.com/album/65GSNuB0XD97S7Xea0ppAC"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 222933,
       "name": "Este Terco Corazon",
       "url": "https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Que Sea",
-        "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "Que Sea",
-      "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "No Soy de Nadie",
+        "url": "https://open.spotify.com/album/66M8Q9vEqv3CBASWq19DwX"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 276355,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/1ZAkJE2vi1wbo7tyvgWuXN"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 190893,
       "name": "Por Qu\u00e9 Nos Dijimos Adi\u00f3s",
       "url": "https://open.spotify.com/track/738XO2aKhfoHC1yvySbBry"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "No Soy de Nadie",
-        "url": "https://open.spotify.com/album/66M8Q9vEqv3CBASWq19DwX"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 276355,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/1ZAkJE2vi1wbo7tyvgWuXN"
     },
     {
       "added_at": "2023-10-06 06:00:00",

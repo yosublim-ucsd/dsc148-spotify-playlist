@@ -4,7 +4,7 @@
 
 > Songs to skate to, curated by Sky Brown.
 
-41 songs - 2 hr 22 min
+42 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Sunsetz](https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 3:34 | 2023-08-01 | 2023-09-22 |
 | [Sunsetz](https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 3:35 | 2023-08-01 |  |
 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 | 2023-08-01 |  |
-| [The Grinch](https://open.spotify.com/track/1W24W6jQegnNh0x5DfBBPT) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/0tKX7BLXiiRgXUKYdJzjEz) | 1:31 | 2023-08-01 |  |
+| [The Grinch](https://open.spotify.com/track/1W24W6jQegnNh0x5DfBBPT) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/0tKX7BLXiiRgXUKYdJzjEz) | 1:31 | 2023-08-01 | 2023-10-24 |
+| [The Grinch](https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/5nDqjtvRwDYElIflvoNDdE) | 1:31 | 2023-08-01 |  |
 | [The Show Goes On](https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lasers](https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D) | 3:59 | 2023-08-01 |  |
 | [The Thrill](https://open.spotify.com/track/56oGoEjA9eTZYgsttEFKY3) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [The Thrill](https://open.spotify.com/album/4NtEHyzC02jvTLMERHn6Rw) | 3:54 | 2023-08-01 |  |
 | [U Are My High \(with Future\)](https://open.spotify.com/track/0ITaSRuI0L1RNL7ZNYTTi7) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [U Are My High \(with Future\)](https://open.spotify.com/album/3fG4IID2LEPJ7iBSsnVvuG) | 3:31 | 2023-08-01 |  |

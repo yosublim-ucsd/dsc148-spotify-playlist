@@ -5999,6 +5999,28 @@
     },
     {
       "album": {
+        "name": "It's You (Alan Braxe Remix)",
+        "url": "https://open.spotify.com/album/0KC0z52CypXX2vNTX8XX0h"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277085,
+      "name": "It's You - Alan Braxe Remix",
+      "url": "https://open.spotify.com/track/48tAxJPKyxs3KeIrKIzmuY"
+    },
+    {
+      "album": {
         "name": "It's Euphoric",
         "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
       },
@@ -6536,6 +6558,24 @@
       "duration_ms": 128571,
       "name": "Lights 2023",
       "url": "https://open.spotify.com/track/5qhIGSSV8s5wy8LSpZTmev"
+    },
+    {
+      "album": {
+        "name": "Mr. Tambourine Man / Like A Rolling Stone",
+        "url": "https://open.spotify.com/album/33gN6TGmTa8lRyWmEFGXpl"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396515,
+      "name": "Like A Rolling Stone - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/3rZIBBP3s8F4DiHxenSOjC"
     },
     {
       "album": {
@@ -7450,6 +7490,24 @@
       "duration_ms": 261000,
       "name": "Mr. Bubblegum",
       "url": "https://open.spotify.com/track/6dZa8SZpYFdGc5JVsZceiC"
+    },
+    {
+      "album": {
+        "name": "Mr. Tambourine Man / Like A Rolling Stone",
+        "url": "https://open.spotify.com/album/33gN6TGmTa8lRyWmEFGXpl"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389386,
+      "name": "Mr. Tambourine Man - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/1a4EjPsElUgNXx3io1DbIo"
     },
     {
       "album": {

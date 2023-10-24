@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,814 likes - 171 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,857 likes - 171 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 170 | [A Little Love](https://open.spotify.com/track/6dtFZkJdNJljSlWI9dL1kg) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 3:08 |
 | 171 | [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 |
 
-Snapshot ID: `MCw3ZjA4NWYwMTBhYWNlYjNlNWZiNWNiYjdlOGYzMjhhMTc2ZGQ5N2Fj`
+Snapshot ID: `MCxlOWVhMGZjYzMxNWIyMDQ4NzBmOGFkNTNlNGRiYzUwMzVhOGQ3MTZh`

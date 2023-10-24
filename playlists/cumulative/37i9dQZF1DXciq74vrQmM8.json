@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 96000,
       "name": "BRAIN ROT",
       "url": "https://open.spotify.com/track/2vD9qmvNiwfxJj7mtoWPMI"
@@ -2666,7 +2666,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 122360,
       "name": "Death Before Designer (feat. SosMula)",
       "url": "https://open.spotify.com/track/3hqDihPfqmf5tpybblro6a"
@@ -4458,7 +4458,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 220776,
       "name": "ghosts",
       "url": "https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC"
@@ -4870,6 +4870,32 @@
       "duration_ms": 72887,
       "name": "HAMMER 2 THE FACE",
       "url": "https://open.spotify.com/track/71cigvquE1L7X7V57uzdTl"
+    },
+    {
+      "album": {
+        "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204458,
+      "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
     },
     {
       "album": {
@@ -5394,6 +5420,24 @@
       "duration_ms": 166727,
       "name": "H\u00eb\u0142l\u0153 K\u012ftt\u00ff",
       "url": "https://open.spotify.com/track/2rgSmMnvuLApibAHhhJ8vI"
+    },
+    {
+      "album": {
+        "name": "I CAN'T FLY",
+        "url": "https://open.spotify.com/album/5E3LwMkc36cZjRAugUlI0o"
+      },
+      "artists": [
+        {
+          "name": "Anna Sofia",
+          "url": "https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149620,
+      "name": "I CAN'T FLY",
+      "url": "https://open.spotify.com/track/1N7gxaXwuUnPZxmJKECApJ"
     },
     {
       "album": {
@@ -5987,6 +6031,24 @@
     },
     {
       "album": {
+        "name": "Sick Boi",
+        "url": "https://open.spotify.com/album/1QIlhnFX2vOua9eLXNiUOg"
+      },
+      "artists": [
+        {
+          "name": "Ren",
+          "url": "https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190609,
+      "name": "Illest Of Our Time",
+      "url": "https://open.spotify.com/track/0q0nDhY5kJnyhykNxOAm53"
+    },
+    {
+      "album": {
         "name": "Happiness is an Inside Job",
         "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
       },
@@ -6284,6 +6346,24 @@
       "duration_ms": 134000,
       "name": "Jazz Music",
       "url": "https://open.spotify.com/track/6FeygLA7IUp6ivUbt1nwVk"
+    },
+    {
+      "album": {
+        "name": "jeLLiefish aPocaLypsE",
+        "url": "https://open.spotify.com/album/39lTvjIUK8VDyV5o6AqePB"
+      },
+      "artists": [
+        {
+          "name": "tiLLie",
+          "url": "https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145651,
+      "name": "jeLLiefish aPocaLypsE",
+      "url": "https://open.spotify.com/track/5R8UCyOosnFz00nwrY5v38"
     },
     {
       "album": {
@@ -7225,6 +7305,36 @@
     },
     {
       "album": {
+        "name": "vol.2",
+        "url": "https://open.spotify.com/album/66RoiMDXjnOpKoVzHVqWvg"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        },
+        {
+          "name": "Loathe",
+          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        },
+        {
+          "name": "BVDLVD",
+          "url": "https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS"
+        },
+        {
+          "name": "Hail The Sun",
+          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Lye solution (feat. Loathe, BVDLVD & Hail The Sun)",
+      "url": "https://open.spotify.com/track/7tRZ9xUlwdpEkRyew9Sk5v"
+    },
+    {
+      "album": {
         "name": "My Agenda",
         "url": "https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF"
       },
@@ -7330,6 +7440,24 @@
       "duration_ms": 140049,
       "name": "Mandy",
       "url": "https://open.spotify.com/track/0XXG3I04gjwqU9Q8rxQk8y"
+    },
+    {
+      "album": {
+        "name": "Sick Boi",
+        "url": "https://open.spotify.com/album/1QIlhnFX2vOua9eLXNiUOg"
+      },
+      "artists": [
+        {
+          "name": "Ren",
+          "url": "https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "Masochist",
+      "url": "https://open.spotify.com/track/4YLqrcnj8weIaJ8YxEvqrf"
     },
     {
       "album": {
@@ -7842,6 +7970,24 @@
       "duration_ms": 62270,
       "name": "MOTHERFUCKER",
       "url": "https://open.spotify.com/track/6X8VMfcQXjdwMHOSuS1ULl"
+    },
+    {
+      "album": {
+        "name": "Motorbike",
+        "url": "https://open.spotify.com/album/6KuekGFTXLpJU73y7jXqG0"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146762,
+      "name": "Motorbike",
+      "url": "https://open.spotify.com/track/2HYay9cjoX0v5mgOaQFufh"
     },
     {
       "album": {
@@ -9672,7 +9818,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 193173,
       "name": "sacrifice/surrender",
       "url": "https://open.spotify.com/track/4HB55BRbNxoynvMFxrVlco"
@@ -10120,6 +10266,24 @@
       "duration_ms": 177952,
       "name": "SINS",
       "url": "https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW"
+    },
+    {
+      "album": {
+        "name": "SIRENCORE",
+        "url": "https://open.spotify.com/album/6n2tAWkRPOee0giRslcyb4"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183370,
+      "name": "SIRENCORE",
+      "url": "https://open.spotify.com/track/2MZyaw5TUlYexpTEw7NyK7"
     },
     {
       "album": {

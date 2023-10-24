@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,760 likes - 77 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,038 likes - 77 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 23 | [Gitana](https://open.spotify.com/track/6uYPlED0KRKGhRVrOAQfov) | [JC Arcila](https://open.spotify.com/artist/1qW7P4wsDj1nz8SSS99weV), [Kobba](https://open.spotify.com/artist/1dLn9atu3IGUNdCc96zlbU) | [Gitana](https://open.spotify.com/album/7cZqsW8nj6nmgzeqVL5uTk) | 2:38 |
 | 24 | [Que Rico](https://open.spotify.com/track/0fmN1RrpEOH9yG99S1Upuo) | [JC Arcila](https://open.spotify.com/artist/1qW7P4wsDj1nz8SSS99weV), [Chris Salgado](https://open.spotify.com/artist/3tTY8XzN1jKcMRbazoNDVg), [Carmelo](https://open.spotify.com/artist/59PtpspMQiow7dtMuoWWW4) | [Que Rico](https://open.spotify.com/album/54q0WA6Zq3IB3aMZJlWZtA) | 2:47 |
 | 25 | [Runaway \(U & I\)](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:47 |
-| 26 | [Five Hours](https://open.spotify.com/track/3haS1MDe2Zh8jJaeiiymSt) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Five Hours](https://open.spotify.com/album/6qBYhiSsjPux8YODj3YX3e) | 5:26 |
+| 26 | [Five Hours](https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Five Hours](https://open.spotify.com/album/3hM67HrtJ55aUC5TGt66Za) | 5:26 |
 | 27 | [Spaceships](https://open.spotify.com/track/1Szod3mLKHywl09AOy08Xc) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp) | [Spaceships](https://open.spotify.com/album/7FdgB34edYkJcORi7dAXGi) | 2:49 |
 | 28 | [Where Are Ü Now \(with Justin Bieber\)](https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f) | [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Skrillex and Diplo present Jack Ü](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd) | 4:10 |
 | 29 | [Forbidden Voices](https://open.spotify.com/track/6EsH66Uto1zwZlDGQ6RokU) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Forbidden Voices](https://open.spotify.com/album/3COyh97TYskmV4cOqPed49) | 3:50 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 76 | [Melody](https://open.spotify.com/track/5Qxw0150DBPE5HErLTrxgs) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Melody](https://open.spotify.com/album/3Oalgg5eo0p3U1vyR1ynYS) | 4:50 |
 | 77 | [Que Tu Me Beses](https://open.spotify.com/track/6Ovu5z78GJ4TE47vAaP7MU) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [JUAN JHAIL](https://open.spotify.com/artist/4xBrxEMkW8Jbh9XPpELUpU) | [Que Tu Me Beses](https://open.spotify.com/album/2gMHWHrMIbphy7VP2YN8w8) | 3:06 |
 
-Snapshot ID: `MCxiNjk0MDNjYzI2ZmZjZWMzOTAzYzg4N2YwYThjYzUxYzY5MDlhZjlj`
+Snapshot ID: `MCxmYWNmYTdiZDAzNTdjNzk1NTMyMGM2NDcyYjZjMDM5MzZjZWFhNWZi`

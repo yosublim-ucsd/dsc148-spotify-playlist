@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Czech Republic.",
-  "num_followers": 68707,
+  "num_followers": 68713,
   "original_name": "Top 50 - Czech Republic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUxMzM5MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUxNDI1NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "Planeta opic",
         "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6AMZm12a1B2kpgN7qOA7Cy"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "Planeta opic",
         "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/1BE9PBZnXNbc6xh8jdbC7i"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "Planeta opic",
+        "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 145035,
+      "name": "Kdes to vzal?",
+      "url": "https://open.spotify.com/track/2FTi3HC3D99tmuDEakF6kD"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "Planeta opic",
         "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
@@ -61,23 +77,7 @@
       "url": "https://open.spotify.com/track/7z260Mol7Xvxetkwx55dL4"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "Planeta opic",
-        "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 145035,
-      "name": "Kdes to vzal?",
-      "url": "https://open.spotify.com/track/2FTi3HC3D99tmuDEakF6kD"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "ROADTRIP",
         "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "Kures Drill",
         "url": "https://open.spotify.com/album/4IsnFljZY7pcz5fhHBe7Q6"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/6AZaXcXWfcFgJRgl4bsgvD"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "Planeta opic",
         "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
@@ -133,23 +133,7 @@
       "url": "https://open.spotify.com/track/1LWzGlLSdd2YFxuVxElL4O"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "Planeta opic",
-        "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Ujde to",
-      "url": "https://open.spotify.com/track/6YmJ7h3IB28IngbwOfQRyO"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "SILENT KILL",
         "url": "https://open.spotify.com/album/5Kvsax24e30kw6ytzutu4A"
@@ -169,7 +153,71 @@
       "url": "https://open.spotify.com/track/47amAylHisxb5vuPLGQ72x"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "Planeta opic",
+        "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Ujde to",
+      "url": "https://open.spotify.com/track/6YmJ7h3IB28IngbwOfQRyO"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "Planeta opic",
+        "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 140279,
+      "name": "Na v\u011btvi",
+      "url": "https://open.spotify.com/track/6AiGgiBQ2P9OshmyTCxyhQ"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "Planeta opic",
         "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
@@ -189,23 +237,23 @@
       "url": "https://open.spotify.com/track/1YhNXxwdWsbRnQikEAtNt6"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
-        "name": "Planeta opic",
-        "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
       },
       "artists": [
         {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 140279,
-      "name": "Na v\u011btvi",
-      "url": "https://open.spotify.com/track/6AiGgiBQ2P9OshmyTCxyhQ"
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "Planeta opic",
         "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
@@ -225,123 +273,7 @@
       "url": "https://open.spotify.com/track/2O8NHyMqPLRvbjt9wGZZBT"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "PROJECT\u239c23",
-        "url": "https://open.spotify.com/album/1vFLJs28d3t24ltDMgCORz"
-      },
-      "artists": [
-        {
-          "name": "Sofian Medjmedj",
-          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
-        },
-        {
-          "name": "Ben Cristovao",
-          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
-        }
-      ],
-      "duration_ms": 150926,
-      "name": "Slzy",
-      "url": "https://open.spotify.com/track/2aSjZFDJyTmakHyPxsEScQ"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "Si No Est\u00e1s",
-        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
-      },
-      "artists": [
-        {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 184061,
-      "name": "Si No Est\u00e1s",
-      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "Planeta opic",
-        "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 204179,
-      "name": "Domov m\u016fj",
-      "url": "https://open.spotify.com/track/732l7cwEzEDiliwJfAm9fa"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "Planeta opic",
-        "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 111000,
-      "name": "S\u00e1m proti sob\u011b",
-      "url": "https://open.spotify.com/track/5piKQybO9jiWwRADTjUNbz"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "PRESIDENT OF SEXICO",
         "url": "https://open.spotify.com/album/3nkaxDNhc38JqBWqvHQACD"
@@ -357,7 +289,55 @@
       "url": "https://open.spotify.com/track/5VEXEXffwn8Tc4o45GDznd"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "Planeta opic",
+        "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 204179,
+      "name": "Domov m\u016fj",
+      "url": "https://open.spotify.com/track/732l7cwEzEDiliwJfAm9fa"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "Planeta opic",
+        "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 111000,
+      "name": "S\u00e1m proti sob\u011b",
+      "url": "https://open.spotify.com/track/5piKQybO9jiWwRADTjUNbz"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "Planeta opic",
         "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
@@ -373,55 +353,7 @@
       "url": "https://open.spotify.com/track/2CUSISoJHsVlanxEfaRn7k"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "Planeta opic",
-        "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Ape Song",
-      "url": "https://open.spotify.com/track/7HGH1kLRr6niK7GCdleGxY"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "Givenchy",
-        "url": "https://open.spotify.com/album/7iozutogFmMyQFGzOBEsuE"
-      },
-      "artists": [
-        {
-          "name": "Robin Zoot",
-          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Givenchy",
-      "url": "https://open.spotify.com/track/7Fi6u0busMFneo0kh4x8dB"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "Planeta opic",
-        "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "M\u016fj space",
-      "url": "https://open.spotify.com/track/1uahoKMYaJgzqsfRIdFU4z"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -437,7 +369,71 @@
       "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "Planeta opic",
+        "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Ape Song",
+      "url": "https://open.spotify.com/track/7HGH1kLRr6niK7GCdleGxY"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "Givenchy",
+        "url": "https://open.spotify.com/album/7iozutogFmMyQFGzOBEsuE"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        }
+      ],
+      "duration_ms": 181224,
+      "name": "Givenchy",
+      "url": "https://open.spotify.com/track/7Fi6u0busMFneo0kh4x8dB"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "Planeta opic",
+        "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "M\u016fj space",
+      "url": "https://open.spotify.com/track/1uahoKMYaJgzqsfRIdFU4z"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "Planeta opic",
         "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
@@ -457,7 +453,7 @@
       "url": "https://open.spotify.com/track/5R4Ura4Wazydkl2N8VnaER"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "ROADTRIP",
         "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
@@ -477,7 +473,7 @@
       "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "Brick na brick",
         "url": "https://open.spotify.com/album/6TX0UkYw0QXF3T7tRXhRBs"
@@ -493,7 +489,7 @@
       "url": "https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "U H\u0159i\u0161t\u011b 380",
         "url": "https://open.spotify.com/album/3y4coZ0Da0Ckj48xDmfyYO"
@@ -513,7 +509,7 @@
       "url": "https://open.spotify.com/track/0FpgtEgaMZSUw2RAD7JHGs"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
@@ -529,23 +525,7 @@
       "url": "https://open.spotify.com/track/2sXnat46y10FtAbW2A0ira"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -569,27 +549,23 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
-        "name": "ROADTRIP",
-        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
+        "name": "Long Way Down (Deluxe)",
+        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
       "artists": [
         {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 168923,
-      "name": "Cik\u00e1dy",
-      "url": "https://open.spotify.com/track/4enbO9cZhJLSZ6Tf21LRnv"
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "PRESIDENT OF SEXICO",
         "url": "https://open.spotify.com/album/3nkaxDNhc38JqBWqvHQACD"
@@ -613,23 +589,27 @@
       "url": "https://open.spotify.com/track/1ipAABlNuyDxSeaeTvjbVc"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
-        "name": "Sliby & L\u017ei",
-        "url": "https://open.spotify.com/album/5rRNoU2JbxfgQ7SOdHxKUl"
+        "name": "PROJECT\u239c23",
+        "url": "https://open.spotify.com/album/1vFLJs28d3t24ltDMgCORz"
       },
       "artists": [
         {
-          "name": "\u0160KWOR",
-          "url": "https://open.spotify.com/artist/5gRumjUBK1fHfuOlQxspJ9"
+          "name": "Sofian Medjmedj",
+          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
+        },
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
         }
       ],
-      "duration_ms": 174666,
-      "name": "S\u00edla Starejch V\u00edn",
-      "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"
+      "duration_ms": 150926,
+      "name": "Slzy",
+      "url": "https://open.spotify.com/track/2aSjZFDJyTmakHyPxsEScQ"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/5Dy1C7EaEsdJIhjCr2wbK5"
@@ -645,7 +625,7 @@
       "url": "https://open.spotify.com/track/03RojRDRvvbFEPpabo3Aan"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
@@ -661,7 +641,27 @@
       "url": "https://open.spotify.com/track/163UXyyrFlAIQapVN3DqIp"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "ROADTRIP",
+        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 168923,
+      "name": "Cik\u00e1dy",
+      "url": "https://open.spotify.com/track/4enbO9cZhJLSZ6Tf21LRnv"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "\u010cernob\u00edlej sv\u011bt",
         "url": "https://open.spotify.com/album/09YHBplLJ8UR90lOdCzXfx"
@@ -689,39 +689,7 @@
       "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "Long Way Down (Deluxe)",
-        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "Sant\u00e9",
-        "url": "https://open.spotify.com/album/3pYgvRN1KdLBR9GLUcB4iB"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Sant\u00e9",
-      "url": "https://open.spotify.com/track/4ToxkJ4VvWs026R3QfHDI3"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "PRESIDENT OF SEXICO",
         "url": "https://open.spotify.com/album/3nkaxDNhc38JqBWqvHQACD"
@@ -737,7 +705,71 @@
       "url": "https://open.spotify.com/track/0uqziJ0jXgIl13movC27ut"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "Sant\u00e9",
+        "url": "https://open.spotify.com/album/3pYgvRN1KdLBR9GLUcB4iB"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Sant\u00e9",
+      "url": "https://open.spotify.com/track/4ToxkJ4VvWs026R3QfHDI3"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "ecstacy (slowed)",
+        "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
+      },
+      "artists": [
+        {
+          "name": "SUICIDAL-IDOL",
+          "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
+        }
+      ],
+      "duration_ms": 119120,
+      "name": "ecstacy (slowed)",
+      "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "Sliby & L\u017ei",
+        "url": "https://open.spotify.com/album/5rRNoU2JbxfgQ7SOdHxKUl"
+      },
+      "artists": [
+        {
+          "name": "\u0160KWOR",
+          "url": "https://open.spotify.com/artist/5gRumjUBK1fHfuOlQxspJ9"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "S\u00edla Starejch V\u00edn",
+      "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -757,23 +789,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "FLOWDEMORT",
         "url": "https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK"
@@ -797,55 +813,7 @@
       "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "ecstacy (slowed)",
-        "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
-      },
-      "artists": [
-        {
-          "name": "SUICIDAL-IDOL",
-          "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
-        }
-      ],
-      "duration_ms": 119120,
-      "name": "ecstacy (slowed)",
-      "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "Nikdy Nic Nebylo",
-        "url": "https://open.spotify.com/album/68gmC2ApdLfyDv43MeHsIL"
-      },
-      "artists": [
-        {
-          "name": "Sto zv\u00ed\u0159at",
-          "url": "https://open.spotify.com/artist/4fLCFZWbgAALL8veJBj8lX"
-        }
-      ],
-      "duration_ms": 130520,
-      "name": "Nikdy Nic Nebylo",
-      "url": "https://open.spotify.com/track/3rKPRnYJ5b89bv5ZsLrogK"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
-      "album": {
-        "name": "NSD",
-        "url": "https://open.spotify.com/album/55ZG26h2u7eSkBVxCNachx"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 215171,
-      "name": "Ibalgin",
-      "url": "https://open.spotify.com/track/4UZ91aYQisCeUTyaw0YxZ2"
-    },
-    {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
@@ -873,7 +841,23 @@
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "NSD",
+        "url": "https://open.spotify.com/album/55ZG26h2u7eSkBVxCNachx"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 215171,
+      "name": "Ibalgin",
+      "url": "https://open.spotify.com/track/4UZ91aYQisCeUTyaw0YxZ2"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
       "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
@@ -889,20 +873,36 @@
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2023-10-22 09:00:40",
+      "added_at": "2023-10-23 08:48:15",
       "album": {
-        "name": "Corrida",
-        "url": "https://open.spotify.com/album/5saPJqUMK2xlnsPX1xZBKO"
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
       "artists": [
         {
-          "name": "Kab\u00e1t",
-          "url": "https://open.spotify.com/artist/2f1Czzz5n4BX80U6cksGr9"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 203567,
-      "name": "Mal\u00e1 d\u00e1ma",
-      "url": "https://open.spotify.com/track/6Le5KOUhQgU4PQNkcX6sP4"
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2023-10-23 08:48:15",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     }
   ],
   "unique_name": "Top 50 - Czech Republic",

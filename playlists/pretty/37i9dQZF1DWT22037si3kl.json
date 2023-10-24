@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Ig\u00e3o",
-  "num_followers": 129638,
+  "num_followers": 129890,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGZlNjcwNjFhYTU4MzI2MWZjYWIzYmM3YTg4Y2VlNTRlMzgwYzhk",
+  "snapshot_id": "MCxjNmYxMDRjYjNkZWM2NjIxMjJjMGUwYWU2NzgyZTBkMWNlYmIzMTMx",
   "tracks": [
     {
       "added_at": "2023-10-20 03:24:18",
@@ -163,6 +163,74 @@
     {
       "added_at": "2023-10-20 03:24:18",
       "album": {
+        "name": "Dos Pr\u00e9dios",
+        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nick Nash",
+          "url": "https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN"
+        },
+        {
+          "name": "Wylo",
+          "url": "https://open.spotify.com/artist/59gFRpopXIytwMDYDggebp"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "duration_ms": 210545,
+      "name": "Vida Chique",
+      "url": "https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li"
+    },
+    {
+      "added_at": "2023-10-20 03:24:18",
+      "album": {
+        "name": "Meca Cereja",
+        "url": "https://open.spotify.com/album/3gCKmwdF0znVzCsHgSFMmC"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 234193,
+      "name": "Meca Cereja",
+      "url": "https://open.spotify.com/track/52kcarcX0FQ6wPulXm2bMJ"
+    },
+    {
+      "added_at": "2023-10-20 03:24:18",
+      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -275,38 +343,22 @@
     {
       "added_at": "2023-10-20 03:24:18",
       "album": {
-        "name": "Dos Pr\u00e9dios",
-        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
+        "name": "237",
+        "url": "https://open.spotify.com/album/3VGvkH5X8bhjIV0rSohaVU"
       },
       "artists": [
         {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
         },
         {
-          "name": "Nick Nash",
-          "url": "https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN"
-        },
-        {
-          "name": "Wylo",
-          "url": "https://open.spotify.com/artist/59gFRpopXIytwMDYDggebp"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+          "name": "Volp",
+          "url": "https://open.spotify.com/artist/2ah2WCoHcs7sT0e6NfQBeZ"
         }
       ],
-      "duration_ms": 210545,
-      "name": "Vida Chique",
-      "url": "https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li"
+      "duration_ms": 172003,
+      "name": "Leans, Pt. 2",
+      "url": "https://open.spotify.com/track/0GsQzTpegvifzQZ4wXsCZ2"
     },
     {
       "added_at": "2023-10-20 03:24:18",
@@ -331,58 +383,6 @@
       "duration_ms": 142026,
       "name": "Maturidade",
       "url": "https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA"
-    },
-    {
-      "added_at": "2023-10-20 03:24:18",
-      "album": {
-        "name": "Meca Cereja",
-        "url": "https://open.spotify.com/album/3gCKmwdF0znVzCsHgSFMmC"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 234193,
-      "name": "Meca Cereja",
-      "url": "https://open.spotify.com/track/52kcarcX0FQ6wPulXm2bMJ"
-    },
-    {
-      "added_at": "2023-10-20 03:24:18",
-      "album": {
-        "name": "237",
-        "url": "https://open.spotify.com/album/3VGvkH5X8bhjIV0rSohaVU"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Volp",
-          "url": "https://open.spotify.com/artist/2ah2WCoHcs7sT0e6NfQBeZ"
-        }
-      ],
-      "duration_ms": 172003,
-      "name": "Leans, Pt. 2",
-      "url": "https://open.spotify.com/track/0GsQzTpegvifzQZ4wXsCZ2"
     },
     {
       "added_at": "2023-10-20 03:24:18",
@@ -443,110 +443,6 @@
       "duration_ms": 157608,
       "name": "Feir\u00e3o dos 23",
       "url": "https://open.spotify.com/track/4V1MOX0xhbRroh6YBmAVZg"
-    },
-    {
-      "added_at": "2023-10-20 03:24:18",
-      "album": {
-        "name": "EVDC DELUXE",
-        "url": "https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4"
-      },
-      "artists": [
-        {
-          "name": "Ryu, the Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        },
-        {
-          "name": "Neckklace",
-          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
-        }
-      ],
-      "duration_ms": 159298,
-      "name": "Vandame",
-      "url": "https://open.spotify.com/track/33pxk7eQUhrZI2tiuMd4zZ"
-    },
-    {
-      "added_at": "2023-10-20 03:24:18",
-      "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 184277,
-      "name": "cora\u00e7\u00e3o gelado",
-      "url": "https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2"
-    },
-    {
-      "added_at": "2023-10-20 03:24:18",
-      "album": {
-        "name": "Lista De Contato",
-        "url": "https://open.spotify.com/album/03uQr7q1MyOiW7qOQ1atNG"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Ryu, the Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 122826,
-      "name": "Lista De Contato",
-      "url": "https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M"
-    },
-    {
-      "added_at": "2023-10-20 03:24:18",
-      "album": {
-        "name": "Vit\u00f3ria Dobrada",
-        "url": "https://open.spotify.com/album/68ZbRbgtvH2JBiqC5nCx6f"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Mozin",
-          "url": "https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Vit\u00f3ria Dobrada",
-      "url": "https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL"
     },
     {
       "added_at": "2023-10-20 03:24:18",
@@ -619,6 +515,50 @@
     {
       "added_at": "2023-10-20 03:24:18",
       "album": {
+        "name": "EVDC DELUXE",
+        "url": "https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4"
+      },
+      "artists": [
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        }
+      ],
+      "duration_ms": 159298,
+      "name": "Vandame",
+      "url": "https://open.spotify.com/track/33pxk7eQUhrZI2tiuMd4zZ"
+    },
+    {
+      "added_at": "2023-10-20 03:24:18",
+      "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 184277,
+      "name": "cora\u00e7\u00e3o gelado",
+      "url": "https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2"
+    },
+    {
+      "added_at": "2023-10-20 03:24:18",
+      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -643,6 +583,66 @@
       "duration_ms": 136464,
       "name": "Superficial",
       "url": "https://open.spotify.com/track/6EOLDQz2rjwpZ2M5rApgH4"
+    },
+    {
+      "added_at": "2023-10-20 03:24:18",
+      "album": {
+        "name": "Lista De Contato",
+        "url": "https://open.spotify.com/album/03uQr7q1MyOiW7qOQ1atNG"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 122826,
+      "name": "Lista De Contato",
+      "url": "https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M"
+    },
+    {
+      "added_at": "2023-10-20 03:24:18",
+      "album": {
+        "name": "Vit\u00f3ria Dobrada",
+        "url": "https://open.spotify.com/album/68ZbRbgtvH2JBiqC5nCx6f"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Mozin",
+          "url": "https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Vit\u00f3ria Dobrada",
+      "url": "https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL"
     },
     {
       "added_at": "2023-10-20 03:24:18",
@@ -679,6 +679,34 @@
       "duration_ms": 304000,
       "name": "Assault (Carro Forte)",
       "url": "https://open.spotify.com/track/7BwjZ1jy4B0ZyXTY4YQM9A"
+    },
+    {
+      "added_at": "2023-10-20 03:24:18",
+      "album": {
+        "name": "Clickbait",
+        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 161344,
+      "name": "Clickbait",
+      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
     },
     {
       "added_at": "2023-10-20 03:24:18",
@@ -723,34 +751,6 @@
       "duration_ms": 201869,
       "name": "Ensinamento do Pai",
       "url": "https://open.spotify.com/track/2eYtp7oSUhIXIVEXTCK9r4"
-    },
-    {
-      "added_at": "2023-10-20 03:24:18",
-      "album": {
-        "name": "Clickbait",
-        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 161344,
-      "name": "Clickbait",
-      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
     },
     {
       "added_at": "2023-10-20 03:24:18",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-10-20 03:24:18",
       "album": {
+        "name": "Atg Tape",
+        "url": "https://open.spotify.com/album/7jKnLvcgsCQZuwpW3xJwVo"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Offlei Sounds",
+          "url": "https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC"
+        }
+      ],
+      "duration_ms": 152452,
+      "name": "Tiffany",
+      "url": "https://open.spotify.com/track/5soSqklbrft67wPAkQrfzR"
+    },
+    {
+      "added_at": "2023-10-20 03:24:18",
+      "album": {
         "name": "Vida Cara (Deluxe)",
         "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
       },
@@ -883,30 +903,6 @@
     {
       "added_at": "2023-10-20 03:24:18",
       "album": {
-        "name": "Ascens\u00e3o do Cisne Negro",
-        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 206869,
-      "name": "Show Lotado",
-      "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
-    },
-    {
-      "added_at": "2023-10-20 03:24:18",
-      "album": {
         "name": "Meu Amigo Di\u00e1rio, Vol. 1 - M.A.D",
         "url": "https://open.spotify.com/album/681qRc7HzASc5cALLkOFLO"
       },
@@ -939,26 +935,6 @@
     {
       "added_at": "2023-10-20 03:24:18",
       "album": {
-        "name": "Atg Tape",
-        "url": "https://open.spotify.com/album/7jKnLvcgsCQZuwpW3xJwVo"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Offlei Sounds",
-          "url": "https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC"
-        }
-      ],
-      "duration_ms": 152452,
-      "name": "Tiffany",
-      "url": "https://open.spotify.com/track/5soSqklbrft67wPAkQrfzR"
-    },
-    {
-      "added_at": "2023-10-20 03:24:18",
-      "album": {
         "name": "Londres Freestyle",
         "url": "https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU"
       },
@@ -983,58 +959,6 @@
       "duration_ms": 128000,
       "name": "Londres Freestyle",
       "url": "https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr"
-    },
-    {
-      "added_at": "2023-10-20 03:24:18",
-      "album": {
-        "name": "TAURUS",
-        "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "99 Problemas",
-      "url": "https://open.spotify.com/track/5dFYzcIVBUCu6YIix6cdNw"
-    },
-    {
-      "added_at": "2023-10-20 03:24:18",
-      "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "DomLaike",
-          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        }
-      ],
-      "duration_ms": 307692,
-      "name": "Vida Cara",
-      "url": "https://open.spotify.com/track/0XHJ2LfnrETLopLCt6xBY6"
     },
     {
       "added_at": "2023-10-20 03:24:18",
@@ -1087,6 +1011,82 @@
       "duration_ms": 191867,
       "name": "Reino na Terra",
       "url": "https://open.spotify.com/track/7lY80jq9loXF9fc2mW3OB3"
+    },
+    {
+      "added_at": "2023-10-20 03:24:18",
+      "album": {
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 206869,
+      "name": "Show Lotado",
+      "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
+    },
+    {
+      "added_at": "2023-10-20 03:24:18",
+      "album": {
+        "name": "TAURUS",
+        "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "99 Problemas",
+      "url": "https://open.spotify.com/track/5dFYzcIVBUCu6YIix6cdNw"
+    },
+    {
+      "added_at": "2023-10-20 03:24:18",
+      "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        }
+      ],
+      "duration_ms": 307692,
+      "name": "Vida Cara",
+      "url": "https://open.spotify.com/track/0XHJ2LfnrETLopLCt6xBY6"
     },
     {
       "added_at": "2023-10-20 03:24:18",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2023-10-20 03:24:18",
       "album": {
+        "name": "Loyalty",
+        "url": "https://open.spotify.com/album/6Mb93xMq97OqX2SmKU29xw"
+      },
+      "artists": [
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Jojo Baby",
+          "url": "https://open.spotify.com/artist/6PZt0GDf28Kg2smT0qq1nM"
+        }
+      ],
+      "duration_ms": 204839,
+      "name": "Loyalty",
+      "url": "https://open.spotify.com/track/1tVENMDCXyu32b8xFTZT5z"
+    },
+    {
+      "added_at": "2023-10-20 03:24:18",
+      "album": {
         "name": "Vida Cara (Deluxe)",
         "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 145454,
       "name": "Bottega Veneta",
       "url": "https://open.spotify.com/track/12A2LExOGBY6aM9euKv2cJ"
-    },
-    {
-      "added_at": "2023-10-20 03:24:18",
-      "album": {
-        "name": "Loyalty",
-        "url": "https://open.spotify.com/album/6Mb93xMq97OqX2SmKU29xw"
-      },
-      "artists": [
-        {
-          "name": "Malcolm VL",
-          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
-        },
-        {
-          "name": "Jojo Baby",
-          "url": "https://open.spotify.com/artist/6PZt0GDf28Kg2smT0qq1nM"
-        }
-      ],
-      "duration_ms": 204839,
-      "name": "Loyalty",
-      "url": "https://open.spotify.com/track/1tVENMDCXyu32b8xFTZT5z"
     },
     {
       "added_at": "2023-10-20 03:24:18",

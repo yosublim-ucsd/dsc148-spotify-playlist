@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Olivia García\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,516 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,514 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 34 | [¿Cuánto Cotizará Mi Alma?](https://open.spotify.com/track/3HzRUVUhEB5upfj92jcPpI) | [Amelia](https://open.spotify.com/artist/54DOvUaX10WtpRddMhbI4P) | [¿Cuánto Cotizará Mi Alma?](https://open.spotify.com/album/4kQXXs8lhIt8Q3vSLQCO9P) | 3:47 |
 | 35 | [Queen Of Colombia](https://open.spotify.com/track/6nhyIjR1CkE1nmZqfvEpl3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Queen Of Colombia](https://open.spotify.com/album/2oBTmcMFzlhTHcw7TqB3cK) | 2:55 |
 | 36 | [Pienso en vos](https://open.spotify.com/track/1c0EhzGr82yULGW3ebKX74) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Pienso en vos](https://open.spotify.com/album/6xhpQWkWXC8M1aTSlytBHq) | 2:14 |
-| 37 | [MI CLON](https://open.spotify.com/track/6EirSWHP9Q1it8S74vvg6o) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [VEINTIDÓS](https://open.spotify.com/album/3bjUM3AMFcaf19XbBRfcPH) | 3:15 |
-| 38 | [Alocate](https://open.spotify.com/track/2lrkyyy1rvS9sT7Nf0flYz) | [JerrySAN](https://open.spotify.com/artist/2lou6Y1PGYhtKFDqdLoN2r) | [Alocate](https://open.spotify.com/album/0UQCMdISZ8ITpQ3a9kCJMJ) | 2:26 |
+| 37 | [Alocate](https://open.spotify.com/track/2lrkyyy1rvS9sT7Nf0flYz) | [JerrySAN](https://open.spotify.com/artist/2lou6Y1PGYhtKFDqdLoN2r) | [Alocate](https://open.spotify.com/album/0UQCMdISZ8ITpQ3a9kCJMJ) | 2:26 |
+| 38 | [MI CLON](https://open.spotify.com/track/6EirSWHP9Q1it8S74vvg6o) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [VEINTIDÓS](https://open.spotify.com/album/3bjUM3AMFcaf19XbBRfcPH) | 3:15 |
 | 39 | [Levita](https://open.spotify.com/track/1U66GdBkvUEgF6wDo1O87d) | [JACE Carrillo](https://open.spotify.com/artist/3SkH0TcPc8cxGospxnjClx) | [Phenomena](https://open.spotify.com/album/0TSn5qofrwyg49HNrt1N1k) | 3:01 |
 | 40 | [la gravedad](https://open.spotify.com/track/5yxTppo1pOxR1yYtONIUrJ) | [mediopicky](https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm) | [la gravedad](https://open.spotify.com/album/5Q7zP1RICrgVrQY2JEK4IM) | 2:17 |
 | 41 | [Delirando](https://open.spotify.com/track/2YK1bWEZYctEqUmk6dnTFi) | [Eloisa](https://open.spotify.com/artist/1GbHLsyBjx0L5uJoPRoelG) | [Delirando](https://open.spotify.com/album/5IO7Xu0Nb5gP9DqNLsA0zf) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [El Espejo](https://open.spotify.com/track/0wqKDRWbMCI1nAAkVcruhB) | [Juan Astronauta](https://open.spotify.com/artist/4pcBzfDpLQElWkjEif8BI3) | [El Espejo](https://open.spotify.com/album/5lZgcWviJISsiFoBMnX7d5) | 3:44 |
 | 50 | [aguanta cine](https://open.spotify.com/track/0plt2LEHt0VR7HFMxnpXFP) | [El Perri De Matt](https://open.spotify.com/artist/2G8obXWuz3LmXSAstk0nmA) | [aguanta cine](https://open.spotify.com/album/4MGKawfEHL16KNAS9x8EG9) | 5:00 |
 
-Snapshot ID: `MCwxNGJiZDM4OTA3OWRhYWFhODFmZWZjMzAyMmMxNzhhYTc3YzEzNzVi`
+Snapshot ID: `MCxlZDRjMDRkOGU0ODc5YTM0NmY4ODE5OGU0NWE0NjhhNzBiN2ZlY2Zh`

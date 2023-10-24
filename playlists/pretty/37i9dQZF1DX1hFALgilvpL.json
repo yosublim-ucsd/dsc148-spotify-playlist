@@ -1,12 +1,12 @@
 {
   "description": "Cuddle up and relax with these country tunes.",
-  "num_followers": 48476,
+  "num_followers": 48780,
   "original_name": "Cozy Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzZhZjgxZGYyMTRmNjZmYWY0ODJmNDlmN2I0NmM5NGQ3MDdmOTBk",
+  "snapshot_id": "MCwyMTZlMDYyODcwZjMyMTBmNmU4NTZlMTZiNGFmMTg2OTM4MzRlOWVi",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 293293,
+      "name": "Tennessee Whiskey",
+      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 193200,
       "name": "Beautiful Crazy",
       "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "The Painter",
-        "url": "https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 211413,
-      "name": "The Painter",
-      "url": "https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+        "name": "The Painter",
+        "url": "https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 293293,
-      "name": "Tennessee Whiskey",
-      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
+      "duration_ms": 211413,
+      "name": "The Painter",
+      "url": "https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -191,22 +191,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        },
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 167480,
-      "name": "Buy Dirt",
-      "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
+      "duration_ms": 213493,
+      "name": "You Should Probably Leave",
+      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -275,6 +271,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 167480,
+      "name": "Buy Dirt",
+      "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Chief",
         "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
@@ -300,25 +316,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 213493,
-      "name": "You Should Probably Leave",
-      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Forever After All",
-      "url": "https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew"
+      "duration_ms": 240413,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -339,22 +339,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Katelyn Brown",
-          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 174560,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
+      "duration_ms": 232533,
+      "name": "Forever After All",
+      "url": "https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -379,18 +375,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Tangled Up",
-        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
         }
       ],
-      "duration_ms": 227426,
-      "name": "Die A Happy Man",
-      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
+      "duration_ms": 174560,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 240413,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo"
+      "duration_ms": 227426,
+      "name": "Die A Happy Man",
+      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -443,38 +443,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "The Way It Feels",
         "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
       },
@@ -487,22 +455,6 @@
       "duration_ms": 188320,
       "name": "Die From A Broken Heart",
       "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "In Your Love",
-        "url": "https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "In Your Love",
-      "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -535,6 +487,54 @@
       "duration_ms": 259266,
       "name": "Humble And Kind",
       "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "In Your Love",
+        "url": "https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "In Your Love",
+      "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Hallelujah Nights",
-        "url": "https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/3s7URrr4aax9L0kgMyyE00"
       },
       "artists": [
         {
-          "name": "LANCO",
-          "url": "https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T"
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
         }
       ],
-      "duration_ms": 222573,
-      "name": "Greatest Love Story",
-      "url": "https://open.spotify.com/track/2yQZwi1P8AkkxxFhQ8rMEK"
+      "duration_ms": 184106,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1fOvzFCRA3Ko0ihc2QTE29"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/3s7URrr4aax9L0kgMyyE00"
+        "name": "Hallelujah Nights",
+        "url": "https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90"
       },
       "artists": [
         {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+          "name": "LANCO",
+          "url": "https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T"
         }
       ],
-      "duration_ms": 184106,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1fOvzFCRA3Ko0ihc2QTE29"
+      "duration_ms": 222573,
+      "name": "Greatest Love Story",
+      "url": "https://open.spotify.com/track/2yQZwi1P8AkkxxFhQ8rMEK"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 236626,
-      "name": "The House That Built Me",
-      "url": "https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "If You Were A Song",
         "url": "https://open.spotify.com/album/45vV4tTizW88VginnGXeJ9"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 219053,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "The House That Built Me",
+      "url": "https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "Good as You",
-      "url": "https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/4rQa0t2qWm1MNPy7DNEUHB"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 253933,
       "name": "From the Ground Up",
       "url": "https://open.spotify.com/track/0lQJBl9YEsoMtE8D4yTE9g"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "Good as You",
+      "url": "https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "Make You Miss Me",
-      "url": "https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Same Trailer Different Park",
         "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 206893,
       "name": "Merry Go 'Round",
       "url": "https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Make You Miss Me",
+      "url": "https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo"
     },
     {
       "added_at": "2023-09-15 04:00:00",

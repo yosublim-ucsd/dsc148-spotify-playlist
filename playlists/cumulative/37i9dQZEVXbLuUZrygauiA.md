@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,433 songs - 3 day 5 hr 52 min
+1,434 songs - 3 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Big Booty](https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Lil Geniuz](https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U) | [Big Booty](https://open.spotify.com/album/3a6Zg7J0UPZMl8rujyXgvt) | 3:11 | 2023-02-28 | 2023-04-12 |
 | [Big Boys](https://open.spotify.com/track/1b5y9c6KdLcLWzKX1dCFhU) | [cshsznxo!](https://open.spotify.com/artist/4ZSPh3z0AyE5XKFQqEH2YU) | [Big Boys](https://open.spotify.com/album/3fnpQVhNFfwH5BJyO1SZMl) | 2:58 | 2023-01-12 | 2023-01-22 |
 | [Bigger Than Me](https://open.spotify.com/track/1igXQJ8h25DY4AiVgyGohE) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Bigger Than Me](https://open.spotify.com/album/11Kmry6hzWz0VFAI7s2Iz1) | 3:41 | 2022-09-27 | 2022-10-03 |
-| [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 | 2023-09-26 |  |
+| [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 | 2023-09-26 | 2023-10-24 |
 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 | 2023-06-13 | 2023-07-23 |
 | [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 | 2022-04-12 | 2022-05-04 |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-02 | 2023-01-04 |
@@ -395,6 +395,7 @@
 | [El lugar correcto](https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:51 | 2022-12-20 | 2023-01-29 |
 | [El Malo](https://open.spotify.com/track/2yM99EvJ6U1BvGyLZwPvPC) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC) | [El Malo](https://open.spotify.com/album/0IDTyQT7vLChxvp6vRYcSB) | 4:26 | 2023-03-14 | 2023-03-22 |
 | [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 | 2023-02-08 | 2023-03-08 |
+| [El Mambo](https://open.spotify.com/track/51QmqegeWI2orK2mzDfnIH) | [Kiko Rivera](https://open.spotify.com/artist/0HSGpDMeXaEmH5aUIHjnBF) | [El Mambo](https://open.spotify.com/album/4x4MeHDoVU7VRVJwrt4QRC) | 2:09 | 2023-10-23 |  |
 | [El Mariachi Loco](https://open.spotify.com/track/2t4Xr23WCRxao3l6EdJaXY) | [Mariachi de la Ciudad de Mexico](https://open.spotify.com/artist/3EWF0QKIQwhKLU5k6Hrfqr) | [Sabes una Cosa..\. Gracias Mamá](https://open.spotify.com/album/62CTMztT7tGrT3s7wUItwz) | 2:54 | 2022-09-17 | 2023-09-24 |
 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 | 2023-03-28 | 2023-04-17 |
 | [EL NENE](https://open.spotify.com/track/18onJmAJLKbrQVEt9IiKs1) | [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [EL NENE](https://open.spotify.com/album/66dX9XaTPTYeTg3w7mHV5i) | 2:59 | 2022-11-22 | 2022-11-30 |

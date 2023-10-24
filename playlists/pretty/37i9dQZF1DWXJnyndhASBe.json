@@ -1,35 +1,31 @@
 {
   "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kukon",
-  "num_followers": 487665,
+  "num_followers": 487862,
   "original_name": "RAP GENERACJA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGFhNGI0ZTgzMzNjZDY0MzE5OTdjZmI1M2JlYWU0MjlhNDQ1YmJl",
+  "snapshot_id": "MCwzYjk1NzBhZGQ3Y2MyNmVjZmUwYmYwNTE5ZjQ1YTNlZTNhM2NiMjRm",
   "tracks": [
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
-        "name": "ADDERALL",
-        "url": "https://open.spotify.com/album/05EmVJT84UGUaeCWaebZDd"
+        "name": "GiEwOnT",
+        "url": "https://open.spotify.com/album/064ETxMz9Qnq5vfa9jOxUm"
       },
       "artists": [
         {
-          "name": "Kukon",
-          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
-        },
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
         }
       ],
-      "duration_ms": 158297,
-      "name": "ADDERALL",
-      "url": "https://open.spotify.com/track/1Ki7FuiF2krk4lD8zjV3Nz"
+      "duration_ms": 322113,
+      "name": "GiEwOnT",
+      "url": "https://open.spotify.com/track/1fEh4NSXSaVhVGArLtxEiG"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "BFF",
         "url": "https://open.spotify.com/album/0eJ7DAYUyQmiE02ejiMuiO"
@@ -57,43 +53,27 @@
       "url": "https://open.spotify.com/track/1kuhnhugcuXf4CiNdqCRUU"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
-        "name": "GiEwOnT",
-        "url": "https://open.spotify.com/album/064ETxMz9Qnq5vfa9jOxUm"
+        "name": "Z\u0142oty Ch\u0142opak",
+        "url": "https://open.spotify.com/album/40fTvvMm0yV6JvuSJyzaIY"
       },
       "artists": [
         {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 322113,
-      "name": "GiEwOnT",
-      "url": "https://open.spotify.com/track/1fEh4NSXSaVhVGArLtxEiG"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Fluid",
-        "url": "https://open.spotify.com/album/5Pj4GxjmJvDvzhrCSJXZsT"
-      },
-      "artists": [
-        {
-          "name": "ReTo",
-          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
         },
         {
-          "name": "Wroobel",
-          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
         }
       ],
-      "duration_ms": 142205,
-      "name": "Fluid",
-      "url": "https://open.spotify.com/track/5E6Nv8QZblXpiFDQ8iSfE2"
+      "duration_ms": 195652,
+      "name": "Z\u0142oty Ch\u0142opak",
+      "url": "https://open.spotify.com/track/3n7C71Ktp5G2gj6KX6wlAv"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "JEREMY SOCHAN",
         "url": "https://open.spotify.com/album/1joqopmcT1uPuuXoQLvzVw"
@@ -113,7 +93,27 @@
       "url": "https://open.spotify.com/track/2WBejVahXeC1gjCXVOlgbq"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
+      "album": {
+        "name": "ADDERALL",
+        "url": "https://open.spotify.com/album/05EmVJT84UGUaeCWaebZDd"
+      },
+      "artists": [
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "ADDERALL",
+      "url": "https://open.spotify.com/track/1Ki7FuiF2krk4lD8zjV3Nz"
+    },
+    {
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "TYLE S\u0141O\u0143CA",
         "url": "https://open.spotify.com/album/34pnuaLEiWt0Cs4JQv2MM2"
@@ -133,27 +133,27 @@
       "url": "https://open.spotify.com/track/2oILgeSykGjl0N9m0VvAjO"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
-        "name": "Zawsze chcia\u0142em",
-        "url": "https://open.spotify.com/album/5d3qRgHcgMg3VIsK6WsW8r"
+        "name": "Fluid",
+        "url": "https://open.spotify.com/album/5Pj4GxjmJvDvzhrCSJXZsT"
       },
       "artists": [
         {
-          "name": "Gibbs",
-          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+          "name": "ReTo",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
         },
         {
-          "name": "Jonatan",
-          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
         }
       ],
-      "duration_ms": 184982,
-      "name": "Zawsze chcia\u0142em",
-      "url": "https://open.spotify.com/track/3AmVHFyIPCDYkqzYTfizOt"
+      "duration_ms": 142205,
+      "name": "Fluid",
+      "url": "https://open.spotify.com/track/5E6Nv8QZblXpiFDQ8iSfE2"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "Nicea",
         "url": "https://open.spotify.com/album/561wVB1MRTfJ0muUnsniNU"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/5OYaQw9IS8MMDFRgTPqDnR"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "Jolie Jolie",
         "url": "https://open.spotify.com/album/11iiBc9zHpGhPrLWCgVZ2K"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/2JJ6WnAfVglnYfxZubSukn"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "ZERO SNU",
         "url": "https://open.spotify.com/album/4pmHsXsDswoTFSCtHkwtnG"
@@ -225,7 +225,27 @@
       "url": "https://open.spotify.com/track/0RN6FM4XRE2XvydGA3sLo5"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
+      "album": {
+        "name": "Zawsze chcia\u0142em",
+        "url": "https://open.spotify.com/album/5d3qRgHcgMg3VIsK6WsW8r"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "duration_ms": 184982,
+      "name": "Zawsze chcia\u0142em",
+      "url": "https://open.spotify.com/track/3AmVHFyIPCDYkqzYTfizOt"
+    },
+    {
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "1-800-O\u015aWIECENIE",
         "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/1Z7cVYHnRJKHxQJFE9MP4y"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "PRELUDIUM",
         "url": "https://open.spotify.com/album/426XdCZCzEN4lA4B7dEHH6"
@@ -277,7 +297,7 @@
       "url": "https://open.spotify.com/track/1cnkQScXEGBZKqqy6EjVZo"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "Czarna Per\u0142a",
         "url": "https://open.spotify.com/album/4yL9yrzZHVkIro6o4evAYs"
@@ -325,7 +345,7 @@
       "url": "https://open.spotify.com/track/2KEEXp9tP8rA5gcVJlbAtI"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "Sextape / MTW",
         "url": "https://open.spotify.com/album/3CAUyLZPYc4wP4xOGeSoR2"
@@ -357,31 +377,7 @@
       "url": "https://open.spotify.com/track/77zPD9o9tBR5hhsxdDZJeV"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Stan",
-        "url": "https://open.spotify.com/album/4lSPL8p1PEevYs9RMgvqD0"
-      },
-      "artists": [
-        {
-          "name": "Gibbs",
-          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
-        },
-        {
-          "name": "Jonatan",
-          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
-        },
-        {
-          "name": "4Money",
-          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
-        }
-      ],
-      "duration_ms": 181045,
-      "name": "Stan",
-      "url": "https://open.spotify.com/track/18bAMjHACL9Iphk0KB0z7o"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "BEZ LOKALIZACJI",
         "url": "https://open.spotify.com/album/04UxQWDOr41Sf77h6TQlBj"
@@ -425,23 +421,7 @@
       "url": "https://open.spotify.com/track/2Gikijk4VAPyKTZVhTO4o6"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "TRZEBA MIE\u0106",
-        "url": "https://open.spotify.com/album/2aCk1OHYdQY0EjvQqYOzF2"
-      },
-      "artists": [
-        {
-          "name": "Young Igi",
-          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
-        }
-      ],
-      "duration_ms": 151027,
-      "name": "TRZEBA MIE\u0106",
-      "url": "https://open.spotify.com/track/1QYuWVIRrywtQYd3ETeL1Q"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "Millie Walky",
         "url": "https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse"
@@ -461,7 +441,23 @@
       "url": "https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
+      "album": {
+        "name": "TRZEBA MIE\u0106",
+        "url": "https://open.spotify.com/album/2aCk1OHYdQY0EjvQqYOzF2"
+      },
+      "artists": [
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        }
+      ],
+      "duration_ms": 151027,
+      "name": "TRZEBA MIE\u0106",
+      "url": "https://open.spotify.com/track/1QYuWVIRrywtQYd3ETeL1Q"
+    },
+    {
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "MMS",
         "url": "https://open.spotify.com/album/7EfQTrbwAlIWRpKb2Wnkzm"
@@ -485,7 +481,7 @@
       "url": "https://open.spotify.com/track/3pZWJ7C1Tv4thFHgD8vBtS"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "Lustro",
         "url": "https://open.spotify.com/album/1vOpHLnuZtKDrAvARaft9Q"
@@ -513,7 +509,7 @@
       "url": "https://open.spotify.com/track/3WX6nwhznaVTD9CazfMV4F"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "UZUMAKI FORMA OSTATECZNA",
         "url": "https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79"
@@ -533,7 +529,7 @@
       "url": "https://open.spotify.com/track/4oa5GCUVLK0KMXOHhz70tr"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "1-800-O\u015aWIECENIE",
         "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
@@ -557,7 +553,7 @@
       "url": "https://open.spotify.com/track/3kjMeY6ZgOZYAFRiPHMqmS"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "Bungee",
         "url": "https://open.spotify.com/album/3AXeMiCKuYZYogMzmAAuRo"
@@ -605,7 +601,7 @@
       "url": "https://open.spotify.com/track/13KCTlVIkhYcNm54SnVAfI"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "WWA NA KXKSIE",
         "url": "https://open.spotify.com/album/6R3IJyx9vPOZFk4ARB7N2H"
@@ -633,7 +629,7 @@
       "url": "https://open.spotify.com/track/0oyR4Ql18Y1GNwS3arouvb"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "1000 lat",
         "url": "https://open.spotify.com/album/4zcrpQxoFj0YqmfWm2RA7f"
@@ -653,7 +649,23 @@
       "url": "https://open.spotify.com/track/0utuBTWxhsv4abdCVOt76u"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
+      "album": {
+        "name": "Siekiera (Push Up) [Remix]",
+        "url": "https://open.spotify.com/album/5X791Fi6v1kUWcjFt3lhIa"
+      },
+      "artists": [
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        }
+      ],
+      "duration_ms": 131665,
+      "name": "Siekiera (Push Up) - Remix",
+      "url": "https://open.spotify.com/track/0YyjrAD1ELu01JG2T5yQa9"
+    },
+    {
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "SAFE",
         "url": "https://open.spotify.com/album/5rzQB82IYueZ2BQXjNPYWl"
@@ -673,7 +685,43 @@
       "url": "https://open.spotify.com/track/6nte3xu43Nzu8AyePDtiJN"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
+      "album": {
+        "name": "You Can\u2019t Sit With Us",
+        "url": "https://open.spotify.com/album/21QUlOgsmc5sQtewNj7iuZ"
+      },
+      "artists": [
+        {
+          "name": "Honorata Skarbek",
+          "url": "https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "duration_ms": 144615,
+      "name": "You Can\u2019t Sit With Us",
+      "url": "https://open.spotify.com/track/7tfKEvbgjUEfcCf0c8nr2f"
+    },
+    {
+      "added_at": "2023-10-23 07:14:14",
+      "album": {
+        "name": "<33",
+        "url": "https://open.spotify.com/album/3nX8yqFelqnx29MHZ5Cdpi"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "JESTE\u015a POJ384NA",
+      "url": "https://open.spotify.com/track/5f4h482eo40VoHJAX5rLYz"
+    },
+    {
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "Znak",
         "url": "https://open.spotify.com/album/3y1Cra1p6OeM6cZmHvgAN8"
@@ -697,59 +745,7 @@
       "url": "https://open.spotify.com/track/5j3xxOZ9YI6Dnj1908z7oN"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Siekiera (Push Up) [Remix]",
-        "url": "https://open.spotify.com/album/5X791Fi6v1kUWcjFt3lhIa"
-      },
-      "artists": [
-        {
-          "name": "Mr. Polska",
-          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
-        }
-      ],
-      "duration_ms": 131665,
-      "name": "Siekiera (Push Up) - Remix",
-      "url": "https://open.spotify.com/track/0YyjrAD1ELu01JG2T5yQa9"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "You Can\u2019t Sit With Us",
-        "url": "https://open.spotify.com/album/21QUlOgsmc5sQtewNj7iuZ"
-      },
-      "artists": [
-        {
-          "name": "Honorata Skarbek",
-          "url": "https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og"
-        },
-        {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
-        }
-      ],
-      "duration_ms": 144615,
-      "name": "You Can\u2019t Sit With Us",
-      "url": "https://open.spotify.com/track/7tfKEvbgjUEfcCf0c8nr2f"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "<33",
-        "url": "https://open.spotify.com/album/3nX8yqFelqnx29MHZ5Cdpi"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "JESTE\u015a POJ384NA",
-      "url": "https://open.spotify.com/track/5f4h482eo40VoHJAX5rLYz"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "1-800-O\u015aWIECENIE",
         "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
@@ -773,7 +769,7 @@
       "url": "https://open.spotify.com/track/5CTNmaXOY1nSnIUsxCpiyU"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "Sextape / MTW",
         "url": "https://open.spotify.com/album/3CAUyLZPYc4wP4xOGeSoR2"
@@ -797,7 +793,7 @@
       "url": "https://open.spotify.com/track/6RUbdD23fL9PQYnOMd8L7b"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "???",
         "url": "https://open.spotify.com/album/6b9nJ7eZHoXbVfIA3KQ6bg"
@@ -813,27 +809,7 @@
       "url": "https://open.spotify.com/track/4u3pVIKFDquOVeyvkc1Hjh"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Plaque PL",
-        "url": "https://open.spotify.com/album/2JNppLLgyACzv6xNhA3Enl"
-      },
-      "artists": [
-        {
-          "name": "Kabe",
-          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
-        },
-        {
-          "name": "DA Uzi",
-          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
-        }
-      ],
-      "duration_ms": 136125,
-      "name": "Plaque PL",
-      "url": "https://open.spotify.com/track/07AYYd8cwIbAHdceX9WXGc"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "Samotno\u015b\u0107",
         "url": "https://open.spotify.com/album/4hwkvB5RdaCAITCoaNZz1z"
@@ -853,7 +829,7 @@
       "url": "https://open.spotify.com/track/6QBtD08lrQIOQqc7teDrY8"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "Hotel Maffija 3",
         "url": "https://open.spotify.com/album/6R7fjHTZnokGgV7OPIUnU5"
@@ -941,7 +917,7 @@
       "url": "https://open.spotify.com/track/4pjhE3Avv9UuZAfhF9JXgw"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "STYXXX",
         "url": "https://open.spotify.com/album/0jK4Jnbd1PylwYTh8SJkS7"
@@ -965,7 +941,7 @@
       "url": "https://open.spotify.com/track/5WejXxDkYAb86sLa5QOg8m"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "FREE SHOOTER",
         "url": "https://open.spotify.com/album/2OH4uS3WBnB4FoKqPwHSNu"
@@ -985,7 +961,7 @@
       "url": "https://open.spotify.com/track/1WqNEvLOzZHW7clNdxa205"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "Cartier",
         "url": "https://open.spotify.com/album/13w9q0479xVbAnpJAxA8Sq"
@@ -1013,7 +989,7 @@
       "url": "https://open.spotify.com/track/381u1jM3XFxE23cdQzep4k"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "Otwarty dach",
         "url": "https://open.spotify.com/album/7LM3t98W5V1A49NMtEmE27"
@@ -1033,7 +1009,7 @@
       "url": "https://open.spotify.com/track/7k9EPbp8p7nJqo9zyj4xj8"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "Stary Pezet (klasyczny)",
         "url": "https://open.spotify.com/album/6RUYNWJ7uAsDKHO6ahhfOO"
@@ -1057,7 +1033,7 @@
       "url": "https://open.spotify.com/track/0o7zgQODoJbMsaYMvCFviQ"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "1-800-O\u015aWIECENIE",
         "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
@@ -1077,7 +1053,23 @@
       "url": "https://open.spotify.com/track/7yYZsAXcniIYZv8NOuUeyb"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
+      "album": {
+        "name": "N\u00d3\u017b",
+        "url": "https://open.spotify.com/album/5WxKqpmvTX0NDV3Xb35xPr"
+      },
+      "artists": [
+        {
+          "name": "Qry",
+          "url": "https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy"
+        }
+      ],
+      "duration_ms": 153939,
+      "name": "N\u00d3\u017b",
+      "url": "https://open.spotify.com/track/08rZCN2J2ELhooLqm9wB6i"
+    },
+    {
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "3 w nocy w Mi\u0119dzyzdrojach",
         "url": "https://open.spotify.com/album/3Kb9Hu7HPcylofDU8ekkZy"
@@ -1129,23 +1121,75 @@
       "url": "https://open.spotify.com/track/5KcuT4Yau5Y6KiiB0NR7C7"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
-        "name": "N\u00d3\u017b",
-        "url": "https://open.spotify.com/album/5WxKqpmvTX0NDV3Xb35xPr"
+        "name": "Plaque PL",
+        "url": "https://open.spotify.com/album/2JNppLLgyACzv6xNhA3Enl"
       },
       "artists": [
         {
-          "name": "Qry",
-          "url": "https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy"
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        },
+        {
+          "name": "DA Uzi",
+          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
         }
       ],
-      "duration_ms": 153939,
-      "name": "N\u00d3\u017b",
-      "url": "https://open.spotify.com/track/08rZCN2J2ELhooLqm9wB6i"
+      "duration_ms": 136125,
+      "name": "Plaque PL",
+      "url": "https://open.spotify.com/track/07AYYd8cwIbAHdceX9WXGc"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
+      "album": {
+        "name": "Gratuluj\u0119",
+        "url": "https://open.spotify.com/album/4PNE8tRAtSbWn9pZLbe3IG"
+      },
+      "artists": [
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        },
+        {
+          "name": "Kronkel Dom",
+          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
+        },
+        {
+          "name": "Macias",
+          "url": "https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho"
+        }
+      ],
+      "duration_ms": 187428,
+      "name": "Gratuluj\u0119",
+      "url": "https://open.spotify.com/track/3hO0Pvj097dCOl9kSGXMTz"
+    },
+    {
+      "added_at": "2023-10-23 07:14:14",
+      "album": {
+        "name": "w aucie noc i 90bpm",
+        "url": "https://open.spotify.com/album/2XptoJZXg4ep4gAn91OQET"
+      },
+      "artists": [
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "Baltik Beatz",
+          "url": "https://open.spotify.com/artist/5P2MqlvPHysck4DS90dBaW"
+        },
+        {
+          "name": "Phunk'ill",
+          "url": "https://open.spotify.com/artist/6jSShb0II1n6RNMCmqBSSM"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "w aucie noc i 90bpm",
+      "url": "https://open.spotify.com/track/4PG1vjjSiKQBdykSyqAHWG"
+    },
+    {
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "CRAZY FROG",
         "url": "https://open.spotify.com/album/0bCQd3xcOyLh122uEsvwC8"
@@ -1169,7 +1213,7 @@
       "url": "https://open.spotify.com/track/2WebYamytCv4EHXDoUWBPF"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "Klasyczny trap",
         "url": "https://open.spotify.com/album/4DqJLIwl1tllfiku9b6AfI"
@@ -1213,31 +1257,7 @@
       "url": "https://open.spotify.com/track/6Xeq2GpNm9Go385J5lyv6I"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "w aucie noc i 90bpm",
-        "url": "https://open.spotify.com/album/2XptoJZXg4ep4gAn91OQET"
-      },
-      "artists": [
-        {
-          "name": "Kukon",
-          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
-        },
-        {
-          "name": "Baltik Beatz",
-          "url": "https://open.spotify.com/artist/5P2MqlvPHysck4DS90dBaW"
-        },
-        {
-          "name": "Phunk'ill",
-          "url": "https://open.spotify.com/artist/6jSShb0II1n6RNMCmqBSSM"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "w aucie noc i 90bpm",
-      "url": "https://open.spotify.com/track/4PG1vjjSiKQBdykSyqAHWG"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "n\u00f3\u017c motylkowy",
         "url": "https://open.spotify.com/album/2rAT9XqHZFhEWgLfQeN50j"
@@ -1257,7 +1277,7 @@
       "url": "https://open.spotify.com/track/2xCSrx8a1gZllp0jSFzsP2"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-23 07:14:14",
       "album": {
         "name": "Grand Prix",
         "url": "https://open.spotify.com/album/35HvNMzdTNLKGDwUurvy3u"
@@ -1275,30 +1295,6 @@
       "duration_ms": 139424,
       "name": "Grand Prix",
       "url": "https://open.spotify.com/track/3xnJpiD7nR1xonj3QxQvgE"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Termosfera",
-        "url": "https://open.spotify.com/album/1mPrzHBtacAscowIXHhZr7"
-      },
-      "artists": [
-        {
-          "name": "Aleshen",
-          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
-        },
-        {
-          "name": "Waima",
-          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
-        },
-        {
-          "name": "ggweely",
-          "url": "https://open.spotify.com/artist/6AULmzwg8lvIj6JHWVpo72"
-        }
-      ],
-      "duration_ms": 157090,
-      "name": "Termosfera",
-      "url": "https://open.spotify.com/track/528KBlC3ccgYkbOEPwxXuI"
     }
   ],
   "unique_name": "RAP GENERACJA",

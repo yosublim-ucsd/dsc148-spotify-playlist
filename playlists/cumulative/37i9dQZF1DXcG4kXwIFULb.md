@@ -4,7 +4,7 @@
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-189 songs - 15 hr 37 min
+190 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Edge of the Ocean](https://open.spotify.com/track/6KT2I8ZtIFLE8aFLBeF1pd) | [Ivy](https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA) | [Long Distance](https://open.spotify.com/album/6RS3YuPEykwG5tpFjazZ0K) | 4:25 | 2020-09-04 | 2022-07-29 |
 | [Electric Lazyland](https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Electric Lazyland](https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9) | 5:52 | 2020-09-04 |  |
 | [Emkay](https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:25 | 2020-09-04 |  |
+| [End of Our Days](https://open.spotify.com/track/33u4LsVXzotyxM37912gNr) | [Archive](https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk) | [Restriction](https://open.spotify.com/album/4grzyr8RWop3h1MLoo74ZP) | 4:52 | 2020-09-04 |  |
 | [Finally Woken](https://open.spotify.com/track/2HOaA5gm7peSF67a0HJ14l) | [Jem](https://open.spotify.com/artist/4v4xuH9VypORYabMnhPLt1) | [Finally Woken](https://open.spotify.com/album/5Jq9bg317AJWWyxwnE1B7q) | 3:58 | 2020-09-04 | 2022-07-29 |
 | [Flip Ya Lid](https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 5:24 | 2020-09-04 | 2023-02-02 |
 | [Flip Ya Lid](https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg) | 5:24 | 2020-09-04 |  |
@@ -180,7 +181,7 @@
 | [Time Is the Enemy](https://open.spotify.com/track/313hbrNYpT36VHc8vPBueb) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The 5th Exotic](https://open.spotify.com/album/2gO53EC0HUgRebzwSIWCfY) | 3:43 | 2020-09-04 |  |
 | [Time Is the Enemy](https://open.spotify.com/track/3iNj5fdyY62N1ycufQ3E2M) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The 5th Exotic](https://open.spotify.com/album/7aoMwgyXDmr2ATUOJcyQdT) | 3:43 | 2020-09-04 | 2023-04-29 |
 | [Transatlantic](https://open.spotify.com/track/25WbZC6FWY8vLPaSJfm44G) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Apricot Morning](https://open.spotify.com/album/1pUrBpL9xNwHUlVHqTAoSi) | 4:42 | 2020-09-04 | 2022-07-29 |
-| [Transatlantic](https://open.spotify.com/track/0uY3duWVyW02qcq9QhoQZY) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Apricot Morning](https://open.spotify.com/album/4RQOGfXsV5TVo5hJXNQ5ql) | 4:44 | 2020-09-04 |  |
+| [Transatlantic](https://open.spotify.com/track/0uY3duWVyW02qcq9QhoQZY) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Apricot Morning](https://open.spotify.com/album/4RQOGfXsV5TVo5hJXNQ5ql) | 4:44 | 2020-09-04 | 2023-10-24 |
 | [Transatlantic](https://open.spotify.com/track/3pJ0rv6o5HeIBWiO7mB1th) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Apricot Morning](https://open.spotify.com/album/0bVFmAlU4ToJ2i3ZPkgzHf) | 4:44 | 2020-09-04 | 2023-04-29 |
 | [Trigger Hippie](https://open.spotify.com/track/6xHg7kRpRWH5slVZM39bSD) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Parts of the Process](https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd) | 5:31 | 2020-09-04 | 2022-07-29 |
 | [Under the Gun](https://open.spotify.com/track/55G3VZAmkOyyfKI189ayv1) | [Supreme Beings of Leisure](https://open.spotify.com/artist/1fMiEUAUshtCFawy3aD0oD) | [Supreme Beings Of Leisure](https://open.spotify.com/album/0L3hC4AN3Zm6W86suFDZvz) | 3:30 | 2020-09-04 | 2022-07-29 |

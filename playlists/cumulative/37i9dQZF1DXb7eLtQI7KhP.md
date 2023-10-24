@@ -4,7 +4,7 @@
 
 > Soft and soothing ambient piano music to help you meditate and find inner peace.
 
-146 songs - 6 hr 49 min
+147 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Oxygen](https://open.spotify.com/track/6LJueYS7PEtp9VEnClV0da) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Oxygen](https://open.spotify.com/album/5QTd2js25VRvD3ZK5DYWeu) | 2:43 | 2022-04-28 |  |
 | [Pale Blue Dot](https://open.spotify.com/track/5c2CfIIsvjsMXWklKdCJGC) | [Adelie Aubin](https://open.spotify.com/artist/4CrVjHWrCPZ00IZg3zVIGB) | [Pale Blue Dot](https://open.spotify.com/album/7FqBkFYfBNhKky2UIL8ken) | 1:53 | 2022-04-28 |  |
 | [Paracosm](https://open.spotify.com/track/50u27CJ2G7hJnVzlW5yOQa) | [Albin Urías](https://open.spotify.com/artist/5phmOQdhQEBnfAev0uSbX6) | [Paracosm](https://open.spotify.com/album/7A2SrK0PkccqXKTmFHA6xF) | 3:36 | 2022-04-28 |  |
+| [Parasomnia](https://open.spotify.com/track/1WtmL3FXZLQIaQE4A8uGVc) | [Lapeito](https://open.spotify.com/artist/4g9wSQI9AFFbUpuFqxvrEW) | [Parasomnia](https://open.spotify.com/album/4bU9wq3t8v0ZeCOabT3Ok3) | 2:20 | 2023-10-23 |  |
 | [per sempre e sempre insieme](https://open.spotify.com/track/688o4iEC23uFzGZ6nNRTt4) | [Le Palade](https://open.spotify.com/artist/5jP3W8hxwSZ0VsyQ3jiMbu) | [per sempre e sempre insieme \(Ambient version\)](https://open.spotify.com/album/758jpU3g1OzoIPDTIfMzvl) | 2:07 | 2022-04-28 |  |
 | [Phosphenes](https://open.spotify.com/track/7zCXE5rdGmk2YzsSWuhO8I) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Phosphenes](https://open.spotify.com/album/5gjWfsOxuWUuxt63LiuuAh) | 3:00 | 2022-04-28 |  |
 | [Placidity](https://open.spotify.com/track/5wcgCvE1hRAhczfhjOHTXI) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Placidity](https://open.spotify.com/album/4qGUtb48292vSAyProSG9H) | 2:49 | 2022-04-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed est\u00e1n las meras-meras de nuestro cancionero. Jos\u00e9 Alfredo Jim\u00e9nez en portada.",
-  "num_followers": 324481,
+  "num_followers": 324565,
   "original_name": "Cancionero Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2NkMWJkN2Q5MDlhMWMyMTUxMzFmNDVkNjRjZmQ5Mjc0ZTAwYjA1",
+  "snapshot_id": "MCxjYTgxZWMxNjk5NTEzZDhhNjY0ZjFkOTMxM2NiZjdkZmUxMjU3ODVj",
   "tracks": [
     {
       "added_at": "2023-10-17 06:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
         "name": "Abr\u00e1zame Muy Fuerte",
         "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 183946,
       "name": "Belleza De Cantina",
       "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
+        "name": "Juan Gabriel",
+        "url": "https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
+      "url": "https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
         "name": "Mi Satisfacci\u00f3n",
         "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 200386,
       "name": "Sabes Una Cosa",
       "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
-        "name": "Juan Gabriel",
-        "url": "https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
-      "url": "https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Ll\u00e9vame Contigo",
-        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "\u00bfY Todo Para Qu\u00e9?",
-      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
         "name": "M\u00e1s All\u00e1 Del Sol",
         "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 159172,
       "name": "Eso Y M\u00e1s",
       "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "\u00bfY Todo Para Qu\u00e9?",
+      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 273008,
-      "name": "Secreto De Amor",
-      "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 212776,
       "name": "Ramito De Violetas",
       "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 273008,
+      "name": "Secreto De Amor",
+      "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -611,38 +611,6 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 207586,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
-        "name": "Que De Raro Tiene",
-        "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Ac\u00e1 Entre Nos",
-      "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
         "name": "Por Mujeres Como T\u00fa",
         "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
@@ -675,6 +643,22 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
         "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 166200,
       "name": "Y As\u00ed Fue",
       "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "Que De Raro Tiene",
+        "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Ac\u00e1 Entre Nos",
+      "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -719,22 +719,6 @@
       "duration_ms": 186653,
       "name": "Seremos",
       "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
-        "name": "Mujeres Divinas",
-        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Mujeres Divinas",
-      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -819,18 +803,18 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+        "name": "Mujeres Divinas",
+        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 217521,
-      "name": "Feliz Feliz",
-      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
+      "duration_ms": 193333,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -855,6 +839,22 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 217521,
+      "name": "Feliz Feliz",
+      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
         "name": "Puras Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD"
       },
@@ -867,38 +867,6 @@
       "duration_ms": 206913,
       "name": "Del Signo Libra",
       "url": "https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
-        "name": "Cosas De Enamorados",
-        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 222946,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -919,18 +887,18 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+        "name": "Cosas De Enamorados",
+        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 209213,
-      "name": "M\u00e9xico En La Piel",
-      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
+      "duration_ms": 222946,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -951,6 +919,38 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "M\u00e9xico En La Piel",
+      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
         "name": "La Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Siempre En Mi Mente",
-        "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 205866,
-      "name": "Siempre en Mi Mente",
-      "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 186373,
       "name": "Como La Flor - Remastered",
       "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "Siempre En Mi Mente",
+        "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 205866,
+      "name": "Siempre en Mi Mente",
+      "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 233116,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
         "name": "Mi Mexico",
         "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
       "artists": [
         {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 215169,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
+      "duration_ms": 233116,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "duration_ms": 215169,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
         "name": "15 \u00c9xitazos",
         "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
       },
@@ -1255,6 +1255,22 @@
       "duration_ms": 114369,
       "name": "Me Sacaron Del Tenampa",
       "url": "https://open.spotify.com/track/6f4jjw4xqdX00zqaJ141PZ"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "T\u00fa Lo Decidiste",
+      "url": "https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "T\u00fa Lo Decidiste",
-      "url": "https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
         "name": "Disfrut\u00e9 Enga\u00f1arte",
         "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
       },
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
+        "name": "Amores",
+        "url": "https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "Es Demasiado Tarde - Remasterizado",
+      "url": "https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
         "name": "Los Boleros Morunos Solis",
         "url": "https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq"
       },
@@ -1403,38 +1419,6 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 179266,
-      "name": "Yo...El Aventurero",
-      "url": "https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
-        "name": "Amores",
-        "url": "https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 250800,
-      "name": "Es Demasiado Tarde - Remasterizado",
-      "url": "https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
         "name": "15 Exitos De Lorenzo De Monteclaro",
         "url": "https://open.spotify.com/album/5SPrSrvs8BOthSQRZkE6zz"
       },
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "60 Rancheras Inmortales",
-        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA"
       },
       "artists": [
         {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
         }
       ],
-      "duration_ms": 207360,
-      "name": "Cu\u00e1ndo sale la luna",
-      "url": "https://open.spotify.com/track/7CLge2qFvAzm9hvgSlKd1z"
+      "duration_ms": 179266,
+      "name": "Yo...El Aventurero",
+      "url": "https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
+        "name": "Canciones De Sus Peliculas",
+        "url": "https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/1Hh7gEOhoCBG1ob7Aw6biK"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
         "name": "A Todas Las Que Am\u00e9",
         "url": "https://open.spotify.com/album/3mPYmDJtfS7QiqWJ1OtIeA"
       },
@@ -1515,6 +1515,22 @@
       "duration_ms": 161426,
       "name": "Una P\u00e1gina M\u00e1s",
       "url": "https://open.spotify.com/track/2eVPRDZqjO0sMD32ecDPyP"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "60 Rancheras Inmortales",
+        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Cu\u00e1ndo sale la luna",
+      "url": "https://open.spotify.com/track/7CLge2qFvAzm9hvgSlKd1z"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Canciones De Sus Peliculas",
-        "url": "https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/1Hh7gEOhoCBG1ob7Aw6biK"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
         "name": "Mi Buena Suerte",
         "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 163680,
       "name": "Apenas Te Fuistes Ayer",
       "url": "https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
-        "name": "15 Inmortales de Pedro Infante",
-        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 181720,
-      "name": "Amorcito coraz\u00f3n",
-      "url": "https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
+        "name": "15 Inmortales de Pedro Infante",
+        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 181720,
+      "name": "Amorcito coraz\u00f3n",
+      "url": "https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
@@ -1739,38 +1739,6 @@
       "duration_ms": 216293,
       "name": "Hasta la Miel Amarga",
       "url": "https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
-        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 188290,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/2o4z9hi2ULRELWbvsJq4Er"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
-        "name": "Esto Es Lo Nuestro",
-        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n",
-      "url": "https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -1859,6 +1827,22 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
+        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 188290,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/2o4z9hi2ULRELWbvsJq4Er"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
         "name": "El Rey",
         "url": "https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf"
       },
@@ -1871,22 +1855,6 @@
       "duration_ms": 194835,
       "name": "Caminos de Guanajuato",
       "url": "https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
-        "name": "Cien a\u00f1os... pensando en ti",
-        "url": "https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Cien a\u00f1os",
-      "url": "https://open.spotify.com/track/1Ag6NwYwfBxZuNixLMT5a8"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -1935,6 +1903,22 @@
       "duration_ms": 222360,
       "name": "Cuando Yo Quer\u00eda Ser Grande",
       "url": "https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "Cien a\u00f1os... pensando en ti",
+        "url": "https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Cien a\u00f1os",
+      "url": "https://open.spotify.com/track/1Ag6NwYwfBxZuNixLMT5a8"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -2003,6 +1987,22 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
+        "name": "Era Cab - El Viejo",
+        "url": "https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 153093,
+      "name": "Mi Gusto Es",
+      "url": "https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
         "name": "Primero Soy Mexicana",
         "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
@@ -2019,18 +2019,18 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Era Cab - El Viejo",
-        "url": "https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu"
+        "name": "Canto A Mi Tierra",
+        "url": "https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 153093,
-      "name": "Mi Gusto Es",
-      "url": "https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s"
+      "duration_ms": 148793,
+      "name": "Viva Mexico",
+      "url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi"
     }
   ],
   "unique_name": "Cancionero Mexicano",

@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 204521,
+  "num_followers": 204603,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDZlNWU4YmE2NTRhMmUxYTYwYjRjNTFhZDQ5ZmE0OTgxNmNlY2Q5",
+  "snapshot_id": "MCxmMjFmMjFhNGEzNDQ5ZWY4MzIyZmNkYjUzNDllOTk0YTk1M2JmOTRl",
   "tracks": [
     {
       "added_at": "2023-10-11 19:56:55",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-10-11 19:56:55",
       "album": {
-        "name": "Where There's Smoke...",
-        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 352920,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
-    },
-    {
-      "added_at": "2023-10-11 19:56:55",
-      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
+    },
+    {
+      "added_at": "2023-10-11 19:56:55",
+      "album": {
+        "name": "Where There's Smoke...",
+        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
     },
     {
       "added_at": "2023-10-11 19:56:55",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-10-11 19:56:55",
       "album": {
-        "name": "The Dude",
-        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Just Once",
-      "url": "https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS"
-    },
-    {
-      "added_at": "2023-10-11 19:56:55",
-      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/4QZ7wq0y0io4KdNDqF81y8"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 200640,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/1nHN3m6EzCzKAmDgwoLBMD"
+    },
+    {
+      "added_at": "2023-10-11 19:56:55",
+      "album": {
+        "name": "The Dude",
+        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Just Once",
+      "url": "https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS"
     },
     {
       "added_at": "2023-10-11 19:56:55",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-10-11 19:56:55",
       "album": {
-        "name": "Car Wash",
-        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "I Wanna Get Next To You",
-      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
-    },
-    {
-      "added_at": "2023-10-11 19:56:55",
-      "album": {
         "name": "Let's Get It On",
         "url": "https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2023-10-11 19:56:55",
       "album": {
-        "name": "After Midnight (Expanded Version)",
-        "url": "https://open.spotify.com/album/2s4V3nu27HX9pp5PglpCVJ"
+        "name": "Original Musiquarium",
+        "url": "https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab"
       },
       "artists": [
         {
-          "name": "The Manhattans",
-          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 281853,
-      "name": "Shining Star",
-      "url": "https://open.spotify.com/track/0np4arBSp4ZBOfXGZhXQ4I"
+      "duration_ms": 337066,
+      "name": "Ribbon In The Sky",
+      "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN"
     },
     {
       "added_at": "2023-10-11 19:56:55",
@@ -875,18 +859,34 @@
     {
       "added_at": "2023-10-11 19:56:55",
       "album": {
-        "name": "Original Musiquarium",
-        "url": "https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab"
+        "name": "Car Wash",
+        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
         }
       ],
-      "duration_ms": 337066,
-      "name": "Ribbon In The Sky",
-      "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN"
+      "duration_ms": 238200,
+      "name": "I Wanna Get Next To You",
+      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
+    },
+    {
+      "added_at": "2023-10-11 19:56:55",
+      "album": {
+        "name": "After Midnight (Expanded Version)",
+        "url": "https://open.spotify.com/album/2s4V3nu27HX9pp5PglpCVJ"
+      },
+      "artists": [
+        {
+          "name": "The Manhattans",
+          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
+        }
+      ],
+      "duration_ms": 281853,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/0np4arBSp4ZBOfXGZhXQ4I"
     },
     {
       "added_at": "2023-10-11 19:56:55",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-10-11 19:56:55",
       "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
-    },
-    {
-      "added_at": "2023-10-11 19:56:55",
-      "album": {
         "name": "Brother, Brother, Brother",
         "url": "https://open.spotify.com/album/5gJBnLRkUtOjqsss6YA5XA"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 192600,
       "name": "Work to Do",
       "url": "https://open.spotify.com/track/1b7tZPt3S2UN6OrPUBqGCp"
+    },
+    {
+      "added_at": "2023-10-11 19:56:55",
+      "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2023-10-11 19:56:55",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2023-10-11 19:56:55",
       "album": {
+        "name": "Golden Time Of Day (Remastered)",
+        "url": "https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+        }
+      ],
+      "duration_ms": 333666,
+      "name": "Golden Time Of Day - Remastered",
+      "url": "https://open.spotify.com/track/0epdaOT9HBO8Mm7ykRuFpT"
+    },
+    {
+      "added_at": "2023-10-11 19:56:55",
+      "album": {
         "name": "Bring it on Home to Me (feat. Charlie Bereal)",
         "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
       },
@@ -1475,22 +1495,18 @@
     {
       "added_at": "2023-10-11 19:56:55",
       "album": {
-        "name": "Golden Time Of Day (Remastered)",
-        "url": "https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS"
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
       },
       "artists": [
         {
-          "name": "Maze",
-          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
-        },
-        {
-          "name": "Frankie Beverly",
-          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
         }
       ],
-      "duration_ms": 333666,
-      "name": "Golden Time Of Day - Remastered",
-      "url": "https://open.spotify.com/track/0epdaOT9HBO8Mm7ykRuFpT"
+      "duration_ms": 276733,
+      "name": "Get Here",
+      "url": "https://open.spotify.com/track/1KT3ndndHOGXePgC4o0Jq9"
     },
     {
       "added_at": "2023-10-11 19:56:55",
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2023-10-11 19:56:55",
       "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
+        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
+        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
       },
       "artists": [
         {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 276733,
-      "name": "Get Here",
-      "url": "https://open.spotify.com/track/1KT3ndndHOGXePgC4o0Jq9"
+      "duration_ms": 239600,
+      "name": "September When I First Met You - Single Version",
+      "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
     },
     {
       "added_at": "2023-10-11 19:56:55",
@@ -1543,22 +1559,6 @@
       "duration_ms": 233853,
       "name": "bend yr ear",
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
-    },
-    {
-      "added_at": "2023-10-11 19:56:55",
-      "album": {
-        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
-        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "September When I First Met You - Single Version",
-      "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
     },
     {
       "added_at": "2023-10-11 19:56:55",

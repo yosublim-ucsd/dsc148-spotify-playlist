@@ -1993,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "ALL MY FELLAS",
+        "url": "https://open.spotify.com/album/7eLQnewAuacJFug06cN6Er"
+      },
+      "artists": [
+        {
+          "name": "Frizk",
+          "url": "https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141334,
+      "name": "ALL MY FELLAS",
+      "url": "https://open.spotify.com/track/1ckhUtD8nBH2ShPlU8w2nU"
+    },
+    {
+      "album": {
         "name": "Almost Healed",
         "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
       },
@@ -3246,6 +3264,24 @@
       "duration_ms": 251780,
       "name": "A\u015fk\u0131n Olay\u0131m",
       "url": "https://open.spotify.com/track/4o4kbDP7DMVFPwAf5D5bj9"
+    },
+    {
+      "album": {
+        "name": "B.",
+        "url": "https://open.spotify.com/album/6ZMfAa72rsLzLtjuRygUki"
+      },
+      "artists": [
+        {
+          "name": "An\u0131l Emre Daldal",
+          "url": "https://open.spotify.com/artist/5MHG3bmjGh0aqT8hS3nPzS"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287226,
+      "name": "B.",
+      "url": "https://open.spotify.com/track/64P8LehzuNRGQ5JhswIHNW"
     },
     {
       "album": {
@@ -8190,7 +8226,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 279618,
       "name": "Dawai (From \"Air Mata Di Ujung Sajadah\")",
       "url": "https://open.spotify.com/track/5KKqMjyldESKZbcfEs9QnY"
@@ -20342,7 +20378,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 116104,
       "name": "LOVELY BASTARDS",
       "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
@@ -20524,6 +20560,40 @@
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "album": {
+        "name": "MAGR\u00c3O SUPREMO",
+        "url": "https://open.spotify.com/album/6QxXpdAJWcNjwyFi9Xbewi"
+      },
+      "artists": [
+        {
+          "name": "DJ Idk",
+          "url": "https://open.spotify.com/artist/5zKrn256dtGXDCpOVlr22G"
+        },
+        {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Magrinho",
+          "url": "https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI"
+        },
+        {
+          "name": "Mc Pikachu",
+          "url": "https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "MAGR\u00c3O SUPREMO",
+      "url": "https://open.spotify.com/track/7eZE5ob4uWJkAZYQyAIFdP"
     },
     {
       "album": {
@@ -28756,7 +28826,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 157650,
       "name": "Railin Oligal - From \"Blue Star\"",
       "url": "https://open.spotify.com/track/5Y7Y315vZkOZbesJ22jXkK"
@@ -33383,6 +33453,24 @@
     },
     {
       "album": {
+        "name": "Tacata",
+        "url": "https://open.spotify.com/album/1iuFJ9W479sVjcEqdjqMS8"
+      },
+      "artists": [
+        {
+          "name": "Tiagz",
+          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114626,
+      "name": "Tacata",
+      "url": "https://open.spotify.com/track/3HVePjHJWt5uI9HtHgV4aM"
+    },
+    {
+      "album": {
         "name": "Tahanan",
         "url": "https://open.spotify.com/album/7Jgei0LHq4rhql16x8lsuH"
       },
@@ -34938,7 +35026,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 222298,
       "name": "Tingin",
       "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"

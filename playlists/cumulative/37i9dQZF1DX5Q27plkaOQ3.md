@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: JEANIE
 
-434 songs - 1 day 0 hr 44 min
+435 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [PURGE](https://open.spotify.com/track/7FdmopCkRn3XDqb5ITwff1) | [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [PURGE](https://open.spotify.com/album/0pCgcdzGA9ue7EimjdQ5yV) | 3:53 | 2021-12-17 | 2022-05-07 |
 | [PUSH EM](https://open.spotify.com/track/5x4LUgrOxhstYk5557PO3t) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Carbin](https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [PUSH EM](https://open.spotify.com/album/7Cae1xPAoh257PdyyJ28ut) | 3:50 | 2023-03-17 |  |
 | [Quantum Level](https://open.spotify.com/track/61Td1mc3CdLhIyMwXblkSU) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Prismatic](https://open.spotify.com/artist/2W8zVw5vOEFKRz9k5GIZZl) | [Quantum Level](https://open.spotify.com/album/7AQLiKBitTPJ9f8VrYYQxE) | 3:38 | 2023-05-12 | 2023-08-05 |
-| [Quasar](https://open.spotify.com/track/5z8MYFsAsd3SgveYLyrtIT) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Quasar](https://open.spotify.com/album/79AvObeFKO2Ut29Gz980II) | 4:05 | 2023-09-29 |  |
+| [Quasar](https://open.spotify.com/track/5z8MYFsAsd3SgveYLyrtIT) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Quasar](https://open.spotify.com/album/79AvObeFKO2Ut29Gz980II) | 4:05 | 2023-09-29 | 2023-10-24 |
 | [R2](https://open.spotify.com/track/1pRJOs3y7bJPsx9523Br4n) | [FelMax](https://open.spotify.com/artist/3oLY5NvzasiNds27QLs9Pa), [Veros](https://open.spotify.com/artist/2sX3DEyJXNkwzO8vOOQO79) | [R2](https://open.spotify.com/album/5LGceKVgkLOikEYSG0o8u4) | 3:05 | 2021-12-17 | 2022-07-12 |
 | [Rabbit](https://open.spotify.com/track/0AXSb1gRlRsm9MT6O9fu91) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH), [Jiqui](https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut) | [Rabbit](https://open.spotify.com/album/1nkHILZFE1bO1akualURkP) | 3:54 | 2023-07-14 |  |
 | [RAD](https://open.spotify.com/track/06bf6XZYNj4mtDODZRDruu) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Xotix](https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW) | [RAD](https://open.spotify.com/album/2K9g3b8ghtQSnYWzfg5sj3) | 4:05 | 2023-10-13 | 2023-10-21 |
@@ -332,6 +332,7 @@
 | [ROBOTS](https://open.spotify.com/track/4vlTbBs0C5Q0oqRMz2UZqa) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g) | [ROBOTS](https://open.spotify.com/album/5vcFpmsE5uaxLtaqZH2227) | 2:40 | 2023-07-14 |  |
 | [Rock Bottom](https://open.spotify.com/track/7rjmFwiYQ3Fx1DaKBmBgIo) | [Barocka](https://open.spotify.com/artist/4xzmjx91Nm1UpngrW3oHWF), [Peter Piffen](https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK) | [Rock Bottom](https://open.spotify.com/album/2FRjuFK0cIPVT5n6X6lUzW) | 3:27 | 2022-02-11 | 2022-07-27 |
 | [Ruckus](https://open.spotify.com/track/0H5JiTfzmAKl4six7oWVNa) | [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206) | [Ruckus](https://open.spotify.com/album/0qZj4pqYrKT3fzXslTuPux) | 3:30 | 2022-01-28 | 2022-03-12 |
+| [Ruin U](https://open.spotify.com/track/6fvdPHXZnUl9UX2OgoT7Cq) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [Ruin U](https://open.spotify.com/album/0p7pEsAnu9yH75AnwlkMPg) | 3:15 | 2023-10-23 |  |
 | [Run It Up](https://open.spotify.com/track/0iNUbvzTSxeTHT9DVaXrJa) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Sam King](https://open.spotify.com/artist/6i1nxY8TkMEEI1saLfn1lL) | [Run It Up EP](https://open.spotify.com/album/6jixI1D9HqNBx5OpIPEMf8) | 3:02 | 2022-08-19 | 2022-12-17 |
 | [Run The Track](https://open.spotify.com/track/05yBkD9lV6UFGWaDzsUuGG) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm) | [Run The Track](https://open.spotify.com/album/43IRE7J84IxX9vLBJUfINF) | 2:35 | 2022-11-18 | 2023-06-24 |
 | [S.O.S](https://open.spotify.com/track/46ZbeFHcvPbZT3z19WIKHZ) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [S.O.S](https://open.spotify.com/album/5sudLLMrf4J9ymgG8f07Ba) | 2:54 | 2023-01-13 |  |

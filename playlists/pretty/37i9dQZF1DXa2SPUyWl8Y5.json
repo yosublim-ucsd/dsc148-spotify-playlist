@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic techno and tech house.",
-  "num_followers": 476553,
+  "num_followers": 476658,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTJmMWI2ZGY3YmVmYmExMzdmNmFjY2YwNWRkMTgzYmJiYWVjMjM0",
+  "snapshot_id": "MCxiMmNiMTM5NmU3ZDdkMWZkNDNmYjg1OGYzMjZkMDc5ZjE2YmM5N2Jm",
   "tracks": [
     {
       "added_at": "2023-09-01 17:06:35",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
-      },
-      "artists": [
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
-        }
-      ],
-      "duration_ms": 295680,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Millenium (Edit)",
         "url": "https://open.spotify.com/album/3Iz0Ry755mM73t5s4h6iWf"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 220659,
       "name": "Millenium - Edit",
       "url": "https://open.spotify.com/track/2MCpIMRHhdN7ua7RlDWKFm"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
+      },
+      "artists": [
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        }
+      ],
+      "duration_ms": 295680,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du"
-      },
-      "artists": [
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Unfold Voices EP",
         "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
       },
@@ -387,22 +371,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Finja",
-        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
-      },
-      "artists": [
-        {
-          "name": "KIDS\u00d8",
-          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
-        }
-      ],
-      "duration_ms": 218226,
-      "name": "Finja",
-      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Postquam",
         "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
       },
@@ -415,6 +383,38 @@
       "duration_ms": 498419,
       "name": "Postquam",
       "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du"
+      },
+      "artists": [
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Finja",
+        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
+      },
+      "artists": [
+        {
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
+        }
+      ],
+      "duration_ms": 218226,
+      "name": "Finja",
+      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        }
-      ],
-      "duration_ms": 424979,
-      "name": "Unlocked",
-      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Solid",
         "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 404532,
       "name": "Solid",
       "url": "https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 424979,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Wadi Dana",
-        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
-      },
-      "artists": [
-        {
-          "name": "Corren Cavini",
-          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Wadi Dana",
-      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Crescendo",
         "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 364918,
       "name": "Crescendo",
       "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Wadi Dana",
+        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
+      },
+      "artists": [
+        {
+          "name": "Corren Cavini",
+          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Wadi Dana",
+      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Mars",
-        "url": "https://open.spotify.com/album/2YVAInSCAKFxTMWWHEaStT"
-      },
-      "artists": [
-        {
-          "name": "S.ONE",
-          "url": "https://open.spotify.com/artist/4x7ePVME5cJAvsXgzTT0Hc"
-        }
-      ],
-      "duration_ms": 362218,
-      "name": "Meli",
-      "url": "https://open.spotify.com/track/3g6pA9NF7tNX8vrsaHL510"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Piano & Electronic Ensemble Op. 1",
         "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
       },
@@ -815,22 +799,6 @@
       "duration_ms": 375483,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
-        "name": "Minister",
-        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 240020,
-      "name": "Minister",
-      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -855,18 +823,50 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
+        "name": "Mars",
+        "url": "https://open.spotify.com/album/2YVAInSCAKFxTMWWHEaStT"
       },
       "artists": [
         {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+          "name": "S.ONE",
+          "url": "https://open.spotify.com/artist/4x7ePVME5cJAvsXgzTT0Hc"
         }
       ],
-      "duration_ms": 413658,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
+      "duration_ms": 362218,
+      "name": "Meli",
+      "url": "https://open.spotify.com/track/3g6pA9NF7tNX8vrsaHL510"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Minister",
+        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 240020,
+      "name": "Minister",
+      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Bird EP",
+        "url": "https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec"
+      },
+      "artists": [
+        {
+          "name": "Recondite",
+          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+        }
+      ],
+      "duration_ms": 350047,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Bird EP",
-        "url": "https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec"
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
       },
       "artists": [
         {
-          "name": "Recondite",
-          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+          "name": "Galexis",
+          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
         }
       ],
-      "duration_ms": 350047,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
+      "duration_ms": 413658,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "The Duty",
-        "url": "https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS"
-      },
-      "artists": [
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 194610,
-      "name": "The Duty",
-      "url": "https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Thrust",
         "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 389092,
       "name": "Aldebaran",
       "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "The Duty",
+        "url": "https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 194610,
+      "name": "The Duty",
+      "url": "https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
-      },
-      "artists": [
-        {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
-        }
-      ],
-      "duration_ms": 192476,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Black Ice",
         "url": "https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 284187,
       "name": "Revolt",
       "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
+      },
+      "artists": [
+        {
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+        }
+      ],
+      "duration_ms": 192476,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
     }
   ],
   "unique_name": "Beats to think to",

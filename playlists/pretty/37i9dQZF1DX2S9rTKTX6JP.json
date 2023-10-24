@@ -1,12 +1,12 @@
 {
   "description": "Sometimes a cover can be even better than the original. You decide. Cover: Fall Out Boy",
-  "num_followers": 662224,
+  "num_followers": 662317,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjBjYWNiMGNlNGIxODU0Y2I2OGFkZWNjN2Q3YjBmMzY4ZjVlOGEz",
+  "snapshot_id": "MCw0OTgyOWIyZjRkMjM5NmZmOTY5Mzk3YmY1MjdiYjllMjBjZDE1MmQ2",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 253120,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
@@ -191,22 +175,6 @@
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
-    },
-    {
-      "added_at": "2023-07-24 19:28:28",
-      "album": {
-        "name": "Last Resort (Reimagined)",
-        "url": "https://open.spotify.com/album/3ney9yvE6G6kVMTtIQ6XoA"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        }
-      ],
-      "duration_ms": 283714,
-      "name": "Last Resort - Reimagined",
-      "url": "https://open.spotify.com/track/73GKs8oNFFmtomWj7EsSU0"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -223,6 +191,22 @@
       "duration_ms": 336000,
       "name": "Knockin' On Heaven's Door",
       "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
+    },
+    {
+      "added_at": "2023-07-24 19:28:28",
+      "album": {
+        "name": "Last Resort (Reimagined)",
+        "url": "https://open.spotify.com/album/3ney9yvE6G6kVMTtIQ6XoA"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 283714,
+      "name": "Last Resort - Reimagined",
+      "url": "https://open.spotify.com/track/73GKs8oNFFmtomWj7EsSU0"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -339,22 +323,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Van Halen (Remastered)",
-        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 156146,
-      "name": "You Really Got Me - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0upLyFR8Rr52ZpMp5esQoq"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Bleach",
         "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
       },
@@ -383,6 +351,22 @@
       "duration_ms": 182733,
       "name": "Live And Let Die",
       "url": "https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Van Halen (Remastered)",
+        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 156146,
+      "name": "You Really Got Me - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0upLyFR8Rr52ZpMp5esQoq"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -483,22 +467,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "What's Love Got To Do With It",
-        "url": "https://open.spotify.com/album/7uU2XaLVRgtHcBahv0JlvQ"
-      },
-      "artists": [
-        {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
-        }
-      ],
-      "duration_ms": 199725,
-      "name": "What's Love Got To Do With It",
-      "url": "https://open.spotify.com/track/09c29n43dZdj4MaBcx3C92"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
         "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
       },
@@ -511,6 +479,22 @@
       "duration_ms": 296973,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/46eHxWRKmtYhUHPDRgclt6"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "What's Love Got To Do With It",
+        "url": "https://open.spotify.com/album/7uU2XaLVRgtHcBahv0JlvQ"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "duration_ms": 199725,
+      "name": "What's Love Got To Do With It",
+      "url": "https://open.spotify.com/track/09c29n43dZdj4MaBcx3C92"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1487,22 +1471,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 199386,
-      "name": "Addicted To Love",
-      "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Age Of Ignorance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
       },
@@ -1515,6 +1483,22 @@
       "duration_ms": 249411,
       "name": "Skyfall",
       "url": "https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Addicted To Love",
+      "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1667,6 +1651,22 @@
       "duration_ms": 209813,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6pRgz5qJcDGpGhVSU1qJiv"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/7uYwtxCDbqPEmhX0UyHq5d"
     }
   ],
   "unique_name": "Rock Covers",

@@ -1,12 +1,12 @@
 {
   "description": " songs that feel like new and old friends, all stitched together.",
-  "num_followers": 175527,
+  "num_followers": 175599,
   "original_name": "patchwork",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWJiNTY0NTIxY2Q2OTQ4NzU4ZDM0MGYzN2JlNmE1NWQ2NzgyNjAz",
+  "snapshot_id": "MCw0ZjdkOWRkZjk4ODhkNjc5NjExMTQzZDRjZDVkM2EwYjBiYzkzOTg5",
   "tracks": [
     {
       "added_at": "2023-09-26 13:24:44",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Alive!",
-        "url": "https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Alive!",
-      "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
         "name": "Wet Leg",
         "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+        "name": "Alive!",
+        "url": "https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 220826,
-      "name": "Shatter",
-      "url": "https://open.spotify.com/track/4MP5tSTc6LxY8xhrUOv9Ya"
+      "duration_ms": 232133,
+      "name": "Alive!",
+      "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -839,18 +823,18 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "All We Ever Do Is Talk",
-        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
       "artists": [
         {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 226133,
-      "name": "All We Ever Do Is Talk",
-      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
+      "duration_ms": 220826,
+      "name": "Shatter",
+      "url": "https://open.spotify.com/track/4MP5tSTc6LxY8xhrUOv9Ya"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -867,6 +851,22 @@
       "duration_ms": 119016,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
+        "name": "All We Ever Do Is Talk",
+        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "All We Ever Do Is Talk",
+      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 258319,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 230586,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/2orcl4a2qxEpbsYeZXKsyR"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 258319,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Theatre",
-        "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 179037,
-      "name": "Theatre",
-      "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
         "name": "The Kiss Of Venus (Dominic Fike)",
         "url": "https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv"
       },
@@ -1191,22 +1175,6 @@
       "duration_ms": 143530,
       "name": "The Kiss Of Venus (Dominic Fike)",
       "url": "https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 177641,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/1yQkAv4xtapCBCzI8q1QGF"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -1231,22 +1199,34 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Daisy Chain",
-        "url": "https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD"
+        "name": "Theatre",
+        "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
       },
       "artists": [
         {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
-        },
-        {
-          "name": "Tayo Sound",
-          "url": "https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ"
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
         }
       ],
-      "duration_ms": 166600,
-      "name": "Daisy Chain",
-      "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
+      "duration_ms": 179037,
+      "name": "Theatre",
+      "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 177641,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1yQkAv4xtapCBCzI8q1QGF"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -1279,6 +1259,26 @@
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
+        "name": "Daisy Chain",
+        "url": "https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        },
+        {
+          "name": "Tayo Sound",
+          "url": "https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ"
+        }
+      ],
+      "duration_ms": 166600,
+      "name": "Daisy Chain",
+      "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Smith Rock",
-        "url": "https://open.spotify.com/album/1iFNpfYW6jqir0jXis4vbp"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/7yKTW0Fh9arBDdUbY9xiKi"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 221240,
       "name": "The Path",
       "url": "https://open.spotify.com/track/7JqqIi2ktnsNkYdQhKSCrz"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
+        "name": "Smith Rock",
+        "url": "https://open.spotify.com/album/1iFNpfYW6jqir0jXis4vbp"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/7yKTW0Fh9arBDdUbY9xiKi"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
+        "name": "Nothing Works",
+        "url": "https://open.spotify.com/album/4aEZMkKgAdkOAF91aNoePR"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 252797,
+      "name": "Nothing Works",
+      "url": "https://open.spotify.com/track/1ovHiPLgMF3NCcu6OgpX90"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
         "name": "Your Ex",
         "url": "https://open.spotify.com/album/38N1yrl3r6rGulkphT8pO3"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 217728,
       "name": "Your Ex",
       "url": "https://open.spotify.com/track/3IkXLkNFF93omLpzxfcOK8"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
-        "name": "Grim Town",
-        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
-      },
-      "artists": [
-        {
-          "name": "SOAK",
-          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
-        }
-      ],
-      "duration_ms": 187185,
-      "name": "Knock Me Off My Feet",
-      "url": "https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/4tRInpsZkScWnp3UWcdLTq"
+        "name": "Grim Town",
+        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
         }
       ],
-      "duration_ms": 184973,
-      "name": "Buttons",
-      "url": "https://open.spotify.com/track/11uXhnPkoGQtk3STW7ItHr"
+      "duration_ms": 187185,
+      "name": "Knock Me Off My Feet",
+      "url": "https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR"
     }
   ],
   "unique_name": "patchwork",

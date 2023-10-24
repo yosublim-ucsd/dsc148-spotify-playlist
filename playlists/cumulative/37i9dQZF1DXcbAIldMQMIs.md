@@ -4,7 +4,7 @@
 
 > Indie pop when ur crushing
 
-283 songs - 14 hr 41 min
+284 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Can I Call You Tonight?](https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 4:38 | 2021-04-30 | 2022-10-13 |
 | [CAN'T GET OVER YOU \(feat\. Clams Casino\)](https://open.spotify.com/track/39oeKRgsLeynDIbWuXyA47) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 1:47 | 2022-12-14 |  |
 | [Casual](https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Casual](https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt) | 3:52 | 2022-12-05 | 2023-01-20 |
+| [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2023-09-29 |  |
 | [Cayendo \(Side A \- Acoustic\)](https://open.spotify.com/track/72794Eag03xdy7TO0KNuid) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Cayendo \(Side A \- Acoustic\)](https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr) | 3:22 | 2022-12-14 |  |
 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 | 2022-12-14 |  |
 | [Cherry Flavoured](https://open.spotify.com/track/40iocOzytrqaRn5RbGPDNp) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 3:28 | 2021-08-13 | 2022-07-01 |
@@ -158,7 +159,7 @@
 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 | 2023-02-21 | 2023-09-02 |
 | [honey](https://open.spotify.com/track/3MMLO6TUL07tze9IXud0Vc) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [honey](https://open.spotify.com/album/2cohgImotWDHJ3P1ZuVDpw) | 4:14 | 2021-04-30 | 2022-07-29 |
 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 | 2022-10-28 |  |
-| [I Don't Miss You at All](https://open.spotify.com/track/60s0v3N6twZZEsNqzpoxjc) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 2:08 | 2022-10-28 |  |
+| [I Don't Miss You at All](https://open.spotify.com/track/60s0v3N6twZZEsNqzpoxjc) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 2:08 | 2022-10-28 | 2023-10-24 |
 | [I Don't Miss You at All](https://open.spotify.com/track/6ee7CHWggDCiHtZdgzqnJG) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/1O1Ulu4uuaceAzsNfN7ks0) | 2:08 | 2021-04-30 | 2022-07-29 |
 | [i don’t rly like u](https://open.spotify.com/track/4lNtXm1M1pLxMCDx75ad67) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [i don’t rly like u](https://open.spotify.com/album/22I4KbeJfNLOwuew2Rljz1) | 3:25 | 2021-04-30 | 2022-04-19 |
 | [I Just Want to Be the One You Love](https://open.spotify.com/track/7gZDMiW9u6N3UIgBzbdUFU) | [Boxout](https://open.spotify.com/artist/45Sf6MYLYtpaoIebiLw1QB) | [I Just Want to Be the One You Love](https://open.spotify.com/album/5ZlnrUGPrJmpXynJwElBws) | 1:20 | 2022-10-06 | 2022-10-29 |

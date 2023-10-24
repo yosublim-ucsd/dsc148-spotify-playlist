@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Vintage Trouble
 
-326 songs - 20 hr 30 min
+328 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Long Black Electric Cadillac](https://open.spotify.com/track/77iW0ZOavE4PDj9s7DsKqV) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Leftover Feelings](https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs) | 3:25 | 2021-12-17 |  |
 | [Lost & Lonesome](https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Lost & Lonesome](https://open.spotify.com/album/35u6E8Ukn8nRpsJJjS11xv) | 3:42 | 2021-12-17 | 2022-07-29 |
 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2022-01-28 |  |
-| [Lost On Your Time](https://open.spotify.com/track/5fpcViiTc1lMne8wWPDt9E) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Lost On Your Time](https://open.spotify.com/album/3EBD0y2UVCJGUp5q7a9Hw8) | 3:53 | 2023-07-07 |  |
+| [Lost On Your Time](https://open.spotify.com/track/5fpcViiTc1lMne8wWPDt9E) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Lost On Your Time](https://open.spotify.com/album/3EBD0y2UVCJGUp5q7a9Hw8) | 3:53 | 2023-07-07 | 2023-10-24 |
 | [Love Again](https://open.spotify.com/track/0hu3XEEvcVN5Gsn28x5xXU) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Lightning Kid](https://open.spotify.com/album/6nmAKBKRYD7NjTJZSmWM9j) | 3:43 | 2022-01-28 | 2023-06-04 |
 | [Love Again](https://open.spotify.com/track/3OKBGV9o5uVZ5Z8BZUkznb) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Love Again](https://open.spotify.com/album/54pG43tDpcI7ViKYSKSuPk) | 3:43 | 2021-12-17 | 2022-07-25 |
 | [Love Again](https://open.spotify.com/track/4eqO4esVROJogbHufw59o6) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Lightning Kid](https://open.spotify.com/album/1dwdMLgBkMqwaSbYeb2DzL) | 3:43 | 2022-01-28 | 2023-04-30 |
@@ -205,7 +205,7 @@
 | [neve give up](https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:41 | 2021-12-17 | 2023-02-25 |
 | [Never Giving Up](https://open.spotify.com/track/24OXVPUzk1SMVMiMd8LmQ3) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Never Giving Up](https://open.spotify.com/album/60h7Js16nMwWUhRiOYrXpM) | 2:38 | 2022-05-06 | 2022-06-11 |
 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 | 2021-12-17 |  |
-| [Nights Like This](https://open.spotify.com/track/0ZFQltUzwiSxhY84zhlQjW) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Nights Like This](https://open.spotify.com/album/1r28VzMTkkps5SuozpXtP0) | 2:47 | 2023-03-24 |  |
+| [Nights Like This](https://open.spotify.com/track/0ZFQltUzwiSxhY84zhlQjW) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Nights Like This](https://open.spotify.com/album/1r28VzMTkkps5SuozpXtP0) | 2:47 | 2023-03-24 | 2023-10-24 |
 | [No Wrong](https://open.spotify.com/track/6j3ltnb3g4RQRt8azR7Yf5) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/5Pe4lj6pfNgR0ZXeZ1altv) | 3:49 | 2021-12-17 | 2022-04-16 |
 | [Nobody's Wrong](https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Nobody's Wrong](https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp) | 3:55 | 2022-03-11 |  |
 | [Not Ready To Let Go](https://open.spotify.com/track/4nXIogA01ib6VLHPPKZPxt) | [BAYWUD](https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz) | [Not Ready To Let Go](https://open.spotify.com/album/1q1jyVZyIQwzq3DG8z9qVR) | 3:58 | 2022-10-28 |  |
@@ -284,6 +284,7 @@
 | [The Breeze](https://open.spotify.com/track/0Oou2wDOZJFrNqRbDgOFir) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [The Breeze](https://open.spotify.com/album/20qckV3u4PYG6MHZSWJwhH) | 2:36 | 2022-09-02 | 2023-08-26 |
 | [The Fifth of June](https://open.spotify.com/track/2qx6g41H1pK7yP0G1wo3MY) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [The Fifth of June](https://open.spotify.com/album/6VRdWjagHR5bwoq8iI7uYF) | 3:12 | 2022-06-10 | 2022-07-27 |
 | [The Future Ain't What It Used to Be](https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [The Future Ain't What It Used to Be](https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035) | 3:20 | 2022-03-11 | 2022-07-29 |
+| [The Good Life](https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Slow Lightning](https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB) | 3:58 | 2023-10-13 |  |
 | [The Kids Are Having None Of It](https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH) | [Frazey Ford](https://open.spotify.com/artist/3w6sr0v1PArSe6JAwqk8Bl) | [U kin B the Sun](https://open.spotify.com/album/4N5WuLpUuLCY98TrthGv3C) | 4:49 | 2021-12-17 |  |
 | [The Last Time](https://open.spotify.com/track/7MTUA6kke0Q1p86I2XQL34) | [John Németh](https://open.spotify.com/artist/3oMTO3MlDwAzROExBbqKPz) | [May Be the Last Time](https://open.spotify.com/album/7fGQsHSygCD5xVwM0IVQhK) | 3:35 | 2022-09-16 | 2022-10-08 |
 | [The Lengths](https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 4:54 | 2021-12-17 | 2023-05-06 |
@@ -333,6 +334,7 @@
 | [Yet to Be \(feat\. Jason Isbell\)](https://open.spotify.com/track/2YlsQaN9pT4mB3hCkSmFQf) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Yet to Be \(feat\. Jason Isbell\)](https://open.spotify.com/album/4XH92T51JxlIqQOmnaYupi) | 3:39 | 2023-08-18 | 2023-09-09 |
 | [Yet to Be \(feat\. Jason Isbell\)](https://open.spotify.com/track/6iHor3auKtisM4nmBmyGpE) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:39 | 2023-08-18 |  |
 | [You and Your Folks, Me and My Folks \- Recorded at East West Studios](https://open.spotify.com/track/4gtHfvLdEVcGGRL2CkWjKr) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Spotify Singles](https://open.spotify.com/album/736ZS6qpLRbwq2y2clVA26) | 4:12 | 2021-12-17 | 2022-04-16 |
+| [You Can't Love Me](https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [You Can't Love Me](https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l) | 4:11 | 2023-10-20 |  |
 | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/track/4jSCSnMnIXnRbMPM0qLRVX) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [A Southern Gothic](https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n) | 3:01 | 2021-12-17 | 2023-03-25 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 78969,
+  "num_followers": 78973,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDkwMWZjMmZhYTdjNTRkY2YyNjMzM2U5MDBlNTBkMzA0YWRmNGEx",
+  "snapshot_id": "MCxhY2U1M2EwNzM0MzJkOTgxODdiZDAzNzA1ZWQwNWFhOWNmM2I1OWI3",
   "tracks": [
     {
       "added_at": "2022-03-08 15:07:06",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Marlboro Nights",
-        "url": "https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz"
-      },
-      "artists": [
-        {
-          "name": "Lonely God",
-          "url": "https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v"
-        }
-      ],
-      "duration_ms": 68522,
-      "name": "Marlboro Nights",
-      "url": "https://open.spotify.com/track/755inykyaG4w22GWAsA3MX"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "i wanna be your girlfriend",
         "url": "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 204990,
       "name": "i wanna be your girlfriend",
       "url": "https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Marlboro Nights",
+        "url": "https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz"
+      },
+      "artists": [
+        {
+          "name": "Lonely God",
+          "url": "https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v"
+        }
+      ],
+      "duration_ms": 68522,
+      "name": "Marlboro Nights",
+      "url": "https://open.spotify.com/track/755inykyaG4w22GWAsA3MX"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "so sad so sexy",
-        "url": "https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 139840,
-      "name": "sex money feelings die",
-      "url": "https://open.spotify.com/track/0g4fzRkbLeCDUCoe5iUOcf"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
@@ -219,18 +203,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "girls",
-        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
+        "name": "so sad so sexy",
+        "url": "https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 198400,
-      "name": "girls",
-      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
+      "duration_ms": 139840,
+      "name": "sex money feelings die",
+      "url": "https://open.spotify.com/track/0g4fzRkbLeCDUCoe5iUOcf"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -263,6 +247,22 @@
       "duration_ms": 214720,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "girls",
+        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "girls",
+      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137141,
+      "name": "Me and My Husband",
+      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "diary 001",
         "url": "https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 135016,
       "name": "Hello?",
       "url": "https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137141,
-      "name": "Me and My Husband",
-      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -603,38 +603,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Little Dark Age",
-        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 263880,
-      "name": "When You Die",
-      "url": "https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 303296,
-      "name": "Sesame Syrup",
-      "url": "https://open.spotify.com/track/53k1gKFpKrDbktUzrB80f0"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Needs",
         "url": "https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE"
       },
@@ -651,6 +619,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Little Dark Age",
+        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 263880,
+      "name": "When You Die",
+      "url": "https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Lemon Boy",
         "url": "https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 272902,
       "name": "Lemon Boy",
       "url": "https://open.spotify.com/track/3Yvk0ZLxMlt6ioasvdN6vB"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 303296,
+      "name": "Sesame Syrup",
+      "url": "https://open.spotify.com/track/53k1gKFpKrDbktUzrB80f0"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Lemon Boy",
-        "url": "https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 233785,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "A Brief Inquiry Into Online Relationships",
         "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 207851,
       "name": "TOOTIMETOOTIMETOOTIME",
       "url": "https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Lemon Boy",
+        "url": "https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 233785,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Say, Can You Hear",
+        "url": "https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 189246,
+      "name": "Say, Can You Hear",
+      "url": "https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "RIP Indo Hisashi",
         "url": "https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 195501,
       "name": "Narcissist (feat. The 1975)",
       "url": "https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Say, Can You Hear",
-        "url": "https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 189246,
-      "name": "Say, Can You Hear",
-      "url": "https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 186681,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "High As Hope",
         "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
       },
@@ -1423,6 +1407,38 @@
       "duration_ms": 226160,
       "name": "Sky Full Of Song",
       "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Pussy Is God",
+        "url": "https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "Pussy Is God",
+      "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 186681,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1455,22 +1471,6 @@
       "duration_ms": 295333,
       "name": "Pristine",
       "url": "https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Pussy Is God",
-        "url": "https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "Pussy Is God",
-      "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Cool Like You (Deluxe)",
-        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 177656,
-      "name": "I Can't Stand It",
-      "url": "https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Love Is Dead",
         "url": "https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
+        "name": "Cool Like You (Deluxe)",
+        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
       },
       "artists": [
         {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
         }
       ],
-      "duration_ms": 308346,
-      "name": "Heat Wave",
-      "url": "https://open.spotify.com/track/7B0uWqVjMySfDKhtZghBkO"
+      "duration_ms": 177656,
+      "name": "I Can't Stand It",
+      "url": "https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Love Is Dead",
-        "url": "https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG"
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
       },
       "artists": [
         {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
         }
       ],
-      "duration_ms": 188251,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/2Kc1WhZsBbR2ZLbSyv83hO"
+      "duration_ms": 308346,
+      "name": "Heat Wave",
+      "url": "https://open.spotify.com/track/7B0uWqVjMySfDKhtZghBkO"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1659,6 +1643,22 @@
       "duration_ms": 239306,
       "name": "Drunk In LA",
       "url": "https://open.spotify.com/track/76XDNJIQpP9WGO5XASGBww"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Solarize",
+        "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "Vowels",
+      "url": "https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw"
     }
   ],
   "unique_name": "Best of Indie 2018",

@@ -4,7 +4,7 @@
 
 > Pas mal "tes tounes de karaoké préférées".
 
-90 songs - 6 hr 7 min
+91 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Ailleurs](https://open.spotify.com/track/423t7wuX8K01IcXZMzVbBW) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Sans retour](https://open.spotify.com/album/5NBZzXIoyqDUKlvPrdV3fq) | 7:15 | 2020-04-07 |  |
 | [Ailleurs](https://open.spotify.com/track/1UX0cAfJoC2mkPCbCxrKh3) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Tant qu'il y aura des enfants](https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur) | 7:18 | 2020-04-07 | 2022-12-11 |
 | [Aime](https://open.spotify.com/track/4qBxDboTpB6tizWtib6nDe) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Miserere](https://open.spotify.com/album/7bzHZ9axmnjOqNCeBz5GEi) | 4:24 | 2020-04-07 |  |
+| [Aime moi](https://open.spotify.com/track/2EUITdSOgkQvddobT5veE6) | [Claude Barzotti](https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb) | [Aime\-moi](https://open.spotify.com/album/3x5aI6oO3eoUSVzi9XsjMT) | 4:10 | 2020-04-07 |  |
 | [Aime moi](https://open.spotify.com/track/7Br5hb4FGMYRfGp72qNKCd) | [Claude Barzotti](https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb) | [Aime\-moi](https://open.spotify.com/album/1q8MKSc8nUG1OvCieROWV9) | 4:10 | 2020-04-07 | 2023-10-22 |
 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 | 2020-04-07 |  |
 | [Billy](https://open.spotify.com/track/28yEUMWeyu4v6oPsVxF22x) | [Julie Masse](https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC) | [Julie Masse](https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE) | 3:44 | 2020-04-07 |  |
@@ -68,7 +69,7 @@
 | [On ne change pas](https://open.spotify.com/track/5CHVLIj3iRl2vAh1INEw0H) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 4:07 | 2020-04-07 |  |
 | [Parlez\-moi de lui](https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Parlez\-moi de lui \- Single](https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq) | 3:20 | 2020-04-07 |  |
 | [Perdue L'envie D'aimer](https://open.spotify.com/track/1pSIgqNyR8tF8w6PABKlVm) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 3:32 | 2020-04-07 |  |
-| [Pied De Poule](https://open.spotify.com/track/3stGdvzWseLYJllraGNwg2) | [Geneviève Lapointe](https://open.spotify.com/artist/0tTy0BCNGPog9pkYZuqpey) | [Pied De Poule](https://open.spotify.com/album/0lcQiR9XjcrzXQGRCYQnha) | 4:05 | 2020-04-07 |  |
+| [Pied De Poule](https://open.spotify.com/track/3stGdvzWseLYJllraGNwg2) | [Geneviève Lapointe](https://open.spotify.com/artist/0tTy0BCNGPog9pkYZuqpey) | [Pied De Poule](https://open.spotify.com/album/0lcQiR9XjcrzXQGRCYQnha) | 4:05 | 2020-04-07 | 2023-10-24 |
 | [Place des grands hommes](https://open.spotify.com/track/20RHWjtCLr7ODGQEItdZXg) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Alors regarde](https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt) | 4:28 | 2020-04-07 |  |
 | [Pour une histoire d'un soir](https://open.spotify.com/track/0oXqAQBT0KE2IzBgFivcnW) | [Marie Denise Pelletier](https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l) | [Les introuvables](https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo) | 3:39 | 2020-04-07 |  |
 | [Que je t'aime](https://open.spotify.com/track/0ui0AsKMbOntbzq6j2SN9a) | [Sylvain Cossette](https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb) | [Mes succès francophones 1](https://open.spotify.com/album/3UvMunvcUi84AkywMx0htO) | 3:57 | 2020-04-07 |  |

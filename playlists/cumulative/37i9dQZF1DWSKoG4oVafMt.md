@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-788 songs - 1 day 18 hr 51 min
+789 songs - 1 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Beach Side](https://open.spotify.com/track/71Z54iTChBafBtFqzfdlao) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Beach Side](https://open.spotify.com/album/6Bcs0rdNppNnlt30wuS1wE) | 3:08 | 2022-08-05 | 2022-08-18 |
 | [Bebe Di Pasand](https://open.spotify.com/track/4OSXEqZGJFz493HGodyMtD) | [Anmol Dhandra](https://open.spotify.com/artist/6Nt3h2zgNgXKZ6YmiMwiZE) | [Bebe Di Pasand](https://open.spotify.com/album/5ajiQZlIDFxbU8nnr0PGQe) | 3:28 | 2022-12-05 | 2023-02-02 |
 | [Befikra](https://open.spotify.com/track/32Tfuu9E7wDqSCkUaXpdeg) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV) | [Befikra](https://open.spotify.com/album/1IqfKGDaEnFn5zv6xFzJcW) | 3:26 | 2022-02-24 | 2022-04-06 |
+| [Begum](https://open.spotify.com/track/2vP9U2aKVN7MiqJAcFBCX4) | [Armaan Dhillon](https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Abbu](https://open.spotify.com/artist/41VvXdIAesEnGQJcTng2ce), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Legacy](https://open.spotify.com/album/0m8UoInWemJ0sdaS2GIqai) | 3:16 | 2023-10-23 |  |
 | [Belief](https://open.spotify.com/track/4fwgyNZyF5IzMOpHdAPsnF) | [Roop Jai Singh](https://open.spotify.com/artist/1cdUwU6zZAyCnMtAeORa3Z), [Enthamoment](https://open.spotify.com/artist/021ngzZoRi1o21azkbM1n3) | [Belief](https://open.spotify.com/album/2xK6wpJ14JVOuVx0R8vLhv) | 3:42 | 2022-07-29 | 2022-08-18 |
 | [Beliya](https://open.spotify.com/track/58C05jp9At1nyCSK3D1hBv) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Beliya](https://open.spotify.com/album/7evrCbGsmhF9PmzY8aa63L) | 2:55 | 2022-07-13 | 2022-08-18 |
 | [Bewafai Kar Gaya](https://open.spotify.com/track/4NtmlxfMrhLYHDV2EIyVcV) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Lekh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21GFtO2lpsbV44AuGSd9l3) | 3:48 | 2022-04-13 | 2023-02-02 |
@@ -660,7 +661,7 @@
 | [Straight Forward](https://open.spotify.com/track/12PQrHIHBYHz6CqDzRS6Ot) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Straight Forward](https://open.spotify.com/album/3O0QPqMcrOw7SalZBuBIjQ) | 3:15 | 2022-07-28 | 2022-09-23 |
 | [Straight Forward](https://open.spotify.com/track/2bpKRLiSsAW4jWBZ8pLKt8) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Straight Forward](https://open.spotify.com/album/2tzKmPJ72cXuUz6tcV9Tf5) | 3:15 | 2022-07-22 | 2022-07-29 |
 | [Sufi Sufi](https://open.spotify.com/track/3qitvcLRDXlR1LiITfWpZ9) | [Dilraj Grewal](https://open.spotify.com/artist/4K57exUc4hdq6l4iaGyTrT), [Anjali Arora](https://open.spotify.com/artist/40uVhJMaDcTekOBAe2qqTg) | [Sufi Sufi](https://open.spotify.com/album/3SXvkoSVJCpVLoN4cic5gf) | 3:02 | 2022-06-30 | 2022-07-06 |
-| [Suhagan](https://open.spotify.com/track/2UN5ayAAWWfdHI6I33eehA) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 5:14 | 2023-10-12 |  |
+| [Suhagan](https://open.spotify.com/track/2UN5ayAAWWfdHI6I33eehA) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 5:14 | 2023-10-12 | 2023-10-24 |
 | [Suit](https://open.spotify.com/track/0Wzt3fC0iru2uLmE5fg3st) | [Amar Sehmbi](https://open.spotify.com/artist/39qok0BZ6YbUgGWRH4UEEY), [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Suit](https://open.spotify.com/album/5iAjlGCxk1g8J3Bsn394g3) | 3:24 | 2022-07-27 | 2022-12-16 |
 | [Suit](https://open.spotify.com/track/5hP26tC5gV42IwhYMQ4nLA) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Another Side](https://open.spotify.com/album/3wd8Hr4S8649tc3kTuy3ch) | 3:27 | 2023-01-18 |  |
 | [Suit Gulabi](https://open.spotify.com/track/1do83bSMh85dYMSCml1t8I) | [Dalvir Sidhu](https://open.spotify.com/artist/56z6Zt5dNIwgD7ajzBwu0A) | [Never Died](https://open.spotify.com/album/6QgCbo5YPwTmCLejqEaaLZ) | 2:34 | 2022-04-11 | 2022-05-11 |

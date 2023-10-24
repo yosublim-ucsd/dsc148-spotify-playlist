@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Louane
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,119 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,297 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 59 | [Personne](https://open.spotify.com/track/7rxz2DmGz8Slh5KaWWaFxn) | [De Palmas](https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI) | [Personne](https://open.spotify.com/album/5324GkFlHmOo0bQW0t7Iao) | 2:51 |
 | 60 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 |
 
-Snapshot ID: `MCxkYWFlNDZmZTA1MTQ2ODhkYTJiMTFhYWMzMGVjNTdiNGJiOTY1YmQ5`
+Snapshot ID: `MCxlZjE2NjY4ZjY0OWM4OGFlMmFiMmJhYTk3N2I4NjYxNzgzMzllN2Qx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Rony Parulian
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,457 likes - 98 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,499 likes - 98 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 97 | [Museum Memori](https://open.spotify.com/track/1ON8jFskrGzOVtKYJW5qTh) | [Dua Kota](https://open.spotify.com/artist/2Pyk4d6ruGoNcqtflFJDzy) | [Museum Memori](https://open.spotify.com/album/1UybQpJfqA2ZUpb7s7ay3U) | 5:43 |
 | 98 | [For You](https://open.spotify.com/track/0WZeeTP96hrkaSpdorffjE) | [Arialsays](https://open.spotify.com/artist/1k1k7EVTpdVRtMV6rt5vLF) | [For You](https://open.spotify.com/album/5xJCHv1m03tegkDRyDeKMA) | 3:28 |
 
-Snapshot ID: `MCw2NmQ5MmFkZWYzZmQyZmE0NDk4YzIyMDgzNzEwNTcxMDUyZjdhYTNl`
+Snapshot ID: `MCxjNzg0OTRlMTVlNzE5NDEyMzAwMTZmMzBmYjA1ZDM5OGU4ZTRlZjUy`

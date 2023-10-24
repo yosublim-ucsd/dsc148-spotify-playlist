@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 2000160,
+  "num_followers": 2000199,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTdkNjA1MTE3NjFmYWExZjFkMzQzNGYzMzdhYzRhOTA0YzY1NzQ0",
+  "snapshot_id": "MCw1YzFiNDRmNjE3ZTdjMWJjN2VlN2JmMGFmM2Q3OWFjYmZhNTk0NGVk",
   "tracks": [
     {
       "added_at": "2023-10-17 14:54:17",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-10-17 14:54:17",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "TUS GAFITAS",
+      "url": "https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon"
+    },
+    {
+      "added_at": "2023-10-17 14:54:17",
+      "album": {
         "name": "D\u00e9jenme Llorar",
         "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 239226,
       "name": "Lento",
       "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
-    },
-    {
-      "added_at": "2023-10-17 14:54:17",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "TUS GAFITAS",
-      "url": "https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon"
     },
     {
       "added_at": "2023-10-17 14:54:17",
@@ -491,6 +491,26 @@
     {
       "added_at": "2023-10-17 14:54:17",
       "album": {
+        "name": "Mi Persona Favorita",
+        "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 239972,
+      "name": "Mi Persona Favorita",
+      "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
+    },
+    {
+      "added_at": "2023-10-17 14:54:17",
+      "album": {
         "name": "Plut\u00f3n",
         "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
       },
@@ -531,6 +551,22 @@
     {
       "added_at": "2023-10-17 14:54:17",
       "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Aeropuerto",
+      "url": "https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp"
+    },
+    {
+      "added_at": "2023-10-17 14:54:17",
+      "album": {
         "name": "Tengamos Pasado",
         "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
       },
@@ -559,42 +595,6 @@
       "duration_ms": 160399,
       "name": "Bomb\u00f3n",
       "url": "https://open.spotify.com/track/0nhckEPANmrYlBOPCB0pxT"
-    },
-    {
-      "added_at": "2023-10-17 14:54:17",
-      "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Aeropuerto",
-      "url": "https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp"
-    },
-    {
-      "added_at": "2023-10-17 14:54:17",
-      "album": {
-        "name": "Mi Persona Favorita",
-        "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 239972,
-      "name": "Mi Persona Favorita",
-      "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
     },
     {
       "added_at": "2023-10-17 14:54:17",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-10-17 14:54:17",
       "album": {
+        "name": "de mi pa ti",
+        "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 206351,
+      "name": "de mi pa ti",
+      "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
+    },
+    {
+      "added_at": "2023-10-17 14:54:17",
+      "album": {
         "name": "Lejos Conmigo",
         "url": "https://open.spotify.com/album/1LofKMQ8ZnMIcghheAXVtM"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 175840,
       "name": "Lejos Conmigo",
       "url": "https://open.spotify.com/track/6bEyu7fMzsnP5COEg3RkWn"
-    },
-    {
-      "added_at": "2023-10-17 14:54:17",
-      "album": {
-        "name": "de mi pa ti",
-        "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 206351,
-      "name": "de mi pa ti",
-      "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
     },
     {
       "added_at": "2023-10-17 14:54:17",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-10-17 14:54:17",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD"
-      },
-      "artists": [
-        {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 172373,
-      "name": "Pa Quererte",
-      "url": "https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe"
-    },
-    {
-      "added_at": "2023-10-17 14:54:17",
-      "album": {
         "name": "Gaia",
         "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 258154,
       "name": "Caf\u00e9 Con Canela",
       "url": "https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE"
+    },
+    {
+      "added_at": "2023-10-17 14:54:17",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 172373,
+      "name": "Pa Quererte",
+      "url": "https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe"
     },
     {
       "added_at": "2023-10-17 14:54:17",

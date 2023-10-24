@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 195974,
+  "num_followers": 195994,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWU2YzEzZTkwZTc0ZDhhZGE1NmRlNTY5MzhlMTE3OGQxZjk1MThi",
+  "snapshot_id": "MCxlODhjMWYzMzg4YmQxZGYxNzc5MGRiY2EyMzVmZjdjMjg5ZWU1NDg2",
   "tracks": [
     {
       "added_at": "2023-10-20 10:35:17",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
+        "name": "Valborg - Spotify Singles",
+        "url": "https://open.spotify.com/album/2gh1otyRAP056ov4kwzPpz"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        }
+      ],
+      "duration_ms": 153830,
+      "name": "Valborg - Spotify Singles",
+      "url": "https://open.spotify.com/track/6rHvgDYUjdYRf4K5jVLfpw"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
         "name": "Like The River",
         "url": "https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "MANIC",
-        "url": "https://open.spotify.com/album/7aZzOXdbZOl9A8FL3z1c20"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "MANIC",
-      "url": "https://open.spotify.com/track/68M0lk2tYUaQf1TVsEYSXS"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
         "name": "Ciao",
         "url": "https://open.spotify.com/album/6RqUuLYatToNg8HQuZoxgE"
       },
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Valborg - Spotify Singles",
-        "url": "https://open.spotify.com/album/2gh1otyRAP056ov4kwzPpz"
+        "name": "MANIC",
+        "url": "https://open.spotify.com/album/7aZzOXdbZOl9A8FL3z1c20"
       },
       "artists": [
         {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
         }
       ],
-      "duration_ms": 153830,
-      "name": "Valborg - Spotify Singles",
-      "url": "https://open.spotify.com/track/6rHvgDYUjdYRf4K5jVLfpw"
+      "duration_ms": 138461,
+      "name": "MANIC",
+      "url": "https://open.spotify.com/track/68M0lk2tYUaQf1TVsEYSXS"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Fight Like A Girl",
-        "url": "https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 212553,
-      "name": "Fight Like A Girl",
-      "url": "https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
         "name": "Sweet Tea",
         "url": "https://open.spotify.com/album/7KgXqySqEbM0qbJuyhfrXp"
       },
@@ -431,22 +415,6 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 154125,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
         "name": "Slipping Into Color",
         "url": "https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO"
       },
@@ -463,6 +431,38 @@
       "duration_ms": 225764,
       "name": "Slumber",
       "url": "https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "Fight Like A Girl",
+        "url": "https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 212553,
+      "name": "Fight Like A Girl",
+      "url": "https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 154125,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -503,6 +503,22 @@
       "duration_ms": 165685,
       "name": "D\u00f6d f\u00f6r mig",
       "url": "https://open.spotify.com/track/5HKu4DGoq7YNtGQ3ZMt9qD"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "Pistol - Spotify Singles",
+        "url": "https://open.spotify.com/album/4VuiBokNrif0KZFLNCNNAj"
+      },
+      "artists": [
+        {
+          "name": "Parham",
+          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Pistol - Spotify Singles",
+      "url": "https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -555,70 +571,6 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Pistol - Spotify Singles",
-        "url": "https://open.spotify.com/album/4VuiBokNrif0KZFLNCNNAj"
-      },
-      "artists": [
-        {
-          "name": "Parham",
-          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Pistol - Spotify Singles",
-      "url": "https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/54LgsqW9nfE6BjspyJz7K8"
-      },
-      "artists": [
-        {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
-        }
-      ],
-      "duration_ms": 221489,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/2aZghG8jayn0ZjvUN3EiL5"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "Dead Man Walking",
-        "url": "https://open.spotify.com/album/1gW2Nl2haUPLXN2FNHVpsb"
-      },
-      "artists": [
-        {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
-        }
-      ],
-      "duration_ms": 177915,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/5X4EeFwgG6YYzU7xRt96RH"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "Happier",
-        "url": "https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
         "name": "Tagit \u00f6ver himlen",
         "url": "https://open.spotify.com/album/1RlI6eLWlON8W9EOUJS1qT"
       },
@@ -639,18 +591,50 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Famlande fingrar",
-        "url": "https://open.spotify.com/album/3SRC61hkO8NFtgsPjt3Zuk"
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/54LgsqW9nfE6BjspyJz7K8"
       },
       "artists": [
         {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
         }
       ],
-      "duration_ms": 161407,
-      "name": "Famlande fingrar",
-      "url": "https://open.spotify.com/track/6inUJXZBkpQRiCSgcazVjQ"
+      "duration_ms": 221489,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/2aZghG8jayn0ZjvUN3EiL5"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "Happier",
+        "url": "https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "Dead Man Walking",
+        "url": "https://open.spotify.com/album/1gW2Nl2haUPLXN2FNHVpsb"
+      },
+      "artists": [
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "duration_ms": 177915,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/5X4EeFwgG6YYzU7xRt96RH"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -671,6 +655,22 @@
       "duration_ms": 186354,
       "name": "Kan n\u00e5tt fint f\u00e5 h\u00e4nda sen",
       "url": "https://open.spotify.com/track/0QLmMEaOJKgLy1D6ICVNzF"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "Famlande fingrar",
+        "url": "https://open.spotify.com/album/3SRC61hkO8NFtgsPjt3Zuk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "duration_ms": 161407,
+      "name": "Famlande fingrar",
+      "url": "https://open.spotify.com/track/6inUJXZBkpQRiCSgcazVjQ"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/1G5PjW6Cy80XPTmyRr2nyv"
+      },
+      "artists": [
+        {
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+        }
+      ],
+      "duration_ms": 160058,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/69C61BkstEREBdizQrgbQi"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
         "name": "Summertime / Can't Stop",
         "url": "https://open.spotify.com/album/34FVW2V09s0IXrcgjx1AmG"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Tack vare dig",
-        "url": "https://open.spotify.com/album/6MdYecbKxByYEUQqH8Lzkp"
-      },
-      "artists": [
-        {
-          "name": "Mwuana",
-          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Tack vare dig",
-      "url": "https://open.spotify.com/track/72COIJY2DM001e9tLVtYaX"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
         "name": "Tiotusen",
         "url": "https://open.spotify.com/album/3fKfngPRKG4XJACGK1vqtk"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 194643,
       "name": "Tiotusen",
       "url": "https://open.spotify.com/track/0hpsopcXjR8nXMXE7EWwn7"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "Tack vare dig",
+        "url": "https://open.spotify.com/album/6MdYecbKxByYEUQqH8Lzkp"
+      },
+      "artists": [
+        {
+          "name": "Mwuana",
+          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Tack vare dig",
+      "url": "https://open.spotify.com/track/72COIJY2DM001e9tLVtYaX"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -819,22 +835,6 @@
       "duration_ms": 190871,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/4Q9sJipq22mVAHpOnoWprj"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/1G5PjW6Cy80XPTmyRr2nyv"
-      },
-      "artists": [
-        {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
-        }
-      ],
-      "duration_ms": 160058,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/69C61BkstEREBdizQrgbQi"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
+        "name": "Begrava dig",
+        "url": "https://open.spotify.com/album/3QnFcFuPqIdEq8xA9RK4yD"
+      },
+      "artists": [
+        {
+          "name": "Manon Lamartine",
+          "url": "https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw"
+        }
+      ],
+      "duration_ms": 192813,
+      "name": "Begrava dig",
+      "url": "https://open.spotify.com/track/75w415l2DWr3SwGMEreFpS"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
         "name": "Cold Turkey",
         "url": "https://open.spotify.com/album/6cMalQrIbI5ycQijYAjHMc"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 164155,
       "name": "Du har fel",
       "url": "https://open.spotify.com/track/396xDoQ53JLaRv9MvIr7Ge"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "When You're Not Mine",
-        "url": "https://open.spotify.com/album/4PS3WyfsO06gzqCLDJiGEf"
-      },
-      "artists": [
-        {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
-        }
-      ],
-      "duration_ms": 190459,
-      "name": "When You're Not Mine",
-      "url": "https://open.spotify.com/track/1PBplGHCuriImBANJ7kpZp"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
+        "name": "When You're Not Mine",
+        "url": "https://open.spotify.com/album/4PS3WyfsO06gzqCLDJiGEf"
+      },
+      "artists": [
+        {
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+        }
+      ],
+      "duration_ms": 190459,
+      "name": "When You're Not Mine",
+      "url": "https://open.spotify.com/track/1PBplGHCuriImBANJ7kpZp"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
         "name": "H\u00e4lften \u00e4r rakt fr\u00e5n hj\u00e4rtat",
         "url": "https://open.spotify.com/album/4Vq2qQiX6deoCpyKvkPbB4"
       },
@@ -1183,38 +1199,6 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Begrava dig",
-        "url": "https://open.spotify.com/album/3QnFcFuPqIdEq8xA9RK4yD"
-      },
-      "artists": [
-        {
-          "name": "Manon Lamartine",
-          "url": "https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw"
-        }
-      ],
-      "duration_ms": 192813,
-      "name": "Begrava dig",
-      "url": "https://open.spotify.com/track/75w415l2DWr3SwGMEreFpS"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "THERAPY",
-        "url": "https://open.spotify.com/album/3CBtXeUWfk0aRCx6Ri5YQU"
-      },
-      "artists": [
-        {
-          "name": "Elliphant",
-          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "THERAPY",
-      "url": "https://open.spotify.com/track/3ijEcYXQWIKn2Ndx0jubx2"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
         "name": "Konsten att fly",
         "url": "https://open.spotify.com/album/6px7zvuCY3QhjzbD15W8bt"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Headed North",
-        "url": "https://open.spotify.com/album/3h9JCAbfodHxKpFVT5oXiL"
+        "name": "THERAPY",
+        "url": "https://open.spotify.com/album/3CBtXeUWfk0aRCx6Ri5YQU"
       },
       "artists": [
         {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
         }
       ],
-      "duration_ms": 176044,
-      "name": "Headed North",
-      "url": "https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV"
+      "duration_ms": 197333,
+      "name": "THERAPY",
+      "url": "https://open.spotify.com/track/3ijEcYXQWIKn2Ndx0jubx2"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "I Got It All",
-        "url": "https://open.spotify.com/album/7eIkDteTCxxbkjDahZkneg"
+        "name": "Headed North",
+        "url": "https://open.spotify.com/album/3h9JCAbfodHxKpFVT5oXiL"
       },
       "artists": [
         {
-          "name": "Nicole Saboun\u00e9",
-          "url": "https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk"
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
         }
       ],
-      "duration_ms": 245247,
-      "name": "I Got It All",
-      "url": "https://open.spotify.com/track/1JHlUpeFlfNvlmHrQXL3bC"
+      "duration_ms": 176044,
+      "name": "Headed North",
+      "url": "https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1363,6 +1347,22 @@
       "duration_ms": 130509,
       "name": "SVAG",
       "url": "https://open.spotify.com/track/4ONPQrk76tFwINmmnDVUTS"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "I Got It All",
+        "url": "https://open.spotify.com/album/7eIkDteTCxxbkjDahZkneg"
+      },
+      "artists": [
+        {
+          "name": "Nicole Saboun\u00e9",
+          "url": "https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk"
+        }
+      ],
+      "duration_ms": 245247,
+      "name": "I Got It All",
+      "url": "https://open.spotify.com/track/1JHlUpeFlfNvlmHrQXL3bC"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1411,6 +1411,22 @@
       "duration_ms": 202686,
       "name": "A Bowl of Unripe Fruit",
       "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "Faller l\u00e5gt",
+        "url": "https://open.spotify.com/album/6CicQWy2IYtoeEG3rgnjiH"
+      },
+      "artists": [
+        {
+          "name": "Ellen Bergelin",
+          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
+        }
+      ],
+      "duration_ms": 135652,
+      "name": "Faller l\u00e5gt",
+      "url": "https://open.spotify.com/track/084ybk6C8yqXeywfJzOlcM"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1479,6 +1495,22 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
+        "name": "Both Ways",
+        "url": "https://open.spotify.com/album/7lrIOVjFYRKTIDPFufwfJF"
+      },
+      "artists": [
+        {
+          "name": "ELMA",
+          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Both Ways",
+      "url": "https://open.spotify.com/track/7fJT8SSG96Su9Q40Bjs8x2"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
         "name": "K\u00e4nslodiplomaten",
         "url": "https://open.spotify.com/album/6nlRpNWQLHEt6FkiktioPr"
       },
@@ -1511,34 +1543,18 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Both Ways",
-        "url": "https://open.spotify.com/album/7lrIOVjFYRKTIDPFufwfJF"
+        "name": "Tr\u00e4ffa andra",
+        "url": "https://open.spotify.com/album/3dVduJktcL11MXUDkH6I9I"
       },
       "artists": [
         {
-          "name": "ELMA",
-          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
+          "name": "Sebbe Hauta",
+          "url": "https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Both Ways",
-      "url": "https://open.spotify.com/track/7fJT8SSG96Su9Q40Bjs8x2"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "Faller l\u00e5gt",
-        "url": "https://open.spotify.com/album/6CicQWy2IYtoeEG3rgnjiH"
-      },
-      "artists": [
-        {
-          "name": "Ellen Bergelin",
-          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
-        }
-      ],
-      "duration_ms": 135652,
-      "name": "Faller l\u00e5gt",
-      "url": "https://open.spotify.com/track/084ybk6C8yqXeywfJzOlcM"
+      "duration_ms": 163361,
+      "name": "Tr\u00e4ffa andra",
+      "url": "https://open.spotify.com/track/12xfklEh742AncfxxkSIzY"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Give Me A New Role",
-        "url": "https://open.spotify.com/album/2L2yn8l4FLstmFXm2o79v3"
-      },
-      "artists": [
-        {
-          "name": "sir Was",
-          "url": "https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT"
-        }
-      ],
-      "duration_ms": 254555,
-      "name": "Give Me A New Role",
-      "url": "https://open.spotify.com/track/4yJnHyxIVWCoLs8owPwiJp"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
         "name": "Again and Again",
         "url": "https://open.spotify.com/album/47JRk1CbVTPi04WNz7uU9Z"
       },
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-10-20 10:35:17",
       "album": {
-        "name": "Tr\u00e4ffa andra",
-        "url": "https://open.spotify.com/album/3dVduJktcL11MXUDkH6I9I"
+        "name": "Give Me A New Role",
+        "url": "https://open.spotify.com/album/2L2yn8l4FLstmFXm2o79v3"
       },
       "artists": [
         {
-          "name": "Sebbe Hauta",
-          "url": "https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z"
+          "name": "sir Was",
+          "url": "https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT"
         }
       ],
-      "duration_ms": 163361,
-      "name": "Tr\u00e4ffa andra",
-      "url": "https://open.spotify.com/track/12xfklEh742AncfxxkSIzY"
+      "duration_ms": 254555,
+      "name": "Give Me A New Role",
+      "url": "https://open.spotify.com/track/4yJnHyxIVWCoLs8owPwiJp"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1635,22 +1635,6 @@
       "duration_ms": 243520,
       "name": "Stigen",
       "url": "https://open.spotify.com/track/68HcHIRS7uahPafhE5a699"
-    },
-    {
-      "added_at": "2023-10-20 10:35:17",
-      "album": {
-        "name": "Get Real",
-        "url": "https://open.spotify.com/album/6Kzdksle0ZbkKrC5EKIFmJ"
-      },
-      "artists": [
-        {
-          "name": "Noak Hellsing",
-          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Get Real",
-      "url": "https://open.spotify.com/track/1Eg6JkuIMYJzgbLOwV0e79"
     },
     {
       "added_at": "2023-10-20 10:35:17",
@@ -1675,6 +1659,22 @@
       "duration_ms": 200869,
       "name": "Lillebror (No Love)",
       "url": "https://open.spotify.com/track/4GyAVQXFrYcs2AdLOu4M8D"
+    },
+    {
+      "added_at": "2023-10-20 10:35:17",
+      "album": {
+        "name": "Get Real",
+        "url": "https://open.spotify.com/album/6Kzdksle0ZbkKrC5EKIFmJ"
+      },
+      "artists": [
+        {
+          "name": "Noak Hellsing",
+          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Get Real",
+      "url": "https://open.spotify.com/track/1Eg6JkuIMYJzgbLOwV0e79"
     },
     {
       "added_at": "2023-10-20 10:35:17",

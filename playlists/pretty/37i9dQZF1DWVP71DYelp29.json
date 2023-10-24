@@ -1,12 +1,12 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Madison Rose ",
-  "num_followers": 743509,
+  "num_followers": 743520,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGM4OGQyMjc5ZmY0NWIxZDU0YzFjYmI4NmZlYzQwM2FjYmI4Y2Ux",
+  "snapshot_id": "MCw1MzQ4ZDM5YzIxNDczMjRmY2IzZGVkZjE0ODBlYzkxZjE0ZDBkZmQy",
   "tracks": [
     {
       "added_at": "2023-01-11 19:54:48",
@@ -144,22 +144,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 228460,
-      "name": "Delicate - Recorded at The Tracking Room Nashville",
-      "url": "https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
       "artists": [
@@ -219,6 +203,22 @@
       "duration_ms": 272125,
       "name": "Thinking of You (Spotify Singles)",
       "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 228460,
+      "name": "Delicate - Recorded at The Tracking Room Nashville",
+      "url": "https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -488,6 +488,22 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 254834,
+      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2"
       },
       "artists": [
@@ -503,22 +519,6 @@
       "duration_ms": 291447,
       "name": "Wicked Game - Recorded at Electric Lady Studios, NYC (feat. Chris Isaak)",
       "url": "https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 254834,
-      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -736,22 +736,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 215281,
-      "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4ofNmOMGoL3sp1e2Ey8vBe"
       },
       "artists": [
@@ -768,17 +752,17 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
+        "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
       },
       "artists": [
         {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
         }
       ],
-      "duration_ms": 232175,
-      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+      "duration_ms": 215281,
+      "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -795,6 +779,22 @@
       "duration_ms": 157499,
       "name": "D\u00c1KITI \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 232175,
+      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -864,22 +864,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 301144,
-      "name": "Cry Me a River - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/33zW0KIUcungtxX9ZB22g7"
       },
       "artists": [
@@ -899,6 +883,22 @@
       "duration_ms": 163917,
       "name": "Girls Just Wanna Have Fun - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2GwGoL1XlvuYPd6LkZVYB7"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 301144,
+      "name": "Cry Me a River - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -984,22 +984,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
       },
       "artists": [
@@ -1011,6 +995,22 @@
       "duration_ms": 255126,
       "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1304,22 +1304,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
-      },
-      "artists": [
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 211662,
-      "name": "All On Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx"
       },
       "artists": [
@@ -1336,17 +1320,17 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
         }
       ],
-      "duration_ms": 157692,
-      "name": "July - Spotify Singles",
-      "url": "https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM"
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1367,6 +1351,22 @@
       "duration_ms": 229040,
       "name": "Young Dumb & Broke - Recorded At The Colosseum, Caesars Palace, Las Vegas",
       "url": "https://open.spotify.com/track/28rT3OwXdw4VF1MPYIk1P6"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 157692,
+      "name": "July - Spotify Singles",
+      "url": "https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1420,22 +1420,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Tequila - Live Session at Sound Stage Studios, Nashville, TN",
-      "url": "https://open.spotify.com/track/3yj6urYIInWjuE9YzUOKFT"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh"
       },
       "artists": [
@@ -1447,6 +1431,22 @@
       "duration_ms": 184417,
       "name": "Hey Ya! - Live Session from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Tequila - Live Session at Sound Stage Studios, Nashville, TN",
+      "url": "https://open.spotify.com/track/3yj6urYIInWjuE9YzUOKFT"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1564,22 +1564,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 163386,
-      "name": "Shout Out to My Ex - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0XXnAhYqQuhrj4AOkft3Q5"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb"
       },
       "artists": [
@@ -1591,6 +1575,22 @@
       "duration_ms": 202845,
       "name": "God is a woman - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/5gRGXpg9mSxxaj3rK76VR3"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 163386,
+      "name": "Shout Out to My Ex - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0XXnAhYqQuhrj4AOkft3Q5"
     },
     {
       "added_at": "2023-01-11 19:54:48",

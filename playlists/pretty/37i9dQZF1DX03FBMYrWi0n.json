@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Bibi Club",
-  "num_followers": 3080,
+  "num_followers": 3087,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDhmMmU3MjhlZjhmOTlkZmJiMTcyNjEyNjRjNWE3ZGU4MmFmZGQ2",
+  "snapshot_id": "MCxkZmU4NTFjMzY3ZWEwY2YyMDg2YzJlMWI2ZjdlNGUxYjliNTZlODVi",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Aire de plastique",
-        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
-      },
-      "artists": [
-        {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
-        }
-      ],
-      "duration_ms": 247996,
-      "name": "Aire de plastique",
-      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "L'air d'aller (Musique de la s\u00e9rie t\u00e9l\u00e9vis\u00e9e)",
         "url": "https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 146000,
       "name": "N'importe O\u00f9 Sauf Ici",
       "url": "https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Aire de plastique",
+        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "duration_ms": 247996,
+      "name": "Aire de plastique",
+      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Comment Debord",
-        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
-      },
-      "artists": [
-        {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
-        }
-      ],
-      "duration_ms": 222002,
-      "name": "Chalet",
-      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Gants blancs",
         "url": "https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL"
       },
@@ -639,6 +623,38 @@
       "duration_ms": 183706,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Comment Debord",
+        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 222002,
+      "name": "Chalet",
+      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Tu ne mourras pas",
+        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 200765,
+      "name": "Demande-moi",
+      "url": "https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -679,18 +695,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Tu ne mourras pas",
-        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
+        "name": "Darl\u00e8ne",
+        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
       },
       "artists": [
         {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
         }
       ],
-      "duration_ms": 200765,
-      "name": "Demande-moi",
-      "url": "https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1"
+      "duration_ms": 145936,
+      "name": "Ton h\u00f4tel",
+      "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -707,22 +723,6 @@
       "duration_ms": 195000,
       "name": "The Rabbit Song",
       "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Darl\u00e8ne",
-        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
-      },
-      "artists": [
-        {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
-        }
-      ],
-      "duration_ms": 145936,
-      "name": "Ton h\u00f4tel",
-      "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Fleur de l'\u00c2ge",
-        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 202996,
-      "name": "Shoegaze",
-      "url": "https://open.spotify.com/track/6t5COdf65qd8igj588vkET"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Diorama",
         "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "PICTURA DE IPSE : Musique directe",
-        "url": "https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN"
+        "name": "Fleur de l'\u00c2ge",
+        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
       },
       "artists": [
         {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
         }
       ],
-      "duration_ms": 189712,
-      "name": "DIMANCHE SOIR",
-      "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
+      "duration_ms": 202996,
+      "name": "Shoegaze",
+      "url": "https://open.spotify.com/track/6t5COdf65qd8igj588vkET"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -851,6 +835,22 @@
       "duration_ms": 122253,
       "name": "Celui qui attend",
       "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "PICTURA DE IPSE : Musique directe",
+        "url": "https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "duration_ms": 189712,
+      "name": "DIMANCHE SOIR",
+      "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Disruption",
-        "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
-      },
-      "artists": [
-        {
-          "name": "Vulgaires Machins",
-          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Phil\u00e9douche",
         "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 280513,
       "name": "Phile\u0301douche",
       "url": "https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Disruption",
+        "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
+      },
+      "artists": [
+        {
+          "name": "Vulgaires Machins",
+          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
+        }
+      ],
+      "duration_ms": 193027,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "whatwasthatwine",
-        "url": "https://open.spotify.com/album/2gggdOGcGb8orDwBnoZOUQ"
+        "name": "mile \u200eend (kiss ur friends)",
+        "url": "https://open.spotify.com/album/04EpaHiU3NdHePUCmxKyzJ"
       },
       "artists": [
         {
-          "name": "distraction4ever",
-          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
         }
       ],
-      "duration_ms": 241966,
-      "name": "whatwasthatwine",
-      "url": "https://open.spotify.com/track/7L9jN9F0tAueWTIksHQqEY"
+      "duration_ms": 142222,
+      "name": "\u200echerry \u200estems",
+      "url": "https://open.spotify.com/track/1NVzCmOxAhi1OER5yRjMRy"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1159,18 +1159,34 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "mile \u200eend (kiss ur friends)",
-        "url": "https://open.spotify.com/album/04EpaHiU3NdHePUCmxKyzJ"
+        "name": "whatwasthatwine",
+        "url": "https://open.spotify.com/album/2gggdOGcGb8orDwBnoZOUQ"
       },
       "artists": [
         {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
         }
       ],
-      "duration_ms": 142222,
-      "name": "\u200echerry \u200estems",
-      "url": "https://open.spotify.com/track/1NVzCmOxAhi1OER5yRjMRy"
+      "duration_ms": 241966,
+      "name": "whatwasthatwine",
+      "url": "https://open.spotify.com/track/7L9jN9F0tAueWTIksHQqEY"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "O\u00f9 nos corps s'en vont mourir",
+        "url": "https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA"
+      },
+      "artists": [
+        {
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1195,34 +1211,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "O\u00f9 nos corps s'en vont mourir",
-        "url": "https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA"
+        "name": "Kal\u00e9idoscope",
+        "url": "https://open.spotify.com/album/27nWncmd558GGghngqlC4T"
       },
       "artists": [
         {
-          "name": "Marco Ema",
-          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+          "name": "Caravane",
+          "url": "https://open.spotify.com/artist/6hCBXCqoy6C3nNddhQsWRT"
         }
       ],
-      "duration_ms": 177413,
-      "name": "Amy",
-      "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Viendras-tu pleurer?",
-        "url": "https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm"
-      },
-      "artists": [
-        {
-          "name": "Rosier",
-          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
-        }
-      ],
-      "duration_ms": 207013,
-      "name": "Viendras-tu pleurer?",
-      "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"
+      "duration_ms": 127832,
+      "name": "Kal\u00e9idoscope",
+      "url": "https://open.spotify.com/track/0Ftgq4He4Gf6llPi0sJfaY"
     }
   ],
   "unique_name": "ALT_QC",

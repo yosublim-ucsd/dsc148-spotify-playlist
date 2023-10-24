@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfKPI3Q69qH.md) - [plain]
 
 > Music from and inspired by Blood & Water, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,014 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,010 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfKPI3Q69qH.md) - [plain]
 | 70 | [Real Love](https://open.spotify.com/track/14zC2gKUxFVSXubszpMx4h) | [Kaz](https://open.spotify.com/artist/30J7H62LTnp0uOki5i5CXQ) | [Stay Silent](https://open.spotify.com/album/0uI3ZQN5pN3ewCLtpOPlqX) | 3:04 |
 | 71 | [Zulu King Arthur](https://open.spotify.com/track/5IpjEtqbFeuVYEI6QoKf5q) | [Lastee](https://open.spotify.com/artist/02fHk4FBRa87bllGfMAf15), [crownedYung](https://open.spotify.com/artist/0GtgdJ7DF3gH8f2029g1WW) | [BlackOut](https://open.spotify.com/album/4QuG0mGxEXat2dtBcYSswd) | 3:23 |
 | 72 | [Sun Down](https://open.spotify.com/track/7uQ354gEfUZfrHN3vIFg6w) | [T\. Em](https://open.spotify.com/artist/34SG9KNrqrqPkCe4SJlRZH) | [I Relate...](https://open.spotify.com/album/0kffJBPSc2lcyglNcf8557) | 2:13 |
-| 73 | [O Suna Mang](https://open.spotify.com/track/7xfVFKHHZQtjIsBxrxBNC5) | [Reason](https://open.spotify.com/artist/25LmW62LFKrcapOAnJWoNX), [Kid X](https://open.spotify.com/artist/7bbG2jEwQ56ay7Ve4QW3Bf), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [Azania](https://open.spotify.com/album/0VGYRAdzWhlG3DwUGe5vNl) | 3:57 |
+| 73 | [O Suna Mang](https://open.spotify.com/track/7xfVFKHHZQtjIsBxrxBNC5) | [Reason](https://open.spotify.com/artist/56RqECMp24h0Zrr4YwlbYb), [Kid X](https://open.spotify.com/artist/7bbG2jEwQ56ay7Ve4QW3Bf), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [Azania](https://open.spotify.com/album/0VGYRAdzWhlG3DwUGe5vNl) | 3:57 |
 | 74 | [Yasis](https://open.spotify.com/track/2eTT5Ayr27aFhsBh2hlIrG) | [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [Yasis](https://open.spotify.com/album/7tJxAH5vflixnj7bFdabUg) | 3:46 |
 | 75 | [John Cena](https://open.spotify.com/track/07xpeB1txX9bPKTwkuflMg) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [John Cena](https://open.spotify.com/album/5VQoz4FBYZsfmm09XlpOVh) | 3:01 |
 
-Snapshot ID: `MCw3ZjFiOWIxZTUyZTEzMGY4MmRmYWIyODY1NjFhMGUyNzVhMTYyMzgz`
+Snapshot ID: `MCxmNTJlZmRiZmYwYzRkM2EwMDE2NzM2MTUyM2M4NjE1MmU0NTllMzJm`

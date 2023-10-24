@@ -4,7 +4,7 @@
 
 > Versões desplugadas do mundo pop.
 
-159 songs - 9 hr 22 min
+161 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [All of Me \- Live from Spotify Milan](https://open.spotify.com/track/6nyZQ82OI0OujbbFpo3e0K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Sessions](https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE) | 4:51 | 2021-11-05 |  |
 | [America](https://open.spotify.com/track/2ydhxOqJQrYEETtWcuD06y) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [America](https://open.spotify.com/album/165tYANcQE4kZWM0NHx6Y6) | 4:03 | 2021-11-05 | 2022-07-29 |
 | [America](https://open.spotify.com/track/5lZSpbb0BQsequomhDDWv0) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 4:03 | 2021-11-05 | 2023-03-10 |
-| [America](https://open.spotify.com/track/7AH9uEJp62zFAs2E8hvqEk) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 4:03 | 2023-03-24 |  |
+| [America](https://open.spotify.com/track/7AH9uEJp62zFAs2E8hvqEk) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 4:03 | 2023-03-24 | 2023-10-24 |
 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 | 2022-11-25 |  |
 | [Arcade \- Acoustic Version](https://open.spotify.com/track/5e5XSjfqBk4mgRnQR1vu8Z) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade \(Acoustic Version\)](https://open.spotify.com/album/3xiJB41twLQIbwMmv6N9Jz) | 3:19 | 2021-11-05 |  |
 | [Attention \- Live from Spotify Studios NYC](https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Spotify Singles](https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ) | 3:42 | 2021-11-05 | 2023-01-28 |
@@ -29,6 +29,7 @@
 | [Big \- Acoustic](https://open.spotify.com/track/0WaQZO8nw9VKvpYR3yL7Mg) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Big \(Acoustic\)](https://open.spotify.com/album/2coQTbqSfarJT5OW6He8jm) | 2:39 | 2021-11-05 | 2022-09-11 |
 | [Blame It On Me \- Acoustic](https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Blame It On Me \(Acoustic\)](https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd) | 3:11 | 2021-11-05 | 2022-12-13 |
 | [Blue](https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Blue](https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG) | 3:11 | 2021-11-05 |  |
+| [Bomba Relógio](https://open.spotify.com/track/3mNdnKuJz4R0doVNRsTvoZ) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [Bomba Relógio](https://open.spotify.com/album/2o759BamXSEuef3mFMX00X) | 4:03 | 2023-10-23 |  |
 | [Boom Clap \- Spotify Sessions](https://open.spotify.com/track/5lCfF0woasEzNAwLKb6sjp) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Spotify Sessions](https://open.spotify.com/album/0kE3eroQzJ7OQH6qF1XqyO) | 3:21 | 2021-11-05 | 2022-09-03 |
 | [Boyfriend \- Acoustic Version](https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe Acoustic](https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7) | 3:07 | 2021-11-05 |  |
 | [Burning \- Recorded At RAK Studios, London](https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 3:51 | 2021-11-05 |  |
@@ -102,8 +103,9 @@
 | [More Than Words \- Spotify Singles](https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:33 | 2021-11-05 | 2023-08-31 |
 | [N](https://open.spotify.com/track/7iNcOVH9n4EEY2rwWAQOsA) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/25TC2OVhHvNUOm7FOzIS3r) | 3:34 | 2023-04-28 |  |
 | [New Rules \- Acoustic](https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Acoustic\)](https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o) | 3:33 | 2021-11-05 |  |
-| [New Rules \- Piano, Acoustic; Live](https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Live Acoustic EP](https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda) | 3:29 | 2021-11-05 |  |
+| [New Rules \- Piano, Acoustic; Live](https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Live Acoustic EP](https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda) | 3:29 | 2021-11-05 | 2023-10-24 |
 | [Nothing But a Song \- Bonus Acoustic Version](https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Let Yourself In](https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy) | 3:02 | 2021-11-05 |  |
+| [Não Te Largo, Não Te Troco \- Acústico](https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Não Te Largo, Não Te Troco \(Acústico\)](https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX) | 3:50 | 2023-10-23 |  |
 | [Nó na Garganta \- Acústico](https://open.spotify.com/track/6jrCdriDRqJEghjr7Nadtk) | [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH) | [Nó na Garganta \(Acústico\)](https://open.spotify.com/album/4zvib7ats67UVhjatwn2Sg) | 2:41 | 2023-10-06 | 2023-10-14 |
 | [Off](https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Off](https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8) | 2:45 | 2021-11-05 |  |
 | [One Kiss](https://open.spotify.com/track/5oBopn3BpWNSWcYJ7SKhb6) | [Jacob Wellfair](https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V) | [One Kiss](https://open.spotify.com/album/40p2egHm3WhR8Awxv9UMh9) | 3:37 | 2021-11-05 | 2022-11-13 |

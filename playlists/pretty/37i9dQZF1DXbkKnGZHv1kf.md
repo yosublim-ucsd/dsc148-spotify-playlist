@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 
 > Early blues standards and classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,407 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,416 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 | 49 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |
 | 50 | [I'm A Man](https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:44 |
 
-Snapshot ID: `MCwxOWFhOWQxODAzZGYwNjA2YWU2MjJkYjliN2I4MGI5YzdiYTMzZjE0`
+Snapshot ID: `MCw2MDZlMDFjZTBiMjgyNmQ5MjE0ZDNiOWY3NzAxN2JjMWI5YmU1OTZk`

@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 153013,
+  "num_followers": 153079,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjQ1MjgzYmFhMTM2MjdkZTQ2NjVhMTMzMDVhNzkzZDgzODhlYTZj",
+  "snapshot_id": "MCw4NWVmY2Y1ZTZjYTBkOGFjNjkxMTFjOWI5NDg1ZjliNDQ3NjdhNjQ2",
   "tracks": [
     {
       "added_at": "2023-10-20 03:06:05",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-10-20 03:06:05",
       "album": {
+        "name": "Mais Um Voo",
+        "url": "https://open.spotify.com/album/27ZKtXmfYS7OXGb1aKoI7U"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Mais Um Voo",
+      "url": "https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU"
+    },
+    {
+      "added_at": "2023-10-20 03:06:05",
+      "album": {
         "name": "Pouca Pausa",
         "url": "https://open.spotify.com/album/4uvWaZXSz2eMn7YZXXXcS1"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2023-10-20 03:06:05",
       "album": {
-        "name": "Mais Um Voo",
-        "url": "https://open.spotify.com/album/27ZKtXmfYS7OXGb1aKoI7U"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Mais Um Voo",
-      "url": "https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU"
-    },
-    {
-      "added_at": "2023-10-20 03:06:05",
-      "album": {
         "name": "M\u00fasicas Para Fumar Bal\u00e3o",
         "url": "https://open.spotify.com/album/2zBsNCMQxokxViSI9kiaQX"
       },
@@ -399,6 +399,30 @@
       "duration_ms": 237419,
       "name": "Meu Passado",
       "url": "https://open.spotify.com/track/19rYsBUNClYidByVMkY3H1"
+    },
+    {
+      "added_at": "2023-10-20 03:06:05",
+      "album": {
+        "name": "Melhor Dia 12 - Levanta",
+        "url": "https://open.spotify.com/album/75xY7bpwi8IyR3wjJCo701"
+      },
+      "artists": [
+        {
+          "name": "Marcos Baroni",
+          "url": "https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Melhor Dia 12 - Levanta",
+      "url": "https://open.spotify.com/track/3rmbC9VCOgP5CgUAgUIULU"
     },
     {
       "added_at": "2023-10-20 03:06:05",
@@ -515,30 +539,6 @@
       "duration_ms": 312000,
       "name": "Algum Lugar Pra Gente Viajar",
       "url": "https://open.spotify.com/track/63r2vryWNB2R9q3iTu0VzI"
-    },
-    {
-      "added_at": "2023-10-20 03:06:05",
-      "album": {
-        "name": "Melhor Dia 12 - Levanta",
-        "url": "https://open.spotify.com/album/75xY7bpwi8IyR3wjJCo701"
-      },
-      "artists": [
-        {
-          "name": "Marcos Baroni",
-          "url": "https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        },
-        {
-          "name": "MC Leozinho ZS",
-          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Melhor Dia 12 - Levanta",
-      "url": "https://open.spotify.com/track/3rmbC9VCOgP5CgUAgUIULU"
     },
     {
       "added_at": "2023-10-20 03:06:05",
@@ -835,6 +835,30 @@
     {
       "added_at": "2023-10-20 03:06:05",
       "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+    },
+    {
+      "added_at": "2023-10-20 03:06:05",
+      "album": {
         "name": "Mais Al\u00e9m",
         "url": "https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN"
       },
@@ -859,30 +883,6 @@
       "duration_ms": 193854,
       "name": "Mais Al\u00e9m",
       "url": "https://open.spotify.com/track/4usWhbl28jDY4RhZf3oJea"
-    },
-    {
-      "added_at": "2023-10-20 03:06:05",
-      "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
     },
     {
       "added_at": "2023-10-20 03:06:05",
@@ -959,30 +959,6 @@
     {
       "added_at": "2023-10-20 03:06:05",
       "album": {
-        "name": "Elementar",
-        "url": "https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq"
-      },
-      "artists": [
-        {
-          "name": "Gabi Terreiro",
-          "url": "https://open.spotify.com/artist/47h0ARjXa0XT33CgBF0o2G"
-        },
-        {
-          "name": "Theus Terreiro",
-          "url": "https://open.spotify.com/artist/20lXAO0WbrxNENfAnsj1wg"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 170700,
-      "name": "Deixa Queimar",
-      "url": "https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf"
-    },
-    {
-      "added_at": "2023-10-20 03:06:05",
-      "album": {
         "name": "Ato 3: TODAMANH\u00c3",
         "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
       },
@@ -1003,6 +979,30 @@
       "duration_ms": 168448,
       "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
       "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
+    },
+    {
+      "added_at": "2023-10-20 03:06:05",
+      "album": {
+        "name": "Elementar",
+        "url": "https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq"
+      },
+      "artists": [
+        {
+          "name": "Gabi Terreiro",
+          "url": "https://open.spotify.com/artist/47h0ARjXa0XT33CgBF0o2G"
+        },
+        {
+          "name": "Theus Terreiro",
+          "url": "https://open.spotify.com/artist/20lXAO0WbrxNENfAnsj1wg"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 170700,
+      "name": "Deixa Queimar",
+      "url": "https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf"
     },
     {
       "added_at": "2023-10-20 03:06:05",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-10-20 03:06:05",
       "album": {
-        "name": "Cartas ao Divino",
-        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "Adaptar",
-      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
-    },
-    {
-      "added_at": "2023-10-20 03:06:05",
-      "album": {
         "name": "Meia Hora",
         "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 199750,
       "name": "Nada comum",
       "url": "https://open.spotify.com/track/08y2uUZH8TJ9ugWBTPDdM1"
+    },
+    {
+      "added_at": "2023-10-20 03:06:05",
+      "album": {
+        "name": "Cartas ao Divino",
+        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Adaptar",
+      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
     },
     {
       "added_at": "2023-10-20 03:06:05",

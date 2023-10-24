@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aaJXQXKS5j.md) - [plain]
 
 > In the trap with Bad Bunny 🐰 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,760 likes - 40 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,963 likes - 40 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aaJXQXKS5j.md) - [plain]
 | 37 | [Está Cabrón Ser Yo](https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:47 |
 | 38 | [HOY COBRÉ](https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:42 |
 | 39 | [200 Mph](https://open.spotify.com/track/5jGUJXnELDaDTgiRjD9lsg) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:50 |
-| 40 | [De Museo](https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [De Museo](https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR) | 3:29 |
+| 40 | [P FKN R](https://open.spotify.com/track/0fgsKar6uBO08vzHXkTjWi) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:18 |
 
-Snapshot ID: `MCw2NTQ5YmJkYThjMjNkMzBjYTFhNGZkZWZjOWM0NDRmZjJmOTdiY2Rk`
+Snapshot ID: `MCwyYjFmNTU5NDQxNzRhYzkwNTJkNzQ1NzQ0NDE1NzU4NGQyODgwYjVm`

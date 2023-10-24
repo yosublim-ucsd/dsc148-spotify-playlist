@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWE4NmZkOTUxZjVkZjRmYzBmMzk3NTljNjAwYmYwYWRhMjYzMmI2",
+  "snapshot_id": "MCw5OTgwODA1MmUyMThmODI2MmRjMzBkYzA1MDVkMmYzNjQ4ZTJhYzIx",
   "tracks": [
     {
       "added_at": "2023-10-20 19:35:36",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
-        "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
-        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
-      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
         "name": "Feliz Christmas (Vol.1)",
         "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 154453,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
+        "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
+        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
+      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
     },
     {
       "added_at": "2023-10-20 19:35:36",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
-        "name": "Amor Navide\u00f1o",
-        "url": "https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 225125,
-      "name": "Santa Quiero",
-      "url": "https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
         "name": "Emmanuel Jingle Bell Rocks",
         "url": "https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 325397,
       "name": "El A\u00f1o Que Vendr\u00e1 Querido Amigo",
       "url": "https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
+        "name": "Amor Navide\u00f1o",
+        "url": "https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 225125,
+      "name": "Santa Quiero",
+      "url": "https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4"
     },
     {
       "added_at": "2023-10-20 19:35:36",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
+        "name": "Duende",
+        "url": "https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq"
+      },
+      "artists": [
+        {
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 166891,
+      "name": "Duende",
+      "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
         "name": "Para Navidad",
         "url": "https://open.spotify.com/album/27CeHfJqWFuTSj2IOXCMT2"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 187668,
       "name": "Otra Navidad :(",
       "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
-        "name": "Duende",
-        "url": "https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq"
-      },
-      "artists": [
-        {
-          "name": "Georgel",
-          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
-        },
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 166891,
-      "name": "Duende",
-      "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
     },
     {
       "added_at": "2023-10-20 19:35:36",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
-        "name": "Santa",
-        "url": "https://open.spotify.com/album/5GVLfhHDPRPpHrUCMEY3vI"
-      },
-      "artists": [
-        {
-          "name": "Ana Mancebo",
-          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Santa",
-      "url": "https://open.spotify.com/track/6tApaHH8Tp58OQZIU9lFch"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
         "name": "Adornemos los Salones",
         "url": "https://open.spotify.com/album/2mKwTr6J2IKyioMh2vNlfE"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
+        "name": "Santa",
+        "url": "https://open.spotify.com/album/5GVLfhHDPRPpHrUCMEY3vI"
+      },
+      "artists": [
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Santa",
+      "url": "https://open.spotify.com/track/6tApaHH8Tp58OQZIU9lFch"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
         "name": "All I Want For Christmas Is You",
         "url": "https://open.spotify.com/album/1VScrppYvea0ZhVxKXiU6V"
       },
@@ -1047,22 +1047,6 @@
       "duration_ms": 209688,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/0KjVUq0RUNrURYShpLtdwq"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
-        "name": "ESTE DICIEMBRE",
-        "url": "https://open.spotify.com/album/6Up6WWPwItJ5Ze9BC5yt4w"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "ESTE DICIEMBRE",
-      "url": "https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT"
     },
     {
       "added_at": "2023-10-20 19:35:36",
@@ -1083,34 +1067,18 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+        "name": "ESTE DICIEMBRE",
+        "url": "https://open.spotify.com/album/6Up6WWPwItJ5Ze9BC5yt4w"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
         }
       ],
-      "duration_ms": 255125,
-      "name": "Human Nature - En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
-        "name": "st. Pedro's Christmas Special",
-        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 152766,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/6fWLEZCVpWpmOX7cVN6dqX"
+      "duration_ms": 182000,
+      "name": "ESTE DICIEMBRE",
+      "url": "https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT"
     },
     {
       "added_at": "2023-10-20 19:35:36",
@@ -1127,6 +1095,38 @@
       "duration_ms": 215310,
       "name": "Esta Navidad",
       "url": "https://open.spotify.com/track/4NaX0GnWbYcgTSkmvRLYYC"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
+        "name": "Noche Divina",
+        "url": "https://open.spotify.com/album/4eygw8F891MRinJ4NUUD70"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO"
+        }
+      ],
+      "duration_ms": 243366,
+      "name": "O Holy Night/Noche Divina",
+      "url": "https://open.spotify.com/track/3g0wUS9mythjpq3GI7fyrV"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 152766,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/6fWLEZCVpWpmOX7cVN6dqX"
     }
   ],
   "unique_name": "Feliz Navidad",

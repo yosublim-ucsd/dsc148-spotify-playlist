@@ -1,12 +1,12 @@
 {
   "description": "Let's go!",
-  "num_followers": 329072,
+  "num_followers": 329397,
   "original_name": "Indie x Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDhkZWJjZmI4YjIxZWQxMGY0NWZkMThjZDZmZTBkZmE1NmNhYTM3",
+  "snapshot_id": "MCwyNzM0ZmU4MzliOTE3NGFjM2NkNjFhODIyNTgzNjk4MDFmNzQyMTZh",
   "tracks": [
     {
       "added_at": "2023-01-20 11:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "bad idea!",
-        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 219638,
-      "name": "bad idea!",
-      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Year of the Caprese",
         "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
       },
@@ -283,6 +267,22 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
+        "name": "bad idea!",
+        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
         "name": "Get Behind Me Satan",
         "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 157560,
       "name": "Blue Orchid",
       "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Fitz and The Tantrums (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "HandClap",
+      "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
     },
     {
       "added_at": "2023-05-17 13:32:35",
@@ -323,22 +339,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "i'll die anyway.",
-        "url": "https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 192612,
-      "name": "i'll die anyway.",
-      "url": "https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Oysters In My Pocket",
         "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
       },
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Fitz and The Tantrums (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC"
+        "name": "i'll die anyway.",
+        "url": "https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY"
       },
       "artists": [
         {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 193253,
-      "name": "HandClap",
-      "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
+      "duration_ms": 192612,
+      "name": "i'll die anyway.",
+      "url": "https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 195951,
-      "name": "You Stupid Bitch",
-      "url": "https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 276173,
       "name": "Helena Beat",
       "url": "https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 195951,
+      "name": "You Stupid Bitch",
+      "url": "https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 212146,
       "name": "Genghis Khan",
       "url": "https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Call It What You Want",
-      "url": "https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD"
     },
     {
       "added_at": "2023-05-17 13:32:35",
@@ -643,22 +643,6 @@
       "duration_ms": 188000,
       "name": "After Midnight (feat. Clairo)",
       "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 177768,
-      "name": "Lo/Hi",
-      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -731,6 +715,22 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 177768,
+      "name": "Lo/Hi",
+      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
         "name": "Two Vines",
         "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
       },
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
+        "name": "Chaise Longue",
+        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
         "name": "The 1975 (Deluxe Version)",
         "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 254620,
       "name": "Girls",
       "url": "https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 146596,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Chaise Longue",
-        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Lockjaw",
         "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 254037,
       "name": "This Song Is Not About A Girl",
       "url": "https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 146596,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Right Thoughts, Right Words, Right Action (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5W7631WJASasWPAFFzDpzi"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 222282,
-      "name": "Love Illumination",
-      "url": "https://open.spotify.com/track/06Qha323s06okpZ4LmMX7P"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Mondo",
         "url": "https://open.spotify.com/album/2RAn6k3jUNl82STRz2xtL8"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 175773,
       "name": "This Head I Hold",
       "url": "https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Right Thoughts, Right Words, Right Action (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5W7631WJASasWPAFFzDpzi"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 222282,
+      "name": "Love Illumination",
+      "url": "https://open.spotify.com/track/06Qha323s06okpZ4LmMX7P"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Is This What It Feels Like to Feel Like This? (Myd Remix)",
-        "url": "https://open.spotify.com/album/5ntFw6kOzBWC6xXf5SS5Q6"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Is This What It Feels Like to Feel Like This?",
-      "url": "https://open.spotify.com/track/6LTVD3zeHqAAiSqyKDhNEH"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "These Are The Days",
         "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Cool Like You (Deluxe)",
-        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
+        "name": "Is This What It Feels Like to Feel Like This? (Myd Remix)",
+        "url": "https://open.spotify.com/album/5ntFw6kOzBWC6xXf5SS5Q6"
       },
       "artists": [
         {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
         }
       ],
-      "duration_ms": 177656,
-      "name": "I Can't Stand It",
-      "url": "https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb"
+      "duration_ms": 165666,
+      "name": "Is This What It Feels Like to Feel Like This?",
+      "url": "https://open.spotify.com/track/6LTVD3zeHqAAiSqyKDhNEH"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
+        "name": "Cool Like You (Deluxe)",
+        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 177656,
+      "name": "I Can't Stand It",
+      "url": "https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 149443,
       "name": "Daisy - Spotify Singles",
       "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
+    },
+    {
+      "added_at": "2023-05-17 13:32:35",
+      "album": {
+        "name": "Out Of My League",
+        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 181135,
+      "name": "Out Of My League",
+      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1287,22 +1303,6 @@
       "duration_ms": 202921,
       "name": "One Minute More",
       "url": "https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw"
-    },
-    {
-      "added_at": "2023-05-17 13:32:35",
-      "album": {
-        "name": "Out Of My League",
-        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 181135,
-      "name": "Out Of My League",
-      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 348226,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Solarize",
         "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 203066,
-      "name": "A Temporary High",
-      "url": "https://open.spotify.com/track/02SgwZdog41hbpKX9aHA0c"
+      "duration_ms": 348226,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj"
     },
     {
       "added_at": "2023-05-16 12:08:08",
@@ -1483,6 +1467,22 @@
       "duration_ms": 216665,
       "name": "Kool Aid",
       "url": "https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "A Temporary High",
+      "url": "https://open.spotify.com/track/02SgwZdog41hbpKX9aHA0c"
     },
     {
       "added_at": "2023-01-20 11:00:00",

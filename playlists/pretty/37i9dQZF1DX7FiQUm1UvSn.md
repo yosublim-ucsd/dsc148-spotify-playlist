@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 
 ### [Stretching](https://open.spotify.com/playlist/37i9dQZF1DX7FiQUm1UvSn)
 
-> ¡La mejor musica para relajarte y estirar tu cuerpo antes o después del entrenamiento!
+> The best soundtrack to relax and stretch your body before or after training!
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,037 likes - 102 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,096 likes - 102 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 | 101 | [Rise](https://open.spotify.com/track/1nsn93tZ1aUhsEbNETgkvH) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Rise](https://open.spotify.com/album/1751wnl8603VRyhfuLVw35) | 3:50 |
 | 102 | [Royals](https://open.spotify.com/track/1KsRM8VMvRmuCG4WJwmrHj) | [Chloe Kay](https://open.spotify.com/artist/51GieYvdLrSrV9hNNtjRv7) | [Royals](https://open.spotify.com/album/77A1W1oCFKNlAugpDQHhEY) | 3:22 |
 
-Snapshot ID: `MCw1OTQzOTc4NjBhYWQxY2E0MTM2YjZlNjUyODY2MjU3ZDg5MTYyOGVl`
+Snapshot ID: `MCwxNmYyOWVkMGViYTg5ZjVhN2UwOGFjZjlmNWU3N2M1NTJiYmE4ZDM5`

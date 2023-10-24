@@ -833,6 +833,28 @@
     },
     {
       "album": {
+        "name": "THE ARRIVAL",
+        "url": "https://open.spotify.com/album/6zzd8C9lb4iKK3D8AFIP19"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281904,
+      "name": "CHAOS",
+      "url": "https://open.spotify.com/track/6TUM2nFzvR7QKDHVWcOCnT"
+    },
+    {
+      "album": {
         "name": "City Boy",
         "url": "https://open.spotify.com/album/5xWuavh9nDjdOYbcXfCAz2"
       },
@@ -1378,7 +1400,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 225600,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/0wtL1OF0pIuyVHW80faSKx"
@@ -2274,6 +2296,24 @@
       "duration_ms": 365568,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/0C24gM4unxLDwJNa0ax8LP"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365568,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2EHdG8AvxtuZGLk74YQUXt"
     },
     {
       "album": {
@@ -3534,7 +3574,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 216363,
       "name": "Mahoya",
       "url": "https://open.spotify.com/track/1s7ZoLVOFhBLXNIBYgavdr"

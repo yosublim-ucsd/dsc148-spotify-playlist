@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Ben Aler
 
-481 songs - 1 day 2 hr 45 min
+482 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A carta cabal](https://open.spotify.com/track/3asOJIkC0NT24zR2S20azY) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Cantera](https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW) | 4:29 | 2022-05-06 | 2023-01-21 |
 | [A La Quien Quieres](https://open.spotify.com/track/4q9lwDou2FP4Vj3993sfAW) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ojos Vacíos](https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB) | 3:41 | 2023-04-14 | 2023-06-27 |
 | [A Mi Cama](https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [A Mi Cama](https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6) | 2:34 | 2023-03-10 |  |
+| [A TI](https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [A TI](https://open.spotify.com/album/36InzgYAARL1G0fiqy0Uza) | 2:18 | 2023-10-20 |  |
 | [A Veces](https://open.spotify.com/track/2hEGuvAcZGt6kOh5COiBgF) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [A Veces](https://open.spotify.com/album/6miHXeWD9DWJLrUtgNAf5C) | 2:45 | 2021-11-18 | 2022-11-25 |
 | [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 | 2023-05-12 | 2023-09-27 |
 | [Acapulco](https://open.spotify.com/track/3FvQlLlke7bl8phCe1LJgy) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Acapulco](https://open.spotify.com/album/66TzEKIam5WkxScrvzgYBm) | 3:57 | 2023-08-04 |  |
@@ -88,7 +89,7 @@
 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 | 2023-01-27 | 2023-08-05 |
 | [COPILOTO](https://open.spotify.com/track/2PwsYGHIIngJGkxURvmpZG) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [COPILOTO](https://open.spotify.com/album/09L5tvJbAJsZc1jFhIe8CI) | 3:18 | 2023-01-13 | 2023-06-03 |
 | [Corolla 94](https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp) | 3:21 | 2022-11-24 | 2023-06-24 |
-| [Cortada en la Frente](https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Cortada en la Frente](https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy) | 3:20 | 2023-04-14 |  |
+| [Cortada en la Frente](https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Cortada en la Frente](https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy) | 3:20 | 2023-04-14 | 2023-10-24 |
 | [Cortes Modernos](https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Cortes Modernos](https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ) | 3:43 | 2023-03-24 | 2023-09-02 |
 | [costas de coral](https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [costas de coral](https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps) | 3:08 | 2023-01-13 | 2023-02-11 |
 | [cuando me pides más](https://open.spotify.com/track/3ykezGhjSPp02lgGX1bt90) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [cuando me pides más](https://open.spotify.com/album/4wp3B5xYWNhcLSFobaMckG) | 4:19 | 2023-09-01 | 2023-09-04 |

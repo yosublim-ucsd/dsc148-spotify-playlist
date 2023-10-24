@@ -1,12 +1,12 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 557510,
+  "num_followers": 557689,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDI4YTc2M2JkOWI1YzRiYTI1NDYzZDUzYjRiYTJhMmY4ZTY3Mzk5",
+  "snapshot_id": "MCxhODBkYjkyN2NjMWU4N2MyYjIzYWMwMjQyNTc4MjI5ZTkwOGRlNTIx",
   "tracks": [
     {
       "added_at": "2023-10-17 13:57:43",
@@ -43,18 +43,18 @@
     {
       "added_at": "2023-10-17 13:57:43",
       "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 284026,
-      "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
+      "duration_ms": 222826,
+      "name": "Dragula",
+      "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
     },
     {
       "added_at": "2023-10-17 13:57:43",
@@ -75,18 +75,18 @@
     {
       "added_at": "2023-10-17 13:57:43",
       "album": {
-        "name": "Hellbilly Deluxe",
-        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
       },
       "artists": [
         {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 222826,
-      "name": "Dragula",
-      "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
+      "duration_ms": 284026,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
     },
     {
       "added_at": "2023-10-17 13:57:43",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-10-17 13:57:43",
       "album": {
-        "name": "Mezmerize",
-        "url": "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "B.Y.O.B.",
-      "url": "https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"
-    },
-    {
-      "added_at": "2023-10-17 13:57:43",
-      "album": {
         "name": "Vol. 3: The Subliminal Verses",
         "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 201960,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y"
+    },
+    {
+      "added_at": "2023-10-17 13:57:43",
+      "album": {
+        "name": "Mezmerize",
+        "url": "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "B.Y.O.B.",
+      "url": "https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"
     },
     {
       "added_at": "2023-10-17 13:57:43",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-10-17 13:57:43",
       "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 374453,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"
-    },
-    {
-      "added_at": "2023-10-17 13:57:43",
-      "album": {
         "name": "Indestructible (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2023-10-17 13:57:43",
       "album": {
-        "name": "Beyond Hell / Above Heaven",
-        "url": "https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K"
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
       },
       "artists": [
         {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 263080,
-      "name": "A Warrior's Call",
-      "url": "https://open.spotify.com/track/4o6k1XHlrIZay8v1m5VU83"
+      "duration_ms": 243533,
+      "name": "Cowboys from Hell",
+      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
     },
     {
       "added_at": "2023-10-17 13:57:43",
@@ -315,6 +299,22 @@
     {
       "added_at": "2023-10-17 13:57:43",
       "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 374453,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"
+    },
+    {
+      "added_at": "2023-10-17 13:57:43",
+      "album": {
         "name": "We Are Not Your Kind",
         "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
       },
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-10-17 13:57:43",
       "album": {
+        "name": "Beyond Hell / Above Heaven",
+        "url": "https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 263080,
+      "name": "A Warrior's Call",
+      "url": "https://open.spotify.com/track/4o6k1XHlrIZay8v1m5VU83"
+    },
+    {
+      "added_at": "2023-10-17 13:57:43",
+      "album": {
         "name": "Runnin' Wild (Special Edition)",
         "url": "https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 222240,
       "name": "Runnin' Wild",
       "url": "https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj"
-    },
-    {
-      "added_at": "2023-10-17 13:57:43",
-      "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "Cowboys from Hell",
-      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
     },
     {
       "added_at": "2023-10-17 13:57:43",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-10-17 13:57:43",
       "album": {
-        "name": "City of Evil",
-        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
       },
       "artists": [
         {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 311813,
-      "name": "Bat Country",
-      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
+      "duration_ms": 244364,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz"
     },
     {
       "added_at": "2023-10-17 13:57:43",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-10-17 13:57:43",
       "album": {
-        "name": "For Those That Wish To Exist",
-        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
       },
       "artists": [
         {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 244364,
-      "name": "Animals",
-      "url": "https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz"
+      "duration_ms": 311813,
+      "name": "Bat Country",
+      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
     },
     {
       "added_at": "2023-10-17 13:57:43",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-10-17 13:57:43",
       "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu"
-    },
-    {
-      "added_at": "2023-10-17 13:57:43",
-      "album": {
         "name": "Piece of Mind (2015 - Remaster)",
         "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 252733,
       "name": "The Trooper - 2015 Remaster",
       "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
+    },
+    {
+      "added_at": "2023-10-17 13:57:43",
+      "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu"
     },
     {
       "added_at": "2023-10-17 13:57:43",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-10-17 13:57:43",
       "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 261811,
-      "name": "Glitch",
-      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
-    },
-    {
-      "added_at": "2023-10-17 13:57:43",
-      "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 202158,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
+    },
+    {
+      "added_at": "2023-10-17 13:57:43",
+      "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
     },
     {
       "added_at": "2023-10-17 13:57:43",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-10-17 13:57:43",
       "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 263586,
-      "name": "Vice Grip",
-      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
-    },
-    {
-      "added_at": "2023-10-17 13:57:43",
-      "album": {
         "name": "Cannibal",
         "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 291440,
       "name": "Angel Of Death",
       "url": "https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F"
+    },
+    {
+      "added_at": "2023-10-17 13:57:43",
+      "album": {
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 263586,
+      "name": "Vice Grip",
+      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
     },
     {
       "added_at": "2023-10-17 13:57:43",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-10-17 13:57:43",
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 350644,
-      "name": "Moth Into Flame",
-      "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
-    },
-    {
-      "added_at": "2023-10-17 13:57:43",
-      "album": {
         "name": "Gravity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 293466,
       "name": "The World Is Yours",
       "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
+    },
+    {
+      "added_at": "2023-10-17 13:57:43",
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 350644,
+      "name": "Moth Into Flame",
+      "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
     },
     {
       "added_at": "2023-10-17 13:57:43",

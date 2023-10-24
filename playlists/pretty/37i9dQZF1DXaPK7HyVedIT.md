@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: RUBACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,935 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,966 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 9 | [Booty Pop](https://open.spotify.com/track/3IlA4U5Vca1pF6mutpcLUw) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX), [White Sheep](https://open.spotify.com/artist/2jFNsdG1zHOQaQzcBK0B50) | [Booty Pop](https://open.spotify.com/album/1bSplo5F20nYLxUGxTEeDu) | 2:53 |
 | 10 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 |
 | 11 | [Hear Me Now \(Alok Remix\)](https://open.spotify.com/track/3FwGPAu9qxJrNzKNn1HP1n) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Hear Me Now \(Alok Remix\)](https://open.spotify.com/album/1tjKFbLvH3Ee5OJF6nk5T6) | 3:07 |
-| 12 | [Move](https://open.spotify.com/track/4sGA1y5QV3f49Fx58iP8s0) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Move](https://open.spotify.com/album/1D4zpF6pyutYkHlikXauUT) | 3:20 |
-| 13 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 |
-| 14 | [Crazy Tech](https://open.spotify.com/track/3KdbeERPmj7IlwAxnRjZTd) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Alija](https://open.spotify.com/artist/4iGQCEqv5O2JPlcfyhkxEV) | [Crazy Tech](https://open.spotify.com/album/6WkMXJvvcOFJywfHIuPO8U) | 3:04 |
+| 12 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 |
+| 13 | [Move](https://open.spotify.com/track/4sGA1y5QV3f49Fx58iP8s0) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Move](https://open.spotify.com/album/1D4zpF6pyutYkHlikXauUT) | 3:20 |
+| 14 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 |
 | 15 | [Chaos 32](https://open.spotify.com/track/1FkbT2goO7NBjyJzrV6b9K) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj) | [Chaos 32](https://open.spotify.com/album/17appExbNIbdc4aPRcAZ6E) | 1:50 |
 | 16 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 |
 | 17 | [Learning To Love](https://open.spotify.com/track/1Mr0bOCAxXGYL1EVX92iS2) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Noah Henderson](https://open.spotify.com/artist/0kPYgLFS4vuBuCGE8pShFV) | [Learning To Love](https://open.spotify.com/album/3MIFNQDa1cTXyyF8Lp4O4w) | 4:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 79 | [CKULO](https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [CKULO](https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW) | 2:32 |
 | 80 | [Alcalina](https://open.spotify.com/track/4NNfMsL0JnIZXi16qF9HAM) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD) | [Sunlight / Alcalina](https://open.spotify.com/album/2jagSL9eFHxqGSYKcOKlfM) | 3:52 |
 
-Snapshot ID: `MCwyYzIyNDAzMGM1YTY3MGM3OTA2OWIzNTMxMjI1YzJkN2YxMWE0M2Iz`
+Snapshot ID: `MCwzZWFkZGFkOTVkMzliNjU3YzNmMmE5NzNlZjFkZjU5ZmNlZDM1ODE4`

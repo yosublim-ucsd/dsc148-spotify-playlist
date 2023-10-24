@@ -1,12 +1,12 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 687571,
+  "num_followers": 688456,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGYzZGE3NTQwNGU5NzA0MWQ1ZDBkMTNkODNkNWYwMTU3NzRiM2E1",
+  "snapshot_id": "MCwyOGVlY2NlMDEzMGUzYzQzZDNmMDZmMjU2MTY4NjEyNjhkYmQ5ZTY4",
   "tracks": [
     {
       "added_at": "2021-10-15 04:04:50",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
     },
     {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
-      },
-      "artists": [
-        {
-          "name": "The Cult",
-          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "She Sells Sanctuary",
-      "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
-    },
-    {
       "added_at": "2022-11-28 15:12:32",
       "album": {
         "name": "Psychedelic Jungle",
@@ -123,18 +107,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
+        "name": "Love",
+        "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "The Cult",
+          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
         }
       ],
-      "duration_ms": 209573,
-      "name": "Lovesong - 2010 Remaster",
-      "url": "https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3"
+      "duration_ms": 252533,
+      "name": "She Sells Sanctuary",
+      "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -155,22 +139,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Faith (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0BGTV9xi9NFdUjA3erGs1T"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Charlotte Sometimes - Single Version",
-      "url": "https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Let Love In (2011 Remastered Version)",
         "url": "https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF"
       },
@@ -183,6 +151,22 @@
       "duration_ms": 370573,
       "name": "Red Right Hand - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Faith (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0BGTV9xi9NFdUjA3erGs1T"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Charlotte Sometimes - Single Version",
+      "url": "https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -267,22 +251,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Famous Monsters",
-        "url": "https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        }
-      ],
-      "duration_ms": 199944,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "The Bela Session",
         "url": "https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1"
       },
@@ -295,70 +263,6 @@
       "duration_ms": 576703,
       "name": "Bela Lugosi's Dead (Official Version)",
       "url": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Hyaena (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "Dear Prudence",
-      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 448466,
-      "name": "Pictures of You - 2010 Remaster",
-      "url": "https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Lorelei",
-      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Pornography",
-        "url": "https://open.spotify.com/album/33TDfmEXufojT6jxgb3BTK"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 274240,
-      "name": "The Hanging Garden - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6mbZmbZ8wr5DA2CAB3q1GW"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -379,18 +283,114 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Some Girls Wander by Mistake",
-        "url": "https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT"
+        "name": "Famous Monsters",
+        "url": "https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE"
       },
       "artists": [
         {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
         }
       ],
-      "duration_ms": 488011,
-      "name": "Temple of Love - 1992",
-      "url": "https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP"
+      "duration_ms": 199944,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "Lovesong - 2010 Remaster",
+      "url": "https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Hyaena (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "Dear Prudence",
+      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "In the Flat Field",
+        "url": "https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Dark Entries",
+      "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/33TDfmEXufojT6jxgb3BTK"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 274240,
+      "name": "The Hanging Garden - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6mbZmbZ8wr5DA2CAB3q1GW"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Bloody Kisses (Top Shelf Edition)",
+        "url": "https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 538106,
+      "name": "Christian Woman",
+      "url": "https://open.spotify.com/track/3634aKisKlGdUfD9V3MOY5"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
     },
     {
       "added_at": "2023-10-13 03:31:28",
@@ -411,18 +411,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "In the Flat Field",
-        "url": "https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w"
+        "name": "Some Girls Wander by Mistake",
+        "url": "https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT"
       },
       "artists": [
         {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
         }
       ],
-      "duration_ms": 231560,
-      "name": "Dark Entries",
-      "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
+      "duration_ms": 488011,
+      "name": "Temple of Love - 1992",
+      "url": "https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -459,38 +459,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Milk & Kisses",
-        "url": "https://open.spotify.com/album/2xWjRAaO5qYhsJSxmJp1IK"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Serpentskirt",
-      "url": "https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Bloody Kisses (Top Shelf Edition)",
-        "url": "https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 538106,
-      "name": "Christian Woman",
-      "url": "https://open.spotify.com/track/3634aKisKlGdUfD9V3MOY5"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Deep",
         "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
       },
@@ -503,6 +471,22 @@
       "duration_ms": 327133,
       "name": "Cuts You Up",
       "url": "https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 448466,
+      "name": "Pictures of You - 2010 Remaster",
+      "url": "https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -535,6 +519,22 @@
       "duration_ms": 257825,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/7pfP8Z9M9KRUtzTLcnjem5"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Milk & Kisses",
+        "url": "https://open.spotify.com/album/2xWjRAaO5qYhsJSxmJp1IK"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Serpentskirt",
+      "url": "https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Only Theatre of Pain",
-        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
-      },
-      "artists": [
-        {
-          "name": "Christian Death",
-          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Romeo's Distress",
-      "url": "https://open.spotify.com/track/5guasiYhIKTJC84TNsazSm"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "October Rust (Special Edition)",
         "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 325840,
       "name": "Be My Druidess",
       "url": "https://open.spotify.com/track/1ycz5DvATLtmn2pOU8u38C"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Only Theatre of Pain",
+        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
+      },
+      "artists": [
+        {
+          "name": "Christian Death",
+          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Romeo's Distress",
+      "url": "https://open.spotify.com/track/5guasiYhIKTJC84TNsazSm"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Scott 3",
-        "url": "https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI"
-      },
-      "artists": [
-        {
-          "name": "Scott Walker",
-          "url": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
-        }
-      ],
-      "duration_ms": 86333,
-      "name": "30 Century Man",
-      "url": "https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Floodland",
         "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 420300,
       "name": "Dominion / Mother Russia",
       "url": "https://open.spotify.com/track/286oOUWsKLgh9DMcOqKkkQ"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Scott 3",
+        "url": "https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI"
+      },
+      "artists": [
+        {
+          "name": "Scott Walker",
+          "url": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+        }
+      ],
+      "duration_ms": 86333,
+      "name": "30 Century Man",
+      "url": "https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Juju",
-        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 334666,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/1gnZ2VCdVUHSgiBKrzdeK8"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Garlands",
         "url": "https://open.spotify.com/album/3yT1f4nGSy3BBw4ghtRF29"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 244000,
       "name": "Wax And Wane",
       "url": "https://open.spotify.com/track/1pCaxskZpChEzo3ZTeUFwH"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "It'll End In Tears (Remastered)",
+        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
+      },
+      "artists": [
+        {
+          "name": "This Mortal Coil",
+          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+        }
+      ],
+      "duration_ms": 209093,
+      "name": "Kangaroo - Remastered",
+      "url": "https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -875,18 +875,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "It'll End In Tears (Remastered)",
-        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
+        "name": "Juju",
+        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
       },
       "artists": [
         {
-          "name": "This Mortal Coil",
-          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 209093,
-      "name": "Kangaroo - Remastered",
-      "url": "https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo"
+      "duration_ms": 334666,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/1gnZ2VCdVUHSgiBKrzdeK8"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Isn't Anything",
-        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Only Theatre of Pain",
         "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 353160,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/1e9ct57zcGaqnWaehx52Iy"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
     },
     {
       "added_at": "2022-03-30 01:50:22",

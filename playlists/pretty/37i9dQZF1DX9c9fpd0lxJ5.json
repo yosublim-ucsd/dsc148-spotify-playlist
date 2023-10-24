@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 453334,
+  "num_followers": 453344,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjA3ZGFiNzQxYTQ1YzlhNThkZmYyMGNhOGYxZGY0MzU1MzA0M2Ix",
+  "snapshot_id": "MCxmNDQ5YTdiMzYwYzlkZTAyNWI2YTFjOTA5OGY3OTQ4MjQwYjAwMWVl",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "El Tiempo Locura Todo",
-        "url": "https://open.spotify.com/album/2dlQczNA78nEuIY8KOWfrp"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 244769,
-      "name": "Si Hay Algo",
-      "url": "https://open.spotify.com/track/4RBCEwBRA0oHa49UwmhT98"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Me Estoy Enamorando",
         "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
       },
@@ -175,6 +159,38 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Gardenia",
+        "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "El Tiempo Locura Todo",
+        "url": "https://open.spotify.com/album/2dlQczNA78nEuIY8KOWfrp"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 244769,
+      "name": "Si Hay Algo",
+      "url": "https://open.spotify.com/track/4RBCEwBRA0oHa49UwmhT98"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Perreo Bonito",
         "url": "https://open.spotify.com/album/36mS7QJlFRmi3Pcw0yikxc"
       },
@@ -195,22 +211,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Gardenia",
-        "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Ya no nos hablamos",
         "url": "https://open.spotify.com/album/2POquPZMJWFB1SocRQGW9A"
       },
@@ -227,22 +227,6 @@
       "duration_ms": 215807,
       "name": "Ya no nos hablamos",
       "url": "https://open.spotify.com/track/3KjIRxUv81zmSqiphtRxGp"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Nada Que Me Guste M\u00e1s",
-        "url": "https://open.spotify.com/album/1TvWgVEEt5UMrodGdtZ7O7"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 208748,
-      "name": "Nada Que Me Guste M\u00e1s",
-      "url": "https://open.spotify.com/track/24ZdWvvNirs87VDxSMDU9u"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -335,6 +319,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Nada Que Me Guste M\u00e1s",
+        "url": "https://open.spotify.com/album/1TvWgVEEt5UMrodGdtZ7O7"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 208748,
+      "name": "Nada Que Me Guste M\u00e1s",
+      "url": "https://open.spotify.com/track/24ZdWvvNirs87VDxSMDU9u"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Miss Colombia",
         "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
       },
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "La Ternura",
-        "url": "https://open.spotify.com/album/6wuPsukvYhod97ouL3ZiZL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        }
-      ],
-      "duration_ms": 186065,
-      "name": "La Ternura",
-      "url": "https://open.spotify.com/track/54gV1iPCLMkGntWBj6P94O"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Capul\u00ed",
         "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 202770,
       "name": "Capul\u00ed",
       "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "La Ternura",
+        "url": "https://open.spotify.com/album/6wuPsukvYhod97ouL3ZiZL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        }
+      ],
+      "duration_ms": 186065,
+      "name": "La Ternura",
+      "url": "https://open.spotify.com/track/54gV1iPCLMkGntWBj6P94O"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Sweet Escape",
-        "url": "https://open.spotify.com/album/3jCd27MDogNResJz6axMOP"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 166016,
-      "name": "The Sweet Escape",
-      "url": "https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "M\u00fasica para verse bien",
         "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 318058,
       "name": "Esta canci\u00f3n",
       "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "The Sweet Escape",
+        "url": "https://open.spotify.com/album/3jCd27MDogNResJz6axMOP"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 166016,
+      "name": "The Sweet Escape",
+      "url": "https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Moody",
-        "url": "https://open.spotify.com/album/5xgUkUTLMCu6Qx4IZXRxHX"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 198377,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/3fHxCZdMhWqYynQVMF4O3R"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "vivir en los dosmil",
         "url": "https://open.spotify.com/album/0XXM9pJOGUKNJHwiLkExak"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 142439,
       "name": "vivir en los dosmil",
       "url": "https://open.spotify.com/track/3WUlTT5mSRZNmPfbtkvwAS"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Moody",
+        "url": "https://open.spotify.com/album/5xgUkUTLMCu6Qx4IZXRxHX"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 198377,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/3fHxCZdMhWqYynQVMF4O3R"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 148538,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Todo Lamento",
         "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 144960,
       "name": "ojitos caramelo - Remix",
       "url": "https://open.spotify.com/track/3IQY6p8CS54KVq1Od2ZrQZ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "555",
-        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
-      },
-      "artists": [
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 148538,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "jard\u00edn de flores",
+        "url": "https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 199523,
+      "name": "jard\u00edn de flores",
+      "url": "https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Reconciliados",
         "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
       },
@@ -983,22 +999,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "jard\u00edn de flores",
-        "url": "https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 199523,
-      "name": "jard\u00edn de flores",
-      "url": "https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Una Noche M\u00e1s",
         "url": "https://open.spotify.com/album/1uzsloGLr9bFGr6SguBgZZ"
       },
@@ -1031,26 +1031,6 @@
       "duration_ms": 229566,
       "name": "Get Lost In The Music",
       "url": "https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 218479,
-      "name": "No S\u00e9 (feat. Girl Ultra)",
-      "url": "https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1103,42 +1083,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Multicolor",
-        "url": "https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH"
-      },
-      "artists": [
-        {
-          "name": "Solo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
-        }
-      ],
-      "duration_ms": 332546,
-      "name": "Rompecabezas",
-      "url": "https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
-        "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 167753,
-      "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
-      "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "D\u00edas Negros",
         "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
       },
@@ -1151,6 +1095,42 @@
       "duration_ms": 182320,
       "name": "D\u00edas Negros",
       "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 218479,
+      "name": "No S\u00e9 (feat. Girl Ultra)",
+      "url": "https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Multicolor",
+        "url": "https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH"
+      },
+      "artists": [
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        }
+      ],
+      "duration_ms": 332546,
+      "name": "Rompecabezas",
+      "url": "https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1199,6 +1179,26 @@
       "duration_ms": 192340,
       "name": "Pelo Negro",
       "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
+        "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 167753,
+      "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
+      "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "CARISMA",
-        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 153132,
       "name": "Vibras",
       "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "CARISMA",
+        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
     },
     {
       "added_at": "2023-10-06 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > 75 ways to cope with your Indie fomo\. Pixey on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,911 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,908 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 19 | [More Pressure](https://open.spotify.com/track/0sMWdvSFBg1bVkzyszM819) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 3:14 |
 | 20 | [maracuya massage](https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 3:35 |
 | 21 | [We Don't Talk](https://open.spotify.com/track/7eXIQjn66MGgQsPIwkooqR) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Player](https://open.spotify.com/album/3jEG1KuLxlfXCuy2dL71Zx) | 3:25 |
-| 22 | [Why Do I Keep You?](https://open.spotify.com/track/2um6ATuxaGkWk1o1LsrX66) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Why Do I Keep You?](https://open.spotify.com/album/1skkfNGs0DFmq6CWXzc5qH) | 4:00 |
-| 23 | [Come Apart](https://open.spotify.com/track/3yJqlmzdenTmQeb3bdRJfO) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/3E6nSXNMIVy4wofjSstjka) | 3:04 |
+| 22 | [Come Apart](https://open.spotify.com/track/3yJqlmzdenTmQeb3bdRJfO) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/3E6nSXNMIVy4wofjSstjka) | 3:04 |
+| 23 | [Why Do I Keep You?](https://open.spotify.com/track/2um6ATuxaGkWk1o1LsrX66) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Why Do I Keep You?](https://open.spotify.com/album/1skkfNGs0DFmq6CWXzc5qH) | 4:00 |
 | 24 | [Blackphemy](https://open.spotify.com/track/5rYBgw7CHL5G4S6UJKOZ5H) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Blackphemy](https://open.spotify.com/album/4PDdJvVN3LysSlGBoJKzCW) | 3:24 |
 | 25 | [Crown](https://open.spotify.com/track/0rFerK60tXKPQrAqKfiTmu) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Crown](https://open.spotify.com/album/3aXZQpHysgW9zjKC5RPRIG) | 3:42 |
 | 26 | [Bleak Sublime](https://open.spotify.com/track/0pVehOhdsaOdYrBprUKxD6) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/3TDrrfZWTB4Z1Nc6a46QiA) | 3:51 |
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 54 | [Things You Said](https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Weak Teeth](https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy) | 3:23 |
 | 55 | [Mi Amor](https://open.spotify.com/track/7poQxcGYOFFeAQanCTm9Fw) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Mi Amor](https://open.spotify.com/album/26xokh7EVsB98XiXSgXwnE) | 2:38 |
 | 56 | [Busy](https://open.spotify.com/track/1MotJM9gUDBLEPXn84V1U0) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Acting Funny](https://open.spotify.com/album/2kR4SRc4Fi7SpfmbNxEvFk) | 2:46 |
-| 57 | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK) | 3:33 |
-| 58 | [Enemy](https://open.spotify.com/track/2DvqIw0ToR8GriSbvlA4Ws) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 3:42 |
+| 57 | [Enemy](https://open.spotify.com/track/2DvqIw0ToR8GriSbvlA4Ws) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 3:42 |
+| 58 | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK) | 3:33 |
 | 59 | [Porn Magazines](https://open.spotify.com/track/4f3tMrw56Kl9HUrrqhgHza) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Porn Magazines](https://open.spotify.com/album/32F9nzCzR2vhhm5XMW4yiM) | 2:56 |
-| 60 | [I Won't Bite](https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 4:17 |
-| 61 | [單人房](https://open.spotify.com/track/4DW3Orxd68VtREToPclLWf) | [Aldo Tasbur](https://open.spotify.com/artist/7fuouuWQZnx4cSN19IEqHn) | [單人房](https://open.spotify.com/album/1QTnF0zX5zaqwbJNM87CQs) | 3:17 |
+| 60 | [單人房](https://open.spotify.com/track/4DW3Orxd68VtREToPclLWf) | [Aldo Tasbur](https://open.spotify.com/artist/7fuouuWQZnx4cSN19IEqHn) | [單人房](https://open.spotify.com/album/1QTnF0zX5zaqwbJNM87CQs) | 3:17 |
+| 61 | [I Won't Bite](https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 4:17 |
 | 62 | [Take Your Turn](https://open.spotify.com/track/1IPDQby1evDO1L3xEQId0d) | [Umair Ali](https://open.spotify.com/artist/7lMOrU8n2Q6m9j74CtTPBs), [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Take Your Turn](https://open.spotify.com/album/2WZnTtOIz6YawtLj8E2AFN) | 4:16 |
 | 63 | [Se Eu Acordar](https://open.spotify.com/track/6W5NgyZX9fv8GdXTvEh4R5) | [João Não](https://open.spotify.com/artist/5iOD5ECeTZmhUOiIoIPiHC), [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [Se Eu Acordar](https://open.spotify.com/album/0ivJ8dbksjJ3cP81AVaPE2) | 2:30 |
 | 64 | [Baby You’re the One I Need](https://open.spotify.com/track/7hbO2gpSh8ODI0K0iqytsC) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Baby You’re the One I Need](https://open.spotify.com/album/2uO9yAwV5SztvzqHRNmNb6) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 74 | [KiSeKi](https://open.spotify.com/track/2wrcTquPKyQoMmGeVX1vhZ) | [Sho Takahashi](https://open.spotify.com/artist/642xssKVEVaV5IJXySEUsh) | [KiSeKi](https://open.spotify.com/album/4riJBNvT3yhoUO1Y7LTlcB) | 5:15 |
 | 75 | [melody wo koshiraeru](https://open.spotify.com/track/0w0BvlCBmvpo2C6IrgWCPy) | [Soul Babies](https://open.spotify.com/artist/4XcuqT0ZwHVBmB5sDUS0du) | [Soulbabies](https://open.spotify.com/album/4v6OaKJ1i0f9rNxAktNzCV) | 4:10 |
 
-Snapshot ID: `MCxkMWYwZGRiNTNmODE2NjBhOTRiNGFiMDY3MjQxYTc2Y2Y5Y2QyYjQw`
+Snapshot ID: `MCw5YTkxMzkwOGMxODhjNzI5OTFhOTUzODM0YjAwNWE2NmZkNWEyYmY4`

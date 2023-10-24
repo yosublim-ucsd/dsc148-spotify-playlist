@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
@@ -7782,7 +7782,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 182893,
       "name": "el \u00fanico tema del ferxxo",
       "url": "https://open.spotify.com/track/5CLzTL3KI3xb1SbjE8lNWO"
@@ -11740,6 +11740,24 @@
       "duration_ms": 187390,
       "name": "Inv\u00edtame A Un Caf\u00e9",
       "url": "https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d"
+    },
+    {
+      "album": {
+        "name": "Og Bo Toyy",
+        "url": "https://open.spotify.com/album/5dymTWztoU2zUFNKZ4iGLp"
+      },
+      "artists": [
+        {
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156653,
+      "name": "Irreparable",
+      "url": "https://open.spotify.com/track/4g9vBGwvz06hfW5UKTbYl4"
     },
     {
       "album": {
@@ -27842,7 +27860,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 125062,
       "name": "WHAT U KNOW BOUT LOVE - SHISHI RMX",
       "url": "https://open.spotify.com/track/4KVb9XgRT17hTiCfoGmZka"

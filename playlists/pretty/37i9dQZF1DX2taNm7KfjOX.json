@@ -1,12 +1,12 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Mitski",
-  "num_followers": 803551,
+  "num_followers": 803604,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGM0MTIwMTI4YjRkZTJlMzc2Nzk4MDMyNDVlZDliYmFlMTYxMjRk",
+  "snapshot_id": "MCw2M2YzYjRiOGM4MzA3NTdkYzI5NzMxMGFhNzA3MzczOWY0NTFhMDdj",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -223,6 +223,70 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 202047,
+      "name": "anything",
+      "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Drop Cherries",
+        "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 206427,
+      "name": "I Can't Get My Head Around You",
+      "url": "https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "It's Called: Freefall",
+        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -247,70 +311,6 @@
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Drop Cherries",
-        "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 206427,
-      "name": "I Can't Get My Head Around You",
-      "url": "https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 202047,
-      "name": "anything",
-      "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "It's Called: Freefall",
-        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "It's Called: Freefall",
-      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -395,34 +395,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 212467,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Orange Blood",
         "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
       },
@@ -451,6 +423,34 @@
       "duration_ms": 219093,
       "name": "Nothing Arrived - Live from Spotify London",
       "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 212467,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Vampire Empire / Born For Loving You",
+        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 214073,
+      "name": "Born For Loving You",
+      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "supernatural thing",
         "url": "https://open.spotify.com/album/0BGmSkiDyPxghWbyYKnBHG"
       },
@@ -759,6 +775,22 @@
       "duration_ms": 274720,
       "name": "too young to die",
       "url": "https://open.spotify.com/track/1gHdpWRFGZKjB9AljkGtWV"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -787,38 +819,6 @@
       "duration_ms": 215689,
       "name": "Ketchum, ID",
       "url": "https://open.spotify.com/track/2HbDLvUR0SA1o9BDMAqqNM"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Florist",
-        "url": "https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 326156,
-      "name": "Red Bird Pt. 2 (Morning)",
-      "url": "https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Vampire Empire / Born For Loving You",
-        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 214073,
-      "name": "Born For Loving You",
-      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Purple",
+        "url": "https://open.spotify.com/album/2tsB8pb7S525A50GUVL1IE"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 265962,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/5zzbToGMuEli0E7RVFIhDA"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Not Dead Yet",
         "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 219840,
       "name": "and we\u2019ll leave it there\u2026",
       "url": "https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Purple",
-        "url": "https://open.spotify.com/album/2tsB8pb7S525A50GUVL1IE"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 265962,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/5zzbToGMuEli0E7RVFIhDA"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Alabama Haint",
-        "url": "https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 182601,
-      "name": "Alabama Haint",
-      "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 208142,
       "name": "Glory Strums (Loneliness of the Long-Distance Runner)",
       "url": "https://open.spotify.com/track/3BxIJ9VN7BdE7MuArlAhAv"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Alabama Haint",
+        "url": "https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 182601,
+      "name": "Alabama Haint",
+      "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2155,6 +2155,30 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Seed (In Bloom)",
+        "url": "https://open.spotify.com/album/1dEbOB86RSmhOgvdjayQVB"
+      },
+      "artists": [
+        {
+          "name": "M. Byrd",
+          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
+        },
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        },
+        {
+          "name": "orbit",
+          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
+        }
+      ],
+      "duration_ms": 157952,
+      "name": "Seed - In Bloom",
+      "url": "https://open.spotify.com/track/6dqSEB3o1HZ7dmBgUbJy4e"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Sleepless in Seattle",
         "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
       },
@@ -2183,30 +2207,6 @@
       "duration_ms": 246800,
       "name": "Bad Moves",
       "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Seed (In Bloom)",
-        "url": "https://open.spotify.com/album/1dEbOB86RSmhOgvdjayQVB"
-      },
-      "artists": [
-        {
-          "name": "M. Byrd",
-          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
-        },
-        {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
-        },
-        {
-          "name": "orbit",
-          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
-        }
-      ],
-      "duration_ms": 157952,
-      "name": "Seed - In Bloom",
-      "url": "https://open.spotify.com/track/6dqSEB3o1HZ7dmBgUbJy4e"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Henry St.",
-        "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Looking For Love",
-      "url": "https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 224106,
       "name": "Can\u2019t Do Much",
       "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Henry St.",
+        "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Looking For Love",
+      "url": "https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2507,6 +2507,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "When Smoke Rises",
+        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 192167,
+      "name": "Ali",
+      "url": "https://open.spotify.com/track/4TQYdFRCYW7QH0vwmYYt97"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD"
       },
@@ -2543,22 +2559,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "When Smoke Rises",
-        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
-      },
-      "artists": [
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 192167,
-      "name": "Ali",
-      "url": "https://open.spotify.com/track/4TQYdFRCYW7QH0vwmYYt97"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Leftovers",
         "url": "https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK"
       },
@@ -2575,18 +2575,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Big Picture",
-        "url": "https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr"
+        "name": "Eyes Wide Open (From \"North Star\")",
+        "url": "https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe"
       },
       "artists": [
         {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 165133,
-      "name": "Pick",
-      "url": "https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf"
+      "duration_ms": 195840,
+      "name": "Eyes Wide Open - From \"North Star\"",
+      "url": "https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6"
     }
   ],
   "unique_name": "Infinite Indie Folk",

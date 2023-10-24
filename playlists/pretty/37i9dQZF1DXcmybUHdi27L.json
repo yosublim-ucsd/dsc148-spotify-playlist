@@ -1,12 +1,12 @@
 {
   "description": "Catch your biggest flex to these summer tunes.",
-  "num_followers": 43255,
+  "num_followers": 43507,
   "original_name": "Summer Flex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDE1ZmU0ZTY1MjM4NmZmZDBlYjllYTVhZDg0NmQ5OWFhN2ZiYWQ5",
+  "snapshot_id": "MCw2MWFiYWVlNmNmOTEwMWNjNDIxNzM3MjVmY2Q1ODU4ZDM3YjllMDE3",
   "tracks": [
     {
       "added_at": "2023-05-15 01:15:13",
@@ -175,42 +175,6 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
-    },
-    {
-      "added_at": "2023-05-15 01:15:13",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "UNAVAILABLE (feat. Musa Keys)",
-      "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
-    },
-    {
-      "added_at": "2023-05-15 01:15:13",
-      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -247,6 +211,62 @@
       "duration_ms": 180434,
       "name": "Ballin' (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
+    },
+    {
+      "added_at": "2023-05-15 01:15:13",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+    },
+    {
+      "added_at": "2023-05-15 01:15:13",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "UNAVAILABLE (feat. Musa Keys)",
+      "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
+    },
+    {
+      "added_at": "2023-05-15 01:15:13",
+      "album": {
+        "name": "Laugh Now Cry Later (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 261492,
+      "name": "Laugh Now Cry Later (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
     },
     {
       "added_at": "2023-05-15 01:15:13",
@@ -299,26 +319,6 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
-    },
-    {
-      "added_at": "2023-05-15 01:15:13",
-      "album": {
-        "name": "Laugh Now Cry Later (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 261492,
-      "name": "Laugh Now Cry Later (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
     },
     {
       "added_at": "2023-05-15 01:15:13",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 248040,
-      "name": "Essence (feat. Tems)",
-      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
-    },
-    {
-      "added_at": "2023-05-15 01:15:13",
-      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -439,22 +419,22 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 163173,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s"
+      "duration_ms": 248040,
+      "name": "Essence (feat. Tems)",
+      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
     },
     {
       "added_at": "2023-05-15 01:15:13",
@@ -495,6 +475,26 @@
       "duration_ms": 184633,
       "name": "People (feat. Ayra Starr & Omah Lay)",
       "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
+    },
+    {
+      "added_at": "2023-05-15 01:15:13",
+      "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 163173,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s"
     },
     {
       "added_at": "2023-05-15 01:15:13",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo"
-      },
-      "artists": [
-        {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Talibans",
-      "url": "https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY"
-    },
-    {
-      "added_at": "2023-05-15 01:15:13",
-      "album": {
         "name": "A Gangsta\u2019s Pain",
         "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 136899,
       "name": "Time Today",
       "url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J"
+    },
+    {
+      "added_at": "2023-05-15 01:15:13",
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo"
+      },
+      "artists": [
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Talibans",
+      "url": "https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY"
     },
     {
       "added_at": "2023-05-15 01:15:13",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
+        "name": "Welcome To Brixton",
+        "url": "https://open.spotify.com/album/2cJGDIj1sw0CRisyitZqdQ"
+      },
+      "artists": [
+        {
+          "name": "SR",
+          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Welcome To Brixton",
+      "url": "https://open.spotify.com/track/7kQUdVjev73xIuwu7W6YW9"
+    },
+    {
+      "added_at": "2023-05-15 01:15:13",
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 215693,
       "name": "Solid (feat. Drake)",
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
-    },
-    {
-      "added_at": "2023-05-15 01:15:13",
-      "album": {
-        "name": "Welcome To Brixton",
-        "url": "https://open.spotify.com/album/2cJGDIj1sw0CRisyitZqdQ"
-      },
-      "artists": [
-        {
-          "name": "SR",
-          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Welcome To Brixton",
-      "url": "https://open.spotify.com/track/7kQUdVjev73xIuwu7W6YW9"
     },
     {
       "added_at": "2023-05-15 01:15:13",
@@ -715,22 +715,6 @@
       "duration_ms": 225905,
       "name": "Ferrari Horses",
       "url": "https://open.spotify.com/track/5erCwioOcRwP59NJUAtEK3"
-    },
-    {
-      "added_at": "2023-05-15 01:15:13",
-      "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
     },
     {
       "added_at": "2023-05-15 01:15:13",
@@ -815,6 +799,38 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+    },
+    {
+      "added_at": "2023-05-15 01:15:13",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "Flip A Switch.",
+      "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
+    },
+    {
+      "added_at": "2023-05-15 01:15:13",
+      "album": {
         "name": "Scary Hours 2",
         "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
-        "name": "Munch (Feelin\u2019 U)",
-        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 104819,
-      "name": "Munch (Feelin\u2019 U)",
-      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
-    },
-    {
-      "added_at": "2023-05-15 01:15:13",
-      "album": {
         "name": "Rema",
         "url": "https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf"
       },
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+        "name": "Munch (Feelin\u2019 U)",
+        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 201373,
-      "name": "Flip A Switch.",
-      "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
+      "duration_ms": 104819,
+      "name": "Munch (Feelin\u2019 U)",
+      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
     },
     {
       "added_at": "2023-05-15 01:15:13",
@@ -935,22 +935,18 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
-        "name": "Us Against the World (Remix)",
-        "url": "https://open.spotify.com/album/5SZXD6IbW91jQKMTJmwlvv"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
-          "name": "Strandz",
-          "url": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
-        },
-        {
-          "name": "Digga D",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 192527,
-      "name": "Us Against the World - Remix",
-      "url": "https://open.spotify.com/track/0pGecxPm2EOIQgc241d38t"
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
     }
   ],
   "unique_name": "Summer Flex",

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 104764,
+  "num_followers": 104784,
   "original_name": "Ver\u00e3o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjEwZTIzZjkwYWQxZTI1YTEzNzZkYjMxY2EzNmEzNWI4ODI1ODJj",
+  "snapshot_id": "MCwxYThiMGE0MThhZDMxNTY0OWQxODRiZGVmYTEwODZiZmJmODVhYzIx",
   "tracks": [
     {
       "added_at": "2023-08-29 17:00:51",
@@ -551,26 +551,6 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
-        "name": "RR",
-        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 194543,
-      "name": "BESO",
-      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
         "name": "Ella Baila Sola",
         "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
+        "name": "RR",
+        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 194543,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
     },
     {
       "added_at": "2023-08-29 17:00:51",
@@ -771,6 +771,26 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 156942,
       "name": "Duas Tr\u00eas",
       "url": "https://open.spotify.com/track/0redQHBfejmPUhonR5ppGC"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
-        "name": "Miracle (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 186496,
-      "name": "Miracle (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
       "added_at": "2023-08-29 17:00:51",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 154694,
-      "name": "MINHA CURA",
-      "url": "https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
         "name": "DON'T YOU WORRY",
         "url": "https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 196363,
       "name": "DON'T YOU WORRY",
       "url": "https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 154694,
+      "name": "MINHA CURA",
+      "url": "https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce"
     },
     {
       "added_at": "2023-08-29 17:00:51",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
-        "name": "NO CH\u00c3O NOVINHA",
-        "url": "https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 136901,
-      "name": "NO CH\u00c3O NOVINHA",
-      "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
         "name": "Vontade De Morder",
         "url": "https://open.spotify.com/album/7Iah8z9NOyOa6WUe0J22I1"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 154973,
       "name": "Vontade De Morder",
       "url": "https://open.spotify.com/track/4lsDFVKOVwPeAVw1hPOn7G"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
+        "name": "NO CH\u00c3O NOVINHA",
+        "url": "https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 136901,
+      "name": "NO CH\u00c3O NOVINHA",
+      "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
     },
     {
       "added_at": "2023-08-29 17:00:51",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/6OzWkDYmerUM9a94FxDWOE"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "duration_ms": 258223,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/5p1eiAHN5xYAMrSUDKxidI"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
         "name": "Sentir Saudade (feat. Bia Caboz)",
         "url": "https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 205440,
       "name": "Sentir Saudade (feat. Bia Caboz)",
       "url": "https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/6OzWkDYmerUM9a94FxDWOE"
-      },
-      "artists": [
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        }
-      ],
-      "duration_ms": 258223,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/5p1eiAHN5xYAMrSUDKxidI"
     },
     {
       "added_at": "2023-08-29 17:00:51",
@@ -1983,6 +1983,26 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
+        "name": "Onde Anda",
+        "url": "https://open.spotify.com/album/2BLhHO8nvFd0rzzCEiJxd0"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 177728,
+      "name": "Onde Anda",
+      "url": "https://open.spotify.com/track/6pjwF61Itkaucau73UsfhK"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
         "name": "C\u00ea N\u00e3o Tem No\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6E8YCf91O1AaKIh0B1MlL0"
       },
@@ -1999,22 +2019,6 @@
       "duration_ms": 159115,
       "name": "C\u00ea N\u00e3o Tem No\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0iDNkj4n9xuU7SwfKSd4f2"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 208068,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv"
     }
   ],
   "unique_name": "Ver\u00e3o 2023",

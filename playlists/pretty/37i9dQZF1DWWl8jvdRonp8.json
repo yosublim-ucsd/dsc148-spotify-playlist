@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 181262,
+  "num_followers": 181388,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWZmNjM0NDBiYmY5NTBjMWU5YzBkMzQ0MGQ5YWQ1NDEyM2NjOTcw",
+  "snapshot_id": "MCxhMjgxOWY1MjczNTMyOGY5MWVjYzdiMzQwOWQwMWVkOWYxMThhNWY5",
   "tracks": [
     {
       "added_at": "2023-10-11 22:12:05",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "15 \u00c9xitos de Marisela Vol. 2",
-        "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
-      },
-      "artists": [
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/4vwNVm3Jrdj7G9w5XJX4x3"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
         "name": "Y Para Siempre ...",
         "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 208066,
       "name": "A Donde Vayas",
       "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "Tu Amor O Tu Desprecio",
+        "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 209506,
+      "name": "M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Tu Amor O Tu Desprecio",
-        "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
+        "name": "15 \u00c9xitos de Marisela Vol. 2",
+        "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
         }
       ],
-      "duration_ms": 209506,
-      "name": "M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
+      "duration_ms": 215626,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/4vwNVm3Jrdj7G9w5XJX4x3"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -395,6 +395,22 @@
       "duration_ms": 243173,
       "name": "Basta Ya - Banda",
       "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -435,6 +451,22 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
+        "name": "Yo Te Necesito",
+        "url": "https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "Yo Te Necesito",
+      "url": "https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
         "name": "Arde El Cielo",
         "url": "https://open.spotify.com/album/2yvMWRuWOjzY1OhZfJfC96"
       },
@@ -471,54 +503,6 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
-        "name": "Yo Te Necesito",
-        "url": "https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "Yo Te Necesito",
-      "url": "https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
-        "name": "15 \u00c9xitos de Marisela Vol. 2",
-        "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
-      },
-      "artists": [
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "Dios Bendiga Nuestro Amor",
-      "url": "https://open.spotify.com/track/2xU5EhojcovfkXYDS9Kq7k"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
         "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
         "url": "https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+        "name": "15 \u00c9xitos de Marisela Vol. 2",
+        "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
       },
       "artists": [
         {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
         }
       ],
-      "duration_ms": 195117,
-      "name": "Inventame - En Vivo",
-      "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
+      "duration_ms": 189706,
+      "name": "Dios Bendiga Nuestro Amor",
+      "url": "https://open.spotify.com/track/2xU5EhojcovfkXYDS9Kq7k"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -571,22 +555,6 @@
       "duration_ms": 265840,
       "name": "Como Tu Mujer - Banda",
       "url": "https://open.spotify.com/track/2q13QRhe7cgmZNjUmwbn4p"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
-        "name": "Yo Vendo Unos Ojos Verdes",
-        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Prefiero Partir",
-      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -623,18 +591,34 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "15 \u00c9xitos de Marisela Vol. 1",
-        "url": "https://open.spotify.com/album/6YLiyX7kvfDkKu1AGhQj6z"
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
       },
       "artists": [
         {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 243426,
-      "name": "No Puedo Olvidarlo",
-      "url": "https://open.spotify.com/track/3cbJ48vdcTrBMeereYxYUc"
+      "duration_ms": 195117,
+      "name": "Inventame - En Vivo",
+      "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "Yo Vendo Unos Ojos Verdes",
+        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Prefiero Partir",
+      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -671,22 +655,6 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Como Fui A Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
         "name": "Las Preferidas, Vol. 2 (En vivo)",
         "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
       },
@@ -703,18 +671,18 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "En Total Plenitud",
-        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+        "name": "15 \u00c9xitos de Marisela Vol. 1",
+        "url": "https://open.spotify.com/album/6YLiyX7kvfDkKu1AGhQj6z"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
         }
       ],
-      "duration_ms": 228920,
-      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
-      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
+      "duration_ms": 243426,
+      "name": "No Puedo Olvidarlo",
+      "url": "https://open.spotify.com/track/3cbJ48vdcTrBMeereYxYUc"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -735,6 +703,38 @@
       "duration_ms": 237400,
       "name": "Recuerdos, Tristeza Y Soledad",
       "url": "https://open.spotify.com/track/4FjZvGHJpFLJIZxCpsoRnP"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Como Fui A Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
+      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Joyas Prestadas - Pop",
-        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Como Tu Mujer - Pop",
-      "url": "https://open.spotify.com/track/5im5eFZxOiXeUklQZXaqpR"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
         "name": "Mis Dos Vicios",
         "url": "https://open.spotify.com/album/482qMIYNe7bTRZ5fxI678e"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 197933,
       "name": "Como Fui A Enamorarme De Ti",
       "url": "https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "Joyas Prestadas - Pop",
+        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Como Tu Mujer - Pop",
+      "url": "https://open.spotify.com/track/5im5eFZxOiXeUklQZXaqpR"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 210680,
-      "name": "M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
         "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
         "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 196946,
       "name": "Mira Nomas",
       "url": "https://open.spotify.com/track/0bewBWJTe68j6138OW4nc0"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 210680,
+      "name": "M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1531,6 +1531,22 @@
       "duration_ms": 234586,
       "name": "Y Ahora Te Vas",
       "url": "https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
+        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 284293,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/550U627v5DqbPJnwb7bYMh"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Lo M\u00e1s Rom\u00e1ntico De",
-        "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Arrepentida Y Sola",
-      "url": "https://open.spotify.com/track/65YhdVz8hZ5bLoupz0RZGG"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
-        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+        "name": "Lo M\u00e1s Rom\u00e1ntico De",
+        "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
       },
       "artists": [
         {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 284293,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/550U627v5DqbPJnwb7bYMh"
+      "duration_ms": 280653,
+      "name": "Entre Tu Y Yo",
+      "url": "https://open.spotify.com/track/3HzJk6dBCLNvRt2O33JgOm"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
+        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
+        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 291640,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
         "name": "Necesito una Compa\u00f1era",
         "url": "https://open.spotify.com/album/4heY34LeaTojXCBSPUw0lK"
       },
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Homenaje A Mi Madre",
-        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
-        }
-      ],
-      "duration_ms": 300013,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/4RliszqtnduxG1oafGlM7h"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
         "name": "Necesito una Compa\u00f1era",
         "url": "https://open.spotify.com/album/1xCTONzIVInu4NuiFV169l"
       },
@@ -1731,6 +1731,38 @@
       "duration_ms": 186920,
       "name": "Necesito una Compa\u00f1era",
       "url": "https://open.spotify.com/track/2m2QR2IBpKL2JbVBj0BlYA"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "Despu\u00e9s De Hoy",
+        "url": "https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4"
+      },
+      "artists": [
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+        }
+      ],
+      "duration_ms": 174533,
+      "name": "Poquito A Poco",
+      "url": "https://open.spotify.com/track/0J0N6Jp94JyjDgtnuuQaVi"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "Homenaje A Mi Madre",
+        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+        }
+      ],
+      "duration_ms": 300013,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/4RliszqtnduxG1oafGlM7h"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1779,38 +1811,6 @@
       "duration_ms": 183333,
       "name": "Si Ya No Te Vuelvo A Ver",
       "url": "https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
-        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
-        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 291640,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
-        "name": "Despu\u00e9s De Hoy",
-        "url": "https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4"
-      },
-      "artists": [
-        {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
-        }
-      ],
-      "duration_ms": 174533,
-      "name": "Poquito A Poco",
-      "url": "https://open.spotify.com/track/0J0N6Jp94JyjDgtnuuQaVi"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Ladr\u00f3n De Buena Suerte",
-      "url": "https://open.spotify.com/track/0bXmkULAV5RNw9pL5iiLb8"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
         "name": "Me Volvi A Acordar De Ti",
         "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 207186,
       "name": "Me Volv\u00ed A Acordar De Ti",
       "url": "https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 211586,
+      "name": "Ladr\u00f3n De Buena Suerte",
+      "url": "https://open.spotify.com/track/0bXmkULAV5RNw9pL5iiLb8"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "M\u00e1s De Mi Alma",
-        "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 280026,
-      "name": "Cuando Te Acuerdes De Mi",
-      "url": "https://open.spotify.com/track/461E9GGt5TzUIrOGKAOSzy"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
         "name": "En Pleno Vuelo",
         "url": "https://open.spotify.com/album/68VGIlnvGzHFpV7PmMg0q5"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 265986,
       "name": "Recuerdos, Tristeza Y Soledad",
       "url": "https://open.spotify.com/track/5WcIcxtF79cCtpRRHzCutr"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "M\u00e1s De Mi Alma",
+        "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 280026,
+      "name": "Cuando Te Acuerdes De Mi",
+      "url": "https://open.spotify.com/track/461E9GGt5TzUIrOGKAOSzy"
     },
     {
       "added_at": "2023-10-11 22:12:05",

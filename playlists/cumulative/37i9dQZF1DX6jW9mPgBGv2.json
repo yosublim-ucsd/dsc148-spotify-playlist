@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Eladio Carrion y Morad plantando cara.",
+  "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Bad Bunny plantando cara.",
   "name": "FRONTEO",
   "tracks": [
     {
@@ -1173,6 +1173,28 @@
     },
     {
       "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202635,
+      "name": "MERCEDES CAROTA",
+      "url": "https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU"
+    },
+    {
+      "album": {
         "name": "Mi Estilo de Vida II",
         "url": "https://open.spotify.com/album/1Zpuz09ffF0B2HyGDgPObZ"
       },
@@ -1298,6 +1320,24 @@
       "duration_ms": 334153,
       "name": "Millones",
       "url": "https://open.spotify.com/track/3AMjach3UjnwFdcx3q2hIF"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189258,
+      "name": "MR. OCTOBER",
+      "url": "https://open.spotify.com/track/1ODFVLQszq0hCOdZtqV5wq"
     },
     {
       "album": {

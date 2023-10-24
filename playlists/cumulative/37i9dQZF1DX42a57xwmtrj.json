@@ -434,7 +434,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 266160,
       "name": "Cuando t\u00fa no est\u00e1s",
       "url": "https://open.spotify.com/track/5OERhflGNuzivVN3vEEU6n"
@@ -456,6 +456,28 @@
       "duration_ms": 230713,
       "name": "Cuarto para las Dos",
       "url": "https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn"
+    },
+    {
+      "album": {
+        "name": "Cupido en la Barra",
+        "url": "https://open.spotify.com/album/6FhwlDXjiy4ooMV4Iqc9JA"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        },
+        {
+          "name": "Armando Palomas",
+          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Cupido en la Barra",
+      "url": "https://open.spotify.com/track/5X0oKnPbUq1WQyGoas6UAX"
     },
     {
       "album": {
@@ -524,7 +546,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 255053,
       "name": "Dolor de Madre",
       "url": "https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO"
@@ -1520,6 +1542,24 @@
       "duration_ms": 283488,
       "name": "Mun\u0303equita Sinte\u0301tica",
       "url": "https://open.spotify.com/track/0SztZWdbPLXk7EcvQJ6MLt"
+    },
+    {
+      "album": {
+        "name": "Nezayork",
+        "url": "https://open.spotify.com/album/3L7rldwdTRAT5qydAQJXJR"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154005,
+      "name": "Nezayork",
+      "url": "https://open.spotify.com/track/1AoIZbgzOfGJ9wiBPm3UHC"
     },
     {
       "album": {

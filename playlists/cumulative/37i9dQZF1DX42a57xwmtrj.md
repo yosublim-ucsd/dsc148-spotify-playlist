@@ -4,7 +4,7 @@
 
 > ¡Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.
 
-145 songs - 9 hr 41 min
+147 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,12 +31,13 @@
 | [Como Dona a Su Agujero](https://open.spotify.com/track/4SeWTbfjNvu6ljXCo61tra) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [Anda Borracho Pancho](https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw) | 4:21 | 2020-11-13 |  |
 | [Contigo Sin Ti](https://open.spotify.com/track/4lv4hGY9TzzR2ThDKtEaJG) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Contigo Sin Ti](https://open.spotify.com/album/0KkNneoGKq6ZckZzZDwpEB) | 3:26 | 2020-11-13 | 2022-07-28 |
 | [Cristo Viejo](https://open.spotify.com/track/43IpgycykkiMC7Tm6Q6SS2) | [Fantasma De Canterville](https://open.spotify.com/artist/040rbCr9V95JeswXJeStGx) | [Cristo Viejo](https://open.spotify.com/album/71AJr8ywoxzLvKKssrPKBy) | 5:23 | 2020-11-13 |  |
-| [Cuando tú no estás](https://open.spotify.com/track/5OERhflGNuzivVN3vEEU6n) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Cuando tú no estás](https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ) | 4:26 | 2020-11-13 |  |
+| [Cuando tú no estás](https://open.spotify.com/track/5OERhflGNuzivVN3vEEU6n) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Cuando tú no estás](https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ) | 4:26 | 2020-11-13 | 2023-10-24 |
 | [Cuarto para las Dos](https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 3:50 | 2020-11-13 |  |
+| [Cupido en la Barra](https://open.spotify.com/track/5X0oKnPbUq1WQyGoas6UAX) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Cupido en la Barra](https://open.spotify.com/album/6FhwlDXjiy4ooMV4Iqc9JA) | 3:11 | 2023-10-23 |  |
 | [De Que el Amor Apesta](https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:38 | 2020-11-13 |  |
 | [Difícil](https://open.spotify.com/track/31Hutqdoy7EZrLiF855CCO) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 2:46 | 2020-11-13 | 2022-07-25 |
 | [Dios Salve a las Bandas](https://open.spotify.com/track/5pTIKSSckGFcPqsptMd6SA) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:08 | 2020-11-13 | 2022-10-16 |
-| [Dolor de Madre](https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:15 | 2020-11-13 |  |
+| [Dolor de Madre](https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:15 | 2020-11-13 | 2023-10-24 |
 | [Déjalo](https://open.spotify.com/track/6CqGIY1S178hzRvAKh1Z1r) | [Sangre Avandaro](https://open.spotify.com/artist/6JfNh1KwOmuN120aTVfUN8) | [Ella Ya Murió](https://open.spotify.com/album/2dC9MuUxi90lLwlqnbrSwV) | 5:01 | 2020-11-13 |  |
 | [El Chamuco](https://open.spotify.com/track/5RGPch9I7US0JeQK8KAnSg) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 2:59 | 2020-11-13 | 2022-07-29 |
 | [El Esqueleto](https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Victimas Del Doctor Cerebro](https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv) | 3:41 | 2020-11-13 | 2022-07-29 |
@@ -91,6 +92,7 @@
 | [Mi Muñequita Sintética](https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 3:08 | 2020-11-13 |  |
 | [Mi Terrible Soledad](https://open.spotify.com/track/2CBofenBewzkNUKyxDZOnO) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 3:03 | 2020-11-13 | 2023-09-12 |
 | [Muñequita Sintética](https://open.spotify.com/track/0SztZWdbPLXk7EcvQJ6MLt) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Muñequita Sintética](https://open.spotify.com/album/2iPJkJKGh18tLEVvesivr6) | 4:43 | 2020-11-13 |  |
+| [Nezayork](https://open.spotify.com/track/1AoIZbgzOfGJ9wiBPm3UHC) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Nezayork](https://open.spotify.com/album/3L7rldwdTRAT5qydAQJXJR) | 2:34 | 2023-10-23 |  |
 | [Ni Loser Ni Winner](https://open.spotify.com/track/6ydm7NJLX3HE7nAekWacI5) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Bar Pesadilla](https://open.spotify.com/album/5Tp0OSHuDM1vNfSfWhKk1Z) | 4:04 | 2020-11-13 | 2022-07-13 |
 | [Ni Una Más](https://open.spotify.com/track/4WvhYvgVKgtLG7TFsJO0KI) | [DaJuana Band](https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm) | [Ni Una Más](https://open.spotify.com/album/4EzZTsc7MkOjbwpIfGZuzK) | 4:41 | 2020-11-13 | 2022-07-29 |
 | [No Estoy Muerto](https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 3:01 | 2020-11-13 |  |

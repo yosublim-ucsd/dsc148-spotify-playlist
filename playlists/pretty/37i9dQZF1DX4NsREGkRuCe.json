@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 51967,
+  "num_followers": 52067,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTIyNjFjZjVmODA3ZjI2YjA1ZjY2OWVmYjAxZWVmOTg0N2Y5MDA5",
+  "snapshot_id": "MCxjYzRhOWQwNGJkYjgzNmYyOGJmZTI5ZjkwOTJiYTExNmVkYjY3ZjYw",
   "tracks": [
     {
       "added_at": "2023-10-20 00:01:00",
@@ -389,24 +389,52 @@
       "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
     },
     {
-      "added_at": "2023-10-20 00:01:00",
+      "added_at": "2023-10-23 12:23:43",
       "album": {
-        "name": "Party No Dey Stop",
-        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
+        "name": "Sensational (feat. Davido & Lojay)",
+        "url": "https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 168857,
-      "name": "Party No Dey Stop",
-      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
+      "duration_ms": 231109,
+      "name": "Sensational (feat. Davido & Lojay)",
+      "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "EZIOKWU",
+        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 233571,
+      "name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
+      "url": "https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -427,22 +455,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Beautiful And Brutal Yard",
-        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+        "name": "Party No Dey Stop",
+        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
       },
       "artists": [
         {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 204880,
-      "name": "Masculine (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
+      "duration_ms": 168857,
+      "name": "Party No Dey Stop",
+      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -491,26 +519,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "EZIOKWU",
-        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+        "name": "Beautiful And Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
         },
         {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 233571,
-      "name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
-      "url": "https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m"
+      "duration_ms": 204880,
+      "name": "Masculine (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -575,26 +599,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Ole",
-        "url": "https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Ole (feat. BNXN)",
-      "url": "https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -611,6 +615,26 @@
       "duration_ms": 156212,
       "name": "NO COMPETITION (feat. Asake)",
       "url": "https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Ole (feat. BNXN)",
+      "url": "https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -703,6 +727,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 218657,
+      "name": "Pidgin & English",
+      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Ex Convict",
         "url": "https://open.spotify.com/album/1ZNJEECHv1mt8ktam5iX6i"
       },
@@ -755,18 +795,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+        "name": "Anabella",
+        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
       },
       "artists": [
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 218657,
-      "name": "Pidgin & English",
-      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
+      "duration_ms": 124076,
+      "name": "Anabella",
+      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -859,22 +899,6 @@
       "duration_ms": 158771,
       "name": "Denge II",
       "url": "https://open.spotify.com/track/4BoTvPsNH6ijLrdlIV1kbA"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Anabella",
-        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 124076,
-      "name": "Anabella",
-      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -991,6 +1015,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "My Brother",
+        "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Rave & Roses Ultra",
         "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
       },
@@ -1007,18 +1047,34 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "My Brother",
-        "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
+        "name": "Elon musk",
+        "url": "https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 158520,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
+      "duration_ms": 195761,
+      "name": "Elon musk",
+      "url": "https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Afro Pop, Vol. 1",
+        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1047,38 +1103,6 @@
       "duration_ms": 251147,
       "name": "Sugarcane - Remix",
       "url": "https://open.spotify.com/track/6NuG2JgERZZXvvjmtjOFix"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Afro Pop, Vol. 1",
-        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Elon musk",
-        "url": "https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 195761,
-      "name": "Elon musk",
-      "url": "https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1135,6 +1159,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Things on Things",
+        "url": "https://open.spotify.com/album/5OXS5DoiCaozs5l7WztbLc"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 196179,
+      "name": "Things on Things",
+      "url": "https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Mumu",
         "url": "https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU"
       },
@@ -1155,6 +1195,30 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "EZIOKWU",
+        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "DOG EAT DOG II (feat. Cruel Santino and Bella Shmurda)",
+      "url": "https://open.spotify.com/track/3EfMWIEGQB24dQv5x4Hwvx"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
       },
@@ -1167,22 +1231,6 @@
       "duration_ms": 134559,
       "name": "Gaza",
       "url": "https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Things on Things",
-        "url": "https://open.spotify.com/album/5OXS5DoiCaozs5l7WztbLc"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 196179,
-      "name": "Things on Things",
-      "url": "https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1235,26 +1283,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "EZIOKWU",
-        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+        "name": "Lova",
+        "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 240000,
-      "name": "DOG EAT DOG II (feat. Cruel Santino and Bella Shmurda)",
-      "url": "https://open.spotify.com/track/3EfMWIEGQB24dQv5x4Hwvx"
+      "duration_ms": 173810,
+      "name": "Lova",
+      "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1299,22 +1339,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Lova",
-        "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 173810,
-      "name": "Lova",
-      "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "2:30",
         "url": "https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L"
       },
@@ -1347,22 +1371,6 @@
       "duration_ms": 158399,
       "name": "Oshe (feat. The Cavemen.)",
       "url": "https://open.spotify.com/track/4upQnh3K5k1xbVOr97fdG7"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Traboski",
-        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155860,
-      "name": "Traboski",
-      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1407,6 +1415,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Traboski",
+        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155860,
+      "name": "Traboski",
+      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "I Wish (feat. Libianca)",
         "url": "https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o"
       },
@@ -1427,26 +1451,6 @@
       "duration_ms": 163813,
       "name": "I Wish (feat. Libianca)",
       "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Otilo (Izz Gone)",
-        "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
-      },
-      "artists": [
-        {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        },
-        {
-          "name": "Hotkid",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Otilo (Izz Gone)",
-      "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1479,6 +1483,26 @@
       "duration_ms": 213710,
       "name": "Lowkey!",
       "url": "https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Otilo (Izz Gone)",
+        "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
+      },
+      "artists": [
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Otilo (Izz Gone)",
+      "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

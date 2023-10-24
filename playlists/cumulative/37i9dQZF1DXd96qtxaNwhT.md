@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-518 songs - 1 day 4 hr 58 min
+521 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [afterthoughts](https://open.spotify.com/track/2UmyGp3esNouKw42vwG6b8) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [afterthoughts](https://open.spotify.com/album/1qj06N4aOhTq5HmcHxbb27) | 2:55 | 2020-10-16 | 2020-12-11 |
 | [All For You](https://open.spotify.com/track/29Co9NKhOM5R9vWCrpkPPK) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [All For You](https://open.spotify.com/album/3SHliIKddH4xZVyr7hyjML) | 3:39 | 2022-07-08 | 2023-02-20 |
 | [All For You](https://open.spotify.com/track/53QivzNjgJPblrcmDP0LLv) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA), [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [All For You](https://open.spotify.com/album/4Qz9R5WkVwQfAl1oq6ZSFn) | 3:33 | 2022-09-08 |  |
-| [All I See Is Him](https://open.spotify.com/track/53bNbChiuQHSUZJTfNvERf) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [All I See Is Him](https://open.spotify.com/album/5eU9qQS8lKlTQNyLHaibsE) | 2:45 | 2023-06-08 |  |
+| [All I See Is Him](https://open.spotify.com/track/4dUX7a5p7ez1zWBtXxxDB7) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [All I See Is Him](https://open.spotify.com/album/0T5X2wpsjtiGeVjy4DLSTs) | 2:45 | 2023-09-21 |  |
+| [All I See Is Him](https://open.spotify.com/track/53bNbChiuQHSUZJTfNvERf) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [All I See Is Him](https://open.spotify.com/album/5eU9qQS8lKlTQNyLHaibsE) | 2:45 | 2023-06-08 | 2023-10-24 |
 | [All the Lies About Me](https://open.spotify.com/track/6T22O43SIRQ6Kgu7NvcnTy) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [All the Lies About Me](https://open.spotify.com/album/0JQFRlBw5UdjbVcwgm9SCu) | 2:57 | 2020-12-11 | 2021-07-07 |
 | [Almost \(Sweet Music\)](https://open.spotify.com/track/2e9N4vHYVUwSwRorBzsZXE) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Almost \(Sweet Music\)](https://open.spotify.com/album/5kOg8fegfvEEb83tDy8gUH) | 3:37 | 2019-07-29\* | 2019-12-09 |
 | [Alone on the Moon](https://open.spotify.com/track/4bnJC64uvoZ598bqwZ6L9L) | [JOY.](https://open.spotify.com/artist/2sphpXGg1u97VSzbm5gR2P) | [Alone on the Moon](https://open.spotify.com/album/1RlXHytHcfxZjLlnN4PC9W) | 3:11 | 2022-07-08 |  |
@@ -447,7 +448,8 @@
 | [Stuck In A Bubble \- Stripped Back](https://open.spotify.com/track/4ujpSHFEeR9rkgPCilUENQ) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Stuck In A Bubble \(Stripped Back\)](https://open.spotify.com/album/4HsyJlKlIbroBz9E0NN9xj) | 3:14 | 2020-10-09 | 2021-07-23 |
 | [Suitcase](https://open.spotify.com/track/5HlFO9E6TgsCpJWVjguZDl) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Suitcase](https://open.spotify.com/album/6h3PNka0gyNBOX2yVuW3JN) | 3:34 | 2019-07-29\* | 2020-02-11 |
 | [Surrender](https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf) | 3:03 | 2020-04-14 | 2021-04-07 |
-| [swan song](https://open.spotify.com/track/4usm1GSxHP41mtvBK73QZ0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [swan song](https://open.spotify.com/album/4BKr7uEHxiqnMnUO3KwNgs) | 3:40 | 2022-08-12 |  |
+| [swan song](https://open.spotify.com/track/3eCTgpPO5JpBtlmGBbxIV0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Elegy](https://open.spotify.com/album/6VuQxuY4WdcRDqtUTGCP0J) | 3:40 | 2023-09-21 |  |
+| [swan song](https://open.spotify.com/track/4usm1GSxHP41mtvBK73QZ0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [swan song](https://open.spotify.com/album/4BKr7uEHxiqnMnUO3KwNgs) | 3:40 | 2022-08-12 | 2023-10-24 |
 | [Sycamore](https://open.spotify.com/track/3qwxZ8ygOYSWE790KcfgU1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 2:50 | 2023-05-09 |  |
 | [Symptomatic \- Acoustic](https://open.spotify.com/track/73rmLSDAnRIwME7Z2eobSM) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Symptomatic \(Acoustic\)](https://open.spotify.com/album/1GlFnneEXDJ9TxquYq37r2) | 3:02 | 2021-07-23 | 2022-04-29 |
 | [Take Me Back](https://open.spotify.com/track/0r6ccEU9IVpXTUG6CLdDNX) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Take Me Back](https://open.spotify.com/album/0JtLCcaCSa1hdUOq8FUexO) | 3:20 | 2020-06-05 | 2021-04-24 |
@@ -480,7 +482,8 @@
 | [Trampoline \(with ZAYN\)](https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Trampoline \(with ZAYN\)](https://open.spotify.com/album/5QqqBZmdQmY1MvlnpBkagB) | 3:04 | 2019-09-27 | 2020-04-14 |
 | [truth](https://open.spotify.com/track/7tbwFRAijfsJab4RB0RiWG) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [truth](https://open.spotify.com/album/0cytQ3yMVtGQWgl6ASjdb7) | 4:12 | 2022-01-27 | 2023-06-16 |
 | [Tunnel Vision](https://open.spotify.com/track/3RhZ2Yp8usBRc1FtN55Xcx) | [MCK](https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7) | [Tunnel Vision](https://open.spotify.com/album/2SuvX1g88NmY35gQZRhami) | 3:40 | 2022-07-07 | 2023-07-27 |
-| [Tunnel Vision](https://open.spotify.com/track/4yvcI6pOLBcIcnxSsDTWSR) | [MCK](https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7) | [Becoming](https://open.spotify.com/album/6IfhqxXa9LGW6upcbBkzzV) | 3:40 | 2023-07-07 |  |
+| [Tunnel Vision](https://open.spotify.com/track/4yvcI6pOLBcIcnxSsDTWSR) | [MCK](https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7) | [Becoming](https://open.spotify.com/album/6IfhqxXa9LGW6upcbBkzzV) | 3:40 | 2023-07-07 | 2023-10-24 |
+| [Tunnel Vision](https://open.spotify.com/track/6DFfBEQWGEGK6GhVNYweNJ) | [MCK](https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7) | [Becoming](https://open.spotify.com/album/1h6msi9OVSer1ErxVhQqNs) | 3:40 | 2023-09-21 |  |
 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy) | 2:35 | 2021-04-07 | 2022-02-11 |
 | [Unsolvable](https://open.spotify.com/track/2zGWcIfpboJX37hwEunjms) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Unsolvable](https://open.spotify.com/album/1NvJITnemUiIzDPCzeZTEK) | 4:09 | 2020-07-31 | 2021-09-24 |
 | [Ur So Beautiful](https://open.spotify.com/track/3Ko3WvKcr01gHE9oYx9iAE) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Ur So Beautiful](https://open.spotify.com/album/2ImEZ4iQjdwpJzkJtNVNRq) | 3:12 | 2019-08-02 | 2019-11-22 |

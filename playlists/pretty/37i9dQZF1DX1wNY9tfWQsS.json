@@ -1,12 +1,12 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Whitney Houston",
-  "num_followers": 522579,
+  "num_followers": 522645,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2Q3Yjc0NzhlZDQ3YTUwMjJiMDI1MjZmN2VmNzU0YTQyMWM4NzI3",
+  "snapshot_id": "MCxhNWJkMWRhMzhlNzE2M2M4MWNhODkyMzg5YjMzMDZlM2U0YWY2NDQw",
   "tracks": [
     {
       "added_at": "2022-12-16 17:40:09",
@@ -243,26 +243,6 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 275080,
-      "name": "Love Galore (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
         "name": "What's Love Got to Do with It?",
         "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
       },
@@ -295,6 +275,26 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 275080,
+      "name": "Love Galore (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -323,22 +323,6 @@
       "duration_ms": 254319,
       "name": "PLASTIC OFF THE SOFA",
       "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2022-03-08 19:58:52",
@@ -463,6 +447,22 @@
       "duration_ms": 241624,
       "name": "ICU",
       "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2022-03-08 19:58:52",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 201609,
-      "name": "Shot Clock",
-      "url": "https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
         "name": "LOVE AND COMPROMISE",
         "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
+        "name": "Ella Mai",
+        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 201609,
+      "name": "Shot Clock",
+      "url": "https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "Jade To The Max",
-        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
-      },
-      "artists": [
-        {
-          "name": "Jade",
-          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "Don't Walk Away",
-      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
         "name": "Feel Like Makin' Love",
         "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "Not Another Love Song",
-        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
+        "name": "Jade To The Max",
+        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
         }
       ],
-      "duration_ms": 217801,
-      "name": "Not Another Love Song",
-      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
+      "duration_ms": 216373,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
     },
     {
       "added_at": "2022-09-09 18:41:47",
@@ -847,6 +831,22 @@
       "duration_ms": 343400,
       "name": "I Feel for You",
       "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
+        "name": "Crazy Tings",
+        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Crazy Tings",
+      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     }
   ],
   "unique_name": "Women of R&B",

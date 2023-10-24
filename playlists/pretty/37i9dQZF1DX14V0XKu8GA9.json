@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos representing Hip-Hop in the U.S. Cover: King Lil G & Young Drummer Boy",
-  "num_followers": 27179,
+  "num_followers": 27229,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDYwNzBkMWJhNWE3NjY1NGE4ZDI1YWI3NGQwN2FiMTM1ZmY5YTE0",
+  "snapshot_id": "MCxkOWFkYmQwNTJkZjNiMGNhYjRjYmE1MGYxNmY2YjcxZGY4YTU3MGYx",
   "tracks": [
     {
       "added_at": "2023-09-15 17:42:25",
@@ -283,26 +283,22 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "Lonestar Luchador",
-        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
+        "name": "more than friends",
+        "url": "https://open.spotify.com/album/6p6oSg0hCA5sA9UK8DFSzf"
       },
       "artists": [
         {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+          "name": "Jay Roxxx",
+          "url": "https://open.spotify.com/artist/7jIEDP5VQzhBrWsEK3nmWo"
         },
         {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+          "name": "Fabi\u00f8 Guerra",
+          "url": "https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp"
         }
       ],
-      "duration_ms": 185736,
-      "name": "Hit List (with BigXthaPlug & Big Yavo)",
-      "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
+      "duration_ms": 176172,
+      "name": "more than friends",
+      "url": "https://open.spotify.com/track/3Dt44kA5p1NDlLWQcuiJr8"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -323,22 +319,26 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "more than friends",
-        "url": "https://open.spotify.com/album/6p6oSg0hCA5sA9UK8DFSzf"
+        "name": "Lonestar Luchador",
+        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
       },
       "artists": [
         {
-          "name": "Jay Roxxx",
-          "url": "https://open.spotify.com/artist/7jIEDP5VQzhBrWsEK3nmWo"
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
         },
         {
-          "name": "Fabi\u00f8 Guerra",
-          "url": "https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp"
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
         }
       ],
-      "duration_ms": 176172,
-      "name": "more than friends",
-      "url": "https://open.spotify.com/track/3Dt44kA5p1NDlLWQcuiJr8"
+      "duration_ms": 185736,
+      "name": "Hit List (with BigXthaPlug & Big Yavo)",
+      "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "Lonestar Luchador",
-        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        }
-      ],
-      "duration_ms": 142205,
-      "name": "Cowboy Killer",
-      "url": "https://open.spotify.com/track/5SGWCqheDXPlYnv9aQs795"
-    },
-    {
-      "added_at": "2023-09-15 17:42:25",
-      "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/6UN87ZXkg9pMcj4CvZ3PT3"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 109274,
       "name": "Down",
       "url": "https://open.spotify.com/track/0bETxFfD6956IoJfW5gEjz"
+    },
+    {
+      "added_at": "2023-09-15 17:42:25",
+      "album": {
+        "name": "It's Officially Done",
+        "url": "https://open.spotify.com/album/7399tv9lmTGk3rNfC0woQD"
+      },
+      "artists": [
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        }
+      ],
+      "duration_ms": 176936,
+      "name": "It's Officially Done",
+      "url": "https://open.spotify.com/track/0q4v62eDHaqkPYVWmkGOsO"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -427,34 +427,34 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "It's Officially Done",
-        "url": "https://open.spotify.com/album/7399tv9lmTGk3rNfC0woQD"
+        "name": "Lonestar Luchador",
+        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
       },
       "artists": [
         {
-          "name": "J.I the Prince of N.Y",
-          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
         }
       ],
-      "duration_ms": 176936,
-      "name": "It's Officially Done",
-      "url": "https://open.spotify.com/track/0q4v62eDHaqkPYVWmkGOsO"
+      "duration_ms": 142205,
+      "name": "Cowboy Killer",
+      "url": "https://open.spotify.com/track/5SGWCqheDXPlYnv9aQs795"
     },
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "Apologies",
-        "url": "https://open.spotify.com/album/3AhD9hkjE5CNI5fwA8iqOP"
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY"
       },
       "artists": [
         {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+          "name": "Chito Rana$",
+          "url": "https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz"
         }
       ],
-      "duration_ms": 190396,
-      "name": "Apologies",
-      "url": "https://open.spotify.com/track/0E1xO4LIXWBRxSaKVtls87"
+      "duration_ms": 187898,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY"
+        "name": "Apologies",
+        "url": "https://open.spotify.com/album/3AhD9hkjE5CNI5fwA8iqOP"
       },
       "artists": [
         {
-          "name": "Chito Rana$",
-          "url": "https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz"
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
         }
       ],
-      "duration_ms": 187898,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i"
+      "duration_ms": 190396,
+      "name": "Apologies",
+      "url": "https://open.spotify.com/track/0E1xO4LIXWBRxSaKVtls87"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -539,30 +539,6 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "This Is What I Need",
-        "url": "https://open.spotify.com/album/5xlnkITJKmXqDETUJB9qQw"
-      },
-      "artists": [
-        {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        },
-        {
-          "name": "Krystall Poppin",
-          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
-        },
-        {
-          "name": "Muriel",
-          "url": "https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "This Is What I Need",
-      "url": "https://open.spotify.com/track/174sKBWy1cMVxUapeaD1SC"
-    },
-    {
-      "added_at": "2023-09-15 17:42:25",
-      "album": {
         "name": "Chingon (with Peso Peso)",
         "url": "https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 150697,
       "name": "Need That",
       "url": "https://open.spotify.com/track/6Mlt51MMwu5wg0f11BynCE"
+    },
+    {
+      "added_at": "2023-09-15 17:42:25",
+      "album": {
+        "name": "This Is What I Need",
+        "url": "https://open.spotify.com/album/5xlnkITJKmXqDETUJB9qQw"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Krystall Poppin",
+          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
+        },
+        {
+          "name": "Muriel",
+          "url": "https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "This Is What I Need",
+      "url": "https://open.spotify.com/track/174sKBWy1cMVxUapeaD1SC"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -763,42 +763,6 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "Vivid Dreams",
-        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
-      },
-      "artists": [
-        {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Vivid Dreams",
-      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
-    },
-    {
-      "added_at": "2023-09-15 17:42:25",
-      "album": {
-        "name": "Bienvenidos",
-        "url": "https://open.spotify.com/album/0flYjj312P4iOOuriLc37g"
-      },
-      "artists": [
-        {
-          "name": "Feefa",
-          "url": "https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C"
-        },
-        {
-          "name": "Cypress Moreno",
-          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
-        }
-      ],
-      "duration_ms": 154600,
-      "name": "Bienvenidos",
-      "url": "https://open.spotify.com/track/01KeHXxbmd5GuFOkgzDBSL"
-    },
-    {
-      "added_at": "2023-09-15 17:42:25",
-      "album": {
         "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
         "url": "https://open.spotify.com/album/5ujrZVzynlbHdfyOxkLux1"
       },
@@ -827,22 +791,38 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "Rich Remedy",
-        "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
+        "name": "Bienvenidos",
+        "url": "https://open.spotify.com/album/0flYjj312P4iOOuriLc37g"
       },
       "artists": [
         {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+          "name": "Feefa",
+          "url": "https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C"
         },
         {
-          "name": "Tweak on the Beat",
-          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
+          "name": "Cypress Moreno",
+          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
         }
       ],
-      "duration_ms": 115370,
-      "name": "Rich Remedy",
-      "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
+      "duration_ms": 154600,
+      "name": "Bienvenidos",
+      "url": "https://open.spotify.com/track/01KeHXxbmd5GuFOkgzDBSL"
+    },
+    {
+      "added_at": "2023-09-15 17:42:25",
+      "album": {
+        "name": "Vivid Dreams",
+        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
+      },
+      "artists": [
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Vivid Dreams",
+      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -891,30 +871,6 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "Hometown (Remix)",
-        "url": "https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j"
-      },
-      "artists": [
-        {
-          "name": "Conejo",
-          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
-        },
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "TEDIOUS",
-          "url": "https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV"
-        }
-      ],
-      "duration_ms": 156966,
-      "name": "Hometown - Remix",
-      "url": "https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj"
-    },
-    {
-      "added_at": "2023-09-15 17:42:25",
-      "album": {
         "name": "She gon choose",
         "url": "https://open.spotify.com/album/54oZoaoaXspC5YzHqtH6Jk"
       },
@@ -951,6 +907,50 @@
       "duration_ms": 174065,
       "name": "Props",
       "url": "https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k"
+    },
+    {
+      "added_at": "2023-09-15 17:42:25",
+      "album": {
+        "name": "Hometown (Remix)",
+        "url": "https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j"
+      },
+      "artists": [
+        {
+          "name": "Conejo",
+          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
+        },
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "TEDIOUS",
+          "url": "https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV"
+        }
+      ],
+      "duration_ms": 156966,
+      "name": "Hometown - Remix",
+      "url": "https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj"
+    },
+    {
+      "added_at": "2023-09-15 17:42:25",
+      "album": {
+        "name": "Rich Remedy",
+        "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
+      },
+      "artists": [
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        },
+        {
+          "name": "Tweak on the Beat",
+          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
+        }
+      ],
+      "duration_ms": 115370,
+      "name": "Rich Remedy",
+      "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
     },
     {
       "added_at": "2023-09-15 17:42:25",

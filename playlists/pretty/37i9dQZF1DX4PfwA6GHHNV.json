@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 12109,
+  "num_followers": 12153,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzAwMmVjMzYwYTkwNTUxNWRhMmYxNzdkMDdiNzlmMzYyODBiOTVl",
+  "snapshot_id": "MCwwOWQxNjFkYjMxNTNiOTM1ZmQ4NjgwNzkwNjViYzMzMTgyMmZmNTc4",
   "tracks": [
     {
       "added_at": "2023-10-20 03:04:46",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-10-20 03:04:46",
       "album": {
+        "name": "Faminta",
+        "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
+      },
+      "artists": [
+        {
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Quando Voc\u00ea Me Olha",
+      "url": "https://open.spotify.com/track/6Z852WH6is9vPVdllAox6K"
+    },
+    {
+      "added_at": "2023-10-20 03:04:46",
+      "album": {
         "name": "Suite 45",
         "url": "https://open.spotify.com/album/2Ggkip4YzkulFaN224drEx"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 176326,
       "name": "Suite 45",
       "url": "https://open.spotify.com/track/1cJWeIZR2dFwCMibjx7zWc"
-    },
-    {
-      "added_at": "2023-10-20 03:04:46",
-      "album": {
-        "name": "Faminta",
-        "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
-      },
-      "artists": [
-        {
-          "name": "Bia Ferreira",
-          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Quando Voc\u00ea Me Olha",
-      "url": "https://open.spotify.com/track/6Z852WH6is9vPVdllAox6K"
     },
     {
       "added_at": "2023-10-20 03:04:46",
@@ -551,6 +551,34 @@
     {
       "added_at": "2023-10-20 03:04:46",
       "album": {
+        "name": "J\u00e9 Ka S\u00f3r\u00f3",
+        "url": "https://open.spotify.com/album/3TkDRjv287cJL9Y7UEnUsL"
+      },
+      "artists": [
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Moikas",
+          "url": "https://open.spotify.com/artist/2iKmQwzpWTpQ98t84WZ73C"
+        },
+        {
+          "name": "Tunde Sparrow",
+          "url": "https://open.spotify.com/artist/0j6qf5oiRTM5yejXE1ZJVH"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "J\u00e9 Ka S\u00f3r\u00f3",
+      "url": "https://open.spotify.com/track/4R4sLlLQ1Spt62pe8ce0fj"
+    },
+    {
+      "added_at": "2023-10-20 03:04:46",
+      "album": {
         "name": "Do Nada",
         "url": "https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F"
       },
@@ -595,34 +623,6 @@
     {
       "added_at": "2023-10-20 03:04:46",
       "album": {
-        "name": "J\u00e9 Ka S\u00f3r\u00f3",
-        "url": "https://open.spotify.com/album/3TkDRjv287cJL9Y7UEnUsL"
-      },
-      "artists": [
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        },
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Moikas",
-          "url": "https://open.spotify.com/artist/2iKmQwzpWTpQ98t84WZ73C"
-        },
-        {
-          "name": "Tunde Sparrow",
-          "url": "https://open.spotify.com/artist/0j6qf5oiRTM5yejXE1ZJVH"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "J\u00e9 Ka S\u00f3r\u00f3",
-      "url": "https://open.spotify.com/track/4R4sLlLQ1Spt62pe8ce0fj"
-    },
-    {
-      "added_at": "2023-10-20 03:04:46",
-      "album": {
         "name": "S\u00f3 Sei Falar de Amor",
         "url": "https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t"
       },
@@ -643,6 +643,26 @@
       "duration_ms": 151304,
       "name": "Amor e Paz",
       "url": "https://open.spotify.com/track/0LHKT3P0wMRL8zD4V7BAEb"
+    },
+    {
+      "added_at": "2023-10-20 03:04:46",
+      "album": {
+        "name": "Promessas",
+        "url": "https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Promessas",
+      "url": "https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB"
     },
     {
       "added_at": "2023-10-20 03:04:46",
@@ -691,6 +711,26 @@
     {
       "added_at": "2023-10-20 03:04:46",
       "album": {
+        "name": "Quando c\u00ea vem",
+        "url": "https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Quando c\u00ea vem",
+      "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
+    },
+    {
+      "added_at": "2023-10-20 03:04:46",
+      "album": {
         "name": "Anos Luz",
         "url": "https://open.spotify.com/album/3ODbaa0vBZtfyZXaNFGgxy"
       },
@@ -703,26 +743,6 @@
       "duration_ms": 213800,
       "name": "Pele Prata",
       "url": "https://open.spotify.com/track/0lUC1F84DG4m4UIdsAsn5T"
-    },
-    {
-      "added_at": "2023-10-20 03:04:46",
-      "album": {
-        "name": "Promessas",
-        "url": "https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Promessas",
-      "url": "https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB"
     },
     {
       "added_at": "2023-10-20 03:04:46",
@@ -791,26 +811,6 @@
     {
       "added_at": "2023-10-20 03:04:46",
       "album": {
-        "name": "Quando c\u00ea vem",
-        "url": "https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Quando c\u00ea vem",
-      "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
-    },
-    {
-      "added_at": "2023-10-20 03:04:46",
-      "album": {
         "name": "Me Deixa",
         "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
       },
@@ -843,6 +843,30 @@
       "duration_ms": 138145,
       "name": "Deixa Eu Mostrar",
       "url": "https://open.spotify.com/track/28dzpx9Sn1jmAvCNLoKqd8"
+    },
+    {
+      "added_at": "2023-10-20 03:04:46",
+      "album": {
+        "name": "Te Vejo Mais Tarde",
+        "url": "https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "\u00c9ffe",
+          "url": "https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW"
+        }
+      ],
+      "duration_ms": 114117,
+      "name": "Te Vejo Mais Tarde",
+      "url": "https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw"
     },
     {
       "added_at": "2023-10-20 03:04:46",
@@ -915,30 +939,6 @@
     {
       "added_at": "2023-10-20 03:04:46",
       "album": {
-        "name": "Te Vejo Mais Tarde",
-        "url": "https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "\u00c9ffe",
-          "url": "https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW"
-        }
-      ],
-      "duration_ms": 114117,
-      "name": "Te Vejo Mais Tarde",
-      "url": "https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw"
-    },
-    {
-      "added_at": "2023-10-20 03:04:46",
-      "album": {
         "name": "Arrepios",
         "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
       },
@@ -959,26 +959,6 @@
     {
       "added_at": "2023-10-20 03:04:46",
       "album": {
-        "name": "S\u00f3 Minha",
-        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00e1",
-          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "S\u00f3 Minha",
-      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
-    },
-    {
-      "added_at": "2023-10-20 03:04:46",
-      "album": {
         "name": "Yo Quiero Te Namorar",
         "url": "https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 198070,
       "name": "Yo Quiero Te Namorar",
       "url": "https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf"
+    },
+    {
+      "added_at": "2023-10-20 03:04:46",
+      "album": {
+        "name": "S\u00f3 Minha",
+        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00e1",
+          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "S\u00f3 Minha",
+      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
     },
     {
       "added_at": "2023-10-20 03:04:46",

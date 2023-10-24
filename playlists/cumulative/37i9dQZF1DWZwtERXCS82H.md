@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-667 songs - 1 day 4 hr 50 min
+668 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -583,6 +583,7 @@
 | [the time has come](https://open.spotify.com/track/3c0jigaQuhR3R4c6RGX6Ao) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Freedom](https://open.spotify.com/album/7lUBViasfvFfPgJvxTuXnC) | 2:26 | 2022-04-15 | 2022-05-14 |
 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 | 2022-04-15 |  |
 | [The Way Home](https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Way Home](https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB) | 2:27 | 2023-08-07 |  |
+| [Then I Saw You](https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [Then I Saw You](https://open.spotify.com/album/11e0Rf3uYRPR4nQUOqKpOQ) | 3:06 | 2023-10-23 |  |
 | [There Will Be Days](https://open.spotify.com/track/4amqBF3YNBTV3QHPP0PI51) | [Elizabeth Bouknight](https://open.spotify.com/artist/75cwvPWWYghazFDw1Hvda4) | [There Will Be Days](https://open.spotify.com/album/1eVoFGvHJyUj3srSDtq78F) | 2:42 | 2022-11-18 |  |
 | [Thirty two steps](https://open.spotify.com/track/2oSzrwVIU2M0w4GMVCehj8) | [Violet Mar](https://open.spotify.com/artist/5elUadW5r1Yr21zo4bV7sh) | [Thirty two steps](https://open.spotify.com/album/7jk3EiT43JQpHeCujcrSJh) | 2:27 | 2023-05-03 |  |
 | [Tides](https://open.spotify.com/track/50NyZsKNWj8VRe9I5iSxsx) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Tides](https://open.spotify.com/album/6jGLIqvxxMTOnMleWLrKpI) | 2:54 | 2022-04-15 | 2022-05-14 |

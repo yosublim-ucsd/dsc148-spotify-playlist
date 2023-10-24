@@ -1,12 +1,12 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 106042,
+  "num_followers": 106066,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjAwMmU1NmNmMjQ5MjgwNWQ1Y2UyODU2YzkwN2M2MjcyYzY5YmE3",
+  "snapshot_id": "MCxiODljYjg4ZjEyNzg1MzFjYTBkYjM4NjI5NzkwYmZmZTc0MGY0NTY1",
   "tracks": [
     {
       "added_at": "2023-01-25 00:22:47",
@@ -167,18 +167,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Hotel California",
-        "url": "https://open.spotify.com/album/0eQVqlUtzzWsvHCVdDKY0V"
+        "name": "Golpes en el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
       },
       "artists": [
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 169613,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/0MbkiHMyocbiG3GsWgY8n0"
+      "duration_ms": 211268,
+      "name": "Golpes en el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -199,26 +203,6 @@
       "duration_ms": 239760,
       "name": "No Te Creas Tan Importante - En Vivo",
       "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Golpes en el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 211268,
-      "name": "Golpes en el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -263,6 +247,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Hotel California",
+        "url": "https://open.spotify.com/album/0eQVqlUtzzWsvHCVdDKY0V"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 169613,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/0MbkiHMyocbiG3GsWgY8n0"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Cumbias Con Amor",
         "url": "https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN"
       },
@@ -275,22 +275,6 @@
       "duration_ms": 208266,
       "name": "Culpable O No",
       "url": "https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Sigo Mi Camino",
-        "url": "https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw"
-      },
-      "artists": [
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        }
-      ],
-      "duration_ms": 164022,
-      "name": "Yo Te Esperare",
-      "url": "https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -311,6 +295,22 @@
       "duration_ms": 238528,
       "name": "Me Vas a Extra\u00f1ar - En Vivo",
       "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Sigo Mi Camino",
+        "url": "https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw"
+      },
+      "artists": [
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "duration_ms": 164022,
+      "name": "Yo Te Esperare",
+      "url": "https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ"
     },
     {
       "added_at": "2023-01-25 00:22:47",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "El Color de Tus Ojos",
+        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "duration_ms": 156821,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Puro Cumbi\u00f3n Legendario",
         "url": "https://open.spotify.com/album/6AWZTJbYcoOivG9rweFfkE"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 175889,
       "name": "Baila Esta Cumbia",
       "url": "https://open.spotify.com/track/7AGYMb1fvYZig4AYTOOUSl"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "El Color de Tus Ojos",
-        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        }
-      ],
-      "duration_ms": 156821,
-      "name": "El Color de Tus Ojos",
-      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -799,18 +799,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Si una Vez",
-        "url": "https://open.spotify.com/album/15911pYbJmbTWdRAbKeujH"
+        "name": "Los Caminos de la Vida",
+        "url": "https://open.spotify.com/album/4AOwRkeJSIowptYmRnE3RT"
       },
       "artists": [
         {
-          "name": "Jenny And The Mexicats",
-          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
         }
       ],
-      "duration_ms": 153960,
-      "name": "Si una Vez",
-      "url": "https://open.spotify.com/track/00bZhYk9fm4ZL5wNfRXocn"
+      "duration_ms": 221823,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/7HfBfu8aVH5mz03JPMPpHF"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -835,22 +839,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Los Caminos de la Vida",
-        "url": "https://open.spotify.com/album/4AOwRkeJSIowptYmRnE3RT"
+        "name": "Si una Vez",
+        "url": "https://open.spotify.com/album/15911pYbJmbTWdRAbKeujH"
       },
       "artists": [
         {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+          "name": "Jenny And The Mexicats",
+          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
         }
       ],
-      "duration_ms": 221823,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/7HfBfu8aVH5mz03JPMPpHF"
+      "duration_ms": 153960,
+      "name": "Si una Vez",
+      "url": "https://open.spotify.com/track/00bZhYk9fm4ZL5wNfRXocn"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Corazon, Perro Fiel, Echame La Culpa,",
-        "url": "https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9"
+        "name": "Lemonchamp",
+        "url": "https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T"
       },
       "artists": [
         {
-          "name": "Version Cumbia La Plata",
-          "url": "https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv"
+          "name": "LemonChamp",
+          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
         }
       ],
-      "duration_ms": 193736,
-      "name": "Corazon, Perro Fiel, Echame La Culpa,",
-      "url": "https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy"
+      "duration_ms": 140439,
+      "name": "Una Lady Como T\u00fa",
+      "url": "https://open.spotify.com/track/4cnac0Hd5P4nDPCB18yFUw"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1075,34 +1075,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Los Miticos del Ritmo",
-        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
+        "name": "Corazon, Perro Fiel, Echame La Culpa,",
+        "url": "https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9"
       },
       "artists": [
         {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+          "name": "Version Cumbia La Plata",
+          "url": "https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv"
         }
       ],
-      "duration_ms": 174640,
-      "name": "No Pares Hasta Tener lo Suficiente (Don't Stop 'til You Get Enough)",
-      "url": "https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Lemonchamp",
-        "url": "https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T"
-      },
-      "artists": [
-        {
-          "name": "LemonChamp",
-          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
-        }
-      ],
-      "duration_ms": 140439,
-      "name": "Una Lady Como T\u00fa",
-      "url": "https://open.spotify.com/track/4cnac0Hd5P4nDPCB18yFUw"
+      "duration_ms": 193736,
+      "name": "Corazon, Perro Fiel, Echame La Culpa,",
+      "url": "https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1123,6 +1107,22 @@
       "duration_ms": 182666,
       "name": "Luces",
       "url": "https://open.spotify.com/track/2A7ZbcDSmZEP7pzomG43Sv"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Los Miticos del Ritmo",
+        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
+      },
+      "artists": [
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "No Pares Hasta Tener lo Suficiente (Don't Stop 'til You Get Enough)",
+      "url": "https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Puntos Suspensivos",
-        "url": "https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K"
-      },
-      "artists": [
-        {
-          "name": "Latam Sonora",
-          "url": "https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa"
-        }
-      ],
-      "duration_ms": 170562,
-      "name": "Puntos Suspensivos",
-      "url": "https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Lemonchamp",
         "url": "https://open.spotify.com/album/4Ie3Z2Ss3MPXX0OVjAnT9y"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 156211,
       "name": "Reggaeton Lento",
       "url": "https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Puntos Suspensivos",
+        "url": "https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K"
+      },
+      "artists": [
+        {
+          "name": "Latam Sonora",
+          "url": "https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa"
+        }
+      ],
+      "duration_ms": 170562,
+      "name": "Puntos Suspensivos",
+      "url": "https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW"
     },
     {
       "added_at": "2022-05-06 18:26:25",

@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Un T\u00e9 De Tilo Por Favor",
+        "url": "https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184080,
+      "name": "Algo Tiene",
+      "url": "https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3"
+    },
+    {
+      "album": {
         "name": "DLUX",
         "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 167640,
       "name": "Detox",
       "url": "https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M"

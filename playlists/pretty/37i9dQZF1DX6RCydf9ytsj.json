@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 584850,
+  "num_followers": 585060,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzMxNTRiNDI5N2Y2NWJiMzRmZDhlMzMwZmQwYmY4MDRiZWRmN2M0",
+  "snapshot_id": "MCxjMjY1YTE1MDAxOWM5NjczZGNiNDg5Y2Y2Y2VkOTc2OTE1ZGJjMWY2",
   "tracks": [
     {
       "added_at": "2023-08-21 19:29:52",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Coal Miner's Daughter",
-        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
       },
       "artists": [
         {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 180960,
-      "name": "Coal Miner's Daughter - Single Version",
-      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
+      "duration_ms": 174640,
+      "name": "Slow Hand",
+      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
+        "name": "Coal Miner's Daughter",
+        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 174640,
-      "name": "Slow Hand",
-      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
+      "duration_ms": 180960,
+      "name": "Coal Miner's Daughter - Single Version",
+      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Does Fort Worth Ever Cross Your Mind",
-        "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "The Fireman",
-      "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Guitars, Cadillacs, Etc., Etc.",
         "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
       },
@@ -567,22 +551,6 @@
       "duration_ms": 185239,
       "name": "Guitars, Cadillacs",
       "url": "https://open.spotify.com/track/0LATteOxdYq4vXTNZ97r77"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Why Not Me",
-        "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "Mama He's Crazy",
-      "url": "https://open.spotify.com/track/2mEAWmVDub6PSF8pZXInrS"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -603,6 +571,38 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Why Not Me",
+        "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Mama He's Crazy",
+      "url": "https://open.spotify.com/track/2mEAWmVDub6PSF8pZXInrS"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Does Fort Worth Ever Cross Your Mind",
+        "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "The Fireman",
+      "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "Untasted Honey",
         "url": "https://open.spotify.com/album/1K1PfB1GQe1lQcgxjEz8T5"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "On the Other Hand",
-      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Who's Gonna Fill Their Shoes",
         "url": "https://open.spotify.com/album/0SRwLRes0ubEsYsjM9F5uL"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 150520,
       "name": "The One I Loved Back Then (The Corvette Song)",
       "url": "https://open.spotify.com/track/0RbaD2rw0HmpfflXFH9DKu"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "On the Other Hand",
+      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
-      },
-      "artists": [
-        {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
-        }
-      ],
-      "duration_ms": 222493,
-      "name": "When You Say Nothing at All",
-      "url": "https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "George Strait's Greatest Hits",
         "url": "https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 193400,
       "name": "You Look So Good In Love",
       "url": "https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        }
+      ],
+      "duration_ms": 222493,
+      "name": "When You Say Nothing at All",
+      "url": "https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "There's No Gettin' Over Me",
-        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "(There's) No Gettin' Over Me",
-      "url": "https://open.spotify.com/track/2bRnP6FjtlASGsDtcgRVuI"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Ultimate Alabama 20 # 1 Hits",
         "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 218613,
       "name": "Mountain Music",
       "url": "https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "There's No Gettin' Over Me",
+        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "(There's) No Gettin' Over Me",
+      "url": "https://open.spotify.com/track/2bRnP6FjtlASGsDtcgRVuI"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Guitars, Cadillacs, Etc., Etc.",
-        "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "Honky Tonk Man",
-      "url": "https://open.spotify.com/track/60Vbhlv3GUL8fNt3LLZ1nH"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Won't Be Blue Anymore",
         "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
       },
@@ -995,22 +979,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Rockin' With The Rhythm",
-        "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Have Mercy",
-      "url": "https://open.spotify.com/track/5toaXJWnmQCnGRh8eOrEwE"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Me And The Boys",
         "url": "https://open.spotify.com/album/3JqqXqQBFwdWb9MHfCf0SP"
       },
@@ -1023,6 +991,22 @@
       "duration_ms": 221706,
       "name": "Drinkin' My Baby Goodbye",
       "url": "https://open.spotify.com/track/1KeWCjmGE74qeB3OSbB5Ax"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Rockin' With The Rhythm",
+        "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Have Mercy",
+      "url": "https://open.spotify.com/track/5toaXJWnmQCnGRh8eOrEwE"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1043,18 +1027,34 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Forrest Gump - The Soundtrack",
-        "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
+        "name": "Guitars, Cadillacs, Etc., Etc.",
+        "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
         }
       ],
-      "duration_ms": 148106,
-      "name": "On the Road Again",
-      "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
+      "duration_ms": 167426,
+      "name": "Honky Tonk Man",
+      "url": "https://open.spotify.com/track/60Vbhlv3GUL8fNt3LLZ1nH"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "The Dukes Of Hazzard",
+        "url": "https://open.spotify.com/album/4CvOd5ePKV2kpxayVWGlnq"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 126586,
+      "name": "Theme from \"The Dukes of Hazzard\" (Good Ol' Boys)",
+      "url": "https://open.spotify.com/track/7xRind9RPsvGHWR0qbGmfE"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Dukes Of Hazzard",
-        "url": "https://open.spotify.com/album/4CvOd5ePKV2kpxayVWGlnq"
+        "name": "Forrest Gump - The Soundtrack",
+        "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 126586,
-      "name": "Theme from \"The Dukes of Hazzard\" (Good Ol' Boys)",
-      "url": "https://open.spotify.com/track/7xRind9RPsvGHWR0qbGmfE"
+      "duration_ms": 148106,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1175,30 +1175,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Nashville Rebel",
-        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
+        "name": "The Best Of Kenny Rogers: Through The Years",
+        "url": "https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         }
       ],
-      "duration_ms": 182973,
-      "name": "Highwayman",
-      "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
+      "duration_ms": 262079,
+      "name": "Through The Years",
+      "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1227,18 +1215,30 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Best Of Kenny Rogers: Through The Years",
-        "url": "https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP"
+        "name": "Nashville Rebel",
+        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 262079,
-      "name": "Through The Years",
-      "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
+      "duration_ms": 182973,
+      "name": "Highwayman",
+      "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
-      },
-      "artists": [
-        {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "Don't Close Your Eyes",
-      "url": "https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 181426,
       "name": "That's the Way Love Goes",
       "url": "https://open.spotify.com/track/29ZJSsfmcSJcShl44iXuP1"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Who's Gonna Fill Their Shoes",
-      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Won't Be Blue Anymore",
         "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 292626,
       "name": "Everything That Glitters (Is Not Gold)",
       "url": "https://open.spotify.com/track/6NaQDBNUP6LcsZklHizAki"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Who's Gonna Fill Their Shoes",
+      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "I'd Love To Lay You Down",
-      "url": "https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "The Best Of Michael Martin Murphey",
         "url": "https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 171906,
       "name": "What's Forever For?",
       "url": "https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "I'd Love To Lay You Down",
+      "url": "https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
-        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 170266,
-      "name": "Tight Fittin' Jeans",
-      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "The Very Best Of Rosanne Cash",
         "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 194853,
       "name": "Seven Year Ache",
       "url": "https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
+        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 170266,
+      "name": "Tight Fittin' Jeans",
+      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Whoever's In New England",
+        "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "Little Rock",
+      "url": "https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 197026,
       "name": "Drivin' My Life Away - 2009 Remaster",
       "url": "https://open.spotify.com/track/7ITL5IjLVR683ZDNGpDqek"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Whoever's In New England",
-        "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "Little Rock",
-      "url": "https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2011,42 +2011,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
-      },
-      "artists": [
-        {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "I'll Still Be Loving You",
-      "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Ultimate Waylon Jennings",
-        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Just to Satisfy You",
-      "url": "https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
       },
@@ -2095,18 +2059,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Wild And Blue",
-        "url": "https://open.spotify.com/album/6i9WCdKglXZgc4wblSBeSc"
+        "name": "Ultimate Waylon Jennings",
+        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
       "artists": [
         {
-          "name": "John Anderson",
-          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 183533,
-      "name": "Swingin'",
-      "url": "https://open.spotify.com/track/7x6z6qiA3eXSeKOH7hH2Mr"
+      "duration_ms": 169600,
+      "name": "Just to Satisfy You",
+      "url": "https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2120,9 +2088,25 @@
           "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Why Does It Have to Be (Wrong or Right)",
-      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
+      "duration_ms": 258799,
+      "name": "I'll Still Be Loving You",
+      "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Wild And Blue",
+        "url": "https://open.spotify.com/album/6i9WCdKglXZgc4wblSBeSc"
+      },
+      "artists": [
+        {
+          "name": "John Anderson",
+          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
+        }
+      ],
+      "duration_ms": 183533,
+      "name": "Swingin'",
+      "url": "https://open.spotify.com/track/7x6z6qiA3eXSeKOH7hH2Mr"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2223,6 +2207,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
+      },
+      "artists": [
+        {
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Why Does It Have to Be (Wrong or Right)",
+      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "35 Biggest Hits",
         "url": "https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5"
       },
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Cheat the Night",
-        "url": "https://open.spotify.com/album/6ZMLxQUzTCjKYB1IVhAgLM"
-      },
-      "artists": [
-        {
-          "name": "Deborah Allen",
-          "url": "https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Baby I Lied",
-      "url": "https://open.spotify.com/track/5KqGrafc3paz7bNPju5Ne9"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/2QM56YvhiO7uhXMe4z45Wn"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 239440,
       "name": "That Lovin' You Feelin' Again (with Roy Orbison) - 2008 Remaster",
       "url": "https://open.spotify.com/track/4PsXJjKjUQzuX5o9UAsNF2"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Cheat the Night",
+        "url": "https://open.spotify.com/album/6ZMLxQUzTCjKYB1IVhAgLM"
+      },
+      "artists": [
+        {
+          "name": "Deborah Allen",
+          "url": "https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Baby I Lied",
+      "url": "https://open.spotify.com/track/5KqGrafc3paz7bNPju5Ne9"
     },
     {
       "added_at": "2023-08-21 19:29:52",

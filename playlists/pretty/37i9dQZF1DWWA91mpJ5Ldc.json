@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 119520,
+  "num_followers": 119570,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDBlMzE1MmEwZjQyMTZiYTgwNzhkNjg5ZmU0NDhkMTZkOGM3MWUw",
+  "snapshot_id": "MCw5MDY2OTE1N2VkZDIwYjdiYTliZGE3NWNhNTkzZDJhMWU5MTg3Yzhl",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Roupa Branca",
-        "url": "https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC"
-      },
-      "artists": [
-        {
-          "name": "Sued Nunes",
-          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
-        }
-      ],
-      "duration_ms": 147770,
-      "name": "Roupa Branca",
-      "url": "https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Musica para Churrasco, Vol. 1",
         "url": "https://open.spotify.com/album/3LVFK1YwvyZMU1u20U2dMg"
       },
@@ -235,22 +219,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Cinco",
-        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
+        "name": "Roupa Branca",
+        "url": "https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
         }
       ],
-      "duration_ms": 302706,
-      "name": "Soprou",
-      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
+      "duration_ms": 147770,
+      "name": "Roupa Branca",
+      "url": "https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -283,22 +263,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Original Brasil",
-        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 197610,
-      "name": "Menina",
-      "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Maria Maria - Spotify Singles",
         "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
       },
@@ -311,6 +275,22 @@
       "duration_ms": 143933,
       "name": "Maria Maria - Spotify Singles",
       "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Original Brasil",
+        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 197610,
+      "name": "Menina",
+      "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -351,6 +331,26 @@
       "duration_ms": 161000,
       "name": "15b",
       "url": "https://open.spotify.com/track/2w6VBGVuYOJe8oo4YXBEf4"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Cinco",
+        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 302706,
+      "name": "Soprou",
+      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Te Amo L\u00e1 Fora",
-        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 246346,
-      "name": "Decis\u00e3o de Te Amar",
-      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "O Futuro N\u00e3o Demora",
         "url": "https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 170293,
       "name": "Sonar",
       "url": "https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Te Amo L\u00e1 Fora",
+        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 246346,
+      "name": "Decis\u00e3o de Te Amar",
+      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -619,22 +619,6 @@
       "duration_ms": 347893,
       "name": "Boa Noite",
       "url": "https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Sinto Muito",
-        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 269285,
-      "name": "Todo Carinho",
-      "url": "https://open.spotify.com/track/118239i3aWkav7mlAmldh9"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -699,6 +683,22 @@
       "duration_ms": 192222,
       "name": "Fiz Pra Voc\u00ea",
       "url": "https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Sinto Muito",
+        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 269285,
+      "name": "Todo Carinho",
+      "url": "https://open.spotify.com/track/118239i3aWkav7mlAmldh9"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Rua Tr\u00eas",
-        "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 154647,
-      "name": "Rua Tr\u00eas",
-      "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Num Mundo de Paz",
         "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 342514,
       "name": "Num Mundo de Paz",
       "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Rua Tr\u00eas",
+        "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 154647,
+      "name": "Rua Tr\u00eas",
+      "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 234712,
+      "name": "Posso Dizer",
+      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Alumi\u00f4",
         "url": "https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 204116,
       "name": "Alumi\u00f4",
       "url": "https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 234712,
-      "name": "Posso Dizer",
-      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Espelho",
-        "url": "https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA"
-      },
-      "artists": [
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 208986,
-      "name": "Espelho",
-      "url": "https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Bota Pra Tocar Tim Maia",
         "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 222577,
       "name": "Bota Pra Tocar Tim Maia",
       "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Espelho",
+        "url": "https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA"
+      },
+      "artists": [
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 208986,
+      "name": "Espelho",
+      "url": "https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7"
     },
     {
       "added_at": "2023-10-20 03:00:00",

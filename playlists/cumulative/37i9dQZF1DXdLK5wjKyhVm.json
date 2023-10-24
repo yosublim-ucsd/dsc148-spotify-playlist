@@ -576,7 +576,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 186166,
       "name": "Boi Next Door",
       "url": "https://open.spotify.com/track/2UFjA1QR73OVALqWzzWU3F"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 150000,
       "name": "Chill De Bop",
       "url": "https://open.spotify.com/track/1Tv2FuaSEgQIeM4xGomtad"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 175691,
       "name": "Dole Out",
       "url": "https://open.spotify.com/track/082LJn0btv4hiq7lLmu77G"
@@ -2411,6 +2411,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/3vuxtF8td8N7d1NLH5QHmi"
+      },
+      "artists": [
+        {
+          "name": "Chetco Effect",
+          "url": "https://open.spotify.com/artist/1uMK3CGvV87A99PJP76lk7"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0UonbIWtyKbCZWUXVELmpK"
+    },
+    {
+      "album": {
         "name": "Honeysuckle",
         "url": "https://open.spotify.com/album/2YNjFEWINooSCfUjIm5u99"
       },
@@ -2707,6 +2725,24 @@
     },
     {
       "album": {
+        "name": "Incredibly happy",
+        "url": "https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs"
+      },
+      "artists": [
+        {
+          "name": "Silk Soul",
+          "url": "https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Incredibly happy",
+      "url": "https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF"
+    },
+    {
+      "album": {
         "name": "Inner Peace",
         "url": "https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf"
       },
@@ -2758,7 +2794,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 128000,
       "name": "Inside",
       "url": "https://open.spotify.com/track/1wMAIj5x4h7QUAnmz2LCR0"
@@ -3296,7 +3332,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 134625,
       "name": "Let the Sun Shine",
       "url": "https://open.spotify.com/track/655ljuz0PjkhBKh2EGcNNU"
@@ -4397,6 +4433,24 @@
     },
     {
       "album": {
+        "name": "One more for the road",
+        "url": "https://open.spotify.com/album/55wpECO2frgXtb6JsDtrCO"
+      },
+      "artists": [
+        {
+          "name": "Attic Dizzt",
+          "url": "https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149941,
+      "name": "One more for the road",
+      "url": "https://open.spotify.com/track/3Sp8yHw4Ss2gLNlvv5FJGz"
+    },
+    {
+      "album": {
         "name": "One of Those Things",
         "url": "https://open.spotify.com/album/3GhZAUHC57uoMAInTlezWv"
       },
@@ -5245,6 +5299,24 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf"
+      },
+      "artists": [
+        {
+          "name": "M.I Hakone",
+          "url": "https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124336,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400"
+    },
+    {
+      "album": {
         "name": "Shakshuka",
         "url": "https://open.spotify.com/album/2qL1eyBwFr9f4mDOFEXuii"
       },
@@ -5538,6 +5610,24 @@
       "duration_ms": 168000,
       "name": "Soaring Skies",
       "url": "https://open.spotify.com/track/6BYqDQYn9ZkXsEior0XqzL"
+    },
+    {
+      "album": {
+        "name": "Softly Whispering",
+        "url": "https://open.spotify.com/album/100YLSEn3RzaqIyNKQzEk3"
+      },
+      "artists": [
+        {
+          "name": "Convivial",
+          "url": "https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187022,
+      "name": "Softly Whispering",
+      "url": "https://open.spotify.com/track/6CVpyt67DY1JwuR8prqPmP"
     },
     {
       "album": {
@@ -6037,6 +6127,24 @@
     },
     {
       "album": {
+        "name": "Surf Tiger",
+        "url": "https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE"
+      },
+      "artists": [
+        {
+          "name": "ohlos",
+          "url": "https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "Surf Tiger",
+      "url": "https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg"
+    },
+    {
+      "album": {
         "name": "Swaype",
         "url": "https://open.spotify.com/album/14psBo6XTptrqiGfRHGRow"
       },
@@ -6102,7 +6210,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 85402,
       "name": "tapelux.",
       "url": "https://open.spotify.com/track/1wNhd6uM8GHjOBTOeUeQLr"
@@ -6884,7 +6992,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 169750,
       "name": "Yadaf",
       "url": "https://open.spotify.com/track/108uhYQrnQtJ7W0fUEGrff"

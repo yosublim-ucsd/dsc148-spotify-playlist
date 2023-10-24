@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with GRiZ
 
-629 songs - 1 day 12 hr 19 min
+630 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,8 +156,9 @@
 | [Don't Look Back \- Moore Kismet Remix](https://open.spotify.com/track/1O6XwkzcHszwu6knb55tFE) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [MOELLE](https://open.spotify.com/artist/11yQZ1YJaQopAkKdRFEL4O), [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Don't Look Back \(Moore Kismet Remix\)](https://open.spotify.com/album/58hRScGH70fQ3w5klmi0V2) | 3:31 | 2022-07-22 | 2023-01-06 |
 | [DON'T LOOK DOWN \(feat\. Lizzy Land\)](https://open.spotify.com/track/5rIpzFDp0sYDCQytYDG96W) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [DON'T LOOK DOWN \(feat\. Lizzy Land\)](https://open.spotify.com/album/7m8fnIJ9yEu4ose0FQUR3N) | 3:16 | 2023-01-27 | 2023-07-29 |
 | [Don't Look Down \(Hold On\)](https://open.spotify.com/track/65krG6c3veTz66mIdSU16f) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp) | [Don't Look Down \(Hold On\)](https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE) | 4:05 | 2023-05-26 |  |
+| [dontstopme!](https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:41 | 2023-10-20 |  |
 | [dontstopme!](https://open.spotify.com/track/6CNXcjAeOvjTwJeNCEdfWs) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [dontstopme!](https://open.spotify.com/album/3GBBjfai3AbK7ma8hDU8ic) | 3:41 | 2023-07-21 | 2023-09-26 |
-| [dontstopme!](https://open.spotify.com/track/6IJg6Lj08UReeoz9590Ps5) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [dontstopme!](https://open.spotify.com/album/4F58jVM56GlkFSU6SbHw8m) | 3:41 | 2023-09-29 |  |
+| [dontstopme!](https://open.spotify.com/track/6IJg6Lj08UReeoz9590Ps5) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [dontstopme!](https://open.spotify.com/album/4F58jVM56GlkFSU6SbHw8m) | 3:41 | 2023-09-29 | 2023-10-24 |
 | [Don’t You](https://open.spotify.com/track/22KuNvUTXHXMWVTAHOVA5g) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Don’t You](https://open.spotify.com/album/1GqED9CbRT7TaDrnX0zVq6) | 3:36 | 2021-12-17 | 2022-02-19 |
 | [Dopamine](https://open.spotify.com/track/6VZlZwLkThFbO3gmBYeDUK) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi) | [Dopamine](https://open.spotify.com/album/0WBKJgbjqaNdw2AqHQWuvf) | 2:38 | 2023-09-29 |  |
 | [Down With Your Love \- SIPPY Remix](https://open.spotify.com/track/7xDxi7ZhHtnQ99owoCXQRi) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Down With Your Love \(SIPPY Remix\)](https://open.spotify.com/album/7FzBN7xBHKiBj0xR2bdrmm) | 3:47 | 2022-02-04 | 2022-10-08 |

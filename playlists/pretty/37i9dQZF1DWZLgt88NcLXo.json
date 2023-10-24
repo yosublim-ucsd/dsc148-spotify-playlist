@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmE4MTQ5ZjdiODQxZjBhODQ3MmM3NTVjMWI4OGQ0YTgxZmRhYTg2",
+  "snapshot_id": "MCxmOGUwZGYzODJiOTE3YzMxZTViM2Q1OTk5NWI3OTdjMmRiNmRjMWMw",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "The Summer House",
+        "url": "https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "duration_ms": 122449,
+      "name": "The Summer House",
+      "url": "https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Malgr\u00e9 le n\u00e9ant",
         "url": "https://open.spotify.com/album/325mLRmxCCHqycSkCCvOL5"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 140839,
       "name": "Virginia - Acoustic Guitar",
       "url": "https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "The Summer House",
-        "url": "https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH"
-      },
-      "artists": [
-        {
-          "name": "Kim Rodgers",
-          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
-        }
-      ],
-      "duration_ms": 122449,
-      "name": "The Summer House",
-      "url": "https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Alpen Rose",
-        "url": "https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW"
-      },
-      "artists": [
-        {
-          "name": "Camilo Branca",
-          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
-        }
-      ],
-      "duration_ms": 164072,
-      "name": "Alpen Rose",
-      "url": "https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Sweet Sky",
         "url": "https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 180533,
       "name": "Sweet Sky",
       "url": "https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Alpen Rose",
+        "url": "https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW"
+      },
+      "artists": [
+        {
+          "name": "Camilo Branca",
+          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
+        }
+      ],
+      "duration_ms": 164072,
+      "name": "Alpen Rose",
+      "url": "https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Diguil",
-        "url": "https://open.spotify.com/album/0o2kXrZp6ZXbSQcSF2gRz2"
-      },
-      "artists": [
-        {
-          "name": "Charles Avnik",
-          "url": "https://open.spotify.com/artist/2PeMqgLlOHgfvVfk63Txpp"
-        }
-      ],
-      "duration_ms": 197407,
-      "name": "Diguil",
-      "url": "https://open.spotify.com/track/0vCsBc2Br8EXzrSgNiMB4t"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Empty Sky",
         "url": "https://open.spotify.com/album/1WoTK3nCb4P4Drcj8Jekw5"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 235752,
       "name": "Empty Sky",
       "url": "https://open.spotify.com/track/2eMQEd4Eak1eHAR3l8W2GL"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Diguil",
+        "url": "https://open.spotify.com/album/0o2kXrZp6ZXbSQcSF2gRz2"
+      },
+      "artists": [
+        {
+          "name": "Charles Avnik",
+          "url": "https://open.spotify.com/artist/2PeMqgLlOHgfvVfk63Txpp"
+        }
+      ],
+      "duration_ms": 197407,
+      "name": "Diguil",
+      "url": "https://open.spotify.com/track/0vCsBc2Br8EXzrSgNiMB4t"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Estrella",
-        "url": "https://open.spotify.com/album/42ujA4hBAj6SU1MkGkgAKE"
-      },
-      "artists": [
-        {
-          "name": "Roy De Paz",
-          "url": "https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg"
-        }
-      ],
-      "duration_ms": 153473,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/0Q5dhHQXDR3JF4w2Q3JFRj"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Meyehualco",
         "url": "https://open.spotify.com/album/5JO6noENoD4vyFxpfUWWZA"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 253297,
       "name": "Meyehualco",
       "url": "https://open.spotify.com/track/60TA1wktj8y67xnmyH0ISC"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/42ujA4hBAj6SU1MkGkgAKE"
+      },
+      "artists": [
+        {
+          "name": "Roy De Paz",
+          "url": "https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg"
+        }
+      ],
+      "duration_ms": 153473,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/0Q5dhHQXDR3JF4w2Q3JFRj"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
-      },
-      "artists": [
-        {
-          "name": "Colin Reed",
-          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
-        }
-      ],
-      "duration_ms": 191308,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Serra Calderona",
         "url": "https://open.spotify.com/album/7uIP8aYQMlkbaKlqQvKxPU"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 179200,
       "name": "Serra Calderona",
       "url": "https://open.spotify.com/track/3tEO6W2sRQSZ4oQUABbcEa"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
+      },
+      "artists": [
+        {
+          "name": "Colin Reed",
+          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
+        }
+      ],
+      "duration_ms": 191308,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Reise um die Welt",
-        "url": "https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK"
-      },
-      "artists": [
-        {
-          "name": "Tomas North",
-          "url": "https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF"
-        }
-      ],
-      "duration_ms": 171853,
-      "name": "Reise um die Welt",
-      "url": "https://open.spotify.com/track/5U3Funw31Xlkv6dvsR4QBn"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Tulum",
         "url": "https://open.spotify.com/album/3tgYGZiPi1o1G0EII5V9lp"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 176917,
       "name": "Tulum",
       "url": "https://open.spotify.com/track/4TrvStfO2EppTAYIebF5cL"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Reise um die Welt",
+        "url": "https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK"
+      },
+      "artists": [
+        {
+          "name": "Tomas North",
+          "url": "https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF"
+        }
+      ],
+      "duration_ms": 171853,
+      "name": "Reise um die Welt",
+      "url": "https://open.spotify.com/track/5U3Funw31Xlkv6dvsR4QBn"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "A New Strange Feeling",
-        "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
-      },
-      "artists": [
-        {
-          "name": "Aurelia",
-          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
-        }
-      ],
-      "duration_ms": 199742,
-      "name": "A New Strange Feeling",
-      "url": "https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Mirabella",
         "url": "https://open.spotify.com/album/1r9ghXZTQnM5TncbR8iCJU"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 199656,
       "name": "Mirabella",
       "url": "https://open.spotify.com/track/7aRXzPNyUh0hLLJJ3oA1ry"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "A New Strange Feeling",
+        "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
+      },
+      "artists": [
+        {
+          "name": "Aurelia",
+          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
+        }
+      ],
+      "duration_ms": 199742,
+      "name": "A New Strange Feeling",
+      "url": "https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1"
     },
     {
       "added_at": "2023-09-15 09:04:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 
 > New York, Jersey, and Connecticut music breaking waves\. Cover:  <a href="spotify:artist:59wfkuBoNyhDMQGCljbUbA">Diddy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,627 likes - 68 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,646 likes - 68 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 | 67 | [Stop Worry!](https://open.spotify.com/track/5YRcm6uXR2Tx8HbPiJz0W9) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Beware of the Monkey](https://open.spotify.com/album/52743dknIjnsCqQrKSIX5r) | 2:29 |
 | 68 | [Spend It](https://open.spotify.com/track/67r21HpmhEPrnP4HWxnCPw) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Spend It](https://open.spotify.com/album/3F1AGZ1Fk12cbw4aVfPS5J) | 3:20 |
 
-Snapshot ID: `MCw1ZTk3ODE5OGEzYjYwMTAyMzQ3MmJlZjEwZDcyNTQ0YzEyY2UzODdj`
+Snapshot ID: `MCwyZDRmYTMwNDg2Mzg4ZWYxNDQ4Zjc4MDI3YzhiM2JkNjRiYmJkY2My`

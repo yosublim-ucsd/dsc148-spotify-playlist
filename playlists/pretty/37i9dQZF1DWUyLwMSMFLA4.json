@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Asadito a pura cumbia y cuarteto!",
-  "num_followers": 468384,
+  "num_followers": 468506,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNThkOGU5NzgyMmFmZjJkYTM2MjhmYmQ1OTRjNjA3YWJlNDZlZTNl",
+  "snapshot_id": "MCxiMWNmZjhkNGRjZTdmMWQ2ZTg0NDQ4ZjE4YmI4OWYzNTUwZTU3YjZj",
   "tracks": [
     {
       "added_at": "2023-10-10 01:30:57",
@@ -191,18 +191,22 @@
     {
       "added_at": "2023-10-10 01:30:57",
       "album": {
-        "name": "Pa\u2019 la Selecci\u00f3n",
-        "url": "https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN"
+        "name": "OJITOS ROJOS",
+        "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
       },
       "artists": [
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 186735,
-      "name": "Pa\u2019 la Selecci\u00f3n",
-      "url": "https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO"
+      "duration_ms": 221601,
+      "name": "OJITOS ROJOS",
+      "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
     },
     {
       "added_at": "2023-10-10 01:30:57",
@@ -247,26 +251,6 @@
     {
       "added_at": "2023-10-10 01:30:57",
       "album": {
-        "name": "OJITOS ROJOS",
-        "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 221601,
-      "name": "OJITOS ROJOS",
-      "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
-    },
-    {
-      "added_at": "2023-10-10 01:30:57",
-      "album": {
         "name": "Mentiras | CROSSOVER #3",
         "url": "https://open.spotify.com/album/1adrM169dtUitpsQomXsX3"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 168000,
       "name": "Mentiras | CROSSOVER #3",
       "url": "https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY"
+    },
+    {
+      "added_at": "2023-10-10 01:30:57",
+      "album": {
+        "name": "Pa\u2019 la Selecci\u00f3n",
+        "url": "https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 186735,
+      "name": "Pa\u2019 la Selecci\u00f3n",
+      "url": "https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO"
     },
     {
       "added_at": "2023-10-10 01:30:57",
@@ -363,22 +363,18 @@
     {
       "added_at": "2023-10-10 01:30:57",
       "album": {
-        "name": "Otro D\u00eda M\u00e1s",
-        "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
+        "name": "Sonido Subtropical",
+        "url": "https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV"
       },
       "artists": [
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "La Contra",
-          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
         }
       ],
-      "duration_ms": 202342,
-      "name": "Otro D\u00eda M\u00e1s",
-      "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
+      "duration_ms": 310295,
+      "name": "Inocente",
+      "url": "https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3"
     },
     {
       "added_at": "2023-10-10 01:30:57",
@@ -419,18 +415,22 @@
     {
       "added_at": "2023-10-10 01:30:57",
       "album": {
-        "name": "Sonido Subtropical",
-        "url": "https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV"
+        "name": "Otro D\u00eda M\u00e1s",
+        "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
       },
       "artists": [
         {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "La Contra",
+          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
         }
       ],
-      "duration_ms": 310295,
-      "name": "Inocente",
-      "url": "https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3"
+      "duration_ms": 202342,
+      "name": "Otro D\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
     },
     {
       "added_at": "2023-10-10 01:30:57",
@@ -507,38 +507,6 @@
     {
       "added_at": "2023-10-10 01:30:57",
       "album": {
-        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 428438,
-      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
-    },
-    {
-      "added_at": "2023-10-10 01:30:57",
-      "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 194800,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
-    },
-    {
-      "added_at": "2023-10-10 01:30:57",
-      "album": {
         "name": "Sigo Por El Objetivo",
         "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
       },
@@ -571,6 +539,22 @@
     {
       "added_at": "2023-10-10 01:30:57",
       "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
+    },
+    {
+      "added_at": "2023-10-10 01:30:57",
+      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
@@ -583,22 +567,6 @@
       "duration_ms": 212754,
       "name": "Me Enamore",
       "url": "https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks"
-    },
-    {
-      "added_at": "2023-10-10 01:30:57",
-      "album": {
-        "name": "C\u00f3mo est\u00e1s",
-        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 227395,
-      "name": "C\u00f3mo est\u00e1s",
-      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
     },
     {
       "added_at": "2023-10-10 01:30:57",
@@ -619,6 +587,22 @@
       "duration_ms": 238528,
       "name": "Me Vas a Extra\u00f1ar - En Vivo",
       "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
+    },
+    {
+      "added_at": "2023-10-10 01:30:57",
+      "album": {
+        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 428438,
+      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
     },
     {
       "added_at": "2023-10-10 01:30:57",
@@ -655,22 +639,6 @@
     {
       "added_at": "2023-10-10 01:30:57",
       "album": {
-        "name": "Solo (Amistad... o Nada!!!)",
-        "url": "https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv"
-      },
-      "artists": [
-        {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
-        }
-      ],
-      "duration_ms": 196414,
-      "name": "Voy a Olvidarme de M\u00ed",
-      "url": "https://open.spotify.com/track/5culmYJR6bdgdY1w4HRYt0"
-    },
-    {
-      "added_at": "2023-10-10 01:30:57",
-      "album": {
         "name": "Ya No Llora",
         "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
       },
@@ -683,6 +651,22 @@
       "duration_ms": 120638,
       "name": "Ya No Llora",
       "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
+    },
+    {
+      "added_at": "2023-10-10 01:30:57",
+      "album": {
+        "name": "Solo (Amistad... o Nada!!!)",
+        "url": "https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv"
+      },
+      "artists": [
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "duration_ms": 196414,
+      "name": "Voy a Olvidarme de M\u00ed",
+      "url": "https://open.spotify.com/track/5culmYJR6bdgdY1w4HRYt0"
     },
     {
       "added_at": "2023-10-10 01:30:57",
@@ -723,6 +707,22 @@
     {
       "added_at": "2023-10-10 01:30:57",
       "album": {
+        "name": "Separece A Ti",
+        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        }
+      ],
+      "duration_ms": 248786,
+      "name": "Se Parece M\u00e1s A Ti",
+      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
+    },
+    {
+      "added_at": "2023-10-10 01:30:57",
+      "album": {
         "name": "Manos de Tijera",
         "url": "https://open.spotify.com/album/0E3sJKvxHzRNwTovcf3seP"
       },
@@ -739,18 +739,34 @@
     {
       "added_at": "2023-10-10 01:30:57",
       "album": {
-        "name": "Separece A Ti",
-        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
+        "name": "C\u00f3mo est\u00e1s",
+        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
       },
       "artists": [
         {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 248786,
-      "name": "Se Parece M\u00e1s A Ti",
-      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
+      "duration_ms": 227395,
+      "name": "C\u00f3mo est\u00e1s",
+      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
+    },
+    {
+      "added_at": "2023-10-10 01:30:57",
+      "album": {
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 251146,
+      "name": "La Cumbia De Los Trapos",
+      "url": "https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS"
     },
     {
       "added_at": "2023-10-10 01:30:57",
@@ -771,22 +787,6 @@
       "duration_ms": 140109,
       "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
       "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
-    },
-    {
-      "added_at": "2023-10-10 01:30:57",
-      "album": {
-        "name": "Cumbia Villera",
-        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 251146,
-      "name": "La Cumbia De Los Trapos",
-      "url": "https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS"
     },
     {
       "added_at": "2023-10-10 01:30:57",
@@ -975,30 +975,6 @@
     {
       "added_at": "2023-10-10 01:30:57",
       "album": {
-        "name": "LATI2",
-        "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        }
-      ],
-      "duration_ms": 204146,
-      "name": "LATI2",
-      "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
-    },
-    {
-      "added_at": "2023-10-10 01:30:57",
-      "album": {
         "name": "De Enero a Enero",
         "url": "https://open.spotify.com/album/459Jy3R3Jhm4GdpVWKGM0g"
       },
@@ -1027,6 +1003,46 @@
       "duration_ms": 267933,
       "name": "Amigos Con Derecho",
       "url": "https://open.spotify.com/track/1jjQ1k1jvxdXUaxoK75RV8"
+    },
+    {
+      "added_at": "2023-10-10 01:30:57",
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/3GmKxxyzxNaBJlhmDm64Ac"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Intento",
+      "url": "https://open.spotify.com/track/4jycbkcVlL5P7W2zGYcau0"
+    },
+    {
+      "added_at": "2023-10-10 01:30:57",
+      "album": {
+        "name": "LATI2",
+        "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "LATI2",
+      "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
     },
     {
       "added_at": "2023-10-10 01:30:57",
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2023-10-10 01:30:57",
       "album": {
-        "name": "Soy",
-        "url": "https://open.spotify.com/album/3GmKxxyzxNaBJlhmDm64Ac"
-      },
-      "artists": [
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Intento",
-      "url": "https://open.spotify.com/track/4jycbkcVlL5P7W2zGYcau0"
-    },
-    {
-      "added_at": "2023-10-10 01:30:57",
-      "album": {
         "name": "El Color De Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
       },
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-10-10 01:30:57",
       "album": {
+        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
+        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
+    },
+    {
+      "added_at": "2023-10-10 01:30:57",
+      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2023-10-10 01:30:57",
       "album": {
-        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
-        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
+        "name": "Amor pirata",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
       "artists": [
         {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
         }
       ],
-      "duration_ms": 185453,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
+      "duration_ms": 196360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
     },
     {
       "added_at": "2023-10-10 01:30:57",
@@ -1215,22 +1231,6 @@
       "duration_ms": 141453,
       "name": "Que Locura Fue Enamorarme de Ti (Remix)",
       "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
-    },
-    {
-      "added_at": "2023-10-10 01:30:57",
-      "album": {
-        "name": "Amor pirata",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
     },
     {
       "added_at": "2023-10-10 01:30:57",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2023-10-10 01:30:57",
       "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
-    },
-    {
-      "added_at": "2023-10-10 01:30:57",
-      "album": {
         "name": "Grandes \u00c9xitos Regrabados",
         "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 238533,
       "name": "Qu\u00e9 bonito",
       "url": "https://open.spotify.com/track/3y4pf1iwp2L86I5ZuUOUr9"
+    },
+    {
+      "added_at": "2023-10-10 01:30:57",
+      "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
     },
     {
       "added_at": "2023-10-10 01:30:57",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-10-10 01:30:57",
       "album": {
-        "name": "Soy Cordobes",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 261066,
-      "name": "Fuego y Pasion",
-      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
-    },
-    {
-      "added_at": "2023-10-10 01:30:57",
-      "album": {
         "name": "Inimitable",
         "url": "https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU"
       },
@@ -1743,18 +1727,34 @@
     {
       "added_at": "2023-10-10 01:30:57",
       "album": {
-        "name": "10 A\u00f1os",
-        "url": "https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9"
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
         }
       ],
-      "duration_ms": 230945,
-      "name": "Chica del Este",
-      "url": "https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s"
+      "duration_ms": 261066,
+      "name": "Fuego y Pasion",
+      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
+    },
+    {
+      "added_at": "2023-10-10 01:30:57",
+      "album": {
+        "name": "Soy Sabalero",
+        "url": "https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 179583,
+      "name": "Soy Sabalero",
+      "url": "https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL"
     },
     {
       "added_at": "2023-10-10 01:30:57",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2023-10-10 01:30:57",
       "album": {
-        "name": "Soy Sabalero",
-        "url": "https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W"
+        "name": "10 A\u00f1os",
+        "url": "https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
         }
       ],
-      "duration_ms": 179583,
-      "name": "Soy Sabalero",
-      "url": "https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL"
+      "duration_ms": 230945,
+      "name": "Chica del Este",
+      "url": "https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s"
     }
   ],
   "unique_name": "Asadito Cumbiero",

@@ -4,7 +4,7 @@
 
 > Girls just wanna have funds
 
-302 songs - 17 hr 10 min
+303 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Can't Relate \(feat\. YBN Nahmir, YG\)](https://open.spotify.com/track/74YaGodeQdJoR5L8l59CYF) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d), [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [The Plan](https://open.spotify.com/album/5dWr9muDnTuBp3diyKHpTo) | 2:59 | 2023-07-06 |  |
 | [Carry Me Go](https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Carry Me Go](https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do) | 2:16 | 2023-06-26 | 2023-07-07 |
 | [Cash](https://open.spotify.com/track/1q5RcxOiYjedF2mORWVkej) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Enjoy Your Life](https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS) | 3:07 | 2023-07-06 | 2023-08-18 |
-| [Cash](https://open.spotify.com/track/4fSK7nMpI1QAHir02gYcYk) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Cash](https://open.spotify.com/album/2Ssol3lCn5se4yfnFCOSYf) | 3:07 | 2023-07-06 |  |
+| [Cash](https://open.spotify.com/track/4fSK7nMpI1QAHir02gYcYk) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Cash](https://open.spotify.com/album/2Ssol3lCn5se4yfnFCOSYf) | 3:07 | 2023-07-06 | 2023-10-24 |
+| [Cash](https://open.spotify.com/track/1vBfCnOdppaPUdYe22PFFX) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Enjoy Your Life](https://open.spotify.com/album/0w9eny2YNRw2bU9x1t4nM5) | 3:07 | 2023-07-06 |  |
 | [Champion Sound](https://open.spotify.com/track/2mqNeI4vUehnhVwSkCrQnR) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:57 | 2023-06-12 | 2023-06-27 |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-06-26 | 2023-07-07 |
 | [Cinderella](https://open.spotify.com/track/3S8DdOVdItdxl8wiSJbxqG) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Cityboy](https://open.spotify.com/artist/7nvcEfeWUdqDgE0SDvaULw), [Thomas the Great](https://open.spotify.com/artist/4DaWXLEMSsQWHrkshW0IDc), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [O’Kenneth](https://open.spotify.com/artist/2IlZ9ELZSszoF3eDvj0uKe) | [Cinderella](https://open.spotify.com/album/1XUuE6jXikxH60jgtQPLt1) | 3:52 | 2023-02-16 | 2023-03-14 |

@@ -1,12 +1,12 @@
 {
   "description": "we got you bro. Cover: Post Malone",
-  "num_followers": 35285,
+  "num_followers": 35632,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWZkMGQ3MTgwZTI5NWMxM2ZhOGU2MzRlMGU0ZjczNTUwNzUyN2M1",
+  "snapshot_id": "MCw0ZDk4ZTAwNjI4N2Y0N2VkZjc0MzFiOTg4YjBiZDgxNDNjYTliN2Q2",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 242484,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI"
       },
@@ -203,6 +187,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
@@ -215,22 +215,6 @@
       "duration_ms": 131240,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 95466,
-      "name": "Everybody Dies In Their Nightmares",
-      "url": "https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -263,6 +247,22 @@
       "duration_ms": 182706,
       "name": "XO Tour Llif3",
       "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 95466,
+      "name": "Everybody Dies In Their Nightmares",
+      "url": "https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 198370,
-      "name": "Heartbreak Anniversary",
-      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
       },
@@ -383,22 +367,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 221746,
-      "name": "The Way Life Goes (feat. Oh Wonder)",
-      "url": "https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc"
+      "duration_ms": 198370,
+      "name": "Heartbreak Anniversary",
+      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -415,6 +395,26 @@
       "duration_ms": 211666,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 221746,
+      "name": "The Way Life Goes (feat. Oh Wonder)",
+      "url": "https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Go Flex",
-      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Arcade",
         "url": "https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG"
       },
@@ -615,22 +599,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
@@ -643,6 +611,22 @@
       "duration_ms": 117013,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4e0FYxSROat25pH16zMTZI"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "Go Flex",
+      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -679,6 +663,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -691,54 +691,6 @@
       "duration_ms": 161384,
       "name": "WITHOUT YOU",
       "url": "https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "Hollywood's Bleeding",
-      "url": "https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "LIFE'S A TRIP",
-        "url": "https://open.spotify.com/album/214f4uAY0p2KgY7Fl4fBgk"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 121680,
-      "name": "Taking A Walk",
-      "url": "https://open.spotify.com/track/4mHgYpuGHu99Mw69E83CP2"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Half A Man",
-      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -775,6 +727,38 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "Feel No Ways",
+      "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "Hollywood's Bleeding",
+      "url": "https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
@@ -807,22 +791,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "Feel No Ways",
-      "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Triplbt Theme",
         "url": "https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM"
       },
@@ -835,6 +803,38 @@
       "duration_ms": 90323,
       "name": "Vas",
       "url": "https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 174192,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/5uZm7EFtP5aoTJvx5gv9Xf"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "Half A Man",
+      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
     }
   ],
   "unique_name": "sad boy anthems",

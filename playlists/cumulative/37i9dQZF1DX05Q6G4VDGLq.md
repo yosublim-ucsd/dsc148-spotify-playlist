@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-747 songs - 1 day 20 hr 54 min
+748 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Graceful Rhapsody](https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Graceful Rhapsody](https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm) | 2:42 | 2023-09-22 |  |
 | [Guess the difference?](https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Guess the difference?](https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh) | 3:19 | 2023-05-04 |  |
 | [Guidance](https://open.spotify.com/track/4z8F22xJyVwiuflJV0UW5f) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Guidance](https://open.spotify.com/album/6L416spNnfqDkQADYwejmg) | 4:00 | 2022-06-28 |  |
+| [Happy Time](https://open.spotify.com/track/41UkKjPMvpzWjCymgm9nz2) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Happy Time](https://open.spotify.com/album/7gdwuoUHqFwmU8iCpPFfA7) | 3:15 | 2023-10-20 |  |
 | [Haze](https://open.spotify.com/track/3CGuaAf6lpT0bjutZ7DJt8) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Haze](https://open.spotify.com/album/0aRC6BqXtgWMaGPg9R9fcB) | 3:28 | 2022-06-28 |  |
 | [Heartbreak Avenue](https://open.spotify.com/track/6LeUGbjrPif0UyaPYzKxdG) | [James Elias](https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr) | [Heartbreak Avenue](https://open.spotify.com/album/3RrW88TLHIjgNehr6KG4sk) | 3:08 | 2023-03-23 |  |
 | [Heartstrings](https://open.spotify.com/track/6DWlgYRquRmphcMPBCL6NF) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [Heartstrings](https://open.spotify.com/album/1rmP7N7m9ZyLGnN2R2bVSx) | 2:41 | 2023-08-17 |  |
@@ -603,7 +604,7 @@
 | [Spring Came Early](https://open.spotify.com/track/3vlVtBIC5VDiY98GWAgT67) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Spring Came Early](https://open.spotify.com/album/3m97OF4An5bONucwGKVgm4) | 3:39 | 2022-06-28 | 2022-12-31 |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/6EKISMrXCzFNA9UaMtr0he) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/2uAMOafxy5xI71sbAWLm9V) | 4:22 | 2022-06-28 |  |
 | [Spring Is in the Air](https://open.spotify.com/track/0c6PEeFIX4PQ20yyjwW1SE) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [In a Deeper Sense](https://open.spotify.com/album/7HUtFnt2Tl5PJGhybMBAt1) | 4:48 | 2022-06-28 |  |
-| [Spring Waltz](https://open.spotify.com/track/0ALDyNky5IglxrEC1DEmlf) | [Hector Milo Trio](https://open.spotify.com/artist/0sn0tQQs3lIlLSgHgidapX) | [Spring Waltz](https://open.spotify.com/album/4PKhZd74JFKmT4nmIcvwei) | 3:57 | 2022-06-28 |  |
+| [Spring Waltz](https://open.spotify.com/track/0ALDyNky5IglxrEC1DEmlf) | [Hector Milo Trio](https://open.spotify.com/artist/0sn0tQQs3lIlLSgHgidapX) | [Spring Waltz](https://open.spotify.com/album/4PKhZd74JFKmT4nmIcvwei) | 3:57 | 2022-06-28 | 2023-10-24 |
 | [Stairway to the Stars](https://open.spotify.com/track/7hgumdPAIHQFL7iE1tdXYA) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Stairway to the Stars](https://open.spotify.com/album/3nGWOLafhuYnZNbMIJ9QXE) | 4:38 | 2022-06-28 |  |
 | [Stars](https://open.spotify.com/track/5LFU23eUcfpYJmtUZ7RxdS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 8:01 | 2022-10-27 | 2023-09-01 |
 | [Stars Fell on Alabama](https://open.spotify.com/track/6i27I5FwSeruTANEO9dyIQ) | [Laurie Sharon Quartet](https://open.spotify.com/artist/2fMJvUaoJ5LN2k49ZCdC5m) | [Stars Fell on Alabama](https://open.spotify.com/album/01cR4pvcJ4uDGHRYtkHQXe) | 4:41 | 2022-06-28 |  |

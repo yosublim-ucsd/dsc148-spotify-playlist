@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Ben Aler",
-  "num_followers": 508063,
+  "num_followers": 508065,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODQ1MGYzMGZlZTFkNjNhZTdjODY5NjRkOWE0N2FhYmM4NDRiMjIw",
+  "snapshot_id": "MCwzNDI3ZjJmYThlYjM5OTI3MmEyYjQzZDI0YTA5Mjc1Njk3YzdlNTdj",
   "tracks": [
     {
       "added_at": "2023-10-20 15:57:14",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-10-20 15:57:14",
       "album": {
-        "name": "Perder",
-        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 219272,
-      "name": "Perder",
-      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
-    },
-    {
-      "added_at": "2023-10-20 15:57:14",
-      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 217135,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
+    },
+    {
+      "added_at": "2023-10-20 15:57:14",
+      "album": {
+        "name": "Perder",
+        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 219272,
+      "name": "Perder",
+      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
     },
     {
       "added_at": "2023-10-20 15:57:14",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-10-20 15:57:14",
       "album": {
-        "name": "Jugo de Guayaba",
-        "url": "https://open.spotify.com/album/5wGmJjNKp3kuxlGwKN10Iw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        }
-      ],
-      "duration_ms": 176913,
-      "name": "Jugo de Guayaba",
-      "url": "https://open.spotify.com/track/3CNfhlYS0BPlbSUULODzb6"
-    },
-    {
-      "added_at": "2023-10-20 15:57:14",
-      "album": {
         "name": "Naufragar",
         "url": "https://open.spotify.com/album/2B7X0lyAvSI8j5oZIOmMbc"
       },
@@ -575,6 +559,38 @@
       "duration_ms": 243000,
       "name": "Naufragar",
       "url": "https://open.spotify.com/track/405Z4PIE6QNiiRkC3eyBBD"
+    },
+    {
+      "added_at": "2023-10-20 15:57:14",
+      "album": {
+        "name": "VOYCONTODO",
+        "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 137114,
+      "name": "VOYCONTODO",
+      "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
+    },
+    {
+      "added_at": "2023-10-20 15:57:14",
+      "album": {
+        "name": "Jugo de Guayaba",
+        "url": "https://open.spotify.com/album/5wGmJjNKp3kuxlGwKN10Iw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        }
+      ],
+      "duration_ms": 176913,
+      "name": "Jugo de Guayaba",
+      "url": "https://open.spotify.com/track/3CNfhlYS0BPlbSUULODzb6"
     },
     {
       "added_at": "2023-10-20 15:57:14",
@@ -607,22 +623,6 @@
       "duration_ms": 220285,
       "name": "Saico",
       "url": "https://open.spotify.com/track/1O6C6BFlZQ9QLzn8yY8uHG"
-    },
-    {
-      "added_at": "2023-10-20 15:57:14",
-      "album": {
-        "name": "VOYCONTODO",
-        "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 137114,
-      "name": "VOYCONTODO",
-      "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
     },
     {
       "added_at": "2023-10-20 15:57:14",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-10-20 15:57:14",
       "album": {
+        "name": "Estos D\u00edas",
+        "url": "https://open.spotify.com/album/4qk7bAsrMLOgiyaPwWoMx0"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 202586,
+      "name": "Estos D\u00edas",
+      "url": "https://open.spotify.com/track/4lMENCVL77QTWBtEL5VBX6"
+    },
+    {
+      "added_at": "2023-10-20 15:57:14",
+      "album": {
         "name": "Mechero",
         "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
@@ -731,22 +747,6 @@
     {
       "added_at": "2023-10-20 15:57:14",
       "album": {
-        "name": "Estos D\u00edas",
-        "url": "https://open.spotify.com/album/4qk7bAsrMLOgiyaPwWoMx0"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 202586,
-      "name": "Estos D\u00edas",
-      "url": "https://open.spotify.com/track/4lMENCVL77QTWBtEL5VBX6"
-    },
-    {
-      "added_at": "2023-10-20 15:57:14",
-      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -759,38 +759,6 @@
       "duration_ms": 182782,
       "name": "Sol",
       "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
-    },
-    {
-      "added_at": "2023-10-20 15:57:14",
-      "album": {
-        "name": "Midnight Freak-Out",
-        "url": "https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Midnight Freak-Out",
-      "url": "https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw"
-    },
-    {
-      "added_at": "2023-10-20 15:57:14",
-      "album": {
-        "name": "En Tus Aguas",
-        "url": "https://open.spotify.com/album/5gEcPV40FRmHGzrFKpUAMP"
-      },
-      "artists": [
-        {
-          "name": "Dariann Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
-        }
-      ],
-      "duration_ms": 228250,
-      "name": "Volando",
-      "url": "https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7"
     },
     {
       "added_at": "2023-10-20 15:57:14",
@@ -811,6 +779,38 @@
       "duration_ms": 266875,
       "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
       "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
+    },
+    {
+      "added_at": "2023-10-20 15:57:14",
+      "album": {
+        "name": "En Tus Aguas",
+        "url": "https://open.spotify.com/album/5gEcPV40FRmHGzrFKpUAMP"
+      },
+      "artists": [
+        {
+          "name": "Dariann Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
+        }
+      ],
+      "duration_ms": 228250,
+      "name": "Volando",
+      "url": "https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7"
+    },
+    {
+      "added_at": "2023-10-20 15:57:14",
+      "album": {
+        "name": "Midnight Freak-Out",
+        "url": "https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Midnight Freak-Out",
+      "url": "https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw"
     },
     {
       "added_at": "2023-10-20 15:57:14",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-10-20 15:57:14",
       "album": {
-        "name": "Agosto",
-        "url": "https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Agosto",
-      "url": "https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x"
-    },
-    {
-      "added_at": "2023-10-20 15:57:14",
-      "album": {
         "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
         "url": "https://open.spotify.com/album/7yVCek4s4M23xJKENetKQL"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 166058,
       "name": "Quer\u00eda Olvidarte",
       "url": "https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5"
+    },
+    {
+      "added_at": "2023-10-20 15:57:14",
+      "album": {
+        "name": "Agosto",
+        "url": "https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Agosto",
+      "url": "https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x"
     },
     {
       "added_at": "2023-10-20 15:57:14",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-10-20 15:57:14",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
-    },
-    {
-      "added_at": "2023-10-20 15:57:14",
-      "album": {
         "name": "todo pasa",
         "url": "https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE"
       },
@@ -1055,22 +1039,18 @@
     {
       "added_at": "2023-10-20 15:57:14",
       "album": {
-        "name": "Te Odio",
-        "url": "https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw"
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
       },
       "artists": [
         {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        },
-        {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 213956,
-      "name": "Te odio",
-      "url": "https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz"
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2023-10-20 15:57:14",
@@ -1087,6 +1067,26 @@
       "duration_ms": 220853,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
+    },
+    {
+      "added_at": "2023-10-20 15:57:14",
+      "album": {
+        "name": "Te Odio",
+        "url": "https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        },
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        }
+      ],
+      "duration_ms": 213956,
+      "name": "Te odio",
+      "url": "https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz"
     },
     {
       "added_at": "2023-10-20 15:57:14",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-10-20 15:57:14",
       "album": {
-        "name": "80's",
-        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 213088,
-      "name": "80's",
-      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
-    },
-    {
-      "added_at": "2023-10-20 15:57:14",
-      "album": {
         "name": "Qu\u00e9 tal? Yo igual",
         "url": "https://open.spotify.com/album/3bmRq543so0ogJaFvSlIT6"
       },
@@ -1191,6 +1175,38 @@
     {
       "added_at": "2023-10-20 15:57:14",
       "album": {
+        "name": "Solo Tu",
+        "url": "https://open.spotify.com/album/4monLmhJWVVByxBhjPQQR7"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Solo Tu",
+      "url": "https://open.spotify.com/track/4Ns54Yvhv4xfOMLAYRLkVE"
+    },
+    {
+      "added_at": "2023-10-20 15:57:14",
+      "album": {
+        "name": "80's",
+        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 213088,
+      "name": "80's",
+      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
+    },
+    {
+      "added_at": "2023-10-20 15:57:14",
+      "album": {
         "name": "Laguna",
         "url": "https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 222666,
       "name": "Laguna",
       "url": "https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA"
-    },
-    {
-      "added_at": "2023-10-20 15:57:14",
-      "album": {
-        "name": "Solo Tu",
-        "url": "https://open.spotify.com/album/4monLmhJWVVByxBhjPQQR7"
-      },
-      "artists": [
-        {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Solo Tu",
-      "url": "https://open.spotify.com/track/4Ns54Yvhv4xfOMLAYRLkVE"
     },
     {
       "added_at": "2023-10-20 15:57:14",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-10-20 15:57:14",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6sIQNoyBSFFrPOx4Oy2YmV"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 141524,
-      "name": "D\u00e9jenme Llorar",
-      "url": "https://open.spotify.com/track/3ACxrhctejSeuRCLhTZUOI"
-    },
-    {
-      "added_at": "2023-10-20 15:57:14",
-      "album": {
         "name": "Mu\u00e9vete",
         "url": "https://open.spotify.com/album/53vZo5q0F7jYsa7C2KDzku"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 176623,
       "name": "Mu\u00e9vete",
       "url": "https://open.spotify.com/track/2K2nInEDfZrfxMO7AhswCE"
+    },
+    {
+      "added_at": "2023-10-20 15:57:14",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6sIQNoyBSFFrPOx4Oy2YmV"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 141524,
+      "name": "D\u00e9jenme Llorar",
+      "url": "https://open.spotify.com/track/3ACxrhctejSeuRCLhTZUOI"
     },
     {
       "added_at": "2023-10-20 15:57:14",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-10-20 15:57:14",
       "album": {
-        "name": "Nena, dime algo.",
-        "url": "https://open.spotify.com/album/4LNN7H1otfd8z5TFIlQCEY"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 156738,
-      "name": "Nena, dime algo.",
-      "url": "https://open.spotify.com/track/3arnuYBuNFads3xhmztypA"
-    },
-    {
-      "added_at": "2023-10-20 15:57:14",
-      "album": {
         "name": "Historia de un Amor",
         "url": "https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 165000,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT"
+    },
+    {
+      "added_at": "2023-10-20 15:57:14",
+      "album": {
+        "name": "Nena, dime algo.",
+        "url": "https://open.spotify.com/album/4LNN7H1otfd8z5TFIlQCEY"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 156738,
+      "name": "Nena, dime algo.",
+      "url": "https://open.spotify.com/track/3arnuYBuNFads3xhmztypA"
     },
     {
       "added_at": "2023-10-20 15:57:14",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-10-20 15:57:14",
       "album": {
-        "name": "Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/6m3XECdFtdnTqy1mplUb5R"
-      },
-      "artists": [
-        {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/696c9iYCZloDcTmB3lStdC"
-    },
-    {
-      "added_at": "2023-10-20 15:57:14",
-      "album": {
         "name": "Inhabitable",
         "url": "https://open.spotify.com/album/3UKwGcVshIk7d3n7M4nfAG"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 167240,
       "name": "Inhabitable",
       "url": "https://open.spotify.com/track/1ni6rSyO6nAa10fL8R08Pb"
+    },
+    {
+      "added_at": "2023-10-20 15:57:14",
+      "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/6m3XECdFtdnTqy1mplUb5R"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/696c9iYCZloDcTmB3lStdC"
     },
     {
       "added_at": "2023-10-20 15:57:14",
@@ -1683,6 +1683,22 @@
       "duration_ms": 211986,
       "name": "en la ciudad",
       "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
+    },
+    {
+      "added_at": "2023-10-20 15:57:14",
+      "album": {
+        "name": "A TI",
+        "url": "https://open.spotify.com/album/36InzgYAARL1G0fiqy0Uza"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 138509,
+      "name": "A TI",
+      "url": "https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs"
     },
     {
       "added_at": "2023-10-20 15:57:14",
@@ -1751,22 +1767,6 @@
       "duration_ms": 194048,
       "name": "odio esta casa (cuando te vas)",
       "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
-    },
-    {
-      "added_at": "2023-10-20 15:57:14",
-      "album": {
-        "name": "Cortada en la Frente",
-        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Cortada en la Frente",
-      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
     }
   ],
   "unique_name": "el nuevo indie",

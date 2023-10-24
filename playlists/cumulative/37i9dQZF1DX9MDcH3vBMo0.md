@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-670 songs - 1 day 5 hr 6 min
+672 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Caliesa](https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Caliesa](https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k) | 2:52 | 2022-04-21 | 2022-07-21 |
 | [Callistea](https://open.spotify.com/track/0cCb6YtxKMYur2ZXqndAvH) | [Rhonda Holland](https://open.spotify.com/artist/5c1mF7ruUN8IUShGXLFoFu) | [Callistea](https://open.spotify.com/album/1zaw2IzahEJyaUOBKSZK78) | 2:31 | 2022-07-20 | 2022-09-24 |
 | [Calm after the Storm](https://open.spotify.com/track/3FTGaPHBo9p6fce4rYOfxT) | [Nicolai Bertoli](https://open.spotify.com/artist/1A6h4GZEr6PJvIuqcWYFBI) | [Calm after the Storm](https://open.spotify.com/album/3y7x47zbzfA3pd6C0zjnoE) | 2:09 | 2022-04-21 | 2022-07-21 |
+| [Candlelight](https://open.spotify.com/track/5iaXnCbptZhRWsfMlM68lN) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Candlelight](https://open.spotify.com/album/07zpR4ny0kTMNe7RJG8GY3) | 2:34 | 2023-10-23 |  |
 | [Carrousel](https://open.spotify.com/track/2HsHeR0683mY61u4e35Jg1) | [Léonne Michaud](https://open.spotify.com/artist/5tXCEjYUtlox3uFr67xM1k) | [Trustful Hearts](https://open.spotify.com/album/31uIH2IWFY6bH4R6ZFLrLe) | 2:59 | 2022-04-21 | 2022-09-24 |
 | [Cavandoli](https://open.spotify.com/track/5y2VQOhr2C26gGbxZfx9DT) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Cavandoli](https://open.spotify.com/album/37BrBYpSTWdUz5j12OqXpy) | 2:38 | 2022-04-21 |  |
 | [Cavtat](https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V) | [Medéa Bokor](https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl) | [Cavtat](https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2) | 1:59 | 2022-04-21 | 2023-01-21 |
@@ -282,7 +283,7 @@
 | [Just Wait For The Sun](https://open.spotify.com/track/2M7xfBZfOQGFXTl2seuqsm) | [Lorraine J\. Kovach](https://open.spotify.com/artist/3H92L5ns19ZFEIcvVj2KhY) | [Just Wait For The Sun](https://open.spotify.com/album/6dOACKlGY3VXfRpZy2rQVJ) | 2:09 | 2022-04-21 | 2022-09-24 |
 | [Kaleidoscope](https://open.spotify.com/track/3WiissyVFRpCVrqbyPKZxZ) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Kaleidoscope](https://open.spotify.com/album/0eVw8w35dO9VuGLy4vOprZ) | 2:01 | 2022-04-21 |  |
 | [Karlovy Vary](https://open.spotify.com/track/6UQU3rbYYESsfBcJOvZDHB) | [Maxim Pellas](https://open.spotify.com/artist/6odoEK73GIfn9uuCvcYZl4) | [Karlovy Vary](https://open.spotify.com/album/42Bm4yEdjetR7e5rxM1PDJ) | 2:24 | 2022-04-21 |  |
-| [Kokachin](https://open.spotify.com/track/2pzrTJSU6bTqEmZ7Zv5XLM) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Kokachin](https://open.spotify.com/album/0D5XBOqxs8fW0dU0MgQM8G) | 4:02 | 2022-04-21 |  |
+| [Kokachin](https://open.spotify.com/track/2pzrTJSU6bTqEmZ7Zv5XLM) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Kokachin](https://open.spotify.com/album/0D5XBOqxs8fW0dU0MgQM8G) | 4:02 | 2022-04-21 | 2023-10-24 |
 | [Kokyu](https://open.spotify.com/track/5v9dmm3md5BdP2qpH0lriI) | [Mizuki Lee](https://open.spotify.com/artist/3Q4E32Z1xrz9ZrDx8pyB0y) | [Kokyu](https://open.spotify.com/album/5C72uHPlWlDljYbWxVGjhU) | 2:06 | 2022-04-21 | 2022-07-21 |
 | [Kövess engem](https://open.spotify.com/track/3OvlHDjYRdlbuPaS0Krbml) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Kövess engem](https://open.spotify.com/album/48Dq1LikCVhATFQCUa0yxl) | 2:11 | 2022-04-21 | 2022-08-10 |
 | [L'estétique](https://open.spotify.com/track/7jTY0nAzuv2Gm3Y7MCQR5Z) | [Elena Miguel](https://open.spotify.com/artist/5gK5I1IIdNR5gZNGhYuJLD) | [L'estétique](https://open.spotify.com/album/6nDRfDYFbnuhstYE9OBjTO) | 1:59 | 2022-04-21 | 2023-02-27 |
@@ -519,7 +520,7 @@
 | [Silva](https://open.spotify.com/track/362bwMZCrw9NvRNoUf0LgT) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Silva](https://open.spotify.com/album/0IIn6EvRZ1OecHp2hTuRY9) | 2:10 | 2023-04-12 |  |
 | [simplified](https://open.spotify.com/track/0eCVi3Gu6YwE6Zh0ukFFvo) | [Lyle Shattler](https://open.spotify.com/artist/6b9XvfnznB6bPK95vnhO0k) | [simplified](https://open.spotify.com/album/2DS1bD4i7ywzL5vlVSFhuS) | 2:32 | 2022-04-21 | 2023-05-04 |
 | [Sinkadus](https://open.spotify.com/track/0dLptfXupd4zsgppQgrvVO) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Sinkadus](https://open.spotify.com/album/54JglKkD4WG2OzwhmXUv9M) | 2:32 | 2022-04-21 |  |
-| [Sinking](https://open.spotify.com/track/2tMIlCle6lIekbKOBtKxaT) | [Matthew Avery](https://open.spotify.com/artist/3dAAhnH2R2Dd2bgZiqSlkR) | [Sinking](https://open.spotify.com/album/0VTQ7zwNJ0SrBddcVHsGZa) | 2:39 | 2022-04-21 |  |
+| [Sinking](https://open.spotify.com/track/2tMIlCle6lIekbKOBtKxaT) | [Matthew Avery](https://open.spotify.com/artist/3dAAhnH2R2Dd2bgZiqSlkR) | [Sinking](https://open.spotify.com/album/0VTQ7zwNJ0SrBddcVHsGZa) | 2:39 | 2022-04-21 | 2023-10-24 |
 | [Sleeping at last](https://open.spotify.com/track/1ri9OTTCvGn1yMlDiqAdFS) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Sleeping at last](https://open.spotify.com/album/0nOyDcj7i5cEolSP2RZ2uW) | 2:14 | 2022-04-21 | 2023-01-21 |
 | [Sleeping Sunrise](https://open.spotify.com/track/5CN6iGSYvvIVb3trc1xXiu) | [Carissa Malone](https://open.spotify.com/artist/7aOpKgb0COw4pXIdVVIqTx) | [Visionaries](https://open.spotify.com/album/6rdpheLWbeRsI6aKoOWB7z) | 2:56 | 2022-04-21 | 2022-07-21 |
 | [Slow Morning](https://open.spotify.com/track/56sl3qMDGAqd8ktMI57h7S) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Slow Morning](https://open.spotify.com/album/72tckPxhIpV8L7KwBgSSiu) | 2:10 | 2023-07-10 |  |
@@ -587,6 +588,7 @@
 | [The Slow Down](https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [The Slow Down](https://open.spotify.com/album/1SWBVisYgwJoj0e3Xiu0Db) | 2:09 | 2023-02-20 |  |
 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 | 2022-04-21 | 2022-07-21 |
 | [The Way Home](https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Way Home](https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB) | 2:27 | 2023-08-07 |  |
+| [Then I Saw You](https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [Then I Saw You](https://open.spotify.com/album/11e0Rf3uYRPR4nQUOqKpOQ) | 3:06 | 2023-10-23 |  |
 | [Things Unsaid](https://open.spotify.com/track/1HDwUXmzoVXyBV8onqUyUv) | [Marcos Betancourt](https://open.spotify.com/artist/7JjCfmLQHeuWreo08C7hBt) | [Walking Home](https://open.spotify.com/album/7HEfIdgk9TQjlnnroQAgzM) | 2:41 | 2022-04-21 |  |
 | [Thirty two steps](https://open.spotify.com/track/2oSzrwVIU2M0w4GMVCehj8) | [Violet Mar](https://open.spotify.com/artist/5elUadW5r1Yr21zo4bV7sh) | [Thirty two steps](https://open.spotify.com/album/7jk3EiT43JQpHeCujcrSJh) | 2:27 | 2023-05-03 |  |
 | [Through My Eyes](https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Through My Eyes](https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN) | 2:53 | 2022-04-21 | 2023-01-25 |

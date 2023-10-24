@@ -1,12 +1,12 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 417027,
+  "num_followers": 417065,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTdlOWM3YmE1NmYyNmYyYjQ1ZGVmNjRkZDFhNGQ5OWE4ZjMyMDNj",
+  "snapshot_id": "MCxlYmQwOTU5ODdlODZmYTkwOGNmOTZkOWU3OTRkZWY0YWRiYzJlYzlk",
   "tracks": [
     {
       "added_at": "2021-08-25 20:28:57",
@@ -197,6 +197,22 @@
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
     },
     {
+      "added_at": "2021-09-20 19:34:04",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "One Kiss (with Dua Lipa)",
@@ -215,22 +231,6 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2021-09-20 19:34:04",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -283,26 +283,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -339,6 +319,26 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -355,6 +355,22 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -443,22 +459,6 @@
       "duration_ms": 216773,
       "name": "Hey, Soul Sister",
       "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Drops Of Jupiter",
-        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Drops of Jupiter (Tell Me)",
-      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
-    },
-    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "Red (Big Machine Radio Release Special)",
@@ -999,6 +983,22 @@
       "duration_ms": 219720,
       "name": "I Knew You Were Trouble.",
       "url": "https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Drops Of Jupiter",
+        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1161,26 +1161,6 @@
       "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Love Goes",
-        "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 171029,
-      "name": "Dancing With A Stranger (with Normani)",
-      "url": "https://open.spotify.com/track/3xgT3xIlFGqZjYW9QlhJWp"
-    },
-    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "The Midsummer Station",
@@ -1199,6 +1179,26 @@
       "duration_ms": 205933,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Love Goes",
+        "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 171029,
+      "name": "Dancing With A Stranger (with Normani)",
+      "url": "https://open.spotify.com/track/3xgT3xIlFGqZjYW9QlhJWp"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Don't Start Now",
@@ -1335,6 +1319,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 139672,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
       },
@@ -1395,38 +1411,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Stitches",
-      "url": "https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT"
-    },
-    {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Everything Is 4",
-        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 207719,
-      "name": "Want to Want Me",
-      "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Everything Is 4",
+        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 207719,
+      "name": "Want to Want Me",
+      "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1661,22 +1661,6 @@
       "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
-    },
-    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "Glory Days (Expanded Edition)",
@@ -1691,6 +1675,22 @@
       "duration_ms": 246240,
       "name": "Shout Out to My Ex",
       "url": "https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Nine Track Mind",
+        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "One Call Away",
+      "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Lifestyle (feat. Adam Levine)",
         "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
       },
@@ -2323,22 +2339,6 @@
       "duration_ms": 153865,
       "name": "Lifestyle (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Nine Track Mind",
-        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "One Call Away",
-      "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2551,26 +2551,6 @@
     {
       "added_at": "2022-04-13 19:43:54",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        }
-      ],
-      "duration_ms": 203386,
-      "name": "Came Here for Love",
-      "url": "https://open.spotify.com/track/0mGJTKRIuCOJtiT4YkJHiv"
-    },
-    {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
         "name": "Born To Be Yours",
         "url": "https://open.spotify.com/album/3Nlbg1BHLXDKqQVQ9ErCmg"
       },
@@ -2587,6 +2567,26 @@
       "duration_ms": 193320,
       "name": "Born To Be Yours",
       "url": "https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        }
+      ],
+      "duration_ms": 203386,
+      "name": "Came Here for Love",
+      "url": "https://open.spotify.com/track/0mGJTKRIuCOJtiT4YkJHiv"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2741,22 +2741,6 @@
       "url": "https://open.spotify.com/track/7weX6syqklVQocpVVmDNwI"
     },
     {
-      "added_at": "2021-09-20 19:34:04",
-      "album": {
-        "name": "Who's In Your Head",
-        "url": "https://open.spotify.com/album/3olWRKG2KFhJoWsSRpCpja"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 183536,
-      "name": "Who's In Your Head",
-      "url": "https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao"
-    },
-    {
       "added_at": "2021-10-29 04:01:00",
       "album": {
         "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
@@ -2799,6 +2783,22 @@
       "duration_ms": 211080,
       "name": "Makes Me Wonder",
       "url": "https://open.spotify.com/track/1lHXlGlve5Zx8tXLhyjDwM"
+    },
+    {
+      "added_at": "2021-09-20 19:34:04",
+      "album": {
+        "name": "Who's In Your Head",
+        "url": "https://open.spotify.com/album/3olWRKG2KFhJoWsSRpCpja"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 183536,
+      "name": "Who's In Your Head",
+      "url": "https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -3305,22 +3305,6 @@
       "url": "https://open.spotify.com/track/0jYRWd2YDazzc7czcvzPtA"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "Borrow Your Time",
-        "url": "https://open.spotify.com/album/7b9O11SYtiGD26f8sXIcAJ"
-      },
-      "artists": [
-        {
-          "name": "Fly By Midnight",
-          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
-        }
-      ],
-      "duration_ms": 209670,
-      "name": "Borrow Your Time",
-      "url": "https://open.spotify.com/track/1LEy7NUZqXHuc9SE5Xgv5A"
-    },
-    {
       "added_at": "2021-10-01 04:01:00",
       "album": {
         "name": "WE ARE (The Deluxe Edition)",
@@ -3339,6 +3323,22 @@
       "duration_ms": 191208,
       "name": "SING",
       "url": "https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5"
+    },
+    {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "Borrow Your Time",
+        "url": "https://open.spotify.com/album/7b9O11SYtiGD26f8sXIcAJ"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        }
+      ],
+      "duration_ms": 209670,
+      "name": "Borrow Your Time",
+      "url": "https://open.spotify.com/track/1LEy7NUZqXHuc9SE5Xgv5A"
     },
     {
       "added_at": "2021-09-24 04:01:00",

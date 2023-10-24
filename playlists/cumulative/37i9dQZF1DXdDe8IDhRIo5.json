@@ -821,6 +821,32 @@
     },
     {
       "album": {
+        "name": "Joseph Joseph",
+        "url": "https://open.spotify.com/album/0TLtC5K9Ybr3KMLsfTCmHK"
+      },
+      "artists": [
+        {
+          "name": "Joscho Stephan",
+          "url": "https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG"
+        },
+        {
+          "name": "Sven Jungbeck",
+          "url": "https://open.spotify.com/artist/7zzUbMyOmvQtFCtlekdLoO"
+        },
+        {
+          "name": "Volker Kamp",
+          "url": "https://open.spotify.com/artist/7FvlT1VctBs8JBH0O28jYc"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220521,
+      "name": "Joseph Joseph",
+      "url": "https://open.spotify.com/track/4fBnSaY0GVZuhbUiVSHcIM"
+    },
+    {
+      "album": {
         "name": "Rocky Gresset",
         "url": "https://open.spotify.com/album/2GKxiifjmMz6xbZU17hBVc"
       },
@@ -1028,7 +1054,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 386653,
       "name": "Love Me Tender - Live",
       "url": "https://open.spotify.com/track/2UiOwot9OQnG8HEx6hzifH"
@@ -1399,6 +1425,28 @@
     },
     {
       "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/7eYyziAjk0yVs7Ozha0NAs"
+      },
+      "artists": [
+        {
+          "name": "Greg Ruby",
+          "url": "https://open.spotify.com/artist/6JAWbslWhlSq3tmcANaFS7"
+        },
+        {
+          "name": "Steve Rice",
+          "url": "https://open.spotify.com/artist/0q1LMzk9N688736AFf4146"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243382,
+      "name": "Place du Swing",
+      "url": "https://open.spotify.com/track/4PuBOTid6MaWmqdAj2D9nc"
+    },
+    {
+      "album": {
         "name": "Place du swing",
         "url": "https://open.spotify.com/album/3S4mE5XrpQcV2w0CPLhOIB"
       },
@@ -1414,7 +1462,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 243382,
       "name": "Place du Swing",
       "url": "https://open.spotify.com/track/5ybS0DddQYx9gO6YKtFcIQ"

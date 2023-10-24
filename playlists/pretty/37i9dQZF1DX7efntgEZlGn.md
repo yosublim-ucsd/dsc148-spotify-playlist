@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,441 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,444 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 | 49 | [Yeah](https://open.spotify.com/track/1KxhoSzSYTM1EWNFEe8iBk) | [JOSH XTRA](https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe) | [Yeah](https://open.spotify.com/album/6EvSEGPSfl9vnGyXmWSbzm) | 3:37 |
 | 50 | [Hinya](https://open.spotify.com/track/2vp3E0GaE2VBHY1EbVuy5p) | [JOSH XTRA](https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe), [Yo Alex](https://open.spotify.com/artist/3PA8YnbJW4N0PuiPamfEJb) | [NOW THAT WE ARE HERE](https://open.spotify.com/album/1lvyxxI5vdtdLTY64WUVYP) | 5:16 |
 
-Snapshot ID: `MCxiNGZiOWNjM2ZkZjVlMjc5YmNlMDlmMDExZGM5MWUyMzI0ZWZhYzdl`
+Snapshot ID: `MCwxZDRmZjBiNmI2NTQxYTJmMGM1YWJjZGFhZGU4ZTYwZGNhZmMwNGMy`

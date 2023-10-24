@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 51432,
+  "num_followers": 51467,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmE4NDU0NzJhM2QxOTkzMjhlZDcwYzMyYzQ0MzMxM2FjMzZhNjJm",
+  "snapshot_id": "MCxjNjZkMGM2YTI4Njk5MGYxZWRmNmEyZjY0NDc3OGY2MmU3ZGYzZTdl",
   "tracks": [
     {
       "added_at": "2023-10-13 16:15:22",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
-        "name": "Cola Comigo",
-        "url": "https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw"
-      },
-      "artists": [
-        {
-          "name": "LUTHULY",
-          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
-        }
-      ],
-      "duration_ms": 208617,
-      "name": "Cola Comigo",
-      "url": "https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
         "name": "Chama",
         "url": "https://open.spotify.com/album/7uKJgLIQpEnzBW0wL2qUgj"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 226000,
       "name": "Nunca Te Deixei",
       "url": "https://open.spotify.com/track/6p1NbvGtfNKgsRsVU9eLDG"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
+        "name": "Cola Comigo",
+        "url": "https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw"
+      },
+      "artists": [
+        {
+          "name": "LUTHULY",
+          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+        }
+      ],
+      "duration_ms": 208617,
+      "name": "Cola Comigo",
+      "url": "https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183"
     },
     {
       "added_at": "2023-10-13 16:15:22",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
+        "name": "s\u00f3 eu sei",
+        "url": "https://open.spotify.com/album/64lnpVXtLJjZVA1sScIbGo"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 115636,
+      "name": "s\u00f3 eu sei",
+      "url": "https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
         "name": "Ouroboros",
         "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 152706,
       "name": "Doses",
       "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
-        "name": "s\u00f3 eu sei",
-        "url": "https://open.spotify.com/album/64lnpVXtLJjZVA1sScIbGo"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 115636,
-      "name": "s\u00f3 eu sei",
-      "url": "https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if"
     },
     {
       "added_at": "2023-10-13 16:15:22",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
+        "name": "SHAWTY",
+        "url": "https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k"
+      },
+      "artists": [
+        {
+          "name": "Diego Amani",
+          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
+        }
+      ],
+      "duration_ms": 173385,
+      "name": "SHAWTY",
+      "url": "https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
         "name": "Corpo Poss\u00edvel (Deluxe)",
         "url": "https://open.spotify.com/album/5DPQYWvyndISm87e1Clu6e"
       },
@@ -523,46 +539,6 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
-        "name": "SHAWTY",
-        "url": "https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k"
-      },
-      "artists": [
-        {
-          "name": "Diego Amani",
-          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
-        }
-      ],
-      "duration_ms": 173385,
-      "name": "SHAWTY",
-      "url": "https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
-        "name": "Hip Hop Machine #18",
-        "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
-      },
-      "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 357248,
-      "name": "Se Foi",
-      "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
         "name": "S\u00f3 Vem",
         "url": "https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC"
       },
@@ -591,6 +567,30 @@
       "duration_ms": 244000,
       "name": "Ondina",
       "url": "https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
+        "name": "Hip Hop Machine #18",
+        "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
+      },
+      "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 357248,
+      "name": "Se Foi",
+      "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
     },
     {
       "added_at": "2023-10-13 16:15:22",
@@ -727,6 +727,26 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
+        "name": "Brincava de Amar",
+        "url": "https://open.spotify.com/album/3il965mOJh8Jk3KjcxX4fg"
+      },
+      "artists": [
+        {
+          "name": "Carol Olly",
+          "url": "https://open.spotify.com/artist/1eOQwXqT0DJ1XbXMdOp1QR"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+        }
+      ],
+      "duration_ms": 125217,
+      "name": "Brincava de Amar",
+      "url": "https://open.spotify.com/track/2l2FbvWn2uathty65JcJCD"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
         "name": "Rosas & Violetas fa\u00e7o um buqu\u00ea. Eu quero queimar um ******* com voc\u00ea.",
         "url": "https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg"
       },
@@ -755,6 +775,22 @@
       "duration_ms": 294693,
       "name": "Renascer",
       "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
+        "name": "Aeroporto",
+        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 209537,
+      "name": "Aeroporto",
+      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
     },
     {
       "added_at": "2023-10-13 16:15:22",
@@ -819,42 +855,6 @@
       "duration_ms": 160024,
       "name": "n \u00e9 vc, sou eu",
       "url": "https://open.spotify.com/track/2Q4G9vjRYdgy4zxgHMGc23"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
-        "name": "Brincava de Amar",
-        "url": "https://open.spotify.com/album/3il965mOJh8Jk3KjcxX4fg"
-      },
-      "artists": [
-        {
-          "name": "Carol Olly",
-          "url": "https://open.spotify.com/artist/1eOQwXqT0DJ1XbXMdOp1QR"
-        },
-        {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
-        }
-      ],
-      "duration_ms": 125217,
-      "name": "Brincava de Amar",
-      "url": "https://open.spotify.com/track/2l2FbvWn2uathty65JcJCD"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
-        "name": "Aeroporto",
-        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 209537,
-      "name": "Aeroporto",
-      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
     },
     {
       "added_at": "2023-10-13 16:15:22",

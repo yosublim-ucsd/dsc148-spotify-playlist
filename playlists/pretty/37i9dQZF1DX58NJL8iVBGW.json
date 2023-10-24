@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 584566,
+  "num_followers": 584678,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTZiNzFmZjBhYWRjMzlmODMxODI0NmI3NzIzODFlMTJiYmQ1MTU2",
+  "snapshot_id": "MCw3NjlhNDcyYTcwZTA1ZmNhZTYwYWRhOTE5YTYxMDZkZThmOGU1N2Ez",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Jace Everett",
+        "url": "https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE"
+      },
+      "artists": [
+        {
+          "name": "Jace Everett",
+          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "King Arthur: Legend of the Sword (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1OVF4Ls0TgBVe8rMdUqcyz"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 258373,
       "name": "The Devil & The Huntsman",
       "url": "https://open.spotify.com/track/2pbbv2T5M8eSV1lhjNhWqH"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Jace Everett",
-        "url": "https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE"
-      },
-      "artists": [
-        {
-          "name": "Jace Everett",
-          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Devil Dancing",
-        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226324,
-      "name": "Danger and Dread",
-      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Whiskey Shivers",
         "url": "https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 190906,
       "name": "Graves",
       "url": "https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "The Devil Dancing",
+        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Danger and Dread",
+      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "I'm Not Your Man",
-        "url": "https://open.spotify.com/album/6cDRHxpDNgEMgmkCIVdlP2"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 175320,
-      "name": "Apple Tree",
-      "url": "https://open.spotify.com/track/6EqCxnulMcawu0qN8B8Y5W"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Magnolia Blues",
         "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 208546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "I'm Not Your Man",
+        "url": "https://open.spotify.com/album/6cDRHxpDNgEMgmkCIVdlP2"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Apple Tree",
+      "url": "https://open.spotify.com/track/6EqCxnulMcawu0qN8B8Y5W"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Heaven Help Me",
-        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Heaven Help Me",
-      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 209173,
       "name": "Canary",
       "url": "https://open.spotify.com/track/0CTwMHxWBYOcuA2K02qcOf"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Heaven Help Me",
+        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Heaven Help Me",
+      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "War Brides",
-        "url": "https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb"
-      },
-      "artists": [
-        {
-          "name": "Amelia Curran",
-          "url": "https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69"
-        }
-      ],
-      "duration_ms": 144040,
-      "name": "Devils",
-      "url": "https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Salt For Salt",
         "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 198132,
       "name": "Chairkickers",
       "url": "https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "War Brides",
+        "url": "https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb"
+      },
+      "artists": [
+        {
+          "name": "Amelia Curran",
+          "url": "https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69"
+        }
+      ],
+      "duration_ms": 144040,
+      "name": "Devils",
+      "url": "https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Anna & Elizabeth",
-        "url": "https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ"
-      },
-      "artists": [
-        {
-          "name": "Anna & Elizabeth",
-          "url": "https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7"
-        }
-      ],
-      "duration_ms": 88293,
-      "name": "Long Time Travelin'",
-      "url": "https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Filthy Dirty South",
         "url": "https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 346333,
       "name": "Filthy Dirty South",
       "url": "https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Anna & Elizabeth",
+        "url": "https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ"
+      },
+      "artists": [
+        {
+          "name": "Anna & Elizabeth",
+          "url": "https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7"
+        }
+      ],
+      "duration_ms": 88293,
+      "name": "Long Time Travelin'",
+      "url": "https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Quiet Flame",
-        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 242153,
-      "name": "Pull the Moon",
-      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Hell Among The Yearlings",
         "url": "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Quiet Flame",
+        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 242153,
+      "name": "Pull the Moon",
+      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Bless Your Soul",
         "url": "https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 212504,
       "name": "Bless Your Soul",
       "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Little Wing",
+        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1535,22 +1551,6 @@
       "duration_ms": 187146,
       "name": "Stolen Roses",
       "url": "https://open.spotify.com/track/4iA8sr24vIQkDmNeS8W1RR"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Little Wing",
-        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
     },
     {
       "added_at": "2023-10-06 04:00:00",

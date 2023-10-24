@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 96462,
+  "num_followers": 96947,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWNlYTU5MTcwODY1MWJmYmIyMTJhNjMwZWJkMzdjNzYyN2E4YmUz",
+  "snapshot_id": "MCxiOGFkNGRlYWNjNGIyMDlhNzlkZWRhNjc4NDQ2NmZmNGNkYmQ5OTlh",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -109,22 +109,6 @@
       "url": "https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
-        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
-      },
-      "artists": [
-        {
-          "name": "William Onyeabor",
-          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
-        }
-      ],
-      "duration_ms": 386160,
-      "name": "Fantastic Man",
-      "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Sibongile",
@@ -139,6 +123,22 @@
       "duration_ms": 351053,
       "name": "Ndihamba Nawe",
       "url": "https://open.spotify.com/track/4fYvhqvAjOifw4ih3IU2z7"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
+        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "duration_ms": 386160,
+      "name": "Fantastic Man",
+      "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -163,6 +163,22 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/51kRDjKcrYrQfFmOktFh32"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 745653,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
         "name": "24 Hours in a Disco 1978-82",
         "url": "https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL"
       },
@@ -177,20 +193,20 @@
       "url": "https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
+      "added_at": "2020-04-07 09:19:20",
       "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/51kRDjKcrYrQfFmOktFh32"
+        "name": "Mango Groove",
+        "url": "https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl"
       },
       "artists": [
         {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+          "name": "Mango Groove",
+          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
         }
       ],
-      "duration_ms": 745653,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL"
+      "duration_ms": 353266,
+      "name": "Special Star",
+      "url": "https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -231,18 +247,18 @@
     {
       "added_at": "2020-04-07 09:19:20",
       "album": {
-        "name": "Mango Groove",
-        "url": "https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl"
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
       "artists": [
         {
-          "name": "Mango Groove",
-          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
         }
       ],
-      "duration_ms": 353266,
-      "name": "Special Star",
-      "url": "https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt"
+      "duration_ms": 351746,
+      "name": "Shibobo / The Final Countdown",
+      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -297,20 +313,20 @@
       "url": "https://open.spotify.com/track/2yBjFF19OmukrC7deP7LfZ"
     },
     {
-      "added_at": "2020-04-07 09:19:20",
+      "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
       },
       "artists": [
         {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 351746,
-      "name": "Shibobo / The Final Countdown",
-      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
+      "duration_ms": 210613,
+      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
+      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -331,22 +347,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Africa in Harmony: 50th Anniversary Edition",
-        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
-      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "Obi Ate Meso Buo",
         "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
       },
@@ -359,22 +359,6 @@
       "duration_ms": 339253,
       "name": "Theresa",
       "url": "https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4"
-    },
-    {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
-        "name": "Ibokwe",
-        "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Ingoma",
-      "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -395,6 +379,22 @@
     {
       "added_at": "2020-04-07 09:19:20",
       "album": {
+        "name": "Ibokwe",
+        "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Ingoma",
+      "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
         "name": "Guz Hits",
         "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
@@ -411,22 +411,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Afro Tropical Soundz, Vol. 1",
-        "url": "https://open.spotify.com/album/6qSmpM356gfbFMpy97f2JF"
-      },
-      "artists": [
-        {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
-        }
-      ],
-      "duration_ms": 365693,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1KT0sltdhzB2LxfS0GM8Uq"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "Big Sound",
         "url": "https://open.spotify.com/album/7Kb9xyU8IIbyTBk4hwXvYV"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 187160,
       "name": "Joromi",
       "url": "https://open.spotify.com/track/5P79h7NLD3zIpkomzFaMWy"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Afro Tropical Soundz, Vol. 1",
+        "url": "https://open.spotify.com/album/6qSmpM356gfbFMpy97f2JF"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "duration_ms": 365693,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1KT0sltdhzB2LxfS0GM8Uq"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -615,6 +615,22 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/02FKQ2rc5f7XmB03EcFN4m"
+      },
+      "artists": [
+        {
+          "name": "Evi-Edna Ogholi",
+          "url": "https://open.spotify.com/artist/0anRNdIauPbIhAdygRLJVL"
+        }
+      ],
+      "duration_ms": 339386,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
         "name": "I Like Your Style",
         "url": "https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 428800,
       "name": "Ja Funmi",
       "url": "https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/02FKQ2rc5f7XmB03EcFN4m"
-      },
-      "artists": [
-        {
-          "name": "Evi-Edna Ogholi",
-          "url": "https://open.spotify.com/artist/0anRNdIauPbIhAdygRLJVL"
-        }
-      ],
-      "duration_ms": 339386,
-      "name": "Happy Birthday",
-      "url": "https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN"
     }
   ],
   "unique_name": "Classic Afropop",

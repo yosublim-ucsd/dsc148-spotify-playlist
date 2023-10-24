@@ -4,7 +4,7 @@
 
 > Hold up, run that back\. Cover: Baby Keem
 
-129 songs - 6 hr 46 min
+130 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Hats Off \(feat\. Travis Scott\)](https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 4:17 | 2022-06-03 |  |
 | [Having Our Way \(feat\. Drake\)](https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:38 | 2022-06-03 |  |
 | [Hellcats & Trackhawks](https://open.spotify.com/track/53tv6ZbyeAwfAUwFaxYbfO) | [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Only The Family \- Lil Durk Presents: Loyal Bros](https://open.spotify.com/album/7HCh4HQHDNZkXphOzb6ugT) | 2:26 | 2022-06-03 |  |
-| [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/track/2IePEfMAtqWS6rLXXFZIgI) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/album/1arPptaPtDyBisMtMBe2q6) | 3:44 | 2022-06-03 |  |
+| [His & Hers \(feat\. Don Toliver & Lil Uzi Vert\)](https://open.spotify.com/track/5LKIZ4UTKebSE5VFbLSQnr) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [His & Hers \(feat\. Don Toliver & Lil Uzi Vert\)](https://open.spotify.com/album/6FJQeinfF6MQckQ0HbTRxe) | 3:44 | 2022-10-07 |  |
+| [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/track/2IePEfMAtqWS6rLXXFZIgI) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/album/1arPptaPtDyBisMtMBe2q6) | 3:44 | 2022-06-03 | 2023-10-24 |
 | [HOME](https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [HOME](https://open.spotify.com/album/3AQ0Ynvbg6lixOuNtuw5zo) | 2:54 | 2022-06-03 | 2022-10-08 |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2022-07-25 | 2022-10-08 |
 | [Hurricane](https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:03 | 2022-06-03 |  |

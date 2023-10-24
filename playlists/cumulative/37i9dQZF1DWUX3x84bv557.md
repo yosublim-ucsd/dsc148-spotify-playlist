@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse liedjes! Cover: Metejoor
 
-380 songs - 18 hr 26 min
+381 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Anne\-Fleur Vakantie](https://open.spotify.com/track/5PhFazpNDN19EWPeoq9K1m) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Anne\-Fleur Vakantie](https://open.spotify.com/album/5c0Eslobav8E6jG2MyJb5B) | 2:54 | 2023-06-01 | 2023-08-18 |
 | [Anorak](https://open.spotify.com/track/125nmYAaZVIwLXVyLf6PDc) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag](https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS) | 2:05 | 2023-02-23 | 2023-03-25 |
 | [App me als je thuis bent](https://open.spotify.com/track/7F8autsIk3qKOhBHth4O82) | [Sophia Mason](https://open.spotify.com/artist/2v5PJeR9kJsZbkGvi85tVv), [Freez](https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg) | [App me als je thuis bent](https://open.spotify.com/album/1avOhAMcwqKToin3pv37y8) | 2:25 | 2023-08-24 | 2023-09-08 |
-| [Arcade](https://open.spotify.com/track/2dDoOSCrKQCY95eY56Xs9R) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/3wzxiVGNefP0NRFjAhkVVo) | 3:16 | 2023-09-28 |  |
+| [Arcade](https://open.spotify.com/track/06q5OfzaRccXcFU6L7PrWd) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Arcade](https://open.spotify.com/album/5p4dNjuAzVPPM61pt4KQhK) | 3:16 | 2023-10-19 |  |
+| [Arcade](https://open.spotify.com/track/2dDoOSCrKQCY95eY56Xs9R) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/3wzxiVGNefP0NRFjAhkVVo) | 3:16 | 2023-09-28 | 2023-10-24 |
 | [Aura](https://open.spotify.com/track/72yC7y5SvsFpIpRLxgBQz6) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sliden EP](https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY) | 2:19 | 2023-06-01 | 2023-07-14 |
 | [Avond](https://open.spotify.com/track/2tF8Amp5Q4uBYwh70RBDPR) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Avond \(from the Amazon Original Series MODERN LOVE\)](https://open.spotify.com/album/6dKMsyWoG72THulJqomYxG) | 3:51 | 2023-02-23 | 2023-03-31 |
 | [B.E.D.A.N.K.T.](https://open.spotify.com/track/5UICkub9JtMHHY11wwC3IJ) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [B.E.D.A.N.K.T.](https://open.spotify.com/album/4QPvUQCYK5aXlqdkWtnsVM) | 2:57 | 2023-02-23 | 2023-05-12 |

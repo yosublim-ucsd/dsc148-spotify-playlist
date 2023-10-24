@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47wsEQpT8zp.md) - [plain]
 
 > Live Act, singer and songwriter <a href="spotify:artist:2I4hRNCYkPKJQlkoEZKjYx ">Monolink</a> shares an emotive mix filled with intricate melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,175 likes - 10 songs - 59 min 18 sec
+[Spotify](https://open.spotify.com/user/spotify) - 7,195 likes - 10 songs - 59 min 18 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47wsEQpT8zp.md) - [plain]
 | 9 | [Zama \- Cioz Remix \- Mixed](https://open.spotify.com/track/1jE5c03zCL1IDP8Yqq1C5I) | [Armonica](https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy) | [Zama \- Cioz Remix \(Mixed\)](https://open.spotify.com/album/0YbcGkGRHoN18bJt8cOmwO) | 6:40 |
 | 10 | [Perimeter \- Shorter \- Mixed](https://open.spotify.com/track/6SbxEIVe8dbjkIpwrAxaGC) | [Gidge](https://open.spotify.com/artist/7aibxFH8hIlSUlXgshCgAP) | [Perimeter \- Shorter \(Mixed\)](https://open.spotify.com/album/71MkqWlit7yQkqWPkqkJyI) | 4:53 |
 
-Snapshot ID: `MCw3MDRlMDk3MTk0NWZkMzEwMjQzNzJmYTRiYjFjOTgzYzFmMzE2MWQx`
+Snapshot ID: `MCxmZmIxY2Y3YjFmZDRiYTk5YmEzZTkyYWNkZDhkMjZkNDFiYjI2NTRh`

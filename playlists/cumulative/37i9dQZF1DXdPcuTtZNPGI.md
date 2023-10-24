@@ -4,11 +4,12 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-54 songs - 4 hr 15 min
+55 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aitakute](https://open.spotify.com/track/0fXWmy6Yfoj2tsKecBToC7) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 4:55 | 2022-10-09 |  |
+| [All Night Radio](https://open.spotify.com/track/7GRfiALpnehkSNn34LDeci) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [All Night Radio](https://open.spotify.com/album/2kEK5J1Njg3r0Ramvj3GDq) | 3:33 | 2023-10-22 |  |
 | [ANEMONE](https://open.spotify.com/track/00EQfGOekbgxED9Nwg0j8b) | [Toiki](https://open.spotify.com/artist/0aY8PnGurODkjLN9Zj1AvF), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ANEMONE](https://open.spotify.com/album/4dCqHUfcsZEpUEHylxOweR) | 2:22 | 2022-10-09 |  |
 | [AntiSystem's](https://open.spotify.com/track/3ixFouonAtRdwg4FiVN9z9) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [AntiSystem's](https://open.spotify.com/album/5rLvwX10c9pwbRqzoqenCC) | 3:31 | 2022-10-09 |  |
 | [Ashura\-chan](https://open.spotify.com/track/5N9wLoOxkCZcNhxRdMG70W) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 3:15 | 2022-10-09 |  |

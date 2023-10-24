@@ -4,7 +4,7 @@
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-89 songs - 5 hr 22 min
+90 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Blank Space](https://open.spotify.com/track/112HnbIN8JpmeNDDOgTSv0) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Wishes \(Deluxe Version\)](https://open.spotify.com/album/3CV2SCBs7wAUoQbmnjQbwa) | 4:07 | 2020-10-16 |  |
 | [Chandelier](https://open.spotify.com/track/7F2tZGMRkcEyGYY8Xee7xz) | [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Chandelier](https://open.spotify.com/album/7qQyLTKV67RGg6TmY8vyit) | 3:42 | 2020-10-16 |  |
 | [Chandelier](https://open.spotify.com/track/1HF4of5H46u7OQEwvZoQT4) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Covers EP](https://open.spotify.com/album/11xe6l0NHvZEBo1UIBYQ0W) | 3:34 | 2020-10-16 | 2022-07-29 |
-| [Chandelier](https://open.spotify.com/track/1KByKWssiOQo6rJ1CcyyPX) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Covers](https://open.spotify.com/album/2o8DOpex7NQ9Y9hBvxNRxS) | 3:35 | 2020-10-16 |  |
+| [Chandelier](https://open.spotify.com/track/1KByKWssiOQo6rJ1CcyyPX) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Covers](https://open.spotify.com/album/2o8DOpex7NQ9Y9hBvxNRxS) | 3:35 | 2020-10-16 | 2023-10-24 |
+| [Chandelier](https://open.spotify.com/track/1XNey1TBUl2haVIoPVU4rT) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Understudy](https://open.spotify.com/album/4EKTG7qRzWD4J7T5kITsof) | 3:35 | 2020-10-16 |  |
 | [Cherry Wine](https://open.spotify.com/track/6oK27xUYzHIfWWh23AXP6J) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Cherry Wine](https://open.spotify.com/album/6imYiXp740TloANkvozGA5) | 3:47 | 2020-10-16 |  |
 | [Counting Stars](https://open.spotify.com/track/6O33j9aabTuZcD1U40LdtM) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/3tCHNcehvK6wsvuvFAkpgH) | 2:56 | 2020-10-16 |  |
 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 | 2020-10-16 |  |

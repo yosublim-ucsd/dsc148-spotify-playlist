@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "The New Classic",
+        "url": "https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209423,
+      "name": "Black Widow",
+      "url": "https://open.spotify.com/track/7pNC5ZIKtwUK0ReSpM3P9f"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -74,6 +96,24 @@
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
     },
     {
       "album": {
@@ -110,6 +150,24 @@
       "duration_ms": 193143,
       "name": "bury a friend",
       "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
+    },
+    {
+      "album": {
+        "name": "Cannibal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194253,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/3JTMWdhcJPiegDSe7SvZS3"
     },
     {
       "album": {
@@ -175,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260253,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
+    },
+    {
+      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -190,6 +266,24 @@
       "duration_ms": 238626,
       "name": "Disturbia",
       "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
+    },
+    {
+      "album": {
+        "name": "This Is The End: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224960,
+      "name": "Everybody (Backstreet's Back) - Radio Edit",
+      "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
     },
     {
       "album": {
@@ -355,6 +449,42 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+    },
+    {
+      "album": {
+        "name": "Men In Black The Album",
+        "url": "https://open.spotify.com/album/5g2UDPmM7d8itXNojbWF6k"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225360,
+      "name": "Men In Black - From \"Men In Black\" Soundtrack",
+      "url": "https://open.spotify.com/track/3Dq2FHZ73hBUG815MoapQu"
+    },
+    {
+      "album": {
         "name": "Hurry Up, We're Dreaming",
         "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
@@ -513,6 +643,42 @@
     },
     {
       "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/1ww8GdNvrF0dgJbrnVZmAr"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300840,
+      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3srCbzeE3z0LupnOpdwh4h"
+    },
+    {
+      "album": {
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
+    },
+    {
+      "album": {
         "name": "She Wolf (Expanded Edition)",
         "url": "https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2"
       },
@@ -622,6 +788,24 @@
       "duration_ms": 187436,
       "name": "Sweet but Psycho",
       "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
+    },
+    {
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208066,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/1FKxKGONukVFXWVJxAKmlz"
     },
     {
       "album": {

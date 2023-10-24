@@ -1,12 +1,12 @@
 {
   "description": "Vocals and keys, front and center. Cover: Adele",
-  "num_followers": 1766425,
+  "num_followers": 1766825,
   "original_name": "Piano Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjcyOTAyZjBhMDk2ZjYwOWJmZmQ4OGRlNmFmYWMyN2YyZmQzNWJi",
+  "snapshot_id": "MCw1NDYxMzM0YTY0YjlhYWE4MzZiZWIxMzliYzVlYWZhMTkyOTdiZDNm",
   "tracks": [
     {
       "added_at": "2023-09-22 20:43:07",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-09-22 20:43:07",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
-    },
-    {
-      "added_at": "2023-09-22 20:43:07",
-      "album": {
         "name": "Harry Styles",
         "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 340706,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN"
+    },
+    {
+      "added_at": "2023-09-22 20:43:07",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2023-09-22 20:43:07",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-09-22 20:43:07",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 242973,
-      "name": "Set Fire to the Rain",
-      "url": "https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi"
+      "duration_ms": 307879,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
     },
     {
       "added_at": "2023-09-22 20:43:07",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-09-22 20:43:07",
       "album": {
-        "name": "Broken By Desire To Be Heavenly Sent",
-        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 210880,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
+      "duration_ms": 242973,
+      "name": "Set Fire to the Rain",
+      "url": "https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi"
     },
     {
       "added_at": "2023-09-22 20:43:07",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-09-22 20:43:07",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 307879,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
     },
     {
       "added_at": "2023-09-22 20:43:07",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-09-22 20:43:07",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 285634,
-      "name": "exile (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
-    },
-    {
-      "added_at": "2023-09-22 20:43:07",
-      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
       },
@@ -415,18 +395,18 @@
     {
       "added_at": "2023-09-22 20:43:07",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+        "name": "Drops Of Jupiter",
+        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 220492,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
+      "duration_ms": 259933,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
       "added_at": "2023-09-22 20:43:07",
@@ -447,18 +427,38 @@
     {
       "added_at": "2023-09-22 20:43:07",
       "album": {
-        "name": "Drops Of Jupiter",
-        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
       "artists": [
         {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 259933,
-      "name": "Drops of Jupiter (Tell Me)",
-      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
+      "duration_ms": 285634,
+      "name": "exile (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
+    },
+    {
+      "added_at": "2023-09-22 20:43:07",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 220492,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
     },
     {
       "added_at": "2023-09-22 20:43:07",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-09-22 20:43:07",
       "album": {
-        "name": "Breach",
-        "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
-    },
-    {
-      "added_at": "2023-09-22 20:43:07",
-      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 289560,
       "name": "Don't Look Back In Anger - Remastered",
       "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
+    },
+    {
+      "added_at": "2023-09-22 20:43:07",
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
     },
     {
       "added_at": "2023-09-22 20:43:07",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-09-22 20:43:07",
       "album": {
-        "name": "Freya Ridings",
-        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 225853,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
-    },
-    {
-      "added_at": "2023-09-22 20:43:07",
-      "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 230306,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ"
+    },
+    {
+      "added_at": "2023-09-22 20:43:07",
+      "album": {
+        "name": "Freya Ridings",
+        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 225853,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
     },
     {
       "added_at": "2023-09-22 20:43:07",

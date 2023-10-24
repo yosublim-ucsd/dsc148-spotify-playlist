@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,027 likes - 105 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,077 likes - 105 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 104 | [Misteltoe](https://open.spotify.com/track/6SJKiadklwqj969ihsTL06) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Misteltoe](https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K) | 2:22 |
 | 105 | [Greensleeves](https://open.spotify.com/track/3yUhFUj9GsId8yqwNIMndK) | [Roddy Doyle Trio](https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3) | [It's Christmas in New York](https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI) | 2:16 |
 
-Snapshot ID: `MCxmNTNiOTVlZmI1NmZjMGMyOTcyZDBlOWYxZTI2YTRkNmVjZDIzNmI2`
+Snapshot ID: `MCwyMmM1Y2U1ZGYyMzhmMTMxZDMxNmM2ZDcxZGY4MmM2NTYwYTkzOTk5`

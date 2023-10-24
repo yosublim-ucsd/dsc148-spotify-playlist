@@ -2573,6 +2573,28 @@
     },
     {
       "album": {
+        "name": "GOOD TO ME",
+        "url": "https://open.spotify.com/album/3Cfnat6JaNYV3ol0qOzzek"
+      },
+      "artists": [
+        {
+          "name": "nathan huang",
+          "url": "https://open.spotify.com/artist/4dzy2MaxMOZwVTWXXq3JAL"
+        },
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207840,
+      "name": "GOOD TO ME",
+      "url": "https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW"
+    },
+    {
+      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/0bOUYrO3nah1TG2foN7xAg"
       },
@@ -5756,7 +5778,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 190909,
       "name": "Reality Checks",
       "url": "https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz"

@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 220640,
+  "num_followers": 220702,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDQwODRmZWQ5M2M3YjYzZjA3NWRkODczZjBkOGU4YmZiNmZiZjRh",
+  "snapshot_id": "MCxjMDU0ZjZmNjliODQ5YWI5MzA1YTU3MTNiNGVmNDEwZTkyNjVmZWZk",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Straight from the Heart (Remastered)",
-        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 319893,
-      "name": "Remind Me - Remastered",
-      "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -251,22 +235,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Bad Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 495186,
-      "name": "I Feel Love - 12\" Version",
-      "url": "https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Greatest Hits: Blondie",
         "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
       },
@@ -279,6 +247,38 @@
       "duration_ms": 299373,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Straight from the Heart (Remastered)",
+        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 319893,
+      "name": "Remind Me - Remastered",
+      "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Bad Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 495186,
+      "name": "I Feel Love - 12\" Version",
+      "url": "https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Silk Rhodes",
-        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
-      },
-      "artists": [
-        {
-          "name": "Silk Rhodes",
-          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
-        }
-      ],
-      "duration_ms": 145646,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Straight From The Heart",
         "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 408142,
       "name": "Number One - 12\" Version",
       "url": "https://open.spotify.com/track/3vSgRQYNEUEjcFOGMiSTw3"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Silk Rhodes",
+        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
+      },
+      "artists": [
+        {
+          "name": "Silk Rhodes",
+          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
+        }
+      ],
+      "duration_ms": 145646,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Groovin' You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
-      },
-      "artists": [
-        {
-          "name": "Harvey Mason",
-          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
-        }
-      ],
-      "duration_ms": 376986,
-      "name": "Groovin' You - 12\" Version",
-      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Magical Night (Greatest Hits Special Price)",
         "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 268653,
       "name": "Hold Tight - Full Length Album Mix",
       "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Groovin' You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
+      },
+      "artists": [
+        {
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+        }
+      ],
+      "duration_ms": 376986,
+      "name": "Groovin' You - 12\" Version",
+      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
     },
     {
       "added_at": "2022-09-05 16:54:43",

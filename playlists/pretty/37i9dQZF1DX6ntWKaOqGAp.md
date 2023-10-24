@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: indigo la End
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,890 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,947 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [群れる青](https://open.spotify.com/track/0ZeKNAIYC7oQGnWdqPLmbj) | [GOOD ON THE REEL](https://open.spotify.com/artist/5qnfrFRZ95ll1wX2c9Lfhg) | [群れる青](https://open.spotify.com/album/1fHoymLtMG97Spozbx5vLn) | 4:13 |
 | 100 | [daiseikai](https://open.spotify.com/track/1dVE8jZlBroPUcnFTEc3hS) | [Dramatic Alaska](https://open.spotify.com/artist/3bWD87dw5iBrQPXFThIRDf) | [daiseikai](https://open.spotify.com/album/0f3ELzQ1EoU4ak2Kg4EIZT) | 3:09 |
 
-Snapshot ID: `MCxhZjZmY2NlZmU3ZjlmNWZkYjNlYmM4NTVkMjY5MmJiYWYzZDE1YzNm`
+Snapshot ID: `MCw2YmVhZjNlNWQyZGI2NjQzMGRkNjRiMjU3ZTNmZmFjYzBlZmFhYjhh`

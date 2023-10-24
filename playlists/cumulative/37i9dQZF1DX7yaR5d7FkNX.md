@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-195 songs - 12 hr 1 min
+197 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Insatisfecho](https://open.spotify.com/track/12bpuwhO89NZuKgcWAM7tN) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Insatisfecho](https://open.spotify.com/album/67677bOS0mEinGuIto707S) | 3:07 | 2022-01-28 | 2023-07-01 |
 | [Invierno](https://open.spotify.com/track/7Lt1pDskyOACrikOmHGz98) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:16 | 2022-11-24 |  |
 | [Irresponsables](https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 2:36 | 2022-01-28 |  |
+| [La Llamada](https://open.spotify.com/track/7LDc6HR0Z2wvcPmlH3zvAG) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [La Llamada](https://open.spotify.com/album/7HKAzGH5Lo7v2WYRIAuZDt) | 4:09 | 2023-10-23 |  |
 | [La Magia](https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 4:05 | 2022-01-28 |  |
 | [La Magia](https://open.spotify.com/track/6Z8JXcW9fQuNRXznoBMfgp) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/7F82fBlo73zEKEauNfNQLP) | 4:05 | 2022-01-28 | 2022-07-29 |
 | [las calles de mi ciudad](https://open.spotify.com/track/5wPC3oJqHkrFqnpO5Hk2q9) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [las calles de mi ciudad](https://open.spotify.com/album/2UA7eyMtgoFEqkR4U3eQ1S) | 3:09 | 2023-06-16 |  |
@@ -193,6 +194,7 @@
 | [Vicio](https://open.spotify.com/track/6YyeAJrK1IECGERP6OMEvI) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Óleos](https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z) | 4:37 | 2022-01-28 |  |
 | [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 | 2022-01-28 |  |
 | [VOID](https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [VOID](https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V) | 3:19 | 2023-05-19 |  |
+| [Volverás](https://open.spotify.com/track/65peiUbnSBGUxhxkRPJBSm) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Volverás](https://open.spotify.com/album/5wKABXihyPEA2YGNnfDttk) | 3:48 | 2023-10-23 |  |
 | [Vorágine](https://open.spotify.com/track/2MWTbzD8Sy4sRgMjuAazkJ) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Orbitando](https://open.spotify.com/album/2WX8hAKuu55kXM3xxYAbPL) | 5:27 | 2022-11-25 | 2023-02-18 |
 | [Vueltas](https://open.spotify.com/track/27yF4FbBzJ2vy65aqNdCTm) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Vueltas](https://open.spotify.com/album/4yK2y4i9chYEAEwzn1fzSx) | 3:32 | 2023-07-07 | 2023-09-30 |
 | [Vuelve a Querer](https://open.spotify.com/track/1WxGvAfNFESFwjrBpSEk7I) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Vuelve a Querer](https://open.spotify.com/album/5ePVvhh7X6TpFuYhXQaODp) | 3:57 | 2022-03-11 | 2023-02-18 |

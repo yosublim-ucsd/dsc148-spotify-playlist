@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 328756,
+  "num_followers": 328993,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDNmNTI2MjcwZmQ0YWFhZjg3MDkwODk5YWY0NjRjMWQxNTYyYzU5",
+  "snapshot_id": "MCw4YTlkMDFkYzc5YTJlMGYxNGJlYjliM2UxYTMyNGVhNjU3ZjAwNjAy",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -553,6 +553,22 @@
       "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 292613,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "High Voltage",
@@ -571,22 +587,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 292613,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Signed, Sealed And Delivered",
         "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 161160,
       "name": "Signed, Sealed, Delivered (I'm Yours)",
       "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -649,20 +665,20 @@
       "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+        "name": "Abba",
+        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 193346,
-      "name": "Don't Stop - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
+      "duration_ms": 213266,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -679,22 +695,6 @@
       "duration_ms": 266720,
       "name": "The Boys Are Back In Town",
       "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
-        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
-      },
-      "artists": [
-        {
-          "name": "Edison Lighthouse",
-          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -715,18 +715,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Abba",
-        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
         }
       ],
-      "duration_ms": 213266,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
+      "duration_ms": 174760,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -759,6 +759,22 @@
       "duration_ms": 208600,
       "name": "Daddy Cool",
       "url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -875,22 +891,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Fly Like An Eagle",
         "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
       },
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Nightflight to Venus",
-        "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 261266,
-      "name": "Rivers of Babylon",
-      "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "30 Years Of Funk: 1969-1999 The Anthology",
@@ -1047,6 +1031,22 @@
       "duration_ms": 248360,
       "name": "Young Hearts Run Free",
       "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Nightflight to Venus",
+        "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Rivers of Babylon",
+      "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1761,22 +1761,6 @@
       "url": "https://open.spotify.com/track/6X1D6qbVmK48uoOD9nIvVV"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "The Ultimate Bee Gees",
-        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "You Should Be Dancing",
-      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Back Stabbers",
@@ -1807,6 +1791,22 @@
       "duration_ms": 210973,
       "name": "Red Light Spells Danger",
       "url": "https://open.spotify.com/track/557cxXIeiwh03kI2F2jKdh"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "The Ultimate Bee Gees",
+        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "You Should Be Dancing",
+      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1973,6 +1973,22 @@
       "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 237066,
+      "name": "Peg",
+      "url": "https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Siren",
@@ -2003,22 +2019,6 @@
       "duration_ms": 486186,
       "name": "Good Times - 2018 Remaster",
       "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 237066,
-      "name": "Peg",
-      "url": "https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
-      },
-      "artists": [
-        {
-          "name": "Thelma Houston",
-          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Don't Leave Me This Way",
-      "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Young, Gifted and Black",
         "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 193573,
       "name": "Rock Steady",
       "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
+      },
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Don't Leave Me This Way",
+      "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
     },
     {
       "added_at": "2021-03-22 14:18:04",

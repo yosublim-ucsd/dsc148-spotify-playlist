@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,497,540 likes - 127 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,498,147 likes - 127 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 126 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 |
 | 127 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 |
 
-Snapshot ID: `MCxjMzFhYzkwMTI5YjUxOWY3OTJjNGQ4OGFlNmI4N2NiZWMyZDJjMmM1`
+Snapshot ID: `MCw2MWQ2OGY3YjJhNzgzM2NmZThlNDJlZjI2YTQ3MDk2ZWNlYTRmNGE5`

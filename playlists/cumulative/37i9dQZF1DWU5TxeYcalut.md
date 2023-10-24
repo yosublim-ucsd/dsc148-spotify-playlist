@@ -4,7 +4,7 @@
 
 > Uma seleção especial do jazz nacional\. Foto: Amaro Freitas
 
-132 songs - 11 hr 2 min
+133 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Costa da Mina](https://open.spotify.com/track/6jYmO2yig7sEPtIFPsAVTM) | [Nelson Latif](https://open.spotify.com/artist/0zaH41rdJncnNnh6MDLG51), [Pablo Nahar](https://open.spotify.com/artist/3FPl7qUgljLraR4vJ8kKIK), [Praful](https://open.spotify.com/artist/1CTc17XcooaxP99IdyVhzO), [Joeri de Graaf](https://open.spotify.com/artist/7unlmnm8l7biNSIQObR5w3), [Olaf Keus](https://open.spotify.com/artist/6JNEM6MvA6AehG2EN9OGmv) | [Choramundo](https://open.spotify.com/album/4A259Tg4wksVs2FuHeaPIU) | 3:22 | 2022-07-08 |  |
 | [Cozinhando Pedra](https://open.spotify.com/track/4ZEByegTUjaI2Fh8jJNXz7) | [Bruno Cardozo](https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un) | [Cozinhando Pedra](https://open.spotify.com/album/1pqCyF37r676FpcO72dCcm) | 5:22 | 2022-07-08 | 2023-09-12 |
 | [Dale!](https://open.spotify.com/track/7yoPPkk8PZ5HSbLkDD9kSL) | [OTAVIO CASTRO](https://open.spotify.com/artist/59f7jS09aOVhH1KP4rux2h) | [DALE!](https://open.spotify.com/album/5OVQ3590mvqVFGFkda7bmG) | 6:00 | 2022-07-08 | 2023-01-21 |
-| [Deluxe Refuge](https://open.spotify.com/track/3fbRtTiwsr5cYyLvVMrWF3) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Deluxe Refuge](https://open.spotify.com/album/4bmmEf1HnNsp44VM8YKWbg) | 5:27 | 2023-09-15 |  |
+| [Deluxe Refuge](https://open.spotify.com/track/3bPk42yKpTX0UWkICl8btZ) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Behind the Tea Chronicles](https://open.spotify.com/album/2NRg9UqRH3YFWJG7XEwba9) | 5:27 | 2023-09-15 |  |
+| [Deluxe Refuge](https://open.spotify.com/track/3fbRtTiwsr5cYyLvVMrWF3) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Deluxe Refuge](https://open.spotify.com/album/4bmmEf1HnNsp44VM8YKWbg) | 5:27 | 2023-09-15 | 2023-10-24 |
 | [Deus É Amor Pra Tudo Que É Fé](https://open.spotify.com/track/4u9aQn8xLCcLlbJsOAspoO) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Daniel Santiago](https://open.spotify.com/artist/6JZugDfOOstJ1GDwZ4md5g), [Edu Ribeiro](https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE), [Thiago Espirito Santo](https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx) | [Harmonize](https://open.spotify.com/album/50FauL4PvB8nRiTO44pWcF) | 5:48 | 2022-07-08 |  |
 | [Dindi](https://open.spotify.com/track/1MSJDpRYmt0ZVcfTUVYHjb) | [Andrea Rodeguero](https://open.spotify.com/artist/1L6sdSmaA8PkSO3Qgz86Gg) | [Dindi](https://open.spotify.com/album/0CdeJdevVTntUkuwLBRoYH) | 4:31 | 2022-07-08 | 2023-01-07 |
 | [Domingo 27/09](https://open.spotify.com/track/4MGEDqAoFLyYupbg9wh9ds) | [Edu Ribeiro](https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX), [Edu Ribeiro Trio](https://open.spotify.com/artist/6QNvvDRH7pvXLT6P9BbrYp) | [Domingo 27/09](https://open.spotify.com/album/0rbqkW5qWily7iUgNmsyTt) | 8:22 | 2022-07-08 |  |

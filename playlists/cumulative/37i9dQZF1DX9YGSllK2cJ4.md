@@ -4,7 +4,7 @@
 
 > Take comfort in these sad piano songs.
 
-348 songs - 15 hr 37 min
+349 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [The Scientist](https://open.spotify.com/track/5MMbe6wXiD0sHCZROX5Xzl) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Benjamin Cambridge](https://open.spotify.com/artist/6dwm8MR9ofk42CUiRcdaKu) | [The Scientist](https://open.spotify.com/album/08KAojer6DlSMAyO7vA1wb) | 2:03 | 2022-08-01 | 2022-09-13 |
 | [the traveler](https://open.spotify.com/track/1Niqti17jYAgEBlHzUEQ02) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the traveler & fragile flowers](https://open.spotify.com/album/6RkJifc0y3nOQLHHWB0oC8) | 2:50 | 2022-11-14 |  |
 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-01-09 |  |
+| [Then I Saw You](https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [Then I Saw You](https://open.spotify.com/album/11e0Rf3uYRPR4nQUOqKpOQ) | 3:06 | 2023-10-23 |  |
 | [Those Moments](https://open.spotify.com/track/6LBeWgaeVS1VpxEcFp7FJH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Those Moments](https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g) | 2:05 | 2022-08-01 |  |
 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 | 2022-08-01 |  |
 | [Through My Eyes](https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Through My Eyes](https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN) | 2:53 | 2022-08-01 | 2022-09-13 |

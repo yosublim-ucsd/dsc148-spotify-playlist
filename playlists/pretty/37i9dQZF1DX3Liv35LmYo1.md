@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,264 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,285 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 11 | [Moving Still \- Reprise](https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf) | [Oliver Henry](https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD) | [From The Ashes EP](https://open.spotify.com/album/4QTuY78vkmEXqpDDae2856) | 2:18 |
 | 12 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 |
 | 13 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
-| 14 | [Skulled](https://open.spotify.com/track/74zH3oGg6qcrm58X7Q1cjw) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 5:12 |
-| 15 | [meserole](https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [meserole](https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD) | 3:33 |
+| 14 | [meserole](https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [meserole](https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD) | 3:33 |
+| 15 | [Skulled](https://open.spotify.com/track/74zH3oGg6qcrm58X7Q1cjw) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 5:12 |
 | 16 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 |
 | 17 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 |
 | 18 | [Keep Shimmering](https://open.spotify.com/track/7d5W34LzqiRbH8LCOZw7zz) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Please Keep Shimmering](https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM) | 4:23 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 42 | [Afterglow](https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Kendl](https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC) | [Afterglow](https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY) | 4:26 |
 | 43 | [Take Me Home](https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3) | [Nice Girl](https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB) | [Take Me Home](https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck) | 4:30 |
 | 44 | [Justine](https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Justine](https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt) | 3:39 |
-| 45 | [Have You Felt Lately? \- Brijean Remix](https://open.spotify.com/track/0wR3uEmtFQLqNVkXbB219d) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Have You Felt Lately? \(Brijean Remix\)](https://open.spotify.com/album/4Rr4ZzOpiDaTAA3gJY6LsM) | 3:58 |
-| 46 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 |
+| 45 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 |
+| 46 | [Have You Felt Lately? \- Brijean Remix](https://open.spotify.com/track/0wR3uEmtFQLqNVkXbB219d) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Have You Felt Lately? \(Brijean Remix\)](https://open.spotify.com/album/4Rr4ZzOpiDaTAA3gJY6LsM) | 3:58 |
 | 47 | [Sometimes](https://open.spotify.com/track/45cGbDnSsjro3Ssom6Wmbf) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Inperspect](https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW) | 5:29 |
 | 48 | [Sweet Memory](https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD) | [Kloyd](https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7) | [Sweet Memory](https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z) | 3:31 |
 | 49 | [Halcyon & On \- Logic1000 Mix](https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Halcyon \(30 Something\) \[Remixes\]](https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W) | 4:52 |
 | 50 | [CIRCLES](https://open.spotify.com/track/4T0RHYd7PAZgCP7opCDI3l) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [CIRCLES](https://open.spotify.com/album/35GLnwRLlCO2YY3x0WsfpD) | 4:34 |
 
-Snapshot ID: `MCw1OTk0YjE0NDA3NjVkMWJiNTY5ZjQxNTlhMDRiZjcwNmZhYmMyMDZl`
+Snapshot ID: `MCw3ZjI3Nzc1ZGRmZTU5ZWFjYzhiMzFmY2JlZmRlM2ZlYzYxN2VhODUz`

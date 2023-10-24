@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 234146,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a"
@@ -3314,7 +3314,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 347539,
       "name": "Pinnacles of You",
       "url": "https://open.spotify.com/track/08aiKNo2DdNxOUh9PFxEz3"
@@ -4032,10 +4032,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 195586,
       "name": "Suricate",
       "url": "https://open.spotify.com/track/2t21BOjWID8CUXCup4XXZ1"
+    },
+    {
+      "album": {
+        "name": "Euphories",
+        "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
+      },
+      "artists": [
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Suricate - ODZ",
+      "url": "https://open.spotify.com/track/2wLpYTxV3laz3kaGL3xH38"
     },
     {
       "album": {

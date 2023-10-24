@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop: Cover: Ariana Grande.
 
-715 songs - 1 day 18 hr 42 min
+716 songs - 1 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Alone](https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 2:40 | 2022-05-11 |  |
 | [Alone](https://open.spotify.com/track/3ujORpm8Hf7QWEtfqSAZL8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Alone](https://open.spotify.com/album/7kNg4r6nqFHGBj3XxJLi4K) | 2:41 | 2021-08-10 | 2022-07-29 |
 | [Alone](https://open.spotify.com/track/0JiVRyTJcJnmlwCZ854K4p) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Alone](https://open.spotify.com/album/4blCxKnK1sGo9D45trrqjt) | 2:41 | 2022-05-11 | 2022-11-13 |
+| [Alone Again \(feat\. Jump Smokers\)](https://open.spotify.com/track/1As8MK31zemPMywXUqQHvv) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc), [Jump Smokers](https://open.spotify.com/artist/5I7l0lSOyusetwCv1aQPMf) | [The Game](https://open.spotify.com/album/172YT826A9fw3XDYshRy6z) | 3:47 | 2022-11-29 |  |
 | [Alone Again \(feat\. Jump Smokers\)](https://open.spotify.com/track/5oX2L84C6HJB6j3cbmDGxj) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc), [Jump Smokers](https://open.spotify.com/artist/5I7l0lSOyusetwCv1aQPMf) | [Alone Again](https://open.spotify.com/album/01dMdKfFZv9Wyhr9fwLRlJ) | 3:48 | 2021-08-10 | 2022-07-29 |
 | [Alone Again \- Alternate Mix](https://open.spotify.com/track/6ZmLEmuHa1aESkQfCaKcP8) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc), [Jump Smokers](https://open.spotify.com/artist/5I7l0lSOyusetwCv1aQPMf) | [Alone Again \(feat\. Jump Smokers\)](https://open.spotify.com/album/1O2qlxxkqHTOQwugMvBeKH) | 3:47 | 2022-05-11 | 2022-11-13 |
 | [Alone Again \- Original Mix](https://open.spotify.com/track/04K3bUcBuX5OuebYv7JbJS) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc), [Jump Smokers](https://open.spotify.com/artist/5I7l0lSOyusetwCv1aQPMf) | [The Game](https://open.spotify.com/album/6Jvcl6gi6HgEQGnAUkvvB8) | 3:47 | 2022-05-11 | 2023-10-19 |
@@ -314,7 +315,7 @@
 | [I Miss Her](https://open.spotify.com/track/44QA78rOl2Zx4NJFBlCDbO) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Alive \(Deluxe Edition\)](https://open.spotify.com/album/7duJuFUm0IlZW4ppyWSXu5) | 3:58 | 2021-08-10 |  |
 | [I Said Hi](https://open.spotify.com/track/2MuOQdl7uyEteKYCQtG4XE) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [I Said Hi](https://open.spotify.com/album/6XzwQObXzn3JgzuOcIAgUQ) | 2:48 | 2021-08-10 |  |
 | [I Think I'm In Love](https://open.spotify.com/track/3U1TuSqHIubBA10cVP7Sk6) | [Kat Dahlia](https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE) | [My Garden](https://open.spotify.com/album/7IQvaeTZKibqE8OkOwicM0) | 3:22 | 2021-08-10 |  |
-| [I Will Never Let You Down](https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [I Will Never Let You Down](https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD) | 3:23 | 2021-08-10 |  |
+| [I Will Never Let You Down](https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [I Will Never Let You Down](https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD) | 3:23 | 2021-08-10 | 2023-10-24 |
 | [I'm Into You](https://open.spotify.com/track/76sWab9iC3vvk21aln8G8t) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Love?](https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE) | 3:20 | 2021-08-10 |  |
 | [If I Were Sorry](https://open.spotify.com/track/6oDkCmfVcSd9NXAKk1b4Ll) | [Frans](https://open.spotify.com/artist/1y5T3Prq30eW5RkpaUWNOQ) | [If I Were Sorry](https://open.spotify.com/album/7e5vrZ4iPy74CmBgbIpQKX) | 3:04 | 2021-08-10 |  |
 | [In My Head](https://open.spotify.com/track/1HVBlU3A1CKQGedER91zdc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Dressed Too Nice For A Jacket](https://open.spotify.com/album/1ziE8y7wGzDY0PDgoDXKwF) | 3:07 | 2022-05-11 |  |

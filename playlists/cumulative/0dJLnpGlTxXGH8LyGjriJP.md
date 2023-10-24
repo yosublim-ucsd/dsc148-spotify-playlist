@@ -4,7 +4,7 @@
 
 > 
 
-693 songs - 1 day 11 hr 7 min
+694 songs - 1 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \- Remix](https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \[Remix\]](https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22) | 3:47 | 2023-10-21 |  |
 | [Where I'm From \(feat\. BlocBoy JB and Polo G\)](https://open.spotify.com/track/1kqPPHbFzfG4Bue2SaicoC) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [From the Neighborhood to the Stage](https://open.spotify.com/album/2s19QcF1PIILzRfS6Jjni3) | 3:25 | 2022-10-25 |  |
 | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/album/5aSofcF0U90UxJaDr62r6X) | 4:39 | 2022-05-25 |  |
+| [Wicked](https://open.spotify.com/track/6BbINUfGabVyiNFJpQXn3x) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [EVOL](https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly) | 2:53 | 2023-10-23 |  |
 | [Wicked Freestyle](https://open.spotify.com/track/4xl69qYIDxUIACXSeRkXOY) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:47 | 2022-09-23 |  |
 | [Wicked Witch](https://open.spotify.com/track/6TNkJPyBho8mQE6IziibHu) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:43 | 2022-05-25 |  |
 | [Wid It](https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Wid It](https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM) | 3:01 | 2023-02-25 |  |

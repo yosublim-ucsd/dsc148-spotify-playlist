@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Gardna ",
-  "num_followers": 199340,
+  "num_followers": 199360,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGM4ZDUxNTliOTM5YWE5NDNkZDgzOTZjNDQwYWUwNjg0ZTY1ZGVk",
+  "snapshot_id": "MCw4YjczMDY2Nzc1NjIwZjNhZmY4YTlkYzUwOGY5ODlkYzUyOGU4OGJh",
   "tracks": [
     {
       "added_at": "2023-10-20 15:13:43",
@@ -323,30 +323,6 @@
     {
       "added_at": "2023-10-20 15:13:43",
       "album": {
-        "name": "Pressure Drop",
-        "url": "https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB"
-      },
-      "artists": [
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        },
-        {
-          "name": "Try Me",
-          "url": "https://open.spotify.com/artist/5F7UnHRhLHiqANbzjdssT3"
-        },
-        {
-          "name": "Axel Boy",
-          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
-        }
-      ],
-      "duration_ms": 187968,
-      "name": "Don't Be Shady",
-      "url": "https://open.spotify.com/track/1E3fZG15mv6M7ZHasmmB2i"
-    },
-    {
-      "added_at": "2023-10-20 15:13:43",
-      "album": {
         "name": "Badman Riddim (feat. Sweetie Irie)",
         "url": "https://open.spotify.com/album/5ELEn4lSOs1X23nVQzcbFK"
       },
@@ -371,6 +347,26 @@
     {
       "added_at": "2023-10-20 15:13:43",
       "album": {
+        "name": "Feel So Free Mixtape",
+        "url": "https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ],
+      "duration_ms": 219687,
+      "name": "It's Just This Thing",
+      "url": "https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR"
+    },
+    {
+      "added_at": "2023-10-20 15:13:43",
+      "album": {
         "name": "132.00FM",
         "url": "https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL"
       },
@@ -391,22 +387,22 @@
     {
       "added_at": "2023-10-20 15:13:43",
       "album": {
-        "name": "Feel So Free Mixtape",
-        "url": "https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB"
+        "name": "Jurgen Kropper (feat. Local)",
+        "url": "https://open.spotify.com/album/5XkV6u3hRL9solQEtJHrrp"
       },
       "artists": [
         {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
         },
         {
-          "name": "COUCOU CHLOE",
-          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
         }
       ],
-      "duration_ms": 219687,
-      "name": "It's Just This Thing",
-      "url": "https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR"
+      "duration_ms": 176571,
+      "name": "Jurgen Kropper (feat. Local)",
+      "url": "https://open.spotify.com/track/0DpElLiFInntCcT2slRz0I"
     },
     {
       "added_at": "2023-10-20 15:13:43",
@@ -431,22 +427,26 @@
     {
       "added_at": "2023-10-20 15:13:43",
       "album": {
-        "name": "Jurgen Kropper (feat. Local)",
-        "url": "https://open.spotify.com/album/5XkV6u3hRL9solQEtJHrrp"
+        "name": "Pressure Drop",
+        "url": "https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB"
       },
       "artists": [
         {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
         },
         {
-          "name": "Local",
-          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+          "name": "Try Me",
+          "url": "https://open.spotify.com/artist/5F7UnHRhLHiqANbzjdssT3"
+        },
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
         }
       ],
-      "duration_ms": 176571,
-      "name": "Jurgen Kropper (feat. Local)",
-      "url": "https://open.spotify.com/track/0DpElLiFInntCcT2slRz0I"
+      "duration_ms": 187968,
+      "name": "Don't Be Shady",
+      "url": "https://open.spotify.com/track/1E3fZG15mv6M7ZHasmmB2i"
     },
     {
       "added_at": "2023-10-20 15:13:43",
@@ -811,6 +811,26 @@
     {
       "added_at": "2023-10-20 15:13:43",
       "album": {
+        "name": "Party Right / Snake Charmer",
+        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "duration_ms": 216715,
+      "name": "Party Right",
+      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
+    },
+    {
+      "added_at": "2023-10-20 15:13:43",
+      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
       },
@@ -851,26 +871,6 @@
     {
       "added_at": "2023-10-20 15:13:43",
       "album": {
-        "name": "Party Right / Snake Charmer",
-        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Logan_olm",
-          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
-        }
-      ],
-      "duration_ms": 216715,
-      "name": "Party Right",
-      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
-    },
-    {
-      "added_at": "2023-10-20 15:13:43",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
       },
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-10-20 15:13:43",
       "album": {
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
+    },
+    {
+      "added_at": "2023-10-20 15:13:43",
+      "album": {
         "name": "Gully",
         "url": "https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 210461,
       "name": "Gully",
       "url": "https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri"
-    },
-    {
-      "added_at": "2023-10-20 15:13:43",
-      "album": {
-        "name": "Faith In Chaos",
-        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
     },
     {
       "added_at": "2023-10-20 15:13:43",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2023-10-20 15:13:43",
       "album": {
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        }
+      ],
+      "duration_ms": 221024,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8"
+    },
+    {
+      "added_at": "2023-10-20 15:13:43",
+      "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW"
       },
@@ -1115,26 +1135,6 @@
     {
       "added_at": "2023-10-20 15:13:43",
       "album": {
-        "name": "Faith In Chaos",
-        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Window Kid",
-          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
-        }
-      ],
-      "duration_ms": 221024,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8"
-    },
-    {
-      "added_at": "2023-10-20 15:13:43",
-      "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
       },
@@ -1151,6 +1151,26 @@
       "duration_ms": 268000,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
+    },
+    {
+      "added_at": "2023-10-20 15:13:43",
+      "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        },
+        {
+          "name": "Aleya Mae",
+          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo"
     },
     {
       "added_at": "2023-10-20 15:13:43",
@@ -1187,26 +1207,6 @@
       "duration_ms": 273245,
       "name": "Over",
       "url": "https://open.spotify.com/track/3hctz1DZDroVD2i26nGtLQ"
-    },
-    {
-      "added_at": "2023-10-20 15:13:43",
-      "album": {
-        "name": "Never",
-        "url": "https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        },
-        {
-          "name": "Aleya Mae",
-          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Never",
-      "url": "https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo"
     },
     {
       "added_at": "2023-10-20 15:13:43",

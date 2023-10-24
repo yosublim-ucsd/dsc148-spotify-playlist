@@ -2888,7 +2888,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 188731,
       "name": "BlimE! - Sveve H\u00f8yt",
       "url": "https://open.spotify.com/track/7uF90Ykgrs8HTATqOYENzL"
@@ -9526,7 +9526,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 138704,
       "name": "Haha (feat. Rambow)",
       "url": "https://open.spotify.com/track/7fZlCmEKhOsG9klW3e2qEn"
@@ -12384,7 +12384,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 176479,
       "name": "In The City",
       "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
@@ -17158,7 +17158,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -22507,6 +22507,32 @@
     },
     {
       "album": {
+        "name": "STAG 2024",
+        "url": "https://open.spotify.com/album/4XZVXvWuCJIVsOG5AN3FBa"
+      },
+      "artists": [
+        {
+          "name": "Magasinet",
+          "url": "https://open.spotify.com/artist/4eX03jTZOy5VdFEREABYXB"
+        },
+        {
+          "name": "bibbebaby",
+          "url": "https://open.spotify.com/artist/2av9bbnH4kpl8GsDCSIdvD"
+        },
+        {
+          "name": "b.G",
+          "url": "https://open.spotify.com/artist/2zw4zwwb2LoNYssj3hdLoa"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194545,
+      "name": "Sportskrave (Stag 2024)",
+      "url": "https://open.spotify.com/track/0R7rw7i4pd27isZrMen0X7"
+    },
+    {
+      "album": {
         "name": "Spring for livet",
         "url": "https://open.spotify.com/album/6V3YftCf62tRqowL7PouAk"
       },
@@ -23122,7 +23148,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 157600,
       "name": "Superstars (mageplask)",
       "url": "https://open.spotify.com/track/7r8FHPasw67Nl4Hqyd4685"

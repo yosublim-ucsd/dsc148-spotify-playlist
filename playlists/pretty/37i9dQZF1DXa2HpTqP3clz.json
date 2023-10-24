@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Willie Nelson",
-  "num_followers": 127711,
+  "num_followers": 127745,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTU5MWIyMTIzNDA3MWI2YjUxZjg2Yjk1N2U1YjA5MjU1NmJkZDM5",
+  "snapshot_id": "MCw1MThjYTM5YTFjNGNkNTZhNDk3NWViN2VkYzg0OTE3NmVjNzFhYjM4",
   "tracks": [
     {
       "added_at": "2023-10-20 17:16:05",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
-        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
+        "name": "Just Like Leaving",
+        "url": "https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
         }
       ],
-      "duration_ms": 185430,
-      "name": "Oh Sarah",
-      "url": "https://open.spotify.com/track/25oxeU7fMQVrxvScjCMAeC"
+      "duration_ms": 206960,
+      "name": "Just Like Leaving",
+      "url": "https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Just Like Leaving",
-        "url": "https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe"
+        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
+        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
       },
       "artists": [
         {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 206960,
-      "name": "Just Like Leaving",
-      "url": "https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9"
+      "duration_ms": 185430,
+      "name": "Oh Sarah",
+      "url": "https://open.spotify.com/track/25oxeU7fMQVrxvScjCMAeC"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Thick As Thieves",
-        "url": "https://open.spotify.com/album/1qL2Jl8sA1lIonNvTb6xAu"
-      },
-      "artists": [
-        {
-          "name": "Tejon Street Corner Thieves",
-          "url": "https://open.spotify.com/artist/3k9kCfMqAsrd90TMsYzzmo"
-        }
-      ],
-      "duration_ms": 241013,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/4uj4owY793HdrUdMJeH8Gc"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
         "name": "The Ballad of Dood & Juanita",
         "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 280669,
       "name": "Shamrock",
       "url": "https://open.spotify.com/track/2TgtHzz2v3jnNGZCVUXc4V"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
+        "name": "Thick As Thieves",
+        "url": "https://open.spotify.com/album/1qL2Jl8sA1lIonNvTb6xAu"
+      },
+      "artists": [
+        {
+          "name": "Tejon Street Corner Thieves",
+          "url": "https://open.spotify.com/artist/3k9kCfMqAsrd90TMsYzzmo"
+        }
+      ],
+      "duration_ms": 241013,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/4uj4owY793HdrUdMJeH8Gc"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 420123,
+      "name": "Grow Together",
+      "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
         "name": "Sidetrack My Engine",
         "url": "https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 211160,
       "name": "Play By Your Own Rules",
       "url": "https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 420123,
-      "name": "Grow Together",
-      "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 481641,
+      "name": "Stress Dreams",
+      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
         "name": "In The Ground",
         "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 191906,
       "name": "Homemade Wine",
       "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
-        "name": "Ink, Dust & Luck",
-        "url": "https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
-        }
-      ],
-      "duration_ms": 190789,
-      "name": "Don't Make Me Get up and Go",
-      "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -1167,34 +1167,18 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+        "name": "Ink, Dust & Luck",
+        "url": "https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA"
       },
       "artists": [
         {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
         }
       ],
-      "duration_ms": 481641,
-      "name": "Stress Dreams",
-      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN"
-      },
-      "artists": [
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 225941,
-      "name": "Smoky Mountain Girl",
-      "url": "https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP"
+      "duration_ms": 190789,
+      "name": "Don't Make Me Get up and Go",
+      "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN"
       },
       "artists": [
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
         }
       ],
-      "duration_ms": 139893,
-      "name": "Super Moon",
-      "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
+      "duration_ms": 225941,
+      "name": "Smoky Mountain Girl",
+      "url": "https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -1267,6 +1251,22 @@
       "duration_ms": 152786,
       "name": "Honky Tonk Nights",
       "url": "https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 139893,
+      "name": "Super Moon",
+      "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -1407,38 +1407,6 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Live Sessions, Vol. 03",
-        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
-      },
-      "artists": [
-        {
-          "name": "The Petersens",
-          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
-        }
-      ],
-      "duration_ms": 160525,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
-        "name": "The More I Learn",
-        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
-      },
-      "artists": [
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "The More I Learn",
-      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
         "name": "Twisted Pine",
         "url": "https://open.spotify.com/album/0Wqmu0yvCdbcd9Vgsq3G3i"
       },
@@ -1455,6 +1423,22 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
+        "name": "Live Sessions, Vol. 03",
+        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
+      },
+      "artists": [
+        {
+          "name": "The Petersens",
+          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
+        }
+      ],
+      "duration_ms": 160525,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
         "name": "Well",
         "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 176000,
       "name": "Well",
       "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
+        "name": "The More I Learn",
+        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "The More I Learn",
+      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Blue Railroad Train",
-        "url": "https://open.spotify.com/album/30ccEntmZBvjhe7KuuP0vm"
-      },
-      "artists": [
-        {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Blue Railroad Train",
-      "url": "https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
         "name": "Ladies & Gentlemen",
         "url": "https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 190634,
       "name": "Run To Heaven",
       "url": "https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
+        "name": "Blue Railroad Train",
+        "url": "https://open.spotify.com/album/30ccEntmZBvjhe7KuuP0vm"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Blue Railroad Train",
+      "url": "https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Railroadin' & Gamblin'",
-        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
-      },
-      "artists": [
-        {
-          "name": "East Nash Grass",
-          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
-        }
-      ],
-      "duration_ms": 173237,
-      "name": "Railroadin' & Gamblin'",
-      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
         "name": "Fall Like Rain",
         "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
       },
@@ -1675,6 +1659,38 @@
       "duration_ms": 262640,
       "name": "Fall Like Rain",
       "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
+        "name": "Travelers Rest",
+        "url": "https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy"
+      },
+      "artists": [
+        {
+          "name": "The Foreign Landers",
+          "url": "https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Traveler",
+      "url": "https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
+        "name": "Railroadin' & Gamblin'",
+        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
+      },
+      "artists": [
+        {
+          "name": "East Nash Grass",
+          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
+        }
+      ],
+      "duration_ms": 173237,
+      "name": "Railroadin' & Gamblin'",
+      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -1727,22 +1743,6 @@
       "duration_ms": 219826,
       "name": "The Trappings",
       "url": "https://open.spotify.com/track/0gzzJTHTrLcPl6dUwROF7Z"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
-        "name": "Travelers Rest",
-        "url": "https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy"
-      },
-      "artists": [
-        {
-          "name": "The Foreign Landers",
-          "url": "https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Traveler",
-      "url": "https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z"
     },
     {
       "added_at": "2023-10-20 17:16:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczt8d1q77fm.md) - [plain]
 
 > Jess Judith takes over Fuego! Featuring Rauw Alejandro, Young Miko, Ozuna & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,289 likes - 25 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,623 likes - 25 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczt8d1q77fm.md) - [plain]
 | 10 | [Del Kilo](https://open.spotify.com/track/7qgovmYLU3BUltCBdYUPKg) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:46 |
 | 11 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 | 12 | [Perriando](https://open.spotify.com/track/3qwB1GLNMogyktLqN5ANBE) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Viva el Perreo](https://open.spotify.com/album/0Oe2Bh74rFWrYSvJVCeF8j) | 3:07 |
-| 13 | [Tan Quedao](https://open.spotify.com/track/252C5FtbrETqo6ZJE1vmyx) | [Briante](https://open.spotify.com/artist/7lrpjS4SyP3jdyB7i27Yf4), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Tan Quedao](https://open.spotify.com/album/3mSxOqShLIxTkePLdEDo8Q) | 2:22 |
+| 13 | [Tan Quedao](https://open.spotify.com/track/6IhKaUibbPr6XAh916LIKu) | [Briante](https://open.spotify.com/artist/7lrpjS4SyP3jdyB7i27Yf4), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Tan Quedao](https://open.spotify.com/album/7qAEfWnAVoOaUu2y0sE6WZ) | 2:22 |
 | 14 | [Los Bobo Son Mio](https://open.spotify.com/track/5NcQz7GySYVN5vyx5r0OIl) | [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Los Bobo Son Mio](https://open.spotify.com/album/4v1NXjiiUavkphyQmcjmIF) | 2:11 |
 | 15 | [25/8](https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:03 |
 | 16 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczt8d1q77fm.md) - [plain]
 | 24 | [5 Star](https://open.spotify.com/track/5B840Ui53HVbqRNJmuZvDF) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:32 |
 | 25 | [Cuando Me Acerco A Ti](https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:13 |
 
-Snapshot ID: `MCw1Y2EzZTFlNzg5ZDQ3YzUxMGIzZDI5MGM4ZjZhNGU2ZDI5NGNjNmJi`
+Snapshot ID: `MCwxNDk5ZGIwMjZlYzYwMDE0ZDBkODhhODQyYTg4Yzc0YTEyNGU0MWU5`

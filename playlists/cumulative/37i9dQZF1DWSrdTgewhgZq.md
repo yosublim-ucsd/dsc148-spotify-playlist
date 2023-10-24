@@ -2,9 +2,9 @@
 
 ### [DOPE.](https://open.spotify.com/playlist/37i9dQZF1DWSrdTgewhgZq)
 
-> Only the best Hip\-hop, only non\-stop hits\. Lil Wayne on Cover
+> Only the best Hip\-hop, only non\-stop hits\. Offset on Cover
 
-213 songs - 11 hr 33 min
+214 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-20 | 2023-02-17 |
 | [late at night](https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [late at night](https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u) | 2:54 | 2021-12-24 | 2022-03-02 |
 | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/track/42GOIiPxJQPPLupSqJUmSS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/album/5MmC9qcCkQPMMb5Ye4l4jA) | 4:21 | 2021-12-24 |  |
-| [Lemonade](https://open.spotify.com/track/02kDW379Yfd5PzW5A6vuGt) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Lemonade \(feat\. Gunna, Don Toliver & NAV\)](https://open.spotify.com/album/1pFaEu56zqpzSviJc3htZN) | 3:15 | 2021-12-24 |  |
+| [Lemonade](https://open.spotify.com/track/02kDW379Yfd5PzW5A6vuGt) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Lemonade \(feat\. Gunna, Don Toliver & NAV\)](https://open.spotify.com/album/1pFaEu56zqpzSviJc3htZN) | 3:15 | 2021-12-24 | 2023-10-24 |
+| [Lemonade \(feat\. NAV\)](https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [B4 The Storm](https://open.spotify.com/album/4Y5lQYgpDrkyru90jltD5a) | 3:15 | 2023-10-23 |  |
 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 | 2021-12-24 |  |
 | [Lose Yourself](https://open.spotify.com/track/77Ft1RJngppZlq59B6uP0z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [SHADYXV](https://open.spotify.com/album/6wdSf72duVewXTqhYU3Z87) | 5:20 | 2022-02-15 | 2023-07-29 |
 | [m y \. l i f e \(with 21 Savage & Morray\)](https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-12-24 |  |

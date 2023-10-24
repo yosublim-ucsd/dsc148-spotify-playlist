@@ -1,12 +1,12 @@
 {
-  "description": "Kick back to the best new and recent chill hits.",
-  "num_followers": 8835693,
+  "description": "Disfruta de los mejores \u00e9xitos relajantes m\u00e1s recientes.",
+  "num_followers": 8836750,
   "original_name": "Chill Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGQ0MWU5ODk4YmFlOTc2NzhhZjUwMGRhNmFiZDc3NmJkZWMxNjY5",
+  "snapshot_id": "MCxmMWY3MmY3ODAzOGY0MWQ2YTc2NWI5NmJlNjJhNGRiY2FiZmUxZTkx",
   "tracks": [
     {
       "added_at": "2023-09-28 00:00:00",
@@ -127,6 +127,26 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
+        "name": "Until I Found You (Em Beihold Version)",
+        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
+    },
+    {
+      "added_at": "2023-09-28 00:00:00",
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
-    },
-    {
-      "added_at": "2023-09-28 00:00:00",
-      "album": {
-        "name": "Until I Found You (Em Beihold Version)",
-        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        },
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "added_at": "2023-09-28 00:00:00",
+      "album": {
         "name": "From The Start",
         "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 221407,
       "name": "All Of The Girls You Loved Before",
       "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
-    },
-    {
-      "added_at": "2023-09-28 00:00:00",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 229226,
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
+        "name": "Z-Sides",
+        "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "duration_ms": 193749,
+      "name": "Lights Are On",
+      "url": "https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN"
+    },
+    {
+      "added_at": "2023-09-28 00:00:00",
+      "album": {
         "name": "Inner Monologue Part 1",
         "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 173306,
       "name": "What A Time (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
-    },
-    {
-      "added_at": "2023-09-28 00:00:00",
-      "album": {
-        "name": "Z-Sides",
-        "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
-      },
-      "artists": [
-        {
-          "name": "Tom Rosenthal",
-          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
-        }
-      ],
-      "duration_ms": 193749,
-      "name": "Lights Are On",
-      "url": "https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
+        "name": "Remember That Night?",
+        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Remember That Night?",
+      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
+    },
+    {
+      "added_at": "2023-09-28 00:00:00",
+      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 197442,
       "name": "Smokin Out The Window",
       "url": "https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb"
-    },
-    {
-      "added_at": "2023-09-28 00:00:00",
-      "album": {
-        "name": "Remember That Night?",
-        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Remember That Night?",
-      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -1229,6 +1229,22 @@
       "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
     },
     {
+      "added_at": "2023-10-17 15:34:08",
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
+    },
+    {
       "added_at": "2023-09-28 00:00:00",
       "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
@@ -1279,22 +1295,6 @@
       "duration_ms": 187931,
       "name": "Can We Kiss Forever?",
       "url": "https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne"
-    },
-    {
-      "added_at": "2023-10-17 15:34:08",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
-        "name": "My Mind & Me",
-        "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 147597,
-      "name": "My Mind & Me",
-      "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
-    },
-    {
-      "added_at": "2023-09-28 00:00:00",
-      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 156091,
       "name": "Moon",
       "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn"
+    },
+    {
+      "added_at": "2023-09-28 00:00:00",
+      "album": {
+        "name": "My Mind & Me",
+        "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 147597,
+      "name": "My Mind & Me",
+      "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
-        "name": "drowning",
-        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 131824,
-      "name": "Always Been You",
-      "url": "https://open.spotify.com/track/53UMRr4KOgZP5Ins0aGlhs"
-    },
-    {
-      "added_at": "2023-09-28 00:00:00",
-      "album": {
         "name": "World War Joy",
         "url": "https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 174052,
       "name": "That Part",
       "url": "https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB"
+    },
+    {
+      "added_at": "2023-09-28 00:00:00",
+      "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 131824,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/53UMRr4KOgZP5Ins0aGlhs"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
-        "name": "Shirt",
-        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181830,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
-    },
-    {
-      "added_at": "2023-09-28 00:00:00",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 185486,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
+    },
+    {
+      "added_at": "2023-09-28 00:00:00",
+      "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181830,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
-        "name": "drowning",
-        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "How Could You",
-      "url": "https://open.spotify.com/track/7wB9sL81rFRGhRt6msZ9CV"
-    },
-    {
-      "added_at": "2023-09-28 00:00:00",
-      "album": {
         "name": "First Two Pages of Frankenstein",
         "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 267773,
       "name": "The Alcott (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
+    },
+    {
+      "added_at": "2023-09-28 00:00:00",
+      "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 187813,
+      "name": "How Could You",
+      "url": "https://open.spotify.com/track/7wB9sL81rFRGhRt6msZ9CV"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
-        "name": "love is not dying",
-        "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 146160,
-      "name": "always, i'll care",
-      "url": "https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY"
-    },
-    {
-      "added_at": "2023-09-28 00:00:00",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 215506,
       "name": "Visiting Hours",
       "url": "https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6"
+    },
+    {
+      "added_at": "2023-09-28 00:00:00",
+      "album": {
+        "name": "love is not dying",
+        "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "duration_ms": 146160,
+      "name": "always, i'll care",
+      "url": "https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -1947,6 +1947,26 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Holy (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
+    },
+    {
+      "added_at": "2023-09-28 00:00:00",
+      "album": {
         "name": "~how i'm feeling~",
         "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
       },
@@ -1995,26 +2015,6 @@
       "duration_ms": 233654,
       "name": "Slide Away",
       "url": "https://open.spotify.com/track/6QQtHdz4PNJWQX4nrAQGC9"
-    },
-    {
-      "added_at": "2023-09-28 00:00:00",
-      "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Holy (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -2095,6 +2095,26 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
+        "name": "Lonely (with benny blanco)",
+        "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 149297,
+      "name": "Lonely (with benny blanco)",
+      "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
+    },
+    {
+      "added_at": "2023-09-28 00:00:00",
+      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P"
       },
@@ -2163,26 +2183,6 @@
       "duration_ms": 210906,
       "name": "Livin It Up (with Post Malone & A$AP Rocky)",
       "url": "https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM"
-    },
-    {
-      "added_at": "2023-09-28 00:00:00",
-      "album": {
-        "name": "Lonely (with benny blanco)",
-        "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        }
-      ],
-      "duration_ms": 149297,
-      "name": "Lonely (with benny blanco)",
-      "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
     },
     {
       "added_at": "2023-09-28 00:00:00",

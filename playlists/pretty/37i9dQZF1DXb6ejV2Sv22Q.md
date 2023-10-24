@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > y kn m quida no duerme viejo de los korridones q traemos totalment n vivo y markele kmpa tolo watata watata
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,404 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,496 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 41 | [classical phonk](https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl) | [0to8](https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g), [madeinnline](https://open.spotify.com/artist/5Uf6QGQDs3EqsxgiGR4O4f) | [classical phonk](https://open.spotify.com/album/0Ol07P6QUMgXjBlunBCFok) | 1:26 |
 | 42 | [Regresa Mami](https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:34 |
 | 43 | [Amor](https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Amor](https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd) | 4:41 |
-| 44 | [COWBELL GOTH](https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM) | 2:21 |
-| 45 | [VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA](https://open.spotify.com/track/3qV8bXiqsR35JEMOy0tpJv) | [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b), [Mc Larissa](https://open.spotify.com/artist/6mTLUu4QRFZXFurxQyLzBX) | [VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA](https://open.spotify.com/album/5nCc44klDwX9Oy8udBepD4) | 3:02 |
-| 46 | [Pepper](https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq) | [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Pepper](https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y) | 2:28 |
+| 44 | [Pepper](https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq) | [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Pepper](https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y) | 2:28 |
+| 45 | [COWBELL GOTH](https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM) | 2:21 |
+| 46 | [VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA](https://open.spotify.com/track/3qV8bXiqsR35JEMOy0tpJv) | [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b), [Mc Larissa](https://open.spotify.com/artist/6mTLUu4QRFZXFurxQyLzBX) | [VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA](https://open.spotify.com/album/5nCc44klDwX9Oy8udBepD4) | 3:02 |
 | 47 | [\|BONKERS\|](https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS) | [staplegun](https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI) | [\|BONKERS\|](https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr) | 3:32 |
 | 48 | [Tatuajes \- Deluxe](https://open.spotify.com/track/2b4YJ0j60w3YPIFot0oodu) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 3:18 |
 | 49 | [Automotivo Blindado](https://open.spotify.com/track/1wynWAVM1KqUQMhytk89rO) | [DJ Rossini ZS](https://open.spotify.com/artist/2ue3CASrJMbnfFcE6Pp13G), [DJ MENOR DA Z.O](https://open.spotify.com/artist/7mONoAwA8mRwvz2JYLhABI), [MC Zudo Boladão](https://open.spotify.com/artist/4kEtpjbEnSh4WNeLF1IeG7), [MC LUIS DO GRAU](https://open.spotify.com/artist/7z92LBe9MQGzZs5VpO8dwX) | [Automotivo Blindado](https://open.spotify.com/album/0coJQdhxjlgLWAsJcC9Dg8) | 3:46 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 55 | [El Dueño De Tu Amor](https://open.spotify.com/track/3CJaDcjZKse7X7eVUukQJB) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 3:45 |
 | 56 | [Estás en Mí Pasado](https://open.spotify.com/track/6ztAOF9gzTWhF4IHW0Sclj) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:57 |
 | 57 | [Ciudad Gris](https://open.spotify.com/track/74oRVj4gRTVVFUVwTXAEl6) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O \- Rock](https://open.spotify.com/album/6vOPEgatfAYa5TSq2PaCNu) | 3:28 |
-| 58 | [Una Linda Mujer](https://open.spotify.com/track/3h90gypXwmPw2EclCHdfcF) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Una Linda Mujer](https://open.spotify.com/album/6IPrta7kcyyOWTQIJZWz5J) | 3:02 |
-| 59 | [Labios de Cereza](https://open.spotify.com/track/7s963HIFOPyhSiqt10vYFn) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Labios de Cereza](https://open.spotify.com/album/2LMo4r5riy5inwflDaWAKK) | 3:34 |
-| 60 | [Gracias A Ti](https://open.spotify.com/track/4AYXjnxnA4Tsr8CAYuKQDo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 3:09 |
+| 58 | [Labios de Cereza](https://open.spotify.com/track/7s963HIFOPyhSiqt10vYFn) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Labios de Cereza](https://open.spotify.com/album/2LMo4r5riy5inwflDaWAKK) | 3:34 |
+| 59 | [Una Linda Mujer](https://open.spotify.com/track/3h90gypXwmPw2EclCHdfcF) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Una Linda Mujer](https://open.spotify.com/album/6IPrta7kcyyOWTQIJZWz5J) | 3:02 |
+| 60 | [160 Gramos](https://open.spotify.com/track/5jWKGPiw2PaIvOVzsqYQvv) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:08 |
 
-Snapshot ID: `MCwxZTcxYWZjNGJhNWE0NGExNzA3MGJkNWI2MjVkZWZhYjYxNzA1NWM1`
+Snapshot ID: `MCxkOGJjYjE1ZmUxYTMwZTlhMzU5Yjc3YWJhMTExMGQ3ZjBmYmQ2Mzg0`

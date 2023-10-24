@@ -6984,10 +6984,32 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 376363,
       "name": "Quem Ser\u00e1?",
       "url": "https://open.spotify.com/track/00BK2exmvdM76fULBDrAvf"
+    },
+    {
+      "album": {
+        "name": "Quem Ser\u00e1?",
+        "url": "https://open.spotify.com/album/5I7TlP98sFvVBcuYcwz6lS"
+      },
+      "artists": [
+        {
+          "name": "Colibri",
+          "url": "https://open.spotify.com/artist/3R9wxOS0XWvgNBJZxtXi4y"
+        },
+        {
+          "name": "VANDAL",
+          "url": "https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376363,
+      "name": "Quem Ser\u00e1?",
+      "url": "https://open.spotify.com/track/6tw0Csa29CYVHEVAehI2Nm"
     },
     {
       "album": {

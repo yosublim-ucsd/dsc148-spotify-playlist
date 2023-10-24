@@ -1,12 +1,12 @@
 {
   "description": "Canciones inolvidables para darle un toque dulce a tus comidas.",
-  "num_followers": 137970,
+  "num_followers": 138015,
   "original_name": "Cocina con Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjYwNmI2YzBlZWEyNWNhOWEwMDgwOGJmYzUwZWE5MWNhZjZjMzdl",
+  "snapshot_id": "MCwxN2I1MTI5NTZkNTdjYWE1YjFiYTI0ZWQxZDdhMmRkNTkzOWQzYjc0",
   "tracks": [
     {
       "added_at": "2023-09-01 15:27:11",
@@ -107,18 +107,18 @@
     {
       "added_at": "2023-09-01 15:27:11",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+      "duration_ms": 343413,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
     },
     {
       "added_at": "2023-09-01 15:27:11",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-09-01 15:27:11",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 343413,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
+      "duration_ms": 267826,
+      "name": "Ciega, Sordomuda",
+      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
     },
     {
       "added_at": "2023-09-01 15:27:11",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-09-01 15:27:11",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 267826,
-      "name": "Ciega, Sordomuda",
-      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2023-09-01 15:27:11",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-01 15:27:11",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "No S\u00e9 T\u00fa",
-      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
-    },
-    {
-      "added_at": "2023-09-01 15:27:11",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 216706,
       "name": "La Camisa Negra",
       "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
+    },
+    {
+      "added_at": "2023-09-01 15:27:11",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
     },
     {
       "added_at": "2023-09-01 15:27:11",
@@ -595,6 +595,26 @@
     {
       "added_at": "2023-09-01 15:27:11",
       "album": {
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Lisa Lopez",
+          "url": "https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts"
+        }
+      ],
+      "duration_ms": 222476,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s"
+    },
+    {
+      "added_at": "2023-09-01 15:27:11",
+      "album": {
         "name": "El Sonido Vol. 1",
         "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
       },
@@ -627,22 +647,6 @@
     {
       "added_at": "2023-09-01 15:27:11",
       "album": {
-        "name": "En Total Plenitud",
-        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
-      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
-    },
-    {
-      "added_at": "2023-09-01 15:27:11",
-      "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
       },
@@ -659,22 +663,18 @@
     {
       "added_at": "2023-09-01 15:27:11",
       "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Lisa Lopez",
-          "url": "https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 222476,
-      "name": "Rumores",
-      "url": "https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s"
+      "duration_ms": 228920,
+      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
+      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
     },
     {
       "added_at": "2023-09-01 15:27:11",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-09-01 15:27:11",
       "album": {
+        "name": "Naufragios",
+        "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
+      },
+      "artists": [
+        {
+          "name": "Mikel Erentxun",
+          "url": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
+        }
+      ],
+      "duration_ms": 233733,
+      "name": "A un minuto de ti",
+      "url": "https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f"
+    },
+    {
+      "added_at": "2023-09-01 15:27:11",
+      "album": {
         "name": "Ricky Martin MTV Unplugged",
         "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 247866,
       "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
-    },
-    {
-      "added_at": "2023-09-01 15:27:11",
-      "album": {
-        "name": "Naufragios",
-        "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
-      },
-      "artists": [
-        {
-          "name": "Mikel Erentxun",
-          "url": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
-        }
-      ],
-      "duration_ms": 233733,
-      "name": "A un minuto de ti",
-      "url": "https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f"
     },
     {
       "added_at": "2023-09-01 15:27:11",

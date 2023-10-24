@@ -1,12 +1,12 @@
 {
   "description": "Un poco de sabrosura y color para esos d\u00edas lluviosos.",
-  "num_followers": 33259,
+  "num_followers": 33298,
   "original_name": "Lluvia Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGY1MWI1MTRiYmVlNmQ0MDk1NWVmMmYyY2QxZDNlYWEzNWZiZjdl",
+  "snapshot_id": "MCxkNGExYTg0Yzg3MmU2YjlmYWZhZjFiNzdmYmI0Nzc1ZmI5MGI1OWQ0",
   "tracks": [
     {
       "added_at": "2021-11-23 20:12:50",
@@ -139,6 +139,22 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 257079,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
         "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
       },
@@ -191,22 +207,6 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 257079,
-      "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
         "name": "Oro Salsero (20 \u00c9xitos)",
         "url": "https://open.spotify.com/album/0xpohAmHs1FIAlWliG4IDz"
       },
@@ -223,6 +223,42 @@
       "duration_ms": 294026,
       "name": "Hechizo De Luna",
       "url": "https://open.spotify.com/track/5qjSPrKTBqYpgVJSTcgKTd"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
+        "name": "Mitad Mitad",
+        "url": "https://open.spotify.com/album/0jtFUO3fffRXGa7OsWw9iN"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 241766,
+      "name": "Me Voy (feat. Romeo Santos)",
+      "url": "https://open.spotify.com/track/3ucH40KXUWWQ5pFw2685G8"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "Burbujas de Amor",
+      "url": "https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -263,26 +299,6 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Mitad Mitad",
-        "url": "https://open.spotify.com/album/0jtFUO3fffRXGa7OsWw9iN"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 241766,
-      "name": "Me Voy (feat. Romeo Santos)",
-      "url": "https://open.spotify.com/track/3ucH40KXUWWQ5pFw2685G8"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
         "name": "Amor En Silencio",
         "url": "https://open.spotify.com/album/02IKI6J5vzzTZ0DC2yWNcu"
       },
@@ -319,22 +335,6 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Sigo Siendo Yo",
-        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 302946,
-      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
-      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
         "name": "Justo A Tiempo",
         "url": "https://open.spotify.com/album/250KLbxSw8cKrI7pomRdyl"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 307173,
       "name": "Peque\u00f1as Cosas",
       "url": "https://open.spotify.com/track/2YtWJzOcIHGC7uNbANUtPE"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 250920,
-      "name": "Burbujas de Amor",
-      "url": "https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -383,6 +367,22 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
+        "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
+        "url": "https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
+      "url": "https://open.spotify.com/track/2HQqhVP8NOaoIhPTQ8I5bm"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
       },
@@ -395,22 +395,6 @@
       "duration_ms": 286466,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
-        "name": "Generation Next",
-        "url": "https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Cuando Volveras",
-      "url": "https://open.spotify.com/track/7vXKZJy7buchKnncu1meOh"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -431,6 +415,38 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
+        "name": "Generation Next",
+        "url": "https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Cuando Volveras",
+      "url": "https://open.spotify.com/track/7vXKZJy7buchKnncu1meOh"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
+        "name": "Sigo Siendo Yo",
+        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 302946,
+      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
+      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
         "name": "Medicina De Amor",
         "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
       },
@@ -443,38 +459,6 @@
       "duration_ms": 360720,
       "name": "Medicina De Amor",
       "url": "https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 374053,
-      "name": "Tu Vida en la M\u00eda",
-      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
-        "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
-        "url": "https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
-      "url": "https://open.spotify.com/track/2HQqhVP8NOaoIhPTQ8I5bm"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -603,6 +587,22 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 374053,
+      "name": "Tu Vida en la M\u00eda",
+      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x"
       },
@@ -687,6 +687,22 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
+        "name": "\u00a1Amame!",
+        "url": "https://open.spotify.com/album/2eGLKN2UDd8blNIizs7t4Z"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 252354,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/5k1OxW8WdINpWyQTjDup4b"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
         "name": "Charanga Moderna",
         "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 426840,
       "name": "V\u00e1monos Pa'l Monte",
       "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
-        "name": "\u00a1Amame!",
-        "url": "https://open.spotify.com/album/2eGLKN2UDd8blNIizs7t4Z"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 252354,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/5k1OxW8WdINpWyQTjDup4b"
     },
     {
       "added_at": "2021-11-23 20:12:50",

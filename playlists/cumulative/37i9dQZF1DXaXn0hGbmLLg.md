@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! <a href="spotify:artist:4VUZyzya1v8H9StAeuKYXW">Nana Fofie</a> is EQUAL Netherlands ambassador for september
 
-1,215 songs - 2 day 16 hr 11 min
+1,216 songs - 2 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Anybody](https://open.spotify.com/track/1EIb9J8PKZXmO0VhEuc5XZ) | [LUWTEN](https://open.spotify.com/artist/4cm8GrJ4fx7P2h9shNhUia) | [Anybody](https://open.spotify.com/album/6fs2ljHFHAXafK2JS9n70C) | 3:15 | 2022-04-05 | 2022-05-04 |
 | [Anywhere](https://open.spotify.com/track/5BiB9w5K8EKxLZdSd2MYIa) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [Anywhere](https://open.spotify.com/album/719065Ibz4lqwB9wr8cYNG) | 3:50 | 2023-06-06 | 2023-07-05 |
 | [Applaus](https://open.spotify.com/track/2CN6Z4Jso1LIstxtEnrEOY) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Applaus](https://open.spotify.com/album/1J78O0h3wjJS0bqj4IPeB5) | 2:50 | 2023-01-31 | 2023-03-01 |
-| [Arcade](https://open.spotify.com/track/2dDoOSCrKQCY95eY56Xs9R) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/3wzxiVGNefP0NRFjAhkVVo) | 3:16 | 2023-10-03 |  |
+| [Arcade](https://open.spotify.com/track/06q5OfzaRccXcFU6L7PrWd) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Arcade](https://open.spotify.com/album/5p4dNjuAzVPPM61pt4KQhK) | 3:16 | 2023-10-03 |  |
+| [Arcade](https://open.spotify.com/track/2dDoOSCrKQCY95eY56Xs9R) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/3wzxiVGNefP0NRFjAhkVVo) | 3:16 | 2023-10-03 | 2023-10-24 |
 | [Arme slechterik](https://open.spotify.com/track/6fMjsR246hnRxJJRg22w8J) | [Roosbeef](https://open.spotify.com/artist/5W6gRzU3M4IpIWjy8D52i5) | [Arme slechterik](https://open.spotify.com/album/5bMcXhMmxeJOKQ7j4izUPn) | 3:27 | 2022-07-05 | 2022-08-03 |
 | [Ass Out = Trash Out](https://open.spotify.com/track/0U9vYxFhCxEHLaIkDRB4OP) | [Sophia](https://open.spotify.com/artist/41faFcJ3vEYQxlztlOs8Le) | [Fragile](https://open.spotify.com/album/26lqshZHZO9RmtnJzoB7Yt) | 3:14 | 2022-02-01 | 2022-03-08 |
 | [Astèr Says](https://open.spotify.com/track/3tE8OBKY2SMEZGEekE9XiQ) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Astèr Says](https://open.spotify.com/album/7tFhVXHDaYlYlm2tviMexp) | 3:38 | 2022-08-02 | 2022-09-07 |

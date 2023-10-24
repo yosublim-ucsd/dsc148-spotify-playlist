@@ -1,12 +1,12 @@
 {
   "description": "New wave took the 70s punk blueprint and ran wild! Cover: Blondie",
-  "num_followers": 851240,
+  "num_followers": 851335,
   "original_name": "Is it New Wave?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzUxZDdlMWQ4YmM3MGZlZDA2Y2M3NGUwN2RhNTE1NzkwZTU2YmQ4",
+  "snapshot_id": "MCxmOGMwZGM1NGU2YWNkMTY2NDYxYmI2ZGYzZDQ5M2E3MTRmNWQxNDNl",
   "tracks": [
     {
       "added_at": "2020-01-14 21:16:41",
@@ -155,6 +155,38 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Just like Heaven",
+      "url": "https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
         "name": "Reggatta De Blanc (Remastered 2003)",
         "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
       },
@@ -167,6 +199,22 @@
       "duration_ms": 290280,
       "name": "Message In A Bottle",
       "url": "https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "The Smiths",
+        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "This Charming Man - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -203,38 +251,6 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "The Smiths",
-        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "This Charming Man - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
         "name": "Speaking in Tongues (Deluxe Version)",
         "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
@@ -251,22 +267,6 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Kiss Me, Kiss Me, Kiss Me",
-        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Just like Heaven",
-      "url": "https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
         "name": "Unknown Pleasures (Collector's Edition)",
         "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
       },
@@ -279,6 +279,38 @@
       "duration_ms": 209039,
       "name": "Disorder - 2007 Remaster",
       "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "The Runaways",
+        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
+      },
+      "artists": [
+        {
+          "name": "The Runaways",
+          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "Cherry Bomb",
+      "url": "https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -315,22 +347,6 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "The Runaways",
-        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
-      },
-      "artists": [
-        {
-          "name": "The Runaways",
-          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "Cherry Bomb",
-      "url": "https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
         "name": "The Gift",
         "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 263213,
       "name": "Bizarre Love Triangle",
       "url": "https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Friday I'm in Love",
-      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -427,6 +427,22 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
+        "name": "Three Imaginary Boys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "Boys Don't Cry - Single Version",
+      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
         "name": "Parallel Lines",
         "url": "https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 219306,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Three Imaginary Boys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "Boys Don't Cry - Single Version",
-      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -555,6 +555,22 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
+        "name": "The Specials (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "A Message to You Rudy - 2015 Remaster",
+      "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
         "name": "Soul Mining",
         "url": "https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 196680,
       "name": "Pump It Up - 2021 Remaster",
       "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "The Specials (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "A Message to You Rudy - 2015 Remaster",
-      "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -651,6 +651,22 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Cities In Dust",
+      "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
         "name": "Different Light (Expanded Edition)",
         "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 239280,
       "name": "Eighties - 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Tinderbox",
-        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Cities In Dust",
-      "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -779,22 +779,6 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Laugh? I Nearly Bought One!",
-        "url": "https://open.spotify.com/album/1NslVOXC1oGYPKfsgpdbqn"
-      },
-      "artists": [
-        {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
-        }
-      ],
-      "duration_ms": 265466,
-      "name": "Love Like Blood",
-      "url": "https://open.spotify.com/track/6VzXOkU7pVXaVMR6e4hRAg"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
         "name": "Beauty And The Beat (30th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nkB6F63xkKusB4M8I5zR6"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 151106,
       "name": "We Got The Beat - 2011 Remaster",
       "url": "https://open.spotify.com/track/5o37x6LpNSec4jSfPIChsQ"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Entertainment!",
+        "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+        }
+      ],
+      "duration_ms": 206786,
+      "name": "Damaged Goods",
+      "url": "https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n"
     }
   ],
   "unique_name": "Is it New Wave?",

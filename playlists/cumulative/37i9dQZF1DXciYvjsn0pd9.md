@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-90 songs - 5 hr 23 min
+91 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Feel Your Love](https://open.spotify.com/track/4h4c2nt7wTFLn0OYVDWOHC) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq) | [Feel Your Love](https://open.spotify.com/album/6NarQFpErQAqgw7Lzv9SXp) | 3:12 | 2022-06-30 |  |
 | [Fiesta En La Arena](https://open.spotify.com/track/5TePkf81a8qlrEs7JCTeE4) | [Dj Dasten](https://open.spotify.com/artist/2jqJc0ovzss12ajvoeyZu0), [Felicia](https://open.spotify.com/artist/5iZjTlgCuw1wjmkRyjFvvP) | [Fiesta En La Arena](https://open.spotify.com/album/4PWiOCnQBd69wr9e4L1L6B) | 3:13 | 2022-06-30 | 2022-11-13 |
 | [Fiesta En La Arena](https://open.spotify.com/track/7hRWhr6JZCWS0CtYQsz6p9) | [Dj Dasten](https://open.spotify.com/artist/2jqJc0ovzss12ajvoeyZu0), [Felicia](https://open.spotify.com/artist/5iZjTlgCuw1wjmkRyjFvvP) | [This Is Guaracha](https://open.spotify.com/album/2NAipWQFzhI39i7UQnn3qe) | 3:13 | 2022-06-30 |  |
-| [Five Hours](https://open.spotify.com/track/3haS1MDe2Zh8jJaeiiymSt) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Five Hours](https://open.spotify.com/album/6qBYhiSsjPux8YODj3YX3e) | 5:26 | 2022-06-30 |  |
+| [Five Hours](https://open.spotify.com/track/3haS1MDe2Zh8jJaeiiymSt) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Five Hours](https://open.spotify.com/album/6qBYhiSsjPux8YODj3YX3e) | 5:26 | 2022-06-30 | 2023-10-24 |
+| [Five Hours](https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Five Hours](https://open.spotify.com/album/3hM67HrtJ55aUC5TGt66Za) | 5:26 | 2023-01-09 |  |
 | [Forbidden Voices](https://open.spotify.com/track/6EsH66Uto1zwZlDGQ6RokU) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Forbidden Voices](https://open.spotify.com/album/3COyh97TYskmV4cOqPed49) | 3:50 | 2022-06-30 |  |
 | [Get together \(feat\. Devito\) \- Tuborg Open Mix](https://open.spotify.com/track/6km0jEcoy7ab26k4b4ZiWl) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN) | [Get together \(feat\. Devito\) \[Tuborg Open Mix\]](https://open.spotify.com/album/3c5A4ffJTynPXfws4MHM4M) | 2:11 | 2022-06-30 |  |
 | [Get Up \(Rattle\)](https://open.spotify.com/track/1zYsvExrADZ5L7Epqd5J6D) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [Get Up \(Rattle\)](https://open.spotify.com/album/7atvI5BIhbfq7sGp6jjCz3) | 2:46 | 2022-06-30 | 2023-03-03 |

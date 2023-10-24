@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. Foto: Marineros.",
-  "num_followers": 12861,
+  "num_followers": 12865,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDA3NjI2NmNiNTI1ODY4OTc1YjNlNWNlNGM2NDY3YjU5MGRkYmZm",
+  "snapshot_id": "MCwwZjVlYTU5NTA3ODcwMmZkNGRkOTdkNjdmNmQ0YmM3Mjc0NDc0YTcw",
   "tracks": [
     {
       "added_at": "2023-10-04 04:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Pl\u00e1stico",
-        "url": "https://open.spotify.com/album/6Z2s9YDN6NM2d9DD3iZTvj"
-      },
-      "artists": [
-        {
-          "name": "Floresalegr\u00eda",
-          "url": "https://open.spotify.com/artist/6Dp3p3MdGF7dhhU8GzOfAt"
-        }
-      ],
-      "duration_ms": 153462,
-      "name": "Pl\u00e1stico",
-      "url": "https://open.spotify.com/track/6HAEIK2FnaawhsaJBc2YGr"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Cuerpo y Guitarra",
         "url": "https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ"
       },
@@ -503,18 +487,18 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "aterrizar",
-        "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
+        "name": "Pl\u00e1stico",
+        "url": "https://open.spotify.com/album/6Z2s9YDN6NM2d9DD3iZTvj"
       },
       "artists": [
         {
-          "name": "Vale Castillo",
-          "url": "https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF"
+          "name": "Floresalegr\u00eda",
+          "url": "https://open.spotify.com/artist/6Dp3p3MdGF7dhhU8GzOfAt"
         }
       ],
-      "duration_ms": 178285,
-      "name": "aterrizar",
-      "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
+      "duration_ms": 153462,
+      "name": "Pl\u00e1stico",
+      "url": "https://open.spotify.com/track/6HAEIK2FnaawhsaJBc2YGr"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -531,6 +515,22 @@
       "duration_ms": 140649,
       "name": "Labios de Miel",
       "url": "https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "aterrizar",
+        "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
+      },
+      "artists": [
+        {
+          "name": "Vale Castillo",
+          "url": "https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "aterrizar",
+      "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
     },
     {
       "added_at": "2023-10-04 04:00:00",

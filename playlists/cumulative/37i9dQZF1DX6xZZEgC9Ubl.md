@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-879 songs - 1 day 15 hr 55 min
+880 songs - 1 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,7 @@
 | [Just Friends](https://open.spotify.com/track/2zRbprdgFgVbe6h1pmzv5R) | [Memoria XI](https://open.spotify.com/artist/7qIHY5nwyAyxsM0U1e1UzN) | [Just Friends](https://open.spotify.com/album/1JcUX7jHeNKOzE56O9IlF0) | 2:30 | 2021-08-14 | 2022-04-23 |
 | [Just Like You Do](https://open.spotify.com/track/0sFqD0Mxcv3QLVyrWEddJ0) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Just Like You Do](https://open.spotify.com/album/31aCJnQY9WNHB7bLJe7QtD) | 2:38 | 2021-01-21 | 2021-04-24 |
 | [Key To My Heart](https://open.spotify.com/track/3safBWMqYnBJtNA2428Hmz) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [Key To My Heart](https://open.spotify.com/album/5MlRgizbT5l0vMtzSlBIvl) | 2:34 | 2022-10-07 |  |
-| [Kids Are Growing Up \(Part 1\)](https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Kids Are Growing Up \(Part 1\)](https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV) | 2:01 | 2023-02-10 |  |
+| [KIDS ARE GROWING UP \(PART 1\)](https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [KIDS ARE GROWING UP \(PART 1\)](https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV) | 2:01 | 2023-02-10 |  |
 | [KILL CUPID](https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [EAT YOUR HEART OUT](https://open.spotify.com/album/6jKFoCC2VYrb1MYYN4TAXC) | 4:09 | 2021-02-27 | 2023-10-14 |
 | [KILL EM FOR ME \(feat\. KA$HDAMI\)](https://open.spotify.com/track/7ExIAULxz8L1mWrqq4YpKF) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [ANYWHERE BUT HERE](https://open.spotify.com/album/3lj9lqUr6MQxReCeV52SBo) | 2:38 | 2022-09-28 | 2022-10-22 |
 | [KILLING ME](https://open.spotify.com/track/7AfWXAbDZZctOhkHeGn4b3) | [CRIM](https://open.spotify.com/artist/095h4p1W4McMH96nJ5KWIu) | [KILLING ME](https://open.spotify.com/album/62v1j7MvQt3t7uTcUfp4hV) | 2:50 | 2021-10-14 | 2022-07-29 |
@@ -875,7 +875,8 @@
 | [YellowStone](https://open.spotify.com/track/607Gx4Z3NAiqGCGJg9925F) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [Eddy Baker](https://open.spotify.com/artist/26HvjJ7ni9UWX4p7QhrXV6) | [YellowStone](https://open.spotify.com/album/5m93kff6ndGPd1hhdrZ9Rp) | 3:09 | 2023-03-03 |  |
 | [You Broke My Heart Again](https://open.spotify.com/track/3jZDWsoxRHzzp3DYV8qeXE) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [You Broke My Heart Again](https://open.spotify.com/album/6YYYy7rXFNjORVy1V9nzTn) | 1:43 | 2022-07-22 | 2023-06-08 |
 | [You Broke My Heart Again](https://open.spotify.com/track/6qpT0nzHUn52gnSWYdbxF4) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [You Broke My Heart Again](https://open.spotify.com/album/4xAVJuJfkIwgiZRkfQecMF) | 1:43 | 2023-04-12 |  |
-| [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 | 2023-09-08 |  |
+| [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 | 2023-09-08 | 2023-10-24 |
+| [You Don't Even](https://open.spotify.com/track/6jTGHYU466eF0XxVOQuQMy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/1Vw2QQWVguHw3kTwCq3kaf) | 2:18 | 2023-09-08 |  |
 | [You Don't Want Me Anymore](https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO) | [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD) | [You Don't Want Me Anymore](https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss) | 2:45 | 2022-07-22 | 2023-01-28 |
 | [You Got What You Came For](https://open.spotify.com/track/2fwi05EwDuslQa3ua9Ws0p) | [Crawly](https://open.spotify.com/artist/6zQ2Dzlyli3ph6sHiXRuG0) | [You Got What You Came For](https://open.spotify.com/album/1rra23KNUFaDSMbRKz5OY9) | 2:59 | 2021-04-17 | 2022-05-03 |
 | [you never meant it](https://open.spotify.com/track/4LMlIX9Y8qziRafzW30mGc) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [cøzybøy](https://open.spotify.com/artist/3sWtaNsmsCx0TFaQkP8QAm) | [you never meant it](https://open.spotify.com/album/6qT7iBnEv3I56ESve2jgfn) | 1:57 | 2020-12-18 |  |

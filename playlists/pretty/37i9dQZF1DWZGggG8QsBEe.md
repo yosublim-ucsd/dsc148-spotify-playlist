@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGggG8QsBEe.md) - [plain]
 
 > A flow of white water noise, let go to the soothing rush of cascading waterfall sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,351 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,372 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGggG8QsBEe.md) - [plain]
 | 11 | [Hidden River](https://open.spotify.com/track/1POqOx1gAFK8hazWhWOMtk) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Nature's Green Noise](https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6) | 2:21 |
 | 12 | [River Relaxation](https://open.spotify.com/track/1P17KkU4Kc9vPcVg7MObrh) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Nature's Beautiful Sounds](https://open.spotify.com/album/1i7Wx47S8juKmqYC8vO7xi) | 3:02 |
 | 13 | [Feel The River](https://open.spotify.com/track/6MLGJkWExg0JHkG5Sq3B50) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Feel The River](https://open.spotify.com/album/54zVwrIbAn0hn99p2cOegi) | 3:20 |
-| 14 | [Relaxing Waterfall](https://open.spotify.com/track/4EqeYEXkNDwCmVAaSDp8Pp) | [Traveling Sounds](https://open.spotify.com/artist/1kQGKwpqL4zj2KOYxzjSgn) | [Relaxing River](https://open.spotify.com/album/4BfNInTI5qDoJX4yRgh6mv) | 3:23 |
-| 15 | [Plattekill River](https://open.spotify.com/track/3cyLymtvq4PI0etgqfxv5C) | [Blue Stone Sanctuary](https://open.spotify.com/artist/6FGkUJ63qsP7AEvATT5cK9) | [Wilderness Trail](https://open.spotify.com/album/3C16hqCiTAmMeJVET66Mx0) | 2:42 |
+| 14 | [Plattekill River](https://open.spotify.com/track/3cyLymtvq4PI0etgqfxv5C) | [Blue Stone Sanctuary](https://open.spotify.com/artist/6FGkUJ63qsP7AEvATT5cK9) | [Wilderness Trail](https://open.spotify.com/album/3C16hqCiTAmMeJVET66Mx0) | 2:42 |
+| 15 | [Relaxing Waterfall](https://open.spotify.com/track/4EqeYEXkNDwCmVAaSDp8Pp) | [Traveling Sounds](https://open.spotify.com/artist/1kQGKwpqL4zj2KOYxzjSgn) | [Relaxing River](https://open.spotify.com/album/4BfNInTI5qDoJX4yRgh6mv) | 3:23 |
 | 16 | [focus water stream](https://open.spotify.com/track/1pEJlVzcCKCLV8JW0TYCB2) | [Sounds of Beauty](https://open.spotify.com/artist/0HVe7pR5Jimsjvw7NTNala) | [Water Sounds](https://open.spotify.com/album/1NEKfuhrHdM1r7hDVe01EK) | 3:39 |
 | 17 | [Rapids](https://open.spotify.com/track/3gopInHfz9y4iTE6F9qp99) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [River Spirit](https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT) | 3:34 |
 | 18 | [Cascading Water](https://open.spotify.com/track/3xzldmkvd3FcrdWV6Zz3sA) | [Pacific Soundscapes](https://open.spotify.com/artist/7lfs7TkGNBX0j3VO4pK70s) | [Cascading Water](https://open.spotify.com/album/18pUis5CO7ljukwfgO9BI4) | 2:30 |
@@ -42,16 +42,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGggG8QsBEe.md) - [plain]
 | 32 | [Esopus Creek](https://open.spotify.com/track/6TDm4Y1ly5F4IfMuhLWSi7) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Esopus Creek](https://open.spotify.com/album/55tkNp2Xvl5qosqsTi50iy) | 2:44 |
 | 33 | [Waterfall Noise](https://open.spotify.com/track/3OUrN6pqs0odLhgROLiGKR) | [BCCF](https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f) | [White Noise](https://open.spotify.com/album/4mFFAzJgZ9886aTrcJC62R) | 4:06 |
 | 34 | [Waterfall](https://open.spotify.com/track/20Ni1eLWzkaqx8d55X8Par) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Baby Sleep White Noise](https://open.spotify.com/album/4vPYOEzg31z0Nc6stLRLgL) | 3:47 |
-| 35 | [Shallow Rapid Flow](https://open.spotify.com/track/14EgXws2q9leMgGCukpRXS) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Shallow River Sounds](https://open.spotify.com/album/34ZUViIS2YqDboeWQqTP00) | 3:00 |
-| 36 | [River Zen](https://open.spotify.com/track/0JMkTafMJcSuInbp9KUHwT) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Relax by the River](https://open.spotify.com/album/6qxd6X2zDSHsaPPWcmewFC) | 3:08 |
+| 35 | [River Zen](https://open.spotify.com/track/0JMkTafMJcSuInbp9KUHwT) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Relax by the River](https://open.spotify.com/album/6qxd6X2zDSHsaPPWcmewFC) | 3:08 |
+| 36 | [Shallow Rapid Flow](https://open.spotify.com/track/14EgXws2q9leMgGCukpRXS) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Shallow River Sounds](https://open.spotify.com/album/34ZUViIS2YqDboeWQqTP00) | 3:00 |
 | 37 | [Waterfall for Deep Sleep](https://open.spotify.com/track/0F56cp7Le8p7iPydxUeTlJ) | [Waterfall in the distance](https://open.spotify.com/artist/4lcG2wz9oZuu1VdEcBG6Nj) | [Waterfall in the distance](https://open.spotify.com/album/2on28DnTVwyWX5gfG3G4dy) | 3:04 |
 | 38 | [Waterfalls](https://open.spotify.com/track/0H4v2NFbdUvxysprwSgxHk) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Baby Sleep Pink Noise](https://open.spotify.com/album/2Wv2eQ2Zs6bQm8DOC1Cxng) | 2:17 |
 | 39 | [Smooth Waterfall White Noise](https://open.spotify.com/track/01INr4xIRYANKkfoDe6Beo) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [White Noise](https://open.spotify.com/album/2EfzJjGa4VM6LVNgqWKZFS) | 2:06 |
-| 40 | [Brown noise \- Waterfall](https://open.spotify.com/track/1F7zuMIXTEYQcXEHYMPa29) | [Leanna Woo](https://open.spotify.com/artist/55DJCZDImu8v60VnOwErmz) | [White Noise Magic](https://open.spotify.com/album/0kyZ4Hnwyv3ANtL5nPPgEe) | 2:21 |
-| 41 | [Soothing Deep River Flow](https://open.spotify.com/track/2oCTjuFVc4z5JAryMIRhQ5) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [River & Waterfall Flow](https://open.spotify.com/album/170V5jgd4OGqMCCIPulFiR) | 4:45 |
+| 40 | [Soothing Deep River Flow](https://open.spotify.com/track/2oCTjuFVc4z5JAryMIRhQ5) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [River & Waterfall Flow](https://open.spotify.com/album/170V5jgd4OGqMCCIPulFiR) | 4:45 |
+| 41 | [Brown noise \- Waterfall](https://open.spotify.com/track/1F7zuMIXTEYQcXEHYMPa29) | [Leanna Woo](https://open.spotify.com/artist/55DJCZDImu8v60VnOwErmz) | [White Noise Magic](https://open.spotify.com/album/0kyZ4Hnwyv3ANtL5nPPgEe) | 2:21 |
 | 42 | [Bright Waterfall](https://open.spotify.com/track/0uPc7gpCCNSRRoVab7lTeB) | [Water Delicious](https://open.spotify.com/artist/4zkUo3pQnquqLXUzZqrxEO) | [Hawaii Waterfalls](https://open.spotify.com/album/06FL1OBJU19se5afKhXTLd) | 2:16 |
-| 43 | [Gurgelnder Bergbach](https://open.spotify.com/track/3t2wVzmrOEXa81UEyXFkHv) | [Wasser Freq](https://open.spotify.com/artist/5BSws4xXtmTrcvdacAMzjF) | [Beruhigender Wasserlauf](https://open.spotify.com/album/0xYC3jTemfxkmi8n7audKZ) | 2:21 |
-| 44 | [Serene Waterfall \- Seamless](https://open.spotify.com/track/2cEZ7TKsBYpfbSpQKJh1T3) | [Chroma World](https://open.spotify.com/artist/3TIBtUQE47OmudD95MhKS2) | [Serene Waterfall](https://open.spotify.com/album/1chUKjNIU3dbDSPl9ny23T) | 2:55 |
+| 43 | [Serene Waterfall \- Seamless](https://open.spotify.com/track/2cEZ7TKsBYpfbSpQKJh1T3) | [Chroma World](https://open.spotify.com/artist/3TIBtUQE47OmudD95MhKS2) | [Serene Waterfall](https://open.spotify.com/album/1chUKjNIU3dbDSPl9ny23T) | 2:55 |
+| 44 | [Gurgelnder Bergbach](https://open.spotify.com/track/3t2wVzmrOEXa81UEyXFkHv) | [Wasser Freq](https://open.spotify.com/artist/5BSws4xXtmTrcvdacAMzjF) | [Beruhigender Wasserlauf](https://open.spotify.com/album/0xYC3jTemfxkmi8n7audKZ) | 2:21 |
 | 45 | [Kauai Waterfall White Noise](https://open.spotify.com/track/0HoHr2DNEeCPfEzJ9ojlzE) | [Freq Molecule](https://open.spotify.com/artist/0p03OqcToOGwKxzUkJQJkO) | [Sleepy Waterfall White Noise](https://open.spotify.com/album/39W88WfbNmYpOqpeFNW1WO) | 4:04 |
 | 46 | [Waterfall Bliss \- Seamless](https://open.spotify.com/track/103vKb26KjfvHr3uwd1gAx) | [Sky Travis](https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy) | [Woosh By](https://open.spotify.com/album/4IRTkvbY6uwkxjEhFVaWpj) | 2:54 |
 | 47 | [Sleeping Waterfall](https://open.spotify.com/track/2210L8BNV1VdyCfz4C1DlP) | [The Nature Songs](https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF) | [Meditation Waterfall](https://open.spotify.com/album/78efjczcIzHjNV12gdwgku) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGggG8QsBEe.md) - [plain]
 | 49 | [Soothing Forest Waterfall](https://open.spotify.com/track/4lWrHfVrp7PmP5bJ4CaiKo) | [Surrounded by Sound](https://open.spotify.com/artist/0F7xvD7p2K3aCiXBZEZ90i) | [Relaxing Waterfalls](https://open.spotify.com/album/4yUvywqKl4dCSiCDf8RiOI) | 3:30 |
 | 50 | [Close To the Water](https://open.spotify.com/track/1xP9ZeGYT6D20Mpw3phS88) | [Embrace the Rain](https://open.spotify.com/artist/5sZvIwOBG1ngPYqGjzK5C2) | [Close To the Water](https://open.spotify.com/album/4H3pblqHqEsyPjgBaeLHnd) | 3:20 |
 
-Snapshot ID: `MCxiYjBlNDVkMWUwMGRhYzdiNWEwYzk3YTk4MmZjOTdkNDI4NjU2NmZl`
+Snapshot ID: `MCxiMTQxZGU4YmFhN2FlMzViN2E5ZWQ3YjIyMWEwY2Q3MTUzZDM1ZmY4`

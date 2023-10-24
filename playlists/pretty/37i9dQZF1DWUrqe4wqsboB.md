@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Buscabulla
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,711 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,723 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 6 | [Mi Secreto](https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Mi Secreto](https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8) | 2:59 |
 | 7 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
 | 8 | [Hilos](https://open.spotify.com/track/5jedB0wihSnYa93YAOwZZD) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6) | [Tejido de Laurel](https://open.spotify.com/album/5pE7hfdLbcswAR4fMvPp2B) | 1:02 |
-| 9 | [DÁKITI – Spotify Singles](https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:37 |
-| 10 | [Mi Piscis](https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ahora A.K.A NAO](https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD) | 3:22 |
-| 11 | [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 |
+| 9 | [Mi Piscis](https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ahora A.K.A NAO](https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD) | 3:22 |
+| 10 | [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 |
+| 11 | [DÁKITI – Spotify Singles](https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:37 |
 | 12 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
-| 13 | [La Estrella del Show](https://open.spotify.com/track/6BdwWjSICtNMrNx9npEDuX) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [La Estrella del Show](https://open.spotify.com/album/7DDXnFfS9GhbzewYgRAkKf) | 2:57 |
-| 14 | [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 |
+| 13 | [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 |
+| 14 | [La Estrella del Show](https://open.spotify.com/track/6BdwWjSICtNMrNx9npEDuX) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [La Estrella del Show](https://open.spotify.com/album/7DDXnFfS9GhbzewYgRAkKf) | 2:57 |
 | 15 | [Problema](https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Problema](https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR) | 3:45 |
 | 16 | [\(Escapándome\) de mí](https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Nacarile](https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i) | 2:54 |
 | 17 | [Caracoles](https://open.spotify.com/track/6GaB5hqbxFqUbKUcOlGT5h) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 4:40 |
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 27 | [Desastre Comunal](https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 3:05 |
 | 28 | [Duermo con frío](https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA) | [Cita](https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC) | [El Cuento de Cita](https://open.spotify.com/album/38d0eTAxlf9Vckm2MVOkqX) | 3:14 |
 | 29 | [Hasta el final](https://open.spotify.com/track/53sjsn7vEChKgNiDXOXoQF) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Hasta el final](https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd) | 3:28 |
-| 30 | [Circuito por Milán](https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Circuito por Milán](https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG) | 3:14 |
-| 31 | [Maldita Cachá](https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Maldita Cachá](https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo) | 2:24 |
-| 32 | [Live This One](https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Letra Pa' tu Coco](https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE) | 3:32 |
-| 33 | [Vibra](https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [Vibra](https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g) | 2:54 |
-| 34 | [Guarapo y Flor](https://open.spotify.com/track/0kVjvfryus4UWTFKD42KzG) | [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Guarapo y Flor](https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ) | 2:59 |
+| 30 | [Live This One](https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Letra Pa' tu Coco](https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE) | 3:32 |
+| 31 | [Circuito por Milán](https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Circuito por Milán](https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG) | 3:14 |
+| 32 | [Maldita Cachá](https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Maldita Cachá](https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo) | 2:24 |
+| 33 | [Guarapo y Flor](https://open.spotify.com/track/0kVjvfryus4UWTFKD42KzG) | [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Guarapo y Flor](https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ) | 2:59 |
+| 34 | [Vibra](https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [Vibra](https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g) | 2:54 |
 | 35 | [Me Saben a Miel](https://open.spotify.com/track/4Ju1mQFxj2kRBAzzv0WaVh) | [Circo](https://open.spotify.com/artist/5f4yA5jDkv5z75thk9ZNTc), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Me Saben a Miel](https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb) | 3:43 |
 | 36 | [Café](https://open.spotify.com/track/3v39Tno23I21Uot44jt1s8) | [Duo Deleite](https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO), [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [Enyel C](https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G), [Balbi](https://open.spotify.com/artist/2Dm9fZxXl9qFdnLWpyRSPA) | [Duo Deleite](https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY) | 3:07 |
 | 37 | [La Espina](https://open.spotify.com/track/2K1PJYuqulzmR5zf6VqnmP) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4), [Taiguerz](https://open.spotify.com/artist/2Yi5LaK2meRKaZ7oUUFHPu) | [La Espina](https://open.spotify.com/album/31E2WkAxbbxIthqROYkvWp) | 2:30 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 39 | [Tu Nunca Has Sentido](https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6) | [Los Rarxs](https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR) | [La Rareza](https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh) | 2:41 |
 | 40 | [Pirámide](https://open.spotify.com/track/5Cn79rGGFSePXgVIPS19Tb) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Pirámide](https://open.spotify.com/album/4kSAzEEJE6MzVHKvGFYv18) | 3:24 |
 | 41 | [Maresía](https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Maresía](https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV) | 3:31 |
-| 42 | [Miel y Mantequilla](https://open.spotify.com/track/2YnlDzQ7jw9LwLhapCOYLU) | [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i) | [Miel y Mantequilla](https://open.spotify.com/album/59NP5vnw0wIR1CAJKeiU0b) | 3:47 |
-| 43 | [Flow Criollo](https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5) | [El Hijo de Borikén](https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG) | [El Hijo de Borikén](https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV) | 4:17 |
+| 42 | [Flow Criollo](https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5) | [El Hijo de Borikén](https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG) | [El Hijo de Borikén](https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV) | 4:17 |
+| 43 | [Miel y Mantequilla](https://open.spotify.com/track/2YnlDzQ7jw9LwLhapCOYLU) | [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i) | [Miel y Mantequilla](https://open.spotify.com/album/59NP5vnw0wIR1CAJKeiU0b) | 3:47 |
 | 44 | [Dulce Estar](https://open.spotify.com/track/3EZciZlYPvhbF0IpPC6EoB) | [Polem](https://open.spotify.com/artist/1omEowkpCo5RWWaWj6l6aw) | [Lo Sencillo](https://open.spotify.com/album/22DTgDpU40DVijro8GQhGT) | 3:30 |
 | 45 | [La Nueva Ciudad](https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC) | [Balún](https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU) | [Prisma Tropical](https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU) | 4:53 |
 | 46 | [Cuando](https://open.spotify.com/track/7665iaCT1UHxhIR62sE0AJ) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Badtrip](https://open.spotify.com/album/1GRvgM1ftnBQdZCLEBhWop) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 49 | [TQD](https://open.spotify.com/track/2AQVo81C3slum4RinFZWkM) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:20 |
 | 50 | [Fluorescente](https://open.spotify.com/track/5jvq9Nn9CUnRckxHjCezzA) | [Nutopia](https://open.spotify.com/artist/7fbrvNFwDFw8qTdR0dDSfP) | [Huye](https://open.spotify.com/album/0PMFPm6A15sJGUbzS15SKD) | 4:07 |
 
-Snapshot ID: `MCxhZGZmZWU2NjYwNDA4MTAzZTU5MDYwMGQ1Nzg0Y2M4ZjljMWQ3ZmM2`
+Snapshot ID: `MCxhNTVjMzgzOTk0YWY5MDRlZDliYzk5YTM2YjkxNDU5Njc2MjJlOGEw`

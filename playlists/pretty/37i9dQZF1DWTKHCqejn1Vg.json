@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 28296,
+  "num_followers": 28335,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWVmZjMwMDcxODljZTJjMDMzZTFmMTEzMzcyYmQ0ZWFmZDNmZTJk",
+  "snapshot_id": "MCw1ODVhYzEyOTExNGQzYjFlYzc4NjM5ZDkwODYxMjExOTc4NTZmZmY0",
   "tracks": [
     {
       "added_at": "2023-10-16 07:48:52",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 171160,
-      "name": "For Us",
-      "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
-    },
-    {
-      "added_at": "2023-10-16 07:48:52",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
@@ -183,6 +167,22 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 171160,
+      "name": "For Us",
+      "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
+    },
+    {
+      "added_at": "2023-10-16 07:48:52",
+      "album": {
         "name": "HORIZON : THE MIXTAPE",
         "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
       },
@@ -195,22 +195,6 @@
       "duration_ms": 81101,
       "name": "OVERZONE",
       "url": "https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe"
-    },
-    {
-      "added_at": "2023-10-16 07:48:52",
-      "album": {
-        "name": "Flip",
-        "url": "https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 185893,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5"
     },
     {
       "added_at": "2023-10-16 07:48:52",
@@ -231,6 +215,22 @@
       "duration_ms": 211972,
       "name": "\ud480\uc5b4",
       "url": "https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa"
+    },
+    {
+      "added_at": "2023-10-16 07:48:52",
+      "album": {
+        "name": "Flip",
+        "url": "https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 185893,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5"
     },
     {
       "added_at": "2023-10-16 07:48:52",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4"
+    },
+    {
+      "added_at": "2023-10-16 07:48:52",
+      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -315,6 +331,22 @@
       "duration_ms": 205999,
       "name": "Infrared Camera",
       "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
+    },
+    {
+      "added_at": "2023-10-16 07:48:52",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 198949,
+      "name": "Dank",
+      "url": "https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4"
     },
     {
       "added_at": "2023-10-16 07:48:52",
@@ -339,34 +371,22 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
       "artists": [
         {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4"
-    },
-    {
-      "added_at": "2023-10-16 07:48:52",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
-      },
-      "artists": [
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
         }
       ],
-      "duration_ms": 198949,
-      "name": "Dank",
-      "url": "https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4"
+      "duration_ms": 217441,
+      "name": "AM PM (feat. Whee In) - Prod. Gray",
+      "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
     },
     {
       "added_at": "2023-10-16 07:48:52",
@@ -391,22 +411,18 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+        "name": "CHASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
       },
       "artists": [
         {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        },
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
         }
       ],
-      "duration_ms": 217441,
-      "name": "AM PM (feat. Whee In) - Prod. Gray",
-      "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
+      "duration_ms": 206053,
+      "name": "Chase",
+      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
     },
     {
       "added_at": "2023-10-16 07:48:52",
@@ -423,22 +439,6 @@
       "duration_ms": 198069,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/26vcAIAnkT3d7i9B8gtpTy"
-    },
-    {
-      "added_at": "2023-10-16 07:48:52",
-      "album": {
-        "name": "CHASE - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
-      },
-      "artists": [
-        {
-          "name": "MINHO",
-          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Chase",
-      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
     },
     {
       "added_at": "2023-10-16 07:48:52",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 224951,
-      "name": "2nd THOTS",
-      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
-    },
-    {
-      "added_at": "2023-10-16 07:48:52",
-      "album": {
         "name": "Neo Seoul",
         "url": "https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 195891,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc"
+    },
+    {
+      "added_at": "2023-10-16 07:48:52",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 224951,
+      "name": "2nd THOTS",
+      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
     },
     {
       "added_at": "2023-10-16 07:48:52",
@@ -619,6 +619,26 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Okasian",
+          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
+        }
+      ],
+      "duration_ms": 244153,
+      "name": "YOU KNOW",
+      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
+    },
+    {
+      "added_at": "2023-10-16 07:48:52",
+      "album": {
         "name": "FRAME",
         "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 178186,
       "name": "Rebound",
       "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
-    },
-    {
-      "added_at": "2023-10-16 07:48:52",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Okasian",
-          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
-        }
-      ],
-      "duration_ms": 244153,
-      "name": "YOU KNOW",
-      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
     },
     {
       "added_at": "2023-10-16 07:48:52",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
-        "name": "LOG",
-        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
-      },
-      "artists": [
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        }
-      ],
-      "duration_ms": 240904,
-      "name": "Future Love",
-      "url": "https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O"
-    },
-    {
-      "added_at": "2023-10-16 07:48:52",
-      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 243492,
       "name": "Turn Off Your Phone (Feat. ELO) - Remix",
       "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
+    },
+    {
+      "added_at": "2023-10-16 07:48:52",
+      "album": {
+        "name": "LOG",
+        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "duration_ms": 240904,
+      "name": "Future Love",
+      "url": "https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O"
     },
     {
       "added_at": "2023-10-16 07:48:52",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
-        "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
-        "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
-      },
-      "artists": [
-        {
-          "name": "Choco And Vanilla",
-          "url": "https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1"
-        }
-      ],
-      "duration_ms": 176997,
-      "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
-      "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
-    },
-    {
-      "added_at": "2023-10-16 07:48:52",
-      "album": {
         "name": "Evergray",
         "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 210466,
       "name": "Kurkdjian",
       "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
+    },
+    {
+      "added_at": "2023-10-16 07:48:52",
+      "album": {
+        "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
+        "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
+      },
+      "artists": [
+        {
+          "name": "Choco And Vanilla",
+          "url": "https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1"
+        }
+      ],
+      "duration_ms": 176997,
+      "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
+      "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
     },
     {
       "added_at": "2023-10-16 07:48:52",

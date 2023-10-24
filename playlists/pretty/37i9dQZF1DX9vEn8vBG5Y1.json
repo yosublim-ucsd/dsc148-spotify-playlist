@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
-  "num_followers": 165666,
+  "num_followers": 165797,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGUwNjBiNGFmNDk2M2YxNjFhODJjMjcwYjkwMTlmZGI4YTM4NGZh",
+  "snapshot_id": "MCw0MmEyMGY2M2M0NzE1ZWUzMGU0OGZjYjEwYmRiYTE3OWUwNTQyODY5",
   "tracks": [
     {
       "added_at": "2023-01-18 21:26:30",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Silver Side Up",
         "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 223840,
       "name": "How You Remind Me",
       "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Viva La Vida or Death and All His Friends",
         "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 307879,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Make Yourself",
         "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
@@ -315,22 +299,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Sk8er Boi",
-      "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Waking Up",
         "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
       },
@@ -343,6 +311,38 @@
       "duration_ms": 224693,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/1NhPKVLsHhFUHIOZ32QnS2"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 307879,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sk8er Boi",
+      "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Results May Vary",
-        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 269973,
-      "name": "Behind Blue Eyes",
-      "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Away From The Sun",
         "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 238733,
       "name": "Here Without You",
       "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 269973,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
+        "name": "The Best Damn Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
         "name": "Day & Age (Bonus Tracks)",
         "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 195493,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
-        "name": "The Best Damn Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 238173,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
         "name": "Dead Letters",
         "url": "https://open.spotify.com/album/1J9W7Fkg34vdOVa8gR7dx7"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 228800,
       "name": "Sing",
       "url": "https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "The Spirit Room",
-        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
       },
       "artists": [
         {
-          "name": "Michelle Branch",
-          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 214826,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7"
+      "duration_ms": 258920,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
+        "name": "The Spirit Room",
+        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
+      },
+      "artists": [
+        {
+          "name": "Michelle Branch",
+          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
         "name": "Hero (feat. Josey Scott)",
         "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 200480,
       "name": "Hero (feat. Josey Scott)",
       "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 258920,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
+        "name": "Just Enough Education To Perform",
+        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "Have A Nice Day",
+      "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
         "name": "The Script",
         "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
       },
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Just Enough Education To Perform",
-        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
+        "name": "Under The Iron Sea",
+        "url": "https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa"
       },
       "artists": [
         {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
         }
       ],
-      "duration_ms": 205066,
-      "name": "Have A Nice Day",
-      "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
+      "duration_ms": 240386,
+      "name": "Nothing In My Way",
+      "url": "https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Under The Iron Sea",
-        "url": "https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa"
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
       },
       "artists": [
         {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 240386,
-      "name": "Nothing In My Way",
-      "url": "https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79"
+      "duration_ms": 231466,
+      "name": "No Such Thing",
+      "url": "https://open.spotify.com/track/6Vecwo7AHst9V2CE3kmwr0"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1139,22 +1155,6 @@
       "duration_ms": 183400,
       "name": "I'm A Believer - Radio Edit",
       "url": "https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
-        "name": "Room For Squares",
-        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "No Such Thing",
-      "url": "https://open.spotify.com/track/6Vecwo7AHst9V2CE3kmwr0"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Little Wonders",
-        "url": "https://open.spotify.com/album/2P6X6guB0AiQGzRQaekJbN"
-      },
-      "artists": [
-        {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "Little Wonders",
-      "url": "https://open.spotify.com/track/6j6bTAiW0oEfLlAjmRNcbb"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "How To Dismantle An Atomic Bomb",
         "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 280813,
       "name": "Wonderful",
       "url": "https://open.spotify.com/track/0WHOPmOuQKuu05k4g3UTvk"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Little Wonders",
+        "url": "https://open.spotify.com/album/2P6X6guB0AiQGzRQaekJbN"
+      },
+      "artists": [
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        }
+      ],
+      "duration_ms": 224720,
+      "name": "Little Wonders",
+      "url": "https://open.spotify.com/track/6j6bTAiW0oEfLlAjmRNcbb"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "Stuck In A Moment You Can't Get Out Of",
+      "url": "https://open.spotify.com/track/3xjTuTBaihydhSC7ByNoSb"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
         "name": "Welcome Interstate Managers",
         "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 212506,
       "name": "Live Like We're Dying",
       "url": "https://open.spotify.com/track/1HfxPaJggVwFsvOtHbVzMz"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "Stuck In A Moment You Can't Get Out Of",
-      "url": "https://open.spotify.com/track/3xjTuTBaihydhSC7ByNoSb"
     },
     {
       "added_at": "2023-01-18 21:26:30",

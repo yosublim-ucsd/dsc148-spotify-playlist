@@ -2222,10 +2222,28 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 230892,
       "name": "Pouring Rain",
       "url": "https://open.spotify.com/track/0K3jpRVbFdOQNsaP0UTHBd"
+    },
+    {
+      "album": {
+        "name": "Minamo",
+        "url": "https://open.spotify.com/album/5PxpE5M4KNm4pl1EKbsCjc"
+      },
+      "artists": [
+        {
+          "name": "Shingo Mimura",
+          "url": "https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230892,
+      "name": "Pouring Rain",
+      "url": "https://open.spotify.com/track/29zSSZjSnRwuO7MqSMVgZh"
     },
     {
       "album": {

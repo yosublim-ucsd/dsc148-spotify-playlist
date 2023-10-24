@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: MilleniumKid, JBS",
-  "num_followers": 396798,
+  "num_followers": 396947,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjI1NDU3MGY2MjA4MzY3NzhiOTU4MjkxMTBhOWQ3NTc0OTY5ZDhm",
+  "snapshot_id": "MCw4M2UwYjIzYjA2YWQ1OGU2MTU1ZjkxODAyOTE4MjU4YjM5ZWMyYWM0",
   "tracks": [
     {
       "added_at": "2023-10-19 22:10:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-10-19 22:10:00",
       "album": {
-        "name": "Kein Bock",
-        "url": "https://open.spotify.com/album/343ldWBHF7KtOJgDg4JnEc"
-      },
-      "artists": [
-        {
-          "name": "Paula Carolina",
-          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
-        }
-      ],
-      "duration_ms": 164550,
-      "name": "Kein Bock",
-      "url": "https://open.spotify.com/track/3WjaL0f86f9rS3VYTC8x49"
-    },
-    {
-      "added_at": "2023-10-19 22:10:00",
-      "album": {
         "name": "tisch f\u00fcr zwei",
         "url": "https://open.spotify.com/album/5iBIHBdTsKFtxsxZYNRaQg"
       },
@@ -79,22 +63,6 @@
     {
       "added_at": "2023-10-19 22:10:00",
       "album": {
-        "name": "F*CK you",
-        "url": "https://open.spotify.com/album/2qvrRdgLyWmYEevD9FH7mH"
-      },
-      "artists": [
-        {
-          "name": "Dominik Hartz",
-          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "SOLANGE DAS NOCH GEHT",
-      "url": "https://open.spotify.com/track/0zDRwSwqTdKzFjq8L9VxgC"
-    },
-    {
-      "added_at": "2023-10-19 22:10:00",
-      "album": {
         "name": "Diese Eine",
         "url": "https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW"
       },
@@ -107,6 +75,22 @@
       "duration_ms": 138924,
       "name": "Diese Eine",
       "url": "https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp"
+    },
+    {
+      "added_at": "2023-10-19 22:10:00",
+      "album": {
+        "name": "Kein Bock",
+        "url": "https://open.spotify.com/album/343ldWBHF7KtOJgDg4JnEc"
+      },
+      "artists": [
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "duration_ms": 164550,
+      "name": "Kein Bock",
+      "url": "https://open.spotify.com/track/3WjaL0f86f9rS3VYTC8x49"
     },
     {
       "added_at": "2023-10-19 22:10:00",
@@ -131,6 +115,22 @@
     {
       "added_at": "2023-10-19 22:10:00",
       "album": {
+        "name": "F*CK you",
+        "url": "https://open.spotify.com/album/2qvrRdgLyWmYEevD9FH7mH"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "SOLANGE DAS NOCH GEHT",
+      "url": "https://open.spotify.com/track/0zDRwSwqTdKzFjq8L9VxgC"
+    },
+    {
+      "added_at": "2023-10-19 22:10:00",
+      "album": {
         "name": "schwarze SUVs",
         "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
       },
@@ -143,22 +143,6 @@
       "duration_ms": 169761,
       "name": "schwarze SUVs",
       "url": "https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi"
-    },
-    {
-      "added_at": "2023-10-19 22:10:00",
-      "album": {
-        "name": "aus meiner haut",
-        "url": "https://open.spotify.com/album/6h9M1nIcNDsRo62ozYGvUi"
-      },
-      "artists": [
-        {
-          "name": "Trille",
-          "url": "https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h"
-        }
-      ],
-      "duration_ms": 208212,
-      "name": "aus meiner haut",
-      "url": "https://open.spotify.com/track/6jox6CN7tl8zzbacsgGczq"
     },
     {
       "added_at": "2023-10-19 22:10:00",
@@ -191,6 +175,22 @@
       "duration_ms": 170051,
       "name": "Mensch",
       "url": "https://open.spotify.com/track/1lBMr23YxosiMyKhVeRIJB"
+    },
+    {
+      "added_at": "2023-10-19 22:10:00",
+      "album": {
+        "name": "aus meiner haut",
+        "url": "https://open.spotify.com/album/6h9M1nIcNDsRo62ozYGvUi"
+      },
+      "artists": [
+        {
+          "name": "Trille",
+          "url": "https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h"
+        }
+      ],
+      "duration_ms": 208212,
+      "name": "aus meiner haut",
+      "url": "https://open.spotify.com/track/6jox6CN7tl8zzbacsgGczq"
     },
     {
       "added_at": "2023-10-19 22:10:00",

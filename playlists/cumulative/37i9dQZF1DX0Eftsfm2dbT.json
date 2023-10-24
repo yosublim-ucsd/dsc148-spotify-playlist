@@ -1397,6 +1397,28 @@
     },
     {
       "album": {
+        "name": "HAHAHA",
+        "url": "https://open.spotify.com/album/7neXYQbGZraV3HIrKKP7jg"
+      },
+      "artists": [
+        {
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        },
+        {
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/25qmeRJcYUyBT19rjsNTyv"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "HAHAHA",
+      "url": "https://open.spotify.com/track/2g2RTLYybr4euVKkinEFrR"
+    },
+    {
+      "album": {
         "name": "HANEDA",
         "url": "https://open.spotify.com/album/0Msh8zd3ZgeOf7XIyFXRR9"
       },

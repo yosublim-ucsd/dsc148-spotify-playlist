@@ -1,12 +1,12 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1271600,
+  "num_followers": 1271685,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmZlOWY4MDA2MzE0YWQ4ODMyYTFlZTczYzM1NDFlNmI5OTg4MWIx",
+  "snapshot_id": "MCwzYTVmMTBlYTRmYTgwYTFmMGVjNzUwZWQ2YWM5MmQ5NjZmZGIwNDdi",
   "tracks": [
     {
       "added_at": "2023-10-18 14:00:00",
@@ -175,6 +175,26 @@
     {
       "added_at": "2023-10-18 14:00:00",
       "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+    },
+    {
+      "added_at": "2023-10-18 14:00:00",
+      "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
-    },
-    {
-      "added_at": "2023-10-18 14:00:00",
-      "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2023-10-18 14:00:00",
@@ -331,6 +331,30 @@
     {
       "added_at": "2023-10-18 14:00:00",
       "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9"
+    },
+    {
+      "added_at": "2023-10-18 14:00:00",
+      "album": {
         "name": "M\u00e4dchen auf dem Pferd",
         "url": "https://open.spotify.com/album/1nqgi8V3Ii96w1iofIcfcz"
       },
@@ -359,30 +383,6 @@
       "duration_ms": 157058,
       "name": "M\u00e4dchen auf dem Pferd",
       "url": "https://open.spotify.com/track/7AOJcugo17Kr1WUheSI6Oq"
-    },
-    {
-      "added_at": "2023-10-18 14:00:00",
-      "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
-        }
-      ],
-      "duration_ms": 191365,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9"
     },
     {
       "added_at": "2023-10-18 14:00:00",
@@ -967,42 +967,6 @@
     {
       "added_at": "2023-10-18 14:00:00",
       "album": {
-        "name": "MAXIMUM RIZZ",
-        "url": "https://open.spotify.com/album/6NB2r3HWlI3qKrVk69giA9"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "MAXIMUM RIZZ",
-      "url": "https://open.spotify.com/track/2f90oF6hNsvRd2T7pDgNht"
-    },
-    {
-      "added_at": "2023-10-18 14:00:00",
-      "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
-      },
-      "artists": [
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "t-low",
-          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
-        }
-      ],
-      "duration_ms": 152826,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
-    },
-    {
-      "added_at": "2023-10-18 14:00:00",
-      "album": {
         "name": "How I Fell in Love",
         "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
       },
@@ -1035,6 +999,42 @@
       "duration_ms": 148800,
       "name": "ONLY 4 LIFE - Remix",
       "url": "https://open.spotify.com/track/7jYwZOptDPesQgzj7vhsEF"
+    },
+    {
+      "added_at": "2023-10-18 14:00:00",
+      "album": {
+        "name": "MAXIMUM RIZZ",
+        "url": "https://open.spotify.com/album/6NB2r3HWlI3qKrVk69giA9"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "MAXIMUM RIZZ",
+      "url": "https://open.spotify.com/track/2f90oF6hNsvRd2T7pDgNht"
+    },
+    {
+      "added_at": "2023-10-18 14:00:00",
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "duration_ms": 152826,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
     }
   ],
   "unique_name": "Partyhymnen",

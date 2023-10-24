@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse hits van vroeger en nu\. Cover: Suzan & Freek en Claude
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,079 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,933 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 27 | [Waves](https://open.spotify.com/track/3s8GJ1A9ujxsKcLaJ2wY7Q) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Waves](https://open.spotify.com/album/5xHR6285R5JhrTwXIjtP8D) | 2:54 |
 | 28 | [Paracetamollen](https://open.spotify.com/track/0bSgNta3s0kIZkxuBI9PxR) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [FLEMMING](https://open.spotify.com/album/4a8kyvzqHaLx3UaasLOctt) | 2:51 |
 | 29 | [Als Je Voor Me Staat](https://open.spotify.com/track/2hAiXNgfYXyMmIB1KPRv7W) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als Je Voor Me Staat](https://open.spotify.com/album/3dd2TJiNinnH58uCo6etNP) | 3:20 |
-| 30 | [Arcade](https://open.spotify.com/track/2dDoOSCrKQCY95eY56Xs9R) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/3wzxiVGNefP0NRFjAhkVVo) | 3:16 |
+| 30 | [Arcade](https://open.spotify.com/track/06q5OfzaRccXcFU6L7PrWd) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Arcade](https://open.spotify.com/album/5p4dNjuAzVPPM61pt4KQhK) | 3:16 |
 | 31 | [Laat Me Los](https://open.spotify.com/track/3z9Kma9ewHSAemFewFrXoJ) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Laat Me Los](https://open.spotify.com/album/6WKHqQHd2NdizWkLSZ1sNm) | 3:58 |
 | 32 | [Rommel](https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Rommel](https://open.spotify.com/album/6iyEGMk28j3ZuiQxz5lvU5) | 3:16 |
 | 33 | [Klop Klop](https://open.spotify.com/track/5kje5TktuqtG1maJWoYLm5) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Engel](https://open.spotify.com/album/5gwLv2qTDq4zJB1fPlmJam) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Hallo](https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1) | 2:12 |
 | 100 | [Vroeger](https://open.spotify.com/track/4ZxRhotBmIcc1WUCdSJIQt) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Vroeger](https://open.spotify.com/album/2tKIKvy498Gp8pqsfYobV4) | 2:44 |
 
-Snapshot ID: `MCwzNzRlZDgxYjk4M2Y3NjAyNmVjMzFhMjhhZTY5Zjc5ZWU1ZGM2MGIw`
+Snapshot ID: `MCwzOTQ5MjFjM2MwNWVhMDBjN2Q1MTAwYWE3NmNiMmVkNWRkMTQ2ZGM5`

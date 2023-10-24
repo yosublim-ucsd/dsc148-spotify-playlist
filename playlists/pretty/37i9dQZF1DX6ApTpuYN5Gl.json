@@ -1,12 +1,12 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 55090,
+  "num_followers": 55228,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTRjM2UyOGQxYTJjZTUxMWVjMTViNjMxMGU5ZDBkZTA3ZGQ2NmU4",
+  "snapshot_id": "MCw5OWIxNWE1MmJlZTMxMjRkYjcxNWQ2M2MyOWU5Nzg0NjUxMGRmYjY4",
   "tracks": [
     {
       "added_at": "2023-10-13 10:31:11",
@@ -123,6 +123,30 @@
     {
       "added_at": "2023-10-13 10:31:11",
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3oVQAqfrzIg4S5pF74au4x"
+      },
+      "artists": [
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        },
+        {
+          "name": "Repiet",
+          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
+        },
+        {
+          "name": "Julia Kleijn",
+          "url": "https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj"
+    },
+    {
+      "added_at": "2023-10-13 10:31:11",
+      "album": {
         "name": "Kx5",
         "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
       },
@@ -147,30 +171,6 @@
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
-    },
-    {
-      "added_at": "2023-10-13 10:31:11",
-      "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/3oVQAqfrzIg4S5pF74au4x"
-      },
-      "artists": [
-        {
-          "name": "RSCL",
-          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
-        },
-        {
-          "name": "Repiet",
-          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
-        },
-        {
-          "name": "Julia Kleijn",
-          "url": "https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj"
     },
     {
       "added_at": "2023-10-13 10:31:11",

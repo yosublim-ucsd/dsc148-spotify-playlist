@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 501229,
+  "num_followers": 501299,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTZjYTU1YTNlOGM3ZGM1ZWZjNjI3ZmY5YWU5MTMzZWU2YzQ0MDk0",
+  "snapshot_id": "MCw0ZGNkYzhlM2YzZWU1YjlkNTI2MmZkYWI2ZmUyZGE4MjNiYjUxMTBm",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258986,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 217212,
       "name": "Shallow - Radio Edit",
       "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Melancholic",
         "url": "https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 170830,
       "name": "Lay By Me",
       "url": "https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Suburb Hero",
-        "url": "https://open.spotify.com/album/0LuEYOydWvtw06yEO2x3O6"
-      },
-      "artists": [
-        {
-          "name": "Endre Nordvik",
-          "url": "https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb"
-        }
-      ],
-      "duration_ms": 227252,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/294dYnMUNXBv5oCbDV5Qxh"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak"
       },
@@ -1959,18 +1943,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Max Jury",
-        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
+        "name": "Suburb Hero",
+        "url": "https://open.spotify.com/album/0LuEYOydWvtw06yEO2x3O6"
       },
       "artists": [
         {
-          "name": "Max Jury",
-          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+          "name": "Endre Nordvik",
+          "url": "https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb"
         }
       ],
-      "duration_ms": 235936,
-      "name": "Great American Novel",
-      "url": "https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR"
+      "duration_ms": 227252,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/294dYnMUNXBv5oCbDV5Qxh"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1991,6 +1975,22 @@
       "duration_ms": 141757,
       "name": "Honey (with Muni Long)",
       "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Max Jury",
+        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
+      },
+      "artists": [
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        }
+      ],
+      "duration_ms": 235936,
+      "name": "Great American Novel",
+      "url": "https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2407,6 +2407,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Rebekah - EP",
+        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
+      },
+      "artists": [
+        {
+          "name": "Jack Vallier",
+          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
+        }
+      ],
+      "duration_ms": 200747,
+      "name": "Rebekah",
+      "url": "https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Lightyears",
         "url": "https://open.spotify.com/album/7cVQV3nQQebitwdDJMKmT9"
       },
@@ -2435,22 +2451,6 @@
       "duration_ms": 204333,
       "name": "If the Creek Don't Rise",
       "url": "https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Rebekah - EP",
-        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
-      },
-      "artists": [
-        {
-          "name": "Jack Vallier",
-          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
-        }
-      ],
-      "duration_ms": 200747,
-      "name": "Rebekah",
-      "url": "https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y"
     },
     {
       "added_at": "2023-02-10 11:00:00",

@@ -696,7 +696,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 169200,
       "name": "Barulhinho",
       "url": "https://open.spotify.com/track/6n3AlHpR08vRzmkqPLMnUo"
@@ -2128,7 +2128,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 160961,
       "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] - 2023 Version",
       "url": "https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP"
@@ -2830,6 +2830,24 @@
       "duration_ms": 161250,
       "name": "Meu Amor",
       "url": "https://open.spotify.com/track/4fSAzexU19fbxl8OzbyhXH"
+    },
+    {
+      "album": {
+        "name": "Mil Veces",
+        "url": "https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154023,
+      "name": "Mil Veces",
+      "url": "https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf"
     },
     {
       "album": {
@@ -3942,6 +3960,28 @@
       "duration_ms": 160904,
       "name": "Rainha da Favela",
       "url": "https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu"
+    },
+    {
+      "album": {
+        "name": "Ato 3: TODAMANH\u00c3",
+        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173653,
+      "name": "Raridade",
+      "url": "https://open.spotify.com/track/3u89ugK8QORSu1A7ZgpvV5"
     },
     {
       "album": {

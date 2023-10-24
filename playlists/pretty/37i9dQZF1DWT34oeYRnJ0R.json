@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Farruko, La Factoria & Eddy Lover. ",
-  "num_followers": 690266,
+  "num_followers": 690249,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTM2MzMyOWM2ZGY4MWUwZDhkY2MyNDVjNDUyNWMxYmYxMGYzZjUz",
+  "snapshot_id": "MCwzYmVlMGZmOTQyNjk5MGFmODMxOTRmNDE3NTE2Nzc1NzYwZmI3Mjkz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -459,26 +459,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 276904,
-      "name": "ME TENGO QUE IR",
-      "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "BEACHY",
         "url": "https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id"
       },
@@ -515,42 +495,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Otra Vibra",
-        "url": "https://open.spotify.com/album/0Dcd0VT52oXwUldW3jEaoS"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 207664,
-      "name": "Otra Vibra",
-      "url": "https://open.spotify.com/track/7aprD0hcQ0dr3efnJCrJI5"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "VENTE CONMIGO",
-        "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "VENTE CONMIGO",
-      "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
       },
@@ -571,6 +515,62 @@
       "duration_ms": 196701,
       "name": "11 Y ONCE",
       "url": "https://open.spotify.com/track/1YUTTfAThKaxEYP9Zfv21V"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "VENTE CONMIGO",
+        "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "VENTE CONMIGO",
+      "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Otra Vibra",
+        "url": "https://open.spotify.com/album/0Dcd0VT52oXwUldW3jEaoS"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 207664,
+      "name": "Otra Vibra",
+      "url": "https://open.spotify.com/track/7aprD0hcQ0dr3efnJCrJI5"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 276904,
+      "name": "ME TENGO QUE IR",
+      "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Pasa_je_ro",
-        "url": "https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 247280,
-      "name": "Pasa_je_ro",
-      "url": "https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Estoy Bien",
         "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 168000,
       "name": "Estoy Bien",
       "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Pasa_je_ro",
+        "url": "https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 247280,
+      "name": "Pasa_je_ro",
+      "url": "https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "El Mensaje",
+        "url": "https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "El Mensaje",
+      "url": "https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Lo Tengo",
         "url": "https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "El Mensaje",
-        "url": "https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "El Mensaje",
-      "url": "https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "S\u00edNTOMAS DE SOLTERA",
         "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 241908,
       "name": "S\u00edNTOMAS DE SOLTERA",
       "url": "https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Una Ni\u00f1a In\u00fatil",
+        "url": "https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1147,18 +1163,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Una Ni\u00f1a In\u00fatil",
-        "url": "https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc"
+        "name": "Sue\u00f1os de Dal\u00ed",
+        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
       },
       "artists": [
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
         }
       ],
-      "duration_ms": 189666,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T"
+      "duration_ms": 147561,
+      "name": "For Ya",
+      "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1195,22 +1211,6 @@
       "duration_ms": 203293,
       "name": "POKE FREESTYLE",
       "url": "https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Sue\u00f1os de Dal\u00ed",
-        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 147561,
-      "name": "For Ya",
-      "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1547,30 +1547,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/3OQ7OIIIWGjdHCBzZwDMbH"
-      },
-      "artists": [
-        {
-          "name": "IzyBeats",
-          "url": "https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 201091,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/7yjKBCdDFM6mrwxsOK5iYM"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Tu Fan\u00e1tico (Remix)",
         "url": "https://open.spotify.com/album/0bS2p0AQqpChH6HOhK5NzM"
       },
@@ -1591,6 +1567,30 @@
       "duration_ms": 214535,
       "name": "Tu Fan\u00e1tico - Remix",
       "url": "https://open.spotify.com/track/6yvWk1foReDykNoYd7n1Wc"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/3OQ7OIIIWGjdHCBzZwDMbH"
+      },
+      "artists": [
+        {
+          "name": "IzyBeats",
+          "url": "https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "duration_ms": 201091,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/7yjKBCdDFM6mrwxsOK5iYM"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Bubbaloo",
-        "url": "https://open.spotify.com/album/6Cx87wP7hYxP9NDYmVY5f4"
-      },
-      "artists": [
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        }
-      ],
-      "duration_ms": 192669,
-      "name": "Bubbaloo",
-      "url": "https://open.spotify.com/track/3HRk0M1NNFc1jDtfOTmG9N"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "THICK",
         "url": "https://open.spotify.com/album/7iFPYMnIrLl33MDiZwyb5o"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 139285,
       "name": "THICK",
       "url": "https://open.spotify.com/track/4b14BvhPrVDbbpICnw2P9L"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Bubbaloo",
+        "url": "https://open.spotify.com/album/6Cx87wP7hYxP9NDYmVY5f4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "duration_ms": 192669,
+      "name": "Bubbaloo",
+      "url": "https://open.spotify.com/track/3HRk0M1NNFc1jDtfOTmG9N"
     },
     {
       "added_at": "2023-10-06 04:00:00",

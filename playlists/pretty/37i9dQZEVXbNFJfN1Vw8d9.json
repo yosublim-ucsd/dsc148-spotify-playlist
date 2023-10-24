@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Spain.",
-  "num_followers": 1612185,
+  "num_followers": 1612434,
   "original_name": "Top 50 - Spain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUxMzM5MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUxNDI1NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "EVERYBODY GO TO THE DISCOTEK",
-        "url": "https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
@@ -41,7 +25,23 @@
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "EVERYBODY GO TO THE DISCOTEK",
+        "url": "https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
@@ -61,23 +61,7 @@
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "El Mambo",
-        "url": "https://open.spotify.com/album/4x4MeHDoVU7VRVJwrt4QRC"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rivera",
-          "url": "https://open.spotify.com/artist/0HSGpDMeXaEmH5aUIHjnBF"
-        }
-      ],
-      "duration_ms": 129845,
-      "name": "El Mambo",
-      "url": "https://open.spotify.com/track/51QmqegeWI2orK2mzDfnIH"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
@@ -93,7 +77,23 @@
       "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "El Mambo",
+        "url": "https://open.spotify.com/album/4x4MeHDoVU7VRVJwrt4QRC"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rivera",
+          "url": "https://open.spotify.com/artist/0HSGpDMeXaEmH5aUIHjnBF"
+        }
+      ],
+      "duration_ms": 129845,
+      "name": "El Mambo",
+      "url": "https://open.spotify.com/track/51QmqegeWI2orK2mzDfnIH"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "OA",
         "url": "https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
@@ -145,27 +145,7 @@
       "url": "https://open.spotify.com/track/4qSEvFGCpde73gqIuq3sho"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "Buenas",
-        "url": "https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 192954,
-      "name": "Buenas",
-      "url": "https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
@@ -185,7 +165,7 @@
       "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "Columbia",
         "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
@@ -201,7 +181,27 @@
       "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "Buenas",
+        "url": "https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 192954,
+      "name": "Buenas",
+      "url": "https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "PARA\u00cdSO",
         "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/559YUIWxUc8Mx4lsla13Ff"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/1YnChEM51BVZ5dRhbVFEMl"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "Milo J: Bzrp Music Sessions, Vol. 57",
         "url": "https://open.spotify.com/album/5NwbUP5QkkMndzwJp9kkxr"
@@ -277,59 +277,7 @@
       "url": "https://open.spotify.com/track/1iLbUmb2b2btyAAcQ68a1p"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 216327,
-      "name": "FINA",
-      "url": "https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "Holanda",
-        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Holanda",
-      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "Quien Es Dei V?",
-        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 162244,
-      "name": "Quien Es Dei V?",
-      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "POLARIS (Remix)",
         "url": "https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv"
@@ -357,7 +305,75 @@
       "url": "https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "Holanda",
+        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Holanda",
+      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 216327,
+      "name": "FINA",
+      "url": "https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "Quien Es Dei V?",
+        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 162244,
+      "name": "Quien Es Dei V?",
+      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "COSAS QUE NO TE DIJE",
+        "url": "https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 224725,
+      "name": "COSAS QUE NO TE DIJE",
+      "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "en dormir sin Madrid",
         "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
@@ -377,23 +393,7 @@
       "url": "https://open.spotify.com/track/4SW9gHnW8NfKOdqmh0ij45"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "COSAS QUE NO TE DIJE",
-        "url": "https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 224725,
-      "name": "COSAS QUE NO TE DIJE",
-      "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
@@ -413,51 +413,7 @@
       "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "GANGSTER (PQFNEDG)",
-        "url": "https://open.spotify.com/album/1q4RVq8faHbRP2v1OnoRxl"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 215470,
-      "name": "GANGSTER (PQFNEDG)",
-      "url": "https://open.spotify.com/track/3Yw6KJjm8ycybvl6UdW9dq"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 222461,
-      "name": "BABY HELLO",
-      "url": "https://open.spotify.com/track/21N77gfWYoQDvrLvaeiQgi"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
@@ -477,7 +433,43 @@
       "url": "https://open.spotify.com/track/4pcafPzLDSqQktqSpxHL3E"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 222461,
+      "name": "BABY HELLO",
+      "url": "https://open.spotify.com/track/21N77gfWYoQDvrLvaeiQgi"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "DILUVIO",
+      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "El Merengue",
         "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
@@ -497,23 +489,7 @@
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "DILUVIO",
-      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "STORM",
         "url": "https://open.spotify.com/album/2VUckgtfYcasl2SoiuT77x"
@@ -537,31 +513,31 @@
       "url": "https://open.spotify.com/track/3tPPP39TSamzLPOJomKALp"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
-        "name": "Dicelo",
-        "url": "https://open.spotify.com/album/65akUfK8vk8Nc4i6IM4igH"
+        "name": "No Estuviste En Lo Malo (REMIX)",
+        "url": "https://open.spotify.com/album/494i7ANNVzcAf94KtyW2X5"
       },
       "artists": [
         {
-          "name": "Lianet Rivero",
-          "url": "https://open.spotify.com/artist/3j8PyngjyNhnbOUlWX7Naf"
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         },
         {
-          "name": "Lia",
-          "url": "https://open.spotify.com/artist/3AWuifXTvl9lTa9lyjB94Z"
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
         },
         {
-          "name": "Gatillo",
-          "url": "https://open.spotify.com/artist/299LR5yQ0wDij37IEsG1LT"
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
         }
       ],
-      "duration_ms": 153563,
-      "name": "Dicelo",
-      "url": "https://open.spotify.com/track/5asyOj4gG21a2pKzqBIMOk"
+      "duration_ms": 268320,
+      "name": "No Estuviste En Lo Malo - REMIX",
+      "url": "https://open.spotify.com/track/5hyKw9bjqXCcIxAoDmAxMJ"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "A 300",
         "url": "https://open.spotify.com/album/4WgpsaQEIIujukgGqq5P7q"
@@ -581,7 +557,7 @@
       "url": "https://open.spotify.com/track/18W8cuvcub2B9NQzm5rZxf"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "Los del Espacio",
         "url": "https://open.spotify.com/album/6DVg3IJPFr7JZDDXYcyPbU"
@@ -625,31 +601,31 @@
       "url": "https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
-        "name": "VAGABUNDO",
-        "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
+        "name": "GANGSTER (PQFNEDG)",
+        "url": "https://open.spotify.com/album/1q4RVq8faHbRP2v1OnoRxl"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         },
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         },
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 215600,
-      "name": "VAGABUNDO",
-      "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
+      "duration_ms": 215470,
+      "name": "GANGSTER (PQFNEDG)",
+      "url": "https://open.spotify.com/track/3Yw6KJjm8ycybvl6UdW9dq"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "Arena y Sal",
         "url": "https://open.spotify.com/album/3HeNfmZG51mrV659AcvjPT"
@@ -673,31 +649,163 @@
       "url": "https://open.spotify.com/track/5iilNoD56jD3FJ3bM9tMP0"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
-        "name": "No Estuviste En Lo Malo (REMIX)",
-        "url": "https://open.spotify.com/album/494i7ANNVzcAf94KtyW2X5"
+        "name": "Dicelo",
+        "url": "https://open.spotify.com/album/65akUfK8vk8Nc4i6IM4igH"
       },
       "artists": [
         {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+          "name": "Lianet Rivero",
+          "url": "https://open.spotify.com/artist/3j8PyngjyNhnbOUlWX7Naf"
         },
         {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+          "name": "Lia",
+          "url": "https://open.spotify.com/artist/3AWuifXTvl9lTa9lyjB94Z"
         },
         {
-          "name": "DELLAFUENTE",
-          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+          "name": "Gatillo",
+          "url": "https://open.spotify.com/artist/299LR5yQ0wDij37IEsG1LT"
         }
       ],
-      "duration_ms": 268320,
-      "name": "No Estuviste En Lo Malo - REMIX",
-      "url": "https://open.spotify.com/track/5hyKw9bjqXCcIxAoDmAxMJ"
+      "duration_ms": 153563,
+      "name": "Dicelo",
+      "url": "https://open.spotify.com/track/5asyOj4gG21a2pKzqBIMOk"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "VAGABUNDO",
+        "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "VAGABUNDO",
+      "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "Antidepresivos",
+        "url": "https://open.spotify.com/album/2FhnW6RWMy7EV4rOUphZGT"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 145384,
+      "name": "Antidepresivos",
+      "url": "https://open.spotify.com/track/5NxgenNnK2EXDfzkO8oKqt"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "Narcotics (with Bryant Myers)",
+        "url": "https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 173991,
+      "name": "Narcotics (with Bryant Myers)",
+      "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 144427,
+      "name": "DONDE SE APRENDE A QUERER?",
+      "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 379058,
+      "name": "NADIE SABE",
+      "url": "https://open.spotify.com/track/23d8v6tU6lR77pFKsApMtF"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "El Cielo",
+        "url": "https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f"
+      },
+      "artists": [
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "El Cielo",
+      "url": "https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "LUCES DE TECNO",
+      "url": "https://open.spotify.com/track/0goXAEnjWhssHU0y9Zyqyf"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "Coraz\u00f3n Roto pt. 3",
         "url": "https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u"
@@ -729,99 +837,7 @@
       "url": "https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "MOR, No Le Temas a La Oscuridad",
-        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "LUCES DE TECNO",
-      "url": "https://open.spotify.com/track/0goXAEnjWhssHU0y9Zyqyf"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "Narcotics (with Bryant Myers)",
-        "url": "https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 173991,
-      "name": "Narcotics (with Bryant Myers)",
-      "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "El Cielo",
-        "url": "https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f"
-      },
-      "artists": [
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "El Cielo",
-      "url": "https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "Antidepresivos",
-        "url": "https://open.spotify.com/album/2FhnW6RWMy7EV4rOUphZGT"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 145384,
-      "name": "Antidepresivos",
-      "url": "https://open.spotify.com/track/5NxgenNnK2EXDfzkO8oKqt"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 379058,
-      "name": "NADIE SABE",
-      "url": "https://open.spotify.com/track/23d8v6tU6lR77pFKsApMtF"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
@@ -837,7 +853,7 @@
       "url": "https://open.spotify.com/track/5ixdmTpCmH5diBA1j154wN"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
@@ -857,7 +873,7 @@
       "url": "https://open.spotify.com/track/01ppKlDRCmPpusO3yNrSRY"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
@@ -873,23 +889,7 @@
       "url": "https://open.spotify.com/track/3NhstUmrlhaN1M6hP8zMbb"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "ESTRELLA",
-        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 144427,
-      "name": "DONDE SE APRENDE A QUERER?",
-      "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "LES DERNI\u00c8RES VOLONT\u00c9S DE MOZART (SYMPHONY)",
         "url": "https://open.spotify.com/album/3zIRFFMBelYsHN0ksstyWU"
@@ -913,87 +913,7 @@
       "url": "https://open.spotify.com/track/6JI15EdgbGuhUjm4tWyIco"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 231704,
-      "name": "WHERE SHE GOES",
-      "url": "https://open.spotify.com/track/2sTDlCxmuZCTDKKk9f1qus"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 199850,
-      "name": "Eva Longoria",
-      "url": "https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
-      "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 265999,
-      "name": "COLMILLO",
-      "url": "https://open.spotify.com/track/15U5RHzuLMPNFThQqfKL0U"
-    },
-    {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
         "name": "Rara Vez",
         "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
@@ -1013,24 +933,92 @@
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
     },
     {
-      "added_at": "2023-10-22 09:00:41",
+      "added_at": "2023-10-23 08:48:28",
       "album": {
-        "name": "DE PLASTILINA",
-        "url": "https://open.spotify.com/album/0PoBB1ZYvloZYblyrAIWYa"
+        "name": "2000",
+        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Pepe y Vizio",
-          "url": "https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 209533,
-      "name": "DE PLASTILINA",
-      "url": "https://open.spotify.com/track/6oA2XNlyXtGl0y49bdwIoI"
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 231704,
+      "name": "WHERE SHE GOES",
+      "url": "https://open.spotify.com/track/2sTDlCxmuZCTDKKk9f1qus"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 199850,
+      "name": "Eva Longoria",
+      "url": "https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF"
+    },
+    {
+      "added_at": "2023-10-23 08:48:28",
+      "album": {
+        "name": "NASTU",
+        "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Mi Luz (ft. Rels B)",
+      "url": "https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq"
     }
   ],
   "unique_name": "Top 50 - Spain",

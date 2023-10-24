@@ -624,7 +624,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 164671,
       "name": "Buffet",
       "url": "https://open.spotify.com/track/2B7QcLIE1VlnVwIeCGzR7V"
@@ -1471,6 +1471,28 @@
     },
     {
       "album": {
+        "name": "Diles",
+        "url": "https://open.spotify.com/album/2LWDpyZcSAbCHCUnCqspOQ"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00fa",
+          "url": "https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203768,
+      "name": "Diles",
+      "url": "https://open.spotify.com/track/6V1lDPAv04ezqfgl58Hb58"
+    },
+    {
+      "album": {
         "name": "Disfrut\u00e1rmela",
         "url": "https://open.spotify.com/album/4UsJPeGA3HUCRCeWWHGqCL"
       },
@@ -1696,6 +1718,28 @@
       "duration_ms": 189918,
       "name": "D\u00e9jalo En Visto",
       "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
+    },
+    {
+      "album": {
+        "name": "El Correcto",
+        "url": "https://open.spotify.com/album/1mM3IeOAt840NlJXVNWUWH"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168124,
+      "name": "El Correcto",
+      "url": "https://open.spotify.com/track/4tYgQrGwhpvjfq4ryajgUo"
     },
     {
       "album": {
@@ -2792,6 +2836,24 @@
       "duration_ms": 189838,
       "name": "La Vida Es Una (From Puss in Boots: The Last Wish)",
       "url": "https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz"
+    },
+    {
+      "album": {
+        "name": "lady madrizZz",
+        "url": "https://open.spotify.com/album/3RtVlBAyuXHZ66TNukWRMS"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131020,
+      "name": "lady madrizZz",
+      "url": "https://open.spotify.com/track/3CqTTiYyJRJNmuxZcww8BP"
     },
     {
       "album": {
@@ -4012,7 +4074,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 171440,
       "name": "Nunca Volver\u00e1s",
       "url": "https://open.spotify.com/track/1b9sYsa4aFiBv7mqOKvwsM"
@@ -4282,6 +4344,24 @@
       "duration_ms": 159272,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/1iNJJ72vb58cVLX5Wkbpwv"
+    },
+    {
+      "album": {
+        "name": "Pirata",
+        "url": "https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf"
+      },
+      "artists": [
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193626,
+      "name": "Pirata",
+      "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
     },
     {
       "album": {
@@ -4940,7 +5020,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 220881,
       "name": "Si Supieran",
       "url": "https://open.spotify.com/track/0wpMKiXORO28u3C439Qj5C"

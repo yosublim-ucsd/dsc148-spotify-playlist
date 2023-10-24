@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: Landon Barker",
-  "num_followers": 125440,
+  "num_followers": 125533,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzU4ZWEzMmZkMGNiYTQ5NDgyNzY5Yzg0NTQzMjU1OTA0MmNhZjc1",
+  "snapshot_id": "MCxmMGRkMGI4MjU4Zjk5Zjk5NDE2YjY5NTA3ZTVkYjBkZTdiMjQ5YjQ3",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -159,42 +159,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 154516,
-      "name": "love is embarrassing",
-      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "ALL CAPS (feat. John the Ghost)",
-        "url": "https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C"
-      },
-      "artists": [
-        {
-          "name": "Weathers",
-          "url": "https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5"
-        },
-        {
-          "name": "John the Ghost",
-          "url": "https://open.spotify.com/artist/6fYqX8n6gG3FNbSufuvj3E"
-        }
-      ],
-      "duration_ms": 184910,
-      "name": "ALL CAPS (feat. John the Ghost)",
-      "url": "https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Mercury - Acts 1 & 2",
         "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
       },
@@ -219,6 +183,42 @@
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "ALL CAPS (feat. John the Ghost)",
+        "url": "https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C"
+      },
+      "artists": [
+        {
+          "name": "Weathers",
+          "url": "https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5"
+        },
+        {
+          "name": "John the Ghost",
+          "url": "https://open.spotify.com/artist/6fYqX8n6gG3FNbSufuvj3E"
+        }
+      ],
+      "duration_ms": 184910,
+      "name": "ALL CAPS (feat. John the Ghost)",
+      "url": "https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 154516,
+      "name": "love is embarrassing",
+      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "THE LONELIEST",
-        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 247067,
-      "name": "THE LONELIEST",
-      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Sharks",
+        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 190883,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 206772,
       "name": "she's all i wanna be",
       "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Sharks",
-        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 190883,
-      "name": "Sharks",
-      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -655,38 +655,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Heart Attack (Rock Version)",
-        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 239011,
-      "name": "Heart Attack - Rock Version",
-      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "5SOS5",
-        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 206361,
-      "name": "COMPLETE MESS",
-      "url": "https://open.spotify.com/track/48kpWTPYYy5Edp3CHwrrOj"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Love and Other Lies",
         "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
       },
@@ -699,6 +667,22 @@
       "duration_ms": 143500,
       "name": "Dress",
       "url": "https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Heart Attack (Rock Version)",
+        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 239011,
+      "name": "Heart Attack - Rock Version",
+      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -731,6 +715,22 @@
       "duration_ms": 262623,
       "name": "I'm In Love With You",
       "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 206361,
+      "name": "COMPLETE MESS",
+      "url": "https://open.spotify.com/track/48kpWTPYYy5Edp3CHwrrOj"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "GO GO GO",
-        "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 145893,
-      "name": "GO GO GO",
-      "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "I\u2019m a Mess (with YUNGBLUD)",
         "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "GO GO GO",
+        "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 145893,
+      "name": "GO GO GO",
+      "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Symphony (Inner City Youth Orchestra of Los Angeles Version)",
         "url": "https://open.spotify.com/album/2fGxoIq6W6i4p9cavzwWP4"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 163027,
-      "name": "29",
-      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 213024,
       "name": "Anything But Me",
       "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 163027,
+      "name": "29",
+      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
+      },
+      "artists": [
+        {
+          "name": "Bohnes",
+          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
+        }
+      ],
+      "duration_ms": 207177,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 163321,
       "name": "Bois Lie (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
-      },
-      "artists": [
-        {
-          "name": "Bohnes",
-          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
-        }
-      ],
-      "duration_ms": 207177,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
       },
@@ -1259,22 +1243,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Year 3000 2.0",
-        "url": "https://open.spotify.com/album/5Ofq6KPqN8XUK5gaOSB5WC"
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
       },
       "artists": [
         {
-          "name": "Busted",
-          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
         }
       ],
-      "duration_ms": 197387,
-      "name": "Year 3000 2.0",
-      "url": "https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs"
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1323,6 +1303,26 @@
       "duration_ms": 136387,
       "name": "BANG BANG!",
       "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Year 3000 2.0",
+        "url": "https://open.spotify.com/album/5Ofq6KPqN8XUK5gaOSB5WC"
+      },
+      "artists": [
+        {
+          "name": "Busted",
+          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 197387,
+      "name": "Year 3000 2.0",
+      "url": "https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "FREAK (Feat. jxdn)",
-        "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
-      },
-      "artists": [
-        {
-          "name": "Beauty School Dropout",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        },
-        {
-          "name": "Jaden Hossler",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 149142,
-      "name": "FREAK",
-      "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/0aJexlAjIMTzRARD3KifWc"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 395785,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/43YC4iYmSsYueViJR4dBGA"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "FREAK (Feat. jxdn)",
+        "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
+      },
+      "artists": [
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        },
+        {
+          "name": "Jaden Hossler",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 149142,
+      "name": "FREAK",
+      "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 204642,
-      "name": "the idea",
-      "url": "https://open.spotify.com/track/5DUgpa3TrMXqUy5lvV5XT2"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "MASOCHIST",
         "url": "https://open.spotify.com/album/2NM15uX3nFGvD6nnJUCuPK"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 164800,
       "name": "MASOCHIST",
       "url": "https://open.spotify.com/track/1fDGlJAUBDeCgWYqhna9jN"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 204642,
+      "name": "the idea",
+      "url": "https://open.spotify.com/track/5DUgpa3TrMXqUy5lvV5XT2"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Piggie",
+        "url": "https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "duration_ms": 178789,
+      "name": "Piggie",
+      "url": "https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "I Love You, I\u2019m Trying",
         "url": "https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 182792,
       "name": "dead inside",
       "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Piggie",
-        "url": "https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Bean",
-          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
-        }
-      ],
-      "duration_ms": 178789,
-      "name": "Piggie",
-      "url": "https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "butterflies (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6vrh5MHwmmqW4WYZr4wWfg"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 136200,
-      "name": "butterflies (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/0awsZaKWdHDpbayAdfYY0p"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "God Save The Teen",
         "url": "https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 113494,
       "name": "Purity",
       "url": "https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "butterflies (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6vrh5MHwmmqW4WYZr4wWfg"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 136200,
+      "name": "butterflies (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/0awsZaKWdHDpbayAdfYY0p"
     },
     {
       "added_at": "2023-10-06 04:00:00",

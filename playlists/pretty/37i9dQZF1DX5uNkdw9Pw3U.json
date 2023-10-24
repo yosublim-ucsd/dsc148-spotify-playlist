@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 84889,
+  "num_followers": 85361,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWYyNzVjMmVlZmRkM2JkYjJiYTM3YTQ4ODk3OTdlMWM0Nzg0MjJk",
+  "snapshot_id": "MCw1YzYwOWNmMmNlMjgzYWI0YjM2MzNlNThjOTUzM2JmYWQwZjIyOGE3",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 155298,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 315598,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/3SkKLZFgKIY0DKX5Vro5jV"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 155298,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 312360,
-      "name": "Heart Don't Stand a Chance",
-      "url": "https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Fair",
         "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 184012,
       "name": "Fair",
       "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 312360,
+      "name": "Heart Don't Stand a Chance",
+      "url": "https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -619,26 +619,6 @@
       "duration_ms": 182858,
       "name": "Ur Best Friend (with Kehlani)",
       "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
-        }
-      ],
-      "duration_ms": 266812,
-      "name": "Come Home (feat. Andr\u00e9 3000)",
-      "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -735,6 +715,26 @@
       "duration_ms": 210279,
       "name": "Time",
       "url": "https://open.spotify.com/track/05v5mPkLAOoa7M5tnXXOwq"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 266812,
+      "name": "Come Home (feat. Andr\u00e9 3000)",
+      "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "killer",
-        "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 176876,
-      "name": "killer",
-      "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Angles (feat. JME)",
         "url": "https://open.spotify.com/album/5FlTltS0elrbjIOCR4eRNn"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 183083,
       "name": "Angles (feat. JME)",
       "url": "https://open.spotify.com/track/2xcinH0acfCEZhflJuokip"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "killer",
+        "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 176876,
+      "name": "killer",
+      "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Fall into place",
-        "url": "https://open.spotify.com/album/6H9LrowBd43bph6WF3NKxo"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 168576,
-      "name": "Fall into place",
-      "url": "https://open.spotify.com/track/0f6kT8WozcmtkenxnhDbp6"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Chasing Summer",
         "url": "https://open.spotify.com/album/7yd9HHhG8MvhJ1ksT3InDF"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 216560,
       "name": "So Bad (feat. HAIM)",
       "url": "https://open.spotify.com/track/2qre5YuCk0fuKw0Z60E28W"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Fall into place",
+        "url": "https://open.spotify.com/album/6H9LrowBd43bph6WF3NKxo"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "duration_ms": 168576,
+      "name": "Fall into place",
+      "url": "https://open.spotify.com/track/0f6kT8WozcmtkenxnhDbp6"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Love Me Like (feat. DUCKWRTH)",
+        "url": "https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I"
+      },
+      "artists": [
+        {
+          "name": "Rayana Jay",
+          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Love Me Like (feat. DUCKWRTH)",
+      "url": "https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "like you",
         "url": "https://open.spotify.com/album/3jZELme7kRzqvSqvgrMvYo"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 194831,
       "name": "like you",
       "url": "https://open.spotify.com/track/6MJdkuJ54q02WKe1Bz6oNE"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Love Me Like (feat. DUCKWRTH)",
-        "url": "https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I"
-      },
-      "artists": [
-        {
-          "name": "Rayana Jay",
-          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Love Me Like (feat. DUCKWRTH)",
-      "url": "https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l"
-      },
-      "artists": [
-        {
-          "name": "TORA",
-          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
-        }
-      ],
-      "duration_ms": 159267,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Sweet Insomnia",
         "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 216837,
       "name": "Sleep On It",
       "url": "https://open.spotify.com/track/09upHR7ZIeltejXCof4B8u"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l"
+      },
+      "artists": [
+        {
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+        }
+      ],
+      "duration_ms": 159267,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6"
     },
     {
       "added_at": "2023-10-19 22:00:00",

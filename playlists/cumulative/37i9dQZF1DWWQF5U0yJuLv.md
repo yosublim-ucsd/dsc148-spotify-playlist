@@ -4,7 +4,7 @@
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-154 songs - 11 hr 29 min
+155 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Body Control](https://open.spotify.com/track/2p7F1Vq0oW7B5RKk50RuHC) | [Lauren Flax](https://open.spotify.com/artist/1LUYSrytHIC78JbMgFBIG7) | [Out of Reality EP](https://open.spotify.com/album/7cmS4iTUYbnBXngtlq2br7) | 6:42 | 2023-02-17 |  |
 | [Body Control](https://open.spotify.com/track/761ln8LuN4gus7oR2EGN7K) | [Lauren Flax](https://open.spotify.com/artist/1LUYSrytHIC78JbMgFBIG7) | [Body Control](https://open.spotify.com/album/7ivvUoNWI6OjpfQfjm1gYi) | 6:42 | 2023-02-17 | 2023-10-18 |
 | [Brace Yourself Jason](https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Lunatic Harness](https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX) | 6:22 | 2023-02-17 |  |
-| [Bubbles](https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8) | [Szymon Burnos](https://open.spotify.com/artist/0Bgh2Zr1hP7POdosvZmcJu) | [Bubbles](https://open.spotify.com/album/1lmV7sSifPK2VXyumvrNEb) | 4:26 | 2023-03-29 |  |
+| [Bubbles](https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8) | [Szymon Burnos](https://open.spotify.com/artist/0Bgh2Zr1hP7POdosvZmcJu) | [Bubbles](https://open.spotify.com/album/1lmV7sSifPK2VXyumvrNEb) | 4:26 | 2023-03-29 | 2023-10-24 |
 | [Cat Friend](https://open.spotify.com/track/5KqCoQucFcqcUCzpA2MveP) | [Burēku](https://open.spotify.com/artist/4ZROS5RylFIQnzi4SRTHVH) | [First Lesson](https://open.spotify.com/album/40nSeTMuFMiMHvwIwncgQG) | 2:15 | 2023-02-17 |  |
 | [Cathart](https://open.spotify.com/track/27F81Z0W6wfUdKH0u7f3iX) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Lucky Cat](https://open.spotify.com/album/3ctNSs8cZLgDfDVmQvdgM8) | 5:12 | 2023-02-17 |  |
 | [Changing Tides](https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW) | [Hypernatural](https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER) | [Hypernatural](https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO) | 4:19 | 2023-02-17 |  |
@@ -146,6 +146,7 @@
 | [Theory of Colours](https://open.spotify.com/track/7nT24kprAb4l7tI5FSd9zU) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Theory of Colours](https://open.spotify.com/album/6oIrL0YBYT6T6tXVF3LBVY) | 5:27 | 2023-02-17 |  |
 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 | 2023-05-09 |  |
 | [to all the plants i loved](https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX) | [s e r é n a t e](https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq) | [caso de estudio](https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp) | 3:45 | 2023-02-17 |  |
+| [Together](https://open.spotify.com/track/2u7rfC0PO6XdUBIjS1giEB) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza) | [William Shatner Has Been](https://open.spotify.com/album/53CfmaDFzVoFdPcU5SjjmB) | 5:39 | 2023-02-17 |  |
 | [Tommy](https://open.spotify.com/track/1C8rpSZ77xf4lbFnl0Tunc) | [Jack Sapienza](https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K) | [Tommy](https://open.spotify.com/album/7MvAvnrcS8LfjuGWddaodU) | 3:40 | 2023-02-17 |  |
 | [Too Far](https://open.spotify.com/track/4bXwtTkkedf9RHndi65kcC) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Too Far](https://open.spotify.com/album/4cGbgxMQWj4KD99pLSVfdF) | 4:26 | 2023-02-17 |  |
 | [Treat Em Right \- Boards of Canada Remix Instrumental](https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG) | [Nevermen](https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq), [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Treat Em Right \(Boards Of Canada Remix\)](https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm) | 4:29 | 2023-02-17 |  |

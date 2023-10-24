@@ -1,12 +1,12 @@
 {
   "description": "Easy listening pop that feels sunny wherever you are ",
-  "num_followers": 646680,
+  "num_followers": 646844,
   "original_name": "Sunny Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDkwYjYyZWY3MmJkNTNmZTRkY2VmNDMwNDJhMDI2NTVlZGE4YWM4",
+  "snapshot_id": "MCw2OWRhZWRiZjNlZjE5YjY3NjFhOGZhYzEwN2Y0NDc2YTMyZjdhOTA1",
   "tracks": [
     {
       "added_at": "2023-08-14 22:06:40",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-08-14 22:06:40",
       "album": {
-        "name": "Don't Kill the Magic",
-        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
-    },
-    {
-      "added_at": "2023-08-14 22:06:40",
-      "album": {
         "name": "So Tonight That I Might See",
         "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 295600,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
+    },
+    {
+      "added_at": "2023-08-14 22:06:40",
+      "album": {
+        "name": "Don't Kill the Magic",
+        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
     },
     {
       "added_at": "2023-08-14 22:06:40",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-08-14 22:06:40",
       "album": {
+        "name": "California 37",
+        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
+    },
+    {
+      "added_at": "2023-08-14 22:06:40",
+      "album": {
         "name": "Maybe You've Been Brainwashed Too",
         "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2023-08-14 22:06:40",
       "album": {
-        "name": "California 37",
-        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Drive By",
-      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
-    },
-    {
-      "added_at": "2023-08-14 22:06:40",
-      "album": {
         "name": "Blind Melon",
         "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-08-14 22:06:40",
       "album": {
-        "name": "Cars (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 275640,
-      "name": "Life is a Highway",
-      "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
-    },
-    {
-      "added_at": "2023-08-14 22:06:40",
-      "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 244880,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy"
+    },
+    {
+      "added_at": "2023-08-14 22:06:40",
+      "album": {
+        "name": "Cars (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 275640,
+      "name": "Life is a Highway",
+      "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
     },
     {
       "added_at": "2023-08-14 22:06:40",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-08-14 22:06:40",
       "album": {
-        "name": "Room For Squares",
-        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Your Body Is a Wonderland",
-      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
-    },
-    {
-      "added_at": "2023-08-14 22:06:40",
-      "album": {
         "name": "Little Voice",
         "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 258826,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
+    },
+    {
+      "added_at": "2023-08-14 22:06:40",
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
     },
     {
       "added_at": "2023-08-14 22:06:40",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-08-14 22:06:40",
       "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2023-08-14 22:06:40",
-      "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 198226,
       "name": "Come Away With Me",
       "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
+    },
+    {
+      "added_at": "2023-08-14 22:06:40",
+      "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     },
     {
       "added_at": "2023-08-14 22:06:40",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-08-14 22:06:40",
       "album": {
+        "name": "Mystery Girl",
+        "url": "https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/6r20M5DWYdIoCDmDViBxuz"
+    },
+    {
+      "added_at": "2023-08-14 22:06:40",
+      "album": {
         "name": "Cover Me In Sunshine",
         "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 141050,
       "name": "Cover Me In Sunshine",
       "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
-    },
-    {
-      "added_at": "2023-08-14 22:06:40",
-      "album": {
-        "name": "Mystery Girl",
-        "url": "https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "You Got It",
-      "url": "https://open.spotify.com/track/6r20M5DWYdIoCDmDViBxuz"
     },
     {
       "added_at": "2023-08-14 22:06:40",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-08-14 22:06:40",
       "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj"
+    },
+    {
+      "added_at": "2023-08-14 22:06:40",
+      "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2023-08-14 22:06:40",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "The Corrs",
+          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
         }
       ],
-      "duration_ms": 154800,
-      "name": "Turn Me On",
-      "url": "https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj"
+      "duration_ms": 207506,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
     },
     {
       "added_at": "2023-08-14 22:06:40",
@@ -1159,22 +1175,6 @@
       "duration_ms": 236266,
       "name": "Over My Head (Cable Car)",
       "url": "https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP"
-    },
-    {
-      "added_at": "2023-08-14 22:06:40",
-      "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
-      },
-      "artists": [
-        {
-          "name": "The Corrs",
-          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
-        }
-      ],
-      "duration_ms": 207506,
-      "name": "Breathless",
-      "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
     },
     {
       "added_at": "2023-08-14 22:06:40",

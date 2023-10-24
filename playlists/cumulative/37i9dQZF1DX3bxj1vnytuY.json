@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 521940,
       "name": "Farsi",
       "url": "https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi"
@@ -4684,6 +4684,24 @@
       "duration_ms": 328000,
       "name": "Waves & Wavs",
       "url": "https://open.spotify.com/track/5HRWhU6V48zxJqkh99DJQv"
+    },
+    {
+      "album": {
+        "name": "Wemilere",
+        "url": "https://open.spotify.com/album/3Xjx3s7w4KFIpCBI1c0kId"
+      },
+      "artists": [
+        {
+          "name": "Da Le (Havana)",
+          "url": "https://open.spotify.com/artist/0Ls9PL0afEyfXXY1XDdQP2"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209042,
+      "name": "Wemilere",
+      "url": "https://open.spotify.com/track/4LTUd0vpDURYoaPvHX9aly"
     },
     {
       "album": {

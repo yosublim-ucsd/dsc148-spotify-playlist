@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Chris Brown
 
-1,658 songs - 3 day 16 hr 11 min
+1,660 songs - 3 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,6 +627,7 @@
 | [Hi \[Feat\. India.Arie\]](https://open.spotify.com/track/2ISm6JJf3BUaYYH54Z2UR7) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Black Radio III \(Supreme Edition\)](https://open.spotify.com/album/0koSNz785od22spE0DlKO7) | 2:24 | 2022-10-14 | 2022-10-29 |
 | [Higher Self](https://open.spotify.com/track/2KcaOSZlR03H41Nhmg2QyH) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Higher Self](https://open.spotify.com/album/1MQEYp0fugw64pyAodgnxe) | 4:01 | 2023-10-20 |  |
 | [History](https://open.spotify.com/track/2f4KlAKeZ2lLBPuPZrPSMN) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [History](https://open.spotify.com/album/5T7IP0zL9cUDs7N0wLzMgx) | 3:24 | 2023-06-09 | 2023-07-08 |
+| [Hit You Right Back](https://open.spotify.com/track/2w3cXSJF6vRvYtBHUTitUR) | [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Hit You Right Back](https://open.spotify.com/album/0W181TOZ1CJZqSW5qaZfrg) | 3:38 | 2023-10-23 |  |
 | [Hold My Hand](https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [Hold My Hand](https://open.spotify.com/album/3517UY5CoDP3OQBa5QmsyP) | 3:32 | 2023-06-09 | 2023-07-22 |
 | [HOLLOW.](https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Maureen Boyer](https://open.spotify.com/artist/2QwZNsarQSosx1QCFE0pYr), [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [Solèy](https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r) | 4:44 | 2022-02-25 | 2022-04-02 |
 | [Homicide \(with Jessie Reyez\)](https://open.spotify.com/track/2vVUevSgxbWBub5zW7rQPO) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Homicide](https://open.spotify.com/album/5MEbCYZLR7HGbZP45NrhrW) | 3:01 | 2023-09-29 |  |
@@ -813,6 +814,7 @@
 | [Level Remix](https://open.spotify.com/track/4b8wvyeJqEEzuVkXmwkB8k) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Spotify Singles](https://open.spotify.com/album/0cG8Sv80ABlYVGf20D0AAf) | 4:15 | 2023-08-04 | 2023-09-30 |
 | [Leveled](https://open.spotify.com/track/5sgC12av64mTU25aZSL64J) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Wanderlust](https://open.spotify.com/album/4srecdfVYmg9qp7cIGFj0Z) | 5:53 | 2022-09-23 | 2022-11-05 |
 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 | 2022-04-29 | 2022-07-02 |
+| [LIE LIE LIE!](https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [LIE LIE LIE!](https://open.spotify.com/album/2NnP52zmXOENLm19DojzmS) | 2:28 | 2023-10-23 |  |
 | [Lie Like That](https://open.spotify.com/track/6NaMQFeEI19WkQET5hZE0y) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [Lie Like That](https://open.spotify.com/album/5hNZHSZQx91zgMtxYnVp7N) | 2:47 | 2023-02-10 | 2023-04-01 |
 | [Lie To Me](https://open.spotify.com/track/7tvheBdRDxyvGXdyZ1Vxwu) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Lie To Me](https://open.spotify.com/album/0FYGDIAjxej8QVilUlN5Aw) | 2:08 | 2023-10-13 |  |
 | [Lie To Me](https://open.spotify.com/track/2jnKTP2gpVFTSBEmJ9aCrj) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Lie To Me](https://open.spotify.com/album/09D2NiluDpc2HOWgppKiNV) | 2:48 | 2023-03-17 | 2023-05-20 |

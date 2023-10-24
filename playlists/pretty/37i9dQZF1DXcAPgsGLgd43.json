@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3555,
+  "num_followers": 3557,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODEzZTdiMDMzZThkNjI4MmMxZGYyZTNkNjJmNWE3YjUxODY4ODZh",
+  "snapshot_id": "MCw5MjZhMzQ5MDk0NTlmZTRiZGE1YTc5NDhlYTk3M2NjYWZhNjgyMTQ5",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -519,6 +519,26 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Bailar Riddim",
+        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Bailar Riddim",
+      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Jaleo",
         "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
       },
@@ -539,22 +559,18 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Bailar Riddim",
-        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
+        "name": "Dirty Spanish",
+        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
       },
       "artists": [
         {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+          "name": "Sam Blans",
+          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Bailar Riddim",
-      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
+      "duration_ms": 274833,
+      "name": "Dirty Spanish",
+      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -623,22 +639,6 @@
       "duration_ms": 303240,
       "name": "Me Duele el Alma",
       "url": "https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Dirty Spanish",
-        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
-      },
-      "artists": [
-        {
-          "name": "Sam Blans",
-          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
-        }
-      ],
-      "duration_ms": 274833,
-      "name": "Dirty Spanish",
-      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -721,30 +721,6 @@
       "url": "https://open.spotify.com/track/0FfzWykvVPkB3f8ZcCoWVH"
     },
     {
-      "added_at": "2021-11-05 06:05:00",
-      "album": {
-        "name": "Quem\u00e1",
-        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Andrew Mathers",
-          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "Quem\u00e1",
-      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
-    },
-    {
       "added_at": "2021-10-08 15:53:55",
       "album": {
         "name": "Cuban Riddim",
@@ -795,6 +771,30 @@
       "duration_ms": 186240,
       "name": "Safari",
       "url": "https://open.spotify.com/track/3GK8ZbB59raLSX21pp05ST"
+    },
+    {
+      "added_at": "2021-11-05 06:05:00",
+      "album": {
+        "name": "Quem\u00e1",
+        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Andrew Mathers",
+          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Quem\u00e1",
+      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
     },
     {
       "added_at": "2021-10-15 05:57:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Ay Papi",
-        "url": "https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe"
-      },
-      "artists": [
-        {
-          "name": "Local Singles",
-          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "Ay Papi",
-      "url": "https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Why Can't We Live Together (Gregor Salto & Ibitaly Remix)",
         "url": "https://open.spotify.com/album/25d1r7ct9OcRhTgfetw7AB"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 157530,
       "name": "Vagabundos",
       "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Ay Papi",
+        "url": "https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe"
+      },
+      "artists": [
+        {
+          "name": "Local Singles",
+          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Ay Papi",
+      "url": "https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu"
     },
     {
       "added_at": "2021-10-08 15:53:55",

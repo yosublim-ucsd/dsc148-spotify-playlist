@@ -2380,10 +2380,32 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 214711,
       "name": "Las Cosas Que Importan",
       "url": "https://open.spotify.com/track/4jzcN41E4BMPFYp0WSlfQ5"
+    },
+    {
+      "album": {
+        "name": "LO PURO",
+        "url": "https://open.spotify.com/album/0FSNoh3jzgyMrFT5oYfWP6"
+      },
+      "artists": [
+        {
+          "name": "Hirahi Afonso",
+          "url": "https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh"
+        },
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214711,
+      "name": "Las Cosas Que Importan",
+      "url": "https://open.spotify.com/track/7wMI2biNviwKOMqK53OEzu"
     },
     {
       "album": {

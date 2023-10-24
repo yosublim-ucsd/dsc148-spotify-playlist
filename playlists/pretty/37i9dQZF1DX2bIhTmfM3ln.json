@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats love stories have the best beginnings",
-  "num_followers": 19823,
+  "num_followers": 19937,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGY1NGI2YjU2OTI5ZDEwNTQ2MDYzNTdlZTU2YzZmNWY4YThlZmEx",
+  "snapshot_id": "MCxlOWE1MTk0Nzc0YjJlMjkzNzNjMWUyYTg3YjExOTg5ZjEzOWIwMWUw",
   "tracks": [
     {
       "added_at": "2023-10-20 00:01:00",
@@ -201,6 +201,30 @@
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
+      "added_at": "2023-10-23 12:25:49",
+      "album": {
+        "name": "Sensational (feat. Davido & Lojay)",
+        "url": "https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 231109,
+      "name": "Sensational (feat. Davido & Lojay)",
+      "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
+    },
+    {
       "added_at": "2023-10-20 00:01:00",
       "album": {
         "name": "Ole",
@@ -219,22 +243,6 @@
       "duration_ms": 170000,
       "name": "Ole (feat. BNXN)",
       "url": "https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "The Second Wave Deluxe",
-        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -279,22 +287,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Carry Me Go",
-        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 136464,
-      "name": "Carry Me Go",
-      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
+      "duration_ms": 196800,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -311,6 +315,26 @@
       "duration_ms": 163361,
       "name": "Sharpally",
       "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Carry Me Go",
+        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "duration_ms": 136464,
+      "name": "Carry Me Go",
+      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -363,22 +387,6 @@
       "duration_ms": 234024,
       "name": "Terminator (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Anabella",
-        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 124076,
-      "name": "Anabella",
-      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -475,6 +483,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Anabella",
+        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 124076,
+      "name": "Anabella",
+      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Sweet Tea (Aduke)",
         "url": "https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB"
       },
@@ -507,22 +531,6 @@
       "duration_ms": 201600,
       "name": "Forever (Remix)",
       "url": "https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Jolie",
-        "url": "https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 209235,
-      "name": "Jolie",
-      "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -567,6 +575,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 168742,
+      "name": "woman",
+      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Loju (feat. Wizkid)",
         "url": "https://open.spotify.com/album/08Y8xB9NINjDkoT30eCoB8"
       },
@@ -603,22 +627,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 168742,
-      "name": "woman",
-      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Lova",
         "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
       },
@@ -631,26 +639,6 @@
       "duration_ms": 173810,
       "name": "Lova",
       "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Teslim: The Energy Still Lives in Me",
-        "url": "https://open.spotify.com/album/08k2IfdgUGN3JycLGkREJI"
-      },
-      "artists": [
-        {
-          "name": "Vector",
-          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
-        },
-        {
-          "name": "GoodGirl LA",
-          "url": "https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS"
-        }
-      ],
-      "duration_ms": 194742,
-      "name": "Early Momo",
-      "url": "https://open.spotify.com/track/30vg5dgv2jtW6LCjgLnRSd"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -671,22 +659,38 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "5 Star",
-        "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
+        "name": "Jolie",
+        "url": "https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ"
       },
       "artists": [
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 177067,
-      "name": "10 Toes (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
+      "duration_ms": 209235,
+      "name": "Jolie",
+      "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Teslim: The Energy Still Lives in Me",
+        "url": "https://open.spotify.com/album/08k2IfdgUGN3JycLGkREJI"
+      },
+      "artists": [
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        },
+        {
+          "name": "GoodGirl LA",
+          "url": "https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS"
+        }
+      ],
+      "duration_ms": 194742,
+      "name": "Early Momo",
+      "url": "https://open.spotify.com/track/30vg5dgv2jtW6LCjgLnRSd"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -715,6 +719,30 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Soweto (with Omah Lay & Tempoe)",
+        "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Soweto (with Omah Lay & Tempoe)",
+      "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
       },
@@ -727,26 +755,6 @@
       "duration_ms": 154455,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "19 & Dangerous (Deluxe)",
-        "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 142571,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -771,26 +779,42 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Soweto (with Omah Lay & Tempoe)",
-        "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         },
         {
           "name": "Omah Lay",
           "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Soweto (with Omah Lay & Tempoe)",
-      "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
+      "duration_ms": 177067,
+      "name": "10 Toes (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "19 & Dangerous (Deluxe)",
+        "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 142571,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -963,6 +987,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "DKT",
+        "url": "https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "DKT",
+      "url": "https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Trumpet",
         "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
       },
@@ -979,22 +1019,6 @@
       "duration_ms": 188656,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "DKT",
-        "url": "https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "DKT",
-      "url": "https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1139,6 +1163,30 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "duration_ms": 211873,
+      "name": "TONIGHT (feat. Libianca & Jae5)",
+      "url": "https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Bad To Me",
         "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
       },
@@ -1191,6 +1239,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "For Days",
+        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 164557,
+      "name": "For Days",
+      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Last Name",
         "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
       },
@@ -1207,18 +1271,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "For Days",
-        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B"
       },
       "artists": [
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 164557,
-      "name": "For Days",
-      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
+      "duration_ms": 220394,
+      "name": "Tested, Approved & Trusted",
+      "url": "https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1255,22 +1319,6 @@
       "duration_ms": 142363,
       "name": "Peppermint",
       "url": "https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 220394,
-      "name": "Tested, Approved & Trusted",
-      "url": "https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1327,26 +1375,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Single Again (feat. Ruger) [Remix]",
         "url": "https://open.spotify.com/album/0xsygiGSVxNtNnz06K173w"
       },
@@ -1367,6 +1395,26 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Currency",
         "url": "https://open.spotify.com/album/1yqoT8UTNOYyLHc8mIVjIT"
       },
@@ -1383,30 +1431,6 @@
       "duration_ms": 178144,
       "name": "Currency",
       "url": "https://open.spotify.com/track/59VpttBOjuFDpOOdqeTDiI"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "AREA BOYZ",
-        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        }
-      ],
-      "duration_ms": 211873,
-      "name": "TONIGHT (feat. Libianca & Jae5)",
-      "url": "https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1479,22 +1503,6 @@
       "duration_ms": 157570,
       "name": "Alone",
       "url": "https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Do You Mind?",
-        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 147174,
-      "name": "Do You Mind?",
-      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
     }
   ],
   "unique_name": "Lovin' Beats",

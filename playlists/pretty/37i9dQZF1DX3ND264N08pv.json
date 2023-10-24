@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 62216,
+  "num_followers": 62360,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGUxYWRiYzcyN2I3NmFlNTIwMDNlOTFlYjVjNWNjYmI3MGI0OTk1",
+  "snapshot_id": "MCwyNTBmYzcyY2E4YzI5MjA1MmU3MDYxYzc1NzQzOTEzYjFkN2Q5MzUw",
   "tracks": [
     {
       "added_at": "2023-10-16 16:16:08",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
+        "name": "F#ck The Haters",
+        "url": "https://open.spotify.com/album/3EgcPoSBiZCFK8QhKU6buM"
+      },
+      "artists": [
+        {
+          "name": "Mutilator",
+          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
+        }
+      ],
+      "duration_ms": 147003,
+      "name": "F#ck The Haters",
+      "url": "https://open.spotify.com/track/2MkEOJ1yZ1wBk1Sx022OTo"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
         "name": "Warriors Of Valhalla",
         "url": "https://open.spotify.com/album/4TQLZCdkZ4VRMy8U31vfMw"
       },
@@ -327,38 +343,6 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "Blackness (Defqon.1 2023 BLACK OST)",
-        "url": "https://open.spotify.com/album/7zC4BUoX1cXgELReT4spzJ"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        }
-      ],
-      "duration_ms": 278367,
-      "name": "Blackness - Defqon.1 2023 BLACK OST",
-      "url": "https://open.spotify.com/track/1KdeK8U57BTUUi2Xm4X48r"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
-        "name": "F#ck The Haters",
-        "url": "https://open.spotify.com/album/3EgcPoSBiZCFK8QhKU6buM"
-      },
-      "artists": [
-        {
-          "name": "Mutilator",
-          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
-        }
-      ],
-      "duration_ms": 147003,
-      "name": "F#ck The Haters",
-      "url": "https://open.spotify.com/track/2MkEOJ1yZ1wBk1Sx022OTo"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
         "name": "The Chop Game",
         "url": "https://open.spotify.com/album/77fohbVi79RssB18lmWX1S"
       },
@@ -375,6 +359,22 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
+        "name": "Blackness (Defqon.1 2023 BLACK OST)",
+        "url": "https://open.spotify.com/album/7zC4BUoX1cXgELReT4spzJ"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "duration_ms": 278367,
+      "name": "Blackness - Defqon.1 2023 BLACK OST",
+      "url": "https://open.spotify.com/track/1KdeK8U57BTUUi2Xm4X48r"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
         "name": "Bring It Hardcore",
         "url": "https://open.spotify.com/album/6Rpr2axSXD0r9B66J6WOYc"
       },
@@ -387,6 +387,22 @@
       "duration_ms": 284494,
       "name": "Bring It Hardcore",
       "url": "https://open.spotify.com/track/3s3TQQciJdZ6ZlKJoZjdHp"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "M.D.E.",
+        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
+      },
+      "artists": [
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "duration_ms": 152253,
+      "name": "M.D.E.",
+      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -411,26 +427,6 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "The Deadly Fist",
-        "url": "https://open.spotify.com/album/3iF9oI3j8t3pgX2tVd6QuP"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 194710,
-      "name": "The Deadly Fist",
-      "url": "https://open.spotify.com/track/7pANE2n751S0dmh0WJeC87"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
         "name": "Killing No More",
         "url": "https://open.spotify.com/album/1LhYCeq7pzu6QWlLVfk169"
       },
@@ -451,22 +447,6 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "M.D.E.",
-        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
-      },
-      "artists": [
-        {
-          "name": "The Straikerz",
-          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
-        }
-      ],
-      "duration_ms": 152253,
-      "name": "M.D.E.",
-      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
         "name": "You Can't Stop Me",
         "url": "https://open.spotify.com/album/2ebP1DLH7d1TDWicgcLAHQ"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 199200,
       "name": "You Can't Stop Me",
       "url": "https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "The Deadly Fist",
+        "url": "https://open.spotify.com/album/3iF9oI3j8t3pgX2tVd6QuP"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 194710,
+      "name": "The Deadly Fist",
+      "url": "https://open.spotify.com/track/7pANE2n751S0dmh0WJeC87"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -591,6 +591,26 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
+        "name": "Choose Life",
+        "url": "https://open.spotify.com/album/78oFO3EBoHwZEyyzqMJu9n"
+      },
+      "artists": [
+        {
+          "name": "Korsakoff",
+          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
+        },
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        }
+      ],
+      "duration_ms": 188210,
+      "name": "Choose Life",
+      "url": "https://open.spotify.com/track/2EHSBfC2epl3BXYR2uYrFd"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
         "name": "Cannibal (Radical Redemption Remix)",
         "url": "https://open.spotify.com/album/0IkDRXg0wntX1zPOlaKDqq"
       },
@@ -631,46 +651,6 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "Choose Life",
-        "url": "https://open.spotify.com/album/78oFO3EBoHwZEyyzqMJu9n"
-      },
-      "artists": [
-        {
-          "name": "Korsakoff",
-          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
-        },
-        {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
-        }
-      ],
-      "duration_ms": 188210,
-      "name": "Choose Life",
-      "url": "https://open.spotify.com/track/2EHSBfC2epl3BXYR2uYrFd"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
-        "name": "Go Insane",
-        "url": "https://open.spotify.com/album/5StSF4OCsRGmOxa2Bm7c9d"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
-        }
-      ],
-      "duration_ms": 198315,
-      "name": "Go Insane",
-      "url": "https://open.spotify.com/track/33jVtnlOdTUVN6Fc6MTSIS"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
         "name": "Fat Beat",
         "url": "https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 166615,
       "name": "HIT THA CLUB",
       "url": "https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "Go Insane",
+        "url": "https://open.spotify.com/album/5StSF4OCsRGmOxa2Bm7c9d"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        }
+      ],
+      "duration_ms": 198315,
+      "name": "Go Insane",
+      "url": "https://open.spotify.com/track/33jVtnlOdTUVN6Fc6MTSIS"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "Pac-man 2.0",
-        "url": "https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj"
-      },
-      "artists": [
-        {
-          "name": "FrenchFaces",
-          "url": "https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt"
-        }
-      ],
-      "duration_ms": 148360,
-      "name": "Pac-man 2.0",
-      "url": "https://open.spotify.com/track/4lXnOLBho6DRMaTUnJoACs"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
         "name": "HYPER",
         "url": "https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 206285,
       "name": "HYPER",
       "url": "https://open.spotify.com/track/4GbecipoI4oyDE148vjkde"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "Pac-man 2.0",
+        "url": "https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj"
+      },
+      "artists": [
+        {
+          "name": "FrenchFaces",
+          "url": "https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt"
+        }
+      ],
+      "duration_ms": 148360,
+      "name": "Pac-man 2.0",
+      "url": "https://open.spotify.com/track/4lXnOLBho6DRMaTUnJoACs"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
+        "name": "LOSE STRESS",
+        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
+      },
+      "artists": [
+        {
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        }
+      ],
+      "duration_ms": 168101,
+      "name": "LOSE STRESS",
+      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
         "name": "Birds Of Prey",
         "url": "https://open.spotify.com/album/47W7mse88m5QeXraSc28Ga"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 185846,
       "name": "Birds Of Prey",
       "url": "https://open.spotify.com/track/7hRfEhxrcO80pJUmrT59kr"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
-        "name": "LOSE STRESS",
-        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
-      },
-      "artists": [
-        {
-          "name": "LunaKorpz",
-          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
-        }
-      ],
-      "duration_ms": 168101,
-      "name": "LOSE STRESS",
-      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
+        "name": "Without Respect",
+        "url": "https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw"
+      },
+      "artists": [
+        {
+          "name": "System of Fury",
+          "url": "https://open.spotify.com/artist/6Qzf4osFUb1YZBMynU2FmN"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Without Respect",
+      "url": "https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
         "name": "Burn MF",
         "url": "https://open.spotify.com/album/3xQTtEFddnUR8jjHR36RUh"
       },
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "Without Respect",
-        "url": "https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw"
+        "name": "I'm A Raver",
+        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
       },
       "artists": [
         {
-          "name": "System of Fury",
-          "url": "https://open.spotify.com/artist/6Qzf4osFUb1YZBMynU2FmN"
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Without Respect",
-      "url": "https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd"
+      "duration_ms": 205664,
+      "name": "I'm A Raver",
+      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -1055,18 +1071,22 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "I'm A Raver",
-        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
+        "name": "Psychopath",
+        "url": "https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e"
       },
       "artists": [
         {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+          "name": "Tha Playah",
+          "url": "https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
         }
       ],
-      "duration_ms": 205664,
-      "name": "I'm A Raver",
-      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
+      "duration_ms": 217411,
+      "name": "Psychopath",
+      "url": "https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -1087,26 +1107,6 @@
       "duration_ms": 205846,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
-        "name": "Psychopath",
-        "url": "https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e"
-      },
-      "artists": [
-        {
-          "name": "Tha Playah",
-          "url": "https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Psychopath",
-      "url": "https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "Beastmode",
-        "url": "https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY"
-      },
-      "artists": [
-        {
-          "name": "Evil Activities",
-          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Beastmode",
-      "url": "https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
         "name": "Fvcking One",
         "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 213254,
       "name": "Fvcking One",
       "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "Beastmode",
+        "url": "https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY"
+      },
+      "artists": [
+        {
+          "name": "Evil Activities",
+          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Beastmode",
+      "url": "https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "Shadows in the Dark",
-        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 288398,
-      "name": "Shadows in the Dark",
-      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
         "name": "Adrenaline Kicks",
         "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 160390,
       "name": "Adrenaline Kicks",
       "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 288398,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "Dominator 2022 (Hell Of A Ride)",
-        "url": "https://open.spotify.com/album/0BWZ28qb6KwR4wD8Ms7MCA"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Schrik Van De Stad",
-      "url": "https://open.spotify.com/track/02d1XpujNOPL5bqFLaCUbU"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
         "name": "Hide Me",
         "url": "https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 183891,
       "name": "Hide Me",
       "url": "https://open.spotify.com/track/31i8Y19hlXk2MzraK6EX9B"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "Dominator 2022 (Hell Of A Ride)",
+        "url": "https://open.spotify.com/album/0BWZ28qb6KwR4wD8Ms7MCA"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Schrik Van De Stad",
+      "url": "https://open.spotify.com/track/02d1XpujNOPL5bqFLaCUbU"
     }
   ],
   "unique_name": "Hardcore Rage 2023",

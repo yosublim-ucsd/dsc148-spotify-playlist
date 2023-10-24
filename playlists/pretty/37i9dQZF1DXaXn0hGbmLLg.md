@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! <a href="spotify:artist:4VUZyzya1v8H9StAeuKYXW">Nana Fofie</a> is EQUAL Netherlands ambassador for september
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,496 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,492 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 14 | [100K Tranen](https://open.spotify.com/track/6obwm23hKEtFLHMefCg33l) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP) | [100K Tranen](https://open.spotify.com/album/4b5tmW8Nbt5yzYORGdjpTm) | 2:34 |
 | 15 | [Wijze Woorden](https://open.spotify.com/track/1bWzMQ61eGySrjcQEX9TeS) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Wijze Woorden](https://open.spotify.com/album/0pOEH0NO9fj05LMjBAzEwG) | 2:16 |
 | 16 | [Ik Zie Het](https://open.spotify.com/track/4yv5W4NDxdaZyu5qa7vxI2) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Imani](https://open.spotify.com/album/6nHwUkyiI7jTSbFn8CujXW) | 2:29 |
-| 17 | [Arcade](https://open.spotify.com/track/2dDoOSCrKQCY95eY56Xs9R) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/3wzxiVGNefP0NRFjAhkVVo) | 3:16 |
+| 17 | [Arcade](https://open.spotify.com/track/06q5OfzaRccXcFU6L7PrWd) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Arcade](https://open.spotify.com/album/5p4dNjuAzVPPM61pt4KQhK) | 3:16 |
 | 18 | [Zorgeloos](https://open.spotify.com/track/2M4ullZOgWZWSovqHslHG4) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Onverwachte Visite](https://open.spotify.com/album/7sylTYO4m4ccNyQd6zWFeX) | 3:03 |
 | 19 | [Leef Jij De Jouwe](https://open.spotify.com/track/61c8z8OMzoKorsjV9jn2ZC) | [Sterre](https://open.spotify.com/artist/4ZLmieiEnIF2soZHECSOl9) | [Ms\. Breakup](https://open.spotify.com/album/7CIWkpNLw4lqxObDvuERNb) | 2:28 |
 | 20 | [Money & Shine](https://open.spotify.com/track/2Wn07fQXqIxn74fL30JnBX) | [Famke Louise](https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo) | [Money & Shine](https://open.spotify.com/album/65JoVecMLwZ9UBns4HcDwz) | 1:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 59 | [Drowning in the Dark](https://open.spotify.com/track/2AAm5EYrQt2i7VUNgkGFIl) | [Leanne Serena](https://open.spotify.com/artist/2rYx1os7rYtwAHinxxtPuW) | [Drowning in the Dark](https://open.spotify.com/album/393liDotKoRriPUxGDsvb2) | 3:35 |
 | 60 | [Dead End Street](https://open.spotify.com/track/2uu9JRbYg9IyjTvQoxG8zG) | [Femke](https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w) | [Safe in the Suburbs](https://open.spotify.com/album/3OdmbPibKSXzidDbgvRsPi) | 2:58 |
 
-Snapshot ID: `MCwwMDNjZmM3ZDk5Y2FmYTYxZjc2ZTkzNzk2MzEzYWQ3MGIwOTRmMTc1`
+Snapshot ID: `MCxlZjAwOGFiODA3Y2MwOTEyNmIyZThkZGFjNThkNTU0MjEzMzkzYjY1`

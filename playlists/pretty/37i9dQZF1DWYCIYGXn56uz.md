@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: NASKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,033 likes - 55 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,032 likes - 55 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 54 | [America](https://open.spotify.com/track/02EpIKMNhihIl6u2j7uK1I) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [Black Mood 2](https://open.spotify.com/album/0w7PADq4AfddY8glHNZN5M) | 2:39 |
 | 55 | [Tulipani Blu](https://open.spotify.com/track/5zBrVEBLgFYJAT63YoxFuO) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b), [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Tulipani Blu](https://open.spotify.com/album/5szcJT2NHzGev98dSKMLpN) | 2:39 |
 
-Snapshot ID: `MCxhMGU5M2VkYmM4ZjdhNTIxMjA1Mjk2MzA5YWUxMTgyZjVkZDg4YjY4`
+Snapshot ID: `MCw1MmZmNTc2YmYyMWJiMTFiNzI1ZDc3Y2QxODA2MTE4YzlkNDA3MTk5`

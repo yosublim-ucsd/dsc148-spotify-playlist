@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,643 songs - 3 day 16 hr 28 min
+1,644 songs - 3 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,6 +556,7 @@
 | [Intro](https://open.spotify.com/track/0HlkofgCy7TPwpdqdybAtC) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [LIMBO](https://open.spotify.com/album/35eRCbiaVPNOpSvleCo6JZ) | 1:59 | 2022-12-10 | 2023-01-02 |
 | [Intro](https://open.spotify.com/track/6J7Jq5mLu4CEWGFJCSswto) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sextape II](https://open.spotify.com/album/7AtxLIvzuR2T3jsr62wzyR) | 1:45 | 2023-01-07 | 2023-01-11 |
 | [Intro](https://open.spotify.com/track/6hEzdrlc0DUoK7TB2WW4cM) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [BOY WONDER](https://open.spotify.com/album/17NNoDhQk1jYRWeVTuoPSB) | 1:57 | 2021-10-03 | 2021-10-04 |
+| [irtokynnet \(keskisarja\)](https://open.spotify.com/track/3jwwDoR5wW7XFsxVVa5x5D) | [omppo\_shaaki\_](https://open.spotify.com/artist/5ENbz4hj9j9nYOOtBJwr34) | [irtokynnet \(keskisarja\)](https://open.spotify.com/album/1K0qAnIErjgeMyxqsEAHbp) | 1:18 | 2023-10-23 |  |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-15 |
 | [ISI MAKSAA](https://open.spotify.com/track/0MtR1vbS7UeJa0jvXGCwmY) | [Räpfaija](https://open.spotify.com/artist/2eGbmJfjYbZatbebJxY6PD), [Lydia Kenig](https://open.spotify.com/artist/6ju9ieNU1EgotOVVmZkQ0O) | [ISI MAKSAA](https://open.spotify.com/album/1wI7XRKI7brEpiRl4cYX8U) | 3:26 | 2021-11-14 | 2021-11-30 |
 | [Iso takki](https://open.spotify.com/track/1zGkpHclkemMcZQJW641zL) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [500 Hevosta](https://open.spotify.com/album/3uqgxFvP6mLYSjzgKIpyeC) | 3:00 | 2022-04-23 | 2022-04-28 |
@@ -1358,7 +1359,7 @@
 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 | 2021-06-13 | 2021-07-20 |
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-15 | 2022-03-27 |
 | [Sydämeeni joulun teen](https://open.spotify.com/track/2Kouu3rnDZ5ZVqWtPEAsGo) | [Vesa\-Matti Loiri](https://open.spotify.com/artist/1C3guep1CayLvcFFadeQBt) | [Sydämeeni joulun teen](https://open.spotify.com/album/22VOa9w3witxpYb1NqOY0b) | 3:18 | 2021-11-30 | 2022-12-29 |
-| [Sydämenkantaja \(Vain elämää kausi 14\)](https://open.spotify.com/track/3uPVp4agMG9pVykhim3aOI) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Sydämenkantaja \(Vain elämää kausi 14\)](https://open.spotify.com/album/1KDoL4CrcXfP7JK9AxZUzr) | 3:31 | 2023-10-22 |  |
+| [Sydämenkantaja \(Vain elämää kausi 14\)](https://open.spotify.com/track/3uPVp4agMG9pVykhim3aOI) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Sydämenkantaja \(Vain elämää kausi 14\)](https://open.spotify.com/album/1KDoL4CrcXfP7JK9AxZUzr) | 3:31 | 2023-10-22 | 2023-10-24 |
 | [Sydämessä mukana](https://open.spotify.com/track/34qgWGgZPIMKZTmWX5cl6z) | [Klamydia](https://open.spotify.com/artist/2BFdLtG6ivaiRqPFTgV1in) | [Sydämessä mukana](https://open.spotify.com/album/2Bt7ebghmJS8kXiI4HkMqC) | 3:24 | 2021-05-09 | 2021-05-11 |
 | [Sydämetön](https://open.spotify.com/track/0WoNCC6PYAxfqOKxVRSynq) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Sydämetön](https://open.spotify.com/album/21lhsRNs1ZLEPNkJ6qDZ3M) | 3:07 | 2023-05-20 | 2023-05-30 |
 | [Sydämii](https://open.spotify.com/track/1eEAiEd1n6WfPh4zgOWy4S) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Sydämii](https://open.spotify.com/album/0Nxub8vUbdMyMgYG2DDKG1) | 2:59 | 2023-03-25 | 2023-05-15 |

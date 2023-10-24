@@ -1,13 +1,37 @@
 {
   "description": "Django and beyond.",
-  "num_followers": 272425,
+  "num_followers": 272496,
   "original_name": "Hot Club Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjY1NDFjZTBhYTNlMDUzNDY0ZTA1ZWZkZDE1OTZhZmY3YzVjOWIx",
+  "snapshot_id": "MCwwMWFhNGIwMTk0MGUzMDg1ODgyMjA1MTUzN2ZjOTYzMDUxMGVhYzcx",
   "tracks": [
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Joseph Joseph",
+        "url": "https://open.spotify.com/album/0TLtC5K9Ybr3KMLsfTCmHK"
+      },
+      "artists": [
+        {
+          "name": "Joscho Stephan",
+          "url": "https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG"
+        },
+        {
+          "name": "Sven Jungbeck",
+          "url": "https://open.spotify.com/artist/7zzUbMyOmvQtFCtlekdLoO"
+        },
+        {
+          "name": "Volker Kamp",
+          "url": "https://open.spotify.com/artist/7FvlT1VctBs8JBH0O28jYc"
+        }
+      ],
+      "duration_ms": 220521,
+      "name": "Joseph Joseph",
+      "url": "https://open.spotify.com/track/4fBnSaY0GVZuhbUiVSHcIM"
+    },
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
@@ -71,8 +95,8 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Place du swing",
-        "url": "https://open.spotify.com/album/3S4mE5XrpQcV2w0CPLhOIB"
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/7eYyziAjk0yVs7Ozha0NAs"
       },
       "artists": [
         {
@@ -86,7 +110,7 @@
       ],
       "duration_ms": 243382,
       "name": "Place du Swing",
-      "url": "https://open.spotify.com/track/5ybS0DddQYx9gO6YKtFcIQ"
+      "url": "https://open.spotify.com/track/4PuBOTid6MaWmqdAj2D9nc"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -251,22 +275,6 @@
       "duration_ms": 203826,
       "name": "Noto Swing",
       "url": "https://open.spotify.com/track/5K1EggH1ukqNIDZy2KA9eK"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Guitar Heroes - Live",
-        "url": "https://open.spotify.com/album/2e6icSnoxjhW5mReyWj4Dp"
-      },
-      "artists": [
-        {
-          "name": "Stephan, Joscho feat. Lagr\u00e8ne, Bir\u00e9li",
-          "url": "https://open.spotify.com/artist/1AA2rqygbiWb7fpU4FoLne"
-        }
-      ],
-      "duration_ms": 386653,
-      "name": "Love Me Tender - Live",
-      "url": "https://open.spotify.com/track/2UiOwot9OQnG8HEx6hzifH"
     },
     {
       "added_at": "2022-02-25 05:02:00",

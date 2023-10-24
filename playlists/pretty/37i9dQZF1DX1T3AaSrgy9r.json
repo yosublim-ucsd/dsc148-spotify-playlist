@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 110825,
+  "num_followers": 110953,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmQ5OGY5OTMyNDU1YmRhN2E3ZTZlNGI1YWQwMTk3NGQ5NmJmY2M4",
+  "snapshot_id": "MCwxODdmOWZkZWFlY2Y4YzFkZmQwZTRjNzFhY2FjMGMyMWU4YjY1ZDli",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Mezzanine",
-        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 379533,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 252266,
       "name": "Sour Times",
       "url": "https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 379533,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -339,30 +339,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
-      },
-      "artists": [
-        {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Sophie Barker",
-          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
-        }
-      ],
-      "duration_ms": 338279,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Kid A",
         "url": "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7"
       },
@@ -415,18 +391,26 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Goodbye Country (Hello Nightclub)",
-        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
       "artists": [
         {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Sophie Barker",
+          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
         }
       ],
-      "duration_ms": 300266,
-      "name": "My Friend",
-      "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
+      "duration_ms": 338279,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -443,6 +427,22 @@
       "duration_ms": 310746,
       "name": "Alberto Balsalm",
       "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 298466,
+      "name": "Sexy Boy",
+      "url": "https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -483,38 +483,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 298466,
-      "name": "Sexy Boy",
-      "url": "https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Amnesiac",
-        "url": "https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 293773,
-      "name": "I Might Be Wrong",
-      "url": "https://open.spotify.com/track/5JZ1jTanqLWVuThmZ6XRAc"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Maxinquaye (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
       },
@@ -531,6 +499,38 @@
       "duration_ms": 227066,
       "name": "Hell Is Round The Corner",
       "url": "https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Goodbye Country (Hello Nightclub)",
+        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 300266,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Amnesiac",
+        "url": "https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 293773,
+      "name": "I Might Be Wrong",
+      "url": "https://open.spotify.com/track/5JZ1jTanqLWVuThmZ6XRAc"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -647,6 +647,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 117240,
+      "name": "Organ Donor",
+      "url": "https://open.spotify.com/track/1XNM8FcPNYK0w3Vc7q46TN"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Since I Left You (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 252360,
-      "name": "Human Behaviour",
-      "url": "https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "90s 100 Hits",
         "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
@@ -715,18 +715,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
       },
       "artists": [
         {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 117240,
-      "name": "Organ Donor",
-      "url": "https://open.spotify.com/track/1XNM8FcPNYK0w3Vc7q46TN"
+      "duration_ms": 252360,
+      "name": "Human Behaviour",
+      "url": "https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 367493,
-      "name": "Original Bedroom Rockers",
-      "url": "https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Pre Millennium Tension",
         "url": "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 241000,
       "name": "Makes Me Wanna Die",
       "url": "https://open.spotify.com/track/385DxV3uLG88GaCUsyCyrX"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 367493,
+      "name": "Original Bedroom Rockers",
+      "url": "https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Dead Cities",
-        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
-      },
-      "artists": [
-        {
-          "name": "The Future Sound Of London",
-          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
-        }
-      ],
-      "duration_ms": 347106,
-      "name": "My Kingdom",
-      "url": "https://open.spotify.com/track/7mB5AgvBYc6QasgzTxrugB"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Atom Bomb",
         "url": "https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Abc Music - The Radio 1 Sessions",
-        "url": "https://open.spotify.com/album/6OCHcY6z1QzM5zNCkwAvnl"
+        "name": "Dead Cities",
+        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
       },
       "artists": [
         {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+          "name": "The Future Sound Of London",
+          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
         }
       ],
-      "duration_ms": 260640,
-      "name": "Gabriel",
-      "url": "https://open.spotify.com/track/3hjWMckLi4P4KGlXQP4IqO"
+      "duration_ms": 347106,
+      "name": "My Kingdom",
+      "url": "https://open.spotify.com/track/7mB5AgvBYc6QasgzTxrugB"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1447,6 +1431,22 @@
       "duration_ms": 183013,
       "name": "Blueski - Remastered",
       "url": "https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Abc Music - The Radio 1 Sessions",
+        "url": "https://open.spotify.com/album/6OCHcY6z1QzM5zNCkwAvnl"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+        }
+      ],
+      "duration_ms": 260640,
+      "name": "Gabriel",
+      "url": "https://open.spotify.com/track/3hjWMckLi4P4KGlXQP4IqO"
     },
     {
       "added_at": "2021-07-14 17:36:34",

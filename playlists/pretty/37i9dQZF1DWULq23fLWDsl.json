@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 211125,
+  "num_followers": 211321,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjk2NTM3NmQzMDExYjA1NjZmMzdkMzBlMzA1Y2I4NDg3YjNiYTQw",
+  "snapshot_id": "MCw5OTY1NjNjOGE0YTc2ODRiNWQwZjVkZmRhYWQzM2Y3OGNlNDNiYWVj",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Teen Dream",
         "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
       },
@@ -183,6 +167,38 @@
       "duration_ms": 298680,
       "name": "Silver Soul",
       "url": "https://open.spotify.com/track/2LZ2CNbcbJrwh53pitRgom"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 167773,
+      "name": "Undercover Martyn",
+      "url": "https://open.spotify.com/track/0bePGTDjn0XuEKoN7rOMvV"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -215,22 +231,6 @@
       "duration_ms": 297459,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/72hSmnleYTiiOo23q8ZJIS"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 167773,
-      "name": "Undercover Martyn",
-      "url": "https://open.spotify.com/track/0bePGTDjn0XuEKoN7rOMvV"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -275,18 +275,34 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "This Is Happening",
-        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 536471,
-      "name": "Dance Yrself Clean",
-      "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ"
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Something Good Can Work",
+      "url": "https://open.spotify.com/track/59kNaCxnyX7Ezt1m6KxGLY"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -307,18 +323,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+        "name": "This Is Happening",
+        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
+      "duration_ms": 536471,
+      "name": "Dance Yrself Clean",
+      "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -335,30 +351,6 @@
       "duration_ms": 238133,
       "name": "Punching In A Dream",
       "url": "https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "Plastic Beach",
-        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        },
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
-        }
-      ],
-      "duration_ms": 270520,
-      "name": "Stylo (feat. Mos Def and Bobby Womack)",
-      "url": "https://open.spotify.com/track/6LUfuyLgvgqrykiTE6sJHY"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -399,22 +391,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "Something Good Can Work",
-      "url": "https://open.spotify.com/track/59kNaCxnyX7Ezt1m6KxGLY"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Congratulations",
         "url": "https://open.spotify.com/album/3HA1Ru1gEAgaxTywkJmBOL"
       },
@@ -427,6 +403,30 @@
       "duration_ms": 235386,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/6kblAEj0T0312fv5QWsXzo"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Plastic Beach",
+        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        },
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "duration_ms": 270520,
+      "name": "Stylo (feat. Mos Def and Bobby Womack)",
+      "url": "https://open.spotify.com/track/6LUfuyLgvgqrykiTE6sJHY"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Why Won't You Make Up Your Mind?",
-      "url": "https://open.spotify.com/track/4SgcE7RxpK3ydWrjoAQH1K"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Teen Dream",
         "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 348440,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/1igtKwX3EHjN95HanbkHNg"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "Why Won't You Make Up Your Mind?",
+      "url": "https://open.spotify.com/track/4SgcE7RxpK3ydWrjoAQH1K"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 287906,
-      "name": "Alter Ego",
-      "url": "https://open.spotify.com/track/6SmV1Oo24nCZBPzIYkL4HZ"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "The Suburbs",
         "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/6SmV1Oo24nCZBPzIYkL4HZ"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 321533,
-      "name": "It Is Not Meant To Be",
-      "url": "https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 315585,
       "name": "Odessa",
       "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Infinite Arms",
+        "url": "https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 192240,
+      "name": "Laredo",
+      "url": "https://open.spotify.com/track/61beXNR1qPPxjyM8x3pdRk"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -935,18 +935,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Infinite Arms",
-        "url": "https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo"
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
       },
       "artists": [
         {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 192240,
-      "name": "Laredo",
-      "url": "https://open.spotify.com/track/61beXNR1qPPxjyM8x3pdRk"
+      "duration_ms": 321533,
+      "name": "It Is Not Meant To Be",
+      "url": "https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 271720,
-      "name": "Lucidity",
-      "url": "https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Passive Me, Aggressive You",
         "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 228546,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 271720,
+      "name": "Lucidity",
+      "url": "https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "One Life Stand",
-        "url": "https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 321496,
-      "name": "One Life Stand",
-      "url": "https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "One Life Stand",
+        "url": "https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 321496,
+      "name": "One Life Stand",
+      "url": "https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "Forgiveness Rock Record",
         "url": "https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 309306,
       "name": "Sweetest Kill",
       "url": "https://open.spotify.com/track/488u1IbVEsaC7fxjABWjHx"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 286160,
+      "name": "Giving Up the Gun",
+      "url": "https://open.spotify.com/track/40cAeDaZAnPY9bUHf4jYXW"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Contra",
-        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 286160,
-      "name": "Giving Up the Gun",
-      "url": "https://open.spotify.com/track/40cAeDaZAnPY9bUHf4jYXW"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Fields (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2S81NPoxd3E2gd261BSo5X"
       },
@@ -1315,6 +1315,22 @@
       "duration_ms": 202589,
       "name": "Get Some",
       "url": "https://open.spotify.com/track/5LbCx9z3eq83JVoJ74tnmt"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "White Sky",
+      "url": "https://open.spotify.com/track/1QdVwO5xqAI88pNn2qfNjU"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1363,22 +1379,6 @@
       "duration_ms": 158106,
       "name": "King of the Beach",
       "url": "https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "Contra",
-        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "White Sky",
-      "url": "https://open.spotify.com/track/1QdVwO5xqAI88pNn2qfNjU"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "High Violet",
+        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 340186,
+      "name": "England",
+      "url": "https://open.spotify.com/track/3KpJsilpYiHAVEMoCKYjFv"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "Gorilla Manor",
         "url": "https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 249693,
       "name": "Don't Gotta Work It Out",
       "url": "https://open.spotify.com/track/7ECNbJ7lRHDY2CiHKVirYB"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "High Violet",
-        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 340186,
-      "name": "England",
-      "url": "https://open.spotify.com/track/3KpJsilpYiHAVEMoCKYjFv"
     },
     {
       "added_at": "2021-10-05 08:40:49",

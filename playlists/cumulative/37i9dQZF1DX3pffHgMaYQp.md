@@ -4,7 +4,7 @@
 
 > Música para insubordinados\. Sum 41 en portada.
 
-135 songs - 7 hr 19 min
+137 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Algo Bien](https://open.spotify.com/track/7ny19tle78dtsBq4JXTNjt) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Algo Bien](https://open.spotify.com/album/4JbqoyE0SeNc6FNi64WEe8) | 3:14 | 2022-03-25 |  |
 | [Almost Had to Start a Fight/In and Out of Patience](https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ) | 3:14 | 2023-09-23 |  |
 | [Amigos \- En Vivo \- Mazunte 3016](https://open.spotify.com/track/3MjFHWF85f099edPlGN4Mm) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Amigos \(En Vivo \- Mazunte 3016\)](https://open.spotify.com/album/1JLlqbasqPbugK1n2U7DRA) | 3:04 | 2022-03-25 |  |
+| [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 | 2023-10-23 |  |
 | [Anthem Part Two](https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:47 | 2023-09-23 |  |
 | [Ardiendo Lento](https://open.spotify.com/track/7G3WYQW7DrFjmm8a4wPleH) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [Ardiendo Lento](https://open.spotify.com/album/6rYACTUC0TXKlu3pc3dbID) | 2:56 | 2023-10-13 |  |
 | [Atari \(Todo Mi Mundo A Color\)](https://open.spotify.com/track/3v6oyDCU5rB9ze5XdIAmK8) | [Niña ](https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc) | [R.o.c.k.](https://open.spotify.com/album/3FFaVqWKX7AJLoKiSL0v5M) | 3:33 | 2023-09-23 |  |
@@ -33,6 +34,7 @@
 | [Cuarzo](https://open.spotify.com/track/7BfEoUL8MA6kEL2Wgo30Mn) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Mar Rojo](https://open.spotify.com/album/0nhIXD1q9Yi2SocNaHUfR0) | 3:26 | 2022-03-25 | 2023-09-24 |
 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 | 2022-03-25 |  |
 | [Cállate La Boca](https://open.spotify.com/track/4ck93bVIVf9yMwjs8CjSve) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Cállate La Boca](https://open.spotify.com/album/3s9LUzvbeqfQWeNKZ3TTut) | 3:37 | 2023-09-08 |  |
+| [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 | 2023-10-23 |  |
 | [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 | 2022-03-25 | 2023-04-29 |
 | [Danza de Sol](https://open.spotify.com/track/52pIvwmblgM5ZC34WQsmVW) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/2eWUzFnTmSu12e9N88TJ9y) | 3:10 | 2022-03-25 |  |
 | [Desde Afuera](https://open.spotify.com/track/2S40OvSsD1hEK1tsuFz4CS) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Ni siquiera estamos listos para hablar](https://open.spotify.com/album/2g0CeaYZjdCRcRyG6dxCJH) | 2:16 | 2023-05-19 |  |

@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 166583,
       "name": "drive",
       "url": "https://open.spotify.com/track/1POBIDmX5L8lDEQSkO1DBi"
@@ -3382,6 +3382,24 @@
       "duration_ms": 225466,
       "name": "Lost",
       "url": "https://open.spotify.com/track/37GoX99NfDFMNcbmXTe40O"
+    },
+    {
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/4DiQ4IeyIWXdexDkikRTRJ"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249825,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/2DjZwbUsZeLL7qzyej7K0V"
     },
     {
       "album": {

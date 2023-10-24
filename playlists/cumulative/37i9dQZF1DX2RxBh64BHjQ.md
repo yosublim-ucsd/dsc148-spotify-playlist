@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-1,363 songs - 2 day 13 hr 43 min
+1,365 songs - 2 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Chokehold](https://open.spotify.com/track/11wT4KLcZ1LEngx6Himubj) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Chokehold](https://open.spotify.com/album/5Xr02R2WLFLU2YjI8RfhKK) | 3:23 | 2022-10-28 | 2023-01-21 |
 | [CLASSY \(feat\. Tony Shhnow\)](https://open.spotify.com/track/76a7EJ2vt0x9kQPmNRCruL) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [MEMENTO](https://open.spotify.com/album/5wKEjEjxFRClAAL2j9bWHR) | 2:46 | 2023-10-20 |  |
 | [Clingy \(with NAV\)](https://open.spotify.com/track/5kvW17aKJGgLBsoSmuOdxM) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:26 | 2022-04-15 | 2022-05-28 |
+| [Clocking U](https://open.spotify.com/track/4hNdFY5XiWlcdVY8zBoE8b) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Pretty Girls Love Slizzy](https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO) | 2:56 | 2023-10-23 |  |
 | [Closed Case \(feat\. B\-Lovee\)](https://open.spotify.com/track/5w4TlLvytDBFPxfvHkyLTf) | [YXNG K.A](https://open.spotify.com/artist/3BBujITyfgwyXTQliFzUNH), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Closed Case \(feat\. B\-Lovee\)](https://open.spotify.com/album/6Qjw5qCl0Qmlgt2b11tLCk) | 2:22 | 2022-05-13 | 2022-07-02 |
 | [CLUBHOUSE! \(FEAT\. MIKE DIMES\)](https://open.spotify.com/track/2UKEafEb8WaCuMJFfHNq5n) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [CLUBHOUSE! / UNCIVILIZED! \(GO!\)](https://open.spotify.com/album/4BPihCuvLuLFhxc1pzUk7R) | 2:33 | 2022-06-17 | 2022-07-23 |
 | [COINCIDENCE](https://open.spotify.com/track/6MFk8Dw2VnvweH2E46cjEv) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [COINCIDENCE](https://open.spotify.com/album/6yhxvEpEU3smpzc3RrWJa6) | 2:03 | 2022-08-19 | 2022-10-29 |
@@ -423,7 +424,7 @@
 | [FW That](https://open.spotify.com/track/28u5CGeIstPNFZcyZ8OAg7) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [FW That](https://open.spotify.com/album/6Tz3mpxCfet4VDkUHy1nSD) | 2:38 | 2023-04-21 | 2023-06-03 |
 | [FYM](https://open.spotify.com/track/264tGGB1Wwy7IrNmeuBdml) | [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [FYM](https://open.spotify.com/album/1hCULCwXYcFdaMpnUjQbO7) | 1:51 | 2022-07-08 | 2022-07-30 |
 | [G Nikes \(feat\. Polo G\)](https://open.spotify.com/track/7asQMsxC6dNgY0inCzJC5O) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/4LDKeMhuzPUzekNfeWrzRl) | 3:14 | 2022-10-14 | 2022-12-31 |
-| [G\-UNIT!](https://open.spotify.com/track/3nWWQLTwwCAwfWQYazd6r7) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [G\-UNIT!](https://open.spotify.com/album/1E1OBbtBkBGYJfNHS9ic4A) | 1:55 | 2023-10-20 |  |
+| [G\-UNIT!](https://open.spotify.com/track/3nWWQLTwwCAwfWQYazd6r7) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [G\-UNIT!](https://open.spotify.com/album/1E1OBbtBkBGYJfNHS9ic4A) | 1:55 | 2023-10-20 | 2023-10-24 |
 | [Gah Damn](https://open.spotify.com/track/0VQucSKq1xINBeqQZRt69w) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [Gah Damn](https://open.spotify.com/album/7xMqiBsn4iTnFw172KnxaA) | 3:12 | 2023-01-06 | 2023-03-11 |
 | [Gang Gang \(feat\. Luh Tyler\)](https://open.spotify.com/track/1nLUcjQbw4rOc6DMNGzQDu) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Sorry 4 The Wait..\. \(Deluxe\)](https://open.spotify.com/album/1ZhwOV5hoXbZayFi89D4EL) | 2:26 | 2023-08-04 | 2023-09-09 |
 | [Gang Nem \(feat\. EST Gee\)](https://open.spotify.com/track/6t4OP550372zgiAof928AR) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Survivor Of The Trenches](https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13) | 2:23 | 2022-12-02 | 2023-03-11 |
@@ -1097,6 +1098,7 @@
 | [Slide Den](https://open.spotify.com/track/5ELj1d1b4T9Fr67b8X8mkR) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Slide Den](https://open.spotify.com/album/7tM2KPXbuOii71TzAPdTCT) | 2:55 | 2022-10-07 | 2022-11-12 |
 | [Slight Dub \(feat\. 21 Savage & Young Nudy\)](https://open.spotify.com/track/2INe19w9F8ueR1Fgm9HXbh) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [MadMan](https://open.spotify.com/album/49J8Mmm7YFMsTRVBr0hUEt) | 3:02 | 2023-06-16 |  |
 | [Slim Waist](https://open.spotify.com/track/44jJCOAbyqF8msu7P79twG) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Slim Waist](https://open.spotify.com/album/12SXIjeo8hFvzeyBKnGIYH) | 2:48 | 2022-02-25 | 2022-04-09 |
+| [Slow It Down](https://open.spotify.com/track/0jRiVMnGBnuyXQsIVwbDSK) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Slow It Down](https://open.spotify.com/album/5FoMKRPTtYoi072HZqy88d) | 2:14 | 2023-10-23 |  |
 | [Small Town Hero](https://open.spotify.com/track/1uJlJyphY1YXiFWzsTo8qe) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Small Town Hero](https://open.spotify.com/album/42No6q5fgA1s4qx8Of7E9J) | 2:57 | 2022-07-15 | 2022-09-10 |
 | [Sniper Gang Freestyle Pt\. 2](https://open.spotify.com/track/1QQa1xdCx4t9DUgQH21Xoo) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Sniper Gang Freestyle Pt\. 2](https://open.spotify.com/album/6vOE77BmSitUxf8v4ZjUKW) | 2:44 | 2022-07-22 | 2022-10-01 |
 | [Snowman](https://open.spotify.com/track/4xWMEQ524bQkqVcI5ZC3HS) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Snowman](https://open.spotify.com/album/2C3DJlTvAPNU20L0HhUug7) | 1:56 | 2023-09-08 |  |

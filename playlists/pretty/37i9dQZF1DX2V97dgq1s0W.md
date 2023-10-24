@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > Beautifully chilled vocals from around the world\. Cover: Äyanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,666 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,803 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 79 | [Suite Life \(Familiar\) \- Bonus Track](https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu) | 2:34 |
 | 80 | [Say What U Mean](https://open.spotify.com/track/54EFYQHgRKfOsiPoJkwzO4) | [RHODETRIP!](https://open.spotify.com/artist/51vWoRhnlySdArQxr4JfKk), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [Say What U Mean](https://open.spotify.com/album/0uAiFV7gQXyntZRXX71zZp) | 3:44 |
 
-Snapshot ID: `MCw0ZjI2MGIzYmIyNzk3MjIyN2IyNmFkZTc5ZjMyYTM3ZDkxMTQ3YTE4`
+Snapshot ID: `MCw3MTYxYWFiZmUxNDVjNTE1NTRiNDNiNWFlMmRjMDYzNWNkYjZhZDMy`

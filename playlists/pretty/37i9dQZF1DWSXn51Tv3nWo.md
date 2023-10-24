@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXn51Tv3nWo.md) - [plain]
 
 > There are some new trolls on the block\. Rock your body to the music from Trolls, including Trolls Band Together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,086 likes - 78 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,442 likes - 78 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXn51Tv3nWo.md) - [plain]
 | 77 | [The Winners](https://open.spotify.com/track/6PlS2xYXVatiJ1sQzG854u) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:22 |
 | 78 | [Forgive Me \- Remix](https://open.spotify.com/track/4rm2TLgVLa9zPgTbLcDNW0) | [Branch](https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:22 |
 
-Snapshot ID: `MCw3YjRkYjNlNGY4OTk1ZTg5ZTU1N2E5ZjcwM2QwOWY1ODRkYjNmM2Iw`
+Snapshot ID: `MCxiMzQzOGQ2OTQzY2Y1OTE0YmYyMTFiYTQyN2U1NTQyNDM3MWM0YTY5`

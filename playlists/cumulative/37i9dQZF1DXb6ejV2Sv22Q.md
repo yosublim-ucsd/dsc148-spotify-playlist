@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [160 Gramos](https://open.spotify.com/track/5jWKGPiw2PaIvOVzsqYQvv) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:08 | 2023-09-15 | 2023-10-21 |
+| [160 Gramos](https://open.spotify.com/track/5jWKGPiw2PaIvOVzsqYQvv) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:08 | 2023-09-15 |  |
 | [A Casa Pete](https://open.spotify.com/track/3oVBLwtACAPgpmzqEC1ztX) | [Spreen](https://open.spotify.com/artist/1NIDfe1B5J1EyNiJcPZsfZ) | [A Casa Pete](https://open.spotify.com/album/42Xz6SNoG4eaGbko9JFgpd) | 1:15 | 2023-09-15 | 2023-10-21 |
 | [ABRE LAS PATOTAS](https://open.spotify.com/track/6G75x2FTJ8JSO5iLPKhcYs) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [ABRE LAS PATOTAS](https://open.spotify.com/album/1Vj0Z6awDhe0HEwvnkydJI) | 2:49 | 2023-10-20 |  |
 | [all I want is you](https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno), [hoshie star](https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001) | [all I want is you](https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V) | 2:31 | 2023-09-15 |  |
@@ -35,7 +35,7 @@
 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 | 2023-09-15 |  |
 | [Estás en Mí Pasado](https://open.spotify.com/track/6ztAOF9gzTWhF4IHW0Sclj) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:57 | 2023-09-15 |  |
 | [Fallen Down](https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 0:57 | 2023-09-15 |  |
-| [Gracias A Ti](https://open.spotify.com/track/4AYXjnxnA4Tsr8CAYuKQDo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 3:09 | 2023-09-15 |  |
+| [Gracias A Ti](https://open.spotify.com/track/4AYXjnxnA4Tsr8CAYuKQDo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 3:09 | 2023-09-15 | 2023-10-24 |
 | [HOUSE OF LUX](https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:20 | 2023-09-15 |  |
 | [IEVAN PHONK! \- Nightcore Remix Speed Up](https://open.spotify.com/track/7j2s8QOVV4c7gO8hIde2rf) | [Abnerxd](https://open.spotify.com/artist/38DNB5yq30k6tcxmDNDMGd), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [IEVAN PHONK! Rmx](https://open.spotify.com/album/4RWL7ySqIcbl7y4Ki66Llj) | 1:49 | 2023-09-15 | 2023-10-16 |
 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 | 2023-09-15 |  |

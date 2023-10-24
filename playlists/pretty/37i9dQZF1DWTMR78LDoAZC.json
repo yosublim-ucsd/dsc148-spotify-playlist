@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 141271,
+  "num_followers": 141338,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDg1NzUyNmRmYTYxYWJjYjMxOWU4NWIzYjdlYzEzNzY5YTA0MmU1",
+  "snapshot_id": "MCw2YjRhOWQ1MjkwMWNkNjRjZTdiZmNjZTY2ZjE3NjI5Zjc1MjZhYWFk",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "She Plays Bass",
-        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "She Plays Bass",
-      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
@@ -221,20 +205,20 @@
       "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
+      "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+        "name": "She Plays Bass",
+        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+      "duration_ms": 207106,
+      "name": "She Plays Bass",
+      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -285,6 +269,22 @@
       "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
     },
     {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+    },
+    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Kill Your Pain (with King Princess)",
@@ -303,22 +303,6 @@
       "duration_ms": 166194,
       "name": "Kill Your Pain (with King Princess)",
       "url": "https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 272813,
-      "name": "I Know A Place",
-      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -367,6 +351,22 @@
       "duration_ms": 231680,
       "name": "Juno",
       "url": "https://open.spotify.com/track/6OpU3cvY19M2hFxTbLKy5L"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 272813,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -465,6 +465,26 @@
       "url": "https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o"
     },
     {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Pegasus (ft. Phoebe Bridgers)",
+        "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 186836,
+      "name": "Pegasus (ft. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
+    },
+    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Holdly",
@@ -495,26 +515,6 @@
       "duration_ms": 186786,
       "name": "Fuck Me (I Didn\u2019t Know How To Say)",
       "url": "https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Pegasus (ft. Phoebe Bridgers)",
-        "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 186836,
-      "name": "Pegasus (ft. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
     },
     {
       "added_at": "2023-03-07 19:29:41",

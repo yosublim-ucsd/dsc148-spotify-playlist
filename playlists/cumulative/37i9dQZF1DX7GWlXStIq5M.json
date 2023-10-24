@@ -5367,6 +5367,24 @@
     },
     {
       "album": {
+        "name": "J\u00e1 Vai Tarde",
+        "url": "https://open.spotify.com/album/6BRbelLaL5q1t7QMMVrCl7"
+      },
+      "artists": [
+        {
+          "name": "Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "J\u00e1 Vai Tarde",
+      "url": "https://open.spotify.com/track/05WyRbEEtiaaREAdG6QQmk"
+    },
+    {
+      "album": {
         "name": "Kallidade",
         "url": "https://open.spotify.com/album/3Gs7USQVRZdAUhWgT3EApk"
       },
@@ -9254,7 +9272,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 130666,
       "name": "Promessas",
       "url": "https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB"
@@ -11684,7 +11702,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 178654,
       "name": "Todo Mundo Que Amei J\u00e1 Me Fez Chorar",
       "url": "https://open.spotify.com/track/1ba9HdaWfIYmIytRcI90eU"
@@ -12326,7 +12344,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Venturana",
       "url": "https://open.spotify.com/track/3ngZu880Lq0euIIfYyh7LZ"
@@ -12616,7 +12634,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 148880,
       "name": "VOU ALI DORMIR",
       "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"

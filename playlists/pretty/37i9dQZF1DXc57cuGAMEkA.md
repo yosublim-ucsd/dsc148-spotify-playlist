@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。  The Kid LAROI, Jung Kook, Central Cee, Charli XCX, Sam Smith and more! Cover: The Kid LAROI, Jung Kook, Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,109 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,171 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 79 | [Please Santa Please](https://open.spotify.com/track/2eesOzilqjDBePl9nSiUoz) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Please Santa Please](https://open.spotify.com/album/4ERnwq2BFXL3tcq0LAhXj7) | 3:17 |
 | 80 | [What Christmas Means To Me \(with Stevie Wonder\)](https://open.spotify.com/track/6DIA408m0Am7GDTqCzsI59) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:35 |
 
-Snapshot ID: `MCxmMjAzODI0ZjIwNjQ0Mzc1MTc2MGE0NDU4MTgyZDRhMDFjMTQzMTVm`
+Snapshot ID: `MCw3MjFmZmY0ZDYyNTIxNjliZTU4N2FmZGNjYmZmY2JjODFmNjBjOTM4`

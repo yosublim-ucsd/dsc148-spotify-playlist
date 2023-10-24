@@ -4,7 +4,7 @@
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: bohemianvoodoo
 
-71 songs - 5 hr 33 min
+72 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Bright Life](https://open.spotify.com/track/25zdJ8RT8SNYECanlVfIxS) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [Bright Life](https://open.spotify.com/album/0MuMPY3X9rYDzK7CxBE3NU) | 4:15 | 2023-09-26 |  |
 | [Butterfly Effect](https://open.spotify.com/track/3A0idGLImgS8V6oxkBA0d4) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Butterfly](https://open.spotify.com/album/14bAA1BAUwfw6N2bFvtP4x) | 4:54 | 2023-03-14 |  |
 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 | 2023-09-05 |  |
-| [DeLorean](https://open.spotify.com/track/53SLUB2mNAQVI9hUKwszSh) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [VISTA](https://open.spotify.com/album/1UDy7qEXkyK2KElMKpaeoS) | 6:16 | 2023-03-14 |  |
+| [DeLorean](https://open.spotify.com/track/53SLUB2mNAQVI9hUKwszSh) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [VISTA](https://open.spotify.com/album/1UDy7qEXkyK2KElMKpaeoS) | 6:16 | 2023-03-14 | 2023-10-24 |
 | [Disordered Trip](https://open.spotify.com/track/1TL5dclhMJ7Be0qnTKZ2oe) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Disordered Trip](https://open.spotify.com/album/0p4X5GGQHPJdgfvJ8NOEL1) | 3:57 | 2023-03-14 |  |
 | [Echoes](https://open.spotify.com/track/6E4NJHE0TEuMsCOIddyJSQ) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Echoes](https://open.spotify.com/album/3g6bR9rpjAQExzVXH6zFDP) | 4:05 | 2023-03-14 |  |
 | [Fanfare](https://open.spotify.com/track/53q80WeNxUnyi3YDm3PPhp) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Fanfare](https://open.spotify.com/album/6tkKpYubLhXjkc4sqf2DtM) | 4:17 | 2023-03-14 | 2023-09-27 |
@@ -77,6 +77,7 @@
 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 | 2023-03-14 |  |
 | [朝焼け \- Live at Chuo Kaikan Hall, Tokyo, Feb\. 1982](https://open.spotify.com/track/3kn85OLlFlbQDCiKmj17MO) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [MINT JAMS\(Live\)](https://open.spotify.com/album/2yvR4wVM1XLEKVad6F3ja9) | 4:58 | 2023-03-14 |  |
 | [枯葉 \~Autumn Leaves\~ \(jazz standard\)](https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:05 | 2023-04-04 |  |
+| [石の教会](https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [MOMENTS](https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD) | 4:37 | 2023-10-17 |  |
 | [華火夜景](https://open.spotify.com/track/1RO9fAT9UQWSB8mVaxcvOI) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [華火夜景](https://open.spotify.com/album/57hUpIDR3di336V6dO6U8v) | 4:35 | 2023-07-22 |  |
 | [街の報せ Rework 黒田卓也](https://open.spotify.com/track/1bBDwauDhzcOxV0pqHgBey) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [街の報せ Rework 黒田卓也](https://open.spotify.com/album/0DpwMSu8p7W6uoua8j7ffC) | 4:46 | 2023-03-14 | 2023-09-16 |
 

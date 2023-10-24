@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Zapatillas",
+        "url": "https://open.spotify.com/album/3dToFs6qDSWkR1HttqgpnF"
+      },
+      "artists": [
+        {
+          "name": "El Canto Del Loco",
+          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145826,
+      "name": "Besos",
+      "url": "https://open.spotify.com/track/7MKO7rUZzjw8p87zdZDgqa"
+    },
+    {
+      "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },
@@ -2458,7 +2476,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 215093,
       "name": "September",
       "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"

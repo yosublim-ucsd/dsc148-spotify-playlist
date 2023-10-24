@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Ghost",
-  "num_followers": 54885,
+  "num_followers": 54949,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWViMDE2YzZhMTY1MzJlMGM0OTY1ODIzNThhOGI1NTg5OGJkMmVi",
+  "snapshot_id": "MCxlMTlmZjhmYWRkMjA4M2I0NDY5NzA5ZDVkODUwMTBhOTU2NTVmNmM3",
   "tracks": [
     {
       "added_at": "2023-10-18 05:00:00",
@@ -143,6 +143,34 @@
       "duration_ms": 155424,
       "name": "Fanthem (From \"Ghost\")",
       "url": "https://open.spotify.com/track/1mSsXMpxahNWthXQ5krTYO"
+    },
+    {
+      "added_at": "2023-10-23 12:58:39",
+      "album": {
+        "name": "Restart (From \"12th Fail\")",
+        "url": "https://open.spotify.com/album/6PtAbtKG3UbBhmqfEE0MUC"
+      },
+      "artists": [
+        {
+          "name": "Swanand Kirkire",
+          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
+        },
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "Vidhu Vinod Chopra",
+          "url": "https://open.spotify.com/artist/736GTzt9gLXfEX8pbUaTV5"
+        },
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        }
+      ],
+      "duration_ms": 243225,
+      "name": "Restart (From \"12th Fail\")",
+      "url": "https://open.spotify.com/track/4ut2rPwNWsqLdlmVpg6c5s"
     },
     {
       "added_at": "2023-10-17 12:02:20",

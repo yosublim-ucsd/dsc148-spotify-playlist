@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia\. Cover: Santa Chiara
 
-599 songs - 1 day 9 hr 15 min
+601 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Agata](https://open.spotify.com/track/4C2Bpn24iZZHWUSfpQvLiv) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Agata](https://open.spotify.com/album/5OvRahjqujnEOetZFcPesY) | 3:44 | 2022-05-09 | 2022-06-03 |
 | [AIP](https://open.spotify.com/track/1VLxvPzn2q95NsDQaqOwCM) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [AIP](https://open.spotify.com/album/0SLgtOJQyz2PiqMYGqPONw) | 2:57 | 2022-05-09 | 2022-06-03 |
 | [AIR 909](https://open.spotify.com/track/4AVqvJLUnVuZlAVFUyxt7T) | [Human Colonies](https://open.spotify.com/artist/0ovQRMWn970TPuWTw08lGk) | [AIR 909](https://open.spotify.com/album/52PialnUd1hFfa1DHIAiMG) | 1:57 | 2023-06-08 | 2023-06-23 |
-| [Albanera](https://open.spotify.com/track/5pZsX5r10LBZtQ0H1YbTF8) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [Albanera](https://open.spotify.com/album/5Y8ADPQC0xiR1gtxNYqNLX) | 4:01 | 2023-09-21 |  |
+| [Albanera](https://open.spotify.com/track/5pZsX5r10LBZtQ0H1YbTF8) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [Albanera](https://open.spotify.com/album/5Y8ADPQC0xiR1gtxNYqNLX) | 4:01 | 2023-09-21 | 2023-10-24 |
 | [ALL'INFERNO C'È IL SOLE](https://open.spotify.com/track/2CtHbDq3Xx45lU8lnRhiE6) | [Marrano](https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY) | [CARNE OSSA](https://open.spotify.com/album/5iIkvPvQvxoYFSoaId1YCX) | 4:20 | 2023-02-16 | 2023-05-12 |
 | [Alme](https://open.spotify.com/track/0GyrUsvIJJ5DZPHpEQa6kQ) | [Merli Armisa](https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki) | [Alme](https://open.spotify.com/album/04bQWJKzN1egEcDioDAT1h) | 3:16 | 2022-10-06 | 2022-11-11 |
 | [Always Before \(The Fire\)](https://open.spotify.com/track/1Zxk5vYIHVeHiFKRmEfx3y) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Always Before \(The Fire\)](https://open.spotify.com/album/4G1FKZqj3dzWVLKfnzDybm) | 4:10 | 2022-05-09 | 2022-06-24 |
@@ -456,6 +456,7 @@
 | [Samurai](https://open.spotify.com/track/4Vmz8qG1vEpyAWEYB98MUf) | [ALIPERTI](https://open.spotify.com/artist/2wyyxE2lzVUrOD4tPGitor) | [Samurai](https://open.spotify.com/album/35PjENODFLTmCJrZNuPXK4) | 2:53 | 2023-03-09 | 2023-05-12 |
 | [sanguino](https://open.spotify.com/track/4kQhL1adPsW5kKTORVdZA4) | [Porpora](https://open.spotify.com/artist/2FUNKcLYXzzgrQmxeSD6LN) | [sanguino](https://open.spotify.com/album/1eGCDgJO0MIxMQqbiWdfEf) | 2:26 | 2023-07-27 |  |
 | [SANTAMARIA](https://open.spotify.com/track/2JDmo9jCFLN1FOmHECNT3B) | [ULTIMA HAINE](https://open.spotify.com/artist/1MzzYW4rW9deiCRPS7Pjf9) | [SANTAMARIA](https://open.spotify.com/album/7CxULThaopyXFO8vfyn9oH) | 2:53 | 2022-05-09 | 2022-06-03 |
+| [Saraceno](https://open.spotify.com/track/30IZCDeSKztWbsgBFa4snW) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Maledetta Quella Notte](https://open.spotify.com/album/53rZDVzeELEDGg9XSfoYym) | 3:54 | 2023-10-23 |  |
 | [SARANNO ALTRI](https://open.spotify.com/track/0g8YSJUxWL9WqTJ9FPCGI5) | [I Boschi Bruciano](https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW) | [RISERVE](https://open.spotify.com/album/355pIopHNw6bmPned9sBlg) | 3:26 | 2023-03-23 | 2023-05-10 |
 | [Satelliti](https://open.spotify.com/track/0mHgGcaO1VBp50XuTB1Avl) | [Gli Occhi Degli Altri](https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ) | [Scartaggi](https://open.spotify.com/album/06BUg0CBtQcPvXmAA8Uwx1) | 3:12 | 2023-10-19 |  |
 | [Saturno](https://open.spotify.com/track/3Wuany26qQD9ymwpL2Iicl) | [Colla](https://open.spotify.com/artist/3bNplfx5UXercdTOqqdZK6) | [Saturno](https://open.spotify.com/album/4kptY0lMxPq9xerihdJhu8) | 2:17 | 2023-01-12 | 2023-03-03 |
@@ -468,6 +469,7 @@
 | [Scogli](https://open.spotify.com/track/3FlpXM5vd7waXBXHoKs3qJ) | [⁄handlogic](https://open.spotify.com/artist/0Fke9julMOJ0HZ1UhCoe9Z) | [ESSERI UMANI PERFETTI](https://open.spotify.com/album/6lw56QZZjB8bRaGFNTLUCI) | 5:10 | 2023-05-18 | 2023-06-09 |
 | [Scomparire il rumore](https://open.spotify.com/track/640HPkDgsy0HXv9AkWPhrE) | [Federico Dragogna](https://open.spotify.com/artist/4oFI4JmGg9miIDYczoKIIm) | [Dove Nascere](https://open.spotify.com/album/5IQuptSUz3npCcpJcjVypI) | 2:36 | 2023-05-04 | 2023-06-23 |
 | [Seduci](https://open.spotify.com/track/4tDdBZoyhIgvyUueCEMxvG) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [Seduci](https://open.spotify.com/album/6fiurr1oyIS6QJyt1NDoVp) | 3:17 | 2023-05-04 | 2023-05-26 |
+| [Seduci](https://open.spotify.com/track/0CPsIehtiLTUnI85XGB4qP) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [LANGUORE](https://open.spotify.com/album/0zE57SWOx61FS3wjdY1UXL) | 3:19 | 2023-10-23 |  |
 | [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 | 2023-06-08 |  |
 | [Senza Fine](https://open.spotify.com/track/0kcOUYb4244Ul2Cd3mEvkE) | [ULTRANOIA](https://open.spotify.com/artist/6cGw5bSzyixem0tMv0k434) | [Senza Fine](https://open.spotify.com/album/2SlwwWFm3wZ9xFMwwntgup) | 3:31 | 2023-02-02 | 2023-03-03 |
 | [Senza mai guardarsi indietro](https://open.spotify.com/track/3QGx90XyhQZZUz7WKWMUCk) | [And So Your Life Is Ruined](https://open.spotify.com/artist/33mryanYYlYMiJnYAobfEk) | [Senza mai guardarsi indietro](https://open.spotify.com/album/6yTRDmKQJqpdXm0yNFFsTe) | 2:17 | 2023-07-06 | 2023-10-20 |

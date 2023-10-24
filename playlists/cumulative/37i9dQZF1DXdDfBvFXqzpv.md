@@ -4,7 +4,7 @@
 
 > Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.
 
-132 songs - 7 hr 46 min
+133 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Be Your Love](https://open.spotify.com/track/1Taq7PrHRF7dLCcHTRh2aj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Be Your Love](https://open.spotify.com/album/0IdLqHPv9Ac4YdEGyMD4YZ) | 3:14 | 2022-11-02 |  |
 | [Beat 54 \(All Good Now\)](https://open.spotify.com/track/7CFbh9XfJ40XaYWgCbYX3H) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 4:06 | 2022-11-02 |  |
 | [Behind The Sun](https://open.spotify.com/track/0dhKGbQFIUnfjozzISQvuj) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 4:10 | 2022-11-02 | 2022-11-13 |
-| [Best Friend](https://open.spotify.com/track/1zEhH5BmSpKi1mRSIfBDOq) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [ALISA UENO](https://open.spotify.com/artist/0WuYfDB2hAYzybfAd75fvb) | [Treehouse](https://open.spotify.com/album/7FGPGfAE8nIov4LhDgKwQa) | 3:04 | 2022-11-02 |  |
+| [Best Friend](https://open.spotify.com/track/1zEhH5BmSpKi1mRSIfBDOq) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [ALISA UENO](https://open.spotify.com/artist/0WuYfDB2hAYzybfAd75fvb) | [Treehouse](https://open.spotify.com/album/7FGPGfAE8nIov4LhDgKwQa) | 3:04 | 2022-11-02 | 2023-10-24 |
 | [Black & Gold](https://open.spotify.com/track/3V45D1XTTyVZFN3liYuik6) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Black & Gold](https://open.spotify.com/album/7gBzSSKb7j7ilqVNfGrmY7) | 4:34 | 2022-11-02 |  |
 | [Blue World](https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 3:29 | 2022-11-02 |  |
 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 | 2022-11-02 |  |
@@ -79,6 +79,7 @@
 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 | 2022-11-02 |  |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-11-02 |  |
 | [Never Enough](https://open.spotify.com/track/2UO6VQNKdwygetKaVCe39h) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT) | 4:58 | 2022-11-02 |  |
+| [No Problem](https://open.spotify.com/track/5k3jdIh7BpJaV1DntDQoSD) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 4:10 | 2022-11-02 |  |
 | [Not In Love \- Radio Version](https://open.spotify.com/track/1Xex5Fnp0MMyg7yjbfFyyK) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO), [Robert Smith](https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0) | [\(II\)](https://open.spotify.com/album/5nHvMBqwzqQIFdVFE1BIcx) | 3:46 | 2022-11-02 |  |
 | [Not In Love \- Radio Version](https://open.spotify.com/track/46Xnj8vZFwOZCE4aZNXlTf) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO), [Robert Smith](https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0) | [\(II\)](https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA) | 3:46 | 2022-11-02 | 2023-05-13 |
 | [Nothing In My Way](https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Under The Iron Sea](https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa) | 4:00 | 2022-11-02 |  |

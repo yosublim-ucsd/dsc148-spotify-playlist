@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Dove Cameron
 
-518 songs - 23 hr 48 min
+519 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,7 +425,8 @@
 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 | 2023-10-13 | 2023-10-21 |
 | [STFU](https://open.spotify.com/track/7KDs1jdpDww170OCpPsjV4) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [STFU](https://open.spotify.com/album/13xF7dlZO7Y8wUM1g4Hvrl) | 2:21 | 2022-07-22 | 2022-09-24 |
 | [Still Alive \- From the Original Motion Picture Scream VI](https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Alive \(From the Original Motion Picture Scream VI\)](https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q) | 3:05 | 2023-03-03 | 2023-03-18 |
-| [Strongly Worded Letter](https://open.spotify.com/track/5BBHMxzR3vMZNlXDEpbIT8) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Strongly Worded Letter](https://open.spotify.com/album/0iJCgwJtJgoToVKta9NXk9) | 2:18 | 2023-07-21 |  |
+| [Strongly Worded Letter](https://open.spotify.com/track/0ZuQFjhs929dxImCpeomRE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:18 | 2023-10-06 |  |
+| [Strongly Worded Letter](https://open.spotify.com/track/5BBHMxzR3vMZNlXDEpbIT8) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Strongly Worded Letter](https://open.spotify.com/album/0iJCgwJtJgoToVKta9NXk9) | 2:18 | 2023-07-21 | 2023-10-24 |
 | [STRUT](https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [STRUT](https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y) | 1:57 | 2022-08-19 | 2023-04-01 |
 | [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 | 2022-07-15 | 2022-08-20 |
 | [Sucker](https://open.spotify.com/track/38RJVU2LTPjW7xiXqCUlDn) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Sucker](https://open.spotify.com/album/27eDRScCURk8HRqIY0mPqM) | 2:55 | 2022-04-15 | 2022-08-27 |

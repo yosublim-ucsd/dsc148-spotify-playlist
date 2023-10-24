@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Vũ Phụng Tiên
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,602 likes - 56 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,688 likes - 56 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 55 | [Có đau thì đau một mình](https://open.spotify.com/track/37od1g713ZvI32VA2diR9L) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j) | [Có đau thì đau một mình](https://open.spotify.com/album/0CUpq5X4lU88UaDjg04HjJ) | 3:30 |
 | 56 | [id 072019](https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD) | [id 072019](https://open.spotify.com/album/7ftthhLvgY5KSMOcpQsMCS) | 4:31 |
 
-Snapshot ID: `MCw3MjA1ZWM3ZjNhYjhiNjMxMjAwNzEzYmYwNGM3Y2VjYTY3ZGQyNWMy`
+Snapshot ID: `MCxjNjBkNzQ3ZTk4YjQ1NzIxMmY2ZWUyMTcyMDBhMWI3MGYyNjJiZTEx`

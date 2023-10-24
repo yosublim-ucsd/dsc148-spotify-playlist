@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS! Cover: The Cadillac Three",
-  "num_followers": 566442,
+  "num_followers": 566571,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTVkMWNlMTkwN2U0YTI1Nzk1ZjQwOGVjNTBhZTA3OTBjMDJkZjc5",
+  "snapshot_id": "MCwyMjYwZDE2MDMwMzJjMjhjMzUyNTQzMWY2NmUxY2U3Yzk4NjNlZjQz",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "TRUCK BED",
+        "url": "https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 167534,
+      "name": "TRUCK BED",
+      "url": "https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "From A Room: Volume 2",
         "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 222653,
       "name": "Midnight Train To Memphis",
       "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Anything Goes",
-        "url": "https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "Dirt",
-      "url": "https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "TRUCK BED",
-        "url": "https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq"
+        "name": "Anything Goes",
+        "url": "https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 167534,
-      "name": "TRUCK BED",
-      "url": "https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL"
+      "duration_ms": 230586,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+        "name": "SOLD OUT",
+        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 169853,
-      "name": "Burn It Down - 717 Tapes",
-      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
+      "duration_ms": 202912,
+      "name": "SOLD OUT",
+      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Tejano Punk Boyz",
-        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
       },
       "artists": [
         {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 168311,
-      "name": "Ramon Ayala",
-      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
+      "duration_ms": 169853,
+      "name": "Burn It Down - 717 Tapes",
+      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Tejano Punk Boyz",
+        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 258799,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "NATE SMITH (DELUXE)",
-        "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 261359,
-      "name": "Sleeve",
-      "url": "https://open.spotify.com/track/586I425aeO3QMzvSZcUOEd"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "SOLD OUT",
-        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
+        "name": "NATE SMITH (DELUXE)",
+        "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 202912,
-      "name": "SOLD OUT",
-      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
+      "duration_ms": 261359,
+      "name": "Sleeve",
+      "url": "https://open.spotify.com/track/586I425aeO3QMzvSZcUOEd"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -715,22 +715,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Ride It Hard",
-        "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
+        "name": "My Kinda Party",
+        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        },
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 150861,
-      "name": "Ride It Hard",
-      "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
+      "duration_ms": 202466,
+      "name": "Tattoos on This Town",
+      "url": "https://open.spotify.com/track/2SEsRxNSXidnMOZoTEzX1k"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -755,18 +751,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "My Kinda Party",
-        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
+        "name": "Ride It Hard",
+        "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 202466,
-      "name": "Tattoos on This Town",
-      "url": "https://open.spotify.com/track/2SEsRxNSXidnMOZoTEzX1k"
+      "duration_ms": 150861,
+      "name": "Ride It Hard",
+      "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+        "name": "Tough Crowd",
+        "url": "https://open.spotify.com/album/3BC1GZqDkYOdF0Icf2iebE"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
+      "duration_ms": 200200,
+      "name": "Tough Crowd",
+      "url": "https://open.spotify.com/track/3CK7htQR2ighxCjU2vra9z"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1063,22 +1063,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
-        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
+        "name": "Pretty Little Poison",
+        "url": "https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg"
       },
       "artists": [
         {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 165465,
-      "name": "Cottonmouth (Rock Mix)",
-      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
+      "duration_ms": 167173,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/5Jbl0Ha0N78bQCO3tngm4w"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1135,18 +1131,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Up To No Good",
-        "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 133629,
-      "name": "Up To No Good",
-      "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1183,18 +1179,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Tough Crowd",
-        "url": "https://open.spotify.com/album/3BC1GZqDkYOdF0Icf2iebE"
+        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
         }
       ],
-      "duration_ms": 200200,
-      "name": "Tough Crowd",
-      "url": "https://open.spotify.com/track/3CK7htQR2ighxCjU2vra9z"
+      "duration_ms": 165465,
+      "name": "Cottonmouth (Rock Mix)",
+      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "BRINGING BACK THE SUNSHINE",
-        "url": "https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 221401,
-      "name": "Neon Light",
-      "url": "https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "World On Fire",
         "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 261269,
       "name": "World On Fire",
       "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "BRINGING BACK THE SUNSHINE",
+        "url": "https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 221401,
+      "name": "Neon Light",
+      "url": "https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1"
     },
     {
       "added_at": "2023-10-20 04:01:00",

@@ -1,37 +1,13 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 49115,
+  "num_followers": 49208,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDNmNjM1Yzc2MzE3YWE0ZDNiZjJiZDliMDE5MjcwMzJjNWUyNjVm",
+  "snapshot_id": "MCw1NDBkYzI2MTQ1MDU3MjE5N2I0M2FiYzgwZWU5NGY4OGU4ZGNiNmE0",
   "tracks": [
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Jireh (My Provider)",
-        "url": "https://open.spotify.com/album/4CsmgXl5bQQWHubJdZvNgW"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Happi",
-          "url": "https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Jireh (My Provider)",
-      "url": "https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH"
-    },
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
@@ -59,6 +35,30 @@
       "duration_ms": 597481,
       "name": "In The Room (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Jireh (My Provider)",
+        "url": "https://open.spotify.com/album/4CsmgXl5bQQWHubJdZvNgW"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Happi",
+          "url": "https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Jireh (My Provider)",
+      "url": "https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -359,6 +359,26 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "My Daddy, My Daddy (Live at AiiiH - As It Is In Heaven)",
+        "url": "https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "duration_ms": 812625,
+      "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
+      "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "My Matter",
         "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
       },
@@ -383,22 +403,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "My Daddy, My Daddy (Live at AiiiH - As It Is In Heaven)",
-        "url": "https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ"
+        "name": "Trust In God (Radio Version)",
+        "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
       },
       "artists": [
         {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        },
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 812625,
-      "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
-      "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
+      "duration_ms": 243715,
+      "name": "Trust In God - Radio Version",
+      "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -443,22 +459,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Trust In God (Radio Version)",
-        "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 243715,
-      "name": "Trust In God - Radio Version",
-      "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -491,22 +491,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Pretty Day",
-        "url": "https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv"
+        "name": "Kingdom Now",
+        "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 154588,
-      "name": "Pretty Day",
-      "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
+      "duration_ms": 696179,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -523,22 +519,6 @@
       "duration_ms": 316280,
       "name": "Lion of Judah",
       "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Kingdom Now",
-        "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 696179,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -583,6 +563,26 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Pretty Day",
+        "url": "https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 154588,
+      "name": "Pretty Day",
+      "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Frankincense",
         "url": "https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh"
       },
@@ -647,26 +631,6 @@
       "duration_ms": 209653,
       "name": "Ka Anyi Bulie (feat. Don Moen)",
       "url": "https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Desire Pt. 2",
-        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 160308,
-      "name": "Desire Pt. 2",
-      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -691,6 +655,22 @@
       "duration_ms": 1005517,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -759,6 +739,26 @@
       "duration_ms": 293782,
       "name": "Ebenezeri",
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Desire Pt. 2",
+        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 160308,
+      "name": "Desire Pt. 2",
+      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Talk & Do",
+        "url": "https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 165254,
+      "name": "Talk & Do",
+      "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "HEAVEN HAS COME",
         "url": "https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 379207,
       "name": "He Fights For Me",
       "url": "https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Talk & Do",
-        "url": "https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 165254,
-      "name": "Talk & Do",
-      "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "The Kadosh (Live)",
+        "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 364762,
+      "name": "Kadosh",
+      "url": "https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 637823,
       "name": "My Worship - Live",
       "url": "https://open.spotify.com/track/7nwC7KGXARrDEAw3kzP3MK"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "The Kadosh (Live)",
-        "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 364762,
-      "name": "Kadosh",
-      "url": "https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1307,34 +1307,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Yesu (Jesus)",
-        "url": "https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "Guya",
-          "url": "https://open.spotify.com/artist/1WdV2fjFsYXEqKe9AaqGpH"
-        }
-      ],
-      "duration_ms": 235559,
-      "name": "Yesu (Jesus)",
-      "url": "https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Way\u03b5 Me Yie",
         "url": "https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr"
       },
@@ -1367,6 +1339,34 @@
       "duration_ms": 552000,
       "name": "Emmanuel",
       "url": "https://open.spotify.com/track/3l5EhgXbihlSPU3ffHikIf"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Yesu (Jesus)",
+        "url": "https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Guya",
+          "url": "https://open.spotify.com/artist/1WdV2fjFsYXEqKe9AaqGpH"
+        }
+      ],
+      "duration_ms": 235559,
+      "name": "Yesu (Jesus)",
+      "url": "https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Open Up",
-        "url": "https://open.spotify.com/album/5XH3M1XHCaAgfQzp53mcRi"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 630187,
-      "name": "Open Up",
-      "url": "https://open.spotify.com/track/0vL8wJhWQhHNAJkGurqPF9"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Glorious",
         "url": "https://open.spotify.com/album/4uoShwbFnmUlYGJpBp0nNe"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Open Up",
+        "url": "https://open.spotify.com/album/5XH3M1XHCaAgfQzp53mcRi"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 630187,
+      "name": "Open Up",
+      "url": "https://open.spotify.com/track/0vL8wJhWQhHNAJkGurqPF9"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Right Here (It Must Be)",
         "url": "https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM"
       },
@@ -1595,22 +1595,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "WINNING",
-        "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
+        "name": "Everything (Amen)",
+        "url": "https://open.spotify.com/album/2nF5JgRAYmjOPTsRVnHX9Q"
       },
       "artists": [
         {
-          "name": "Harmini",
-          "url": "https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9"
-        },
-        {
-          "name": "Chud'e",
-          "url": "https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej"
+          "name": "Timi Dakolo",
+          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
         }
       ],
-      "duration_ms": 152622,
-      "name": "WINNING",
-      "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
+      "duration_ms": 237725,
+      "name": "Everything (Amen)",
+      "url": "https://open.spotify.com/track/0fMFygZkl6SxSgYbXNQZME"
     }
   ],
   "unique_name": "Be Lifted ",

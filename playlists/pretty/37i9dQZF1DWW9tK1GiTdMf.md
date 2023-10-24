@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ blink\-182 in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,575 likes - 80 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,578 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 18 | [stavo a pezzi](https://open.spotify.com/track/6RyGkmeveyU9oY0oMHtWLT) | [Nasty](https://open.spotify.com/artist/6qVd6sJa9iGbakgovgExKC), [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY), [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm) | [stavo a pezzi](https://open.spotify.com/album/1cbVNjE8XIWI2bsSpVv9CN) | 2:48 |
 | 19 | [Baggen](https://open.spotify.com/track/4amQQ9Z5pHo2kpe3jUK47T) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Baggen](https://open.spotify.com/album/72eKrH7WXEhT2sQeNdYE1W) | 3:09 |
 | 20 | [love is embarrassing](https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:34 |
-| 21 | [Sogni più grandi](https://open.spotify.com/track/66iaIDwL6Ud7g30xcdjGcY) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Sitcom triste](https://open.spotify.com/album/4s536NBIBRn8q829pTkzn6) | 2:43 |
-| 22 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 |
-| 23 | [DIE YOUNG](https://open.spotify.com/track/2kvQMZIrlD0buXHvYVIXwl) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [Bedini](https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP) | [DIE YOUNG](https://open.spotify.com/album/6LpZxZD4fwq1MzQrTKzWN0) | 2:19 |
-| 24 | [Viziata](https://open.spotify.com/track/1Ls0QINAFXcRHgVg3ZERoZ) | [NYX](https://open.spotify.com/artist/1RzE3e8u66CAb4tAyhqK6i) | [Viziata](https://open.spotify.com/album/7dwcKWrFhwh6bbwncXDG3r) | 2:10 |
-| 25 | [17](https://open.spotify.com/track/0Jf5MAnxr6nvkLMEFdrWxd) | [TVB](https://open.spotify.com/artist/05LOeuVeelln8qMq6s1Cz5) | [17](https://open.spotify.com/album/6ORovC0GFut8qSeFrxcuwN) | 3:08 |
-| 26 | [occhiali](https://open.spotify.com/track/11KKERJounzfktvpniYWmD) | [kimori](https://open.spotify.com/artist/1Ry25dXtTBXrHleJl71Ikn), [Polvere](https://open.spotify.com/artist/3NKj5gr7FA8TAdXgH6ZS3Z) | [occhiali](https://open.spotify.com/album/4bzhdsaL1v7sPECZmiuBsz) | 2:19 |
-| 27 | [Tossicodipendente](https://open.spotify.com/track/6xQsIFt1uRYNdYB70yCZep) | [JayDar](https://open.spotify.com/artist/0tHTchaslfK5pMyVCiYoom) | [Tossicodipendente](https://open.spotify.com/album/7JSxq45JkYIcpbjLBAoGCt) | 2:10 |
-| 28 | [Uragani](https://open.spotify.com/track/4dSbeUXG4uIqtMnGnIq7gx) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Uragani](https://open.spotify.com/album/13QK1Wj4lHzuTwd9uWpELC) | 2:39 |
+| 21 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 |
+| 22 | [DIE YOUNG](https://open.spotify.com/track/2kvQMZIrlD0buXHvYVIXwl) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [Bedini](https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP) | [DIE YOUNG](https://open.spotify.com/album/6LpZxZD4fwq1MzQrTKzWN0) | 2:19 |
+| 23 | [Viziata](https://open.spotify.com/track/1Ls0QINAFXcRHgVg3ZERoZ) | [NYX](https://open.spotify.com/artist/1RzE3e8u66CAb4tAyhqK6i) | [Viziata](https://open.spotify.com/album/7dwcKWrFhwh6bbwncXDG3r) | 2:10 |
+| 24 | [17](https://open.spotify.com/track/0Jf5MAnxr6nvkLMEFdrWxd) | [TVB](https://open.spotify.com/artist/05LOeuVeelln8qMq6s1Cz5) | [17](https://open.spotify.com/album/6ORovC0GFut8qSeFrxcuwN) | 3:08 |
+| 25 | [occhiali](https://open.spotify.com/track/11KKERJounzfktvpniYWmD) | [kimori](https://open.spotify.com/artist/1Ry25dXtTBXrHleJl71Ikn), [Polvere](https://open.spotify.com/artist/3NKj5gr7FA8TAdXgH6ZS3Z) | [occhiali](https://open.spotify.com/album/4bzhdsaL1v7sPECZmiuBsz) | 2:19 |
+| 26 | [Tossicodipendente](https://open.spotify.com/track/6xQsIFt1uRYNdYB70yCZep) | [JayDar](https://open.spotify.com/artist/0tHTchaslfK5pMyVCiYoom) | [Tossicodipendente](https://open.spotify.com/album/7JSxq45JkYIcpbjLBAoGCt) | 2:10 |
+| 27 | [Uragani](https://open.spotify.com/track/4dSbeUXG4uIqtMnGnIq7gx) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Uragani](https://open.spotify.com/album/13QK1Wj4lHzuTwd9uWpELC) | 2:39 |
+| 28 | [Sogni più grandi](https://open.spotify.com/track/66iaIDwL6Ud7g30xcdjGcY) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Sitcom triste](https://open.spotify.com/album/4s536NBIBRn8q829pTkzn6) | 2:43 |
 | 29 | [Sex Pistols](https://open.spotify.com/track/47jzbaq1cxQTjdOcGjXbEA) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [Sex Pistols](https://open.spotify.com/album/2fBwG4OHm8OTfcvx0fiV6j) | 3:01 |
 | 30 | [NON CI SENTIAMO](https://open.spotify.com/track/1IE3dsoXPx6PK19rVb01bN) | [hso](https://open.spotify.com/artist/2Jqn0PKbcKi3q8TSsvyeKc) | [NON CI SENTIAMO](https://open.spotify.com/album/7BNuGCLuPTJCaopyAncJYP) | 2:31 |
 | 31 | [69](https://open.spotify.com/track/4oZ7n9pPCG943SCWYhHfOI) | [GIUMO](https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [69](https://open.spotify.com/album/2BCFjN4rmQaYEtZnNxSjX0) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
 | 80 | [Pillole](https://open.spotify.com/track/7gBO9lts9MZomcwuZnIXTy) | [TVB](https://open.spotify.com/artist/05LOeuVeelln8qMq6s1Cz5) | [Pillole](https://open.spotify.com/album/2LFoEjRvmHKzcstDPLPLUi) | 2:47 |
 
-Snapshot ID: `MCxkODBlYTFlODRkZmZlODZiNzYxYTgzNzNmOWE5MmZkZTQ1YmU2NTkx`
+Snapshot ID: `MCxjZmRiM2ZmMzY3YjBjMzUyY2ZiOGU1NzdiMTMzNWQ3MzcwYzY2ZTVi`

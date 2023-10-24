@@ -4,7 +4,7 @@
 
 > Check out our Kollywood Machos!<br/>Cover : Suriya
 
-51 songs - 3 hr 23 min
+52 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Adheeraa \(From "Cobra"\)](https://open.spotify.com/track/4381FmKZc1uT2zzhBiknH7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vagu Mazan](https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV), [Thoughtsfornow](https://open.spotify.com/artist/6UZh26X3rn1LVK5lLn4FoG) | [Adheeraa \(From "Cobra"\)](https://open.spotify.com/album/61DkChDkz3MoWGypHYVdCP) | 4:19 | 2023-05-13 |  |
 | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/track/6yvxu91deFKt3X1QoV6qMv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/album/3OUj9ygj2KRcnKY1a1daGt) | 4:39 | 2022-02-22 |  |
 | [Arjunaru Villu](https://open.spotify.com/track/4B3uubrr7l9Sv4gqqHJJZt) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Manikka Vinayagam](https://open.spotify.com/artist/5sehJiCiH15ihXYCKyEALX) | [Ghilli \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3mg9ASfIe2gsUbL1JK18JL) | 4:27 | 2023-05-13 |  |
+| [Badass \(From "Leo"\)](https://open.spotify.com/track/32qnBgfzURbwNayQIEB5W5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Badass \(From "Leo"\)](https://open.spotify.com/album/4f9WYw6XMUlo3O9dJ15HvP) | 3:49 | 2023-10-17 |  |
 | [Bang Bang Bang](https://open.spotify.com/track/3ZVKzrWt3efdPVLmiYdr6M) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth) | [Anjaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qIAKHcqa007lIbjxorQOv) | 4:10 | 2021-06-21 |  |
 | [Beast Mode \(From "Beast"\)](https://open.spotify.com/track/1aQ58u4guUf999iQX3J2HF) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Beast Mode \(From "Beast"\)](https://open.spotify.com/album/0gTZnvc3F1cHmJTTe9OBGb) | 3:40 | 2023-05-13 |  |
 | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/track/6rJhjykEkCqm3H64uALhhf) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/album/3jTx8LYOYIO0cRZDlS1uPx) | 4:27 | 2021-06-21 |  |

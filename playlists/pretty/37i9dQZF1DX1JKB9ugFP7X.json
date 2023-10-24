@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23622,
+  "num_followers": 23620,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjM3ZTAyNmY3MjE5ZDM0ZGQ3YWUwNmY4YjljYTM2YmViODJhYzRm",
+  "snapshot_id": "MCwyZDEyYmRjMGZhNjRkZGU3MTI3NWJlOTIzMjA4YjZhMjBiODM2ZDdi",
   "tracks": [
     {
       "added_at": "2023-09-08 03:00:00",
@@ -151,26 +151,18 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "eclips3",
-        "url": "https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9"
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2"
       },
       "artists": [
         {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
-        },
-        {
-          "name": "dayvan",
-          "url": "https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y"
-        },
-        {
-          "name": "Evar",
-          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
         }
       ],
-      "duration_ms": 212390,
-      "name": "DARKSOULS",
-      "url": "https://open.spotify.com/track/1pBugwted2IO3pR7APQPP5"
+      "duration_ms": 286424,
+      "name": "No Van a Parar",
+      "url": "https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -203,26 +195,26 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Se Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
+        "name": "eclips3",
+        "url": "https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9"
       },
       "artists": [
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
         },
         {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+          "name": "dayvan",
+          "url": "https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y"
         },
         {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+          "name": "Evar",
+          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
         }
       ],
-      "duration_ms": 174219,
-      "name": "Se Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
+      "duration_ms": 212390,
+      "name": "DARKSOULS",
+      "url": "https://open.spotify.com/track/1pBugwted2IO3pR7APQPP5"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -243,18 +235,26 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Anestesia",
-        "url": "https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2"
+        "name": "Se Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
       },
       "artists": [
         {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        },
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
         }
       ],
-      "duration_ms": 286424,
-      "name": "No Van a Parar",
-      "url": "https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ"
+      "duration_ms": 174219,
+      "name": "Se Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "2 Son 3",
-        "url": "https://open.spotify.com/album/2cUzWOspLcV5jj7lBuO51G"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 165455,
-      "name": "2 Son 3",
-      "url": "https://open.spotify.com/track/4kxj9KZS04HYOdJOgawFTT"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Remixes II",
         "url": "https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N"
       },
@@ -411,6 +395,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "2 Son 3",
+        "url": "https://open.spotify.com/album/2cUzWOspLcV5jj7lBuO51G"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 165455,
+      "name": "2 Son 3",
+      "url": "https://open.spotify.com/track/4kxj9KZS04HYOdJOgawFTT"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "CHROME",
         "url": "https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG"
       },
@@ -451,22 +451,6 @@
       "duration_ms": 272695,
       "name": "ACUARIO",
       "url": "https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "MOTIVEISHON",
-        "url": "https://open.spotify.com/album/0g59CBu6GWWJO8QGWS2uhD"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 158035,
-      "name": "MOTIVEISHON",
-      "url": "https://open.spotify.com/track/35bxOftuO0ljnk35fJCbCY"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -523,6 +507,22 @@
       "duration_ms": 217066,
       "name": "Locura",
       "url": "https://open.spotify.com/track/79NtEgOBdPsUCwynkb9sHK"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "MOTIVEISHON",
+        "url": "https://open.spotify.com/album/0g59CBu6GWWJO8QGWS2uhD"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 158035,
+      "name": "MOTIVEISHON",
+      "url": "https://open.spotify.com/track/35bxOftuO0ljnk35fJCbCY"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "SHAMPOO",
-        "url": "https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 181983,
-      "name": "SHAMPOO",
-      "url": "https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Cuando Se Apague Todo",
         "url": "https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 228443,
       "name": "Cuando Se Apague Todo",
       "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "SHAMPOO",
+        "url": "https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 181983,
+      "name": "SHAMPOO",
+      "url": "https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -903,18 +903,38 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
+        "name": "Chicos de la Luz",
+        "url": "https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe"
       },
       "artists": [
         {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g"
         }
       ],
-      "duration_ms": 201601,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
+      "duration_ms": 279600,
+      "name": "Caribbean",
+      "url": "https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Poncholandia",
+        "url": "https://open.spotify.com/album/7IY4JeLJedz5xyMDi0gfzW"
+      },
+      "artists": [
+        {
+          "name": "Poncho",
+          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
+        },
+        {
+          "name": "Karina Vismara",
+          "url": "https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Sola por la Ciudad",
+      "url": "https://open.spotify.com/track/1UH3xWxB8T2kTZlg37tfFs"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -943,42 +963,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Poncholandia",
-        "url": "https://open.spotify.com/album/7IY4JeLJedz5xyMDi0gfzW"
-      },
-      "artists": [
-        {
-          "name": "Poncho",
-          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
-        },
-        {
-          "name": "Karina Vismara",
-          "url": "https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Sola por la Ciudad",
-      "url": "https://open.spotify.com/track/1UH3xWxB8T2kTZlg37tfFs"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Chicos de la Luz",
-        "url": "https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe"
-      },
-      "artists": [
-        {
-          "name": "Astro",
-          "url": "https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g"
-        }
-      ],
-      "duration_ms": 279600,
-      "name": "Caribbean",
-      "url": "https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Teoria Espacial (Remix)",
         "url": "https://open.spotify.com/album/4pfZBCyYE5KMS26hgwqNQx"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 332542,
       "name": "Teoria Espacial (Remix)",
       "url": "https://open.spotify.com/track/6AHPhNfRmMZX9Oj4ulslKw"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 201601,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1031,6 +1031,26 @@
       "duration_ms": 240113,
       "name": "Bajo la piel",
       "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Voces",
+        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
+      },
+      "artists": [
+        {
+          "name": "Julais",
+          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
+        },
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Voces",
+      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1107,26 +1127,6 @@
       "duration_ms": 448000,
       "name": "No Van a Parar - Remix",
       "url": "https://open.spotify.com/track/3zY3SqG8uQdD2zhNQi98NY"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Voces",
-        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
-      },
-      "artists": [
-        {
-          "name": "Julais",
-          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
-        },
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Voces",
-      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1227,38 +1227,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "MELONI",
-        "url": "https://open.spotify.com/album/1r1GGAlVXkvKowtbnwy0XO"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "MELONI",
-      "url": "https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Guazatumba",
-        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
-      },
-      "artists": [
-        {
-          "name": "Dani Umpi",
-          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
-        }
-      ],
-      "duration_ms": 229726,
-      "name": "Circular",
-      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Trampa",
         "url": "https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL"
       },
@@ -1279,6 +1247,38 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Guazatumba",
+        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
+      },
+      "artists": [
+        {
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
+        }
+      ],
+      "duration_ms": 229726,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "MELONI",
+        "url": "https://open.spotify.com/album/1r1GGAlVXkvKowtbnwy0XO"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 178050,
+      "name": "MELONI",
+      "url": "https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Atemporal",
         "url": "https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "En el Palacio (REMIX)",
-        "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
-      },
-      "artists": [
-        {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
-        }
-      ],
-      "duration_ms": 246144,
-      "name": "En la Torre - AV Remix",
-      "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Cu\u00e1nto Falta",
         "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 240050,
       "name": "Cu\u00e1nto Falta",
       "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "En el Palacio (REMIX)",
+        "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
+      },
+      "artists": [
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+        }
+      ],
+      "duration_ms": 246144,
+      "name": "En la Torre - AV Remix",
+      "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1519,22 +1519,18 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "FLAPS",
-        "url": "https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn"
+        "name": "Compa\u00f1era",
+        "url": "https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4"
       },
       "artists": [
         {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
-        },
-        {
-          "name": "ELET\u00c9",
-          "url": "https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs"
+          "name": "Fonosida",
+          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
         }
       ],
-      "duration_ms": 225173,
-      "name": "Flaps",
-      "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
+      "duration_ms": 273337,
+      "name": "Compa\u00f1erx",
+      "url": "https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1555,18 +1551,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Compa\u00f1era",
-        "url": "https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4"
+        "name": "FLAPS",
+        "url": "https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn"
       },
       "artists": [
         {
-          "name": "Fonosida",
-          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        },
+        {
+          "name": "ELET\u00c9",
+          "url": "https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs"
         }
       ],
-      "duration_ms": 273337,
-      "name": "Compa\u00f1erx",
-      "url": "https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q"
+      "duration_ms": 225173,
+      "name": "Flaps",
+      "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1651,22 +1651,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Zentaura",
-        "url": "https://open.spotify.com/album/5QkPxWYBgDfEnkNzL9zy1m"
+        "name": "Todas las Luces (Remix)",
+        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
       },
       "artists": [
         {
-          "name": "Juli\u00e1n Desbats",
-          "url": "https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP"
+          "name": "Nadar de Noche",
+          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
         },
         {
-          "name": "Dani Umpi",
-          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
+          "name": "Disonar",
+          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
         }
       ],
-      "duration_ms": 186158,
-      "name": "Zentaura",
-      "url": "https://open.spotify.com/track/5n8wmlh90HNlV0VnAhxw0Z"
+      "duration_ms": 220000,
+      "name": "Todas las Luces - Remix",
+      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1691,22 +1691,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Todas las Luces (Remix)",
-        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
+        "name": "Zentaura",
+        "url": "https://open.spotify.com/album/5QkPxWYBgDfEnkNzL9zy1m"
       },
       "artists": [
         {
-          "name": "Nadar de Noche",
-          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
+          "name": "Juli\u00e1n Desbats",
+          "url": "https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP"
         },
         {
-          "name": "Disonar",
-          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Todas las Luces - Remix",
-      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
+      "duration_ms": 186158,
+      "name": "Zentaura",
+      "url": "https://open.spotify.com/track/5n8wmlh90HNlV0VnAhxw0Z"
     },
     {
       "added_at": "2023-09-08 03:00:00",

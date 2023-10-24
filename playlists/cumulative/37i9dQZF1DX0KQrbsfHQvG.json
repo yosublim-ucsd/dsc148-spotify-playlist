@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "War Music",
+        "url": "https://open.spotify.com/album/06Pm2i8LurTQYVoVv0JUEQ"
+      },
+      "artists": [
+        {
+          "name": "Refused",
+          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241440,
+      "name": "Economy Of Death",
+      "url": "https://open.spotify.com/track/3CZu2KpWG3RvVn6mbIhG6J"
+    },
+    {
+      "album": {
         "name": "Election Year, Pt. 1",
         "url": "https://open.spotify.com/album/67VTZ5lbwheDEkSfTv1noT"
       },
@@ -800,7 +818,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 171426,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4KsMTsVpgVRQvPKhYkm0ff"

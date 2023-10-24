@@ -2875,6 +2875,24 @@
     },
     {
       "album": {
+        "name": "Liebevoll",
+        "url": "https://open.spotify.com/album/5lp9wSSEvsgowFwuhrJ4Z8"
+      },
+      "artists": [
+        {
+          "name": "Pontiver Bogross",
+          "url": "https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144681,
+      "name": "Liebevoll",
+      "url": "https://open.spotify.com/track/5M4W1gIBx3eqCoxZWy48zE"
+    },
+    {
+      "album": {
         "name": "Liegende",
         "url": "https://open.spotify.com/album/25qCxo5QzY8UjJxq2SJHwY"
       },
@@ -2944,6 +2962,24 @@
       "duration_ms": 113135,
       "name": "Los Viejos Tiempos",
       "url": "https://open.spotify.com/track/3B9bfvdtGxZp4IKU2esmQ3"
+    },
+    {
+      "album": {
+        "name": "Lost to memories",
+        "url": "https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj"
+      },
+      "artists": [
+        {
+          "name": "Aimon Cour",
+          "url": "https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134056,
+      "name": "Lost to memories",
+      "url": "https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx"
     },
     {
       "album": {
@@ -6127,6 +6163,24 @@
     },
     {
       "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/3OfYsWc5jgdwmYZuQwzn6E"
+      },
+      "artists": [
+        {
+          "name": "Carmelito",
+          "url": "https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122105,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/0cUVh5ofEVsK3IiGS4Flii"
+    },
+    {
+      "album": {
         "name": "Une main tendue",
         "url": "https://open.spotify.com/album/33xfKJOTxE3XQPsinEubFw"
       },
@@ -6468,6 +6522,24 @@
       "duration_ms": 98661,
       "name": "Wandering Life",
       "url": "https://open.spotify.com/track/15mIfyHJT8lUGn8wutYlSr"
+    },
+    {
+      "album": {
+        "name": "Warm Embrace",
+        "url": "https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY"
+      },
+      "artists": [
+        {
+          "name": "Ann Hildering",
+          "url": "https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163072,
+      "name": "Warm Embrace",
+      "url": "https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp"
     },
     {
       "album": {

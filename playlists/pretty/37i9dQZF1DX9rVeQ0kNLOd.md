@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,335 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,346 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 21 | [Mo ai ni](https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era), [石玺彤](https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd) | [Mo ai ni](https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7) | 2:58 |
 | 22 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 |
 | 23 | [光を浴びて](https://open.spotify.com/track/6w8teS79FT2JV8XV4EgZDj) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [光を浴びて](https://open.spotify.com/album/2gmerqerD6iqVX4RgzDWGt) | 3:45 |
-| 24 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 |
+| 24 | [アイラブユー](https://open.spotify.com/track/4gbHag1jhjLTDcrbfpFnYQ) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [アイラブユー](https://open.spotify.com/album/6gnt7LdFIjqUsIszpOVIrX) | 3:55 |
 | 25 | [Fantasy](https://open.spotify.com/track/68PdIBBJErUzVtv3Bt0LA5) | [Ryota Oyabu](https://open.spotify.com/artist/1ySrxjDBwFRDFoURBQxTZl) | [Fantasy](https://open.spotify.com/album/2tccW0oHy4LxDwSJgabJsR) | 3:03 |
-| 26 | [アイラブユー](https://open.spotify.com/track/4gbHag1jhjLTDcrbfpFnYQ) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [アイラブユー](https://open.spotify.com/album/6gnt7LdFIjqUsIszpOVIrX) | 3:55 |
+| 26 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 |
 | 27 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 |
 | 28 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 |
 | 29 | [Still Kids](https://open.spotify.com/track/33D7bUIRqRhmtGYANebooD) | [RAq](https://open.spotify.com/artist/0I6KWC4h8huHA3Mgj2NaqZ) | [Still Kids](https://open.spotify.com/album/2va0YoJbvWNYvwGteuoWRA) | 3:01 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 44 | [Have a nice day](https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Have a nice day](https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l) | 2:55 |
 | 45 | [snow jam](https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [swipe sheep](https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do) | 3:05 |
 | 46 | [Soranji](https://open.spotify.com/track/7qXIWBGtLLHIhWCmjgLJFB) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/5uNvYxV3OV1b0BGlClvujb) | 5:44 |
-| 47 | [ここにいよう](https://open.spotify.com/track/5krCrPrv0xU9ubHYRHLv6l) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [ここにいよう](https://open.spotify.com/album/0DZRNjF72FT7w9plpPpZlK) | 3:43 |
-| 48 | [溜め息](https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [舌打](https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v) | 2:57 |
-| 49 | [minority](https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [Suddenly](https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM) | 2:27 |
+| 47 | [minority](https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [Suddenly](https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM) | 2:27 |
+| 48 | [ここにいよう](https://open.spotify.com/track/5krCrPrv0xU9ubHYRHLv6l) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [ここにいよう](https://open.spotify.com/album/0DZRNjF72FT7w9plpPpZlK) | 3:43 |
+| 49 | [溜め息](https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [舌打](https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v) | 2:57 |
 | 50 | [BUDDY feat\. PUNPEE](https://open.spotify.com/track/6bMSF3fC1jVEhJr5h0riXq) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [The Beam](https://open.spotify.com/album/0NT8BKRHuR95nYb8M0Z3Gh) | 3:36 |
 
-Snapshot ID: `MCw2MDc0YWU5YjRlZTA0OGNmZDg0MzYxZDRjZGRjMDljNGNjMTNmYTZi`
+Snapshot ID: `MCw4NzRiZjA3MjM5MGE3YjkzMTBkY2IxYTUzODNhNTA5NWRiZDE0MzQ0`

@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe.
 
-275 songs - 15 hr 4 min
+276 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Adentro](https://open.spotify.com/track/4CROIfMRtC28Wx9otPTPER) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Adentro](https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr) | 3:18 | 2023-08-18 | 2023-09-23 |
 | [Agua Salada](https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Agua Salada](https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W) | 3:33 | 2023-08-18 |  |
 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 | 2023-04-15 | 2023-05-06 |
+| [Algo Tiene](https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té De Tilo Por Favor](https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT) | 3:04 | 2023-10-19 |  |
 | [ALGUIEN MÁS \(With Yami Safdie\)](https://open.spotify.com/track/0YeGf9akfyIq3FyKL1rkPl) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:21 | 2023-08-18 | 2023-10-05 |
 | [Amapolas \- Remix](https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Amapolas \(Remix\)](https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U) | 4:27 | 2023-08-11 |  |
 | [Amor](https://open.spotify.com/track/45v5rMeDnY1wHTkhaDgNxi) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Amor](https://open.spotify.com/album/6FwDN1bjkhQGnDEfHDALTY) | 3:20 | 2023-08-25 | 2023-09-23 |
@@ -77,7 +78,7 @@
 | [Desastre](https://open.spotify.com/track/2T3shLFlv5svyAGHjT68GH) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Desastre](https://open.spotify.com/album/3Tdg1F62EicWL8YJ7KNbpY) | 3:31 | 2023-06-09 | 2023-08-19 |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2023-03-17 | 2023-08-12 |
 | [DESPECHÁ RMX](https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [DESPECHÁ RMX](https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP) | 2:50 | 2023-03-17 | 2023-04-07 |
-| [Detox](https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Detox](https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk) | 2:47 | 2023-10-04 |  |
+| [Detox](https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Detox](https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk) | 2:47 | 2023-10-04 | 2023-10-24 |
 | [DIAMANTE](https://open.spotify.com/track/5HZH0Rbz2mRnqgBkBeTsOf) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [DIAMANTE](https://open.spotify.com/album/7pFnghxBLJx78ZDRUSkEYy) | 2:55 | 2023-08-23 | 2023-09-23 |
 | [DICE](https://open.spotify.com/track/0e87Z3FQekycI7FHdkdCr4) | [ABRYL KLV](https://open.spotify.com/artist/6vlfOIPhafqPkuXiNunwFd) | [DICE](https://open.spotify.com/album/7I0pYCCFO4S232JoDlxPAp) | 3:22 | 2023-06-27 | 2023-08-19 |
 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2023-08-11 |  |

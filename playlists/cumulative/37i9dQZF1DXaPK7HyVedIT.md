@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: RUBACK
 
-161 songs - 8 hr 41 min
+162 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Come Together](https://open.spotify.com/track/33FAo8SU8bu8o5o2RMvQuZ) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd) | [Come Together](https://open.spotify.com/album/0Z4NciZWgkICzAsdchEWep) | 3:39 | 2023-07-21 | 2023-07-29 |
 | [Cometa](https://open.spotify.com/track/0XB3UigycQE75lWN6noCLm) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Ghabe](https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA), [Theff](https://open.spotify.com/artist/1z378XZX0bmNMnwtu9x64p) | [Cometa](https://open.spotify.com/album/3g0e5RFurzcTBt4Ozh3MGs) | 3:04 | 2023-07-21 | 2023-10-21 |
 | [Computers Take Over The World \- Cat Dealers Remix](https://open.spotify.com/track/1EMJQUJy57fHZ4dyqrFvjN) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Computers Take Over The World \(Remixes\)](https://open.spotify.com/album/6VhnussdJIvf9LGBVkUr6J) | 2:59 | 2023-09-15 |  |
-| [Crazy Tech](https://open.spotify.com/track/3KdbeERPmj7IlwAxnRjZTd) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Alija](https://open.spotify.com/artist/4iGQCEqv5O2JPlcfyhkxEV) | [Crazy Tech](https://open.spotify.com/album/6WkMXJvvcOFJywfHIuPO8U) | 3:04 | 2023-10-13 |  |
+| [Crazy Tech](https://open.spotify.com/track/3KdbeERPmj7IlwAxnRjZTd) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Alija](https://open.spotify.com/artist/4iGQCEqv5O2JPlcfyhkxEV) | [Crazy Tech](https://open.spotify.com/album/6WkMXJvvcOFJywfHIuPO8U) | 3:04 | 2023-10-13 | 2023-10-24 |
 | [Creepin'](https://open.spotify.com/track/3t1KAeqDaTizVw0UcnOaPS) | [Krmoni](https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz) | [Creepin'](https://open.spotify.com/album/4NN5vXPGsEnIjg0EyT721i) | 2:07 | 2023-07-21 | 2023-08-19 |
 | [Deeper Love](https://open.spotify.com/track/7c4p2hXyhgQJ1ZGL3bkt4a) | [Ralk](https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC), [Different Stage](https://open.spotify.com/artist/7ceDWHSy9Z6e8uAsVesK8Z), [sone.](https://open.spotify.com/artist/0IUu7qzhlQ3OxKomKLpC5c) | [Deeper Love](https://open.spotify.com/album/2TZSmNJVWFAEPyez2IpXML) | 3:35 | 2023-07-21 | 2023-07-29 |
 | [Desire \(with Sam Smith\) \- Alok Remix](https://open.spotify.com/track/7qyoYlYSgfeTqAqJXmoIKe) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Desire \(with Sam Smith\) \[Alok Remix\]](https://open.spotify.com/album/46I5OWuJfe8XtaRaofQbv4) | 2:56 | 2023-09-08 |  |
@@ -134,6 +134,7 @@
 | [Rock The Casbah](https://open.spotify.com/track/3D0LkP3sKoCuwPihiRtJfr) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Rock The Casbah](https://open.spotify.com/album/6cRtfyZvWhfhrZZR1r4cRo) | 3:05 | 2023-07-21 | 2023-09-16 |
 | [Rubber](https://open.spotify.com/track/5NyQ7NvT3zwisjmsUZkqTw) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf) | [Rubber](https://open.spotify.com/album/3Hlqhxneb4KFXGUsP2NEzg) | 2:55 | 2023-07-21 | 2023-08-26 |
 | [Saudade](https://open.spotify.com/track/4kLACPjEM0LONaeV4EPukM) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Saudade](https://open.spotify.com/album/6HcNjElqykWI4IYQk7OEE1) | 4:07 | 2023-10-13 |  |
+| [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2023-10-23 |  |
 | [Se Entrega e Vem Sem Medo](https://open.spotify.com/track/6jxETk9VY0k66TEFepx7hK) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [DeeDee Beatz](https://open.spotify.com/artist/5VlwUwzl78CmXocY4cSFbG) | [Se Entrega e Vem Sem Medo](https://open.spotify.com/album/0jvkA2TsGvdjgpsgJtawp2) | 2:47 | 2023-10-20 |  |
 | [Signs](https://open.spotify.com/track/0b8lpoNBGyKuSqaQLEvkOM) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Signs](https://open.spotify.com/album/5FqlL2SJpXKsycOUOojUcx) | 3:00 | 2023-09-08 |  |
 | [Sirene](https://open.spotify.com/track/3LakWxXfyJkveLGXV0n4yT) | [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB), [RUSHÖ](https://open.spotify.com/artist/55Ucoc9siWcgzIZLoe8m1N) | [Sirene](https://open.spotify.com/album/0h4aiXFDpKfbU7UBrs8OoW) | 4:07 | 2023-07-21 |  |

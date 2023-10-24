@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,197 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,247 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 23 | [In My Eyes](https://open.spotify.com/track/20uZlOriIFYJt21nCwyAah) | [Beowülf](https://open.spotify.com/artist/4owATw6JCMuUxeWdh3eiyg) | [In My Eyes](https://open.spotify.com/album/0AN836ptcBD1Ob3fGqx7Di) | 1:41 |
 | 24 | [With Somebody Else](https://open.spotify.com/track/04BwBjVvvHshN9RbqNXfWQ) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Dhan](https://open.spotify.com/artist/4lQmhdlVTRQa2Frwp4V5Mi) | [With Somebody Else](https://open.spotify.com/album/6vj6WrPqUx9sj5oPND8tb6) | 2:41 |
 | 25 | [Why](https://open.spotify.com/track/49mcwkJTu9JNHTSPdxFbv6) | [Ohwell](https://open.spotify.com/artist/2bUPDZFoC3GlwJyEggn8Jj) | [Forget About Her](https://open.spotify.com/album/0DRMTbC9VGMiv75DM20nHD) | 1:14 |
-| 26 | [unwanted](https://open.spotify.com/track/43VHPo6joBAvIMZ1KJTukf) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Mixed Emotions](https://open.spotify.com/album/3igfYDpmMHHpErLb8vD3pg) | 2:11 |
-| 27 | [falling down](https://open.spotify.com/track/6gN6kwb5xLVfup7d2A33aS) | [LoofiMixKichi](https://open.spotify.com/artist/0L7TeDYhHDrrrZp2Mbzq6V) | [falling down](https://open.spotify.com/album/1ophVAxCyBO9AQ5Mvh2ALP) | 1:36 |
+| 26 | [falling down](https://open.spotify.com/track/6gN6kwb5xLVfup7d2A33aS) | [LoofiMixKichi](https://open.spotify.com/artist/0L7TeDYhHDrrrZp2Mbzq6V) | [falling down](https://open.spotify.com/album/1ophVAxCyBO9AQ5Mvh2ALP) | 1:36 |
+| 27 | [unwanted](https://open.spotify.com/track/43VHPo6joBAvIMZ1KJTukf) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Mixed Emotions](https://open.spotify.com/album/3igfYDpmMHHpErLb8vD3pg) | 2:11 |
 | 28 | [Was I Not Good Enough?](https://open.spotify.com/track/2XGWFqeiRy3LuMZ9eNWYbW) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb), [Mia Smith](https://open.spotify.com/artist/6qZ3QAYU67N9H7IJc6rBvz) | [Lonely EP](https://open.spotify.com/album/1dXhepwQGzqvbFBylgMbZF) | 2:25 |
 | 29 | [$orries](https://open.spotify.com/track/6F0gZWBvI3BnV39qCXfsbf) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [$orries](https://open.spotify.com/album/4UC6UTIy5LGAxiRNrEh1of) | 3:34 |
 | 30 | [Choke](https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg) | 3:00 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 38 | [Seymour \(with Dawn Golden\)](https://open.spotify.com/track/3tpr337B8DsgKo7JR2eYAS) | [Drevm](https://open.spotify.com/artist/4pHeEHS66wGubk4WCJ5BZG), [Dawn Golden](https://open.spotify.com/artist/6MzxeKydmXufvX7HYPknFW) | [Seymour \(with Dawn Golden\)](https://open.spotify.com/album/7BccR0AIrdXUozgZTAX6gE) | 1:53 |
 | 39 | [Hold on, Pt\. 2](https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0) | [Ok2222](https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX) | [Lonely](https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3) | 1:24 |
 | 40 | [Louie's Lullaby](https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Pause](https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP) | 2:51 |
-| 41 | [emerald](https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [in.the.forest.we.are.wizards](https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS) | 2:34 |
-| 42 | [Home Soon](https://open.spotify.com/track/0plIIWDys4UBGmura01RpY) | [yuzu blur](https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R) | [Home Soon](https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k) | 2:24 |
+| 41 | [Home Soon](https://open.spotify.com/track/0plIIWDys4UBGmura01RpY) | [yuzu blur](https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R) | [Home Soon](https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k) | 2:24 |
+| 42 | [emerald](https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [in.the.forest.we.are.wizards](https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS) | 2:34 |
 | 43 | [Distant](https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:24 |
 | 44 | [Behind](https://open.spotify.com/track/4MKnTSEJuUFKvf4LcKMsw6) | [Sensi Sye](https://open.spotify.com/artist/0vDAUcrogFgvsMAXkjHZEQ) | [Behind](https://open.spotify.com/album/0pUE8rJ1nTr1JIVhOTXEaD) | 2:53 |
 | 45 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 |
 | 46 | [Timeless](https://open.spotify.com/track/0ggWXuDQjK8EoQAFWQkJHX) | [Floreyyyy](https://open.spotify.com/artist/2fMMmMEc0ZPVLNggWnomXv) | [Timeless](https://open.spotify.com/album/6myBiEX4iPLOWQpGOVqXZm) | 2:28 |
 | 47 | [But of All We Did Together, Was It Worth It?](https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Prelude to the Dawn](https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS) | 2:34 |
 | 48 | [Keep On Going](https://open.spotify.com/track/1t2o9QX8hlJGEQ4DA1oLNw) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Keep On Going](https://open.spotify.com/album/66bMNbYRV8vuMEbELg1UpD) | 2:40 |
-| 49 | [can't tell](https://open.spotify.com/track/2vf6pbQcLYnbZfNkmZ57La) | [loftii](https://open.spotify.com/artist/7flbszy9aVOQeWiV4MomSB), [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [leaving us](https://open.spotify.com/album/6byIGSY3mMn5JxSfUE1qcC) | 2:49 |
-| 50 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
+| 49 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
+| 50 | [can't tell](https://open.spotify.com/track/2vf6pbQcLYnbZfNkmZ57La) | [loftii](https://open.spotify.com/artist/7flbszy9aVOQeWiV4MomSB), [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [leaving us](https://open.spotify.com/album/6byIGSY3mMn5JxSfUE1qcC) | 2:49 |
 
-Snapshot ID: `MCxlMDcxNWVhNDJhYzRmNGJhNmZhOTM4MzdkZTg2MDU3NzkwZTMyNzRk`
+Snapshot ID: `MCxjYWY1MWQ1NDY5NjBiZTEwZGQ3NzRmZDRkNWMxMDM0ZTkwZGUyMjc3`

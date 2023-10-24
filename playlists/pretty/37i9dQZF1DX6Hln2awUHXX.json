@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 93723,
+  "num_followers": 93748,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjRkYTVlNjNlZjAzMWY1NGI3MzdmYjM3YjE1OWNlNzRlYjRiNTI0",
+  "snapshot_id": "MCwyYjAwMjhlYWI0MzNkNzNiYWY1Mzg5MmZkN2I1OWYzYzdlYWFhMjI2",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -515,6 +515,30 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: Overtures",
+        "url": "https://open.spotify.com/album/4tpRDswjJDyUMCqXkwrHAM"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 532000,
+      "name": "Das Liebesverbot: Overture",
+      "url": "https://open.spotify.com/track/4h77bvYWQD1890DfmtEHfK"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner, R.: Orchestral Highlights From Operas",
         "url": "https://open.spotify.com/album/4X6uFJUvxxP1RbDmW1oh8T"
       },
@@ -567,30 +591,6 @@
       "duration_ms": 602266,
       "name": "Die Meistersinger von N\u00fcrnberg, WWV 96 / Act III: \"Morgenlich leuchtend\"",
       "url": "https://open.spotify.com/track/001eyxfoYptAWzvF4ewLrR"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Overtures",
-        "url": "https://open.spotify.com/album/4tpRDswjJDyUMCqXkwrHAM"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 532000,
-      "name": "Das Liebesverbot: Overture",
-      "url": "https://open.spotify.com/track/4h77bvYWQD1890DfmtEHfK"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -795,6 +795,30 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner, R.: Orchestral Highlights From Operas",
+        "url": "https://open.spotify.com/album/4X6uFJUvxxP1RbDmW1oh8T"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "duration_ms": 441000,
+      "name": "Tannhauser, Introduction to Act III: Tannhauser's Pilgrimage",
+      "url": "https://open.spotify.com/track/1EcnbSpPj7wEl17UxYltCj"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Die Meistersinger von N\u00fcrnberg",
         "url": "https://open.spotify.com/album/3hU0XFFZkuUE2sqp9udsBO"
       },
@@ -835,30 +859,6 @@
       "duration_ms": 377000,
       "name": "Die Meistersinger von N\u00fcrnberg, WWV 96 / Act III: \"Selig, wie die Sonne\"",
       "url": "https://open.spotify.com/track/12i2QXRtwdx7QTL4IDojIp"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner, R.: Orchestral Highlights From Operas",
-        "url": "https://open.spotify.com/album/4X6uFJUvxxP1RbDmW1oh8T"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        },
-        {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
-        }
-      ],
-      "duration_ms": 441000,
-      "name": "Tannhauser, Introduction to Act III: Tannhauser's Pilgrimage",
-      "url": "https://open.spotify.com/track/1EcnbSpPj7wEl17UxYltCj"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1119,6 +1119,30 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: Siegfried, WWV 86C",
+        "url": "https://open.spotify.com/album/1KWsANADSRtAhadD5UfEA5"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Hong Kong Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
+        },
+        {
+          "name": "Jaap Van Zweden",
+          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
+        }
+      ],
+      "duration_ms": 318266,
+      "name": "Siegfried, WWV 86C, Act II: Prelude",
+      "url": "https://open.spotify.com/track/0Ta5BZyrvDF1IUSSuMDIYR"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner, R.: Opera Choruses",
         "url": "https://open.spotify.com/album/4cqlzlBOhjVUd3aedalFo2"
       },
@@ -1151,30 +1175,6 @@
       "duration_ms": 1428440,
       "name": "Parsifal: Act I: The Journey to Montsalvat",
       "url": "https://open.spotify.com/track/0JmkPDDSgsB6oILTtsQpFB"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Siegfried, WWV 86C",
-        "url": "https://open.spotify.com/album/1KWsANADSRtAhadD5UfEA5"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Hong Kong Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
-        },
-        {
-          "name": "Jaap Van Zweden",
-          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
-        }
-      ],
-      "duration_ms": 318266,
-      "name": "Siegfried, WWV 86C, Act II: Prelude",
-      "url": "https://open.spotify.com/track/0Ta5BZyrvDF1IUSSuMDIYR"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1519,34 +1519,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Solti - Wagner - The Operas",
-        "url": "https://open.spotify.com/album/0gwWHAzKo3OPiWMnb6HOei"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Hans Hotter",
-          "url": "https://open.spotify.com/artist/3GtU1O2V8snd7EP5ySYLqN"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "duration_ms": 138840,
-      "name": "Die Walk\u00fcre / Dritter Aufzug: \"Leb wohl, du k\u00fchnes, herrliches Kind\"",
-      "url": "https://open.spotify.com/track/4L8vnna2HSB5pNTaYTJW7p"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner",
         "url": "https://open.spotify.com/album/0OENAdXCax4531VruXRCO9"
       },
@@ -1571,6 +1543,34 @@
       "duration_ms": 191960,
       "name": "Wesendonck Lieder, WWV 91: Der Engel",
       "url": "https://open.spotify.com/track/1mtAr7Xmo6OB1enxCfKYiw"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Solti - Wagner - The Operas",
+        "url": "https://open.spotify.com/album/0gwWHAzKo3OPiWMnb6HOei"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Hans Hotter",
+          "url": "https://open.spotify.com/artist/3GtU1O2V8snd7EP5ySYLqN"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "duration_ms": 138840,
+      "name": "Die Walk\u00fcre / Dritter Aufzug: \"Leb wohl, du k\u00fchnes, herrliches Kind\"",
+      "url": "https://open.spotify.com/track/4L8vnna2HSB5pNTaYTJW7p"
     },
     {
       "added_at": "2022-06-28 08:58:25",

@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "20 10 20",
+        "url": "https://open.spotify.com/album/3oKH6K8zbDwxxWLcu7OX9d"
+      },
+      "artists": [
+        {
+          "name": "Venox",
+          "url": "https://open.spotify.com/artist/3N7Ot5pmX7WNbg5HU8yoA5"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/6Ubq8MGyUnOYfrnw8AVrUY"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213671,
+      "name": "20 10 20",
+      "url": "https://open.spotify.com/track/2al7bELNOLyTgTwkgCjv5J"
+    },
+    {
+      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
       },
@@ -510,7 +532,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 219133,
       "name": "Angel",
       "url": "https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd"
@@ -979,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/2YvG8ptg1hzWzX0pXA4bbg"
+      },
+      "artists": [
+        {
+          "name": "JaidynAlexis",
+          "url": "https://open.spotify.com/artist/1bu90rjktSmOd2wveQoIKi"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/0wnZP5KJSJ8xmTJmmjOqwr"
+    },
+    {
+      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -1164,7 +1204,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 149511,
       "name": "BIG DICK RANDY",
       "url": "https://open.spotify.com/track/7556LMF1GR5QawF5PHLjI7"
@@ -2326,6 +2366,36 @@
       "duration_ms": 384365,
       "name": "DALI WAMI (feat. Dinky Kunene,LuE,TNK Musiq & Stopper)",
       "url": "https://open.spotify.com/track/7hTIoS8nyieGhvOWzeN3qf"
+    },
+    {
+      "album": {
+        "name": "Dalie",
+        "url": "https://open.spotify.com/album/5GIUF3gHNmZpa684imXQ5J"
+      },
+      "artists": [
+        {
+          "name": "Kamo Mphela",
+          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Baby S.O.N",
+          "url": "https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280424,
+      "name": "Dalie",
+      "url": "https://open.spotify.com/track/7HmE17lcfpENCJkuurXDvh"
     },
     {
       "album": {
@@ -3584,7 +3654,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 167471,
       "name": "HBP",
       "url": "https://open.spotify.com/track/3xY9AUbeibAeVDyPkHm8Kj"
@@ -3736,7 +3806,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 124791,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/1jrjUPWrfMw8RBbZ9PlX0W"
@@ -3890,7 +3960,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 420920,
       "name": "Hotspot",
       "url": "https://open.spotify.com/track/28PDHCkELl8cwOtCdksjWE"
@@ -4112,7 +4182,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 115725,
       "name": "Ick",
       "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
@@ -4337,6 +4407,24 @@
     },
     {
       "album": {
+        "name": "IT GIRL",
+        "url": "https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH"
+      },
+      "artists": [
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161760,
+      "name": "IT GIRL",
+      "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
+    },
+    {
+      "album": {
         "name": "It's a Beautiful Day (Reprise)",
         "url": "https://open.spotify.com/album/5qfhVKlZEaGiHFCZ86oKts"
       },
@@ -4408,6 +4496,28 @@
       "duration_ms": 414966,
       "name": "Izenzo",
       "url": "https://open.spotify.com/track/3pImmSzeKex5ffzsDoaL3z"
+    },
+    {
+      "album": {
+        "name": "Jaga Jaga (with Babyboy AV)",
+        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Jaga Jaga (with Babyboy AV)",
+      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
     },
     {
       "album": {
@@ -5693,6 +5803,24 @@
     },
     {
       "album": {
+        "name": "Clean Sheets, Dirty Walls",
+        "url": "https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM"
+      },
+      "artists": [
+        {
+          "name": "Cleffy",
+          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "Meet you at the Graveyard",
+      "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
+    },
+    {
+      "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/3qZWv38DiTCaImDx6ylRed"
       },
@@ -6388,7 +6516,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 242155,
       "name": "Ngilele E Hotel",
       "url": "https://open.spotify.com/track/5R9zmvswQj0SRJ1XM0yTzU"
@@ -7095,6 +7223,32 @@
     },
     {
       "album": {
+        "name": "OL\u00d9GB\u00c8J\u00c0",
+        "url": "https://open.spotify.com/album/2hpKtfaNQc6Obg1iEgse2G"
+      },
+      "artists": [
+        {
+          "name": "Veekee James",
+          "url": "https://open.spotify.com/artist/3d0vDLmDic461i6fOfImUA"
+        },
+        {
+          "name": "Shallom Matthew",
+          "url": "https://open.spotify.com/artist/5ELs59GeiNNa11OOGO4vVl"
+        },
+        {
+          "name": "OBA",
+          "url": "https://open.spotify.com/artist/6RSMZnjbnEHuVEB2l1vfIj"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 888000,
+      "name": "OL\u00d9GB\u00c8J\u00c0",
+      "url": "https://open.spotify.com/track/5DXFUaVUCxYvpvrzbjfhQP"
+    },
+    {
+      "album": {
         "name": "NewJeans 'OMG'",
         "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
       },
@@ -7238,6 +7392,24 @@
       "duration_ms": 195213,
       "name": "Only You",
       "url": "https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz"
+    },
+    {
+      "album": {
+        "name": "OTD",
+        "url": "https://open.spotify.com/album/5dnPXb293B0hQDZoXGPsBh"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147906,
+      "name": "OTD",
+      "url": "https://open.spotify.com/track/3iuObMBlVzxmJaym2oAXrd"
     },
     {
       "album": {
@@ -8086,7 +8258,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 137291,
       "name": "Roadents",
       "url": "https://open.spotify.com/track/4FT0QtlIjX1H4R7LJfQyc4"
@@ -8622,7 +8794,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 143030,
       "name": "Solomon",
       "url": "https://open.spotify.com/track/1MG83nR4e3NoZsUF2rbL0X"
@@ -10876,6 +11048,28 @@
       "duration_ms": 120015,
       "name": "You Wish",
       "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
+    },
+    {
+      "album": {
+        "name": "You're Hired (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179517,
+      "name": "You're Hired (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI"
     },
     {
       "album": {

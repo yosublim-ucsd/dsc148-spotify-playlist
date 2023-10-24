@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3673166,
+  "num_followers": 3673508,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTUxNzE0NWQ5MGM5MTk4NDAxOTE0YjVjOGNkYjk3YTRlOWYwOTc0",
+  "snapshot_id": "MCxiYWQwODI1YjAxNjljZTE0NDk4NmViYWQ4ZDJmYjIxZWEzYTI2NDA1",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 222605,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1"
-      },
-      "artists": [
-        {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Azure EP",
+        "url": "https://open.spotify.com/album/5M4iiiphjdlqSq9Yutm6QU"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 222232,
+      "name": "Mine To Love",
+      "url": "https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Talk It Over",
         "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 209178,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Azure EP",
-        "url": "https://open.spotify.com/album/5M4iiiphjdlqSq9Yutm6QU"
-      },
-      "artists": [
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 222232,
-      "name": "Mine To Love",
-      "url": "https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -879,6 +879,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Turning Away (Parra for Cuva Remix)",
+        "url": "https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 261538,
+      "name": "Turning Away - Parra for Cuva Remix",
+      "url": "https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "All In A Dream",
         "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
       },
@@ -903,22 +923,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Turning Away (Parra for Cuva Remix)",
-        "url": "https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs"
+        "name": "Indulgence",
+        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
       },
       "artists": [
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        },
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 261538,
-      "name": "Turning Away - Parra for Cuva Remix",
-      "url": "https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o"
+      "duration_ms": 269508,
+      "name": "Indulgence",
+      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -939,22 +955,6 @@
       "duration_ms": 411147,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Indulgence",
-        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 269508,
-      "name": "Indulgence",
-      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Lost In Space",
-        "url": "https://open.spotify.com/album/7EmlgPald7UuGDXgDXBYek"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "Lost In Space",
-      "url": "https://open.spotify.com/track/67ck64BdbfbWZDEcgNdP6a"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Loving Blind",
         "url": "https://open.spotify.com/album/2XvypO5sCalte148ttpNPI"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 216926,
       "name": "Loving Blind",
       "url": "https://open.spotify.com/track/0ExkHA0DRWUHCUNVEdpabl"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Lost In Space",
+        "url": "https://open.spotify.com/album/7EmlgPald7UuGDXgDXBYek"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Lost In Space",
+      "url": "https://open.spotify.com/track/67ck64BdbfbWZDEcgNdP6a"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1159,18 +1159,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Chase (Edit)",
-        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
+        "name": "Do You Feel The Same? (OCULA Remix)",
+        "url": "https://open.spotify.com/album/6dgppkSkxLiCrZG3O50Q7L"
       },
       "artists": [
         {
           "name": "Emmit Fenn",
           "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
         }
       ],
-      "duration_ms": 170721,
-      "name": "The Chase (Edit)",
-      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
+      "duration_ms": 232131,
+      "name": "Do You Feel The Same? - OCULA Remix",
+      "url": "https://open.spotify.com/track/7MNXk2wXG0NNrNWT7grUyC"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1215,26 +1219,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/1LclfXDVjTM6b39cCVlLgG"
-      },
-      "artists": [
-        {
-          "name": "Arinity",
-          "url": "https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy"
-        },
-        {
-          "name": "LissA",
-          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
-        }
-      ],
-      "duration_ms": 172331,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/1Foh6n4d1Vs8oWw9PNYye8"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/3o2K9k9I6qN5U8VAD8vfVp"
       },
@@ -1275,22 +1259,38 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Do You Feel The Same? (OCULA Remix)",
-        "url": "https://open.spotify.com/album/6dgppkSkxLiCrZG3O50Q7L"
+        "name": "The Chase (Edit)",
+        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
       },
       "artists": [
         {
           "name": "Emmit Fenn",
           "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
         }
       ],
-      "duration_ms": 232131,
-      "name": "Do You Feel The Same? - OCULA Remix",
-      "url": "https://open.spotify.com/track/7MNXk2wXG0NNrNWT7grUyC"
+      "duration_ms": 170721,
+      "name": "The Chase (Edit)",
+      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1LclfXDVjTM6b39cCVlLgG"
+      },
+      "artists": [
+        {
+          "name": "Arinity",
+          "url": "https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy"
+        },
+        {
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
+        }
+      ],
+      "duration_ms": 172331,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/1Foh6n4d1Vs8oWw9PNYye8"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "All I've Ever Known",
+        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "All I've Ever Known",
+      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Disappear",
         "url": "https://open.spotify.com/album/0mcqQhXPSSk8yudA1fiklh"
       },
@@ -1375,38 +1391,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "All I've Ever Known",
-        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "All I've Ever Known",
-      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a"
-      },
-      "artists": [
-        {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 168398,
       "name": "With You",
       "url": "https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a"
+      },
+      "artists": [
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 191557,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Into The Sun (Chill Mix)",
         "url": "https://open.spotify.com/album/7ix2yVIJHAdLNqIbTBeKil"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 164723,
       "name": "Into The Sun - Chill Mix",
       "url": "https://open.spotify.com/track/4bXeqbONCSECKqU3XpA5eT"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "When The Light Breaks",
-        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 191557,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/1xV4Z9H7ZUvnrf526Udsw2"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 627096,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/477nsrJgEucX7WEdxc149q"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Back to You (Amtrac Remix)",
         "url": "https://open.spotify.com/album/7Eczcaoa9Snixo72qACVB9"
       },
@@ -1691,18 +1675,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Manzanita",
-        "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/1xV4Z9H7ZUvnrf526Udsw2"
       },
       "artists": [
         {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         }
       ],
-      "duration_ms": 164433,
-      "name": "Manzanita",
-      "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
+      "duration_ms": 627096,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/477nsrJgEucX7WEdxc149q"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1719,6 +1703,38 @@
       "duration_ms": 174344,
       "name": "Just Over",
       "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Manzanita",
+        "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        }
+      ],
+      "duration_ms": 164433,
+      "name": "Manzanita",
+      "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "I Can Make It",
+        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 249012,
+      "name": "I Can Make It",
+      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1759,22 +1775,6 @@
       "duration_ms": 271025,
       "name": "Making Time",
       "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "I Can Make It",
-        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 249012,
-      "name": "I Can Make It",
-      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Forever, Now",
-        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 274795,
-      "name": "Elenore",
-      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/52LjmcLoxe5pcPFjaONm2Z"
       },
@@ -1903,6 +1883,22 @@
       "duration_ms": 168000,
       "name": "Hush Hush",
       "url": "https://open.spotify.com/track/4Rz0P4dIS3gLBoPKhzNxXa"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Tal",
+        "url": "https://open.spotify.com/album/6AtIOsBzi9ROwkwmielD4I"
+      },
+      "artists": [
+        {
+          "name": "p\u00f8laroit",
+          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
+        }
+      ],
+      "duration_ms": 291125,
+      "name": "Tal",
+      "url": "https://open.spotify.com/track/0i15aMXiEJd6IOBOJ0JtiH"
     }
   ],
   "unique_name": "Chill Tracks",

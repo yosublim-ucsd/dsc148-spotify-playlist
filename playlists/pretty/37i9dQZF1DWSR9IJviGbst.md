@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 
 > Get into the flow of the forest, with relaxing natural water sounds of small creeks and calming streams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,030 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,078 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 8 | [Overflowing Stream](https://open.spotify.com/track/0bkpm8NP8SJZLlPKol67db) | [Naturae](https://open.spotify.com/artist/4HL4peOCpnvJztd1zYQLuU) | [Streams & Falls](https://open.spotify.com/album/1MgJ6AXomRefwSqSHFijCP) | 4:58 |
 | 9 | [Forest River](https://open.spotify.com/track/5ODwMwLtWtIidqySNMrjX9) | [Wild Ambience](https://open.spotify.com/artist/4jsAEGrVJtzzmF8baeNHy6) | [Running Water](https://open.spotify.com/album/4uvOtiH0g3Y6Ft2WwCPVXY) | 3:09 |
 | 10 | [Forest River](https://open.spotify.com/track/4Tu5pGrLfIjkRSh8jileQ0) | [the river scout](https://open.spotify.com/artist/1s6tKatqOJNcoQ1H9otPIw) | [Relaxing River](https://open.spotify.com/album/0radw9ZUJL76TNkwwrVBcs) | 3:13 |
-| 11 | [River Roots](https://open.spotify.com/track/2g8lc5nr98KWHdQHh0FdNP) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Weather and Nature Sounds](https://open.spotify.com/album/3wWgSu413Q50AqwXnc6Ui7) | 3:02 |
-| 12 | [Tranquil Stream](https://open.spotify.com/track/4xhbt3EVgOnXeBZHiMXea2) | [Pacific Soundscapes](https://open.spotify.com/artist/7lfs7TkGNBX0j3VO4pK70s) | [Woodland Waters](https://open.spotify.com/album/0bN5MziXZPs1UJC1bP552y) | 2:16 |
+| 11 | [Tranquil Stream](https://open.spotify.com/track/4xhbt3EVgOnXeBZHiMXea2) | [Pacific Soundscapes](https://open.spotify.com/artist/7lfs7TkGNBX0j3VO4pK70s) | [Woodland Waters](https://open.spotify.com/album/0bN5MziXZPs1UJC1bP552y) | 2:16 |
+| 12 | [River Roots](https://open.spotify.com/track/2g8lc5nr98KWHdQHh0FdNP) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Weather and Nature Sounds](https://open.spotify.com/album/3wWgSu413Q50AqwXnc6Ui7) | 3:02 |
 | 13 | [A Babbling Brook](https://open.spotify.com/track/6SwFLZEH7gG2fxGLAdsj4m) | [The Nature Songs](https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF) | [Babbling Stream in the Forest](https://open.spotify.com/album/0fN39o8AJyHObpdmuoVUda) | 3:21 |
 | 14 | [Forest Creek](https://open.spotify.com/track/1LoOR1wpNLSRaVsYwBvJrD) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Relaxing Nature](https://open.spotify.com/album/7CHcLv7WKxu3l96kbJkIgT) | 3:00 |
 | 15 | [Värnen](https://open.spotify.com/track/16Im0hhhrBii9rTBajBbFK) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian waters](https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge) | 3:16 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 45 | [Soothing Stream](https://open.spotify.com/track/1SORCxjXkhCI9KKMVWziVC) | [Daichi](https://open.spotify.com/artist/7zzSVeglgyoJFOhuqJCWCg) | [River Run](https://open.spotify.com/album/41ZY6k3GWlLC7eGf3tAeRE) | 3:20 |
 | 46 | [Forest Creek for Sleeping](https://open.spotify.com/track/4z328Z1jztGtCgTSixowmY) | [Embracing Sounds](https://open.spotify.com/artist/3yrsA40P229aJh2vhsvn61) | [Forest Creek](https://open.spotify.com/album/4Gd0bYZO9u4i6UPN0rCSok) | 2:12 |
 | 47 | [Rippling Stream](https://open.spotify.com/track/7DcoQUbnca3hPw7V0DuwjV) | [Field Rec Deluxe](https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw) | [Rippling Water](https://open.spotify.com/album/1VGjNnahsAULDSGurQ5DDW) | 2:27 |
-| 48 | [Deerfield River](https://open.spotify.com/track/7KPje5zK1vRtKjFZROTqEl) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Autumn River Sounds](https://open.spotify.com/album/5QvHXt1ux5QNQzC2iWIwkD) | 4:58 |
-| 49 | [A Creek In The Jungle](https://open.spotify.com/track/6sCXRYcWRoyFaHp2WzBb8T) | [The Sound Designers](https://open.spotify.com/artist/5fW4vA2xSDXwdSopSVrerj) | [A Creek In The Jungle](https://open.spotify.com/album/6yjGJsLWm1zMHaPzxRzFzp) | 3:20 |
+| 48 | [A Creek In The Jungle](https://open.spotify.com/track/6sCXRYcWRoyFaHp2WzBb8T) | [The Sound Designers](https://open.spotify.com/artist/5fW4vA2xSDXwdSopSVrerj) | [A Creek In The Jungle](https://open.spotify.com/album/6yjGJsLWm1zMHaPzxRzFzp) | 3:20 |
+| 49 | [Deerfield River](https://open.spotify.com/track/7KPje5zK1vRtKjFZROTqEl) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Autumn River Sounds](https://open.spotify.com/album/5QvHXt1ux5QNQzC2iWIwkD) | 4:58 |
 | 50 | [Glistening Brook](https://open.spotify.com/track/4BmaniaxmweEwQrHTkd86u) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Meditative Jungle Nature Sounds](https://open.spotify.com/album/5937SZAIHexGC5Yx6rhgrL) | 3:11 |
 
-Snapshot ID: `MCwxNTBhNWYxMDFiYzA0MzdlYzRkNDJmNGEwNjIxNDc2MjdmMDc0MWY0`
+Snapshot ID: `MCw5ZDYzY2UzZmFkMzlhNGYzZjM0YzhkMDE0NWI0YjI0NDU0ZGNkNDZj`

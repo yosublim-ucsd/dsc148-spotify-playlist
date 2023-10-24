@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Shay Lia
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,413 likes - 79 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,450 likes - 79 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 78 | [Messi](https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [7 SEAS](https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc) | 3:06 |
 | 79 | [Lipstick Lover](https://open.spotify.com/track/5c2jJgsGsnYWB6QdkK1ycR) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/76yGR9gMIP6BdHuWsb7Iun) | 2:49 |
 
-Snapshot ID: `MCw3ZmRjMTlhM2E5Zjg4OTg2NGVmYmJlM2U5N2EzNTUxMTY5NmY5M2Qz`
+Snapshot ID: `MCxlMmRkMzZiNDI1Y2JhMTVjODNlMTZjOGQyN2U1MGY4ZDYyYmFhM2U1`

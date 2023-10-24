@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-250 songs - 14 hr 26 min
+251 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Hypochondriac](https://open.spotify.com/track/3GXQOlfK0oPdsW6Y5ptII6) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hypochondriac](https://open.spotify.com/album/1YFqzrSFmL8WdhQ79eLKJe) | 3:22 | 2022-02-18 | 2023-02-08 |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2022-12-08 |  |
 | [I Follow](https://open.spotify.com/track/4QZYTmGqtEHngxs10Rd9qB) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [I Follow](https://open.spotify.com/album/49Odx8cys3L27jGmwFMQT6) | 2:49 | 2022-02-18 |  |
+| [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 | 2023-10-23 |  |
 | [I know it won't work](https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:05 | 2023-06-30 |  |
 | [I know it won't work](https://open.spotify.com/track/5FGDtm3MXJe8LikBkOJnOQ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:05 | 2023-03-10 | 2023-07-05 |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-08-31 |  |
@@ -135,7 +136,7 @@
 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-02-18 | 2022-03-26 |
 | [Modern Loneliness \- acoustic](https://open.spotify.com/track/21OihIGdTCAL856FOjcs3j) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 4:12 | 2022-07-22 | 2022-11-13 |
 | [Modern Loneliness \- acoustic](https://open.spotify.com/track/4VXjf6WI5kVVE7DpUcy85p) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/0j7Q3C3tCmIMWypKRNJLHn) | 4:12 | 2022-02-18 | 2022-07-29 |
-| [Modo Avião](https://open.spotify.com/track/26i58WAIoKhuTf8TMH6I6C) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Me Espera](https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof) | 2:59 | 2023-03-10 |  |
+| [Modo Avião](https://open.spotify.com/track/26i58WAIoKhuTf8TMH6I6C) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Me Espera](https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof) | 2:59 | 2023-03-10 | 2023-10-24 |
 | [Motorbike](https://open.spotify.com/track/6W2trGwkUVR8mwGSH4Ftpf) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Motorbike](https://open.spotify.com/album/1E4NH1W98mv4PaD3tvf5B9) | 3:08 | 2022-02-18 | 2022-06-04 |
 | [MUTUAL FRIEND](https://open.spotify.com/track/6qTkFd7eFndvexoySUmpNq) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MUTUAL FRIEND](https://open.spotify.com/album/5h4ncClsNTs4SL2B0udXCT) | 3:26 | 2022-08-12 | 2023-03-11 |
 | [My Eyes Only](https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [My Eyes Only](https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19) | 3:14 | 2022-06-17 | 2022-08-13 |

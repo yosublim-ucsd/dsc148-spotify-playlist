@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. El Tri en portada. ",
+  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Cecilia Toussaint en portada. ",
   "name": "La + Chingona",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 225000,
       "name": "Almas Rotas",
       "url": "https://open.spotify.com/track/3tCD9o5wDyg8yrH7MspqkW"
@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Creo",
+        "url": "https://open.spotify.com/album/6Svp0BONDsBCG7UcoTfKmu"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Toussaint",
+          "url": "https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236228,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/483LcBcFERGkj6GACcQt8B"
+    },
+    {
+      "album": {
         "name": "Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
@@ -868,6 +886,24 @@
       "duration_ms": 244714,
       "name": "El Santuario",
       "url": "https://open.spotify.com/track/5KWfHFrSqP8oa04sWIQK9L"
+    },
+    {
+      "album": {
+        "name": "El sombrerero loco",
+        "url": "https://open.spotify.com/album/64KmxosC8CmHppBI2leRdl"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4go de Oz",
+          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270666,
+      "name": "El sombrerero loco",
+      "url": "https://open.spotify.com/track/5W6B8o2GIICi43uDMNIFHT"
     },
     {
       "album": {
@@ -1523,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Te mereces un amor",
+        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224160,
+      "name": "La Casa de la Esquina",
+      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
+    },
+    {
+      "album": {
         "name": "La Izquierda de la Noche",
         "url": "https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S"
       },
@@ -1574,6 +1628,28 @@
       "duration_ms": 241813,
       "name": "La Locomotora - MTV Unplugged",
       "url": "https://open.spotify.com/track/3W7ctGaVvHy2bIPQaNjKgA"
+    },
+    {
+      "album": {
+        "name": "La Novia de Frankenstein",
+        "url": "https://open.spotify.com/album/6q12ZQaNioZC7pgsWIkpti"
+      },
+      "artists": [
+        {
+          "name": "Rebel Cats",
+          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
+        },
+        {
+          "name": "Jerry Other",
+          "url": "https://open.spotify.com/artist/1hFDDS5CXbvVnWKUxdfAsa"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232576,
+      "name": "La Novia de Frankenstein",
+      "url": "https://open.spotify.com/track/7LPUxzFisaRZyAJypJJ4yD"
     },
     {
       "album": {
@@ -1718,7 +1794,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 195509,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/6Qf06bYjuFdksqT6Nnow89"
@@ -2440,7 +2516,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 169786,
       "name": "Por Un Amor",
       "url": "https://open.spotify.com/track/30V5WvVaHmvbKnpPm31hjr"
@@ -2794,7 +2870,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 217946,
       "name": "Si no es por ti",
       "url": "https://open.spotify.com/track/1oIBBun5CFK7A2QGJcLpQP"

@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 29131,
+  "num_followers": 29146,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTc5ZWMxMzI2OTdhZjBjNTIyMjJkNzkwYzRlOTM5NzA0NGQwMTE4",
+  "snapshot_id": "MCwwZTk5NTg2ZWYzNWZlMWVkMDYyZGIwMTZlYWRiYTBmYjNlZDJkMzQz",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Turbulan's Kompa, Vol. 2 (Special Gouyad Mixed by DJ Mayass)",
-        "url": "https://open.spotify.com/album/1yVAa5VNI8NFNLlWE0hZhn"
-      },
-      "artists": [
-        {
-          "name": "5Lan",
-          "url": "https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi"
-        }
-      ],
-      "duration_ms": 165224,
-      "name": "Kimb\u00e9 sa nan rinw",
-      "url": "https://open.spotify.com/track/1SMubCWecHSi9ZSuvWJhP9"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Degaje",
         "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 271712,
       "name": "Cheri Benyen M'",
       "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Turbulan's Kompa, Vol. 2 (Special Gouyad Mixed by DJ Mayass)",
+        "url": "https://open.spotify.com/album/1yVAa5VNI8NFNLlWE0hZhn"
+      },
+      "artists": [
+        {
+          "name": "5Lan",
+          "url": "https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi"
+        }
+      ],
+      "duration_ms": 165224,
+      "name": "Kimb\u00e9 sa nan rinw",
+      "url": "https://open.spotify.com/track/1SMubCWecHSi9ZSuvWJhP9"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -431,22 +431,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Tantan- Pam Pam Pam",
-        "url": "https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8"
-      },
-      "artists": [
-        {
-          "name": "Tantan",
-          "url": "https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL"
-        }
-      ],
-      "duration_ms": 386733,
-      "name": "Pam Pam Pam",
-      "url": "https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Transition",
         "url": "https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp"
       },
@@ -463,6 +447,22 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
+        "name": "Tantan- Pam Pam Pam",
+        "url": "https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8"
+      },
+      "artists": [
+        {
+          "name": "Tantan",
+          "url": "https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL"
+        }
+      ],
+      "duration_ms": 386733,
+      "name": "Pam Pam Pam",
+      "url": "https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
         "name": "Motivation",
         "url": "https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr"
       },
@@ -475,26 +475,6 @@
       "duration_ms": 264341,
       "name": "Di'm Kib\u00f2'w Vle'l #Quickie",
       "url": "https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "Atis Lokal Pap Janm Lague",
-        "url": "https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy"
-      },
-      "artists": [
-        {
-          "name": "Mikaben",
-          "url": "https://open.spotify.com/artist/3KoKlLuiiCm6rUS9BO89Fp"
-        },
-        {
-          "name": "Carimi",
-          "url": "https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Fanm Sa a Move",
-      "url": "https://open.spotify.com/track/5dIb9hXtgboh7H50zFhwfM"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -531,6 +511,42 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
+        "name": "Atis Lokal Pap Janm Lague",
+        "url": "https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy"
+      },
+      "artists": [
+        {
+          "name": "Mikaben",
+          "url": "https://open.spotify.com/artist/3KoKlLuiiCm6rUS9BO89Fp"
+        },
+        {
+          "name": "Carimi",
+          "url": "https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Fanm Sa a Move",
+      "url": "https://open.spotify.com/track/5dIb9hXtgboh7H50zFhwfM"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Bagay Yo Chanje!",
+        "url": "https://open.spotify.com/album/0nYwb6eZYkb7wXjRiN13vS"
+      },
+      "artists": [
+        {
+          "name": "K-Dans",
+          "url": "https://open.spotify.com/artist/4KV6KEiSrUZRoF5YqMjyIx"
+        }
+      ],
+      "duration_ms": 319893,
+      "name": "Move chwa",
+      "url": "https://open.spotify.com/track/5SqW0PVDbz3bXsyxRdUJfR"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
         "name": "Kilot",
         "url": "https://open.spotify.com/album/4YJhcOZ1ASsZiPpd5d3vcl"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 309936,
       "name": "Kilot",
       "url": "https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "Bagay Yo Chanje!",
-        "url": "https://open.spotify.com/album/0nYwb6eZYkb7wXjRiN13vS"
-      },
-      "artists": [
-        {
-          "name": "K-Dans",
-          "url": "https://open.spotify.com/artist/4KV6KEiSrUZRoF5YqMjyIx"
-        }
-      ],
-      "duration_ms": 319893,
-      "name": "Move chwa",
-      "url": "https://open.spotify.com/track/5SqW0PVDbz3bXsyxRdUJfR"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -639,22 +639,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Degaje",
-        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
-      },
-      "artists": [
-        {
-          "name": "Harmonik",
-          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
-        }
-      ],
-      "duration_ms": 331871,
-      "name": "Simplicit\u00e9",
-      "url": "https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "L'ann\u00e9e du Kompa 2001 (Ayiti Konpa)",
         "url": "https://open.spotify.com/album/5wgDhWtXVweawspXDh1je9"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 268480,
       "name": "Sonia",
       "url": "https://open.spotify.com/track/6fRP9uqtzh7VNTrtkSfXs0"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Degaje",
+        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
+      },
+      "artists": [
+        {
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+        }
+      ],
+      "duration_ms": 331871,
+      "name": "Simplicit\u00e9",
+      "url": "https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI"
     },
     {
       "added_at": "2020-06-03 18:17:45",

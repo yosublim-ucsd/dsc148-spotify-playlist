@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Natos y Waor, Delaossa, Ill Peke\u00f1o",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Prok",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -84,6 +84,32 @@
       "duration_ms": 508657,
       "name": "#RapSinCorte L",
       "url": "https://open.spotify.com/track/5ZaPIvSXtTxrj8yXnUx0wd"
+    },
+    {
+      "album": {
+        "name": "1000 Motivos",
+        "url": "https://open.spotify.com/album/75AryEv90n1ocgWbRv9UC8"
+      },
+      "artists": [
+        {
+          "name": "Delaossa",
+          "url": "https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ"
+        },
+        {
+          "name": "Raggio",
+          "url": "https://open.spotify.com/artist/1Et88d1NW2V2JKWiozvFES"
+        },
+        {
+          "name": "Bigla",
+          "url": "https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213651,
+      "name": "1000 Motivos",
+      "url": "https://open.spotify.com/track/2ytOFQ6uf3JmEH0Ve5572G"
     },
     {
       "album": {
@@ -246,7 +272,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 230639,
       "name": "A la tumba",
       "url": "https://open.spotify.com/track/5NwMiXLw1SnW4O7SgsaHeo"
@@ -304,7 +330,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 168000,
       "name": "AHORA QUE",
       "url": "https://open.spotify.com/track/7jRLjVOOkiNP2aiD3XLsqJ"
@@ -352,6 +378,24 @@
       "duration_ms": 163062,
       "name": "Al Final del D\u00eda",
       "url": "https://open.spotify.com/track/41ir6O2SvjUrs642RMkouF"
+    },
+    {
+      "album": {
+        "name": "Alto Cargo Pt. 2",
+        "url": "https://open.spotify.com/album/0Jl8Zu8KtquCb3TQJFIw2k"
+      },
+      "artists": [
+        {
+          "name": "Gloosito",
+          "url": "https://open.spotify.com/artist/1MXug5KOetEEQjjvCPWwIm"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141556,
+      "name": "Alto Cargo Pt. 2",
+      "url": "https://open.spotify.com/track/2rs3Qctse9zhPAdxxMlJBw"
     },
     {
       "album": {
@@ -786,7 +830,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 268800,
       "name": "Cada Motivo",
       "url": "https://open.spotify.com/track/5RwF8yjTv6LvpCjJL8yjkL"
@@ -994,6 +1038,24 @@
       "duration_ms": 234000,
       "name": "Ciego Por el Club",
       "url": "https://open.spotify.com/track/2k5Chk6O0ugyRdHL6OOFav"
+    },
+    {
+      "album": {
+        "name": "Get Off The World - Pa' Bailar Llorando",
+        "url": "https://open.spotify.com/album/7HQhybXrUytXRT24WTRiLA"
+      },
+      "artists": [
+        {
+          "name": "Denom",
+          "url": "https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201944,
+      "name": "Como Siempre",
+      "url": "https://open.spotify.com/track/2c3rR7VVjayjVwlGWjuwti"
     },
     {
       "album": {
@@ -1256,7 +1318,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 260000,
       "name": "Dispuestos a morir (feat. Bardero$)",
       "url": "https://open.spotify.com/track/0qZXZnRY8HnJSwnXW3qxwu"
@@ -1458,6 +1520,28 @@
       "duration_ms": 219624,
       "name": "Espejismos",
       "url": "https://open.spotify.com/track/25Y6OAKzaqJoYjIg2KY6H6"
+    },
+    {
+      "album": {
+        "name": "Expl\u00edcito",
+        "url": "https://open.spotify.com/album/0nQUEirtrGnhrokGqQRKdy"
+      },
+      "artists": [
+        {
+          "name": "Reality",
+          "url": "https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw"
+        },
+        {
+          "name": "Simarro Prods",
+          "url": "https://open.spotify.com/artist/3Dw9l7rIlfvWzcuYErEuE1"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154736,
+      "name": "Expl\u00edcito",
+      "url": "https://open.spotify.com/track/0g99Wc6vw9Wnzhb1ORyPub"
     },
     {
       "album": {
@@ -1918,7 +2002,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 247000,
       "name": "Hasta que salga el sol",
       "url": "https://open.spotify.com/track/296VAw6iwgYX38mWMy98EG"
@@ -1980,7 +2064,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 193165,
       "name": "Ja Morant",
       "url": "https://open.spotify.com/track/74Y6PcHH1FU0ZXb34GHbsB"
@@ -2268,7 +2352,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 176364,
       "name": "LACOSTA",
       "url": "https://open.spotify.com/track/5MDikm9ADqdDcNiFPmhqEN"
@@ -2404,7 +2488,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 101052,
       "name": "Lollypop",
       "url": "https://open.spotify.com/track/1K6H2Tpdnd27SJWZz2JS96"
@@ -2470,6 +2554,32 @@
       "duration_ms": 200790,
       "name": "Mala Rata",
       "url": "https://open.spotify.com/track/1k87K4HuqbvBwRoDOAr9Cl"
+    },
+    {
+      "album": {
+        "name": "MAMITA",
+        "url": "https://open.spotify.com/album/2aXtUydfywc4SNl3g0UlWF"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Marcelus Airlinez",
+          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183947,
+      "name": "MAMITA",
+      "url": "https://open.spotify.com/track/12aPSqJT6ECU9Wq6rG8sQU"
     },
     {
       "album": {
@@ -3110,7 +3220,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 220881,
       "name": "No hay nada nuevo",
       "url": "https://open.spotify.com/track/64aVCHpEpvCeODnQ3YOFs0"
@@ -3325,6 +3435,28 @@
     },
     {
       "album": {
+        "name": "Opel Kadett",
+        "url": "https://open.spotify.com/album/4J2EeScFOJvt8kJniOzDLJ"
+      },
+      "artists": [
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/6c4WWQ2PYJlgnxtkQKqI5s"
+        },
+        {
+          "name": "Rubio de Pruna",
+          "url": "https://open.spotify.com/artist/7c6qgaluKEwHslyI3fAuS4"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187199,
+      "name": "Opel Kadett",
+      "url": "https://open.spotify.com/track/7isNv0eu0LEdAg0zq02t8h"
+    },
+    {
+      "album": {
         "name": "Otro D\u00eda M\u00e1s",
         "url": "https://open.spotify.com/album/0cpLz0n0ekwrPPTB07nioO"
       },
@@ -3476,7 +3608,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 222391,
       "name": "Platos rotos",
       "url": "https://open.spotify.com/track/6XX87ga7zsm14jRTzspgnM"
@@ -4116,7 +4248,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 212918,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/1tgmLnQepRcuHYGj0pgObJ"

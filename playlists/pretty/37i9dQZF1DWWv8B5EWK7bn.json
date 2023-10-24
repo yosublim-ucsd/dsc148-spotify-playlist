@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 168240,
+  "num_followers": 168301,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDYzZjQ2ZDFkMWIzZWFjZGFkYmVlYmM1NDNjYzUxODk1OGM2NTJj",
+  "snapshot_id": "MCw4NDdiYmI4NjA0NTY0OTAzMjYxZDdiNTY3ZTBiYTI4MTk4ZmI2OTIw",
   "tracks": [
     {
       "added_at": "2023-10-10 00:48:29",
@@ -179,6 +179,22 @@
       "duration_ms": 221163,
       "name": "r(EMOTE)",
       "url": "https://open.spotify.com/track/3iOMiZlt4gEeQsEgnW0MeQ"
+    },
+    {
+      "added_at": "2023-10-23 19:41:11",
+      "album": {
+        "name": "Pearlies",
+        "url": "https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T"
+      },
+      "artists": [
+        {
+          "name": "Emma Anderson",
+          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "The Presence",
+      "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
     },
     {
       "added_at": "2023-07-24 14:49:20",
@@ -397,6 +413,22 @@
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
     },
     {
+      "added_at": "2022-01-14 00:51:04",
+      "album": {
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Lawn",
+      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
+    },
+    {
       "added_at": "2022-07-15 05:42:04",
       "album": {
         "name": "Arkhon",
@@ -445,38 +477,6 @@
       "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
-      "added_at": "2023-08-24 03:26:17",
-      "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
-      },
-      "artists": [
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 227120,
-      "name": "Heat!",
-      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
-    },
-    {
-      "added_at": "2022-01-14 00:51:04",
-      "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Lawn",
-      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
-    },
-    {
       "added_at": "2023-06-07 23:32:59",
       "album": {
         "name": "Spotify Singles",
@@ -491,6 +491,22 @@
       "duration_ms": 289461,
       "name": "Army Of Me - Spotify Single",
       "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
+    },
+    {
+      "added_at": "2023-08-24 03:26:17",
+      "album": {
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+      },
+      "artists": [
+        {
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "Heat!",
+      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -581,22 +597,6 @@
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
     },
     {
-      "added_at": "2022-09-12 20:09:14",
-      "album": {
-        "name": "When the Lights Go",
-        "url": "https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 266962,
-      "name": "Crosswalk",
-      "url": "https://open.spotify.com/track/6H6NwvDmPVk0VvHRfA6cYs"
-    },
-    {
       "added_at": "2023-01-04 00:57:30",
       "album": {
         "name": "Classic Objects",
@@ -611,6 +611,22 @@
       "duration_ms": 362428,
       "name": "American Coffee",
       "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
+    },
+    {
+      "added_at": "2022-09-12 20:09:14",
+      "album": {
+        "name": "When the Lights Go",
+        "url": "https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 266962,
+      "name": "Crosswalk",
+      "url": "https://open.spotify.com/track/6H6NwvDmPVk0VvHRfA6cYs"
     },
     {
       "added_at": "2023-08-08 03:45:10",
@@ -819,6 +835,22 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "void beats/invocation trex",
+        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 233903,
+      "name": "melody in high feedback tones",
+      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "Hildegard",
         "url": "https://open.spotify.com/album/73YfC8h0xwIr2KFhW99iLk"
       },
@@ -841,20 +873,20 @@
       "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2022-11-08 17:40:24",
       "album": {
-        "name": "void beats/invocation trex",
-        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
       },
       "artists": [
         {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
         }
       ],
-      "duration_ms": 233903,
-      "name": "melody in high feedback tones",
-      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
+      "duration_ms": 285898,
+      "name": "Follow the Cyborg",
+      "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
     },
     {
       "added_at": "2023-01-03 01:09:50",
@@ -871,22 +903,6 @@
       "duration_ms": 470299,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/1qFudtsBIsNMBumicKCVYm"
-    },
-    {
-      "added_at": "2022-11-08 17:40:24",
-      "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 285898,
-      "name": "Follow the Cyborg",
-      "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1011,6 +1027,22 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "Life, and Another",
+        "url": "https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d"
+      },
+      "artists": [
+        {
+          "name": "Mega Bog",
+          "url": "https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO"
+        }
+      ],
+      "duration_ms": 265815,
+      "name": "Station to Station",
+      "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "High January",
         "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
       },
@@ -1027,22 +1059,6 @@
       "duration_ms": 266287,
       "name": "Starved for Glamour",
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Life, and Another",
-        "url": "https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d"
-      },
-      "artists": [
-        {
-          "name": "Mega Bog",
-          "url": "https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO"
-        }
-      ],
-      "duration_ms": 265815,
-      "name": "Station to Station",
-      "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
     },
     {
       "added_at": "2022-02-09 04:04:07",
@@ -1297,22 +1313,6 @@
       "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
-      "added_at": "2022-03-30 04:28:53",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
-    },
-    {
       "added_at": "2023-06-02 00:41:12",
       "album": {
         "name": "Music For Film: Women Against The Bomb",
@@ -1327,6 +1327,22 @@
       "duration_ms": 212626,
       "name": "It's In Our Hands",
       "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
+    },
+    {
+      "added_at": "2022-03-30 04:28:53",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1385,22 +1401,6 @@
       "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
-      "added_at": "2023-03-31 19:24:48",
-      "album": {
-        "name": "Counter Melodies",
-        "url": "https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot"
-      },
-      "artists": [
-        {
-          "name": "Maps",
-          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
-        }
-      ],
-      "duration_ms": 318750,
-      "name": "Windows Open",
-      "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Al Sur",
@@ -1419,6 +1419,22 @@
       "duration_ms": 198773,
       "name": "Al Sur",
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
+    },
+    {
+      "added_at": "2023-03-31 19:24:48",
+      "album": {
+        "name": "Counter Melodies",
+        "url": "https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot"
+      },
+      "artists": [
+        {
+          "name": "Maps",
+          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Windows Open",
+      "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
     },
     {
       "added_at": "2023-03-31 19:35:25",
@@ -1497,26 +1513,6 @@
       "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
     },
     {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
-        "name": "MERCY",
-        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        },
-        {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
-        }
-      ],
-      "duration_ms": 315213,
-      "name": "I KNOW YOU'RE HAPPY",
-      "url": "https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr"
-    },
-    {
       "added_at": "2022-07-14 12:42:06",
       "album": {
         "name": "Mapa",
@@ -1573,6 +1569,26 @@
       "url": "https://open.spotify.com/track/72SzjydU6s6oVsj2Ml1YV3"
     },
     {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
+        "name": "MERCY",
+        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "duration_ms": 315213,
+      "name": "I KNOW YOU'RE HAPPY",
+      "url": "https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr"
+    },
+    {
       "added_at": "2022-03-11 06:40:47",
       "album": {
         "name": "SEIM",
@@ -1597,22 +1613,6 @@
       "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
     },
     {
-      "added_at": "2022-03-11 04:34:08",
-      "album": {
-        "name": "P.O.N",
-        "url": "https://open.spotify.com/album/716BZhl3283diYxQJZCSyF"
-      },
-      "artists": [
-        {
-          "name": "TOGITO",
-          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
-        }
-      ],
-      "duration_ms": 174518,
-      "name": "Hasta Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
-    },
-    {
       "added_at": "2023-05-12 04:28:08",
       "album": {
         "name": "The Lava Is Calm",
@@ -1633,20 +1633,20 @@
       "url": "https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2022-03-11 04:34:08",
       "album": {
-        "name": "The Apple Drop",
-        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
+        "name": "P.O.N",
+        "url": "https://open.spotify.com/album/716BZhl3283diYxQJZCSyF"
       },
       "artists": [
         {
-          "name": "Liars",
-          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
         }
       ],
-      "duration_ms": 316413,
-      "name": "Big Appetite",
-      "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
+      "duration_ms": 174518,
+      "name": "Hasta Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
     },
     {
       "added_at": "2022-02-09 04:03:27",
@@ -1663,6 +1663,22 @@
       "duration_ms": 180560,
       "name": "Situation",
       "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Apple Drop",
+        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
+      },
+      "artists": [
+        {
+          "name": "Liars",
+          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+        }
+      ],
+      "duration_ms": 316413,
+      "name": "Big Appetite",
+      "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
     },
     {
       "added_at": "2022-08-31 04:56:45",
@@ -1695,22 +1711,6 @@
       "duration_ms": 160000,
       "name": "Two minutes",
       "url": "https://open.spotify.com/track/1lwxpEsQQ2GIOg1Ar5rB38"
-    },
-    {
-      "added_at": "2023-03-31 19:24:48",
-      "album": {
-        "name": "1982",
-        "url": "https://open.spotify.com/album/2qNRcFR3VnrxgrBGB2JFuZ"
-      },
-      "artists": [
-        {
-          "name": "A Certain Ratio",
-          "url": "https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk"
-        }
-      ],
-      "duration_ms": 174656,
-      "name": "SAMO",
-      "url": "https://open.spotify.com/track/7tUp7rwXgZ1VN9rjD6dn7F"
     },
     {
       "added_at": "2023-04-14 23:50:17",

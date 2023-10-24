@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 47062,
+  "num_followers": 47083,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTljOGQ2YzQ0NGE5NmU4Mjk0OTlkMjU3MWRiNjk2MmJjYWM2NTk0",
+  "snapshot_id": "MCw3OThiYjhkMGYzY2ZlNDdkNDJhMzFiYmMzMTZlNjg2MWRkMGVjNzUy",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -569,42 +569,6 @@
       "url": "https://open.spotify.com/track/1dlyPfKv2Bl5nYZzpO1VUX"
     },
     {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "M\u00fasica Para Pick Up",
-        "url": "https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo"
-      },
-      "artists": [
-        {
-          "name": "Pernett",
-          "url": "https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU"
-        },
-        {
-          "name": "The Caribbean Ravers",
-          "url": "https://open.spotify.com/artist/48u4Rcx3bbMC5PtUm2AVcd"
-        }
-      ],
-      "duration_ms": 245426,
-      "name": "The Caribbean Raver",
-      "url": "https://open.spotify.com/track/1CKL36QvlImNhsMAbwhGIQ"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Magnetica",
-        "url": "https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Sol Clap",
-      "url": "https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta"
-    },
-    {
       "added_at": "2023-03-24 19:41:45",
       "album": {
         "name": "Ca\u00f1a Brava",
@@ -623,6 +587,42 @@
       "duration_ms": 181134,
       "name": "Ca\u00f1a Brava",
       "url": "https://open.spotify.com/track/0hy6YsimguNescPjjijro0"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Magnetica",
+        "url": "https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Sol Clap",
+      "url": "https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "M\u00fasica Para Pick Up",
+        "url": "https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo"
+      },
+      "artists": [
+        {
+          "name": "Pernett",
+          "url": "https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU"
+        },
+        {
+          "name": "The Caribbean Ravers",
+          "url": "https://open.spotify.com/artist/48u4Rcx3bbMC5PtUm2AVcd"
+        }
+      ],
+      "duration_ms": 245426,
+      "name": "The Caribbean Raver",
+      "url": "https://open.spotify.com/track/1CKL36QvlImNhsMAbwhGIQ"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Planeta",
-        "url": "https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R"
-      },
-      "artists": [
-        {
-          "name": "Bleepolar",
-          "url": "https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ"
-        }
-      ],
-      "duration_ms": 210748,
-      "name": "Planeta",
-      "url": "https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
       },
@@ -911,6 +895,38 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "L\u00e1zaro",
+        "url": "https://open.spotify.com/album/3Q6ZXvv9FJib9cNkKBoyVN"
+      },
+      "artists": [
+        {
+          "name": "Casta",
+          "url": "https://open.spotify.com/artist/5v304q5NLS1WXeIE6iWziJ"
+        }
+      ],
+      "duration_ms": 256551,
+      "name": "Pandemia",
+      "url": "https://open.spotify.com/track/4kpldaItXUwR1A0KWB4Cz8"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Planeta",
+        "url": "https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R"
+      },
+      "artists": [
+        {
+          "name": "Bleepolar",
+          "url": "https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ"
+        }
+      ],
+      "duration_ms": 210748,
+      "name": "Planeta",
+      "url": "https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Escape Plan",
         "url": "https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 188804,
       "name": "La Ni\u00f1a Grande",
       "url": "https://open.spotify.com/track/0nOay39wPB6N6sNTYnXjrN"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "L\u00e1zaro",
-        "url": "https://open.spotify.com/album/3Q6ZXvv9FJib9cNkKBoyVN"
-      },
-      "artists": [
-        {
-          "name": "Casta",
-          "url": "https://open.spotify.com/artist/5v304q5NLS1WXeIE6iWziJ"
-        }
-      ],
-      "duration_ms": 256551,
-      "name": "Pandemia",
-      "url": "https://open.spotify.com/track/4kpldaItXUwR1A0KWB4Cz8"
     }
   ],
   "unique_name": "Club Electropical",

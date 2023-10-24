@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DANSAR ALDRIG NYKTER!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,193 likes - 100 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,217 likes - 100 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [FUCKED UP \- Hansell Remix](https://open.spotify.com/track/60S5aC7jL01SqODVWDhBWO) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Hansell](https://open.spotify.com/artist/3Ee7c4D7yYLLub3zKe5j7J) | [FUCKED UP \(Hansell Remix\)](https://open.spotify.com/album/4iNEU8AqrNa1dDYKcnp8o8) | 1:50 |
 | 100 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 |
 
-Snapshot ID: `MCxlYWU3MDg0NTUyODM2ZjhiMzIxYjcwYTNmYWEzNWMyNDJiM2RjMDQ1`
+Snapshot ID: `MCw0YjE4NTQ3OTkzODI1MjdkYjRjOTliNTY1OGJhN2U4ZTc4ZmIyOWI4`

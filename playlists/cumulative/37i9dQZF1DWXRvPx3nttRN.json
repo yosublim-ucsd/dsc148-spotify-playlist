@@ -2167,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "Heat Waves",
+        "url": "https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141286,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr"
+    },
+    {
+      "album": {
         "name": "Here I Go Again",
         "url": "https://open.spotify.com/album/4yFIc1YHqohNGLkeHm0ppH"
       },
@@ -2634,6 +2652,24 @@
       "duration_ms": 237623,
       "name": "I Know What You Did Last Summer - Acoustic",
       "url": "https://open.spotify.com/track/32uEIvxpeXKFAXbRDgdGwe"
+    },
+    {
+      "album": {
+        "name": "I like me better",
+        "url": "https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz"
+      },
+      "artists": [
+        {
+          "name": "middle of june",
+          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192065,
+      "name": "I like me better",
+      "url": "https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p"
     },
     {
       "album": {
@@ -5048,6 +5084,24 @@
       "duration_ms": 233377,
       "name": "Set Fire to the Rain - Cover",
       "url": "https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI"
+    },
+    {
+      "album": {
+        "name": "Sex is on fire",
+        "url": "https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hale",
+          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163833,
+      "name": "Sex is on fire",
+      "url": "https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-784 songs - 1 day 9 hr 38 min
+787 songs - 1 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -565,6 +565,7 @@
 | [Salon musique](https://open.spotify.com/track/3Hv2XS0W9g4FAGzXCOYEnn) | [Maxence Cyrin](https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS) | [Melancholy Island](https://open.spotify.com/album/1yF5Hz1HEBepidnXeqMZIW) | 2:00 | 2022-07-19 | 2023-09-23 |
 | [Salon musique](https://open.spotify.com/track/51xoSbJvMA83GVglthhPqL) | [Maxence Cyrin](https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS) | [Cooling Down](https://open.spotify.com/album/7vuY4vwcjMQIDcG4OcgOmc) | 2:00 | 2022-10-24 | 2022-11-13 |
 | [Sanctum](https://open.spotify.com/track/35liU7bs2YbA1udhkERMok) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Sanctum](https://open.spotify.com/album/2Hgwn7veVh8OIFsq7IzVKI) | 2:59 | 2022-01-17 | 2023-05-04 |
+| [Sand Drawings](https://open.spotify.com/track/4tGCUIAYR0D1mgr26lf6ri) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Sand Drawings](https://open.spotify.com/album/4sc1y23oEqoAwoXFqVltvr) | 2:00 | 2023-10-23 |  |
 | [Santos \- Lisbon](https://open.spotify.com/track/0G8O0bm8jxkIoz3WPzTElm) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Santos \- Lisbon](https://open.spotify.com/album/3mG8uvXqD0UMJz5wxeLX9P) | 2:41 | 2022-05-20 |  |
 | [Satarsa](https://open.spotify.com/track/5dmd3hir8TFWwUwO9vLGjk) | [Luca Bissette](https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL) | [Satarsa](https://open.spotify.com/album/5NoeYTXY3FHY3dg1aIJgfp) | 2:38 | 2023-06-16 |  |
 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 | 2021-12-07 | 2022-10-05 |
@@ -653,6 +654,7 @@
 | [Textures](https://open.spotify.com/track/6nECGyZZTPXxi38Epefgpi) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Textures](https://open.spotify.com/album/2lID0uhvL3FyrwaYxRZWiw) | 2:09 | 2021-12-07 | 2023-06-28 |
 | [That Someone Special](https://open.spotify.com/track/00XW9mCxZofGawH8OIdnBV) | [Stacie Weldon](https://open.spotify.com/artist/0XrjaJY3OzXdArflsIxMkP) | [That Someone Special](https://open.spotify.com/album/2cOE4vfAPfvLreZnKujEPm) | 2:30 | 2021-12-07 | 2022-10-05 |
 | [The Balance](https://open.spotify.com/track/76N81Kjyn0CLyjyU6a7sUg) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [The Balance](https://open.spotify.com/album/5DftGjcxi5Gg6WUTw1AfqR) | 2:37 | 2021-12-07 | 2022-03-17 |
+| [The Beginning](https://open.spotify.com/track/29cTQB5qtEyaazYqjfVIt3) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [The Beginning](https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA) | 2:04 | 2023-10-23 |  |
 | [The Belfry](https://open.spotify.com/track/7cc0PJfYHGn5W3KQrhXS0D) | [Jessy Ribordy](https://open.spotify.com/artist/7fxyrcwACinFsRlmTxnodY) | [The Belfry](https://open.spotify.com/album/0zcMbeXJrzE5ARa344WXbu) | 2:28 | 2021-12-07 | 2023-10-07 |
 | [The Changing Seasons](https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [The Changing Seasons](https://open.spotify.com/album/33UnDdqWOok4v5cduSyoC6) | 2:13 | 2021-12-07 | 2022-10-14 |
 | [the color of the sky \- solo piano](https://open.spotify.com/track/06UlQEupfklesVD0OB2N87) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(solo piano\)](https://open.spotify.com/album/5CwNs4a2hBPimKHRvb6rM0) | 3:43 | 2022-09-12 | 2022-11-25 |
@@ -682,6 +684,7 @@
 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 | 2022-01-04 | 2022-06-08 |
 | [The What If](https://open.spotify.com/track/3qgA4uyqdQLpYLCeTtouQS) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [The What If](https://open.spotify.com/album/2wgsNYjUj2zE2K6WdK9AFj) | 3:30 | 2022-09-12 | 2023-09-30 |
 | [The Year of Unravelling](https://open.spotify.com/track/0e66Y7BTyvFt5iskJrTVpY) | [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [The Year of Unravelling](https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD) | 2:08 | 2023-05-19 |  |
+| [Then I Saw You](https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [Then I Saw You](https://open.spotify.com/album/11e0Rf3uYRPR4nQUOqKpOQ) | 3:06 | 2023-10-23 |  |
 | [Things Unsaid](https://open.spotify.com/track/1HDwUXmzoVXyBV8onqUyUv) | [Marcos Betancourt](https://open.spotify.com/artist/7JjCfmLQHeuWreo08C7hBt) | [Walking Home](https://open.spotify.com/album/7HEfIdgk9TQjlnnroQAgzM) | 2:41 | 2021-12-07 | 2022-10-14 |
 | [Thirst](https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp) | [Tales of Vibrations](https://open.spotify.com/artist/0Sxja6JbepbdS1Dw2nMDeG) | [Thirst](https://open.spotify.com/album/7KeiTF4P3CdFZyO13kfWSk) | 2:37 | 2023-02-13 |  |
 | [Time Lapse](https://open.spotify.com/track/7xVyUAYKQ2a2Z8509J2EI3) | [Reece Marshburn](https://open.spotify.com/artist/2qzyY3Znnk0VZka0UQ9Zqk) | [Time Lapse](https://open.spotify.com/album/1DjuJspUziskT5uTPrJtVB) | 2:58 | 2022-04-20 | 2023-09-23 |

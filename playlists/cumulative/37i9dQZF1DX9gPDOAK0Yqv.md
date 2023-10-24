@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-357 songs - 1 day 6 hr 28 min
+359 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Captain Nemo \- Edit](https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Captain Nemo](https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu) | 4:03 | 2022-12-02 |  |
 | [Change With Me](https://open.spotify.com/track/1ySN6MUzUh37rKzKsrLX8O) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Change With Me](https://open.spotify.com/album/09xbN5iMMIuelffXYAKEbS) | 6:41 | 2022-12-02 | 2023-01-21 |
 | [Chant](https://open.spotify.com/track/4daZhPGurT3004o6mc0ugU) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Chant](https://open.spotify.com/album/6akYo6V8wGbrleyeMMI5na) | 7:20 | 2023-05-23 | 2023-06-01 |
+| [CHAOS](https://open.spotify.com/track/6TUM2nFzvR7QKDHVWcOCnT) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [THE ARRIVAL](https://open.spotify.com/album/6zzd8C9lb4iKK3D8AFIP19) | 4:41 | 2023-10-20 |  |
 | [City Boy](https://open.spotify.com/track/44bA4pNIp4Qbewb4u4GcCO) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [City Boy](https://open.spotify.com/album/5xWuavh9nDjdOYbcXfCAz2) | 3:42 | 2023-03-10 | 2023-05-06 |
 | [Close Your Eyes](https://open.spotify.com/track/2ykio2Gv8ZiyRMtTNBhB8r) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Close Your Eyes](https://open.spotify.com/album/0LcmOI4mgsVS545GrAcYE4) | 3:24 | 2023-01-06 | 2023-03-05 |
 | [Closed Doors](https://open.spotify.com/track/0UNbGjrR3WQgekwcTagh44) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Closed Doors](https://open.spotify.com/album/3pH6GlrVlPuxjs5Aulu93A) | 5:43 | 2022-12-28 | 2023-01-06 |
@@ -77,7 +78,7 @@
 | [Destiny](https://open.spotify.com/track/06ZvFjzwcaqJRZbMkfWuaf) | [Meyer](https://open.spotify.com/artist/58VEQXhuWnFPbxlWh79Sr2) | [Hive Mind](https://open.spotify.com/album/1Dm9ruv1lwZJC3tgJgoMVL) | 3:31 | 2022-12-28 | 2023-01-06 |
 | [Devon \- Oliver Huntemann Remix](https://open.spotify.com/track/0f7ifN4vXV4z2C52POeDQT) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR) | [Devon \(Oliver Huntemann Remix\)](https://open.spotify.com/album/1lRw2Qay0MuZHxFxkZQeEU) | 6:38 | 2022-11-23 |  |
 | [Dialogue](https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP) | [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl), [Sideral](https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b) | [Radiant](https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI) | 7:32 | 2023-10-20 |  |
-| [Disaster](https://open.spotify.com/track/0wtL1OF0pIuyVHW80faSKx) | [Dsnt Matter](https://open.spotify.com/artist/6kkot1U0JuuGTYEPEh2FXW) | [Disaster](https://open.spotify.com/album/7aKimU3WkMXCZjQIUzqpps) | 3:45 | 2023-10-06 |  |
+| [Disaster](https://open.spotify.com/track/0wtL1OF0pIuyVHW80faSKx) | [Dsnt Matter](https://open.spotify.com/artist/6kkot1U0JuuGTYEPEh2FXW) | [Disaster](https://open.spotify.com/album/7aKimU3WkMXCZjQIUzqpps) | 3:45 | 2023-10-06 | 2023-10-24 |
 | [Don't Push](https://open.spotify.com/track/3CwQGoTdYkodFst5vvpmQ3) | [Collé](https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI) | [Don't Push EP](https://open.spotify.com/album/4XIryEQtW71CJrOeOwLXYA) | 6:52 | 2022-11-23 | 2023-03-23 |
 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 | 2022-12-16 |  |
 | [Dreamcatcher](https://open.spotify.com/track/6ZSB0FEjUrG7sziGbkJea2) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Fred Lenix](https://open.spotify.com/artist/59dW0kJuMkQquLbBomht2S) | [Dreamcatcher](https://open.spotify.com/album/3fjsQVB2BQ9yGDe35IpmuQ) | 4:59 | 2023-02-10 | 2023-04-29 |
@@ -122,6 +123,7 @@
 | [Glutes](https://open.spotify.com/track/6n85CqZrqbMjwQImS02tQx) | [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT) | [Glutes](https://open.spotify.com/album/5d62LwcW0OFVIHaE9IRlqM) | 7:29 | 2022-11-23 | 2022-12-17 |
 | [Gravity](https://open.spotify.com/track/2jizN8ZAjiV4IBjn6z42r7) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB) | [Gravity](https://open.spotify.com/album/0wVpaYo5BOsTdWRJMal5gR) | 3:20 | 2023-02-04 | 2023-02-10 |
 | [Gravity](https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Gravity](https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP) | 6:05 | 2023-02-17 | 2023-10-18 |
+| [Gravity](https://open.spotify.com/track/2EHdG8AvxtuZGLk74YQUXt) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Gravity](https://open.spotify.com/album/0C24gM4unxLDwJNa0ax8LP) | 6:05 | 2023-10-20 |  |
 | [Gravity \- Adam Sellouk Remix](https://open.spotify.com/track/1fAEgL0FxWfNqxVZRHsm20) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB), [Ayla](https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Gravity \(Adam Sellouk Remix\)](https://open.spotify.com/album/1bC33zJHkHTeifvIWwBS5m) | 3:14 | 2023-08-04 |  |
 | [Great Southern Land](https://open.spotify.com/track/0EbjpQWNL0jFgepyWb9OKf) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Great Southern Land](https://open.spotify.com/album/26XLm5ta9PDZn7uVTdt1M6) | 4:15 | 2023-05-12 | 2023-08-12 |
 | [Great Southern Land](https://open.spotify.com/track/3kvZ95Je92gWoXF1E9aFQM) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Great Southern Land](https://open.spotify.com/album/0BysOODMvw4P7nfZgLoNde) | 4:15 | 2023-08-11 |  |
@@ -181,7 +183,7 @@
 | [Loops & Tings](https://open.spotify.com/track/0ePibFLQdYeU3vsvJQT7jH) | [Ginchy](https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP), [Johan Gielen](https://open.spotify.com/artist/2eSSc4YqhlEw0e11E9oQhP) | [Loops & Tings](https://open.spotify.com/album/0ZPx0Z6KDyYXekcUops2Ua) | 3:56 | 2023-03-22 | 2023-03-25 |
 | [Loss Of Hope](https://open.spotify.com/track/5QRhs05R9MOXHQC2OOn5bq) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Distorted Youth EP](https://open.spotify.com/album/65OPNarZvRrfJM2BDyHAVi) | 7:19 | 2022-11-23 |  |
 | [Lucid Love](https://open.spotify.com/track/4lxezjHzTpF81nMNixy1OS) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Lucid Love](https://open.spotify.com/album/4fyUu9Mo0l6bRztTTe0ouz) | 3:08 | 2022-12-28 | 2023-01-06 |
-| [Mahoya](https://open.spotify.com/track/1s7ZoLVOFhBLXNIBYgavdr) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Mahoya](https://open.spotify.com/album/7bLQf71ETdGuL9GgXAyn4u) | 3:36 | 2023-08-11 |  |
+| [Mahoya](https://open.spotify.com/track/1s7ZoLVOFhBLXNIBYgavdr) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Mahoya](https://open.spotify.com/album/7bLQf71ETdGuL9GgXAyn4u) | 3:36 | 2023-08-11 | 2023-10-24 |
 | [Man Versus Machine](https://open.spotify.com/track/5T6hiNfpE5rB6MVsSRoTZ8) | [Anakim](https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ) | [Man Versus Machine](https://open.spotify.com/album/0o47CRav2OMQusX1FaOwQT) | 4:24 | 2023-06-02 | 2023-06-10 |
 | [Mankind](https://open.spotify.com/track/521p9zLwWdFrfWwGpgtIbF) | [Mitch De Klein](https://open.spotify.com/artist/7zGEI2pEvhrGrD2Vqrhpwg) | [Mankind](https://open.spotify.com/album/3Q1QrU32ydYQrPMZofU4lZ) | 3:46 | 2022-12-02 | 2023-02-18 |
 | [Mariposa](https://open.spotify.com/track/1tEVej8Ced5lCHy0nOX2hi) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Mariposa](https://open.spotify.com/album/7mDh3O1KajlknUZaJaYhrm) | 7:17 | 2023-01-13 | 2023-02-28 |

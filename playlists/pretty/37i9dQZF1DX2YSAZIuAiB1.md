@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > vibed mit dir um die Wette
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,139 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,150 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 79 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 80 | [Keep Going Up \(with Nelly Furtado & Justin Timberlake\)](https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Keep Going Up](https://open.spotify.com/album/0leO4lM0iYTks8dy039b7c) | 2:54 |
 
-Snapshot ID: `MCxlYzEzNTE2MGE3NTQ1YTA5ZjBhYmJkOGZhMWYzN2ZmZDc3OGRlMTVi`
+Snapshot ID: `MCwyZTFmYTNlZTQzM2JlOTFjYzFlNDlkMjZhNjNlMDVmOTdlYmU3Mjli`

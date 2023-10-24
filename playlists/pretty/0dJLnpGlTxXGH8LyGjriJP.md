@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 691 songs - 1 day 11 hr 0 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 692 songs - 1 day 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -699,5 +699,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 689 | [No Complaints \(feat\. Offset & Drake\) \(Bonus\)](https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 4:25 |
 | 690 | [Murder & Millions](https://open.spotify.com/track/27RWVlCet2iZlGciBETorw) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Murder & Millions](https://open.spotify.com/album/5Rkqhaapzmtrpv09cdAHWg) | 2:30 |
 | 691 | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \- Remix](https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \[Remix\]](https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22) | 3:47 |
+| 692 | [Wicked](https://open.spotify.com/track/6BbINUfGabVyiNFJpQXn3x) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [EVOL](https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly) | 2:53 |
 
-Snapshot ID: `ODU0LGM3N2RlODQ1YWZhMGY1ZjdmY2E1YmJlYzhlMzE3NzhjNjRmNjkwYmY=`
+Snapshot ID: `ODU1LDUxZjJiNDI3OThlZWYxYzA2ZmEyYzY4OGU5MDY1OTA3YmRhY2QwNzk=`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,873 likes - 86 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,936 likes - 86 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 85 | [See You There](https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Pink T\-Shirt](https://open.spotify.com/album/3V9EAFoBD2wHdj18E320lQ) | 3:27 |
 | 86 | [Souls](https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Souls](https://open.spotify.com/album/118kdRwrFscCUlo9bSr096) | 4:14 |
 
-Snapshot ID: `MCw3ZDA1YTEyNWFjYTVkZDAzOGNiODExOTI1ZTM1ZjUwMjc3ZWNjY2Q5`
+Snapshot ID: `MCw5NTFiNzY0YzJkN2ZmZWU0M2IyMDZmMTA2NjNjOTI3ZjZkMjQyYjA4`

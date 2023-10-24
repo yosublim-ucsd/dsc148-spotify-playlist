@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this Cover: Holly Humberstone
 
-597 songs - 1 day 8 hr 54 min
+598 songs - 1 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 | 2023-08-18 |  |
 | [Family Line](https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 3:36 | 2022-06-24 | 2023-04-01 |
 | [Fat Funny Friend \(sadder\)](https://open.spotify.com/track/21O2UVKExn54RKWfk1xF4E) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend \(sadder\)](https://open.spotify.com/album/3PJGfcK8Z3SYQltnyBT0tt) | 3:22 | 2022-03-18 | 2022-10-13 |
-| [Fat Funny Friend \(sadder\)](https://open.spotify.com/track/3J2k478GV4E9GbFzN7ndgv) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend \(sadder\)](https://open.spotify.com/album/5O5IUctGmsLX2FBTDNOCvY) | 3:22 | 2022-10-28 |  |
+| [Fat Funny Friend \(sadder\)](https://open.spotify.com/track/3J2k478GV4E9GbFzN7ndgv) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend \(sadder\)](https://open.spotify.com/album/5O5IUctGmsLX2FBTDNOCvY) | 3:22 | 2022-10-28 | 2023-10-24 |
 | [Faulty Wiring](https://open.spotify.com/track/3tWmCPgwQ4rOn4vABsBLqO) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Faulty Wiring](https://open.spotify.com/album/3eZcH7IVMVANRxGtus9xr4) | 2:28 | 2023-08-18 | 2023-09-02 |
 | [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 | 2022-05-04 |  |
 | [Feel Good](https://open.spotify.com/track/2LpDPQNJmEdJnNdqHfrflx) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [Feel Good](https://open.spotify.com/album/5d3qDD3KoYlqf68XvZLmZb) | 2:58 | 2023-05-14 | 2023-06-19 |
@@ -498,6 +498,7 @@
 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2021-12-17 | 2022-12-17 |
 | [Stupid](https://open.spotify.com/track/42c7aUxtj89o7CxXO6bJo5) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Stupid](https://open.spotify.com/album/4nZL6dJ1pZk81IA7sPkpWz) | 2:38 | 2022-03-18 | 2022-04-21 |
 | [Stupid Cupid](https://open.spotify.com/track/08uYRkYyBrEBAolgY5irVW) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Stupid Cupid](https://open.spotify.com/album/5L3H6uXdvsSUkgSZTeU3fv) | 2:53 | 2023-03-17 | 2023-06-03 |
+| [Sunday](https://open.spotify.com/track/7xxmW8ieHp9YnACGc0PfNz) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sunday](https://open.spotify.com/album/34Pax5tBAPlhxGXfmfypNO) | 2:58 | 2023-10-20 |  |
 | [Sycamore](https://open.spotify.com/track/3qwxZ8ygOYSWE790KcfgU1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 2:50 | 2023-05-05 | 2023-08-05 |
 | [take it back](https://open.spotify.com/track/4aSdNAVI0okQEhbV5V2j3T) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [take it back](https://open.spotify.com/album/0e3xxcBQGOu7p9VeIoTDqQ) | 2:50 | 2023-08-18 | 2023-10-07 |
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2021-12-17 |  |

@@ -4,7 +4,7 @@
 
 > make it pop! cover: MICHELLE
 
-790 songs - 1 day 15 hr 22 min
+791 songs - 1 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -789,7 +789,8 @@
 | [XXL](https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [XXL](https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf) | 3:26 | 2023-08-08 | 2023-10-03 |
 | [XXL](https://open.spotify.com/track/4kFbxA8gCGx47zJrZ9KiQT) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 3:26 | 2023-09-29 |  |
 | [y can’t we b friends?](https://open.spotify.com/track/0RU3WmtsA8oUpgbH3XxTpj) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [y can’t we b friends?](https://open.spotify.com/album/6HAp1zaGP4uL7IxXKAI5K8) | 2:35 | 2022-05-27 | 2022-07-09 |
-| [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 | 2023-09-08 |  |
+| [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 | 2023-09-08 | 2023-10-24 |
+| [You Don't Even](https://open.spotify.com/track/6jTGHYU466eF0XxVOQuQMy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/1Vw2QQWVguHw3kTwCq3kaf) | 2:18 | 2023-10-20 |  |
 | [You Make Me Mad](https://open.spotify.com/track/5WyBmMS2qDyOz8O0OIQUY5) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/2Bn7ms5tZRXGvZOOT55OOf) | 3:06 | 2021-10-29 | 2022-01-08 |
 | [You Need Jesus](https://open.spotify.com/track/2JJjWLvlJhfYSfj4umyaTc) | [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [You Need Jesus](https://open.spotify.com/album/2JhiffKjGgJ1DcjNPE0WHG) | 2:14 | 2023-06-30 |  |
 | [You Shaped Hole](https://open.spotify.com/track/5AoSpWbDyhpHvB6RwjM2c7) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 2:59 | 2021-10-29 | 2022-01-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,700 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,462 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 66 | [Cette année\-là](https://open.spotify.com/track/23ITHe1yTMZyDEq323xClf) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [French Disco Icon](https://open.spotify.com/album/271wVMcj0UHPQoa9quPOp5) | 3:12 |
 | 67 | [Help Myself \(Nous Ne Faisons Que Passer\)](https://open.spotify.com/track/6NPurOhG89pZbxQUnmv4pa) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Nouvel an \- Années 2010](https://open.spotify.com/album/5e3K8PvcKrnNorTlfU8kxf) | 2:46 |
 | 68 | [Kid](https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [Cure](https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw) | 3:04 |
-| 69 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déja ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 |
+| 69 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 |
 | 70 | [Nous](https://open.spotify.com/track/5KURaCww90G5JWY3HAZ5tn) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [aimée](https://open.spotify.com/album/6BDmnvL4iyvqfXR4OtDZ2r) | 3:19 |
 | 71 | [Rockollection](https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 4:10 |
 | 72 | [Ta marinière](https://open.spotify.com/track/2JFmiASjHttT8AK7WeZjAb) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Il suffit d'y croire \(Version deluxe\)](https://open.spotify.com/album/6jQJaCZB3mCM73p7JE5XNJ) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 99 | [Respire](https://open.spotify.com/track/2xcuDxTLlp0ro2GYlS1i9G) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Tu Vas Pas Mourir De Rire](https://open.spotify.com/album/6A72tti9z0ejH8Y6DeVhCr) | 3:48 |
 | 100 | [Comment est ta peine ?](https://open.spotify.com/track/19ZitU4vAGoAVYS7V0D2J1) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Grand Prix \(Edition Deluxe\)](https://open.spotify.com/album/08uATplQsVKhbj2WUatHti) | 5:04 |
 
-Snapshot ID: `MCxlYjk5YmJkOGNhN2MyZmI1YWQ5YThlZDZlY2MwYTAyMjI2NWIxYzgz`
+Snapshot ID: `MCw0ZWNhMzIyMDFhMDQwOTYwNDVjNTg2ZDVjZGY3MGQyOGJkYzIyYmJj`

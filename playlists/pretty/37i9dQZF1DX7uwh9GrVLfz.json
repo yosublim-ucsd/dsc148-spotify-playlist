@@ -1,12 +1,12 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: Ken Yokoyama",
-  "num_followers": 109717,
+  "num_followers": 109745,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjhjNmRlNTk4YTI3ZWNhZWM0YmMyMmM0NmYxZWQ2MjNkMWUzMWU5",
+  "snapshot_id": "MCwyMDdjNmFlZmUzYWZmMWU2ODRhYjQxMmM5NGYyMTRkZTk0YzZhZDNh",
   "tracks": [
     {
       "added_at": "2023-10-17 15:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "\u3042\u306e\u65e5\u3001\u3042\u306e\u5834\u6240/\u7729\u5149",
-        "url": "https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "\u7729\u5149",
-      "url": "https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp"
-    },
-    {
-      "added_at": "2023-10-17 15:00:00",
-      "album": {
         "name": "\u6c38\u9060\u306e\u82b1",
         "url": "https://open.spotify.com/album/1i7AHRWpDPl56hKoWcnMdq"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 258093,
       "name": "\u7a7a\u306b\u5504\u3048\u3070",
       "url": "https://open.spotify.com/track/0CATStPGs7sxXxM7CJLdPa"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
+        "name": "\u3042\u306e\u65e5\u3001\u3042\u306e\u5834\u6240/\u7729\u5149",
+        "url": "https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "\u7729\u5149",
+      "url": "https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -543,22 +543,18 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "\u611b\u5f4c\u3005",
-        "url": "https://open.spotify.com/album/2OyqM4vsvt06EgArxRoYZv"
+        "name": "LOVE IS A BATTLEFIELD",
+        "url": "https://open.spotify.com/album/3UW4q3FZ3YCCzyXe8zTYFa"
       },
       "artists": [
         {
-          "name": "MONGOL800",
-          "url": "https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO"
-        },
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
         }
       ],
-      "duration_ms": 308809,
-      "name": "\u611b\u5f4c\u3005",
-      "url": "https://open.spotify.com/track/4BQR7j2Wg0lkwfPq9O14gZ"
+      "duration_ms": 191866,
+      "name": "MY FIRST KISS",
+      "url": "https://open.spotify.com/track/3giExKWjsn2GSeXR5AQIMc"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -579,38 +575,6 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "\u66d6\u6627",
-        "url": "https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 222125,
-      "name": "\u66d6\u6627",
-      "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
-    },
-    {
-      "added_at": "2023-10-17 15:00:00",
-      "album": {
-        "name": "LOVE IS A BATTLEFIELD",
-        "url": "https://open.spotify.com/album/3UW4q3FZ3YCCzyXe8zTYFa"
-      },
-      "artists": [
-        {
-          "name": "Hi-STANDARD",
-          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
-        }
-      ],
-      "duration_ms": 191866,
-      "name": "MY FIRST KISS",
-      "url": "https://open.spotify.com/track/3giExKWjsn2GSeXR5AQIMc"
-    },
-    {
-      "added_at": "2023-10-17 15:00:00",
-      "album": {
         "name": "Pepperoni Quattro",
         "url": "https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq"
       },
@@ -623,6 +587,26 @@
       "duration_ms": 220720,
       "name": "\u30b9\u30bf\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5",
       "url": "https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
+        "name": "\u611b\u5f4c\u3005",
+        "url": "https://open.spotify.com/album/2OyqM4vsvt06EgArxRoYZv"
+      },
+      "artists": [
+        {
+          "name": "MONGOL800",
+          "url": "https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO"
+        },
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 308809,
+      "name": "\u611b\u5f4c\u3005",
+      "url": "https://open.spotify.com/track/4BQR7j2Wg0lkwfPq9O14gZ"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -643,18 +627,18 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "89.7 Growl FM",
-        "url": "https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy"
+        "name": "\u66d6\u6627",
+        "url": "https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY"
       },
       "artists": [
         {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
         }
       ],
-      "duration_ms": 162546,
-      "name": "Let It Go As If You Wander",
-      "url": "https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k"
+      "duration_ms": 222125,
+      "name": "\u66d6\u6627",
+      "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -671,6 +655,38 @@
       "duration_ms": 485880,
       "name": "Voice",
       "url": "https://open.spotify.com/track/3aFSKmcKnOAQcyedKk0Hgd"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
+        "name": "89.7 Growl FM",
+        "url": "https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "duration_ms": 162546,
+      "name": "Let It Go As If You Wander",
+      "url": "https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
+        "name": "RIOT ON THE GRILL",
+        "url": "https://open.spotify.com/album/47THqxbGDOoKSZ0xZxCApD"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "\u8679",
+      "url": "https://open.spotify.com/track/6h5i1sJnmPfHmzhJvd89Op"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -707,6 +723,26 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
+        "name": "10-feat",
+        "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        },
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 236013,
+      "name": "VIBES BY VIBES",
+      "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
         "name": "Be The One",
         "url": "https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq"
       },
@@ -739,22 +775,6 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "RIOT ON THE GRILL",
-        "url": "https://open.spotify.com/album/47THqxbGDOoKSZ0xZxCApD"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "\u8679",
-      "url": "https://open.spotify.com/track/6h5i1sJnmPfHmzhJvd89Op"
-    },
-    {
-      "added_at": "2023-10-17 15:00:00",
-      "album": {
         "name": "\u30ed\u30c3\u30af\u30f3\u30ed\u30fc\u30eb \u30a4\u30ba \u30ce\u30c3\u30c8\u30c7\u30c3\u30c9",
         "url": "https://open.spotify.com/album/0ETJil8vr0LrBGRA8oxC0p"
       },
@@ -767,6 +787,22 @@
       "duration_ms": 300306,
       "name": "\u30ed\u30c3\u30af\u30f3\u30ed\u30fc\u30eb \u30a4\u30ba \u30ce\u30c3\u30c8\u30c7\u30c3\u30c9",
       "url": "https://open.spotify.com/track/2T0NlmguJeLXbXc4xZ10TU"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
+        "name": "Space Sonic",
+        "url": "https://open.spotify.com/album/4MJpSVLeU2zWaph5ywV60A"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "Stereoman",
+      "url": "https://open.spotify.com/track/6ZIOIVey5pvMycER6mSA4y"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -787,26 +823,6 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "10-feat",
-        "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
-      },
-      "artists": [
-        {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        },
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 236013,
-      "name": "VIBES BY VIBES",
-      "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
-    },
-    {
-      "added_at": "2023-10-17 15:00:00",
-      "album": {
         "name": "\u307d",
         "url": "https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 195533,
       "name": "\u3061\u3087",
       "url": "https://open.spotify.com/track/49pPQ1kOFA3gWhojvc1VEA"
-    },
-    {
-      "added_at": "2023-10-17 15:00:00",
-      "album": {
-        "name": "cult grass stars",
-        "url": "https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n"
-      },
-      "artists": [
-        {
-          "name": "Thee Michelle Gun Elephant",
-          "url": "https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX"
-        }
-      ],
-      "duration_ms": 346866,
-      "name": "\u4e16\u754c\u306e\u7d42\u308f\u308a - Primitive Version",
-      "url": "https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "Space Sonic",
-        "url": "https://open.spotify.com/album/4MJpSVLeU2zWaph5ywV60A"
+        "name": "cult grass stars",
+        "url": "https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n"
       },
       "artists": [
         {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+          "name": "Thee Michelle Gun Elephant",
+          "url": "https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX"
         }
       ],
-      "duration_ms": 213720,
-      "name": "Stereoman",
-      "url": "https://open.spotify.com/track/6ZIOIVey5pvMycER6mSA4y"
+      "duration_ms": 346866,
+      "name": "\u4e16\u754c\u306e\u7d42\u308f\u308a - Primitive Version",
+      "url": "https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
+        "name": "\u30b3\u30ea\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "SLAM",
+      "url": "https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
         "name": "THE BAND STAR",
         "url": "https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 255786,
       "name": "C7",
       "url": "https://open.spotify.com/track/6X6ZSDU1g2gYh2foPRfYnT"
-    },
-    {
-      "added_at": "2023-10-17 15:00:00",
-      "album": {
-        "name": "\u30b3\u30ea\u30f3\u30ba",
-        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
-      },
-      "artists": [
-        {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "SLAM",
-      "url": "https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "YAEN",
-        "url": "https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
-          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
-        }
-      ],
-      "duration_ms": 139892,
-      "name": "YAEN",
-      "url": "https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs"
-    },
-    {
-      "added_at": "2023-10-17 15:00:00",
-      "album": {
         "name": "Super Champon",
         "url": "https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 132386,
       "name": "Blooming the Tank-top",
       "url": "https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
+        "name": "YAEN",
+        "url": "https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
+          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
+        }
+      ],
+      "duration_ms": 139892,
+      "name": "YAEN",
+      "url": "https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
-        "url": "https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx"
-      },
-      "artists": [
-        {
-          "name": "Suspended 4th",
-          "url": "https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp"
-        }
-      ],
-      "duration_ms": 197269,
-      "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH"
-    },
-    {
-      "added_at": "2023-10-17 15:00:00",
-      "album": {
         "name": "REPLAY \u301cLimited Collection\u301c",
         "url": "https://open.spotify.com/album/331VhS2XHgfSVYBWYdd2Va"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 190166,
       "name": "\u5927\u5207\u306a\u3082\u306e",
       "url": "https://open.spotify.com/track/4QMLig3qhuUz4KYqsGE4Ov"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
+        "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx"
+      },
+      "artists": [
+        {
+          "name": "Suspended 4th",
+          "url": "https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp"
+        }
+      ],
+      "duration_ms": 197269,
+      "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "GIANTSTAMP",
-        "url": "https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj"
-      },
-      "artists": [
-        {
-          "name": "Suspended 4th",
-          "url": "https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc \u30b7\u30fc\u30b5\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7"
-    },
-    {
-      "added_at": "2023-10-17 15:00:00",
-      "album": {
         "name": "Super Champon",
         "url": "https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 105466,
       "name": "PARDON?",
       "url": "https://open.spotify.com/track/7l6yDpU2vIDXFQpdEYgpNO"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
+        "name": "GIANTSTAMP",
+        "url": "https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj"
+      },
+      "artists": [
+        {
+          "name": "Suspended 4th",
+          "url": "https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc \u30b7\u30fc\u30b5\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "Goo Goo Goo",
-        "url": "https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE"
-      },
-      "artists": [
-        {
-          "name": "PAN",
-          "url": "https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T"
-        }
-      ],
-      "duration_ms": 192453,
-      "name": "\"Let it die -Subete wa isutori game-\" (Let it die -All is musical chairs-)",
-      "url": "https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi"
-    },
-    {
-      "added_at": "2023-10-17 15:00:00",
-      "album": {
         "name": "FRESH BRASH OLD MAN",
         "url": "https://open.spotify.com/album/6I3h8d1qKsleQ1iq9nQCwH"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 157666,
       "name": "B\u30fbM\u30fbW",
       "url": "https://open.spotify.com/track/3CBy99A0i7gTKOjOSSIw53"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
+        "name": "Goo Goo Goo",
+        "url": "https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE"
+      },
+      "artists": [
+        {
+          "name": "PAN",
+          "url": "https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T"
+        }
+      ],
+      "duration_ms": 192453,
+      "name": "\"Let it die -Subete wa isutori game-\" (Let it die -All is musical chairs-)",
+      "url": "https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "Oath and Night War",
-        "url": "https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS"
+        "name": "H.U.E.",
+        "url": "https://open.spotify.com/album/1vIJNSPpYHqjNPFoQVea0x"
       },
       "artists": [
         {
-          "name": "Over Arm Throw",
-          "url": "https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML"
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
         }
       ],
-      "duration_ms": 182480,
-      "name": "ZINNIA",
-      "url": "https://open.spotify.com/track/453y9UfKiUqrGNOAYcGvhh"
+      "duration_ms": 233879,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3"
     }
   ],
   "unique_name": "Punk Japan",

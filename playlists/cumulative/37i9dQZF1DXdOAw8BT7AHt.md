@@ -2,9 +2,9 @@
 
 ### [The Punk List](https://open.spotify.com/playlist/37i9dQZF1DXdOAw8BT7AHt)
 
-> The best in modern punk rock music\. Cover: SPRINTS
+> The best in modern punk rock music\. Cover: Sleaford Mods
 
-184 songs - 9 hr 3 min
+187 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [COLD BEER](https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [GENRELESS](https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E) | 1:41 | 2022-12-02 |  |
 | [Cool Blue](https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Cool Blue](https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ) | 3:09 | 2023-01-18 | 2023-03-21 |
 | [Country Life](https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Country Life](https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT) | 2:27 | 2022-12-02 |  |
-| [Cry To Heaven](https://open.spotify.com/track/5oqVYnqZOZJDmwD3BtcJty) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Cry To Heaven](https://open.spotify.com/album/5mY2RBEc4jQmWzXaW9evvM) | 4:29 | 2023-06-08 |  |
+| [Cry To Heaven](https://open.spotify.com/track/1iNKQ8LIG4OVFK3o9vmmUY) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Sanguivore](https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2) | 4:27 | 2023-10-20 |  |
+| [Cry To Heaven](https://open.spotify.com/track/5oqVYnqZOZJDmwD3BtcJty) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Cry To Heaven](https://open.spotify.com/album/5mY2RBEc4jQmWzXaW9evvM) | 4:29 | 2023-06-08 | 2023-10-24 |
 | [Cry Your Eyes Out](https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Cry Your Eyes Out](https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti) | 2:27 | 2023-05-19 | 2023-07-05 |
 | [D.R.I.L.D.O](https://open.spotify.com/track/4zxIQjgzBgVm6e5CFEHe32) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:12 | 2022-12-02 |  |
 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 | 2022-12-02 |  |
@@ -53,7 +54,7 @@
 | [Demolition Row](https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Demolition Row](https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk) | 4:18 | 2023-03-03 | 2023-09-22 |
 | [Demolition Row](https://open.spotify.com/track/4WZqRGx9Wer0kkqxOBpYLU) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Demolition Row](https://open.spotify.com/album/14z5OMX99l2AO8ydNmIcdp) | 4:18 | 2023-03-03 | 2023-04-30 |
 | [Desire](https://open.spotify.com/track/0TMa5jD2LbTMoHMZi7yoOf) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Desire](https://open.spotify.com/album/23UvDBMl3LgUfdYdj9Wnay) | 1:55 | 2023-02-06 | 2023-05-30 |
-| [DESPERATE BREAKFAST](https://open.spotify.com/track/0dWxRisAsPcoN1DOWj4hRR) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [DESPERATE BREAKFAST](https://open.spotify.com/album/7aavLSvHUOAqXYr0jPSm7t) | 3:11 | 2023-09-22 |  |
+| [DESPERATE BREAKFAST](https://open.spotify.com/track/0dWxRisAsPcoN1DOWj4hRR) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [DESPERATE BREAKFAST](https://open.spotify.com/album/7aavLSvHUOAqXYr0jPSm7t) | 3:11 | 2023-09-22 | 2023-10-24 |
 | [Don't Date The Devil](https://open.spotify.com/track/32XvkBX22ALeqMutaCZtQw) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Don't Date The Devil](https://open.spotify.com/album/62emvRyHGLkEYQctxBA1Pi) | 2:50 | 2023-06-20 | 2023-08-24 |
 | [Dream Big](https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Dream Big](https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c) | 3:05 | 2023-08-23 |  |
 | [Drop](https://open.spotify.com/track/2OxH7BbCRiY9fldXLX4VhI) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Drop](https://open.spotify.com/album/6sMn0pz6YR7V09IL0icryl) | 2:15 | 2023-08-23 | 2023-09-22 |
@@ -89,6 +90,7 @@
 | [Hell of Mine](https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Hell of Mine](https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T) | 2:05 | 2022-12-02 | 2023-03-21 |
 | [Here In Your Bedroom \(feat\. Avril Lavigne\)](https://open.spotify.com/track/0eOKxLySILR9x85cknejae) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Never Look Back \(Deluxe\)](https://open.spotify.com/album/6qkETtOzEEXtL3fB4Jdatx) | 3:12 | 2022-12-02 | 2023-04-17 |
 | [Hiccup](https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Hiccup](https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR) | 1:45 | 2023-03-20 | 2023-06-16 |
+| [High Tea](https://open.spotify.com/track/2jpkUfj8a8G32DzsIYXxHM) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Invite me, kindly](https://open.spotify.com/album/77D1XYQxm5bRFsiWUNTXal) | 2:56 | 2023-10-20 |  |
 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 | 2023-07-05 |  |
 | [How Does It Feel?](https://open.spotify.com/track/36Bf1RIqi0QbYiX8QEQmfZ) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [How Does It Feel?](https://open.spotify.com/album/6pQXmyYZy2SBDwc4h8EZji) | 1:35 | 2022-12-02 | 2023-05-18 |
 | [How To Live With Yourself](https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen](https://open.spotify.com/album/4kYAjbGqM71mhKgNyiVoUv) | 2:45 | 2023-06-08 |  |
@@ -181,11 +183,12 @@
 | [Troglodyte](https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Troglodyte](https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG) | 3:19 | 2022-12-02 | 2023-03-03 |
 | [UK GRIM](https://open.spotify.com/track/42ai7rZ6KEHztOYSVp2z58) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [UK GRIM](https://open.spotify.com/album/4nlVzlGL7OHDOhST7U4QiJ) | 3:18 | 2023-01-18 | 2023-03-21 |
 | [UK GRIM](https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [UK GRIM](https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0) | 3:18 | 2023-03-20 |  |
+| [Under The Rules](https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [MORE UK GRIM](https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F) | 3:33 | 2023-10-20 |  |
 | [Unlike Me](https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Unlike Me](https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT) | 3:08 | 2023-06-08 | 2023-09-22 |
 | [Up and Comer](https://open.spotify.com/track/0yMfUaFL7LDT38c648msAM) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Up and Comer](https://open.spotify.com/album/4auUOEEMRz5Uox3n79ip6M) | 3:46 | 2023-09-22 |  |
 | [USA](https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [USA](https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG) | 1:38 | 2023-09-22 |  |
 | [Wake Me Up \(When This Nightmare’s Over\)](https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:36 | 2022-12-02 |  |
-| [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 | 2022-12-02 |  |
+| [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 | 2022-12-02 | 2023-10-24 |
 | [White Trash Millionaire](https://open.spotify.com/track/4Vt4vfcqBtOT9MT9GtWiXP) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Sweet Tooth](https://open.spotify.com/album/2vMWoMKeyq9m1xIghMKkaL) | 2:38 | 2022-12-02 |  |
 | [Who Am I](https://open.spotify.com/track/2gDzbtMofzJlmaN5oGjI7x) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Who Am I](https://open.spotify.com/album/112fCF19lmyd56p14czHBO) | 1:46 | 2023-03-03 | 2023-03-21 |
 | [Who Do We Not Save](https://open.spotify.com/track/0gL0Au51CmhJy7R5Oo70WE) | [Problem Patterns](https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP) | [Who Do We Not Save](https://open.spotify.com/album/6GBiQv7xCikmX0TMdT2Igr) | 2:07 | 2023-04-21 | 2023-06-09 |

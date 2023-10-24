@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,738 likes - 78 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,773 likes - 78 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 77 | [Bad Bitch Bigaku](https://open.spotify.com/track/11krnrkseRXhDZP8CxWx00) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi) | [United Queens](https://open.spotify.com/album/016yxPrHB2gjtuvx6SqGyr) | 4:20 |
 | 78 | [Rotary Telephone](https://open.spotify.com/track/4eR0HKJGudoyfLKtx7kXmE) | [Atmosphere](https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J), [Slug](https://open.spotify.com/artist/6Lz3nv3y0hhdKkyrApFCZD), [Ant](https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI) | [Talk Talk / Rotary Telephone](https://open.spotify.com/album/20JjurNzXAU6LY86wb7vaA) | 3:23 |
 
-Snapshot ID: `MCw5OGNhZjBiYTQzNjBlN2E4ODJmZmIxYmQ5Zjk2MmU0Njk1Yzk0MGYw`
+Snapshot ID: `MCxjNDlhODU1YTkwZmFhYjlkNTFjZTAwYjQyZDA1NDk4M2NhNDhiY2M2`

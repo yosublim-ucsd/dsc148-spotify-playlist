@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,482 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,713 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 57 | [To The Moon](https://open.spotify.com/track/7JRnLgqbG12bgMeI0Nntei) | [NEVE](https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2) | [To The Moon](https://open.spotify.com/album/2ar7pzKt4oF0qyODJLwIMn) | 2:51 |
 | 58 | [Dead To Me](https://open.spotify.com/track/756sYvBPGREA5DVd9qUIUd) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Dead To Me](https://open.spotify.com/album/6wjm5UATvraR2HRKwWoNWO) | 2:32 |
 | 59 | [MURDER MY FEELINGS](https://open.spotify.com/track/5ew8NaSZdrhpRfJaN8ni2A) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [MURDER MY FEELINGS](https://open.spotify.com/album/0HQB2AgiDGDFkFgvSRYqAM) | 2:44 |
-| 60 | [Strongly Worded Letter](https://open.spotify.com/track/5BBHMxzR3vMZNlXDEpbIT8) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Strongly Worded Letter](https://open.spotify.com/album/0iJCgwJtJgoToVKta9NXk9) | 2:18 |
+| 60 | [Strongly Worded Letter](https://open.spotify.com/track/0ZuQFjhs929dxImCpeomRE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:18 |
 | 61 | [This City is a Graveyard](https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [This City is a Graveyard](https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH) | 3:07 |
 | 62 | [Sugar Baby](https://open.spotify.com/track/1eH3H5BjzfeicRnl5dJl1O) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2), [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Sugar Baby](https://open.spotify.com/album/5w5LtU5vSUNEEsjWzmdYTW) | 2:56 |
 | 63 | [Knockoff](https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Knockoff](https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n) | 3:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 79 | [Mantrum](https://open.spotify.com/track/60521PjAnsrU4eC0BX46WB) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Mantrum](https://open.spotify.com/album/197HGDLjmzlE8MZT8SrZPm) | 2:34 |
 | 80 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 |
 
-Snapshot ID: `MCw3N2ViMzhmZTk4YjVkOGM5YjI0MTI3YTU0MmQwNmVhM2E4YjczN2U2`
+Snapshot ID: `MCxkMWJkYTYyN2Y2ZGMyNDA5YWIyNDdhOGJkNjNlZjk3YjBhZWI3NDFh`

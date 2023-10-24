@@ -2792,7 +2792,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 207619,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4o9qh1t4OlY0CiuTNwhMiG"
@@ -11028,6 +11028,28 @@
       "duration_ms": 207753,
       "name": "What They Say",
       "url": "https://open.spotify.com/track/6uIzCToTSO3iMUMpYprG6X"
+    },
+    {
+      "album": {
+        "name": "What We Know (feat. Conor Byrne) [Club Mix]",
+        "url": "https://open.spotify.com/album/3u97nu0HP0cc4UQ5qkjZC3"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Conor Byrne",
+          "url": "https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204950,
+      "name": "What We Know (feat. Conor Byrne) [Club Mix]",
+      "url": "https://open.spotify.com/track/4Hbpo5VZaqIZ57JUBqQxhb"
     },
     {
       "album": {

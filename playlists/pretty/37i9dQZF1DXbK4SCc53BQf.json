@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 90392,
+  "num_followers": 90434,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWQzZDM2ZGVjMjVjZDY0MjE2ZmJiOWMyYjlkMjk5ZDZlM2JkOTE2",
+  "snapshot_id": "MCwyNTM4YjIzY2FkMzU1MGY0YjhhZjNjZjVjZmNkZTkxNmUyNjhmZjBk",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -131,42 +131,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Pensaba en Ti",
-        "url": "https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU"
-      },
-      "artists": [
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 219116,
-      "name": "Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
-        "url": "https://open.spotify.com/album/0ZuChxTZJfnV2rxfyweF8a"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
-      "url": "https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Voy a Amarte",
         "url": "https://open.spotify.com/album/18PfvYdVeeRdXLi9VbtK71"
       },
@@ -203,6 +167,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Pensaba en Ti",
+        "url": "https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 219116,
+      "name": "Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Flaming Fire",
         "url": "https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 212146,
       "name": "Que No Faltes Tu",
       "url": "https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
+        "url": "https://open.spotify.com/album/0ZuChxTZJfnV2rxfyweF8a"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
+      "url": "https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -507,30 +507,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Me Llevas M\u00e1s Alto",
-        "url": "https://open.spotify.com/album/6ZOw1bQKJpRWnAmyKkVhe2"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 199524,
-      "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
-      "url": "https://open.spotify.com/track/0KyNEJfDrKHOGSxsxCDM7v"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Fiel",
         "url": "https://open.spotify.com/album/0yXPcyG4gS3W6m2aQACbVD"
       },
@@ -559,6 +535,30 @@
       "duration_ms": 223146,
       "name": "Jovenes Valientes",
       "url": "https://open.spotify.com/track/5kjVhultwR25ejaYCJgbKV"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Me Llevas M\u00e1s Alto",
+        "url": "https://open.spotify.com/album/6ZOw1bQKJpRWnAmyKkVhe2"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 199524,
+      "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
+      "url": "https://open.spotify.com/track/0KyNEJfDrKHOGSxsxCDM7v"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -735,6 +735,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "This Is My Time",
+        "url": "https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "duration_ms": 228111,
+      "name": "La Misma Mentira",
+      "url": "https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/0qSI9KwRdzu1euqI19poAi"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 349909,
       "name": "Hermoso Nombre",
       "url": "https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "This Is My Time",
-        "url": "https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        }
-      ],
-      "duration_ms": 228111,
-      "name": "La Misma Mentira",
-      "url": "https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K"
     },
     {
       "added_at": "2020-11-24 13:23:55",

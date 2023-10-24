@@ -4,7 +4,7 @@
 
 > De beste Nederlandse hits van vroeger en nu\. Cover: Suzan & Freek en Claude
 
-154 songs - 7 hr 57 min
+155 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Altijd Al Beloofd](https://open.spotify.com/track/33PP2svLoyHP37hG5zChe0) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Altijd Al Beloofd](https://open.spotify.com/album/3y0c9HEcdDwFX29z1iWApy) | 2:46 | 2023-06-14 | 2023-09-29 |
 | [Amalia](https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Amalia](https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8) | 2:37 | 2023-10-05 |  |
 | [Amsterdam](https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Amsterdam](https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz) | 2:52 | 2023-02-24 |  |
-| [Arcade](https://open.spotify.com/track/2dDoOSCrKQCY95eY56Xs9R) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/3wzxiVGNefP0NRFjAhkVVo) | 3:16 | 2023-10-05 |  |
+| [Arcade](https://open.spotify.com/track/06q5OfzaRccXcFU6L7PrWd) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Arcade](https://open.spotify.com/album/5p4dNjuAzVPPM61pt4KQhK) | 3:16 | 2023-10-05 |  |
+| [Arcade](https://open.spotify.com/track/2dDoOSCrKQCY95eY56Xs9R) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/3wzxiVGNefP0NRFjAhkVVo) | 3:16 | 2023-10-05 | 2023-10-24 |
 | [Automatisch](https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Automatisch](https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs) | 2:45 | 2023-02-24 |  |
 | [Avond](https://open.spotify.com/track/2tF8Amp5Q4uBYwh70RBDPR) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Avond \(from the Amazon Original Series MODERN LOVE\)](https://open.spotify.com/album/6dKMsyWoG72THulJqomYxG) | 3:51 | 2023-02-24 | 2023-04-15 |
 | [Bailando](https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Bailando](https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK) | 2:43 | 2023-02-24 |  |

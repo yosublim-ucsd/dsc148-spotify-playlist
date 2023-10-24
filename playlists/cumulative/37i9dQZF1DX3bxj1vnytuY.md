@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-228 songs - 22 hr 53 min
+229 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Exile](https://open.spotify.com/track/4q3OgYOOdQ4Kad3Hj7IwsR) | [Stur und Dumm](https://open.spotify.com/artist/22my4hx9iy9VRvuFSLB08d) | [Exile](https://open.spotify.com/album/6f58FwWB5OonKwyXpEfUEt) | 4:56 | 2022-04-13 | 2023-04-21 |
 | [Exoplanet \- Original Mix](https://open.spotify.com/track/69RAvgFqYzlDJIofYpnCxx) | [Alexey Union](https://open.spotify.com/artist/4bzppvW4geKqxLC5VYJn2G) | [Exoplanet](https://open.spotify.com/album/0docPqSZtIMdeG1OIVLETs) | 4:39 | 2022-04-13 | 2023-04-21 |
 | [Faiyum \- Zuma Dionys Remix](https://open.spotify.com/track/59klIKyEUOS7DwHzGkiGuz) | [Solidmind](https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF), [Zuma Dionys](https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd) | [Faiyum \(Incl\. Zuma Dionys Remix\)](https://open.spotify.com/album/2bAHNvhIuJjrgkZfE7dcI6) | 7:06 | 2022-04-13 | 2023-04-21 |
-| [Farsi](https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Farsi](https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU) | 8:41 | 2022-05-26 |  |
+| [Farsi](https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Farsi](https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU) | 8:41 | 2022-05-26 | 2023-10-24 |
 | [Fidale \(I Feel\) \- Vocal Version](https://open.spotify.com/track/2lpsHgTJaQ75uU24WzjsFx) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Fidale \(I Feel\)](https://open.spotify.com/album/3Jbfc8oozmmj4SZ57eMSGE) | 4:44 | 2022-07-21 | 2023-03-10 |
 | [Fidale \(I Feel\) \- Vocal Version](https://open.spotify.com/track/7xrUhbMPCC6yBiok3Pb1Ej) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Fidale \(I Feel\)](https://open.spotify.com/album/7slMAeG3JZAQKYO16H6ViD) | 4:44 | 2022-04-13 | 2022-07-29 |
 | [Figures](https://open.spotify.com/track/3qb2uMaR60HP0cTWLI2DM7) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu), [Paralel](https://open.spotify.com/artist/6gx1uCxt263iyrRJG6XBR6) | [Nocturnal 010](https://open.spotify.com/album/2Qls9LLSmjCLKgxK29GBqy) | 4:23 | 2023-06-22 | 2023-07-25 |
@@ -221,6 +221,7 @@
 | [Water](https://open.spotify.com/track/6CJRmGL7DViCD19b1AjZ3i) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Aüra](https://open.spotify.com/artist/5muEGUq4zkPhuAmHdjLiwZ), [Trick Beat](https://open.spotify.com/artist/7hPKG1dTcNZ1ybAkNxFWg1), [Djarah Kan](https://open.spotify.com/artist/1208Qot91BdSVTVUNhc01y) | [Water](https://open.spotify.com/album/6pXz2BeNjmBJJEIiDiomMB) | 7:06 | 2022-04-13 | 2022-12-17 |
 | [Waves & Wavs](https://open.spotify.com/track/1D7PE3dDyonJfUP6oSuaq7) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Anchor Point EP](https://open.spotify.com/album/1WmE8DAfRSq16Qre7SEV1V) | 5:28 | 2023-03-07 |  |
 | [Waves & Wavs](https://open.spotify.com/track/5HRWhU6V48zxJqkh99DJQv) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Anchor Point EP](https://open.spotify.com/album/1L8kegBtw3HkqpxTlqc1Fm) | 5:28 | 2022-11-28 | 2023-03-08 |
+| [Wemilere](https://open.spotify.com/track/4LTUd0vpDURYoaPvHX9aly) | [Da Le \(Havana\)](https://open.spotify.com/artist/0Ls9PL0afEyfXXY1XDdQP2) | [Wemilere](https://open.spotify.com/album/3Xjx3s7w4KFIpCBI1c0kId) | 3:29 | 2023-10-23 |  |
 | [Whale Song](https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Whale Song](https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG) | 4:11 | 2022-04-13 | 2023-07-06 |
 | [Whistleman](https://open.spotify.com/track/386PnZfbszq42M8GprZnVt) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Whistleman EP](https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70) | 7:59 | 2023-01-01 | 2023-08-03 |
 | [White Desert](https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [White Desert](https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3) | 6:40 | 2022-12-05 |  |

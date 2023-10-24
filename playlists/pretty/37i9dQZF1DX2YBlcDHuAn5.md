@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,972 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,110 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,15 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 12 | [The Kids Are All Grown \- Blackbird Version](https://open.spotify.com/track/04R0IH9gPAMwpyNWrRYPg4) | [Brian Dunne](https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V), [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [The Kids Are All Grown \(Blackbird Version\)](https://open.spotify.com/album/3hdDyWKULmmDVjpgxAZVp1) | 4:35 |
 | 13 | [Someone You Love](https://open.spotify.com/track/6oU5j3WOngnD1GcJtshyhB) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Someone You Love](https://open.spotify.com/album/0sMQLfLv6y3ALmcZXJXcUT) | 4:14 |
 | 14 | [Huddle by the Fire](https://open.spotify.com/track/5cmp99VIIXksQZGdDIf5sB) | [Them Dirty Dimes](https://open.spotify.com/artist/5ALoTX7C68nChnuiz2loRP) | [Huddle by the Fire](https://open.spotify.com/album/56cOKNhTkIwryEvl3QQNOq) | 2:41 |
-| 15 | [Whatever Turns You On](https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Buck](https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV) | 2:04 |
-| 16 | [When Times Get Rough](https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [When Times Get Rough](https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui) | 2:16 |
+| 15 | [When Times Get Rough](https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [When Times Get Rough](https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui) | 2:16 |
+| 16 | [Whatever Turns You On](https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Buck](https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV) | 2:04 |
 | 17 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 |
 | 18 | [Pagan Run](https://open.spotify.com/track/2mRkUkyWk10HDw9Oa9llio) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [King of a Land](https://open.spotify.com/album/7L985gR7I4PLpAO5aqNyxj) | 4:33 |
 | 19 | [Hear My Dear](https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: I\. Crescent](https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq) | 5:34 |
 | 20 | [Sunrise](https://open.spotify.com/track/4sf3h7pItFhKub8I57Tl04) | [The Golden Glows](https://open.spotify.com/artist/5CMKkypfO8LrvYHEoTment) | [Sunrise](https://open.spotify.com/album/2m4JpjrTwYc9qGASbsbrJT) | 3:27 |
-| 21 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 |
-| 22 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
-| 23 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 |
+| 21 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
+| 22 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 |
+| 23 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 |
 | 24 | [Big Time](https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Big Time](https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx) | 4:07 |
 | 25 | [Sugah Rush](https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Sugah Rush](https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm) | 2:40 |
 | 26 | [Pink Shades](https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv) | 3:30 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 31 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 |
 | 32 | [Babe I'm Gonna Leave You \- Extended Version](https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Babe I'm Gonna Leave You \(Extended Version\)](https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL) | 4:54 |
 | 33 | [Built And Broken](https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Built And Broken](https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m) | 4:28 |
-| 34 | [Even The Bad Ends Badly](https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Bluefinger](https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1) | 3:22 |
-| 35 | [Too Close](https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Too Close](https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO) | 3:28 |
+| 34 | [Too Close](https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Too Close](https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO) | 3:28 |
+| 35 | [Even The Bad Ends Badly](https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Bluefinger](https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1) | 3:22 |
 | 36 | [Tower Of Song](https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 4:59 |
 | 37 | [Lola with the Light Eyes](https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [The Epic Tale of the Stranded Man](https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH) | 3:32 |
 | 38 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 49 | [Rollin' with the Punches](https://open.spotify.com/track/0n3dt5BM0wJm6kLvUfB7hK) | [Voltage](https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1) | [Rollin' with the Punches](https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw) | 4:13 |
 | 50 | [Colours](https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [In The Morning, When We Rise](https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM) | 3:52 |
 
-Snapshot ID: `MCwyY2E2N2NkYmFkOGE1ZjZhMjhhMDhhNDg4NTNhYWUzMDAyNWQwNjBj`
+Snapshot ID: `MCwyM2I0ZTUwOGQxNDYwMTU5MTY3MDk5NmI2ZGIzODk1MWZjODY0NWRj`

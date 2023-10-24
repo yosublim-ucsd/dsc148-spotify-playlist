@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: David Kushner
 
-316 songs - 18 hr 13 min
+317 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Doppelgänger](https://open.spotify.com/track/1q9jh0Ov1tk9aaxFVaYzkC) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Doppelgänger](https://open.spotify.com/album/4teZN2PzvrzgLyQ41rO3OH) | 2:52 | 2023-04-14 | 2023-09-23 |
 | [Dreamer](https://open.spotify.com/track/3Q8paSvq4CgMeIcIqu9Dlo) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [Dreamer](https://open.spotify.com/album/2ZoHkOe9n2Ix14B3jwo4KR) | 3:26 | 2022-02-21 | 2022-07-15 |
 | [Dried Up River](https://open.spotify.com/track/6saTpYJv62gbFeRgC7VF82) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Dried Up River](https://open.spotify.com/album/5QveyiS7sznogAxujItLjZ) | 3:51 | 2021-11-12 | 2022-07-29 |
-| [drive](https://open.spotify.com/track/1POBIDmX5L8lDEQSkO1DBi) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [drive](https://open.spotify.com/album/0DbML0JCn2c8JhNYwx2Fcu) | 2:46 | 2023-04-12 |  |
+| [drive](https://open.spotify.com/track/1POBIDmX5L8lDEQSkO1DBi) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [drive](https://open.spotify.com/album/0DbML0JCn2c8JhNYwx2Fcu) | 2:46 | 2023-04-12 | 2023-10-24 |
 | [drywall](https://open.spotify.com/track/49XjLtTAwwhC8tupC8E8wp) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [drywall](https://open.spotify.com/album/2cbcM8spLBGvSIxsiOwIkz) | 3:42 | 2023-10-13 |  |
 | [Easy, Love](https://open.spotify.com/track/6m2cCJT4K54P5nLfRLyJud) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Oncoming Clouds](https://open.spotify.com/album/6G9nFGCkm389KVfnwRBWux) | 3:27 | 2021-11-12 | 2022-07-24 |
 | [Eat Your Young](https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 4:02 | 2023-03-17 | 2023-08-21 |
@@ -192,6 +192,7 @@
 | [London's Song](https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [London's Song](https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr) | 2:58 | 2021-11-12 |  |
 | [Losing from Within](https://open.spotify.com/track/32yqbK3xTvNU0EdA9BMi37) | [Hayley Reardon](https://open.spotify.com/artist/4US8FhryQWWUOPmLmreZDW) | [Losing from Within](https://open.spotify.com/album/7FzoIWP5nniks0bag7330P) | 3:22 | 2021-11-12 | 2022-07-29 |
 | [Lost](https://open.spotify.com/track/37GoX99NfDFMNcbmXTe40O) | [Jack and White](https://open.spotify.com/artist/2U5RgZDZdAR13tX6yivvRy), [Brooke White](https://open.spotify.com/artist/1feuQE7d9izI54MoL5Lc7t) | [Lost](https://open.spotify.com/album/54bkovX3Y2sBVWerGMHpeb) | 3:45 | 2021-11-12 | 2022-07-28 |
+| [Lost & Found](https://open.spotify.com/track/2DjZwbUsZeLL7qzyej7K0V) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Lost & Found](https://open.spotify.com/album/4DiQ4IeyIWXdexDkikRTRJ) | 4:09 | 2023-10-20 |  |
 | [Lottery](https://open.spotify.com/track/5F3QLG5Vnc1kT02PM9Mk37) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG) | 2:31 | 2022-03-12 | 2022-09-15 |
 | [Lottery](https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 2:33 | 2022-08-19 | 2023-09-23 |
 | [Love in Vain](https://open.spotify.com/track/5MarctIzuTHNE914cieIlz) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Love in Vain](https://open.spotify.com/album/3xdQaXYUwTrTuBjMy4hWco) | 3:25 | 2021-11-12 | 2022-07-29 |

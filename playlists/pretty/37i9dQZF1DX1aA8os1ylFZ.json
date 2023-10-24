@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 238301,
+  "num_followers": 238392,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjJlOGMxNmEyODAxYjI4ODIwMGUzNThkOGFiODJiMjg4NDFmMGM5",
+  "snapshot_id": "MCwzYmJkZjg0OWRlNTFlNTFjZDcwYzBlYTAyNWRmZmY1N2UyZmVjN2Fi",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Word For Word",
         "url": "https://open.spotify.com/album/2cEJ2GHIoUgI9nrEZGTONk"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Wasted",
         "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 157800,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 173377,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -923,22 +939,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 173377,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 182400,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Mood Swings",
-        "url": "https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 193789,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 173968,
       "name": "Softly",
       "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 193789,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        },
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "duration_ms": 221502,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
@@ -1215,26 +1235,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        },
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        }
-      ],
-      "duration_ms": 221502,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Out of Touch",
         "url": "https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr"
       },
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Just Expectationz",
-        "url": "https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa"
-      },
-      "artists": [
-        {
-          "name": "Azekel",
-          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
-        },
-        {
-          "name": "Ivy Sole",
-          "url": "https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu"
-        }
-      ],
-      "duration_ms": 228877,
-      "name": "Just Expectationz",
-      "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Ride with You",
         "url": "https://open.spotify.com/album/6Ugju3J2yU7PfOk0nSAkBF"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 164793,
       "name": "Ride with You",
       "url": "https://open.spotify.com/track/0pwGmwNir2jkqhWhBu9WqB"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Just Expectationz",
+        "url": "https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa"
+      },
+      "artists": [
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+        },
+        {
+          "name": "Ivy Sole",
+          "url": "https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu"
+        }
+      ],
+      "duration_ms": 228877,
+      "name": "Just Expectationz",
+      "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/5NeVFESnfQbNb14PTKn3y4"
+      },
+      "artists": [
+        {
+          "name": "Sky Feliz",
+          "url": "https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O"
+        }
+      ],
+      "duration_ms": 152562,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/50YvgSEJQpNlvOaTNJzwnk"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Imperfections",
         "url": "https://open.spotify.com/album/7BwQeu6XotauNon9gAKf84"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 213383,
       "name": "Whatever I Guess?",
       "url": "https://open.spotify.com/track/0oiTps85hBha6oKXqSU9Kz"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "City Girl",
-        "url": "https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn"
-      },
-      "artists": [
-        {
-          "name": "Quessswho",
-          "url": "https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ"
-        }
-      ],
-      "duration_ms": 121263,
-      "name": "City Girl",
-      "url": "https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO"
     }
   ],
   "unique_name": "R&B Magic",

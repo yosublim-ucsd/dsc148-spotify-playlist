@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-328 songs - 22 hr 1 min
+329 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [God Turn Me Into a Flower](https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:25 | 2023-01-17 |  |
 | [Golden Rope](https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Golden Rope](https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8) | 3:40 | 2023-01-17 |  |
 | [Goodbye \(feat\. Soap&Skin\) \[Theme from Dark, A Netflix Original Series\]](https://open.spotify.com/track/3wAEhWSx5GvfCkqJ1SPA5S) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot), [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Goodbye \(feat\. Soap&Skin\) \[Theme from Dark, A Netflix Original Series\]](https://open.spotify.com/album/04iB0QL1U7VtwMDsbgFlRT) | 4:16 | 2023-01-17 |  |
-| [Grands Boulevards](https://open.spotify.com/track/6lLw86s4tPBSvF9nZVGoCj) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [EP III](https://open.spotify.com/album/4nrWWmcF5QbROgZ7YitJ2q) | 3:34 | 2023-01-17 |  |
+| [Grands Boulevards](https://open.spotify.com/track/6lLw86s4tPBSvF9nZVGoCj) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [EP III](https://open.spotify.com/album/4nrWWmcF5QbROgZ7YitJ2q) | 3:34 | 2023-01-17 | 2023-10-24 |
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2023-01-17 |  |
 | [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 | 2023-01-17 |  |
 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2023-01-17 |  |
@@ -289,6 +289,7 @@
 | [The Last One](https://open.spotify.com/track/4t2ZAMb6OkX5BGACCoNNyz) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 3:50 | 2023-01-17 |  |
 | [The Message](https://open.spotify.com/track/0i5r3EWZsCMYRrpUy8YofZ) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Slow Air](https://open.spotify.com/album/5wQzD4g80qIXRVUOD9we2G) | 4:52 | 2023-01-17 |  |
 | [The Moon Song \- Film Version](https://open.spotify.com/track/2tr9JHGOa5ZRar7IedAiQc) | [Scarlett Johansson](https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa), [Joaquin Phoenix](https://open.spotify.com/artist/3j507n6aQUbtVxQv2Q6Usv) | [The Moon Song \(Music From And Inspired By The Motion Picture Her\)](https://open.spotify.com/album/6LFZaTo38vtBqq75Goxcky) | 1:50 | 2023-01-17 |  |
+| [The Presence](https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Pearlies](https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T) | 3:35 | 2023-10-23 |  |
 | [The Universe Is Always Right](https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [The Universe Is Always Right](https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ) | 4:04 | 2023-01-17 |  |
 | [There Are Many Ways To Say I Love You](https://open.spotify.com/track/2ri9tsDyJP6KDbesWMjJet) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [There Are Many Ways To Say I Love You](https://open.spotify.com/album/6dAKhFmWO8tnIAWsYGVN3P) | 2:02 | 2023-01-17 |  |
 | [Thingamajig](https://open.spotify.com/track/5jQ5iwHkqyk6HgxLOFdJo1) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Premonitions](https://open.spotify.com/album/3nWDfV4stC2VQopcuHjJmO) | 4:12 | 2023-01-17 |  |

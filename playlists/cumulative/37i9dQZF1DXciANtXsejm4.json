@@ -1149,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "EL SECRETO",
+        "url": "https://open.spotify.com/album/4pleRvhfnS7L5sbDzp7Drm"
+      },
+      "artists": [
+        {
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197922,
+      "name": "EL SECRETO",
+      "url": "https://open.spotify.com/track/65w96pwciZmFjg5p5amJuE"
+    },
+    {
+      "album": {
         "name": "Ritmo, Pasi\u00f3n y Sentimiento",
         "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
       },
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 311456,
       "name": "Enganchado Homenaje a Leo Mattioli - Cada vez te quiero m\u00e1s - Te llevo dentro de mi - Despu\u00e9s de ti - Te tengo que olvidar",
       "url": "https://open.spotify.com/track/4TLBCFkqq1OPNd3USWzL9y"
@@ -2829,6 +2847,24 @@
     },
     {
       "album": {
+        "name": "Que Sorpresa",
+        "url": "https://open.spotify.com/album/5C3B2j5vucQ8XlLKNAjXCc"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137879,
+      "name": "Que Sorpresa",
+      "url": "https://open.spotify.com/track/3GI15ZZCaAp6MdvCMPvwpy"
+    },
+    {
+      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6"
       },
@@ -2984,7 +3020,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 245864,
       "name": "Se Enamor\u00f3 de Mi la Soledad",
       "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"

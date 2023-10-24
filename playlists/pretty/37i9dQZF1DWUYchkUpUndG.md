@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM?si=fhmA3NrsTjKgd5DxioX\_2Q">Nolly</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,814 likes - 102 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,839 likes - 102 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 101 | [Run To You](https://open.spotify.com/track/0UIpdVr8h1Pm15IknyeZuv) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB) | [Run To You](https://open.spotify.com/album/1utQ8YyqCvuI18HHfRtU3c) | 2:54 |
 | 102 | [Twinkle Star](https://open.spotify.com/track/3R0RkG2Sm7TAXzOg1lyxbF) | [Kaydeegospel](https://open.spotify.com/artist/3I9jvm6n4vcnYvfAdYgT2X) | [Twinkle Star](https://open.spotify.com/album/4frOvFrexwfK1ZmyiM6XQG) | 2:19 |
 
-Snapshot ID: `MCw4Y2ViMWJkMjc3OWEwMTkxMTcyMWQyM2Y0ZjQ0MjZiZmE5NDRhOGY4`
+Snapshot ID: `MCwwMzA4YzUwNzZjOTlkZGFiY2UxM2YwYTZjNTY1OTQzOTQyMDRkODQy`

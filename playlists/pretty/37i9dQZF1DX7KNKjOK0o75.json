@@ -1,12 +1,12 @@
 {
   "description": "Feel great with these timelessly fun songs!",
-  "num_followers": 5305523,
+  "num_followers": 5305611,
   "original_name": "Have a Great Day!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWRmNzE2NzU0MGVmY2RmNTA3MmFlMmNiYTIwNjk0MGJhMjA2MmM5",
+  "snapshot_id": "MCwyMjU1YWY0ODcyNmNiMTRjYzcwNmMyYzdlYjFhN2RjZDlkMjFlMDNk",
   "tracks": [
     {
       "added_at": "2023-05-02 19:18:45",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-05-02 19:18:45",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
-    {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
         "name": "Rock Of The Westies",
         "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 275440,
       "name": "Don't Go Breaking My Heart",
       "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
       "added_at": "2023-05-02 19:18:45",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-05-02 19:18:45",
       "album": {
-        "name": "Sunshine on Leith",
-        "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
-      },
-      "artists": [
-        {
-          "name": "The Proclaimers",
-          "url": "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "I'm Gonna Be (500 Miles)",
-      "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
-    },
-    {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We?",
         "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 271560,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
+        "name": "Sunshine on Leith",
+        "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
+      },
+      "artists": [
+        {
+          "name": "The Proclaimers",
+          "url": "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "I'm Gonna Be (500 Miles)",
+      "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
     },
     {
       "added_at": "2023-05-02 19:18:45",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-05-02 19:18:45",
       "album": {
-        "name": "Writer's Block",
-        "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
-      },
-      "artists": [
-        {
-          "name": "Peter Bjorn and John",
-          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
-        }
-      ],
-      "duration_ms": 276693,
-      "name": "Young Folks",
-      "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
-    },
-    {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
         "name": "Madman Across The Water",
         "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 377093,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
+        "name": "Writer's Block",
+        "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
+      },
+      "artists": [
+        {
+          "name": "Peter Bjorn and John",
+          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+        }
+      ],
+      "duration_ms": 276693,
+      "name": "Young Folks",
+      "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
     },
     {
       "added_at": "2023-05-02 19:18:45",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
     },
     {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "Don't Stop - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
-    },
-    {
       "added_at": "2023-10-20 04:00:00",
       "album": {
         "name": "Colour By Numbers (Remastered / Expanded Edition)",
@@ -979,6 +963,22 @@
       "duration_ms": 252773,
       "name": "Karma Chameleon - Remastered 2002",
       "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
     },
     {
       "added_at": "2023-05-02 19:18:45",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-05-02 19:18:45",
       "album": {
-        "name": "More of The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "I'm a Believer - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
-    },
-    {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
         "name": "The John Denver Collection, Vol 1: Take Me Home Country Roads",
         "url": "https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 197813,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
+        "name": "More of The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "I'm a Believer - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
     },
     {
       "added_at": "2023-05-02 19:18:45",
@@ -1239,34 +1239,18 @@
     {
       "added_at": "2023-05-02 19:18:45",
       "album": {
-        "name": "I Should Coco",
-        "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
+        "name": "Inseparable",
+        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
       },
       "artists": [
         {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
         }
       ],
-      "duration_ms": 180880,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
-    },
-    {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
-        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
-        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
-      },
-      "artists": [
-        {
-          "name": "Edison Lighthouse",
-          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+      "duration_ms": 171960,
+      "name": "This Will Be (An Everlasting Love)",
+      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
     },
     {
       "added_at": "2023-05-02 19:18:45",
@@ -1287,18 +1271,34 @@
     {
       "added_at": "2023-05-02 19:18:45",
       "album": {
-        "name": "Inseparable",
-        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
       },
       "artists": [
         {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
         }
       ],
-      "duration_ms": 171960,
-      "name": "This Will Be (An Everlasting Love)",
-      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
+      "duration_ms": 174760,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
+        "name": "I Should Coco",
+        "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
     }
   ],
   "unique_name": "Have a Great Day!",

@@ -4,7 +4,7 @@
 
 > y el soundtrack suena así...
 
-67 songs - 3 hr 38 min
+68 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Despierto](https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Diàgo](https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s) | [Despierto](https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3) | 3:19 | 2023-07-31 | 2023-08-23 |
 | [Despierto](https://open.spotify.com/track/3SFFAZ3QH7clx7uA7BpLqJ) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Diàgo](https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s) | [Despierto](https://open.spotify.com/album/1dSihfk7gkcm5IjSYO9AAp) | 3:19 | 2023-08-11 |  |
 | [ESENCIA](https://open.spotify.com/track/3r0eidnhTQ0a33kdfjzFoJ) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 5:05 | 2023-07-31 |  |
-| [Garden \- SIDE A](https://open.spotify.com/track/4pGnWlr2Lk5MDPI6zgG972) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Miracle](https://open.spotify.com/album/11mzVM4ZtpOUxescgnFUsN) | 1:12 | 2023-09-14 |  |
+| [Garden \- SIDE A](https://open.spotify.com/track/4pGnWlr2Lk5MDPI6zgG972) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Miracle](https://open.spotify.com/album/11mzVM4ZtpOUxescgnFUsN) | 1:12 | 2023-09-14 | 2023-10-24 |
 | [Go Away](https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:27 | 2023-07-31 |  |
 | [Hate Being In Love](https://open.spotify.com/track/1lCOpGK9fuqFb7Obfxk6jn) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Principe Azul](https://open.spotify.com/album/5OZV8awIYVFNjbxq0ucMIJ) | 3:00 | 2023-07-31 |  |
 | [Hear Me Out](https://open.spotify.com/track/43u76RiZEjdtuEWar9ItUb) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 2:17 | 2023-07-31 |  |
@@ -75,5 +75,6 @@
 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 | 2023-07-31 |  |
 | [Un ratito más](https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:51 | 2023-07-31 |  |
 | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Hermanu](https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl) | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE) | 3:57 | 2023-07-31 |  |
+| [¿Y Si Eras Tú?](https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Y Si Eras Tú?](https://open.spotify.com/album/4oPDRXXH8YgDh5Ywf14NGA) | 2:49 | 2023-10-17 |  |
 
 \*This playlist was first scraped on 2023-08-01. Prior content cannot be recovered.

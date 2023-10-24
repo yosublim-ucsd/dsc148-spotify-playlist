@@ -2,9 +2,9 @@
 
 ### [Reggaetón MX ](https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS)
 
-> Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Alu Mix y Los Menores en portada
+> Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Yeri Mua en portada
 
-386 songs - 19 hr 26 min
+387 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [KRMA](https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [KRMA](https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ) | 2:40 | 2022-01-07 | 2023-01-28 |
 | [La 40](https://open.spotify.com/track/2lfR6opBLslBtFxdBZcwor) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Chino El Gorila](https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6), [Jace Kimura](https://open.spotify.com/artist/1dpESFMBHdUhFSGOXlcutO), [MR APO](https://open.spotify.com/artist/7zJ5SlxgjoAS7NKseygsuf) | [La 40](https://open.spotify.com/album/0Pok7TmG2NAxbS88l9HMru) | 2:32 | 2023-07-07 |  |
 | [La 40](https://open.spotify.com/track/4MJR6A9N05gpesSkufKImJ) | [Ele O](https://open.spotify.com/artist/7JNMkQEQnwqIGB2VQbypxi), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [La 40](https://open.spotify.com/album/1fqeLA4TrQUQqNEDWwETTw) | 3:04 | 2022-12-21 | 2023-06-24 |
-| [La B Es De Bellaka](https://open.spotify.com/track/0SUMky81PpkC1mYSl1UPNq) | [Pablito Mix](https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3), [Salon Sandunga](https://open.spotify.com/artist/7GO5cbRGVs48OP0lPdjLyo), [Kapostik](https://open.spotify.com/artist/7abYZTZ9ewdRuVUSJbowO3) | [La B Es De Bellaka](https://open.spotify.com/album/2qg17ULjiGLq2C28wWvwKT) | 2:26 | 2023-08-04 |  |
+| [La B Es de Bellaka](https://open.spotify.com/track/0ArhUN6zFdmFn5l7q6CO23) | [Pablito Mix](https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3), [Salon Sandunga](https://open.spotify.com/artist/7GO5cbRGVs48OP0lPdjLyo), [Kapostik](https://open.spotify.com/artist/7abYZTZ9ewdRuVUSJbowO3) | [La B Es de Bellaka](https://open.spotify.com/album/0cd0WR5vvoleRlvjdygUrs) | 2:26 | 2023-10-23 |  |
+| [La B Es De Bellaka](https://open.spotify.com/track/0SUMky81PpkC1mYSl1UPNq) | [Pablito Mix](https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3), [Salon Sandunga](https://open.spotify.com/artist/7GO5cbRGVs48OP0lPdjLyo), [Kapostik](https://open.spotify.com/artist/7abYZTZ9ewdRuVUSJbowO3) | [La B Es De Bellaka](https://open.spotify.com/album/2qg17ULjiGLq2C28wWvwKT) | 2:26 | 2023-08-04 | 2023-10-24 |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-03-17 |  |
 | [La Cone](https://open.spotify.com/track/5yI2SOHNkmatcG1wVZVy7P) | [Trobol](https://open.spotify.com/artist/0gMVVYqg3oaJBfKeDVKJR9), [Quezada Odiake](https://open.spotify.com/artist/0DHXpGi2N1C3ZvOtwST4jT), [Eyby](https://open.spotify.com/artist/2672PwmBgsmw2ZnxDqmtPr) | [La Cone](https://open.spotify.com/album/2CDSTMPpDUID91t3dAAQpm) | 2:44 | 2023-07-28 |  |
 | [La Cuenta](https://open.spotify.com/track/2Bw3D3lpd3ezfo3nX4784A) | [Bernalú](https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay) | [La Cuenta](https://open.spotify.com/album/7DSbKbxU1iByQBAPzMexeN) | 2:40 | 2023-04-07 | 2023-04-15 |

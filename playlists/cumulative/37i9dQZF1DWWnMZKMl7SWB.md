@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-1,216 songs - 2 day 6 hr 6 min
+1,217 songs - 2 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -853,7 +853,7 @@
 | [recluse](https://open.spotify.com/track/1ZlsdUtqOEdzfeDIh6a0Xe) | [wide awake](https://open.spotify.com/artist/5mFEU3OmlfXzQzSWqykm0a) | [recluse](https://open.spotify.com/album/0lfdhjo0kKgY0wi5IAw7zh) | 2:03 | 2023-09-08 |  |
 | [Reeds](https://open.spotify.com/track/569xsJRzYIWE6u8X9gAQRp) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Reeds](https://open.spotify.com/album/3cOBBX5eqMBl6WCQh9rFm1) | 1:48 | 2023-09-08 |  |
 | [reflection eternal](https://open.spotify.com/track/6eGMwVVABqVTe9bWRIm498) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 4:17 | 2022-04-12 | 2023-09-09 |
-| [Remain](https://open.spotify.com/track/4bNewDsQMCHz8eYbobTV8o) | [Jav Cast](https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj) | [Remain](https://open.spotify.com/album/7hC4FhRas3FdiYrQAOGSos) | 2:17 | 2023-09-08 |  |
+| [Remain](https://open.spotify.com/track/4bNewDsQMCHz8eYbobTV8o) | [Jav Cast](https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj) | [Remain](https://open.spotify.com/album/7hC4FhRas3FdiYrQAOGSos) | 2:17 | 2023-09-08 | 2023-10-24 |
 | [resonance](https://open.spotify.com/track/4hsJSNWp8cONeOquz12aRk) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [resonance](https://open.spotify.com/album/3TYhhtSd0cqyCSPRlty5hQ) | 2:53 | 2023-09-22 |  |
 | [Resonance](https://open.spotify.com/track/47O54hs8nwd4vy1DOcgMth) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46) | [Resonance](https://open.spotify.com/album/2sl0CVYk9JPGp5ub68hqd2) | 2:31 | 2023-09-22 |  |
 | [Rest](https://open.spotify.com/track/0ztJ66Xs25TACCl3wdWT93) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 1:42 | 2022-04-12 | 2023-09-09 |
@@ -926,6 +926,7 @@
 | [She](https://open.spotify.com/track/16IzV3JdxmR3X10ZbWHlfB) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [Dancehall](https://open.spotify.com/album/6WbMZYQ1SAU8HrgZSuH0xJ) | 3:38 | 2022-04-12 | 2022-07-29 |
 | [SHE](https://open.spotify.com/track/2u8GDlTkOd3bLSXJM8ZmXg) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:38 | 2022-04-12 | 2023-09-09 |
 | [She Ski Lifts My Spirits](https://open.spotify.com/track/329HZF8ohmz9GYbFchV8wa) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [She Ski Lifts My Spirits](https://open.spotify.com/album/7gdWhNl9Nm20pp8QGaZTcz) | 3:15 | 2023-09-22 |  |
+| [Shelter from the Rain](https://open.spotify.com/track/5mVcNIcuA4AaLSe8ktZadf) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Shelter from the Rain](https://open.spotify.com/album/1Ud55m8IUWsnJ3fDXcNm5f) | 2:15 | 2023-10-20 |  |
 | [Shifting Sands](https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Shifting Sands](https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2) | 2:27 | 2023-10-06 |  |
 | [Shinin'](https://open.spotify.com/track/2s7rlnKjJJ8b8UskCtZ7VQ) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [Shinin'](https://open.spotify.com/album/2QjcsjYwpRoP0dRirJVc8Z) | 2:15 | 2023-09-08 | 2023-10-02 |
 | [Shiny Cement \- Garden](https://open.spotify.com/track/4Z5iuqme7UL1ihly12mbZr) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Shiny Cement](https://open.spotify.com/album/5BQNNaVQL1pKqyBZtOFj4E) | 2:20 | 2023-09-22 |  |

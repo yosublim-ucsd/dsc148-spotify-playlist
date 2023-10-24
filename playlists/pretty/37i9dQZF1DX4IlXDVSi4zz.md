@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 
 > Dance the night away and just blame it on Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,299 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,434 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 16 | [You Were Right](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 3:59 |
 | 17 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 |
 | 18 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 |
-| 19 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 |
-| 20 | [Won't Forget You \(Edit\)](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 |
+| 19 | [Won't Forget You \(Edit\)](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 |
+| 20 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 |
 | 21 | [Nanã](https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 3:10 |
 | 22 | [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 |
 | 23 | [Heartbeat](https://open.spotify.com/track/68Q6c22JNyLUlZYX4dE2tn) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Charmer](https://open.spotify.com/album/0OOjsSNzKmfzo1j6Z82PNG) | 5:29 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 34 | [No Man No Cry \- Jimmy Sax Version](https://open.spotify.com/track/426lDtGrejS1wga7gmAmDv) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Jimmy Sax](https://open.spotify.com/artist/3HUXmgW0AIko5psVtQmqWE) | [No Man No Cry \(Jimmy Sax Version\)](https://open.spotify.com/album/6b5NUXA1oqqHew4DGFykRR) | 6:59 |
 | 35 | [Soul Sacrifice](https://open.spotify.com/track/4vEHTE0TocuaKZqiSq0UIS) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Soul Sacrifice](https://open.spotify.com/album/4l96ykvJ6wobEk9uyCDg5a) | 3:52 |
 | 36 | [Body Funk](https://open.spotify.com/track/3XTWrhdYlqXlWgbnS7FfRi) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Soulmatic](https://open.spotify.com/album/2xmmPaeB99mkJUTWDm30xi) | 4:16 |
-| 37 | [Epico](https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Sera El Sol \(Mixed\)](https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR) | 3:07 |
+| 37 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:19 |
 | 38 | [Don't Forget My Love](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love](https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv) | 3:19 |
-| 39 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:19 |
+| 39 | [Epico](https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Sera El Sol \(Mixed\)](https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR) | 3:07 |
 | 40 | [Nirvana](https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Nirvana](https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae) | 2:37 |
 | 41 | [Forgive Me](https://open.spotify.com/track/4XjTvY0x7RR7cy8inojCkO) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Forgive Me](https://open.spotify.com/album/27JlVMNrOc1aaHmnaWmCRW) | 3:45 |
 | 42 | [Muyè](https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [You Are Safe](https://open.spotify.com/album/7lg5i5BW3Fhmay7kEpyORQ) | 7:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 49 | [Good Good](https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Good Good](https://open.spotify.com/album/1Rt8AIxAqTeLixYACMcjKc) | 2:22 |
 | 50 | [Louna](https://open.spotify.com/track/2Ms9rXvqIqCzn9BYkhVoYA) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Laconia](https://open.spotify.com/album/5KzPSUu9nrd53wZqESbx6w) | 8:35 |
 
-Snapshot ID: `MCw3ZDk5YjNkZDk5NDFlNjhhZGJlNzBmOGRkYzhmMDFhMWYzZGQzMGZj`
+Snapshot ID: `MCwwMjMzYmM4NGNkZmJjYmYzNTcyYWQ1Nzg2NWVjZTUzMjQxNmQ0NzE0`

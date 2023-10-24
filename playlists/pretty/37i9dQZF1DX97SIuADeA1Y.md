@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > The bassline keeps you moving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,918 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,988 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 51 | [Cups \(Drunk in Love Pt\. 2\)](https://open.spotify.com/track/2Se4VxJe5qbNAHLgGsUW9Z) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ), [Edward V](https://open.spotify.com/artist/0X2qyBhthrsezMgKjMaDFY) | [Cups \(Drunk in Love Pt\. 2\)](https://open.spotify.com/album/1cX6e5ghxOQRY4v2Dh751x) | 2:43 |
 | 52 | [Dance Again](https://open.spotify.com/track/1iObkel3ZEmeqAnOQJs5ky) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Dance Again](https://open.spotify.com/album/6pzKYeH4CorXYDL8rOOZOC) | 2:32 |
 | 53 | [Talk Talk Talk](https://open.spotify.com/track/1ktSui7aiz9XceMdTDeCUF) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Talk Talk Talk](https://open.spotify.com/album/2P2GJ1cTTO7tWABUUMwrIE) | 2:28 |
-| 54 | [We Ride \(feat\. Teddy Bee\)](https://open.spotify.com/track/5Owz0Wkb3XgaADAm6dEr2O) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Teddy Bee](https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD) | [We Ride \(feat\. Teddy Bee\)](https://open.spotify.com/album/3yKdq0HWKiF25WjWAqTUAK) | 2:28 |
-| 55 | [Wasting Youth](https://open.spotify.com/track/5SL2J25JUoQZHJVbR2biXm) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Robin White](https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R) | [Wasting Youth](https://open.spotify.com/album/4X4Tu5rgFpKwk89wkSdCbZ) | 2:15 |
-| 56 | [Feels Like Home](https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [RED5](https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7) | [Feels Like Home](https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF) | 2:36 |
-| 57 | [Outta Love](https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Outta Love](https://open.spotify.com/album/59FlDwNsfaskGibimitsIm) | 2:44 |
+| 54 | [Outta Love](https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Outta Love](https://open.spotify.com/album/59FlDwNsfaskGibimitsIm) | 2:44 |
+| 55 | [We Ride \(feat\. Teddy Bee\)](https://open.spotify.com/track/5Owz0Wkb3XgaADAm6dEr2O) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Teddy Bee](https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD) | [We Ride \(feat\. Teddy Bee\)](https://open.spotify.com/album/3yKdq0HWKiF25WjWAqTUAK) | 2:28 |
+| 56 | [Wasting Youth](https://open.spotify.com/track/5SL2J25JUoQZHJVbR2biXm) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Robin White](https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R) | [Wasting Youth](https://open.spotify.com/album/4X4Tu5rgFpKwk89wkSdCbZ) | 2:15 |
+| 57 | [Feels Like Home](https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [RED5](https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7) | [Feels Like Home](https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF) | 2:36 |
 | 58 | [I Don't Wanna Go](https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [I Don't Wanna Go](https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf) | 3:06 |
 | 59 | [Secrets](https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [SØLO](https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7) | [Secrets](https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov) | 2:38 |
 | 60 | [Chasing Cars](https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Chasing Cars](https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU) | 2:51 |
 
-Snapshot ID: `MCw4OTc3ODc5ODgwOWJkMWE3NjQ5NzVmNDI0ODIxMDU5NjU0YWVkZGEz`
+Snapshot ID: `MCw1YTIzZmVjNGUzMDZkYjNjOTY1MTgzNzIxZGE2OTI3ZTEyNGIyNDU1`

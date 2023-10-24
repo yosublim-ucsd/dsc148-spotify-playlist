@@ -4,7 +4,7 @@
 
 > Les hits tunisiens du moment.
 
-179 songs - 11 hr 0 min
+180 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Galbi](https://open.spotify.com/track/0pD4zoFSCXvBkqka5j4qew) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Galbi](https://open.spotify.com/album/3LLJ8bmI6YrK73g6RhHEPK) | 5:22 | 2022-11-09 |  |
 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 | 2022-01-20 | 2022-10-22 |
 | [Ghariba \- غريبة](https://open.spotify.com/track/2YZVac5l4SD169JDjkxssD) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ghariba \(غريبة\)](https://open.spotify.com/album/58g0RtDsBvyaPYFm8rNjP9) | 4:05 | 2023-06-10 |  |
-| [Ghrib](https://open.spotify.com/track/6UmPJTPqQ3HXZkGHzpCR2H) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ghram](https://open.spotify.com/album/1NyH5ubcU9CCabIjVJkAHO) | 3:04 | 2022-05-26 |  |
+| [Ghrib](https://open.spotify.com/track/6UmPJTPqQ3HXZkGHzpCR2H) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ghram](https://open.spotify.com/album/1NyH5ubcU9CCabIjVJkAHO) | 3:04 | 2022-05-26 | 2023-10-24 |
 | [Harbi \- حربي](https://open.spotify.com/track/47AlaZ1aQCMBqDouJkrJdW) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Harbi \(حربي\)](https://open.spotify.com/album/6AUs5sq5Smw2C29YIkGq8b) | 3:22 | 2022-12-22 | 2023-01-20 |
 | [Haw Fi Belek](https://open.spotify.com/track/5UlBJjxOMdDp0flRkD5RME) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM), [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Tchiggy](https://open.spotify.com/artist/2FsxcHBONPXPDoASKYLe2v) | [Haw Fi Belek](https://open.spotify.com/album/2RPmnyGcZARbNPz1ajp9NV) | 3:51 | 2021-12-10 | 2023-01-20 |
 | [Hayala](https://open.spotify.com/track/59gRXEBW682Qg8DApGqPl3) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Hayala](https://open.spotify.com/album/2kZZ423qgs7VMwGjuwBdHL) | 3:36 | 2021-12-10 | 2022-07-12 |
@@ -103,6 +103,7 @@
 | [Ma3Likesh Elloum](https://open.spotify.com/track/2BDStFDyWmfAKYw1Vz0LTA) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 3:12 | 2022-11-26 | 2023-05-02 |
 | [Maghrebins](https://open.spotify.com/track/4U5h7GaXXXNOLpuo5vr3dU) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Hasta la muerte](https://open.spotify.com/album/72MdvUI4rPAcOTW0ty9zuw) | 3:23 | 2023-01-06 |  |
 | [Maghrebins](https://open.spotify.com/track/75Nob0UozvGENGUaaMkbgi) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Maghrebins](https://open.spotify.com/album/1etFNKjDP2lFtXd6NGTzwF) | 3:23 | 2021-12-10 | 2022-07-12 |
+| [Makhsernech \- مخسرناش](https://open.spotify.com/track/2uz35vUhSIZXhfrwYwTKaI) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Makhsernech \(مخسرناش\)](https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ) | 2:58 | 2023-10-23 |  |
 | [Manansech \- مننساش](https://open.spotify.com/track/0ZHftCnY8Dlvpo8CFF2SBn) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Manansech \(مننساش\)](https://open.spotify.com/album/1uTvUDzsXMJlFuIbeNyvKp) | 2:56 | 2023-09-25 |  |
 | [Manetfergou](https://open.spotify.com/track/36DuVeAj8R4TFkKD1sFbEN) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Manetfergou](https://open.spotify.com/album/0eKyvzuJJpTtAYBEflLox8) | 3:17 | 2023-08-15 |  |
 | [Mani Nassi \- مانى ناسى](https://open.spotify.com/track/3GdU3rvO5odP2AIGSmm24z) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Mani Nassi \(مانى ناسى\)](https://open.spotify.com/album/6k0QEgsFV320r0Sr16RJVM) | 3:29 | 2023-03-22 | 2023-04-21 |

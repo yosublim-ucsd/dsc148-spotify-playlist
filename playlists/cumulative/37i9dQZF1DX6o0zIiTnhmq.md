@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-91 songs - 1 day 1 hr 58 min
+92 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Mool Mantra](https://open.spotify.com/track/79n8AuJG3hP5DFCQTiB78h) | [Ananya Bhowmick](https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU) | [Mool Mantra \- Single](https://open.spotify.com/album/4Fdr2MRs9AJNLBittLnyYW) | 7:45 | 2022-01-24 | 2023-08-17 |
 | [Nam Myoho Renge Kyo](https://open.spotify.com/track/4fnEEnBiPcGCthLPKx88d4) | [Sandeep Khurana](https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj) | [Nam Myoho Renge Kyo](https://open.spotify.com/album/4GMcOTrXp9q7HlE0BRJ6oP) | 15:24 | 2023-05-23 |  |
 | [Nam Myoho Renge Kyo Mantra \(Devotion to the Mystic Law\)](https://open.spotify.com/track/4exQWqZNQ4aQzasBj3Dir9) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF), [Miten](https://open.spotify.com/artist/4jrXM6oLQfV9L458Luwc3P), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Mantras for Life](https://open.spotify.com/album/74COwDRGbAiTH04LbYsYUP) | 4:11 | 2022-01-24 | 2023-09-15 |
-| [Navkar Mantra](https://open.spotify.com/track/07AfFQCy6XRavj2i9JLijB) | [Geetu Unplugged](https://open.spotify.com/artist/1YlyMSSdwqA3t3goVRqoHK) | [Navkar Mantra](https://open.spotify.com/album/5SxS1qHZUBNPN2rVVAeErq) | 3:30 | 2022-01-24 |  |
+| [Navkar Mantra](https://open.spotify.com/track/07AfFQCy6XRavj2i9JLijB) | [Geetu Unplugged](https://open.spotify.com/artist/1YlyMSSdwqA3t3goVRqoHK) | [Navkar Mantra](https://open.spotify.com/album/5SxS1qHZUBNPN2rVVAeErq) | 3:30 | 2022-01-24 | 2023-10-24 |
 | [OM \- 108 Times](https://open.spotify.com/track/1t5yedcqt2kacFRM8uXMwP) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/13IRm41CPRStJifiLLyIw1) | 31:12 | 2022-01-24 |  |
 | [OM \- 108 Times](https://open.spotify.com/track/2KHcNmJUnVFXSX63rrD4st) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/5nQV0wq77XlLeRHXCregdk) | 31:12 | 2022-01-24 | 2022-07-29 |
 | [Om Chanting](https://open.spotify.com/track/5JuFkSsuadASsHKgKtFLl8) | [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Tochi Mantras](https://open.spotify.com/album/6VUJesvxQBUsMrF09NO0tN) | 21:58 | 2022-01-24 | 2022-07-29 |
@@ -74,6 +74,7 @@
 | [Radhe Shyam](https://open.spotify.com/track/3VU0WCmwe5HVVzPzzCvjHh) | [Dj Mausam](https://open.spotify.com/artist/11ikrZ9WL7bio1G7novcaW) | [Radhe Shyam](https://open.spotify.com/album/0iFm6TvOUhNVmhloTUn8dU) | 2:13 | 2023-04-10 | 2023-05-24 |
 | [Raghunandan](https://open.spotify.com/track/1QaAXfq7b3p7q8oNC1jtcT) | [Agam Aggarwal](https://open.spotify.com/artist/0ivZyfIHsCjQGS5OqHt3hA), [Siddharth Sharma](https://open.spotify.com/artist/4mzzax24RTTB4kUEHkgaDo), [Narci](https://open.spotify.com/artist/3b9iVRjKkiC4oIHXB7pbzJ) | [Raghunandan](https://open.spotify.com/album/7mNbiAGZySBw1nFFe0bZAi) | 5:24 | 2023-05-23 | 2023-08-29 |
 | [Ram Naam Chanting](https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Naam Chanting](https://open.spotify.com/album/2a3szoALUteejLabQS39M1) | 18:01 | 2023-06-20 |  |
+| [Ram Naam Dhun](https://open.spotify.com/track/2wxvn5ytbAFgc4aEJdixDs) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Naam Dhun](https://open.spotify.com/album/0FRE9Itrx229lhTOZjrc3V) | 13:58 | 2023-10-23 |  |
 | [Ram Siya Ram](https://open.spotify.com/track/71hjdkWEDFxESRWPDvDMNb) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Adipurush](https://open.spotify.com/album/6E4a5L8GGEk560bbHlM2VP) | 3:50 | 2023-06-08 |  |
 | [Ramashtakam](https://open.spotify.com/track/0gk5kLComqP0mxgyk26OnL) | [Uthara Unnikrishnan](https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO) | [Ramashtakam](https://open.spotify.com/album/5eE84N4O5LRLy5su0R74Vp) | 6:02 | 2023-03-17 |  |
 | [Resonance Meditation with Omkaar \- at 432 Hz](https://open.spotify.com/track/0MuPr9td6KGDdOSK660vcM) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p), [Rupa Tiwary](https://open.spotify.com/artist/6dwI4WlkGItwJ7bwDNeLzm) | [Chants of Moksha \- Omkaar \- at 432 Hz](https://open.spotify.com/album/1qp14fQUPcdOoadYpYZ27s) | 9:57 | 2022-01-24 |  |

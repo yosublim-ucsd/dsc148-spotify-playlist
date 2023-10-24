@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,425 likes - 80 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,447 likes - 80 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 79 | [Sgr A\*](https://open.spotify.com/track/3QLXh5l26khTqOJC8VdzVZ) | [Ilmiliekki Quartet](https://open.spotify.com/artist/5lyAsOhlvbGujJCVQoDC1B), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Tuomo Prättälä](https://open.spotify.com/artist/06xoCURLIPFP4LvhXi8aLx), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Ilmiliekki Quartet](https://open.spotify.com/album/7nYDVrrDqIis4MuedOyFBZ) | 5:49 |
 | 80 | [Pinetree Song](https://open.spotify.com/track/1CUYeDX079nUIF7HYOSEjS) | [Linda Fredriksson](https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL) | [Juniper](https://open.spotify.com/album/1EeacK8xt3mauU0iuuqWgN) | 5:29 |
 
-Snapshot ID: `MCxjMGE5NTkyMDBiNTBmMzdhYTc4MTE5OWRkYWZkYzBjZjJhYWI5MTJj`
+Snapshot ID: `MCw3NjEyYWI3YWEwY2MxZWVmYTQ5YjVjNWE4YmVlZjljMzZiMTZhZmM2`

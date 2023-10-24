@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 
 > Pop hits in the making! Cover: The Veronicas
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,861 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,929 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 | 79 | [Can I Shower At Yours](https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can I Shower At Yours](https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj) | 1:54 |
 | 80 | [Limelight](https://open.spotify.com/track/4xIRhtPC9MbM2YTHYIzw32) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Limelight](https://open.spotify.com/album/6OszKA7UjG2z5xc8c36sId) | 3:00 |
 
-Snapshot ID: `MCw4NjM0ZGJjNmMzNDNkNDNhMTEyYmU3ZmNmMWJkNzVkMGYxYzgyZTY5`
+Snapshot ID: `MCxhMDJkYTk2NzI3YjBiZDVmODc3NTljN2JkMzQ3NzA1OTdhNjQ5YjNh`

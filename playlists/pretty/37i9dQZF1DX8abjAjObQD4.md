@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8abjAjObQD4.md) - [plain]
 
 > Your favorite folk songs, live\. Cover: John Prine
 
-[Spotify](https://open.spotify.com/user/spotify) - 384 likes - 66 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 386 likes - 66 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8abjAjObQD4.md) - [plain]
 | 7 | [By and By \- Live](https://open.spotify.com/track/2CRRodIXF6xBPgIw8TmvV8) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Live from Newport Music Hall](https://open.spotify.com/album/3L3MtBSFX6iv3SoshnfG9a) | 4:59 |
 | 8 | [Scarborough Fair / Canticle \- Live at Carnegie Hall, New York, NY \- November 1969](https://open.spotify.com/track/5Jyvfm1u1mXxlnu2CDXfKF) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Live 1969](https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl) | 3:54 |
 | 9 | [Hallelujah \- Live at Sin\-é, New York, NY \- July/August 1993](https://open.spotify.com/track/6BZFeMHjTzzNLwJGirNDzJ) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Live At Sin\-é \(Legacy Edition\)](https://open.spotify.com/album/58NsNICf7hyif5WruzsLWc) | 9:15 |
-| 10 | [The Man in Me \- Live at Nippon Budokan Hall, Tokyo, Japan \- March 1, 1978](https://open.spotify.com/track/04qjnSVsVckWxBCHXRRjlM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Man in Me \(Live at Nippon Budokan Hall, Tokyo, Japan \- March 1, 1978\)](https://open.spotify.com/album/6eMXx9YBoLXZsdxddviSaz) | 3:51 |
+| 10 | [I Want You \- Live at Nippon Budokan Hall, Tokyo, Japan \- February 28, 1978](https://open.spotify.com/track/657ImOBEvaFXpGZn8Ck3LO) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Want You \(Live at Nippon Budokan Hall, Tokyo, Japan \- February 28, 1978\)](https://open.spotify.com/album/7abzPat9BsqJOZB5hn9TrT) | 2:31 |
 | 11 | [Suzanne \- Live](https://open.spotify.com/track/05LwDzXo5aeWXbwSsPk3yv) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Who by Fire \- Live Tribute to Leonard Cohen](https://open.spotify.com/album/4QtoNIqTWR3e5NVb833Bj2) | 3:40 |
 | 12 | [When You Come Back Down \- Live](https://open.spotify.com/track/4nwtwf7aPwGf14INPJTKNP) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Live from the Fox Theater](https://open.spotify.com/album/7lq39QANQUHMNp0DVNqscQ) | 5:03 |
 | 13 | [If We Were Vampires \- Live](https://open.spotify.com/track/26HDAFjCwSlyrJNeP8mex9) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Live from the Ryman](https://open.spotify.com/album/19652SxfYygBsLkqDhRUtw) | 4:26 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8abjAjObQD4.md) - [plain]
 | 65 | [I Went to the Store One Day \- Live from the Hamburg Elbphilharmonie on August 8, 2019](https://open.spotify.com/track/7slryHlEP6O1evLd8rvfnt) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Off\-Key in Hamburg](https://open.spotify.com/album/2LszbE4j2yEAQmTVv9fwLU) | 4:31 |
 | 66 | [Fur Coat Blues \(Live\)](https://open.spotify.com/track/0bgx8MHo22ea3yrmRqHBTi) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Live from Largo at the Coronet Theatre](https://open.spotify.com/album/12o0UlVSlCIYE1l2LvL2SW) | 4:01 |
 
-Snapshot ID: `MCxjZmU5ZmYxM2M2NTdiN2M4ODBlZjY4NmNlMzYzOTk5ZjA2MjBhMjIz`
+Snapshot ID: `MCxlMDNmMTgxZDAwNTc2ODY5NjA2MzkzM2RlMjc0NDNkNzFkZmE1YzM0`

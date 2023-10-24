@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Idris Elba & Sasha GiGi",
-  "num_followers": 596158,
+  "num_followers": 596248,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTc0MmQ0ZjM2Mzk4ZTMwODVmZGM0MThkNzIyNWZkZWIxMDU2MGQw",
+  "snapshot_id": "MCxmOTU0OWY3M2M4MmZhNjkyYzVkNjQ5YjlkYjhiNzcyMTg3YzJmNmE3",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -467,6 +467,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Beggin'",
+        "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 183397,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Different Side",
         "url": "https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc"
       },
@@ -491,22 +511,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Roots EP, Pt. 1",
-        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Hijos De La Noche",
-      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Lo Que Soy",
         "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
       },
@@ -527,22 +531,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Beggin'",
-        "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
+        "name": "Roots EP, Pt. 1",
+        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
       },
       "artists": [
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
         }
       ],
-      "duration_ms": 183397,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
+      "duration_ms": 216000,
+      "name": "Hijos De La Noche",
+      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "What You Need/Stimulate",
-        "url": "https://open.spotify.com/album/69b4gkbazngcTJQMWLwJit"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 173238,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/6XUplgv5tgkebAEieWUPYB"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "DRENCH",
         "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 197893,
       "name": "DRENCH",
       "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "What You Need/Stimulate",
+        "url": "https://open.spotify.com/album/69b4gkbazngcTJQMWLwJit"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 173238,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/6XUplgv5tgkebAEieWUPYB"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Satisfy",
+        "url": "https://open.spotify.com/album/08ByOMP1nHJEIpZCskgWGn"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/5lU7QrjCMU9JStXRUhVB2p"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "La Musique Forte",
         "url": "https://open.spotify.com/album/6ZWBq3aU151TdCRBJcjugj"
       },
@@ -1479,6 +1495,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Think About It",
+        "url": "https://open.spotify.com/album/0gvBqzpRrgaqyUwrPLZ84A"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 199750,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/6sGTKPKsrNRMg96OUhSUWo"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Valodja (Kryder Remix)",
         "url": "https://open.spotify.com/album/6slfAHmFXzRaUVUDxcbi7p"
       },
@@ -1503,18 +1535,38 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Think About It",
-        "url": "https://open.spotify.com/album/0gvBqzpRrgaqyUwrPLZ84A"
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/1ZDMO0PcbHNL0Tdx3ysi9U"
       },
       "artists": [
         {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
         }
       ],
-      "duration_ms": 199750,
-      "name": "Think About It",
-      "url": "https://open.spotify.com/track/6sGTKPKsrNRMg96OUhSUWo"
+      "duration_ms": 190781,
+      "name": "Burnin'",
+      "url": "https://open.spotify.com/track/55NFZV4mg6VcXvoB0M65d0"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "123 Round Again",
+        "url": "https://open.spotify.com/album/3lU4CldHLg8gjYGKTnwWuV"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        }
+      ],
+      "duration_ms": 123809,
+      "name": "123 Round Again",
+      "url": "https://open.spotify.com/track/5BOX5D958PRwNNpEkYg5QE"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1539,38 +1591,6 @@
       "duration_ms": 181625,
       "name": "The Loop",
       "url": "https://open.spotify.com/track/7dQibCVyq03l5tGPWZwXjf"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "123 Round Again",
-        "url": "https://open.spotify.com/album/3lU4CldHLg8gjYGKTnwWuV"
-      },
-      "artists": [
-        {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
-        }
-      ],
-      "duration_ms": 123809,
-      "name": "123 Round Again",
-      "url": "https://open.spotify.com/track/5BOX5D958PRwNNpEkYg5QE"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Satisfy",
-        "url": "https://open.spotify.com/album/08ByOMP1nHJEIpZCskgWGn"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Satisfy",
-      "url": "https://open.spotify.com/track/5lU7QrjCMU9JStXRUhVB2p"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1603,22 +1623,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Fakez",
-        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fakez",
-      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "WUTT",
         "url": "https://open.spotify.com/album/6vucmSOhJo0JUzKDRyMlRP"
       },
@@ -1635,18 +1639,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/2fkIAlMozPVOXNEPfKA2qn"
+        "name": "Fakez",
+        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
       },
       "artists": [
         {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
         }
       ],
-      "duration_ms": 206456,
-      "name": "Easy Tiger",
-      "url": "https://open.spotify.com/track/46xwxdKi1qZGuod4rTyzCA"
+      "duration_ms": 271200,
+      "name": "Fakez",
+      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1663,6 +1667,22 @@
       "duration_ms": 213447,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/6OSl6T4krWpPK7qrSStoS1"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/2fkIAlMozPVOXNEPfKA2qn"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "duration_ms": 206456,
+      "name": "Easy Tiger",
+      "url": "https://open.spotify.com/track/46xwxdKi1qZGuod4rTyzCA"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1711,6 +1731,30 @@
       "duration_ms": 171968,
       "name": "Dive In (feat. Notelle)",
       "url": "https://open.spotify.com/track/27sxAuxRyXYwhwjPA5L0af"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Don't Wanna",
+        "url": "https://open.spotify.com/album/3Wo0zmeNXZbJW6krYyyjJI"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "Kenneth G",
+          "url": "https://open.spotify.com/artist/3qqvCq7mFIy9UfaXoj5w1w"
+        },
+        {
+          "name": "BR\u00d8HEIM",
+          "url": "https://open.spotify.com/artist/7ufk7gxzogk76lK03i2ecd"
+        }
+      ],
+      "duration_ms": 215624,
+      "name": "Don't Wanna",
+      "url": "https://open.spotify.com/track/1pCriEGIU8StrJreMlk23u"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1779,26 +1823,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/1ZDMO0PcbHNL0Tdx3ysi9U"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        },
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        }
-      ],
-      "duration_ms": 190781,
-      "name": "Burnin'",
-      "url": "https://open.spotify.com/track/55NFZV4mg6VcXvoB0M65d0"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Lose Your Mind",
         "url": "https://open.spotify.com/album/3iMsvpw9IZcDjMyFMg4nY1"
       },
@@ -1815,30 +1839,6 @@
       "duration_ms": 202500,
       "name": "Lose Your Mind",
       "url": "https://open.spotify.com/track/5jB62qIIcAiAMCHVVesHmK"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Don't Wanna",
-        "url": "https://open.spotify.com/album/3Wo0zmeNXZbJW6krYyyjJI"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        },
-        {
-          "name": "Kenneth G",
-          "url": "https://open.spotify.com/artist/3qqvCq7mFIy9UfaXoj5w1w"
-        },
-        {
-          "name": "BR\u00d8HEIM",
-          "url": "https://open.spotify.com/artist/7ufk7gxzogk76lK03i2ecd"
-        }
-      ],
-      "duration_ms": 215624,
-      "name": "Don't Wanna",
-      "url": "https://open.spotify.com/track/1pCriEGIU8StrJreMlk23u"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1919,6 +1919,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "I'm Watching You (So Many Times) [Bruno Furlan Remix]",
+        "url": "https://open.spotify.com/album/3pEISlisbbBCVaokY1spbL"
+      },
+      "artists": [
+        {
+          "name": "Gadjo",
+          "url": "https://open.spotify.com/artist/28ZtvtD63uuc4Lf81lYWmr"
+        },
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 221102,
+      "name": "I'm Watching You (So Many Times) - Bruno Furlan Remix",
+      "url": "https://open.spotify.com/track/6TdyUvYOZao0J5OKhZelb7"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "BARBEE (On Acid)",
         "url": "https://open.spotify.com/album/4afcZIEQNtU404MSb03d0h"
       },
@@ -1963,22 +1983,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "I'm Watching You (So Many Times) [Bruno Furlan Remix]",
-        "url": "https://open.spotify.com/album/3pEISlisbbBCVaokY1spbL"
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO"
       },
       "artists": [
         {
-          "name": "Gadjo",
-          "url": "https://open.spotify.com/artist/28ZtvtD63uuc4Lf81lYWmr"
-        },
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
         }
       ],
-      "duration_ms": 221102,
-      "name": "I'm Watching You (So Many Times) - Bruno Furlan Remix",
-      "url": "https://open.spotify.com/track/6TdyUvYOZao0J5OKhZelb7"
+      "duration_ms": 176250,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1999,22 +2015,6 @@
       "duration_ms": 156279,
       "name": "Cadillac",
       "url": "https://open.spotify.com/track/6sr4lbYR7Nzpsrf1c0t9Cu"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "La La La",
-        "url": "https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "<3<3<3",
-        "url": "https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 185357,
-      "name": "<3<3<3",
-      "url": "https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Living",
         "url": "https://open.spotify.com/album/5cSslgXPIBdWdvneiyt35H"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 205186,
       "name": "Living",
       "url": "https://open.spotify.com/track/5EdYBFZarevg1JlmzmTYnA"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "<3<3<3",
+        "url": "https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 185357,
+      "name": "<3<3<3",
+      "url": "https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2247,22 +2247,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "If You Want",
-        "url": "https://open.spotify.com/album/2DgKfkTkmGUWzXA2IcKDzm"
+        "name": "Bodywork",
+        "url": "https://open.spotify.com/album/1AWsuzNSJ2bWhZqPEPK9zI"
       },
       "artists": [
         {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        },
-        {
-          "name": "SMACK",
-          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
         }
       ],
-      "duration_ms": 183806,
-      "name": "If You Want",
-      "url": "https://open.spotify.com/track/13OMKZOOaaQ3MYuX2YnJKd"
+      "duration_ms": 145533,
+      "name": "Bodywork",
+      "url": "https://open.spotify.com/track/5HdSJivsHp49gtx5Tz1HOw"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2287,18 +2283,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Bodywork",
-        "url": "https://open.spotify.com/album/1AWsuzNSJ2bWhZqPEPK9zI"
+        "name": "If You Want",
+        "url": "https://open.spotify.com/album/2DgKfkTkmGUWzXA2IcKDzm"
       },
       "artists": [
         {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
         }
       ],
-      "duration_ms": 145533,
-      "name": "Bodywork",
-      "url": "https://open.spotify.com/track/5HdSJivsHp49gtx5Tz1HOw"
+      "duration_ms": 183806,
+      "name": "If You Want",
+      "url": "https://open.spotify.com/track/13OMKZOOaaQ3MYuX2YnJKd"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2415,26 +2415,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Dope Eyes",
-        "url": "https://open.spotify.com/album/5TqdiAFhhQEQE2ryPmIDDz"
+        "name": "Party People",
+        "url": "https://open.spotify.com/album/2QnH4p6bRWa0gE276h2Y7o"
       },
       "artists": [
         {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
         },
         {
-          "name": "TRFN",
-          "url": "https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp"
-        },
-        {
-          "name": "Natassa Tsonis",
-          "url": "https://open.spotify.com/artist/6CUwCpmWhoaBWcL1WS647J"
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
         }
       ],
-      "duration_ms": 156402,
-      "name": "Dope Eyes",
-      "url": "https://open.spotify.com/track/7zfOOd6OJU7CB3PPPBvQIZ"
+      "duration_ms": 199218,
+      "name": "Party People",
+      "url": "https://open.spotify.com/track/5EPso1jbkZ87ztEERhraZS"
     }
   ],
   "unique_name": "Operator",

@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Restriction",
+        "url": "https://open.spotify.com/album/4grzyr8RWop3h1MLoo74ZP"
+      },
+      "artists": [
+        {
+          "name": "Archive",
+          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292195,
+      "name": "End of Our Days",
+      "url": "https://open.spotify.com/track/33u4LsVXzotyxM37912gNr"
+    },
+    {
+      "album": {
         "name": "Finally Woken",
         "url": "https://open.spotify.com/album/5Jq9bg317AJWWyxwnE1B7q"
       },
@@ -3232,7 +3250,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 284693,
       "name": "Transatlantic",
       "url": "https://open.spotify.com/track/0uY3duWVyW02qcq9QhoQZY"

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica sabrosa para festejar la temporada de carnavales en M\u00e9xico. ",
-  "num_followers": 265030,
+  "num_followers": 265054,
   "original_name": "Carnaval en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTdiYWEyNjYxNjI2MTExNTFlYWFlM2FlNTdkNGY1MTUwNjNmZDA0",
+  "snapshot_id": "MCxlZjZlZmJhOTliNjEwOTIyMzMxNDBiOWZlYWI1OTE3MDRmNTNlOTI1",
   "tracks": [
     {
       "added_at": "2022-08-02 22:46:01",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 289466,
-      "name": "Vali\u00f3 la Pena - Salsa Version",
-      "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
         "name": "Guajiro Natural",
         "url": "https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 364573,
       "name": "Un Mont\u00f3n De Estrellas",
       "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 289466,
+      "name": "Vali\u00f3 la Pena - Salsa Version",
+      "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Matamoros Querido",
-      "url": "https://open.spotify.com/track/0ZrptJWS6dYhcv7j8ncrmf"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
         "name": "La Sonora Santanera en Su 60 Aniversario",
         "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 182586,
       "name": "El Ladr\u00f3n (with Julieta Venegas)",
       "url": "https://open.spotify.com/track/7oRifTMLmeNCnTGtDH7KLV"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Matamoros Querido",
+      "url": "https://open.spotify.com/track/0ZrptJWS6dYhcv7j8ncrmf"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Best Of The Best",
-        "url": "https://open.spotify.com/album/6FHozfvoQ11QmsvbulUNlo"
-      },
-      "artists": [
-        {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
-        }
-      ],
-      "duration_ms": 289506,
-      "name": "El Baile del Beeper - Version Mexico",
-      "url": "https://open.spotify.com/track/3LPRCFmqXUilyKIOT0EYDN"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Exitos Para Amanecer Bailando",
-        "url": "https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz"
+        "name": "Best Of The Best",
+        "url": "https://open.spotify.com/album/6FHozfvoQ11QmsvbulUNlo"
       },
       "artists": [
         {
-          "name": "Los Plebeyos",
-          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
         }
       ],
-      "duration_ms": 124604,
-      "name": "El Pipiripau",
-      "url": "https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk"
+      "duration_ms": 289506,
+      "name": "El Baile del Beeper - Version Mexico",
+      "url": "https://open.spotify.com/track/3LPRCFmqXUilyKIOT0EYDN"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
+        "name": "Exitos Para Amanecer Bailando",
+        "url": "https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz"
+      },
+      "artists": [
+        {
+          "name": "Los Plebeyos",
+          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
+        }
+      ],
+      "duration_ms": 124604,
+      "name": "El Pipiripau",
+      "url": "https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
         "name": "Greatest Cumbia Classics Of Colombia, Vol. 1",
         "url": "https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV"
       },
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Descarga Espectacular",
-        "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        }
-      ],
-      "duration_ms": 297386,
-      "name": "Cachondea",
-      "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
         "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
         "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
@@ -1131,18 +1115,34 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Las Viejas Mas Bailadas",
-        "url": "https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET"
+        "name": "Descarga Espectacular",
+        "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
       },
       "artists": [
         {
-          "name": "Internacional Carro Show",
-          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
         }
       ],
-      "duration_ms": 185115,
-      "name": "Amor A\u00f1ejo",
-      "url": "https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL"
+      "duration_ms": 297386,
+      "name": "Cachondea",
+      "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
+        "name": "Ni Juana la Cubana",
+        "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
+      },
+      "artists": [
+        {
+          "name": "Rigo Dominguez Y Su Grupo Audaz",
+          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
+        }
+      ],
+      "duration_ms": 171746,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Ni Juana la Cubana",
-        "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
+        "name": "Las Viejas Mas Bailadas",
+        "url": "https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET"
       },
       "artists": [
         {
-          "name": "Rigo Dominguez Y Su Grupo Audaz",
-          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
+          "name": "Internacional Carro Show",
+          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
         }
       ],
-      "duration_ms": 171746,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
+      "duration_ms": 185115,
+      "name": "Amor A\u00f1ejo",
+      "url": "https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
+        "name": "La Sonora Santanera en Su 60 Aniversario",
+        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Sasha, Benny y Erik",
+          "url": "https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC"
+        }
+      ],
+      "duration_ms": 243626,
+      "name": "Mil Horas (with Sasha, Benny y Erik)",
+      "url": "https://open.spotify.com/track/3dy3Bwz5w5eenJz1R5KWo6"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
         "name": "Exitos Durisimos",
         "url": "https://open.spotify.com/album/2bFmgUdT6BbTiqpDmsLakV"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 262493,
       "name": "Baila Esta Cumbia",
       "url": "https://open.spotify.com/track/23TUteFlo4GRVKy2zRvtMC"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
-        "name": "La Sonora Santanera en Su 60 Aniversario",
-        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Sasha, Benny y Erik",
-          "url": "https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC"
-        }
-      ],
-      "duration_ms": 243626,
-      "name": "Mil Horas (with Sasha, Benny y Erik)",
-      "url": "https://open.spotify.com/track/3dy3Bwz5w5eenJz1R5KWo6"
     }
   ],
   "unique_name": "Carnaval en M\u00e9xico",

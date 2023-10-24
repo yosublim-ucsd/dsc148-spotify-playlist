@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 44450,
+  "num_followers": 44462,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjBlZDA1ZWFmNWVmOTNkODUyNDY4ZWU2ZGYxYTllZDE3OGY4NWI4",
+  "snapshot_id": "MCw3NmM3ZWI4MGI2ODY4MDY5YjFiMTIzYzIwZTVjNmU4MTNjZmU0ZTQ3",
   "tracks": [
     {
       "added_at": "2023-10-19 16:27:33",
@@ -707,38 +707,6 @@
     {
       "added_at": "2023-10-19 16:27:33",
       "album": {
-        "name": "I met you when I was 18. (the playlist)",
-        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 204712,
-      "name": "Paris in the Rain",
-      "url": "https://open.spotify.com/track/2MOoIbJWIYikwIXjBDe26i"
-    },
-    {
-      "added_at": "2023-10-19 16:27:33",
-      "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/7d8IYdG8eK9MQapqkh8chk"
-      },
-      "artists": [
-        {
-          "name": "Jilian Summers",
-          "url": "https://open.spotify.com/artist/0NxMTmmuciwlzWWdFoSmYd"
-        }
-      ],
-      "duration_ms": 233842,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/0EnUxHj1I1cBmRzSKzB4tK"
-    },
-    {
-      "added_at": "2023-10-19 16:27:33",
-      "album": {
         "name": "A Night To Remember",
         "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
       },
@@ -759,6 +727,38 @@
     {
       "added_at": "2023-10-19 16:27:33",
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/7d8IYdG8eK9MQapqkh8chk"
+      },
+      "artists": [
+        {
+          "name": "Jilian Summers",
+          "url": "https://open.spotify.com/artist/0NxMTmmuciwlzWWdFoSmYd"
+        }
+      ],
+      "duration_ms": 233842,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/0EnUxHj1I1cBmRzSKzB4tK"
+    },
+    {
+      "added_at": "2023-10-19 16:27:33",
+      "album": {
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 204712,
+      "name": "Paris in the Rain",
+      "url": "https://open.spotify.com/track/2MOoIbJWIYikwIXjBDe26i"
+    },
+    {
+      "added_at": "2023-10-19 16:27:33",
+      "album": {
         "name": "anatomy",
         "url": "https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 182073,
       "name": "anatomy",
       "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
+    },
+    {
+      "added_at": "2023-10-19 16:27:33",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 246693,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42"
     },
     {
       "added_at": "2023-10-19 16:27:33",
@@ -859,22 +875,6 @@
       "duration_ms": 130666,
       "name": "Butterflies (feat. AURORA)",
       "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
-    },
-    {
-      "added_at": "2023-10-19 16:27:33",
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 246693,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42"
     }
   ],
   "unique_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",

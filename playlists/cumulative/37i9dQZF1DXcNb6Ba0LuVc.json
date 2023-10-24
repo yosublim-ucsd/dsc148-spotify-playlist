@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 186360,
       "name": "20",
       "url": "https://open.spotify.com/track/1qeK0BuNvrJHvivzN87hL9"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 128584,
       "name": "Amor De Oto\u00f1o",
       "url": "https://open.spotify.com/track/2YdEIwKZ4Tc7zJ7dnl2lF1"
@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "double espresso",
+        "url": "https://open.spotify.com/album/1PxI6cttkIIoRuwqgWS6GU"
+      },
+      "artists": [
+        {
+          "name": "Hype Right",
+          "url": "https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94041,
+      "name": "be glossy",
+      "url": "https://open.spotify.com/track/2D2dkAz0unaWMCgSadf7Yp"
+    },
+    {
+      "album": {
         "name": "BEACH WAVES",
         "url": "https://open.spotify.com/album/3fmQEMS8WJ928ksqzceZF0"
       },
@@ -642,7 +660,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 230886,
       "name": "Big Jon",
       "url": "https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a"
@@ -830,7 +848,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 109333,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/6RC7kZGV3EUaFW0rfN5X8q"
@@ -2802,7 +2820,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 131734,
       "name": "Happy to See You",
       "url": "https://open.spotify.com/track/2c6Si68uNJOXbWA4gFOo6p"
@@ -3196,6 +3214,24 @@
       "duration_ms": 112000,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/6eDRVIrffCAnS5ToXJk81e"
+    },
+    {
+      "album": {
+        "name": "Incredibly happy",
+        "url": "https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs"
+      },
+      "artists": [
+        {
+          "name": "Silk Soul",
+          "url": "https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Incredibly happy",
+      "url": "https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF"
     },
     {
       "album": {
@@ -4146,7 +4182,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 127900,
       "name": "Llama Drama",
       "url": "https://open.spotify.com/track/3BIigRWvCUldxIeQkzSEMa"
@@ -4290,7 +4326,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 122553,
       "name": "love in the morning sun",
       "url": "https://open.spotify.com/track/6RWgGlkUfIb1DKR47S49T5"
@@ -5198,7 +5234,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 116400,
       "name": "Not enough memories",
       "url": "https://open.spotify.com/track/2hEv9XOeDpFbiiNMUuB30I"
@@ -5292,7 +5328,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 134000,
       "name": "On Our Way",
       "url": "https://open.spotify.com/track/2fi3XHMWU77my8y6aaU7QF"
@@ -7112,7 +7148,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 153600,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/0JXVthIPNVYB76jj2oxbKY"
@@ -7310,7 +7346,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 142653,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/4y3r110Eb6leMBaoz83S4s"
@@ -8608,7 +8644,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 169200,
       "name": "What R U Takin'",
       "url": "https://open.spotify.com/track/7cziDoATAIL6MJiosqWkkG"

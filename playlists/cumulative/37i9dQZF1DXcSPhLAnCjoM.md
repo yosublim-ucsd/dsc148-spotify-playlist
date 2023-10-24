@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> Grand Corps Malade au top des 50 hits de variété française du moment.
+> Foé au top des 50 hits de variété française du moment.
 
-55 songs - 2 hr 56 min
+58 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,15 +30,17 @@
 | [Fuguer](https://open.spotify.com/track/14EyAVX55liO55GZUr6LOQ) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le Feu 2](https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t) | 3:06 | 2023-10-05 |  |
 | [Hey Bro](https://open.spotify.com/track/3llW2J8Gl8LggqQcQSjyqM) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Hey Bro](https://open.spotify.com/album/2lJNU3gStbWwaudk0qrIXD) | 2:30 | 2023-09-28 |  |
 | [Holidays \- Ofenbach Rework](https://open.spotify.com/track/1tZQQot5H6wxWXiwsclT13) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Holidays \(Ofenbach Rework\)](https://open.spotify.com/album/3GoqRd7odk60LOJW8fvftD) | 2:26 | 2023-09-28 |  |
-| [HORIZON](https://open.spotify.com/track/5RwpbhPihTkwqLWldaMTE1) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/2qyAcVIZv3wwnmAUOIXInf) | 3:12 | 2023-09-28 |  |
+| [HORIZON](https://open.spotify.com/track/5RwpbhPihTkwqLWldaMTE1) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/2qyAcVIZv3wwnmAUOIXInf) | 3:12 | 2023-09-28 | 2023-10-24 |
 | [Il faudrait](https://open.spotify.com/track/62raj97K1yOi8mk54SLohm) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Il faudrait](https://open.spotify.com/album/2ODYDrN5YG9HVVBiBlg796) | 3:42 | 2023-10-05 |  |
+| [J'me barre](https://open.spotify.com/track/2ZkWEkVDL73dSNAv21aa0B) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [J'me barre](https://open.spotify.com/album/73Rk8FmhOaBIza5bOYnTmT) | 2:59 | 2023-10-19 |  |
 | [J'étais pas fait pour le bonheur](https://open.spotify.com/track/35A7vKNxPv68FrRg6PkFuS) | [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS), [Giordana Angi](https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws) | [J'étais pas fait pour le bonheur](https://open.spotify.com/album/6iuVrMQpc9O6pFIWS9k5d1) | 3:01 | 2023-09-28 |  |
 | [Je n'oublie pas](https://open.spotify.com/track/0hFK73Z6tXs6S5YFPL72eW) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Je n'oublie pas](https://open.spotify.com/album/32ky5za1bDfWF9O8KjcPf7) | 3:23 | 2023-09-28 |  |
 | [Je partirai](https://open.spotify.com/track/3qdffH7BqUr4kOxaenMkiZ) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:15 | 2023-09-28 |  |
-| [Je te donne](https://open.spotify.com/track/6p6itTnPOqEatoQJxU2vek) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [n°9](https://open.spotify.com/album/4uBYBjrLksYgMtkUqSO10g) | 2:51 | 2023-09-28 |  |
+| [Je reste calme](https://open.spotify.com/track/3Or4BEBgd0TSlQWqqxFYHR) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Je reste calme](https://open.spotify.com/album/3nYlOopDy3IUXx1fV3YQQy) | 2:52 | 2023-10-19 |  |
+| [Je te donne](https://open.spotify.com/track/6p6itTnPOqEatoQJxU2vek) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [n°9](https://open.spotify.com/album/4uBYBjrLksYgMtkUqSO10g) | 2:51 | 2023-09-28 | 2023-10-24 |
 | [Je veux, je veux, je veux](https://open.spotify.com/track/1O1BFGmTnnRX5L6FAQeMyI) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Je veux, je veux, je veux](https://open.spotify.com/album/2Vm3JlbhgYPWjD6wsOgwlS) | 2:52 | 2023-09-28 | 2023-10-06 |
 | [L'amour](https://open.spotify.com/track/67iIpALe9LicIOwMmhlraA) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [C'est drôle la vie](https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD) | 2:47 | 2023-09-28 |  |
-| [La belle époque](https://open.spotify.com/track/4DHuh5umihj3cgiuyQ7jbE) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [La belle époque](https://open.spotify.com/album/68mbwN9aTDYGlgWzhTKPoe) | 2:52 | 2023-09-28 |  |
+| [La belle époque](https://open.spotify.com/track/4DHuh5umihj3cgiuyQ7jbE) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [La belle époque](https://open.spotify.com/album/68mbwN9aTDYGlgWzhTKPoe) | 2:52 | 2023-09-28 | 2023-10-24 |
 | [La symphonie des éclairs \- Edit](https://open.spotify.com/track/2qgS51uMu0cAjZOI9PVoTN) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:58 | 2023-09-28 |  |
 | [La vie](https://open.spotify.com/track/04VPEsP3L4td2u4RuvOdrD) | [Malo'](https://open.spotify.com/artist/0wHHtuNdjnmH9spIm2VrhR) | [La vie](https://open.spotify.com/album/7a1zSyuq070pBzYpSrc0Az) | 3:28 | 2023-09-28 | 2023-10-06 |
 | [Laissez\-moi danser](https://open.spotify.com/track/1LBLEAMse3jta25SKwGs37) | [Waxx](https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Laissez\-moi danser](https://open.spotify.com/album/66BR3VEZqTOgclJxBlClQK) | 2:52 | 2023-09-28 |  |
@@ -58,6 +60,7 @@
 | [Pays des merveilles](https://open.spotify.com/track/5lph5Ohom4uGk7pQDyLPJB) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z), [CEUZANY](https://open.spotify.com/artist/5AYXYNFAvk8uUmCa5FDe7L) | [Pays des merveilles](https://open.spotify.com/album/43YnMTktKT5nEJoC5W5XXC) | 3:26 | 2023-09-28 |  |
 | [Plus de sens](https://open.spotify.com/track/7HEKgyGKb9oil5ZrW7cHH4) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 3:29 | 2023-09-28 |  |
 | [Popcorn Salé](https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Popcorn Salé](https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V) | 3:58 | 2023-09-28 |  |
+| [Respire](https://open.spotify.com/track/7n2mcTJtSNgGRrAFEneYRz) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Respire](https://open.spotify.com/album/3troTVEc8IZUyYF6N85BJW) | 2:57 | 2023-10-19 |  |
 | [Retiens les rêves](https://open.spotify.com/track/3tYSZZjpt5lth5lZbWdQVR) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [Retiens les rêves](https://open.spotify.com/album/6pWAMFNK0xTDAj3CLFaYKy) | 3:39 | 2023-09-28 |  |
 | [Roméo](https://open.spotify.com/track/3uBlI0TvJ1QGOPesQ7yL6W) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Regarde\-moi](https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9) | 3:12 | 2023-09-28 | 2023-10-06 |
 | [SI TE LLAMO](https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [SI TE LLAMO](https://open.spotify.com/album/1KRzEnTp6irxrQlooxTrQd) | 3:27 | 2023-09-28 |  |

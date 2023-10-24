@@ -4,7 +4,7 @@
 
 > This is the best of ska, new and classic\. Cover: Madness
 
-262 songs - 13 hr 52 min
+263 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Night Train to Moscow](https://open.spotify.com/track/2BX80uJdAmllD0BP8MKK98) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [One More Bullet](https://open.spotify.com/album/7LoRVrbrsi12hSTXJElZG0) | 2:23 | 2021-09-02 | 2022-11-17 |
 | [No One Said It Was Easy](https://open.spotify.com/track/6Vfu17e3R2xoKP1aXmMxlS) | [\[spunge\]](https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT) | [No One Said It Was Easy](https://open.spotify.com/album/3UKUSqQYspQheeMi6wDXbS) | 3:20 | 2021-09-02 | 2022-07-29 |
 | [No Place Like \(Not Being\) Home](https://open.spotify.com/track/2b8JJGU8BxKcxuk7HUHXqa) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [No Place Like \(Not Being\) Home](https://open.spotify.com/album/1cMJEOgIrHokq4zkORuHBw) | 4:00 | 2021-09-02 | 2022-07-29 |
-| [No Place Like \(Not Being\) Home](https://open.spotify.com/track/4EJXrKHEbQp63JiMHUN4I3) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [Hypochondriac](https://open.spotify.com/album/6uDqold3P9I1IKn2XuwZem) | 4:00 | 2022-04-14 |  |
+| [No Place Like \(Not Being\) Home](https://open.spotify.com/track/4EJXrKHEbQp63JiMHUN4I3) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [Hypochondriac](https://open.spotify.com/album/6uDqold3P9I1IKn2XuwZem) | 4:00 | 2022-04-14 | 2023-10-24 |
 | [Not Now](https://open.spotify.com/track/5lZKUzlFHgzLwvS4ySRYZ4) | [The Meddlers](https://open.spotify.com/artist/6M7aTHb7afp7EWmpUkJLDH) | [Not Now](https://open.spotify.com/album/3P7lyRYnaaJ8kTkchgYRjg) | 2:57 | 2022-04-14 | 2022-04-21 |
 | [OHMYGOD](https://open.spotify.com/track/64ZeezjENTfCvCARerp0JN) | [Eichlers](https://open.spotify.com/artist/4BbaA8tRBEZ81exJ8Ll2Fo) | [OHMYGOD](https://open.spotify.com/album/3YT8DM1Ss3V7gHSC6Z6jtU) | 1:52 | 2022-04-14 | 2022-04-19 |
 | [On & On & On](https://open.spotify.com/track/4zypNnJbJcGY7ccnJpAUA8) | [Catch 22](https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT) | [Keasbey Nights](https://open.spotify.com/album/3qr6t93uRL9vO4VSIEziCF) | 3:14 | 2021-09-02 | 2022-07-29 |
@@ -218,6 +218,7 @@
 | [The Impression That I Get](https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee) | 3:14 | 2021-09-02 | 2023-10-20 |
 | [The Impression That I Get](https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let’s Face It](https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r) | 3:15 | 2023-10-13 |  |
 | [The Rascal King](https://open.spotify.com/track/13BRH2RILNifFRNTXbLUka) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee) | 2:46 | 2022-12-09 | 2023-10-21 |
+| [The Rascal King](https://open.spotify.com/track/2EeIsfOZ3RNXUahTLJXluT) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let’s Face It](https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r) | 2:46 | 2023-10-13 |  |
 | [The Science of Selling Yourself Short](https://open.spotify.com/track/1iD0a0plhO55cWEJa5UGcZ) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Anthem](https://open.spotify.com/album/2Csf9jkWwwusFvIW7DppX7) | 3:06 | 2021-09-02 |  |
 | [The Sweat](https://open.spotify.com/track/577X4F4HAZZUVzvT7wml4E) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Nice Things](https://open.spotify.com/album/5tNQBbbRsvoCDgJA8WA91T) | 2:21 | 2021-09-02 | 2023-02-23 |
 | [The Tears of a Clown](https://open.spotify.com/track/7ejx2icT9lb1DijmynLvRb) | [The Beat](https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS) | [Tears of a Clown](https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw) | 2:40 | 2023-05-19 | 2023-07-08 |

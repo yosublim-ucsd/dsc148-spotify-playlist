@@ -4,7 +4,7 @@
 
 > \~ have a lovely time \~
 
-326 songs - 19 hr 3 min
+327 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2022-07-29 |  |
 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 | 2023-05-03 | 2023-08-24 |
 | [4runner](https://open.spotify.com/track/3sIKldlKWC5TICO2Tcz7uu) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7HI6B7UBPjpK0I4PoTfsVu) | 4:25 | 2023-08-24 | 2023-10-06 |
+| [4runner](https://open.spotify.com/track/6ofFq0aQ8aXG73pjfFKwFv) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD) | 4:25 | 2023-08-24 |  |
 | [4Runner](https://open.spotify.com/track/6fHORDEAnP4POdVZB9kO9V) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [4Runner](https://open.spotify.com/album/4pK1F2rM5omfZyrv4FEPQZ) | 3:49 | 2022-04-05 | 2022-07-28 |
 | [7 Minutes In Heaven](https://open.spotify.com/track/1BiZ9r6J68KPZiwO9aYHfj) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [7 Minutes In Heaven](https://open.spotify.com/album/5OBjaJBkBiB2lte0yM6BUa) | 3:36 | 2023-06-12 | 2023-08-18 |
 | [a little more time](https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [a little more time](https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi) | 3:30 | 2023-02-21 | 2023-04-23 |
@@ -265,7 +266,7 @@
 | [Slow Mover](https://open.spotify.com/track/4ZCOBG4TjklRxvA1lCdkhD) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Salt](https://open.spotify.com/album/1Vf4te9cU9xMI0NEHdZIau) | 3:10 | 2022-04-05 | 2022-07-29 |
 | [Smile](https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Apple Crumble](https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr) | 3:23 | 2022-04-05 | 2022-07-28 |
 | [Smoke of a Train](https://open.spotify.com/track/0XnokfUryAsBsDfoa3Y43R) | [RHNO](https://open.spotify.com/artist/1yxH3wYLS0kwcpgxLhWWXX) | [Smoke of a Train](https://open.spotify.com/album/6BDy46zC0jVwXJuMbyOHaX) | 3:40 | 2022-04-05 | 2022-07-29 |
-| [So Good At Being in Trouble](https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 3:50 | 2022-07-29 |  |
+| [So Good At Being in Trouble](https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 3:50 | 2022-07-29 | 2023-10-24 |
 | [Soft Spot](https://open.spotify.com/track/6kyxHSJZBPSihkK3YwbVXg) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Soft Spot](https://open.spotify.com/album/7mf5SwQGjqFoxg02oHryFh) | 3:08 | 2022-04-05 | 2022-07-29 |
 | [Someday \- triple j Like A Version](https://open.spotify.com/track/0XLZKzPZpUeRLqpkLUTOYM) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/45AQAnYBqzqq585CbYW6VS) | 4:24 | 2022-04-05 | 2022-07-29 |
 | [Something You Like](https://open.spotify.com/track/0pcfBKS5NTjakHjwejtftq) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Something You Like](https://open.spotify.com/album/7HKOZnt0ZEtj384ccU3XI2) | 3:33 | 2022-04-05 | 2022-07-29 |

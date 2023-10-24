@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Léon Phal
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,300 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,363 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 26 | [Forest Habits](https://open.spotify.com/track/5HCYWa3Jg38TXYhlsvwAaX) | [Oliver Crosby](https://open.spotify.com/artist/3JlivF1eIeK1qIg6BdFdNO), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [Forest Habits](https://open.spotify.com/album/3zFC5FLr1Q7sPbsatVEYPX) | 3:21 |
 | 27 | [Corner Kisses](https://open.spotify.com/track/1DUQwRzzAeOhFAc5CD7qD9) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Corner Kisses](https://open.spotify.com/album/3gGiLP5nx1WsiXLkulXYV4) | 5:00 |
 | 28 | [Why Am I Treated So Bad \(with Questlove, Christian McBride\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/22OeSoWelZKWr5On4XIaKP) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Why Am I Treated So Bad \(with Questlove, Christian McBride\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/4JdmT4JJgQFP3dUgvpjx3H) | 5:23 |
-| 29 | [Deluxe Refuge](https://open.spotify.com/track/3fbRtTiwsr5cYyLvVMrWF3) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Deluxe Refuge](https://open.spotify.com/album/4bmmEf1HnNsp44VM8YKWbg) | 5:27 |
+| 29 | [Deluxe Refuge](https://open.spotify.com/track/3bPk42yKpTX0UWkICl8btZ) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Behind the Tea Chronicles](https://open.spotify.com/album/2NRg9UqRH3YFWJG7XEwba9) | 5:27 |
 | 30 | [Call Off The Search \- Demo](https://open.spotify.com/track/7KdUI2n3d32uGGso0rD7wc) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Call Off The Search](https://open.spotify.com/album/2c6GalSbICqbbg7CW9U5KX) | 2:16 |
 | 31 | [Dreamer](https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:30 |
 | 32 | [Stings](https://open.spotify.com/track/7zdBfReMVQKgxO5Pa5O3Hf) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [Stings](https://open.spotify.com/album/09easBrTbXjhnsqORAvkiK) | 4:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/1mkzHA0suincRybCyk5fis) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 5:40 |
 | 50 | [Yesterday's Price](https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [Yesterday's Price](https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB) | 5:15 |
 
-Snapshot ID: `MCw0Y2FkZWE2NDRhNzYzYTg2NTQ4ZGE1NDI2NWEzZTQwNzk4NWE3ODEx`
+Snapshot ID: `MCw4OTg0YmI1OTlkM2VkNjU3MWI5NTJhZjllYzQ1ZTZlYTY4Y2U1OTRj`

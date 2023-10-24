@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,547 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,559 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,25 +33,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 23 | [Le feu](https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le feu](https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA) | 3:51 |
 | 24 | [Il faudrait](https://open.spotify.com/track/62raj97K1yOi8mk54SLohm) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Il faudrait](https://open.spotify.com/album/2ODYDrN5YG9HVVBiBlg796) | 3:42 |
 | 25 | [Du country dans le ravin](https://open.spotify.com/track/2T2mpckFPDfpM9wgCFdJXt) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Ça s'invente pas](https://open.spotify.com/album/1QPEBa411xm2gFUwXiGeRg) | 2:23 |
-| 26 | [Ça va](https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ça va](https://open.spotify.com/album/16uVOML0RmNvAAeAGSSjyv) | 2:51 |
+| 26 | [Dans le noir](https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 2:40 |
 | 27 | [La maison pour moi](https://open.spotify.com/track/4fmWsQ4bElM81EmxhSyClm) | [Léa Jarry](https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da) | [Comme avant](https://open.spotify.com/album/08fwFyUrvQu0Z2oJo1RzUR) | 2:54 |
-| 28 | [Warda](https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 3:11 |
+| 28 | [Ça va](https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ça va](https://open.spotify.com/album/16uVOML0RmNvAAeAGSSjyv) | 2:51 |
 | 29 | [Il n'y a rien que je ne suis pas](https://open.spotify.com/track/4wsURCIHVHSVsPK8yRP46I) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 4:53 |
-| 30 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [LOVE'n'TENDRESSE](https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6) | 3:14 |
-| 31 | [Dans le noir](https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 2:40 |
+| 30 | [Warda](https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 3:11 |
+| 31 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [LOVE'n'TENDRESSE](https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6) | 3:14 |
 | 32 | [Encore plus](https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Encore plus](https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr) | 3:09 |
 | 33 | [Différent](https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Différent](https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y) | 2:39 |
 | 34 | [French Riviera](https://open.spotify.com/track/1YIxzV3rlDUmIES9tpOytj) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [French Riviera](https://open.spotify.com/album/0zz8rBPR2RmxmlNfvjrgGA) | 3:21 |
-| 35 | [CONS’ DE LOVE](https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Amour...](https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML) | 2:45 |
-| 36 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 |
+| 35 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 |
+| 36 | [CONS’ DE LOVE](https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Amour...](https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML) | 2:45 |
 | 37 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 |
 | 38 | [Parler de nous](https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Parler de nous](https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds) | 3:13 |
-| 39 | [Côté passager](https://open.spotify.com/track/6h954Sej1qwhpPpgli8I2v) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Côté passager](https://open.spotify.com/album/4FWxAiJKbG63FCND0gXgiR) | 2:54 |
-| 40 | [Promets\-moi](https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:08 |
-| 41 | [Liberta](https://open.spotify.com/track/69lKtGrjuqYypkYHm6H2WY) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Liberta](https://open.spotify.com/album/4ezzeRj05jnLrRqunm6qJn) | 2:28 |
-| 42 | [OH MADELEINE](https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [OH MADELEINE](https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx) | 2:39 |
-| 43 | [Zénith](https://open.spotify.com/track/7waEJapWACgWkq3by4intP) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Zénith](https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r) | 2:36 |
-| 44 | [Terminus](https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J) | [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Terminus](https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT) | 2:38 |
+| 39 | [Terminus](https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J) | [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Terminus](https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT) | 2:38 |
+| 40 | [Côté passager](https://open.spotify.com/track/6h954Sej1qwhpPpgli8I2v) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Côté passager](https://open.spotify.com/album/4FWxAiJKbG63FCND0gXgiR) | 2:54 |
+| 41 | [Promets\-moi](https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:08 |
+| 42 | [Liberta](https://open.spotify.com/track/69lKtGrjuqYypkYHm6H2WY) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Liberta](https://open.spotify.com/album/4ezzeRj05jnLrRqunm6qJn) | 2:28 |
+| 43 | [OH MADELEINE](https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [OH MADELEINE](https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx) | 2:39 |
+| 44 | [Zénith](https://open.spotify.com/track/7waEJapWACgWkq3by4intP) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Zénith](https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r) | 2:36 |
 | 45 | [À l'inverse](https://open.spotify.com/track/4ljLseBCdBixUTd56quaVZ) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [À l'inverse](https://open.spotify.com/album/7uGFdMiWN1Mdk4tmwKSrnX) | 2:55 |
 | 46 | [A quoi tu penses vraiment](https://open.spotify.com/track/0YRaJCYiH7PCBY7hRxz3XV) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:55 |
 | 47 | [Appart des Apes](https://open.spotify.com/track/3yEsyr32BAZ4WegEmFPW7s) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Appart des Apes](https://open.spotify.com/album/5yIPSHNtMozcsdkvjfX5rw) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [Je remplace mes exs](https://open.spotify.com/track/3QSTzAm336llccLmSrdqzI) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Je remplace mes exs](https://open.spotify.com/album/1JCfwbRtYqlTF6sQChqcuM) | 2:53 |
 | 50 | [Un morceau de Sicre](https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Un morceau de Sicre](https://open.spotify.com/album/7LEv9OJgjyFBLqevLi6NvO) | 4:02 |
 
-Snapshot ID: `MCw1MmMyZGNjZjQ1ZmRlOWFjYzVkOWJlOGQxYjUzZTc4NWUxMjYxYWQ1`
+Snapshot ID: `MCw3OWQ3MzhiN2QyZDEwOTE3MTBmYTNmYTE2YzU2OGY3MWU0YTBhMmQy`

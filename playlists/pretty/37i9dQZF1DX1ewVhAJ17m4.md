@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,506 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,573 likes - 85 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 84 | [RECKLESS](https://open.spotify.com/track/2iNb7p7WLZ4fJHZd3kbWst) | [LOU](https://open.spotify.com/artist/4tVzfQLYPxk5vGAgPQXmK4) | [RECKLESS](https://open.spotify.com/album/1tKiELuITXrxUVWA1bUzII) | 2:55 |
 | 85 | [No Point Pretending \(Song For Tour\)](https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Bears In Trees](https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2) | [No Point Pretending \(Song For Tour\)](https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp) | 2:59 |
 
-Snapshot ID: `MCwyY2YwNzFkZGQwODY1YmM4OTc1Mjc3MzY0MDVkOThmNDNhYzJjYWZh`
+Snapshot ID: `MCw5M2E1MDZlYzE3Y2NiNzA2ODZjOWYxYjFjYzFiNGJiZTZiNDJjNWMw`

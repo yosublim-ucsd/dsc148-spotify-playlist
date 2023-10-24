@@ -4,12 +4,12 @@
 
 > Chill techno, melodic house and tech house.
 
-606 songs - 2 day 12 hr 33 min
+607 songs - 2 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [333](https://open.spotify.com/track/6By1QudqrImFqh0wB4ODD0) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [333](https://open.spotify.com/album/1eVSAAQe8SO6WimGu9cZ9A) | 7:05 | 2020-11-03 | 2021-01-15 |
-| [4 Lovers](https://open.spotify.com/track/7CLbEQkvE0y64muJ7gXZrL) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Lia Paris](https://open.spotify.com/artist/666RdmjetOG6FaFpsCHLnZ) | [4 Lovers](https://open.spotify.com/album/5GgmtwqzcDMMyE7xt6eun3) | 5:48 | 2021-12-17 |  |
+| [4 Lovers](https://open.spotify.com/track/7CLbEQkvE0y64muJ7gXZrL) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Lia Paris](https://open.spotify.com/artist/666RdmjetOG6FaFpsCHLnZ) | [4 Lovers](https://open.spotify.com/album/5GgmtwqzcDMMyE7xt6eun3) | 5:48 | 2021-12-17 | 2023-10-24 |
 | [A Declaration of Love](https://open.spotify.com/track/65bMFgIYR9rxMR9GeYraIh) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 5:34 | 2021-02-13 | 2021-03-23 |
 | [Accent](https://open.spotify.com/track/5G1gJ0G25yOg3Gbk8apuzX) | [Sandhog](https://open.spotify.com/artist/4Bg70gCux7vzM1w08aUF37) | [Accent](https://open.spotify.com/album/74iykQlrIiej6W5m1l1WfO) | 6:00 | 2023-04-28 | 2023-05-06 |
 | [Acheron](https://open.spotify.com/track/2N7T1CPQvJoRgniWSW6Hja) | [Prismode](https://open.spotify.com/artist/58kYFWtUBY05pp6TmlKOiH), [Solvane](https://open.spotify.com/artist/3bOQBNZv9K0NMW4WudrKb0) | [Acheron](https://open.spotify.com/album/0tLKMdyvGltcIN9TeqPiXe) | 7:57 | 2019-09-27 | 2020-01-04 |
@@ -219,6 +219,7 @@
 | [Gravity \(feat\. Laura Korinth\) \- Edit](https://open.spotify.com/track/30WnQsvwFeYEd9k08vV7Dl) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Laura Korinth](https://open.spotify.com/artist/060duYsbrXFx0FDnlhs72T) | [Gravity \(feat\. Laura Korinth\)](https://open.spotify.com/album/1UjgRZl7nyQMN6GDaDVlCp) | 3:36 | 2019-08-06\* | 2019-09-13 |
 | [Gravity \(feat\. RY X\) \- Edit](https://open.spotify.com/track/2HefMwA4H1k9WasDkTM5wk) | [Nocturnal Sunshine](https://open.spotify.com/artist/1BiGjy3Kg99ZgL7E2Qb4Td), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Gravity \(feat\. RY X\)](https://open.spotify.com/album/1fyCKJgmxG0Vc88xyzjUqz) | 3:01 | 2020-01-23 | 2021-10-14 |
 | [Gravity Field](https://open.spotify.com/track/7pzWzk7IuGVG7L7ll5bR3g) | [Abe](https://open.spotify.com/artist/4DuSBVCmI9rMlrIHlS7buZ) | [Across the Storm](https://open.spotify.com/album/1rpKLDdduIHaoA56sgm8cm) | 7:11 | 2019-08-06\* | 2020-06-12 |
+| [Grouplove](https://open.spotify.com/track/4eDptQXtxI2beJWkxNV4jo) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Youth Is Wasted on the Young](https://open.spotify.com/album/1xyLsl3uoCDONSqfrr3RPT) | 3:13 | 2023-09-19 |  |
 | [Grouplove](https://open.spotify.com/track/04VNPjMAsLO49GPgsl8xrq) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Youth Is Wasted on the Young](https://open.spotify.com/album/3ijdNgdZu1vj5l5gXfxgGa) | 3:13 | 2022-11-14 | 2023-10-13 |
 | [Grouplove](https://open.spotify.com/track/3DMScvrPcnikiAR0CY4FFt) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Grouplove](https://open.spotify.com/album/6b0dUUZNOfoBRKbstMszfB) | 3:13 | 2021-12-07 | 2022-07-29 |
 | [Gubrist](https://open.spotify.com/track/5kcphF3DRdAcZ7ykETiYia) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Fool EP](https://open.spotify.com/album/0bZcfmVex0wFXi8444nC8H) | 6:52 | 2020-01-01 | 2020-01-02 |

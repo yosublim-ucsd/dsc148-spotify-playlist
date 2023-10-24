@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 65022,
+  "num_followers": 65156,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTE2ZmI2NGJkZDczY2IxYWQ3YTI0YzE1M2NmMzQ4YzE0ZjY4ZTZl",
+  "snapshot_id": "MCwwOWIzN2M2NDVlN2Q3NGZhZThhNzVkOGMzNmQzNWM3OGM4NWM2NDM2",
   "tracks": [
     {
       "added_at": "2023-10-20 07:44:24",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-10-20 07:44:24",
       "album": {
-        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
-        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 424493,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/4PkJlDmHpr9o7KUxm0Uflx"
-    },
-    {
-      "added_at": "2023-10-20 07:44:24",
-      "album": {
         "name": "Loads Of Love",
         "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
@@ -215,6 +199,22 @@
     {
       "added_at": "2023-10-20 07:44:24",
       "album": {
+        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
+        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 424493,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/4PkJlDmHpr9o7KUxm0Uflx"
+    },
+    {
+      "added_at": "2023-10-20 07:44:24",
+      "album": {
         "name": "All Or Nothing At All",
         "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
@@ -227,22 +227,6 @@
       "duration_ms": 256386,
       "name": "Do Nothin' Till You Hear From Me - 1956 Version",
       "url": "https://open.spotify.com/track/7ueJIjtiVTKmYmDpvQokdG"
-    },
-    {
-      "added_at": "2023-10-20 07:44:24",
-      "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
     },
     {
       "added_at": "2023-10-20 07:44:24",
@@ -315,22 +299,6 @@
     {
       "added_at": "2023-10-20 07:44:24",
       "album": {
-        "name": "I Just Dropped By To Say Hello",
-        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 250813,
-      "name": "Don't You Know I Care",
-      "url": "https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC"
-    },
-    {
-      "added_at": "2023-10-20 07:44:24",
-      "album": {
         "name": "Dexter Blows Hot & Cool",
         "url": "https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI"
       },
@@ -347,18 +315,18 @@
     {
       "added_at": "2023-10-20 07:44:24",
       "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 179853,
-      "name": "How Deep Is The Ocean?",
-      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
+      "duration_ms": 250813,
+      "name": "Don't You Know I Care",
+      "url": "https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC"
     },
     {
       "added_at": "2023-10-20 07:44:24",
@@ -379,6 +347,38 @@
       "duration_ms": 246506,
       "name": "I Was Doing All Right",
       "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
+    },
+    {
+      "added_at": "2023-10-20 07:44:24",
+      "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "How Deep Is The Ocean?",
+      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
+    },
+    {
+      "added_at": "2023-10-20 07:44:24",
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
     },
     {
       "added_at": "2023-10-20 07:44:24",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-10-20 07:44:24",
       "album": {
-        "name": "After Midnight: The Complete Session",
-        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Blame It On My Youth - Remastered 1999",
-      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
-    },
-    {
-      "added_at": "2023-10-20 07:44:24",
-      "album": {
         "name": "Oscar Peterson Plays The George Gershwin Song Book",
         "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 168866,
       "name": "It Ain't Necessarily So",
       "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
+    },
+    {
+      "added_at": "2023-10-20 07:44:24",
+      "album": {
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Blame It On My Youth - Remastered 1999",
+      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
     },
     {
       "added_at": "2023-10-20 07:44:24",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-10-20 07:44:24",
       "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "Mood Indigo",
-      "url": "https://open.spotify.com/track/6wDBY75wrVJoQZsSCyM234"
-    },
-    {
-      "added_at": "2023-10-20 07:44:24",
-      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -707,18 +687,22 @@
     {
       "added_at": "2023-10-20 07:44:24",
       "album": {
-        "name": "We Get Requests",
-        "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
       },
       "artists": [
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 310973,
-      "name": "D & E",
-      "url": "https://open.spotify.com/track/6IXPs28Up5f65Wg3sHzBsS"
+      "duration_ms": 207413,
+      "name": "Mood Indigo",
+      "url": "https://open.spotify.com/track/6wDBY75wrVJoQZsSCyM234"
     },
     {
       "added_at": "2023-10-20 07:44:24",
@@ -759,22 +743,34 @@
     {
       "added_at": "2023-10-20 07:44:24",
       "album": {
-        "name": "Social Call",
-        "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
+        "name": "We Get Requests",
+        "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
       },
       "artists": [
         {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        },
-        {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 251680,
-      "name": "Gone With the Wind",
-      "url": "https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn"
+      "duration_ms": 310973,
+      "name": "D & E",
+      "url": "https://open.spotify.com/track/6IXPs28Up5f65Wg3sHzBsS"
+    },
+    {
+      "added_at": "2023-10-20 07:44:24",
+      "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 607573,
+      "name": "Ballad Medley",
+      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
     },
     {
       "added_at": "2023-10-20 07:44:24",
@@ -795,18 +791,22 @@
     {
       "added_at": "2023-10-20 07:44:24",
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+        "name": "Social Call",
+        "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        },
+        {
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
         }
       ],
-      "duration_ms": 607573,
-      "name": "Ballad Medley",
-      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
+      "duration_ms": 251680,
+      "name": "Gone With the Wind",
+      "url": "https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn"
     },
     {
       "added_at": "2023-10-20 07:44:24",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-10-20 07:44:24",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        }
-      ],
-      "duration_ms": 371960,
-      "name": "Where Or When",
-      "url": "https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB"
-    },
-    {
-      "added_at": "2023-10-20 07:44:24",
-      "album": {
         "name": "For Those In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 224066,
       "name": "Trav'lin Light",
       "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
+    },
+    {
+      "added_at": "2023-10-20 07:44:24",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "duration_ms": 371960,
+      "name": "Where Or When",
+      "url": "https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB"
     },
     {
       "added_at": "2023-10-20 07:44:24",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-10-20 07:44:24",
       "album": {
-        "name": "Give Him The Ooh-La-La (Expanded Edition)",
-        "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 258093,
-      "name": "I Walk A Little Faster",
-      "url": "https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI"
-    },
-    {
-      "added_at": "2023-10-20 07:44:24",
-      "album": {
         "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
       },
@@ -1007,18 +991,34 @@
     {
       "added_at": "2023-10-20 07:44:24",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR"
+        "name": "Give Him The Ooh-La-La (Expanded Edition)",
+        "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
       },
       "artists": [
         {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
-      "duration_ms": 434666,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO"
+      "duration_ms": 258093,
+      "name": "I Walk A Little Faster",
+      "url": "https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI"
+    },
+    {
+      "added_at": "2023-10-20 07:44:24",
+      "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 285693,
+      "name": "If I Had You - Bonus Track",
+      "url": "https://open.spotify.com/track/54U0BdTlsSah7SI6bxJeF6"
     },
     {
       "added_at": "2023-10-20 07:44:24",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-10-20 07:44:24",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
         }
       ],
-      "duration_ms": 285693,
-      "name": "If I Had You - Bonus Track",
-      "url": "https://open.spotify.com/track/54U0BdTlsSah7SI6bxJeF6"
+      "duration_ms": 434666,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO"
     },
     {
       "added_at": "2023-10-20 07:44:24",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-20 07:44:24",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 436573,
-      "name": "Mad About The Boy",
-      "url": "https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT"
-    },
-    {
-      "added_at": "2023-10-20 07:44:24",
-      "album": {
         "name": "Verve Jazz Masters 43: Ben Webster",
         "url": "https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 261333,
       "name": "Come Rain Or Come Shine",
       "url": "https://open.spotify.com/track/02ptMhCrjCMFVzXKMGbF1E"
+    },
+    {
+      "added_at": "2023-10-20 07:44:24",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 436573,
+      "name": "Mad About The Boy",
+      "url": "https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT"
     },
     {
       "added_at": "2023-10-20 07:44:24",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-10-20 07:44:24",
       "album": {
-        "name": "The Hawk Relaxes",
-        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "When Day Is Done",
-      "url": "https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM"
-    },
-    {
-      "added_at": "2023-10-20 07:44:24",
-      "album": {
         "name": "Jazz 'Round Midnight",
         "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 258160,
       "name": "Time On My Hands",
       "url": "https://open.spotify.com/track/4xqIedpD7DajzLlyS9b7rl"
+    },
+    {
+      "added_at": "2023-10-20 07:44:24",
+      "album": {
+        "name": "Presenting Red Garland",
+        "url": "https://open.spotify.com/album/4h7i5B7Q7rRXIwTEulF8d3"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "duration_ms": 311946,
+      "name": "You Better Go Now",
+      "url": "https://open.spotify.com/track/1Qi67EpJAbVzUefw4UGyFq"
     }
   ],
   "unique_name": "Jazz Bar",

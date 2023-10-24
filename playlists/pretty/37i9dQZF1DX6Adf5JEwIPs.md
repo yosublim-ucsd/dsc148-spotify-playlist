@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Michelle Maciel & El Frizian
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,600 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,797 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Rosas](https://open.spotify.com/track/3uFzo9GFVS3Yw4KIVdsYHN) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rosas](https://open.spotify.com/album/6sDgZzqJBy8r5TWPPVjL1E) | 4:33 |
 | 50 | [QUE NOTICIÓN](https://open.spotify.com/track/4ChA6km0qGQJ0ULF7bS13f) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [QUE NOTICIÓN](https://open.spotify.com/album/6wiPzklqA9XPFnyotZuIYp) | 2:34 |
 
-Snapshot ID: `MCw1ZGI0NDNmMjIwMmU2YjdiM2MyNjU4Mzg5MDEwNmViNTA5NDIxMjAy`
+Snapshot ID: `MCw1YTZiMjNhMzE1N2YxZDVjMGU3MDdiNGU2ZmJkOTYwYjE0ZTc5Mzdk`

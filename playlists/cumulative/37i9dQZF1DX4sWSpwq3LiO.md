@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,643 songs - 3 day 1 hr 2 min
+1,645 songs - 3 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Ashokan](https://open.spotify.com/track/3wa8YzkpiHEhmcpiuiqUem) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [Ashokan](https://open.spotify.com/album/04BQhBmWuSAD0P7Ko1TopF) | 1:57 | 2019-05-26\* | 2020-03-31 |
 | [Ask Me Anything](https://open.spotify.com/track/36wwYDM1vuWHuocV3Nq9hf) | [Joseph Seabolt](https://open.spotify.com/artist/3DBTOIFpBevoljTuKMfmHS) | [Ask Me Anything](https://open.spotify.com/album/0aNWplsJgFaWTHjp33JWj6) | 2:23 | 2023-01-09 |  |
 | [Asteroid](https://open.spotify.com/track/5Enc5JAvGziRBT7YQqdgXO) | [Saddest Girl In The World](https://open.spotify.com/artist/08g585oJkNJi7zMacm8LA6) | [Tomorrow EP](https://open.spotify.com/album/2XLQK7qXj1syMDkuPpmLId) | 2:57 | 2019-08-23 | 2020-03-17 |
+| [Astray](https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Astray](https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2) | 2:00 | 2023-10-23 |  |
 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 | 2019-08-02 | 2022-02-24 |
 | [At The End Of The Day](https://open.spotify.com/track/3x16lncPJzr2VDTtVrPpgj) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [The Old Oak Tree](https://open.spotify.com/album/1mFItBvAGzfPeKdarGWBWo) | 2:11 | 2023-01-17 |  |
 | [Atlas](https://open.spotify.com/track/2UUoUzFXegRNIzIangETNG) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Atlas](https://open.spotify.com/album/0UXtrysJ58HTDz5RtFPtNn) | 2:12 | 2022-05-26 | 2023-09-23 |
@@ -1206,6 +1207,7 @@
 | [September](https://open.spotify.com/track/4ZAR3wI6uq1ZEIcQPDNIzq) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [September](https://open.spotify.com/album/2HZaUUcFEa9X87d0cZX3dc) | 2:09 | 2020-03-07 | 2020-03-31 |
 | [Serenade](https://open.spotify.com/track/0xczKUSyVIfX9rekmTBkbv) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Serenade](https://open.spotify.com/album/5deoUv9fEIqoxOy1sM3z9M) | 2:25 | 2021-10-20 | 2022-03-03 |
 | [Serendipity](https://open.spotify.com/track/1V4B9Kcn17i4rIVXvlEXco) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Serendipity](https://open.spotify.com/album/657C1MhFaEqiG8RPyEkHcJ) | 2:21 | 2021-03-09 | 2021-09-24 |
+| [Serene](https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Serene](https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov) | 2:26 | 2023-10-23 |  |
 | [Serenity](https://open.spotify.com/track/2yh46DDBBxoDN45rCH8nBt) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [Retrospection](https://open.spotify.com/album/2TTPCvN55NHOr95q89qmpa) | 2:55 | 2021-01-12 | 2022-05-21 |
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2021-04-08 | 2022-05-13 |
 | [Settle](https://open.spotify.com/track/0SjBswfrhlg7gYVycO9mWy) | [Challem](https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf) | [Aparigraha](https://open.spotify.com/album/272vdjKU9Wz68K6SMHtiiy) | 3:11 | 2022-12-20 | 2023-02-11 |

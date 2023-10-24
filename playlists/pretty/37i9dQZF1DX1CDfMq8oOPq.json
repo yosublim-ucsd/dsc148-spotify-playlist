@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Ajuliacosta",
-  "num_followers": 42067,
+  "num_followers": 42105,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDZhYWYwM2MxZDExMTdkYjk1Y2ZkNDQ3NDA0MDEyMzc3MmJlOTQy",
+  "snapshot_id": "MCxiYjYzZjQ0Y2ExNmRkMTM1OWNhNjczYzcxNWRlODcxY2ZiM2VjMjdj",
   "tracks": [
     {
       "added_at": "2023-10-20 03:16:05",
@@ -207,6 +207,26 @@
     {
       "added_at": "2023-10-20 03:16:05",
       "album": {
+        "name": "F\u00e9 nas Maluca",
+        "url": "https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        }
+      ],
+      "duration_ms": 143221,
+      "name": "F\u00e9 nas Maluca",
+      "url": "https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1"
+    },
+    {
+      "added_at": "2023-10-20 03:16:05",
+      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3mp2ekGulGPeycSW8kugCr"
       },
@@ -223,6 +243,26 @@
       "duration_ms": 124500,
       "name": "Gostosa Posturada",
       "url": "https://open.spotify.com/track/0QrZOO5aW18qjKHbjcClWu"
+    },
+    {
+      "added_at": "2023-10-20 03:16:05",
+      "album": {
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
+        }
+      ],
+      "duration_ms": 190722,
+      "name": "Homens Como Voc\u00ea",
+      "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
     },
     {
       "added_at": "2023-10-20 03:16:05",
@@ -247,26 +287,6 @@
     {
       "added_at": "2023-10-20 03:16:05",
       "album": {
-        "name": "F\u00e9 nas Maluca",
-        "url": "https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Mc Carol",
-          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
-        }
-      ],
-      "duration_ms": 143221,
-      "name": "F\u00e9 nas Maluca",
-      "url": "https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1"
-    },
-    {
-      "added_at": "2023-10-20 03:16:05",
-      "album": {
         "name": "Faz Assim",
         "url": "https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 217263,
       "name": "Faz Assim",
       "url": "https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM"
-    },
-    {
-      "added_at": "2023-10-20 03:16:05",
-      "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Dj Victor",
-          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
-        }
-      ],
-      "duration_ms": 190722,
-      "name": "Homens Como Voc\u00ea",
-      "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
     },
     {
       "added_at": "2023-10-20 03:16:05",
@@ -375,8 +375,32 @@
     {
       "added_at": "2023-10-20 03:16:05",
       "album": {
-        "name": "Hentai",
-        "url": "https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02"
+        "name": "HSEH",
+        "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 150260,
+      "name": "HSEH",
+      "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
+    },
+    {
+      "added_at": "2023-10-20 03:16:05",
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
       },
       "artists": [
         {
@@ -384,17 +408,13 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        },
-        {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
         }
       ],
-      "duration_ms": 142500,
-      "name": "Hentai",
-      "url": "https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8"
+      "duration_ms": 133517,
+      "name": "Pensamentos Intrusivos",
+      "url": "https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9"
     },
     {
       "added_at": "2023-10-20 03:16:05",
@@ -423,30 +443,6 @@
     {
       "added_at": "2023-10-20 03:16:05",
       "album": {
-        "name": "HSEH",
-        "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 150260,
-      "name": "HSEH",
-      "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
-    },
-    {
-      "added_at": "2023-10-20 03:16:05",
-      "album": {
         "name": "CUSSY",
         "url": "https://open.spotify.com/album/5KHCRhhOSUUNGsdBfJTfZo"
       },
@@ -467,30 +463,6 @@
     {
       "added_at": "2023-10-20 03:16:05",
       "album": {
-        "name": "Levado - Spotify Singles",
-        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Rennan Guerra",
-          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
-        },
-        {
-          "name": "Patrick Laplan",
-          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
-        }
-      ],
-      "duration_ms": 175922,
-      "name": "Levado - Spotify Singles",
-      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
-    },
-    {
-      "added_at": "2023-10-20 03:16:05",
-      "album": {
         "name": "Sou + As Negras",
         "url": "https://open.spotify.com/album/6Z6uUrQRgrTv9Uw8k1rgkg"
       },
@@ -507,30 +479,6 @@
       "duration_ms": 161076,
       "name": "Sou + As Negras",
       "url": "https://open.spotify.com/track/4RqoUzXPTDgQSgSiPxmjHJ"
-    },
-    {
-      "added_at": "2023-10-20 03:16:05",
-      "album": {
-        "name": "B\u00d4NUS TRACK",
-        "url": "https://open.spotify.com/album/3KMHDHQCUSXewfIPRUfo25"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "b o u t",
-          "url": "https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41"
-        },
-        {
-          "name": "Brasil Grime Show",
-          "url": "https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "B\u00d4NUS TRACK",
-      "url": "https://open.spotify.com/track/2A33hs2ntyZ52cXMn34ljk"
     },
     {
       "added_at": "2023-10-20 03:16:05",
@@ -559,6 +507,74 @@
     {
       "added_at": "2023-10-20 03:16:05",
       "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 187350,
+      "name": "Maldita",
+      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
+    },
+    {
+      "added_at": "2023-10-20 03:16:05",
+      "album": {
+        "name": "Levado - Spotify Singles",
+        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Rennan Guerra",
+          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
+        },
+        {
+          "name": "Patrick Laplan",
+          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
+        }
+      ],
+      "duration_ms": 175922,
+      "name": "Levado - Spotify Singles",
+      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
+    },
+    {
+      "added_at": "2023-10-20 03:16:05",
+      "album": {
+        "name": "B\u00d4NUS TRACK",
+        "url": "https://open.spotify.com/album/3KMHDHQCUSXewfIPRUfo25"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "b o u t",
+          "url": "https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41"
+        },
+        {
+          "name": "Brasil Grime Show",
+          "url": "https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "B\u00d4NUS TRACK",
+      "url": "https://open.spotify.com/track/2A33hs2ntyZ52cXMn34ljk"
+    },
+    {
+      "added_at": "2023-10-20 03:16:05",
+      "album": {
         "name": "Baby Hair",
         "url": "https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo"
       },
@@ -583,8 +599,8 @@
     {
       "added_at": "2023-10-20 03:16:05",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+        "name": "Hentai",
+        "url": "https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02"
       },
       "artists": [
         {
@@ -592,13 +608,37 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
         }
       ],
-      "duration_ms": 133517,
-      "name": "Pensamentos Intrusivos",
-      "url": "https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9"
+      "duration_ms": 142500,
+      "name": "Hentai",
+      "url": "https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8"
+    },
+    {
+      "added_at": "2023-10-20 03:16:05",
+      "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "Seu Particular",
+      "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
     },
     {
       "added_at": "2023-10-20 03:16:05",
@@ -623,26 +663,6 @@
       "duration_ms": 133034,
       "name": "RIO",
       "url": "https://open.spotify.com/track/31fgfrINtE64CB5rRUTxH6"
-    },
-    {
-      "added_at": "2023-10-20 03:16:05",
-      "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 187350,
-      "name": "Maldita",
-      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
     },
     {
       "added_at": "2023-10-20 03:16:05",
@@ -687,6 +707,34 @@
       "duration_ms": 150731,
       "name": "Justi\u00e7a",
       "url": "https://open.spotify.com/track/4YLmK556jG82JypVn8PMaV"
+    },
+    {
+      "added_at": "2023-10-20 03:16:05",
+      "album": {
+        "name": "5min",
+        "url": "https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "duration_ms": 128181,
+      "name": "5min",
+      "url": "https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw"
     },
     {
       "added_at": "2023-10-20 03:16:05",
@@ -755,74 +803,6 @@
     {
       "added_at": "2023-10-20 03:16:05",
       "album": {
-        "name": "SOU + EU",
-        "url": "https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV"
-      },
-      "artists": [
-        {
-          "name": "Afreekassia",
-          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
-        },
-        {
-          "name": "G.a.B.o",
-          "url": "https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Zero Buxixo",
-      "url": "https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9"
-    },
-    {
-      "added_at": "2023-10-20 03:16:05",
-      "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "Seu Particular",
-      "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
-    },
-    {
-      "added_at": "2023-10-20 03:16:05",
-      "album": {
-        "name": "5min",
-        "url": "https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
-        }
-      ],
-      "duration_ms": 128181,
-      "name": "5min",
-      "url": "https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw"
-    },
-    {
-      "added_at": "2023-10-20 03:16:05",
-      "album": {
         "name": "Kawo",
         "url": "https://open.spotify.com/album/75C45QT4TPLkGrOzevo1MN"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 217538,
       "name": "Kawo",
       "url": "https://open.spotify.com/track/4TCNy9SAKNl3LLpsK8ITID"
+    },
+    {
+      "added_at": "2023-10-20 03:16:05",
+      "album": {
+        "name": "SOU + EU",
+        "url": "https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV"
+      },
+      "artists": [
+        {
+          "name": "Afreekassia",
+          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
+        },
+        {
+          "name": "G.a.B.o",
+          "url": "https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Zero Buxixo",
+      "url": "https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9"
     },
     {
       "added_at": "2023-10-20 03:16:05",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-10-20 03:16:05",
       "album": {
-        "name": "Limonnada",
-        "url": "https://open.spotify.com/album/2jhYJ1sGIKotj2VFIciO6f"
-      },
-      "artists": [
-        {
-          "name": "Monna Brutal",
-          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
-        }
-      ],
-      "duration_ms": 247659,
-      "name": "No Te Gusta",
-      "url": "https://open.spotify.com/track/2cxFkzZjvADzi8aWCfb0oo"
-    },
-    {
-      "added_at": "2023-10-20 03:16:05",
-      "album": {
         "name": "Glossy",
         "url": "https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 151596,
       "name": "Glossy",
       "url": "https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6"
+    },
+    {
+      "added_at": "2023-10-20 03:16:05",
+      "album": {
+        "name": "Limonnada",
+        "url": "https://open.spotify.com/album/2jhYJ1sGIKotj2VFIciO6f"
+      },
+      "artists": [
+        {
+          "name": "Monna Brutal",
+          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
+        }
+      ],
+      "duration_ms": 247659,
+      "name": "No Te Gusta",
+      "url": "https://open.spotify.com/track/2cxFkzZjvADzi8aWCfb0oo"
     },
     {
       "added_at": "2023-10-20 03:16:05",

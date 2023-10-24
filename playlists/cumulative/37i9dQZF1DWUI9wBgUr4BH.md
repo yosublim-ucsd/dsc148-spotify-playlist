@@ -4,7 +4,7 @@
 
 > Les hits de demain sont déjà ici\. Photo : Bad Bunny
 
-150 songs - 7 hr 27 min
+151 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-09-14 | 2023-10-14 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-12 | 2023-10-06 |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-27 | 2023-09-06 |
-| [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 | 2023-09-08 |  |
+| [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 | 2023-09-08 | 2023-10-24 |
+| [You Don't Even](https://open.spotify.com/track/6jTGHYU466eF0XxVOQuQMy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/1Vw2QQWVguHw3kTwCq3kaf) | 2:18 | 2023-10-20 |  |
 | [You Don't Ignore \(Too Late\)](https://open.spotify.com/track/2uWCpK3UYOCF4lDcE36XHM) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [You Don't Ignore \(Too Late\)](https://open.spotify.com/album/5zzxMokPf1XRxfM1n6NnFB) | 3:10 | 2023-07-27 | 2023-09-01 |
 
 \*This playlist was first scraped on 2023-07-29. Prior content cannot be recovered.

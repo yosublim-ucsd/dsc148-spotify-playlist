@@ -1,12 +1,12 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.com ",
-  "num_followers": 1857704,
+  "num_followers": 1857713,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmRkZWNiMDk2OGVhZjFmMTRiODc5YWVjNjU4NDVhOTM1MzYxMDg1",
+  "snapshot_id": "MCw5M2Q4MmVlMzU2OTZkOWVlYmIxZmFkNzg5NjY4YzdiNjZhYmE3ZGY0",
   "tracks": [
     {
       "added_at": "2023-10-13 01:34:23",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-10-13 01:34:23",
       "album": {
+        "name": "COCO LOCO",
+        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
+    },
+    {
+      "added_at": "2023-10-13 01:34:23",
+      "album": {
         "name": "Shakira: Bzrp Music Sessions, Vol. 53",
         "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
-    },
-    {
-      "added_at": "2023-10-13 01:34:23",
-      "album": {
-        "name": "COCO LOCO",
-        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166734,
-      "name": "COCO LOCO",
-      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
     },
     {
       "added_at": "2023-10-13 01:34:23",
@@ -239,22 +239,22 @@
     {
       "added_at": "2023-10-13 01:34:23",
       "album": {
-        "name": "Meet The Orphans",
-        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 198773,
-      "name": "Danza Kuduro",
-      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
+      "duration_ms": 203200,
+      "name": "LA NOCHE DE ANOCHE",
+      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
     },
     {
       "added_at": "2023-10-13 01:34:23",
@@ -295,26 +295,6 @@
     {
       "added_at": "2023-10-13 01:34:23",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "LA NOCHE DE ANOCHE",
-      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
-    },
-    {
-      "added_at": "2023-10-13 01:34:23",
-      "album": {
         "name": "Yandel 150",
         "url": "https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX"
       },
@@ -331,22 +311,6 @@
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g"
-    },
-    {
-      "added_at": "2023-10-13 01:34:23",
-      "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2023-10-13 01:34:23",
@@ -371,22 +335,18 @@
     {
       "added_at": "2023-10-13 01:34:23",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
       },
       "artists": [
         {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 168125,
-      "name": "Ella Perrea",
-      "url": "https://open.spotify.com/track/6BGjArXcJnxm5Uyp0O7050"
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2023-10-13 01:34:23",
@@ -415,6 +375,42 @@
       "duration_ms": 225600,
       "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
       "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
+    },
+    {
+      "added_at": "2023-10-13 01:34:23",
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 168125,
+      "name": "Ella Perrea",
+      "url": "https://open.spotify.com/track/6BGjArXcJnxm5Uyp0O7050"
+    },
+    {
+      "added_at": "2023-10-13 01:34:23",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Despu\u00e9s de la Playa",
+      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
     },
     {
       "added_at": "2023-10-13 01:34:23",
@@ -463,22 +459,6 @@
     {
       "added_at": "2023-10-13 01:34:23",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Despu\u00e9s de la Playa",
-      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
-    },
-    {
-      "added_at": "2023-10-13 01:34:23",
-      "album": {
         "name": "Funk Rave",
         "url": "https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 147201,
       "name": "Funk Rave",
       "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
+    },
+    {
+      "added_at": "2023-10-13 01:34:23",
+      "album": {
+        "name": "PUNTO 40",
+        "url": "https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        }
+      ],
+      "duration_ms": 190654,
+      "name": "PUNTO 40",
+      "url": "https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1"
     },
     {
       "added_at": "2023-10-13 01:34:23",
@@ -531,46 +531,6 @@
     {
       "added_at": "2023-10-13 01:34:23",
       "album": {
-        "name": "TRANSLATION",
-        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 222522,
-      "name": "GIRL LIKE ME",
-      "url": "https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m"
-    },
-    {
-      "added_at": "2023-10-13 01:34:23",
-      "album": {
-        "name": "PUNTO 40",
-        "url": "https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        }
-      ],
-      "duration_ms": 190654,
-      "name": "PUNTO 40",
-      "url": "https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1"
-    },
-    {
-      "added_at": "2023-10-13 01:34:23",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -591,26 +551,6 @@
       "duration_ms": 180040,
       "name": "OJOS FERRARI",
       "url": "https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o"
-    },
-    {
-      "added_at": "2023-10-13 01:34:23",
-      "album": {
-        "name": "In Da Getto",
-        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "In Da Getto",
-      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
     },
     {
       "added_at": "2023-10-13 01:34:23",
@@ -679,6 +619,26 @@
     {
       "added_at": "2023-10-13 01:34:23",
       "album": {
+        "name": "TRANSLATION",
+        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 222522,
+      "name": "GIRL LIKE ME",
+      "url": "https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m"
+    },
+    {
+      "added_at": "2023-10-13 01:34:23",
+      "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
       },
@@ -715,6 +675,26 @@
       "duration_ms": 232843,
       "name": "Los Aparatos",
       "url": "https://open.spotify.com/track/4b6KA8SAIvDy9wT12Emzfc"
+    },
+    {
+      "added_at": "2023-10-13 01:34:23",
+      "album": {
+        "name": "In Da Getto",
+        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "In Da Getto",
+      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
     },
     {
       "added_at": "2023-10-13 01:34:23",
@@ -867,26 +847,6 @@
     {
       "added_at": "2023-10-13 01:34:23",
       "album": {
-        "name": "Canci\u00f3n Bonita",
-        "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 169559,
-      "name": "Canci\u00f3n Bonita",
-      "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
-    },
-    {
-      "added_at": "2023-10-13 01:34:23",
-      "album": {
         "name": "BEACHY",
         "url": "https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id"
       },
@@ -903,6 +863,26 @@
       "duration_ms": 168000,
       "name": "BEACHY",
       "url": "https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW"
+    },
+    {
+      "added_at": "2023-10-13 01:34:23",
+      "album": {
+        "name": "Canci\u00f3n Bonita",
+        "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 169559,
+      "name": "Canci\u00f3n Bonita",
+      "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
     },
     {
       "added_at": "2023-10-13 01:34:23",
@@ -1079,6 +1059,22 @@
     {
       "added_at": "2023-10-13 01:34:23",
       "album": {
+        "name": "Que Tire Pa Lante",
+        "url": "https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Que Tire Pa Lante",
+      "url": "https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1"
+    },
+    {
+      "added_at": "2023-10-13 01:34:23",
+      "album": {
         "name": "AEIOU",
         "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
       },
@@ -1095,22 +1091,6 @@
       "duration_ms": 161880,
       "name": "AEIOU",
       "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
-    },
-    {
-      "added_at": "2023-10-13 01:34:23",
-      "album": {
-        "name": "Que Tire Pa Lante",
-        "url": "https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Que Tire Pa Lante",
-      "url": "https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1"
     },
     {
       "added_at": "2023-10-13 01:34:23",
@@ -1227,26 +1207,26 @@
     {
       "added_at": "2023-10-13 01:34:23",
       "album": {
-        "name": "PAM",
-        "url": "https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U"
+        "name": "Me Gusta (with Cardi B & Myke Towers)",
+        "url": "https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         },
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 201000,
-      "name": "PAM",
-      "url": "https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn"
+      "duration_ms": 180788,
+      "name": "Me Gusta (with Cardi B & Myke Towers)",
+      "url": "https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE"
     },
     {
       "added_at": "2023-10-13 01:34:23",
@@ -1271,26 +1251,26 @@
     {
       "added_at": "2023-10-13 01:34:23",
       "album": {
-        "name": "Me Gusta (with Cardi B & Myke Towers)",
-        "url": "https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd"
+        "name": "PAM",
+        "url": "https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         }
       ],
-      "duration_ms": 180788,
-      "name": "Me Gusta (with Cardi B & Myke Towers)",
-      "url": "https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE"
+      "duration_ms": 201000,
+      "name": "PAM",
+      "url": "https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn"
     },
     {
       "added_at": "2023-10-13 01:34:23",
@@ -1331,6 +1311,26 @@
       "duration_ms": 145349,
       "name": "No Pinto Pajaritos",
       "url": "https://open.spotify.com/track/3uvgwwqNvWHc7S32PvPD7r"
+    },
+    {
+      "added_at": "2023-10-13 01:34:23",
+      "album": {
+        "name": "Baloncito Viejo",
+        "url": "https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 170862,
+      "name": "Baloncito Viejo",
+      "url": "https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN"
     }
   ],
   "unique_name": "Zumba\u00ae Beats",

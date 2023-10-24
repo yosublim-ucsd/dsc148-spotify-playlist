@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: MilleniumKid, JBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,798 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,947 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vielleicht Vielleicht](https://open.spotify.com/track/559mLg44MrcA7JzYGbpXfL) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Vielleicht Vielleicht](https://open.spotify.com/album/3xunU89Mwwaw3gbwwLg0BX) | 2:22 |
 | 2 | [Utopie](https://open.spotify.com/track/5dEk2G5Cdklq7eZFCrTIkm) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Utopie](https://open.spotify.com/album/7k8u3WFdC2fHOmp9VWsC2E) | 2:43 |
-| 3 | [Kein Bock](https://open.spotify.com/track/3WjaL0f86f9rS3VYTC8x49) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Kein Bock](https://open.spotify.com/album/343ldWBHF7KtOJgDg4JnEc) | 2:44 |
-| 4 | [tisch für zwei](https://open.spotify.com/track/3YcKmJbc2OvL9RN2c6LJal) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [tisch für zwei](https://open.spotify.com/album/5iBIHBdTsKFtxsxZYNRaQg) | 2:54 |
-| 5 | [SOLANGE DAS NOCH GEHT](https://open.spotify.com/track/0zDRwSwqTdKzFjq8L9VxgC) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [F\*CK you](https://open.spotify.com/album/2qvrRdgLyWmYEevD9FH7mH) | 2:21 |
-| 6 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 |
-| 7 | [Mann vom Fach](https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [Mann vom Fach](https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF) | 2:40 |
+| 3 | [tisch für zwei](https://open.spotify.com/track/3YcKmJbc2OvL9RN2c6LJal) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [tisch für zwei](https://open.spotify.com/album/5iBIHBdTsKFtxsxZYNRaQg) | 2:54 |
+| 4 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 |
+| 5 | [Kein Bock](https://open.spotify.com/track/3WjaL0f86f9rS3VYTC8x49) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Kein Bock](https://open.spotify.com/album/343ldWBHF7KtOJgDg4JnEc) | 2:44 |
+| 6 | [Mann vom Fach](https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [Mann vom Fach](https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF) | 2:40 |
+| 7 | [SOLANGE DAS NOCH GEHT](https://open.spotify.com/track/0zDRwSwqTdKzFjq8L9VxgC) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [F\*CK you](https://open.spotify.com/album/2qvrRdgLyWmYEevD9FH7mH) | 2:21 |
 | 8 | [schwarze SUVs](https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [schwarze SUVs](https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2) | 2:49 |
-| 9 | [aus meiner haut](https://open.spotify.com/track/6jox6CN7tl8zzbacsgGczq) | [Trille](https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h) | [aus meiner haut](https://open.spotify.com/album/6h9M1nIcNDsRo62ozYGvUi) | 3:28 |
-| 10 | [Ostberlin](https://open.spotify.com/track/1gXhckm6aRXlfiGVhtVoIf) | [JUPYTER](https://open.spotify.com/artist/4rmUcQqtKz1NLA2f23W041) | [Ostberlin](https://open.spotify.com/album/6USNhwFlCTbCw2nXNwdila) | 3:22 |
-| 11 | [Mensch](https://open.spotify.com/track/1lBMr23YxosiMyKhVeRIJB) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also bin ich](https://open.spotify.com/album/0HICsKReOoeoblyeiLClEd) | 2:50 |
+| 9 | [Ostberlin](https://open.spotify.com/track/1gXhckm6aRXlfiGVhtVoIf) | [JUPYTER](https://open.spotify.com/artist/4rmUcQqtKz1NLA2f23W041) | [Ostberlin](https://open.spotify.com/album/6USNhwFlCTbCw2nXNwdila) | 3:22 |
+| 10 | [Mensch](https://open.spotify.com/track/1lBMr23YxosiMyKhVeRIJB) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also bin ich](https://open.spotify.com/album/0HICsKReOoeoblyeiLClEd) | 2:50 |
+| 11 | [aus meiner haut](https://open.spotify.com/track/6jox6CN7tl8zzbacsgGczq) | [Trille](https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h) | [aus meiner haut](https://open.spotify.com/album/6h9M1nIcNDsRo62ozYGvUi) | 3:28 |
 | 12 | [Schlaf gut](https://open.spotify.com/track/1gUDyPpx99jRTVgSvrWEjl) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Schlaf gut](https://open.spotify.com/album/1Swdd6ktgwOrIYVCk3v4m7) | 3:21 |
 | 13 | [Alles unter groß ist mir zu klein](https://open.spotify.com/track/5H5JWvy5SbbP8vCZzdbW9Y) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8), [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Alles unter groß ist mir zu klein](https://open.spotify.com/album/6na6llxlIChpuvqxUidYoB) | 2:37 |
 | 14 | [egal](https://open.spotify.com/track/70VQ7qsKBUhzWgRhQUcc3X) | [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [egal](https://open.spotify.com/album/2GL4mUcEoAN3bwbaURkSRR) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [berlin night life](https://open.spotify.com/track/2ZmE6SXMTsHpcbR14awchh) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [berlin night life](https://open.spotify.com/album/7uuaGrUECPqIhVe4P7tlP0) | 3:03 |
 | 75 | [Shots](https://open.spotify.com/track/3SZ0pzEWeUTMvF2b9e5ak6) | [YRRRE](https://open.spotify.com/artist/1wwT1eZWyAjVXbb1qpzEVC) | [Shots](https://open.spotify.com/album/6ozSYOUv2z9a2NLyONFNnb) | 2:59 |
 
-Snapshot ID: `MCxiYjI1NDU3MGY2MjA4MzY3NzhiOTU4MjkxMTBhOWQ3NTc0OTY5ZDhm`
+Snapshot ID: `MCw4M2UwYjIzYjA2YWQ1OGU2MTU1ZjkxODAyOTE4MjU4YjM5ZWMyYWM0`

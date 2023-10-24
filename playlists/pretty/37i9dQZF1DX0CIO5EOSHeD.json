@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Yot Club & Jordana",
-  "num_followers": 457232,
+  "num_followers": 457357,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmM3NjkxYWY4Mjc0NmM4OGJjMDBmYmFiMTk5YWQxMDdkOWI5ZDM3",
+  "snapshot_id": "MCwxNTY0YjQyMzc3ZDI0ZTE1NjU1MDljODY5ZjNiMWE4OTczYTI4ODE0",
   "tracks": [
     {
       "added_at": "2023-09-15 12:36:22",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 122338,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
         "name": "Songs of Her's",
         "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
       },
@@ -155,38 +171,6 @@
       "duration_ms": 90323,
       "name": "Vas",
       "url": "https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "YKWIM?",
-      "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 122338,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -223,6 +207,22 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "YKWIM?",
+      "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
         "name": "Jinx",
         "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
       },
@@ -255,6 +255,26 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
+        "name": "Mulholland Drive",
+        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        }
+      ],
+      "duration_ms": 153312,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
         "name": "dc snuff film / waste yrself",
         "url": "https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 309000,
       "name": "Answering Machine",
       "url": "https://open.spotify.com/track/3boC2M1D82RuRJhUOkSHtg"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
-        "name": "Mulholland Drive",
-        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Dent May",
-          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
-        }
-      ],
-      "duration_ms": 153312,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
+        "name": "Good Morning It's Now Tomorrow",
+        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 191527,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
-        "name": "Good Morning It's Now Tomorrow",
-        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Inner World Peace",
-        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 155609,
-      "name": "One Year Stand",
-      "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "Body Jumper",
         "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 167126,
       "name": "I Like You",
       "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Inner World Peace",
+        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 155609,
+      "name": "One Year Stand",
+      "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Fade",
-        "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
-      },
-      "artists": [
-        {
-          "name": "Launder",
-          "url": "https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh"
-        }
-      ],
-      "duration_ms": 203444,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "it only gets worse, i promise",
-        "url": "https://open.spotify.com/album/361dxLkzUSAyH159ZtXUUj"
+        "name": "Fade",
+        "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "Launder",
+          "url": "https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh"
         }
       ],
-      "duration_ms": 154640,
-      "name": "it only gets worse, i promise",
-      "url": "https://open.spotify.com/track/3Y1iVG5c7me95XqqFZY97x"
+      "duration_ms": 203444,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -967,6 +951,22 @@
       "duration_ms": 153234,
       "name": "Her Sinking Sun",
       "url": "https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "it only gets worse, i promise",
+        "url": "https://open.spotify.com/album/361dxLkzUSAyH159ZtXUUj"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 154640,
+      "name": "it only gets worse, i promise",
+      "url": "https://open.spotify.com/track/3Y1iVG5c7me95XqqFZY97x"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
+        "name": "Mulholland Drive",
+        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Bee Eyes",
+          "url": "https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf"
+        }
+      ],
+      "duration_ms": 163709,
+      "name": "Midnight on a Sunny Day",
+      "url": "https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
         "name": "PAINLESS",
         "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 223186,
       "name": "Desire",
       "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
-        "name": "Mulholland Drive",
-        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Bee Eyes",
-          "url": "https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf"
-        }
-      ],
-      "duration_ms": 163709,
-      "name": "Midnight on a Sunny Day",
-      "url": "https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Plastic Envelope / Protect Him Always",
-        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Plastic Envelope",
-      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "AHH!!",
         "url": "https://open.spotify.com/album/3DLP1NdK5qoxL5khIxYy0d"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 85956,
       "name": "home:so long",
       "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Plastic Envelope / Protect Him Always",
+        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Plastic Envelope",
+      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Forever at Last",
-        "url": "https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7"
-      },
-      "artists": [
-        {
-          "name": "HighSchool",
-          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "New York, Paris and London",
-      "url": "https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 237398,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Forever at Last",
+        "url": "https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7"
+      },
+      "artists": [
+        {
+          "name": "HighSchool",
+          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "New York, Paris and London",
+      "url": "https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
+        "name": "The Gaping Mouth",
+        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "duration_ms": 219010,
+      "name": "Seaface",
+      "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
         "name": "Didn't Want to Go",
         "url": "https://open.spotify.com/album/4nWF9Pb0K2ehvZhP34aDg4"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 129940,
       "name": "Didn't Want to Go",
       "url": "https://open.spotify.com/track/02TXGl2KRQ7e5sPydK4nX9"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
-        "name": "The Gaping Mouth",
-        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
-      },
-      "artists": [
-        {
-          "name": "Lowertown",
-          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
-        }
-      ],
-      "duration_ms": 219010,
-      "name": "Seaface",
-      "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Let It Pass",
-        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Priest",
-          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
-        }
-      ],
-      "duration_ms": 268909,
-      "name": "Let It Pass",
-      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/3j4P5XClGIWJhnXT6NTix2"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 215580,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/3LuvpnAcuxPn2dV00C9Rxt"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Let It Pass",
+        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
+        }
+      ],
+      "duration_ms": 268909,
+      "name": "Let It Pass",
+      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
     },
     {
       "added_at": "2023-09-15 12:36:22",

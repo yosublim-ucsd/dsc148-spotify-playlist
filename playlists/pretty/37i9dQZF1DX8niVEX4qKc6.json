@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Silvina Moreno",
-  "num_followers": 178320,
+  "num_followers": 178336,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDc4MmRkNzQxMjdiNTk1MmVlNDEzZGIzZmRhY2Y0M2VjNzhjODQ4",
+  "snapshot_id": "MCwyN2NjMmIxMTI2NWFjNDk2NjA0YTVjODQwYjg3NjNkMGZjMjVhZDJi",
   "tracks": [
     {
       "added_at": "2023-09-29 03:00:00",
@@ -363,38 +363,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Canciones Elegidas 93-04",
-        "url": "https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 149880,
-      "name": "Tu Locura",
-      "url": "https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
       },
@@ -411,6 +379,22 @@
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -435,18 +419,18 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+        "name": "Canciones Elegidas 93-04",
+        "url": "https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 294146,
-      "name": "Entre Canibales - MTV Unplugged",
-      "url": "https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf"
+      "duration_ms": 149880,
+      "name": "Tu Locura",
+      "url": "https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -463,6 +447,22 @@
       "duration_ms": 251853,
       "name": "Agua Marfil",
       "url": "https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 294146,
+      "name": "Entre Canibales - MTV Unplugged",
+      "url": "https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Guerras (Un Viaje en el Tiempo)",
+        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 246858,
+      "name": "Tan Solo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5YvShwXtxESCHIPNs0xGxW"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Serotonina",
         "url": "https://open.spotify.com/album/5Tqt0IhJRkRnUzpI8MxSLk"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 186272,
       "name": "Serotonina",
       "url": "https://open.spotify.com/track/6mvzF3fcRrS231G8yN3BaN"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Guerras (Un Viaje en el Tiempo)",
-        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 246858,
-      "name": "Tan Solo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/5YvShwXtxESCHIPNs0xGxW"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "PITADA",
-        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        }
-      ],
-      "duration_ms": 243185,
-      "name": "Pitada",
-      "url": "https://open.spotify.com/track/2IAfP9ex8Vv70VESb0D3C0"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Musikita del Cielo",
         "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "No me pidas que no sea un inconsciente",
-        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
+        "name": "PITADA",
+        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
       },
       "artists": [
         {
-          "name": "Sir Hope",
-          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
         }
       ],
-      "duration_ms": 133859,
-      "name": "No me pidas que no sea un inconsciente",
-      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
+      "duration_ms": 243185,
+      "name": "Pitada",
+      "url": "https://open.spotify.com/track/2IAfP9ex8Vv70VESb0D3C0"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 134888,
       "name": "Todas las Flores de Enero",
       "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "No me pidas que no sea un inconsciente",
+        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
+      },
+      "artists": [
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        }
+      ],
+      "duration_ms": 133859,
+      "name": "No me pidas que no sea un inconsciente",
+      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "sin miedo // acoustic",
+        "url": "https://open.spotify.com/album/1E7wN2lvLdZmoAmIXmPtRd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 189283,
+      "name": "fue mejor // acoustic",
+      "url": "https://open.spotify.com/track/2RjrsjKraJjQUYdCYQ30ap"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Ojos de R\u00edo",
         "url": "https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM"
       },
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "sin miedo // acoustic",
-        "url": "https://open.spotify.com/album/1E7wN2lvLdZmoAmIXmPtRd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 189283,
-      "name": "fue mejor // acoustic",
-      "url": "https://open.spotify.com/track/2RjrsjKraJjQUYdCYQ30ap"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "De Musica Ligera",
         "url": "https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK"
       },
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Dije Que No Me Iba a Enamorar",
-        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 152520,
-      "name": "Tan Bien",
-      "url": "https://open.spotify.com/track/6CpH8zZLNEXLP0hGEMdKnu"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 250573,
       "name": "Deja de Pedir Perd\u00f3n - MTV Unplugged",
       "url": "https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Dije Que No Me Iba a Enamorar",
+        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 152520,
+      "name": "Tan Bien",
+      "url": "https://open.spotify.com/track/6CpH8zZLNEXLP0hGEMdKnu"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Desapego",
+        "url": "https://open.spotify.com/album/0MPnc6VlU541t0tzoHqbxi"
+      },
+      "artists": [
+        {
+          "name": "Purahei Soul",
+          "url": "https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p"
+        }
+      ],
+      "duration_ms": 218827,
+      "name": "Desapego",
+      "url": "https://open.spotify.com/track/6PscXiZTVBaoEzDAMr46uN"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Flotando (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 198405,
       "name": "Oma",
       "url": "https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Desapego",
-        "url": "https://open.spotify.com/album/0MPnc6VlU541t0tzoHqbxi"
-      },
-      "artists": [
-        {
-          "name": "Purahei Soul",
-          "url": "https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p"
-        }
-      ],
-      "duration_ms": 218827,
-      "name": "Desapego",
-      "url": "https://open.spotify.com/track/6PscXiZTVBaoEzDAMr46uN"
     },
     {
       "added_at": "2023-09-29 03:00:00",

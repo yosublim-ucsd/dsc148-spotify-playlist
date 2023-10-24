@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 14023,
+  "num_followers": 14031,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDA4NWExYjRhOWVjNTM1OGIzM2Q3ZWExZDgzNTBlN2QyMmNlYmQx",
+  "snapshot_id": "MCwxOGVjODM4OTNkYzQyNzVmZDBkZjc4NjRmMjRhYzMyZTA5NGUwYzM1",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -123,18 +123,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Archive From 1959 - The Billy Childish Story",
-        "url": "https://open.spotify.com/album/3rdtnzccCDiymdgpMXYfrb"
+        "name": "Acme",
+        "url": "https://open.spotify.com/album/48ntDGYHTJIyCtCB6znUQq"
       },
       "artists": [
         {
-          "name": "Thee Headcoats",
-          "url": "https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe"
+          "name": "The Jon Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
         }
       ],
-      "duration_ms": 175440,
-      "name": "Davy Crockett",
-      "url": "https://open.spotify.com/track/31YjnyR8BJphQKK33Rm1wD"
+      "duration_ms": 182840,
+      "name": "Calvin",
+      "url": "https://open.spotify.com/track/5ytqlD1Nwaf1dxvPDUKQeA"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -155,34 +155,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Acme",
-        "url": "https://open.spotify.com/album/48ntDGYHTJIyCtCB6znUQq"
+        "name": "Archive From 1959 - The Billy Childish Story",
+        "url": "https://open.spotify.com/album/3rdtnzccCDiymdgpMXYfrb"
       },
       "artists": [
         {
-          "name": "The Jon Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+          "name": "Thee Headcoats",
+          "url": "https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe"
         }
       ],
-      "duration_ms": 182840,
-      "name": "Calvin",
-      "url": "https://open.spotify.com/track/5ytqlD1Nwaf1dxvPDUKQeA"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Moanin'",
-        "url": "https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7"
-      },
-      "artists": [
-        {
-          "name": "Mr. Airplane Man",
-          "url": "https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP"
-        }
-      ],
-      "duration_ms": 210233,
-      "name": "Commit a Crime",
-      "url": "https://open.spotify.com/track/2rmPVmO9hOrLi8dBNd5MEQ"
+      "duration_ms": 175440,
+      "name": "Davy Crockett",
+      "url": "https://open.spotify.com/track/31YjnyR8BJphQKK33Rm1wD"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -203,6 +187,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Moanin'",
+        "url": "https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7"
+      },
+      "artists": [
+        {
+          "name": "Mr. Airplane Man",
+          "url": "https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP"
+        }
+      ],
+      "duration_ms": 210233,
+      "name": "Commit a Crime",
+      "url": "https://open.spotify.com/track/2rmPVmO9hOrLi8dBNd5MEQ"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Midnight Soul Serenade",
         "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
       },
@@ -215,22 +215,6 @@
       "duration_ms": 177546,
       "name": "Good Man",
       "url": "https://open.spotify.com/track/0waxvHiyOCqyR40SRPPaHx"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 160506,
-      "name": "The Way I Walk",
-      "url": "https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -251,6 +235,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Popular Favorites",
+        "url": "https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M"
+      },
+      "artists": [
+        {
+          "name": "Oblivians",
+          "url": "https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi"
+        }
+      ],
+      "duration_ms": 119026,
+      "name": "Christina",
+      "url": "https://open.spotify.com/track/7ah8dRCjJFGCWstleG0PpD"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "I Know You Be Houserockin'",
         "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
       },
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Popular Favorites",
-        "url": "https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M"
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
       "artists": [
         {
-          "name": "Oblivians",
-          "url": "https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi"
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
         }
       ],
-      "duration_ms": 119026,
-      "name": "Christina",
-      "url": "https://open.spotify.com/track/7ah8dRCjJFGCWstleG0PpD"
+      "duration_ms": 160506,
+      "name": "The Way I Walk",
+      "url": "https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Fire of Love (Remastered 2020)",
-        "url": "https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu"
-      },
-      "artists": [
-        {
-          "name": "The Gun Club",
-          "url": "https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn"
-        }
-      ],
-      "duration_ms": 157995,
-      "name": "Promise Me - Remastered 2020",
-      "url": "https://open.spotify.com/track/620oK7tMifgGBddA6gsGli"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "I Know You Be Houserockin'",
         "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 186093,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Fire of Love (Remastered 2020)",
+        "url": "https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu"
+      },
+      "artists": [
+        {
+          "name": "The Gun Club",
+          "url": "https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn"
+        }
+      ],
+      "duration_ms": 157995,
+      "name": "Promise Me - Remastered 2020",
+      "url": "https://open.spotify.com/track/620oK7tMifgGBddA6gsGli"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "I Know You Be Houserockin'",
+        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
+      },
+      "artists": [
+        {
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Early in the Morning",
+      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Ultraglide In Black",
         "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Popular Favorites",
-        "url": "https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M"
-      },
-      "artists": [
-        {
-          "name": "Oblivians",
-          "url": "https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi"
-        }
-      ],
-      "duration_ms": 319893,
-      "name": "Do the Milkshake",
-      "url": "https://open.spotify.com/track/0NlwS6WOV4gfDRXTFBGNlR"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Beware the Ides of March",
         "url": "https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 131039,
       "name": "You'll Be Sorry Now",
       "url": "https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Popular Favorites",
+        "url": "https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M"
+      },
+      "artists": [
+        {
+          "name": "Oblivians",
+          "url": "https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi"
+        }
+      ],
+      "duration_ms": 319893,
+      "name": "Do the Milkshake",
+      "url": "https://open.spotify.com/track/0NlwS6WOV4gfDRXTFBGNlR"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -551,22 +567,6 @@
       "duration_ms": 204320,
       "name": "Isolation",
       "url": "https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "I Know You Be Houserockin'",
-        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
-      },
-      "artists": [
-        {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Early in the Morning",
-      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
+      },
+      "artists": [
+        {
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "(Sometimes You Got to Be) Gentle",
+      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Whatcha Doin'",
         "url": "https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 130000,
       "name": "Michigan Blues",
       "url": "https://open.spotify.com/track/5jPqW9HWJLarocC2z8vkrP"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
-      },
-      "artists": [
-        {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "(Sometimes You Got to Be) Gentle",
-      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
     },
     {
       "added_at": "2022-03-28 20:14:58",

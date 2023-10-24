@@ -4,11 +4,12 @@
 
 > Listen to music from and inspired by You Are So Not Invited To My Bat Mitzvah, now streaming on Netflix.
 
-55 songs - 2 hr 17 min
+56 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10 Things I Hate About You](https://open.spotify.com/track/4qSNyT6AYLoaKHdfJWD37I) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/6BIgqvMHvW2XgnUs0cnu7x) | 2:37 | 2023-09-01 |  |
+| [10 Things I Hate About You](https://open.spotify.com/track/38LgZDMTGl4l3xFmiXlgZx) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/4cYlVwJn4rgLeb1X8SrfAW) | 2:37 | 2023-09-01 |  |
+| [10 Things I Hate About You](https://open.spotify.com/track/4qSNyT6AYLoaKHdfJWD37I) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/6BIgqvMHvW2XgnUs0cnu7x) | 2:37 | 2023-09-01 | 2023-10-24 |
 | [10 Things I Hate About You](https://open.spotify.com/track/6lo0mUw0JbYs2L4STNq9x8) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/3kZdrOt2V1vbXYuKxlc5b3) | 2:37 | 2023-08-25 | 2023-10-23 |
 | [A Little Bit of Love](https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [A Little Bit of Love](https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge) | 2:44 | 2023-08-25 |  |
 | [A Very Special Day](https://open.spotify.com/track/2Zd582pk2Q6joh9HEIecSN) | [Amanda Yamate](https://open.spotify.com/artist/01uLTa1JqRkIr7pEaXWYgJ), [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc) | [You Are So Not Invited To My Bat Mitzvah \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1gTxtkA8cZLys95UB3xUtl) | 1:15 | 2023-08-25 |  |

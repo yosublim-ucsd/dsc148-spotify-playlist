@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-808 songs - 1 day 22 hr 34 min
+809 songs - 1 day 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,7 +577,7 @@
 | [Red \(Taylor's Version\)](https://open.spotify.com/track/4OAuvHryIVv4kMDNSLuPt6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:43 | 2021-11-14 | 2021-11-21 |
 | [Reflection](https://open.spotify.com/track/5Hkj927A3CCy6Xymg9Z2Br) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Greatest Works of Art](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:54 | 2022-07-16 | 2022-07-18 |
 | [Reminder](https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:38 | 2023-02-25 | 2023-05-06 |
-| [Retak Hatiku](https://open.spotify.com/track/2yMJuPe0zsr8bxjEY3dZTi) | [Iera Milpan](https://open.spotify.com/artist/5zz4cBU2JXvmlgFuiCmiPI) | [Retak Hatiku](https://open.spotify.com/album/0mT3VnoXzEFUJWCTOSXUe6) | 4:12 | 2023-08-11 |  |
+| [Retak Hatiku](https://open.spotify.com/track/2yMJuPe0zsr8bxjEY3dZTi) | [Iera Milpan](https://open.spotify.com/artist/5zz4cBU2JXvmlgFuiCmiPI) | [Retak Hatiku](https://open.spotify.com/album/0mT3VnoXzEFUJWCTOSXUe6) | 4:12 | 2023-08-11 | 2023-10-24 |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 | 2022-11-15 |
 | [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 | 2022-04-02 | 2022-05-21 |
 | [RIP, Love](https://open.spotify.com/track/4pDenOoD01LCPgkzJgu437) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [CITIZENS](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) | 2:53 | 2022-05-20 | 2022-06-01 |
@@ -775,6 +775,7 @@
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2023-05-10 | 2023-05-24 |
 | [WA DA DA](https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA) | 3:03 | 2022-01-05 | 2022-03-25 |
 | [Warna Warni Aidilfitri](https://open.spotify.com/track/4kRD8eEDO8Fb0mCpCErrfu) | [Nyanyian Ramai](https://open.spotify.com/artist/5GcHlX35KE7BMgZzvb78CX) | [Satu Hari Di Hari Raya](https://open.spotify.com/album/72KRrZJF2AxljhkcLhy0Ab) | 4:48 | 2021-05-12 | 2023-04-25 |
+| [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-10-23 |  |
 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 | 2021-09-05 | 2021-09-08 |
 | [We Are Never Ever Getting Back Together \(Taylor's Version\)](https://open.spotify.com/track/31CdkzHnMbvJuKZvtCQfR6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 3:13 | 2021-11-14 | 2021-11-14 |
 | [We Are Never Ever Getting Back Together \(Taylor's Version\)](https://open.spotify.com/track/5YqltLsjdqFtvqE7Nrysvs) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:13 | 2021-11-14 | 2021-11-16 |

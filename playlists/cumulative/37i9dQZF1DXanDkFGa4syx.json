@@ -808,7 +808,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -1629,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234546,
+      "name": "I Lived",
+      "url": "https://open.spotify.com/track/3IQF4xCQUPicbA4hWfTxPo"
+    },
+    {
+      "album": {
         "name": "At Night, Alone.",
         "url": "https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO"
       },
@@ -1820,7 +1838,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 242733,
-      "name": "Just Give Me a Reason",
+      "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
     },
     {

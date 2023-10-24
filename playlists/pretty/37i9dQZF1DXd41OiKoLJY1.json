@@ -1,13 +1,297 @@
 {
-  "description": "Fresh releases from your future favorite artists. Cover: Paolo Agudelo  Artwork: Isu Kim\n",
-  "num_followers": 57279,
+  "description": "Fresh releases from your future favorite artists. Cover: SHANNi  Artwork: Isu Kim\n",
+  "num_followers": 57318,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2E4YzJiOTUwYjBjNWJmOWYyZTUyZDNhY2MzNjk1ZGQ5MDk3YTI3",
+  "snapshot_id": "MCxiYWRhZGUwMTAxNTAyNDRlZjViNjgzZGFiZGUwMzM3ZTNlNzE4ZTk1",
   "tracks": [
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
+        "name": "LAST OF ME",
+        "url": "https://open.spotify.com/album/6za3cJSTEss4zdrmljZflc"
+      },
+      "artists": [
+        {
+          "name": "AFTR PRTY",
+          "url": "https://open.spotify.com/artist/4JqP7zcgx5OC4K4kRDb7XQ"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "LAST OF ME",
+      "url": "https://open.spotify.com/track/1Vms0RQhLurobf07101Xkp"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
+        "name": "sa panaginip",
+        "url": "https://open.spotify.com/album/6O4lWi4gaFEk6l0snce1ea"
+      },
+      "artists": [
+        {
+          "name": "SHANNi",
+          "url": "https://open.spotify.com/artist/46rXMWiYqSYCwidbAAWPTp"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "sa panaginip",
+      "url": "https://open.spotify.com/track/0RxP5CGnxmfu6FqbNkANbi"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
+        "name": "Same Ground",
+        "url": "https://open.spotify.com/album/57ixBNu71U56E9NJ5JRX60"
+      },
+      "artists": [
+        {
+          "name": "Rangel",
+          "url": "https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi"
+        }
+      ],
+      "duration_ms": 202033,
+      "name": "Same Ground",
+      "url": "https://open.spotify.com/track/5ghwi50zKaBUuWoSA1tPCw"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
+        "name": "Stella",
+        "url": "https://open.spotify.com/album/13sDdArLvmtnpdrrYyx65r"
+      },
+      "artists": [
+        {
+          "name": "Kite",
+          "url": "https://open.spotify.com/artist/1ycsFEXcac5tk7EOVMuQeu"
+        }
+      ],
+      "duration_ms": 185491,
+      "name": "Stella",
+      "url": "https://open.spotify.com/track/1COeDNI07ox9uEaiVwJeK6"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/2Rm9998ndrXtjXvhFEeMk3"
+      },
+      "artists": [
+        {
+          "name": "Bre\u0113",
+          "url": "https://open.spotify.com/artist/5dw8ejHVfSDig5NlMJ5ON4"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/3hmD2yzYqzAdA9ubk6cqoq"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
+        "name": "Make You Feel Better",
+        "url": "https://open.spotify.com/album/3MLmVB2tKswFRdi85q140M"
+      },
+      "artists": [
+        {
+          "name": "MI MI",
+          "url": "https://open.spotify.com/artist/33zZ2KDzkPeAYMjFtRwo9x"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Make You Feel Better",
+      "url": "https://open.spotify.com/track/1JzWVJoYH2B8mZtyI6dkvH"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
+        "name": "OTW",
+        "url": "https://open.spotify.com/album/10csdGOyI0vgFYqdclFJ5O"
+      },
+      "artists": [
+        {
+          "name": "Karlito's Way",
+          "url": "https://open.spotify.com/artist/4PIIxQWQOcftr29crzt5Jg"
+        }
+      ],
+      "duration_ms": 202020,
+      "name": "OTW",
+      "url": "https://open.spotify.com/track/5LMLDzrqCCZJdTNXbu4WHz"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
+        "name": "Ain't Easy",
+        "url": "https://open.spotify.com/album/5ueMuaD7LtMEDiJMVXcWkN"
+      },
+      "artists": [
+        {
+          "name": "KPC",
+          "url": "https://open.spotify.com/artist/38bPbvvWC0Le02oOntVqeJ"
+        },
+        {
+          "name": "Jake sue",
+          "url": "https://open.spotify.com/artist/4pHJMjb8iXM90sJDbOaxf2"
+        },
+        {
+          "name": "DAEYN",
+          "url": "https://open.spotify.com/artist/40E3gWf7czsVotPAUNJNu6"
+        }
+      ],
+      "duration_ms": 184660,
+      "name": "Ain't Easy",
+      "url": "https://open.spotify.com/track/0wbgKoI67ggOFEWGrVDihr"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
+        "name": "Paraan",
+        "url": "https://open.spotify.com/album/0pgliEt760xPu5IFAIkWEH"
+      },
+      "artists": [
+        {
+          "name": "Felixxx",
+          "url": "https://open.spotify.com/artist/3biDNHYKyXIitZUQj0SWqW"
+        }
+      ],
+      "duration_ms": 175930,
+      "name": "Paraan",
+      "url": "https://open.spotify.com/track/1RxfmVpQs5e3tzAsxOxLi5"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
+        "name": "Sapak sa Panga",
+        "url": "https://open.spotify.com/album/67fqDzcByv8nLAQwtJGBoB"
+      },
+      "artists": [
+        {
+          "name": "Railkid",
+          "url": "https://open.spotify.com/artist/4xGE5EkZZHpcM0JJyeXj81"
+        },
+        {
+          "name": "Six The Northstar",
+          "url": "https://open.spotify.com/artist/5iVUAvHkhAZqJ1yTsMqJ5V"
+        }
+      ],
+      "duration_ms": 164005,
+      "name": "Sapak sa Panga",
+      "url": "https://open.spotify.com/track/5nhhzm57ecEH6JbCzszIRg"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
+        "name": "Kamusta",
+        "url": "https://open.spotify.com/album/3KxRFbItwy9TkKJ7OWtw3e"
+      },
+      "artists": [
+        {
+          "name": "El Cide",
+          "url": "https://open.spotify.com/artist/1Fx6Wp6qSvlwFcsv3DZusB"
+        }
+      ],
+      "duration_ms": 188700,
+      "name": "Kamusta",
+      "url": "https://open.spotify.com/track/6SLhGu5vxtE1df3TO6Xhub"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
+        "name": "Mean Young Freestyle",
+        "url": "https://open.spotify.com/album/2BKK6UM6p7R03NYGYsJNGO"
+      },
+      "artists": [
+        {
+          "name": "Grhym3z",
+          "url": "https://open.spotify.com/artist/4lxNxQiwKG1jUewO2yzSGM"
+        },
+        {
+          "name": "zeze",
+          "url": "https://open.spotify.com/artist/2sLAlctHm3wUT7Cybo19Wr"
+        }
+      ],
+      "duration_ms": 167157,
+      "name": "Mean Young Freestyle",
+      "url": "https://open.spotify.com/track/4EqWZ3CrcImk4WlNwcp9Pk"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
+        "name": "Her Eyes",
+        "url": "https://open.spotify.com/album/3O2XtDCiCjGWfK8PzSs36P"
+      },
+      "artists": [
+        {
+          "name": "Jnuzh",
+          "url": "https://open.spotify.com/artist/7HyJFrpVIEYmf2tRMVU8hk"
+        },
+        {
+          "name": "VVNILLA",
+          "url": "https://open.spotify.com/artist/77GOFfG6ibHi4EHpJkvUU7"
+        },
+        {
+          "name": "Soulthrll (Justin Velez Palomares)",
+          "url": "https://open.spotify.com/artist/3iCnoy3MELLHauJEiYQMma"
+        }
+      ],
+      "duration_ms": 141212,
+      "name": "Her Eyes",
+      "url": "https://open.spotify.com/track/0DEO9pvHswP2SuzinxZgz6"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
+        "name": "Infatuation & Drugs",
+        "url": "https://open.spotify.com/album/7aIrUrM4dFIFnPh6ixWF1n"
+      },
+      "artists": [
+        {
+          "name": "Jaycee",
+          "url": "https://open.spotify.com/artist/6hqwFxbM46meGnLDVPO7O0"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Pobla Freestyle",
+      "url": "https://open.spotify.com/track/4iQdfb2xsAp2tp791Zo48M"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
+        "name": "Di tayo talo",
+        "url": "https://open.spotify.com/album/57DC8qqArhmmzyeTv2AADn"
+      },
+      "artists": [
+        {
+          "name": "deyo",
+          "url": "https://open.spotify.com/artist/5bF9hgr4Q88TwENK5D32Vq"
+        },
+        {
+          "name": "Lance A",
+          "url": "https://open.spotify.com/artist/0fdCjtR1V4tSbkShNAXeNq"
+        }
+      ],
+      "duration_ms": 181125,
+      "name": "Di tayo talo",
+      "url": "https://open.spotify.com/track/2e0dh3IeEiCmyCr6GZXjLT"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
+        "name": "chismosa",
+        "url": "https://open.spotify.com/album/4iOFJ2pvYhaBVsbUe859AO"
+      },
+      "artists": [
+        {
+          "name": "buko boys",
+          "url": "https://open.spotify.com/artist/3PTYbD85yltYmaEDe45nSa"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "chismosa",
+      "url": "https://open.spotify.com/track/1c4VEnyKZplsJ5ANtcanTK"
+    },
     {
       "added_at": "2023-10-12 16:00:00",
       "album": {
@@ -52,7 +336,7 @@
       },
       "artists": [
         {
-          "name": "Ultraviolet",
+          "name": "ULTRAVIOLET",
           "url": "https://open.spotify.com/artist/3P0lmdEF8uBGXjCyonbKrl"
         }
       ],
@@ -360,7 +644,7 @@
           "url": "https://open.spotify.com/artist/7wuV7nxsIsWC0UBbDDBR6R"
         }
       ],
-      "duration_ms": 192000,
+      "duration_ms": 189000,
       "name": "Ayoko Na",
       "url": "https://open.spotify.com/track/2BwIseOuuRAR3x5NJ2xGYv"
     },
@@ -1031,246 +1315,6 @@
       "duration_ms": 315675,
       "name": "Turn Me Into Sin",
       "url": "https://open.spotify.com/track/0JIe3REqjnol1VFPopL03B"
-    },
-    {
-      "added_at": "2023-10-05 16:00:00",
-      "album": {
-        "name": "Ulam",
-        "url": "https://open.spotify.com/album/1NNEzAPMxHCF3Gx0TBpPgw"
-      },
-      "artists": [
-        {
-          "name": "Miguel Odron",
-          "url": "https://open.spotify.com/artist/27vsiYWM46whw7WATGpM6j"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Ulam",
-      "url": "https://open.spotify.com/track/0a7fuXDCqfgcHuhAuK4M0d"
-    },
-    {
-      "added_at": "2023-10-05 16:00:00",
-      "album": {
-        "name": "Gwapo",
-        "url": "https://open.spotify.com/album/3dtTpv6vsl0bk5ssakPXXa"
-      },
-      "artists": [
-        {
-          "name": "Kiana Aaliyah",
-          "url": "https://open.spotify.com/artist/2D63zVZjJVry2mWt3rIjIs"
-        }
-      ],
-      "duration_ms": 254181,
-      "name": "Gwapo",
-      "url": "https://open.spotify.com/track/0ntlsY4rkWmb78FAUKLuLe"
-    },
-    {
-      "added_at": "2023-10-05 16:00:00",
-      "album": {
-        "name": "OTW",
-        "url": "https://open.spotify.com/album/6PwV1uDu8IGP9Yd6wNehlD"
-      },
-      "artists": [
-        {
-          "name": "LUQS",
-          "url": "https://open.spotify.com/artist/02XuyG2cGLf3kaUTJQCYEr"
-        }
-      ],
-      "duration_ms": 219697,
-      "name": "OTW",
-      "url": "https://open.spotify.com/track/1FfNIAq3S88NtXiHiNHgIA"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Ayos Lang \u2018Yan",
-        "url": "https://open.spotify.com/album/2pBLiHZ28ZbC3gC6MOIp1H"
-      },
-      "artists": [
-        {
-          "name": "Hero",
-          "url": "https://open.spotify.com/artist/0zF89Z0aMZSGZlgEBX0uvm"
-        }
-      ],
-      "duration_ms": 203609,
-      "name": "Ayos Lang \u2018Yan",
-      "url": "https://open.spotify.com/track/4SsdGsUCb6RWorUQ58bueg"
-    },
-    {
-      "added_at": "2023-09-28 16:00:00",
-      "album": {
-        "name": "Damahan",
-        "url": "https://open.spotify.com/album/4xCabwihfSK5YhZFKeZAV7"
-      },
-      "artists": [
-        {
-          "name": "Chen",
-          "url": "https://open.spotify.com/artist/3vQ0OHfwbeihBMvrodtQIr"
-        }
-      ],
-      "duration_ms": 249049,
-      "name": "Damahan",
-      "url": "https://open.spotify.com/track/064et9njlUEcLzS89aFm1u"
-    },
-    {
-      "added_at": "2023-09-28 16:00:00",
-      "album": {
-        "name": "Sa Gitna Ng Ulan",
-        "url": "https://open.spotify.com/album/3zB9pA9hw6MHO8TwNg6Dix"
-      },
-      "artists": [
-        {
-          "name": "Ichan",
-          "url": "https://open.spotify.com/artist/3U65jtJ0G4RudAEsuanoQA"
-        },
-        {
-          "name": "T - Vin",
-          "url": "https://open.spotify.com/artist/3dbmfnxDjNwkyJqH9foTat"
-        },
-        {
-          "name": "Icy",
-          "url": "https://open.spotify.com/artist/1aQ0gPTQYwL5Rn4OoUNDNR"
-        }
-      ],
-      "duration_ms": 197815,
-      "name": "Sa Gitna Ng Ulan",
-      "url": "https://open.spotify.com/track/08dfK3iEsTLnrd6OtrBKx7"
-    },
-    {
-      "added_at": "2023-09-28 16:00:00",
-      "album": {
-        "name": "Nasa Alapaap Ang Paraluman",
-        "url": "https://open.spotify.com/album/5sTXwsuCJOsCAb6fAoZ6Ey"
-      },
-      "artists": [
-        {
-          "name": "JEL REY",
-          "url": "https://open.spotify.com/artist/78BjejowI3HzCblRlIj5Jd"
-        }
-      ],
-      "duration_ms": 316387,
-      "name": "Nasa Alapaap Ang Paraluman",
-      "url": "https://open.spotify.com/track/0Cr5ugKPFcYWrhmD9xJBw6"
-    },
-    {
-      "added_at": "2023-09-28 16:00:00",
-      "album": {
-        "name": "she wunna!",
-        "url": "https://open.spotify.com/album/3Pci6X4GaHj5s77iEaiiF7"
-      },
-      "artists": [
-        {
-          "name": "sxber",
-          "url": "https://open.spotify.com/artist/5Xb3coCF1TSOuJkZMJqdz2"
-        },
-        {
-          "name": "yxngtrevon!",
-          "url": "https://open.spotify.com/artist/0oMV512h7jxQSQ1BMiutuj"
-        }
-      ],
-      "duration_ms": 139133,
-      "name": "she wunna!",
-      "url": "https://open.spotify.com/track/7KvP7V9kkf2ElU5ZaaZxAk"
-    },
-    {
-      "added_at": "2023-09-28 16:00:00",
-      "album": {
-        "name": "5 AM",
-        "url": "https://open.spotify.com/album/61rDRvw7Y3xS4qjtGR6otF"
-      },
-      "artists": [
-        {
-          "name": "VID",
-          "url": "https://open.spotify.com/artist/5mtu6plEC7sUWGo68fi6q1"
-        }
-      ],
-      "duration_ms": 125356,
-      "name": "5 AM",
-      "url": "https://open.spotify.com/track/5wWAQwh2tVGy9gQE5Mt3Bf"
-    },
-    {
-      "added_at": "2023-09-28 16:00:00",
-      "album": {
-        "name": "Pinapangarap Ko",
-        "url": "https://open.spotify.com/album/63U1GIzvNwaTbBKv0YwGCJ"
-      },
-      "artists": [
-        {
-          "name": "LYNDE",
-          "url": "https://open.spotify.com/artist/6ynab8zRwxH5J3EBWnWAc4"
-        }
-      ],
-      "duration_ms": 228625,
-      "name": "Pinapangarap Ko",
-      "url": "https://open.spotify.com/track/0ICei6ceMmzZfazpviavbn"
-    },
-    {
-      "added_at": "2023-09-28 16:00:00",
-      "album": {
-        "name": "Dulo",
-        "url": "https://open.spotify.com/album/5xGpjTEIbM9QoJULPUO0PA"
-      },
-      "artists": [
-        {
-          "name": "A for A",
-          "url": "https://open.spotify.com/artist/4BytLrttDvV1u8CTUNmBOp"
-        }
-      ],
-      "duration_ms": 300500,
-      "name": "Dulo",
-      "url": "https://open.spotify.com/track/3QhM53UNmM3fKaYSvVhufK"
-    },
-    {
-      "added_at": "2023-09-28 16:00:00",
-      "album": {
-        "name": "i just need my time",
-        "url": "https://open.spotify.com/album/0SqENrOSFC0wxp9egbpELu"
-      },
-      "artists": [
-        {
-          "name": "Reybones",
-          "url": "https://open.spotify.com/artist/6lvOqMW970QG4KjXhiWMuA"
-        }
-      ],
-      "duration_ms": 143703,
-      "name": "i just need my time",
-      "url": "https://open.spotify.com/track/0KQbbWYMrM7ZetCu0825DD"
-    },
-    {
-      "added_at": "2023-09-28 16:00:00",
-      "album": {
-        "name": "Always Remember Us This Way (feat. Alyn Magadia) [90's Version]",
-        "url": "https://open.spotify.com/album/57lswLBGijhFntWQbzx3e8"
-      },
-      "artists": [
-        {
-          "name": "Alyn Magadia",
-          "url": "https://open.spotify.com/artist/3kkrUg7pvfnOdJfKIgH1i3"
-        },
-        {
-          "name": "Anj",
-          "url": "https://open.spotify.com/artist/2FCofcDkDipKOWOKfKV95s"
-        }
-      ],
-      "duration_ms": 203010,
-      "name": "Always Remember Us This Way (feat. Alyn Magadia) - 90's Version",
-      "url": "https://open.spotify.com/track/7xBajKV3N7M5kYWrXt1ruK"
-    },
-    {
-      "added_at": "2023-09-28 16:00:00",
-      "album": {
-        "name": "Reset",
-        "url": "https://open.spotify.com/album/4ZpmDsjwgPC1lPc6QtVUer"
-      },
-      "artists": [
-        {
-          "name": "K-Leb",
-          "url": "https://open.spotify.com/artist/4U3clCN7761fpD0czDpytx"
-        }
-      ],
-      "duration_ms": 103435,
-      "name": "Reset",
-      "url": "https://open.spotify.com/track/2WyJyLXJyRs3U7hsa3eONh"
     }
   ],
   "unique_name": "Fresh Finds Philippines",

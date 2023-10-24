@@ -4,7 +4,7 @@
 
 > New music breaking waves\.  Cover:   <a href="spotify:artist:2CLclpIC43fLzsYq6LQvlL">Elmiene</a>
 
-468 songs - 21 hr 52 min
+469 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,7 +469,8 @@
 | [Xtasy](https://open.spotify.com/track/7yJ1KekatthELLQTE1VRc7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Xtasy](https://open.spotify.com/album/4zH7FPMFwa1Q1D1e9ZP3lV) | 2:58 | 2022-05-20 | 2022-08-27 |
 | [Y I Want U](https://open.spotify.com/track/07BT6pHeHuXycLNH4Jr2zD) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 1:46 | 2022-12-02 | 2023-04-16 |
 | [Yeah Yeah](https://open.spotify.com/track/4uVIFUbUO4ZjmoTV2yVoB1) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Angels Never Die](https://open.spotify.com/album/1CzzDKZVAsxqjKtpNGAwtN) | 2:46 | 2023-01-13 | 2023-07-08 |
-| [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 | 2023-09-08 |  |
+| [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 | 2023-09-08 | 2023-10-24 |
+| [You Don't Even](https://open.spotify.com/track/6jTGHYU466eF0XxVOQuQMy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/1Vw2QQWVguHw3kTwCq3kaf) | 2:18 | 2023-10-20 |  |
 | [You Got It](https://open.spotify.com/track/4ds41ycY4UZaxApauzIg40) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [You Got It](https://open.spotify.com/album/4nJWzgMLcYpNdrjVDO5g81) | 4:12 | 2021-08-14 | 2022-03-05 |
 | [You Got It Made](https://open.spotify.com/track/03M0wprGdDBgPTKfikarQd) | [Young Roc](https://open.spotify.com/artist/5ycH6CkEItjfS7VPVNg5kQ), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Jay John Henry](https://open.spotify.com/artist/6NL6Ja857luFYLYZOqQQ9i) | [You Got It Made](https://open.spotify.com/album/1OiIUAjUxe5IMDwVvDtB2e) | 2:11 | 2021-09-01 | 2022-03-05 |
 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 | 2023-07-14 | 2023-09-09 |

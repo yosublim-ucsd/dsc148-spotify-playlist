@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: Everydaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,364 likes - 72 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,368 likes - 72 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [淚 ft\. 陳忻玥 Vicky Chen](https://open.spotify.com/track/3ZWsSvDyKxyjGy6IGrCpBt) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [大逆不道](https://open.spotify.com/album/4pmimPqqUWaflYZ0MCzNYn) | 3:46 |
 | 72 | [Target \(feat\. Karencici\)](https://open.spotify.com/track/2ulcss4bdzR92Sa8BM3MZn) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Target \(feat\. Karencici\)](https://open.spotify.com/album/6smv82OAQXXhbok6DFCp0y) | 2:58 |
 
-Snapshot ID: `MCxiY2JlNDI0ODkzZWE1OTlkMzk1N2ZlNGIzZWNhY2U1NjNhNzA2YmU4`
+Snapshot ID: `MCwyOTE0ZjE0YmQ5NGJkZTFkZTkyYmVjMzNmNGM5OTM3MjEzOGM5MWVl`

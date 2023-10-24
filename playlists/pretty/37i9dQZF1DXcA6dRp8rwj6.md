@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover:21 Savage, d4vd\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,882 likes - 84 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,903 likes - 84 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 83 | [Gear 5](https://open.spotify.com/track/3a3IzXws4QWyMJjpalutIi) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [SUN NO KUNI](https://open.spotify.com/album/36kBvq8ThgFCCIHuJfoPfu) | 3:46 |
 | 84 | [Money Come](https://open.spotify.com/track/09zxu55fmyg5Sd5dcQ8oyA) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Money Come](https://open.spotify.com/album/1XWaP0PAJzsSPdZOVBMINJ) | 2:38 |
 
-Snapshot ID: `MCxhYzYwYjk2MjRmMzk5NmU0MDZkNDkyZjcxNjdmMTk2ODU5OWRlNThl`
+Snapshot ID: `MCwzZDNkYzUwZDYwYzU4ODVmODhmMTRhMTRkNGM5OTg5MDFiZGYyZDg1`

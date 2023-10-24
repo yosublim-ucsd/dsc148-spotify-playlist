@@ -4,7 +4,7 @@
 
 > Ambient with the sound of waves for a blissful meditation.
 
-78 songs - 3 hr 48 min
+79 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Hidden Beach](https://open.spotify.com/track/15RY8ZjXcqI3Ouh3Aj4bjp) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Hidden Beach](https://open.spotify.com/album/0pvZ5i0bmgOEw9Q63Lr0J7) | 2:58 | 2023-10-06 |  |
 | [Joshmit Beach](https://open.spotify.com/track/4vDw0JzE1goBugh7lh4lFQ) | [Peaceful Earth](https://open.spotify.com/artist/0VG3jBtRm8GbFcIU7M4M7m) | [Everwoods](https://open.spotify.com/album/4p4Kv6WhDa0ZgJsTGZX7RK) | 3:24 | 2023-04-28 |  |
 | [Lighthouse](https://open.spotify.com/track/5vpgqLPc6SFZU9R2Tok6Uj) | [Time Sphere](https://open.spotify.com/artist/7f0RAiYJa5Qrf8EmM6zLaT) | [Lighthouse](https://open.spotify.com/album/3FIb3pRNm5Y3jQZaV0Awf6) | 3:36 | 2023-09-15 |  |
-| [Love Story Star](https://open.spotify.com/track/4rQcoBXbQlYyXAej1yse4w) | [Ashlynn Vinno](https://open.spotify.com/artist/2LJPtJzLybu9EKKX8X84DJ) | [In Your Dreams](https://open.spotify.com/album/5qKhYrJX3hmlU35Kld74bN) | 2:45 | 2023-04-28 |  |
+| [Love Story Star](https://open.spotify.com/track/4rQcoBXbQlYyXAej1yse4w) | [Ashlynn Vinno](https://open.spotify.com/artist/2LJPtJzLybu9EKKX8X84DJ) | [In Your Dreams](https://open.spotify.com/album/5qKhYrJX3hmlU35Kld74bN) | 2:45 | 2023-04-28 | 2023-10-24 |
 | [Majestic \(Ocean\)](https://open.spotify.com/track/33sVJYtD2BpntLHW1m4Ggt) | [Moonlight River](https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu) | [Majestic \(Ocean\)](https://open.spotify.com/album/3iSXqbQBGmtBWke3LK5tOH) | 3:06 | 2023-09-15 |  |
 | [Mane Fluctus](https://open.spotify.com/track/15CHR9OtnnMp4bS2qhN47G) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:40 | 2023-04-28 |  |
 | [Marigold Chain](https://open.spotify.com/track/6DGIQf8liKwdwrPISYOqpH) | [Rose Schwartz](https://open.spotify.com/artist/0qVKo0IM22oSsFlWSHKgmZ) | [Marigold Chain](https://open.spotify.com/album/3WQnhPBzeoPFZnMidaKMEA) | 3:24 | 2023-04-28 |  |
@@ -64,6 +64,7 @@
 | [Sentimental](https://open.spotify.com/track/1eAFXZP3IlDUNE4fXUyw8E) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Sentimental](https://open.spotify.com/album/0ocJg4WeN8H8Rq1fKsAfw6) | 2:57 | 2023-04-28 |  |
 | [Shape of Your Breathing](https://open.spotify.com/track/48nyXuiDi17jGNYQPEwzb1) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:29 | 2023-04-28 | 2023-09-16 |
 | [Shimmerways](https://open.spotify.com/track/4oJHynkLeTy9CpqvpiGIAm) | [Eve Gutmansdottir](https://open.spotify.com/artist/0xr8KeOkIIGXkXh3Ehj5F4) | [Shimmerways](https://open.spotify.com/album/2qNLLvnenuUvl9KMSVMLIt) | 3:15 | 2023-04-28 |  |
+| [Skye Nights](https://open.spotify.com/track/39MhIdIn0QhJoHhHEPfmQg) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Skye Nights](https://open.spotify.com/album/7DfLxJGWfggWYmti94MYD9) | 3:34 | 2023-10-15 |  |
 | [Sleep Under the Stars](https://open.spotify.com/track/52fxNMSJtgwPzbMadGr2Ie) | [Aron Stieg](https://open.spotify.com/artist/7ClOSDzQR2MESJ37Uqd0wi) | [Sleep Under the Stars](https://open.spotify.com/album/0w78gT2FjWEV9jvYZ2P07L) | 2:16 | 2023-04-28 | 2023-10-03 |
 | [Soothing the Ocean](https://open.spotify.com/track/2dGwmaVEeKceZET2Tw1UvK) | [Zonestays](https://open.spotify.com/artist/7qrpF6gvKx1zA0dGofJVdh) | [Soothing the Ocean](https://open.spotify.com/album/26sn9bQUdYBJpalMa9Fikl) | 2:41 | 2023-04-28 |  |
 | [Sordinique](https://open.spotify.com/track/5DwWLXnxNpnrxdq92pFAMt) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Sordinique](https://open.spotify.com/album/3XZwSbvbqK11XF9ad2sVkc) | 2:56 | 2023-04-28 |  |

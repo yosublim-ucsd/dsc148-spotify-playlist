@@ -4,7 +4,7 @@
 
 > A playlist to get you through your whole workday.
 
-397 songs - 22 hr 37 min
+398 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Boys Like You \- Acoustic](https://open.spotify.com/track/51xRMJFRBrW9C1RI1qW4S0) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Boys Like You \(Acoustic\)](https://open.spotify.com/album/5vFQw6vOWYH9SaYVbSY9to) | 3:58 | 2021-04-30 | 2022-11-13 |
 | [Break My Heart](https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Break My Heart](https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs) | 3:41 | 2021-04-30 |  |
 | [Bring It On Home to Me](https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 | 2021-04-30 |  |
+| [Broken](https://open.spotify.com/track/0OW2r3EJzCg7K5Ml0AUVEo) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Yours](https://open.spotify.com/album/6XUpmmF38NqTp1Nf6QcUfq) | 3:36 | 2021-04-30 |  |
 | [Broken](https://open.spotify.com/track/2FkbeqpCrjjDdVH1SZgDo6) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Yours](https://open.spotify.com/album/3t31ldCb4oXOYSKXyGfaUA) | 3:36 | 2021-04-30 | 2023-10-05 |
 | [BS](https://open.spotify.com/track/1qxZswAdBvM0JMUoV83J1b) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [BS](https://open.spotify.com/album/1mmtCAKto81kdJtokCAfc6) | 2:13 | 2021-04-30 | 2022-11-13 |
 | [Build Me Up Buttercup](https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [From the Foundations \(Expanded Edition\)](https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc) | 2:57 | 2021-04-30 |  |
@@ -200,7 +201,7 @@
 | [Jessie's Girl](https://open.spotify.com/track/2F1fnE1a8zQCogM6jJifHH) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/5MeeResNCJfmDmwmHX4w2D) | 3:14 | 2021-04-30 | 2022-07-29 |
 | [Just Friends](https://open.spotify.com/track/1NzRZ7AosK7ZDumMsZYofo) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Just Friends](https://open.spotify.com/album/0J9VlRE4GIO7EDkYkIl8YL) | 2:48 | 2021-04-30 | 2022-07-27 |
 | [Just Got Paid](https://open.spotify.com/track/0v3BMLcwUmAwyqJaf5997o) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Just Got Paid](https://open.spotify.com/album/09uJvEy1F5GwvazqSQcYyB) | 3:38 | 2021-04-30 | 2022-11-13 |
-| [Just the Two of Us](https://open.spotify.com/track/4C426PqeHP8XqHU5mQIAKS) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [In the Name of Love: The Elektra Recordings 1979\-1984](https://open.spotify.com/album/3XFcAhdCrCg7L74OPd26Hf) | 3:57 | 2021-04-30 |  |
+| [Just the Two of Us](https://open.spotify.com/track/4C426PqeHP8XqHU5mQIAKS) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [In the Name of Love: The Elektra Recordings 1979\-1984](https://open.spotify.com/album/3XFcAhdCrCg7L74OPd26Hf) | 3:57 | 2021-04-30 | 2023-10-24 |
 | [Kingdom Come](https://open.spotify.com/track/0xqnx4Q4qxAdAnrOAsNXkj) | [Sialia](https://open.spotify.com/artist/4CTyrlD8XGPObRSww1gUiO), [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Kingdome Come](https://open.spotify.com/album/7IDmojESG4CxCMJP9y5I1k) | 3:39 | 2021-04-30 | 2022-07-29 |
 | [Lady Like](https://open.spotify.com/track/3MlLzrWKseZApnGcDOe7dP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:26 | 2021-04-30 | 2022-07-29 |
 | [Last Night](https://open.spotify.com/track/3BPszSPjgOkZl0rIiIMSbx) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Last Night](https://open.spotify.com/album/67X1Fwunz8JlshoLYXK4f4) | 2:52 | 2021-04-30 | 2022-07-29 |

@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "I Won't Be Your Foe",
+        "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164195,
+      "name": "Maybe October",
+      "url": "https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc"
+    },
+    {
+      "album": {
         "name": "Mood Hoover",
         "url": "https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1"
       },

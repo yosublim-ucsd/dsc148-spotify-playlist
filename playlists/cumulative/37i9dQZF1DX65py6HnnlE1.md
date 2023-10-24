@@ -4,7 +4,7 @@
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-157 songs - 11 hr 3 min
+158 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,8 +46,9 @@
 | [Dos Locos](https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos Y Mas](https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1) | 4:06 | 2022-01-01 |  |
 | [Dónde Estará](https://open.spotify.com/track/2t0QgKam1SfPNqQCfXx8ek) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [El Mayimbe](https://open.spotify.com/album/78xxV0YpdLuNXt2bZ9xYqt) | 4:59 | 2022-01-01 | 2022-07-28 |
 | [El Alchohol](https://open.spotify.com/track/4cKNAfFzbY6HCvU4dGwKvJ) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Dosis De Amor](https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV) | 4:16 | 2022-01-01 |  |
-| [El Hombre de Tu Vida](https://open.spotify.com/track/3f9d4UXihDnTq9X6SNEG1j) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Con Mas Amor](https://open.spotify.com/album/7IXnhyZffZaa9QzAzazORB) | 4:53 | 2022-01-01 |  |
+| [El Hombre de Tu Vida](https://open.spotify.com/track/3f9d4UXihDnTq9X6SNEG1j) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Con Mas Amor](https://open.spotify.com/album/7IXnhyZffZaa9QzAzazORB) | 4:53 | 2022-01-01 | 2023-10-24 |
 | [El Hombre de Tu Vida](https://open.spotify.com/track/561XJqsY39pBtn7clW30PM) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Con Mas Amor](https://open.spotify.com/album/3O05GLVwJEFvC6OgEdV9dl) | 4:53 | 2022-01-01 | 2022-07-11 |
+| [El Hombre de Tu Vida](https://open.spotify.com/track/0r55uL83PpPjKguZMRJ0Ly) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Con Mas Amor](https://open.spotify.com/album/3kjEIFFOJpVHbi9zLxIbhC) | 4:53 | 2023-03-17 |  |
 | [El Malo](https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:58 | 2022-01-01 |  |
 | [El Perdedor](https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:35 | 2022-01-01 |  |
 | [El Profesor](https://open.spotify.com/track/4jUznRZO8FyJgkEAP6QDBx) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Soga](https://open.spotify.com/album/1gP8J1yTruazTsPOGozAG0) | 3:39 | 2023-03-17 |  |

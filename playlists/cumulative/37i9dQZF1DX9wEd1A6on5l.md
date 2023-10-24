@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-297 songs - 14 hr 34 min
+298 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Koma](https://open.spotify.com/track/05QBSYagui3cfuxySqprhx) | [Pawzz](https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU) | [Koma](https://open.spotify.com/album/5f4J2kU6M8Dax39aE7wNeo) | 2:31 | 2023-01-13 | 2023-01-20 |
 | [komplete riddim](https://open.spotify.com/track/1n4ddwMC0TWGuVSpA4XwK6) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YUSFUL MUSIC](https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n) | 3:17 | 2023-05-05 | 2023-05-12 |
 | [Koo Koo Fun \(feat\. Tiwa Savage & DJ Maphorisa\)](https://open.spotify.com/track/3mO0E6D3BsdBLjDCImi65H) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Koo Koo Fun \(feat\. Tiwa Savage & DJ Maphorisa\)](https://open.spotify.com/album/7iDZn6XFwYdbq6jGYNXnrj) | 3:13 | 2022-09-23 | 2022-10-10 |
-| [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 | 2023-02-03 |  |
+| [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 | 2023-02-03 | 2023-10-24 |
 | [Kristy](https://open.spotify.com/track/6GWqhQrOMHdyHxwSNdctaf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Kristy](https://open.spotify.com/album/4b0c1lr72jmvi93sJFKYq1) | 4:20 | 2023-07-28 | 2023-09-30 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-06-16 | 2022-12-09 |
 | [KUBOLOR \(feat\. Amaarae\)](https://open.spotify.com/track/7sFukIJffFFLwnazXIbqP5) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:09 | 2023-10-20 |  |
@@ -240,6 +240,7 @@
 | [san siro \- remix](https://open.spotify.com/track/0uslkdkt54FiKvwEOOeFoH) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [san siro \(remix\)](https://open.spotify.com/album/4sb3gCQUk95ciN325RAQII) | 3:27 | 2023-09-09 | 2023-09-28 |
 | [Sankofa \- Remix](https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sankofa \(5 Star Remix\)](https://open.spotify.com/album/7vuWMKZUPRYEy5YWdloX5K) | 3:14 | 2022-12-02 | 2023-01-20 |
 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 | 2022-06-09 | 2023-02-11 |
+| [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 | 2023-10-23 |  |
 | [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-21 |  |
 | [Sharpiru](https://open.spotify.com/track/3UnV8C3DyIns9oEQRt0UnZ) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Sharpiru](https://open.spotify.com/album/3G8ivhEbQ9MREc8PZrROgr) | 3:28 | 2023-08-10 |  |
 | [Shayo](https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Shayo](https://open.spotify.com/album/606tG62I0ClaZAuuHdM5rz) | 3:17 | 2023-09-14 | 2023-09-29 |

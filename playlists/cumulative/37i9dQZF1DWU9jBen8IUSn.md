@@ -2,7 +2,7 @@
 
 ### [Mixtape](https://open.spotify.com/playlist/37i9dQZF1DWU9jBen8IUSn)
 
-> John Mulaney's 50 most beloved tracks\. Welcome to mixtape, a curator's playground.
+> John Mulaney's 50 most beloved tracks\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
 299 songs - 21 hr 2 min
 

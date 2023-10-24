@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "attraction",
+        "url": "https://open.spotify.com/album/6ezHoGVMib7VLW1gJJRIjB"
+      },
+      "artists": [
+        {
+          "name": "Maya Randle",
+          "url": "https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222585,
+      "name": "attraction",
+      "url": "https://open.spotify.com/track/4MrNdvDEin8XChCHaCzrlR"
+    },
+    {
+      "album": {
         "name": "Baby It's You",
         "url": "https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t"
       },
@@ -230,6 +248,24 @@
       "duration_ms": 257844,
       "name": "Ball",
       "url": "https://open.spotify.com/track/47vPXvOFRn4XSIzYem5JPe"
+    },
+    {
+      "album": {
+        "name": "Be With U",
+        "url": "https://open.spotify.com/album/6uLhqdqu5aqIQeT24caWAw"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 551135,
+      "name": "Be With U",
+      "url": "https://open.spotify.com/track/1xiNLNvfmHtFEd0ZaCnTNN"
     },
     {
       "album": {
@@ -544,6 +580,28 @@
       "duration_ms": 188347,
       "name": "Dawntown",
       "url": "https://open.spotify.com/track/1CaOMLZXTQxif7TVD9ieSd"
+    },
+    {
+      "album": {
+        "name": "Always Get Through To You",
+        "url": "https://open.spotify.com/album/51OIExqk0K2EqCJTnKvdaV"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "somedeadbeat",
+          "url": "https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254791,
+      "name": "Deadbeat Gospel",
+      "url": "https://open.spotify.com/track/4NyRAwL8P97zBDh77YTDps"
     },
     {
       "album": {
@@ -993,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "TANZPARTEI (Mixtape)",
+        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "F\u00fcr Immer",
+      "url": "https://open.spotify.com/track/0DtZsiUvdQt7pzmMBlZSmI"
+    },
+    {
+      "album": {
         "name": "Son",
         "url": "https://open.spotify.com/album/2jotDXhKd5px6kOEaxPUcK"
       },
@@ -1063,6 +1139,46 @@
     },
     {
       "album": {
+        "name": "Half of Mine",
+        "url": "https://open.spotify.com/album/5vn826N8Fxt4E0DKvEnwX6"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        },
+        {
+          "name": "Tarian",
+          "url": "https://open.spotify.com/artist/7h5vyR4LxVT0UZLBMcT59P"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Half of Mine",
+      "url": "https://open.spotify.com/track/0jk9fGjCcebNf4TfrJBMl0"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3mjRL9Jz75UKCzwIvXH2DB"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201438,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3PKd9beBPjwU9RP7e1Bvke"
+    },
+    {
+      "album": {
         "name": "hold on",
         "url": "https://open.spotify.com/album/2LxT6O6x3iPHYEcZ2qxfCQ"
       },
@@ -1078,6 +1194,24 @@
       "duration_ms": 208896,
       "name": "hold on",
       "url": "https://open.spotify.com/track/40o7MmYto4JMsbRzVl514p"
+    },
+    {
+      "album": {
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A"
+      },
+      "artists": [
+        {
+          "name": "Duskus",
+          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229083,
+      "name": "I Can See",
+      "url": "https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr"
     },
     {
       "album": {
@@ -1153,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "If U Ever",
+        "url": "https://open.spotify.com/album/10jrrIHBximrLnUQIEyajM"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288331,
+      "name": "If U Ever",
+      "url": "https://open.spotify.com/track/4VIdv8msCE1hSUKHiEyodG"
+    },
+    {
+      "album": {
         "name": "Dual",
         "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
       },
@@ -1204,7 +1356,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 260065,
       "name": "JOY (Warm Bullet)",
       "url": "https://open.spotify.com/track/651ISDzJhS2cIYtXlHiMXl"
@@ -1467,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "Love Me, Haunt Me",
+        "url": "https://open.spotify.com/album/4ns9URhZwLURgevUkZhxye"
+      },
+      "artists": [
+        {
+          "name": "Mitekiss",
+          "url": "https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249975,
+      "name": "Love Me, Haunt Me",
+      "url": "https://open.spotify.com/track/0y1nYb8VBwGNy8WfDZs2iQ"
+    },
+    {
+      "album": {
         "name": "Queen & Slim (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/7vhU8I4HsB9tirfjtcoKq4"
       },
@@ -1543,6 +1713,32 @@
     },
     {
       "album": {
+        "name": "Mike (desert island duvet)",
+        "url": "https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264097,
+      "name": "Mike (desert island duvet)",
+      "url": "https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo"
+    },
+    {
+      "album": {
         "name": "Mountains",
         "url": "https://open.spotify.com/album/251uvmlPX4D3UiH4zGtj66"
       },
@@ -1576,6 +1772,24 @@
       "duration_ms": 236040,
       "name": "Mystic Bounce",
       "url": "https://open.spotify.com/track/6e6lDhigjHGm6zQM3C1ezN"
+    },
+    {
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/3yVl1zSI4SBQGVIpUEcDKF"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214527,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/5HWybXhMxw8W8t0sUPysxf"
     },
     {
       "album": {
@@ -1874,7 +2088,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 258456,
       "name": "Power",
       "url": "https://open.spotify.com/track/7uPGcpYfm1Z0H0IF0KRXi3"
@@ -1896,10 +2110,32 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 257259,
       "name": "Radiate",
       "url": "https://open.spotify.com/track/1kxsqPsBOhxBC5REK0wL8K"
+    },
+    {
+      "album": {
+        "name": "Radiate",
+        "url": "https://open.spotify.com/album/1Xt1e08HamHZvElKK0UoW9"
+      },
+      "artists": [
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        },
+        {
+          "name": "Lottie Jones",
+          "url": "https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257259,
+      "name": "Radiate",
+      "url": "https://open.spotify.com/track/40iYRKFmxhuDToTWjfXT7M"
     },
     {
       "album": {
@@ -2550,6 +2786,28 @@
       "duration_ms": 239274,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW"
+    },
+    {
+      "album": {
+        "name": "ten",
+        "url": "https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181545,
+      "name": "ten",
+      "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
     },
     {
       "album": {

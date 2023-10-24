@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-100 songs - 8 hr 52 min
+101 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Fire on the Mountain](https://open.spotify.com/track/1u2W22pbY0opK1gcETuFaF) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Fire on the Mountain](https://open.spotify.com/album/0iW7DU3HZzEnHa4l2zEzmp) | 2:40 | 2023-08-11 | 2023-08-15 |
 | [Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day](https://open.spotify.com/track/42nQ9vfTQsw4JCG2UOSnl5) | [Joyful Way Incorporated](https://open.spotify.com/artist/5DdIfWrYhLhQCi2jusXZnM) | [Grateful Hearts](https://open.spotify.com/album/2FgtNPBfKJVBq4nc4qjCxq) | 14:10 | 2023-04-06 | 2023-07-13 |
 | [Glorious](https://open.spotify.com/track/5CoFGig7qZFdTHikB8ZDWj) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Glorious](https://open.spotify.com/album/4uoShwbFnmUlYGJpBp0nNe) | 2:24 | 2023-10-06 |  |
+| [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 | 2023-10-20 |  |
 | [Green Land](https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Joseph Company](https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3) | [Greenland](https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK) | 4:18 | 2023-04-06 | 2023-07-28 |
 | [Halle](https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Halle](https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub) | 2:20 | 2023-08-25 |  |
 | [Hallelujah](https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Xperience with Love](https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi) | 9:46 | 2023-04-06 | 2023-09-21 |
@@ -101,7 +102,7 @@
 | [What I Want II](https://open.spotify.com/track/3xRjZHi4uuP70BDnqmrxJp) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [What I Want II](https://open.spotify.com/album/3FYbMrsCX9Fqk3Y7b5KrXG) | 3:00 | 2023-08-18 | 2023-09-13 |
 | [When I See You](https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 13:32 | 2023-04-06 |  |
 | [Who Is on the Lord's Side](https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 10:29 | 2023-04-06 |  |
-| [WINNING](https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW) | [Harmini](https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9), [Chud'e](https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej) | [WINNING](https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0) | 2:32 | 2023-09-08 |  |
+| [WINNING](https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW) | [Harmini](https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9), [Chud'e](https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej) | [WINNING](https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0) | 2:32 | 2023-09-08 | 2023-10-24 |
 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 | 2023-04-14 |  |
 | [Wonderful Wonder](https://open.spotify.com/track/5sSoA18jYUkQkvC64o0IDS) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Love Song](https://open.spotify.com/artist/6yKVfS7jLHoqmI8AWvVivy) | [God of Love](https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H) | 5:37 | 2023-04-06 |  |
 | [Worthy Is the Lamb \(Hallelujah Challenge Praise Medley 2\)](https://open.spotify.com/track/5kZvQyDPB33N9yb99rdc3V) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 10:28 | 2023-04-06 | 2023-09-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPiubrCbXxp.md) - [plain]
 
 > that 50s kinda feeling, cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,074 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,147 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPiubrCbXxp.md) - [plain]
 | 49 | [The Archer](https://open.spotify.com/track/3H3lRA0oqK92R3ygLRXn67) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [The Archer](https://open.spotify.com/album/4Fc5K4rytNveeeaXSYzeel) | 2:25 |
 | 50 | [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 |
 
-Snapshot ID: `MCwxN2I4MDVhZjA5M2I0MzQ3NTZlM2RjOWU1MWEwNTExZDA2NmNhY2U1`
+Snapshot ID: `MCxiMjMwZWY2NGQ1N2Y3ZjlkNTM1YjU0ODQ1MGRjNjYxZjVlMzg1MDA2`

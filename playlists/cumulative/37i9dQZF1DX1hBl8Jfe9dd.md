@@ -4,7 +4,7 @@
 
 > Novidades do indie mundial\. Foto: Mitski
 
-90 songs - 5 hr 17 min
+91 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Little Bull Of Blithe](https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 2:10 | 2023-09-22 |  |
 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-09-22 |  |
 | [Love Factory](https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Love Factory](https://open.spotify.com/album/0RZAwFJb7dAWACcbmfzBQ3) | 5:19 | 2023-09-22 |  |
+| [Maybe October](https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Won't Be Your Foe](https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV) | 2:44 | 2023-10-23 |  |
 | [Mood Hoover](https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Mood Hoover](https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1) | 3:14 | 2023-09-22 |  |
 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-10-06 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-22 |  |

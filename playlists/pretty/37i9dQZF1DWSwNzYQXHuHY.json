@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 8970,
+  "num_followers": 8991,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTg3MjhjOWZlYmQzNGE1YTA0YjFiZGUyYTVlYmI3MWIzODQzN2Zi",
+  "snapshot_id": "MCw1YWQ0MDdkMjUyNmM1YjU2Y2FiNWM4ZjA3ODNlOTM1OTk1M2I2NmRj",
   "tracks": [
     {
       "added_at": "2023-10-16 07:48:41",
@@ -151,26 +151,6 @@
     {
       "added_at": "2023-10-16 07:48:41",
       "album": {
-        "name": "The Hyena on the Keyboard, Pt. 4",
-        "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 231654,
-      "name": "Don\u2019t",
-      "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
-    },
-    {
-      "added_at": "2023-10-16 07:48:41",
-      "album": {
         "name": "Why?",
         "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF"
+    },
+    {
+      "added_at": "2023-10-16 07:48:41",
+      "album": {
+        "name": "The Hyena on the Keyboard, Pt. 4",
+        "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 231654,
+      "name": "Don\u2019t",
+      "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
     },
     {
       "added_at": "2023-10-16 07:48:41",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-10-16 07:48:41",
       "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Where Is Dream",
-      "url": "https://open.spotify.com/track/73qCPgwpFwAe9L2Qt0Drh1"
-    },
-    {
-      "added_at": "2023-10-16 07:48:41",
-      "album": {
         "name": "Sweet (A Business Proposal OST Part.1)",
         "url": "https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ"
       },
@@ -379,6 +363,22 @@
     {
       "added_at": "2023-10-16 07:48:41",
       "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Where Is Dream",
+      "url": "https://open.spotify.com/track/73qCPgwpFwAe9L2Qt0Drh1"
+    },
+    {
+      "added_at": "2023-10-16 07:48:41",
+      "album": {
         "name": "You, Who?",
         "url": "https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i"
       },
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-10-16 07:48:41",
       "album": {
+        "name": "Brand New - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
+    },
+    {
+      "added_at": "2023-10-16 07:48:41",
+      "album": {
         "name": "Love to Hate You, Pt. 4 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/7qMURkrL885kAgogHHnSon"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 191957,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w"
-    },
-    {
-      "added_at": "2023-10-16 07:48:41",
-      "album": {
-        "name": "Brand New - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
-      },
-      "artists": [
-        {
-          "name": "XIUMIN",
-          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
-        }
-      ],
-      "duration_ms": 184493,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
     },
     {
       "added_at": "2023-10-16 07:48:41",

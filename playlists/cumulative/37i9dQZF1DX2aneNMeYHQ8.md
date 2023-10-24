@@ -4,7 +4,7 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Grace Potter
 
-342 songs - 20 hr 50 min
+343 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Rubberband Man](https://open.spotify.com/track/1vlP24MDUyUxBb7X0Q42AE) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Rubberband Man](https://open.spotify.com/album/2VpwH6aLll433843htWOL6) | 2:30 | 2022-11-11 | 2023-02-11 |
 | [Run Away to Mars](https://open.spotify.com/track/16ufCOlMEIJkFstIYtQT4w) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/7zqg9wqNkkdLuaHDB3LU0W) | 3:33 | 2021-07-09 | 2022-08-27 |
 | [Run Away to Mars](https://open.spotify.com/track/2kzb2c50m1prBuB1m9rhTZ) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [HELGMYS](https://open.spotify.com/album/3T6WfgQ7b6evh5m2cHm81h) | 3:33 | 2022-10-21 | 2022-11-13 |
+| [Run Away to Mars](https://open.spotify.com/track/5ssnt7GzfLILpZkNQ0oU3U) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:33 | 2023-09-22 |  |
 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 | 2022-07-01 | 2023-10-23 |
 | [Rushing Water](https://open.spotify.com/track/3M9TxdnduVdqxf3D7kTcX5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:17 | 2021-11-19 | 2023-08-27 |
 | [Sawgrass](https://open.spotify.com/track/3cIdjOzrKdso72bHfEIayE) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Sawgrass / For Your Soul](https://open.spotify.com/album/7l2Z5C2MAkfKlU9xs3uNph) | 4:32 | 2023-02-10 | 2023-03-04 |
@@ -301,7 +302,7 @@
 | [The Bandit](https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [The Bandit / 100,000 People](https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr) | 4:10 | 2021-01-29 |  |
 | [The Best Part of Letting Go](https://open.spotify.com/track/6yvTqQtBaZEQGcrnuVjgRF) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [The Best Part of Letting Go](https://open.spotify.com/album/10CEMFXxts5hhJbIimhf0F) | 3:25 | 2022-10-21 | 2022-11-12 |
 | [The Best Part of Letting Go](https://open.spotify.com/track/64nduduwh4o6m0PXplVum0) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [The Best Part of Letting Go](https://open.spotify.com/album/4wMICcEMpmsBz771u42o7h) | 3:28 | 2021-10-29 | 2022-07-26 |
-| [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2021-10-29 |  |
+| [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2021-10-29 | 2023-10-24 |
 | [The Haves](https://open.spotify.com/track/2HSg6TSfOlPu9XT7nO7S8P) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [The Haves](https://open.spotify.com/album/1LDXF0EzuqLl6ZthDJDo8E) | 5:06 | 2021-11-19 | 2022-01-15 |
 | [The Kitchen](https://open.spotify.com/track/14ZAryaOGjWc52i84ApWh0) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [The Kitchen](https://open.spotify.com/album/7hXIoUSA4AMI9zOGsepWXv) | 3:21 | 2022-05-25 | 2022-07-02 |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2023-08-26 |  |

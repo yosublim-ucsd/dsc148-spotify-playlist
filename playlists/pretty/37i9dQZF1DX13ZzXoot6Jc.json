@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Kane Brown",
-  "num_followers": 454158,
+  "num_followers": 454256,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjNiZjIwYzExZmFmODQwZGFkMjRiZDg4NTg0M2Y1MzhiY2VjOWY1",
+  "snapshot_id": "MCxmMjA3MWY4NmY3OGE5MzUxMmQ0ODI5NmRjYWFhMjU4OTdiMDM4ODNm",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Heading South",
-        "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 171692,
-      "name": "Heading South",
-      "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu"
+        "name": "Heading South",
+        "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Need A Favor",
-      "url": "https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ"
+      "duration_ms": 171692,
+      "name": "Heading South",
+      "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -511,22 +511,6 @@
       "duration_ms": 177266,
       "name": "Going, Going, Gone",
       "url": "https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Stereotype",
-        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "She Had Me At Heads Carolina",
-      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -559,6 +543,22 @@
       "duration_ms": 157477,
       "name": "You Proof",
       "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "She Had Me At Heads Carolina",
+      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Penthouse",
+      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "5 Foot 9",
         "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 200346,
       "name": "Save Me The Trouble",
       "url": "https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Penthouse",
-      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Greenbroke",
+        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "duration_ms": 187957,
+      "name": "Don't Come Lookin'",
+      "url": "https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Where We Started",
         "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 183026,
       "name": "Half Of Me",
       "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Greenbroke",
-        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 187957,
-      "name": "Don't Come Lookin'",
-      "url": "https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Whiskey Drink",
+        "url": "https://open.spotify.com/album/4g06Vx2YKohoVR7FX33l9C"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Whiskey Drink",
+      "url": "https://open.spotify.com/track/5uU4GKzz0x4ma1udXnLf6O"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Boys",
         "url": "https://open.spotify.com/album/6H0eKPDymJDEshAdu9OW7C"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 158320,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/3DpYNk8DsTwZ8rtTTTrKyf"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Whiskey Drink",
-        "url": "https://open.spotify.com/album/4g06Vx2YKohoVR7FX33l9C"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Whiskey Drink",
-      "url": "https://open.spotify.com/track/5uU4GKzz0x4ma1udXnLf6O"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "First Taste of Gone",
+        "url": "https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 172782,
+      "name": "First Taste of Gone",
+      "url": "https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Country On",
         "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 162344,
       "name": "All I Need Is You",
       "url": "https://open.spotify.com/track/0lbHiQaHPlp5gGtsUPtj6l"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "First Taste of Gone",
-        "url": "https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 172782,
-      "name": "First Taste of Gone",
-      "url": "https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Brothers Osborne",
-        "url": "https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Who Says You Can't Have Everything",
-      "url": "https://open.spotify.com/track/4KbLhLnwnhbHk0Aa13BeYD"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Chasing Tornadoes",
         "url": "https://open.spotify.com/album/3xXBDDcDpK2OPwM5P0ogap"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 159640,
       "name": "Playin' On The Tracks",
       "url": "https://open.spotify.com/track/4YCwBjIphmO1L4eTWbAk0n"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Brothers Osborne",
+        "url": "https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Who Says You Can't Have Everything",
+      "url": "https://open.spotify.com/track/4KbLhLnwnhbHk0Aa13BeYD"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Second Guessing",
-        "url": "https://open.spotify.com/album/3dUeViIWtPKrhBzcSzuXAD"
-      },
-      "artists": [
-        {
-          "name": "Griffen Palmer",
-          "url": "https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ"
-        }
-      ],
-      "duration_ms": 189782,
-      "name": "Second Guessing",
-      "url": "https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Girl to Girl",
         "url": "https://open.spotify.com/album/4KOYQ5wkg84yhv2klrUNGN"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 182666,
       "name": "Back Then, Right Now",
       "url": "https://open.spotify.com/track/3wgo9ePs5s7OMO6yHQJB1T"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Second Guessing",
+        "url": "https://open.spotify.com/album/3dUeViIWtPKrhBzcSzuXAD"
+      },
+      "artists": [
+        {
+          "name": "Griffen Palmer",
+          "url": "https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ"
+        }
+      ],
+      "duration_ms": 189782,
+      "name": "Second Guessing",
+      "url": "https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um"
     },
     {
       "added_at": "2023-10-20 04:01:00",

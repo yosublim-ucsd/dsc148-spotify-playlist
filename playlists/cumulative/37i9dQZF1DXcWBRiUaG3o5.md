@@ -4,7 +4,7 @@
 
 > Keep your night easy and light with this acoustic mix.
 
-226 songs - 14 hr 26 min
+227 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Here with Me](https://open.spotify.com/track/6IF2P93LkyW4GqDQu1yS7H) | [Susie Suh](https://open.spotify.com/artist/6zDFhpdu4WUVVGTz0JSLMh), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Here with Me](https://open.spotify.com/album/4pdMeK0Lb79nwLFGqholxm) | 3:58 | 2022-04-15 |  |
 | [Howling Light](https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Year In The Kingdom](https://open.spotify.com/album/50UnH0t4AHlGSa1sqqxYAg) | 3:34 | 2022-04-15 |  |
 | [Howling Light](https://open.spotify.com/track/2js2HE12EkXbHaUYPRGbXQ) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Year In The Kingdom](https://open.spotify.com/album/5VHdQphHoJpaDqQArI4yFH) | 3:34 | 2021-11-11 | 2022-04-21 |
-| [Hummingbird](https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Hummingbird](https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD) | 5:17 | 2021-11-11 | 2023-06-16 |
+| [Hummingbird](https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Hummingbird](https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD) | 5:17 | 2021-11-11 |  |
 | [I Can’t Hide](https://open.spotify.com/track/56wQ8oN1RxGkTDw1lV7RSM) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Waiting](https://open.spotify.com/album/42PYcXkN5YS40eOmFFU2XW) | 2:57 | 2021-11-11 | 2022-07-29 |
 | [I Knew This Would Be Love](https://open.spotify.com/track/5V0oYCNtnTitbWN72iSfJ5) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Fire Escape](https://open.spotify.com/album/2zDtChsG0rQlQhHQG7RkYk) | 3:30 | 2023-04-07 |  |
 | [I Knew This Would Be Love](https://open.spotify.com/track/6r44uyKRo3jKFRkThTZBXu) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Fire Escape](https://open.spotify.com/album/0bY6NsCY29oavs7TUmKUvD) | 3:30 | 2021-11-11 | 2023-05-23 |
@@ -107,6 +107,7 @@
 | [Juvenescence](https://open.spotify.com/track/73LVxUKfVeLqlQ9qqhTQ3h) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/233gqBTj1syIvhppH8NV7w) | 3:50 | 2021-11-11 | 2022-07-29 |
 | [La Lune](https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [La Lune](https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA) | 3:08 | 2021-11-11 |  |
 | [Leave the Light On \- Demo](https://open.spotify.com/track/2nxBkZ02hsiU3SIowH4XQI) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Before July: Demos & Unreleased Songs](https://open.spotify.com/album/7lNnNfJjnoQIKAzyZY9sdL) | 3:12 | 2022-04-15 | 2022-04-21 |
+| [Let's Go Outside \- Campfire Version](https://open.spotify.com/track/6TTY6RUXmtl8VgKzm5szBO) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Campfire, Vol\. 1](https://open.spotify.com/album/5iAggKoFENKm9glKjYBivz) | 3:25 | 2023-10-20 |  |
 | [Lights Off \(Live from Spotify, London\)](https://open.spotify.com/track/34bvDVeoJZyiuxfLUmNzwV) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Spotify Live](https://open.spotify.com/album/0xZSKoyxJejom2lePPmjX8) | 4:05 | 2021-11-11 | 2022-07-28 |
 | [Little More Time](https://open.spotify.com/track/44yqXBoQ7KV3jZdvGUiAex) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 3:46 | 2022-04-15 | 2023-05-15 |
 | [Little More Time](https://open.spotify.com/track/5Sn4XTt5iCcHgX9bKeQhZf) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/3MDPgf0HzpeJdxK3FsrknM) | 3:46 | 2022-04-15 | 2022-04-21 |
@@ -154,7 +155,7 @@
 | [Resin](https://open.spotify.com/track/2uzItOYNxVizwKjXELbVdv) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Last Line](https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU) | 3:23 | 2021-11-11 | 2022-07-29 |
 | [Rest \(Acoustic\)](https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Rest](https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr) | 5:19 | 2021-11-11 |  |
 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 | 2021-11-11 |  |
-| [Sang About It](https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Sang About It](https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ) | 2:13 | 2022-04-15 |  |
+| [Sang About It](https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Sang About It](https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ) | 2:13 | 2022-04-15 | 2023-10-24 |
 | [September Song, pt\. ii](https://open.spotify.com/track/4tM4hSwyXO0Q6wWLknh7YJ) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [September Song, pt\. ii](https://open.spotify.com/album/4dFYEqNWRCrzMWUjrRWGzg) | 3:57 | 2021-11-11 | 2022-07-26 |
 | [Shadow Bloom](https://open.spotify.com/track/0itvbqb82mfjGDzt7CbyAW) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Celebration](https://open.spotify.com/album/4wrez0RypQEvfS5qkc7ezd) | 3:40 | 2021-11-11 | 2022-07-29 |
 | [Shadow Bloom](https://open.spotify.com/track/1Dkzb965hsHKP8iTDqq0AT) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/2mpUdUSa6kIzdJQ23BgajX) | 3:40 | 2022-04-15 | 2023-04-30 |
@@ -211,7 +212,7 @@
 | [Wait for You](https://open.spotify.com/track/4du1sHf5pUhdEEwqtmOAi2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Wait for You](https://open.spotify.com/album/5gwPi5CboubcqSV8pFQfDj) | 3:13 | 2022-04-15 |  |
 | [Wait for You](https://open.spotify.com/track/3Rev8ukx9v7fBDtq71QeCT) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Wait for You](https://open.spotify.com/album/53ppopomnHhYNNftYvyImu) | 3:13 | 2021-11-11 | 2022-07-29 |
 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 | 2021-11-11 |  |
-| [Waiting for You](https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt) | [Isobel Anderson](https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9) | [In My Garden](https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe) | 3:06 | 2022-04-15 |  |
+| [Waiting for You](https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt) | [Isobel Anderson](https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9) | [In My Garden](https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe) | 3:06 | 2022-04-15 | 2023-10-24 |
 | [Waiting For You](https://open.spotify.com/track/7L5BQEm6e6MQr3CimiFicS) | [Isobel Anderson](https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9) | [In My Garden](https://open.spotify.com/album/4OmQr4L8PY6HIUiGgA2f6W) | 3:06 | 2021-11-11 | 2022-07-28 |
 | [Wake Me](https://open.spotify.com/track/6pOiBHK2mMiSNnPsYNGsEc) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Folding Leaves](https://open.spotify.com/album/10BngwMbchdQ5W3LN4tFuk) | 5:31 | 2021-11-11 | 2023-06-24 |
 | [Wake Me](https://open.spotify.com/track/6tBTW1d7ikxXEfkhGQjPHi) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Folding Leaves](https://open.spotify.com/album/1BL9HsiqZUc4IXFT3LKwzr) | 5:32 | 2023-06-16 |  |

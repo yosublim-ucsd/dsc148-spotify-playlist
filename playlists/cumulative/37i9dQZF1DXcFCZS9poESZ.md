@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-91 songs - 5 hr 45 min
+92 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Jajauma ni Sasenaide](https://open.spotify.com/track/3kNZCnIW7TfSWyuPIfYvp0) | [Ranma 1/2](https://open.spotify.com/artist/72qUhfSJSbholn96Bpayw1) | [Ranma 1/2 Okamochi Tokusen \~ Nekohanten Menu Song \~](https://open.spotify.com/album/3pM4KHEXQ6YyAv0gEK8hs3) | 1:40 | 2022-06-21 | 2022-11-13 |
 | [Kanashimi wa Beat ni Kaete \~ Rise and Shine \~ \(Bonus Track\)](https://open.spotify.com/track/3RhVQ3218s7D8IigCIGWeD) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Lapis Lazuli](https://open.spotify.com/album/0Xt59Se0urYzrnJ0OjdVGD) | 5:00 | 2022-06-21 |  |
 | [Kanashimi yo Konnichiwa](https://open.spotify.com/track/6dV9T2lZXxtOy9xFcovDoU) | [Yuki Saitou](https://open.spotify.com/artist/5ySccSThgufSUXyDQHnLae) | [Yuki Saitou Best](https://open.spotify.com/album/2Ro6G8Ovz6oTSSDkr8QRRd) | 3:55 | 2022-06-21 |  |
-| [Kaze no No Reply](https://open.spotify.com/track/6OyDvvdrdhvssug1GOjWs0) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Heavy Metal L\-GAIM Original Motion Picture Soundtrack Vol.3](https://open.spotify.com/album/1byp8BzOw7eFMBjfBCkNA4) | 3:32 | 2022-06-21 |  |
+| [Kaze no No Reply](https://open.spotify.com/track/6OyDvvdrdhvssug1GOjWs0) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Heavy Metal L\-GAIM Original Motion Picture Soundtrack Vol.3](https://open.spotify.com/album/1byp8BzOw7eFMBjfBCkNA4) | 3:32 | 2022-06-21 | 2023-10-24 |
 | [Koi wa Question](https://open.spotify.com/track/3vfAwYTAn0ZnQEPpVGsQUp) | [Onyanko Club](https://open.spotify.com/artist/5qahyxUWCUPR8C1vuGozmH) | [Yume Catalog + Single Collection](https://open.spotify.com/album/6l4mUfoN9qk4Mmwy41WSMg) | 3:11 | 2022-06-21 |  |
 | [Meguriai](https://open.spotify.com/track/5KAtsOhPp2RA4EZvcNdGZK) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Meguriai](https://open.spotify.com/album/71wKz7gWC4CbC0BfblJljt) | 4:23 | 2022-06-21 |  |
 | [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/track/5vuNDp85EOew3Bx63d0SVy) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/album/4b09ZEwTUs3uJKXVzKi823) | 3:41 | 2022-06-21 |  |
@@ -98,6 +98,7 @@
 | [若草の招待状](https://open.spotify.com/track/6WWf2upI711icQGCmpv9NA) | [新田恵利](https://open.spotify.com/artist/2AddL17dmpImYA8LbXtMtz) | [ritardando](https://open.spotify.com/album/04UYRgwT4ALh55IGOSNxFO) | 3:21 | 2021-10-07 | 2022-07-29 |
 | [銀河鉄道999](https://open.spotify.com/track/1V2ajA7srKxFOTANKxBPkj) | [Godiego](https://open.spotify.com/artist/7agr01GMFpbX5ie9UsTGxe) | [GODIEGO GREAT BEST VOL.1 \-Japanese Version\-](https://open.spotify.com/album/5vOjykUiJvjx7aPajz1oNj) | 3:29 | 2021-10-07 |  |
 | [風のノー・リプライ](https://open.spotify.com/track/3nxWrjs5duskSAbTwkN09O) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Reply\~Mami Ayukawa 25th Anniversary Best Album\~](https://open.spotify.com/album/1zkooNcXkwSRYkM2e7blvM) | 3:31 | 2021-10-07 | 2022-07-29 |
+| [風のノー・リプライ](https://open.spotify.com/track/3ILlSLZ35N8arja5mLc6Dl) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [走・DO・愛\(+1\)](https://open.spotify.com/album/6LliY0MiCEdYgKRHQ31Nbu) | 3:33 | 2022-06-21 |  |
 | [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 | 2021-10-07 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-307 songs - 21 hr 31 min
+308 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Caramelo](https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Caramelo](https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi) | 3:18 | 2023-04-15 | 2023-06-01 |
 | [Cariñito](https://open.spotify.com/track/5GmB4sjkog7ETZP7KHMa9L) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [Uno](https://open.spotify.com/album/56b9EFjEu6ugwoingfHFlX) | 3:23 | 2022-04-08 | 2023-03-25 |
 | [Carnavalera](https://open.spotify.com/track/2qyyS2lOdC7oxZDQ7tCuY0) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Carnavalera](https://open.spotify.com/album/2nlKetdWi0Kc4RU1Xe5SPb) | 3:47 | 2022-06-15 | 2023-03-25 |
+| [Carrossel Do Tempo](https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Abrão](https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq) | [Carrossel Do Tempo](https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy) | 4:57 | 2023-10-24 |  |
 | [Chan Chan](https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Chan Chan](https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp) | 4:20 | 2022-02-11 |  |
 | [Chapaleufú](https://open.spotify.com/track/39R3eB7dlQ6R6B4FvZH004) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Chapaleufú](https://open.spotify.com/album/6BlNvXf2jpABrS2LMPA5WN) | 1:59 | 2023-03-23 | 2023-05-09 |
 | [Chapinero](https://open.spotify.com/track/004JVePzMr05q3vP462QPa) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Bennu](https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo) | 3:42 | 2022-06-15 | 2023-03-25 |
@@ -85,7 +86,7 @@
 | [Deep Cumbia](https://open.spotify.com/track/6dfFxwfNJhe1A1vNGioiyL) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Deep Cumbia](https://open.spotify.com/album/4bIjpYcmePHJU30xuxMQCC) | 9:02 | 2022-09-12 | 2022-11-21 |
 | [Dolores](https://open.spotify.com/track/1wXeMZqegwYZ2zWtrwvXab) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Dolores](https://open.spotify.com/album/0WDiOaWlbou6miFDG9sXlZ) | 3:38 | 2022-04-17 | 2023-03-25 |
 | [Don’t You Want My Love](https://open.spotify.com/track/4L60ULqvJpqFReaNwmq8F0) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Forevernevermore](https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36) | 4:24 | 2022-06-15 | 2023-03-25 |
-| [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 | 2023-03-31 |  |
+| [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 | 2023-03-31 | 2023-10-24 |
 | [Duele](https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Duele](https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk) | 3:17 | 2022-06-30 | 2022-08-07 |
 | [Each Time I Think of You](https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF) | [Beach Planet Vol\. 1](https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp) | 6:24 | 2022-01-06 | 2022-07-28 |
 | [Eclipse](https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF) | [XIXA](https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e) | [Eclipse](https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d) | 3:26 | 2022-01-04 | 2022-06-13 |

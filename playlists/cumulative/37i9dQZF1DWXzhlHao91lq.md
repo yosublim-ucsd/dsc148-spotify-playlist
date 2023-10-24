@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-214 songs - 12 hr 13 min
+215 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Catholic Country](https://open.spotify.com/track/6RJq7ki5vvDnLfn8E6EJVV) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:01 | 2023-02-06 |  |
 | [Centre of The Universe](https://open.spotify.com/track/2GUhQOTvUulHaiIXUChVVu) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Corner Of The Sky](https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH) | 3:10 | 2023-01-23 | 2023-03-08 |
 | [Chasing Cars](https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Chasing Cars](https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td) | 4:00 | 2022-08-08 |  |
-| [Cleanup Dive](https://open.spotify.com/track/1MlTuNCsKVdJQLUOGnuX3B) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Cleanup Dive](https://open.spotify.com/album/3Ka7AjpXM0IbrX06vd9gD0) | 4:33 | 2023-10-09 |  |
+| [Cleanup Dive](https://open.spotify.com/track/1MlTuNCsKVdJQLUOGnuX3B) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Cleanup Dive](https://open.spotify.com/album/3Ka7AjpXM0IbrX06vd9gD0) | 4:33 | 2023-10-09 | 2023-10-24 |
 | [Coffee](https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coffee](https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn) | 2:06 | 2022-07-25 | 2022-08-09 |
 | [Coffee](https://open.spotify.com/track/5M2H1LBQqR2O27xXtViMUJ) | [Elise Huang](https://open.spotify.com/artist/7BpTHJjMVI0B2WFeO2UYTi) | [Coffee](https://open.spotify.com/album/56AwFowTnp3nIakuyO12Tm) | 2:13 | 2022-05-30 | 2022-07-19 |
 | [Coffee](https://open.spotify.com/track/2N8HUYJ0oGyByJgkeh5MTS) | [Izzeah](https://open.spotify.com/artist/6oluXlULn1Lvo3Nu64KMbq) | [Coffee](https://open.spotify.com/album/7KmMhkOhc6rXrP877cumyf) | 3:37 | 2022-05-30 | 2022-07-22 |
@@ -219,6 +219,7 @@
 | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6) | 4:17 | 2022-09-05 | 2022-10-08 |
 | [You Are The Reason \- Acoustic, 1 Mic 1 Take/Live From Abbey Road Studios](https://open.spotify.com/track/2L5V8TQCEq5n3CLrjGbWE8) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [You Are The Reason \(Acoustic, 1 Mic 1 Take/Live From Abbey Road Studios\)](https://open.spotify.com/album/5TY5e5pUCFkAkCyFGFzn3P) | 3:48 | 2022-08-08 |  |
 | [You Belong To Somebody Else](https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [You Belong To Somebody Else](https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW) | 3:19 | 2022-08-08 | 2022-11-13 |
+| [You Can't Make Old Friends \- Duet with Dolly Parton](https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [You Can't Make Old Friends](https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr) | 4:02 | 2023-10-23 |  |
 | [you won't be there for me](https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa) | 3:02 | 2023-03-20 |  |
 | [you won't be there for me](https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5) | 3:02 | 2022-05-30 | 2023-03-18 |
 | [—star.](https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [—star.](https://open.spotify.com/album/58b3PoxwilkN0qpqKvKbdP) | 2:33 | 2022-05-30 |  |

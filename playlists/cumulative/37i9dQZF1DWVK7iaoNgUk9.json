@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Bomba Rel\u00f3gio",
+        "url": "https://open.spotify.com/album/2o759BamXSEuef3mFMX00X"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243386,
+      "name": "Bomba Rel\u00f3gio",
+      "url": "https://open.spotify.com/track/3mNdnKuJz4R0doVNRsTvoZ"
+    },
+    {
+      "album": {
         "name": "Butterflies (feat. AURORA)",
         "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
@@ -164,7 +182,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 203713,
       "name": "Carta Aberta",
       "url": "https://open.spotify.com/track/69Q81hch5PAcKbqAXuFfej"
@@ -261,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Flor Amarela",
+        "url": "https://open.spotify.com/album/50zdS8nWJJD0ebwieCj75H"
+      },
+      "artists": [
+        {
+          "name": "Hiosaki",
+          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168608,
+      "name": "Flor Amarela",
+      "url": "https://open.spotify.com/track/4FnrU3thkxYKlnF8TuFGXm"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc"
       },
@@ -272,7 +308,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 213752,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB"
@@ -402,6 +438,24 @@
       "duration_ms": 289160,
       "name": "I Have Nothing",
       "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233617,
+      "name": "I Knew You Were Trouble - Spotify Singles",
+      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
     },
     {
       "album": {
@@ -625,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Ouvir de Voc\u00ea",
+        "url": "https://open.spotify.com/album/2mZFuNLqIkfiNUHK9Tj7t0"
+      },
+      "artists": [
+        {
+          "name": "Eu, Trovador",
+          "url": "https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173652,
+      "name": "Ouvir de Voc\u00ea",
+      "url": "https://open.spotify.com/track/5oJwxHCv7aOtdqWx0wbcKN"
+    },
+    {
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },
@@ -694,7 +766,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 217486,
       "name": "puro osso",
       "url": "https://open.spotify.com/track/7v7Nd6owrtzpCuSttYrrfp"
@@ -864,7 +936,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 142889,
       "name": "TE ODEIO",
       "url": "https://open.spotify.com/track/5W9RiXy0RIO3sQi2dQxF96"

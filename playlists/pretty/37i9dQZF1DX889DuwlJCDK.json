@@ -1,12 +1,12 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u30af\u30ec\u30ca\u30ba\u30e0",
-  "num_followers": 9751,
+  "num_followers": 9750,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzRlNjdlMWY4YjkyMmJhYTYwNGI5ZjIwZjhmNzIwOTI4Zjg3YWRm",
+  "snapshot_id": "MCw1NzFlYmI1NGM1Y2RkMDk2NmRjNGUwMzgxNGIxYjYyODI4YmQ2MDQ4",
   "tracks": [
     {
       "added_at": "2023-10-19 15:56:21",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-10-19 15:56:21",
       "album": {
-        "name": "\u9762\u5f71",
-        "url": "https://open.spotify.com/album/5R7LwvTXIV3PLZDLl4azxs"
-      },
-      "artists": [
-        {
-          "name": "Novelbright",
-          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "\u9762\u5f71",
-      "url": "https://open.spotify.com/track/6jVB9KPnnGl8Reyl8lhErl"
-    },
-    {
-      "added_at": "2023-10-19 15:56:21",
-      "album": {
         "name": "TRIANGLE",
         "url": "https://open.spotify.com/album/0qPfscvdw2qb2w68HydRUD"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 232280,
       "name": "\u6c88\u4e01\u82b1",
       "url": "https://open.spotify.com/track/6JpqwdFajjlWIWJ4QD6zBd"
+    },
+    {
+      "added_at": "2023-10-19 15:56:21",
+      "album": {
+        "name": "\u9762\u5f71",
+        "url": "https://open.spotify.com/album/5R7LwvTXIV3PLZDLl4azxs"
+      },
+      "artists": [
+        {
+          "name": "Novelbright",
+          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "\u9762\u5f71",
+      "url": "https://open.spotify.com/track/6jVB9KPnnGl8Reyl8lhErl"
     },
     {
       "added_at": "2023-10-19 15:56:21",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-10-19 15:56:21",
       "album": {
-        "name": "Lazy Sunday",
-        "url": "https://open.spotify.com/album/2EqGqT6xIeNpaJJe5yjFr3"
-      },
-      "artists": [
-        {
-          "name": "Saucy Dog",
-          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
-        }
-      ],
-      "duration_ms": 234323,
-      "name": "Cinderella Boy",
-      "url": "https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV"
-    },
-    {
-      "added_at": "2023-10-19 15:56:21",
-      "album": {
         "name": "BORDER",
         "url": "https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 175500,
       "name": "BORDER",
       "url": "https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK"
+    },
+    {
+      "added_at": "2023-10-19 15:56:21",
+      "album": {
+        "name": "Lazy Sunday",
+        "url": "https://open.spotify.com/album/2EqGqT6xIeNpaJJe5yjFr3"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "duration_ms": 234323,
+      "name": "Cinderella Boy",
+      "url": "https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV"
     },
     {
       "added_at": "2023-10-19 15:56:21",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-10-19 15:56:21",
       "album": {
+        "name": "\u98a8\u306e\u5642",
+        "url": "https://open.spotify.com/album/22gvgKShk2m1bbuecfgEP5"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
+          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "\u98a8\u306e\u5642",
+      "url": "https://open.spotify.com/track/0XF71aEbLVIqAkvOdnf8YA"
+    },
+    {
+      "added_at": "2023-10-19 15:56:21",
+      "album": {
         "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30a2",
         "url": "https://open.spotify.com/album/2d10zH0AGWJj0StVZPpRAS"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 149562,
       "name": "OUR-AWA-HOUR!!",
       "url": "https://open.spotify.com/track/3pzF6qBlLfGG2rk8QIQ8xH"
-    },
-    {
-      "added_at": "2023-10-19 15:56:21",
-      "album": {
-        "name": "\u98a8\u306e\u5642",
-        "url": "https://open.spotify.com/album/22gvgKShk2m1bbuecfgEP5"
-      },
-      "artists": [
-        {
-          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
-          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "\u98a8\u306e\u5642",
-      "url": "https://open.spotify.com/track/0XF71aEbLVIqAkvOdnf8YA"
     },
     {
       "added_at": "2023-10-19 15:56:21",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-10-19 15:56:21",
       "album": {
-        "name": "baby blue eyes",
-        "url": "https://open.spotify.com/album/1GGa1VAV3dcPJRCIT7Y8ue"
-      },
-      "artists": [
-        {
-          "name": "Conton Candy",
-          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "baby blue eyes",
-      "url": "https://open.spotify.com/track/1ZH8xfse7AimYhri5u29ew"
-    },
-    {
-      "added_at": "2023-10-19 15:56:21",
-      "album": {
         "name": "\u304d\u3089\u3081\u304f\u304d\u3082\u3061",
         "url": "https://open.spotify.com/album/3T3gQxuV6JwbF7aBfyjnIv"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 227633,
       "name": "\u304d\u3089\u3081\u304f\u304d\u3082\u3061",
       "url": "https://open.spotify.com/track/1il4JWtRPTqenADdwd1nxw"
+    },
+    {
+      "added_at": "2023-10-19 15:56:21",
+      "album": {
+        "name": "baby blue eyes",
+        "url": "https://open.spotify.com/album/1GGa1VAV3dcPJRCIT7Y8ue"
+      },
+      "artists": [
+        {
+          "name": "Conton Candy",
+          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "baby blue eyes",
+      "url": "https://open.spotify.com/track/1ZH8xfse7AimYhri5u29ew"
     },
     {
       "added_at": "2023-10-19 15:56:21",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-10-19 15:56:21",
       "album": {
-        "name": "Departure : My New Me",
-        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 170294,
-      "name": "Happy Sad",
-      "url": "https://open.spotify.com/track/232oLu8Rkz7YBt0oUcfy7i"
-    },
-    {
-      "added_at": "2023-10-19 15:56:21",
-      "album": {
         "name": "\u7d14\u7570\u6027\u4ea4\u904a",
         "url": "https://open.spotify.com/album/5RRIY9T0OriPLPweISEIF3"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 238466,
       "name": "DAY DREAM BEAT",
       "url": "https://open.spotify.com/track/3RTwBdZ4AbiIwiUwcblBCs"
+    },
+    {
+      "added_at": "2023-10-19 15:56:21",
+      "album": {
+        "name": "Departure : My New Me",
+        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "duration_ms": 170294,
+      "name": "Happy Sad",
+      "url": "https://open.spotify.com/track/232oLu8Rkz7YBt0oUcfy7i"
     },
     {
       "added_at": "2023-10-19 15:56:21",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-10-19 15:56:21",
       "album": {
-        "name": "\u3055\u3088u\u306a\u3089",
-        "url": "https://open.spotify.com/album/4Jh1hxtZ0WbjVTnsK1KoGz"
-      },
-      "artists": [
-        {
-          "name": "Cody\u30fbLee(\u674e)",
-          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
-        }
-      ],
-      "duration_ms": 291857,
-      "name": "\u3055\u3088u\u306a\u3089",
-      "url": "https://open.spotify.com/track/0bELtgWGunnj4aElCUgHje"
-    },
-    {
-      "added_at": "2023-10-19 15:56:21",
-      "album": {
         "name": "NEW BORN GHOST",
         "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 207101,
       "name": "\u82b1\u74f6",
       "url": "https://open.spotify.com/track/4cJRvfyxLWzJKlQtuBwafi"
+    },
+    {
+      "added_at": "2023-10-19 15:56:21",
+      "album": {
+        "name": "\u3055\u3088u\u306a\u3089",
+        "url": "https://open.spotify.com/album/4Jh1hxtZ0WbjVTnsK1KoGz"
+      },
+      "artists": [
+        {
+          "name": "Cody\u30fbLee(\u674e)",
+          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
+        }
+      ],
+      "duration_ms": 291857,
+      "name": "\u3055\u3088u\u306a\u3089",
+      "url": "https://open.spotify.com/track/0bELtgWGunnj4aElCUgHje"
     },
     {
       "added_at": "2023-10-19 15:56:21",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-10-19 15:56:21",
       "album": {
-        "name": "\u30e9\u30f4\u30a3\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/2pwuHsLpBLEzyH0LutULfq"
-      },
-      "artists": [
-        {
-          "name": "\u540d\u8a89\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
-        }
-      ],
-      "duration_ms": 224545,
-      "name": "\u30e9\u30f4\u30a3\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/2CilkMMofhv0H1o7U8C0lR"
-    },
-    {
-      "added_at": "2023-10-19 15:56:21",
-      "album": {
         "name": "\u604b\u306e\u30b8\u30e3\u30fc\u30ca\u30eb",
         "url": "https://open.spotify.com/album/1oRp7okGGR1nfSNBirPdwX"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 220545,
       "name": "\u604b\u306e\u30b8\u30e3\u30fc\u30ca\u30eb",
       "url": "https://open.spotify.com/track/7ue4j1Jq6f1xdgH5LXIxW6"
+    },
+    {
+      "added_at": "2023-10-19 15:56:21",
+      "album": {
+        "name": "\u30e9\u30f4\u30a3\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/2pwuHsLpBLEzyH0LutULfq"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+        }
+      ],
+      "duration_ms": 224545,
+      "name": "\u30e9\u30f4\u30a3\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/2CilkMMofhv0H1o7U8C0lR"
     },
     {
       "added_at": "2023-10-19 15:56:21",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-10-19 15:56:21",
       "album": {
-        "name": "\u8cb4\u65b9\u4f9d\u5b58\u75c7",
-        "url": "https://open.spotify.com/album/0ONjD4LBW7N5V1XC6KcjT4"
-      },
-      "artists": [
-        {
-          "name": "\u30ac\u30e9\u30af\u30bf",
-          "url": "https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA"
-        }
-      ],
-      "duration_ms": 156200,
-      "name": "\u8cb4\u65b9\u4f9d\u5b58\u75c7",
-      "url": "https://open.spotify.com/track/1i9rg9GEjQCrVC5PzaDOHD"
-    },
-    {
-      "added_at": "2023-10-19 15:56:21",
-      "album": {
         "name": "hanauranai",
         "url": "https://open.spotify.com/album/2gLyYw3cvmX4w595loLnqe"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 207555,
       "name": "hanauranai",
       "url": "https://open.spotify.com/track/3MSqycwh9ypAp45GaqudLo"
+    },
+    {
+      "added_at": "2023-10-19 15:56:21",
+      "album": {
+        "name": "\u8cb4\u65b9\u4f9d\u5b58\u75c7",
+        "url": "https://open.spotify.com/album/0ONjD4LBW7N5V1XC6KcjT4"
+      },
+      "artists": [
+        {
+          "name": "\u30ac\u30e9\u30af\u30bf",
+          "url": "https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "\u8cb4\u65b9\u4f9d\u5b58\u75c7",
+      "url": "https://open.spotify.com/track/1i9rg9GEjQCrVC5PzaDOHD"
     },
     {
       "added_at": "2023-10-19 15:56:21",

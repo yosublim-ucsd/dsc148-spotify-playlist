@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,736 likes - 103 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,733 likes - 103 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 102 | [take it all in](https://open.spotify.com/track/7GhfkD935fDK3NXrjP4rjM) | [DEHAZE](https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4) | [take it all in](https://open.spotify.com/album/0CUHlcQMzx7jRfzRWJnjJ8) | 2:34 |
 | 103 | [Joyride \(feat\. Kyle Reynolds\)](https://open.spotify.com/track/4yh0WPQgbBAXitxDTf9hZ8) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Joyride \(feat\. Kyle Reynolds\)](https://open.spotify.com/album/0akckUxwan3l9oA8ZHgwDj) | 2:42 |
 
-Snapshot ID: `MCwwNzY5Nzk2MmE0ZDMwNmY5OGUxZjFhY2RmNzg5MDM3NTU0ZDEzYTEz`
+Snapshot ID: `MCxkMGI0MGRiMTc0ZDFiMzhiM2YxOWE2NGZiMzU2YjAwNDk1ZWQ0NTky`

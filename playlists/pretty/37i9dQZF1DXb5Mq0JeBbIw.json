@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 4466,
+  "num_followers": 4495,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjIzM2Q1NTNlMzk2MGMwMDc1NzcyMzY0MDg4NDlkZjkxNWViMDY2",
+  "snapshot_id": "MCxjYTIzOTFlZGQwYTc5NGE0ZWQxNTYzN2E3ZTg4NzBkZDQ2ZTljN2Vl",
   "tracks": [
     {
       "added_at": "2023-10-10 12:23:51",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Darling Arithmetic",
         "url": "https://open.spotify.com/album/1hrv3F7Fbi9gMPkkcwCxRG"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 210013,
       "name": "Everything I Am Is Yours",
       "url": "https://open.spotify.com/track/281ioxkZbJ3p9hCvjD2bon"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -321,22 +321,6 @@
       "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
     },
     {
-      "added_at": "2023-02-24 11:06:00",
-      "album": {
-        "name": "Mean It",
-        "url": "https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 171138,
-      "name": "Mean It",
-      "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Four Songs",
@@ -391,6 +375,22 @@
       "duration_ms": 181293,
       "name": "Starving - Acoustic",
       "url": "https://open.spotify.com/track/3rdTo5LQGou3pS2ZLxTAcQ"
+    },
+    {
+      "added_at": "2023-02-24 11:06:00",
+      "album": {
+        "name": "Mean It",
+        "url": "https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 171138,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Please Keep Loving Me (Acoustic)",
-        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "Please Keep Loving Me - Acoustic",
-      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Fill Me Up",
         "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 154560,
       "name": "Fill Me Up",
       "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Please Keep Loving Me (Acoustic)",
+        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Please Keep Loving Me - Acoustic",
+      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo"
     },
     {
-      "added_at": "2023-05-19 09:18:00",
-      "album": {
-        "name": "Meltdown (Acoustic)",
-        "url": "https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 224487,
-      "name": "Meltdown - Acoustic",
-      "url": "https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Free",
@@ -895,6 +879,22 @@
       "duration_ms": 199462,
       "name": "Free",
       "url": "https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB"
+    },
+    {
+      "added_at": "2023-05-19 09:18:00",
+      "album": {
+        "name": "Meltdown (Acoustic)",
+        "url": "https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 224487,
+      "name": "Meltdown - Acoustic",
+      "url": "https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 182920,
-      "name": "So Sick - Acoustic",
-      "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 164897,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 182920,
+      "name": "So Sick - Acoustic",
+      "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Deny Me",
-        "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
-      },
-      "artists": [
-        {
-          "name": "Grace Gardner",
-          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
-        }
-      ],
-      "duration_ms": 307620,
-      "name": "Deny Me",
-      "url": "https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Bizarre Love Triangle (Acoustic)",
         "url": "https://open.spotify.com/album/3a3gzYfRlPhOdTpw8CO4Rb"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 131644,
       "name": "Bizarre Love Triangle - Acoustic",
       "url": "https://open.spotify.com/track/0PGDrKpe6yHPNRP1eSvCFy"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Deny Me",
+        "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
+      },
+      "artists": [
+        {
+          "name": "Grace Gardner",
+          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
+        }
+      ],
+      "duration_ms": 307620,
+      "name": "Deny Me",
+      "url": "https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Wait & See",
-        "url": "https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH"
-      },
-      "artists": [
-        {
-          "name": "Mabes",
-          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
-        }
-      ],
-      "duration_ms": 174267,
-      "name": "Wait & See",
-      "url": "https://open.spotify.com/track/5x0tGUVj3sAwpGISvqlqCe"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Hold On To Happiness",
         "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 217306,
       "name": "Hold On To Happiness",
       "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Wait & See",
+        "url": "https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH"
+      },
+      "artists": [
+        {
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
+        }
+      ],
+      "duration_ms": 174267,
+      "name": "Wait & See",
+      "url": "https://open.spotify.com/track/5x0tGUVj3sAwpGISvqlqCe"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI"
     },
     {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Find You (Acoustic)",
-        "url": "https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        }
-      ],
-      "duration_ms": 195173,
-      "name": "Find You - Acoustic",
-      "url": "https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10"
-    },
-    {
       "added_at": "2023-06-23 11:57:00",
       "album": {
         "name": "Can\u2019t Forget You (feat. James Blunt) [Acoustic]",
@@ -1579,6 +1563,38 @@
       "duration_ms": 145521,
       "name": "Can\u2019t Forget You (feat. James Blunt) - Acoustic",
       "url": "https://open.spotify.com/track/00REq7wkCPg0Cv4uLHUZ25"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Find You (Acoustic)",
+        "url": "https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "duration_ms": 195173,
+      "name": "Find You - Acoustic",
+      "url": "https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "Better Than Today",
+      "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1611,22 +1627,6 @@
       "duration_ms": 213658,
       "name": "I'm Not The Only One - Acoustic Version",
       "url": "https://open.spotify.com/track/4CtKNyoQqS7Tm2fsftrNy9"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "Better Than Today",
-      "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
     },
     {
       "added_at": "2023-02-10 06:37:00",

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 126369,
+  "num_followers": 126435,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjllMmUyMjgyZDRkNTMwYzViOWI0YWY2N2JiODNlMTEyOGVlOTM3",
+  "snapshot_id": "MCxkYmNkYmU3MDQ4NGE3NzdmM2JlZTA5YjdmNjgyOWRjNmYwNGMwMjQz",
   "tracks": [
     {
       "added_at": "2023-06-19 13:01:14",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz"
-      },
-      "artists": [
-        {
-          "name": "Pinetree Way",
-          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
-        }
-      ],
-      "duration_ms": 241374,
-      "name": "Chill Waves & Wind in Leaves",
-      "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Soothing Birdsong by the River",
         "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 175813,
       "name": "Singing Birds by the Stream",
       "url": "https://open.spotify.com/track/4x01eyysDx5Y4xS1LP6nHK"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz"
+      },
+      "artists": [
+        {
+          "name": "Pinetree Way",
+          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
+        }
+      ],
+      "duration_ms": 241374,
+      "name": "Chill Waves & Wind in Leaves",
+      "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
+        "name": "Rainmaker",
+        "url": "https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5"
+      },
+      "artists": [
+        {
+          "name": "Pinetree Way",
+          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
+        }
+      ],
+      "duration_ms": 230983,
+      "name": "Rain Forest Meditation",
+      "url": "https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
         "name": "Soothing River Sounds",
         "url": "https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap"
       },
@@ -395,18 +411,18 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Rainmaker",
-        "url": "https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5"
+        "name": "Suburban Forest Rain",
+        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
       },
       "artists": [
         {
-          "name": "Pinetree Way",
-          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
+          "name": "Aquagirl",
+          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
         }
       ],
-      "duration_ms": 230983,
-      "name": "Rain Forest Meditation",
-      "url": "https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF"
+      "duration_ms": 129000,
+      "name": "Suburban Forest Rain 2",
+      "url": "https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -443,22 +459,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Suburban Forest Rain",
-        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
-      },
-      "artists": [
-        {
-          "name": "Aquagirl",
-          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Suburban Forest Rain 2",
-      "url": "https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Thunderstorms vol II",
         "url": "https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 228500,
       "name": "Dripping Wet Leaves and Thunder",
       "url": "https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
-        "name": "Light Forest Rain",
-        "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
-      },
-      "artists": [
-        {
-          "name": "Smoothe Sounds",
-          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Light Forest Rain 1",
-      "url": "https://open.spotify.com/track/14oV03JSrcUShNmJw0qUvH"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -539,6 +523,22 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
+        "name": "Light Forest Rain",
+        "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
+      },
+      "artists": [
+        {
+          "name": "Smoothe Sounds",
+          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Light Forest Rain 1",
+      "url": "https://open.spotify.com/track/14oV03JSrcUShNmJw0qUvH"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 249739,
       "name": "Wave Foam",
       "url": "https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
-        "name": "Healing Rainforest",
-        "url": "https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB"
-      },
-      "artists": [
-        {
-          "name": "Manaus",
-          "url": "https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Walking In The Rainforest",
-      "url": "https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -587,6 +571,22 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
+        "name": "Healing Rainforest",
+        "url": "https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB"
+      },
+      "artists": [
+        {
+          "name": "Manaus",
+          "url": "https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Walking In The Rainforest",
+      "url": "https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
         "name": "Ocean Noises",
         "url": "https://open.spotify.com/album/0szLMw3GmyGkoN7KVS39Mk"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 247471,
       "name": "By The Docks",
       "url": "https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "2017 Relaxing Outdoor Soundscapes",
+        "url": "https://open.spotify.com/album/7e4uRRWT82EWgnkCfUzp2l"
+      },
+      "artists": [
+        {
+          "name": "Nature Recordings",
+          "url": "https://open.spotify.com/artist/6IJx7h0cuM3736FwR8Myiv"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "Birds by the Stream",
+      "url": "https://open.spotify.com/track/3458IPEk4hUgltmvecrYsJ"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -631,22 +647,6 @@
       "duration_ms": 258000,
       "name": "Light Forest Rain Long",
       "url": "https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
-        "name": "2017 Relaxing Outdoor Soundscapes",
-        "url": "https://open.spotify.com/album/7e4uRRWT82EWgnkCfUzp2l"
-      },
-      "artists": [
-        {
-          "name": "Nature Recordings",
-          "url": "https://open.spotify.com/artist/6IJx7h0cuM3736FwR8Myiv"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "Birds by the Stream",
-      "url": "https://open.spotify.com/track/3458IPEk4hUgltmvecrYsJ"
     },
     {
       "added_at": "2023-06-19 13:01:14",

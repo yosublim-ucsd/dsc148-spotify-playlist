@@ -3589,6 +3589,24 @@
     },
     {
       "album": {
+        "name": "Pretty Little Poison",
+        "url": "https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167173,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/5Jbl0Ha0N78bQCO3tngm4w"
+    },
+    {
+      "album": {
         "name": "EOM - EP",
         "url": "https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d"
       },
@@ -4972,7 +4990,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 133629,
       "name": "Up To No Good",
       "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: MICHELLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,313 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,353 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 39 | [Lover or an Enemy](https://open.spotify.com/track/5bJvk3oiSK1QvDT7tFijgR) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Lover or an Enemy](https://open.spotify.com/album/51HxAKNk0UR0JITtYpq12L) | 3:19 |
 | 40 | [Cruise Control](https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 2](https://open.spotify.com/album/6yy1V5XpYgD9u7s6mDBxxL) | 3:22 |
 | 41 | [Somebody To You \(feat\. Cory Wong & Vincen García\)](https://open.spotify.com/track/0vigaWzrt5hQlfUuirda0o) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Vincen García](https://open.spotify.com/artist/1E17v2QgyFXkqxsHngr6YD) | [The End](https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6) | 4:11 |
-| 42 | [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 |
+| 42 | [You Don't Even](https://open.spotify.com/track/6jTGHYU466eF0XxVOQuQMy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/1Vw2QQWVguHw3kTwCq3kaf) | 2:18 |
 | 43 | [Kind Of Love](https://open.spotify.com/track/4gBrsChuCwPofDjaF4O16S) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd) | [to whoever wants to hear](https://open.spotify.com/album/6O3hKc6RYsOsDWsfvh40uA) | 2:16 |
 | 44 | [This Heaven's Tall](https://open.spotify.com/track/3HlqOKYnN3YVyidIpwDgyV) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [This Heaven's Tall](https://open.spotify.com/album/3575vw7cA6K3kHx3fVaUFN) | 3:34 |
 | 45 | [SEASONS](https://open.spotify.com/track/0LewCveaX3x2WWdJr0OQVu) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [SEASONS](https://open.spotify.com/album/6SfEC8qfzS8BlRZhoKnLNw) | 2:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 74 | [Ruin My Life](https://open.spotify.com/track/64239Uo0wTZHwUVipPzBbw) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [The Last Songs I'll Write About You \(for real\)](https://open.spotify.com/album/49uA6OX4uL1St7ZPWJ4kGD) | 3:40 |
 | 75 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 
-Snapshot ID: `MCxmMzkxNGMyMWEzM2RjYjk3ZWYxNTBlOTZjYzE2NDQ2NzZkMGUwYzI2`
+Snapshot ID: `MCwwNjUxY2VhZDliMDlkM2FiMzQ0MjgyMDhmNmYzZGZlNDU5MjczMjIw`

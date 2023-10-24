@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 759090,
+  "num_followers": 759649,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmY5OWUzZWJlYjZjZGE2YWFkNjNmMmM2MjIwOWNiNDJmYTY2YzBi",
+  "snapshot_id": "MCwyZWIyYzY3NWQxMDM0M2NmODg1YWVhMDE1YTY5MWNlZWIzMTc5NTUy",
   "tracks": [
     {
       "added_at": "2023-07-03 13:15:34",
@@ -243,26 +243,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 217906,
-      "name": "Move Your Body - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Wounded Rhymes (Anniversary Edition)",
         "url": "https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 279635,
       "name": "I Follow Rivers - The Magician Remix",
       "url": "https://open.spotify.com/track/3zNNXjjjeLrzIXSJZKalDi"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Everybody Wants To Party",
+        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "duration_ms": 184838,
+      "name": "Everybody Wants To Party",
+      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -307,22 +307,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Everybody Wants To Party",
-        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
       "artists": [
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         },
         {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         }
       ],
-      "duration_ms": 184838,
-      "name": "Everybody Wants To Party",
-      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
+      "duration_ms": 217906,
+      "name": "Move Your Body - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "24K Magic (R3hab Remix)",
-        "url": "https://open.spotify.com/album/1onK6XeDccA2NW6SlzQMNK"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 158678,
-      "name": "24K Magic - R3hab Remix",
-      "url": "https://open.spotify.com/track/1nSzCAvAvzJj5oIt7m90G0"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Ain't My Fault (R3hab Remix)",
         "url": "https://open.spotify.com/album/2GmlMoRLlTxdQHpgrgaeAT"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 156960,
       "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
       "url": "https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "24K Magic (R3hab Remix)",
+        "url": "https://open.spotify.com/album/1onK6XeDccA2NW6SlzQMNK"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 158678,
+      "name": "24K Magic - R3hab Remix",
+      "url": "https://open.spotify.com/track/1nSzCAvAvzJj5oIt7m90G0"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -971,6 +971,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Faded (Remixes)",
+        "url": "https://open.spotify.com/album/1iyzvyJg2grVy8cMdRSL08"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 250280,
+      "name": "Faded - Tiesto's Northern Lights Remix",
+      "url": "https://open.spotify.com/track/7MDobIiZKLbDDibHDA1fl8"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "I Like It",
         "url": "https://open.spotify.com/album/6oRrfGcUeAwfX1lTdxZFFj"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 219200,
       "name": "I Like It - Dillon Francis Remix",
       "url": "https://open.spotify.com/track/6WK7h2WfMmnX7zOZnfzoYo"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Faded (Remixes)",
-        "url": "https://open.spotify.com/album/1iyzvyJg2grVy8cMdRSL08"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 250280,
-      "name": "Faded - Tiesto's Northern Lights Remix",
-      "url": "https://open.spotify.com/track/7MDobIiZKLbDDibHDA1fl8"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1427,6 +1427,30 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Promises (with Sam Smith) [Remixes]",
+        "url": "https://open.spotify.com/album/7g15PlMnaKmFMUsSpR8aZt"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 190416,
+      "name": "Promises (with Sam Smith) - David Guetta Remix",
+      "url": "https://open.spotify.com/track/3Lv3frZVXU7Q0JEFvLIzWW"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Uptown Funk (Remixes) (feat. Bruno Mars)",
         "url": "https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK"
       },
@@ -1471,6 +1495,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Get Weird - Rarities & Remixes",
+        "url": "https://open.spotify.com/album/03byBYXGfV7seOUDb645TJ"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Cahill",
+          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
+        }
+      ],
+      "duration_ms": 198909,
+      "name": "Black Magic - Cahill Remix",
+      "url": "https://open.spotify.com/track/5MeTUONtAo08JqtGPljSxv"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]",
         "url": "https://open.spotify.com/album/0HBmioJcxItnT9WIenDDdd"
       },
@@ -1495,50 +1539,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Promises (with Sam Smith) [Remixes]",
-        "url": "https://open.spotify.com/album/7g15PlMnaKmFMUsSpR8aZt"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 190416,
-      "name": "Promises (with Sam Smith) - David Guetta Remix",
-      "url": "https://open.spotify.com/track/3Lv3frZVXU7Q0JEFvLIzWW"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Get Weird - Rarities & Remixes",
-        "url": "https://open.spotify.com/album/03byBYXGfV7seOUDb645TJ"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        },
-        {
-          "name": "Cahill",
-          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
-        }
-      ],
-      "duration_ms": 198909,
-      "name": "Black Magic - Cahill Remix",
-      "url": "https://open.spotify.com/track/5MeTUONtAo08JqtGPljSxv"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Ruin My Life (Remixes)",
         "url": "https://open.spotify.com/album/6rWRg6yLGcLdG0IRaCB9LN"
       },
@@ -1555,26 +1555,6 @@
       "duration_ms": 177096,
       "name": "Ruin My Life - Steve James Remix",
       "url": "https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Don't Start Now (Remixes)",
-        "url": "https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Don't Start Now - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/2JzErxvclrRRG9bj9dEXR3"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1623,6 +1603,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Don't Start Now (Remixes)",
+        "url": "https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Don't Start Now - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/2JzErxvclrRRG9bj9dEXR3"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Insomnia (King Topher Remix)",
         "url": "https://open.spotify.com/album/50HIbfbrQemacUUAD9UfNX"
       },
@@ -1639,30 +1639,6 @@
       "duration_ms": 176097,
       "name": "Insomnia - King Topher Remix",
       "url": "https://open.spotify.com/track/52Y5nYBQgqawttJxxtUv1e"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Scared To Be Lonely Remixes Vol. 1",
-        "url": "https://open.spotify.com/album/5dwSRV6U5oyxplujp17RQQ"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Brooks",
-          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
-        }
-      ],
-      "duration_ms": 200624,
-      "name": "Scared To Be Lonely - Brooks Remix",
-      "url": "https://open.spotify.com/track/389MC596K4IN35zaHAyuYz"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1687,6 +1663,30 @@
       "duration_ms": 161120,
       "name": "Closer - R3hab Remix",
       "url": "https://open.spotify.com/track/0Ye1olMyvB2rLjZ4vlYVWI"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Scared To Be Lonely Remixes Vol. 1",
+        "url": "https://open.spotify.com/album/5dwSRV6U5oyxplujp17RQQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Brooks",
+          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+        }
+      ],
+      "duration_ms": 200624,
+      "name": "Scared To Be Lonely - Brooks Remix",
+      "url": "https://open.spotify.com/track/389MC596K4IN35zaHAyuYz"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -2115,38 +2115,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Lose Control (The Remixes, Pt. 2)",
-        "url": "https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
-          "name": "ChildsPlay",
-          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
-        },
-        {
-          "name": "Badd Dimes",
-          "url": "https://open.spotify.com/artist/4ddhmWe0fgEqOyb2kihLWB"
-        }
-      ],
-      "duration_ms": 207021,
-      "name": "Lose Control - ChildsPlay & Badd Dimes Remix",
-      "url": "https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "So Am I (The Remixes)",
         "url": "https://open.spotify.com/album/6KhCN8NyJwcg0FDSAJF4ja"
       },
@@ -2187,6 +2155,38 @@
       "duration_ms": 173440,
       "name": "First Time - Gryffin Remix",
       "url": "https://open.spotify.com/track/6LIe9o2p1xfj72rx4NDY8k"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Lose Control (The Remixes, Pt. 2)",
+        "url": "https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "ChildsPlay",
+          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
+        },
+        {
+          "name": "Badd Dimes",
+          "url": "https://open.spotify.com/artist/4ddhmWe0fgEqOyb2kihLWB"
+        }
+      ],
+      "duration_ms": 207021,
+      "name": "Lose Control - ChildsPlay & Badd Dimes Remix",
+      "url": "https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m"
     }
   ],
   "unique_name": "Remix Hits",

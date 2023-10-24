@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 187883,
+  "num_followers": 188025,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjBlZmNmZjEwMGM0NjNlZTk4MDNlZjQzYTJiYjhjZDI4ZGMyMTFi",
+  "snapshot_id": "MCxhNzRmODkzMTUxMjEyODAyZTg2ZTE1NjA0MDNiZTM2MWM3YzNmOTkx",
   "tracks": [
     {
       "added_at": "2022-01-25 23:38:31",
@@ -139,22 +139,18 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Dos Idolos Cantando",
-        "url": "https://open.spotify.com/album/34xJsekBz5oh2dgmc0tAfy"
+        "name": "Rancher\u00edsimo, Vol. 2",
+        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
       },
       "artists": [
         {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        },
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 173200,
-      "name": "En Mi Viejo San Juan (with Javier Sol\u00eds)",
-      "url": "https://open.spotify.com/track/07dcCkp3Eyx0UrqVRT8k6B"
+      "duration_ms": 195117,
+      "name": "El Hijo Desobediente",
+      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -175,34 +171,22 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+        "name": "Dos Idolos Cantando",
+        "url": "https://open.spotify.com/album/34xJsekBz5oh2dgmc0tAfy"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "Estos Celos",
-      "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
-        "name": "Rancher\u00edsimo, Vol. 2",
-        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
-      },
-      "artists": [
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        },
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 195117,
-      "name": "El Hijo Desobediente",
-      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
+      "duration_ms": 173200,
+      "name": "En Mi Viejo San Juan (with Javier Sol\u00eds)",
+      "url": "https://open.spotify.com/track/07dcCkp3Eyx0UrqVRT8k6B"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -235,6 +219,38 @@
       "duration_ms": 137120,
       "name": "En el \u00daltimo Trago",
       "url": "https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "Estos Celos",
+      "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
+        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Fallaste Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -303,18 +319,18 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
-        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
       },
       "artists": [
         {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 226324,
-      "name": "Fallaste Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -335,18 +351,18 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+        "name": "RCA 100 Anos De Musica - Segunda Parte",
+        "url": "https://open.spotify.com/album/2A95eoCbJRaNzcf7PCxATm"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
         }
       ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
+      "duration_ms": 219720,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/2r0EW4QDRuYwWrXlVcTVK1"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -367,22 +383,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Canciones De Sus Peliculas",
-        "url": "https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/1Hh7gEOhoCBG1ob7Aw6biK"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "Las 100 Clasicas Vol. 2",
         "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
       },
@@ -395,38 +395,6 @@
       "duration_ms": 144706,
       "name": "Si Nos Dejan",
       "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
-        "name": "RCA 100 Anos De Musica - Segunda Parte",
-        "url": "https://open.spotify.com/album/2A95eoCbJRaNzcf7PCxATm"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/2r0EW4QDRuYwWrXlVcTVK1"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
-        "name": "Rancheras de Relajo",
-        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 224525,
-      "name": "La Chancla",
-      "url": "https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -447,24 +415,8 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Que Te Vaya Bonito",
-        "url": "https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 159333,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/78SCz6GkX5zPta7X1DsZnZ"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
-        "name": "Javier Solis Con Acoo De Mariachi",
-        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
+        "name": "Canciones De Sus Peliculas",
+        "url": "https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL"
       },
       "artists": [
         {
@@ -472,9 +424,41 @@
           "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 159666,
-      "name": "Y...",
-      "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
+      "duration_ms": 150666,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/1Hh7gEOhoCBG1ob7Aw6biK"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Rancheras de Relajo",
+        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 224525,
+      "name": "La Chancla",
+      "url": "https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 137493,
+      "name": "Los Laureles",
+      "url": "https://open.spotify.com/track/1zFYkxUs2fESIauv11Mu3w"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -495,6 +479,22 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
+        "name": "Que Te Vaya Bonito",
+        "url": "https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 159333,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/78SCz6GkX5zPta7X1DsZnZ"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
         "name": "15 Inmortales de Pedro Infante",
         "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
       },
@@ -511,18 +511,18 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+        "name": "Javier Solis Con Acoo De Mariachi",
+        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
       },
       "artists": [
         {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 137493,
-      "name": "Los Laureles",
-      "url": "https://open.spotify.com/track/1zFYkxUs2fESIauv11Mu3w"
+      "duration_ms": 159666,
+      "name": "Y...",
+      "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
     },
     {
       "added_at": "2022-01-25 23:38:31",

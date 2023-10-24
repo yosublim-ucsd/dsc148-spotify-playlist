@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 
 > ¡Estos son los hits de la electrónica en el 2023!
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,089 likes - 150 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,821 likes - 150 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,9 +133,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 | 123 | [Feel The Energy](https://open.spotify.com/track/1G4FRQ4zQRgewsYvJhT7Rn) | [Bexxie](https://open.spotify.com/artist/3lwq28uuT7bAqQ3shl4d9Q) | [Feel The Energy](https://open.spotify.com/album/6rIeif1b881a2mpzUKgOhD) | 3:31 |
 | 124 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
 | 125 | [Alone](https://open.spotify.com/track/2y0W59c6wUGIJ6astaUNcQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3), [Apophis](https://open.spotify.com/artist/6Sz3s1OLPiCr3cniHuCSoK) | [Alone](https://open.spotify.com/album/5ZJDxWchW5jtfDJlnj9CKC) | 3:20 |
-| 126 | [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 |
+| 126 | [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 |
 | 127 | [Trompetisto](https://open.spotify.com/track/7LZQAYj5NmW7Db2y8k7dXm) | [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Trompetisto](https://open.spotify.com/album/6gsOgcotCeVJsqqQVZ0Qdb) | 2:20 |
-| 128 | [Leave A Little Love](https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y) | 3:07 |
+| 128 | [Vole Little a Vealwav](https://open.spotify.com/track/12weYE4oRjWLcKcJyzah8T) | [Nigma 遮蔽](https://open.spotify.com/artist/2vqFl9TETQoy3qc2wUN0t4) | [Vole Little a Vealwav](https://open.spotify.com/album/5frP6KO4nOf8LD1a3AYWXF) | 3:07 |
 | 129 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 |
 | 130 | [Love Is Killing Me](https://open.spotify.com/track/0WDHsTEgyvjw4EM24O0Tyd) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [Love Is Killing Me](https://open.spotify.com/album/1ZRTlJ2LUDln5WNTTP6UII) | 2:40 |
 | 131 | [LIES](https://open.spotify.com/track/3Shi5fUIeuoNQWV0hjYXNs) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [LIES](https://open.spotify.com/album/4FFUfSYqKjyp2X63FMYUVC) | 2:47 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 | 149 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 |
 | 150 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 |
 
-Snapshot ID: `MCw0NmM5MmQxNmM1MTJlYjI0MjQ1ZDg0YzdkMWJjNjgyZTRjMTc0MmM3`
+Snapshot ID: `MCxiYTExYWUyZDI4NjczMDdhZTJiMzU2YTE0MDc3MzJjNDNkYjgzM2E0`

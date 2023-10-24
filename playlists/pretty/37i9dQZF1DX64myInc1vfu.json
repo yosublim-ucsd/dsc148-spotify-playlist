@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Noreh",
-  "num_followers": 75473,
+  "num_followers": 75486,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzc3OWU2ZjFhNWNkODU3YjI2ZjVlZjNlMjFjN2UzNTFjYzljYTI1",
+  "snapshot_id": "MCwzNTJjY2ZiM2EwNjVkM2MzYjM5MzNjNWNlMjEyNzdmZDk4NjA4NzM2",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -211,22 +211,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 209652,
-      "name": "Diez Pasos Hacia Ti",
-      "url": "https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC"
+      "duration_ms": 110526,
+      "name": "la luna enamorada",
+      "url": "https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -287,22 +283,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 110526,
-      "name": "la luna enamorada",
-      "url": "https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
         "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
       },
@@ -323,22 +303,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "A la Mar",
-        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "Dulcito e Coco",
-      "url": "https://open.spotify.com/track/7Li9u5C7CNLvqOqhrhZEML"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
       },
@@ -351,6 +315,22 @@
       "duration_ms": 196614,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "A la Mar",
+        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Dulcito e Coco",
+      "url": "https://open.spotify.com/track/7Li9u5C7CNLvqOqhrhZEML"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -391,22 +371,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "S\u00f3lo T\u00fa",
-        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 187754,
-      "name": "S\u00f3lo T\u00fa",
-      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Camas Separadas",
         "url": "https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3"
       },
@@ -419,6 +383,42 @@
       "duration_ms": 218506,
       "name": "Costa Rica",
       "url": "https://open.spotify.com/track/6fodcUvAswFV8Az3Imd5F5"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 104273,
+      "name": "que te ped\u00ed//",
+      "url": "https://open.spotify.com/track/2qS9IaT9KBShx2xn1CqYMC"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 209652,
+      "name": "Diez Pasos Hacia Ti",
+      "url": "https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -443,54 +443,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 104273,
-      "name": "que te ped\u00ed//",
-      "url": "https://open.spotify.com/track/2qS9IaT9KBShx2xn1CqYMC"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Enemigo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Enemigo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "No Respondo Pt. 2",
-        "url": "https://open.spotify.com/album/6jHmrZG9ZytJMnd5VoHQh2"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 248347,
-      "name": "No Respondo Pt. 2",
-      "url": "https://open.spotify.com/track/3ZDyawmx3X2cazcFYv74F6"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Si T\u00fa Me Quisieras",
         "url": "https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE"
       },
@@ -507,6 +459,22 @@
       "duration_ms": 261958,
       "name": "Si T\u00fa Me Quisieras",
       "url": "https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Enemigo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Enemigo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -555,6 +523,22 @@
       "duration_ms": 226973,
       "name": "Piensa en M\u00ed",
       "url": "https://open.spotify.com/track/79KPSHPdl3HEsYqO8LCLvo"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 187754,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -639,22 +623,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Yo Esperar\u00e9",
-        "url": "https://open.spotify.com/album/0yzD7GkfhEnulvW3JBD2JR"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 256592,
-      "name": "Yo Esperar\u00e9",
-      "url": "https://open.spotify.com/track/5nqfV6YFYiRx1docxwRolq"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Los N\u00e1ufragos",
         "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
       },
@@ -699,22 +667,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 156371,
-      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Obras Maestras",
         "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
       },
@@ -731,6 +683,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 156371,
+      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Conversaciones Ajenas en un Caf\u00e9",
         "url": "https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9"
       },
@@ -743,6 +711,22 @@
       "duration_ms": 211156,
       "name": "\u00bfA Qu\u00e9 Te Sabe el Caf\u00e9?",
       "url": "https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "No Respondo Pt. 2",
+        "url": "https://open.spotify.com/album/6jHmrZG9ZytJMnd5VoHQh2"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 248347,
+      "name": "No Respondo Pt. 2",
+      "url": "https://open.spotify.com/track/3ZDyawmx3X2cazcFYv74F6"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -767,26 +751,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 220647,
-      "name": "Diferente",
-      "url": "https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Si por Mi Fuera",
         "url": "https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv"
       },
@@ -803,6 +767,26 @@
       "duration_ms": 212680,
       "name": "Si por Mi Fuera",
       "url": "https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 220647,
+      "name": "Diferente",
+      "url": "https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -871,6 +855,22 @@
       "duration_ms": 240973,
       "name": "Me Vas a Hacer Falta",
       "url": "https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Yo Esperar\u00e9",
+        "url": "https://open.spotify.com/album/0yzD7GkfhEnulvW3JBD2JR"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 256592,
+      "name": "Yo Esperar\u00e9",
+      "url": "https://open.spotify.com/track/5nqfV6YFYiRx1docxwRolq"
     },
     {
       "added_at": "2023-10-20 04:00:00",

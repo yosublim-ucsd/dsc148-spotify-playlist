@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Japanese female rock icons. Cover: \u30ab\u30cd\u30e8\u30ea\u30de\u30b5\u30eb (Kaneyorimasaru)",
-  "num_followers": 45731,
+  "num_followers": 45751,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWEyYTA4ZGJkMzY1M2U5YzU4MzQ5YmQ0ZGEzZmEyOTliYjNlODFh",
+  "snapshot_id": "MCxlNDJlZjk0ZTRhOTc2MjkzNTM5M2ZmMzgwNjNhNzBkMWY0MjI3ZjJl",
   "tracks": [
     {
       "added_at": "2023-10-19 15:00:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "for you",
-        "url": "https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9"
+        "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W"
       },
       "artists": [
         {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 214943,
-      "name": "Raise",
-      "url": "https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU"
+      "duration_ms": 205133,
+      "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W"
+        "name": "for you",
+        "url": "https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9"
       },
       "artists": [
         {
-          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
         }
       ],
-      "duration_ms": 205133,
-      "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
-      "url": "https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB"
+      "duration_ms": 214943,
+      "name": "Raise",
+      "url": "https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
+        "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
+        "url": "https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
+      "url": "https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
         "name": "\u865a\u50cf\u306eCarousel",
         "url": "https://open.spotify.com/album/4HnTbIJinqxIvnHeIBaJv6"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 228840,
       "name": "\u865a\u50cf\u306eCarousel",
       "url": "https://open.spotify.com/track/2FCkgW3vOc3IvpOCd0LJMT"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
-        "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
-        "url": "https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
-      "url": "https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "Shambles",
-        "url": "https://open.spotify.com/album/4hhkj6li1ULllYOZJHFt7w"
-      },
-      "artists": [
-        {
-          "name": "BAND-MAID",
-          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Shambles",
-      "url": "https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
         "name": "\u79c1\u306f\u732b\u306e\u76ee",
         "url": "https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 190000,
       "name": "\u79c1\u306f\u732b\u306e\u76ee",
       "url": "https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
+        "name": "Shambles",
+        "url": "https://open.spotify.com/album/4hhkj6li1ULllYOZJHFt7w"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Shambles",
+      "url": "https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -731,38 +731,6 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "ICHIJIKIKOKU",
-        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "JANAINDAYO",
-      "url": "https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
-        "name": "Bye-Bye Show",
-        "url": "https://open.spotify.com/album/3kL7hk71Spv76STO0skLct"
-      },
-      "artists": [
-        {
-          "name": "BiSH",
-          "url": "https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj"
-        }
-      ],
-      "duration_ms": 281892,
-      "name": "Bye-Bye Show",
-      "url": "https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
         "name": "you n me",
         "url": "https://open.spotify.com/album/4ysSkJfyOvJ8QEj0FGhIHw"
       },
@@ -779,6 +747,22 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
+        "name": "ICHIJIKIKOKU",
+        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "JANAINDAYO",
+      "url": "https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
         "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
         "url": "https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 228626,
       "name": "Don!!",
       "url": "https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
+        "name": "Bye-Bye Show",
+        "url": "https://open.spotify.com/album/3kL7hk71Spv76STO0skLct"
+      },
+      "artists": [
+        {
+          "name": "BiSH",
+          "url": "https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj"
+        }
+      ],
+      "duration_ms": 281892,
+      "name": "Bye-Bye Show",
+      "url": "https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -839,22 +839,6 @@
       "duration_ms": 253538,
       "name": "\u5149\u306e\u306a\u3044\u8857",
       "url": "https://open.spotify.com/track/4sFFRTI8G2aKOyR8Nzh0VA"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
-        "name": "BiSH THE BEST",
-        "url": "https://open.spotify.com/album/31ogU6hrmcIquFGKu9zcX3"
-      },
-      "artists": [
-        {
-          "name": "BiSH",
-          "url": "https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj"
-        }
-      ],
-      "duration_ms": 269200,
-      "name": "\u30d7\u30ed\u30df\u30b9\u30b6\u30b9\u30bf\u30fc \u201923",
-      "url": "https://open.spotify.com/track/7KqTlO3F2ADdDbKZvbl3Yc"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -931,6 +915,38 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
+        "name": "BiSH THE BEST",
+        "url": "https://open.spotify.com/album/31ogU6hrmcIquFGKu9zcX3"
+      },
+      "artists": [
+        {
+          "name": "BiSH",
+          "url": "https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj"
+        }
+      ],
+      "duration_ms": 269200,
+      "name": "\u30d7\u30ed\u30df\u30b9\u30b6\u30b9\u30bf\u30fc \u201923",
+      "url": "https://open.spotify.com/track/7KqTlO3F2ADdDbKZvbl3Yc"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
+        "name": "\u5b63\u5104\u306e\u7bb1",
+        "url": "https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u305f\u3089\u3088",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "duration_ms": 239067,
+      "name": "\u590f\u304c\u6765\u308b\u305f\u3073",
+      "url": "https://open.spotify.com/track/55ItTj78No5IMK6yR9grGj"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
         "name": "\u707c\u71b1\u306b\u3066\u7d14\u60c5(wii-wii-woo)",
         "url": "https://open.spotify.com/album/3DP29QEp7AtJJJsGgne8HI"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 235813,
       "name": "Lapse",
       "url": "https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
-        "name": "\u5b63\u5104\u306e\u7bb1",
-        "url": "https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs"
-      },
-      "artists": [
-        {
-          "name": "\u3042\u305f\u3089\u3088",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
-        }
-      ],
-      "duration_ms": 239067,
-      "name": "\u590f\u304c\u6765\u308b\u305f\u3073",
-      "url": "https://open.spotify.com/track/55ItTj78No5IMK6yR9grGj"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
+        "name": "charm",
+        "url": "https://open.spotify.com/album/4dw6Vqh0YknvgzKcfyKbIZ"
+      },
+      "artists": [
+        {
+          "name": "Conton Candy",
+          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
+        }
+      ],
+      "duration_ms": 190210,
+      "name": "\u30ea\u30c3\u30d7\u30b7\u30f3\u30af",
+      "url": "https://open.spotify.com/track/1kyp3dQGHftpJRpRAoY94z"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
         "name": "Sing The Moon",
         "url": "https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 277223,
       "name": "Futaba",
       "url": "https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
-        "name": "charm",
-        "url": "https://open.spotify.com/album/4dw6Vqh0YknvgzKcfyKbIZ"
-      },
-      "artists": [
-        {
-          "name": "Conton Candy",
-          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
-        }
-      ],
-      "duration_ms": 190210,
-      "name": "\u30ea\u30c3\u30d7\u30b7\u30f3\u30af",
-      "url": "https://open.spotify.com/track/1kyp3dQGHftpJRpRAoY94z"
     },
     {
       "added_at": "2023-10-19 15:00:00",

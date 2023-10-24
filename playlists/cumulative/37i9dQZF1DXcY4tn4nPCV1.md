@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-372 songs - 15 hr 52 min
+376 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,10 +167,12 @@
 | [Les larmes de l'hiver](https://open.spotify.com/track/5OVinfTbBTJn2cErpyhl4F) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Les larmes de l'hiver](https://open.spotify.com/album/3LxgwHbb6V7joeTWy7ldV5) | 2:25 | 2022-12-22 |  |
 | [Letting Go](https://open.spotify.com/track/2aLgFG14lYLiV8YYziZI7Q) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Letting Go](https://open.spotify.com/album/1l3v5h34S4SMNKFblH6pkr) | 3:01 | 2022-05-20 |  |
 | [Libellule](https://open.spotify.com/track/0d331ogYaPH7un6BnYDjLj) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Libellule](https://open.spotify.com/album/0YtB4ZKR95JR1IoVk3lrgf) | 2:45 | 2022-04-04 |  |
+| [Liebevoll](https://open.spotify.com/track/5M4W1gIBx3eqCoxZWy48zE) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Liebevoll](https://open.spotify.com/album/5lp9wSSEvsgowFwuhrJ4Z8) | 2:24 | 2023-10-23 |  |
 | [Liegende](https://open.spotify.com/track/6HEdLZYxdEUeAJTYdsqjND) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Liegende](https://open.spotify.com/album/25qCxo5QzY8UjJxq2SJHwY) | 2:02 | 2023-03-07 |  |
 | [Litany](https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9) | [Daniella Babbitt](https://open.spotify.com/artist/11qA90NqXDlLWVji5Vmwct) | [Litany](https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5) | 2:52 | 2022-04-04 | 2022-05-21 |
 | [Longing For Yesterday](https://open.spotify.com/track/6dHlvIZhsp3Ts3MUsyudKa) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Longing For Yesterday](https://open.spotify.com/album/05JFGW1xgW0McGf9EiQl0v) | 3:37 | 2022-04-04 | 2022-05-21 |
 | [Los Viejos Tiempos](https://open.spotify.com/track/3B9bfvdtGxZp4IKU2esmQ3) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Los Viejos Tiempos](https://open.spotify.com/album/2kwDucB8NNIJJVpcsnj8mA) | 1:53 | 2022-04-04 | 2022-07-08 |
+| [Lost to memories](https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Lost to memories](https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj) | 2:14 | 2023-10-23 |  |
 | [Lumière Du Matin](https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Lumière Du Matin](https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ) | 2:47 | 2022-04-04 | 2022-04-29 |
 | [Lydian Fairytale](https://open.spotify.com/track/763DOeT2XIrzMjbC3LLF5i) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Lydian Fairytale](https://open.spotify.com/album/4TVVWsBh3tY8GXupSSoCc4) | 1:45 | 2023-01-20 | 2023-07-19 |
 | [magic](https://open.spotify.com/track/6YRQpkfn5lyXDTJIZG60sB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [guardian & magic](https://open.spotify.com/album/4RiiB4I0Rd4W3oPX2rcCah) | 2:16 | 2022-07-07 |  |
@@ -347,6 +349,7 @@
 | [Tålamod](https://open.spotify.com/track/2pFheJ7wiffFLs37le8jrB) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Tålamod](https://open.spotify.com/album/6QFz6Bw5GxaANTxIiL67EW) | 2:39 | 2022-04-04 |  |
 | [Tôt le matin](https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7) | [Alonzo Gautier](https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3) | [Tôt le matin](https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR) | 2:10 | 2022-12-22 |  |
 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 | 2022-04-04 |  |
+| [Underwater](https://open.spotify.com/track/0cUVh5ofEVsK3IiGS4Flii) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Underwater](https://open.spotify.com/album/3OfYsWc5jgdwmYZuQwzn6E) | 2:02 | 2023-10-23 |  |
 | [Une main tendue](https://open.spotify.com/track/5rqAxnEsenuRJjUAXbzima) | [Céline Aubin](https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT) | [Une main tendue](https://open.spotify.com/album/33xfKJOTxE3XQPsinEubFw) | 2:01 | 2023-01-20 |  |
 | [Unity](https://open.spotify.com/track/7Khohwe4GuW2fb4ZJIC99p) | [Francie Stooge](https://open.spotify.com/artist/6G3eQZZG4JQDjKRbO5bZz7) | [Unity](https://open.spotify.com/album/2phuzRLseh8GshvuFeqnTF) | 2:18 | 2022-04-04 | 2022-05-21 |
 | [Unsere Reise](https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC) | [Sabine Reiniger](https://open.spotify.com/artist/3Y3Uh170gXrWMDqx5w47RI) | [Unsere Reise](https://open.spotify.com/album/0zaxkAJPvoLq8OhHquRvxg) | 3:00 | 2022-04-04 |  |
@@ -365,6 +368,7 @@
 | [Wandering Life](https://open.spotify.com/track/0oOXM7PiPK9BduPyCTEiYT) | [Matías Efraím León](https://open.spotify.com/artist/1QVjgeS6L4NPdIazWBRSJX), [Esther Dutch](https://open.spotify.com/artist/0EmyOnmL6R5HofEL538pKA), [Matías León](https://open.spotify.com/artist/55pax7nWiHFl6lErm3SH0I) | [Wandering Life](https://open.spotify.com/album/2z6SjaPPbE141LTrDcxS38) | 1:38 | 2022-09-20 | 2022-10-20 |
 | [Wandering Life](https://open.spotify.com/track/765y9b98K1iekDiM1Pol0Q) | [Matías Efraím León](https://open.spotify.com/artist/1QVjgeS6L4NPdIazWBRSJX), [Esther Dutch](https://open.spotify.com/artist/0EmyOnmL6R5HofEL538pKA), [Thomas Derry](https://open.spotify.com/artist/03kJMjnglfUqv8ReOql96z) | [Wandering Life](https://open.spotify.com/album/3QBOI6Y9YxIKNQNPzcCz2U) | 1:38 | 2022-09-20 | 2022-10-21 |
 | [Wandering Life](https://open.spotify.com/track/15mIfyHJT8lUGn8wutYlSr) | [Matías León](https://open.spotify.com/artist/55pax7nWiHFl6lErm3SH0I), [Matías Efraím León](https://open.spotify.com/artist/1QVjgeS6L4NPdIazWBRSJX) | [Wandering Life](https://open.spotify.com/album/38yjAj3golsdwi8pMnRZ1I) | 1:38 | 2022-10-14 | 2023-07-19 |
+| [Warm Embrace](https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Warm Embrace](https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY) | 2:43 | 2023-10-23 |  |
 | [Warm Evening Breeze](https://open.spotify.com/track/7rcPhOaF1KJ3dKIZ9baygA) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Warm Evening Breeze](https://open.spotify.com/album/6Gfn5CeFw6RE0OEr5bGnGP) | 2:45 | 2022-11-18 |  |
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2022-04-04 |  |
 | [Wayfarer](https://open.spotify.com/track/0DfcL73wzcHapZVB95Tm3F) | [Maud Parris](https://open.spotify.com/artist/0hMFv0x1eWo999Ri1wl3iA) | [Wayfarer](https://open.spotify.com/album/5aTfJ7qE0h7uP6IMfmpm9v) | 2:06 | 2022-04-04 |  |

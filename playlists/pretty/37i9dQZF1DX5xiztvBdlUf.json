@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 603077,
+  "num_followers": 603222,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTAyMTEwZjQyM2FhM2Y4NWUyNDk4NzEyYTM1ZGIyMzZiMDE1OGUw",
+  "snapshot_id": "MCxhNmJlMWZmN2ViODVlODllOGE3Yzg2YWI2ZDdmY2UyNGVmZTFkM2Nl",
   "tracks": [
     {
       "added_at": "2023-10-02 17:00:11",
@@ -195,30 +195,6 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai"
-      },
-      "artists": [
-        {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
-        },
-        {
-          "name": "Sparrow & Barbossa",
-          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        }
-      ],
-      "duration_ms": 381322,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
         "name": "Midsommar",
         "url": "https://open.spotify.com/album/1hsH4qErR4O6USTu2k7O3w"
       },
@@ -267,6 +243,30 @@
       "duration_ms": 175179,
       "name": "Downstream",
       "url": "https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai"
+      },
+      "artists": [
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "duration_ms": 381322,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
-      },
-      "artists": [
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 193064,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
         "name": "Cynnes",
         "url": "https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 324333,
       "name": "Cynnes",
       "url": "https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 193064,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 420272,
-      "name": "Ceremony",
-      "url": "https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
         "name": "Roda",
         "url": "https://open.spotify.com/album/2R2VAtvhljTHh0sZ54xip1"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 430819,
       "name": "NA NA NA",
       "url": "https://open.spotify.com/track/7xMyPCsSnWJqsgjhgLy0dz"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 420272,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        },
+        {
+          "name": "Fritz K\u00f6lner",
+          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+        }
+      ],
+      "duration_ms": 257709,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
         "name": "BRONSON Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/1hP7MPj4ZcjxqBGh4ILRoU"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 196451,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
-        "name": "Laufen",
-        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
-      },
-      "artists": [
-        {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        },
-        {
-          "name": "Fritz K\u00f6lner",
-          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
-        }
-      ],
-      "duration_ms": 257709,
-      "name": "Laufen",
-      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
-        "name": "Trojan Love (Original Club Mix)",
-        "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
-      },
-      "artists": [
-        {
-          "name": "Definition",
-          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 357283,
-      "name": "Trojan Love - Original Club Mix",
-      "url": "https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
         "name": "Made of Wood Remixed",
         "url": "https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 397882,
       "name": "Copal - Super Flu Remix",
       "url": "https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
+        "name": "Trojan Love (Original Club Mix)",
+        "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
+      },
+      "artists": [
+        {
+          "name": "Definition",
+          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 357283,
+      "name": "Trojan Love - Original Club Mix",
+      "url": "https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
-        "name": "Kilian",
-        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
-      },
-      "artists": [
-        {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        }
-      ],
-      "duration_ms": 420115,
-      "name": "Kilian",
-      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
         "name": "Aperol Spiritz",
         "url": "https://open.spotify.com/album/2U4jv3hgtuYc95dCjjsTs2"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 315200,
       "name": "Aperol Spiritz",
       "url": "https://open.spotify.com/track/7LHJGgiSJEsa1uaYqubGde"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "duration_ms": 420115,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
     },
     {
       "added_at": "2023-10-02 17:00:11",

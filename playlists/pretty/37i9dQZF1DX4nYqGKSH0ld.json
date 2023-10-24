@@ -1,12 +1,12 @@
 {
   "description": "Get ready for good feels and fireworks!",
-  "num_followers": 162872,
+  "num_followers": 162853,
   "original_name": "4th of July Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDhjODIzZWMwZjU4YTQ2MTE5Y2E4YzBmOGMyYzVhYzgwYmNiN2Yx",
+  "snapshot_id": "MCw4Yzk1NWNjMTEzMWI5YTc2NTdhYzlkOTVmMTgzMjk0Zjg4YmQwMGVl",
   "tracks": [
     {
       "added_at": "2023-07-03 01:56:32",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
-        "name": "Raise Your Glass",
-        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
         "name": "The Foundation",
         "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 238146,
       "name": "Chicken Fried",
       "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
     },
     {
       "added_at": "2023-07-03 01:56:32",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
-        "name": "Crash My Party",
-        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Play It Again",
-      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
         "name": "Partners In Crime",
         "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 276493,
       "name": "Escape (The Pina Colada Song)",
       "url": "https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
+        "name": "Crash My Party",
+        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Play It Again",
+      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
     },
     {
       "added_at": "2023-07-03 01:56:32",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-07-03 01:56:32",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Jack & Diane",
-      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
-    },
-    {
-      "added_at": "2023-07-03 01:56:32",
-      "album": {
         "name": "The Big Revival",
         "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 182960,
       "name": "American Kids",
       "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
+    },
+    {
+      "added_at": "2023-07-03 01:56:32",
+      "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
     },
     {
       "added_at": "2023-07-03 01:56:32",

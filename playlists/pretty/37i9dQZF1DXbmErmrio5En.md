@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > ft\. Riovaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,230 likes - 110 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,283 likes - 110 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 109 | [PSYCH MOB](https://open.spotify.com/track/1A67DAnXMZC3DIUibeRUnA) | [hammond preacher](https://open.spotify.com/artist/2dhU0be0WVmZJeKu0Yx3uo) | [PSYCH MOB](https://open.spotify.com/album/14riMJ5ianTJ0lv65hFejk) | 1:20 |
 | 110 | [‎mint ‎condition \(‎good ‎as ‎new\)](https://open.spotify.com/track/6MwqWsbeIZu4j2JNT4GjeN) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mint ‎condition](https://open.spotify.com/album/1jboFFMPdvWimrI3ndqofk) | 2:17 |
 
-Snapshot ID: `MCxjYjIzMzRiM2EwNGJkZGUwZjQyM2IyMmQzZWJjNmI5NTk0NzM2Y2Nl`
+Snapshot ID: `MCw3ODRkNzE2NmZjZTMxOGVjMzkzZGIxYjQxZGIzNjYxNWIwOGViZTdi`

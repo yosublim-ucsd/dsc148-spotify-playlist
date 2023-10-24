@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with GRiZ",
-  "num_followers": 976130,
+  "num_followers": 976203,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2QyMGYzOGM0MjFkZDQzMTU1ODY0Zjk0MjI1N2Q0NDdmMzI1NDlj",
+  "snapshot_id": "MCwxN2RjOTA4M2EyYjA1ZmVhODliY2U5MDFhNWY0YmY4ZDQ3YzM1ZTk1",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -763,6 +763,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Bass To The Dome",
+        "url": "https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 203224,
+      "name": "Bass To The Dome",
+      "url": "https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "SAXORiDDiM",
         "url": "https://open.spotify.com/album/1WsunKMSnqcyc51FuXD5Od"
       },
@@ -823,22 +843,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Bass To The Dome",
-        "url": "https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1MyRd6S8tq6eG9nzsdStA6"
       },
       "artists": [
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
         },
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
         }
       ],
-      "duration_ms": 203224,
-      "name": "Bass To The Dome",
-      "url": "https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy"
+      "duration_ms": 217600,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -863,26 +883,6 @@
       "duration_ms": 148800,
       "name": "Back For More",
       "url": "https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1MyRd6S8tq6eG9nzsdStA6"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -943,26 +943,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Uh Uh",
-        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        }
-      ],
-      "duration_ms": 193098,
-      "name": "Uh Uh",
-      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Heritage",
         "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 198582,
       "name": "Libre",
       "url": "https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Uh Uh",
+        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        }
+      ],
+      "duration_ms": 193098,
+      "name": "Uh Uh",
+      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "dontstopme!",
-        "url": "https://open.spotify.com/album/4F58jVM56GlkFSU6SbHw8m"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "dontstopme!",
-      "url": "https://open.spotify.com/track/6IJg6Lj08UReeoz9590Ps5"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Microworlds",
         "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
       },
@@ -1055,6 +1039,30 @@
       "duration_ms": 209341,
       "name": "Glow In The Dark",
       "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Skull Machine",
+        "url": "https://open.spotify.com/album/4N45nvS8gGoJ9kRxnBnk6J"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "Skull Machine",
+      "url": "https://open.spotify.com/track/5ScWfZGzV29Pr9dk7gLl95"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1159,50 +1167,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/0WBKJgbjqaNdw2AqHQWuvf"
-      },
-      "artists": [
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6VZlZwLkThFbO3gmBYeDUK"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Skull Machine",
-        "url": "https://open.spotify.com/album/4N45nvS8gGoJ9kRxnBnk6J"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "Wasiu",
-          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "Skull Machine",
-      "url": "https://open.spotify.com/track/5ScWfZGzV29Pr9dk7gLl95"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Beyond The Veil (Deluxe)",
         "url": "https://open.spotify.com/album/4K5YF7y9LvkmFUYna1GtXy"
       },
@@ -1219,6 +1183,26 @@
       "duration_ms": 238566,
       "name": "Brightest Light (feat. Dotter)",
       "url": "https://open.spotify.com/track/1Xf3rkHsxGa5eJxvVOxug3"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/0WBKJgbjqaNdw2AqHQWuvf"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6VZlZwLkThFbO3gmBYeDUK"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Grenade",
+        "url": "https://open.spotify.com/album/5ByIux1mE8VfB072JtjUWL"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "duration_ms": 248147,
+      "name": "Grenade",
+      "url": "https://open.spotify.com/track/4tRDqT9CZtUGnjGAJNVqaQ"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Next Shot",
         "url": "https://open.spotify.com/album/7hdaK9tIbwej1JVwuCcxOM"
       },
@@ -1299,22 +1299,6 @@
       "duration_ms": 200000,
       "name": "Next Shot",
       "url": "https://open.spotify.com/track/450ieMdH9byHoYTXfx8ORV"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Grenade",
-        "url": "https://open.spotify.com/album/5ByIux1mE8VfB072JtjUWL"
-      },
-      "artists": [
-        {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
-        }
-      ],
-      "duration_ms": 248147,
-      "name": "Grenade",
-      "url": "https://open.spotify.com/track/4tRDqT9CZtUGnjGAJNVqaQ"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1351,6 +1335,22 @@
       "duration_ms": 231724,
       "name": "DREAMING",
       "url": "https://open.spotify.com/track/1XmNeOPvxlWupeok8TzNvm"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Your Lovin'",
+        "url": "https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7"
+      },
+      "artists": [
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "duration_ms": 219718,
+      "name": "Your Lovin'",
+      "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1395,22 +1395,6 @@
       "duration_ms": 215111,
       "name": "Dream Sequence",
       "url": "https://open.spotify.com/track/1YrVLt1ET4GzwS3HfOcxWw"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Your Lovin'",
-        "url": "https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7"
-      },
-      "artists": [
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        }
-      ],
-      "duration_ms": 219718,
-      "name": "Your Lovin'",
-      "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Skanka (VIP)",
+        "url": "https://open.spotify.com/album/2vE6RgrsJmNO0gQWC9AQkW"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "duration_ms": 228004,
+      "name": "Skanka (VIP)",
+      "url": "https://open.spotify.com/track/4HUsOtjhCpXPUHZfYtPSo8"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Shapeshifter (feat. Styles of Beyond) [Zardonic & Pythius Remix]",
         "url": "https://open.spotify.com/album/2tc5jcJXOOaSLgGpa2ELcG"
       },
@@ -1559,22 +1559,6 @@
       "duration_ms": 304460,
       "name": "Shapeshifter (feat. Styles of Beyond) - Zardonic & Pythius Remix",
       "url": "https://open.spotify.com/track/2UuHVdvmK8hcjLF6ek117I"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Skanka (VIP)",
-        "url": "https://open.spotify.com/album/2vE6RgrsJmNO0gQWC9AQkW"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        }
-      ],
-      "duration_ms": 228004,
-      "name": "Skanka (VIP)",
-      "url": "https://open.spotify.com/track/4HUsOtjhCpXPUHZfYtPSo8"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1671,6 +1655,42 @@
       "duration_ms": 291000,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/6gNxFvK5yLL0uWCNQdP7GB"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "dontstopme!",
+      "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Falling Over You",
+        "url": "https://open.spotify.com/album/7jaDlEf11uQpPoA5ITFETL"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        },
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Falling Over You",
+      "url": "https://open.spotify.com/track/50QFmuvuRizsHUoTRgmky6"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1795,26 +1815,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Falling Over You",
-        "url": "https://open.spotify.com/album/7jaDlEf11uQpPoA5ITFETL"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        },
-        {
-          "name": "Lucille Croft",
-          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "Falling Over You",
-      "url": "https://open.spotify.com/track/50QFmuvuRizsHUoTRgmky6"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "I Like It When You Move",
         "url": "https://open.spotify.com/album/5aYHM8eo8umIePZGEDE3d3"
       },
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "24 HRS",
+        "url": "https://open.spotify.com/album/433wutKP8SbmE2SxU5N8cc"
+      },
+      "artists": [
+        {
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+        }
+      ],
+      "duration_ms": 181056,
+      "name": "24 HRS",
+      "url": "https://open.spotify.com/track/17QLFEbGJMGA9iyrkx4jbd"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Nonstop",
         "url": "https://open.spotify.com/album/3tS6hhl22D2BWjA7Y0Vf35"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 294653,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/0SUc7tyzR0jSTBEElIzqxB"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "24 HRS",
-        "url": "https://open.spotify.com/album/433wutKP8SbmE2SxU5N8cc"
-      },
-      "artists": [
-        {
-          "name": "Whyte Fang",
-          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
-        }
-      ],
-      "duration_ms": 181056,
-      "name": "24 HRS",
-      "url": "https://open.spotify.com/track/17QLFEbGJMGA9iyrkx4jbd"
     },
     {
       "added_at": "2023-10-20 04:01:00",

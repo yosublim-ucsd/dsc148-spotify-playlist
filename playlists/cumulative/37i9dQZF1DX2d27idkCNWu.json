@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 243955,
       "name": "America",
       "url": "https://open.spotify.com/track/7AH9uEJp62zFAs2E8hvqEk"
@@ -412,6 +412,24 @@
       "duration_ms": 191953,
       "name": "Blue",
       "url": "https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA"
+    },
+    {
+      "album": {
+        "name": "Bomba Rel\u00f3gio",
+        "url": "https://open.spotify.com/album/2o759BamXSEuef3mFMX00X"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243386,
+      "name": "Bomba Rel\u00f3gio",
+      "url": "https://open.spotify.com/track/3mNdnKuJz4R0doVNRsTvoZ"
     },
     {
       "album": {
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 209741,
       "name": "New Rules - Piano, Acoustic; Live",
       "url": "https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl"
@@ -1874,6 +1892,28 @@
       "duration_ms": 182906,
       "name": "Nothing But a Song - Bonus Acoustic Version",
       "url": "https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230772,
+      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
     },
     {
       "album": {

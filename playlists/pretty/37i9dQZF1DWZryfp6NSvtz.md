@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: YUNGBLUD & Oli Sykes
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,537 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,800 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 10 | [Big Shot](https://open.spotify.com/track/1W8E07hkLSmtkIbpWmh3gv) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Big Shot](https://open.spotify.com/album/6xsThAkPhe4okfWN4cQWu5) | 2:43 |
 | 11 | [DISDAIN](https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DISDAIN](https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO) | 2:25 |
 | 12 | [bella](https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [bella / i can't find anyone](https://open.spotify.com/album/3AJEvGdq17HHvF20ITVbD7) | 3:19 |
-| 13 | [Constant Headache](https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8), [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Constant Headache](https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK) | 3:01 |
-| 14 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
-| 15 | [Perfect](https://open.spotify.com/track/5Vfl6AYr1PyG4BcEMIr8oT) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Perfect](https://open.spotify.com/album/7Ecotv7Pdu4utXTqulJ45n) | 2:33 |
+| 13 | [Perfect](https://open.spotify.com/track/5Vfl6AYr1PyG4BcEMIr8oT) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Perfect](https://open.spotify.com/album/7Ecotv7Pdu4utXTqulJ45n) | 2:33 |
+| 14 | [Constant Headache](https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8), [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Constant Headache](https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK) | 3:01 |
+| 15 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
 | 16 | [I Don't Know You](https://open.spotify.com/track/43DsSmYR7rk3LKnyY8wkGI) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Don't Know You](https://open.spotify.com/album/0zT2ilSANN1bLI7gV6lqCl) | 3:44 |
 | 17 | [Dig Deep](https://open.spotify.com/track/4r2zyY2HUhFe0MMU7M3JFU) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk), [New Medicine](https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr) | [Dig Deep](https://open.spotify.com/album/3CoJ4WWhxFDDkFWjYLnPHU) | 2:54 |
 | 18 | [Black Balloons](https://open.spotify.com/track/6GcGjg0IfSzcnlrATESE4S) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Black Balloons](https://open.spotify.com/album/6i1eBfd25KyOdtOaZpeJxW) | 1:53 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 27 | [Still Dreaming](https://open.spotify.com/track/12rdCy6mfXy7vwU1GN8Slk) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Still Dreaming](https://open.spotify.com/album/4s9PEviBVvvWwk35bJOWcW) | 3:34 |
 | 28 | [Real House](https://open.spotify.com/track/5tSRQ8rHKsdugZfTvcSC9b) | [Nicotine Dolls](https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM) | [Real House](https://open.spotify.com/album/2JEHhhFuzARxdJShcHpqxK) | 3:46 |
 | 29 | [Rotten Soul](https://open.spotify.com/track/7q36ObsjScn8spZ1w1VOUC) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [Rotten Soul](https://open.spotify.com/album/0L0df4kAmYN3iocYLf6MFI) | 3:13 |
-| 30 | [Dramamine](https://open.spotify.com/track/4LkUIkfIw7f3l7eJnOj9OW) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Dramamine](https://open.spotify.com/album/1RgOz8zYC5GKsZEZPjQ0pT) | 2:57 |
-| 31 | [Let Go](https://open.spotify.com/track/4rwIVNZDiswV0wXcLdtceO) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Let Go](https://open.spotify.com/album/195upAWApmh2TbhBjUKlAt) | 4:13 |
+| 30 | [Let Go](https://open.spotify.com/track/4rwIVNZDiswV0wXcLdtceO) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Let Go](https://open.spotify.com/album/195upAWApmh2TbhBjUKlAt) | 4:13 |
+| 31 | [Dramamine](https://open.spotify.com/track/4LkUIkfIw7f3l7eJnOj9OW) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Dramamine](https://open.spotify.com/album/1RgOz8zYC5GKsZEZPjQ0pT) | 2:57 |
 | 32 | [Superstitious](https://open.spotify.com/track/6kCrOavjAospeaX42eLVR5) | [A Story Told](https://open.spotify.com/artist/0kMSrud2q1lDBgp43LwU54) | [Mundane Magic](https://open.spotify.com/album/5m5aFCriM5iKSGcuiNBZv6) | 3:17 |
 | 33 | [Maybe Maybe](https://open.spotify.com/track/256MAkjR6G8bj14WM3whE0) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [I Promise](https://open.spotify.com/album/0OICGkWLi8mHWn6fQIOPpo) | 2:53 |
 | 34 | [Better Left Unsaid](https://open.spotify.com/track/36ktIIw7DOCSodyqO3nsPB) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [Better Left Unsaid](https://open.spotify.com/album/4P5FGoVB47l0tcYp39XnX6) | 2:51 |
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 37 | [List of Enemies](https://open.spotify.com/track/1y0SYF9vJAmb4HXOi8eBd8) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [A New Breed](https://open.spotify.com/album/5wvYWow2IFdXSdXQty500e) | 3:04 |
 | 38 | [Goliathette](https://open.spotify.com/track/1SYHyCNtg6E2BDyhxowRG3) | [Crime In Stereo](https://open.spotify.com/artist/4ijffQAqzpGyaWDXuIZZI7) | [Goliathette](https://open.spotify.com/album/56cPdkBWLopCvPJXTWEZ0S) | 3:34 |
 | 39 | [Superman\(ic\)](https://open.spotify.com/track/2NZ6l7ZaO5hACwRpbw9a7n) | [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [Alligator Death Roll](https://open.spotify.com/album/6Z1dLwNlEQb9LpVCktBTCZ) | 3:27 |
-| 40 | [Big Fish](https://open.spotify.com/track/7kY5rVq2LKZN2bjVryVN7A) | [Snarls](https://open.spotify.com/artist/3yZV7kMGClXfw0xaPAlImS) | [Big Fish](https://open.spotify.com/album/5FFr5TtGcTd1QGjSd7eVLG) | 3:28 |
-| 41 | [I'm Not Sorry](https://open.spotify.com/track/0JGcwV70md4Xgysgj420Yg) | [The Pinpricks](https://open.spotify.com/artist/0B134UxWQkuc1kVfjsuDsr) | [I'm Not Sorry](https://open.spotify.com/album/1DyR4ZshrCKDhlPVzC0NBv) | 2:50 |
-| 42 | [Moon Chasers](https://open.spotify.com/track/5FQSHEXB1gJj1CAjHlbC28) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Melanin Punk](https://open.spotify.com/album/0l0pfg7fOxU9YHQkHhXTTD) | 3:23 |
-| 43 | [Chalk](https://open.spotify.com/track/4Cvpb8DicKbLSiftBmac99) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Chalk](https://open.spotify.com/album/5tN7YlTteG5wZV44sNx1r6) | 2:29 |
+| 40 | [I'm Not Sorry](https://open.spotify.com/track/0JGcwV70md4Xgysgj420Yg) | [The Pinpricks](https://open.spotify.com/artist/0B134UxWQkuc1kVfjsuDsr) | [I'm Not Sorry](https://open.spotify.com/album/1DyR4ZshrCKDhlPVzC0NBv) | 2:50 |
+| 41 | [Moon Chasers](https://open.spotify.com/track/5FQSHEXB1gJj1CAjHlbC28) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Melanin Punk](https://open.spotify.com/album/0l0pfg7fOxU9YHQkHhXTTD) | 3:23 |
+| 42 | [Chalk](https://open.spotify.com/track/4Cvpb8DicKbLSiftBmac99) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Chalk](https://open.spotify.com/album/5tN7YlTteG5wZV44sNx1r6) | 2:29 |
+| 43 | [Big Fish](https://open.spotify.com/track/7kY5rVq2LKZN2bjVryVN7A) | [Snarls](https://open.spotify.com/artist/3yZV7kMGClXfw0xaPAlImS) | [Big Fish](https://open.spotify.com/album/5FFr5TtGcTd1QGjSd7eVLG) | 3:28 |
 | 44 | [The Rut](https://open.spotify.com/track/6O921pnzJsmZgWuzHLzibG) | [Hideous](https://open.spotify.com/artist/0vvVC09B2npGGn1h67PcNy) | [The Rut](https://open.spotify.com/album/3uHts8w3FamF22xBjust3E) | 3:48 |
-| 45 | [Scatterbrain](https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Life Is Unfair](https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo) | 2:15 |
-| 46 | [Cold Water Swim](https://open.spotify.com/track/0sUCO8NGZhMG7IXRZ9IQjr) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Cold Water Swim](https://open.spotify.com/album/0awhRPFIuizXkso3zAiwWb) | 2:51 |
-| 47 | [The Weather Song](https://open.spotify.com/track/2OXsiCgkmUbfP6DoaQniaK) | [TA GA DA](https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5) | [The Weather Song](https://open.spotify.com/album/3KZmLwH0oI1MVeu6OUSAEX) | 3:45 |
-| 48 | [700m²](https://open.spotify.com/track/572uU6bg1zMbcwSA8ML67d) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [The Ethereal Beauty](https://open.spotify.com/album/1cJNcIoEZmIWDQHfO7N3b9) | 3:05 |
-| 49 | [Perspectives](https://open.spotify.com/track/6LqFc2I827LegWXB5XrxdN) | [Yvet Garden](https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7) | [A Long Way Down](https://open.spotify.com/album/0d8AlqicIHRdpouq35moLq) | 4:07 |
+| 45 | [Perspectives](https://open.spotify.com/track/6LqFc2I827LegWXB5XrxdN) | [Yvet Garden](https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7) | [A Long Way Down](https://open.spotify.com/album/0d8AlqicIHRdpouq35moLq) | 4:07 |
+| 46 | [Scatterbrain](https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Life Is Unfair](https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo) | 2:15 |
+| 47 | [Cold Water Swim](https://open.spotify.com/track/0sUCO8NGZhMG7IXRZ9IQjr) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Cold Water Swim](https://open.spotify.com/album/0awhRPFIuizXkso3zAiwWb) | 2:51 |
+| 48 | [The Weather Song](https://open.spotify.com/track/2OXsiCgkmUbfP6DoaQniaK) | [TA GA DA](https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5) | [The Weather Song](https://open.spotify.com/album/3KZmLwH0oI1MVeu6OUSAEX) | 3:45 |
+| 49 | [700m²](https://open.spotify.com/track/572uU6bg1zMbcwSA8ML67d) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [The Ethereal Beauty](https://open.spotify.com/album/1cJNcIoEZmIWDQHfO7N3b9) | 3:05 |
 
-Snapshot ID: `MCxjMDYxOTFmZmI3Mzk2YzY4NjYxNzYyNTgzYTQ4NWM3MDY4M2Y5MzQ1`
+Snapshot ID: `MCw0Yzg4OGI1OWY5YjkyZTgxMDkxMDRmMTEwM2E0MTNiNGE2MmJmNjA4`

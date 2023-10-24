@@ -185,6 +185,28 @@
     },
     {
       "album": {
+        "name": "A Night To Remember",
+        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233388,
+      "name": "A Night To Remember",
+      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
+    },
+    {
+      "album": {
         "name": "A Potion For Love",
         "url": "https://open.spotify.com/album/54RiYX8ONUdOOxerMzADqA"
       },
@@ -1936,7 +1958,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 255207,
       "name": "Columbus & 89th",
       "url": "https://open.spotify.com/track/0sPG1vCeyLzUmWTwbu46X3"
@@ -2114,7 +2136,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 185604,
       "name": "Cranberry",
       "url": "https://open.spotify.com/track/7eE5ShNk4bIooVT9VS6BXU"
@@ -2356,6 +2378,24 @@
       "duration_ms": 146176,
       "name": "Detached",
       "url": "https://open.spotify.com/track/5HQppSYyU4whulcnaYZyFP"
+    },
+    {
+      "album": {
+        "name": "Marking My Time",
+        "url": "https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197086,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/3mwI332yfoyzDoWYCFKrlD"
     },
     {
       "album": {
@@ -3572,7 +3612,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 172459,
       "name": "Growing Up",
       "url": "https://open.spotify.com/track/1IMddxeEULFmNe5GG8NEK8"
@@ -4532,7 +4572,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 133316,
       "name": "i thought i could fly",
       "url": "https://open.spotify.com/track/7Ap1rbk0JFv6pPyRGXFLr4"
@@ -6265,6 +6305,24 @@
     },
     {
       "album": {
+        "name": "how many",
+        "url": "https://open.spotify.com/album/7qsJCY5jPI72VLTkvK2Fq5"
+      },
+      "artists": [
+        {
+          "name": "jake minch",
+          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123986,
+      "name": "moms new car",
+      "url": "https://open.spotify.com/track/007p7Xo2xVS04qj9MnMPza"
+    },
+    {
+      "album": {
         "name": "superglue",
         "url": "https://open.spotify.com/album/7yJj3Xtd94isVwPtGKkIao"
       },
@@ -7717,6 +7775,24 @@
     },
     {
       "album": {
+        "name": "Based On A True Story...",
+        "url": "https://open.spotify.com/album/1Dk3gly6NaYZkimTVCFK4s"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219280,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/1uni8la2ZuN5oGlkAFBn9R"
+    },
+    {
+      "album": {
         "name": "REWIND",
         "url": "https://open.spotify.com/album/3GwaM9E9ueOvl6J28lxblj"
       },
@@ -8923,6 +8999,24 @@
     },
     {
       "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/34Pax5tBAPlhxGXfmfypNO"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178746,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/7xxmW8ieHp9YnACGc0PfNz"
+    },
+    {
+      "album": {
         "name": "Sunday In Heaven",
         "url": "https://open.spotify.com/album/6Xi4qZBRpq328DPysFR6fO"
       },
@@ -9342,7 +9436,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 244804,
       "name": "The Good Tears",
       "url": "https://open.spotify.com/track/7hc0QRnFDaxu8YI4K8i18L"

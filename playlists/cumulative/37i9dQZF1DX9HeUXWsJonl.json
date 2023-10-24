@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 184000,
       "name": "Ghrib",
       "url": "https://open.spotify.com/track/6UmPJTPqQ3HXZkGHzpCR2H"
@@ -1872,6 +1872,24 @@
       "duration_ms": 203640,
       "name": "Maghrebins",
       "url": "https://open.spotify.com/track/75Nob0UozvGENGUaaMkbgi"
+    },
+    {
+      "album": {
+        "name": "Makhsernech (\u0645\u062e\u0633\u0631\u0646\u0627\u0634)",
+        "url": "https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ"
+      },
+      "artists": [
+        {
+          "name": "Blingos",
+          "url": "https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178921,
+      "name": "Makhsernech - \u0645\u062e\u0633\u0631\u0646\u0627\u0634",
+      "url": "https://open.spotify.com/track/2uz35vUhSIZXhfrwYwTKaI"
     },
     {
       "album": {

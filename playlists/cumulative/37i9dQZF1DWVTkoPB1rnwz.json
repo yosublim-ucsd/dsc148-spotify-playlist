@@ -2465,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "Hounds",
+        "url": "https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m"
+      },
+      "artists": [
+        {
+          "name": "Jupi/ter",
+          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301445,
+      "name": "Hounds",
+      "url": "https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi"
+    },
+    {
+      "album": {
         "name": "Piano Works",
         "url": "https://open.spotify.com/album/6CNfqzu5WvgJeS2GegpHnp"
       },
@@ -2512,7 +2530,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 137000,
       "name": "Hypnos",
       "url": "https://open.spotify.com/track/6AcwRvuVN9FjROlyLIws2o"
@@ -2988,7 +3006,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 104470,
       "name": "Life Tools",
       "url": "https://open.spotify.com/track/1UnID8JHQyfGHZhX8mTkOz"
@@ -5161,6 +5179,24 @@
     },
     {
       "album": {
+        "name": "Switched-On",
+        "url": "https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215367,
+      "name": "Switched-On",
+      "url": "https://open.spotify.com/track/4cREs51dQyaV23CO8pCguj"
+    },
+    {
+      "album": {
         "name": "Blooming Spring",
         "url": "https://open.spotify.com/album/1GM55IkCrUsVwsM1vcQwH3"
       },
@@ -5782,7 +5818,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 501701,
       "name": "Untitled #1",
       "url": "https://open.spotify.com/track/67R6OxxmHwL0N1vLjetR75"
@@ -5854,7 +5890,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 349951,
       "name": "Vaporware 01",
       "url": "https://open.spotify.com/track/4yQQuyjdUzVQozJrlJRnBM"

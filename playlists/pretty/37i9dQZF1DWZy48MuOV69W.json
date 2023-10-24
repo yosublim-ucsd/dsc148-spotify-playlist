@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 58944,
+  "num_followers": 58973,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODJmMDQyNWZlZTcxZGZkYTY2MmVlMzYxOTE0OWFkZTU1N2ViYTJi",
+  "snapshot_id": "MCxiNjliMmJlOTQ2YTAzZTg1Mjk3MjI0NWIwZDEzNzQxYjYwMjFhMTU2",
   "tracks": [
     {
       "added_at": "2023-10-05 11:28:23",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-10-05 11:28:23",
       "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
-    },
-    {
-      "added_at": "2023-10-05 11:28:23",
-      "album": {
         "name": "Behold",
         "url": "https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX"
       },
@@ -183,26 +167,6 @@
     {
       "added_at": "2023-10-05 11:28:23",
       "album": {
-        "name": "Christmas Greetings",
-        "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        }
-      ],
-      "duration_ms": 183412,
-      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
-      "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
-    },
-    {
-      "added_at": "2023-10-05 11:28:23",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
       },
@@ -219,6 +183,42 @@
       "duration_ms": 187200,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/5R9NaAk7bp624MbMyhcoBZ"
+    },
+    {
+      "added_at": "2023-10-05 11:28:23",
+      "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
+    },
+    {
+      "added_at": "2023-10-05 11:28:23",
+      "album": {
+        "name": "Christmas Greetings",
+        "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "duration_ms": 183412,
+      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+      "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
     },
     {
       "added_at": "2023-10-05 11:28:23",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-10-05 11:28:23",
       "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 165813,
+      "name": "The Secret Of Christmas",
+      "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
+    },
+    {
+      "added_at": "2023-10-05 11:28:23",
+      "album": {
         "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
         "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 256443,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
-    },
-    {
-      "added_at": "2023-10-05 11:28:23",
-      "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 165813,
-      "name": "The Secret Of Christmas",
-      "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
     },
     {
       "added_at": "2023-10-05 11:28:23",
@@ -431,26 +431,6 @@
     {
       "added_at": "2023-10-05 11:28:23",
       "album": {
-        "name": "Spotify Singles - Christmas",
-        "url": "https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 166853,
-      "name": "Santa Claus Is Comin' To Town - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO"
-    },
-    {
-      "added_at": "2023-10-05 11:28:23",
-      "album": {
         "name": "Billy Eckstine Sings",
         "url": "https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 230906,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/7vdYX4mdSNdy9g8FeBSKRm"
+    },
+    {
+      "added_at": "2023-10-05 11:28:23",
+      "album": {
+        "name": "Spotify Singles - Christmas",
+        "url": "https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 166853,
+      "name": "Santa Claus Is Comin' To Town - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO"
     },
     {
       "added_at": "2023-10-05 11:28:23",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-10-05 11:28:23",
       "album": {
+        "name": "It's Christmas Time",
+        "url": "https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO"
+      },
+      "artists": [
+        {
+          "name": "Luca Francis",
+          "url": "https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a"
+        }
+      ],
+      "duration_ms": 159622,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb"
+    },
+    {
+      "added_at": "2023-10-05 11:28:23",
+      "album": {
         "name": "All I Want For Christmas Is You",
         "url": "https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8"
       },
@@ -767,6 +783,22 @@
     {
       "added_at": "2023-10-05 11:28:23",
       "album": {
+        "name": "The Very Best Time Of Year",
+        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "Christmas Morning",
+      "url": "https://open.spotify.com/track/1F1hIbXmFT3cb6oDv3hoal"
+    },
+    {
+      "added_at": "2023-10-05 11:28:23",
+      "album": {
         "name": "Jazz To The World",
         "url": "https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh"
       },
@@ -799,42 +831,6 @@
       "duration_ms": 248746,
       "name": "Rest in Peace",
       "url": "https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7"
-    },
-    {
-      "added_at": "2023-10-05 11:28:23",
-      "album": {
-        "name": "The Christmas Feeling",
-        "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
-      },
-      "artists": [
-        {
-          "name": "Peter Asplund",
-          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
-        },
-        {
-          "name": "Vivian Buczek",
-          "url": "https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq"
-        }
-      ],
-      "duration_ms": 298813,
-      "name": "Christmas Memories",
-      "url": "https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy"
-    },
-    {
-      "added_at": "2023-10-05 11:28:23",
-      "album": {
-        "name": "The Very Best Time Of Year",
-        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Christmas Morning",
-      "url": "https://open.spotify.com/track/1F1hIbXmFT3cb6oDv3hoal"
     },
     {
       "added_at": "2023-10-05 11:28:23",

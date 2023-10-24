@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: 上坂すみれ\(Sumire Uesaka\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,841 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,887 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 38 | [アイデンティティ](https://open.spotify.com/track/71QTJO9rk8eoYJr0hAXCEw) | [Mada Mitakoto no Nai Sekai](https://open.spotify.com/artist/0p1pmY1X6Waf3rd4K5vY5y) | [アイデンティティ](https://open.spotify.com/album/13J9iXtAdVT6a9lFBwqLYb) | 2:34 |
 | 39 | [星座になれたら](https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:18 |
 | 40 | [Koi! Koi Koi](https://open.spotify.com/track/4HbCJpVZ12gsYf3aNdsOy6) | [Nene Yashiro\(CV:Akari Kito\)](https://open.spotify.com/artist/77VxZhzSfnxHOwV0iEWv64), [mokke\(CV:Yuuri Yoshida, Chitose Morinaga, Mai Kanazawa\)](https://open.spotify.com/artist/7ApP60cc6Ji7e1doiKh4iI) | [Koi! Koi Koi](https://open.spotify.com/album/1iNtcsA0N8ips7q9X1QjbO) | 3:29 |
-| 41 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 |
+| 41 | [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 |
 | 42 | [Aikotoba](https://open.spotify.com/track/20zpPd27kDBFeMX74Y1sHm) | [AliA](https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB) | [Aikotoba](https://open.spotify.com/album/1gTZHQ1tkqQvTb8SigXpa7) | 3:22 |
-| 43 | [Tank!](https://open.spotify.com/track/2Wi5ubKr8zSk8L3CLemyS4) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9) | 3:30 |
-| 44 | [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 |
-| 45 | [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 |
-| 46 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 |
-| 47 | [ANIMA](https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:29 |
-| 48 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
+| 43 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 |
+| 44 | [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 |
+| 45 | [Tank!](https://open.spotify.com/track/2Wi5ubKr8zSk8L3CLemyS4) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9) | 3:30 |
+| 46 | [ANIMA](https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:29 |
+| 47 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
+| 48 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 |
 | 49 | [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 |
-| 50 | [BINKUSUNO SAKE](https://open.spotify.com/track/4oVlD8uK2QioN4iZ1lBL6X) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:26 |
+| 50 | [センチメートル](https://open.spotify.com/track/2zwZPlMKb1vaFcQK6PpMtP) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [The GARDEN](https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8) | 3:47 |
 
-Snapshot ID: `MCxiYTBjMjExYmU4NDBjNDEyNzYxYmI3OTBiMjM5YTRmZTdkZTU5MThj`
+Snapshot ID: `MCwwZjg0MWI0MmI4Zjc0NGQ2ZjFkY2JjN2QyMzI2ZjdiMmExMzk3Njk5`

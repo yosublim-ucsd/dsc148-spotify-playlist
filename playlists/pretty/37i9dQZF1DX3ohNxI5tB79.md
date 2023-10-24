@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,131 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,203 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 99 | [Little Life](https://open.spotify.com/track/6k8Ma4BHrQhzF71ogxpKhI) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Hopscotch](https://open.spotify.com/album/3rX0StGwVF3griwE7wEdq5) | 2:59 |
 | 100 | [Kickback](https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 2:51 |
 
-Snapshot ID: `MCxkZTIwODVmNGM5YjQ5ZDMyYTk5OTJlOTkyNzk2YmRmNzc4OThmMDI1`
+Snapshot ID: `MCw2MTZhMTdmMjZlMTNjZTYxODA3YWE3NGM0NjllMDdkYzY0MDBkMTAz`

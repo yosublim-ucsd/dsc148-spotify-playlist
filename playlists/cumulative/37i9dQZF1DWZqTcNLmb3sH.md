@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Ghost
 
-915 songs - 2 day 8 hr 26 min
+916 songs - 2 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -776,6 +776,7 @@
 | [Raymo Faymo](https://open.spotify.com/track/0p6qHeb2DDsOwE6cmW6wHH) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Raymo](https://open.spotify.com/album/6oSbXane1jXMmsQWONC2Bh) | 2:54 | 2022-11-21 | 2023-02-04 |
 | [Rekheyinda Elheda](https://open.spotify.com/track/7yLIvdklQi1ynSQ154O5qj) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [PS\-2 \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/09x1YIyNqIdcCWAkq6Eytx) | 3:28 | 2023-03-29 | 2023-08-05 |
 | [Rere Rere Bhajarangi](https://open.spotify.com/track/3XpK2yXQiYJQkP40geHtI1) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Bhajarangi 2](https://open.spotify.com/album/0CCu8Qgsv6UkD8ia93lfd0) | 3:49 | 2021-12-06 | 2022-06-15 |
+| [Restart \(From "12th Fail"\)](https://open.spotify.com/track/4ut2rPwNWsqLdlmVpg6c5s) | [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Vidhu Vinod Chopra](https://open.spotify.com/artist/736GTzt9gLXfEX8pbUaTV5), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Restart \(From "12th Fail"\)](https://open.spotify.com/album/6PtAbtKG3UbBhmqfEE0MUC) | 4:03 | 2023-10-23 |  |
 | [Rhythm of Shivappa \(From "Bairagee"\)](https://open.spotify.com/track/1zlR3FDl1x7xNO1Tp5QNos) | [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R), [Sharan](https://open.spotify.com/artist/3gwJl06k82NzSnDZrE89Nq), [Shiva Rajkumar](https://open.spotify.com/artist/4mJqbFcBShO44DldsN2ZcY) | [Rhythm of Shivappa \(From "Bairagee"\)](https://open.spotify.com/album/1VyZDsodZmrngjHW9lJKfo) | 3:55 | 2022-06-06 | 2022-07-25 |
 | [Rich Rich \(From "Maha Purusha"\)](https://open.spotify.com/track/2xvbI9OQX8cAUviRI1HUjW) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Santhosh Hariharan](https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n) | [Rich Rich \(From "Maha Purusha"\)](https://open.spotify.com/album/5FxumcFX7jWQGCODh7yu4m) | 3:06 | 2022-02-07 | 2022-03-18 |
 | [Rise of Shantala](https://open.spotify.com/track/5tLJBlEImSeJJ4GvcaCO2W) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Priya Prakash](https://open.spotify.com/artist/3hHVnX47eTvjEzihcOWOG1), [Feji](https://open.spotify.com/artist/5u4EqWwVkgK60JH2ZkPybR), [Renuka](https://open.spotify.com/artist/2o7fW1wIbJrOVVeNsNEJbo), [Kinnal Raj](https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD) | [Shantala \(Kannada\)](https://open.spotify.com/album/4RKiBuhfvguhg2QNK4ltWg) | 3:40 | 2023-10-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 
 > Las mejores canciones de indie/alternativo durante el 2020\. En portada: Ela Minus
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,578 likes - 89 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,583 likes - 89 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 57 | [Good Bad Times](https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx) | 3:18 |
 | 58 | [Como Rei Ayanami](https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n) | [Dan Dan Dero](https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR) | [Como Rei Ayanami](https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW) | 2:57 |
 | 59 | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8) | [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW) | 3:31 |
-| 60 | [Como un Dragón](https://open.spotify.com/track/4wRSPGwvz47YVOABxXJoAN) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Mandinga Times](https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6) | 2:50 |
-| 61 | [Wow](https://open.spotify.com/track/5nO4n8RClXZg2ugsBU9hXy) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Margaritas Podridas](https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t) | 5:19 |
+| 60 | [Wow](https://open.spotify.com/track/5nO4n8RClXZg2ugsBU9hXy) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Margaritas Podridas](https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t) | 5:19 |
+| 61 | [Como un Dragón](https://open.spotify.com/track/4wRSPGwvz47YVOABxXJoAN) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Mandinga Times](https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6) | 2:50 |
 | 62 | [Los Demás](https://open.spotify.com/track/3q1hA7KOkM8Xm48PKikJxM) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Chocadito](https://open.spotify.com/album/1U2hMdtzxdLE82QxEVd6c2) | 4:45 |
 | 63 | [Santería](https://open.spotify.com/track/2DGi0QGdmCPG8guKM6bkQj) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Santería](https://open.spotify.com/album/4469u7LwiRnEFipG7qJ5dQ) | 3:14 |
 | 64 | [La Última 10](https://open.spotify.com/track/1cV5rooswGe7QRB8GOrzOP) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Yo Nunca Aprendí a Cantar \(Pero Con Mis Amigos Nos Jugamos Buenos Cotejos\)](https://open.spotify.com/album/0q4oUtLynNJ9npqvIKJIsP) | 4:27 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 69 | [Molécula](https://open.spotify.com/track/32UdSDXOtw9Gsgxfb4lb8y) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Molécula](https://open.spotify.com/album/4kAdjofUEyvQsc9e7YyY0c) | 3:34 |
 | 70 | [Cara De Idiota](https://open.spotify.com/track/6iHbLjuZudv2uD6pTWZSjp) | [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [Cara De Idiota](https://open.spotify.com/album/1mjEYQfRUPROm5rLgPUeae) | 2:33 |
 | 71 | [Caminos Extraños](https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [En Transmisión Perpetua](https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe) | 4:19 |
-| 72 | [Y Ahora](https://open.spotify.com/track/5bfOcYeiVE8yy6EWpwYduo) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6) | 3:12 |
-| 73 | [Ay Corazón \(Silencio\)](https://open.spotify.com/track/0Uoaj7pmqMYVxpYwHKTV11) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Ay Corazón \(Silencio\)](https://open.spotify.com/album/7GeisNK4XEOs2bLjjDARCx) | 3:52 |
+| 72 | [Ay Corazón \(Silencio\)](https://open.spotify.com/track/0Uoaj7pmqMYVxpYwHKTV11) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Ay Corazón \(Silencio\)](https://open.spotify.com/album/7GeisNK4XEOs2bLjjDARCx) | 3:52 |
+| 73 | [Y Ahora](https://open.spotify.com/track/5bfOcYeiVE8yy6EWpwYduo) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6) | 3:12 |
 | 74 | [Perdidos en Pantitlán](https://open.spotify.com/track/0Timp3zrA5PZg9qPoUCVfR) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Perdidos en Pantitlán](https://open.spotify.com/album/7aIjw8NNEqqUiSnwiEMncd) | 2:32 |
 | 75 | [Momento de Escapar](https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n) | [Paraisso](https://open.spotify.com/artist/3s5dsJWkL6dAGsvY4r5cyi) | [Buenos Tiempos](https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m) | 3:37 |
 | 76 | [Eternos](https://open.spotify.com/track/0BRQB84vP5k2XOeAMEkw74) | [Hay Un Dinosaurio](https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe) | [Eternos](https://open.spotify.com/album/5Ch3VsbQLxLmsewBpNKs8U) | 3:43 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 88 | [Sabes](https://open.spotify.com/track/6DH8mb9KAv1dexrLgy9aS8) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [Sabes](https://open.spotify.com/album/6GUwOeqKSqk98yJK2dPkEr) | 3:25 |
 | 89 | [Honestidad](https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:45 |
 
-Snapshot ID: `MCw4OGNiYWU0ZmEwM2Y5ZThmMmFjN2Y5ZTNlODgzNWJiYWVjMTgxOGJh`
+Snapshot ID: `MCxjZmRkNTQ3ZThlMmYwZjE3YmRmODkxYjY0YzI4OGI2ZDc1YjJjZDlh`

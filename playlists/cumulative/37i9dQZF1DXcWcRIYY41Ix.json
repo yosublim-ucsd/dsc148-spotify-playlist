@@ -3042,7 +3042,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 231074,
       "name": "El Verano Que Vivimos",
       "url": "https://open.spotify.com/track/1LTaLoBeGVgQ9CXNhr6aXL"
@@ -3644,6 +3644,28 @@
       "duration_ms": 179324,
       "name": "Herba de Namorar",
       "url": "https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6"
+    },
+    {
+      "album": {
+        "name": "Heridas (Acoustic Version)",
+        "url": "https://open.spotify.com/album/7FKndOez6kYh87LWvgdB4p"
+      },
+      "artists": [
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        },
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196690,
+      "name": "Heridas - Acoustic Version",
+      "url": "https://open.spotify.com/track/2hqgGbTxWK7fToF9QELlgD"
     },
     {
       "album": {
@@ -4770,6 +4792,28 @@
       "duration_ms": 320636,
       "name": "Lo que hay afuera",
       "url": "https://open.spotify.com/track/2bwGFuDKsVxfIV1nIWadcP"
+    },
+    {
+      "album": {
+        "name": "Lo que necesito",
+        "url": "https://open.spotify.com/album/4IsJ57gam4V2vSqrN5GlKT"
+      },
+      "artists": [
+        {
+          "name": "Seba Alfaro",
+          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200191,
+      "name": "Lo que necesito",
+      "url": "https://open.spotify.com/track/3uTIEwwY9uHgmKEbkaGDFd"
     },
     {
       "album": {
@@ -7798,7 +7842,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 232357,
       "name": "Tabaibas",
       "url": "https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ"

@@ -1,12 +1,12 @@
 {
   "description": "The south got something to say. Cover: Ludacris",
-  "num_followers": 502475,
+  "num_followers": 502735,
   "original_name": "I Love My Down South Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGY1YTI1ODVjNzg2MDI0ZmRiNzZiMjUyYWY1Mzc2YWE0NWExZjQ3",
+  "snapshot_id": "MCwxYzgyZTEzN2Q4OGUyNTQ3ZDMxYWU3MGNlZDI5YjI4ZWFlNzJhN2Mz",
   "tracks": [
     {
       "added_at": "2023-09-29 17:21:26",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-09-29 17:21:26",
       "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 240026,
-      "name": "So Fresh, So Clean",
-      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
-    },
-    {
-      "added_at": "2023-09-29 17:21:26",
-      "album": {
         "name": "Rappa Ternt Sanga (Expanded Edition)",
         "url": "https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 231040,
       "name": "I'm Sprung",
       "url": "https://open.spotify.com/track/0DLOyyQvwPTSDKuhpzMMwA"
+    },
+    {
+      "added_at": "2023-09-29 17:21:26",
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "So Fresh, So Clean",
+      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
     },
     {
       "added_at": "2023-09-29 17:21:26",
@@ -407,26 +407,6 @@
     {
       "added_at": "2023-09-29 17:21:26",
       "album": {
-        "name": "Rappa Ternt Sanga (Expanded Edition)",
-        "url": "https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI"
-      },
-      "artists": [
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        },
-        {
-          "name": "Mike Jones",
-          "url": "https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0"
-        }
-      ],
-      "duration_ms": 239413,
-      "name": "I'm N Luv (Wit a Stripper) (feat. Mike Jones)",
-      "url": "https://open.spotify.com/track/2QurCbkPO14pjrikPNja0h"
-    },
-    {
-      "added_at": "2023-09-29 17:21:26",
-      "album": {
         "name": "The Real Testament",
         "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 188493,
       "name": "Hypnotized (feat. Akon)",
       "url": "https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm"
+    },
+    {
+      "added_at": "2023-09-29 17:21:26",
+      "album": {
+        "name": "New Joc City",
+        "url": "https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn"
+      },
+      "artists": [
+        {
+          "name": "Yung Joc",
+          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
+        },
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/14J79DfdiKcztA7WrrpqIP"
+        }
+      ],
+      "duration_ms": 241840,
+      "name": "It's Goin' Down (feat. Nitti)",
+      "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX"
     },
     {
       "added_at": "2023-09-29 17:21:26",
@@ -467,22 +467,38 @@
     {
       "added_at": "2023-09-29 17:21:26",
       "album": {
-        "name": "New Joc City",
-        "url": "https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn"
+        "name": "Rappa Ternt Sanga (Expanded Edition)",
+        "url": "https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI"
       },
       "artists": [
         {
-          "name": "Yung Joc",
-          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         },
         {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/14J79DfdiKcztA7WrrpqIP"
+          "name": "Mike Jones",
+          "url": "https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0"
         }
       ],
-      "duration_ms": 241840,
-      "name": "It's Goin' Down (feat. Nitti)",
-      "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX"
+      "duration_ms": 239413,
+      "name": "I'm N Luv (Wit a Stripper) (feat. Mike Jones)",
+      "url": "https://open.spotify.com/track/2QurCbkPO14pjrikPNja0h"
+    },
+    {
+      "added_at": "2023-09-29 17:21:26",
+      "album": {
+        "name": "ATLiens",
+        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "ATLiens",
+      "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
     },
     {
       "added_at": "2023-09-29 17:21:26",
@@ -523,30 +539,6 @@
     {
       "added_at": "2023-09-29 17:21:26",
       "album": {
-        "name": "Thug Matrimony: Married to the Streets",
-        "url": "https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT"
-      },
-      "artists": [
-        {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "Twista",
-          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Let's Go (feat. Twista & Lil' Jon)",
-      "url": "https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs"
-    },
-    {
-      "added_at": "2023-09-29 17:21:26",
-      "album": {
         "name": "Best Of Master P",
         "url": "https://open.spotify.com/album/2PJ1QoAJhgj1EBMciyPLfE"
       },
@@ -567,18 +559,26 @@
     {
       "added_at": "2023-09-29 17:21:26",
       "album": {
-        "name": "ATLiens",
-        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
+        "name": "Thug Matrimony: Married to the Streets",
+        "url": "https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT"
       },
       "artists": [
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
         }
       ],
-      "duration_ms": 230693,
-      "name": "ATLiens",
-      "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
+      "duration_ms": 222200,
+      "name": "Let's Go (feat. Twista & Lil' Jon)",
+      "url": "https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs"
     },
     {
       "added_at": "2023-09-29 17:21:26",
@@ -647,6 +647,26 @@
     {
       "added_at": "2023-09-29 17:21:26",
       "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "The Way You Move (feat. Sleepy Brown)",
+      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
+    },
+    {
+      "added_at": "2023-09-29 17:21:26",
+      "album": {
         "name": "Most Known Unknown (Explicit)",
         "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 274333,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
-    },
-    {
-      "added_at": "2023-09-29 17:21:26",
-      "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "The Way You Move (feat. Sleepy Brown)",
-      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
     },
     {
       "added_at": "2023-09-29 17:21:26",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-09-29 17:21:26",
       "album": {
+        "name": "We The Best",
+        "url": "https://open.spotify.com/album/3kh9dhan1rQm2QOrISk4SK"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "duration_ms": 263280,
+      "name": "We Takin' Over",
+      "url": "https://open.spotify.com/track/6YdzlsQcyXoWjAykR0rjj3"
+    },
+    {
+      "added_at": "2023-09-29 17:21:26",
+      "album": {
         "name": "Definition of Real",
         "url": "https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 240760,
       "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
       "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
-    },
-    {
-      "added_at": "2023-09-29 17:21:26",
-      "album": {
-        "name": "We The Best",
-        "url": "https://open.spotify.com/album/3kh9dhan1rQm2QOrISk4SK"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 263280,
-      "name": "We Takin' Over",
-      "url": "https://open.spotify.com/track/6YdzlsQcyXoWjAykR0rjj3"
     },
     {
       "added_at": "2023-09-29 17:21:26",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-09-29 17:21:26",
       "album": {
-        "name": "The Inspiration",
-        "url": "https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP"
+        "name": "Word Of Mouf",
+        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
       },
       "artists": [
         {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         }
       ],
-      "duration_ms": 240613,
-      "name": "I Luv It",
-      "url": "https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj"
+      "duration_ms": 296586,
+      "name": "Rollout (My Business)",
+      "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
     }
   ],
   "unique_name": "I Love My Down South Classics",

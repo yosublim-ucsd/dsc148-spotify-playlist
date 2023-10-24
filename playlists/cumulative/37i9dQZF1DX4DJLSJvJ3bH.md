@@ -4,7 +4,7 @@
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-178 songs - 9 hr 29 min
+179 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Baby It's Cold Outside](https://open.spotify.com/track/7m7tdsmeN4M0rZXJR4PHN7) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 4:26 | 2021-12-21 |  |
 | [Baby, It's Cold Outside](https://open.spotify.com/track/7gWkHNjLyjhKBKdZVfVeKv) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Give the Love Around](https://open.spotify.com/album/1iouCZ6xeyFzHbTuTiD5Jk) | 4:10 | 2021-12-21 | 2022-07-29 |
 | [Baby, It's Cold Outside \- Remastered](https://open.spotify.com/track/7fzUBUh8CH0DF0yCaSUKfj) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Avant\-Garde Jazz \(Remastered\)](https://open.spotify.com/album/3miaDzBToycfxNmVr7m72N) | 4:12 | 2022-01-03 | 2022-09-17 |
-| [Beautiful, Altogether](https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:30 | 2021-12-21 |  |
+| [Beautiful, Altogether](https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:30 | 2021-12-21 | 2023-10-24 |
 | [Blue Christmas](https://open.spotify.com/track/3FSkM93UUqfYURsDbDlYyl) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Jazz Christmas](https://open.spotify.com/album/52DmiGDlFOexov6sASMAmc) | 3:50 | 2021-12-21 | 2022-07-29 |
 | [Blue Christmas](https://open.spotify.com/track/7vdYX4mdSNdy9g8FeBSKRm) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Winter Wonderland](https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39) | 3:50 | 2022-01-03 |  |
 | [Busy Santa](https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Busy Santa](https://open.spotify.com/album/2Q8zMZnQ3GkbpTiqLleuQD) | 3:20 | 2022-11-17 |  |
@@ -172,6 +172,7 @@
 | [This Winter](https://open.spotify.com/track/5vvdwmov2OAwwuNsE6qFlp) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ), [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [The Pianoman at Christmas \(The Complete Edition\)](https://open.spotify.com/album/6N2F5snTp3TZlsYZhf4qFG) | 2:53 | 2021-12-21 | 2022-07-29 |
 | [This Winter](https://open.spotify.com/track/62q9lMyhMzNH8LdEOImmeD) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ), [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [The Pianoman at Christmas \(The Complete Edition\)](https://open.spotify.com/album/0LuEO5CPU8DqYEA31cfaGV) | 2:53 | 2022-01-03 |  |
 | [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 | 2022-11-17 |  |
+| [Toyland](https://open.spotify.com/track/4rOpf9iZxgQLSALGHsYvk4) | [Stephen Stevens Quartet](https://open.spotify.com/artist/0sHjwkrwfeNPET9gG2nNfQ) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/29NEpWZtAc1pKuVl6LvEvm) | 2:54 | 2023-10-20 |  |
 | [Under My Christmas Tree](https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Under My Christmas Tree](https://open.spotify.com/album/3486nX6gEewOk56YcHVrxA) | 3:06 | 2023-10-20 |  |
 | [Up on the Housetop](https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 1:13 | 2022-11-17 |  |
 | [Warm In December \- Edit](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December \(Edit\)](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 | 2022-11-17 |  |

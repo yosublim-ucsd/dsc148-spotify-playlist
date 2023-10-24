@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica que prende la fiesta!",
-  "num_followers": 617815,
+  "num_followers": 617957,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDIzODIxNjdkZTQzMzI5MmM1YzBlZDM2YzBmYTE4YzczNzJiMGY0",
+  "snapshot_id": "MCwzYmQ1NTk3NzNkOGYzZTJiMjQxNjc2ZDViNzA0ZWJhMTUxZWQxMmM4",
   "tracks": [
     {
       "added_at": "2023-10-06 14:33:40",
@@ -467,26 +467,6 @@
     {
       "added_at": "2023-10-06 14:33:40",
       "album": {
-        "name": "Volv\u00ed",
-        "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 230125,
-      "name": "Volv\u00ed",
-      "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
-    },
-    {
-      "added_at": "2023-10-06 14:33:40",
-      "album": {
         "name": "Odisea",
         "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
       },
@@ -559,6 +539,26 @@
     {
       "added_at": "2023-10-06 14:33:40",
       "album": {
+        "name": "Nuevas Metas",
+        "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
+      },
+      "artists": [
+        {
+          "name": "La Factoria",
+          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+        },
+        {
+          "name": "Eddy Lover",
+          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
+        }
+      ],
+      "duration_ms": 242390,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
+    },
+    {
+      "added_at": "2023-10-06 14:33:40",
+      "album": {
         "name": "Mix Los Palmeras - (Fer Palacio Remix)",
         "url": "https://open.spotify.com/album/23uaZbNiaoyRW3ajEQaP4G"
       },
@@ -583,22 +583,22 @@
     {
       "added_at": "2023-10-06 14:33:40",
       "album": {
-        "name": "Nuevas Metas",
-        "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
+        "name": "Volv\u00ed",
+        "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
       "artists": [
         {
-          "name": "La Factoria",
-          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         },
         {
-          "name": "Eddy Lover",
-          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 242390,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
+      "duration_ms": 230125,
+      "name": "Volv\u00ed",
+      "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
     },
     {
       "added_at": "2023-10-06 14:33:40",
@@ -959,38 +959,6 @@
     {
       "added_at": "2023-10-06 14:33:40",
       "album": {
-        "name": "Mas Flow - Los Benjamins",
-        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        },
-        {
-          "name": "Hector",
-          "url": "https://open.spotify.com/artist/46EVasHDUzMdhBXeQ7r0W2"
-        },
-        {
-          "name": "Tonny Tun Tun",
-          "url": "https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t"
-        }
-      ],
-      "duration_ms": 263293,
-      "name": "Noche De Entierro",
-      "url": "https://open.spotify.com/track/6ksWMnPcHNyNoNf3y1BQCO"
-    },
-    {
-      "added_at": "2023-10-06 14:33:40",
-      "album": {
         "name": "Ven Bailalo (Reggaeton Mix)",
         "url": "https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y"
       },
@@ -1035,6 +1003,38 @@
       "duration_ms": 352441,
       "name": "Sigue Bailandome",
       "url": "https://open.spotify.com/track/0GmiGIxXDNrePrHBpijYDp"
+    },
+    {
+      "added_at": "2023-10-06 14:33:40",
+      "album": {
+        "name": "Mas Flow - Los Benjamins",
+        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "Hector",
+          "url": "https://open.spotify.com/artist/46EVasHDUzMdhBXeQ7r0W2"
+        },
+        {
+          "name": "Tonny Tun Tun",
+          "url": "https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t"
+        }
+      ],
+      "duration_ms": 263293,
+      "name": "Noche De Entierro",
+      "url": "https://open.spotify.com/track/6ksWMnPcHNyNoNf3y1BQCO"
     },
     {
       "added_at": "2023-10-06 14:33:40",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-10-06 14:33:40",
       "album": {
+        "name": "Los Cotizados",
+        "url": "https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8"
+      },
+      "artists": [
+        {
+          "name": "Baby Rasta & Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Me Niegas",
+      "url": "https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA"
+    },
+    {
+      "added_at": "2023-10-06 14:33:40",
+      "album": {
         "name": "Desesperados",
         "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
-    },
-    {
-      "added_at": "2023-10-06 14:33:40",
-      "album": {
-        "name": "Los Cotizados",
-        "url": "https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8"
-      },
-      "artists": [
-        {
-          "name": "Baby Rasta & Gringo",
-          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
-        }
-      ],
-      "duration_ms": 201946,
-      "name": "Me Niegas",
-      "url": "https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA"
     },
     {
       "added_at": "2023-10-06 14:33:40",
@@ -1435,30 +1435,6 @@
     {
       "added_at": "2023-10-06 14:33:40",
       "album": {
-        "name": "Los Legendarios 001",
-        "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
-      },
-      "artists": [
-        {
-          "name": "Los Legendarios",
-          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 261665,
-      "name": "Fiel",
-      "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
-    },
-    {
-      "added_at": "2023-10-06 14:33:40",
-      "album": {
         "name": "La Jeepeta (Remix)",
         "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
       },
@@ -1487,6 +1463,30 @@
       "duration_ms": 345240,
       "name": "La Jeepeta - Remix",
       "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
+    },
+    {
+      "added_at": "2023-10-06 14:33:40",
+      "album": {
+        "name": "Los Legendarios 001",
+        "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
+      },
+      "artists": [
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 261665,
+      "name": "Fiel",
+      "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
     },
     {
       "added_at": "2023-10-06 14:33:40",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-10-06 14:33:40",
       "album": {
-        "name": "Vida Gangster",
-        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        }
-      ],
-      "duration_ms": 170058,
-      "name": "Vida Gangster",
-      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
-    },
-    {
-      "added_at": "2023-10-06 14:33:40",
-      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2023-10-06 14:33:40",
       "album": {
+        "name": "Vida Gangster",
+        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "duration_ms": 170058,
+      "name": "Vida Gangster",
+      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
+    },
+    {
+      "added_at": "2023-10-06 14:33:40",
+      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 194989,
       "name": "Color\u00edn Colorado",
       "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
+    },
+    {
+      "added_at": "2023-10-06 14:33:40",
+      "album": {
+        "name": "The Perfect Melody",
+        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 304091,
+      "name": "Zun Da Da",
+      "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
     },
     {
       "added_at": "2023-10-06 14:33:40",
@@ -1643,22 +1659,6 @@
       "duration_ms": 155825,
       "name": "Se Te Nota (with Guaynaa)",
       "url": "https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu"
-    },
-    {
-      "added_at": "2023-10-06 14:33:40",
-      "album": {
-        "name": "The Perfect Melody",
-        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 304091,
-      "name": "Zun Da Da",
-      "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
     },
     {
       "added_at": "2023-10-06 14:33:40",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-10-06 14:33:40",
       "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
-    },
-    {
-      "added_at": "2023-10-06 14:33:40",
-      "album": {
         "name": "ADI\u00d3S (Live Version)",
         "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 164547,
       "name": "ADI\u00d3S (Live Version)",
       "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
+    },
+    {
+      "added_at": "2023-10-06 14:33:40",
+      "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2023-10-06 14:33:40",

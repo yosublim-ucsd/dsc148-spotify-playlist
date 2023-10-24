@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Picositos y con mucho sabor! ",
-  "num_followers": 45316,
+  "num_followers": 45336,
   "original_name": "Los Chilaquiles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGQzOWJjM2NlZTVhNzM1NmYxMGU5ZjVlYWYyOGM4MWIzZmE1ODQ2",
+  "snapshot_id": "MCw2MDU0MzhjYjQxMjU5Y2IxYjEwZjE5YjU3MjAxZTVlZDg0OTljMDQx",
   "tracks": [
     {
       "added_at": "2023-05-09 16:27:14",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Huapango Amor Ranchero",
-        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
-      },
-      "artists": [
-        {
-          "name": "La Humildad De La Musica Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "Huapango Amor Ranchero",
-      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Tan Bella y Tan Presumida",
         "url": "https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 181264,
       "name": "Tan Bella y Tan Presumida",
       "url": "https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Huapango Amor Ranchero",
+        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "duration_ms": 199314,
+      "name": "Huapango Amor Ranchero",
+      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Guarachando",
-        "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        }
-      ],
-      "duration_ms": 244413,
-      "name": "Coraz\u00f3n Solitario",
-      "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Cumbia Buena",
         "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
+        "name": "Guarachando",
+        "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        }
+      ],
+      "duration_ms": 244413,
+      "name": "Coraz\u00f3n Solitario",
+      "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
         "name": "S\u00f3lo \u00c9xitos",
         "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
       },
@@ -591,22 +591,6 @@
       "duration_ms": 202253,
       "name": "Mira oye",
       "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -659,6 +643,22 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Soy El Aventurero",
-        "url": "https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy"
-      },
-      "artists": [
-        {
-          "name": "Los Felinos",
-          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
-        }
-      ],
-      "duration_ms": 186247,
-      "name": "Yo Quiero Quebrarte",
-      "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Gold Collection, Vol.1",
         "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 181968,
       "name": "Sal con Lim\u00f3n",
       "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Soy El Aventurero",
+        "url": "https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy"
+      },
+      "artists": [
+        {
+          "name": "Los Felinos",
+          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
+        }
+      ],
+      "duration_ms": 186247,
+      "name": "Yo Quiero Quebrarte",
+      "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Y Es el Contacto \u00a1Raza!",
-        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
-      },
-      "artists": [
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 168045,
-      "name": "El Agua Clara",
-      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Trayectoria",
         "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 247453,
       "name": "Negrita",
       "url": "https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Y Es el Contacto \u00a1Raza!",
+        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "duration_ms": 168045,
+      "name": "El Agua Clara",
+      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Chico de Oro",
-        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
-      },
-      "artists": [
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/2LekureJkYmKUcUTBoHUaX"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/63ya14FMMlgowwjeY0R3Yn"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 271560,
       "name": "C\u00f3mo Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/6Vwr4zJDyXk2IzNUMzEhmQ"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Chico de Oro",
+        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
+      },
+      "artists": [
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/2LekureJkYmKUcUTBoHUaX"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "P\u00e1jaro Cenzontle",
-      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Super Grupo Colombia",
         "url": "https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 202200,
       "name": "Cumbia de las Flores",
       "url": "https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "P\u00e1jaro Cenzontle",
+      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Ska Cubano",
-        "url": "https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt"
+        "name": "Cumbia Salvaje",
+        "url": "https://open.spotify.com/album/2EMw3RFVp5okEUKY7yGYIV"
       },
       "artists": [
         {
-          "name": "Ska Cubano",
-          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
         }
       ],
-      "duration_ms": 269466,
-      "name": "Babalu",
-      "url": "https://open.spotify.com/track/2q6Ctk1nBJU59XtYhiN47b"
+      "duration_ms": 262571,
+      "name": "Bocanegra",
+      "url": "https://open.spotify.com/track/3MX20DuDYfhihzv24OyM3V"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Cumbia Salvaje",
-        "url": "https://open.spotify.com/album/2EMw3RFVp5okEUKY7yGYIV"
+        "name": "The Afrosound Of Colombia Volume 1",
+        "url": "https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf"
       },
       "artists": [
         {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
         }
       ],
-      "duration_ms": 262571,
-      "name": "Bocanegra",
-      "url": "https://open.spotify.com/track/3MX20DuDYfhihzv24OyM3V"
+      "duration_ms": 163253,
+      "name": "Los sabanales",
+      "url": "https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "The Afrosound Of Colombia Volume 1",
-        "url": "https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf"
+        "name": "Ska Cubano",
+        "url": "https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt"
       },
       "artists": [
         {
-          "name": "Los Corraleros De Majagual",
-          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+          "name": "Ska Cubano",
+          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
         }
       ],
-      "duration_ms": 163253,
-      "name": "Los sabanales",
-      "url": "https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh"
+      "duration_ms": 269466,
+      "name": "Babalu",
+      "url": "https://open.spotify.com/track/2q6Ctk1nBJU59XtYhiN47b"
     },
     {
       "added_at": "2023-05-09 16:27:14",

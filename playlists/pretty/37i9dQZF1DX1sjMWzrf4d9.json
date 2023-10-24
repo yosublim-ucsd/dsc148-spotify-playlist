@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib?si=TNRwnRDwQCScvT6x3LhYzQ\">Ziwe Fumudoh</a>",
-  "num_followers": 1457,
+  "num_followers": 1459,
   "original_name": "Ziwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmI1YjJmMDIzOGU5YmI4ZmRjYWZjYWMwN2I2NWMzNTc3OWM5MGY4",
+  "snapshot_id": "MCw4NGZkZjc5OTMyNDM5MDJlZjY5NWFhMTA3MTJjNGVjMjE4N2I4NDdj",
   "tracks": [
     {
       "added_at": "2022-12-01 09:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Ain't Shit",
-      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 268813,
       "name": "Pink Matter",
       "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Ain't Shit",
+      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 161066,
       "name": "Consideration",
       "url": "https://open.spotify.com/track/6t90Z9XkdsHD8xMxro6KRP"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "While We're Young",
-      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -695,6 +695,26 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
+        "name": "What A Time To Be Alive",
+        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 314631,
+      "name": "Diamonds Dancing",
+      "url": "https://open.spotify.com/track/2AGottAzfC8bHzF7kEJ3Wa"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
         "name": "No Frauds",
         "url": "https://open.spotify.com/album/40l9uf8fvmVzRRXQCVwhOJ"
       },
@@ -771,26 +791,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "What A Time To Be Alive",
-        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 314631,
-      "name": "Diamonds Dancing",
-      "url": "https://open.spotify.com/track/2AGottAzfC8bHzF7kEJ3Wa"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "Throw A Fit",
         "url": "https://open.spotify.com/album/2kGxRa3ut2AMvo1fdoUeuK"
       },
@@ -823,6 +823,26 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "duration_ms": 419306,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/3d8PDk3B4am5c6TsUCznUW"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
         "name": "Danity Kane",
         "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
       },
@@ -835,6 +855,26 @@
       "duration_ms": 229240,
       "name": "Show Stopper",
       "url": "https://open.spotify.com/track/5FRIqUXfTazrtRmYEGO4G0"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 201520,
+      "name": "honda (feat. pa salieu)",
+      "url": "https://open.spotify.com/track/6kZsTttxl7h4BLGSRWQnTp"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -871,42 +911,6 @@
       "duration_ms": 192600,
       "name": "Rich Sex (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/2D1MK9oaxy7axXggy3iVbp"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "Aquarius",
-        "url": "https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "All Hands on Deck",
-      "url": "https://open.spotify.com/track/1kXmApTm4wonqscYBoLwxj"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "CAPRISONGS",
-        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 201520,
-      "name": "honda (feat. pa salieu)",
-      "url": "https://open.spotify.com/track/6kZsTttxl7h4BLGSRWQnTp"
     }
   ],
   "unique_name": "Ziwe's Taste ",

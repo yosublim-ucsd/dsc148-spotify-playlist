@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 7242,
+  "num_followers": 7257,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjMxYjVhOTExNmM5MTRmYmI5MTExOGIzZjQ3MzExYzE3MzAyNTAw",
+  "snapshot_id": "MCxlYzE0ZGMzMTQ3OTdlOTJkODg2YzZmOGY2OWM0NGZiODA5ZjgxZjE4",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Scary Hours 2",
         "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 383036,
       "name": "Lemon Pepper Freestyle (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -379,26 +379,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 218332,
-      "name": "Pussy Talk",
-      "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Survival Of The Fittest",
         "url": "https://open.spotify.com/album/5ZXga0efPuZJr2KIvN1xZg"
       },
@@ -439,6 +419,26 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
+        "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 189496,
+      "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Real As It Gets (feat. EST Gee)",
         "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
       },
@@ -459,22 +459,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
-        "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
       },
       "artists": [
         {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         },
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 189496,
-      "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
+      "duration_ms": 218332,
+      "name": "Pussy Talk",
+      "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -527,22 +527,6 @@
       "duration_ms": 228796,
       "name": "That\u2019s It",
       "url": "https://open.spotify.com/track/5n6gBhdEjCuj3obgCoTEFD"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Errbody",
-        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 210698,
-      "name": "Errbody",
-      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -619,6 +603,22 @@
       "duration_ms": 144047,
       "name": "B*tch From Da Souf",
       "url": "https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Errbody",
+        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 210698,
+      "name": "Errbody",
+      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -719,6 +719,26 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Muwop (feat. Gucci Mane)",
+        "url": "https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 200135,
+      "name": "Muwop (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Dum and Dummer 2",
         "url": "https://open.spotify.com/album/1XKOXluL7TbCpPVsX4dqXv"
       },
@@ -803,62 +823,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "No More Parties",
-        "url": "https://open.spotify.com/album/5pPKR7VufPAbF18RUYB0eP"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 140920,
-      "name": "No More Parties",
-      "url": "https://open.spotify.com/track/3R6wLBD4oU6op8L4YfMho9"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Muwop (feat. Gucci Mane)",
-        "url": "https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 200135,
-      "name": "Muwop (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "RNB (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U"
-      },
-      "artists": [
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "RNB (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "VORY",
         "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
       },
@@ -875,6 +839,22 @@
       "duration_ms": 183182,
       "name": "Ain't It Funny ft. Meek Mill",
       "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "No More Parties",
+        "url": "https://open.spotify.com/album/5pPKR7VufPAbF18RUYB0eP"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 140920,
+      "name": "No More Parties",
+      "url": "https://open.spotify.com/track/3R6wLBD4oU6op8L4YfMho9"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -899,18 +879,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Just Cause Y'all Waited 2",
-        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
+        "name": "RNB (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 149066,
-      "name": "Broke Up In Miami",
-      "url": "https://open.spotify.com/track/4L1YERExL7737mCRSCuQxq"
+      "duration_ms": 211213,
+      "name": "RNB (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -947,6 +931,26 @@
       "duration_ms": 171500,
       "name": "Black Men Don't Cheat (feat. Charlamagne tha God)",
       "url": "https://open.spotify.com/track/07qrV60yRqp8ckQaI1jKfp"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/7D7MbEqj5SqR0aFW5j9gid"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 190731,
+      "name": "Flewed Out",
+      "url": "https://open.spotify.com/track/59Q3Yzb5fUH3VSQfWAuRHX"
     }
   ],
   "unique_name": "Justin Laboy's Taste",

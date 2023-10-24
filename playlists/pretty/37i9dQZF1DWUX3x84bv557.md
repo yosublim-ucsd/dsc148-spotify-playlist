@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: Metejoor
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,970 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,981 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eigen Schuld](https://open.spotify.com/track/5pf1eSfMJE4efPzwpqB5jK) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Eigen Schuld](https://open.spotify.com/album/06lZcDwBLxPbT326eAxqS7) | 3:13 |
-| 2 | [Opfok](https://open.spotify.com/track/0a7B1hi1BaLLkgXyZak3n7) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Opfok](https://open.spotify.com/album/2vrh59pa7DoAilw5DyAwju) | 2:26 |
-| 3 | [Adem In](https://open.spotify.com/track/6Kw6oM5xHYE4BZsymijkYG) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Adem In](https://open.spotify.com/album/0wNvqstrp3YwZQUIKFivVf) | 2:24 |
-| 4 | [Achtbaan](https://open.spotify.com/track/5x8PzeaVxkN8XFgJGlhXvG) | [Irene Hin](https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej) | [Achtbaan](https://open.spotify.com/album/7uMaP4UxEn8MkA1pf6I74s) | 3:20 |
-| 5 | [Waterdicht](https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo) | 2:51 |
+| 2 | [Waterdicht](https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo) | 2:51 |
+| 3 | [Opfok](https://open.spotify.com/track/0a7B1hi1BaLLkgXyZak3n7) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Opfok](https://open.spotify.com/album/2vrh59pa7DoAilw5DyAwju) | 2:26 |
+| 4 | [Adem In](https://open.spotify.com/track/6Kw6oM5xHYE4BZsymijkYG) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Adem In](https://open.spotify.com/album/0wNvqstrp3YwZQUIKFivVf) | 2:24 |
+| 5 | [Achtbaan](https://open.spotify.com/track/5x8PzeaVxkN8XFgJGlhXvG) | [Irene Hin](https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej) | [Achtbaan](https://open.spotify.com/album/7uMaP4UxEn8MkA1pf6I74s) | 3:20 |
 | 6 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 |
 | 7 | [Dopamine](https://open.spotify.com/track/4rKgglMTWD9srdmmFd3iwS) | [Guusje](https://open.spotify.com/artist/3JrsxoRQjMCK7UjatNPTGx) | [Dopamine](https://open.spotify.com/album/4K5Zge9nkEolGmF0S3OOV9) | 2:54 |
-| 8 | [Arcade](https://open.spotify.com/track/2dDoOSCrKQCY95eY56Xs9R) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/3wzxiVGNefP0NRFjAhkVVo) | 3:16 |
+| 8 | [Arcade](https://open.spotify.com/track/06q5OfzaRccXcFU6L7PrWd) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Arcade](https://open.spotify.com/album/5p4dNjuAzVPPM61pt4KQhK) | 3:16 |
 | 9 | [1234](https://open.spotify.com/track/0ZcTWDFmCidCFw4pPr7ekO) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [De Tijd Gaat Mooie Dingen Doen](https://open.spotify.com/album/6myczO3dCuLnjSoUS6yOfY) | 2:36 |
 | 10 | [De Hele Nacht](https://open.spotify.com/track/5piOsIWpDiaK8BUmPYCIVF) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [De Hele Nacht](https://open.spotify.com/album/3FJVjlwiacUhh69HjeyGoB) | 2:19 |
 | 11 | [Kleine Versie Van Mezelf](https://open.spotify.com/track/7rlXVJqu0f1H7YNbda8HfW) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd) | [Kleine Versie Van Mezelf](https://open.spotify.com/album/1ThUqYsEZVmnRVHbppBVlD) | 2:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Wakker](https://open.spotify.com/track/3qD6YcX8EYahVoqfZyIzYC) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Wakker](https://open.spotify.com/album/1bEM1VmjCucrV6SRcN8PRL) | 2:19 |
 | 60 | [Elke Avond Feest](https://open.spotify.com/track/2w1tIkkgJWKfSensaU0vXd) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta) | [Elke Avond Feest](https://open.spotify.com/album/4LjBa0yk1oYtaOlwrbSVcZ) | 2:34 |
 
-Snapshot ID: `MCw4YmFiMTBmMWNhMzJiYTBhYmEwMmIyYjE3ZWZiN2FjZDBkNThhMWE2`
+Snapshot ID: `MCxiOTYwMjEyOTM1Y2RlNDZhOTA1MzE3Nzc5NjU2NmU2MWMxNzY1ZjBk`

@@ -14233,6 +14233,24 @@
     },
     {
       "album": {
+        "name": "EVOL",
+        "url": "https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173346,
+      "name": "Wicked",
+      "url": "https://open.spotify.com/track/6BbINUfGabVyiNFJpQXn3x"
+    },
+    {
+      "album": {
         "name": "Who is Nardo Wick?",
         "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
       },

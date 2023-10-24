@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 189661,
       "name": "Boy Boy - Remix",
       "url": "https://open.spotify.com/track/6wivhAkZ67Qpp76PENP0jh"
@@ -14366,7 +14366,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 185411,
       "name": "NO PARE - REMIX",
       "url": "https://open.spotify.com/track/64eezAxFI6wjCPcshao8Pe"
@@ -17232,7 +17232,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 124137,
       "name": "Quien Dijo",
       "url": "https://open.spotify.com/track/1GlVvjF1q1NkP1gjB6NGTy"
@@ -18772,7 +18772,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 142334,
       "name": "Seg\u00fan Qui\u00e9n",
       "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
@@ -18852,7 +18852,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
@@ -20524,6 +20524,24 @@
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4G3PTss3mU33Tau7t4KbwE"
+    },
+    {
+      "album": {
+        "name": "Te Acuerdas",
+        "url": "https://open.spotify.com/album/2PGYv66qvNvkj9bHwJPzfg"
+      },
+      "artists": [
+        {
+          "name": "Armez",
+          "url": "https://open.spotify.com/artist/5SETXxt4h3XsZONZRoodOz"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Te Acuerdas",
+      "url": "https://open.spotify.com/track/1ETPrordns62g0uNKJmTre"
     },
     {
       "album": {

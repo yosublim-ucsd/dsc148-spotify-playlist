@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon this 2023\. Cover: DENȲ
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,246 likes - 42 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,312 likes - 42 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 41 | [THAT'S MY BABY](https://open.spotify.com/track/0PhsD58bUDnIFacJ7itwzb) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [THAT'S MY BABY](https://open.spotify.com/album/20rpmzk4aqw8CvrHTEMMPe) | 3:55 |
 | 42 | [The Beast](https://open.spotify.com/track/40e9mNIqd4wLE3EiwPC3UL) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [The Beast](https://open.spotify.com/album/3flkYNv2VM7Mls9M9ww8HX) | 3:25 |
 
-Snapshot ID: `MCxjNTZkN2YzZGEyZjczYmZjYmM1M2RhMjE3ZWM0MzhlMjNmODdiNjFh`
+Snapshot ID: `MCw3ZTVhNzk4MjVkOTg2NmEzMWMxZDE5MGFhMzFkMzNlMDkzNmY4OWYy`

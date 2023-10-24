@@ -1,12 +1,12 @@
 {
   "description": "Just lean back and enjoy relaxed beats.",
-  "num_followers": 1844517,
+  "num_followers": 1844894,
   "original_name": "Chillout Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTUwMzdjODNjMTliODA3MDdiYTc5NDM4ZmZhYjM1N2NjMjAzYjE2",
+  "snapshot_id": "MCw2MjE3ZjU3ZDBmNjI2ZGQ2MGJiMWU3NmJhYTFhYzgwZTBmMTc5YzBk",
   "tracks": [
     {
       "added_at": "2023-10-13 11:00:00",
@@ -331,22 +331,18 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
-        "name": "Ours (Hermanez Remix)",
-        "url": "https://open.spotify.com/album/7DbXJlGgQVjnLduIEyUl5B"
+        "name": "Rohan",
+        "url": "https://open.spotify.com/album/5PuEISOccj2QmqLv7wyplF"
       },
       "artists": [
         {
-          "name": "L\u00d8C",
-          "url": "https://open.spotify.com/artist/4BdGq2d0jIMo3egZnE61sD"
-        },
-        {
-          "name": "Hermanez",
-          "url": "https://open.spotify.com/artist/4JPGyWMMmaxIRcS4zItdHJ"
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
         }
       ],
-      "duration_ms": 459661,
-      "name": "Ours - Hermanez Remix",
-      "url": "https://open.spotify.com/track/5dOn7fur446SKKcujG3zwM"
+      "duration_ms": 162461,
+      "name": "Rohan",
+      "url": "https://open.spotify.com/track/27qGyy5X3rkrIQ6XXx8r5V"
     },
     {
       "added_at": "2023-10-13 11:00:00",
@@ -367,18 +363,22 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
-        "name": "Rohan",
-        "url": "https://open.spotify.com/album/5PuEISOccj2QmqLv7wyplF"
+        "name": "Ours (Hermanez Remix)",
+        "url": "https://open.spotify.com/album/7DbXJlGgQVjnLduIEyUl5B"
       },
       "artists": [
         {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+          "name": "L\u00d8C",
+          "url": "https://open.spotify.com/artist/4BdGq2d0jIMo3egZnE61sD"
+        },
+        {
+          "name": "Hermanez",
+          "url": "https://open.spotify.com/artist/4JPGyWMMmaxIRcS4zItdHJ"
         }
       ],
-      "duration_ms": 162461,
-      "name": "Rohan",
-      "url": "https://open.spotify.com/track/27qGyy5X3rkrIQ6XXx8r5V"
+      "duration_ms": 459661,
+      "name": "Ours - Hermanez Remix",
+      "url": "https://open.spotify.com/track/5dOn7fur446SKKcujG3zwM"
     },
     {
       "added_at": "2023-10-13 11:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
+        "name": "In Deep",
+        "url": "https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm"
+      },
+      "artists": [
+        {
+          "name": "Beachwax",
+          "url": "https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr"
+        }
+      ],
+      "duration_ms": 171289,
+      "name": "In Deep",
+      "url": "https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds"
+    },
+    {
+      "added_at": "2023-10-13 11:00:00",
+      "album": {
         "name": "Never Let You Go",
         "url": "https://open.spotify.com/album/5RgAQOjc5nyF4uqnpVocoh"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
-        "name": "In Deep",
-        "url": "https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm"
-      },
-      "artists": [
-        {
-          "name": "Beachwax",
-          "url": "https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr"
-        }
-      ],
-      "duration_ms": 171289,
-      "name": "In Deep",
-      "url": "https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds"
-    },
-    {
-      "added_at": "2023-10-13 11:00:00",
-      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 116571,
       "name": "Flow",
       "url": "https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd"
-    },
-    {
-      "added_at": "2023-10-13 11:00:00",
-      "album": {
-        "name": "Boardwalk Lullaby",
-        "url": "https://open.spotify.com/album/0Vy92KWCt46nfEZJ6Xk003"
-      },
-      "artists": [
-        {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
-        }
-      ],
-      "duration_ms": 164869,
-      "name": "Boardwalk Lullaby",
-      "url": "https://open.spotify.com/track/7xfBAKxjVjw7YIIEUMD4qc"
     },
     {
       "added_at": "2023-10-13 11:00:00",
@@ -763,18 +747,18 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
-        "name": "Beau",
-        "url": "https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT"
+        "name": "Boardwalk Lullaby",
+        "url": "https://open.spotify.com/album/0Vy92KWCt46nfEZJ6Xk003"
       },
       "artists": [
         {
-          "name": "C\u00e1mille",
-          "url": "https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW"
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
         }
       ],
-      "duration_ms": 152618,
-      "name": "Beau",
-      "url": "https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni"
+      "duration_ms": 164869,
+      "name": "Boardwalk Lullaby",
+      "url": "https://open.spotify.com/track/7xfBAKxjVjw7YIIEUMD4qc"
     },
     {
       "added_at": "2023-10-13 11:00:00",
@@ -791,6 +775,22 @@
       "duration_ms": 158368,
       "name": "As Long As You Love Me",
       "url": "https://open.spotify.com/track/75nLmZ3IjorDYevGhuhahs"
+    },
+    {
+      "added_at": "2023-10-13 11:00:00",
+      "album": {
+        "name": "Beau",
+        "url": "https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1mille",
+          "url": "https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW"
+        }
+      ],
+      "duration_ms": 152618,
+      "name": "Beau",
+      "url": "https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni"
     },
     {
       "added_at": "2023-10-13 11:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14"
-      },
-      "artists": [
-        {
-          "name": "Blewbird",
-          "url": "https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W"
-        }
-      ],
-      "duration_ms": 138964,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL"
-    },
-    {
-      "added_at": "2023-10-13 11:00:00",
-      "album": {
         "name": "Love Tonight",
         "url": "https://open.spotify.com/album/2WdG47U5Pnd7sPZMkJh9hV"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 174739,
       "name": "Love Tonight",
       "url": "https://open.spotify.com/track/7upogXdc53IaJBvkR4L0Vj"
+    },
+    {
+      "added_at": "2023-10-13 11:00:00",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14"
+      },
+      "artists": [
+        {
+          "name": "Blewbird",
+          "url": "https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W"
+        }
+      ],
+      "duration_ms": 138964,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL"
     },
     {
       "added_at": "2023-10-13 11:00:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
-        "name": "Stranded Thoughts",
-        "url": "https://open.spotify.com/album/79rMJY41n8OmQERClNA7Wk"
+        "name": "Santa Fe",
+        "url": "https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa"
       },
       "artists": [
         {
-          "name": "Saive",
-          "url": "https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ"
+          "name": "Zoo Pool",
+          "url": "https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I"
         }
       ],
-      "duration_ms": 235826,
-      "name": "Stranded Thoughts",
-      "url": "https://open.spotify.com/track/4VValXSltZWVCMLOkZbOYr"
+      "duration_ms": 177272,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/46hBN101eELE1lhjYPauSx"
     },
     {
       "added_at": "2023-10-13 11:00:00",
@@ -1075,18 +1075,34 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
-        "name": "Santa Fe",
-        "url": "https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa"
+        "name": "Morning Workout",
+        "url": "https://open.spotify.com/album/1rkT9Y5aXjnyBW44DhAh2L"
       },
       "artists": [
         {
-          "name": "Zoo Pool",
-          "url": "https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I"
+          "name": "Luca Tong",
+          "url": "https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl"
         }
       ],
-      "duration_ms": 177272,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/46hBN101eELE1lhjYPauSx"
+      "duration_ms": 162597,
+      "name": "Morning Workout",
+      "url": "https://open.spotify.com/track/4ZWO4l9zqiT7S35qjvusjE"
+    },
+    {
+      "added_at": "2023-10-13 11:00:00",
+      "album": {
+        "name": "Stranded Thoughts",
+        "url": "https://open.spotify.com/album/79rMJY41n8OmQERClNA7Wk"
+      },
+      "artists": [
+        {
+          "name": "Saive",
+          "url": "https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Stranded Thoughts",
+      "url": "https://open.spotify.com/track/4VValXSltZWVCMLOkZbOYr"
     },
     {
       "added_at": "2023-10-13 11:00:00",
@@ -1103,22 +1119,6 @@
       "duration_ms": 137454,
       "name": "Day Drinks",
       "url": "https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK"
-    },
-    {
-      "added_at": "2023-10-13 11:00:00",
-      "album": {
-        "name": "Morning Workout",
-        "url": "https://open.spotify.com/album/1rkT9Y5aXjnyBW44DhAh2L"
-      },
-      "artists": [
-        {
-          "name": "Luca Tong",
-          "url": "https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl"
-        }
-      ],
-      "duration_ms": 162597,
-      "name": "Morning Workout",
-      "url": "https://open.spotify.com/track/4ZWO4l9zqiT7S35qjvusjE"
     },
     {
       "added_at": "2023-10-13 11:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
-        "name": "Alike / Surface",
-        "url": "https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk"
-      },
-      "artists": [
-        {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
-        }
-      ],
-      "duration_ms": 195147,
-      "name": "Alike",
-      "url": "https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn"
-    },
-    {
-      "added_at": "2023-10-13 11:00:00",
-      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/7FIqkD76gTpehE4dVqmyu3"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
+        "name": "Alike / Surface",
+        "url": "https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk"
+      },
+      "artists": [
+        {
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        }
+      ],
+      "duration_ms": 195147,
+      "name": "Alike",
+      "url": "https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn"
+    },
+    {
+      "added_at": "2023-10-13 11:00:00",
+      "album": {
         "name": "Curvature",
         "url": "https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5"
       },
@@ -1231,38 +1231,6 @@
       "duration_ms": 350929,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC"
-    },
-    {
-      "added_at": "2023-10-13 11:00:00",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/7GI6FGh57gOzsKhhDF3nny"
-      },
-      "artists": [
-        {
-          "name": "ALIIASES",
-          "url": "https://open.spotify.com/artist/76tghSDHKcYCKcdPpKe5cp"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/29Sf7YWibtHoFxrv4a9ol9"
-    },
-    {
-      "added_at": "2023-10-13 11:00:00",
-      "album": {
-        "name": "In The Sun",
-        "url": "https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5"
-      },
-      "artists": [
-        {
-          "name": "Palm 3s",
-          "url": "https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV"
-        }
-      ],
-      "duration_ms": 244285,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp"
     },
     {
       "added_at": "2023-10-13 11:00:00",
@@ -1303,6 +1271,38 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
+        "name": "In The Sun",
+        "url": "https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5"
+      },
+      "artists": [
+        {
+          "name": "Palm 3s",
+          "url": "https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV"
+        }
+      ],
+      "duration_ms": 244285,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp"
+    },
+    {
+      "added_at": "2023-10-13 11:00:00",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/7GI6FGh57gOzsKhhDF3nny"
+      },
+      "artists": [
+        {
+          "name": "ALIIASES",
+          "url": "https://open.spotify.com/artist/76tghSDHKcYCKcdPpKe5cp"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/29Sf7YWibtHoFxrv4a9ol9"
+    },
+    {
+      "added_at": "2023-10-13 11:00:00",
+      "album": {
         "name": "Sunset Serene",
         "url": "https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG"
       },
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b"
-      },
-      "artists": [
-        {
-          "name": "Bjarne Hendrik",
-          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
-        }
-      ],
-      "duration_ms": 207549,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2HcHfWexQZ2UcjIvpZbxVI"
-    },
-    {
-      "added_at": "2023-10-13 11:00:00",
-      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/4LqGhps0CA546STC9A5Neq"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 158979,
       "name": "Over You",
       "url": "https://open.spotify.com/track/5ITjUucH19eHJvfh7iUIhw"
+    },
+    {
+      "added_at": "2023-10-13 11:00:00",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b"
+      },
+      "artists": [
+        {
+          "name": "Bjarne Hendrik",
+          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
+        }
+      ],
+      "duration_ms": 207549,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2HcHfWexQZ2UcjIvpZbxVI"
     },
     {
       "added_at": "2023-10-13 11:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE"
-      },
-      "artists": [
-        {
-          "name": "Duckmaw",
-          "url": "https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD"
-        }
-      ],
-      "duration_ms": 228130,
-      "name": "Ray of Light",
-      "url": "https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i"
-    },
-    {
-      "added_at": "2023-10-13 11:00:00",
-      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/77VzYuJEYZKyIQvPPziUXa"
       },
@@ -1459,22 +1443,6 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
-        "name": "Sona",
-        "url": "https://open.spotify.com/album/6w5j6hPwk1g9xhmeEWRkfF"
-      },
-      "artists": [
-        {
-          "name": "Valante",
-          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
-        }
-      ],
-      "duration_ms": 212384,
-      "name": "Sona",
-      "url": "https://open.spotify.com/track/0McdR3kjH8OKdGMAUHsBiU"
-    },
-    {
-      "added_at": "2023-10-13 11:00:00",
-      "album": {
         "name": "You and You",
         "url": "https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp"
       },
@@ -1487,6 +1455,38 @@
       "duration_ms": 201000,
       "name": "You and You",
       "url": "https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf"
+    },
+    {
+      "added_at": "2023-10-13 11:00:00",
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE"
+      },
+      "artists": [
+        {
+          "name": "Duckmaw",
+          "url": "https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD"
+        }
+      ],
+      "duration_ms": 228130,
+      "name": "Ray of Light",
+      "url": "https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i"
+    },
+    {
+      "added_at": "2023-10-13 11:00:00",
+      "album": {
+        "name": "Sona",
+        "url": "https://open.spotify.com/album/6w5j6hPwk1g9xhmeEWRkfF"
+      },
+      "artists": [
+        {
+          "name": "Valante",
+          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
+        }
+      ],
+      "duration_ms": 212384,
+      "name": "Sona",
+      "url": "https://open.spotify.com/track/0McdR3kjH8OKdGMAUHsBiU"
     },
     {
       "added_at": "2023-10-13 11:00:00",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
-        "name": "Cumulus",
-        "url": "https://open.spotify.com/album/12HZUEodYzPSQQSu0RkGog"
-      },
-      "artists": [
-        {
-          "name": "M1NT",
-          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
-        },
-        {
-          "name": "blnkspc_",
-          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
-        }
-      ],
-      "duration_ms": 187315,
-      "name": "Cumulus",
-      "url": "https://open.spotify.com/track/6lg32SOkBvVdEikGN5tFrg"
-    },
-    {
-      "added_at": "2023-10-13 11:00:00",
-      "album": {
         "name": "A Glitch",
         "url": "https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv"
       },
@@ -1623,18 +1603,22 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
-        "name": "Glassy Haze",
-        "url": "https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf"
+        "name": "Cumulus",
+        "url": "https://open.spotify.com/album/12HZUEodYzPSQQSu0RkGog"
       },
       "artists": [
         {
-          "name": "Kubicova",
-          "url": "https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr"
+          "name": "M1NT",
+          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
+        },
+        {
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
         }
       ],
-      "duration_ms": 153652,
-      "name": "Glassy Haze",
-      "url": "https://open.spotify.com/track/4FILjWLfV7XwMXzIoJ5XH6"
+      "duration_ms": 187315,
+      "name": "Cumulus",
+      "url": "https://open.spotify.com/track/6lg32SOkBvVdEikGN5tFrg"
     },
     {
       "added_at": "2023-10-13 11:00:00",
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
+        "name": "Glassy Haze",
+        "url": "https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf"
+      },
+      "artists": [
+        {
+          "name": "Kubicova",
+          "url": "https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "Glassy Haze",
+      "url": "https://open.spotify.com/track/4FILjWLfV7XwMXzIoJ5XH6"
+    },
+    {
+      "added_at": "2023-10-13 11:00:00",
+      "album": {
         "name": "Hands Together",
         "url": "https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p"
       },
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2023-10-13 11:00:00",
       "album": {
-        "name": "Balearic Dream",
-        "url": "https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84"
+        "name": "Suen\u0303o Lu\u0301cido",
+        "url": "https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD"
       },
       "artists": [
         {
-          "name": "Gueves",
-          "url": "https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO"
+          "name": "Ralf",
+          "url": "https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Balearic Dream",
-      "url": "https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8"
+      "duration_ms": 245106,
+      "name": "Suen\u0303o Lu\u0301cido",
+      "url": "https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx"
     },
     {
       "added_at": "2023-10-13 11:00:00",

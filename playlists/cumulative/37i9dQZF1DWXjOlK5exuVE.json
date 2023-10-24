@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-22",
-  "description": "\u00a1Bienvenidos a La Tierra del Corrido! Historias que hacen historia. Eden Mu\u00f1oz, Los Tucanes de Tijuana & Fuerza Regida en portada. ",
+  "description": "\u00a1Bienvenidos a La Tierra del Corrido! Historias que hacen historia. Luis R Conriquez, Grupo Marca Registrada, Chino Pacas, Esteban Gabriel y Xavi en portada. ",
   "name": "La Tierra del Corrido",
   "tracks": [
     {
@@ -1060,6 +1060,24 @@
       "duration_ms": 175295,
       "name": "El Gavil\u00e1n",
       "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
+    },
+    {
+      "album": {
+        "name": "El Gordo Trae El Mando",
+        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112087,
+      "name": "El Gordo Trae El Mando",
+      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
     },
     {
       "album": {
@@ -3026,6 +3044,28 @@
       "duration_ms": 159786,
       "name": "Pistoleros Famosos",
       "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
+    },
+    {
+      "album": {
+        "name": "Poco A Poco",
+        "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156040,
+      "name": "Poco A Poco",
+      "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
     },
     {
       "album": {

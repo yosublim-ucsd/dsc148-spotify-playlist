@@ -2,7 +2,7 @@
 
 ### [Novidades da Semana](https://open.spotify.com/playlist/37i9dQZF1DX34KNiFQJNVm)
 
-> Os lançamentos dessa semana incluem Simone Mendes, Anitta, Tz da Coronel, Os Barões da Pisadinha, Charli XCX e muito mais!
+> Os lançamentos dessa semana incluem Simone Mendes, Anitta, Tz da Coronel, Os Barões da Pisadinha e muito mais!
 
 8,493 songs - 17 day 23 hr 14 min
 

@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 284370,
+  "num_followers": 284487,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTM1MTgwZmI4MzQ4MDYyMGE3NTgzZTlkOTBkMTFmMzI0NzA5ZjMx",
+  "snapshot_id": "MCw0MTNjMzk2MjhmYjQzNzVjMWZmZGM5YjU5ZjdlNjUyN2Y1NDNiNDQ1",
   "tracks": [
     {
       "added_at": "2023-08-21 19:26:53",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "(Ghost) Riders in the Sky",
-      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Kenny",
         "url": "https://open.spotify.com/album/3dJ7K3zS6Ux7OFAWcG8eWI"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 258733,
       "name": "Coward Of The County",
       "url": "https://open.spotify.com/track/0JkIre0YxNmKGMU5V7ZiDx"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 224813,
+      "name": "(Ghost) Riders in the Sky",
+      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Summertime Dream",
-        "url": "https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8"
+        "name": "Rocky Mountain High",
+        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
       },
       "artists": [
         {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 389280,
-      "name": "The Wreck of the Edmund Fitzgerald",
-      "url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
+      "duration_ms": 283640,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -383,8 +383,8 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Rocky Mountain High",
-        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
       "artists": [
         {
@@ -392,29 +392,25 @@
           "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 283640,
-      "name": "Rocky Mountain High",
-      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+      "duration_ms": 193093,
+      "name": "Thank God I'm a Country Boy",
+      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
     },
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Ol' Waylon",
-        "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
+        "name": "Summertime Dream",
+        "url": "https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
+      "duration_ms": 389280,
+      "name": "The Wreck of the Edmund Fitzgerald",
+      "url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -451,6 +447,26 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
+        "name": "Ol' Waylon",
+        "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
         "name": "Kenny Rogers",
         "url": "https://open.spotify.com/album/5LYk7eiOau7NSQn6GQbF9k"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 220866,
       "name": "Lucille",
       "url": "https://open.spotify.com/track/15ADURMdkO25JGD5mIcodM"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
-        "name": "Red Headed Stranger",
-        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Blue Eyes Crying In the Rain",
-      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+        "name": "Red Headed Stranger",
+        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 193093,
-      "name": "Thank God I'm a Country Boy",
-      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
+      "duration_ms": 138600,
+      "name": "Blue Eyes Crying In the Rain",
+      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Johnny Paycheck - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7EcDMC33XvuCEWwLTwc8N5"
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
       "artists": [
         {
-          "name": "Johnny Paycheck",
-          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Take This Job and Shove It",
-      "url": "https://open.spotify.com/track/6yT7kcpsXNW7QS9xunPaox"
+      "duration_ms": 192800,
+      "name": "Tulsa Time",
+      "url": "https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1387,6 +1387,22 @@
       "duration_ms": 160920,
       "name": "Out Of My Head And Back In My Bed",
       "url": "https://open.spotify.com/track/2cLb9n7u5iJTXNOrrJI1F1"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Johnny Paycheck - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7EcDMC33XvuCEWwLTwc8N5"
+      },
+      "artists": [
+        {
+          "name": "Johnny Paycheck",
+          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Take This Job and Shove It",
+      "url": "https://open.spotify.com/track/6yT7kcpsXNW7QS9xunPaox"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Tulsa Time",
-      "url": "https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "HAG: The Hits Volume 2",
         "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
-      },
-      "artists": [
-        {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "When You're Hot, You're Hot",
-      "url": "https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "25 Number Ones",
         "url": "https://open.spotify.com/album/4GeLWE7lG3Ur3SaYaolhkh"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 181932,
       "name": "You've Never Been This Far Before",
       "url": "https://open.spotify.com/track/2PX54jMPTjvpgAod0oIuIP"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "The Essential Jerry Reed",
+        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
+      },
+      "artists": [
+        {
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "When You're Hot, You're Hot",
+      "url": "https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Ramblin' Fever",
-        "url": "https://open.spotify.com/album/4gny1TLw5OtuAceGWhQIHX"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "If We're Not Back In Love By Monday",
-      "url": "https://open.spotify.com/track/3jghFUSMqVsvbIqxW6VIdM"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "The Kendalls - 42 Massive Hits",
         "url": "https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz"
       },
@@ -1555,34 +1539,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0"
+        "name": "Ramblin' Fever",
+        "url": "https://open.spotify.com/album/4gny1TLw5OtuAceGWhQIHX"
       },
       "artists": [
         {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 167706,
-      "name": "East Bound and Down",
-      "url": "https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
-        "name": "The Essential Tammy Wynette",
-        "url": "https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 157933,
-      "name": "'Til I Get It Right",
-      "url": "https://open.spotify.com/track/64s3ywG24Rkgum7qIIA6wO"
+      "duration_ms": 196000,
+      "name": "If We're Not Back In Love By Monday",
+      "url": "https://open.spotify.com/track/3jghFUSMqVsvbIqxW6VIdM"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1603,18 +1571,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "New Kind Of Feeling",
-        "url": "https://open.spotify.com/album/7lzKMo3MHAz8Xuc0LBA4tG"
+        "name": "The Essential Tammy Wynette",
+        "url": "https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7"
       },
       "artists": [
         {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
         }
       ],
-      "duration_ms": 171640,
-      "name": "I Just Fall In Love Again",
-      "url": "https://open.spotify.com/track/6aBiU9lFd3BhtggI7aeqBI"
+      "duration_ms": 157933,
+      "name": "'Til I Get It Right",
+      "url": "https://open.spotify.com/track/64s3ywG24Rkgum7qIIA6wO"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1631,6 +1599,38 @@
       "duration_ms": 138800,
       "name": "Her Name Is...",
       "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "New Kind Of Feeling",
+        "url": "https://open.spotify.com/album/7lzKMo3MHAz8Xuc0LBA4tG"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "I Just Fall In Love Again",
+      "url": "https://open.spotify.com/track/6aBiU9lFd3BhtggI7aeqBI"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "The Essential Jerry Reed",
+        "url": "https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0"
+      },
+      "artists": [
+        {
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+        }
+      ],
+      "duration_ms": 167706,
+      "name": "East Bound and Down",
+      "url": "https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu"
     },
     {
       "added_at": "2023-08-21 19:26:53",

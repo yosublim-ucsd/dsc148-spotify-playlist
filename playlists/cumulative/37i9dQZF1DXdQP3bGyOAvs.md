@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-325 songs - 16 hr 12 min
+327 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [landmark](https://open.spotify.com/track/7j1038dVZUxFtSBCx0T3oG) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [landmark](https://open.spotify.com/album/7ESxNjevisGOGbywz7nXdy) | 2:51 | 2022-07-01 |  |
 | [Las Vegas](https://open.spotify.com/track/0748dugTfsE4teDzF7Dmhx) | [Spiral Solace](https://open.spotify.com/artist/2NNajlXb9VSrYlESf8AlKG) | [Las Vegas](https://open.spotify.com/album/18Pt5mnL3AsrQHiIVgeMUc) | 3:40 | 2022-05-20 |  |
 | [late hours](https://open.spotify.com/track/7nBwHiPERl38w1mfBt6E6t) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [late hours](https://open.spotify.com/album/1xVZe1oQp8MzstqKoHCOgt) | 2:04 | 2022-10-07 |  |
+| [Le Chapeau](https://open.spotify.com/track/3TbsWRTM2Ay6sbmd9t8n35) | [ombinate](https://open.spotify.com/artist/6KuoBtG1drbXBIdkbloqEP) | [Le Chapeau](https://open.spotify.com/album/2G7jHgAv2NASHvDXg8iLRG) | 2:41 | 2023-10-20 |  |
 | [Le Lilo](https://open.spotify.com/track/0hGS08QMuu8V39NrGXwEoY) | [SunnX](https://open.spotify.com/artist/1d1QrP53Eak9McNiwCDMpE) | [Le Lilo](https://open.spotify.com/album/4nczLStqN6TdpCSK8qDtgy) | 2:07 | 2022-05-20 |  |
 | [Leaning Backwards](https://open.spotify.com/track/5MXNVNhGjeAJ7iVTYZTAZm) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [Equality](https://open.spotify.com/album/4bCi8izrMc43Wdenchwy56) | 3:11 | 2022-05-20 |  |
 | [Leap Into The Air](https://open.spotify.com/track/1BlcH5OAy7871JAE5SXtUP) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Leap Into The Air](https://open.spotify.com/album/35wg9T0JJK0wuwQjFGJ6mC) | 2:51 | 2022-12-16 |  |
@@ -183,6 +184,7 @@
 | [Maduix](https://open.spotify.com/track/3fmWdfU1ia3PfAFq106Ysi) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Maduix](https://open.spotify.com/album/5ZdJyUVAafEunwTXSNDgyv) | 2:44 | 2022-05-27 |  |
 | [Make Believe](https://open.spotify.com/track/0NxX4INyoljJRu6KQcavhk) | [Hi Rollaz](https://open.spotify.com/artist/3fcAnLtdyYfvkg1BRtpDyA) | [Make Believe](https://open.spotify.com/album/2ZfMO7naml2yyS4CifMXjx) | 2:55 | 2023-02-24 |  |
 | [Make It Count](https://open.spotify.com/track/70EPJbHlSO1Dkkmil1IP6b) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Make It Count](https://open.spotify.com/album/2cRKaFS1CgsSizxPQC6ca6) | 3:03 | 2022-05-20 |  |
+| [Make It Happen](https://open.spotify.com/track/5xQDwHHohzf1RdmIGGqCmQ) | [Sensay](https://open.spotify.com/artist/6Br6cwhbrxnECjKSjj5kxH) | [Make It Happen](https://open.spotify.com/album/207cTGbGEdGntH1jVWRgWu) | 1:49 | 2023-10-20 |  |
 | [Mannequin](https://open.spotify.com/track/36Uz12ctE58QztkK67Doya) | [Chewy WO](https://open.spotify.com/artist/3pa7MdSYqgFazXfYIQehhV) | [Mannequin](https://open.spotify.com/album/4k3gJQHthd1Vcs90viihk1) | 3:09 | 2022-05-20 |  |
 | [marquee](https://open.spotify.com/track/3bQqaKhQjfdgOZyGgwi6jy) | [Parker Son](https://open.spotify.com/artist/3ID3ZMg7Mf5wRvqFJwF82r) | [marquee](https://open.spotify.com/album/4bH7olhBkbIkXA7Id0f3ku) | 2:38 | 2022-08-19 |  |
 | [Mellow Flow](https://open.spotify.com/track/71mNlLD1Aq01GOkyR2besV) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Mellow Flow](https://open.spotify.com/album/3Kpo78HLS8dxwSqrdH7gzS) | 3:33 | 2022-05-20 | 2022-07-29 |

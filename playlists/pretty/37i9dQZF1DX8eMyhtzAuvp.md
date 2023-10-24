@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 
 > Spooky szn brings majestic energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,972 likes - 51 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,434 likes - 51 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 | 50 | [The Way I Am](https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Girls And Boys](https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z) | 2:15 |
 | 51 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 |
 
-Snapshot ID: `MCw4MjYwMTUzN2QwZGY3YjgwM2VhYjg2YTRmYTRlZTVjMWI3ZWVhNjQx`
+Snapshot ID: `MCw3ZGRmN2IxMWNlOTNjNjhkNjRiM2E3NDkzNjA1YjY4N2UxMmU0Mjcw`

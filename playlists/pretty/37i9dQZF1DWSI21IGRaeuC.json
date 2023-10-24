@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 27589,
+  "num_followers": 27644,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWU2MWNjYjJhYTNiNzk5ZDY3MGI2YzFhZjBmODExNmNiOGI0ZDQz",
+  "snapshot_id": "MCw4M2FmOWRjMDAyYWMxNTgwNWY1NGFjNTdkNTVkMzliNTBiNGFjYzhl",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Its Time to Move",
+        "url": "https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 162125,
+      "name": "Its Time to Move",
+      "url": "https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Don't Wanna Go",
         "url": "https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 180412,
       "name": "Don't Wanna Go",
       "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Its Time to Move",
-        "url": "https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 162125,
-      "name": "Its Time to Move",
-      "url": "https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -635,6 +635,38 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/2hQ4dYGyQeKXSQbQRTB61k"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 341872,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/1EQ2D7HRLZDz2aPSibkACT"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Club Vibes Part 04",
+        "url": "https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 432000,
+      "name": "Knocking Birds",
+      "url": "https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "NYWTF",
         "url": "https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj"
       },
@@ -683,38 +715,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Bring It Back",
-        "url": "https://open.spotify.com/album/2hQ4dYGyQeKXSQbQRTB61k"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 341872,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/1EQ2D7HRLZDz2aPSibkACT"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Club Vibes Part 04",
-        "url": "https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 432000,
-      "name": "Knocking Birds",
-      "url": "https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 368852,
       "name": "Whispers In The Wind",
       "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Dusty Showbiz",
+        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 178040,
+      "name": "Dusty Showbiz",
+      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -779,6 +795,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Bionic Boy",
+        "url": "https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "duration_ms": 206265,
+      "name": "Bionic Boy",
+      "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "The Attention Deficit Track",
         "url": "https://open.spotify.com/album/20PFDRbltmy3mHCn7vPl2Y"
       },
@@ -795,22 +827,6 @@
       "duration_ms": 228420,
       "name": "The Attention Deficit Track - Edit",
       "url": "https://open.spotify.com/track/4Quui2la1NwpqLDXUgi5tm"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Bionic Boy",
-        "url": "https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 206265,
-      "name": "Bionic Boy",
-      "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -851,22 +867,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Dusty Showbiz",
-        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 178040,
-      "name": "Dusty Showbiz",
-      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Rudeboi",
         "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "I Am Somebody",
-        "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
-      },
-      "artists": [
-        {
-          "name": "Technasia",
-          "url": "https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5"
-        }
-      ],
-      "duration_ms": 417145,
-      "name": "I Am Somebody",
-      "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Sublime Tech House, Vol. 20",
         "url": "https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 176264,
       "name": "Slim Shady",
       "url": "https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "I Am Somebody",
+        "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
+      },
+      "artists": [
+        {
+          "name": "Technasia",
+          "url": "https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5"
+        }
+      ],
+      "duration_ms": 417145,
+      "name": "I Am Somebody",
+      "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Ready For The Blues",
-        "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 300041,
-      "name": "Ready For The Blues",
-      "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "take notes. EP",
         "url": "https://open.spotify.com/album/4d1zqT0iOuJUG5ZLDGRvJN"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 195348,
       "name": "take notes.",
       "url": "https://open.spotify.com/track/58J7fIZAgLrCwqpucV2JKG"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Ready For The Blues",
+        "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 300041,
+      "name": "Ready For The Blues",
+      "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "What's Your Name",
-        "url": "https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59"
-      },
-      "artists": [
-        {
-          "name": "Us Two",
-          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
-        }
-      ],
-      "duration_ms": 444444,
-      "name": "What's Your Name",
-      "url": "https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Supermodel Thick",
         "url": "https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 326357,
       "name": "Supermodel Thick",
       "url": "https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "What's Your Name",
+        "url": "https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59"
+      },
+      "artists": [
+        {
+          "name": "Us Two",
+          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
+        }
+      ],
+      "duration_ms": 444444,
+      "name": "What's Your Name",
+      "url": "https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Take",
+        "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
+      },
+      "artists": [
+        {
+          "name": "Lucas Bahr",
+          "url": "https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v"
+        }
+      ],
+      "duration_ms": 148153,
+      "name": "Take",
+      "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Regulate",
         "url": "https://open.spotify.com/album/67OiUqqH4IBKVeJA1nU9JO"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 154550,
       "name": "Regulate",
       "url": "https://open.spotify.com/track/0aIY7EW39FmWoMugq4zGr0"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Take",
-        "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
-      },
-      "artists": [
-        {
-          "name": "Lucas Bahr",
-          "url": "https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "Take",
-      "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Unfair",
+        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 247566,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Thrill Me (LO'99 Remix)",
         "url": "https://open.spotify.com/album/3EK4iKouxMfsNlD8EXAUGj"
       },
@@ -1299,26 +1315,6 @@
       "duration_ms": 186018,
       "name": "Thrill Me - LO'99 Remix",
       "url": "https://open.spotify.com/track/0AiLHyJny7YiQ0GT8jCbdR"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Music4TheMasses (Andrea Oliva Remix)",
-        "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        },
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        }
-      ],
-      "duration_ms": 187652,
-      "name": "Music4TheMasses - Andrea Oliva Remix",
-      "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1351,6 +1347,26 @@
       "duration_ms": 158343,
       "name": "Ole",
       "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Music4TheMasses (Andrea Oliva Remix)",
+        "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        },
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 187652,
+      "name": "Music4TheMasses - Andrea Oliva Remix",
+      "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Really Really Hot",
-        "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
-      },
-      "artists": [
-        {
-          "name": "Eddy M",
-          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Really Really Hot",
-      "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Galactica",
         "url": "https://open.spotify.com/album/4qQywGdWd8QiCiND1bwTk3"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 310289,
       "name": "Galactica",
       "url": "https://open.spotify.com/track/6mMSSMNcl1WXtSP5A5tG0u"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Really Really Hot",
+        "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
+      },
+      "artists": [
+        {
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Really Really Hot",
+      "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Unfair",
-        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 247566,
-      "name": "Unfair",
-      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 420559,
       "name": "Another Chance",
       "url": "https://open.spotify.com/track/7xrFeZuSzIhVmDqV2QhqPH"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "TRiPPPY",
-        "url": "https://open.spotify.com/album/5iRqBscsuyaj50XKN6xAvQ"
-      },
-      "artists": [
-        {
-          "name": "Cour T.",
-          "url": "https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "TRiPPPY",
-      "url": "https://open.spotify.com/track/7prJ30LIy445yr1uzsy9Lr"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "TRiPPPY",
+        "url": "https://open.spotify.com/album/5iRqBscsuyaj50XKN6xAvQ"
+      },
+      "artists": [
+        {
+          "name": "Cour T.",
+          "url": "https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "TRiPPPY",
+      "url": "https://open.spotify.com/track/7prJ30LIy445yr1uzsy9Lr"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "LOL",
         "url": "https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 321818,
       "name": "LOL",
       "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Hydroponic EP",
+        "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 434000,
+      "name": "Hydroponic",
+      "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1599,22 +1615,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Hydroponic EP",
-        "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 434000,
-      "name": "Hydroponic",
-      "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Pronosticos Cachito",
         "url": "https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e"
       },
@@ -1627,6 +1627,26 @@
       "duration_ms": 240000,
       "name": "Pronosticos Cachito",
       "url": "https://open.spotify.com/track/3lBQvzsycvySqg739cOGew"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Kuneh",
+        "url": "https://open.spotify.com/album/7yxzjaabbnrkLcBYVRoBI7"
+      },
+      "artists": [
+        {
+          "name": "Ninetoes",
+          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
+        },
+        {
+          "name": "Davide Squillace",
+          "url": "https://open.spotify.com/artist/1wQoXZDTq0UCJhXffsm7Nh"
+        }
+      ],
+      "duration_ms": 188976,
+      "name": "Kuneh - Edit",
+      "url": "https://open.spotify.com/track/3NdCkGGx6tlWlQamjRjq3o"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1659,26 +1679,6 @@
       "duration_ms": 379218,
       "name": "street knowledge.",
       "url": "https://open.spotify.com/track/711gJWmej4ldX9N7BJQvbR"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Kuneh",
-        "url": "https://open.spotify.com/album/7yxzjaabbnrkLcBYVRoBI7"
-      },
-      "artists": [
-        {
-          "name": "Ninetoes",
-          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
-        },
-        {
-          "name": "Davide Squillace",
-          "url": "https://open.spotify.com/artist/1wQoXZDTq0UCJhXffsm7Nh"
-        }
-      ],
-      "duration_ms": 188976,
-      "name": "Kuneh - Edit",
-      "url": "https://open.spotify.com/track/3NdCkGGx6tlWlQamjRjq3o"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "winter '23",
+        "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "buss it.",
+      "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Kill The Soundboy",
         "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
       },
@@ -1787,26 +1803,6 @@
       "duration_ms": 352500,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Into The Hood",
-        "url": "https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Yamagucci",
-          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
-        }
-      ],
-      "duration_ms": 362180,
-      "name": "Into The Hood",
-      "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"
     }
   ],
   "unique_name": "Minimal Tech",

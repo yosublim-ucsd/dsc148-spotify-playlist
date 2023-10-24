@@ -4,7 +4,7 @@
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-216 songs - 10 hr 58 min
+217 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [LAPROVINCE \#2](https://open.spotify.com/track/3eBjQXQ5CuRaUbKXj9WIVJ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [LAPROVINCE \#2](https://open.spotify.com/album/1WhTXqgT1roQzqSCYnrnSH) | 1:56 | 2022-05-24 | 2022-08-06 |
 | [Latest Trends](https://open.spotify.com/track/7pnQ23WgZca9jEfMts9qsR) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Latest Trends](https://open.spotify.com/album/0vkahJN8SNXT05PgGc46nu) | 2:38 | 2022-05-03 |  |
 | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43) | 4:21 | 2022-06-09 |  |
-| [Lemonade](https://open.spotify.com/track/02kDW379Yfd5PzW5A6vuGt) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Lemonade \(feat\. Gunna, Don Toliver & NAV\)](https://open.spotify.com/album/1pFaEu56zqpzSviJc3htZN) | 3:15 | 2022-05-03 |  |
+| [Lemonade](https://open.spotify.com/track/02kDW379Yfd5PzW5A6vuGt) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Lemonade \(feat\. Gunna, Don Toliver & NAV\)](https://open.spotify.com/album/1pFaEu56zqpzSviJc3htZN) | 3:15 | 2022-05-03 | 2023-10-24 |
+| [Lemonade \(feat\. NAV\)](https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [B4 The Storm](https://open.spotify.com/album/4Y5lQYgpDrkyru90jltD5a) | 3:15 | 2023-10-20 |  |
 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 | 2022-05-03 |  |
 | [Lifestyle](https://open.spotify.com/track/20XT7TO32dN1s9xtowLPuR) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dj Harsh](https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq) | [Fastlife 4](https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6) | 2:09 | 2022-05-03 | 2022-07-29 |
 | [LOCO](https://open.spotify.com/track/3lN2jXIlpMJETk3zzFkoAy) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sixpm](https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 2:17 | 2022-05-31 | 2022-07-21 |

@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1085894,
+  "num_followers": 1085878,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2NjOGFjY2ExM2Q5ZWNlMDI1MDQ1MWMwY2JmYzk1NTkwZTJlZWUy",
+  "snapshot_id": "MCw4MDUwZDA5NDcwMTcwMGE0MDc1ZjVjM2Q3ZjU0MjVhODAzMGI0MmRi",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Between You and Me",
-        "url": "https://open.spotify.com/album/1ZwqV0aR3jirvbjp96bLQn"
-      },
-      "artists": [
-        {
-          "name": "One Bit",
-          "url": "https://open.spotify.com/artist/7jlMwr0xUcRO1xS6WjkkUT"
-        },
-        {
-          "name": "Louisa Johnson",
-          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "Between You and Me",
-      "url": "https://open.spotify.com/track/1k0HaXwqnev6ITPjYqvtxF"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 198066,
       "name": "Keep On Movin'",
       "url": "https://open.spotify.com/track/2fHruzatznikGKFeL9Gujm"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Between You and Me",
+        "url": "https://open.spotify.com/album/1ZwqV0aR3jirvbjp96bLQn"
+      },
+      "artists": [
+        {
+          "name": "One Bit",
+          "url": "https://open.spotify.com/artist/7jlMwr0xUcRO1xS6WjkkUT"
+        },
+        {
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "Between You and Me",
+      "url": "https://open.spotify.com/track/1k0HaXwqnev6ITPjYqvtxF"
     },
     {
       "added_at": "2020-08-27 16:10:25",

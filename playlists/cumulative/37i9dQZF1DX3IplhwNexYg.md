@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: The Last Dinner Party
 
-494 songs - 1 day 3 hr 43 min
+495 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 | 2022-04-01 | 2022-09-23 |
 | [Angelica](https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT) | 3:52 | 2022-03-01 | 2022-07-29 |
 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 | 2022-03-10 | 2022-09-23 |
-| [Anything](https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Anything](https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6) | 2:23 | 2022-10-21 |  |
+| [Anything](https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Anything](https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6) | 2:23 | 2022-10-21 | 2023-10-24 |
 | [anyway](https://open.spotify.com/track/3egmebMbMAFYAjCw8gV8SW) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [anyway](https://open.spotify.com/album/5TaH4wLzrMgEhd1KMcXiwE) | 3:36 | 2021-06-25 | 2022-03-11 |
 | [Apartment Complex on the Eastside](https://open.spotify.com/track/1cRk9clJhi67mcfTxNfnjU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [It Took A Lot To Get To This](https://open.spotify.com/album/1E2ecZuSPG58MLkgglvFxZ) | 4:07 | 2022-09-01 | 2022-10-14 |
 | [Apartment Complex on the Eastside](https://open.spotify.com/track/2nm0J9sicQTiW8M8k2yZ4x) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Apartment Complex on the Eastside](https://open.spotify.com/album/52bzMUfIaS9YeVADl51eoT) | 4:07 | 2022-08-18 | 2022-09-04 |
@@ -461,6 +461,7 @@
 | [Trouble](https://open.spotify.com/track/2NZyf2jJaf0PntMfTe5fPf) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Trouble](https://open.spotify.com/album/3LdfZrdlKsanntRZHYncJr) | 3:51 | 2022-09-08 | 2023-05-19 |
 | [True Colours \(Sometime I'll Get Through\)](https://open.spotify.com/track/42SeGdgNjDJxzuc9YRVOn6) | [Gently Tender](https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc) | [True Colours \(Sometime I'll Get Through\)](https://open.spotify.com/album/764Zqu3swQwYLSLz5qftq6) | 4:30 | 2022-08-18 | 2022-11-18 |
 | [Try Try Try](https://open.spotify.com/track/5RIVwMLtGIriw8JS73Fleg) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Leave The Light On](https://open.spotify.com/album/71yW0rxm0PtKpgdCHJabyY) | 4:51 | 2022-04-01 | 2022-09-23 |
+| [Turn The World On](https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:30 | 2023-10-19 |  |
 | [Turn The World On](https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Turn The World On](https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3) | 3:30 | 2023-09-15 | 2023-10-23 |
 | [TV or Not TV](https://open.spotify.com/track/69yLIX3dwFMpoAqW1a98O2) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [TV or Not TV](https://open.spotify.com/album/3EBzedKTSdxOxHX8VPb9G6) | 3:40 | 2021-10-29 | 2022-08-19 |
 | [U SAID!](https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [TEMPTRESS](https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo) | 2:07 | 2023-05-18 | 2023-08-20 |

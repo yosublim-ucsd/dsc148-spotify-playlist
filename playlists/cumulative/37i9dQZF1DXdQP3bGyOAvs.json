@@ -2785,6 +2785,24 @@
     },
     {
       "album": {
+        "name": "Le Chapeau",
+        "url": "https://open.spotify.com/album/2G7jHgAv2NASHvDXg8iLRG"
+      },
+      "artists": [
+        {
+          "name": "ombinate",
+          "url": "https://open.spotify.com/artist/6KuoBtG1drbXBIdkbloqEP"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161100,
+      "name": "Le Chapeau",
+      "url": "https://open.spotify.com/track/3TbsWRTM2Ay6sbmd9t8n35"
+    },
+    {
+      "album": {
         "name": "Le Lilo",
         "url": "https://open.spotify.com/album/4nczLStqN6TdpCSK8qDtgy"
       },
@@ -3160,6 +3178,24 @@
       "duration_ms": 183214,
       "name": "Make It Count",
       "url": "https://open.spotify.com/track/70EPJbHlSO1Dkkmil1IP6b"
+    },
+    {
+      "album": {
+        "name": "Make It Happen",
+        "url": "https://open.spotify.com/album/207cTGbGEdGntH1jVWRgWu"
+      },
+      "artists": [
+        {
+          "name": "Sensay",
+          "url": "https://open.spotify.com/artist/6Br6cwhbrxnECjKSjj5kxH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109444,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/5xQDwHHohzf1RdmIGGqCmQ"
     },
     {
       "album": {

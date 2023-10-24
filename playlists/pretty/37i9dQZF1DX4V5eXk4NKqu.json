@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks right now, featuring Esteman.",
-  "num_followers": 155710,
+  "num_followers": 155703,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTM4MmY5NjRkNDA1YjljM2QyMzRkN2ZjMjk2YjEyNjdhN2NiZWNm",
+  "snapshot_id": "MCxjOGRiMTA2N2E0MDcxY2RmMmJmMjRlZmE5MDIwZTY2MmFiYWI3NTUz",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -151,18 +151,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "3 Boys",
-        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 209188,
-      "name": "3 Boys",
-      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+      "duration_ms": 321662,
+      "name": "Como me encanta",
+      "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -191,18 +191,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+        "name": "3 Boys",
+        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 321662,
-      "name": "Como me encanta",
-      "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
+      "duration_ms": 209188,
+      "name": "3 Boys",
+      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -295,38 +295,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 134860,
-      "name": "Como Te Quiero Yo",
-      "url": "https://open.spotify.com/track/2VxQqF52M7IPkiLd4XmTNi"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Hush (Still Woozy Remix)",
         "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
       },
@@ -367,6 +335,38 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 134860,
+      "name": "Como Te Quiero Yo",
+      "url": "https://open.spotify.com/track/2VxQqF52M7IPkiLd4XmTNi"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Continental",
         "url": "https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME"
       },
@@ -387,6 +387,22 @@
       "duration_ms": 204613,
       "name": "Continental",
       "url": "https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -427,22 +443,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Fresh",
-      "url": "https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Me Estoy Enamorando",
         "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
       },
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Prenda del Alma - Spotify Singles",
+        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 258579,
+      "name": "Prenda del Alma - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Uh",
         "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
       },
@@ -495,18 +511,38 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Prenda del Alma - Spotify Singles",
-        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 258579,
-      "name": "Prenda del Alma - Spotify Singles",
-      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
+      "duration_ms": 178026,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Descifrar",
+        "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 256885,
+      "name": "Hace Mucho Tiempo",
+      "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -531,22 +567,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Descifrar",
-        "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 256885,
-      "name": "Hace Mucho Tiempo",
-      "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "ya no somos los mismos",
         "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 201887,
       "name": "vuelve",
       "url": "https://open.spotify.com/track/5vbUaeom27lTaAIhDin5DU"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 178026,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -763,38 +763,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Naufragar",
-        "url": "https://open.spotify.com/album/2B7X0lyAvSI8j5oZIOmMbc"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Naufragar",
-      "url": "https://open.spotify.com/track/405Z4PIE6QNiiRkC3eyBBD"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 179191,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Fake News + Alba",
         "url": "https://open.spotify.com/album/60uot0fUnoMNytJoNw9ToC"
       },
@@ -827,6 +795,38 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Naufragar",
+        "url": "https://open.spotify.com/album/2B7X0lyAvSI8j5oZIOmMbc"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Naufragar",
+      "url": "https://open.spotify.com/track/405Z4PIE6QNiiRkC3eyBBD"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 179191,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Crimen",
         "url": "https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo"
       },
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Estos D\u00edas",
-        "url": "https://open.spotify.com/album/4qk7bAsrMLOgiyaPwWoMx0"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 202586,
-      "name": "Estos D\u00edas",
-      "url": "https://open.spotify.com/track/4lMENCVL77QTWBtEL5VBX6"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Discoman\u00eda",
         "url": "https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 188933,
       "name": "Discoman\u00eda",
       "url": "https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Estos D\u00edas",
+        "url": "https://open.spotify.com/album/4qk7bAsrMLOgiyaPwWoMx0"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 202586,
+      "name": "Estos D\u00edas",
+      "url": "https://open.spotify.com/track/4lMENCVL77QTWBtEL5VBX6"
     },
     {
       "added_at": "2023-10-13 04:00:00",

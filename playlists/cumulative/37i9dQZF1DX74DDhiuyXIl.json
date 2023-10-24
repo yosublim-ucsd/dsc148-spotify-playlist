@@ -3220,7 +3220,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 268507,
       "name": "\u611b\u4e86\u5f88\u4e45\u7684\u670b\u53cb(\u96fb\u5f71\u300c\u5f8c\u4f86\u7684\u6211\u5011\u300d\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/2CTAAr1Hd21pEvyjxUHHGC"
@@ -4062,6 +4062,24 @@
       "duration_ms": 229565,
       "name": "\u65b7\u6368\u96e2",
       "url": "https://open.spotify.com/track/3SGelhCWnm8CU2y18TwEgp"
+    },
+    {
+      "album": {
+        "name": "\u65c5\u5f92",
+        "url": "https://open.spotify.com/album/5nfkPP8P8u3vAx1Uh4GjZI"
+      },
+      "artists": [
+        {
+          "name": "Control T",
+          "url": "https://open.spotify.com/artist/6KZPYI3NDCfL1Z3Uxp3Sge"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280107,
+      "name": "\u65c5\u5f92",
+      "url": "https://open.spotify.com/track/4kW2QiG6ihBssg4nI58bBr"
     },
     {
       "album": {
@@ -5360,7 +5378,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 246986,
       "name": "\u89aa\u611b\u7684\u4f60\u4e0d\u919c",
       "url": "https://open.spotify.com/track/5nKsX7p5Wn1jJPqiqqvYs9"
@@ -5558,7 +5576,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 281807,
       "name": "\u8d95\u4e0d\u8d70\u7684\u4f60",
       "url": "https://open.spotify.com/track/0vFIIyIU9ivCuVV4giU8jU"
@@ -5947,6 +5965,24 @@
     },
     {
       "album": {
+        "name": "\u90fd\u662f\u6d6a\u6f2b\u5bb3\u7684",
+        "url": "https://open.spotify.com/album/6k3Aj8q27ETWzwpb9jG3Np"
+      },
+      "artists": [
+        {
+          "name": "Mixer",
+          "url": "https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248619,
+      "name": "\u90fd\u662f\u6d6a\u6f2b\u5bb3\u7684",
+      "url": "https://open.spotify.com/track/7lw5s901joNKsEZsRWXzu5"
+    },
+    {
+      "album": {
         "name": "\u914d\u5408",
         "url": "https://open.spotify.com/album/6OodSygYBsk8fLKM0SJgm5"
       },
@@ -6052,6 +6088,24 @@
       "duration_ms": 285000,
       "name": "\u9589\u4e0a\u773c\u775b\u6703\u60f3\u8d77\u7684\u4eba (\u96fb\u5f71\u300a\u4e00\u676f\u71b1\u5976\u8336\u7684\u7b49\u5f85\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/3YznHBhAqELVwdRFxBD7MI"
+    },
+    {
+      "album": {
+        "name": "\u958b\u5f80\u521d\u6200\u7684\u5e73\u884c\u7dda",
+        "url": "https://open.spotify.com/album/6nXyQqkXikmKGtBsMlyTti"
+      },
+      "artists": [
+        {
+          "name": "Steve Chou",
+          "url": "https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264179,
+      "name": "\u958b\u5f80\u521d\u6200\u7684\u5e73\u884c\u7dda",
+      "url": "https://open.spotify.com/track/4QawTA1kfkh1LZxSLZPlfR"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Guest curated by: <a href=\"spotify:artist:6KVnMm856M8CHHBCw53Ihh\">Natalie Grant</a>",
-  "num_followers": 319165,
+  "num_followers": 319273,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjI1NTU2OGI0MTM0NjQ4ZTFkZDBkMWFjOGZkZDdmNzEyMzc4NGRi",
+  "snapshot_id": "MCw4MmM0MzIwN2I5N2JjMTA3NWJmYjBhM2I3MTI3NzAzZjc2NDc0YjRh",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Always Only Jesus",
-        "url": "https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 225681,
-      "name": "To Not Worship You",
-      "url": "https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "My Light (Acoustic Version)",
         "url": "https://open.spotify.com/album/2cjjFYOq98eUZSMY2Nqbm4"
       },
@@ -519,18 +503,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Make It Through",
-        "url": "https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm"
+        "name": "Always Only Jesus",
+        "url": "https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD"
       },
       "artists": [
         {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 192196,
-      "name": "Make It Through",
-      "url": "https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA"
+      "duration_ms": 225681,
+      "name": "To Not Worship You",
+      "url": "https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -547,6 +531,22 @@
       "duration_ms": 203266,
       "name": "The Lord's Prayer (It's Yours)",
       "url": "https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Make It Through",
+        "url": "https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 192196,
+      "name": "Make It Through",
+      "url": "https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "This I Know (Jesus Loves Me)",
-        "url": "https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP"
-      },
-      "artists": [
-        {
-          "name": "Lydia Laird",
-          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
-        }
-      ],
-      "duration_ms": 222428,
-      "name": "This I Know (Jesus Loves Me)",
-      "url": "https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Yours To Use",
         "url": "https://open.spotify.com/album/55aVf2zLzytvTYuhlSsXYH"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 206048,
       "name": "Yours To Use",
       "url": "https://open.spotify.com/track/5mSNr3VTEa0JuILanLXLTp"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "This I Know (Jesus Loves Me)",
+        "url": "https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "duration_ms": 222428,
+      "name": "This I Know (Jesus Loves Me)",
+      "url": "https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Friend In Jesus (Live)",
-        "url": "https://open.spotify.com/album/2h2Lt5nJbH7muL3lIS7mch"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 348141,
-      "name": "Friend In Jesus - Live",
-      "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "First Things First",
         "url": "https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 121459,
       "name": "Goodbye Ole Me",
       "url": "https://open.spotify.com/track/1bw0pKdQVY17dmevzVioKY"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Friend In Jesus (Live)",
+        "url": "https://open.spotify.com/album/2h2Lt5nJbH7muL3lIS7mch"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 348141,
+      "name": "Friend In Jesus - Live",
+      "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "ABLE",
-        "url": "https://open.spotify.com/album/5wVNAe5fORILSHquSst7Z5"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "ABLE",
-      "url": "https://open.spotify.com/track/3v7797Fzh4pma99gdKrhsq"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "The Church I Grew Up in (Live)",
         "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 243800,
       "name": "The Lord Almighty Reigns - Live",
       "url": "https://open.spotify.com/track/01U4uDzyNXcNoLBGiCQeHF"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "ABLE",
+        "url": "https://open.spotify.com/album/5wVNAe5fORILSHquSst7Z5"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "ABLE",
+      "url": "https://open.spotify.com/track/3v7797Fzh4pma99gdKrhsq"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Hurt Is",
+        "url": "https://open.spotify.com/album/5Q0cqBHZTVVKuyOnbDqJ1b"
+      },
+      "artists": [
+        {
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+        }
+      ],
+      "duration_ms": 183250,
+      "name": "Hurt Is",
+      "url": "https://open.spotify.com/track/6JFX5E32owJBYbL4OSOVtC"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "You're Not Done",
         "url": "https://open.spotify.com/album/1RvgJpfOjM3XjdYuhnXwoq"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 363240,
       "name": "You're Not Done",
       "url": "https://open.spotify.com/track/2sRC7NJqjECWTjC0G4lkTC"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Hurt Is",
-        "url": "https://open.spotify.com/album/5Q0cqBHZTVVKuyOnbDqJ1b"
-      },
-      "artists": [
-        {
-          "name": "David Dunn",
-          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
-        }
-      ],
-      "duration_ms": 183250,
-      "name": "Hurt Is",
-      "url": "https://open.spotify.com/track/6JFX5E32owJBYbL4OSOVtC"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 179136,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Won't Let Me Go",
         "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 179136,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Still Standing",
         "url": "https://open.spotify.com/album/4dm87zKKSWl09tAY3v6dcn"
       },
@@ -1191,22 +1191,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Ark",
-        "url": "https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B"
+        "name": "The Rock I'm On",
+        "url": "https://open.spotify.com/album/6Smu1vRzk1uumTABSY4DvQ"
       },
       "artists": [
         {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        },
-        {
-          "name": "Vanessa Hill",
-          "url": "https://open.spotify.com/artist/0ZWOTVUPOwgcGiMQXUOLsb"
+          "name": "Ross King",
+          "url": "https://open.spotify.com/artist/7CvGirTJfYPXGOrR4JwHDg"
         }
       ],
-      "duration_ms": 193040,
-      "name": "Ark",
-      "url": "https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs"
+      "duration_ms": 208571,
+      "name": "The Rock I'm On",
+      "url": "https://open.spotify.com/track/7kL9zoFkC8FX6igzf0DRlH"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1231,22 +1227,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Rock I'm On",
-        "url": "https://open.spotify.com/album/6Smu1vRzk1uumTABSY4DvQ"
-      },
-      "artists": [
-        {
-          "name": "Ross King",
-          "url": "https://open.spotify.com/artist/7CvGirTJfYPXGOrR4JwHDg"
-        }
-      ],
-      "duration_ms": 208571,
-      "name": "The Rock I'm On",
-      "url": "https://open.spotify.com/track/7kL9zoFkC8FX6igzf0DRlH"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Good Lord",
         "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 202708,
       "name": "Good Lord (feat. Katy Nichole)",
       "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Ark",
+        "url": "https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        },
+        {
+          "name": "Vanessa Hill",
+          "url": "https://open.spotify.com/artist/0ZWOTVUPOwgcGiMQXUOLsb"
+        }
+      ],
+      "duration_ms": 193040,
+      "name": "Ark",
+      "url": "https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 297413,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 241951,
       "name": "Time",
       "url": "https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 297413,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Burial",
-        "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 278119,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "I LOVE YOU TO DEATH",
         "url": "https://open.spotify.com/album/1DXLjXc0K8noPurFkXIzZK"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 203832,
       "name": "I LOVE YOU TO DEATH",
       "url": "https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Burial",
+        "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 278119,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
     },
     {
       "added_at": "2023-10-06 04:00:00",

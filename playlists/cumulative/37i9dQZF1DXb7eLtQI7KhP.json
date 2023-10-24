@@ -1589,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Parasomnia",
+        "url": "https://open.spotify.com/album/4bU9wq3t8v0ZeCOabT3Ok3"
+      },
+      "artists": [
+        {
+          "name": "Lapeito",
+          "url": "https://open.spotify.com/artist/4g9wSQI9AFFbUpuFqxvrEW"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140760,
+      "name": "Parasomnia",
+      "url": "https://open.spotify.com/track/1WtmL3FXZLQIaQE4A8uGVc"
+    },
+    {
+      "album": {
         "name": "per sempre e sempre insieme (Ambient version)",
         "url": "https://open.spotify.com/album/758jpU3g1OzoIPDTIfMzvl"
       },

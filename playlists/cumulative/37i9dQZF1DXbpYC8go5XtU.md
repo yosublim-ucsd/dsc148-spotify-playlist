@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-218 songs - 17 hr 24 min
+219 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Playing in the Water](https://open.spotify.com/track/3WP28Y4AaOSElvnf29suLJ) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/58gzJUm5d9qzbv2LckicoZ) | 3:11 | 2021-12-22 | 2022-07-29 |
 | [Playing in the Water](https://open.spotify.com/track/45MF5ivn2DfSWTGuDy6CY1) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/2XGxxHwdnmQBLPJEDISC8k) | 3:11 | 2022-07-08 | 2022-08-13 |
 | [Polyphony](https://open.spotify.com/track/2XM67lYMZ8K7k60MR3oVsS) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Eunoia](https://open.spotify.com/album/30ZPhEf4lSjBTfoSqRzQ2m) | 3:52 | 2022-10-14 |  |
-| [Pouring Rain](https://open.spotify.com/track/0K3jpRVbFdOQNsaP0UTHBd) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ) | 3:50 | 2023-07-07 |  |
+| [Pouring Rain](https://open.spotify.com/track/0K3jpRVbFdOQNsaP0UTHBd) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ) | 3:50 | 2023-07-07 | 2023-10-24 |
+| [Pouring Rain](https://open.spotify.com/track/29zSSZjSnRwuO7MqSMVgZh) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/5PxpE5M4KNm4pl1EKbsCjc) | 3:50 | 2023-10-05 |  |
 | [Power Yoga](https://open.spotify.com/track/2u6Vx9OrHQq7cOdbloQVZS) | [Unreaa](https://open.spotify.com/artist/7em5iXXJfAo6rJKTpqKrQu) | [Power Yoga](https://open.spotify.com/album/4KlBJj6R6tApNOTD6lD0UX) | 1:30 | 2022-12-20 | 2023-10-06 |
 | [Praying For Mother / Earth, Pt\. 1](https://open.spotify.com/track/34AmO1eE0L5aOdAVRFhv1G) | [Akira Ito](https://open.spotify.com/artist/6AuRHPIlYDhz1UA0GOkhjm) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:13 | 2021-12-22 |  |
 | [Primitive Associations/Great Mass Above](https://open.spotify.com/track/106ijoJLCBU8fhosegfx1x) | [Growing](https://open.spotify.com/artist/57SlFijfkLdoiN09FSueTI) | [The Soul of the Rainbow and the Harmony of Light](https://open.spotify.com/album/2JSUhFkv27CejriQWOzF88) | 12:35 | 2021-12-22 | 2023-04-14 |

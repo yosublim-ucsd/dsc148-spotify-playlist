@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR9Y09ZMqEo.md) - [plain]
 
 > Listen to music from and inspired by You Are So Not Invited To My Bat Mitzvah, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,403 likes - 53 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,430 likes - 53 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [10 Things I Hate About You](https://open.spotify.com/track/4qSNyT6AYLoaKHdfJWD37I) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/6BIgqvMHvW2XgnUs0cnu7x) | 2:37 |
+| 1 | [10 Things I Hate About You](https://open.spotify.com/track/38LgZDMTGl4l3xFmiXlgZx) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/4cYlVwJn4rgLeb1X8SrfAW) | 2:37 |
 | 2 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP) | 2:37 |
 | 3 | [Under Your Spell](https://open.spotify.com/track/4VdCaAfgNe8Z1m4DDIk1HP) | [Desire](https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0) | [Under Your Spell](https://open.spotify.com/album/4snFxjLgbS8rQzkVMb3Vzr) | 4:56 |
 | 4 | [Rock and Roll, Hoochie Koo](https://open.spotify.com/track/4VDHlRakaVHzHE8PUdcU49) | [Rick Derringer](https://open.spotify.com/artist/1FX4aA0cUcWndv39j1YoTm) | [All American Boy \(Expanded Edition\)](https://open.spotify.com/album/2qUO0zPeu06VHisaFdmqpZ) | 3:45 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR9Y09ZMqEo.md) - [plain]
 | 52 | [Credits](https://open.spotify.com/track/1BQox2F40JFMA2zUEf10lo) | [Amanda Yamate](https://open.spotify.com/artist/01uLTa1JqRkIr7pEaXWYgJ), [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc) | [You Are So Not Invited To My Bat Mitzvah \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1gTxtkA8cZLys95UB3xUtl) | 1:18 |
 | 53 | [What's Mine Is Yours](https://open.spotify.com/track/42ZVy4bY9hFT21Cb70oqit) | [Amanda Yamate](https://open.spotify.com/artist/01uLTa1JqRkIr7pEaXWYgJ), [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc) | [You Are So Not Invited To My Bat Mitzvah \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1gTxtkA8cZLys95UB3xUtl) | 1:14 |
 
-Snapshot ID: `MCw3MDE2MzcxZjEyZGRhNTFhZTYwNzM2YjIzZmFhZjU1ZTRiNTRjM2Yw`
+Snapshot ID: `MCw1N2E2ZDk4OGRjZjAxZjI3MjA3ZTg4MTYyNmFmNzZlZjc5NTQzZjYw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,104 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,121 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 6 | [Llegará](https://open.spotify.com/track/6WUDIML61rMTnuxRlNVcJL) | [Ana Naranja](https://open.spotify.com/artist/2nTGMPHzQvrJKH2j1LSQiq), [Grupo Enkelé](https://open.spotify.com/artist/0e7FfMLNwJDYhLwRnvxpRm) | [Llegará](https://open.spotify.com/album/1tbSyBL4rjT73sQwLfDNpi) | 3:53 |
 | 7 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 |
 | 8 | [El Fin del Mar](https://open.spotify.com/track/7z0Rl2N1ChaC6a9FxSGn9Y) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [El Fin del Mar](https://open.spotify.com/album/51xJG7Sg2Lkh7FJEAzxUvK) | 4:18 |
-| 9 | [Corazón de Rubí](https://open.spotify.com/track/53qroFU9Rs6gDq7pSD8rHP) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Balance](https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B) | 4:14 |
-| 10 | [Pais Nublado](https://open.spotify.com/track/5TnONsGGPD0ZO7DdEq0BsL) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [This Is How You Smile](https://open.spotify.com/album/1hHcudN9rY3XDskB78O1bd) | 4:32 |
+| 9 | [La Cosecha](https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN) | 5:15 |
+| 10 | [Corazón de Rubí](https://open.spotify.com/track/53qroFU9Rs6gDq7pSD8rHP) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Balance](https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B) | 4:14 |
 | 11 | [Sueno en Paraguay](https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 3:53 |
-| 12 | [La Cosecha](https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN) | 5:15 |
+| 12 | [Pais Nublado](https://open.spotify.com/track/5TnONsGGPD0ZO7DdEq0BsL) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [This Is How You Smile](https://open.spotify.com/album/1hHcudN9rY3XDskB78O1bd) | 4:32 |
 | 13 | [Uno Resuena](https://open.spotify.com/track/752FIpJwEwS2w1fhyvsRs6) | [Lulacruza](https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE) | [Orcas](https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3) | 5:35 |
 | 14 | [El Hijo del Altiplano](https://open.spotify.com/track/3hPgyHlvOwAlVemekxcJqb) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym) | [La Danza](https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL) | 5:45 |
 | 15 | [Eso Que Tu Haces](https://open.spotify.com/track/2HiionQ4vRsBnBP8bV18Cm) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:33 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 33 | [Religar](https://open.spotify.com/track/2wjx4ZP54RfWN479QH5UCK) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Astro](https://open.spotify.com/album/79WFnNXKctYYSwJxas6AI8) | 3:36 |
 | 34 | [Gemas](https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE) | 3:38 |
 | 35 | [Uña](https://open.spotify.com/track/3rMTOUuuImnkGEGpN1dqlG) | [J\. Milchberg](https://open.spotify.com/artist/1cWw9fz7QOkKQraHRVK8hC), [U\. Ramos](https://open.spotify.com/artist/7LCu7TpIer6IjPpe6VUCRF), [Inkuyo](https://open.spotify.com/artist/6l0qnbpSfHw1vk6tQUquDt) | [Land of the Incas \(Music of the Andes\)](https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn) | 3:18 |
-| 36 | [Francisca Pizarro](https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 3:22 |
-| 37 | [Hoja de Coca](https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa) | [Rumillajta](https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx) | [Hoja de Coca](https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe) | 4:26 |
+| 36 | [Hoja de Coca](https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa) | [Rumillajta](https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx) | [Hoja de Coca](https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe) | 4:26 |
+| 37 | [Francisca Pizarro](https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 3:22 |
 | 38 | [Altamar](https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [Altamar](https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN) | 4:49 |
 | 39 | [Baila Caporal](https://open.spotify.com/track/1YjjXAP3cWS3qWB1ijPMVJ) | [Sukay](https://open.spotify.com/artist/45MEz7t5DAOmX0o8fFKA3B) | [Encuentros \(Meetings\)](https://open.spotify.com/album/5mkXtYO19LdPQ1mzpvODQL) | 4:32 |
 | 40 | [Isla Negra](https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn) | [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Morena Esperanza \(Remasterizado\)](https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 49 | [Ódiame](https://open.spotify.com/track/4EoDDuA7b9V2lVlmdkEkPA) | [Los Cancionautas Surmelódicos](https://open.spotify.com/artist/2MxbFKWZMuLqHiRJ00Xzga), [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Ódiame](https://open.spotify.com/album/3SwFT7Pq0A98vQypiY6vde) | 3:43 |
 | 50 | [Viaje Andino](https://open.spotify.com/track/6LFPiralbg4KhoGBCC8V4M) | [Paulopulus](https://open.spotify.com/artist/1IWXmmObccEzvcNxa9Dtvo), [Juan Luis Pereira](https://open.spotify.com/artist/4svRjaFMW12wuoZ0PJqj40) | [Viaje de Mixturas](https://open.spotify.com/album/5UDyoz7X5WktqJadjWvmVA) | 4:06 |
 
-Snapshot ID: `MCxkZTZlMDk4YTBjZWVmMzY4ZTI1YTJmNTU3ZGQzZTBlMWVhYWM1MWVh`
+Snapshot ID: `MCw0ZDc5MTZiODA3Y2U1OTcxNmM0MjI5NDVjN2MwYzljYmUzOGI5MTc2`

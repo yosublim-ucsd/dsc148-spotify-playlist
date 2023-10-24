@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock & Alt driving the current, every week\. Cover: Meet Me @ The Altar
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,626 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,646 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 25 | [Wait and Bleed \- Spotify Singles](https://open.spotify.com/track/1BDUdn6OmlJ9oR9XpSxgNR) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Spotify Singles](https://open.spotify.com/album/6ZACt8yCJS2jPAlwspSMaO) | 2:35 |
 | 26 | [Rise](https://open.spotify.com/track/6gWUB6hS6SuyvaKzYAltn8) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Rise](https://open.spotify.com/album/78EFhqgH0Ho0EfcWvqWi3w) | 4:42 |
 | 27 | [$wing](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$wing](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 |
-| 28 | [Don't Look At Me](https://open.spotify.com/track/5hQZDntIU1PbXhmH94kZoM) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2) | 3:08 |
+| 28 | [Don't Look At Me](https://open.spotify.com/track/3U7mehH6qFWzsDrAljZ7VW) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2kKR8sRKNRqlN8axIsAvnB) | 3:08 |
 | 29 | [Wish You Would](https://open.spotify.com/track/4nMFMqVM440l2mLLHqT5lj) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [Wish You Would](https://open.spotify.com/album/7nI4F8DzpPmkU8fs8Jpwfe) | 3:58 |
 | 30 | [Bookie's Dirtbag](https://open.spotify.com/track/4RWbO2RDo6yyA12R3TNVsx) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Bookie's Dirtbag](https://open.spotify.com/album/5mxfUmBRoMzVoDW8bFeq1K) | 4:00 |
 | 31 | [RISK, RISK, RISK!](https://open.spotify.com/track/2FgFvtSuBAECcN7SJU5xMB) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [RISK, RISK, RISK!](https://open.spotify.com/album/4c0WVlK8VGkZ0PBfSSiGoQ) | 3:21 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 69 | [Chelsea Hotel](https://open.spotify.com/track/3yuUo3VJreRdasr1erzGJM) | [Zhariah](https://open.spotify.com/artist/1acX2jfBZ38KLMwFh3ldm7) | [Chelsea Hotel](https://open.spotify.com/album/3tHJ7OgxXS3OjKmvkwNOGS) | 3:40 |
 | 70 | [sick of all these uglies falling out the sky](https://open.spotify.com/track/588VSkCIXBKt0d7qdhEIuA) | [Zavier O'Keith](https://open.spotify.com/artist/2UVj3KVaby1WqCXPH7cwTR) | [sick of all these uglies falling out the sky](https://open.spotify.com/album/3HIeVaZ8g0siu6WUgd1yL0) | 3:08 |
 
-Snapshot ID: `MCwxOGZlOTJlMTIxNWE2MDhlYzEwYjUyNmQ2NTExMWZhYWZhNWIzNGI3`
+Snapshot ID: `MCw2ZmU5NGQ3NjhkY2VlNTEzMTRkOTk5Yzg4NTI1NmQxYzk1ZDQ3OWVl`

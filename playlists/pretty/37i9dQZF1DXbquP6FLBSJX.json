@@ -1,12 +1,12 @@
 {
   "description": "Unwind in time to these 70s classics.",
-  "num_followers": 281057,
+  "num_followers": 281145,
   "original_name": "Unwind 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzVjNWZmMGI0ODcxNDcwNzkyZjFjYmU4OGY0MWUxZDM0MDg2YmYx",
+  "snapshot_id": "MCw3YmUxM2EyZDViYWFlNWZhMTliZGE2ZjhlODZlZTQ2YzE1MmE5ZGY1",
   "tracks": [
     {
       "added_at": "2022-03-27 23:14:12",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-03-27 23:14:12",
       "album": {
-        "name": "Second Helping (Expanded Edition)",
-        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Sweet Home Alabama",
-      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
-    },
-    {
-      "added_at": "2022-03-27 23:14:12",
-      "album": {
         "name": "Honky Chateau",
         "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 281613,
       "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
       "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
+    },
+    {
+      "added_at": "2022-03-27 23:14:12",
+      "album": {
+        "name": "Second Helping (Expanded Edition)",
+        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
     },
     {
       "added_at": "2022-03-27 23:14:12",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-03-27 23:14:12",
       "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+    },
+    {
+      "added_at": "2022-03-27 23:14:12",
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
-    },
-    {
-      "added_at": "2022-03-27 23:14:12",
-      "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
     },
     {
       "added_at": "2022-03-27 23:14:12",
@@ -387,18 +387,18 @@
     {
       "added_at": "2022-03-27 23:14:12",
       "album": {
-        "name": "Reggatta De Blanc (Remastered 2003)",
-        "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
         }
       ],
-      "duration_ms": 290280,
-      "name": "Message In A Bottle",
-      "url": "https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO"
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
     },
     {
       "added_at": "2022-03-27 23:14:12",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-03-27 23:14:12",
       "album": {
+        "name": "Reggatta De Blanc (Remastered 2003)",
+        "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 290280,
+      "name": "Message In A Bottle",
+      "url": "https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO"
+    },
+    {
+      "added_at": "2022-03-27 23:14:12",
+      "album": {
         "name": "Madman Across The Water",
         "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 377093,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
-    },
-    {
-      "added_at": "2022-03-27 23:14:12",
-      "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
     },
     {
       "added_at": "2022-03-27 23:14:12",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-03-27 23:14:12",
       "album": {
-        "name": "Cosmo's Factory",
-        "url": "https://open.spotify.com/album/5w2X5ZmdE4u0XGkOU7BiLG"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 159172,
-      "name": "Up Around The Bend",
-      "url": "https://open.spotify.com/track/56dtB7EzO7EneUgYwX8krC"
-    },
-    {
-      "added_at": "2022-03-27 23:14:12",
-      "album": {
         "name": "Poems, Prayers and Promises",
         "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 190160,
       "name": "Take Me Home, Country Roads - Original Version",
       "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
+    },
+    {
+      "added_at": "2022-03-27 23:14:12",
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 322548,
+      "name": "Bennie And The Jets - Remastered 2014",
+      "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
     }
   ],
   "unique_name": "Unwind 70s",

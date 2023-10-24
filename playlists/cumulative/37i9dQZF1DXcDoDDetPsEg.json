@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A"
+      },
+      "artists": [
+        {
+          "name": "Miss Lafamilia",
+          "url": "https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173909,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84"
+    },
+    {
+      "album": {
         "name": "All My Life (feat. J. Cole)",
         "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
       },
@@ -800,7 +818,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 168000,
       "name": "Artist",
       "url": "https://open.spotify.com/track/6HT49Luy8jvO4NvLqgmheX"
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 176571,
       "name": "Be My Guest",
       "url": "https://open.spotify.com/track/1qWBrP1q6NXXpQYYlryCFg"
@@ -2210,7 +2228,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 156952,
       "name": "Cap 2 da Side",
       "url": "https://open.spotify.com/track/4O6uoBjLCGRqSTopXl9x8x"
@@ -6409,6 +6427,28 @@
     },
     {
       "album": {
+        "name": "I Admit (feat. MoStack)",
+        "url": "https://open.spotify.com/album/20dtdELlmr4qXSLK2sWTkd"
+      },
+      "artists": [
+        {
+          "name": "MIST",
+          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
+        },
+        {
+          "name": "MoStack",
+          "url": "https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200321,
+      "name": "I Admit (feat. MoStack)",
+      "url": "https://open.spotify.com/track/2DON7NziO4u041hCAfowEM"
+    },
+    {
+      "album": {
         "name": "I Hate U",
         "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
       },
@@ -6482,7 +6522,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 222600,
       "name": "I Suppose",
       "url": "https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV"
@@ -6818,7 +6858,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 229040,
       "name": "In My Bag",
       "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
@@ -7104,7 +7144,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 176133,
       "name": "ISSA PARTY (feat. BabyDrill)",
       "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
@@ -8316,7 +8356,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 185142,
       "name": "Lotto",
       "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
@@ -8422,6 +8462,24 @@
       "duration_ms": 198900,
       "name": "Lucious",
       "url": "https://open.spotify.com/track/1c90f63JrnaQZxKBdJdbPn"
+    },
+    {
+      "album": {
+        "name": "luvu222",
+        "url": "https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110571,
+      "name": "luvu222",
+      "url": "https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW"
     },
     {
       "album": {
@@ -8590,7 +8648,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 241567,
       "name": "Mandem",
       "url": "https://open.spotify.com/track/3oXsp44OaIdNIsFCqiGkDw"
@@ -8884,7 +8942,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 193600,
       "name": "Militerian (feat. Naira Marley)",
       "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
@@ -8970,7 +9028,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 391888,
       "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy"
@@ -9794,7 +9852,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 158384,
       "name": "No Rush",
       "url": "https://open.spotify.com/track/0juz5wNikbEqlzUi1fjyc6"
@@ -10030,7 +10088,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 160496,
       "name": "of course",
       "url": "https://open.spotify.com/track/67ZEHFld41PZdanUBCilfN"
@@ -10678,10 +10736,36 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 174545,
       "name": "Pakistan",
       "url": "https://open.spotify.com/track/72bWarcvDzWp9aAsUWnVpq"
+    },
+    {
+      "album": {
+        "name": "PAMELA",
+        "url": "https://open.spotify.com/album/3sgshiWcl1YVV4ywA1GEp2"
+      },
+      "artists": [
+        {
+          "name": "Gwamz",
+          "url": "https://open.spotify.com/artist/5asNjXXCZBu2NfJDarWlRR"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213976,
+      "name": "PAMELA",
+      "url": "https://open.spotify.com/track/4G3axOEaeRZ95EIbubQbQu"
     },
     {
       "album": {
@@ -10832,6 +10916,32 @@
       "duration_ms": 191067,
       "name": "Payday",
       "url": "https://open.spotify.com/track/3RHnCZgss404tVTvMjdRFs"
+    },
+    {
+      "album": {
+        "name": "Plug Talk 2",
+        "url": "https://open.spotify.com/album/3ebdyJ7OYt9AJ9cGLmF7YV"
+      },
+      "artists": [
+        {
+          "name": "The Plug",
+          "url": "https://open.spotify.com/artist/5r3fI2q1YU3QyVP7oncOQ9"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181267,
+      "name": "Pengtreesha",
+      "url": "https://open.spotify.com/track/4WNecVSCkM3VRSc0WhOKjz"
     },
     {
       "album": {
@@ -11004,6 +11114,24 @@
       "duration_ms": 219574,
       "name": "Pieces (with Jahshii)",
       "url": "https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4"
+    },
+    {
+      "album": {
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/3ZfasXcVxIXmvSqa6FuOVQ"
+      },
+      "artists": [
+        {
+          "name": "Lil Pino",
+          "url": "https://open.spotify.com/artist/5rY5e6BPOIfWJI1LsR8DCl"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159388,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/0mr2jtjlU98ROn5V9XO1El"
     },
     {
       "album": {
@@ -11304,6 +11432,28 @@
       "duration_ms": 173061,
       "name": "Pressurelicious (feat. Future)",
       "url": "https://open.spotify.com/track/0qvlNV42mBsDjXN4c6XQyp"
+    },
+    {
+      "album": {
+        "name": "Pretty Girl (with Rema)",
+        "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137907,
+      "name": "Pretty Girl (with Rema)",
+      "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
     },
     {
       "album": {
@@ -12445,6 +12595,28 @@
     },
     {
       "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173253,
+      "name": "SAY MY GRACE (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
+    },
+    {
+      "album": {
         "name": "Scarface (Expanded Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6ccQdoDqZsqWlflxEIg0F3"
       },
@@ -12580,7 +12752,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 128571,
       "name": "Secret",
       "url": "https://open.spotify.com/track/2USb3AAH0FqcgmwqK8wc79"
@@ -12842,7 +13014,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 181294,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/4QylNXqn9Z6IpUBi0gt77j"
@@ -13489,6 +13661,24 @@
     },
     {
       "album": {
+        "name": "Stop Crying",
+        "url": "https://open.spotify.com/album/0Gt2nM6y14FCZ2XXic0s9C"
+      },
+      "artists": [
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151125,
+      "name": "Stop Crying",
+      "url": "https://open.spotify.com/track/3WcIiIR6VzS7swkrSusrC4"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
       },
@@ -13522,7 +13712,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 144344,
       "name": "Stressed (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
@@ -14398,6 +14588,32 @@
       "duration_ms": 175677,
       "name": "Toni-Ann Singh (feat. Popcaan)",
       "url": "https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg"
+    },
+    {
+      "album": {
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211873,
+      "name": "TONIGHT (feat. Libianca & Jae5)",
+      "url": "https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC"
     },
     {
       "album": {
@@ -15958,7 +16174,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 159652,
       "name": "yo babes",
       "url": "https://open.spotify.com/track/4d8PdgW20PBcZinpYvmpo5"

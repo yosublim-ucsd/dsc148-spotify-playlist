@@ -1,12 +1,12 @@
 {
   "description": "Discover this set of songs that define modern hymns for and beyond the church.  Cover artist: Phil Wickham",
-  "num_followers": 70030,
+  "num_followers": 70134,
   "original_name": "Modhymns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTZmY2RiNmFjYWZlOGRiZjg2YzVmODc0M2Q5ZTQ0Yjg0YWZhMzNl",
+  "snapshot_id": "MCw4NGUyYjk4ZDFhZWQ0ODVhN2VmNDU2ZTQwOTZkYmMzNWExZjNhYTA4",
   "tracks": [
     {
       "added_at": "2023-02-18 04:59:55",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Simple Gospel (Live)",
-        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Simple Gospel (Live)",
-      "url": "https://open.spotify.com/track/1laUzJ0NBV7iwWCcquCxcN"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Inheritance",
         "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 213730,
       "name": "Be Thou My Vision",
       "url": "https://open.spotify.com/track/2s1a8wNeH6IiOSowWj9veS"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Simple Gospel (Live)",
+      "url": "https://open.spotify.com/track/1laUzJ0NBV7iwWCcquCxcN"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -447,6 +447,26 @@
       "duration_ms": 337459,
       "name": "You're the Only One",
       "url": "https://open.spotify.com/track/01ZpFt0Zd1liPJUDqEJPib"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Live at the Banks House",
+        "url": "https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7"
+      },
+      "artists": [
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        },
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 376093,
+      "name": "Nothing I Hold on to (Live)",
+      "url": "https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -515,26 +535,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Live at the Banks House",
-        "url": "https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7"
-      },
-      "artists": [
-        {
-          "name": "Will Reagan",
-          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
-        },
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 376093,
-      "name": "Nothing I Hold on to (Live)",
-      "url": "https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Tremble",
         "url": "https://open.spotify.com/album/666rMVpgsHjVdU4OMbstAz"
       },
@@ -567,6 +567,26 @@
       "duration_ms": 290682,
       "name": "How He Loves Us",
       "url": "https://open.spotify.com/track/2dyYBCVgOZTCYe6QvYhSsN"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Tell All My Friends",
+        "url": "https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF"
+      },
+      "artists": [
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        },
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 282050,
+      "name": "Nothing Without You",
+      "url": "https://open.spotify.com/track/5CgLKRSUpqddLIFQHgoby1"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -623,42 +643,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Tell All My Friends",
-        "url": "https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF"
-      },
-      "artists": [
-        {
-          "name": "Will Reagan",
-          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
-        },
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 282050,
-      "name": "Nothing Without You",
-      "url": "https://open.spotify.com/track/5CgLKRSUpqddLIFQHgoby1"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Saints and Sinners",
-        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Because He Lives (Amen)",
-      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Inheritance",
         "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Because He Lives (Amen)",
+      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "Hymns, Vol. 1",
         "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
       },
@@ -691,6 +691,42 @@
       "duration_ms": 294386,
       "name": "How Great Thou Art",
       "url": "https://open.spotify.com/track/1SnZi2eVU2kcXRNJT6ek4J"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Hear (Live)",
+        "url": "https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 364586,
+      "name": "You Alone - Live",
+      "url": "https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "The Beauty Between",
+        "url": "https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "duration_ms": 245986,
+      "name": "Sticks & Stones",
+      "url": "https://open.spotify.com/track/236Joyhsvc06vmBkKjCFwf"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -715,38 +751,34 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "The Beauty Between",
-        "url": "https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y"
+        "name": "Risen",
+        "url": "https://open.spotify.com/album/5g3hGU7hr02kjuEUUiLQLz"
       },
       "artists": [
         {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
         }
       ],
-      "duration_ms": 245986,
-      "name": "Sticks & Stones",
-      "url": "https://open.spotify.com/track/236Joyhsvc06vmBkKjCFwf"
+      "duration_ms": 323133,
+      "name": "Behold Our God",
+      "url": "https://open.spotify.com/track/5wtsUVV88h9jhtF4mOgxNN"
     },
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Hear (Live)",
-        "url": "https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL"
+        "name": "Campfire II: Simplicity",
+        "url": "https://open.spotify.com/album/6M534LEjzYqHmV0afXaHZm"
       },
       "artists": [
         {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
         }
       ],
-      "duration_ms": 364586,
-      "name": "You Alone - Live",
-      "url": "https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX"
+      "duration_ms": 283066,
+      "name": "Oceans (Where Feet May FaiI)",
+      "url": "https://open.spotify.com/track/18q8W11QNDEfhYIxwypTQK"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -779,38 +811,6 @@
       "duration_ms": 282041,
       "name": "He Will Hold Me Fast",
       "url": "https://open.spotify.com/track/1Mp90z16Mneiqthtf7fOf9"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Campfire II: Simplicity",
-        "url": "https://open.spotify.com/album/6M534LEjzYqHmV0afXaHZm"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 283066,
-      "name": "Oceans (Where Feet May FaiI)",
-      "url": "https://open.spotify.com/track/18q8W11QNDEfhYIxwypTQK"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Risen",
-        "url": "https://open.spotify.com/album/5g3hGU7hr02kjuEUUiLQLz"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 323133,
-      "name": "Behold Our God",
-      "url": "https://open.spotify.com/track/5wtsUVV88h9jhtF4mOgxNN"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Peace Like A River: The Hymns Project",
-        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
-      },
-      "artists": [
-        {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
-        }
-      ],
-      "duration_ms": 293986,
-      "name": "How Great Thou Art",
-      "url": "https://open.spotify.com/track/2YtsgFOv3e2oAPvGg5iLBb"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Asaph's Arrows - EP",
         "url": "https://open.spotify.com/album/1GHtYOjEg073oStqoan99K"
       },
@@ -891,6 +875,42 @@
       "duration_ms": 296800,
       "name": "Come Thou Fount",
       "url": "https://open.spotify.com/track/4KWqsra7XbtEdZTPYT1ZVJ"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "30: Three Decades of Songs for the Church",
+        "url": "https://open.spotify.com/album/6GmqHkUvT9NWRxD17vBFJm"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        },
+        {
+          "name": "Brook Hills Music",
+          "url": "https://open.spotify.com/artist/4CaYbhVqFR3fTbGHd3k4Zr"
+        }
+      ],
+      "duration_ms": 292600,
+      "name": "Jesus, Thank You",
+      "url": "https://open.spotify.com/track/59pRxzutrxwmP6CNL2eHbU"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Peace Like A River: The Hymns Project",
+        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 293986,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/2YtsgFOv3e2oAPvGg5iLBb"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -915,22 +935,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Hymns, Vol. 1",
-        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 351718,
-      "name": "Come Thou Fount (Above All Else)",
-      "url": "https://open.spotify.com/track/5yZcK6LIBxD6Ia5vYuEr6v"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Facing A Task Unfinished",
         "url": "https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz"
       },
@@ -951,22 +955,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "30: Three Decades of Songs for the Church",
-        "url": "https://open.spotify.com/album/6GmqHkUvT9NWRxD17vBFJm"
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
       },
       "artists": [
         {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        },
-        {
-          "name": "Brook Hills Music",
-          "url": "https://open.spotify.com/artist/4CaYbhVqFR3fTbGHd3k4Zr"
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 292600,
-      "name": "Jesus, Thank You",
-      "url": "https://open.spotify.com/track/59pRxzutrxwmP6CNL2eHbU"
+      "duration_ms": 351718,
+      "name": "Come Thou Fount (Above All Else)",
+      "url": "https://open.spotify.com/track/5yZcK6LIBxD6Ia5vYuEr6v"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1039,34 +1039,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Peace Like A River: The Hymns Project",
-        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/2N7sEVVS3jKMJJuJi4v0UF"
       },
       "artists": [
         {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Come Thou Fount Of Every Blessing",
-      "url": "https://open.spotify.com/track/0f9U92JG3vu8BH3PTvxySR"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Simple Gospel (Live)",
-        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Head to the Heart (Live)",
-      "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
+      "duration_ms": 347853,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/7A0KE0lgddnjGIOry9AjOT"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1083,6 +1067,22 @@
       "duration_ms": 312592,
       "name": "Psalm 139 (Far Too Wonderful)",
       "url": "https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Head to the Heart (Live)",
+      "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "Peace Like A River: The Hymns Project",
+        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Come Thou Fount Of Every Blessing",
+      "url": "https://open.spotify.com/track/0f9U92JG3vu8BH3PTvxySR"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "In Christ Alone",
         "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
       },
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Peace Like A River: The Hymns Project",
-        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
-      },
-      "artists": [
-        {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Great Is Thy Faithfulness",
-      "url": "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "There Is a Cloud",
         "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 273293,
       "name": "Do it Again (Acoustic)",
       "url": "https://open.spotify.com/track/562a45H0hU2BkFcT0KDbse"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/2N7sEVVS3jKMJJuJi4v0UF"
-      },
-      "artists": [
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 347853,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/7A0KE0lgddnjGIOry9AjOT"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Hymns, Vol. 1",
-        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+        "name": "Good to Me",
+        "url": "https://open.spotify.com/album/5xREj9Thco8YJ83fCEomhV"
       },
       "artists": [
         {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
         }
       ],
-      "duration_ms": 282681,
-      "name": "Give Me Jesus",
-      "url": "https://open.spotify.com/track/0RsaQMxAuonHIVM7pjQm6S"
+      "duration_ms": 240801,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/3VzWiZtaS7Z6rLj290J3Fh"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1239,18 +1223,34 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Good to Me",
-        "url": "https://open.spotify.com/album/5xREj9Thco8YJ83fCEomhV"
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
       },
       "artists": [
         {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 240801,
-      "name": "Come Thou Fount",
-      "url": "https://open.spotify.com/track/3VzWiZtaS7Z6rLj290J3Fh"
+      "duration_ms": 282681,
+      "name": "Give Me Jesus",
+      "url": "https://open.spotify.com/track/0RsaQMxAuonHIVM7pjQm6S"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Peace Like A River: The Hymns Project",
+        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1271,22 +1271,6 @@
       "duration_ms": 490453,
       "name": "Let It Happen (Live) [feat. Andrea Marie]",
       "url": "https://open.spotify.com/track/1MCxM27lS1cDA7py53mqRt"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Peace Like A River: The Hymns Project",
-        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
-      },
-      "artists": [
-        {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "It Is Well With My Soul",
-      "url": "https://open.spotify.com/track/3VBqIpJOTtauueKPLl20wn"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1319,6 +1303,38 @@
       "duration_ms": 240520,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/2eTurD5VqA537xWPDQ5v3s"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Lead Thou Me On: Hymns and Inspiration",
+        "url": "https://open.spotify.com/album/2lebc92AdkZlPsKtaaov6M"
+      },
+      "artists": [
+        {
+          "name": "BYU Vocal Point",
+          "url": "https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Come, Thou Fount of Every Blessing (Arr. Keith McKay Evans)",
+      "url": "https://open.spotify.com/track/5AtKT9gWXpzn8AJcuwT62k"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Peace Like A River: The Hymns Project",
+        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "It Is Well With My Soul",
+      "url": "https://open.spotify.com/track/3VBqIpJOTtauueKPLl20wn"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1359,6 +1375,26 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "The Beauty Between",
+        "url": "https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        },
+        {
+          "name": "Braille",
+          "url": "https://open.spotify.com/artist/6RYTz1tFNDF2qP0mwqEwDO"
+        }
+      ],
+      "duration_ms": 282160,
+      "name": "Safe Retreat (feat. Braille)",
+      "url": "https://open.spotify.com/track/6ygVhMeWmK6uW7IPQKdrnq"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "Messenger Hymns, Vol. 2 - EP",
         "url": "https://open.spotify.com/album/00AuuN8Eba5KnPauBSOT6w"
       },
@@ -1375,18 +1411,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Lead Thou Me On: Hymns and Inspiration",
-        "url": "https://open.spotify.com/album/2lebc92AdkZlPsKtaaov6M"
+        "name": "Only King Forever",
+        "url": "https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h"
       },
       "artists": [
         {
-          "name": "BYU Vocal Point",
-          "url": "https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 203133,
-      "name": "Come, Thou Fount of Every Blessing (Arr. Keith McKay Evans)",
-      "url": "https://open.spotify.com/track/5AtKT9gWXpzn8AJcuwT62k"
+      "duration_ms": 438200,
+      "name": "Blessed Assurance",
+      "url": "https://open.spotify.com/track/41iTybeZlSGdEKUaEYz8Ye"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1407,22 +1443,6 @@
       "duration_ms": 482386,
       "name": "Since Your Love (Live) [feat. Brandon Hampton]",
       "url": "https://open.spotify.com/track/0XPZo7uag05Vi90Tz0G8ry"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Only King Forever",
-        "url": "https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 438200,
-      "name": "Blessed Assurance",
-      "url": "https://open.spotify.com/track/41iTybeZlSGdEKUaEYz8Ye"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1459,22 +1479,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "The Beauty Between",
-        "url": "https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y"
+        "name": "Fortunate Fall",
+        "url": "https://open.spotify.com/album/76I8fqOA2ZEoASDzbifCMA"
       },
       "artists": [
         {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        },
-        {
-          "name": "Braille",
-          "url": "https://open.spotify.com/artist/6RYTz1tFNDF2qP0mwqEwDO"
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
         }
       ],
-      "duration_ms": 282160,
-      "name": "Safe Retreat (feat. Braille)",
-      "url": "https://open.spotify.com/track/6ygVhMeWmK6uW7IPQKdrnq"
+      "duration_ms": 280666,
+      "name": "I Shall Not Want",
+      "url": "https://open.spotify.com/track/5rgukqlCowrFmIIAF4Cs8u"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Fortunate Fall",
-        "url": "https://open.spotify.com/album/76I8fqOA2ZEoASDzbifCMA"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 280666,
-      "name": "I Shall Not Want",
-      "url": "https://open.spotify.com/track/5rgukqlCowrFmIIAF4Cs8u"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Children of God Acoustic Sessions",
         "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
       },
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/4XYWS04Kkk8X1NiUR08Cpi"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Note To Self",
-      "url": "https://open.spotify.com/track/3w2Hvc5mh3Dt3QyYIhAHKQ"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "My Hope and Stay: Hymns Project, Vol. II",
         "url": "https://open.spotify.com/album/5ji5EiVJLACqVSezLxHmZO"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 224000,
       "name": "My Hope Is Built / The Solid Rock",
       "url": "https://open.spotify.com/track/7el80wCuyU2ByLix3o7b78"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/4XYWS04Kkk8X1NiUR08Cpi"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/3w2Hvc5mh3Dt3QyYIhAHKQ"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Praise 8 - As The Deer",
-        "url": "https://open.spotify.com/album/5W8FCrbWLKeeltQ0NBEdUG"
-      },
-      "artists": [
-        {
-          "name": "Maranatha! Music",
-          "url": "https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "As The Deer",
-      "url": "https://open.spotify.com/track/0XwVqr3oNiLpuQI3NkzQgf"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Children of God",
         "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 279253,
       "name": "Doxology//Amen",
       "url": "https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Praise 8 - As The Deer",
+        "url": "https://open.spotify.com/album/5W8FCrbWLKeeltQ0NBEdUG"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Music",
+          "url": "https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "As The Deer",
+      "url": "https://open.spotify.com/track/0XwVqr3oNiLpuQI3NkzQgf"
     },
     {
       "added_at": "2023-02-18 04:59:55",

@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Chicocurlyhead & RENEE",
-  "num_followers": 284770,
+  "num_followers": 284785,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmNjYmU1MjMxZTNjZGE1NWVmNmViYTEyMzBjNDVjZmI2MzEwNTYw",
+  "snapshot_id": "MCw4MWEwYTYwMmMwNWEwYmIxMjg4YmYyN2ExZDEzZTA5M2RmMjI5N2Vm",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+        "name": "Te Mata",
+        "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
       },
       "artists": [
         {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 152425,
-      "name": "1Amor",
-      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
+      "duration_ms": 232306,
+      "name": "Te Mata",
+      "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -235,22 +235,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Como Yo :(",
-        "url": "https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 141865,
-      "name": "Como Yo :(",
-      "url": "https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M"
+      "duration_ms": 152425,
+      "name": "1Amor",
+      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -271,6 +267,26 @@
       "duration_ms": 166736,
       "name": "ESO VA",
       "url": "https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Como Yo :(",
+        "url": "https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 141865,
+      "name": "Como Yo :(",
+      "url": "https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -307,22 +323,6 @@
       "duration_ms": 175479,
       "name": "Lovelove U",
       "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Te Mata",
-        "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 232306,
-      "name": "Te Mata",
-      "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -555,6 +555,30 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "tqum (feat. Kim Petras) [Remix]",
+        "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 149589,
+      "name": "tqum (feat. Kim Petras) - Remix",
+      "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Guerrero.mp3",
         "url": "https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E"
       },
@@ -619,30 +643,6 @@
       "duration_ms": 166493,
       "name": "LOTO",
       "url": "https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "tqum (feat. Kim Petras) [Remix]",
-        "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 149589,
-      "name": "tqum (feat. Kim Petras) - Remix",
-      "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
-        "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Que me quiera",
-      "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Hora Loca",
         "url": "https://open.spotify.com/album/5L7vepCGsq5Ji84DPEDjP8"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 191825,
       "name": "Hora Loca",
       "url": "https://open.spotify.com/track/5vgwmo15qa4jKLFW726iaF"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
+        "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Que me quiera",
+      "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
     },
     {
       "added_at": "2023-10-20 04:00:00",

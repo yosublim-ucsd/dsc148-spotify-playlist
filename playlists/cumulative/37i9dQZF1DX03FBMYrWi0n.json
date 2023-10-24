@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "Kal\u00e9idoscope",
+        "url": "https://open.spotify.com/album/27nWncmd558GGghngqlC4T"
+      },
+      "artists": [
+        {
+          "name": "Caravane",
+          "url": "https://open.spotify.com/artist/6hCBXCqoy6C3nNddhQsWRT"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127832,
+      "name": "Kal\u00e9idoscope",
+      "url": "https://open.spotify.com/track/0Ftgq4He4Gf6llPi0sJfaY"
+    },
+    {
+      "album": {
         "name": "l'\u00cele",
         "url": "https://open.spotify.com/album/3AkriQvlkrwcr3Nq22hp1U"
       },
@@ -2330,7 +2348,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 207013,
       "name": "Viendras-tu pleurer?",
       "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"

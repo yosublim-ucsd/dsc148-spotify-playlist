@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,957 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,967 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 |
 | 60 | [You're Young](https://open.spotify.com/track/3g18LxsivreftG2yU39qCg) | [YOUR SONG IS GOOD](https://open.spotify.com/artist/4Yt6N4u5vIpjRhT2O7zsLk), [Joelene](https://open.spotify.com/artist/7mKMhWh1Ujzds93YSodcnE) | [You're Young](https://open.spotify.com/album/6z6MALYTU7My2psRJwgUZf) | 4:14 |
 
-Snapshot ID: `MCxkN2FjNjhlNmZiZjc5OTBiNDg5ZTFiODliOTBhN2E1ODc5YTE1NDY0`
+Snapshot ID: `MCxiYjI3M2MyYTgzNWEzYTdhY2U0ZjJkZWMxMGZhODVlMWI2ODZmYzY2`

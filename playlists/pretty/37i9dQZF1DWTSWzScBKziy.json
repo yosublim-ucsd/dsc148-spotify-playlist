@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 92551,
+  "num_followers": 92602,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjE4MGMwNWFjZWZlODQ0N2E3ZjlhMzJmMTdmZGQ0NTIyNDIxOGI2",
+  "snapshot_id": "MCw5YTc2NDYxNmRiNWU1NzdiNWY2NmYxMDkyODRjZTAzNmM4NTg1ZDZm",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -151,22 +151,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Joy In The Morning",
-        "url": "https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 216286,
-      "name": "Joy In The Morning",
-      "url": "https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Fill My Cup",
         "url": "https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O"
       },
@@ -183,18 +167,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Steady Light",
-        "url": "https://open.spotify.com/album/6mdjxXqWp8CeDmEs5q26pG"
+        "name": "Joy In The Morning",
+        "url": "https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax"
       },
       "artists": [
         {
-          "name": "LO Worship",
-          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
-      "duration_ms": 283885,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/0rsK51mo1xB9pNCPYFaPHA"
+      "duration_ms": 216286,
+      "name": "Joy In The Morning",
+      "url": "https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -223,6 +207,22 @@
       "duration_ms": 565833,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Steady Light",
+        "url": "https://open.spotify.com/album/6mdjxXqWp8CeDmEs5q26pG"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        }
+      ],
+      "duration_ms": 283885,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/0rsK51mo1xB9pNCPYFaPHA"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Soul Worth Saving",
-        "url": "https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 226650,
-      "name": "Soul Worth Saving",
-      "url": "https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Empty Room",
         "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 201268,
       "name": "Arms of Jesus",
       "url": "https://open.spotify.com/track/5y75YUXAJ1lHc3bUDKen3e"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Soul Worth Saving",
+        "url": "https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 226650,
+      "name": "Soul Worth Saving",
+      "url": "https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -575,22 +575,6 @@
       "duration_ms": 218510,
       "name": "Teach Me to Dance (Acoustic Version)",
       "url": "https://open.spotify.com/track/1atx7ehkHqRARWRyhbC9Gi"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 179843,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -691,6 +675,22 @@
       "duration_ms": 188426,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 179843,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Only You Can Do It",
-        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
-      },
-      "artists": [
-        {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
-        }
-      ],
-      "duration_ms": 140347,
-      "name": "Only You Can Do It",
-      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Light a Fire",
         "url": "https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 294320,
       "name": "Light a Fire",
       "url": "https://open.spotify.com/track/1SLA0ToZqK1uZfBF6HZ2yG"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Only You Can Do It",
+        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
+      },
+      "artists": [
+        {
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+        }
+      ],
+      "duration_ms": 140347,
+      "name": "Only You Can Do It",
+      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "a thousand shores",
-        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "a thousand shores",
-      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "In You",
         "url": "https://open.spotify.com/album/6SnaZ0g8ysg1CgpNDKOgcf"
       },
@@ -1007,6 +991,26 @@
       "duration_ms": 205080,
       "name": "In You",
       "url": "https://open.spotify.com/track/3fHEMFGvaSfNzXFLboZQE2"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Won't Let Me Go",
+        "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        },
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "Won't Let Me Go",
+      "url": "https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1043,6 +1047,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "a thousand shores",
+        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "a thousand shores",
+      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Home Called Heaven",
         "url": "https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 227719,
       "name": "Home Called Heaven",
       "url": "https://open.spotify.com/track/1RUgjAvt8majG62li8evpf"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Won't Let Me Go",
-        "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
-      },
-      "artists": [
-        {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        },
-        {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
-        }
-      ],
-      "duration_ms": 215213,
-      "name": "Won't Let Me Go",
-      "url": "https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Good Lord",
         "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Say It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 196161,
       "name": "Stained Glass",
       "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Already Blessed",
+        "url": "https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY"
+      },
+      "artists": [
+        {
+          "name": "Chidiya Ohiagu",
+          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
+        }
+      ],
+      "duration_ms": 228068,
+      "name": "Already Blessed",
+      "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1219,22 +1235,6 @@
       "duration_ms": 186626,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Already Blessed",
-        "url": "https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY"
-      },
-      "artists": [
-        {
-          "name": "Chidiya Ohiagu",
-          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
-        }
-      ],
-      "duration_ms": 228068,
-      "name": "Already Blessed",
-      "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Good Lord",
+        "url": "https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Good Lord",
+      "url": "https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Though None Go",
         "url": "https://open.spotify.com/album/6AARjaQ2hd1WfU3S0JfImo"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 184901,
       "name": "Never Too Far",
       "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Good Lord",
-        "url": "https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Good Lord",
-      "url": "https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Love, Evvie McKinney",
+        "url": "https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb"
+      },
+      "artists": [
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "But God",
+      "url": "https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 188138,
       "name": "Known, Seen, Loved",
       "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Love, Evvie McKinney",
-        "url": "https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb"
-      },
-      "artists": [
-        {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "But God",
-      "url": "https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Anyway",
-        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 313933,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/5dRUYUFyuup2nG0cbzzmaf"
       },
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Anyway",
+        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 313933,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Over and Over",
         "url": "https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX"
       },
@@ -1615,22 +1615,6 @@
       "duration_ms": 215000,
       "name": "Over and Over",
       "url": "https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/7uWq74i251DnpNGoZcUrDL"
-      },
-      "artists": [
-        {
-          "name": "Courtnie Ramirez",
-          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
-        }
-      ],
-      "duration_ms": 254099,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1667,18 +1651,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Love Won\u2019t Let Go",
-        "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/7uWq74i251DnpNGoZcUrDL"
       },
       "artists": [
         {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+          "name": "Courtnie Ramirez",
+          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
         }
       ],
-      "duration_ms": 198379,
-      "name": "Love Won\u2019t Let Go",
-      "url": "https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU"
+      "duration_ms": 254099,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1695,6 +1679,22 @@
       "duration_ms": 199093,
       "name": "God Thing",
       "url": "https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Love Won\u2019t Let Go",
+        "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
+      },
+      "artists": [
+        {
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+        }
+      ],
+      "duration_ms": 198379,
+      "name": "Love Won\u2019t Let Go",
+      "url": "https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU"
     },
     {
       "added_at": "2022-10-29 07:17:38",

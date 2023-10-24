@@ -4,7 +4,7 @@
 
 > Your favorite folk songs, live\. Cover: John Prine
 
-66 songs - 4 hr 54 min
+67 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Hope of A Lifetime \- Live](https://open.spotify.com/track/2zNlLVydiXIrDFRiEZyLqT) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Live From Lincoln Theatre](https://open.spotify.com/album/2URAmWVraCITERP0FeuAvX) | 3:32 | 2023-08-11 |  |
 | [I And Love And You \- Live At Bojangles' Coliseum/2009](https://open.spotify.com/track/24pJL3LEPj3M6gciuQwFlU) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Live, Vol\. 3 \(Live At Bojangles' Coliseum/2009\)](https://open.spotify.com/album/1YpBPjLH0uwrJnP6PYnps6) | 5:27 | 2023-08-11 |  |
 | [I Forget Where We Were \- Live](https://open.spotify.com/track/2Mh3HffdHbGA50dlCdVqnz) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Spotify Sessions \(Live\)](https://open.spotify.com/album/5UTXNLRowqb5buK2nk1XCu) | 3:19 | 2023-08-11 |  |
+| [I Want You \- Live at Nippon Budokan Hall, Tokyo, Japan \- February 28, 1978](https://open.spotify.com/track/657ImOBEvaFXpGZn8Ck3LO) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Want You \(Live at Nippon Budokan Hall, Tokyo, Japan \- February 28, 1978\)](https://open.spotify.com/album/7abzPat9BsqJOZB5hn9TrT) | 2:31 | 2023-10-23 |  |
 | [I Went to the Store One Day \- Live from the Hamburg Elbphilharmonie on August 8, 2019](https://open.spotify.com/track/7slryHlEP6O1evLd8rvfnt) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Off\-Key in Hamburg](https://open.spotify.com/album/2LszbE4j2yEAQmTVv9fwLU) | 4:31 | 2023-08-11 |  |
 | [I Will Be Back One Day](https://open.spotify.com/track/3gymmOHOTM860n6XuRIIPq) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lord Huron \- Spotify Session](https://open.spotify.com/album/6RAV8GzO5RQvdv5f2KrdC8) | 3:25 | 2023-08-11 |  |
 | [I Will Wait \- Live](https://open.spotify.com/track/0cJyjnuDK1pksQSzvuPeRG) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Spotify Sessions \(Live\)](https://open.spotify.com/album/6Dvle9GCXhxSHPzXnGk2R9) | 4:49 | 2023-08-11 |  |
@@ -61,7 +62,7 @@
 | [Tangled Up In Blue \- Live at the Great American Music Hall, San Francisco, CA \-Aug 1992](https://open.spotify.com/track/1BAa8ztC3sFEGWVwyCPZnk) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [1200 Curfews](https://open.spotify.com/album/4HZfjH0LgBHRsrxDAHoFOe) | 8:02 | 2023-08-11 |  |
 | [Teach Your Children \- Live](https://open.spotify.com/track/1qwqSlrqKxInbvu69BUaX6) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [4 Way Street](https://open.spotify.com/album/0T0iwwI0nHiFcF0HDW59UO) | 3:02 | 2023-08-11 |  |
 | [The A Team \- Live at the Bedford](https://open.spotify.com/track/6JUGrUnAms0o3uGVIhkAyH) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live at the Bedford](https://open.spotify.com/album/4JUtnlZKdLr01xEIymhm0G) | 5:22 | 2023-08-11 |  |
-| [The Man in Me \- Live at Nippon Budokan Hall, Tokyo, Japan \- March 1, 1978](https://open.spotify.com/track/04qjnSVsVckWxBCHXRRjlM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Man in Me \(Live at Nippon Budokan Hall, Tokyo, Japan \- March 1, 1978\)](https://open.spotify.com/album/6eMXx9YBoLXZsdxddviSaz) | 3:51 | 2023-09-08 |  |
+| [The Man in Me \- Live at Nippon Budokan Hall, Tokyo, Japan \- March 1, 1978](https://open.spotify.com/track/04qjnSVsVckWxBCHXRRjlM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Man in Me \(Live at Nippon Budokan Hall, Tokyo, Japan \- March 1, 1978\)](https://open.spotify.com/album/6eMXx9YBoLXZsdxddviSaz) | 3:51 | 2023-09-08 | 2023-10-24 |
 | [The Needle and The Damage Done \- Live at John F\. Kennedy Stadium, 13th July 1985](https://open.spotify.com/track/285vxuRky8WKTIrNP332sl) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Neil Young at Live Aid \(Live at John F\. Kennedy Stadium, 13th July 1985\)](https://open.spotify.com/album/31rLr6NpNw9wggFD4QGfhD) | 2:23 | 2023-08-11 |  |
 | [The Sound of Silence \- Live at Benaroya Hall, Seattle, WA \- November 2010](https://open.spotify.com/track/3RkSYWC5JpXaRXyc7oOLIq) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Seattle Symphony Orchestra](https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb) | [Live At Benaroya Hall with The Seattle Symphony](https://open.spotify.com/album/7jKJ68WplsoCCnbpKUXiV8) | 3:26 | 2023-08-11 |  |
 | [The Stable Song \- Live at Spotify House](https://open.spotify.com/track/2NnsEix2JSUkZvHqI6Tcyj) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Spotify Sessions](https://open.spotify.com/album/5IiWXhwmXWqtqhce8vuE1i) | 6:08 | 2023-08-11 |  |

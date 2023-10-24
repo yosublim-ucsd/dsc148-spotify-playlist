@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,577 likes - 146 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,289 likes - 146 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 145 | [Smell Like Smoke](https://open.spotify.com/track/3FQL51eEwEDRw8YQj9Vlwc) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 2:48 |
 | 146 | [Ramblin Man](https://open.spotify.com/track/4a1oIFgu01B2nafpOHgvHZ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Ramblin Man](https://open.spotify.com/album/0PXuJaAC2SrNE3RUdjtNn3) | 2:47 |
 
-Snapshot ID: `MCxjY2E5NTg5MmUwNTExNmFmNDMwM2E2NmFjYjcwOTEwMjkxOTZlZTcy`
+Snapshot ID: `MCwxYWU0ODJkOTFkNjBjZTVmMTAzMTg2MDYzMDYyODEwYjA3YzQ1NjAz`

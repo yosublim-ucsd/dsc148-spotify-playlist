@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-96 songs - 6 hr 31 min
+97 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Meant 2 Be](https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Meant 2 Be](https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd) | 4:37 | 2023-02-03 |  |
 | [Melukis Senja](https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Melukis Senja](https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn) | 4:11 | 2023-02-03 |  |
 | [Menepi Menetap](https://open.spotify.com/track/2hGIQ9tovrpsJzEBR2QQwE) | [Mikha Tambayong](https://open.spotify.com/artist/39Q7seDI6P5tEMTTeHOyGG), [Deva Mahenra](https://open.spotify.com/artist/2R4MIJ7l2ZMXxhvXqzcC9J) | [Menepi Menetap](https://open.spotify.com/album/3zNCT8AVDWtkcmgbNxVhW3) | 3:46 | 2023-02-03 | 2023-05-04 |
+| [Mengenang Bintang \( From 'Petualangan Sherina 2' \)](https://open.spotify.com/track/1PI0KjLkj1ZjMqekUocbGN) | [Sherina Munaf](https://open.spotify.com/artist/3UUS2j9dYbI6MB5ee8d0jp), [Derby](https://open.spotify.com/artist/3ife9toV28Lcs5VspZYMLr) | [Mengenang Bintang \( From 'Petualangan Sherina 2' \)](https://open.spotify.com/album/2Yx6TtL6tnapZYniHtWLS3) | 4:12 | 2023-10-19 |  |
 | [O..Ya](https://open.spotify.com/track/44B5higF4TQLQpRmZRCnvF) | [K3S](https://open.spotify.com/artist/7CBWAW33Sq5axOZmxrmfIk) | [O…Ya](https://open.spotify.com/album/48yt55yCovNEEMwqG8y5L5) | 3:07 | 2023-04-17 | 2023-06-23 |
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 | 2023-02-03 |  |
 | [Perahu Kertas](https://open.spotify.com/track/0eFl0s1v88DTqsXFJWFTmO) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Perahu Kertas \(Original Soundtrack\)](https://open.spotify.com/album/7KKKg80jCzCksVtgRc88r6) | 3:54 | 2023-02-03 |  |

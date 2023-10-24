@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl?si=czcMFKrTRnmXGbAlkj7pGg">   أصالة </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,965 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,333 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [هيبدأ يتكلم](https://open.spotify.com/track/1WZj20KRIEm6EyJwbtt2kf) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [هيبدأ يتكلم](https://open.spotify.com/album/0T84o5dPeM7uRabHJVioSs) | 2:46 |
 | 50 | [شارع الحياه مش هو هو \- كنت اسد بس الحسد](https://open.spotify.com/track/5uY9sxUgX1EarWZXCKdzzu) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [شارع الحياه مش هو هو \(كنت اسد بس الحسد\)](https://open.spotify.com/album/5KoxyECjOwq9JjiRwxfoTZ) | 4:57 |
 
-Snapshot ID: `MCw4M2YwN2M0M2FmYWY0M2JkOWFjNDE4YTg2ZDEwZjBlMDgyNTQ4Yzlj`
+Snapshot ID: `MCxhOWY4NWVmN2YzMmMyNmYyNjc4NDg4YzJhNTFjMjJiNTQ4ZjIyZmRl`

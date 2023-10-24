@@ -997,6 +997,28 @@
     },
     {
       "album": {
+        "name": "All Caps",
+        "url": "https://open.spotify.com/album/4uxPMaTY8REqjpiWJf0gKV"
+      },
+      "artists": [
+        {
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        },
+        {
+          "name": "Nona Shipov",
+          "url": "https://open.spotify.com/artist/5TSx7SKUufxZFqkM0doMCG"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162861,
+      "name": "All Caps",
+      "url": "https://open.spotify.com/track/3KD5AnJm4LlibbdykzcfzP"
+    },
+    {
+      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/6VD1zrZ69bIqhmUfJ3oOA5"
       },
@@ -3362,7 +3384,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 155202,
       "name": "Brundo (Mendo Pt. 2)",
       "url": "https://open.spotify.com/track/7MewgSZ1EUZerZvFBJsNuY"
@@ -3908,7 +3930,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 207946,
       "name": "Catch the Rabbit",
       "url": "https://open.spotify.com/track/0kXdUHF4bnmJkrDvabbibq"
@@ -8010,6 +8032,28 @@
       "duration_ms": 428973,
       "name": "For The Koalas",
       "url": "https://open.spotify.com/track/1HVAhgXRQSOEKdWXe9whDO"
+    },
+    {
+      "album": {
+        "name": "Forest Habits",
+        "url": "https://open.spotify.com/album/3zFC5FLr1Q7sPbsatVEYPX"
+      },
+      "artists": [
+        {
+          "name": "Oliver Crosby",
+          "url": "https://open.spotify.com/artist/3JlivF1eIeK1qIg6BdFdNO"
+        },
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201430,
+      "name": "Forest Habits",
+      "url": "https://open.spotify.com/track/5HCYWa3Jg38TXYhlsvwAaX"
     },
     {
       "album": {
@@ -15675,6 +15719,28 @@
     },
     {
       "album": {
+        "name": "Omkomma Hemma",
+        "url": "https://open.spotify.com/album/433V8jpXWNv871FVPb5TCg"
+      },
+      "artists": [
+        {
+          "name": "Koma Saxo",
+          "url": "https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8"
+        },
+        {
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155346,
+      "name": "Omkomma Hemma",
+      "url": "https://open.spotify.com/track/6lpgyO0zjXorfbyvGCSJRW"
+    },
+    {
+      "album": {
         "name": "Omoshiro",
         "url": "https://open.spotify.com/album/4nKmGF6W1tdrEAIgHadZGL"
       },
@@ -16718,6 +16784,36 @@
       "duration_ms": 422357,
       "name": "Pitch Boi",
       "url": "https://open.spotify.com/track/6DmZrKaXh7CXXB5UiT3nQC"
+    },
+    {
+      "album": {
+        "name": "Pizza Dreams",
+        "url": "https://open.spotify.com/album/4kVEs3HCvdNj3wvddutCZ8"
+      },
+      "artists": [
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        },
+        {
+          "name": "Efajemue",
+          "url": "https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1"
+        },
+        {
+          "name": "Zephyr Avalon",
+          "url": "https://open.spotify.com/artist/1zTFIyWUniB8SiSdcTLa9O"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221039,
+      "name": "Pizza Dreams",
+      "url": "https://open.spotify.com/track/5zWVvfaIcMnxpTxurAm7gW"
     },
     {
       "album": {
@@ -21022,7 +21118,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 289293,
       "name": "Sweet Jasmine",
       "url": "https://open.spotify.com/track/1UJElgaArW1jL1dWX726z3"
@@ -21992,7 +22088,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 223508,
       "name": "The Last Kiss",
       "url": "https://open.spotify.com/track/7dnOB4RX7GTyXV5QfhZ6w6"

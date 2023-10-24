@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Morat en portada.",
-  "num_followers": 76434,
+  "num_followers": 76510,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjQwYWEwNDUxMzVkNTEwYTNhNzJkYzQ1YzA1NmYxNjhmYmExNzZj",
+  "snapshot_id": "MCw5ODdiZjZkNjVkNWMzNGU1MDdhMDYxMmQxNDgxYjM4NGNiYzI5YThh",
   "tracks": [
     {
       "added_at": "2023-10-03 22:31:52",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-10-03 22:31:52",
       "album": {
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 162981,
+      "name": "A\u00f1o Sab\u00e1tico",
+      "url": "https://open.spotify.com/track/1W3TtHJz099SGGq67IOVFL"
+    },
+    {
+      "added_at": "2023-10-03 22:31:52",
+      "album": {
         "name": "A Un Paso De La Luna (Remix)",
         "url": "https://open.spotify.com/album/7uqAed3H0PhUrLDoyVATh8"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2023-10-03 22:31:52",
       "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 162981,
-      "name": "A\u00f1o Sab\u00e1tico",
-      "url": "https://open.spotify.com/track/1W3TtHJz099SGGq67IOVFL"
-    },
-    {
-      "added_at": "2023-10-03 22:31:52",
-      "album": {
         "name": "Tengamos Pasado",
         "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
       },
@@ -679,6 +679,26 @@
     {
       "added_at": "2023-10-03 22:31:52",
       "album": {
+        "name": "Para No Verte M\u00e1s",
+        "url": "https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 197036,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d"
+    },
+    {
+      "added_at": "2023-10-03 22:31:52",
+      "album": {
         "name": "Cerquita De Ti",
         "url": "https://open.spotify.com/album/5Wg1E8vq9CFjnaBKJClHK2"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 217346,
       "name": "Cerquita De Ti",
       "url": "https://open.spotify.com/track/70FJ7VpGX4Luv8GlMGSLRM"
-    },
-    {
-      "added_at": "2023-10-03 22:31:52",
-      "album": {
-        "name": "Para No Verte M\u00e1s",
-        "url": "https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 197036,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d"
     },
     {
       "added_at": "2023-10-03 22:31:52",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-10-03 22:31:52",
       "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/4LZmupArVMH708EjwPECO3"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/16alCAQtM9TPU6FUexEUnh"
+    },
+    {
+      "added_at": "2023-10-03 22:31:52",
+      "album": {
         "name": "S.H.E.A",
         "url": "https://open.spotify.com/album/6kc3mO2sDTCs77Gi7OLGYL"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 190760,
       "name": "S.H.E.A",
       "url": "https://open.spotify.com/track/3gQm8QtxHR8pnMxykb1HHH"
-    },
-    {
-      "added_at": "2023-10-03 22:31:52",
-      "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/4LZmupArVMH708EjwPECO3"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/16alCAQtM9TPU6FUexEUnh"
     },
     {
       "added_at": "2023-10-03 22:31:52",

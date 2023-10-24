@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 80s. Cover: The Go-Go's",
-  "num_followers": 227954,
+  "num_followers": 228155,
   "original_name": "80s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2U1MTkzNmFiNDZlNTE2MzAxOGM1MTNlYzI0Y2RmMmYwNzFlOWY3",
+  "snapshot_id": "MCw2NjgyOWYwM2FkYzExYjIxNDU2Y2JhNTZlMTcyNjg3YzdhOTIyNTRj",
   "tracks": [
     {
       "added_at": "2023-01-18 21:24:22",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Agent Provocateur",
-        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 304786,
-      "name": "I Want to Know What Love Is - 1999 Remaster",
-      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -187,6 +171,22 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
+        "name": "Agent Provocateur",
+        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 304786,
+      "name": "I Want to Know What Love Is - 1999 Remaster",
+      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "You Give Love A Bad Name",
-      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -251,6 +235,22 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "You Give Love A Bad Name",
+      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
         "name": "Mistaken Identity",
         "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
       },
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 243360,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Hello, I Must Be Going! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 175746,
       "name": "You Can't Hurry Love - 2016 Remaster",
       "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 243360,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 323706,
-      "name": "Separate Ways (Worlds Apart)",
-      "url": "https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Wheels Are Turnin'",
         "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
       },
@@ -683,22 +667,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Heartbeat City (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 234332,
-      "name": "Drive - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Glass Houses",
         "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
       },
@@ -711,6 +679,22 @@
       "duration_ms": 176440,
       "name": "It's Still Rock and Roll to Me",
       "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 323706,
+      "name": "Separate Ways (Worlds Apart)",
+      "url": "https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -763,18 +747,18 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Cosmic Thing",
-        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+        "name": "Heartbeat City (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf"
       },
       "artists": [
         {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
         }
       ],
-      "duration_ms": 320680,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
+      "duration_ms": 234332,
+      "name": "Drive - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -791,6 +775,22 @@
       "duration_ms": 285333,
       "name": "I Guess That's Why They Call It The Blues",
       "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 320680,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 288339,
-      "name": "Modern Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 308373,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/2E2ZVy2fxslpAUgbb4zu84"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 288339,
+      "name": "Modern Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Back In The High Life",
-        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
-      },
-      "artists": [
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        }
-      ],
-      "duration_ms": 351506,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Around The World In A Day",
         "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
       },
@@ -1195,6 +1179,38 @@
       "duration_ms": 161133,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Back In The High Life",
+        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 351506,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "The Very Best of Daryl Hall / John Oates",
+        "url": "https://open.spotify.com/album/4tUyNf5dGXwY4TaMaxwhqF"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 249573,
+      "name": "Out of Touch",
+      "url": "https://open.spotify.com/track/7o67roCVsFiCt7Cf0ZLOJq"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "The Very Best of Daryl Hall / John Oates",
-        "url": "https://open.spotify.com/album/4tUyNf5dGXwY4TaMaxwhqF"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 249573,
-      "name": "Out of Touch",
-      "url": "https://open.spotify.com/track/7o67roCVsFiCt7Cf0ZLOJq"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "The Cars",
         "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Fore!",
-        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 269573,
-      "name": "Stuck With You",
-      "url": "https://open.spotify.com/track/2cFl7utlqyZjCXN1G5nRvA"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Midnight Madness",
         "url": "https://open.spotify.com/album/0XSzjoQ6rMkWeoOQdQAWRs"
       },
@@ -1307,22 +1291,6 @@
       "duration_ms": 302933,
       "name": "Sister Christian",
       "url": "https://open.spotify.com/track/57trQKFZdJxHia4sMJioWk"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
-        "name": "Tommy Tutone - 2",
-        "url": "https://open.spotify.com/album/7aks5lgwJAdiZLN51UjkU1"
-      },
-      "artists": [
-        {
-          "name": "Tommy Tutone",
-          "url": "https://open.spotify.com/artist/1n2LWYgwtGp7EzDapUoniE"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "867-5309 / Jenny",
-      "url": "https://open.spotify.com/track/6iX1f3r7oUJnMbGgQ2gx1j"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -1343,6 +1311,22 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
+        "name": "Tommy Tutone - 2",
+        "url": "https://open.spotify.com/album/7aks5lgwJAdiZLN51UjkU1"
+      },
+      "artists": [
+        {
+          "name": "Tommy Tutone",
+          "url": "https://open.spotify.com/artist/1n2LWYgwtGp7EzDapUoniE"
+        }
+      ],
+      "duration_ms": 226200,
+      "name": "867-5309 / Jenny",
+      "url": "https://open.spotify.com/track/6iX1f3r7oUJnMbGgQ2gx1j"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
         "name": "Different Light (Expanded Edition)",
         "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 184160,
       "name": "Manic Monday",
       "url": "https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "The Cars",
+        "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 225853,
+      "name": "Good Times Roll",
+      "url": "https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "The Cars",
-        "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
+        "name": "Fore!",
+        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
       },
       "artists": [
         {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
         }
       ],
-      "duration_ms": 225853,
-      "name": "Good Times Roll",
-      "url": "https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw"
+      "duration_ms": 269573,
+      "name": "Stuck With You",
+      "url": "https://open.spotify.com/track/2cFl7utlqyZjCXN1G5nRvA"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "So (2012 Remastered)",
-        "url": "https://open.spotify.com/album/2ikq6LspaBbUG2qyiV5qdx"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 330373,
-      "name": "In Your Eyes - 2012 Remaster",
-      "url": "https://open.spotify.com/track/4qN7nSAVTjPfOOz0wkRQpM"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Vacation",
         "url": "https://open.spotify.com/album/7qSxcMI3rTQaD1oTi1vel0"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 179826,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/0oc7YoWV783fGr2GbdcIrz"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "The Best of Mr. Mister",
+        "url": "https://open.spotify.com/album/0qCccU99b8JabM1xPpWJKh"
+      },
+      "artists": [
+        {
+          "name": "Mr. Mister",
+          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
+        }
+      ],
+      "duration_ms": 256959,
+      "name": "Kyrie - Single Version",
+      "url": "https://open.spotify.com/track/5BXj1QDRU77J1ngVavG1tI"
     }
   ],
   "unique_name": "80s Pop Rock",

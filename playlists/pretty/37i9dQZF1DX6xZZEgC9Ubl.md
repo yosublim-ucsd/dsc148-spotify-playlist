@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,529,238 likes - 138 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,529,603 likes - 138 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 8 | [Hex](https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Hex](https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ) | 2:02 |
 | 9 | [Haunt You Forever](https://open.spotify.com/track/0MNQOjeUl39sqTsARbOODk) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [Haunt You Forever](https://open.spotify.com/album/0UXp6gUppekbrL4zN2uvoW) | 2:19 |
 | 10 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 |
-| 11 | [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 |
+| 11 | [You Don't Even](https://open.spotify.com/track/6jTGHYU466eF0XxVOQuQMy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/1Vw2QQWVguHw3kTwCq3kaf) | 2:18 |
 | 12 | [F\*ck Love](https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [F\*ck Love](https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg) | 3:17 |
 | 13 | [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 |
 | 14 | [problems \(feat\. Trippie Redd\)](https://open.spotify.com/track/6KpF6zZId94bNg4zoz5mIa) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [problems \(feat\. Trippie Redd\)](https://open.spotify.com/album/79lTZVUHdaqLkj814XzZxw) | 2:32 |
@@ -145,6 +145,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 135 | [whilesupplieslast](https://open.spotify.com/track/2qG5bIQzb1oDwXu4aa2W4Y) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [thishouseisnotahome](https://open.spotify.com/album/5luCmuvUUH79Vm21NB9de2) | 1:20 |
 | 136 | [MANGATA](https://open.spotify.com/track/7oIhEGTNmKKnfWBkGGbNjJ) | [KIETH MONTANA](https://open.spotify.com/artist/1NNE8Lje4IbJY5MK0t4ys7) | [MANGATA](https://open.spotify.com/album/5yHBECuJ9TSDkLnzsMsDeY) | 1:55 |
 | 137 | [North Star](https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY) | [Mackned](https://open.spotify.com/artist/68VUmnZEzmzZdd1zPtnbZZ) | [God Mom](https://open.spotify.com/album/7gBvEFzk4d13BOayesrAuB) | 2:03 |
-| 138 | [Kids Are Growing Up \(Part 1\)](https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Kids Are Growing Up \(Part 1\)](https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV) | 2:01 |
+| 138 | [KIDS ARE GROWING UP \(PART 1\)](https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [KIDS ARE GROWING UP \(PART 1\)](https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV) | 2:01 |
 
-Snapshot ID: `MCxlMTVmZDQ1NzE1ZjYwZDZhYWViY2M3MjhiNDhlNzc1YWJhODEwOTA4`
+Snapshot ID: `MCxlNDQyYmE2NjBjMTU4ZjdhNDQwZDIzNmU3ZGE5NGQxOGI3Y2UwMmIx`

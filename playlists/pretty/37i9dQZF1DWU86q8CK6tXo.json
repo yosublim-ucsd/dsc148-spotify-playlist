@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover:  <a href=\u201cspotify:artist:5GGJosGMs08YEmKTZJe1fL\u201d>Suki Waterhouse</a> ",
-  "num_followers": 43774,
+  "num_followers": 43786,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjJiNzVjZDY2NzIzNGE1MmM1ZjczNzgxOWI4ZWZjYmU0Zjc1OTlj",
+  "snapshot_id": "MCwzOTk0MjU1YjEzNzcxODY5YThlNmU3Zjc5YjA2MjNhYWVkN2RjNWY3",
   "tracks": [
     {
       "added_at": "2023-10-17 04:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-10-17 04:00:00",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 154516,
-      "name": "love is embarrassing",
-      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
-    },
-    {
-      "added_at": "2023-10-17 04:00:00",
-      "album": {
         "name": "GTA.mp3",
         "url": "https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 185411,
       "name": "NO PARE - REMIX",
       "url": "https://open.spotify.com/track/64eezAxFI6wjCPcshao8Pe"
+    },
+    {
+      "added_at": "2023-10-17 04:00:00",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 154516,
+      "name": "love is embarrassing",
+      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
     },
     {
       "added_at": "2023-10-17 04:00:00",

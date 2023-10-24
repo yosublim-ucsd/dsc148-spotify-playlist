@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Guest curated by: <a href=\"spotify:artist:4akybxRTGHJZ1DXjLhJ1qu\">Kirk Franklin</a>",
-  "num_followers": 627364,
+  "num_followers": 627436,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGUyZWE5ZWI3ZDYxNDI1ZmQ1OTU2MDY4MjFkMzdmNGUyMjcyYWQw",
+  "snapshot_id": "MCxmZTRkODU3NmRiMzliM2Y4NjRlMzdhODYxOTBjMTVkZDdjZjNhMmEw",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -254,11 +254,19 @@
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 272348,
-      "name": "Bless Me",
-      "url": "https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE"
+      "duration_ms": 565833,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -346,19 +354,11 @@
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 565833,
-      "name": "Kingdom",
-      "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
+      "duration_ms": 272348,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -391,26 +391,6 @@
       "duration_ms": 384093,
       "name": "In Jesus Name",
       "url": "https://open.spotify.com/track/08MelkdJqbh68USUjAfr2T"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Any Attack",
-        "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 113051,
-      "name": "Any Attack",
-      "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -451,6 +431,42 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Worship Soul",
+        "url": "https://open.spotify.com/album/5jCHlVKrD2YVFmwUNMcV4E"
+      },
+      "artists": [
+        {
+          "name": "Anita Wilson",
+          "url": "https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS"
+        }
+      ],
+      "duration_ms": 376372,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/7kTI1q9gPBPY4YNbTGKgLj"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Any Attack",
+        "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "duration_ms": 113051,
+      "name": "Any Attack",
+      "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "My Truth",
         "url": "https://open.spotify.com/album/0JjHp7nS2lKkwalcUyrWFn"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 302102,
       "name": "Able",
       "url": "https://open.spotify.com/track/736A53Kw337Z5zrJhH24jP"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Worship Soul",
-        "url": "https://open.spotify.com/album/5jCHlVKrD2YVFmwUNMcV4E"
-      },
-      "artists": [
-        {
-          "name": "Anita Wilson",
-          "url": "https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS"
-        }
-      ],
-      "duration_ms": 376372,
-      "name": "Speechless",
-      "url": "https://open.spotify.com/track/7kTI1q9gPBPY4YNbTGKgLj"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Thank You For It All",
+        "url": "https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 264430,
+      "name": "Thank You For It All",
+      "url": "https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Watch The Sun (Deluxe)",
         "url": "https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 271807,
       "name": "The Better Benediction (pt.2) (feat. Lisa Knowles-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Thank You For It All",
-        "url": "https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 264430,
-      "name": "Thank You For It All",
-      "url": "https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Work It Out (Live)",
-        "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 320955,
-      "name": "Work It Out - Live",
-      "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Imprint (Live in Memphis)",
         "url": "https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk"
       },
@@ -959,6 +943,62 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
+        "url": "https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
+      "url": "https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "I Need You (Live)",
+        "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 323877,
+      "name": "I Need You (Live)",
+      "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Work It Out (Live)",
+        "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 320955,
+      "name": "Work It Out - Live",
+      "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Gospel According To PJ",
         "url": "https://open.spotify.com/album/03sl2epNRPGXu64WL36RsO"
       },
@@ -999,46 +1039,6 @@
       "duration_ms": 292789,
       "name": "Well Done",
       "url": "https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
-        "url": "https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
-      "url": "https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "I Need You (Live)",
-        "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 323877,
-      "name": "I Need You (Live)",
-      "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Dear Future Me",
-        "url": "https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt"
-      },
-      "artists": [
-        {
-          "name": "James Fortune",
-          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
-        }
-      ],
-      "duration_ms": 276423,
-      "name": "I Forgive Me",
-      "url": "https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "I Got Out",
         "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
       },
@@ -1195,22 +1179,6 @@
       "duration_ms": 297653,
       "name": "I Got Out",
       "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Intercession (Live)",
-        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 164480,
-      "name": "Hallelujah (You Get The Glory) - Live",
-      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1231,6 +1199,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Dear Future Me",
+        "url": "https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt"
+      },
+      "artists": [
+        {
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        }
+      ],
+      "duration_ms": 276423,
+      "name": "I Forgive Me",
+      "url": "https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Imprint (Live in Memphis)",
         "url": "https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 570594,
       "name": "You've Been Good To Me - Live",
       "url": "https://open.spotify.com/track/38jmSzizGEhwJL7uZ7S6JU"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Intercession (Live)",
+        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 164480,
+      "name": "Hallelujah (You Get The Glory) - Live",
+      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 185382,
-      "name": "Blak Sheep Freestyle",
-      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII",
         "url": "https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo"
       },
@@ -1339,22 +1323,6 @@
       "duration_ms": 507893,
       "name": "Beyond The Veil - Live",
       "url": "https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 481167,
-      "name": "You\u2019re Gonna Get The Glory - Live",
-      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1375,6 +1343,62 @@
       "duration_ms": 228340,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/4qduSkpBMLjxLseOLN28kv"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 185382,
+      "name": "Blak Sheep Freestyle",
+      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 481167,
+      "name": "You\u2019re Gonna Get The Glory - Live",
+      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Welcome to Faith City",
+        "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman Jr.",
+          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+        },
+        {
+          "name": "Faith City Music",
+          "url": "https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ"
+        },
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+        }
+      ],
+      "duration_ms": 285106,
+      "name": "Jesus (feat. Le'andria Johnson)",
+      "url": "https://open.spotify.com/track/3Fw9sLyTKHYpRISAWCgvY1"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1411,30 +1435,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Welcome to Faith City",
-        "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman Jr.",
-          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
-        },
-        {
-          "name": "Faith City Music",
-          "url": "https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ"
-        },
-        {
-          "name": "Le'Andria Johnson",
-          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
-        }
-      ],
-      "duration_ms": 285106,
-      "name": "Jesus (feat. Le'andria Johnson)",
-      "url": "https://open.spotify.com/track/3Fw9sLyTKHYpRISAWCgvY1"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Better Days (Live)",
         "url": "https://open.spotify.com/album/57XaIqrhGfRe5MYGLxa27k"
       },
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "No Reason To Fear - Single",
+        "url": "https://open.spotify.com/album/4fQ7qwZJQ3hYKsvhpIEh6F"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 273356,
+      "name": "No Reason To Fear (Radio Edit)",
+      "url": "https://open.spotify.com/track/2IMipb7dosMwZbeGbom49K"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Don't Judge Me (feat. Missy Elliott)",
         "url": "https://open.spotify.com/album/4WGsdy6L3dmsgywrFOJomw"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 204000,
       "name": "Don't Judge Me (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "No Reason To Fear - Single",
-        "url": "https://open.spotify.com/album/4fQ7qwZJQ3hYKsvhpIEh6F"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 273356,
-      "name": "No Reason To Fear (Radio Edit)",
-      "url": "https://open.spotify.com/track/2IMipb7dosMwZbeGbom49K"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1539,26 +1539,6 @@
       "duration_ms": 237257,
       "name": "Touch From You",
       "url": "https://open.spotify.com/track/2IHroOC3rcvR8fx0SN8Xva"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Something Has To Break (feat. Karen Clark Sheard)",
-        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 347752,
-      "name": "Something Has To Break (feat. Karen Clark Sheard)",
-      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1655,6 +1635,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Something Has To Break (feat. Karen Clark Sheard)",
+        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "duration_ms": 347752,
+      "name": "Something Has To Break (feat. Karen Clark Sheard)",
+      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Love & Other Dreams",
         "url": "https://open.spotify.com/album/2xyLc5f4AmYBziV3EG8S75"
       },
@@ -1667,6 +1667,26 @@
       "duration_ms": 290213,
       "name": "Sunday Morning (Thinkin \u2018Bout You)",
       "url": "https://open.spotify.com/track/6MSy5Ecfb8mI5lwE3h1Pwh"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Good & Loved (feat. DOE) [Stellars 2020]",
+        "url": "https://open.spotify.com/album/7B5wHZpsUCI2Y7uQ3fWQVz"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 232232,
+      "name": "Good & Loved (feat. DOE) - Stellars 2020",
+      "url": "https://open.spotify.com/track/2wxUXlPQSloOq0SGetICXD"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1691,26 +1711,6 @@
       "duration_ms": 747716,
       "name": "Not Holding Back",
       "url": "https://open.spotify.com/track/3648FGKvPaB9jJ6SszwiXD"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Good & Loved (feat. DOE) [Stellars 2020]",
-        "url": "https://open.spotify.com/album/7B5wHZpsUCI2Y7uQ3fWQVz"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 232232,
-      "name": "Good & Loved (feat. DOE) - Stellars 2020",
-      "url": "https://open.spotify.com/track/2wxUXlPQSloOq0SGetICXD"
     },
     {
       "added_at": "2023-10-06 04:00:00",

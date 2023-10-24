@@ -1,12 +1,12 @@
 {
   "description": "All the vibes. All the feels. \ud83e\udee0 \ud83d\ude44 ",
-  "num_followers": 2694750,
+  "num_followers": 2695179,
   "original_name": "All The Feels",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjM2YWYxMmJmMmIzOWNmOWYwNjc4ZGQyMDcxZmVmNDIyYTQwZjNm",
+  "snapshot_id": "MCxiNmE3YzBlZGU4MGM3M2Y2YWMzYjdmZGM3ZjcyYjRkYzBmZDRjOGI4",
   "tracks": [
     {
       "added_at": "2023-10-18 23:26:43",
@@ -187,26 +187,6 @@
     {
       "added_at": "2023-10-18 23:26:43",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 209831,
-      "name": "Best Part (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
-    },
-    {
-      "added_at": "2023-10-18 23:26:43",
-      "album": {
         "name": "T R A P S O U L",
         "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 302346,
       "name": "Novacane",
       "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
+    },
+    {
+      "added_at": "2023-10-18 23:26:43",
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 209831,
+      "name": "Best Part (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
     },
     {
       "added_at": "2023-10-18 23:26:43",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-10-18 23:26:43",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+      "duration_ms": 249320,
+      "name": "Right My Wrongs",
+      "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
     },
     {
       "added_at": "2023-10-18 23:26:43",
@@ -355,22 +355,18 @@
     {
       "added_at": "2023-10-18 23:26:43",
       "album": {
-        "name": "I Used To Know Her",
-        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 252746,
-      "name": "Could've Been (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
       "added_at": "2023-10-18 23:26:43",
@@ -395,18 +391,22 @@
     {
       "added_at": "2023-10-18 23:26:43",
       "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+        "name": "I Used To Know Her",
+        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
       },
       "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
         {
           "name": "Bryson Tiller",
           "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 249320,
-      "name": "Right My Wrongs",
-      "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
+      "duration_ms": 252746,
+      "name": "Could've Been (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
     },
     {
       "added_at": "2023-10-18 23:26:43",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-10-18 23:26:43",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+        "name": "Ella Mai",
+        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 240653,
-      "name": "Feel No Ways",
-      "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
+      "duration_ms": 213993,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
     },
     {
       "added_at": "2023-10-18 23:26:43",
@@ -511,22 +511,6 @@
       "duration_ms": 237506,
       "name": "Losin Control",
       "url": "https://open.spotify.com/track/4cxMGhkinTocPSVVKWIw0d"
-    },
-    {
-      "added_at": "2023-10-18 23:26:43",
-      "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
     },
     {
       "added_at": "2023-10-18 23:26:43",
@@ -563,6 +547,22 @@
       "duration_ms": 240341,
       "name": "Pretty Little Fears (feat. J. Cole)",
       "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
+    },
+    {
+      "added_at": "2023-10-18 23:26:43",
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "Feel No Ways",
+      "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
     },
     {
       "added_at": "2023-10-18 23:26:43",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-10-18 23:26:43",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "While We're Young",
-      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
-    },
-    {
-      "added_at": "2023-10-18 23:26:43",
-      "album": {
         "name": "Kauai",
         "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 252013,
       "name": "Sober",
       "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
+    },
+    {
+      "added_at": "2023-10-18 23:26:43",
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
     },
     {
       "added_at": "2023-10-18 23:26:43",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-10-18 23:26:43",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "True Colors",
-      "url": "https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ"
-    },
-    {
-      "added_at": "2023-10-18 23:26:43",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 207546,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
+    },
+    {
+      "added_at": "2023-10-18 23:26:43",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ"
     },
     {
       "added_at": "2023-10-18 23:26:43",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-18 23:26:43",
       "album": {
-        "name": "Give Or Take",
-        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 182439,
-      "name": "Lie Again",
-      "url": "https://open.spotify.com/track/2OTRqsDes7OYRRwbF2JXsa"
-    },
-    {
-      "added_at": "2023-10-18 23:26:43",
-      "album": {
         "name": "Good & Plenty",
         "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
+    },
+    {
+      "added_at": "2023-10-18 23:26:43",
+      "album": {
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 182439,
+      "name": "Lie Again",
+      "url": "https://open.spotify.com/track/2OTRqsDes7OYRRwbF2JXsa"
     },
     {
       "added_at": "2023-10-18 23:26:43",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-10-18 23:26:43",
       "album": {
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 174946,
+      "name": "You Can't Save Me",
+      "url": "https://open.spotify.com/track/5LKzqs734Xs528hqK8bGS1"
+    },
+    {
+      "added_at": "2023-10-18 23:26:43",
+      "album": {
         "name": "Get You - Single",
         "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 277297,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX"
-    },
-    {
-      "added_at": "2023-10-18 23:26:43",
-      "album": {
-        "name": "Chasing Summer",
-        "url": "https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "You Can't Save Me",
-      "url": "https://open.spotify.com/track/5LKzqs734Xs528hqK8bGS1"
     },
     {
       "added_at": "2023-10-18 23:26:43",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-10-18 23:26:43",
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "4th Baby Mama",
-      "url": "https://open.spotify.com/track/3WSBP6JEf4Y2aKD2swQ8AG"
-    },
-    {
-      "added_at": "2023-10-18 23:26:43",
-      "album": {
         "name": "This Way (From SUPERFLY - Original Soundtrack)",
         "url": "https://open.spotify.com/album/3bfmiUsXdErmCz71FjZqnW"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 211204,
       "name": "This Way - From SUPERFLY - Original Soundtrack",
       "url": "https://open.spotify.com/track/6fbYL76UWbHdYq4B91TPQi"
+    },
+    {
+      "added_at": "2023-10-18 23:26:43",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "4th Baby Mama",
+      "url": "https://open.spotify.com/track/3WSBP6JEf4Y2aKD2swQ8AG"
     },
     {
       "added_at": "2023-10-18 23:26:43",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2023-10-18 23:26:43",
       "album": {
-        "name": "You Thought (feat. Janelle Mon\u00e1e)",
-        "url": "https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6"
-      },
-      "artists": [
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        },
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 181453,
-      "name": "You Thought (feat. Janelle Mon\u00e1e)",
-      "url": "https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd"
-    },
-    {
-      "added_at": "2023-10-18 23:26:43",
-      "album": {
         "name": "More Than Enough",
         "url": "https://open.spotify.com/album/0xfm90Zo2EQ9rSECde8uOq"
       },
@@ -1487,18 +1467,22 @@
     {
       "added_at": "2023-10-18 23:26:43",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+        "name": "You Thought (feat. Janelle Mon\u00e1e)",
+        "url": "https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 206728,
-      "name": "MUTUAL FRIEND",
-      "url": "https://open.spotify.com/track/6PFyd6Gmp2LZHI1IpkZGgy"
+      "duration_ms": 181453,
+      "name": "You Thought (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd"
     },
     {
       "added_at": "2023-10-18 23:26:43",
@@ -1531,6 +1515,22 @@
       "duration_ms": 284040,
       "name": "Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)",
       "url": "https://open.spotify.com/track/4nw0S8MtvcLSpXCS9M8ciL"
+    },
+    {
+      "added_at": "2023-10-18 23:26:43",
+      "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 206728,
+      "name": "MUTUAL FRIEND",
+      "url": "https://open.spotify.com/track/6PFyd6Gmp2LZHI1IpkZGgy"
     },
     {
       "added_at": "2023-10-18 23:26:43",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-10-18 23:26:43",
       "album": {
-        "name": "Letter To Ur Ex",
-        "url": "https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 134626,
-      "name": "Letter To Ur Ex",
-      "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
-    },
-    {
-      "added_at": "2023-10-18 23:26:43",
-      "album": {
         "name": "Working On My Karma",
         "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 219729,
       "name": "What's Up (feat. Jagged Edge)",
       "url": "https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA"
+    },
+    {
+      "added_at": "2023-10-18 23:26:43",
+      "album": {
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 134626,
+      "name": "Letter To Ur Ex",
+      "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
     },
     {
       "added_at": "2023-10-18 23:26:43",
@@ -1759,18 +1759,22 @@
     {
       "added_at": "2023-10-18 23:26:43",
       "album": {
-        "name": "ONCE UPON A TIME",
-        "url": "https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu"
+        "name": "IRL (Deluxe)",
+        "url": "https://open.spotify.com/album/76G7P45A56sBfsNXj2yZyD"
       },
       "artists": [
         {
-          "name": "CHIKA",
-          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
         }
       ],
-      "duration_ms": 130882,
-      "name": "CINDERELLA, Pt. 2",
-      "url": "https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby"
+      "duration_ms": 202009,
+      "name": "Cheat (feat. JoJo)",
+      "url": "https://open.spotify.com/track/2APWeDZZLBBwAmVVECtgMr"
     }
   ],
   "unique_name": "All The Feels",

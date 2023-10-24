@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 169878,
+  "num_followers": 170068,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjMzMDg1ZGRhNzYwNmEwZDdmZDZkYzkxYWE0NGQzODc4NTRjOTVm",
+  "snapshot_id": "MCxhZTU0Nzk4YTUwYjBiMGQwN2MzNzFiOGVmNDAxMGE5MGQ5YTQ2YTQy",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -191,26 +191,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Marechi\u00e0",
-        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "C\u00e9lia Kameni",
-          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
-        }
-      ],
-      "duration_ms": 264929,
-      "name": "Marechi\u00e0",
-      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/1YluRFeZzVHA5tFvJtGKys"
       },
@@ -243,6 +223,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "The Singles 83/87",
+        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
+      },
+      "artists": [
+        {
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Vamos a la Playa",
+      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "It's a War (Purple Disco Machine & Lorenz Rhode Remix)",
         "url": "https://open.spotify.com/album/5qbgEZzMrc15CmURgLIAWZ"
       },
@@ -267,18 +263,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "The Singles 83/87",
-        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
+        "name": "Marechi\u00e0",
+        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
       "artists": [
         {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "C\u00e9lia Kameni",
+          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
         }
       ],
-      "duration_ms": 217327,
-      "name": "Vamos a la Playa",
-      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
+      "duration_ms": 264929,
+      "name": "Marechi\u00e0",
+      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "3 - Supernature",
-        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        }
-      ],
-      "duration_ms": 462000,
-      "name": "Give Me Love",
-      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Nuova Napoli",
         "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 263508,
       "name": "Disco Sole",
       "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        }
+      ],
+      "duration_ms": 462000,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+      },
+      "artists": [
+        {
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "One for You, One for Me",
+      "url": "https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Greatest Hits &amp; Remixes",
         "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz"
-      },
-      "artists": [
-        {
-          "name": "Plustwo",
-          "url": "https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK"
-        }
-      ],
-      "duration_ms": 231691,
-      "name": "Melody (1983 Radio Version)",
-      "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Barbara e altri Carella",
         "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
       },
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz"
+      },
+      "artists": [
+        {
+          "name": "Plustwo",
+          "url": "https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK"
+        }
+      ],
+      "duration_ms": 231691,
+      "name": "Melody (1983 Radio Version)",
+      "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Radio Koko",
         "url": "https://open.spotify.com/album/669LnrL7wSJOhiwQxRM8gT"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 261330,
       "name": "Pantal\u00f3n",
       "url": "https://open.spotify.com/track/0eOUXa1w5m7roVWO0nj1ZF"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
-      },
-      "artists": [
-        {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "One for You, One for Me",
-      "url": "https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "The Night (Original Remastered Version 2020)",
-        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
-      },
-      "artists": [
-        {
-          "name": "Valerie Dore",
-          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
-        }
-      ],
-      "duration_ms": 376621,
-      "name": "The Night - Original Remastered Version 2020",
-      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Baby I Love You (Original) - Single",
         "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 503920,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "The Night (Original Remastered Version 2020)",
+        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
+      },
+      "artists": [
+        {
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
+        }
+      ],
+      "duration_ms": 376621,
+      "name": "The Night - Original Remastered Version 2020",
+      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Under the Ice - Single",
-        "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
-      },
-      "artists": [
-        {
-          "name": "Topo",
-          "url": "https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3"
-        },
-        {
-          "name": "Roby",
-          "url": "https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2"
-        }
-      ],
-      "duration_ms": 432404,
-      "name": "Under the Ice - Original 12 Inch Version",
-      "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "My Magic Number",
         "url": "https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 317120,
       "name": "My Magic Number - Club Domani Remix",
       "url": "https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Under the Ice - Single",
+        "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
+      },
+      "artists": [
+        {
+          "name": "Topo",
+          "url": "https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3"
+        },
+        {
+          "name": "Roby",
+          "url": "https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2"
+        }
+      ],
+      "duration_ms": 432404,
+      "name": "Under the Ice - Original 12 Inch Version",
+      "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
     }
   ],
   "unique_name": "Italo Disco",

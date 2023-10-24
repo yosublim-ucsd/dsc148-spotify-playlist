@@ -12968,7 +12968,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 204600,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
@@ -17038,7 +17038,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 238253,
       "name": "Private Landing (feat. Justin Bieber & Future)",
       "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
@@ -21419,6 +21419,24 @@
     },
     {
       "album": {
+        "name": "Based On A True Story...",
+        "url": "https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220750,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"
+    },
+    {
+      "album": {
         "name": "Those Eyes",
         "url": "https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8"
       },
@@ -21430,7 +21448,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
@@ -21798,7 +21816,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 230733,
-      "name": "True Love",
+      "name": "True Love (feat. Lily Allen)",
       "url": "https://open.spotify.com/track/1QNqrsNQ1JVLEwncov3lEY"
     },
     {

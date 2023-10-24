@@ -4,7 +4,7 @@
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-255 songs - 16 hr 14 min
+256 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [I Shouldn't Go Anywhere](https://open.spotify.com/track/0nZitUFjpGHGpsi317SJFM) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [It's A Beautiful Day And I Love You](https://open.spotify.com/album/1rdk7CWbwp2iRukflNGCZL) | 3:43 | 2021-12-09 | 2022-06-20 |
 | [I Wanna Make Promises \(That I Can't Keep\)](https://open.spotify.com/track/35XLYNIZL3ScKXvHQXnojt) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [I Wanna Make Promises \(That I Can't Keep\)](https://open.spotify.com/album/6kMp5OA2YIftfMXmfztVrx) | 4:51 | 2021-12-09 | 2022-07-29 |
 | [I'm Not There](https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [I'm Not There](https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy) | 4:03 | 2023-04-28 | 2023-06-16 |
-| [If I Was](https://open.spotify.com/track/5n6BdIWBSpkfjZ29JP7WzK) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Ever Since I Lost My Mind](https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A) | 4:26 | 2021-12-09 |  |
+| [If I Was](https://open.spotify.com/track/5n6BdIWBSpkfjZ29JP7WzK) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Ever Since I Lost My Mind](https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A) | 4:26 | 2021-12-09 | 2023-10-24 |
 | [In My Room](https://open.spotify.com/track/5E8QUJdklLph2tK9qb4vDx) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Busted Jukebox Volume 3](https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s) | 2:45 | 2021-12-09 | 2023-04-14 |
 | [Into The Mystery](https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF) | 3:54 | 2021-12-09 |  |
 | [It Ain’t Easy](https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [What Is There](https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz) | 3:20 | 2021-12-09 |  |
@@ -148,6 +148,7 @@
 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 | 2021-12-09 |  |
 | [Mirror and a Kitchen Sink](https://open.spotify.com/track/46AZ644QnBYtdV4LVWXVaE) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [This Far South](https://open.spotify.com/album/078Nefie7KQPI2LW8gIHDP) | 2:35 | 2023-07-28 |  |
 | [Mirror and a Kitchen Sink](https://open.spotify.com/track/6lOcgI6qDE6vQNo6tVJc2A) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [Mirror and a Kitchen Sink](https://open.spotify.com/album/1CqK4lh4GQVPist2p7xXUy) | 2:35 | 2023-04-28 | 2023-09-17 |
+| [Misnomer](https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC) | 3:43 | 2023-10-20 |  |
 | [Misnomer](https://open.spotify.com/track/3awBLJoDSXa3TjQeDNhGlq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa) | 3:43 | 2021-12-09 | 2023-10-23 |
 | [Mr\. Rodriguez](https://open.spotify.com/track/1EwOzBNrUVW4Llnnc5YxXI) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/3l12R0s3By5uisnybE2Cbk) | 3:43 | 2021-12-09 | 2022-07-29 |
 | [Mr\. Rodriguez](https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:43 | 2022-02-17 |  |

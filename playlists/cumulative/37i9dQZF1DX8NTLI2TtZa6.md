@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-443 songs - 19 hr 0 min
+447 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Flowers](https://open.spotify.com/track/0udVYSGaMFWLUafXmTNbKI) | [Gunnel Boek](https://open.spotify.com/artist/0oyrIdaEdzDBmtTVORN3xl) | [Flowers](https://open.spotify.com/album/7jZ6NHedqFMgyDYY6tYAR1) | 1:36 | 2023-01-26 | 2023-07-19 |
 | [Fluctuation](https://open.spotify.com/track/5lCas1cqz70cDzNTOrjD8K) | [Vittoriano di Grazia](https://open.spotify.com/artist/68dOCHt1KCAYTYsiFNxRsI) | [Fluctuation](https://open.spotify.com/album/2EDTrhwBnKEjH9enTvBBzR) | 2:05 | 2022-04-14 | 2023-10-05 |
 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 | 2022-03-01 | 2023-07-19 |
+| [Flying](https://open.spotify.com/track/6onLB9QbkLpR9hZimB0ff5) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [Flying](https://open.spotify.com/album/16pGvEINbTOP3Tt064XiCp) | 2:25 | 2023-10-23 |  |
 | [Flying](https://open.spotify.com/track/77EW76b4eVgOQfwviDehVH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Flying](https://open.spotify.com/album/0mgGkc6kmIhNfPa8skiBEt) | 1:58 | 2023-06-20 | 2023-08-22 |
 | [Flying High](https://open.spotify.com/track/6AG03RXCk6TqJwg5foivCU) | [Edu Lahmar](https://open.spotify.com/artist/2cUQRSrBnFd4OKJKhlVVDc) | [Treetops](https://open.spotify.com/album/6ZPHDl66MQRlMwbkaQq8MX) | 2:01 | 2021-12-07 |  |
 | [Flyt](https://open.spotify.com/track/55gJkKxdKrZqDG6BhzsKc9) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Flyt](https://open.spotify.com/album/744jiUzIyyAhSQjxoPcQWT) | 2:18 | 2022-10-14 | 2023-08-08 |
@@ -150,6 +151,7 @@
 | [Heart Open](https://open.spotify.com/track/0t9I0R052AW7iwwpwvn8Lv) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Heart Open & Oak Bluffs](https://open.spotify.com/album/0WUh561iRu6szlrM5pB2eW) | 2:16 | 2022-11-18 |  |
 | [Her](https://open.spotify.com/track/1h5J39FupEgSwZn43lSqgp) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Dreamer](https://open.spotify.com/album/3slCbiuCaDhabpOf7PWrHN) | 2:34 | 2022-07-19 | 2023-10-05 |
 | [Her](https://open.spotify.com/track/7z9zhEtAOSL3DeQgORiFnH) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Her](https://open.spotify.com/album/6jpSamLHeNpMZX6IUeWTr5) | 2:34 | 2021-12-07 | 2022-07-29 |
+| [Herald](https://open.spotify.com/track/5DmCoazpQN9id60LYIFqCj) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Herald](https://open.spotify.com/album/5l1LblT9yXaajjWm80L68J) | 2:43 | 2023-10-23 |  |
 | [Heugstatt](https://open.spotify.com/track/4xPcKCcKH9ioUiOxLloJOa) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Old Friend](https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9) | 3:05 | 2023-02-14 |  |
 | [Hidcote Garden](https://open.spotify.com/track/0sh3udsRO3AesM270ctQZR) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Bathtub Chill](https://open.spotify.com/album/7syBT7D7kHTJEvzterZLVJ) | 2:42 | 2022-10-14 | 2022-11-13 |
 | [Hidcote Garden](https://open.spotify.com/track/0thmCXqsXhImtEUtGwy14R) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Moments](https://open.spotify.com/album/2fYza5rMfZ9tAG7NOcfNJq) | 2:42 | 2021-12-07 | 2022-07-29 |
@@ -400,6 +402,7 @@
 | [The Right Course](https://open.spotify.com/track/6vjhLsJbpfclLNSCKHjGTW) | [Jone Lange](https://open.spotify.com/artist/4bG81VTcDhZQpPzrHyWksb) | [The Right Course](https://open.spotify.com/album/1Oa9FqJMkzggnUsHyywQ7Q) | 1:59 | 2023-04-18 | 2023-08-22 |
 | [The Theme of Life](https://open.spotify.com/track/3uAeBJ1Mmdo58cJ8XgjkkC) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Theme of Life](https://open.spotify.com/album/31QPie97sYOMWtwpzCYNUj) | 3:25 | 2023-04-18 |  |
 | [The Voyager](https://open.spotify.com/track/6u8ftnh4bKbKvWNu8ozes8) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [The Voyager](https://open.spotify.com/album/6nBGhLiVCCHBbJH1j8zzYK) | 2:22 | 2023-09-11 |  |
+| [The wind](https://open.spotify.com/track/7FKB0MIXYg8Umwa1UWt2ur) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [The wind](https://open.spotify.com/album/4veQnMsuik4JKs5msFYX94) | 2:06 | 2023-10-23 |  |
 | [The Woods](https://open.spotify.com/track/6BwJD1phxzTu9Fg3U87whB) | [Andre Aubertin](https://open.spotify.com/artist/2LfIzuLWCzDYMYUeRwBtMu) | [The Woods](https://open.spotify.com/album/0tZIHoDNVMl1HiB2nbuyci) | 2:03 | 2022-06-07 | 2023-10-05 |
 | [Timid Scripts](https://open.spotify.com/track/3zahvGDaE79KRUr447Jrzw) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Timid Scripts](https://open.spotify.com/album/0kmd10LA2U5C6jnXE8WcBn) | 2:24 | 2022-10-14 |  |
 | [Toivoa](https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Toivoa](https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug) | 2:01 | 2022-12-22 |  |
@@ -413,6 +416,7 @@
 | [Twin Fifteens](https://open.spotify.com/track/0KLG1xUVWBQHX6JVPW7IoA) | [Maren Andrews](https://open.spotify.com/artist/6H0jAP8RgKHaD3Bm0JfyTQ) | [Shadow Swing](https://open.spotify.com/album/6Ajh4HlbjFL9t1xpQZ8B5K) | 2:47 | 2021-12-07 | 2023-01-27 |
 | [two wheels north](https://open.spotify.com/track/3lHhDgHyTDL6A9WEss4GY4) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP) | [two wheels north](https://open.spotify.com/album/0jqVQmWlVeyCnRu3zQPxKs) | 2:50 | 2021-12-07 | 2022-05-21 |
 | [Unconditional](https://open.spotify.com/track/7eriWSdbkuFHBM6qiHIEq8) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Unconditional](https://open.spotify.com/album/1uy7xtQ94KNqMtQnr2KNCO) | 2:24 | 2022-03-01 | 2022-04-02 |
+| [Underwater](https://open.spotify.com/track/0cUVh5ofEVsK3IiGS4Flii) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Underwater](https://open.spotify.com/album/3OfYsWc5jgdwmYZuQwzn6E) | 2:02 | 2023-10-23 |  |
 | [Une Minute De Plus](https://open.spotify.com/track/4dC7pbM5hJxRvU7BJ4hVWC) | [Aria Abriana](https://open.spotify.com/artist/3HZqJmldxpSFVn5nFMpStc) | [Une Minute De Plus](https://open.spotify.com/album/2vcRB8iRfo9Ri9uHEQdLkK) | 2:26 | 2021-12-07 |  |
 | [Unexpected Journey](https://open.spotify.com/track/6HgXeN1ZnCxTJshHSK73z9) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Unexpected Journey](https://open.spotify.com/album/7G4UfvLMGm1QheYzzWrupS) | 2:42 | 2023-09-26 |  |
 | [Unfinished Story](https://open.spotify.com/track/0pdWIu5FMVfPECxtZIV1Py) | [Dexter Mills](https://open.spotify.com/artist/3ChW1Y1eF6w0fq0yvMQnS6) | [Unfinished Story](https://open.spotify.com/album/6L3cz0Uc70mGVYDoEcmCLc) | 2:17 | 2021-12-07 | 2023-05-10 |

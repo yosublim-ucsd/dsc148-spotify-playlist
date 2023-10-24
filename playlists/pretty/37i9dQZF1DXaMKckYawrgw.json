@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ska 100% Mexicano, c\u00edrculos de paz y baile! Out Of Control Army en portada. ",
-  "num_followers": 9254,
+  "num_followers": 9253,
   "original_name": "MexSka ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWVhMzhiMDg5YzgzZTQ5N2RmYTZkMzU2Y2RiZDU4ZjY0ZjliMGM2",
+  "snapshot_id": "MCw2ZWE1MmFkMGI3NTU4NDdiMzJlNmQ5YzZlYmIzZDM4ZmVlMDg2M2Q5",
   "tracks": [
     {
       "added_at": "2023-10-13 00:47:14",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Vendedora de Caricias",
+      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
         "name": "96 - 05",
         "url": "https://open.spotify.com/album/0pwnHJD1my6WUATRg69Eag"
       },
@@ -215,34 +231,18 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+        "name": "Libres Y Locos",
+        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Vendedora de Caricias",
-      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
+      "duration_ms": 222826,
+      "name": "Tonta Canci\u00f3n",
+      "url": "https://open.spotify.com/track/4pDzQqqrKqeB6XewwVo2d3"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "Libres Y Locos",
-        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
       "artists": [
         {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 222826,
-      "name": "Tonta Canci\u00f3n",
-      "url": "https://open.spotify.com/track/4pDzQqqrKqeB6XewwVo2d3"
+      "duration_ms": 241626,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "Frecuencia Rebelde",
-        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
       },
       "artists": [
         {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 196093,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
+      "duration_ms": 213720,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -327,34 +327,18 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+        "name": "Frecuencia Rebelde",
+        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
         }
       ],
-      "duration_ms": 213720,
-      "name": "La Carencia",
-      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
-        "name": "Salon Victoria",
-        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 183480,
-      "name": "Mi Vida es un Tango",
-      "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
+      "duration_ms": 196093,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -371,6 +355,22 @@
       "duration_ms": 225826,
       "name": "Y Que",
       "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
+        "name": "Salon Victoria",
+        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "duration_ms": 183480,
+      "name": "Mi Vida es un Tango",
+      "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -431,38 +431,6 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "Circular Colectivo",
-        "url": "https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 245480,
-      "name": "Quinto Patio Ska",
-      "url": "https://open.spotify.com/track/1Zs96OM6QHyb00sVAFOZ2g"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -475,6 +443,22 @@
       "duration_ms": 180826,
       "name": "Ac\u00e1bame de Matar",
       "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
+        "name": "Circular Colectivo",
+        "url": "https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 245480,
+      "name": "Quinto Patio Ska",
+      "url": "https://open.spotify.com/track/1Zs96OM6QHyb00sVAFOZ2g"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -515,6 +499,22 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -551,42 +551,6 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "Tres Patines",
-        "url": "https://open.spotify.com/album/1IfdViO2KIMROZJYhxsWlA"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        },
-        {
-          "name": "Skuela de Baile",
-          "url": "https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Tres Patines",
-      "url": "https://open.spotify.com/track/52Ocbi72eRBWUpE4gYK6PQ"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
         "name": "Infiernos",
         "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
       },
@@ -603,6 +567,26 @@
       "duration_ms": 274653,
       "name": "El \u00daltimo Ska",
       "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
+        "name": "Tres Patines",
+        "url": "https://open.spotify.com/album/1IfdViO2KIMROZJYhxsWlA"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        },
+        {
+          "name": "Skuela de Baile",
+          "url": "https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "Tres Patines",
+      "url": "https://open.spotify.com/track/52Ocbi72eRBWUpE4gYK6PQ"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -691,6 +675,22 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
         "name": "Crazy Life",
         "url": "https://open.spotify.com/album/3N5BvC9o2V2huzPmIxRoI4"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/47IVDbiDtwhwHd1kk4XlDk"
-      },
-      "artists": [
-        {
-          "name": "Royal Club",
-          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Cenizas en el Mar",
-      "url": "https://open.spotify.com/track/6W92iAWlEVfiKTr9zZYseg"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
         "name": "Sonora Skandalera",
         "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
       },
@@ -735,22 +719,6 @@
       "duration_ms": 254589,
       "name": "Algo De Suerte",
       "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
-        "name": "Ay! Ay! Amor!",
-        "url": "https://open.spotify.com/album/1ANHuEHlwPEf6d5X6suBkM"
-      },
-      "artists": [
-        {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
-        }
-      ],
-      "duration_ms": 165046,
-      "name": "Ay! Ay! Amor!",
-      "url": "https://open.spotify.com/track/08JLwvbfZmox8i1hIvjHPp"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -787,6 +755,38 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/47IVDbiDtwhwHd1kk4XlDk"
+      },
+      "artists": [
+        {
+          "name": "Royal Club",
+          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Cenizas en el Mar",
+      "url": "https://open.spotify.com/track/6W92iAWlEVfiKTr9zZYseg"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
+        "name": "Piel De Banqueta",
+        "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 179973,
+      "name": "Me Enamor\u00e9 En La Cola De Las Torillas",
+      "url": "https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
         "name": "Siempre Fingiste Amarme",
         "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
       },
@@ -807,34 +807,18 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "15 A\u00f1os de Fuerza, Coraz\u00f3n y Resistencia",
-        "url": "https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu"
+        "name": "Ay! Ay! Amor!",
+        "url": "https://open.spotify.com/album/1ANHuEHlwPEf6d5X6suBkM"
       },
       "artists": [
         {
-          "name": "Royal Club",
-          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
         }
       ],
-      "duration_ms": 209306,
-      "name": "No Hemos Muerto",
-      "url": "https://open.spotify.com/track/6r6qsNxpxO75px7lsH3VXn"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
-        "name": "Piel De Banqueta",
-        "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "Me Enamor\u00e9 En La Cola De Las Torillas",
-      "url": "https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63"
+      "duration_ms": 165046,
+      "name": "Ay! Ay! Amor!",
+      "url": "https://open.spotify.com/track/08JLwvbfZmox8i1hIvjHPp"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -895,22 +879,6 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "Armada Hasta los Dientes V 1.5",
-        "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
-      },
-      "artists": [
-        {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
-        }
-      ],
-      "duration_ms": 236840,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2mvbq4eTb7dJPY6yzC7qlL"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
         "name": "Invasion",
         "url": "https://open.spotify.com/album/778rPdFwvmW6CItfpQph1d"
       },
@@ -927,6 +895,38 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
+        "name": "Armada Hasta los Dientes V 1.5",
+        "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
+      },
+      "artists": [
+        {
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+        }
+      ],
+      "duration_ms": 236840,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2mvbq4eTb7dJPY6yzC7qlL"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
+        "name": "15 A\u00f1os de Fuerza, Coraz\u00f3n y Resistencia",
+        "url": "https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu"
+      },
+      "artists": [
+        {
+          "name": "Royal Club",
+          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "No Hemos Muerto",
+      "url": "https://open.spotify.com/track/6r6qsNxpxO75px7lsH3VXn"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
         "name": "Morbo's Club",
         "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 249026,
       "name": "Ruperta",
       "url": "https://open.spotify.com/track/5fFWruyNL7FZL1nLrkCTcM"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
+        "name": "Venga la Sentencia",
+        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -999,6 +1015,22 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
+        "name": "La Ciudad Es...Nuestra",
+        "url": "https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz"
+      },
+      "artists": [
+        {
+          "name": "Los Chickl\u00e9ts",
+          "url": "https://open.spotify.com/artist/0mWlTqjHA6WrVyQhHqC0Wp"
+        }
+      ],
+      "duration_ms": 60033,
+      "name": "Skarface",
+      "url": "https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
         "name": "Armada Hasta los Dientes V 1.5",
         "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
       },
@@ -1015,8 +1047,8 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "Venga la Sentencia",
-        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
+        "name": "La Rebeli\u00f3n",
+        "url": "https://open.spotify.com/album/5Iw7dSyJDgnSZGKYHl6gTL"
       },
       "artists": [
         {
@@ -1024,25 +1056,9 @@
           "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
         }
       ],
-      "duration_ms": 196640,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
-        "name": "La Ciudad Es...Nuestra",
-        "url": "https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz"
-      },
-      "artists": [
-        {
-          "name": "Los Chickl\u00e9ts",
-          "url": "https://open.spotify.com/artist/0mWlTqjHA6WrVyQhHqC0Wp"
-        }
-      ],
-      "duration_ms": 60033,
-      "name": "Skarface",
-      "url": "https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl"
+      "duration_ms": 271301,
+      "name": "Y la Recuerdo de Ayer",
+      "url": "https://open.spotify.com/track/30qRh0j4htHrsroySiDh57"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -1175,22 +1191,6 @@
       "duration_ms": 217508,
       "name": "Mi Chica Ideal",
       "url": "https://open.spotify.com/track/4VaIJ0IyODvob50CWAgYiX"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
-        "name": "La Rebeli\u00f3n",
-        "url": "https://open.spotify.com/album/5Iw7dSyJDgnSZGKYHl6gTL"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        }
-      ],
-      "duration_ms": 271301,
-      "name": "Y la Recuerdo de Ayer",
-      "url": "https://open.spotify.com/track/30qRh0j4htHrsroySiDh57"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2epcEzP3HRjeb9nVjWVpbw"
+      },
+      "artists": [
+        {
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        }
+      ],
+      "duration_ms": 225088,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6LY0WEkj5dMIE1mE7wUAuY"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
         "name": "VITALOGIA",
         "url": "https://open.spotify.com/album/6dEvxLCwofgIjOjhurJAj7"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 191317,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/0f9SJZoJiPn2a1p8RMOx8K"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2epcEzP3HRjeb9nVjWVpbw"
-      },
-      "artists": [
-        {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
-        }
-      ],
-      "duration_ms": 225088,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6LY0WEkj5dMIE1mE7wUAuY"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "Perdedor",
-        "url": "https://open.spotify.com/album/1g7JMXCHye91zIUlYtKOxC"
-      },
-      "artists": [
-        {
-          "name": "La Silueta Ska",
-          "url": "https://open.spotify.com/artist/2yZDukL7Vwwai8IGPh3WuL"
-        }
-      ],
-      "duration_ms": 185577,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/1cESlqirsaIX9hn6gQINFN"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
         "name": "Tu nombre",
         "url": "https://open.spotify.com/album/2cpA3RmZc8srL9hXtrrPvO"
       },
@@ -1523,22 +1507,6 @@
       "duration_ms": 173335,
       "name": "Tu nombre",
       "url": "https://open.spotify.com/track/2V2mt0TwlE1LHFvWv5QiAt"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
-        "name": "Revoluciones",
-        "url": "https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ"
-      },
-      "artists": [
-        {
-          "name": "La Hoja Ensamble",
-          "url": "https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE"
-        }
-      ],
-      "duration_ms": 387922,
-      "name": "Revoluciones",
-      "url": "https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -1559,18 +1527,34 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "Ciao",
-        "url": "https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce"
+        "name": "Perdedor",
+        "url": "https://open.spotify.com/album/1g7JMXCHye91zIUlYtKOxC"
       },
       "artists": [
         {
-          "name": "Girls Go Ska",
-          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
+          "name": "La Silueta Ska",
+          "url": "https://open.spotify.com/artist/2yZDukL7Vwwai8IGPh3WuL"
         }
       ],
-      "duration_ms": 263000,
-      "name": "Ciao",
-      "url": "https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH"
+      "duration_ms": 185577,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/1cESlqirsaIX9hn6gQINFN"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
+        "name": "Revoluciones",
+        "url": "https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ"
+      },
+      "artists": [
+        {
+          "name": "La Hoja Ensamble",
+          "url": "https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE"
+        }
+      ],
+      "duration_ms": 387922,
+      "name": "Revoluciones",
+      "url": "https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS"
     },
     {
       "added_at": "2023-10-13 00:47:14",
@@ -1623,22 +1607,6 @@
     {
       "added_at": "2023-10-13 00:47:14",
       "album": {
-        "name": "...y Como Dice Giles! (Tributo a los Giles)",
-        "url": "https://open.spotify.com/album/08QgBZviqyuo7TJL5V7LqS"
-      },
-      "artists": [
-        {
-          "name": "La Hoja Ensamble",
-          "url": "https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Estereof\u00f3nica",
-      "url": "https://open.spotify.com/track/72FA2PuToTQehqORbBlwGu"
-    },
-    {
-      "added_at": "2023-10-13 00:47:14",
-      "album": {
         "name": "Loco amor",
         "url": "https://open.spotify.com/album/2y2lRGqPNPT68MaClgU2FL"
       },
@@ -1667,6 +1635,38 @@
       "duration_ms": 233120,
       "name": "Lamento Egipcio",
       "url": "https://open.spotify.com/track/1FPDoLtvmAX1bWzuNWKRJG"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce"
+      },
+      "artists": [
+        {
+          "name": "Girls Go Ska",
+          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH"
+    },
+    {
+      "added_at": "2023-10-13 00:47:14",
+      "album": {
+        "name": "Marcando El Ritmo",
+        "url": "https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE"
+      },
+      "artists": [
+        {
+          "name": "Moon Stomper",
+          "url": "https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE"
+        }
+      ],
+      "duration_ms": 155965,
+      "name": "Stay Rude",
+      "url": "https://open.spotify.com/track/1GTsw9fJdctqyT7iVQS35i"
     },
     {
       "added_at": "2023-10-13 00:47:14",

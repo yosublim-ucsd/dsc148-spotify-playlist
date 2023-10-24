@@ -1,12 +1,12 @@
 {
   "description": "Sweat it out with your favorite country workout songs. Cover: Lainey Wilson",
-  "num_followers": 96780,
+  "num_followers": 96785,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDRhYmIyNjA5YjY0ZDljOGE2NGQwMmFkM2ZmMjRmYzliM2Q4ZjBm",
+  "snapshot_id": "MCw4NGE4OGRiMDBhZThjZGE4ZGQzZjQyOGI5NjEyNGI1YWFiMzY1NGI3",
   "tracks": [
     {
       "added_at": "2023-10-05 18:42:19",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Beer Never Broke My Heart",
+      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
         "name": "You Proof",
         "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 157477,
       "name": "You Proof",
       "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 253200,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -191,18 +191,34 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 186733,
-      "name": "Beer Never Broke My Heart",
-      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
+      "duration_ms": 253200,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 201893,
+      "name": "Dirt On My Boots",
+      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -223,22 +239,6 @@
       "duration_ms": 170560,
       "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
       "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 201893,
-      "name": "Dirt On My Boots",
-      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Drink In My Hand",
-      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
         "name": "The Kind of Love We Make",
         "url": "https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 224426,
       "name": "The Kind of Love We Make",
       "url": "https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Drink In My Hand",
+      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Heartache On The Dance Floor",
+      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
         "name": "Barefoot Blue Jean Night",
         "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 167426,
       "name": "Barefoot Blue Jean Night",
       "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Heartache On The Dance Floor",
-      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 190240,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
         "name": "5 Foot 9",
         "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 185906,
       "name": "How Country Feels",
       "url": "https://open.spotify.com/track/6aUhfNWYnMThF3TGtuYUUu"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "The Road To Here",
-        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
+        "name": "Life Changes",
+        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
       },
       "artists": [
         {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 272346,
-      "name": "Boondocks",
-      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
+      "duration_ms": 157080,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Life Changes",
-        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+        "name": "The Road To Here",
+        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
         }
       ],
-      "duration_ms": 157080,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ"
+      "duration_ms": 272346,
+      "name": "Boondocks",
+      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -787,22 +787,18 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Based on a True Story... (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
+        "name": "23",
+        "url": "https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "Pistol Annies",
-          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 288760,
-      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
-      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
+      "duration_ms": 179720,
+      "name": "23",
+      "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -823,18 +819,42 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP"
+        "name": "Center Point Road",
+        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
       },
       "artists": [
         {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 179720,
-      "name": "23",
-      "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
+      "duration_ms": 209733,
+      "name": "Beer Can\u2019t Fix",
+      "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
+        "name": "Based on a True Story... (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+        }
+      ],
+      "duration_ms": 288760,
+      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
+      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -883,26 +903,6 @@
       "duration_ms": 190587,
       "name": "Ready Set Roll",
       "url": "https://open.spotify.com/track/1pbjOhmFwYC09EYU5EwB5L"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
-        "name": "Center Point Road",
-        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Beer Can\u2019t Fix",
-      "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Blue Tacoma",
-      "url": "https://open.spotify.com/track/5PBx0zFfehUMyv5H4YXVAU"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
         "name": "Tangled Up",
         "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 190733,
       "name": "Crash and Burn",
       "url": "https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Blue Tacoma",
+      "url": "https://open.spotify.com/track/5PBx0zFfehUMyv5H4YXVAU"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Everything She Ain\u2019t",
-        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Everything She Ain\u2019t",
-      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
         "name": "Tornado",
         "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 212320,
       "name": "Pontoon",
       "url": "https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
+        "name": "Everything She Ain\u2019t",
+        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 151973,
+      "name": "Everything She Ain\u2019t",
+      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1155,18 +1155,22 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
+        "name": "You Should Be Here",
+        "url": "https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei"
       },
       "artists": [
         {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        },
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 190640,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
+      "duration_ms": 177066,
+      "name": "Flatliner (feat. Dierks Bentley)",
+      "url": "https://open.spotify.com/track/0WyFpxYlBCgH1gMXd26OOr"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1187,22 +1191,18 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "You Should Be Here",
-        "url": "https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei"
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
       },
       "artists": [
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        },
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         }
       ],
-      "duration_ms": 177066,
-      "name": "Flatliner (feat. Dierks Bentley)",
-      "url": "https://open.spotify.com/track/0WyFpxYlBCgH1gMXd26OOr"
+      "duration_ms": 190640,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
+        "name": "Love,Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 198208,
+      "name": "Somebody Like That",
+      "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "If You're Going Through Hell (Before The Devil Even Knows)",
-      "url": "https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
         "name": "Famous Friends",
         "url": "https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1"
       },
@@ -1411,18 +1411,34 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Love,Heartbreak, & Everything in Between",
-        "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
       "artists": [
         {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
         }
       ],
-      "duration_ms": 198208,
-      "name": "Somebody Like That",
-      "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
+      "duration_ms": 216773,
+      "name": "If You're Going Through Hell (Before The Devil Even Knows)",
+      "url": "https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Cowboy Casanova",
+      "url": "https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1475,22 +1491,6 @@
       "duration_ms": 210480,
       "name": "Cold Beer Calling My Name",
       "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Cowboy Casanova",
-      "url": "https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Love and Theft",
-        "url": "https://open.spotify.com/album/6mdbwD2OEFexB0lPXoRofQ"
-      },
-      "artists": [
-        {
-          "name": "Love and Theft",
-          "url": "https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t"
-        }
-      ],
-      "duration_ms": 186626,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/63w0QA1wiV7QhF9jeiHETF"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 205560,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
+        "name": "Love and Theft",
+        "url": "https://open.spotify.com/album/6mdbwD2OEFexB0lPXoRofQ"
+      },
+      "artists": [
+        {
+          "name": "Love and Theft",
+          "url": "https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t"
+        }
+      ],
+      "duration_ms": 186626,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/63w0QA1wiV7QhF9jeiHETF"
     },
     {
       "added_at": "2023-10-05 18:42:19",

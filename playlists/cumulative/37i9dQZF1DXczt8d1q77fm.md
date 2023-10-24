@@ -4,7 +4,7 @@
 
 > Jess Judith takes over Fuego! Featuring Rauw Alejandro, Young Miko, Ozuna & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-25 songs - 1 hr 26 min
+26 songs - 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [OG Black](https://open.spotify.com/track/4Zqp1yolC5Llwva0JTXXVj) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:10 | 2023-05-11 |  |
 | [Perriando](https://open.spotify.com/track/3qwB1GLNMogyktLqN5ANBE) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Viva el Perreo](https://open.spotify.com/album/0Oe2Bh74rFWrYSvJVCeF8j) | 3:07 | 2023-05-11 |  |
 | [Putero](https://open.spotify.com/track/0YxOOsSObEL71N64GSJrFn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:39 | 2023-05-11 |  |
-| [Tan Quedao](https://open.spotify.com/track/252C5FtbrETqo6ZJE1vmyx) | [Briante](https://open.spotify.com/artist/7lrpjS4SyP3jdyB7i27Yf4), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Tan Quedao](https://open.spotify.com/album/3mSxOqShLIxTkePLdEDo8Q) | 2:22 | 2023-05-11 |  |
+| [Tan Quedao](https://open.spotify.com/track/252C5FtbrETqo6ZJE1vmyx) | [Briante](https://open.spotify.com/artist/7lrpjS4SyP3jdyB7i27Yf4), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Tan Quedao](https://open.spotify.com/album/3mSxOqShLIxTkePLdEDo8Q) | 2:22 | 2023-05-11 | 2023-10-24 |
+| [Tan Quedao](https://open.spotify.com/track/6IhKaUibbPr6XAh916LIKu) | [Briante](https://open.spotify.com/artist/7lrpjS4SyP3jdyB7i27Yf4), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Tan Quedao](https://open.spotify.com/album/7qAEfWnAVoOaUu2y0sE6WZ) | 2:22 | 2023-05-11 |  |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-05-11 |  |
 | [VAMPIROS](https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 2:56 | 2023-05-11 |  |
 | [WHITE MIKE 1.5](https://open.spotify.com/track/6r7hkTB5uuX2TVSjPULPQj) | [K Londrez](https://open.spotify.com/artist/5D6rWi0ikRl7IfWQULE3a0) | [DRAFT DREAMZ](https://open.spotify.com/album/5eGYnyTUFIe5MBCl4YY1bw) | 3:32 | 2023-05-11 |  |

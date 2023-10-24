@@ -4,7 +4,7 @@
 
 > ela eh o momento  / Foto: Tyla
 
-276 songs - 14 hr 51 min
+277 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [golden hour](https://open.spotify.com/track/0e5UZadoZ5me957hKsxRYh) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8) | 3:29 | 2022-10-01 | 2022-10-13 |
 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2022-10-14 |  |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-05-06 | 2023-01-28 |
+| [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 | 2023-10-23 |  |
 | [Grapefruit](https://open.spotify.com/track/0L06aZLoX6BRT0hUPh7O5g) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 3:51 | 2022-10-17 | 2022-11-12 |
 | [Grapefruit](https://open.spotify.com/track/35seOt4wMvu7gWzYFwqNGh) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Grapefruit](https://open.spotify.com/album/2LndkOOunBNk2DKJ7ajq6X) | 3:51 | 2022-10-14 | 2022-10-18 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-19 |  |
@@ -188,7 +189,7 @@
 | [Pipoco](https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk) | [Pipoco](https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E) | 3:14 | 2022-07-22 | 2022-12-09 |
 | [poderia ser pior](https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [poderia ser pior](https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O) | 2:52 | 2022-05-27 | 2022-07-23 |
 | [Por Supuesto](https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:06 | 2022-05-06 | 2022-12-10 |
-| [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-09-11 |  |
+| [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-09-11 | 2023-10-24 |
 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 | 2023-01-27 | 2023-02-10 |
 | [PROIBIDONA](https://open.spotify.com/track/090GUuqAuh7Vje3V745nep) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [PROIBIDONA](https://open.spotify.com/album/4uE5CGnjimzfh5m40ullYU) | 2:37 | 2023-01-20 | 2023-02-25 |
 | [PRÊMIO](https://open.spotify.com/track/3pQs1W4QPXFDxx0zLsQ5Mt) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [PRÊMIO](https://open.spotify.com/album/2tSo9MjxDo3LW6x8lbqMXR) | 2:22 | 2022-07-29 | 2022-08-13 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: XG",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Ado",
   "name": "Hot Hits Japan",
   "tracks": [
     {
@@ -1319,6 +1319,28 @@
     },
     {
       "album": {
+        "name": "Eyes On Me",
+        "url": "https://open.spotify.com/album/2raPbaN1bh2UWTGqgz8Gvl"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/79O9h4Q9w1X6w3tHTJSu8y"
+    },
+    {
+      "album": {
         "name": "F64",
         "url": "https://open.spotify.com/album/5SNPs8Oz8Nmhv0MA6YnJpE"
       },
@@ -1348,7 +1370,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 290672,
       "name": "Fifty's map \uff5e\u304a\u3068\u306a\u306e\u5730\u56f3",
       "url": "https://open.spotify.com/track/5fNrWNdv7Qfj7EdCl31Rur"
@@ -2468,7 +2490,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 208421,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/1q4BCQssFe74UJmnWt5lov"
@@ -2794,7 +2816,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 209639,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
@@ -3898,7 +3920,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -4351,6 +4373,32 @@
     },
     {
       "album": {
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203894,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+    },
+    {
+      "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
       },
@@ -4414,7 +4462,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-24",
       "duration_ms": 269452,
       "name": "umi tsuki (feat. iri) (Prod. Chaki Zulu)",
       "url": "https://open.spotify.com/track/4bxgzMlcoQ21W7hcWr6v7k"
@@ -4614,6 +4662,32 @@
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "album": {
+        "name": "Hit Different",
+        "url": "https://open.spotify.com/album/4H5P7cJyGe0Sw0gSHtjuMm"
+      },
+      "artists": [
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        },
+        {
+          "name": "JIGG",
+          "url": "https://open.spotify.com/artist/7FaaVgMxA6RqO7viZwFaQp"
+        },
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148213,
+      "name": "What's Poppin",
+      "url": "https://open.spotify.com/track/4h1szxNxkEIeAiBa8QcsJr"
     },
     {
       "album": {
@@ -4940,6 +5014,24 @@
       "duration_ms": 184201,
       "name": "\u30a8\u30a6\u30ec\u30ab",
       "url": "https://open.spotify.com/track/6RrkERm8gb8E1jzVGyz7l5"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30f3\u30ca",
+        "url": "https://open.spotify.com/album/2YWx37pEuWVDJNCNkAD3gU"
+      },
+      "artists": [
+        {
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282669,
+      "name": "\u30ab\u30f3\u30ca",
+      "url": "https://open.spotify.com/track/11TyLXYong1DV4Y3y4rPDS"
     },
     {
       "album": {
@@ -5526,6 +5618,24 @@
       "duration_ms": 265714,
       "name": "\u661f\u6708\u591c",
       "url": "https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm"
+    },
+    {
+      "album": {
+        "name": "\u6700\u9ad8\u5230\u9054\u70b9",
+        "url": "https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN"
+      },
+      "artists": [
+        {
+          "name": "SEKAI NO OWARI",
+          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227469,
+      "name": "\u6700\u9ad8\u5230\u9054\u70b9",
+      "url": "https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN"
     },
     {
       "album": {

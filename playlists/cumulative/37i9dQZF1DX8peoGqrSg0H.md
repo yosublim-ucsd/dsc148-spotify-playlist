@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE
 
-395 songs - 23 hr 44 min
+396 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [จีบตอนนี้ \- Available Now](https://open.spotify.com/track/0UTKM4QrKUwNCvWUzq7E6E) | [Porch Pathaseth](https://open.spotify.com/artist/4fsxA6EvDO4EElwerEM6Ve) | [kiddorecords D\-SUEM\-BLUR](https://open.spotify.com/album/74l8lgDRag1rBUvsyB0eQp) | 2:56 | 2022-12-15 | 2023-01-27 |
 | [ฉบับปรับปรุง](https://open.spotify.com/track/2MnVrkbwL6ViB7q4NI7oVK) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi), [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q), [Lazyloxy](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [MAS\[S\]TERPIECE](https://open.spotify.com/album/65khrtPTO8Sy7txWgVZYM2) | 4:04 | 2022-05-26 | 2022-11-18 |
 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 | 2022-07-22 | 2023-09-20 |
-| [ฉันจะฉาปเธอ \- Curse](https://open.spotify.com/track/6uu05FXHuqfMNI9Ti6pts2) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ฉันจะฉาปเธอ \(Curse\)](https://open.spotify.com/album/4zwD3vOjO0BdJUJUHaUPeP) | 3:17 | 2022-05-26 |  |
+| [ฉันจะฉาปเธอ \- Curse](https://open.spotify.com/track/6uu05FXHuqfMNI9Ti6pts2) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ฉันจะฉาปเธอ \(Curse\)](https://open.spotify.com/album/4zwD3vOjO0BdJUJUHaUPeP) | 3:17 | 2022-05-26 | 2023-10-24 |
 | [ชน \(Crush\)](https://open.spotify.com/track/1DTRZvmzt6JcspTCeIBJeC) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Data Storage](https://open.spotify.com/album/2mQYy1FYHUEuQSrJPO6BDI) | 2:45 | 2023-08-04 | 2023-08-11 |
 | [ชอบความเหงา \(Loneliness\)](https://open.spotify.com/track/1QTwE3bpK1t6W3H4ffpFc1) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [ชอบความเหงา \(Loneliness\)](https://open.spotify.com/album/2ocXPv98Cd9un077PQCbIi) | 3:27 | 2022-10-07 | 2022-10-27 |
 | [ชอบคุณนะ \- Unsend](https://open.spotify.com/track/0nKRTd3kTf0xyU9q608e8S) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [ชอบคุณนะ \(Unsend\)](https://open.spotify.com/album/7GewzqYmhU1NAX5W380oTn) | 2:48 | 2022-05-26 | 2023-09-09 |
@@ -342,6 +342,7 @@
 | [เมะ](https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เมะ](https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw) | 3:06 | 2022-05-26 | 2022-11-16 |
 | [เมื่อไหร่จะได้เจอ \(Miss You\)](https://open.spotify.com/track/2MhltgwCtdahdAJTrFUbIm) | [Chypre](https://open.spotify.com/artist/4mMIQJKMHFmFW2DVdFBUqp) | [เมื่อไหร่จะได้เจอ \(Miss You\)](https://open.spotify.com/album/4n3hdmxkvLv3IvsLbH5Frj) | 3:52 | 2022-07-07 | 2022-07-15 |
 | [เริ่มใหม่ \(One More Chance\)](https://open.spotify.com/track/0y2YB7eptCx1NyV52Uu1i1) | [WIN METAWIN](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW) | [เริ่มใหม่ \(One More Chance\)](https://open.spotify.com/album/3dUIovhnjUOUA7CCqwvkMd) | 3:58 | 2022-12-08 | 2023-01-27 |
+| [เลี้ยงไข้ \(fever\)](https://open.spotify.com/track/2xv83TpufWS243tCZm5jx6) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เลี้ยงไข้ \(fever\)](https://open.spotify.com/album/2SuqYrVebvgplAtC0LWbPx) | 3:52 | 2023-10-23 |  |
 | [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/track/4qVnHEFxfJvjT35d9CdOMc) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/album/5yLgzmQrTpCqmH40sJu8B0) | 3:29 | 2023-05-24 |  |
 | [เลือกแค่เธอ](https://open.spotify.com/track/6PM9BmqnWn1Gg23BvWI6qu) | [DOM](https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL), [MUON ATLAS](https://open.spotify.com/artist/15K0fTYxItcRPxIMcefV9l) | [เลือกแค่เธอ](https://open.spotify.com/album/1aSBzCOD3d7fEGNO2djBON) | 2:54 | 2023-03-31 | 2023-04-11 |
 | [เสียใจไม่เสียดาย \(No Love\)](https://open.spotify.com/track/4XjY4hGqiLjZQnlxCemA9F) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [เสียใจไม่เสียดาย \(No Love\)](https://open.spotify.com/album/2R4hww1wYXvKb5Yu3EGL2n) | 3:23 | 2023-06-01 | 2023-06-16 |

@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS! Cover: The Cadillac Three
 
-304 songs - 17 hr 30 min
+305 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Over Me By Now](https://open.spotify.com/track/3ZPkLItrom6ntZ3ZKWMFIr) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Over Me By Now](https://open.spotify.com/album/35E0ok8zLcSoYhUGQG8EeW) | 2:41 | 2022-08-26 | 2022-10-25 |
 | [Overrated](https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Overrated](https://open.spotify.com/album/7c7GHatXPn7nFKQfQcmYkm) | 3:38 | 2022-09-30 | 2023-04-12 |
 | [Pain Killer](https://open.spotify.com/track/1Kmx22eXsWnlggH0Aj6wsa) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pain Killer](https://open.spotify.com/album/1lSlga0mS2Ejwon1d6MmuQ) | 2:47 | 2023-07-14 | 2023-10-21 |
+| [Pain Killer](https://open.spotify.com/track/5Jbl0Ha0N78bQCO3tngm4w) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg) | 2:47 | 2023-10-20 |  |
 | [Payback \(feat\. The Cadillac Three\)](https://open.spotify.com/track/0MDFaaKSyNrt4aZtJvqirX) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:27 | 2021-11-01 | 2023-01-21 |
 | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/track/5wuOWOnmXlH5mc3wTRfsx7) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/album/5fdFTuBT5KV1JzXPtweiBx) | 3:21 | 2021-11-01 | 2023-01-21 |
 | [Places To Run](https://open.spotify.com/track/4XXXLj4SKynrgyIEwibD9x) | [Dusty Black](https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO) | [Places To Run](https://open.spotify.com/album/7cA953EqbwfrTJ3DYy5Zc6) | 2:58 | 2021-11-01 | 2022-07-28 |
@@ -274,7 +275,7 @@
 | [Truck In The Yard](https://open.spotify.com/track/2kQ0IAbyOu2OEI9qGwkqbQ) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Truck In The Yard](https://open.spotify.com/album/5NCiBKLmmjt6mU7OrOrPoZ) | 3:02 | 2022-07-08 | 2022-11-14 |
 | [Tumbling Down](https://open.spotify.com/track/2xSyFh6jZSMxzK0yoQGglx) | [Nashvillains](https://open.spotify.com/artist/72zURLJbsKSs1i89kP8ZaL) | [Tumbling Down](https://open.spotify.com/album/3V0czn2onTZVwPrQtdCDfe) | 3:43 | 2021-11-01 | 2022-07-27 |
 | [Up to Me](https://open.spotify.com/track/45eogTRy1OqfhJ2KQaOL2W) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [Up to Me](https://open.spotify.com/album/5vqC9GDUqWT1f6PDzPjwO4) | 4:02 | 2022-02-11 | 2022-07-22 |
-| [Up To No Good](https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Up To No Good](https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW) | 2:13 | 2022-07-22 |  |
+| [Up To No Good](https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Up To No Good](https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW) | 2:13 | 2022-07-22 | 2023-10-24 |
 | [Varsity Type](https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Varsity Type](https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP) | 3:22 | 2022-05-27 | 2022-11-19 |
 | [Wait Outside](https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:21 | 2021-11-01 | 2023-10-21 |
 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 | 2021-11-01 |  |

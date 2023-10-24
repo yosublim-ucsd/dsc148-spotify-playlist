@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Queen of Saba
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,732 likes - 62 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,768 likes - 62 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 61 | [salvare](https://open.spotify.com/track/4jQCFTq0WPVBHayDkgzIFf) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [salvare](https://open.spotify.com/album/2YjaCfTIJi5ehsSPOIflxu) | 3:04 |
 | 62 | [BOLLICINE](https://open.spotify.com/track/3YNZBHzSKxfEvv801uyh72) | [Bravo, Bravissimo](https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4), [ERMEN](https://open.spotify.com/artist/3TYembMUmgKhhLtNU76qCq) | [BOLLICINE](https://open.spotify.com/album/6ocpHIE7koGfyal8hdeXau) | 2:45 |
 
-Snapshot ID: `MCxkMzM5NTZkZGJkMzYwNmZlYzA1ZjVjYzAyOWNiOGY1ZGU0M2IyODBi`
+Snapshot ID: `MCxmNDdhM2ViM2NiOTdlMWFjYjVlOWI2NTgyMzZjMmFhOGEyY2E3NTY3`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-361 songs - 17 hr 39 min
+362 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Black Out](https://open.spotify.com/track/7s9GCH2s1koH3AwgQHRwYh) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Diskover](https://open.spotify.com/artist/3YbWcfZCP1MPYvMzLxkvSI), [Willa](https://open.spotify.com/artist/2YE9xDQHXzmnwE8qq6Gqg8) | [Black Out](https://open.spotify.com/album/2pStTbKsMaxqbsRIgPx0r5) | 3:11 | 2021-10-29 | 2022-07-28 |
 | [Bloodstream](https://open.spotify.com/track/7BJvauk2ddcxirw5px8Wfa) | [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Bloodstream](https://open.spotify.com/album/3uzIdtMI1baix8yp2GeiFQ) | 2:28 | 2021-10-29 | 2022-08-06 |
 | [Bohemian Like You \(feat\. Alle The Dreamer\)](https://open.spotify.com/track/4rqV7Gm5MApwJyHqmEl10o) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Yash](https://open.spotify.com/artist/56nH4qbcwdaa97oOxqMwYZ), [Alle The Dreamer](https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B) | [Bohemian Like You \(feat\. Alle The Dreamer\)](https://open.spotify.com/album/4u1GOd1B9Dtf9rUiSgGoHT) | 3:24 | 2021-10-29 | 2022-08-13 |
-| [BOP](https://open.spotify.com/track/38EWBGAzdngvUofbKEj29z) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [BOP](https://open.spotify.com/album/4mbZ5Cxtlh8jOKuExFHu6o) | 2:46 | 2023-10-06 |  |
+| [BOP](https://open.spotify.com/track/38EWBGAzdngvUofbKEj29z) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [BOP](https://open.spotify.com/album/4mbZ5Cxtlh8jOKuExFHu6o) | 2:46 | 2023-10-06 | 2023-10-24 |
 | [Boss](https://open.spotify.com/track/6nKWZqp6hL5ROu8A6Z5Uq4) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Boss](https://open.spotify.com/album/0s9f6eCaISZJKe7krX12IS) | 3:04 | 2022-01-28 | 2022-08-12 |
 | [Breathin'](https://open.spotify.com/track/0zVVyVOnBmyh0giaGKgjFG) | [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR), [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e) | [Breathin'](https://open.spotify.com/album/1uJO6EsybIY0KZXIfmXx3G) | 2:43 | 2022-02-11 | 2022-02-14 |
 | [Bring Et](https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Bring Et](https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk) | 2:22 | 2022-01-28 | 2023-09-23 |
@@ -140,6 +140,7 @@
 | [Grimestar](https://open.spotify.com/track/2dJbz9Q2X33c7l9uCRxoy5) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Grimestar](https://open.spotify.com/album/1eLo0jdJfOvE6oOkLvyEmt) | 2:48 | 2022-12-02 | 2023-08-12 |
 | [Gucci Fendi Prada \- BYOR Remix](https://open.spotify.com/track/7FYV4Nq4IW08XDssxctuyR) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Gucci Fendi Prada \(BYOR Remix\)](https://open.spotify.com/album/34qSP54lisomdVGxqaDy08) | 2:07 | 2021-10-29 | 2022-06-24 |
 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 | 2023-01-06 |  |
+| [Hallucinate](https://open.spotify.com/track/1mpChy2KY9BMiIrimM3cXV) | [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Eyes On You EP](https://open.spotify.com/album/4Kkj9lMLAjmrSOlETzGafy) | 2:52 | 2023-10-06 |  |
 | [Hardcore Vibes \- Radio Edit](https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX) | [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y) | [Hardcore Vibes](https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2) | 2:41 | 2022-01-28 | 2022-08-06 |
 | [Have Me All \(feat\. Jelita\)](https://open.spotify.com/track/5NAeLHGIbxGcmKMwYxuwWS) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Jelita](https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr) | [Have Me All \(feat\. Jelita\)](https://open.spotify.com/album/5Cg1VcWn4inAueYXbUcNY6) | 2:50 | 2023-03-03 | 2023-09-23 |
 | [Have Me All \(feat\. Jelita\)](https://open.spotify.com/track/5uxSxL44LynLj2xstL0ogf) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Jelita](https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr) | [Have Me All \(feat\. Jelita\)](https://open.spotify.com/album/5vHDD8MnfAvxZwC9wGWPTR) | 2:50 | 2021-10-29 | 2023-02-25 |

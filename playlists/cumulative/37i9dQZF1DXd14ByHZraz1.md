@@ -2,9 +2,9 @@
 
 ### [mint brasil](https://open.spotify.com/playlist/37i9dQZF1DXd14ByHZraz1)
 
-> Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Dubdogz
+> Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Santti
 
-145 songs - 7 hr 28 min
+146 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 | 2021-12-24 | 2022-09-06 |
 | [It's Ours \- Short Mix](https://open.spotify.com/track/26RfGZj3z5Y25w6tQDcAyM) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [It's Ours](https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8) | 3:20 | 2022-11-11 | 2023-01-21 |
 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 | 2023-08-25 |  |
-| [Kanyes](https://open.spotify.com/track/11ZzJ9gbawFjRqnbjtFl4q) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Kanyes](https://open.spotify.com/album/6ePpI5BPsyDdFR3XpjESP2) | 3:52 | 2023-10-06 |  |
+| [Kanyes](https://open.spotify.com/track/11ZzJ9gbawFjRqnbjtFl4q) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Kanyes](https://open.spotify.com/album/6ePpI5BPsyDdFR3XpjESP2) | 3:52 | 2023-10-06 | 2023-10-24 |
+| [Keep On Rising \(feat\. Michelle Shellers\) \[Fancy Inc and Bruno Be Remix\]](https://open.spotify.com/track/6L7N045eN7RyCMPsxmBcLH) | [Ian Carey](https://open.spotify.com/artist/2QFXAOEj2ow8a3xVkD8Ntg), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Michelle Shellers](https://open.spotify.com/artist/6nT13KD6zp5yKAdoWBuO2u) | [Keep On Rising \(feat\. Michelle Shellers\) \[Fancy Inc and Bruno Be Remix\]](https://open.spotify.com/album/6Mdtnc3pmXz5KjdWOiyivx) | 3:03 | 2023-10-13 |  |
 | [Kill Me](https://open.spotify.com/track/3zXS11n8H34fWV53hg7XAr) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [CONTROVERSIA by Alok Vol\. 008](https://open.spotify.com/album/38RZAmM8SqgL5gyhWacYFK) | 2:35 | 2022-12-16 | 2023-07-01 |
 | [Lo Que Soy](https://open.spotify.com/track/7oNvcR6y6AIxbY2aWukM9p) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Lo Que Soy](https://open.spotify.com/album/6KCqenIwnDx20ku4jx5gVl) | 3:09 | 2021-12-24 | 2022-12-17 |
 | [Looking At You](https://open.spotify.com/track/6f9NvJNgaJY5nBN1qkBt70) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [MYKRIS](https://open.spotify.com/artist/74FoBhis1hShJt1oBnmXkC), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [Kruizz](https://open.spotify.com/artist/6IIxNeTmyWkRrcCPqUt4k0) | [Looking At You](https://open.spotify.com/album/3SS9gjPL8kG4WMg6T20FUk) | 2:35 | 2023-05-19 |  |

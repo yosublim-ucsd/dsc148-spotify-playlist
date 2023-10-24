@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,608 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,607 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dancing Lasha Tumbai](https://open.spotify.com/track/3ve2mVR6BkXuNWfHVoA5yu) | [Verka Serduchka](https://open.spotify.com/artist/7uH6CJjqK71HlHW4WHNAJg) | [До Ре Ми](https://open.spotify.com/album/7aaWrgvqjOo9KswnRpGMgk) | 2:59 |
 | 2 | [SloMo \- Eurovision's Dancebreak Edit](https://open.spotify.com/track/00rUx6vPpy0XbJer8BcoRn) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo \(Eurovision's Dancebreak Edit\)](https://open.spotify.com/album/3nrVP8ljurMTI2cEv6ItJA) | 3:00 |
 | 3 | [Euphoria \- Single Version](https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria \(The Alternative Mixes\)](https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu) | 3:01 |
-| 4 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 |
+| 4 | [Waterloo](https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av) | 2:48 |
 | 5 | [Fuego](https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Fuego](https://open.spotify.com/album/1Kix2Ho3LgJI4tmtcFdNr8) | 3:03 |
 | 6 | [Llámame](https://open.spotify.com/track/3n9qn38IhqkC7DcdIRaM9q) | [wrs](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Llámame](https://open.spotify.com/album/4CR61ko9dziDieWFFPkGWs) | 3:04 |
 | 7 | [Think About Things](https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Think About Things](https://open.spotify.com/album/3wnnkEyvrINGbPfVbIzAXs) | 2:53 |
 | 8 | [El Diablo](https://open.spotify.com/track/0DGduxy7YSuqXm272C2LM6) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [El Diablo](https://open.spotify.com/album/0hddqJaLbuagDCHHSgULIm) | 3:01 |
-| 9 | [Waterloo](https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av) | 2:48 |
+| 9 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 |
 | 10 | [Wild Dances](https://open.spotify.com/track/1Lav2Z3RKu71MJLIjQz4dQ) | [Ruslana](https://open.spotify.com/artist/5nkB6GEbHINTSqmi5XMSoa) | [Wild Dances](https://open.spotify.com/album/1z6OfyGs0GepuESby1DUhB) | 3:03 |
 | 11 | [Fairytale](https://open.spotify.com/track/6NgYIETQ8U72CVfkzYhK30) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytales](https://open.spotify.com/album/7k1b8wzjRsSTmIBuRlBrxp) | 3:03 |
 | 12 | [Toy](https://open.spotify.com/track/6n2eIfLj0wOOUkUfNmYzlh) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Toy](https://open.spotify.com/album/21YEfZ84TzdjNvOWEdwjeF) | 3:00 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 34 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 |
 | 35 | [Ooh Aah..\. Just A Little Bit \- Eurovision Version](https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8) | [Ooh Aah...Just a Little Bit \(Eurovision Version\)](https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1) | 3:02 |
 | 36 | [Rockefeller Street](https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K) | [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) | [Rockefeller Street \- Single](https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4) | 3:12 |
-| 37 | [La Det Swinge](https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [La Det Swinge](https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa) | 2:53 |
-| 38 | [Always \- Single Version](https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z) | [Aysel](https://open.spotify.com/artist/0p8VQ0bbarbct1dXDthN5N), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [Always](https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC) | 2:54 |
+| 37 | [Always \- Single Version](https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z) | [Aysel](https://open.spotify.com/artist/0p8VQ0bbarbct1dXDthN5N), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [Always](https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC) | 2:54 |
+| 38 | [La Det Swinge](https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [La Det Swinge](https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa) | 2:53 |
 | 39 | [Hold Me Closer \- Eurovision Version](https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer \(Eurovision Version\)](https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq) | 3:00 |
 | 40 | [La La Love](https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [La La Love](https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07) | 3:02 |
 | 41 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 52 | [Secret Combination \- Eurovision 2008 Mix](https://open.spotify.com/track/4K97pvdLv1zmJy2bvYtEFG) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH) | [Secret Combination](https://open.spotify.com/album/4neINSK3QUx2L5VGMBuE6a) | 3:02 |
 | 53 | [Every Way That I Can \- Philippe Laurent from Galleon Radio Edit](https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [No Boundaries](https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu) | 2:46 |
 | 54 | [J'ai cherché](https://open.spotify.com/track/1QJFNfsVQA7VfUJFKgQJzI) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [J'ai cherché](https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u) | 3:32 |
-| 55 | [Glorious \- Video Edit](https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Glorious](https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC) | 3:27 |
-| 56 | [Shake It \- Eurovision Version](https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [To Hrono Stamatao](https://open.spotify.com/album/7hiRylz4CAVyfLftuszLVJ) | 3:00 |
+| 55 | [Shake It \- Eurovision Version](https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [To Hrono Stamatao](https://open.spotify.com/album/7hiRylz4CAVyfLftuszLVJ) | 3:00 |
+| 56 | [Glorious \- Video Edit](https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Glorious](https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC) | 3:27 |
 | 57 | [Cliche Love Song \- Another Version](https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B) | [Basim](https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg) | [Cliche Love Song](https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq) | 3:01 |
 | 58 | [Moustache](https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr) | [Twin Twin](https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx) | [Vive la vie \(Edition spéciale\)](https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf) | 2:49 |
 | 59 | [La Voix](https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV) | [Malena Ernman](https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo), [Fredrik Kempe](https://open.spotify.com/artist/5a3wjp9dcWyJitaiwXIsC7) | [La voix du nord](https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 74 | [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 |
 | 75 | [Walk On Water](https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h) | [Ira Losco](https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV) | [Walk On Water](https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV) | 3:05 |
 
-Snapshot ID: `MCwwN2U2OGU4YzE0ZDlhYzBjN2Y3YmExN2E5YTQ3MWY3NzRiYjEzNTY4`
+Snapshot ID: `MCxiMWEyYzA0MTQyNTVmMjJmYjc5ODUwZmY4NjI2ZTNkNzQ0OWFiOGU4`

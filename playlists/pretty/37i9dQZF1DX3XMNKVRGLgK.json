@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 15174,
+  "num_followers": 15213,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDU1ZDBlYTgxMzM5NTUyOWM3NjE4YjRkZWYwYWYwOGQ4YzY1NTk2",
+  "snapshot_id": "MCwzOWU1YjgzZmM0MDkxMDJmZTE4ZTdlZDhjNGE3OTljMmI4YTYwODQx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 261742,
-      "name": "Championships",
-      "url": "https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 82000,
       "name": "queens shit.",
       "url": "https://open.spotify.com/track/5fKB3QygGZfzgyapUCTpV9"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 261742,
+      "name": "Championships",
+      "url": "https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr"
     }
   ],
   "unique_name": "Nigel Sylvester's Taste",

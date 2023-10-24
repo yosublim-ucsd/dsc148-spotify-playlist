@@ -1,12 +1,12 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 339210,
+  "num_followers": 339259,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGI3NGIxMmFmYmE3MDgzZjhkYWVkNDQ4MGZiNzM0NDc0OTA0MzAz",
+  "snapshot_id": "MCwzYzA2Mzk2Yzc0Y2U0YWQ3YzBlZTdjY2UzYWJiNmRmM2U5ZWJhODYy",
   "tracks": [
     {
       "added_at": "2023-09-29 04:01:00",
@@ -511,18 +511,22 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Issues (Acoustic)",
-        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
+        "name": "Call Me When You Land",
+        "url": "https://open.spotify.com/album/0xff0oGrrPLKSbBjXbEZ3D"
       },
       "artists": [
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        },
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
         }
       ],
-      "duration_ms": 175280,
-      "name": "Issues - Acoustic",
-      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
+      "duration_ms": 287623,
+      "name": "Call Me When You Land",
+      "url": "https://open.spotify.com/track/24AlaGqIZd2nUspgzc2ph1"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -543,22 +547,18 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Call Me When You Land",
-        "url": "https://open.spotify.com/album/0xff0oGrrPLKSbBjXbEZ3D"
+        "name": "Issues (Acoustic)",
+        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
       },
       "artists": [
         {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        },
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 287623,
-      "name": "Call Me When You Land",
-      "url": "https://open.spotify.com/track/24AlaGqIZd2nUspgzc2ph1"
+      "duration_ms": 175280,
+      "name": "Issues - Acoustic",
+      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Slow Hands (Acoustic)",
-        "url": "https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 160592,
-      "name": "Slow Hands - Acoustic",
-      "url": "https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "Place We Were Made",
         "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
+        "name": "Slow Hands (Acoustic)",
+        "url": "https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 160592,
+      "name": "Slow Hands - Acoustic",
+      "url": "https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
         "name": "Chlo\u00eb and the Next 20th Century",
         "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 300240,
       "name": "Goodbye Mr. Blue",
       "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Free Yourself Up",
-        "url": "https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -823,6 +807,22 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
+        "name": "Free Yourself Up",
+        "url": "https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
         "name": "By The Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Fall, Fall, Fall",
-        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 281180,
-      "name": "Fall, Fall, Fall",
-      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "searching for freedom",
         "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 271999,
       "name": "heartbeat",
       "url": "https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Fall, Fall, Fall",
+        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 281180,
+      "name": "Fall, Fall, Fall",
+      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 188080,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Prospect",
-        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 234733,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "Mipso",
         "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 215040,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Prospect",
+        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
+        "name": "Roll With The Punches",
+        "url": "https://open.spotify.com/album/7iEgLiepZW1GHTfMuWumBG"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "Transformation",
+      "url": "https://open.spotify.com/track/6Be3lUnpeyCZTZZD8axsoM"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Roll With The Punches",
-        "url": "https://open.spotify.com/album/7iEgLiepZW1GHTfMuWumBG"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "Transformation",
-      "url": "https://open.spotify.com/track/6Be3lUnpeyCZTZZD8axsoM"
     },
     {
       "added_at": "2023-09-29 04:01:00",

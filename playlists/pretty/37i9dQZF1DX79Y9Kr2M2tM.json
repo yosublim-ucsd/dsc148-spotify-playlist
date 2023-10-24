@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 843634,
+  "num_followers": 843714,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNThhMjE1YTliMTIwNzUwOGE5YTU1NTE2ODQ2NjA4NTZmNDJjM2Ew",
+  "snapshot_id": "MCw0NGM1NTliYWEzZjZkZGQ3MTdlN2MzMWIwNzJjMTBhMjBhNDc2YmFk",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Where's My Love",
-        "url": "https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC"
+        "name": "Hard Believer",
+        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
         }
       ],
-      "duration_ms": 239880,
-      "name": "Where's My Love - Acoustic",
-      "url": "https://open.spotify.com/track/0ElpbbncWT9aS7mgoqEHbQ"
+      "duration_ms": 310693,
+      "name": "Looking Too Closely",
+      "url": "https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Where's My Love",
+        "url": "https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "Where's My Love - Acoustic",
+      "url": "https://open.spotify.com/track/0ElpbbncWT9aS7mgoqEHbQ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 273106,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Hard Believer",
-        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
-      },
-      "artists": [
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
-        }
-      ],
-      "duration_ms": 310693,
-      "name": "Looking Too Closely",
-      "url": "https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 322040,
+      "name": "The Wolves (Act I and II)",
+      "url": "https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "On Hold",
         "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 322040,
-      "name": "The Wolves (Act I and II)",
-      "url": "https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 232000,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Nocturne EP",
+        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -667,22 +683,6 @@
       "duration_ms": 225017,
       "name": "Warm Foothills",
       "url": "https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Nocturne EP",
-        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 268626,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 219013,
-      "name": "Don't Go Far",
-      "url": "https://open.spotify.com/track/2BfvdgdBqLtwAzvgtZq9hb"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Samara",
         "url": "https://open.spotify.com/album/1v79MqdyOEmgD4axF3dL9U"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 256120,
       "name": "Samara",
       "url": "https://open.spotify.com/track/6BlVZ6vUaW5vbmDlYV7zfM"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 219013,
+      "name": "Don't Go Far",
+      "url": "https://open.spotify.com/track/2BfvdgdBqLtwAzvgtZq9hb"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Forest Park",
+        "url": "https://open.spotify.com/album/42s6cU6zv7JYBvmmSWc7IR"
+      },
+      "artists": [
+        {
+          "name": "Davis John Patton",
+          "url": "https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl"
+        }
+      ],
+      "duration_ms": 243478,
+      "name": "Motives",
+      "url": "https://open.spotify.com/track/6t8fO77SHrCqszDxX1CRMl"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/6t1lPagW4j5xy89gEYEyXy"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 190741,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/4xRDWaPf1AuMJo9sytQU0w"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Forest Park",
-        "url": "https://open.spotify.com/album/42s6cU6zv7JYBvmmSWc7IR"
-      },
-      "artists": [
-        {
-          "name": "Davis John Patton",
-          "url": "https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl"
-        }
-      ],
-      "duration_ms": 243478,
-      "name": "Motives",
-      "url": "https://open.spotify.com/track/6t8fO77SHrCqszDxX1CRMl"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Hanging",
+        "url": "https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 233680,
+      "name": "Hanging",
+      "url": "https://open.spotify.com/track/6khrKsm3I0OJb4WB5Ogs2j"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Open Season (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Hanging",
-        "url": "https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz"
+        "name": "All We've Known",
+        "url": "https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A"
       },
       "artists": [
         {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
         }
       ],
-      "duration_ms": 233680,
-      "name": "Hanging",
-      "url": "https://open.spotify.com/track/6khrKsm3I0OJb4WB5Ogs2j"
+      "duration_ms": 242333,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/574uSIfe7tTBLCFjN38vij"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "All We've Known",
-        "url": "https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A"
-      },
-      "artists": [
-        {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/574uSIfe7tTBLCFjN38vij"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Bare",
         "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 257582,
       "name": "Awake Me",
       "url": "https://open.spotify.com/track/4H9aMftedBe0UEHv0IXYgQ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 250453,
+      "name": "Splintered",
+      "url": "https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 261523,
       "name": "Picture of You",
       "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 250453,
-      "name": "Splintered",
-      "url": "https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Branscombe",
-        "url": "https://open.spotify.com/album/1n5qpXXobioZdWa6Upq6fU"
-      },
-      "artists": [
-        {
-          "name": "Voka Gentle",
-          "url": "https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx"
-        }
-      ],
-      "duration_ms": 439478,
-      "name": "Branscombe",
-      "url": "https://open.spotify.com/track/4mrOXzvbS0U0KsX7O6OqIo"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Fall Down - EP",
         "url": "https://open.spotify.com/album/6vxcAKC5bok8gUQjWO6Ejv"
       },
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Branscombe",
+        "url": "https://open.spotify.com/album/1n5qpXXobioZdWa6Upq6fU"
+      },
+      "artists": [
+        {
+          "name": "Voka Gentle",
+          "url": "https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx"
+        }
+      ],
+      "duration_ms": 439478,
+      "name": "Branscombe",
+      "url": "https://open.spotify.com/track/4mrOXzvbS0U0KsX7O6OqIo"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "A Book Of Flying",
         "url": "https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 256260,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/2rahZcwdQ3zQU6AEgXWV6G"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Shiftshaping",
+        "url": "https://open.spotify.com/album/16i0VFecMUrw9lzFH4UxA3"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "duration_ms": 221076,
+      "name": "Shiftshaping",
+      "url": "https://open.spotify.com/track/6hQTXfHQzrWa6RP6PlB1dX"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1599,22 +1615,6 @@
       "duration_ms": 256765,
       "name": "Saving Us a Riot",
       "url": "https://open.spotify.com/track/2n1mukIntnIGBzhf8Ifkr2"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Shiftshaping",
-        "url": "https://open.spotify.com/album/16i0VFecMUrw9lzFH4UxA3"
-      },
-      "artists": [
-        {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
-        }
-      ],
-      "duration_ms": 221076,
-      "name": "Shiftshaping",
-      "url": "https://open.spotify.com/track/6hQTXfHQzrWa6RP6PlB1dX"
     },
     {
       "added_at": "2023-10-20 04:00:00",

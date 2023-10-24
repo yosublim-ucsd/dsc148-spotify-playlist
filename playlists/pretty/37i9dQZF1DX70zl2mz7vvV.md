@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,663 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,687 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 14 | [Youth Dem Cold](https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:45 |
 | 15 | [I Feel Good](https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Moment In Time](https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex) | 3:42 |
 | 16 | [My Woman, My Everything \(feat\. Wandecoal\)](https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [My Woman, My Everything \(feat\. Wandecoal\) \- Single](https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4) | 3:53 |
-| 17 | [No Cocaine](https://open.spotify.com/track/07QuKUTu5O40AibYYPx98I) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Escape From Babylon](https://open.spotify.com/album/2wrZVi0cgQtRhpYytAHpdD) | 4:14 |
-| 18 | [Revolution](https://open.spotify.com/track/14uaxEtvwwTR2WnnvAfaj9) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Love & Hate](https://open.spotify.com/album/7cwpEL5QNoTQXJ5Htzt0ls) | 4:22 |
-| 19 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
-| 20 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
-| 21 | [Stay So](https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Parts Of The Puzzle](https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx) | 3:40 |
-| 22 | [Give It To Her](https://open.spotify.com/track/00FU5uypELwgQuM9IbFC6G) | [Tanto Metro & Devonte](https://open.spotify.com/artist/4mVpYIVAOE8sEdYuL8HDpd) | [The Beat Goes On](https://open.spotify.com/album/3nHyznRwytwaj0sBoa9RR1) | 3:29 |
-| 23 | [Soul Provider](https://open.spotify.com/track/2C6JGwgXp5W9yPi21dBHsw) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Lifted](https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg) | 4:14 |
+| 17 | [Stay So](https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Parts Of The Puzzle](https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx) | 3:40 |
+| 18 | [No Cocaine](https://open.spotify.com/track/07QuKUTu5O40AibYYPx98I) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Escape From Babylon](https://open.spotify.com/album/2wrZVi0cgQtRhpYytAHpdD) | 4:14 |
+| 19 | [Revolution](https://open.spotify.com/track/14uaxEtvwwTR2WnnvAfaj9) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Love & Hate](https://open.spotify.com/album/7cwpEL5QNoTQXJ5Htzt0ls) | 4:22 |
+| 20 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
+| 21 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
+| 22 | [Soul Provider](https://open.spotify.com/track/2C6JGwgXp5W9yPi21dBHsw) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Lifted](https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg) | 4:14 |
+| 23 | [Give It To Her](https://open.spotify.com/track/00FU5uypELwgQuM9IbFC6G) | [Tanto Metro & Devonte](https://open.spotify.com/artist/4mVpYIVAOE8sEdYuL8HDpd) | [The Beat Goes On](https://open.spotify.com/album/3nHyznRwytwaj0sBoa9RR1) | 3:29 |
 | 24 | [All Of Me](https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Cure](https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU) | 4:39 |
 | 25 | [Rasta Should Be Deeper](https://open.spotify.com/track/77DMJWGzzpLk8Fzd2jpqTI) | [Junior Kelly](https://open.spotify.com/artist/20aXKBdnVocEWJQjDyddN9) | [Tough Life](https://open.spotify.com/album/0j4h4INrckemf0kmGd2NHc) | 3:29 |
 | 26 | [Babylon Too Rough](https://open.spotify.com/track/4qGgtuLYPCf3rApEDs7tgz) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Reggae Anthology: Joe Gibbs \- Scorchers From The Mighty Two](https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9) | 2:55 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 46 | [Sweep Over My Soul](https://open.spotify.com/track/5uSHCmZBRnSUcWcZ8kxWRk) | [Luciano](https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W) | [Sweep Over My Soul](https://open.spotify.com/album/1nluXd8QoqYjkRSr16r4qR) | 3:53 |
 | 47 | [Big Big](https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Big Big](https://open.spotify.com/album/6xeNkWALZtiy48cbs5rnDH) | 3:02 |
 | 48 | [Too Young](https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Good Life](https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz) | 3:47 |
-| 49 | [Trueversation \(feat\. Damian Marley\)](https://open.spotify.com/track/1NrhydZEnKzzrf4Q1UFdIq) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Climb](https://open.spotify.com/album/4nc9KnE9TK5ObJXkxYWk0z) | 3:39 |
-| 50 | [Put Down The Weapon \(feat\. Capleton\)](https://open.spotify.com/track/4UPNMTYRckH4PCrnTzNwpl) | [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Jah Love](https://open.spotify.com/album/2lC2ZgJcDOxOlHroVLcCbG) | 4:01 |
+| 49 | [Put Down The Weapon \(feat\. Capleton\)](https://open.spotify.com/track/4UPNMTYRckH4PCrnTzNwpl) | [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Jah Love](https://open.spotify.com/album/2lC2ZgJcDOxOlHroVLcCbG) | 4:01 |
+| 50 | [Trueversation \(feat\. Damian Marley\)](https://open.spotify.com/track/1NrhydZEnKzzrf4Q1UFdIq) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Climb](https://open.spotify.com/album/4nc9KnE9TK5ObJXkxYWk0z) | 3:39 |
 
-Snapshot ID: `MCxlZjI2Nzg2MTg2ODgzNTRkOTE2ODYxYTZmYTY2NDQxMGJhNmJlMjM1`
+Snapshot ID: `MCw3NGFiZWQ5MTY2ZDMyYjFkYjVlMmZmZDBmOGYwMmI2NWExNTViYzM5`

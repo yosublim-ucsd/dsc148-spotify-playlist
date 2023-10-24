@@ -4,7 +4,7 @@
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Estrella del Sol en portada.
 
-81 songs - 5 hr 27 min
+82 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 | 2022-06-20 |  |
 | [Placer Displacer](https://open.spotify.com/track/12vC5vhU42ZRY3LhAwOYVf) | [SEXES](https://open.spotify.com/artist/1Fq29HLbHUsplyoE5mMAFp) | [Placer Displacer](https://open.spotify.com/album/6Fs5XNxyodItJMJrqaI49a) | 3:26 | 2023-01-26 | 2023-03-25 |
 | [Poco a Poco](https://open.spotify.com/track/6PkkpizxjK7tcPU2uiZmiX) | [Entre Desiertos](https://open.spotify.com/artist/6EfZlD0Lw7RsNhDMlHH4YL) | [Entre Desiertos EP](https://open.spotify.com/album/3Qx9fOPVUCHp3CT42Jbvlw) | 5:02 | 2021-10-19 |  |
-| [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 | 2023-05-05 |  |
+| [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 | 2023-05-05 | 2023-10-24 |
+| [Purpura](https://open.spotify.com/track/6EGVCwrmaBn3IbQn22oms2) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Margaritas Podridas](https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t) | 2:54 | 2023-05-05 |  |
 | [Púrpura](https://open.spotify.com/track/3jtaAUbFSzfoKv6bVVo563) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Margaritas Podridas](https://open.spotify.com/album/0zEZh5PgV10xk2VM0GJ3Lm) | 2:54 | 2021-10-19 | 2023-10-16 |
 | [reina de primavera](https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [reina de primavera](https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y) | 4:05 | 2023-03-24 |  |
 | [S.O.S.](https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [S.O.S.](https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG) | 2:57 | 2023-05-05 |  |

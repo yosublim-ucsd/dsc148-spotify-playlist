@@ -1,12 +1,12 @@
 {
   "description": "maybe it's punk, maybe it's not. Cover: FEVER 333",
-  "num_followers": 213420,
+  "num_followers": 213789,
   "original_name": "unleashed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTNjZjk4MTRjMmFiY2M5OTE0MDY0M2JmODRlYTlmZDQyNmI3OTEz",
+  "snapshot_id": "MCxhMDA1NzRhNmI2ZDYwMzM3NDkwZDY3MGU0YjE4YmU0YjJiMTc1MGYy",
   "tracks": [
     {
       "added_at": "2023-06-02 15:50:28",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
+        "name": "Hate.",
+        "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Hate.",
+      "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
         "name": "burbank house",
         "url": "https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR"
       },
@@ -131,18 +147,18 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Hate.",
-        "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
+        "name": "WE MADE PLANS & GOD LAUGHED",
+        "url": "https://open.spotify.com/album/5FgNuzx7UBEvxlsCj9alLs"
       },
       "artists": [
         {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
         }
       ],
-      "duration_ms": 134769,
-      "name": "Hate.",
-      "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
+      "duration_ms": 189176,
+      "name": "A$$A$$IN",
+      "url": "https://open.spotify.com/track/4PBnRoQLcKk10imoZEbdKr"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -159,22 +175,6 @@
       "duration_ms": 196893,
       "name": "Doritos & Fritos",
       "url": "https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "WE MADE PLANS & GOD LAUGHED",
-        "url": "https://open.spotify.com/album/5FgNuzx7UBEvxlsCj9alLs"
-      },
-      "artists": [
-        {
-          "name": "Beauty School Dropout",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 189176,
-      "name": "A$$A$$IN",
-      "url": "https://open.spotify.com/track/4PBnRoQLcKk10imoZEbdKr"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "$wing",
-        "url": "https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 172353,
-      "name": "$wing",
-      "url": "https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "Notes On A Conditional Form",
         "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 158845,
       "name": "People",
       "url": "https://open.spotify.com/track/3ERlkLtr5K5C7VUqlDcNSR"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "$wing",
+        "url": "https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 172353,
+      "name": "$wing",
+      "url": "https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
+        "name": "Snake Eyes",
+        "url": "https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "duration_ms": 102751,
+      "name": "Hey Big Man",
+      "url": "https://open.spotify.com/track/6jgkLS7ADwuNskZyQ4cNbm"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
         "name": "My Mother Wants Me Dead",
         "url": "https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK"
       },
@@ -283,18 +299,18 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Snake Eyes",
-        "url": "https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM"
+        "name": "CRAWLER",
+        "url": "https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU"
       },
       "artists": [
         {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
         }
       ],
-      "duration_ms": 102751,
-      "name": "Hey Big Man",
-      "url": "https://open.spotify.com/track/6jgkLS7ADwuNskZyQ4cNbm"
+      "duration_ms": 233626,
+      "name": "Car Crash",
+      "url": "https://open.spotify.com/track/6u0vyETd4P1qIfggu3e2sU"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -351,22 +367,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "CRAWLER",
-        "url": "https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 233626,
-      "name": "Car Crash",
-      "url": "https://open.spotify.com/track/6u0vyETd4P1qIfggu3e2sU"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
       },
@@ -379,22 +379,6 @@
       "duration_ms": 300647,
       "name": "Flux",
       "url": "https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "old dog, new tricks",
-        "url": "https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 121604,
-      "name": "walking around with no hands",
-      "url": "https://open.spotify.com/track/26ZGLRIOtKcio6vF5ZVVd1"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -419,6 +403,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
+        "name": "old dog, new tricks",
+        "url": "https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 121604,
+      "name": "walking around with no hands",
+      "url": "https://open.spotify.com/track/26ZGLRIOtKcio6vF5ZVVd1"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
         "name": "LP!",
         "url": "https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh"
       },
@@ -431,6 +431,42 @@
       "duration_ms": 115044,
       "name": "END CREDITS!",
       "url": "https://open.spotify.com/track/5CPC6pA58SIDKwyje76vBR"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Comfort To Me",
+        "url": "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Security",
+      "url": "https://open.spotify.com/track/2MYFQY0BKWPdgqnIYses9T"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/6U3qLDX1lXysYs3587iVOV"
+      },
+      "artists": [
+        {
+          "name": "Frank Carter & The Rattlesnakes",
+          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
+        },
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "duration_ms": 158546,
+      "name": "Go Get A Tattoo",
+      "url": "https://open.spotify.com/track/7tPXk1owYIRdxRsitIxqOU"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -460,12 +496,12 @@
           "url": "https://open.spotify.com/artist/4j8joGNndygibHb37LVwRo"
         },
         {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
-        },
-        {
           "name": "poptropicaslutz!",
           "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        },
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
         }
       ],
       "duration_ms": 101077,
@@ -475,22 +511,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Sticky",
-        "url": "https://open.spotify.com/album/6U3qLDX1lXysYs3587iVOV"
+        "name": "cyanide (feat. cryogeyser)",
+        "url": "https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi"
       },
       "artists": [
         {
-          "name": "Frank Carter & The Rattlesnakes",
-          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
         },
         {
-          "name": "Lynks",
-          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+          "name": "Cryogeyser",
+          "url": "https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ"
         }
       ],
-      "duration_ms": 158546,
-      "name": "Go Get A Tattoo",
-      "url": "https://open.spotify.com/track/7tPXk1owYIRdxRsitIxqOU"
+      "duration_ms": 125389,
+      "name": "cyanide (feat. cryogeyser)",
+      "url": "https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -527,26 +563,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "cyanide (feat. cryogeyser)",
-        "url": "https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        },
-        {
-          "name": "Cryogeyser",
-          "url": "https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ"
-        }
-      ],
-      "duration_ms": 125389,
-      "name": "cyanide (feat. cryogeyser)",
-      "url": "https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "Between the Richness",
         "url": "https://open.spotify.com/album/64nJrI2yp3eCST6qjNAgPG"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 208360,
       "name": "Gatekeepers",
       "url": "https://open.spotify.com/track/63pBzNTtzByif59lsK3dou"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "Comfort To Me",
-        "url": "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Security",
-      "url": "https://open.spotify.com/track/2MYFQY0BKWPdgqnIYses9T"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -627,6 +627,54 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
+        "name": "MEN",
+        "url": "https://open.spotify.com/album/4g0eoSt8b8hsXudzxwhbV1"
+      },
+      "artists": [
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Silly Boy",
+      "url": "https://open.spotify.com/track/6dVCwIlxXWjyOumob05IPQ"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Let Me Do One More",
+        "url": "https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f"
+      },
+      "artists": [
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        }
+      ],
+      "duration_ms": 187870,
+      "name": "Pool Hopping",
+      "url": "https://open.spotify.com/track/4iw5jzsl4j1g82b2VcSVeM"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Nothin",
+        "url": "https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES"
+      },
+      "artists": [
+        {
+          "name": "Worry Club",
+          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
+        }
+      ],
+      "duration_ms": 167112,
+      "name": "Nothin",
+      "url": "https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
         "name": "Problem",
         "url": "https://open.spotify.com/album/5vq7LWqM1uG30jVJNKko2j"
       },
@@ -651,54 +699,6 @@
       "duration_ms": 177281,
       "name": "Problem",
       "url": "https://open.spotify.com/track/687kVR9VK3VtaT3quGOe3y"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "Let Me Do One More",
-        "url": "https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f"
-      },
-      "artists": [
-        {
-          "name": "illuminati hotties",
-          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
-        }
-      ],
-      "duration_ms": 187870,
-      "name": "Pool Hopping",
-      "url": "https://open.spotify.com/track/4iw5jzsl4j1g82b2VcSVeM"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "MEN",
-        "url": "https://open.spotify.com/album/4g0eoSt8b8hsXudzxwhbV1"
-      },
-      "artists": [
-        {
-          "name": "Lynks",
-          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Silly Boy",
-      "url": "https://open.spotify.com/track/6dVCwIlxXWjyOumob05IPQ"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "Nothin",
-        "url": "https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES"
-      },
-      "artists": [
-        {
-          "name": "Worry Club",
-          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
-        }
-      ],
-      "duration_ms": 167112,
-      "name": "Nothin",
-      "url": "https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Date With Death",
-        "url": "https://open.spotify.com/album/53APyRUyeCXI7jislWMpRA"
-      },
-      "artists": [
-        {
-          "name": "Paris Shadows",
-          "url": "https://open.spotify.com/artist/2mxplErmRMbGaSiAsDONkT"
-        },
-        {
-          "name": "heffy",
-          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
-        }
-      ],
-      "duration_ms": 119215,
-      "name": "Date With Death",
-      "url": "https://open.spotify.com/track/51JGjj0xewUWWCLKr152nU"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -779,18 +759,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Please Don't Think About Tomorrow",
-        "url": "https://open.spotify.com/album/5vUGjMxVmPZGqgwRPPZEuF"
+        "name": "Date With Death",
+        "url": "https://open.spotify.com/album/53APyRUyeCXI7jislWMpRA"
       },
       "artists": [
         {
-          "name": "distraction4ever",
-          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+          "name": "Paris Shadows",
+          "url": "https://open.spotify.com/artist/2mxplErmRMbGaSiAsDONkT"
+        },
+        {
+          "name": "heffy",
+          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
         }
       ],
-      "duration_ms": 183750,
-      "name": "City",
-      "url": "https://open.spotify.com/track/3cOZ6Q9OeQtKGgK8w4B8y3"
+      "duration_ms": 119215,
+      "name": "Date With Death",
+      "url": "https://open.spotify.com/track/51JGjj0xewUWWCLKr152nU"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -823,6 +807,22 @@
       "duration_ms": 179784,
       "name": "Bet My Blood",
       "url": "https://open.spotify.com/track/3k148B0XDmtKhGjC2fBgND"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Please Don't Think About Tomorrow",
+        "url": "https://open.spotify.com/album/5vUGjMxVmPZGqgwRPPZEuF"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "City",
+      "url": "https://open.spotify.com/track/3cOZ6Q9OeQtKGgK8w4B8y3"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "ALLIGATOR",
-        "url": "https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb"
-      },
-      "artists": [
-        {
-          "name": "NOISY",
-          "url": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
-        }
-      ],
-      "duration_ms": 149026,
-      "name": "ALLIGATOR",
-      "url": "https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "Leather",
         "url": "https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Telephones 4 Eyes",
-        "url": "https://open.spotify.com/album/2MVGRJl2Yqaz2hqWPRfcZa"
+        "name": "ALLIGATOR",
+        "url": "https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb"
       },
       "artists": [
         {
-          "name": "Hak Baker",
-          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
+          "name": "NOISY",
+          "url": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
         }
       ],
-      "duration_ms": 189680,
-      "name": "Telephones 4 Eyes",
-      "url": "https://open.spotify.com/track/5ekvvfG6BvA4Jojm6Brpor"
+      "duration_ms": 149026,
+      "name": "ALLIGATOR",
+      "url": "https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -987,34 +971,18 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Love You Forever",
-        "url": "https://open.spotify.com/album/1Dhav3eZHLNgwZhtoxpz72"
+        "name": "Telephones 4 Eyes",
+        "url": "https://open.spotify.com/album/2MVGRJl2Yqaz2hqWPRfcZa"
       },
       "artists": [
         {
-          "name": "THICK",
-          "url": "https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli"
+          "name": "Hak Baker",
+          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
         }
       ],
-      "duration_ms": 146490,
-      "name": "Love You Forever",
-      "url": "https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "Crybaby (On the Phone)",
-        "url": "https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn"
-      },
-      "artists": [
-        {
-          "name": "Mom Jeans.",
-          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
-        }
-      ],
-      "duration_ms": 143597,
-      "name": "Crybaby (On the Phone)",
-      "url": "https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag"
+      "duration_ms": 189680,
+      "name": "Telephones 4 Eyes",
+      "url": "https://open.spotify.com/track/5ekvvfG6BvA4Jojm6Brpor"
     },
     {
       "added_at": "2023-07-11 12:10:03",
@@ -1051,18 +1019,34 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Get Yourself A Friend",
-        "url": "https://open.spotify.com/album/1UgBF6FuYhQnnKPuPnxbVD"
+        "name": "Crybaby (On the Phone)",
+        "url": "https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn"
       },
       "artists": [
         {
-          "name": "Ultra Q",
-          "url": "https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3"
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
         }
       ],
-      "duration_ms": 212000,
-      "name": "It's Permanent",
-      "url": "https://open.spotify.com/track/3OGkTlzC4Se6z6e9eEwMOt"
+      "duration_ms": 143597,
+      "name": "Crybaby (On the Phone)",
+      "url": "https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Love You Forever",
+        "url": "https://open.spotify.com/album/1Dhav3eZHLNgwZhtoxpz72"
+      },
+      "artists": [
+        {
+          "name": "THICK",
+          "url": "https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli"
+        }
+      ],
+      "duration_ms": 146490,
+      "name": "Love You Forever",
+      "url": "https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -1079,6 +1063,38 @@
       "duration_ms": 129964,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6yYm8XwZS69BzCXGRmfWU9"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Thirst",
+        "url": "https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1"
+      },
+      "artists": [
+        {
+          "name": "DYGL",
+          "url": "https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs"
+        }
+      ],
+      "duration_ms": 160896,
+      "name": "Dazzling",
+      "url": "https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Get Yourself A Friend",
+        "url": "https://open.spotify.com/album/1UgBF6FuYhQnnKPuPnxbVD"
+      },
+      "artists": [
+        {
+          "name": "Ultra Q",
+          "url": "https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "It's Permanent",
+      "url": "https://open.spotify.com/track/3OGkTlzC4Se6z6e9eEwMOt"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -1111,6 +1127,22 @@
       "duration_ms": 165354,
       "name": "I Want Attention",
       "url": "https://open.spotify.com/track/4ZVXl0izo6Gz3cGf1uXGQF"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "grim value",
+        "url": "https://open.spotify.com/album/63se1zqIgvcKzzOfqIbR8m"
+      },
+      "artists": [
+        {
+          "name": "Eve 6",
+          "url": "https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8"
+        }
+      ],
+      "duration_ms": 146845,
+      "name": "i wanna bite your face",
+      "url": "https://open.spotify.com/track/0TmhK8MuZrWow9HUp6fH5c"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -1151,22 +1183,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "grim value",
-        "url": "https://open.spotify.com/album/63se1zqIgvcKzzOfqIbR8m"
-      },
-      "artists": [
-        {
-          "name": "Eve 6",
-          "url": "https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8"
-        }
-      ],
-      "duration_ms": 146845,
-      "name": "i wanna bite your face",
-      "url": "https://open.spotify.com/track/0TmhK8MuZrWow9HUp6fH5c"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "I Raise You (The Price of Your Head)",
         "url": "https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt"
       },
@@ -1199,38 +1215,6 @@
       "duration_ms": 138240,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "Thirst",
-        "url": "https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1"
-      },
-      "artists": [
-        {
-          "name": "DYGL",
-          "url": "https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs"
-        }
-      ],
-      "duration_ms": 160896,
-      "name": "Dazzling",
-      "url": "https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "for a reason",
-        "url": "https://open.spotify.com/album/3kZ0FQQ6Wi46hp6TKDT389"
-      },
-      "artists": [
-        {
-          "name": "plxntkid",
-          "url": "https://open.spotify.com/artist/18Slf2vmL64UBt4TTU9cHY"
-        }
-      ],
-      "duration_ms": 135470,
-      "name": "for a reason",
-      "url": "https://open.spotify.com/track/10pjqdHFr1ZjO5nrU6Crwz"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -1283,34 +1267,18 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "pity party (hyperpunk remix)",
-        "url": "https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF"
+        "name": "for a reason",
+        "url": "https://open.spotify.com/album/3kZ0FQQ6Wi46hp6TKDT389"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "plxntkid",
+          "url": "https://open.spotify.com/artist/18Slf2vmL64UBt4TTU9cHY"
         }
       ],
-      "duration_ms": 156879,
-      "name": "pity party (hyperpunk remix)",
-      "url": "https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "Inmyhead",
-        "url": "https://open.spotify.com/album/7i2CHuloY8dRbEik146DCy"
-      },
-      "artists": [
-        {
-          "name": "Beach Bums",
-          "url": "https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Inmyhead",
-      "url": "https://open.spotify.com/track/3182DPj7zQBXxiyy8rhaQp"
+      "duration_ms": 135470,
+      "name": "for a reason",
+      "url": "https://open.spotify.com/track/10pjqdHFr1ZjO5nrU6Crwz"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -1331,6 +1299,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
+        "name": "Inmyhead",
+        "url": "https://open.spotify.com/album/7i2CHuloY8dRbEik146DCy"
+      },
+      "artists": [
+        {
+          "name": "Beach Bums",
+          "url": "https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Inmyhead",
+      "url": "https://open.spotify.com/track/3182DPj7zQBXxiyy8rhaQp"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
         "name": "You Are a Runner and I Am My Father's Son",
         "url": "https://open.spotify.com/album/2LAC5rux87C29bv8vuhEgj"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 255535,
       "name": "New Slang",
       "url": "https://open.spotify.com/track/1sRjSllwLDh0xHgZCywXmf"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "pity party (hyperpunk remix)",
+        "url": "https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 156879,
+      "name": "pity party (hyperpunk remix)",
+      "url": "https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL"
     },
     {
       "added_at": "2023-06-02 15:50:28",

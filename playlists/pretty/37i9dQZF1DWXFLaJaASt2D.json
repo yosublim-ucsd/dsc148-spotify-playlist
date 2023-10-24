@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks for punks big and small.",
-  "num_followers": 56358,
+  "num_followers": 56417,
   "original_name": "Raised on Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2Q4ZjMwNDRhNzYyNmJmOWVhNWZhZjg2NzczOGFiNTY3ODBlNzI3",
+  "snapshot_id": "MCxhNmY5YjY0MGJhZTQxN2YxMGVjYzkzY2JiM2FjNmI3MjAzNWNjZDRm",
   "tracks": [
     {
       "added_at": "2021-04-20 17:48:20",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "When I Come Around",
-      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 257826,
       "name": "Self Esteem",
       "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "When I Come Around",
+      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -203,6 +203,22 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 163226,
       "name": "No Cigar",
       "url": "https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -315,22 +315,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Social Distortion",
-        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
-      },
-      "artists": [
-        {
-          "name": "Social Distortion",
-          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Through The Looking Glass (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 309306,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Social Distortion",
+        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
+      },
+      "artists": [
+        {
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-01-10 21:04:09",
       "album": {
-        "name": "This Year's Model (2021 Remaster)",
-        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Pump It Up - 2021 Remaster",
-      "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
-    },
-    {
-      "added_at": "2022-01-10 21:04:09",
-      "album": {
         "name": "Off The Bone",
         "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 136426,
       "name": "Human Fly",
       "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
+    },
+    {
+      "added_at": "2022-01-10 21:04:09",
+      "album": {
+        "name": "This Year's Model (2021 Remaster)",
+        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Pump It Up - 2021 Remaster",
+      "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 126453,
-      "name": "Rockaway Beach - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Social Distortion",
         "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
       },
@@ -663,6 +647,38 @@
       "duration_ms": 230773,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Let\u2019s Face It",
+        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 195195,
+      "name": "The Impression That I Get",
+      "url": "https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 126453,
+      "name": "Rockaway Beach - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -759,22 +775,6 @@
       "duration_ms": 212373,
       "name": "Worker's Song",
       "url": "https://open.spotify.com/track/6GHfiU4OrRvOVuC9yn8Txl"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Let\u2019s Face It",
-        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 195195,
-      "name": "The Impression That I Get",
-      "url": "https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR"
     },
     {
       "added_at": "2021-04-20 17:48:20",

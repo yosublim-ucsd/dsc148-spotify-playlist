@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 2000. \n\n",
-  "num_followers": 200123,
+  "num_followers": 200305,
   "original_name": "Rock en Espa\u00f1ol: Los 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzUxMGQ1YjYzYTdmMDMyZmI2YTY0MTAyOWMzYjdjYmEzOGI5ZTA2",
+  "snapshot_id": "MCwxZDk1NGUxMmE4NmE4OGE0NmM4ZjZmZTcyOWY3ZTEyMjg0ZGVlY2Fk",
   "tracks": [
     {
       "added_at": "2022-07-06 19:51:55",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
         "name": "El Primer Instinto",
         "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
       },
@@ -271,22 +287,6 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Lim\u00f3n y Sal",
-      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
         "name": "Amar Es Combatir",
         "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
@@ -299,22 +299,6 @@
       "duration_ms": 317626,
       "name": "Labios Compartidos",
       "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
-        "name": "Commercial",
-        "url": "https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -335,18 +319,34 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Vicentico",
-        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
       "artists": [
         {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 218440,
-      "name": "Algo Contigo",
-      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
+      "duration_ms": 193373,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
+        "name": "Commercial",
+        "url": "https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -363,6 +363,22 @@
       "duration_ms": 236426,
       "name": "Llueve Sobre La Ciudad",
       "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
+        "name": "Vicentico",
+        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Algo Contigo",
+      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -415,22 +431,6 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Andar Conmigo",
-      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
         "name": "Lo mas lejos a tu lado",
         "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
       },
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
         "name": "Amantes Sunt Amentes",
         "url": "https://open.spotify.com/album/1IPg7NZ0YLxARNx5Qs4936"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 225706,
       "name": "Putita",
       "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
     },
     {
       "added_at": "2022-07-06 19:51:55",

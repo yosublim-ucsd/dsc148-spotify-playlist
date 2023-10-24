@@ -1,12 +1,12 @@
 {
   "description": "Celebramos a las figuras legendarias del rock en nuestro idioma. Foto: Soda Stereo.",
-  "num_followers": 628337,
+  "num_followers": 628562,
   "original_name": "Iconos del Rock Latinoamericano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmFkN2FjYWM3MjY1YWRkZGNmYjZlMDY2YTg2Y2U5NWRkYzA1OTg2",
+  "snapshot_id": "MCw4NTdjNjRkODU5ZWRjZGUxYmQ2MzYzMGYwMzg2NzlhM2VhNzlkYTVm",
   "tracks": [
     {
       "added_at": "2022-05-20 13:11:18",
@@ -171,38 +171,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Las baladas (Los singles vol II)",
-        "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Te quiero",
-      "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "Falta Amor",
-        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Rayando el Sol",
-      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "El Nervio Del Volcan",
         "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
       },
@@ -231,6 +199,38 @@
       "duration_ms": 168344,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/7JEnT0uFWcwZqNZWv7hC9N"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Falta Amor",
+        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Rayando el Sol",
+      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Las baladas (Los singles vol II)",
+        "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "La C\u00e9lula Que Explota",
+      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
         "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
         "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 226626,
       "name": "So\u00f1\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 310813,
-      "name": "Clavado en Un Bar",
-      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "La C\u00e9lula Que Explota",
-      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Amantes Sunt Amentes",
         "url": "https://open.spotify.com/album/1IPg7NZ0YLxARNx5Qs4936"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 207786,
       "name": "Los Malaventurados No Lloran",
       "url": "https://open.spotify.com/track/66PRDvzBHhbcdbc4T4mrZY"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 310813,
+      "name": "Clavado en Un Bar",
+      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
+        "name": "El Silencio",
+        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "No Dejes Que...",
+      "url": "https://open.spotify.com/track/5nzEilkVhvnCD0xpW3raTy"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
         "name": "El Que Busca Encuentra",
         "url": "https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 310146,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 352160,
-      "name": "En El Muelle de San Blas",
-      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -427,34 +427,34 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
+        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
       },
       "artists": [
         {
-          "name": "La Uni\u00f3n",
-          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 233266,
-      "name": "Lobo-hombre en Par\u00eds",
-      "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
+      "duration_ms": 253186,
+      "name": "Maldito duende",
+      "url": "https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE"
     },
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "El Silencio",
-        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
       "artists": [
         {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 279160,
-      "name": "No Dejes Que...",
-      "url": "https://open.spotify.com/track/5nzEilkVhvnCD0xpW3raTy"
+      "duration_ms": 352160,
+      "name": "En El Muelle de San Blas",
+      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
       },
       "artists": [
         {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
         }
       ],
-      "duration_ms": 253186,
-      "name": "Maldito duende",
-      "url": "https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE"
+      "duration_ms": 233266,
+      "name": "Lobo-hombre en Par\u00eds",
+      "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
         "name": "Avalancha de \u00e9xitos",
         "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
       },
@@ -551,6 +567,22 @@
       "duration_ms": 214880,
       "name": "Como te extra\u00f1o mi amor",
       "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "Luna - En Vivo",
+      "url": "https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -599,38 +631,6 @@
       "duration_ms": 231800,
       "name": "Sabor a Chocolate",
       "url": "https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "Luna - En Vivo",
-      "url": "https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
-        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
-      },
-      "artists": [
-        {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
-        }
-      ],
-      "duration_ms": 282760,
-      "name": "Mi Vida",
-      "url": "https://open.spotify.com/track/4f6bE40jl7zuFJ3cOCwaI1"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Corazones",
         "url": "https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 336933,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/6W1BLmVBxkqZwFQcORQLnv"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
+        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
+      },
+      "artists": [
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        }
+      ],
+      "duration_ms": 282760,
+      "name": "Mi Vida",
+      "url": "https://open.spotify.com/track/4f6bE40jl7zuFJ3cOCwaI1"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Programaton",
-        "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
+        "name": "Dance And Dense Denso",
+        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
       },
       "artists": [
         {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
         }
       ],
-      "duration_ms": 252693,
-      "name": "Arrullo De Estrellas",
-      "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
+      "duration_ms": 210133,
+      "name": "Frijolero",
+      "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -875,34 +875,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Dance And Dense Denso",
-        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
+        "name": "Programaton",
+        "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
       },
       "artists": [
         {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 210133,
-      "name": "Frijolero",
-      "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "Elefante",
-        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
+      "duration_ms": 252693,
+      "name": "Arrullo De Estrellas",
+      "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -919,6 +903,22 @@
       "duration_ms": 267826,
       "name": "Bailando Solo",
       "url": "https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Elefante",
+        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 368320,
       "name": "Entre dos tierras",
       "url": "https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1115,38 +1115,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Clics Modernos",
-        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 206720,
-      "name": "Nos Siguen Pegando Abajo",
-      "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "Infame",
-        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 225706,
-      "name": "Putita",
-      "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -1163,6 +1131,22 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Nos Siguen Pegando Abajo",
+      "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 135133,
       "name": "Las flores",
       "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 225706,
+      "name": "Putita",
+      "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G"
-      },
-      "artists": [
-        {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
-        }
-      ],
-      "duration_ms": 157106,
-      "name": "El Microbito",
-      "url": "https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Mucho",
-        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
         }
       ],
-      "duration_ms": 240520,
-      "name": "Como Eran Las Cosas",
-      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
+      "duration_ms": 157106,
+      "name": "El Microbito",
+      "url": "https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1307,6 +1291,22 @@
       "duration_ms": 215266,
       "name": "Comprendes, Mendes?",
       "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Mucho",
+        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 240520,
+      "name": "Como Eran Las Cosas",
+      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Y Que",
-      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Las Consecuencias",
         "url": "https://open.spotify.com/album/2oOUx7YZnwBm4tshQbhdyO"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 233960,
       "name": "Frente a frente (feat. Tulsa)",
       "url": "https://open.spotify.com/track/5kFkQoKmsuRZjjS4GEaxNj"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Y Que",
+      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 273306,
+      "name": "Pronta Entrega",
+      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
         "name": "Buscando un Amor",
         "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 161133,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
-        "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
-      },
-      "artists": [
-        {
-          "name": "Los Amantes De Lola",
-          "url": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
-        }
-      ],
-      "duration_ms": 276773,
-      "name": "Beber de Tu Sangre",
-      "url": "https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+        "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
+        "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
       },
       "artists": [
         {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+          "name": "Los Amantes De Lola",
+          "url": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
         }
       ],
-      "duration_ms": 273306,
-      "name": "Pronta Entrega",
-      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
+      "duration_ms": 276773,
+      "name": "Beber de Tu Sangre",
+      "url": "https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG"
     },
     {
       "added_at": "2022-05-20 13:11:18",

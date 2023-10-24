@@ -1,12 +1,12 @@
 {
   "description": "The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh",
-  "num_followers": 171307,
+  "num_followers": 171355,
   "original_name": "Latino Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTgyMmI0N2Y3NmNhYTlkNGQyMTMxZDNhYzZiM2VjMTA5NTRmNGUz",
+  "snapshot_id": "MCw4YTc0ODVlYjJhMGZkOTk2MjUwNGViNGQ4NWQ0M2I1ZmUxYmM4YmI0",
   "tracks": [
     {
       "added_at": "2023-09-22 07:16:39",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "Prestige",
-        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "MIRAGE (feat. Ozuna, Sfera Ebbasta & GIMS)",
         "url": "https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH"
       },
@@ -531,6 +515,42 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 203186,
+      "name": "Mayores",
+      "url": "https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
         "name": "Baila Baila Baila (Remix) [feat. Farruko, Anuel Aa]",
         "url": "https://open.spotify.com/album/2njbaonul4fuGOFmPchUgU"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 235284,
       "name": "Baila Baila Baila - Remix",
       "url": "https://open.spotify.com/track/7mWFF4gPADjTQjC97CgFVt"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 203186,
-      "name": "Mayores",
-      "url": "https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Baila Baila Baila",
-      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -691,34 +675,6 @@
       "duration_ms": 218826,
       "name": "COMO UN BEB\u00c9",
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
-      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -751,6 +707,50 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/0KkIkfsLEJbrcIhYsCL7L5"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Baila Baila Baila",
+      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -851,26 +851,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "D\u00c9JALO EN VISTO",
-        "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 189918,
-      "name": "D\u00c9JALO EN VISTO",
-      "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 130666,
       "name": "In Da Getto",
       "url": "https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "D\u00c9JALO EN VISTO",
+        "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 189918,
+      "name": "D\u00c9JALO EN VISTO",
+      "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -1039,18 +1039,22 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "Bruk Off Yuh Back",
-        "url": "https://open.spotify.com/album/46SMy1MXYZq5qnIpHKAd1U"
+        "name": "LFG",
+        "url": "https://open.spotify.com/album/0Wjc11cdyOt2mvMCBrTTvU"
       },
       "artists": [
         {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        },
+        {
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
         }
       ],
-      "duration_ms": 173465,
-      "name": "Bruk Off Yuh Back",
-      "url": "https://open.spotify.com/track/30mNHDOw7qD5SF8tBeuPpu"
+      "duration_ms": 158837,
+      "name": "DROP TOP (feat. Eddie Zuko)",
+      "url": "https://open.spotify.com/track/4iVlQcJQfbp9CZVLZsfIoS"
     }
   ],
   "unique_name": "Latino Global",

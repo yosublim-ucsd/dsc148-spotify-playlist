@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 17469,
+  "num_followers": 17482,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTcwMDI5MzY1MzBmMDdmYWE3YTBiNjY0ODYwZjc0NTIzODhkNmQ4",
+  "snapshot_id": "MCxhZTA0MGI1YTg0NmU3MjlhNzRhN2E4MDQ0YWY1MmY4NzE4ZWY4OTFh",
   "tracks": [
     {
       "added_at": "2023-08-11 14:55:17",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
-      },
-      "artists": [
-        {
-          "name": "Tita Merello",
-          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
-        }
-      ],
-      "duration_ms": 183040,
-      "name": "El Choclo",
-      "url": "https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
         "name": "Vientos del Sur",
         "url": "https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1"
       },
@@ -183,22 +167,6 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Tangos de Lengue",
-        "url": "https://open.spotify.com/album/2rtuc3kn27unPR4F8B2nGH"
-      },
-      "artists": [
-        {
-          "name": "Adriana Varela",
-          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
-        }
-      ],
-      "duration_ms": 188464,
-      "name": "Los Mareados",
-      "url": "https://open.spotify.com/track/6m63Jr9CRpaOlwhO7ZUe1n"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
         "name": "Nelly Omar - Desde el alma",
         "url": "https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx"
       },
@@ -215,22 +183,34 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO"
+        "name": "Tangos de Lengue",
+        "url": "https://open.spotify.com/album/2rtuc3kn27unPR4F8B2nGH"
       },
       "artists": [
         {
-          "name": "Nina Miranda",
-          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
-        },
-        {
-          "name": "Donato Racciatti y Su Orquesta T\u00edpica",
-          "url": "https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t"
+          "name": "Adriana Varela",
+          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
         }
       ],
-      "duration_ms": 148293,
-      "name": "Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP"
+      "duration_ms": 188464,
+      "name": "Los Mareados",
+      "url": "https://open.spotify.com/track/6m63Jr9CRpaOlwhO7ZUe1n"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
+      },
+      "artists": [
+        {
+          "name": "Tita Merello",
+          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "El Choclo",
+      "url": "https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -259,6 +239,26 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
+        "name": "Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO"
+      },
+      "artists": [
+        {
+          "name": "Nina Miranda",
+          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
+        },
+        {
+          "name": "Donato Racciatti y Su Orquesta T\u00edpica",
+          "url": "https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t"
+        }
+      ],
+      "duration_ms": 148293,
+      "name": "Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
         "name": "En El Underground",
         "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
       },
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Martingala",
-        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
+        "name": "Adriana Varela y Piano",
+        "url": "https://open.spotify.com/album/7yndjj9dS2GfQzQQiZzWpv"
       },
       "artists": [
         {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+          "name": "Adriana Varela",
+          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
         }
       ],
-      "duration_ms": 183177,
-      "name": "Villa Crespo",
-      "url": "https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59"
+      "duration_ms": 193066,
+      "name": "Por una Cabeza",
+      "url": "https://open.spotify.com/track/0qVDC2Swbbs7VrgZu3fe6P"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Morir de Amor",
-        "url": "https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo"
+        "name": "Nelly Omar - Desde el alma",
+        "url": "https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx"
       },
       "artists": [
         {
-          "name": "Soledad Villamil",
-          "url": "https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD"
+          "name": "Nelly Omar",
+          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
         }
       ],
-      "duration_ms": 197973,
-      "name": "La Canci\u00f3n y el Poema (Morir de Amor)",
-      "url": "https://open.spotify.com/track/5FF4C9ZJQdK8vRDiPAy3Nc"
+      "duration_ms": 157546,
+      "name": "Parece mentira",
+      "url": "https://open.spotify.com/track/7MteYKBjWmnGAGuWlSsZ8i"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -359,34 +359,18 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Adriana Varela y Piano",
-        "url": "https://open.spotify.com/album/7yndjj9dS2GfQzQQiZzWpv"
+        "name": "Martingala",
+        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
       },
       "artists": [
         {
-          "name": "Adriana Varela",
-          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
         }
       ],
-      "duration_ms": 193066,
-      "name": "Por una Cabeza",
-      "url": "https://open.spotify.com/track/0qVDC2Swbbs7VrgZu3fe6P"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
-        "name": "Nelly Omar - Desde el alma",
-        "url": "https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx"
-      },
-      "artists": [
-        {
-          "name": "Nelly Omar",
-          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
-        }
-      ],
-      "duration_ms": 157546,
-      "name": "Parece mentira",
-      "url": "https://open.spotify.com/track/7MteYKBjWmnGAGuWlSsZ8i"
+      "duration_ms": 183177,
+      "name": "Villa Crespo",
+      "url": "https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -423,22 +407,18 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
+        "name": "Morir de Amor",
+        "url": "https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo"
       },
       "artists": [
         {
-          "name": "Tita Merello",
-          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
-        },
-        {
-          "name": "Francisco Canaro Y Su Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
+          "name": "Soledad Villamil",
+          "url": "https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD"
         }
       ],
-      "duration_ms": 113213,
-      "name": "Pipistrela",
-      "url": "https://open.spotify.com/track/6MZlsIdezdAiBwrZrxweNd"
+      "duration_ms": 197973,
+      "name": "La Canci\u00f3n y el Poema (Morir de Amor)",
+      "url": "https://open.spotify.com/track/5FF4C9ZJQdK8vRDiPAy3Nc"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -459,6 +439,26 @@
       "duration_ms": 238826,
       "name": "Nada",
       "url": "https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
+      },
+      "artists": [
+        {
+          "name": "Tita Merello",
+          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
+        },
+        {
+          "name": "Francisco Canaro Y Su Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
+        }
+      ],
+      "duration_ms": 113213,
+      "name": "Pipistrela",
+      "url": "https://open.spotify.com/track/6MZlsIdezdAiBwrZrxweNd"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
+        "name": "Un sue\u00f1o de barrio",
+        "url": "https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz"
+      },
+      "artists": [
+        {
+          "name": "Mirta Uguet",
+          "url": "https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O"
+        }
+      ],
+      "duration_ms": 208384,
+      "name": "Confidencias",
+      "url": "https://open.spotify.com/track/53573za1S0cPRlR9TudWro"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 209866,
       "name": "Fruta Amarga",
       "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
-        "name": "Un sue\u00f1o de barrio",
-        "url": "https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz"
-      },
-      "artists": [
-        {
-          "name": "Mirta Uguet",
-          "url": "https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O"
-        }
-      ],
-      "duration_ms": 208384,
-      "name": "Confidencias",
-      "url": "https://open.spotify.com/track/53573za1S0cPRlR9TudWro"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -559,38 +559,6 @@
       "duration_ms": 178706,
       "name": "Tango Negro",
       "url": "https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
-        "name": "Toda Mi Vida",
-        "url": "https://open.spotify.com/album/17AJEwOMBmI6xhykdOBCI7"
-      },
-      "artists": [
-        {
-          "name": "Adriana Varela",
-          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
-        }
-      ],
-      "duration_ms": 248613,
-      "name": "Garganta Con Arena",
-      "url": "https://open.spotify.com/track/6BjIumHEDyRxgocfAfwsXL"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
-        "name": "Presentando a Mercedes Simone",
-        "url": "https://open.spotify.com/album/6HNgJ8dZflujytFtS4TUm3"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Simone",
-          "url": "https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Milonga Sentimental",
-      "url": "https://open.spotify.com/track/1uJeHbIPeOKGfEEJujJkP7"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -631,6 +599,38 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
+        "name": "Toda Mi Vida",
+        "url": "https://open.spotify.com/album/17AJEwOMBmI6xhykdOBCI7"
+      },
+      "artists": [
+        {
+          "name": "Adriana Varela",
+          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
+        }
+      ],
+      "duration_ms": 248613,
+      "name": "Garganta Con Arena",
+      "url": "https://open.spotify.com/track/6BjIumHEDyRxgocfAfwsXL"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "Presentando a Mercedes Simone",
+        "url": "https://open.spotify.com/album/6HNgJ8dZflujytFtS4TUm3"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Simone",
+          "url": "https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Milonga Sentimental",
+      "url": "https://open.spotify.com/track/1uJeHbIPeOKGfEEJujJkP7"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
         "name": "Milonga del Desocupado",
         "url": "https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
-        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
-      },
-      "artists": [
-        {
-          "name": "Libertad Lamarque",
-          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
-        }
-      ],
-      "duration_ms": 156155,
-      "name": "El d\u00eda que me quieras - Remastered",
-      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
         "name": "Soledad",
         "url": "https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj"
       },
@@ -695,22 +679,6 @@
       "duration_ms": 231373,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi"
-      },
-      "artists": [
-        {
-          "name": "Eladia Bl\u00e1zquez",
-          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "Adios Nonino",
-      "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -751,6 +719,38 @@
       "duration_ms": 243893,
       "name": "El Coraz\u00f3n al Sur",
       "url": "https://open.spotify.com/track/5t0QIkUpZOoejnKXeZ8z2s"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
+        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
+      },
+      "artists": [
+        {
+          "name": "Libertad Lamarque",
+          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+        }
+      ],
+      "duration_ms": 156155,
+      "name": "El d\u00eda que me quieras - Remastered",
+      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi"
+      },
+      "artists": [
+        {
+          "name": "Eladia Bl\u00e1zquez",
+          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
+        }
+      ],
+      "duration_ms": 286093,
+      "name": "Adios Nonino",
+      "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Virginia Luque Cronolog\u00eda - La Estrella de Buenos Aires (1968)",
-        "url": "https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2"
-      },
-      "artists": [
-        {
-          "name": "Virginia Luque",
-          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
-        }
-      ],
-      "duration_ms": 155280,
-      "name": "La Morocha",
-      "url": "https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
         "name": "Temas Pendientes",
         "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 165546,
       "name": "Mu\u00f1eca Brava",
       "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "Virginia Luque Cronolog\u00eda - La Estrella de Buenos Aires (1968)",
+        "url": "https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2"
+      },
+      "artists": [
+        {
+          "name": "Virginia Luque",
+          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
+        }
+      ],
+      "duration_ms": 155280,
+      "name": "La Morocha",
+      "url": "https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Yo No Se Que Me Han Hecho Tus Ojos",
-        "url": "https://open.spotify.com/album/5TgkprMzhtnfMAEZFChOcy"
-      },
-      "artists": [
-        {
-          "name": "Ada Falc\u00f3n",
-          "url": "https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3"
-        }
-      ],
-      "duration_ms": 208426,
-      "name": "Yo No Se Que Me Han Hecho Tus Ojos",
-      "url": "https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
         "name": "Tal Vez Ser\u00e1 Su Voz",
         "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 265679,
       "name": "Tal vez ser\u00e1 su voz",
       "url": "https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "Yo No Se Que Me Han Hecho Tus Ojos",
+        "url": "https://open.spotify.com/album/5TgkprMzhtnfMAEZFChOcy"
+      },
+      "artists": [
+        {
+          "name": "Ada Falc\u00f3n",
+          "url": "https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3"
+        }
+      ],
+      "duration_ms": 208426,
+      "name": "Yo No Se Que Me Han Hecho Tus Ojos",
+      "url": "https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z"
     },
     {
       "added_at": "2023-08-11 14:55:17",

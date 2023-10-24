@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-217 songs - 23 hr 54 min
+218 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Elohim Adonai](https://open.spotify.com/track/5dIj0tNjsEeF1h2QfnrGDo) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Elohim Adonai](https://open.spotify.com/album/3u20aiiz0pNhRvOWiXuvvN) | 3:47 | 2022-10-14 | 2022-11-05 |
 | [Emmanuel](https://open.spotify.com/track/3l5EhgXbihlSPU3ffHikIf) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Emmanuel](https://open.spotify.com/album/24mcEzYexHZ7frccXqijWK) | 9:12 | 2023-06-16 |  |
 | [Emmanuel](https://open.spotify.com/track/466dosccGHgyox0Wr3hdea) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [NWANDO OMOSEBI](https://open.spotify.com/artist/5ftf7GXanOTLGnGgTZTzkT), [IFIOK EZENWA](https://open.spotify.com/artist/1VzNx9xyunmQBsCP1d8xPz) | [The King Is Coming](https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG) | 7:46 | 2022-06-09 |  |
+| [Everything \(Amen\)](https://open.spotify.com/track/0fMFygZkl6SxSgYbXNQZME) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/2nF5JgRAYmjOPTsRVnHX9Q) | 3:57 | 2023-10-20 |  |
 | [Everything \(Amen\)](https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7) | 3:57 | 2023-07-28 | 2023-10-04 |
 | [Evidence](https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Evidence](https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny) | 5:55 | 2022-09-01 | 2023-08-20 |
 | [Exalted](https://open.spotify.com/track/5fzrSMisZDfevOeNYX3a7j) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 7:36 | 2022-10-14 | 2022-11-05 |
@@ -198,7 +199,7 @@
 | [What I Want II](https://open.spotify.com/track/3xRjZHi4uuP70BDnqmrxJp) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [What I Want II](https://open.spotify.com/album/3FYbMrsCX9Fqk3Y7b5KrXG) | 3:00 | 2023-08-25 | 2023-09-08 |
 | [When God Walks In](https://open.spotify.com/track/38NkJdwVwSzezWnenSYR4A) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 12:58 | 2022-10-14 | 2022-11-05 |
 | [Who Else \(Single Mix\)](https://open.spotify.com/track/16i9L55SPprkbqR0Z13c3C) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Who Else](https://open.spotify.com/album/77T5fBnTJSgDT0nHrUseTO) | 3:28 | 2022-06-09 | 2023-01-20 |
-| [WINNING](https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW) | [Harmini](https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9), [Chud'e](https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej) | [WINNING](https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0) | 2:32 | 2023-09-08 |  |
+| [WINNING](https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW) | [Harmini](https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9), [Chud'e](https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej) | [WINNING](https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0) | 2:32 | 2023-09-08 | 2023-10-24 |
 | [Winning](https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Winning](https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs) | 6:00 | 2022-09-01 |  |
 | [Without You](https://open.spotify.com/track/1wPm27SNAr2ogeJPXeAzqB) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hear Feel Play Christmas](https://open.spotify.com/album/0OcVHq3qJXVWuyZ99mzVOx) | 2:30 | 2022-11-25 | 2023-01-17 |
 | [Won't Let Go](https://open.spotify.com/track/2AOk4SEj1TYDbdTwewUQgq) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx), [The Soul Seekers](https://open.spotify.com/artist/5c2B3jO7ovPd0YuSD3x1ig) | [A Great Work](https://open.spotify.com/album/6WL4I0vQ7siPfkjtHbABhp) | 4:11 | 2022-06-09 | 2023-01-20 |

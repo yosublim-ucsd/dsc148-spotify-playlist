@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70YkMXlJRA6.md) - [plain]
 
 > Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,062 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,083 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70YkMXlJRA6.md) - [plain]
 | 28 | [Métele \- Cesare Remix](https://open.spotify.com/track/5h5Mc6KAFfrVzsP9ENIH0S) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Cesare](https://open.spotify.com/artist/6I00pP9y2ql2aSsviBmf0r) | [Métele \(Cesare Remix\)](https://open.spotify.com/album/07fJL4eGqxwSzvmuYjdKT3) | 4:44 |
 | 29 | [Piedras del Sol](https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Piedras del Sol](https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd) | 3:42 |
 | 30 | [Baile Fodongo](https://open.spotify.com/track/1dlyPfKv2Bl5nYZzpO1VUX) | [Altoparlante](https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU) | [Baile Fodongo](https://open.spotify.com/album/64c3abWCWgsE90nB69DsPE) | 5:06 |
-| 31 | [The Caribbean Raver](https://open.spotify.com/track/1CKL36QvlImNhsMAbwhGIQ) | [Pernett](https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU), [The Caribbean Ravers](https://open.spotify.com/artist/48u4Rcx3bbMC5PtUm2AVcd) | [Música Para Pick Up](https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo) | 4:05 |
+| 31 | [Caña Brava](https://open.spotify.com/track/0hy6YsimguNescPjjijro0) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Caña Brava](https://open.spotify.com/album/02aqlW1aBYEyhEC4I6lW42) | 3:01 |
 | 32 | [Sol Clap](https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Magnetica](https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL) | 3:50 |
-| 33 | [Caña Brava](https://open.spotify.com/track/0hy6YsimguNescPjjijro0) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Caña Brava](https://open.spotify.com/album/02aqlW1aBYEyhEC4I6lW42) | 3:01 |
+| 33 | [The Caribbean Raver](https://open.spotify.com/track/1CKL36QvlImNhsMAbwhGIQ) | [Pernett](https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU), [The Caribbean Ravers](https://open.spotify.com/artist/48u4Rcx3bbMC5PtUm2AVcd) | [Música Para Pick Up](https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo) | 4:05 |
 | 34 | [Beat Cari](https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Beat Cari](https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B) | 5:32 |
 | 35 | [Costa Paraíso](https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Pulso](https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr) | 4:44 |
 | 36 | [Each Time I Think of You](https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF) | [Beach Planet Vol\. 1](https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp) | 6:24 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70YkMXlJRA6.md) - [plain]
 | 44 | [\#Sádico \- Sunsplash & Ferraz Remix](https://open.spotify.com/track/6biNxZAZzW1qmWZu78ao5C) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr) | [\#Sádico](https://open.spotify.com/album/37IMDq8KEAMXmi78I5UpDe) | 4:33 |
 | 45 | [Elelu Tomassita](https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [El Baile de las Arañas](https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw) | 6:44 |
 | 46 | [Speakin' Nuyorican](https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Cookin' Gumbo](https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe) | 3:29 |
-| 47 | [Planeta](https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU) | [Bleepolar](https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ) | [Planeta](https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R) | 3:30 |
-| 48 | [Diablo](https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Diablo](https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI) | 2:52 |
-| 49 | [La Niña Grande](https://open.spotify.com/track/0nOay39wPB6N6sNTYnXjrN) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Escape Plan](https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y) | 3:08 |
-| 50 | [Pandemia](https://open.spotify.com/track/4kpldaItXUwR1A0KWB4Cz8) | [Casta](https://open.spotify.com/artist/5v304q5NLS1WXeIE6iWziJ) | [Lázaro](https://open.spotify.com/album/3Q6ZXvv9FJib9cNkKBoyVN) | 4:16 |
+| 47 | [Diablo](https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Diablo](https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI) | 2:52 |
+| 48 | [Pandemia](https://open.spotify.com/track/4kpldaItXUwR1A0KWB4Cz8) | [Casta](https://open.spotify.com/artist/5v304q5NLS1WXeIE6iWziJ) | [Lázaro](https://open.spotify.com/album/3Q6ZXvv9FJib9cNkKBoyVN) | 4:16 |
+| 49 | [Planeta](https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU) | [Bleepolar](https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ) | [Planeta](https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R) | 3:30 |
+| 50 | [La Niña Grande](https://open.spotify.com/track/0nOay39wPB6N6sNTYnXjrN) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Escape Plan](https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y) | 3:08 |
 
-Snapshot ID: `MCxiOTljOGQ2YzQ0NGE5NmU4Mjk0OTlkMjU3MWRiNjk2MmJjYWM2NTk0`
+Snapshot ID: `MCw3OThiYjhkMGYzY2ZlNDdkNDJhMzFiYmMzMTZlNjg2MWRkMGVjNzUy`

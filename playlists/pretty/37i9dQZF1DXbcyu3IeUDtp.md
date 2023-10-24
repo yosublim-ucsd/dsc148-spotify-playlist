@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,932 likes - 95 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,949 likes - 95 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 | 94 | [How is this even possible?](https://open.spotify.com/track/3WkRQGJnVrgvhuv3xnUyld) | [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Escándaloo](https://open.spotify.com/album/5y6Vap8YFjMmbm1bI0h1kz) | 5:13 |
 | 95 | [Within \(Drumless Edition\)](https://open.spotify.com/track/4PTtFQIiFtNNbbX4Ym5RCD) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Within \(Drumless Edition\)](https://open.spotify.com/album/0JdfgRVwrsunExkHjb3cfy) | 3:48 |
 
-Snapshot ID: `MCw4YzFlNmU2ODk1YjU3ZDY5MmY4YTg1NTk5MzJmYjQwMzE2ZDY2MWY2`
+Snapshot ID: `MCwwZDk3NzIyYTU0MTNlNzU2ZjNlODJjN2UwN2JlMDNlOWY5ZDNjNzgz`

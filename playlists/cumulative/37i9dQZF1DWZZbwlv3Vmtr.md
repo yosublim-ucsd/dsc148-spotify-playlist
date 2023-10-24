@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-813 songs - 1 day 7 hr 38 min
+814 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Friday Dazed](https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Friday Dazed](https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4) | 2:12 | 2023-10-13 |  |
 | [Fried Beans](https://open.spotify.com/track/2rG2JAPKFQxDZXcf6pUO5S) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Fried Beans](https://open.spotify.com/album/6whOtrxJvVArWYlyii3TnO) | 2:04 | 2022-04-15 |  |
 | [Frolic](https://open.spotify.com/track/2KNFOqcjVlBX4Gq4ieiysa) | [fallover](https://open.spotify.com/artist/7IcaEh6tPfZwI4FHtbPMD6) | [Frolic](https://open.spotify.com/album/16veguDPc6MecMoXfcYOUt) | 1:57 | 2022-04-15 | 2023-10-13 |
+| [From a cloudy sky](https://open.spotify.com/track/6E0xoTUNynlFT6Lm4LVAaw) | [Gogofluc](https://open.spotify.com/artist/6OrQ9gVexUFxOERMRDEmkH) | [From a cloudy sky](https://open.spotify.com/album/3BbAOcLjpCWeM55OmGtLtO) | 1:58 | 2023-10-20 |  |
 | [fromain](https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [fromain](https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK) | 2:02 | 2023-09-22 |  |
 | [fruta verde](https://open.spotify.com/track/5r8OKzdJadvERTJyPPCUCg) | [Mirá](https://open.spotify.com/artist/0dmRquUJ70tvTf8xxeohPa) | [fruta verde](https://open.spotify.com/album/4GuhPC2YJ4vk9njh103Zut) | 1:51 | 2023-09-29 |  |
 | [Full Moon](https://open.spotify.com/track/1iVqrYE7uhpFotSYT7CB0Z) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Full Moon](https://open.spotify.com/album/3OrOAP2SZLl1ds10yp2frH) | 2:13 | 2023-10-13 |  |
@@ -449,7 +450,7 @@
 | [New York Jazz](https://open.spotify.com/track/2YErTW0sU7EK5sRK4AVqfF) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Ryuu竜](https://open.spotify.com/artist/7IjhfLAkztgdYu463O2bfF) | [Moontape 18](https://open.spotify.com/album/2pNcufn8ueL7v6KVfc9oqX) | 1:45 | 2023-01-13 | 2023-07-20 |
 | [New York Moonlight](https://open.spotify.com/track/1I3c85KVlj1VgjnVf6bQ20) | [Joe Lee Noire](https://open.spotify.com/artist/5c9fBAFhEu0crejR4zKumg) | [New York Moonlight](https://open.spotify.com/album/4wHaNXifn7ItMoWWXjp4d8) | 1:59 | 2022-04-15 | 2022-07-08 |
 | [Newfoundland](https://open.spotify.com/track/0LfVn0YGjq376wVwJo4THd) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Newfoundland](https://open.spotify.com/album/2Qc4mA0oXvPM20LnxiYAwH) | 2:49 | 2023-09-22 |  |
-| [NI](https://open.spotify.com/track/50lsn0khM1dfoMMSUaTGPy) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [NI](https://open.spotify.com/album/4ViJ12dBADvGUWNkwWy7Ym) | 2:41 | 2022-04-15 |  |
+| [NI](https://open.spotify.com/track/50lsn0khM1dfoMMSUaTGPy) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [NI](https://open.spotify.com/album/4ViJ12dBADvGUWNkwWy7Ym) | 2:41 | 2022-04-15 | 2023-10-24 |
 | [night bumps](https://open.spotify.com/track/0LTCfhZhU886QSKP9sduPh) | [jag glum](https://open.spotify.com/artist/1KfrvBundzNVB4zlLvuRbN) | [night bumps](https://open.spotify.com/album/6GDq8CtNkCKtStLVVFZBkr) | 2:04 | 2022-06-17 |  |
 | [Night In](https://open.spotify.com/track/3feeyGjoIIVNbzRLTSz7Wm) | [cpacesh1ps](https://open.spotify.com/artist/4BGrCgl16msxL2wmYB8LN7) | [Night In](https://open.spotify.com/album/4y5D2Bb8a4sdLU4IxWRiR7) | 2:11 | 2022-11-11 | 2023-10-19 |
 | [Night Session](https://open.spotify.com/track/1zDp1QFkvTuqX8tPoljHyM) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Night Session](https://open.spotify.com/album/3JzhW3MaqUrJVLKNJIR3dY) | 2:05 | 2022-05-27 | 2023-09-29 |

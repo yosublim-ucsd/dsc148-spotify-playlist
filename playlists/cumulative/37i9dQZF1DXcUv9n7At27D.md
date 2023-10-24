@@ -2,7 +2,7 @@
 
 ### [Autumn Classical Japan](https://open.spotify.com/playlist/37i9dQZF1DXcUv9n7At27D)
 
-> 今年の秋に聴きたい日本のクラシックを集めました。cover: 小桜 ハル\(こざくら はる\)　 ©阿久井真／小学館／NHK・NEP・日本アニメーション
+> 今年の秋に聴きたい日本のクラシックを集めました。
 
 174 songs - 11 hr 10 min
 
@@ -12,7 +12,7 @@
 | [24の前奏曲 作品28 第15番変ニ長調「雨だれ」](https://open.spotify.com/track/4SYtaQjXT3Wyw2mIBU6FF6) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Hisako Kawamura](https://open.spotify.com/artist/49AcsFEdqWxwuQnTKA2pbq) | [映画「蜜蜂と遠雷」 \~ 河村尚子 plays 栄伝亜夜](https://open.spotify.com/album/6vlTbjLLiXsgdyShPe1IFb) | 5:37 | 2023-02-28 | 2023-06-10 |
 | [3 Romanzen für Violine und Klavier Op.22: 1\. Andante molto](https://open.spotify.com/track/3mzyTGFLlcSPUpO47GkD96) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Seiji Okamoto](https://open.spotify.com/artist/5Xdh3EzSnmmN52W8nVp60P), [Kyohei Sorita](https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc) | [frei aber einsam](https://open.spotify.com/album/2gX9f4VhPdbFJs61qCKK2Z) | 3:02 | 2023-06-09 | 2023-09-15 |
 | [5つの歌曲 作品105より第1曲「調べのように私を通り抜ける」](https://open.spotify.com/track/4vEIAx1HbcJynNpOlhpueH) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [吉田 誠](https://open.spotify.com/artist/5wev3nAlYNDtbSDAZyqnVD), [Yu Kosuge](https://open.spotify.com/artist/5tcUjfUAZwX2NMjWU0fqON) | [ブラームス:クラリネット・ソナタ\(全曲\)、シューマン:幻想小曲集ほか](https://open.spotify.com/album/34gl2k0zSTO3Vp5Ckkd0LH) | 2:12 | 2022-09-21 |  |
-| [Air on the G String \(Version for Violin Solo\)](https://open.spotify.com/track/6ISMzJg3eW5RWMf3Irs6TU) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [小川恭子](https://open.spotify.com/artist/22MNZFpm5ETAg33C7ZNodS) | [Blue Orchestra \- Premium Classic](https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9) | 5:10 | 2023-10-10 |  |
+| [Air on the G String \(Version for Violin Solo\)](https://open.spotify.com/track/6ISMzJg3eW5RWMf3Irs6TU) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [小川恭子](https://open.spotify.com/artist/22MNZFpm5ETAg33C7ZNodS) | [Blue Orchestra \- Premium Classic](https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9) | 5:10 | 2023-10-10 | 2023-10-24 |
 | [Always You](https://open.spotify.com/track/4743TsEgme4vHSjWOmH1oi) | [Naoki Kanda](https://open.spotify.com/artist/6LjDW7YzX2GubNeJR9Yk5b), [Yukiharu Ito](https://open.spotify.com/artist/2eatv5mHMm8Tk8sjnqMT8t) | [neiro](https://open.spotify.com/album/6TCmGyhwZAo6A2DuLSsctc) | 3:17 | 2023-06-09 | 2023-09-15 |
 | [Anna \- Piano Version](https://open.spotify.com/track/38DYHnTRQ4HgYmP32sS3vu) | [Yomiuri Nippon Symphony Orchestra](https://open.spotify.com/artist/15FC47aoLjTKgv0otgmXLN) | [When Marnie Was There Soundtrack Music Collection](https://open.spotify.com/album/00odo2OS2nQ1j15oeG53g2) | 3:53 | 2023-06-09 | 2023-09-15 |
 | [Aonami](https://open.spotify.com/track/0YHJqA4phbpOZ45sG3Y6Xd) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Teen Regime Original Soundtrack](https://open.spotify.com/album/7w3OAphubFA3l5JRsduF9N) | 1:58 | 2023-06-09 | 2023-09-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: The Kid Laroi, Jung Kook, Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,143 likes - 108 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,191 likes - 108 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 107 | [am i in love?](https://open.spotify.com/track/4rrlU5omVhZN4RVKg83g8j) | [blackvelvetz](https://open.spotify.com/artist/3LM41UKgiR9khIkg8FS1k3) | [am i in love?](https://open.spotify.com/album/16Y4UUjzli47FkbPqYieXx) | 3:25 |
 | 108 | [Preacher](https://open.spotify.com/track/0dWhhgoBUldGUfSQMaqHdS) | [pariss](https://open.spotify.com/artist/5c1xmCiZ1QqV8xronuiPQC) | [Preacher](https://open.spotify.com/album/2KumeQV0vsNOOsmGXsuL3k) | 3:59 |
 
-Snapshot ID: `MCw4MjhiNGU2Mjc3NjBlMWNmN2VhYWRlYzg1NmQ2ZGNmMmIzNzc2OTg2`
+Snapshot ID: `MCxkNTdhNmFmN2RlZDBlMzcwNWFjN2YwMTEwMTdhN2E3MmM3ZTM1N2M4`

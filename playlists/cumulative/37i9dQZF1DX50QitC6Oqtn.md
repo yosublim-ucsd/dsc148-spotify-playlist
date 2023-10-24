@@ -2,7 +2,7 @@
 
 ### [Love Pop](https://open.spotify.com/playlist/37i9dQZF1DX50QitC6Oqtn)
 
-> Because we all deserve great pop love songs in one playlist.
+> Porque todo el mundo se merece una playlist con las mejores canciones pop románticas.
 
 427 songs - 1 day 0 hr 45 min
 
@@ -175,7 +175,7 @@
 | [I’ll Make Love To You](https://open.spotify.com/track/2pM15qcmuGUPslSRsvvm7v) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Twenty](https://open.spotify.com/album/3LYpJyN7wfDy7fTaYWwL2e) | 3:57 | 2019-08-05 | 2019-08-10 |
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2019-11-08 |  |
 | [Just a Little Longer](https://open.spotify.com/track/74d9QhneUCIUvO00ev5kyX) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Overthinking](https://open.spotify.com/album/11BMDCeD3IO5VnE1VVTSQA) | 3:26 | 2019-07-30 | 2019-08-09 |
-| [Just Give Me a Reason](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:02 | 2021-11-08 |  |
+| [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:02 | 2021-11-08 |  |
 | [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/4VC5nFbYO4avKksJ9jN4pY) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/0pqKb2y8h2BWS46HMfmEgD) | 4:02 | 2019-08-09 | 2021-05-26 |
 | [Just the Way You Are](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:40 | 2019-07-29\* | 2022-07-29 |
 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 | 2021-11-08 |  |

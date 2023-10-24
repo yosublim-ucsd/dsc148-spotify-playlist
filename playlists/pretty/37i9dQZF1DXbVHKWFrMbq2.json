@@ -1,12 +1,12 @@
 {
   "description": "Canciones chill para ayudarte a bajar.",
-  "num_followers": 13386,
+  "num_followers": 13409,
   "original_name": "Pop Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmM1N2ZiY2EzY2MwODY2OGY1YjA2YzQ3ODQyYzJiZWIwZThkZjEz",
+  "snapshot_id": "MCwxNDgxNDY2MDUwZGJlZDEzNzY5YWE1YzNjMzEwMjFmNzNkZWQ1MzUw",
   "tracks": [
     {
       "added_at": "2023-10-19 23:11:08",
@@ -147,7 +147,7 @@
     {
       "added_at": "2023-10-19 23:11:08",
       "album": {
-        "name": "Love Again",
+        "name": "LOVE AGAIN",
         "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
       },
       "artists": [
@@ -157,7 +157,7 @@
         }
       ],
       "duration_ms": 146640,
-      "name": "Love Again",
+      "name": "LOVE AGAIN",
       "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
     },
     {
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-10-19 23:11:08",
       "album": {
-        "name": "It'll Be Okay",
-        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "It'll Be Okay",
-      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
-    },
-    {
-      "added_at": "2023-10-19 23:11:08",
-      "album": {
         "name": "Wildest Dreams (Taylor's Version)",
         "url": "https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 220433,
       "name": "Wildest Dreams (Taylor's Version)",
       "url": "https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL"
+    },
+    {
+      "added_at": "2023-10-19 23:11:08",
+      "album": {
+        "name": "It'll Be Okay",
+        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "It'll Be Okay",
+      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
     },
     {
       "added_at": "2023-10-19 23:11:08",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-10-19 23:11:08",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 233617,
+      "name": "I Knew You Were Trouble - Spotify Singles",
+      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
+    },
+    {
+      "added_at": "2023-10-19 23:11:08",
+      "album": {
         "name": "JEANS",
         "url": "https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K"
       },
@@ -315,18 +331,22 @@
     {
       "added_at": "2023-10-19 23:11:08",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 233617,
-      "name": "I Knew You Were Trouble - Spotify Singles",
-      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "added_at": "2023-10-19 23:11:08",
@@ -379,26 +399,6 @@
       "duration_ms": 177880,
       "name": "Evangeline",
       "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
-    },
-    {
-      "added_at": "2023-10-19 23:11:08",
-      "album": {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 185422,
-      "name": "The Joker And The Queen (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "added_at": "2023-10-19 23:11:08",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-10-19 23:11:08",
       "album": {
-        "name": "Guerrero.mp3",
-        "url": "https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 238665,
-      "name": "Guerrero.mp3",
-      "url": "https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd"
-    },
-    {
-      "added_at": "2023-10-19 23:11:08",
-      "album": {
         "name": "Respirar",
         "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 199080,
       "name": "Respirar",
       "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
+    },
+    {
+      "added_at": "2023-10-19 23:11:08",
+      "album": {
+        "name": "Guerrero.mp3",
+        "url": "https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 238665,
+      "name": "Guerrero.mp3",
+      "url": "https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd"
     },
     {
       "added_at": "2023-10-19 23:11:08",

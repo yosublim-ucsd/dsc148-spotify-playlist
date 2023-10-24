@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Nostalgix & Rico Nasty",
-  "num_followers": 226446,
+  "num_followers": 226488,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjU3MjhmMGI4NGNiZGFlMTA2NTI3NTIzZTZlZGIxMWRlNDVjMGJm",
+  "snapshot_id": "MCwyYTQ5MWQ5NmE5ODk2YjExZDUzYWI2MGNiYzhhOTVlOTVlMzI2NmQx",
   "tracks": [
     {
       "added_at": "2023-10-13 15:09:05",
@@ -199,8 +199,8 @@
     {
       "added_at": "2023-10-13 15:09:05",
       "album": {
-        "name": "dontstopme!",
-        "url": "https://open.spotify.com/album/4F58jVM56GlkFSU6SbHw8m"
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
       },
       "artists": [
         {
@@ -210,7 +210,7 @@
       ],
       "duration_ms": 221142,
       "name": "dontstopme!",
-      "url": "https://open.spotify.com/track/6IJg6Lj08UReeoz9590Ps5"
+      "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
     },
     {
       "added_at": "2023-10-13 15:09:05",
@@ -911,6 +911,30 @@
     {
       "added_at": "2023-10-13 15:09:05",
       "album": {
+        "name": "Infraliminal",
+        "url": "https://open.spotify.com/album/3RoWzELirpqIEBueczpnNF"
+      },
+      "artists": [
+        {
+          "name": "REZZMAU5",
+          "url": "https://open.spotify.com/artist/7m5U1YbhADGvZc2mIhfe1j"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "Infraliminal",
+      "url": "https://open.spotify.com/track/7syNqxCLAQZzQlkRyJIfDr"
+    },
+    {
+      "added_at": "2023-10-13 15:09:05",
+      "album": {
         "name": "CALYPSO",
         "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
       },
@@ -947,30 +971,6 @@
       "duration_ms": 176548,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
-    },
-    {
-      "added_at": "2023-10-13 15:09:05",
-      "album": {
-        "name": "Infraliminal",
-        "url": "https://open.spotify.com/album/3RoWzELirpqIEBueczpnNF"
-      },
-      "artists": [
-        {
-          "name": "REZZMAU5",
-          "url": "https://open.spotify.com/artist/7m5U1YbhADGvZc2mIhfe1j"
-        },
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 266600,
-      "name": "Infraliminal",
-      "url": "https://open.spotify.com/track/7syNqxCLAQZzQlkRyJIfDr"
     },
     {
       "added_at": "2023-10-13 15:09:05",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-10-13 15:09:05",
       "album": {
-        "name": "Flip It",
-        "url": "https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE"
-      },
-      "artists": [
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        },
-        {
-          "name": "Dem Jointz",
-          "url": "https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Flip It",
-      "url": "https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy"
-    },
-    {
-      "added_at": "2023-10-13 15:09:05",
-      "album": {
         "name": "Frikitona",
         "url": "https://open.spotify.com/album/7nsb4hMX1yb6GOILmcp7Kl"
       },
@@ -1167,26 +1147,6 @@
     {
       "added_at": "2023-10-13 15:09:05",
       "album": {
-        "name": "Motor",
-        "url": "https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Motor",
-      "url": "https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH"
-    },
-    {
-      "added_at": "2023-10-13 15:09:05",
-      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
       },
@@ -1211,22 +1171,22 @@
     {
       "added_at": "2023-10-13 15:09:05",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/7brW7G3kHHkhr3eu838HhH"
+        "name": "Motor",
+        "url": "https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Machine Made",
-          "url": "https://open.spotify.com/artist/56J7OPV77W9hMJQIRtvaBB"
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
         }
       ],
-      "duration_ms": 245413,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/5i9khhoOkeogB49q54KOIz"
+      "duration_ms": 182769,
+      "name": "Motor",
+      "url": "https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH"
     },
     {
       "added_at": "2023-10-13 15:09:05",
@@ -1243,6 +1203,26 @@
       "duration_ms": 158399,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT"
+    },
+    {
+      "added_at": "2023-10-13 15:09:05",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/7brW7G3kHHkhr3eu838HhH"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Machine Made",
+          "url": "https://open.spotify.com/artist/56J7OPV77W9hMJQIRtvaBB"
+        }
+      ],
+      "duration_ms": 245413,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/5i9khhoOkeogB49q54KOIz"
     },
     {
       "added_at": "2023-10-13 15:09:05",
@@ -1535,26 +1515,6 @@
     {
       "added_at": "2023-10-13 15:09:05",
       "album": {
-        "name": "FAME?",
-        "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 142562,
-      "name": "FAME?",
-      "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
-    },
-    {
-      "added_at": "2023-10-13 15:09:05",
-      "album": {
         "name": "Signal",
         "url": "https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj"
       },
@@ -1571,6 +1531,26 @@
       "duration_ms": 194823,
       "name": "Signal",
       "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
+    },
+    {
+      "added_at": "2023-10-13 15:09:05",
+      "album": {
+        "name": "FAME?",
+        "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 142562,
+      "name": "FAME?",
+      "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
     },
     {
       "added_at": "2023-10-13 15:09:05",
@@ -1779,26 +1759,6 @@
     {
       "added_at": "2023-10-13 15:09:05",
       "album": {
-        "name": "Heritage",
-        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        }
-      ],
-      "duration_ms": 198582,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6"
-    },
-    {
-      "added_at": "2023-10-13 15:09:05",
-      "album": {
         "name": "Sword In Stone",
         "url": "https://open.spotify.com/album/62m1HkDMOhYnZyZv7IiOfq"
       },
@@ -1815,6 +1775,26 @@
       "duration_ms": 216827,
       "name": "Sword In Stone",
       "url": "https://open.spotify.com/track/7vq6EwYSOUHoUwzLoR0OdV"
+    },
+    {
+      "added_at": "2023-10-13 15:09:05",
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        }
+      ],
+      "duration_ms": 198582,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6"
     },
     {
       "added_at": "2023-10-13 15:09:05",
@@ -1887,26 +1867,6 @@
     {
       "added_at": "2023-10-13 15:09:05",
       "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/0X2TnyAXQalh7Vh0TZSVZF"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        }
-      ],
-      "duration_ms": 175664,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/3ww0kfsqNhowRhFX6X0OIl"
-    },
-    {
-      "added_at": "2023-10-13 15:09:05",
-      "album": {
         "name": "Fool Me",
         "url": "https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh"
       },
@@ -1923,26 +1883,22 @@
     {
       "added_at": "2023-10-13 15:09:05",
       "album": {
-        "name": "Shady Intentions (feat. Tori Levett) [VIP]",
-        "url": "https://open.spotify.com/album/5JmKOq0STayo8YdKHLIs7B"
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/0X2TnyAXQalh7Vh0TZSVZF"
       },
       "artists": [
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         },
         {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Tori Levett",
-          "url": "https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL"
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
         }
       ],
-      "duration_ms": 182278,
-      "name": "Shady Intentions (feat. Tori Levett) - VIP",
-      "url": "https://open.spotify.com/track/0H7ohNCf0NzJQdtm0045RR"
+      "duration_ms": 175664,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/3ww0kfsqNhowRhFX6X0OIl"
     },
     {
       "added_at": "2023-10-13 15:09:05",
@@ -1967,6 +1923,30 @@
       "duration_ms": 130123,
       "name": "Pa Lante",
       "url": "https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG"
+    },
+    {
+      "added_at": "2023-10-13 15:09:05",
+      "album": {
+        "name": "Shady Intentions (feat. Tori Levett) [VIP]",
+        "url": "https://open.spotify.com/album/5JmKOq0STayo8YdKHLIs7B"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Tori Levett",
+          "url": "https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL"
+        }
+      ],
+      "duration_ms": 182278,
+      "name": "Shady Intentions (feat. Tori Levett) - VIP",
+      "url": "https://open.spotify.com/track/0H7ohNCf0NzJQdtm0045RR"
     },
     {
       "added_at": "2023-10-13 15:09:05",
@@ -2107,6 +2087,26 @@
       "duration_ms": 163636,
       "name": "Dark & Danger",
       "url": "https://open.spotify.com/track/5sx06tqV0g8C8jZiyTCSJx"
+    },
+    {
+      "added_at": "2023-10-13 15:09:05",
+      "album": {
+        "name": "buttons!",
+        "url": "https://open.spotify.com/album/4LBaHD1RYaiZh4YGiLDyGo"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "buttons!",
+      "url": "https://open.spotify.com/track/5ekfEEnkAHxrn2KNvyZg7E"
     },
     {
       "added_at": "2023-10-13 15:09:05",
@@ -2263,26 +2263,6 @@
     {
       "added_at": "2023-10-13 15:09:05",
       "album": {
-        "name": "buttons!",
-        "url": "https://open.spotify.com/album/4LBaHD1RYaiZh4YGiLDyGo"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 239047,
-      "name": "buttons!",
-      "url": "https://open.spotify.com/track/5ekfEEnkAHxrn2KNvyZg7E"
-    },
-    {
-      "added_at": "2023-10-13 15:09:05",
-      "album": {
         "name": "All I Wanna Do",
         "url": "https://open.spotify.com/album/3X8cM72cVFMPwRDZjDQLDF"
       },
@@ -2367,22 +2347,6 @@
     {
       "added_at": "2023-10-13 15:09:05",
       "album": {
-        "name": "Loca People",
-        "url": "https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 158437,
-      "name": "Loca People",
-      "url": "https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi"
-    },
-    {
-      "added_at": "2023-10-13 15:09:05",
-      "album": {
         "name": "Wish He Knew",
         "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
       },
@@ -2395,6 +2359,22 @@
       "duration_ms": 157500,
       "name": "Wish He Knew",
       "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
+    },
+    {
+      "added_at": "2023-10-13 15:09:05",
+      "album": {
+        "name": "Loca People",
+        "url": "https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 158437,
+      "name": "Loca People",
+      "url": "https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi"
     },
     {
       "added_at": "2023-10-13 15:09:05",
@@ -2435,30 +2415,6 @@
     {
       "added_at": "2023-10-13 15:09:05",
       "album": {
-        "name": "Mindstate",
-        "url": "https://open.spotify.com/album/6smeL7L0X15jV5PmU0oDyR"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "Hairitage",
-          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
-        },
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        }
-      ],
-      "duration_ms": 252399,
-      "name": "Mindstate",
-      "url": "https://open.spotify.com/track/5V9cyDgo1wBu0gj5tkk57E"
-    },
-    {
-      "added_at": "2023-10-13 15:09:05",
-      "album": {
         "name": "Hypnotic (feat. Dope Earth Alien)",
         "url": "https://open.spotify.com/album/1iqjcxJWLCWZjDQTNfIAMN"
       },
@@ -2491,6 +2447,30 @@
       "duration_ms": 198400,
       "name": "The Wild Hunt",
       "url": "https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu"
+    },
+    {
+      "added_at": "2023-10-13 15:09:05",
+      "album": {
+        "name": "Mindstate",
+        "url": "https://open.spotify.com/album/6smeL7L0X15jV5PmU0oDyR"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        },
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "duration_ms": 252399,
+      "name": "Mindstate",
+      "url": "https://open.spotify.com/track/5V9cyDgo1wBu0gj5tkk57E"
     },
     {
       "added_at": "2023-10-13 15:09:05",
@@ -2547,6 +2527,26 @@
       "duration_ms": 134148,
       "name": "Empress - Zeds Dead Remix",
       "url": "https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj"
+    },
+    {
+      "added_at": "2023-10-13 15:09:05",
+      "album": {
+        "name": "LIMIT",
+        "url": "https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU"
+      },
+      "artists": [
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "LIMIT",
+      "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
     }
   ],
   "unique_name": "Bangers",
