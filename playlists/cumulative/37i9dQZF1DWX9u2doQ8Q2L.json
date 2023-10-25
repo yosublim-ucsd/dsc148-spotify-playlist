@@ -623,6 +623,32 @@
     },
     {
       "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        },
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204568,
+      "name": "Ali Baba (feat. MFS & ralph) - Remix",
+      "url": "https://open.spotify.com/track/3Gmwg6yc89O20kDpWSn06o"
+    },
+    {
+      "album": {
         "name": "ALL MY LOVE",
         "url": "https://open.spotify.com/album/3sOolxlKbF0j81LDUw02Qa"
       },
@@ -3188,7 +3214,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 150966,
       "name": "Destruction Sisters",
       "url": "https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q"
@@ -3746,7 +3772,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 184281,
       "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
@@ -5649,6 +5675,24 @@
     },
     {
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/1XSBe1dxP8HEB1npsFcPQc"
+      },
+      "artists": [
+        {
+          "name": "PEAVIS",
+          "url": "https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5TB7HUODhKV1SVnEJQRrBP"
+    },
+    {
+      "album": {
         "name": "HOPE for US feat. Isono Kun (YONA YONA WEEKENDERS), AAAMYYY (Tempalay), TENDRE, Sara Yoshida (MONONKVL) & Ryohu (KANDYTOWN)",
         "url": "https://open.spotify.com/album/1C2lqx1fO7zaGzjUklnpJS"
       },
@@ -6300,7 +6344,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 213233,
       "name": "Idol",
       "url": "https://open.spotify.com/track/1zVsw1SqQKgtzE4aqmE8nE"
@@ -7178,7 +7222,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 162546,
       "name": "Let It Go As If You Wander",
       "url": "https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k"
@@ -8090,7 +8134,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 210928,
       "name": "Mermaid - Remix (feat. Js Morgan & Aile The Shota)",
       "url": "https://open.spotify.com/track/5EQUoNfMHXYNKuARzBg76T"
@@ -8682,7 +8726,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 196762,
       "name": "moonlight",
       "url": "https://open.spotify.com/track/2UoxwIHRIKhHwRYiFySemI"
@@ -9384,7 +9428,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 203863,
       "name": "Noidleap",
       "url": "https://open.spotify.com/track/6Frb0urydHcSQB8qGkp731"
@@ -10501,6 +10545,24 @@
     },
     {
       "album": {
+        "name": "THE LAST",
+        "url": "https://open.spotify.com/album/7Hl8NkajzggE7S2Uloz4O1"
+      },
+      "artists": [
+        {
+          "name": "Taichi Mukai",
+          "url": "https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266860,
+      "name": "Possible",
+      "url": "https://open.spotify.com/track/6Nd8Tlw3PQC7B5hGho4Hqw"
+    },
+    {
+      "album": {
         "name": "PRESENCE",
         "url": "https://open.spotify.com/album/0XOyANuaiYV0nICxcmDPSy"
       },
@@ -10566,7 +10628,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 169885,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3ifDwg8GUpVtBzfk3FBc22"
@@ -10720,7 +10782,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 226176,
       "name": "puzzle (feat. \u3072\u304b\u308a) - Bronze Remix",
       "url": "https://open.spotify.com/track/764XngElbODYLSCkoax40N"
@@ -11531,6 +11593,24 @@
     },
     {
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/2BS6qt0LjpIq9ALpjBvkQk"
+      },
+      "artists": [
+        {
+          "name": "the engy",
+          "url": "https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203047,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/10MsxOjva2W4ACCLLDaO04"
+    },
+    {
+      "album": {
         "name": "Runner's High",
         "url": "https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia"
       },
@@ -11658,6 +11738,24 @@
       "duration_ms": 148000,
       "name": "sad girl",
       "url": "https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM"
+    },
+    {
+      "album": {
+        "name": "Worldfly",
+        "url": "https://open.spotify.com/album/04MIBSttVqz8KMppZWvheC"
+      },
+      "artists": [
+        {
+          "name": "Vicke Blanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168011,
+      "name": "Sad In Saudi Arabia",
+      "url": "https://open.spotify.com/track/4TTIkN7yOPQrW1UR3kOiBG"
     },
     {
       "album": {
@@ -12046,7 +12144,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 225960,
       "name": "Shiawase no Mawarimichi",
       "url": "https://open.spotify.com/track/20riqOrK0iWFV2mpjbcbDr"
@@ -12340,6 +12438,24 @@
       "duration_ms": 237393,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/5Y7I67xCLNaPTHvUP78AI2"
+    },
+    {
+      "album": {
+        "name": "SLOW",
+        "url": "https://open.spotify.com/album/58OlJOI1kHspo4iAA7yvAz"
+      },
+      "artists": [
+        {
+          "name": "Hannah Warm",
+          "url": "https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253115,
+      "name": "SLOW",
+      "url": "https://open.spotify.com/track/3bL3FdQBW9AXBnB5RatG8f"
     },
     {
       "album": {
@@ -14163,6 +14279,24 @@
     },
     {
       "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219331,
+      "name": "THE UNION",
+      "url": "https://open.spotify.com/track/1qlcGHhGLtcSYqtHFtDIoC"
+    },
+    {
+      "album": {
         "name": "EGO APARTMENT",
         "url": "https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB"
       },
@@ -15191,6 +15325,32 @@
     },
     {
       "album": {
+        "name": "UMAMI",
+        "url": "https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
+        },
+        {
+          "name": "whoosh",
+          "url": "https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "UMAMI",
+      "url": "https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8"
+    },
+    {
+      "album": {
         "name": "umi tsuki (feat. iri) (Prod. Chaki Zulu)",
         "url": "https://open.spotify.com/album/23EkcKAnLu6wUqEeCUe9sa"
       },
@@ -15588,7 +15748,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 254106,
       "name": "we can't change the world without you here",
       "url": "https://open.spotify.com/track/0hdRkedEkFTGfgskmYOe57"
@@ -17106,7 +17266,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 315640,
       "name": "\u3086\u3081\u3046\u3064\u3064",
       "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
@@ -19323,6 +19483,28 @@
     },
     {
       "album": {
+        "name": "Chaos engineering",
+        "url": "https://open.spotify.com/album/52nu2yZuWpYmFOZJYwUAII"
+      },
+      "artists": [
+        {
+          "name": "Sam is Ohm",
+          "url": "https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg"
+        },
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196933,
+      "name": "\u611b\u3058\u3083\u306a\u3044\u304b\u3089 (feat. Aile The Shota)",
+      "url": "https://open.spotify.com/track/7FrYA1uUWpxFVMY0htqJTe"
+    },
+    {
+      "album": {
         "name": "\u611b\u306e\u4e8c\u6bb5\u968e\u53f3\u6298",
         "url": "https://open.spotify.com/album/3AYlpm999fttRquPhhg18W"
       },
@@ -20322,6 +20504,24 @@
       "duration_ms": 253066,
       "name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
       "url": "https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa"
+    },
+    {
+      "album": {
+        "name": "\u7fa4\u50cf\u5287",
+        "url": "https://open.spotify.com/album/0ZIJzvOuyPIjS8Z4w5rL62"
+      },
+      "artists": [
+        {
+          "name": "\u8352\u5dfb\u52c7\u4ec1",
+          "url": "https://open.spotify.com/artist/70AZs3Q1tOLvM1w6Penqqm"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232700,
+      "name": "\u7fa4\u50cf\u5287",
+      "url": "https://open.spotify.com/track/3dBJCeXLWb2wykVFnhYqpm"
     },
     {
       "album": {

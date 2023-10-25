@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,762 songs - 3 day 6 hr 56 min
+1,763 songs - 3 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Belmont Street](https://open.spotify.com/track/1dReYfTeLFlytvERbbRkAd) | [Kyran Martin](https://open.spotify.com/artist/64MFoNwcBdeE8R9hqpo6cH) | [Belmont Street](https://open.spotify.com/album/568ltmLuq2Vqrnu6uLrQ70) | 2:29 | 2021-04-26 | 2022-04-20 |
 | [Beloved](https://open.spotify.com/track/3OLeQWqsXLKFbboNufjc8Z) | [Mark Mintuny](https://open.spotify.com/artist/3gegJAyl43HbhzEFT1Dp8s) | [Beloved](https://open.spotify.com/album/6i5SVdY8ISwT3o3TVyAXF9) | 2:13 | 2021-04-23 | 2022-04-04 |
 | [Beneath Your Smile](https://open.spotify.com/track/4XnsaU3RkUS7o0nqLIUqW7) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Beneath Your Smile](https://open.spotify.com/album/6pMxigWt9M25pZsLTaGam8) | 4:46 | 2021-03-23 | 2022-07-26 |
-| [Benediction](https://open.spotify.com/track/0vebajCQqWh9EQ5wAYguqo) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Benediction](https://open.spotify.com/album/7EeehH5tzO7PSCdG1xbYCE) | 2:23 | 2022-10-25 |  |
+| [Benediction](https://open.spotify.com/track/0vebajCQqWh9EQ5wAYguqo) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Benediction](https://open.spotify.com/album/7EeehH5tzO7PSCdG1xbYCE) | 2:23 | 2022-10-25 | 2023-10-25 |
 | [Berceuse](https://open.spotify.com/track/2FcTnvvmvyCfWhSK8BH8HS) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Pianoscope](https://open.spotify.com/album/4N5fQSex17f3VQZPkLZKyQ) | 2:34 | 2021-03-08 | 2021-05-10 |
 | [Berceuse](https://open.spotify.com/track/6tw5ZIanXzO4ufu4abt7Vn) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Berceuse](https://open.spotify.com/album/0l8ppwTZQGMJtZEfJKEBBg) | 2:31 | 2022-12-22 | 2023-06-20 |
 | [Berceuse](https://open.spotify.com/track/1RlKqfplkNXkV5ZkFZlo7d) | [Tyra Lindqvist](https://open.spotify.com/artist/0i0eyDR8HC7sY4eUNKIAtI) | [Berceuse](https://open.spotify.com/album/7nryP3Rq1gM9iPnPjvmJT2) | 2:39 | 2021-05-10 | 2022-04-01 |
@@ -769,6 +769,7 @@
 | [Juniper](https://open.spotify.com/track/1glbxURPMi2PpcD4AmufxL) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Winter Unflorished](https://open.spotify.com/album/1meKAKWKJYjC4TzeGvgxA8) | 3:40 | 2021-04-21 | 2022-05-24 |
 | [Jupiter Rising](https://open.spotify.com/track/09GXY43KLwv7zNdI2LREhx) | [Arelius](https://open.spotify.com/artist/5EPSFsZ4hH2NhjBNsVwQfH) | [Lucid Dreamin' II](https://open.spotify.com/album/7jufASRTIagXI2lw0SYz6W) | 1:34 | 2021-03-23 | 2022-07-29 |
 | [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 | 2021-06-05 | 2022-07-16 |
+| [Just Stay](https://open.spotify.com/track/61PEtXxbmpaVQDRNxcE0IJ) | [Tristaan Wilkes](https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck) | [Just Stay](https://open.spotify.com/album/2No724SMCYYdHbpY4DnFeO) | 2:03 | 2023-10-17 |  |
 | [Just the way you are](https://open.spotify.com/track/2OXm1TWbGDL8MhdDWRtSnB) | [Clarence Fischer](https://open.spotify.com/artist/0GagqJW5kwV1vGuMDrSvvP) | [Just the way you are](https://open.spotify.com/album/1PcZqOUTmZrsfUZW7A2kga) | 3:22 | 2021-08-29 | 2022-07-23 |
 | [Just Us](https://open.spotify.com/track/1QQUFiArleFKStW1ttUfoN) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 3:35 | 2021-03-19 | 2022-04-12 |
 | [Kanskje en vakker dag](https://open.spotify.com/track/58cLKmndeBJ6iVv5zyBYnF) | [Kaja Voll](https://open.spotify.com/artist/30GIlEJx2Y7KvXfrbwDsK2) | [Kanskje en vakker dag](https://open.spotify.com/album/1dIzMpEXGafWy3qPn7j9op) | 2:25 | 2021-05-11 | 2022-04-01 |

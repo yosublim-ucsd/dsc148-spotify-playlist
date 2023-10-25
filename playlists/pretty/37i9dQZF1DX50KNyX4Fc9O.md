@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Carla Wehbe
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,313 likes - 99 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,335 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,16 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 86 | [Body](https://open.spotify.com/track/1fl7OiMREgGebEZtqXi17j) | [Isla Noon](https://open.spotify.com/artist/14DaqRFdDOsSnbpw4cNhku) | [Body](https://open.spotify.com/album/5oonGFobUjrE4zPb1a8TFV) | 3:16 |
 | 87 | [november](https://open.spotify.com/track/0GOD7WsMBZqp4AuAp0CH0E) | [Holly Jade](https://open.spotify.com/artist/20ZeznQHUGorY2fyAoZ1Ie) | [november](https://open.spotify.com/album/5hr28sFuldGtJqqPrV4l5e) | 2:38 |
 | 88 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 |
-| 89 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
-| 90 | [Slice of Heaven \(feat\. Dave Dobbyn\)](https://open.spotify.com/track/6NzxMmxVHloqGM758vrOmn) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY), [Dave Dobbyn](https://open.spotify.com/artist/5bYfbDXaMVCxEt7hOAvEWc) | [Slice of Heaven \(feat\. Dave Dobbyn\)](https://open.spotify.com/album/7qfKavzeo74lEX0OZ6HZ0F) | 2:55 |
-| 91 | [Ghost](https://open.spotify.com/track/6V7srdT0Mu63F4XN97buVZ) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Pink Chapter](https://open.spotify.com/album/1CQNzjeDFVKqUeveRH9Tar) | 4:33 |
-| 92 | [Swing By](https://open.spotify.com/track/0PzteNmXCHK9tM7EbFKjYk) | [San Joseph](https://open.spotify.com/artist/59YOtpr5yzoCBLxAWeCAp5) | [LEARNINGTHEROPES](https://open.spotify.com/album/1eeRYqhtFi5r9dMMUUUDiq) | 2:39 |
-| 93 | [Crush](https://open.spotify.com/track/00Apys6jYrWA0Bse9Yon6O) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Crush](https://open.spotify.com/album/4zhSWdHOuYGS7EoJiY6PaE) | 2:55 |
-| 94 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 |
-| 95 | [Doesn't Really Matter \(feat\. BEXY\)](https://open.spotify.com/track/68CFmjw8xUSiiRvJvWR3SV) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i), [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [The Lovers](https://open.spotify.com/album/0a0Trgb4aUfCgsmlwJcPNR) | 3:23 |
-| 96 | [Happy It's Ending](https://open.spotify.com/track/5HY8qALC8ltiBM6FiO0xVe) | [Lachie Gill](https://open.spotify.com/artist/3Zzo9G7beienFXgXl0N3IJ) | [Happy It's Ending](https://open.spotify.com/album/0seF3lDCWsMkr0rQWJtsoe) | 2:49 |
-| 97 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 |
-| 98 | [So I Danced](https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So I Danced](https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW) | 2:53 |
-| 99 | [2009](https://open.spotify.com/track/0PAgdg0v7LSjinrubTDsjp) | [Livia O](https://open.spotify.com/artist/0DJDFfRvWrXgjbFn0Wl0CG) | [2009](https://open.spotify.com/album/5W8wvoLa3IJiAa4wvbFoYe) | 3:39 |
+| 89 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
+| 90 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
+| 91 | [Slice of Heaven \(feat\. Dave Dobbyn\)](https://open.spotify.com/track/6NzxMmxVHloqGM758vrOmn) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY), [Dave Dobbyn](https://open.spotify.com/artist/5bYfbDXaMVCxEt7hOAvEWc) | [Slice of Heaven \(feat\. Dave Dobbyn\)](https://open.spotify.com/album/7qfKavzeo74lEX0OZ6HZ0F) | 2:55 |
+| 92 | [Ghost](https://open.spotify.com/track/6V7srdT0Mu63F4XN97buVZ) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Pink Chapter](https://open.spotify.com/album/1CQNzjeDFVKqUeveRH9Tar) | 4:33 |
+| 93 | [Swing By](https://open.spotify.com/track/0PzteNmXCHK9tM7EbFKjYk) | [San Joseph](https://open.spotify.com/artist/59YOtpr5yzoCBLxAWeCAp5) | [LEARNINGTHEROPES](https://open.spotify.com/album/1eeRYqhtFi5r9dMMUUUDiq) | 2:39 |
+| 94 | [Crush](https://open.spotify.com/track/00Apys6jYrWA0Bse9Yon6O) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Crush](https://open.spotify.com/album/4zhSWdHOuYGS7EoJiY6PaE) | 2:55 |
+| 95 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 |
+| 96 | [Doesn't Really Matter \(feat\. BEXY\)](https://open.spotify.com/track/68CFmjw8xUSiiRvJvWR3SV) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i), [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [The Lovers](https://open.spotify.com/album/0a0Trgb4aUfCgsmlwJcPNR) | 3:23 |
+| 97 | [Happy It's Ending](https://open.spotify.com/track/5HY8qALC8ltiBM6FiO0xVe) | [Lachie Gill](https://open.spotify.com/artist/3Zzo9G7beienFXgXl0N3IJ) | [Happy It's Ending](https://open.spotify.com/album/0seF3lDCWsMkr0rQWJtsoe) | 2:49 |
+| 98 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 |
+| 99 | [So I Danced](https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So I Danced](https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW) | 2:53 |
+| 100 | [2009](https://open.spotify.com/track/0PAgdg0v7LSjinrubTDsjp) | [Livia O](https://open.spotify.com/artist/0DJDFfRvWrXgjbFn0Wl0CG) | [2009](https://open.spotify.com/album/5W8wvoLa3IJiAa4wvbFoYe) | 3:39 |
 
-Snapshot ID: `MCw3ODEzMTQ5NThkMGZmOThkM2I3MWI4NmJhZjZiMzZkZGFkMzUzM2I2`
+Snapshot ID: `MCxjYTJlYmYyMmE0NGI1ZDcxMGRiNGI5YzM0MTE3ZDYwMGFiMjBjNjdh`

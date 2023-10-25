@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Astray",
+        "url": "https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2"
+      },
+      "artists": [
+        {
+          "name": "Simon Vouet",
+          "url": "https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120941,
+      "name": "Astray",
+      "url": "https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK"
+    },
+    {
+      "album": {
         "name": "At A Glance",
         "url": "https://open.spotify.com/album/4vBxCrmYU5niiq6ihQiYd0"
       },
@@ -1104,6 +1122,24 @@
       "duration_ms": 151721,
       "name": "Fj\u00e4derl\u00e4tt",
       "url": "https://open.spotify.com/track/2FV0bpajGSlVU21kZEiaEw"
+    },
+    {
+      "album": {
+        "name": "For A Moment",
+        "url": "https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO"
+      },
+      "artists": [
+        {
+          "name": "Haley Morrison",
+          "url": "https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201874,
+      "name": "For A Moment",
+      "url": "https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2"
     },
     {
       "album": {
@@ -2844,6 +2880,24 @@
       "duration_ms": 126000,
       "name": "Sensibilities",
       "url": "https://open.spotify.com/track/2Utg4Imeeq5cI6DQ8AupwV"
+    },
+    {
+      "album": {
+        "name": "Serene",
+        "url": "https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov"
+      },
+      "artists": [
+        {
+          "name": "Will Kaufman",
+          "url": "https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146745,
+      "name": "Serene",
+      "url": "https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0"
     },
     {
       "album": {

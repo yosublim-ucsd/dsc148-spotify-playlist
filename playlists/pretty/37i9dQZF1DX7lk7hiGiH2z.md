@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Süßes sonst gibt's Saures! 🎃
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,048 likes - 45 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,208 likes - 45 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 44 | [Drei kleine Hexen](https://open.spotify.com/track/7prmyyJSIZbY7ZwlczWG0T) | [Rainer Wenzel](https://open.spotify.com/artist/0Pqj7d09m594nU0ckKJ9vh) | [Au Backe!](https://open.spotify.com/album/15TCbswxpNzD23AJJIG78I) | 2:48 |
 | 45 | [Monsterparty](https://open.spotify.com/track/43fpx6UumXkrClViE5kfrV) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Party \- EP](https://open.spotify.com/album/1Axi7PGr2v3JLEHHkoLAK7) | 2:10 |
 
-Snapshot ID: `MCxjYTlkYmI2ZTllMzM0OTY2MjExM2RlMjM4YmU1MDg4MGY0OGI5ZGJm`
+Snapshot ID: `MCxmY2FlNDdkMDM4YjNhOGE0MTI0ZDRiZGJkOWUyNWQyNDg3Yjk5ZmIw`

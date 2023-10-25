@@ -4,7 +4,7 @@
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
 
-258 songs - 16 hr 29 min
+259 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Merely Avoiding](https://open.spotify.com/track/6mtJ9NK0YjqMDvSv15N1T1) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Shouted, Written Down & Quoted](https://open.spotify.com/album/5JblYQTb7RXHoqP9JQZK6L) | 3:27 | 2021-11-11 |  |
 | [Moonshiner](https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 4:23 | 2021-11-11 |  |
 | [Mother, Son and Holy Ghost](https://open.spotify.com/track/04W1XNbJ9PLJYxBfK6X0jQ) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [For the Birds](https://open.spotify.com/album/0zlwp5cQIZ9xBetIjjLyyH) | 5:38 | 2022-09-23 | 2023-09-28 |
+| [Mother, Son and Holy Ghost](https://open.spotify.com/track/0Sf4Miqjok7iImlzEaSKHq) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [For the Birds](https://open.spotify.com/album/6T7XXP2wnOMgeEAyDhF03i) | 5:38 | 2023-08-11 |  |
 | [My Favorite Picture Of You](https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [My Favorite Picture Of You](https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo) | 3:32 | 2021-11-11 |  |
 | [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 | 2021-11-11 | 2023-06-08 |
 | [Night Still Comes](https://open.spotify.com/track/0l5TOyEd5RswsWnqOaOX0X) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You \(Deluxe Edition\)](https://open.spotify.com/album/56PXLjwRAZTqpZjM07FeR5) | 3:47 | 2022-04-22 |  |
@@ -252,7 +253,7 @@
 | [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/track/5pet1oAtPaMCmrx3uDxkzv) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/album/64Kt98Z8gUihw85TgI5gHd) | 5:11 | 2022-10-14 | 2022-11-13 |
 | [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/track/7s5oiz0hI98X6FQ5cmvPlf) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 5:11 | 2022-04-22 |  |
 | [Where I Come From](https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 4:44 | 2021-11-11 |  |
-| [Who Do Call the Shots](https://open.spotify.com/track/3bSeVNB5IgXBo0KyjsQ88O) | [Ray Bonneville](https://open.spotify.com/artist/68WRQYQZC7SO79PC8eXvfd) | [Easy Gone](https://open.spotify.com/album/2RbzfkQVmXTeWF4L3GdqGl) | 3:56 | 2022-04-22 |  |
+| [Who Do Call the Shots](https://open.spotify.com/track/3bSeVNB5IgXBo0KyjsQ88O) | [Ray Bonneville](https://open.spotify.com/artist/68WRQYQZC7SO79PC8eXvfd) | [Easy Gone](https://open.spotify.com/album/2RbzfkQVmXTeWF4L3GdqGl) | 3:56 | 2022-04-22 | 2023-10-25 |
 | [Who Do Call the Shots](https://open.spotify.com/track/5nVnxtGIJ52obYmX4ZM0zO) | [Ray Bonneville](https://open.spotify.com/artist/68WRQYQZC7SO79PC8eXvfd) | [Easy Gone](https://open.spotify.com/album/2l38UsarqfGZjXgHNUJW14) | 3:56 | 2021-11-11 | 2022-07-29 |
 | [Who You Thought I Was](https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life Is a Record](https://open.spotify.com/album/027y46STDxTFM35diEeoxy) | 3:09 | 2021-11-11 |  |
 | [Who's Gonna Take the Garbage Out \(feat\. Iris Dement\)](https://open.spotify.com/track/727Ric7BCNuahIETyOALEU) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Who's Gonna Take the Garbage Out \(feat\. Iris Dement\)](https://open.spotify.com/album/78B8UFzhXSTF7aCbwyDmbt) | 2:41 | 2021-11-11 |  |

@@ -820,7 +820,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 160640,
       "name": "Already Over",
       "url": "https://open.spotify.com/track/27dTjaV7r5s5tdHeDuxIdG"
@@ -2402,10 +2402,36 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 160500,
       "name": "Call Your Name - Andromedik Remix",
       "url": "https://open.spotify.com/track/2ZKB2c2R5pWjRJoRbpL0mR"
+    },
+    {
+      "album": {
+        "name": "Call Your Name (Andromedik Remix)",
+        "url": "https://open.spotify.com/album/3TIjAIFSHDzJMBSSCtGtmc"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        },
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Call Your Name - Andromedik Remix",
+      "url": "https://open.spotify.com/track/2ktvmX53byZmws2q2qMRiI"
     },
     {
       "album": {
@@ -5904,7 +5930,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 107129,
       "name": "Goldberg Variations, BWV 988: Var. 29",
       "url": "https://open.spotify.com/track/5o8hMDQzIwPTYP6CbGxRP5"
@@ -11663,6 +11689,32 @@
     },
     {
       "album": {
+        "name": "Voces para la Paz: En clave de SOLidaridad",
+        "url": "https://open.spotify.com/album/2EhdFReQr9K9XisP3XBvm7"
+      },
+      "artists": [
+        {
+          "name": "Orquesta y Coro de la Comunidad de Madrid",
+          "url": "https://open.spotify.com/artist/1P34ENYR5AC7fpYHHFOn2t"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Miguel Roa",
+          "url": "https://open.spotify.com/artist/6zegLBvHOo4AgGnhcli5uQ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247906,
+      "name": "Obertura 1812 op.49",
+      "url": "https://open.spotify.com/track/2Z6gB2C1sZZ2XvG0Bz8POJ"
+    },
+    {
+      "album": {
         "name": "Oh la joie",
         "url": "https://open.spotify.com/album/1CUePrPDG5jW4dPr2YbGW3"
       },
@@ -12925,6 +12977,28 @@
     },
     {
       "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187880,
+      "name": "Put A Little Holiday In Your Heart (with Cyndi Lauper)",
+      "url": "https://open.spotify.com/track/0DSOt7MdnrRyh8oT8w1t6r"
+    },
+    {
+      "album": {
         "name": "Put A Little Holiday In Your Heart (with Cyndi Lauper)",
         "url": "https://open.spotify.com/album/08MqCZBgZkefD1aN08hrK6"
       },
@@ -12940,7 +13014,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 187880,
       "name": "Put A Little Holiday In Your Heart (with Cyndi Lauper)",
       "url": "https://open.spotify.com/track/4us70cnilJgifaf2SUQ7aa"
@@ -15677,6 +15751,28 @@
     },
     {
       "album": {
+        "name": "Hackney Diamonds",
+        "url": "https://open.spotify.com/album/3j0kAPRr52jZmyIy4olRK9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442669,
+      "name": "Sweet Sounds Of Heaven (feat. Lady Gaga & Stevie Wonder)",
+      "url": "https://open.spotify.com/track/0MeSCMwHMJHZrcYwqrWJIX"
+    },
+    {
+      "album": {
         "name": "Sweet Sounds Of Heaven",
         "url": "https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK"
       },
@@ -17477,6 +17573,32 @@
     },
     {
       "album": {
+        "name": "El Viaje Nunca Llega al Horizonte",
+        "url": "https://open.spotify.com/album/5jW99GeUF9H8mNoxaRZrWn"
+      },
+      "artists": [
+        {
+          "name": "Ed Neidhardt",
+          "url": "https://open.spotify.com/artist/3bNG06xa1cMet4wV0dg21h"
+        },
+        {
+          "name": "Bufalo Dit",
+          "url": "https://open.spotify.com/artist/7eC2HRtBhiXNWTAVdflUtK"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209250,
+      "name": "Tr\u00e1tate Bi\u00e9n",
+      "url": "https://open.spotify.com/track/0H9XzJ1wraMqsGheDlxsLH"
+    },
+    {
+      "album": {
         "name": "GRRR Live!",
         "url": "https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2"
       },
@@ -18270,7 +18392,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 256444,
       "name": "Warenkorb",
       "url": "https://open.spotify.com/track/69HzNcNqVpx53fQM9PXIxO"

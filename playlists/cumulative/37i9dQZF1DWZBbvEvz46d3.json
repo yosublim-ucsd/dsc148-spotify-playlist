@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 259941,
       "name": "Jutro mo\u017cemy by\u0107 szcz\u0119\u015bliwi",
       "url": "https://open.spotify.com/track/7zIYJMuU8iF4m5Tp0yKJ3l"
@@ -792,6 +792,24 @@
       "duration_ms": 225666,
       "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
+    },
+    {
+      "album": {
+        "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
+        "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
+      },
+      "artists": [
+        {
+          "name": "Myslovitz",
+          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206186,
+      "name": "My",
+      "url": "https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR"
     },
     {
       "album": {

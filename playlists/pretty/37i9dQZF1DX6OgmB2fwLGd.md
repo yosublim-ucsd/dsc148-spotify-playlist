@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,393,538 likes - 98 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,393,466 likes - 98 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 87 | [Gangsta Boogie](https://open.spotify.com/track/05pTIcFoJc2Sd5gULTUR1t) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Gangsta Boogie](https://open.spotify.com/album/0MVmaI88e3V5OdfQ29FeTi) | 3:54 |
 | 88 | [Just Like Me](https://open.spotify.com/track/4lcrZiMuwz0VWiwrrqGgOW) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Just Like Me](https://open.spotify.com/album/1sbizSerYAgDqpFUAgCTQP) | 2:05 |
 | 89 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 |
-| 90 | [Aint Nothing](https://open.spotify.com/track/6Q2Cec1drXDOqrTUyM1brP) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Aint Nothing](https://open.spotify.com/album/5odMnlD41r5v3vVWxe18kG) | 2:34 |
+| 90 | [Aint Nothing](https://open.spotify.com/track/5754hZ1mD8MUxppIBI1Lze) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Aint Nothing](https://open.spotify.com/album/5Xcs66TveRQpEMUoJE0V9d) | 2:34 |
 | 91 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 |
 | 92 | [Lamborghini Boys \(with Tay Keith and Nardo Wick\)](https://open.spotify.com/track/7Clgnvwgszp14FU5B9cgvj) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Lamborghini Boys \(with Tay Keith and Nardo Wick\)](https://open.spotify.com/album/6dTPh7wqxX0nS45AGIVt7T) | 2:23 |
 | 93 | [Slizzy Talk](https://open.spotify.com/track/1Qvxd1s2lzrXedEjqdYQQn) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Slizzy Talk](https://open.spotify.com/album/5lnwBxTSlY9xY8Im5yWvIZ) | 2:22 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 97 | [First Things First](https://open.spotify.com/track/7DFTrjG8Y4uNSUGj8bfLMR) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [First Things First](https://open.spotify.com/album/7vC8AyFxSAN0qPQwE4RxBm) | 1:46 |
 | 98 | [Imagine](https://open.spotify.com/track/1OXBgL6v7PbBlsW04YTqHr) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Imagine](https://open.spotify.com/album/3eE3jvTL3vFOXQuVlXM1sr) | 2:32 |
 
-Snapshot ID: `MCwzMjAwMDI3NjVmOGQwMWI1ZDlmODQyYWVlMzhlMDQzMzJlMmFkYzcw`
+Snapshot ID: `MCxhOTFhZGVjMTE2NjVkYzIxMDhlMzU3OTMyZTIwYzg1YjgxMjViZGZm`

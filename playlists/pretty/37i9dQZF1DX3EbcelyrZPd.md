@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Mocco Genius
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,830 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,870 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 19 | [Nawaza](https://open.spotify.com/track/3yWfiWRv51tuYlAzh7KHSO) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Nawaza](https://open.spotify.com/album/5d2lTlDVkULcfTMS7JoWYz) | 3:54 |
 | 20 | [Sitaki](https://open.spotify.com/track/3VciOIAAH9bqNPmsqOhVod) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Sitaki](https://open.spotify.com/album/0Yz6waiDwKXzskayIAFtnM) | 3:36 |
 | 21 | [Single Again \(feat\. Ruger\) \- Remix](https://open.spotify.com/track/463mgOOvzTeyL2u2cmqKIE) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Single Again \(feat\. Ruger\) \[Remix\]](https://open.spotify.com/album/0xsygiGSVxNtNnz06K173w) | 3:56 |
-| 22 | [Nikupende \(feat\. Afriikan Papi, Q\-Mark & Slick Widit\)](https://open.spotify.com/track/0vmx7Ir3yqYzLvtDGmQK7l) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Afriikan Papi](https://open.spotify.com/artist/4fDmMQuFAIHnsKbmfOY8yO), [Q\-Mark](https://open.spotify.com/artist/1PINqStNpc48PWNAMDQpVj), [Slick Widit](https://open.spotify.com/artist/3bDWpyZXR29vsVsjguxLWe) | [Nikupende \(feat\. Afriikan Papi, Q\-Mark & Slick Widit\)](https://open.spotify.com/album/5CaPbeq0J1ugZNNfN8MVYW) | 4:26 |
+| 22 | [Nikupende \(feat\. Q\-Mark & Slick Widit\)](https://open.spotify.com/track/0vmx7Ir3yqYzLvtDGmQK7l) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Afriikan Papi](https://open.spotify.com/artist/4fDmMQuFAIHnsKbmfOY8yO), [Q\-Mark](https://open.spotify.com/artist/1PINqStNpc48PWNAMDQpVj), [Slick Widit](https://open.spotify.com/artist/3bDWpyZXR29vsVsjguxLWe) | [Nikupende \(feat\. Afriikan Papi, Q\-Mark & Slick Widit\)](https://open.spotify.com/album/5CaPbeq0J1ugZNNfN8MVYW) | 4:26 |
 | 23 | [Sumu \(feat\. Marioo\)](https://open.spotify.com/track/058q1xfFWx9Nde7lvWNXBl) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Sumu \(feat\. Marioo\)](https://open.spotify.com/album/6NiqDJk0P5FeKlSdtxO3YL) | 4:40 |
 | 24 | [Pounds & Dollars](https://open.spotify.com/track/3AZgT5PLKg2MvDZosiUbtK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Wouter Kellerman](https://open.spotify.com/artist/10Rq3Te2tos6wrd84zWxml) | [Pounds & Dollars](https://open.spotify.com/album/2Qo6netL2LkiOFuQlLCP0I) | 2:55 |
 | 25 | [Nimejipata](https://open.spotify.com/track/2YCdvj059UD2sGV6jamW5d) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Nimejipata](https://open.spotify.com/album/0o4meWc4SbMl0JtTEVx42d) | 3:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Lonely](https://open.spotify.com/track/5POWdKYIuBfd2KvSPUtwIK) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Abbah](https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV) | [The Kid You Know](https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84) | 4:12 |
 | 70 | [Maokoto](https://open.spotify.com/track/0ldVedbqs0hXp8ijwVUQoQ) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Maokoto](https://open.spotify.com/album/6pn4PsDQDZ5BE2f50TihaU) | 3:36 |
 
-Snapshot ID: `MCwzM2FjNDE1YWQ4ZGEwNjE1MjM3ZDQ3MmIxYWUxZDIyYmNkYjFiNzBk`
+Snapshot ID: `MCwzM2YyMTczNThlNTI4ZGU3MDBhYWM0MzQzZGI0OWEzOWFjZDIxN2Vi`

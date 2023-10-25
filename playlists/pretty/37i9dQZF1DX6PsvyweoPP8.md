@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,395 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,444 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 74 | [Não Demora](https://open.spotify.com/track/2upeA1eDVdtH4t7zUdGULn) | [Mati](https://open.spotify.com/artist/6q4OTLGMcroTVXFFKSkzzC), [Ni Munhoz](https://open.spotify.com/artist/3e0wWnjJSczRhvjFKT7kQZ) | [Não Demora](https://open.spotify.com/album/0NtFR23BCN7A9jCfbaj54z) | 2:46 |
 | 75 | [Na Sua Rota](https://open.spotify.com/track/2ru53XgZV761mqXaBwSk5Y) | [Diego Thug](https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw), [VK](https://open.spotify.com/artist/00fzfkVD3y9sfUfdaYDAGf) | [Smooth](https://open.spotify.com/album/4Tp411Bh9vDjXlJRHsSpLD) | 3:32 |
 
-Snapshot ID: `MCwwYThmNDgwYTdlYTAyMThkY2VhOWFhODdjZGI5ZjJmMDE3YzcyYjNi`
+Snapshot ID: `MCxjM2E4ZDVjNWQ0OWQxNzY5NDcwMWE0YjI1MzgyYjU2ZDAyNDM2Yjdj`

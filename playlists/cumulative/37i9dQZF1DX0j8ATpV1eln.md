@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-145 songs - 9 hr 31 min
+146 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [奇天烈ポエマー \- 弾き語りver.](https://open.spotify.com/track/2ZPfwKhQF2dFE6auYdLdqA) | [大石昌良](https://open.spotify.com/artist/2DCpkbmYB8FVjI0n15MdSR) | [奇天烈ポエマー](https://open.spotify.com/album/0VwBhNnXLdNEQc2qIgI8Qe) | 3:08 | 2022-04-26 | 2022-07-29 |
 | [奇天烈ポエマー\(弾き語りver.\)](https://open.spotify.com/track/4JFRAbNBC7f6QMJOL4RQMr) | [大石昌良](https://open.spotify.com/artist/2DCpkbmYB8FVjI0n15MdSR) | [パラレルワールド](https://open.spotify.com/album/4jrDUOqLbjReixDfvdlB0f) | 3:08 | 2022-08-16 | 2022-11-14 |
 | [春夏秋冬☆Blooming!](https://open.spotify.com/track/45RpTPKeWsGGRkX5onDCf4) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv), [佐久間咲也\(CV:酒井広大\)](https://open.spotify.com/artist/6rPornlr337BSL4cfY3dTC), [皇天馬\(CV:江口拓也\)](https://open.spotify.com/artist/5W3qMhWABumuWMdkg9tHH5), [摂津万里\(CV:沢城千春\)](https://open.spotify.com/artist/1tQ0ttx4p0OGK374aMxqFh), [月岡紬\(CV:田丸篤志\)](https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt) | [春夏秋冬☆Blooming!](https://open.spotify.com/album/4FG9dxPiMVyvZTiANQGLI6) | 3:21 | 2022-04-26 |  |
+| [最強の推し！](https://open.spotify.com/track/1XD1QrcvVJEE2MIKkzHT0r) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [最強の推し！](https://open.spotify.com/album/1CpgVE8KbNQfrP1aOyWFf9) | 3:42 | 2023-10-24 |  |
 | [最果てのスーパースター](https://open.spotify.com/track/2LFuq0tLY45nizYFHFpeT7) | [Gero×天月×FAKE TYPE.](https://open.spotify.com/artist/6jD8iEr7TX9hRAQOgcrncM) | [THE ORIGIN](https://open.spotify.com/album/6WJxW7FvMwPXkh27Yus0VB) | 2:43 | 2023-09-19 |  |
 | [未来ノート](https://open.spotify.com/track/0OH9a0XlsXoEQPvd3CkeNx) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [未来ノート](https://open.spotify.com/album/5CaxVa8rlkAi9zQr4RO6lJ) | 4:25 | 2022-04-26 |  |
 | [枕男子](https://open.spotify.com/track/0lZm2bb74dls6EwTtdEjjs) | [めりぃ\(CV:花江夏樹\)](https://open.spotify.com/artist/1BMSB705CtH9G636Jjkdkx) | [枕男子](https://open.spotify.com/album/3aHyg1IqLSSkWRVLWTwag5) | 4:28 | 2022-04-26 |  |

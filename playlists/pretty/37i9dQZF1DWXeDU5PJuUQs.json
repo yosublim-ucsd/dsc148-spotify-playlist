@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 129394,
+  "num_followers": 129482,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2ExNTZlMDE4YTQ5ZjE0YTY5NWViNTQzYzNmNzFjNWEyZDFlODc4",
+  "snapshot_id": "MCxiZjI3NDU1MTJiMTBlNDViMWE5YTQ2MTg3NDJjYWM4MzVmZTdkZTQ2",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "En Vivo en el Gran Rex",
-        "url": "https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 177739,
-      "name": "No Llores - En Vivo",
-      "url": "https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Bonita / Madre Soltera (En Vivo)",
         "url": "https://open.spotify.com/album/42RKKUdWT9eVM1OhLvFXfT"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 232896,
       "name": "Madre Soltera - En Vivo",
       "url": "https://open.spotify.com/track/1sW5XV58fHKTLB07WvrU69"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "En Vivo en el Gran Rex",
+        "url": "https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 177739,
+      "name": "No Llores - En Vivo",
+      "url": "https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Que Vuelvas (En Vivo)",
+        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 108129,
+      "name": "Que Vuelvas - En Vivo",
+      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 281234,
       "name": "Si No Te Hubieras Ido - En Vivo",
       "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "T\u00fa, La M\u00e1s Bella",
-      "url": "https://open.spotify.com/track/0INfS0VDSgKQS3jCDdTMOX"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Que Vuelvas (En Vivo)",
-        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
       "artists": [
         {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 108129,
-      "name": "Que Vuelvas - En Vivo",
-      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
+      "duration_ms": 169000,
+      "name": "T\u00fa, La M\u00e1s Bella",
+      "url": "https://open.spotify.com/track/0INfS0VDSgKQS3jCDdTMOX"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "En Vivo 2019",
+        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 147113,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Jurabas T\u00fa / Mis Sentimientos (En Vivo)",
         "url": "https://open.spotify.com/album/4n43selPpgHWfgrUkHGjCL"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "En Vivo 2019",
-        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 147113,
-      "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Crecer (En Vivo)",
         "url": "https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 212266,
       "name": "Dime Si Eres Feliz - En Vivo",
       "url": "https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 278133,
-      "name": "Como Podr\u00e9",
-      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -815,6 +799,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 278133,
+      "name": "Como Podr\u00e9",
+      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
       },
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "En Vivo en el Teatro",
-        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 1189088,
-      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
-      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
+      "duration_ms": 496146,
+      "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
+      "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -879,34 +879,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+        "name": "En Vivo en el Teatro",
+        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
       },
       "artists": [
         {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
         }
       ],
-      "duration_ms": 496146,
-      "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
-      "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "20 A\u00f1os Agitando el Avispero (En Vivo)",
-        "url": "https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        }
-      ],
-      "duration_ms": 198245,
-      "name": "Soy Mala Fama - En Vivo",
-      "url": "https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4"
+      "duration_ms": 1189088,
+      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
+      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -927,6 +911,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "20 A\u00f1os Agitando el Avispero (En Vivo)",
+        "url": "https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "duration_ms": 198245,
+      "name": "Soy Mala Fama - En Vivo",
+      "url": "https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "En Vivo Desde el Teatro Opera",
         "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 433520,
       "name": "Karma / Me Voy / Solita Me Voy - En Vivo",
       "url": "https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        }
+      ],
+      "duration_ms": 194931,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -959,22 +975,6 @@
       "duration_ms": 316182,
       "name": "Una Copa de M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Estuve Ah\u00ed",
-        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        }
-      ],
-      "duration_ms": 194931,
-      "name": "Estuve Ah\u00ed",
-      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 483693,
+      "name": "La Ventanita / Beso a Beso",
+      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "En Vivo En La Quinta Vergara",
         "url": "https://open.spotify.com/album/1ufPsyIKQ45i4nKN5urv2C"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 208613,
       "name": "Cochi Nini - Vivo En El Teatro, Opera / 2018",
       "url": "https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Mi Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
-      },
-      "artists": [
-        {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
-        }
-      ],
-      "duration_ms": 483693,
-      "name": "La Ventanita / Beso a Beso",
-      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
     },
     {
       "added_at": "2023-10-20 03:00:00",

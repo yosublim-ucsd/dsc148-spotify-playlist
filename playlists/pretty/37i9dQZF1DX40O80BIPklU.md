@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Métricas Frías en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,478 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,591 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 99 | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/track/4E6kns35AUSkJhHpXYRRKF) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/album/1Z3NkOHY0rbefHDkIttPhP) | 2:30 |
 | 100 | [Underrated](https://open.spotify.com/track/42EDLkzqnTmw2xZZ9bkfYT) | [Lego Skillz](https://open.spotify.com/artist/7jk87weJfexobhc1bJJt9M), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk), [Haze](https://open.spotify.com/artist/4OYcQT9EHQHCYJVfbyGNzr) | [Underrated](https://open.spotify.com/album/4bTHEqX5vfP9UiFairPree) | 3:00 |
 
-Snapshot ID: `MCwzYWIzMTYzMGE1ZTYzMWVhNmM2NzZlMjFjZjRmMTA3NDNmNTljZTA3`
+Snapshot ID: `MCxiOGZhNTA2NGM5ZjE0ZDhjOGNkNGE1NzFkNWZkZWIzODI0YmQ4ODA5`

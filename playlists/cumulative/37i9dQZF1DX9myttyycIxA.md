@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Babehoven
 
-1,076 songs - 2 day 13 hr 18 min
+1,077 songs - 2 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Bucktooth](https://open.spotify.com/track/59ewp9EGD7BYjb0C3Myv3u) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Bucktooth](https://open.spotify.com/album/4bx5GYQvnyDQtav2gpzEIW) | 3:29 | 2022-08-26 | 2023-03-04 |
 | [Bull Believer](https://open.spotify.com/track/6wYlN6ikOUsS0PQEI4XJMl) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bull Believer](https://open.spotify.com/album/7snO1rfm1c5QndkfgQVsFb) | 8:30 | 2022-10-07 | 2023-03-04 |
 | [bulletproof](https://open.spotify.com/track/4YPMxwrIkYt4UgjKtTNZdl) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn), [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [bulletproof](https://open.spotify.com/album/2ia7IV4V3rGZH2Gi08IVuZ) | 4:12 | 2022-07-08 | 2022-12-03 |
+| [bullseye](https://open.spotify.com/track/68KvsTrt7PLsbYstmELdN7) | [garii](https://open.spotify.com/artist/5IbxdNlYjtiXwSnRRNHUrN) | [bullseye](https://open.spotify.com/album/79mWaMJfoGi9CxIvDxsuKe) | 4:09 | 2023-10-25 |  |
 | [bundle of hyacinths \(feat\. Samia\)](https://open.spotify.com/track/2SQ0rlJIzZSnDQTekYQhsw) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [bundle of hyacinths \(feat\. Samia\)](https://open.spotify.com/album/0rhiRlJCfhHrG585XAsBgL) | 3:03 | 2021-03-05 | 2022-03-21 |
 | [burning love letters](https://open.spotify.com/track/5s3AtbTWwXzd2x5hLnNm6I) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [burning love letters](https://open.spotify.com/album/3JJQviIafzIDT9KKGu2End) | 2:34 | 2023-01-27 | 2023-03-04 |
 | [Burnt](https://open.spotify.com/track/5PY4JyJ5oQIxLx9iqrXXEG) | [Slater](https://open.spotify.com/artist/0axqUvPmS7PqZp0xJTdzdG) | [Burnt](https://open.spotify.com/album/0Q1qEXD9LLptZnO4CBvz0K) | 2:53 | 2022-08-05 | 2022-12-03 |
@@ -657,7 +658,7 @@
 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-09-29 | 2023-10-07 |
 | [Muscle Memory](https://open.spotify.com/track/0dRQJ2toZYGLcgfDZmx4mL) | [Art Moore](https://open.spotify.com/artist/63c8LndU96a2DpE9OhilbC) | [Muscle Memory](https://open.spotify.com/album/1iAFICvSpHa8ikT8MOLdI7) | 3:16 | 2022-05-20 | 2022-07-09 |
 | [Must Be a Cop](https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Must Be a Cop](https://open.spotify.com/album/4igY3gMllO1ThzJpZVjQzO) | 3:49 | 2021-06-11 | 2022-08-18 |
-| [My Dog Died](https://open.spotify.com/track/2omElRdbSjKVj8ZjRITEWB) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [My Dog Died](https://open.spotify.com/album/7vR6blKuUJI8Fj1XpcQJpX) | 3:45 | 2023-07-28 |  |
+| [My Dog Died](https://open.spotify.com/track/2omElRdbSjKVj8ZjRITEWB) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [My Dog Died](https://open.spotify.com/album/7vR6blKuUJI8Fj1XpcQJpX) | 3:45 | 2023-07-28 | 2023-10-25 |
 | [my favorite things](https://open.spotify.com/track/0XB8C36wLdj1GuzsXFCfVv) | [Molly Frances](https://open.spotify.com/artist/3VU3ahp3nIUitRDLYo1vhh) | [my favorite things](https://open.spotify.com/album/7tLedYLB53PpUPOjYdffp5) | 2:41 | 2022-12-16 | 2023-01-14 |
 | [my little tony](https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [my little tony](https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX) | 2:59 | 2023-09-22 |  |
 | [My Year \(This Is Going To Be\)](https://open.spotify.com/track/7InbD5D74EaymYMIwzs4LL) | [12 RODS](https://open.spotify.com/artist/4aPT61obombRBkg2Fx69i2) | [My Year \(This Is Going To Be\)](https://open.spotify.com/album/3DnuVIeelvxu2wm0wei74W) | 3:03 | 2023-06-15 |  |

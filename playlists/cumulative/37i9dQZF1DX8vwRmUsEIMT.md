@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Charli XCX
 
-1,435 songs - 3 day 5 hr 34 min
+1,437 songs - 3 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 | 2022-10-13 | 2022-11-11 |
 | [Call Me](https://open.spotify.com/track/4eRutShPXNfRyPFpiUyk8I) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Belters Only](https://open.spotify.com/album/1JCbimAC11Q9dyaMk1dz0U) | 2:57 | 2022-09-29 | 2022-10-19 |
 | [Call Me](https://open.spotify.com/track/2Mor2fdr6NYCHYetzXpnbx) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Call Me](https://open.spotify.com/album/3ReMdcPVTGwD2V4EwIZ4tn) | 3:28 | 2022-06-16 | 2022-07-08 |
+| [Call Me Revenge \- Call of Duty: Modern Warfare 3](https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Call Me Revenge \(Call of Duty: Modern Warfare 3\)](https://open.spotify.com/album/7ISArb5GeVeJ6O65wUyIux) | 2:46 | 2023-10-24 |  |
 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-02-10 | 2023-03-22 |
 | [Call on Me](https://open.spotify.com/track/6NAeCHRuzqURCsUpYTQbjK) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Call on Me](https://open.spotify.com/album/32cDkCyVQFR8M4QtatNhGU) | 2:50 | 2023-03-31 | 2023-04-21 |
 | [Call On Me \(with Tove Lo\)](https://open.spotify.com/track/6jpOvC9iucgAnJm7vwyXm6) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Call On Me \(with Tove Lo\)](https://open.spotify.com/album/4f2spuorkr4IOoI5AXCzLi) | 3:16 | 2022-10-13 | 2022-11-11 |
@@ -512,7 +513,7 @@
 | [George Best \(feat\. Tom Zanetti\)](https://open.spotify.com/track/2cV7aw6lhyfGxNNi2n6vNt) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [George Best \(feat\. Tom Zanetti\)](https://open.spotify.com/album/50srAn63LR5smlW4LzKsGB) | 3:08 | 2023-04-13 | 2023-04-28 |
 | [Georgetown \(feat\. John Agard\)](https://open.spotify.com/track/1TFI1ltSMuCIoEc7as1Wvy) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [John Agard](https://open.spotify.com/artist/6R8SE4sx8FJKf3ellRAkdm) | [Georgetown \(feat\. John Agard\)](https://open.spotify.com/album/0OX3vQ1IUPFf6YMc815xoS) | 2:57 | 2022-08-11 | 2022-09-02 |
 | [Georgia](https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Georgia](https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ) | 2:56 | 2022-11-11 | 2022-12-09 |
-| [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-08 |  |
+| [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-08 | 2023-10-25 |
 | [GHOST](https://open.spotify.com/track/2UFymEI5CxaY7RFcn0SFaz) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [GHOST](https://open.spotify.com/album/2TjrxpL3ghu3WqCwDJwYrJ) | 2:43 | 2022-08-04 | 2022-08-24 |
 | [Ghost in the Machine \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:38 | 2022-12-09 | 2023-01-20 |
 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 | 2022-10-06 | 2022-12-09 |
@@ -552,6 +553,7 @@
 | [Green Green Grass](https://open.spotify.com/track/3rk4aJ0vAj3cFUIQEeASkT) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Green Green Grass](https://open.spotify.com/album/1p6j020MWD6BCELPZd8XVC) | 2:47 | 2022-05-26 | 2022-06-10 |
 | [Groundwork](https://open.spotify.com/track/6VBQuholHCe5LyCdyIWvzo) | [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Papoose](https://open.spotify.com/artist/0mbgkaYR8KNUb5s3s1yYHG) | [Groundwork](https://open.spotify.com/album/6N25MmXrrGmBV8ZlUW8cTv) | 3:28 | 2022-08-26 | 2022-09-16 |
 | [Grrrls](https://open.spotify.com/track/7Mto5DGHzHXzF1hpsMRtYK) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Grrrls](https://open.spotify.com/album/0qFaO3ORj00440rLfVVbb1) | 2:01 | 2022-06-09 | 2022-07-29 |
+| [Guiding Light](https://open.spotify.com/track/4Arnh7J9U6YzysVBUNZcR0) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Guiding Light](https://open.spotify.com/album/58sgLN9OAebaaf0J1ntW8E) | 2:43 | 2023-10-24 |  |
 | [gutter](https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [gutter](https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2) | 2:07 | 2023-03-17 | 2023-04-28 |
 | [Hallelujah Moment](https://open.spotify.com/track/1UOkwtqARzu9QW4IMQjeO0) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf) | 2:15 | 2022-09-29 | 2022-10-29 |
 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 | 2022-06-09 | 2022-07-01 |
@@ -745,7 +747,7 @@
 | [LA Leakers Freestyle](https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LA Leakers Freestyle](https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH) | 2:58 | 2022-09-13 | 2022-10-21 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-28 | 2023-04-14 |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-05-26 | 2022-06-22 |
-| [Last Time I Saw You](https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Last Time I Saw You](https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1) | 3:36 | 2023-09-01 |  |
+| [Last Time I Saw You](https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Last Time I Saw You](https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1) | 3:36 | 2023-09-01 | 2023-10-25 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-26 | 2022-07-08 |
 | [Laura](https://open.spotify.com/track/2PnOCPd9oZhbLGSzzFf8Ba) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:08 | 2023-03-17 | 2023-04-05 |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-25 | 2022-12-02 |

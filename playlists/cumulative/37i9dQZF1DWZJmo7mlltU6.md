@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: Claire Rosinkranz.
 
-795 songs - 1 day 19 hr 38 min
+796 songs - 1 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -759,8 +759,9 @@
 | [What If](https://open.spotify.com/track/4sEni2QRFyUqC5h2gw5WRN) | [Petit Desk](https://open.spotify.com/artist/31WjytzKxWWvcr6uu0oZmw) | [What If](https://open.spotify.com/album/5W5JTrm3ZWu1IBNbx54mEe) | 5:21 | 2022-10-14 | 2023-05-20 |
 | [WHAT IF WE FALL IN LOVE?](https://open.spotify.com/track/28PEJiJg7H76kHHd24GXB1) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [WHAT IF WE FALL IN LOVE?](https://open.spotify.com/album/6StudnAUV4NbdyRxqWMrSh) | 3:03 | 2022-09-02 | 2022-10-13 |
 | [WHAT IF WE FALL IN LOVE?](https://open.spotify.com/track/2Y7PDa6oYYTbsTp0fRpizS) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [TECHNICOLOR](https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb) | 3:03 | 2022-10-07 | 2022-10-29 |
-| [What's up](https://open.spotify.com/track/4PGZvQgg8Nd3lOl3L4Hdkb) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6xAbweCyvExMjOQmOl194h) | 2:52 | 2023-08-25 |  |
+| [What's up](https://open.spotify.com/track/4PGZvQgg8Nd3lOl3L4Hdkb) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6xAbweCyvExMjOQmOl194h) | 2:52 | 2023-08-25 | 2023-10-25 |
 | [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 | 2023-06-09 | 2023-08-29 |
+| [What's up](https://open.spotify.com/track/7Ho6dQkOqE0GB8Zb6fYf8h) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF) | 2:52 | 2023-10-20 |  |
 | [When The Day Is Done](https://open.spotify.com/track/3uOxQfsAQH4SJmRdBVLpzQ) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When The Day Is Done](https://open.spotify.com/album/6lzMbDwLT43JtvRbmcuBLn) | 3:00 | 2023-04-28 | 2023-07-29 |
 | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh) | 3:54 | 2023-07-14 |  |
 | [where I become someone](https://open.spotify.com/track/0ksR5KPinz2gURmTsZpWwU) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [where I become someone](https://open.spotify.com/album/6G6nqU2YyUXQKzRNpPJ4mg) | 3:08 | 2022-01-14 | 2022-03-30 |

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 17482,
+  "num_followers": 17498,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTA0MGI1YTg0NmU3MjlhNzRhN2E4MDQ0YWY1MmY4NzE4ZWY4OTFh",
+  "snapshot_id": "MCw2OTcwMDI5MzY1MzBmMDdmYWE3YTBiNjY0ODYwZjc0NTIzODhkNmQ4",
   "tracks": [
     {
       "added_at": "2023-08-11 14:55:17",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Azsulado",
-        "url": "https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM"
-      },
-      "artists": [
-        {
-          "name": "Alicia Vignola",
-          "url": "https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Mujer ni\u00f1a y amiga",
-      "url": "https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
         "name": "Un sue\u00f1o de barrio",
         "url": "https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 208384,
       "name": "Confidencias",
       "url": "https://open.spotify.com/track/53573za1S0cPRlR9TudWro"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "Azsulado",
+        "url": "https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM"
+      },
+      "artists": [
+        {
+          "name": "Alicia Vignola",
+          "url": "https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Mujer ni\u00f1a y amiga",
+      "url": "https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "El Amor Ese Loco Berretin",
-        "url": "https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj"
-      },
-      "artists": [
-        {
-          "name": "Rita Cortese",
-          "url": "https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3"
-        }
-      ],
-      "duration_ms": 218033,
-      "name": "Nunca Tuvo Novio",
-      "url": "https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
         "name": "Vintage Argentine Tangos (1928 - 1954), Vol. 2",
         "url": "https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 165982,
       "name": "La canci\u00f3n de Buenos Aires",
       "url": "https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "El Amor Ese Loco Berretin",
+        "url": "https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj"
+      },
+      "artists": [
+        {
+          "name": "Rita Cortese",
+          "url": "https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3"
+        }
+      ],
+      "duration_ms": 218033,
+      "name": "Nunca Tuvo Novio",
+      "url": "https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu"
     }
   ],
   "unique_name": "Mujeres del Tango",

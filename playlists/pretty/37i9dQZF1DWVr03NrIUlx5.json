@@ -1,12 +1,12 @@
 {
   "description": "8 bit bangers.",
-  "num_followers": 101391,
+  "num_followers": 101518,
   "original_name": "8 Bit Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODUzMDdiZDZlMGIzNWU2NTQxOGU5MDdlMzA1ZjA2ZjczZDAwYjI0",
+  "snapshot_id": "MCxjODY3OTExMmVkN2VmYTI3OTRkMzc0YWFkN2VhNjVlYjc0Mzc5ZDIy",
   "tracks": [
     {
       "added_at": "2022-09-30 05:34:00",
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40"
         }
       ],
-      "duration_ms": 230276,
-      "name": "Love Yourself (8 Bit Version)",
-      "url": "https://open.spotify.com/track/0M5SBpgIQHMOVSxfLeUh92"
+      "duration_ms": 194264,
+      "name": "I Know Places (8 Bit Version)",
+      "url": "https://open.spotify.com/track/4nVQjFjD0Sjnpl4tDwmxUI"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
         }
       ],
-      "duration_ms": 186453,
-      "name": "Last Resort",
-      "url": "https://open.spotify.com/track/6yV0Vy0tLOsjtqHEzKPGcA"
+      "duration_ms": 140546,
+      "name": "Boulevard of Broken Dreams",
+      "url": "https://open.spotify.com/track/4fvRkA3P0RgsdTbpsiwEXS"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40"
         }
       ],
-      "duration_ms": 194264,
-      "name": "I Know Places (8 Bit Version)",
-      "url": "https://open.spotify.com/track/4nVQjFjD0Sjnpl4tDwmxUI"
+      "duration_ms": 230276,
+      "name": "Love Yourself (8 Bit Version)",
+      "url": "https://open.spotify.com/track/0M5SBpgIQHMOVSxfLeUh92"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Rock & Metal Anthems",
-        "url": "https://open.spotify.com/album/7cVF5QegUiL7AP2e06WXOf"
-      },
-      "artists": [
-        {
-          "name": "8-Bit Arcade",
-          "url": "https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn"
-        }
-      ],
-      "duration_ms": 206891,
-      "name": "Toxicity (8-Bit System Of A Down Emulation)",
-      "url": "https://open.spotify.com/track/78stY6565a5LgCpTvnhxl2"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
         "name": "8-Bit Versions of Gorillaz",
         "url": "https://open.spotify.com/album/5Ac2uMLrhTDFeRm2Kbrt0J"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 229734,
       "name": "On Melancholy Hill",
       "url": "https://open.spotify.com/track/1jsjYsq6BMdd372OSdTelM"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "Rock & Metal Anthems",
+        "url": "https://open.spotify.com/album/7cVF5QegUiL7AP2e06WXOf"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Arcade",
+          "url": "https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn"
+        }
+      ],
+      "duration_ms": 206891,
+      "name": "Toxicity (8-Bit System Of A Down Emulation)",
+      "url": "https://open.spotify.com/track/78stY6565a5LgCpTvnhxl2"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1112,25 +1112,9 @@
           "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
         }
       ],
-      "duration_ms": 140546,
-      "name": "Boulevard of Broken Dreams",
-      "url": "https://open.spotify.com/track/4fvRkA3P0RgsdTbpsiwEXS"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
-        "name": "Lit 8 Bits",
-        "url": "https://open.spotify.com/album/5aybfUu9nsyEoXkyGtVYVw"
-      },
-      "artists": [
-        {
-          "name": "8 Bit Universe",
-          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
-        }
-      ],
-      "duration_ms": 115559,
-      "name": "Old Town Road (8 Bit Version)",
-      "url": "https://open.spotify.com/track/4RcSbZpzM5qYQehEolo5z2"
+      "duration_ms": 186453,
+      "name": "Last Resort",
+      "url": "https://open.spotify.com/track/6yV0Vy0tLOsjtqHEzKPGcA"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1147,6 +1131,22 @@
       "duration_ms": 197000,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/0Y7fpN664mIaoUqEBpMCDm"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "Lit 8 Bits",
+        "url": "https://open.spotify.com/album/5aybfUu9nsyEoXkyGtVYVw"
+      },
+      "artists": [
+        {
+          "name": "8 Bit Universe",
+          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
+        }
+      ],
+      "duration_ms": 115559,
+      "name": "Old Town Road (8 Bit Version)",
+      "url": "https://open.spotify.com/track/4RcSbZpzM5qYQehEolo5z2"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
+        "name": "8-Bit Versions of Led Zeppelin",
+        "url": "https://open.spotify.com/album/11nihhKvWVwU8cM9QWoF4Y"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
+        }
+      ],
+      "duration_ms": 147079,
+      "name": "Immigrant Song",
+      "url": "https://open.spotify.com/track/6INzFSLg08SUeZcG64PSwZ"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
         "name": "The 8-Bit 80s",
         "url": "https://open.spotify.com/album/4wRRU3vtMD32OyrynXPtwZ"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 197220,
       "name": "You Spin Me Round (Like a Record)",
       "url": "https://open.spotify.com/track/6DLGE2fdn41jFc6Jc6fBYy"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
-        "name": "8-Bit Versions of Led Zeppelin",
-        "url": "https://open.spotify.com/album/11nihhKvWVwU8cM9QWoF4Y"
-      },
-      "artists": [
-        {
-          "name": "8-Bit Misfits",
-          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
-        }
-      ],
-      "duration_ms": 147079,
-      "name": "Immigrant Song",
-      "url": "https://open.spotify.com/track/6INzFSLg08SUeZcG64PSwZ"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "8-Bit Versions of Michael Jackson",
-        "url": "https://open.spotify.com/album/72muLXH22HNmlYPdQRLsVO"
-      },
-      "artists": [
-        {
-          "name": "8-Bit Misfits",
-          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
-        }
-      ],
-      "duration_ms": 241947,
-      "name": "Thriller",
-      "url": "https://open.spotify.com/track/10akn5RmTjMhOPdLm4iNKh"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
         "name": "8-Bit Versions of Nirvana",
         "url": "https://open.spotify.com/album/0tbrVxoMh8YaAVSrNBG14d"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 301043,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/5CVCqj3EtrFDMhZylxpqhf"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "8-Bit Versions of Michael Jackson",
+        "url": "https://open.spotify.com/album/72muLXH22HNmlYPdQRLsVO"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
+        }
+      ],
+      "duration_ms": 241947,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/10akn5RmTjMhOPdLm4iNKh"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "8-Bit Versions of Depeche Mode",
-        "url": "https://open.spotify.com/album/0V43sy9cb2Q8HQroLLD1wV"
-      },
-      "artists": [
-        {
-          "name": "8-Bit Misfits",
-          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
-        }
-      ],
-      "duration_ms": 255511,
-      "name": "Enjoy the Silence",
-      "url": "https://open.spotify.com/track/74mbMt5h9srEgEl0pXrpJU"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
         "name": "8-Bit Universe, Vol. 23",
         "url": "https://open.spotify.com/album/7tFFu7sCxQixFjMzLqoqyf"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 389837,
       "name": "Hotel California - 8-Bit Version",
       "url": "https://open.spotify.com/track/72EfHwcUwdfELjCKhYMc1x"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "8-Bit Versions of Depeche Mode",
+        "url": "https://open.spotify.com/album/0V43sy9cb2Q8HQroLLD1wV"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
+        }
+      ],
+      "duration_ms": 255511,
+      "name": "Enjoy the Silence",
+      "url": "https://open.spotify.com/track/74mbMt5h9srEgEl0pXrpJU"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1583,8 +1583,8 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Lit Bits",
-        "url": "https://open.spotify.com/album/7K3EZPyJCFqFEKuOGI9Mz0"
+        "name": "8 Bit Universe Performs Ed Sheeran",
+        "url": "https://open.spotify.com/album/12xCtanP1RaadHTIYoItHJ"
       },
       "artists": [
         {
@@ -1592,9 +1592,9 @@
           "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
         }
       ],
-      "duration_ms": 243674,
-      "name": "Eye of the Tiger (2019 8 Bit Version)",
-      "url": "https://open.spotify.com/track/1VptTXizn639xDw5CsSDMy"
+      "duration_ms": 231998,
+      "name": "Shape of You (8 Bit Version)",
+      "url": "https://open.spotify.com/track/2ei8b1huBEgIRVZCFEjpBj"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1615,24 +1615,8 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "8-Bit 80's",
-        "url": "https://open.spotify.com/album/3lzOTH8UFrfDFPyXDGV3nF"
-      },
-      "artists": [
-        {
-          "name": "Super Power Club",
-          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
-        }
-      ],
-      "duration_ms": 184773,
-      "name": "Walk Like an Egyptian",
-      "url": "https://open.spotify.com/track/7DJ3CdD4IdIX78siG1vJb9"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
-        "name": "8 Bit Universe Performs Ed Sheeran",
-        "url": "https://open.spotify.com/album/12xCtanP1RaadHTIYoItHJ"
+        "name": "Lit Bits",
+        "url": "https://open.spotify.com/album/7K3EZPyJCFqFEKuOGI9Mz0"
       },
       "artists": [
         {
@@ -1640,9 +1624,25 @@
           "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
         }
       ],
-      "duration_ms": 231998,
-      "name": "Shape of You (8 Bit Version)",
-      "url": "https://open.spotify.com/track/2ei8b1huBEgIRVZCFEjpBj"
+      "duration_ms": 243674,
+      "name": "Eye of the Tiger (2019 8 Bit Version)",
+      "url": "https://open.spotify.com/track/1VptTXizn639xDw5CsSDMy"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "8-bit Hits of 2016, Vol. 3",
+        "url": "https://open.spotify.com/album/2aaVa6hLwcvn2MjVLLIHPR"
+      },
+      "artists": [
+        {
+          "name": "Chiptune Radio",
+          "url": "https://open.spotify.com/artist/6HWfXh9ErTOP7mSk7kxnf0"
+        }
+      ],
+      "duration_ms": 197021,
+      "name": "Duele El Corazon",
+      "url": "https://open.spotify.com/track/22Lsy5lq4x6M67alfve9iq"
     }
   ],
   "unique_name": "8 Bit Hits",

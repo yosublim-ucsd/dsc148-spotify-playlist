@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. Foto: Juliana Gattas
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,421 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,420 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 9 | [Ya No](https://open.spotify.com/track/26qmCEncx9paaaIQro9K8A) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:29 |
 | 10 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 |
 | 11 | [PINCHÓ](https://open.spotify.com/track/6Xvkvbjdk920JEBQfYUqAm) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [PINCHÓ](https://open.spotify.com/album/18Xynx3lXf0c3mNqEV4ngD) | 3:05 |
-| 12 | [Fin del Mundo](https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 5:19 |
-| 13 | [Hay que venir al Sur](https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Hay que venir al Sur](https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC) | 3:48 |
-| 14 | [Reina](https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Cardo o Ceniza](https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl) | 3:03 |
-| 15 | [Acaramelao / Endúlzame los Oídos \- Headphone Mix](https://open.spotify.com/track/4nbDc7f97uUIno916znqQM) | [Patricia Sosa](https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Endúlzame los Oídos / Acaramelao \(Headphone Mix\)](https://open.spotify.com/album/7C6WY8UbWT2ny3Oogkpu8E) | 2:47 |
+| 12 | [Hay que venir al Sur](https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Hay que venir al Sur](https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC) | 3:48 |
+| 13 | [Fin del Mundo](https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 5:19 |
+| 14 | [Acaramelao / Endúlzame los Oídos \- Headphone Mix](https://open.spotify.com/track/4nbDc7f97uUIno916znqQM) | [Patricia Sosa](https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Endúlzame los Oídos / Acaramelao \(Headphone Mix\)](https://open.spotify.com/album/7C6WY8UbWT2ny3Oogkpu8E) | 2:47 |
+| 15 | [Reina](https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Cardo o Ceniza](https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl) | 3:03 |
 | 16 | [Caca en la Cabeza](https://open.spotify.com/track/4p2wKzOAsHJ0QJ8jo7orWE) | [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT) | [Munanakunanchej en el Camino Kurmi](https://open.spotify.com/album/2kk6T2HCYPDoUcAqBry7zT) | 3:21 |
 | 17 | [Viento Helado](https://open.spotify.com/track/2bWQKPzPvyxKZLvf69gXEK) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Estaciones](https://open.spotify.com/album/3FBhxKF1Q9a5dYT7UCznrH) | 2:58 |
 | 18 | [Bolero](https://open.spotify.com/track/1VIQQvSf2kZJhMkUQ8QTqv) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:40 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 20 | [Xtasis](https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Xtasis](https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe) | 3:23 |
 | 21 | [Bombón](https://open.spotify.com/track/3UfewNDeB4QzGPYaA1zIGX) | [Rosal](https://open.spotify.com/artist/4VvzpUNrZ5CAqRascoLb1O) | [Educación Sentimental](https://open.spotify.com/album/2XqnaBT4dXBKSq5NBy4WDi) | 2:48 |
 | 22 | [CONSTITUCIÓN](https://open.spotify.com/track/18835Ty8i86m9U7ki4Azoi) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [CONSTITUCIÓN](https://open.spotify.com/album/0tUcd7rih15vA60HYbZ9LJ) | 2:41 |
-| 23 | [Ninja](https://open.spotify.com/track/3e4r36iC4TErf0yjSq4Ulh) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Labio Inferior](https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M) | 2:55 |
-| 24 | [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 |
+| 23 | [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 |
+| 24 | [Ninja](https://open.spotify.com/track/3e4r36iC4TErf0yjSq4Ulh) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Labio Inferior](https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M) | 2:55 |
 | 25 | [Nuestros Besos](https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestros Besos](https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J) | 4:07 |
 | 26 | [sola otra vez](https://open.spotify.com/track/65tHJ2o2hFDyBPghXWLYtv) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [Llorar en un baño público](https://open.spotify.com/album/7z1h9TLRvhebaSIwuLIFFA) | 2:47 |
 | 27 | [mejor me voy :\)](https://open.spotify.com/track/6gLruHcjm2ZS2JFMsLbBOY) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [mejor me voy: \)](https://open.spotify.com/album/0eCGqjEYwS7cAR0mUyi5cs) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Invencible](https://open.spotify.com/track/57ZD0rQSin2Tg28Bx1jUxp) | [Jimena Lopez Chaplin](https://open.spotify.com/artist/08aspKTy15p0uOx8hOokKY) | [El Ruido de la Piara](https://open.spotify.com/album/1kDa9uU0TtQ8vjofZQpVeP) | 2:34 |
 | 50 | [El Estado de las Cosas Como Son](https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Desaria](https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8) | [El Estado de las Cosas Como Son](https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE) | 3:02 |
 
-Snapshot ID: `MCxmZGU1N2U2OWZhN2Y0OTMxMWI0YTExZTEwN2Y5ZTljZjJkMzE3NGIw`
+Snapshot ID: `MCxiZGJiMjQwOWY5ZmQ4NDc2NzNjOGY2ZDY4YmNhYzk3NjkyNGNjNjBh`

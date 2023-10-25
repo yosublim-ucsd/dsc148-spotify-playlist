@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 
 > Music from "Gintama" Series !「銀魂」シリーズの楽曲を1つのプレイリストで。 ©空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,929 likes - 87 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,077 likes - 87 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 5 | [アナタ MAGIC](https://open.spotify.com/track/7DpmSF99j1QlBkIUXp68jQ) | [MONOBRIGHT](https://open.spotify.com/artist/1fA0ExNzbvrQiX84L8SqQk) | [アナタMAGIC](https://open.spotify.com/album/651S3vBgl6XUid2msBwyb3) | 4:04 |
 | 6 | [Stairway Generation](https://open.spotify.com/track/4vpJGlJpoijJ5qCY8KFVxL) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Stairway Generation](https://open.spotify.com/album/1t88nzq79MbDAkDSOA8YwM) | 3:34 |
 | 7 | [風船ガム](https://open.spotify.com/track/4eVP2YlBgMq9xGwq231jQ0) | [Captain Straydum](https://open.spotify.com/artist/1kiShRZTn0LtrsSim2GX1i) | [風船ガム](https://open.spotify.com/album/5SY1aDh3QbBmsOem8oXjYy) | 4:17 |
-| 8 | [轍\~Wadachi\~](https://open.spotify.com/track/0AuEHmUQAMbqf9hrXBQcuT) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍\~Wadachi\~](https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho) | 3:42 |
+| 8 | [轍～Wadachi～](https://open.spotify.com/track/0AuEHmUQAMbqf9hrXBQcuT) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍～Wadachi～](https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho) | 3:42 |
 | 9 | [バクチ・ダンサー](https://open.spotify.com/track/6ucFUDwLvzlDkpKOC6vS2b) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [バクチ・ダンサー](https://open.spotify.com/album/00ixDln80gSiTu0jLoY0lJ) | 2:56 |
 | 10 | [Pray](https://open.spotify.com/track/72BvqApj5f7pFonrRPhVSh) | [Tommy heavenly6](https://open.spotify.com/artist/6ClPIi6VMHv2Q3OZ4R17wV) | [Pray](https://open.spotify.com/album/3SixCbIjL5D9cjo1DY2Ztg) | 4:32 |
 | 11 | [掟は破るためにこそある](https://open.spotify.com/track/5SbaL2zro0CrFle79S0bl5) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ３](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 2:29 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 86 | [二百四十六勝、二百四十七敗](https://open.spotify.com/track/5LX24pCdgqUlSOxcImetIG) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [映画「銀魂 THE FINAL」オリジナル・サウンドトラック](https://open.spotify.com/album/7IY4Ti6kPUNW2tEknao1JY) | 3:02 |
 | 87 | [在りし日](https://open.spotify.com/track/0bU5zspmMwLzT8DBvMGC5V) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [映画「銀魂 THE FINAL」オリジナル・サウンドトラック](https://open.spotify.com/album/7IY4Ti6kPUNW2tEknao1JY) | 1:45 |
 
-Snapshot ID: `MCwzY2QzZThmMjIyZGMzOWFhODAyY2JhNGIxMWNmOGM4OTYwMTlkMGUz`
+Snapshot ID: `MCxiOWRhYjk4Y2FhOTc1MmU1OGJiZjU1MzY4OTRlY2Q4ZDQzNzk3YTQy`

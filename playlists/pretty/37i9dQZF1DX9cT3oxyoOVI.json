@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music",
-  "num_followers": 128335,
+  "num_followers": 128385,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTQzNGVkN2YyZTRhYTViNDc4MTNmOGE2M2NlYjFmMGJhOThhMzA5",
+  "snapshot_id": "MCxjYmNmMjNkNDYwMTJmZjBkZmE5MDIzZGE4OWVjYmQwMGM1Y2U2ZmNi",
   "tracks": [
     {
       "added_at": "2023-01-30 15:22:38",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 179083,
-      "name": "Paper Mache World",
-      "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "complex",
         "url": "https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 239113,
       "name": "complex",
       "url": "https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 179083,
+      "name": "Paper Mache World",
+      "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
     },
     {
       "added_at": "2023-01-30 15:22:38",

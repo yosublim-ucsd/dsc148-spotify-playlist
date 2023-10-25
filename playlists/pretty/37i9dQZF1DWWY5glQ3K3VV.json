@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: ANNA, Capo Plaza, AVA",
-  "num_followers": 90362,
+  "num_followers": 90446,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjVlMDNhOTMzNTIxN2ZhMThhMmMyYWRiZjNhZjRhMTVkNGU2NzM2",
+  "snapshot_id": "MCw0NjliN2Y5YTdlZTNiODlmNzVlYzVkNTViMmU0NDNlZjM5ZTBhNzE1",
   "tracks": [
     {
       "added_at": "2023-10-20 08:33:37",
@@ -951,6 +951,30 @@
     {
       "added_at": "2023-10-20 08:33:37",
       "album": {
+        "name": "Re Mida (Aurum)",
+        "url": "https://open.spotify.com/album/18oJqI5kIQ5lwDvpdlny99"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 164301,
+      "name": "Gigol\u00f2 (feat. Sfera Ebbasta & Capo Plaza)",
+      "url": "https://open.spotify.com/track/4KilYheWwxakB1L43ECTeP"
+    },
+    {
+      "added_at": "2023-10-20 08:33:37",
+      "album": {
         "name": "BUBBLE (feat. thasup & Salmo)",
         "url": "https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 178721,
       "name": "MALA (feat. Lazza, Tony Effe, JVLI)",
       "url": "https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E"
-    },
-    {
-      "added_at": "2023-10-20 08:33:37",
-      "album": {
-        "name": "Re Mida (Aurum)",
-        "url": "https://open.spotify.com/album/18oJqI5kIQ5lwDvpdlny99"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 164301,
-      "name": "Gigol\u00f2 (feat. Sfera Ebbasta & Capo Plaza)",
-      "url": "https://open.spotify.com/track/4KilYheWwxakB1L43ECTeP"
     },
     {
       "added_at": "2023-10-20 08:33:37",
@@ -1163,26 +1163,22 @@
     {
       "added_at": "2023-10-20 08:33:37",
       "album": {
-        "name": "MACHETE MIXTAPE 4",
-        "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
+        "name": "J",
+        "url": "https://open.spotify.com/album/4vCqEvwOICd6NwnsuhWzUO"
       },
       "artists": [
         {
-          "name": "MACHETE",
-          "url": "https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
           "name": "Lazza",
           "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 177036,
-      "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-      "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
+      "duration_ms": 183027,
+      "name": "ALYX (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/5ifarM7jfplX1EqkqMHlDq"
     },
     {
       "added_at": "2023-10-20 08:33:37",
@@ -1207,22 +1203,26 @@
     {
       "added_at": "2023-10-20 08:33:37",
       "album": {
-        "name": "J",
-        "url": "https://open.spotify.com/album/4vCqEvwOICd6NwnsuhWzUO"
+        "name": "MACHETE MIXTAPE 4",
+        "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
       },
       "artists": [
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+          "name": "MACHETE",
+          "url": "https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD"
         },
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
         }
       ],
-      "duration_ms": 183027,
-      "name": "ALYX (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/5ifarM7jfplX1EqkqMHlDq"
+      "duration_ms": 177036,
+      "name": "HO PAURA DI USCIRE 2 - prod. Mace",
+      "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
     },
     {
       "added_at": "2023-10-20 08:33:37",

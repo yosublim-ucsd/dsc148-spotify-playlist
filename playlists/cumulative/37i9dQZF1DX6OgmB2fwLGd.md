@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Cash Cobain
 
-841 songs - 1 day 10 hr 41 min
+842 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 | 2023-03-07 | 2023-03-25 |
 | [ADHD](https://open.spotify.com/track/2NnYebjJbFNce6q7vVYRsc) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [ADHD](https://open.spotify.com/album/3gRHDUqZGMb4wnHBPvk5OL) | 2:30 | 2023-04-12 | 2023-08-05 |
 | [agenda](https://open.spotify.com/track/3nDjCWmn3FHTI9q8y2twLS) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [agenda](https://open.spotify.com/album/4IZknU9lFykJaudWhINIDl) | 1:39 | 2022-02-03 | 2022-07-30 |
-| [Aint Nothing](https://open.spotify.com/track/6Q2Cec1drXDOqrTUyM1brP) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Aint Nothing](https://open.spotify.com/album/5odMnlD41r5v3vVWxe18kG) | 2:34 | 2023-08-18 |  |
+| [Aint Nothing](https://open.spotify.com/track/5754hZ1mD8MUxppIBI1Lze) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Aint Nothing](https://open.spotify.com/album/5Xcs66TveRQpEMUoJE0V9d) | 2:34 | 2023-10-20 |  |
+| [Aint Nothing](https://open.spotify.com/track/6Q2Cec1drXDOqrTUyM1brP) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Aint Nothing](https://open.spotify.com/album/5odMnlD41r5v3vVWxe18kG) | 2:34 | 2023-08-18 | 2023-10-25 |
 | [AirplaneMode](https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [IFeelLikeDirt](https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt) | 1:15 | 2022-03-28 | 2022-09-17 |
 | [ALL MY MIGHT](https://open.spotify.com/track/7K6vDqSG3OUFTxyoY9G1Gu) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [ALL MY MIGHT](https://open.spotify.com/album/4S1mlCyeQ87cipFb0TClvA) | 2:24 | 2022-01-28 | 2022-03-13 |
 | [ALL NIGHT LONG](https://open.spotify.com/track/2CHVJkpUoIgz5vt8uX53gG) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [ALL NIGHT LONG](https://open.spotify.com/album/57Ns6doMMJBlNjy1nnYy4e) | 2:09 | 2022-10-07 | 2022-11-12 |

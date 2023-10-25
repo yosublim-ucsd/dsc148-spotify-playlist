@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-24",
+      "date_removed": null,
       "duration_ms": 243530,
       "name": "Bondho Janala",
       "url": "https://open.spotify.com/track/5BJBaI4bpWHmiXqFadEpkM"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 385263,
       "name": "Chaya",
       "url": "https://open.spotify.com/track/6YdezeXuIAkGaLRgbC08Ny"
@@ -2037,6 +2037,24 @@
     },
     {
       "album": {
+        "name": "Google Naki Tumi",
+        "url": "https://open.spotify.com/album/5GqpJbiDO3KXKiX2B1Dn3B"
+      },
+      "artists": [
+        {
+          "name": "Cassette",
+          "url": "https://open.spotify.com/artist/309yMzabBnzJS0CGFFm84Z"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214698,
+      "name": "Google Naki Tumi",
+      "url": "https://open.spotify.com/track/58cVD4Q1uCIzkrxUzeTiS7"
+    },
+    {
+      "album": {
         "name": "Haay Bhalobashi",
         "url": "https://open.spotify.com/album/5aMs2oQT8D5n4K8RsIu7Rr"
       },
@@ -2502,7 +2520,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 357564,
       "name": "Koshto",
       "url": "https://open.spotify.com/track/43lugOc2K5cCzaoacUu0TO"
@@ -2679,6 +2697,24 @@
     },
     {
       "album": {
+        "name": "Jed",
+        "url": "https://open.spotify.com/album/18JuuxQCdUw2L7sCUpoblH"
+      },
+      "artists": [
+        {
+          "name": "Aftermath",
+          "url": "https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268964,
+      "name": "Matir Roud",
+      "url": "https://open.spotify.com/track/0MqjGExHFk9yuVRBOYxTIo"
+    },
+    {
+      "album": {
         "name": "JED",
         "url": "https://open.spotify.com/album/1oLSVb8CrKCdQyoY7LIeIZ"
       },
@@ -2690,7 +2726,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 269008,
       "name": "Matir Roud (Bonus Track)",
       "url": "https://open.spotify.com/track/0JnTceZvCOPnRcRiGQvWEj"
@@ -2852,7 +2888,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 265142,
       "name": "Moho",
       "url": "https://open.spotify.com/track/6Y2lrjXwW8YcCU5H4xMFBs"
@@ -3198,7 +3234,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-24",
+      "date_removed": null,
       "duration_ms": 439745,
       "name": "Obak Bhalobasha",
       "url": "https://open.spotify.com/track/2aj4w2bivH9PfIcjToMfYb"
@@ -4309,6 +4345,24 @@
     },
     {
       "album": {
+        "name": "Shaada Golap",
+        "url": "https://open.spotify.com/album/4lcK7kWPI9zzV8rAjnIAEg"
+      },
+      "artists": [
+        {
+          "name": "HIGHWAY",
+          "url": "https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262084,
+      "name": "Shaada Golap",
+      "url": "https://open.spotify.com/track/2mQfYYniM6d1rzBs9w24CO"
+    },
+    {
+      "album": {
         "name": "Deep Nevar Age",
         "url": "https://open.spotify.com/album/4rVYJbmLaUSnoz8CnZUhyq"
       },
@@ -4458,6 +4512,24 @@
       "duration_ms": 362254,
       "name": "Shey Amare",
       "url": "https://open.spotify.com/track/5Wf3eV9Y0WI8kBRR6RgJcD"
+    },
+    {
+      "album": {
+        "name": "Shob Mitthe Shotto Noy",
+        "url": "https://open.spotify.com/album/04Q1rEHTEjSnzrQxrznkvt"
+      },
+      "artists": [
+        {
+          "name": "AvoidRafa",
+          "url": "https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "Shob Mitthe Shotto Noy",
+      "url": "https://open.spotify.com/track/35Ax0Tx494tTcuuNe8wIp2"
     },
     {
       "album": {
@@ -4952,7 +5024,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 279073,
       "name": "Thomke Keno?",
       "url": "https://open.spotify.com/track/34AGDBCiylYjKHmSdZtTwN"
@@ -5100,10 +5172,28 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 385901,
       "name": "Tumio Paro",
       "url": "https://open.spotify.com/track/7lEGQOFnvf5c6XB0zMSo5I"
+    },
+    {
+      "album": {
+        "name": "Ullashe Mogno",
+        "url": "https://open.spotify.com/album/3hZH9cPIpCU2xew5sbwrxk"
+      },
+      "artists": [
+        {
+          "name": "Odd Signature",
+          "url": "https://open.spotify.com/artist/4j8byCgeZUKS1oeXdwD1GC"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348200,
+      "name": "Ullashe Mogno",
+      "url": "https://open.spotify.com/track/17hos2HJW7nw9AzEfPJtXu"
     },
     {
       "album": {
@@ -5172,7 +5262,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 352139,
       "name": "Utshorgo",
       "url": "https://open.spotify.com/track/7tcHBMra1AZ3QWIHX3hX0r"

@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 212826,
       "name": "Don't Be a Stranger",
       "url": "https://open.spotify.com/track/5t2IeNWSmf8gegtwVxrWIH"
@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 317591,
       "name": "Jealous Girls",
       "url": "https://open.spotify.com/track/4NbdVZzizwnRTzJ3Hs0SJh"
@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 266094,
       "name": "No Limit to My Love",
       "url": "https://open.spotify.com/track/7ioBQAz0j9QcvO6oNrsW0D"
@@ -4048,6 +4048,24 @@
       "duration_ms": 220974,
       "name": "Who's That",
       "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
+    },
+    {
+      "album": {
+        "name": "Wild Wild Woman",
+        "url": "https://open.spotify.com/album/7oBpr82ETE4s71NUZGfGvk"
+      },
+      "artists": [
+        {
+          "name": "Grace Theisen",
+          "url": "https://open.spotify.com/artist/2OiP1wtWnUxo4c7h5uFfxf"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243557,
+      "name": "Wild Wild Woman",
+      "url": "https://open.spotify.com/track/1VZEVlkVRuqAi22iH00sm6"
     },
     {
       "album": {

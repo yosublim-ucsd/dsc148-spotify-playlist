@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 9902,
+  "num_followers": 9915,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGY2OWE0YmYzYWU5MTIwZGI3OGNhYWU0ZWIxNjVmOTJhMmI5MGYz",
+  "snapshot_id": "MCwxZGRlMTViMTA0NzI0MDYzNzJjOWY5NWMxNjZjMDgxNThkOGNkMjE2",
   "tracks": [
     {
       "added_at": "2023-07-24 18:55:43",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Saque Otro Tema",
-        "url": "https://open.spotify.com/album/07P3YTWehCjPYI571sbkew"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "Saque Otro Tema",
-      "url": "https://open.spotify.com/track/0JNCNJZC29fOBjiCIaDwIu"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Maya",
         "url": "https://open.spotify.com/album/7pXHSP4BzhDOQvm6W3k00v"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 187914,
       "name": "Maya",
       "url": "https://open.spotify.com/track/0FcOIIBRs6eW2YGonS4z9r"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Saque Otro Tema",
+        "url": "https://open.spotify.com/album/07P3YTWehCjPYI571sbkew"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "Saque Otro Tema",
+      "url": "https://open.spotify.com/track/0JNCNJZC29fOBjiCIaDwIu"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -1019,22 +1019,18 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Lucky 7",
-        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
+        "name": "94",
+        "url": "https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf"
       },
       "artists": [
         {
-          "name": "Luchy DR",
-          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
-        },
-        {
-          "name": "Alcover",
-          "url": "https://open.spotify.com/artist/2PctE0f82UrDM9CR3SXXGo"
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
         }
       ],
-      "duration_ms": 195276,
-      "name": "Dime La Verdad",
-      "url": "https://open.spotify.com/track/2ksfEETsqZ0La3QnJcfxbV"
+      "duration_ms": 153680,
+      "name": "94",
+      "url": "https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN"
     },
     {
       "added_at": "2023-07-24 18:55:43",

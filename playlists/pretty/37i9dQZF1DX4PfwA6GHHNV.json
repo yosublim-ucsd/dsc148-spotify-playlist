@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 12153,
+  "num_followers": 12200,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWQxNjFkYjMxNTNiOTM1ZmQ4NjgwNzkwNjViYzMzMTgyMmZmNTc4",
+  "snapshot_id": "MCw4MzAwMmVjMzYwYTkwNTUxNWRhMmYxNzdkMDdiNzlmMzYyODBiOTVl",
   "tracks": [
     {
       "added_at": "2023-10-20 03:04:46",
@@ -251,26 +251,6 @@
     {
       "added_at": "2023-10-20 03:04:46",
       "album": {
-        "name": "Proveito",
-        "url": "https://open.spotify.com/album/6oFCxp73Skel2DgCzPQAH6"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Proveito",
-      "url": "https://open.spotify.com/track/5N3znAB19oFAkGNrcBTPeD"
-    },
-    {
-      "added_at": "2023-10-20 03:04:46",
-      "album": {
         "name": "Sabe Que \u00c9 Gostosa",
         "url": "https://open.spotify.com/album/3ZQOEv7DHr6xKvbzl8blVC"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 214545,
       "name": "Sabe Que \u00c9 Gostosa",
       "url": "https://open.spotify.com/track/6adhxEi2jRAMIiZ5Yjbdcd"
+    },
+    {
+      "added_at": "2023-10-20 03:04:46",
+      "album": {
+        "name": "Proveito",
+        "url": "https://open.spotify.com/album/6oFCxp73Skel2DgCzPQAH6"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Proveito",
+      "url": "https://open.spotify.com/track/5N3znAB19oFAkGNrcBTPeD"
     },
     {
       "added_at": "2023-10-20 03:04:46",
@@ -351,6 +351,26 @@
     {
       "added_at": "2023-10-20 03:04:46",
       "album": {
+        "name": "Hipnose",
+        "url": "https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 209471,
+      "name": "Hipnose",
+      "url": "https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU"
+    },
+    {
+      "added_at": "2023-10-20 03:04:46",
+      "album": {
         "name": "Fashion Week",
         "url": "https://open.spotify.com/album/5JbzrotdP0YmWUTAKq0bfs"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 194526,
       "name": "Fashion Week",
       "url": "https://open.spotify.com/track/6Li4EeGU4E8PnHo1smngJ7"
-    },
-    {
-      "added_at": "2023-10-20 03:04:46",
-      "album": {
-        "name": "Hipnose",
-        "url": "https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 209471,
-      "name": "Hipnose",
-      "url": "https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU"
     },
     {
       "added_at": "2023-10-20 03:04:46",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-10-20 03:04:46",
       "album": {
-        "name": "VxRxS",
-        "url": "https://open.spotify.com/album/4pRtgWxHewubCRQPaQnhe6"
-      },
-      "artists": [
-        {
-          "name": "V\u00edrus",
-          "url": "https://open.spotify.com/artist/1PUMdtllFKYq4Ymzduzocv"
-        }
-      ],
-      "duration_ms": 90618,
-      "name": "Andarilho",
-      "url": "https://open.spotify.com/track/7C50cr8Jasct0C4cRdNacH"
-    },
-    {
-      "added_at": "2023-10-20 03:04:46",
-      "album": {
         "name": "SOU + EU",
         "url": "https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 154500,
       "name": "Zero Buxixo",
       "url": "https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9"
+    },
+    {
+      "added_at": "2023-10-20 03:04:46",
+      "album": {
+        "name": "VxRxS",
+        "url": "https://open.spotify.com/album/4pRtgWxHewubCRQPaQnhe6"
+      },
+      "artists": [
+        {
+          "name": "V\u00edrus",
+          "url": "https://open.spotify.com/artist/1PUMdtllFKYq4Ymzduzocv"
+        }
+      ],
+      "duration_ms": 90618,
+      "name": "Andarilho",
+      "url": "https://open.spotify.com/track/7C50cr8Jasct0C4cRdNacH"
     },
     {
       "added_at": "2023-10-20 03:04:46",
@@ -667,26 +667,22 @@
     {
       "added_at": "2023-10-20 03:04:46",
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/1RiyzknGmlflh4SVt41sBD"
+        "name": "Quando c\u00ea vem",
+        "url": "https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX"
       },
       "artists": [
         {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
           "name": "Kail\u00ea",
           "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
         }
       ],
-      "duration_ms": 133333,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/0SpbQAtLtyIaV7Xjr6f8b6"
+      "duration_ms": 216666,
+      "name": "Quando c\u00ea vem",
+      "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
     },
     {
       "added_at": "2023-10-20 03:04:46",
@@ -711,22 +707,26 @@
     {
       "added_at": "2023-10-20 03:04:46",
       "album": {
-        "name": "Quando c\u00ea vem",
-        "url": "https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX"
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/1RiyzknGmlflh4SVt41sBD"
       },
       "artists": [
         {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
           "name": "Kail\u00ea",
           "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
         }
       ],
-      "duration_ms": 216666,
-      "name": "Quando c\u00ea vem",
-      "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
+      "duration_ms": 133333,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/0SpbQAtLtyIaV7Xjr6f8b6"
     },
     {
       "added_at": "2023-10-20 03:04:46",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-10-20 03:04:46",
       "album": {
-        "name": "Me Deixa",
-        "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
-      },
-      "artists": [
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 149351,
-      "name": "Me Deixa",
-      "url": "https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI"
-    },
-    {
-      "added_at": "2023-10-20 03:04:46",
-      "album": {
         "name": "Deixa Eu Mostrar",
         "url": "https://open.spotify.com/album/54aMRwjpAThmHSElGPvYQB"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 138145,
       "name": "Deixa Eu Mostrar",
       "url": "https://open.spotify.com/track/28dzpx9Sn1jmAvCNLoKqd8"
+    },
+    {
+      "added_at": "2023-10-20 03:04:46",
+      "album": {
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
+      },
+      "artists": [
+        {
+          "name": "GR\u20acG MC",
+          "url": "https://open.spotify.com/artist/3rcpxbWqJ2yXAiWwwBOj0u"
+        },
+        {
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
+        }
+      ],
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     },
     {
       "added_at": "2023-10-20 03:04:46",
@@ -867,26 +867,6 @@
       "duration_ms": 114117,
       "name": "Te Vejo Mais Tarde",
       "url": "https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw"
-    },
-    {
-      "added_at": "2023-10-20 03:04:46",
-      "album": {
-        "name": "Anel da Pandora",
-        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
-      },
-      "artists": [
-        {
-          "name": "GR\u20acG MC",
-          "url": "https://open.spotify.com/artist/3rcpxbWqJ2yXAiWwwBOj0u"
-        },
-        {
-          "name": "ESCOB4R",
-          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
-        }
-      ],
-      "duration_ms": 199012,
-      "name": "Anel da Pandora",
-      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     },
     {
       "added_at": "2023-10-20 03:04:46",
@@ -935,6 +915,26 @@
       "duration_ms": 136800,
       "name": "Deixa Falar",
       "url": "https://open.spotify.com/track/0FiYoFSKLu3UgbmfR6i0Ph"
+    },
+    {
+      "added_at": "2023-10-20 03:04:46",
+      "album": {
+        "name": "Me Deixa",
+        "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
+      },
+      "artists": [
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 149351,
+      "name": "Me Deixa",
+      "url": "https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI"
     },
     {
       "added_at": "2023-10-20 03:04:46",

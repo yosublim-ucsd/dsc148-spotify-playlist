@@ -975,6 +975,24 @@
     },
     {
       "album": {
+        "name": "leave me where you found me",
+        "url": "https://open.spotify.com/album/1f19gczYsoUBsqpiG2UFR3"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "do it all",
+      "url": "https://open.spotify.com/track/0W9PTP67SR6IrBYub9GsBC"
+    },
+    {
+      "album": {
         "name": "do it all",
         "url": "https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf"
       },
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 96000,
       "name": "do it all",
       "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"

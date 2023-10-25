@@ -4,7 +4,7 @@
 
 > A Dios sea toda la gloria y alabanza\. Foto: Miel San Marcos, Ingrid Rosario
 
-130 songs - 12 hr 24 min
+131 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Hermoso Nombre](https://open.spotify.com/track/60dvhMSwRYt5t3IQIIC5c3) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 5:49 | 2021-07-23 |  |
 | [Inigualable](https://open.spotify.com/track/3VmmAlYsYkydaOAQpScbf8) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [Inigualable](https://open.spotify.com/album/0rY0Pgy60rg4RSgmMC5Dz5) | 5:36 | 2021-07-23 | 2022-07-29 |
 | [Inigualable](https://open.spotify.com/track/4HH9pDGDPnVeuv4uC3nXOZ) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [Somos](https://open.spotify.com/album/71HrMvqpUUVwsiHOQIhOt5) | 5:36 | 2021-07-23 |  |
-| [Isaias 40](https://open.spotify.com/track/5BtMxu4qq1QRPBGzfgjp1J) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Encuentros](https://open.spotify.com/album/0z30sdnlJKKwputVLinplp) | 7:03 | 2021-07-23 |  |
+| [Isaias 40](https://open.spotify.com/track/23rzAldzWKSi2KpTmg1dmg) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Isaias 40](https://open.spotify.com/album/6HjtpIwyVG5hnK1SZJ1Nn8) | 7:03 | 2021-07-23 |  |
+| [Isaias 40](https://open.spotify.com/track/5BtMxu4qq1QRPBGzfgjp1J) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Encuentros](https://open.spotify.com/album/0z30sdnlJKKwputVLinplp) | 7:03 | 2021-07-23 | 2023-10-25 |
 | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u) | 5:05 | 2021-07-23 |  |
 | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/track/4dS4gq496Yf7msTsgXEJSG) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/album/1WfsoWeDqgkOS2KaIfSStH) | 5:05 | 2021-07-23 | 2022-07-29 |
 | [Job](https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS) | [Job](https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ) | 5:24 | 2021-07-23 |  |

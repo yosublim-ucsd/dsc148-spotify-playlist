@@ -166,7 +166,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 108773,
       "name": "A Catalogue of Afternoons",
       "url": "https://open.spotify.com/track/2WkuESwWyJ1txlbXnDIwPm"
@@ -224,7 +224,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 93506,
       "name": "Album for the Young, Op. 39: No. 3. Mamma (Maman)",
       "url": "https://open.spotify.com/track/4GjfVYoUJ0OCmDiL869kUJ"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 118668,
       "name": "Dream 1 (before the wind blows it all away) - Pt. 8",
       "url": "https://open.spotify.com/track/1A8qD0Ygjzsby5OmXh1PTa"
@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Elysian",
+        "url": "https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ"
+      },
+      "artists": [
+        {
+          "name": "Flori Vivea",
+          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139375,
+      "name": "Elysian",
+      "url": "https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3"
+    },
+    {
+      "album": {
         "name": "Empires Luck",
         "url": "https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO"
       },
@@ -706,7 +724,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 77266,
       "name": "Enfantillages pittoresques: II. Berceuse",
       "url": "https://open.spotify.com/track/0L5WGmfuDp4JgbOnv3eqOg"
@@ -782,7 +800,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 56906,
       "name": "For Children Vol. 1, Sz. 42: No. 3 Quasi adagio",
       "url": "https://open.spotify.com/track/2b12Hb86ANOA56DvXXHao6"
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 90186,
       "name": "Lost In Thought",
       "url": "https://open.spotify.com/track/7LU7XMeV4RkmimgQobn1kY"
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 93160,
       "name": "Ma m\u00e8re l'Oye, M. 60: I. Pavane de la belle au bois dormant - Lent",
       "url": "https://open.spotify.com/track/2Ylyh5pD08wtz54XfELtak"
@@ -1940,6 +1958,24 @@
       "duration_ms": 181546,
       "name": "Orfeo ed Euridice, Wq. 30 - Arranged Sgambati / Act 2: Melodie dell'Orfeo",
       "url": "https://open.spotify.com/track/41g83Usxjh9TRoxNGGqTTU"
+    },
+    {
+      "album": {
+        "name": "Paths",
+        "url": "https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC"
+      },
+      "artists": [
+        {
+          "name": "Silje M\u00f8rk",
+          "url": "https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172595,
+      "name": "Paths",
+      "url": "https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD"
     },
     {
       "album": {
@@ -2951,6 +2987,24 @@
     },
     {
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy"
+      },
+      "artists": [
+        {
+          "name": "Nate LaFleur",
+          "url": "https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154874,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp"
+    },
+    {
+      "album": {
         "name": "Transition",
         "url": "https://open.spotify.com/album/0P61A45wt4xVVneycMqdyp"
       },
@@ -3078,7 +3132,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 112046,
       "name": "Viva Valeriana",
       "url": "https://open.spotify.com/track/4k8AC9xUl0o7JG7qlVQBZi"
@@ -3132,7 +3186,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 110625,
       "name": "Warm Embrace",
       "url": "https://open.spotify.com/track/2bVUyLxltPaSPhz9yaNbr4"

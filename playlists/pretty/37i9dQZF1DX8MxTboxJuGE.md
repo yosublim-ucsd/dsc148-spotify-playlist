@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Edu Falaschi
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,531 likes - 75 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,568 likes - 75 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 | 74 | [Mysterious](https://open.spotify.com/track/1YNfg67rPhWMSIalelU6ph) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [9](https://open.spotify.com/album/09GlDec2IEaxGMkB0L1rH0) | 4:43 |
 | 75 | [Heroes of Sand](https://open.spotify.com/track/7u7VM9dtMRygn59a5SDKCz) | [Nando Fernandes](https://open.spotify.com/artist/6e3Z5Yq6G5vcsuEnmBkeng) | [Edu Falaschi: a New Lease of Life \(Tribute\)](https://open.spotify.com/album/6OuMNT3xYHMWoYTgWxdExj) | 4:40 |
 
-Snapshot ID: `MCw5Y2RiODU5MjE0MDZlNTczYTlkMTcxNTMzMmM4NmE3YjA0MzdjYzQ0`
+Snapshot ID: `MCw4Yjc4ODYyNTFlODAwNWQ4YWRmMWI0MzcyZDYzMGZkZjg1Zjc2NGI0`

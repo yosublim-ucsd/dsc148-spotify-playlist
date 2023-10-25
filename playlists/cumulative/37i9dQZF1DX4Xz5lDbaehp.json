@@ -204,7 +204,7 @@
     {
       "album": {
         "name": "Free Me",
-        "url": "https://open.spotify.com/album/3XC5zlSkJyspgDKUImnahR"
+        "url": "https://open.spotify.com/album/3CZb7LkapC9PW8rQjedVBd"
       },
       "artists": [
         {
@@ -215,6 +215,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Baby Choppa",
+      "url": "https://open.spotify.com/track/2oR601lE6D3Jrl0vT0Mhct"
+    },
+    {
+      "album": {
+        "name": "Free Me",
+        "url": "https://open.spotify.com/album/3XC5zlSkJyspgDKUImnahR"
+      },
+      "artists": [
+        {
+          "name": "Rot Ken",
+          "url": "https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-25",
       "duration_ms": 144000,
       "name": "Baby Choppa",
       "url": "https://open.spotify.com/track/3oQfAuWO64dSVo2JYfdK3x"

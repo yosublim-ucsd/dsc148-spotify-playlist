@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Matrefakt\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,177 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,190 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [SMS](https://open.spotify.com/track/0i5lksOWWANr2WQsYWm7Dm) | [Mathis Ruffing](https://open.spotify.com/artist/445mkEZrja6pJKcggLd1Jn), [Tamila](https://open.spotify.com/artist/1wZ7zz9Sqn7bmoE21k0EZV) | [Sternzeichen Domina](https://open.spotify.com/album/3GBBhDRvEmaAwAnMKy9D5w) | 4:13 |
 | 100 | [Play My Heart](https://open.spotify.com/track/1j5FYHpCX7btJB3bNUIaRa) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Play My Heart](https://open.spotify.com/album/2i4DLnJcntISBRrlFnOB0Z) | 3:45 |
 
-Snapshot ID: `MCw2MDkzY2RlYjllMDY4NTUyNGJjNTcyNGI4OWNlODBiOWM3NTQ1N2Q2`
+Snapshot ID: `MCwwNGRmZmNjZTVkOTk1YWNjZTA2ZTM2OWIwNTM2ZjczNmIxMGMxMmQ4`

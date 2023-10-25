@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 
 > Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: Jaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,662 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,689 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 | 2 | [Llovía](https://open.spotify.com/track/3gHnMo8cVviPnEgeFgckuF) | [Primobeatz](https://open.spotify.com/artist/72LTyD9Rh8nqOCvb3uyLxG), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [PrimoBeatz en las Bases](https://open.spotify.com/album/3nhdeNfHDKpEaBkMMUXV1L) | 4:52 |
 | 3 | [High](https://open.spotify.com/track/4zPNQ2SbdyFK1aGoKJw3BM) | [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx), [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [High](https://open.spotify.com/album/1mmp0mqbtpmPqo5qKRTDJX) | 3:26 |
 | 4 | [Nos Vamos](https://open.spotify.com/track/6zbZr7j9rkkaycv8lOoWmi) | [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Nos Vamos](https://open.spotify.com/album/2oCe9cIPMlhcPaVoU28Sbd) | 3:41 |
-| 5 | [No quiero un final](https://open.spotify.com/track/64CPCpkhdmhb63M6ycEUaN) | [PLEITØ](https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS), [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD), [Susanojuicio](https://open.spotify.com/artist/32cwAgp6jfKF6fM2myJPp8) | [No quiero un final](https://open.spotify.com/album/7MyOIHGBrF8QRiYwgZUdos) | 3:57 |
+| 5 | [No quiero un final](https://open.spotify.com/track/64CPCpkhdmhb63M6ycEUaN) | [Pleito](https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS), [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD), [Susanojuicio](https://open.spotify.com/artist/32cwAgp6jfKF6fM2myJPp8) | [No quiero un final](https://open.spotify.com/album/7MyOIHGBrF8QRiYwgZUdos) | 3:57 |
 | 6 | [no le mienta a mamá](https://open.spotify.com/track/6ckaxHc7YjKZuIb4obB29X) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [no le mienta a mamá](https://open.spotify.com/album/0UnIcBlwXeIUTgywoiYzxx) | 3:48 |
 | 7 | [Boyz In Da House](https://open.spotify.com/track/2CEYNYeK5uiVvPensolF6n) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8) | [Boyz In Da House](https://open.spotify.com/album/5YiSBGrupAnOHU8KTqRVAh) | 3:49 |
 | 8 | [Tu Traición](https://open.spotify.com/track/2GxUyF5r1pvjVihKfFoNSH) | [Zona Infame](https://open.spotify.com/artist/32FmPGPkEM3IifxSPWEstr) | [Llegamos](https://open.spotify.com/album/7Abvxuj7EQVesUvTXbv6P4) | 4:38 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 | 59 | [Descarga](https://open.spotify.com/track/3nro2uKUcU08zHBiYJ4Ah7) | [Dj Deportado](https://open.spotify.com/artist/1mQKVFOK2SnXWTouBSs9Ul), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Descarga](https://open.spotify.com/album/4zk0jpwfhT2495NViI1rId) | 3:05 |
 | 60 | [Estoy Bien](https://open.spotify.com/track/42e8NZUQvgxiirRcVEjbOz) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6) | [A Veces Es Bueno Estar Triste](https://open.spotify.com/album/2AGlNJbOjLzn0o7wSEWegz) | 3:14 |
 | 61 | [El Sonido de la Calle](https://open.spotify.com/track/7zfNW06BiZzXSPS8KdgM5u) | [Hip Hop Peruano Mas Na](https://open.spotify.com/artist/2Tr0mJ3E4bL4CqVb4lHoUH) | [Mixtape, Vol\. 1: Inca Music](https://open.spotify.com/album/6GU4yF1zVfjko8z38SKkFv) | 3:43 |
-| 62 | [Avestruces](https://open.spotify.com/track/5ttollOIImxDDshFRJ8p8v) | [PLEITØ](https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS), [Reies](https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx) | [El Rap Es un Regalo](https://open.spotify.com/album/6c7Sbn1n3hsQgOAedEwJBy) | 2:46 |
+| 62 | [Avestruces](https://open.spotify.com/track/5ttollOIImxDDshFRJ8p8v) | [Pleito](https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS), [Reies](https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx) | [El Rap Es un Regalo](https://open.spotify.com/album/6c7Sbn1n3hsQgOAedEwJBy) | 2:46 |
 | 63 | [Te Ves Ahí](https://open.spotify.com/track/03ZuLojgeZ6avs74BqxIZR) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Te Ves Ahí](https://open.spotify.com/album/1iUYZLyXdasHal6E8khTZo) | 3:02 |
 | 64 | [Barrio Bendito](https://open.spotify.com/track/53uMaGjlUaE30fD2vM0Pyj) | [Inkas Mob](https://open.spotify.com/artist/3pl31iTKhYPQIkQUHaqJcw), [Jhony Welker](https://open.spotify.com/artist/6X9EFNYXbv9ViyeBmOOD13), [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx) | [Imperio Inka](https://open.spotify.com/album/4Os888G0hBDVmSPRnT0Tem) | 2:51 |
 | 65 | [5 Milenios de Raiz](https://open.spotify.com/track/4pufeRv2t358YgVTOYDkGa) | [Pedro Mo](https://open.spotify.com/artist/3SddrVrcgL6qbXhj8AkwTZ), [Tripulante](https://open.spotify.com/artist/0EWxuhlfnFwqRIYOdr4IkJ), [Mantra](https://open.spotify.com/artist/6ztaFqFjn3vO5fn5rANjzP), [Alandino](https://open.spotify.com/artist/7skhF8GXHWNzoOUDPHOnBV), [Locko Way](https://open.spotify.com/artist/5r2XLFjT8pqiyBe3xMai1E), [Dj Black Paramo](https://open.spotify.com/artist/0L3X1ebzfjxDHTet8FGZs5) | [5 Milenios de Raiz](https://open.spotify.com/album/5F0N3iqpP9YsZAgF0ddXPJ) | 5:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 | 79 | [Kaykunapi](https://open.spotify.com/track/5GPMzrfc5U7kU7qCB0kzt2) | [Hip Hop Peruano Mas Na](https://open.spotify.com/artist/2Tr0mJ3E4bL4CqVb4lHoUH), [Liberato Kani](https://open.spotify.com/artist/36gANGyQxxQagGCqYlQnqb) | [Hip Hop Peruano Mas Na : Mixtape, Vol\. 2](https://open.spotify.com/album/2mFYlXBO09xr1f14S4XZUn) | 2:42 |
 | 80 | [Tranqui](https://open.spotify.com/track/3x8wYCHXsuCiDrlBynclp1) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Tranqui](https://open.spotify.com/album/6P9dhAgXWrEgMQbwHxJUFZ) | 3:51 |
 
-Snapshot ID: `MCw4NzEzZDU1MjgzZmEyY2FmMDJhODExODcwYjE3MWI4NjdiMzQyZjMy`
+Snapshot ID: `MCw3OWM4NmY1YWQ3MDkwYzQxYTY5ODIyZTYwOTNlNmM0NTgyZDMyYWMw`

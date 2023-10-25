@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,919 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,046 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |
 | 70 | [Evoluiu \- Rakka & Onabeat Remix](https://open.spotify.com/track/6NwcscnUNdlBsPzGgZeObZ) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Rakka](https://open.spotify.com/artist/2GNfI7g7glAR1JBuvU0vL5), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Evoluiu \(Rakka & Onabeat Remix\)](https://open.spotify.com/album/50yBv8IH7yh1az9WApeLQr) | 2:52 |
 
-Snapshot ID: `MCxmNzlkZDBlYTc2ZmJiNjA1OTVlYWM5NDU2ZDc5MGIzZDI0YzU3OTQ5`
+Snapshot ID: `MCxmMjk5NjhmNjQ1NzhhNjI1NWE0NDJmNDQ4NjEyNzBkYzkwM2FiY2Vh`

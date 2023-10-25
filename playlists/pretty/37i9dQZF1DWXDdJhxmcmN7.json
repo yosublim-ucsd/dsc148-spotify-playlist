@@ -1,12 +1,12 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 26271,
+  "num_followers": 26298,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTAxMjExYjI1Mjc5YTBlMTQ4ODMzNzc2MWQwOTlmNWZhODQ5MGUy",
+  "snapshot_id": "MCwzYWRlMjMxYmQxN2Q5NTE2YWY3MDYyYmVmYjk1MDk1ZGQ1MTI2MGQ4",
   "tracks": [
     {
       "added_at": "2023-10-20 06:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Cumbiero",
-        "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 99000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
         "name": "Barrio",
         "url": "https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 125861,
       "name": "Barrio",
       "url": "https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "Cumbiero",
+        "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 99000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Cumbia Don Juan",
-        "url": "https://open.spotify.com/album/2MlGXLf3WETeNe9W2xfFX0"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 134451,
-      "name": "Cumbia Don Juan",
-      "url": "https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
         "name": "G\u00e9minis",
         "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 197588,
       "name": "G\u00e9minis",
       "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "Cumbia Don Juan",
+        "url": "https://open.spotify.com/album/2MlGXLf3WETeNe9W2xfFX0"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 134451,
+      "name": "Cumbia Don Juan",
+      "url": "https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
+        "name": "Chillaquil",
+        "url": "https://open.spotify.com/album/41xtSTxujWEDsekEdofbsm"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 180674,
+      "name": "Chillaquil",
+      "url": "https://open.spotify.com/track/67fq8JQdCmk9oIyXLhiqxJ"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
         "name": "Ocaso Sin Fin",
         "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 111219,
       "name": "Extra\u00f1os (Strangers)",
       "url": "https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
-        "name": "Chillaquil",
-        "url": "https://open.spotify.com/album/41xtSTxujWEDsekEdofbsm"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 180674,
-      "name": "Chillaquil",
-      "url": "https://open.spotify.com/track/67fq8JQdCmk9oIyXLhiqxJ"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -1115,6 +1115,30 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
+        "name": "Lluvia de Oro",
+        "url": "https://open.spotify.com/album/0RKJSxCx19WhHJgIhqYEgg"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Yunani HU",
+          "url": "https://open.spotify.com/artist/7GPDzYt6bNbg4b0X6YsgsB"
+        }
+      ],
+      "duration_ms": 140400,
+      "name": "Lluvia de Oro",
+      "url": "https://open.spotify.com/track/6HGMkhxtqUwihX2ayzFxW2"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
         "name": "alone alone",
         "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
       },
@@ -1127,22 +1151,6 @@
       "duration_ms": 90933,
       "name": "alone alone",
       "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
-        "name": "iced coffee",
-        "url": "https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T"
-      },
-      "artists": [
-        {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
-        }
-      ],
-      "duration_ms": 116824,
-      "name": "iced coffee",
-      "url": "https://open.spotify.com/track/7odYz6Lh6zJAoBNs7vRxf7"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -1167,26 +1175,18 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Lluvia de Oro",
-        "url": "https://open.spotify.com/album/0RKJSxCx19WhHJgIhqYEgg"
+        "name": "iced coffee",
+        "url": "https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T"
       },
       "artists": [
         {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Yunani HU",
-          "url": "https://open.spotify.com/artist/7GPDzYt6bNbg4b0X6YsgsB"
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
         }
       ],
-      "duration_ms": 140400,
-      "name": "Lluvia de Oro",
-      "url": "https://open.spotify.com/track/6HGMkhxtqUwihX2ayzFxW2"
+      "duration_ms": 116824,
+      "name": "iced coffee",
+      "url": "https://open.spotify.com/track/7odYz6Lh6zJAoBNs7vRxf7"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Conchitas",
-        "url": "https://open.spotify.com/album/6uqdZDw04CVlIQVYal9tK5"
-      },
-      "artists": [
-        {
-          "name": "Camosmic",
-          "url": "https://open.spotify.com/artist/4O3l4yOYCNl3qerZFlsbae"
-        }
-      ],
-      "duration_ms": 149040,
-      "name": "Conchitas",
-      "url": "https://open.spotify.com/track/2aNOrwggEgb6fh7cIq51A7"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
         "name": "To My Past Self",
         "url": "https://open.spotify.com/album/79uB85KjOZFusOJhjHRvb8"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 111303,
       "name": "Habits",
       "url": "https://open.spotify.com/track/4OVsPzhFDQExjFCc0UneHt"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "Conchitas",
+        "url": "https://open.spotify.com/album/6uqdZDw04CVlIQVYal9tK5"
+      },
+      "artists": [
+        {
+          "name": "Camosmic",
+          "url": "https://open.spotify.com/artist/4O3l4yOYCNl3qerZFlsbae"
+        }
+      ],
+      "duration_ms": 149040,
+      "name": "Conchitas",
+      "url": "https://open.spotify.com/track/2aNOrwggEgb6fh7cIq51A7"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/6DNFbu726NR7u4pWdZoAjf"
-      },
-      "artists": [
-        {
-          "name": "Adbeel",
-          "url": "https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7nVf8L0WkgqecsJ0BcEj0a"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
         "name": "Although",
         "url": "https://open.spotify.com/album/5ysdKCkyWk9CcyAmr0n3gK"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 160224,
       "name": "Although",
       "url": "https://open.spotify.com/track/1yzntUA9nlN3ieYjtmGN94"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6DNFbu726NR7u4pWdZoAjf"
+      },
+      "artists": [
+        {
+          "name": "Adbeel",
+          "url": "https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7nVf8L0WkgqecsJ0BcEj0a"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Duerme",
-        "url": "https://open.spotify.com/album/3lSsZLGP5WLfjoGM5n9xF6"
-      },
-      "artists": [
-        {
-          "name": "Mariana Red",
-          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
-        }
-      ],
-      "duration_ms": 126004,
-      "name": "Duerme",
-      "url": "https://open.spotify.com/track/1b7XK2lhy8hy9HAK4pFOpC"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
         "name": "Opinable",
         "url": "https://open.spotify.com/album/5f7XpTfXYCt8GWvk9sqEjT"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 185791,
       "name": "Opinable",
       "url": "https://open.spotify.com/track/6tSkvfWiXCkjqUXKXbLFKk"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "Duerme",
+        "url": "https://open.spotify.com/album/3lSsZLGP5WLfjoGM5n9xF6"
+      },
+      "artists": [
+        {
+          "name": "Mariana Red",
+          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
+        }
+      ],
+      "duration_ms": 126004,
+      "name": "Duerme",
+      "url": "https://open.spotify.com/track/1b7XK2lhy8hy9HAK4pFOpC"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Lo-Fi Fronteras",
-        "url": "https://open.spotify.com/album/7I2aEEaPNRKkVmDr4qQqcg"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Lo-Fi Fronteras",
-      "url": "https://open.spotify.com/track/16AtJwMCngSeTMxW3pfwPu"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
         "name": "Lo-Fi en la Fila de la Tortilleria",
         "url": "https://open.spotify.com/album/0jyumxuWRrgx7YvxtgthGs"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 197324,
       "name": "Lo-Fi en la Fila de la Tortilleria",
       "url": "https://open.spotify.com/track/0gPUW4qsIqJYUQ39bLpsca"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "Lo-Fi Fronteras",
+        "url": "https://open.spotify.com/album/7I2aEEaPNRKkVmDr4qQqcg"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Lo-Fi Fronteras",
+      "url": "https://open.spotify.com/track/16AtJwMCngSeTMxW3pfwPu"
     },
     {
       "added_at": "2023-10-20 06:00:00",

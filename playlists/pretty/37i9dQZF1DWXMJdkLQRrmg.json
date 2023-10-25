@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 325077,
+  "num_followers": 325122,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDhkMzI0ODM0NTBlYjk5YmIyNmMzOWViMTVkN2MyYjFhMzE5ODg1",
+  "snapshot_id": "MCw0ODRjZDM3ODBlZTMyNWUyYjZlN2RhNjI3MmI4YjUzMjU1YjhkODI2",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 253120,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Between the Bars",
         "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Same Kind Of Different",
-        "url": "https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 241292,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Surface Sounds",
         "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 232529,
       "name": "Backbone",
       "url": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Same Kind Of Different",
+        "url": "https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 241292,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -611,22 +627,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Zen X Four",
-        "url": "https://open.spotify.com/album/1JifpVW1p2sb6tuzifgFmV"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Glycerine - Acoustic",
-      "url": "https://open.spotify.com/track/3ZoAB9gq2RGW5KdHnRvH75"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Simulation Theory (Super Deluxe)",
         "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 226333,
       "name": "Something Human (Acoustic)",
       "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Zen X Four",
+        "url": "https://open.spotify.com/album/1JifpVW1p2sb6tuzifgFmV"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Glycerine - Acoustic",
+      "url": "https://open.spotify.com/track/3ZoAB9gq2RGW5KdHnRvH75"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -707,22 +723,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Across A Wire (Live In New York)",
-        "url": "https://open.spotify.com/album/1tqB9q7YnXgWekLtO6wggy"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 317333,
-      "name": "Mr. Jones - Live At Chelsea Studios, New York/1997",
-      "url": "https://open.spotify.com/track/0waRf9ctHjM169N6rWtKx1"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Scumbag (Acoustic)",
         "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 209420,
       "name": "Scumbag - Acoustic",
       "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Across A Wire (Live In New York)",
+        "url": "https://open.spotify.com/album/1tqB9q7YnXgWekLtO6wggy"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 317333,
+      "name": "Mr. Jones - Live At Chelsea Studios, New York/1997",
+      "url": "https://open.spotify.com/track/0waRf9ctHjM169N6rWtKx1"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -803,22 +819,6 @@
       "duration_ms": 316293,
       "name": "Change (In the House of Flies) - Acoustic; 2005 Remaster",
       "url": "https://open.spotify.com/track/0ovy04t3RUHvnkijp62ITq"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "go",
-        "url": "https://open.spotify.com/album/7kfEzYbNFBdVvaN4jeNox5"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Elderly Woman Behind the Counter in a Small Town - Acoustic Version",
-      "url": "https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp"
     }
   ],
   "unique_name": "Stripped Down",

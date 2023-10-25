@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 178182,
       "name": "Alive With You",
       "url": "https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1"
@@ -2362,6 +2362,28 @@
       "duration_ms": 281725,
       "name": "Eva Kelley",
       "url": "https://open.spotify.com/track/0s8Zuk9rkJf9NVR9azmDwE"
+    },
+    {
+      "album": {
+        "name": "Fall In Tennessee",
+        "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
+      },
+      "artists": [
+        {
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231120,
+      "name": "Fall In Tennessee (feat. Jerry Douglas)",
+      "url": "https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J"
     },
     {
       "album": {

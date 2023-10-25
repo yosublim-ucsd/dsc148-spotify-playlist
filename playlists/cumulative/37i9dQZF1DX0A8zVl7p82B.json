@@ -3626,10 +3626,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 156265,
       "name": "Thank You Note",
       "url": "https://open.spotify.com/track/5EHoaIl9RURnb8nhyf26ug"
+    },
+    {
+      "album": {
+        "name": "Thank You Note",
+        "url": "https://open.spotify.com/album/15XmhSKh6fCVeiRbknWKlT"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156265,
+      "name": "Thank You Note",
+      "url": "https://open.spotify.com/track/67ss3RFo9MIjrdJcyINI0w"
     },
     {
       "album": {

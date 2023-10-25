@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Jazzy.",
-  "num_followers": 453922,
+  "num_followers": 453953,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2U5NGEyNzFjMjlmOWFjZjkzNGExYWNiZTFhOWVmNTE3Nzk1Y2I1",
+  "snapshot_id": "MCwwMDM4NzEzNTFjY2UxMjZlZTZkOGNjYTA5OTFhYWY4NTMxYjUyZjJl",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Brighter",
-        "url": "https://open.spotify.com/album/29aJzEf5SjNl7mlpf3bAiz"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 221612,
-      "name": "Brighter",
-      "url": "https://open.spotify.com/track/5eH6OIfEPUuKyHr1zk5SaT"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "zero experience",
         "url": "https://open.spotify.com/album/1WsyR6Rubboirjmw69zHc0"
       },
@@ -475,22 +455,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1MyRd6S8tq6eG9nzsdStA6"
+        "name": "Brighter",
+        "url": "https://open.spotify.com/album/29aJzEf5SjNl7mlpf3bAiz"
       },
       "artists": [
         {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         },
         {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 217600,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE"
+      "duration_ms": 221612,
+      "name": "Brighter",
+      "url": "https://open.spotify.com/track/5eH6OIfEPUuKyHr1zk5SaT"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -511,6 +491,26 @@
       "duration_ms": 174720,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/5G8pdZq3HL2sEVi5yGsq0Z"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1MyRd6S8tq6eG9nzsdStA6"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Arbora",
-        "url": "https://open.spotify.com/album/5DLGmdDcettb6PPnfu11ch"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 220975,
-      "name": "Arbora",
-      "url": "https://open.spotify.com/track/1QgbpXgP9AGnEwTHtA51Al"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Skull Machine",
         "url": "https://open.spotify.com/album/4N45nvS8gGoJ9kRxnBnk6J"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 195310,
       "name": "Skull Machine",
       "url": "https://open.spotify.com/track/5ScWfZGzV29Pr9dk7gLl95"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Arbora",
+        "url": "https://open.spotify.com/album/5DLGmdDcettb6PPnfu11ch"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 220975,
+      "name": "Arbora",
+      "url": "https://open.spotify.com/track/1QgbpXgP9AGnEwTHtA51Al"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Guiding Light",
-        "url": "https://open.spotify.com/album/58sgLN9OAebaaf0J1ntW8E"
-      },
-      "artists": [
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        }
-      ],
-      "duration_ms": 163155,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/4Arnh7J9U6YzysVBUNZcR0"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Hollywood",
         "url": "https://open.spotify.com/album/5SQuqccOnKASxj94o2C5ro"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 145591,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/1n2zcm9jlZA5g82K6rE9cB"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Guiding Light",
+        "url": "https://open.spotify.com/album/58sgLN9OAebaaf0J1ntW8E"
+      },
+      "artists": [
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "duration_ms": 163155,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/4Arnh7J9U6YzysVBUNZcR0"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "denver luna",
-        "url": "https://open.spotify.com/album/0nQgkT12o7TfgxLF5sJ0YG"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 481946,
-      "name": "denver luna",
-      "url": "https://open.spotify.com/track/6zNvFsA2rwXrBxq8AZ8mXr"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Greater Purpose",
         "url": "https://open.spotify.com/album/01zbGemPEWafx6eQFV2i0S"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 394666,
       "name": "Greater Purpose",
       "url": "https://open.spotify.com/track/0AebWDXqgiFwqczWRKt2kP"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "denver luna",
+        "url": "https://open.spotify.com/album/0nQgkT12o7TfgxLF5sJ0YG"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 481946,
+      "name": "denver luna",
+      "url": "https://open.spotify.com/track/6zNvFsA2rwXrBxq8AZ8mXr"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1039,46 +1039,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "So Alive (Nala Remix)",
-        "url": "https://open.spotify.com/album/2DMeeelFKn1CCpQySlHzv9"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        },
-        {
-          "name": "Moullinex",
-          "url": "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
-        },
-        {
-          "name": "Nala",
-          "url": "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
-        }
-      ],
-      "duration_ms": 329408,
-      "name": "So Alive - Nala Remix",
-      "url": "https://open.spotify.com/track/3tcDA9gVNj1CvxgLE8V9ej"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Desert Queen",
-        "url": "https://open.spotify.com/album/0yG7rxCosQLHe9LH6fgxoH"
-      },
-      "artists": [
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        }
-      ],
-      "duration_ms": 236691,
-      "name": "Desert Queen",
-      "url": "https://open.spotify.com/track/3XEGdwonYRQM5sX0I0CsoR"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Moss",
         "url": "https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc"
       },
@@ -1115,18 +1075,42 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "FaCet, Vol. 2.2",
-        "url": "https://open.spotify.com/album/3sAEn2psgBb8tVzNamSzJs"
+        "name": "Desert Queen",
+        "url": "https://open.spotify.com/album/0yG7rxCosQLHe9LH6fgxoH"
       },
       "artists": [
         {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
         }
       ],
-      "duration_ms": 191326,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/1Jsiq11y3EoiP5PAcJFkl4"
+      "duration_ms": 236691,
+      "name": "Desert Queen",
+      "url": "https://open.spotify.com/track/3XEGdwonYRQM5sX0I0CsoR"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "So Alive (Nala Remix)",
+        "url": "https://open.spotify.com/album/2DMeeelFKn1CCpQySlHzv9"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        },
+        {
+          "name": "Moullinex",
+          "url": "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
+        },
+        {
+          "name": "Nala",
+          "url": "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
+        }
+      ],
+      "duration_ms": 329408,
+      "name": "So Alive - Nala Remix",
+      "url": "https://open.spotify.com/track/3tcDA9gVNj1CvxgLE8V9ej"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1143,6 +1127,22 @@
       "duration_ms": 205714,
       "name": "Heal My Mind",
       "url": "https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "FaCet, Vol. 2.2",
+        "url": "https://open.spotify.com/album/3sAEn2psgBb8tVzNamSzJs"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        }
+      ],
+      "duration_ms": 191326,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/1Jsiq11y3EoiP5PAcJFkl4"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Lay All Your Love On Me",
+        "url": "https://open.spotify.com/album/4GXqDPWUfUEd7oYciAZfLK"
+      },
+      "artists": [
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Lay All Your Love On Me",
+      "url": "https://open.spotify.com/track/7CLfo4DdRlh4PMc1mpTaAD"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "SHiNE",
         "url": "https://open.spotify.com/album/0ZABn38ZUmVmSoi36yQj3M"
       },
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Lay All Your Love On Me",
-        "url": "https://open.spotify.com/album/4GXqDPWUfUEd7oYciAZfLK"
-      },
-      "artists": [
-        {
-          "name": "Kevin McKay",
-          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Lay All Your Love On Me",
-      "url": "https://open.spotify.com/track/7CLfo4DdRlh4PMc1mpTaAD"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Ghetto Bird",
         "url": "https://open.spotify.com/album/4YBbDMqQZCOqyJJhmlNiSI"
       },
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Airport Smoking Room",
-        "url": "https://open.spotify.com/album/6AFKEQO7KXED2QUZxYhReD"
+        "name": "CIRCUIT DREAMS",
+        "url": "https://open.spotify.com/album/1tz6AIBHxEH3rfBZ8ri80P"
       },
       "artists": [
         {
-          "name": "Lucy Tun",
-          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Airport Smoking Room",
-      "url": "https://open.spotify.com/track/5Zmz1Cu6REuQB73O6qsUU9"
+      "duration_ms": 204137,
+      "name": "SO HIGH",
+      "url": "https://open.spotify.com/track/4iru4THOvnPBJMBwvrUDPS"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "CIRCUIT DREAMS",
-        "url": "https://open.spotify.com/album/1tz6AIBHxEH3rfBZ8ri80P"
-      },
-      "artists": [
-        {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "SO HIGH",
-      "url": "https://open.spotify.com/track/4iru4THOvnPBJMBwvrUDPS"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Freak Ya Tail",
         "url": "https://open.spotify.com/album/1p5aojll9ejIRKVOrs0fYv"
       },
@@ -1419,6 +1403,38 @@
       "duration_ms": 184320,
       "name": "Freak Ya Tail",
       "url": "https://open.spotify.com/track/3yEbhEldwdL0jfrqm64x5E"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Airport Smoking Room",
+        "url": "https://open.spotify.com/album/6AFKEQO7KXED2QUZxYhReD"
+      },
+      "artists": [
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Airport Smoking Room",
+      "url": "https://open.spotify.com/track/5Zmz1Cu6REuQB73O6qsUU9"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "The Architect",
+        "url": "https://open.spotify.com/album/0heNhuLawUSY4xioN9HNbC"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "duration_ms": 278017,
+      "name": "Babe Ruth",
+      "url": "https://open.spotify.com/track/3c0xttpVl8Z8L9VpDGRwnh"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1459,42 +1475,34 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "The Architect",
-        "url": "https://open.spotify.com/album/0heNhuLawUSY4xioN9HNbC"
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/25az9xpMDxpmAzCTCwX7hf"
       },
       "artists": [
         {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
         }
       ],
-      "duration_ms": 278017,
-      "name": "Babe Ruth",
-      "url": "https://open.spotify.com/track/3c0xttpVl8Z8L9VpDGRwnh"
+      "duration_ms": 155000,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/6OhmXq1u2nB8Wrm5wuPrqs"
     },
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Chez Moi (Waiting For You) [Spray Remixes]",
-        "url": "https://open.spotify.com/album/3MBM7C3aAOK5uPuneu8JvX"
+        "name": "Thade",
+        "url": "https://open.spotify.com/album/66T4JSExNeXeVUHg3WCstT"
       },
       "artists": [
         {
-          "name": "CC:DISCO!",
-          "url": "https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        },
-        {
-          "name": "Spray",
-          "url": "https://open.spotify.com/artist/7AyNPhiTjEsBF4HBBW4gDf"
+          "name": "Fatum",
+          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
         }
       ],
-      "duration_ms": 309055,
-      "name": "Chez Moi (Waiting For You) - Spray's 'Club Spritzz' Mix",
-      "url": "https://open.spotify.com/track/5JCjyRsnzkiic9vHoqpykC"
+      "duration_ms": 285714,
+      "name": "Thade",
+      "url": "https://open.spotify.com/track/0wMOfxxAqGex1Mf0d4HyPO"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1523,34 +1531,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Thade",
-        "url": "https://open.spotify.com/album/66T4JSExNeXeVUHg3WCstT"
+        "name": "Chez Moi (Waiting For You) [Spray Remixes]",
+        "url": "https://open.spotify.com/album/3MBM7C3aAOK5uPuneu8JvX"
       },
       "artists": [
         {
-          "name": "Fatum",
-          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
-        }
-      ],
-      "duration_ms": 285714,
-      "name": "Thade",
-      "url": "https://open.spotify.com/track/0wMOfxxAqGex1Mf0d4HyPO"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/25az9xpMDxpmAzCTCwX7hf"
-      },
-      "artists": [
+          "name": "CC:DISCO!",
+          "url": "https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7"
+        },
         {
-          "name": "4B",
-          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "Spray",
+          "url": "https://open.spotify.com/artist/7AyNPhiTjEsBF4HBBW4gDf"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/6OhmXq1u2nB8Wrm5wuPrqs"
+      "duration_ms": 309055,
+      "name": "Chez Moi (Waiting For You) - Spray's 'Club Spritzz' Mix",
+      "url": "https://open.spotify.com/track/5JCjyRsnzkiic9vHoqpykC"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "GTFO",
-        "url": "https://open.spotify.com/album/31fLFrQhX0ezCLgKqsXa1v"
+        "name": "All The VCOs You Can Eat",
+        "url": "https://open.spotify.com/album/5XQbs3nopUULvedwhRVutr"
       },
       "artists": [
         {
-          "name": "Madison Mars",
-          "url": "https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42"
+          "name": "Massimiliano Pagliara",
+          "url": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym"
         }
       ],
-      "duration_ms": 174000,
-      "name": "GTFO",
-      "url": "https://open.spotify.com/track/4b4CEuu5QUhccYGDustPJq"
+      "duration_ms": 270967,
+      "name": "All The VCOs You Can Eat - Edit",
+      "url": "https://open.spotify.com/track/4o0HiGsJIaLvSNRtThnelh"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1607,6 +1607,22 @@
       "duration_ms": 190595,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/2x5fhx5v2EPX5WnszVGcpY"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "GTFO",
+        "url": "https://open.spotify.com/album/31fLFrQhX0ezCLgKqsXa1v"
+      },
+      "artists": [
+        {
+          "name": "Madison Mars",
+          "url": "https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "GTFO",
+      "url": "https://open.spotify.com/track/4b4CEuu5QUhccYGDustPJq"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/5d94LDQQaiyOMyUh5EDmFL"
-      },
-      "artists": [
-        {
-          "name": "Merry Lamb Lamb",
-          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Tranquility",
-      "url": "https://open.spotify.com/track/2A5PCiRACdM8BoyUg8JIEN"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Hustle",
         "url": "https://open.spotify.com/album/47F81Q38vVUrXvDA1RPkZX"
       },
@@ -1679,6 +1679,38 @@
       "duration_ms": 161250,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/1IaB6xIOpbIZ0SHSUSUxir"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Make It Work",
+        "url": "https://open.spotify.com/album/09Do0PDhXz1QeDAwHcFeF1"
+      },
+      "artists": [
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        }
+      ],
+      "duration_ms": 221846,
+      "name": "Make It Work",
+      "url": "https://open.spotify.com/track/6S9HZZ2TCwUyi7GuK1SwTs"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/5d94LDQQaiyOMyUh5EDmFL"
+      },
+      "artists": [
+        {
+          "name": "Merry Lamb Lamb",
+          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Tranquility",
+      "url": "https://open.spotify.com/track/2A5PCiRACdM8BoyUg8JIEN"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1703,18 +1735,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Make It Work",
-        "url": "https://open.spotify.com/album/09Do0PDhXz1QeDAwHcFeF1"
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/53U62s7cZri58Y2zBfOXV8"
       },
       "artists": [
         {
-          "name": "Bklava",
-          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
         }
       ],
-      "duration_ms": 221846,
-      "name": "Make It Work",
-      "url": "https://open.spotify.com/track/6S9HZZ2TCwUyi7GuK1SwTs"
+      "duration_ms": 189072,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/6B8gJWBoznJZAcRVrsmgrL"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1735,18 +1767,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Vibration",
-        "url": "https://open.spotify.com/album/53U62s7cZri58Y2zBfOXV8"
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/3jT1KdlsTpATkep4nuDzvC"
       },
       "artists": [
         {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+          "name": "N2N",
+          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
+        },
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
         }
       ],
-      "duration_ms": 189072,
-      "name": "Vibration",
-      "url": "https://open.spotify.com/track/6B8gJWBoznJZAcRVrsmgrL"
+      "duration_ms": 122834,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4dQsAGwrq3hWTHsXOimjpc"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1779,26 +1815,6 @@
       "duration_ms": 208500,
       "name": "Bai\u00e3o Destemperado",
       "url": "https://open.spotify.com/track/2hDLy1dKBiRxqvbSvX9fnQ"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/3jT1KdlsTpATkep4nuDzvC"
-      },
-      "artists": [
-        {
-          "name": "N2N",
-          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
-        },
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        }
-      ],
-      "duration_ms": 122834,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4dQsAGwrq3hWTHsXOimjpc"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1871,22 +1887,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/4H4dPDS5naAcPyMucsG6ug"
-      },
-      "artists": [
-        {
-          "name": "Hunter/Game",
-          "url": "https://open.spotify.com/artist/2EpNqFMVXOEGaliyKnZzDt"
-        }
-      ],
-      "duration_ms": 336774,
-      "name": "New Moon",
-      "url": "https://open.spotify.com/track/4lN3Ja9ZhhxfiAioteeRl7"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "What You Heard Bout Me",
         "url": "https://open.spotify.com/album/0fUwmLBkYe1GHvGZBz252u"
       },
@@ -1899,6 +1899,22 @@
       "duration_ms": 204609,
       "name": "What You Heard Bout Me",
       "url": "https://open.spotify.com/track/6X3FtTmLqzlrVTZYMiNhCq"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/4H4dPDS5naAcPyMucsG6ug"
+      },
+      "artists": [
+        {
+          "name": "Hunter/Game",
+          "url": "https://open.spotify.com/artist/2EpNqFMVXOEGaliyKnZzDt"
+        }
+      ],
+      "duration_ms": 336774,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/4lN3Ja9ZhhxfiAioteeRl7"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1919,6 +1935,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Surfing Through The Clouds",
+        "url": "https://open.spotify.com/album/1ZBiTJxPAxfP4s61GUTL44"
+      },
+      "artists": [
+        {
+          "name": "Leat'eq",
+          "url": "https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD"
+        }
+      ],
+      "duration_ms": 169014,
+      "name": "Surfing Through The Clouds",
+      "url": "https://open.spotify.com/track/0FhqEkjsLLskEIlUTar7f8"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Kilometro Quinze",
         "url": "https://open.spotify.com/album/0Brk8w8KmdrB7wSuMnTHW6"
       },
@@ -1935,22 +1967,6 @@
       "duration_ms": 278999,
       "name": "Sicaria",
       "url": "https://open.spotify.com/track/21VGRK55qjrnEnkMtuQOXt"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Surfing Through The Clouds",
-        "url": "https://open.spotify.com/album/1ZBiTJxPAxfP4s61GUTL44"
-      },
-      "artists": [
-        {
-          "name": "Leat'eq",
-          "url": "https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD"
-        }
-      ],
-      "duration_ms": 169014,
-      "name": "Surfing Through The Clouds",
-      "url": "https://open.spotify.com/track/0FhqEkjsLLskEIlUTar7f8"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1987,22 +2003,6 @@
       "duration_ms": 182769,
       "name": "Paradise Loop",
       "url": "https://open.spotify.com/track/09um8XJ2YYfLEMzo2pLtUy"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "All The VCOs You Can Eat",
-        "url": "https://open.spotify.com/album/5XQbs3nopUULvedwhRVutr"
-      },
-      "artists": [
-        {
-          "name": "Massimiliano Pagliara",
-          "url": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym"
-        }
-      ],
-      "duration_ms": 270967,
-      "name": "All The VCOs You Can Eat - Edit",
-      "url": "https://open.spotify.com/track/4o0HiGsJIaLvSNRtThnelh"
     },
     {
       "added_at": "2023-10-20 04:01:00",

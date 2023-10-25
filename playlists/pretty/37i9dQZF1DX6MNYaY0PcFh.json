@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 69674,
+  "num_followers": 69731,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGVhNjFiMDUxNTQwZmZmYzc0NjdlZjMyMDRiOWVjN2Y2ZDVlYTRm",
+  "snapshot_id": "MCw2ODZmNzg1YzM4NGQ4MDBkNzY1MzRlOWUxNGVlNzJhMDlkZGQ4MDU3",
   "tracks": [
     {
       "added_at": "2023-10-20 09:22:01",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-10-20 09:22:01",
       "album": {
+        "name": "Lost City Archives, Vol. 7",
+        "url": "https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp"
+      },
+      "artists": [
+        {
+          "name": "Deadly Habitz",
+          "url": "https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "Henney & Coke",
+      "url": "https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi"
+    },
+    {
+      "added_at": "2023-10-20 09:22:01",
+      "album": {
         "name": "lovergirl (Tommy Villiers VIP Mix)",
         "url": "https://open.spotify.com/album/4WLHi3wJB7Kb7Av8xftYKN"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 216000,
       "name": "lovergirl - Tommy Villiers VIP Mix",
       "url": "https://open.spotify.com/track/2DwCBAxLXCx9DBFTNYnL2R"
-    },
-    {
-      "added_at": "2023-10-20 09:22:01",
-      "album": {
-        "name": "Lost City Archives, Vol. 7",
-        "url": "https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp"
-      },
-      "artists": [
-        {
-          "name": "Deadly Habitz",
-          "url": "https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "Henney & Coke",
-      "url": "https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi"
     },
     {
       "added_at": "2023-10-20 09:22:01",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-10-20 09:22:01",
       "album": {
-        "name": "the come up",
-        "url": "https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1"
-      },
-      "artists": [
-        {
-          "name": "poolsideconvo",
-          "url": "https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ"
-        }
-      ],
-      "duration_ms": 271717,
-      "name": "lights up",
-      "url": "https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG"
-    },
-    {
-      "added_at": "2023-10-20 09:22:01",
-      "album": {
         "name": "Dart",
         "url": "https://open.spotify.com/album/6PCFhgjvZglMGPLPd5en3W"
       },
@@ -1151,18 +1135,34 @@
     {
       "added_at": "2023-10-20 09:22:01",
       "album": {
-        "name": "Do What You Want",
-        "url": "https://open.spotify.com/album/7DrbNlS3HCEVF7pRzGrMT4"
+        "name": "the come up",
+        "url": "https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1"
       },
       "artists": [
         {
-          "name": "DJ Zinc",
-          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
+          "name": "poolsideconvo",
+          "url": "https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ"
         }
       ],
-      "duration_ms": 159812,
-      "name": "Do What You Want",
-      "url": "https://open.spotify.com/track/20cGWwVYbi0pBxW4VY3GNO"
+      "duration_ms": 271717,
+      "name": "lights up",
+      "url": "https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG"
+    },
+    {
+      "added_at": "2023-10-20 09:22:01",
+      "album": {
+        "name": "Foul Play EP",
+        "url": "https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE"
+      },
+      "artists": [
+        {
+          "name": "Kessler",
+          "url": "https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC"
+        }
+      ],
+      "duration_ms": 264953,
+      "name": "Hood Mentality",
+      "url": "https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz"
     }
   ],
   "unique_name": "New UK Garage",

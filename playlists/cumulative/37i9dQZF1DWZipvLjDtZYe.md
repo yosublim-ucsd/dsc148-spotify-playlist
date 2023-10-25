@@ -4,7 +4,7 @@
 
 > Features greatest hits from the world\-famous virtual singer "HATSUNE MIKU"! /世界を舞台に活躍するバーチャル・シンガー、初音ミクの楽曲を網羅した公式プレイリスト！© Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-112 songs - 7 hr 31 min
+113 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [パズルガール \(feat\. 初音ミク\)](https://open.spotify.com/track/6w8GaapNl4OdgVGMSHuJdE) | [toa](https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b) | [MIKU/TOA](https://open.spotify.com/album/3JmsMqb8TqftbCTAQXAexJ) | 4:34 | 2021-09-23 | 2022-07-15 |
 | [ビバハピ](https://open.spotify.com/track/4P0f1HTaA2UwtLJGryNgJZ) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [グレイテスト・アイドル](https://open.spotify.com/album/0Pj2RT0PsvryvBrC8B0tS4) | 3:35 | 2022-08-07 |  |
 | [ペインイレイサー](https://open.spotify.com/track/601kCD8DOamMueSF0XZLer) | [halyosy](https://open.spotify.com/artist/1n7bHz03w0ew7UNCw1dAiA), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Rin Kagamine](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Len Kagamine](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY), [Luka Megurine](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I), [KAITO](https://open.spotify.com/artist/6SgIG7A5gb3p0j4OTLr1r5), [MEIKO](https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp) | [Hatsune Miku 10th Anniversary Songs \-ミラクルミライ\-](https://open.spotify.com/album/3OxdPFUtuzEvhqqaWSr6vD) | 3:57 | 2021-09-23 | 2022-07-13 |
+| [ポケットのモンスター \(feat\. 初音ミク\)](https://open.spotify.com/track/164JMtlCerJvMQPSDi5GDb) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ポケットのモンスター](https://open.spotify.com/album/3127A3CU7WRzZwv5vfqMKP) | 3:36 | 2023-10-24 |  |
 | [マイマイマイ \(买买买\) \[feat\. 初音ミク\]](https://open.spotify.com/track/3aXvhaO9gnJRswnbuy101j) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [マイマイマイ \(买买买\) \[feat\. 初音ミク\]](https://open.spotify.com/album/5hA4hcTTGOTx2Qpcapti0M) | 3:47 | 2021-09-23 | 2022-07-28 |
 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 | 2021-09-23 |  |
 | [ミュージックミュージック \(feat\. 初音ミク\)](https://open.spotify.com/track/3riSzyosO5rqTIy6wGklwr) | [toa](https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b) | [MIKU/TOA](https://open.spotify.com/album/3JmsMqb8TqftbCTAQXAexJ) | 3:41 | 2021-09-23 |  |

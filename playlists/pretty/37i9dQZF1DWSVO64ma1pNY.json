@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 291203,
+  "num_followers": 291489,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmVjYWQ1MmNkYjNiMmYzZGNhNGIwNDRlOTNjYjE1MWIwYWRlODBl",
+  "snapshot_id": "MCwyMmJmNzJmMDNmZTUyMzdhMmI2MzIzZjAxZDhkOTE1MTEyMDYzNzUz",
   "tracks": [
     {
       "added_at": "2023-10-20 10:15:26",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-10-20 10:15:26",
       "album": {
-        "name": "Dropout Boogie",
-        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
-    },
-    {
-      "added_at": "2023-10-20 10:15:26",
-      "album": {
         "name": "A Lesson In Romantics",
         "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 216000,
       "name": "Jamie All Over",
       "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
+    },
+    {
+      "added_at": "2023-10-20 10:15:26",
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
     },
     {
       "added_at": "2023-10-20 10:15:26",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-10-20 10:15:26",
       "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu"
-    },
-    {
-      "added_at": "2023-10-20 10:15:26",
-      "album": {
         "name": "Bad Vibrations (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 200676,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
+    },
+    {
+      "added_at": "2023-10-20 10:15:26",
+      "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu"
     },
     {
       "added_at": "2023-10-20 10:15:26",

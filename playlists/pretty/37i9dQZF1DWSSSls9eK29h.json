@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 123571,
+  "num_followers": 123657,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDcxYWQxMDJkMTMxZmE4MjQ0MjkzZDkyMTM1ZTBiNjZlOTZlOGVl",
+  "snapshot_id": "MCw0Nzk5YzI4M2FiNDA3OWU5N2U0M2MwOTVmNGZiMGU2ZmViYjU1NTA3",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -43,22 +43,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Just Between Us",
-        "url": "https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 308906,
-      "name": "Just Between Us",
-      "url": "https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Stay Awhile",
         "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 277600,
       "name": "Where the Night Begins",
       "url": "https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Just Between Us",
+        "url": "https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 308906,
+      "name": "Just Between Us",
+      "url": "https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -139,18 +139,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "The Antidote",
-        "url": "https://open.spotify.com/album/5OKMEQpUvwvkr89q9xumdx"
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj"
       },
       "artists": [
         {
-          "name": "Ronny Jordan",
-          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 351400,
-      "name": "After Hours (The Antidote)",
-      "url": "https://open.spotify.com/track/2zAXsQFmNRcDQOSzuPrWTs"
+      "duration_ms": 285466,
+      "name": "That's The Way Love Goes",
+      "url": "https://open.spotify.com/track/6UkHSbQcqBwWZr98OSELoL"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -171,6 +171,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "The Antidote",
+        "url": "https://open.spotify.com/album/5OKMEQpUvwvkr89q9xumdx"
+      },
+      "artists": [
+        {
+          "name": "Ronny Jordan",
+          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
+        }
+      ],
+      "duration_ms": 351400,
+      "name": "After Hours (The Antidote)",
+      "url": "https://open.spotify.com/track/2zAXsQFmNRcDQOSzuPrWTs"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Caravan Of Dreams",
         "url": "https://open.spotify.com/album/55QEhe7Ecp7yZLgaVobo4X"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 360160,
       "name": "Caravan of Dreams",
       "url": "https://open.spotify.com/track/6Uob2aJYqcqPv5Z2BigRg6"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 285466,
-      "name": "That's The Way Love Goes",
-      "url": "https://open.spotify.com/track/6UkHSbQcqBwWZr98OSELoL"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -555,22 +555,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Urban Knights",
-        "url": "https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW"
-      },
-      "artists": [
-        {
-          "name": "Urban Knights",
-          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
-        }
-      ],
-      "duration_ms": 437133,
-      "name": "Hearts Of Longing",
-      "url": "https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Blue Touch",
         "url": "https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Straight To You",
-        "url": "https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9"
+        "name": "Urban Knights",
+        "url": "https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW"
       },
       "artists": [
         {
-          "name": "Brian Hughes",
-          "url": "https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb"
+          "name": "Urban Knights",
+          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
         }
       ],
-      "duration_ms": 316466,
-      "name": "Pamela",
-      "url": "https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np"
+      "duration_ms": 437133,
+      "name": "Hearts Of Longing",
+      "url": "https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -615,6 +599,22 @@
       "duration_ms": 334160,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/6R0QJQ6DSFoOrK4wsd37dW"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Straight To You",
+        "url": "https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9"
+      },
+      "artists": [
+        {
+          "name": "Brian Hughes",
+          "url": "https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb"
+        }
+      ],
+      "duration_ms": 316466,
+      "name": "Pamela",
+      "url": "https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "107 In The Shade",
-        "url": "https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF"
-      },
-      "artists": [
-        {
-          "name": "Alex Bugnon",
-          "url": "https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "107 In the Shade",
-      "url": "https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Intimacy",
         "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 256933,
       "name": "Just Hold Me",
       "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "107 In The Shade",
+        "url": "https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF"
+      },
+      "artists": [
+        {
+          "name": "Alex Bugnon",
+          "url": "https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "107 In the Shade",
+      "url": "https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj"
     },
     {
       "added_at": "2020-08-19 00:00:21",

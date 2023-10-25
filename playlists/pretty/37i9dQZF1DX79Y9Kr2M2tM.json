@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 843714,
+  "num_followers": 843779,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGM1NTliYWEzZjZkZGQ3MTdlN2MzMWIwNzJjMTBhMjBhNDc2YmFk",
+  "snapshot_id": "MCxkNThhMjE1YTliMTIwNzUwOGE5YTU1NTE2ODQ2NjA4NTZmNDJjM2Ew",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -835,6 +835,30 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Thirteen",
+        "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        },
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 184869,
+      "name": "Thirteen",
+      "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "The Kingfisher",
         "url": "https://open.spotify.com/album/3KJQprTqgb4xq2TNqbBGEf"
       },
@@ -863,30 +887,6 @@
       "duration_ms": 213720,
       "name": "howling",
       "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Thirteen",
-        "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        },
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 184869,
-      "name": "Thirteen",
-      "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Shiftshaping",
+        "url": "https://open.spotify.com/album/16i0VFecMUrw9lzFH4UxA3"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "duration_ms": 221076,
+      "name": "Shiftshaping",
+      "url": "https://open.spotify.com/track/6hQTXfHQzrWa6RP6PlB1dX"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Branscombe",
         "url": "https://open.spotify.com/album/1n5qpXXobioZdWa6Upq6fU"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 256260,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/2rahZcwdQ3zQU6AEgXWV6G"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Shiftshaping",
-        "url": "https://open.spotify.com/album/16i0VFecMUrw9lzFH4UxA3"
-      },
-      "artists": [
-        {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
-        }
-      ],
-      "duration_ms": 221076,
-      "name": "Shiftshaping",
-      "url": "https://open.spotify.com/track/6hQTXfHQzrWa6RP6PlB1dX"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Mountain Whisper",
-        "url": "https://open.spotify.com/album/6ZaqWexNzUOpf4Dn1CXNq0"
+        "name": "Orbit",
+        "url": "https://open.spotify.com/album/7JDJYXq99Jd9kUYAtsfK5u"
       },
       "artists": [
         {
-          "name": "Xavia",
-          "url": "https://open.spotify.com/artist/3nryYEIQnCTnBZ8OPmOd6i"
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
         }
       ],
-      "duration_ms": 274568,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/6q2VGul8D4SqtqoXePuq6j"
+      "duration_ms": 233238,
+      "name": "Society",
+      "url": "https://open.spotify.com/track/5BQZpjCcPmFSeLzTh48Zfc"
     }
   ],
   "unique_name": "Chill + Atmospheric",

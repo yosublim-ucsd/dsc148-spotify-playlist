@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-178 songs - 11 hr 56 min
+179 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Medley: Que Bueno Llego La Navidad/Que Bonito Es/De Cristo Es La Navidad](https://open.spotify.com/track/5wXK9uS1x7FWSnXYACa23s) | [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [En Navidad](https://open.spotify.com/album/6o0ntlD4u83NeaMhLqisNP) | 4:25 | 2022-12-10 |  |
 | [Medley:Que Bueno Llego La Navidad/Que Bonito Es/De Cristo Es La Navidad](https://open.spotify.com/track/4Sc2oDapkEzWluxUuSZo7n) | [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [En Navidad](https://open.spotify.com/album/4i4hrs3pRUer7gc8TIR2sI) | 4:23 | 2021-12-24 | 2023-09-24 |
 | [Mi Burrito Sabanero](https://open.spotify.com/track/02fQRYfhJpd7yWd4HJgLHd) | [Gospa](https://open.spotify.com/artist/3GCcJfWP2nPa1mGLVrZvEJ) | [Navidad Con Gospa](https://open.spotify.com/album/2fZz4vPNGsMzyaAilfRJx6) | 3:07 | 2021-12-24 | 2023-04-26 |
-| [Mi Mejor Regalo](https://open.spotify.com/track/5mlT0dwuKmWnoslcFXRrSa) | [Juan Jose Diaz](https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz), [Victoria Montero](https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Mi Mejor Regalo](https://open.spotify.com/album/50Bt4ZSpTurO3QCBc5a4ad) | 2:57 | 2022-12-10 |  |
+| [Mi Mejor Regalo](https://open.spotify.com/track/04KZnB9Gb8WCHF1AMaGzwj) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF), [Juan Jose Diaz](https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz), [Victoria Montero](https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3) | [Mi Mejor Regalo](https://open.spotify.com/album/5o46YcPUqnzB6QK4TRwD5C) | 2:57 | 2022-12-10 |  |
+| [Mi Mejor Regalo](https://open.spotify.com/track/5mlT0dwuKmWnoslcFXRrSa) | [Juan Jose Diaz](https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz), [Victoria Montero](https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Mi Mejor Regalo](https://open.spotify.com/album/50Bt4ZSpTurO3QCBc5a4ad) | 2:57 | 2022-12-10 | 2023-10-25 |
 | [Mi Navidad](https://open.spotify.com/track/64qQzNoR6WrZbG9KtaxBg9) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Mi Navidad](https://open.spotify.com/album/2Bqepx8hJWH9jySZciy8iu) | 3:03 | 2021-12-24 |  |
 | [Mi Salvador](https://open.spotify.com/track/6GPo8DZlQ53INHImfdIHGJ) | [Familia Emanuel Worship](https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak) | [Mi Salvador](https://open.spotify.com/album/15fXyLAMiUG3B9pnZ20Xfa) | 4:07 | 2022-12-10 |  |
 | [Mi Trabajo Es Creer](https://open.spotify.com/track/3xTHbxcvbj7xLHOuTqDAdF) | [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ) | [Del Cielo a la Tierra](https://open.spotify.com/album/1XyQEcULtcVCv7DxK3Nrdu) | 4:43 | 2021-12-24 |  |

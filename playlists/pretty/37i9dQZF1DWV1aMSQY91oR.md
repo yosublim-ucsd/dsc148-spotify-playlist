@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Danny Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,434 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,438 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 13 | [Pit Stop \(feat\. French Montana\)](https://open.spotify.com/track/51fqkA2jYEfXiUkcQYpCyB) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Pit Stop \(feat\. French Montana\)](https://open.spotify.com/album/6KwdG45dabKfLbbEFgEdCx) | 2:47 |
 | 14 | [BGC](https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [BGC](https://open.spotify.com/album/6Cc9Uzkovy0wEyUiazE5qR) | 2:36 |
 | 15 | [All My Life \(Burna Boy Remix\)](https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(Remixes\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 4:24 |
-| 16 | [The Town](https://open.spotify.com/track/4dthkUfBWbKgRY2jHyBBUN) | [BEATCAVE](https://open.spotify.com/artist/3hgj9nNZaEdNMuiA7JjEVw), [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [seantommy](https://open.spotify.com/artist/5jDDKbkXcoXJsowZyVIKHB) | [The Town](https://open.spotify.com/album/2tRPn0yC2e5Lxv15U5axjU) | 2:20 |
+| 16 | [The Town](https://open.spotify.com/track/4dthkUfBWbKgRY2jHyBBUN) | [BEATCAVE](https://open.spotify.com/artist/3hgj9nNZaEdNMuiA7JjEVw), [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [seantommy](https://open.spotify.com/artist/5jDDKbkXcoXJsowZyVIKHB), [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO) | [The Town](https://open.spotify.com/album/2tRPn0yC2e5Lxv15U5axjU) | 2:20 |
 | 17 | [Better As Friends](https://open.spotify.com/track/1Y54uuagorm2GyckTcPEUR) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Better As Friends](https://open.spotify.com/album/0ER236qnvuLjPS5QXIIezP) | 3:01 |
 | 18 | [Hope You Know](https://open.spotify.com/track/2Ge2ZhznMuO22wIQ9Z5Wql) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Hope You Know](https://open.spotify.com/album/1Od4A4Vif26G3twKbIGJp2) | 3:47 |
 | 19 | [Spirit of Richard Wright \(feat\. Skyzoo\)](https://open.spotify.com/track/24JtWhwXWvdbjzzyZMekMn) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL), [Skyzoo](https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc) | [Spirit of Richard Wright \(feat\. Skyzoo\)](https://open.spotify.com/album/5luW3wKlUjaDwcb8q9SVUZ) | 3:45 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 36 | [Sophisticated](https://open.spotify.com/track/10x7P1WoHwjUKSlQEdToJm) | [Soulization](https://open.spotify.com/artist/7rUnZQOHQTVtSSeTFZ1Jxd), [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [Sophisticated](https://open.spotify.com/album/2ORupKsqlrEs9FkCy3Ni5B) | 3:05 |
 | 37 | [Palm Angels Wearer](https://open.spotify.com/track/7hSKLViNW9SfL53ybTxCft) | [RU$H](https://open.spotify.com/artist/0wwprfdeVzlLc9SirMowtC), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [MONCLER BOYZ](https://open.spotify.com/album/4w41W3wOOg0vpNhLDewsf3) | 1:22 |
 | 38 | [007 \(Jersey Mix\)](https://open.spotify.com/track/1qLBZLeGS6FEHgVKWqhuVv) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull DLX](https://open.spotify.com/album/5u8lkrEjY9W9yUevdcueWm) | 2:40 |
-| 39 | [PRETTY GIRLS](https://open.spotify.com/track/2TegXzhcQonA9Lv8fBzIco) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [PRETTY GIRLS](https://open.spotify.com/album/4vdZ3KWw1hi6yTMQ0WSvEZ) | 3:13 |
+| 39 | [PRETTY GIRLS](https://open.spotify.com/track/2TegXzhcQonA9Lv8fBzIco) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [PRETTY GIRLS](https://open.spotify.com/album/4vdZ3KWw1hi6yTMQ0WSvEZ) | 2:50 |
 | 40 | [To The Bank](https://open.spotify.com/track/3h4HlcmWdexWJ6SSyZG67E) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Tha Fix Before Tha VI](https://open.spotify.com/album/7aWNHIpUIFnlu2UhOWqooG) | 2:12 |
 | 41 | [Don Julio](https://open.spotify.com/track/6ieZa4v2pCBJmpSJYtkjk5) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Dyce Payso](https://open.spotify.com/artist/2m1Dl2eo3Lg9z1fB7j5Hin), [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Jim Jones Presents Byrdgang 2.0](https://open.spotify.com/album/1EAT0YG3HgkgGEdMs9HkCL) | 2:55 |
 | 42 | [Riptide](https://open.spotify.com/track/0ibRizO4vAZiZ1wqGCNkPL) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Riptide](https://open.spotify.com/album/1HGhSujfTarhUGt9qlp2rc) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Who I Am](https://open.spotify.com/track/4MZzg9F3yJcfyPRBWLs8kg) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [RIDDY'S REVENGE \(DELUXE\)](https://open.spotify.com/album/7rLyczUVVyfIVSiSXGuVOq) | 2:33 |
 | 50 | [Sideways \(with NLE Choppa\)](https://open.spotify.com/track/3dX2DItyqF78yNhPJZakmM) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Sideways](https://open.spotify.com/album/0ylJgtYMwhgSeiz7bgtWr1) | 2:00 |
 
-Snapshot ID: `MCxkM2JlYjhjYTY4NzY3YzU0ZDE3YWZkYjVkMmNkNjU1NzUyNTg3NjJk`
+Snapshot ID: `MCxkZmQ2NjM5YzM0NWU2ZWUxMjYwNTA0ZDhjOGY1MWNkNmFhNWU4MjE3`

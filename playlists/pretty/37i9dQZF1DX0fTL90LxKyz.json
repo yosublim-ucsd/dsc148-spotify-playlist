@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home!",
-  "num_followers": 55204,
+  "num_followers": 55239,
   "original_name": "Drill Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzNjZWUwNDVkMDBiZmJiMjcxN2Y3OWQxNWRkOWY2ODY0ODE3OTkw",
+  "snapshot_id": "MCw5NzRjMTk0MDNmMzdiYWI3Y2M2YThhMDVmN2UxODE0MjJhZWVlNDU4",
   "tracks": [
     {
       "added_at": "2022-10-23 18:38:51",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
+        "name": "Trapo",
+        "url": "https://open.spotify.com/album/65OgHp58osKvhu1XlWwI09"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "duration_ms": 167832,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/7JWYtvZzxAptMETUfm37oL"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
         "name": "Only You Freestyle",
         "url": "https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 248936,
       "name": "Only You Freestyle",
       "url": "https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "Trapo",
-        "url": "https://open.spotify.com/album/65OgHp58osKvhu1XlWwI09"
-      },
-      "artists": [
-        {
-          "name": "K-Trap",
-          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
-        }
-      ],
-      "duration_ms": 167832,
-      "name": "Warm",
-      "url": "https://open.spotify.com/track/7JWYtvZzxAptMETUfm37oL"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/4uu6Jz7fGrOpVKgXPLMPYl"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "duration_ms": 167007,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/6wa1aDgVhjTuYXqkLcVL6A"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
         "name": "Ain't It Different (feat. AJ Tracey & Stormzy)",
         "url": "https://open.spotify.com/album/4DlHEcnhhUJbLuRvaOfdxC"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 196363,
       "name": "Ain't It Different (feat. AJ Tracey & Stormzy)",
       "url": "https://open.spotify.com/track/6NJfIydBMYrXvlaXsFxmc8"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "STFU",
-        "url": "https://open.spotify.com/album/4uu6Jz7fGrOpVKgXPLMPYl"
-      },
-      "artists": [
-        {
-          "name": "Digga D",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
-        }
-      ],
-      "duration_ms": 167007,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/6wa1aDgVhjTuYXqkLcVL6A"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -351,26 +351,18 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Can't Be Us",
-        "url": "https://open.spotify.com/album/2dDf3sv8pGnm8Oa9eC86IM"
+        "name": "Woi",
+        "url": "https://open.spotify.com/album/77qJnRUCy175akzXSXxZ5r"
       },
       "artists": [
         {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Abra Cadabra",
-          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
-        },
-        {
-          "name": "Bandokay",
-          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
         }
       ],
-      "duration_ms": 201555,
-      "name": "Can't Be Us",
-      "url": "https://open.spotify.com/track/2hZ17zF5a03Ly4by80wI2M"
+      "duration_ms": 182142,
+      "name": "Woi",
+      "url": "https://open.spotify.com/track/69F4G9WD5U1vKrpaCiLznl"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -423,18 +415,26 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Woi",
-        "url": "https://open.spotify.com/album/77qJnRUCy175akzXSXxZ5r"
+        "name": "Can't Be Us",
+        "url": "https://open.spotify.com/album/2dDf3sv8pGnm8Oa9eC86IM"
       },
       "artists": [
         {
-          "name": "Digga D",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        },
+        {
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
         }
       ],
-      "duration_ms": 182142,
-      "name": "Woi",
-      "url": "https://open.spotify.com/track/69F4G9WD5U1vKrpaCiLznl"
+      "duration_ms": 201555,
+      "name": "Can't Be Us",
+      "url": "https://open.spotify.com/track/2hZ17zF5a03Ly4by80wI2M"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
+        "name": "Double Tap Diaries",
+        "url": "https://open.spotify.com/album/4On8nxuf68aMTWz8ohnbWQ"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "No Diet",
+      "url": "https://open.spotify.com/track/3HUb7feX3gdnzZVEHy5yFj"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
         "name": "Wow",
         "url": "https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y"
       },
@@ -491,26 +507,6 @@
       "duration_ms": 173571,
       "name": "Wow",
       "url": "https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "Music x Road",
-        "url": "https://open.spotify.com/album/6J41exElcUa6rK5SJmjV6S"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 189321,
-      "name": "18HUNNA (feat. Dave)",
-      "url": "https://open.spotify.com/track/2tC6dm3WkOKYcgS2nZybmg"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -551,18 +547,22 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Double Tap Diaries",
-        "url": "https://open.spotify.com/album/4On8nxuf68aMTWz8ohnbWQ"
+        "name": "Music x Road",
+        "url": "https://open.spotify.com/album/6J41exElcUa6rK5SJmjV6S"
       },
       "artists": [
         {
-          "name": "Digga D",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 192386,
-      "name": "No Diet",
-      "url": "https://open.spotify.com/track/3HUb7feX3gdnzZVEHy5yFj"
+      "duration_ms": 189321,
+      "name": "18HUNNA (feat. Dave)",
+      "url": "https://open.spotify.com/track/2tC6dm3WkOKYcgS2nZybmg"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -599,6 +599,26 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
+        "name": "Who Else (feat. Unknown T)",
+        "url": "https://open.spotify.com/album/3dVDMKUj4X35IMG63SCbwe"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Who Else (feat. Unknown T)",
+      "url": "https://open.spotify.com/track/6BERzZBkuvnjuf7dUYOL3R"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
         "name": "Ei8ht Mile",
         "url": "https://open.spotify.com/album/4C3UTxhLUXd9WiiKQpZ2FN"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 176088,
       "name": "Ei8ht Mile (feat. Aitch)",
       "url": "https://open.spotify.com/track/5hI4RRn6wXpEZJUhvkTUNV"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
-        "name": "Pisces",
-        "url": "https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j"
-      },
-      "artists": [
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        },
-        {
-          "name": "Krept & Konan",
-          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Pisces",
-      "url": "https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -663,22 +663,42 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Who Else (feat. Unknown T)",
-        "url": "https://open.spotify.com/album/3dVDMKUj4X35IMG63SCbwe"
+        "name": "Bringing It Back",
+        "url": "https://open.spotify.com/album/51NcaYxQV6atdnmrCtQoc7"
       },
       "artists": [
         {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
         },
         {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Who Else (feat. Unknown T)",
-      "url": "https://open.spotify.com/track/6BERzZBkuvnjuf7dUYOL3R"
+      "duration_ms": 190937,
+      "name": "Bringing It Back",
+      "url": "https://open.spotify.com/track/3inbZcvbbcwJFgEzZgANwE"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "Pisces",
+        "url": "https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Krept & Konan",
+          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Pisces",
+      "url": "https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -743,26 +763,6 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Bringing It Back",
-        "url": "https://open.spotify.com/album/51NcaYxQV6atdnmrCtQoc7"
-      },
-      "artists": [
-        {
-          "name": "Digga D",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
-        },
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        }
-      ],
-      "duration_ms": 190937,
-      "name": "Bringing It Back",
-      "url": "https://open.spotify.com/track/3inbZcvbbcwJFgEzZgANwE"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/1y37t6X1wmEVbCke5Luugd"
       },
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "The Last Whip II",
-        "url": "https://open.spotify.com/album/4UpMoWftmk0UuuBeQhNxfQ"
-      },
-      "artists": [
-        {
-          "name": "K-Trap",
-          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
-        },
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        }
-      ],
-      "duration_ms": 215342,
-      "name": "Extra Sleeve",
-      "url": "https://open.spotify.com/track/4m9JJpWpijDvgVWcRrkgSB"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
         "name": "Talk To Me Nice",
         "url": "https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z"
       },
@@ -831,6 +811,22 @@
       "duration_ms": 148000,
       "name": "Talk To Me Nice",
       "url": "https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "WW2",
+        "url": "https://open.spotify.com/album/3dvyDylacbSogoCzyIJn52"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "duration_ms": 201982,
+      "name": "WW2",
+      "url": "https://open.spotify.com/track/51ryhYwXfP7vv3A9RORmQ9"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -855,18 +851,22 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "WW2",
-        "url": "https://open.spotify.com/album/3dvyDylacbSogoCzyIJn52"
+        "name": "The Last Whip II",
+        "url": "https://open.spotify.com/album/4UpMoWftmk0UuuBeQhNxfQ"
       },
       "artists": [
         {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
         }
       ],
-      "duration_ms": 201982,
-      "name": "WW2",
-      "url": "https://open.spotify.com/track/51ryhYwXfP7vv3A9RORmQ9"
+      "duration_ms": 215342,
+      "name": "Extra Sleeve",
+      "url": "https://open.spotify.com/track/4m9JJpWpijDvgVWcRrkgSB"
     },
     {
       "added_at": "2022-10-23 18:38:51",

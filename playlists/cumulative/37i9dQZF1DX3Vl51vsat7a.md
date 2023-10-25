@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Cloudy June
 
-256 songs - 13 hr 45 min
+257 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Mach kaputt](https://open.spotify.com/track/5BYHix1INNkgiIjcnlewIh) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb), [OG Keemo](https://open.spotify.com/artist/4gJT0OnBISFA5CPMNYBGIE) | [Mach kaputt](https://open.spotify.com/album/1YxQJI2BWCPeA48pKEyAW4) | 3:55 | 2022-04-21 | 2023-03-18 |
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-06-02 | 2022-07-08 |
 | [Mandala](https://open.spotify.com/track/3kY3lHSYB7Ow8hJl6whIBu) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Mandala](https://open.spotify.com/album/4dnEXvpTeEzyaN9zrk5hNX) | 2:01 | 2023-03-16 | 2023-08-18 |
-| [MAXIMUM RIZZ](https://open.spotify.com/track/2f90oF6hNsvRd2T7pDgNht) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [MAXIMUM RIZZ](https://open.spotify.com/album/6NB2r3HWlI3qKrVk69giA9) | 2:27 | 2023-09-28 |  |
+| [MAXIMUM RIZZ](https://open.spotify.com/track/2f90oF6hNsvRd2T7pDgNht) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [MAXIMUM RIZZ](https://open.spotify.com/album/6NB2r3HWlI3qKrVk69giA9) | 2:27 | 2023-09-28 | 2023-10-25 |
+| [MAXIMUM RIZZ](https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:27 | 2023-10-12 |  |
 | [megapunk \- TSHA Remix](https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [megapunk \(remixes\)](https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs) | 4:40 | 2021-12-16 | 2022-12-02 |
 | [Mehr](https://open.spotify.com/track/1S4mtaq6HkZLJhlExIXLQd) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Mehr](https://open.spotify.com/album/5RPCnWqpCMGm9GZdw3Pf8M) | 2:43 | 2023-09-21 |  |
 | [mein Bestes](https://open.spotify.com/track/1jZRoK2NYNfJ714ZCUejZQ) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Wind](https://open.spotify.com/album/2y7fLVS5J30B7CxzwDSdDf) | 3:01 | 2022-10-27 | 2023-08-11 |

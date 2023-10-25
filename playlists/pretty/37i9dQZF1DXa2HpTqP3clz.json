@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Willie Nelson",
-  "num_followers": 127745,
+  "num_followers": 127789,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MThjYTM5YTFjNGNkNTZhNDk3NWViN2VkYzg0OTE3NmVjNzFhYjM4",
+  "snapshot_id": "MCw2MTU5MWIyMTIzNDA3MWI2YjUxZjg2Yjk1N2U1YjA5MjU1NmJkZDM5",
   "tracks": [
     {
       "added_at": "2023-10-20 17:16:05",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Bluegrass",
-        "url": "https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 240773,
-      "name": "Still Is Still Moving To Me",
-      "url": "https://open.spotify.com/track/6wMnZNnO4oWJwivp0WvW2W"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/6FEPSiSEAwxe9FOpomdoOt"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 182826,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
+        "name": "Bluegrass",
+        "url": "https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "Still Is Still Moving To Me",
+      "url": "https://open.spotify.com/track/6wMnZNnO4oWJwivp0WvW2W"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
-        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
         }
       ],
-      "duration_ms": 258217,
-      "name": "Brace for Impact (Live a Little)",
-      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
+      "duration_ms": 153327,
+      "name": "Church Street Blues",
+      "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
+        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
       },
       "artists": [
         {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 153327,
-      "name": "Church Street Blues",
-      "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
+      "duration_ms": 258217,
+      "name": "Brace for Impact (Live a Little)",
+      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/552YmmarnFx3XxnzCaqGCo"
-      },
-      "artists": [
-        {
-          "name": "Yes Ma'am",
-          "url": "https://open.spotify.com/artist/2ImmXDgaacATNycVOulRZg"
-        }
-      ],
-      "duration_ms": 153968,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
         "name": "Mount Royal",
         "url": "https://open.spotify.com/album/795pGXIkCO2lS7aNZ2joI0"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 182293,
       "name": "Greener Grass",
       "url": "https://open.spotify.com/track/3ztXpLv0VLCcuqRVz0das3"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/552YmmarnFx3XxnzCaqGCo"
+      },
+      "artists": [
+        {
+          "name": "Yes Ma'am",
+          "url": "https://open.spotify.com/artist/2ImmXDgaacATNycVOulRZg"
+        }
+      ],
+      "duration_ms": 153968,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "In The Ground",
-        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
+        "name": "Ink, Dust & Luck",
+        "url": "https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA"
       },
       "artists": [
         {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
         }
       ],
-      "duration_ms": 191906,
-      "name": "Homemade Wine",
-      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
+      "duration_ms": 190789,
+      "name": "Don't Make Me Get up and Go",
+      "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -1167,18 +1167,54 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Ink, Dust & Luck",
-        "url": "https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA"
+        "name": "In The Ground",
+        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
       },
       "artists": [
         {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
         }
       ],
-      "duration_ms": 190789,
-      "name": "Don't Make Me Get up and Go",
-      "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
+      "duration_ms": 191906,
+      "name": "Homemade Wine",
+      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
+        "name": "Almost Proud",
+        "url": "https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP"
+      },
+      "artists": [
+        {
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 152786,
+      "name": "Honky Tonk Nights",
+      "url": "https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
+        "name": "The Light We Bring",
+        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
+      },
+      "artists": [
+        {
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
+        }
+      ],
+      "duration_ms": 207319,
+      "name": "The Heart Wants",
+      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -1203,22 +1239,6 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "The Light We Bring",
-        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
-      },
-      "artists": [
-        {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
-        }
-      ],
-      "duration_ms": 207319,
-      "name": "The Heart Wants",
-      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 225941,
       "name": "Smoky Mountain Girl",
       "url": "https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
-        "name": "Almost Proud",
-        "url": "https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP"
-      },
-      "artists": [
-        {
-          "name": "The Del McCoury Band",
-          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 152786,
-      "name": "Honky Tonk Nights",
-      "url": "https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -1423,38 +1423,6 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Live Sessions, Vol. 03",
-        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
-      },
-      "artists": [
-        {
-          "name": "The Petersens",
-          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
-        }
-      ],
-      "duration_ms": 160525,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
-        "name": "Well",
-        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Well",
-      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
         "name": "The More I Learn",
         "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
       },
@@ -1467,6 +1435,38 @@
       "duration_ms": 246853,
       "name": "The More I Learn",
       "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/7gc0887rEEosEmhLnai9EZ"
+      },
+      "artists": [
+        {
+          "name": "Clyde and the Milltailers",
+          "url": "https://open.spotify.com/artist/7zBpuTvYYgN8A4KA6PnzUA"
+        }
+      ],
+      "duration_ms": 180687,
+      "name": "Keys",
+      "url": "https://open.spotify.com/track/4Ibk99CMAC2nKGcYr3wVCG"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
+        "name": "Live Sessions, Vol. 03",
+        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
+      },
+      "artists": [
+        {
+          "name": "The Petersens",
+          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
+        }
+      ],
+      "duration_ms": 160525,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/7gc0887rEEosEmhLnai9EZ"
+        "name": "Well",
+        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
       },
       "artists": [
         {
-          "name": "Clyde and the Milltailers",
-          "url": "https://open.spotify.com/artist/7zBpuTvYYgN8A4KA6PnzUA"
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
         }
       ],
-      "duration_ms": 180687,
-      "name": "Keys",
-      "url": "https://open.spotify.com/track/4Ibk99CMAC2nKGcYr3wVCG"
+      "duration_ms": 176000,
+      "name": "Well",
+      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
-      },
-      "artists": [
-        {
-          "name": "The Grascals",
-          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Maybelle",
-      "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
         "name": "White Freight Liner Blues (feat. Molly Tuttle)",
         "url": "https://open.spotify.com/album/6x0ueS4GGofC8q79ryKbR4"
       },
@@ -1615,34 +1599,18 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Tall Tales & Fables",
-        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
       },
       "artists": [
         {
-          "name": "Haunted Like Human",
-          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
         }
       ],
-      "duration_ms": 177414,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
-        "name": "Down the Road",
-        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Down the Road",
-      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
+      "duration_ms": 139000,
+      "name": "Maybelle",
+      "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -1663,54 +1631,34 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Travelers Rest",
-        "url": "https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy"
+        "name": "Down the Road",
+        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
       },
       "artists": [
         {
-          "name": "The Foreign Landers",
-          "url": "https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 217066,
-      "name": "Traveler",
-      "url": "https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z"
+      "duration_ms": 195573,
+      "name": "Down the Road",
+      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
     },
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Railroadin' & Gamblin'",
-        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
+        "name": "Tall Tales & Fables",
+        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
       },
       "artists": [
         {
-          "name": "East Nash Grass",
-          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
+          "name": "Haunted Like Human",
+          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
         }
       ],
-      "duration_ms": 173237,
-      "name": "Railroadin' & Gamblin'",
-      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
-    },
-    {
-      "added_at": "2023-10-20 17:16:05",
-      "album": {
-        "name": "Rosa Lee McFall (Live)",
-        "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
-      },
-      "artists": [
-        {
-          "name": "Black Mountain Boys",
-          "url": "https://open.spotify.com/artist/1sz2PAcIPFpZR6Hpb2JMRR"
-        },
-        {
-          "name": "Jerry Garcia",
-          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
-        }
-      ],
-      "duration_ms": 150575,
-      "name": "Rosa Lee McFall - Live",
-      "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
+      "duration_ms": 177414,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
     },
     {
       "added_at": "2023-10-20 17:16:05",
@@ -1747,18 +1695,74 @@
     {
       "added_at": "2023-10-20 17:16:05",
       "album": {
-        "name": "Open The Road",
-        "url": "https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx"
+        "name": "Travelers Rest",
+        "url": "https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy"
       },
       "artists": [
         {
-          "name": "We Banjo 3",
-          "url": "https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD"
+          "name": "The Foreign Landers",
+          "url": "https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv"
         }
       ],
-      "duration_ms": 178182,
-      "name": "Alive With You",
-      "url": "https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1"
+      "duration_ms": 217066,
+      "name": "Traveler",
+      "url": "https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
+        "name": "Rosa Lee McFall (Live)",
+        "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
+      },
+      "artists": [
+        {
+          "name": "Black Mountain Boys",
+          "url": "https://open.spotify.com/artist/1sz2PAcIPFpZR6Hpb2JMRR"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "duration_ms": 150575,
+      "name": "Rosa Lee McFall - Live",
+      "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
+        "name": "Railroadin' & Gamblin'",
+        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
+      },
+      "artists": [
+        {
+          "name": "East Nash Grass",
+          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
+        }
+      ],
+      "duration_ms": 173237,
+      "name": "Railroadin' & Gamblin'",
+      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
+    },
+    {
+      "added_at": "2023-10-20 17:16:05",
+      "album": {
+        "name": "Fall In Tennessee",
+        "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
+      },
+      "artists": [
+        {
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 231120,
+      "name": "Fall In Tennessee (feat. Jerry Douglas)",
+      "url": "https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J"
     }
   ],
   "unique_name": "Grass Roots",

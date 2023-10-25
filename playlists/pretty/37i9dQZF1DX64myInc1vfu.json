@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Noreh",
-  "num_followers": 75486,
+  "num_followers": 75494,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTJjY2ZiM2EwNjVkM2MzYjM5MzNjNWNlMjEyNzdmZDk4NjA4NzM2",
+  "snapshot_id": "MCwxNzc3OWU2ZjFhNWNkODU3YjI2ZjVlZjNlMjFjN2UzNTFjYzljYTI1",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Para No Romperme",
         "url": "https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 171413,
       "name": "Para No Romperme",
       "url": "https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Si por Mi Fuera",
-        "url": "https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        },
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Si por Mi Fuera",
-      "url": "https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya"
       },
@@ -811,18 +791,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "D\u00e9jame Conocerte",
-        "url": "https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP"
+        "name": "Si por Mi Fuera",
+        "url": "https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv"
       },
       "artists": [
         {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
         }
       ],
-      "duration_ms": 279824,
-      "name": "D\u00e9jame Conocerte",
-      "url": "https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR"
+      "duration_ms": 212680,
+      "name": "Si por Mi Fuera",
+      "url": "https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -839,6 +823,22 @@
       "duration_ms": 243253,
       "name": "Veracruz",
       "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "D\u00e9jame Conocerte",
+        "url": "https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        }
+      ],
+      "duration_ms": 279824,
+      "name": "D\u00e9jame Conocerte",
+      "url": "https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR"
     },
     {
       "added_at": "2023-10-20 04:00:00",

@@ -1,462 +1,206 @@
 {
-  "description": "This week on Fuego, discover Santi's handpicked mixtape from Netflix's latest series, 'Neon'. \ud83d\udd25 Listen to all the mixtapes <a href=\"spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b\">here</a>.",
-  "num_followers": 1907760,
-  "original_name": "Fuego",
+  "description": "Do you dare to come in? Click <a href=\"spotify:playlist:37i9dQZF1DWXUjbdeyfJuU\">HERE</a> to enter the haunted playlist and find the hidden mixtapes!",
+  "num_followers": 1907762,
+  "original_name": "Fuego's Haunted Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGU0NTE0Y2RmNzU5Yjg3ZmZlZWMxNWE5MjFiMDBhMzJmMjUyMzg1",
+  "snapshot_id": "MCw0YjU4NzA0Mzk2MDc5M2E5YjM5ZDY4ZjY1N2VhOTcwYmQxZmFkYThj",
   "tracks": [
     {
-      "added_at": "2023-10-19 04:00:00",
+      "added_at": "2023-10-24 04:00:00",
       "album": {
-        "name": "Exagerao (from the Netflix Series \"Neon\")",
-        "url": "https://open.spotify.com/album/5mJBOJTF6DGIMGmV0Cl59h"
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/15lTBJQgMQgjnGq279LW6d"
       },
       "artists": [
         {
-          "name": "Santi",
-          "url": "https://open.spotify.com/artist/0M3JCo0UtNAsX5b4D8FFWu"
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
         }
       ],
-      "duration_ms": 79280,
-      "name": "Exagerao (from the Netflix Series \"Neon\")",
-      "url": "https://open.spotify.com/track/6MvOt6KWi2ptUAl8j3GBew"
+      "duration_ms": 37199,
+      "name": "PLAY ME - WELCOME",
+      "url": "https://open.spotify.com/track/42fJ0VaFUBDsiZtXKbG72u"
     },
     {
-      "added_at": "2023-10-19 04:00:00",
+      "added_at": "2023-10-24 04:00:00",
       "album": {
-        "name": "Hombres y Mujeres",
-        "url": "https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI"
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/1rbFJexmC0Mq2o2ymDfgDf"
       },
       "artists": [
         {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
         }
       ],
-      "duration_ms": 148644,
-      "name": "Hombres y Mujeres",
-      "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
+      "duration_ms": 15000,
+      "name": "OR",
+      "url": "https://open.spotify.com/track/79z6ghauHTXIozErI4zG4i"
     },
     {
-      "added_at": "2023-10-19 04:00:00",
+      "added_at": "2023-10-24 04:00:00",
       "album": {
-        "name": "Una Dimensi\u00f3n De \u00c9xitos",
-        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/4bNOG1EI1cxqY61JggkHqC"
       },
       "artists": [
         {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
         }
       ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
+      "duration_ms": 15000,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/6xBJp5rg2i4f1H4jKVTpo5"
     },
     {
-      "added_at": "2023-10-19 04:00:00",
+      "added_at": "2023-10-24 04:00:00",
       "album": {
-        "name": "Xplicit Content",
-        "url": "https://open.spotify.com/album/2iV5pcGbjFdQnHLzcYWyuW"
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/3a3SNrzdQMR29sgaKQ4PxW"
       },
       "artists": [
         {
-          "name": "RMAND",
-          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
         }
       ],
-      "duration_ms": 144920,
-      "name": "Xplicit Content",
-      "url": "https://open.spotify.com/track/36ohb6o1C589APsOXrxYek"
+      "duration_ms": 15000,
+      "name": "WILL",
+      "url": "https://open.spotify.com/track/5RgsIKHfTSjPseTg42JFR7"
     },
     {
-      "added_at": "2023-10-19 04:00:00",
+      "added_at": "2023-10-24 04:00:00",
       "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/1fJit1paD5pTbrMQZpZ2N1"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
         }
       ],
-      "duration_ms": 210933,
-      "name": "Lo Que Pas\u00f3, Pas\u00f3",
-      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
+      "duration_ms": 15000,
+      "name": "NEVER",
+      "url": "https://open.spotify.com/track/0fuZXDaYup3EjXymo37H7E"
     },
     {
-      "added_at": "2023-10-19 04:00:00",
+      "added_at": "2023-10-24 04:00:00",
       "album": {
-        "name": "La Vida Es Un Carnaval (Baile Total)",
-        "url": "https://open.spotify.com/album/2wJymzOZZUBrE0cKzQsvgI"
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/4kMGU0wataJgajRsuvQjAW"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
         }
       ],
-      "duration_ms": 187240,
-      "name": "Az\u00facar Negra",
-      "url": "https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw"
+      "duration_ms": 15000,
+      "name": "GET",
+      "url": "https://open.spotify.com/track/6WzNYqEjHD1xiVQtJo1WY7"
     },
     {
-      "added_at": "2023-10-19 04:00:00",
+      "added_at": "2023-10-24 04:00:00",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/2vhgRJVDILYrx9IN1vZ14b"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
         }
       ],
-      "duration_ms": 180929,
-      "name": "Me Fui de Vacaciones",
-      "url": "https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T"
+      "duration_ms": 15000,
+      "name": "OUT",
+      "url": "https://open.spotify.com/track/4rOWS5yM8bxOlpglmIgJQ7"
     },
     {
-      "added_at": "2023-10-19 04:00:00",
+      "added_at": "2023-10-24 04:00:00",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/3Or4X89oVvucwOjXG6Zymh"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
         }
       ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+      "duration_ms": 15002,
+      "name": "OF",
+      "url": "https://open.spotify.com/track/0YKcfyfZMtmedAjYBThoTt"
     },
     {
-      "added_at": "2023-10-19 04:00:00",
+      "added_at": "2023-10-24 04:00:00",
       "album": {
-        "name": "Energ\u00eda",
-        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/7nvNEib3QUjo5wZJlEfuon"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
         }
       ],
-      "duration_ms": 171093,
-      "name": "Ginza",
-      "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
+      "duration_ms": 15000,
+      "name": "HERE",
+      "url": "https://open.spotify.com/track/7y2p4RJ9y4LujtbvlTbbPn"
     },
     {
-      "added_at": "2023-10-19 04:00:00",
+      "added_at": "2023-10-24 04:00:00",
       "album": {
-        "name": "Con Altura",
-        "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/7JXbdA56iBUeOsCOkaNqUJ"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "El Guincho",
-          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
         }
       ],
-      "duration_ms": 161626,
-      "name": "Con Altura",
-      "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
+      "duration_ms": 15000,
+      "name": "ALIVE!",
+      "url": "https://open.spotify.com/track/3O6omBosLI6cpsFhsFXBRj"
     },
     {
-      "added_at": "2023-10-19 04:00:00",
+      "added_at": "2023-10-24 04:00:00",
       "album": {
-        "name": "El Poder de la M\u00fasica",
-        "url": "https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p"
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/0vfcU5a7RlIBxIlDTFBRA0"
       },
       "artists": [
         {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
         }
       ],
-      "duration_ms": 302333,
-      "name": "Tiburon",
-      "url": "https://open.spotify.com/track/26T9IOS6Bi9iOUjKkcZsZo"
+      "duration_ms": 15000,
+      "name": "Sincerely,",
+      "url": "https://open.spotify.com/track/0XW2Tam4DeiHRd4ZS5tqZq"
     },
     {
-      "added_at": "2023-10-19 04:00:00",
+      "added_at": "2023-10-24 04:00:00",
       "album": {
-        "name": "Por Una Mujer Bonita",
-        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/1zHedv3mZNHcAWJ87ajeoJ"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
         }
       ],
-      "duration_ms": 164720,
-      "name": "Por Una Mujer Bonita",
-      "url": "https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79"
-    },
-    {
-      "added_at": "2023-10-19 04:00:00",
-      "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
-    },
-    {
-      "added_at": "2023-10-19 04:00:00",
-      "album": {
-        "name": "Caf\u00e9 Con Leche",
-        "url": "https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 168323,
-      "name": "Caf\u00e9 Con Leche",
-      "url": "https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy"
-    },
-    {
-      "added_at": "2023-10-19 04:00:00",
-      "album": {
-        "name": "Men in Salsa",
-        "url": "https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4"
-      },
-      "artists": [
-        {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "Tu Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp"
-    },
-    {
-      "added_at": "2023-10-19 04:00:00",
-      "album": {
-        "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 222213,
-      "name": "Volv\u00ed a Nacer",
-      "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"
-    },
-    {
-      "added_at": "2023-10-19 04:00:00",
-      "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
-    },
-    {
-      "added_at": "2023-10-19 04:00:00",
-      "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 217129,
-      "name": "Aventura",
-      "url": "https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon"
-    },
-    {
-      "added_at": "2023-10-19 04:00:00",
-      "album": {
-        "name": "PROBLEMA",
-        "url": "https://open.spotify.com/album/62qqk2oK0GGO0AwWqUIqrJ"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "PROBLEMA",
-      "url": "https://open.spotify.com/track/2dl5K2ScW7jYhAhuem06cm"
-    },
-    {
-      "added_at": "2023-10-19 04:00:00",
-      "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "VOLVER",
-      "url": "https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y"
-    },
-    {
-      "added_at": "2023-10-19 04:00:00",
-      "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
-    },
-    {
-      "added_at": "2023-10-19 04:00:00",
-      "album": {
-        "name": "K-POP",
-        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 185220,
-      "name": "K-POP",
-      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
-    },
-    {
-      "added_at": "2023-10-19 04:00:00",
-      "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Baila Baila Baila",
-      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
-    },
-    {
-      "added_at": "2023-10-19 04:00:00",
-      "album": {
-        "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
-        "url": "https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 191254,
-      "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
-      "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
-    },
-    {
-      "added_at": "2023-10-19 04:00:00",
-      "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 193463,
-      "name": "Tormenta (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
+      "duration_ms": 15000,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6Hksm4rMm9VGDFGa7qSR3S"
     }
   ],
-  "unique_name": "Fuego",
+  "unique_name": "Fuego's Haunted Playlist",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo"
 }

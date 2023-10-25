@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 53456,
+  "num_followers": 53467,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDE4MDYyN2Q3NTNhMmZiMDAwY2I2Njc3ZWFlZDMwYjA0M2U0YjI1",
+  "snapshot_id": "MCxlM2Q5OWFlOTA5OGIyNGFhMjdkNjJkOTAwZTJmZmUwMTQwMjQ1OGE4",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -112,26 +112,6 @@
       },
       "artists": [
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 158450,
-      "name": "Rocking Around the Christmas Tree - Gabry Ponte Edit",
-      "url": "https://open.spotify.com/track/1HVB3hiWGjoU9k8VBzCSGz"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Home Alone (On the Night Before Christmas)",
-        "url": "https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ"
-      },
-      "artists": [
-        {
           "name": "Klaas",
           "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
         },
@@ -143,6 +123,26 @@
       "duration_ms": 173043,
       "name": "Wonderful Dream (Holidays Are Coming)",
       "url": "https://open.spotify.com/track/6NcTdDmYsOPE8opSKJF5en"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Home Alone (On the Night Before Christmas)",
+        "url": "https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 158450,
+      "name": "Rocking Around the Christmas Tree - Gabry Ponte Edit",
+      "url": "https://open.spotify.com/track/1HVB3hiWGjoU9k8VBzCSGz"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -251,22 +251,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Caro\u0308l Von Holz",
-        "url": "https://open.spotify.com/album/7cBwygMg5dIn0JTZw76LfY"
+        "name": "I Wish (feat. Mabel) [Christmas Version]",
+        "url": "https://open.spotify.com/album/6c09xz3peTV2CvMv8Hzezy"
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "Holzbl\u00e4ser",
-          "url": "https://open.spotify.com/artist/5Yqjr7yGAsLPpu4rmc39lL"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
         }
       ],
-      "duration_ms": 254971,
-      "name": "Caro\u0308l Von Holz",
-      "url": "https://open.spotify.com/track/2bOEI6xZhYDIHcE5QgRSoD"
+      "duration_ms": 200595,
+      "name": "I Wish (feat. Mabel) - Christmas Version",
+      "url": "https://open.spotify.com/track/6JfqJNzpto4mRuNBfL1prF"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -299,42 +299,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "I Wish (feat. Mabel) [Christmas Version]",
-        "url": "https://open.spotify.com/album/6c09xz3peTV2CvMv8Hzezy"
+        "name": "Caro\u0308l Von Holz",
+        "url": "https://open.spotify.com/album/7cBwygMg5dIn0JTZw76LfY"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         },
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "Holzbl\u00e4ser",
+          "url": "https://open.spotify.com/artist/5Yqjr7yGAsLPpu4rmc39lL"
         }
       ],
-      "duration_ms": 200595,
-      "name": "I Wish (feat. Mabel) - Christmas Version",
-      "url": "https://open.spotify.com/track/6JfqJNzpto4mRuNBfL1prF"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "A Very Decent Christmas 4",
-        "url": "https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Christmas Trees",
-      "url": "https://open.spotify.com/track/5QfF5xitFXtiqLBS3vdRkx"
+      "duration_ms": 254971,
+      "name": "Caro\u0308l Von Holz",
+      "url": "https://open.spotify.com/track/2bOEI6xZhYDIHcE5QgRSoD"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -359,6 +339,42 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "A Very Decent Christmas 4",
+        "url": "https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Christmas Trees",
+      "url": "https://open.spotify.com/track/5QfF5xitFXtiqLBS3vdRkx"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "A Very Decent Christmas",
+        "url": "https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph"
+      },
+      "artists": [
+        {
+          "name": "Gent & Jawns",
+          "url": "https://open.spotify.com/artist/3NmuArRqqfxT4rvFSgb0cx"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Turn Up Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Christmas Rave",
         "url": "https://open.spotify.com/album/0qWXWyan06KiYiMtYS2Q67"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 145029,
       "name": "Christmas Rave",
       "url": "https://open.spotify.com/track/6rYXrgCSkfMmEscYd7vzuN"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "A Very Decent Christmas",
-        "url": "https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph"
-      },
-      "artists": [
-        {
-          "name": "Gent & Jawns",
-          "url": "https://open.spotify.com/artist/3NmuArRqqfxT4rvFSgb0cx"
-        }
-      ],
-      "duration_ms": 216986,
-      "name": "Turn Up Ye Merry Gentlemen",
-      "url": "https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -583,6 +583,26 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "A Very Very Decent Christmas",
+        "url": "https://open.spotify.com/album/7umJPFg6STzH5RcBY5IxLt"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        },
+        {
+          "name": "Jesse Slayter",
+          "url": "https://open.spotify.com/artist/7l318toznsk9SiwZ4GhmrT"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Rock Them Bells",
+      "url": "https://open.spotify.com/track/5BfSrnlJdpRpSrCRoiAIja"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "An Electronic Christmas",
         "url": "https://open.spotify.com/album/1O9x3r0VqEdu05RL9xFPoc"
       },
@@ -607,26 +627,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "A Very Very Decent Christmas",
-        "url": "https://open.spotify.com/album/7umJPFg6STzH5RcBY5IxLt"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        },
-        {
-          "name": "Jesse Slayter",
-          "url": "https://open.spotify.com/artist/7l318toznsk9SiwZ4GhmrT"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Rock Them Bells",
-      "url": "https://open.spotify.com/track/5BfSrnlJdpRpSrCRoiAIja"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Kaskade Christmas",
         "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
       },
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Winter Wonderland ^Bsiide",
+        "url": "https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a"
+      },
+      "artists": [
+        {
+          "name": "L\u00f6Kii",
+          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
+        }
+      ],
+      "duration_ms": 178739,
+      "name": "Winter Wonderland ^Bsiide",
+      "url": "https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/1gOfnXRPhogf3nAiM8EGfr"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 164956,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Winter Wonderland ^Bsiide",
-        "url": "https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a"
-      },
-      "artists": [
-        {
-          "name": "L\u00f6Kii",
-          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
-        }
-      ],
-      "duration_ms": 178739,
-      "name": "Winter Wonderland ^Bsiide",
-      "url": "https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -727,26 +727,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Battle (Cause & Affect Jingle Bells Remix)",
-        "url": "https://open.spotify.com/album/4OQwvPvXZFW1G2RINQFkZ1"
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/5maELdJVcuasTlrlY9fgUV"
       },
       "artists": [
         {
-          "name": "Riddim Commission",
-          "url": "https://open.spotify.com/artist/6VEfh7l6OPJYzIO8vRsqo9"
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
         },
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Cause & Affect",
-          "url": "https://open.spotify.com/artist/6rrfw2MwiwpIMnA8pWj1UQ"
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
         }
       ],
-      "duration_ms": 157440,
-      "name": "Battle - Cause & Affect Jingle Bells Remix",
-      "url": "https://open.spotify.com/track/4WZ8F1vkdu0H0Ve98rv0gO"
+      "duration_ms": 167796,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2XmfGaH8F0OuElPwnovfDe"
     }
   ],
   "unique_name": "Electronic Christmas",

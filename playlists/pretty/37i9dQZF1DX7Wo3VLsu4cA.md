@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Wo3VLsu4cA.md) - [plain]
 
 > By bringing his African heritage to the stage, <a href="spotify:artist:1txb9Qg5lJ3KATxPcIYyvO">AMÉMÉ</a> has developed a unique sound that can be heard in this well\-crafted DJ Mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,905 likes - 19 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,913 likes - 19 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Wo3VLsu4cA.md) - [plain]
 | 18 | [Never Forget \- Mixed](https://open.spotify.com/track/0vqPTvGswSf2vT93EVHmwC) | [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Never Forget \(Mixed\)](https://open.spotify.com/album/4VQ503qKH7p7DagdEpdHrF) | 4:09 |
 | 19 | [PATCHIDO \- Mixed](https://open.spotify.com/track/0kw27ZMViWTaLCERyRmgb4) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Don Bello Ni](https://open.spotify.com/artist/2E3N0Qfv4EBNlgL1tJwBDT) | [PATCHIDO \(Mixed\)](https://open.spotify.com/album/03dfoIYUcaISFnGsPRxn4R) | 4:30 |
 
-Snapshot ID: `MCxkZjI3NTZiZjdiZWEzZTJkMjZmYmU2NmUzMTUxNzJiNDFiODNlOWQx`
+Snapshot ID: `MCxiNjllZDAwZGFjMGQ5N2FhZjBiODIyYTRjYzIwNzE2YzgxNDFmNTEw`

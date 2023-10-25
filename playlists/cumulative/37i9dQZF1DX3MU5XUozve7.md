@@ -4,7 +4,7 @@
 
 > A mix of new and classic melodic punk songs.
 
-653 songs - 1 day 8 hr 33 min
+654 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,6 +563,7 @@
 | [The Hell Song](https://open.spotify.com/track/5jVKpqA8ARnVuMmt8yTyGi) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/6sYVlvyWjlwvVHKpvXxqdG) | 3:19 | 2020-03-20\* | 2022-07-29 |
 | [The Impression That I Get](https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee) | 3:14 | 2022-07-26 | 2023-10-20 |
 | [The Impression That I Get](https://open.spotify.com/track/2F5r18ZlLUBqnt0jjhhETm) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/2ZQT4irYHOexoqjzIZXipB) | 3:14 | 2021-10-12 | 2022-07-20 |
+| [The Impression That I Get](https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let’s Face It](https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r) | 3:15 | 2022-07-26 |  |
 | [The In\-Between](https://open.spotify.com/track/0F3x651iWEX1zcTeo3aYg7) | [Bloodsport](https://open.spotify.com/artist/0cgW4EPUVoMWeTJZCNoLkH) | [The In\-Between](https://open.spotify.com/album/1fnn1ZIOXtfk6WIGCRXeBj) | 3:37 | 2020-05-18 | 2021-01-15 |
 | [The Killing Fields](https://open.spotify.com/track/5LBvrvH4bcZaHewZS35gB4) | [Protagonist](https://open.spotify.com/artist/0GGweWaK18jB7DStgHn5id) | [The Killing Fields](https://open.spotify.com/album/69hdX5RKRRywKFPaec393h) | 4:31 | 2020-03-25 | 2022-01-13 |
 | [The Markings](https://open.spotify.com/track/27zhbURJo9H2TAc6ClUWMO) | [Nathan Gray](https://open.spotify.com/artist/6xA7mRcYzlhungf2mEebib) | [Working Title](https://open.spotify.com/album/1KefAi4eT6ZfeEuqhvQHhz) | 2:30 | 2020-03-22 | 2021-01-07 |
@@ -636,7 +637,7 @@
 | [What Are We Standing For](https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [What Are We Standing For](https://open.spotify.com/album/4tuKq2JV7r88OLVORQMWKK) | 2:53 | 2020-10-17 | 2022-07-29 |
 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 | 2022-07-26 |  |
 | [What I Got](https://open.spotify.com/track/5nkYHBWXu7KCgcdwP6jcB1) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q) | 2:51 | 2021-10-14 | 2021-10-16 |
-| [What It Is To Burn \- New Version](https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:29 | 2021-07-24 |  |
+| [What It Is To Burn \- New Version](https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:29 | 2021-07-24 | 2023-10-25 |
 | [When Both Sides Suck, We're All Winners](https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 | 2020-03-20\* | 2022-07-29 |
 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 | 2020-03-20\* |  |
 | [White People for Peace](https://open.spotify.com/track/6hfODX7cwTX4k1CApv0G4v) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [Body Of War: Songs That Inspired An Iraq War Veteran](https://open.spotify.com/album/6zjzOSeUEaU6vSUCr89u4A) | 3:31 | 2020-03-25 | 2022-07-27 |

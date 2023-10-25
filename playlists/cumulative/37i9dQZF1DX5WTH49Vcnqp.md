@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Matt Corby
 
-1,120 songs - 2 day 15 hr 28 min
+1,121 songs - 2 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -849,7 +849,8 @@
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2023-04-27 | 2023-06-23 |
 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 | 2022-04-28 | 2022-07-01 |
 | [Seeing Straight](https://open.spotify.com/track/37jDUmxh5NUuaBWTAOB0si) | [Mitch Santiago](https://open.spotify.com/artist/6eERFYkiQQPyRK4rPEXTNH) | [Seeing Straight](https://open.spotify.com/album/4JAKg35Lyg9g9259rmL2cW) | 4:38 | 2022-11-10 | 2023-01-20 |
-| [Self destruct](https://open.spotify.com/track/4B03LwLa4nuiktvLCN3KHN) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6xAbweCyvExMjOQmOl194h) | 2:53 | 2023-08-24 |  |
+| [Self destruct](https://open.spotify.com/track/2ROJw0Y9Ypl79RYsYuqT3w) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF) | 2:53 | 2023-10-22 |  |
+| [Self destruct](https://open.spotify.com/track/4B03LwLa4nuiktvLCN3KHN) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6xAbweCyvExMjOQmOl194h) | 2:53 | 2023-08-24 | 2023-10-25 |
 | [Sell My Soul](https://open.spotify.com/track/02ZRdkWQrgq1zqobaCKfMo) | [Olive Amun](https://open.spotify.com/artist/5pvcPGz8wKYEcV4cdXEZOv) | [Sell My Soul](https://open.spotify.com/album/0mkw4hNAc06nNGwU5aSLYS) | 2:53 | 2021-12-28 | 2022-01-21 |
 | [Sensitive](https://open.spotify.com/track/06DPYEqSX1jMaxvnXNVshB) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/1KkWCmPdnd4Cv86DHNQctM) | 2:54 | 2023-04-06 | 2023-04-14 |
 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 | 2021-12-28 | 2022-01-28 |

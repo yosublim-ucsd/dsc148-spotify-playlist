@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 賽
 
-220 songs - 17 hr 50 min
+222 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Be Like Snow](https://open.spotify.com/track/2qDXwIRRJcHoLZHZTr4gkw) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Be Like Snow](https://open.spotify.com/album/3urXm5EQ1m6R8sSOtmnyKr) | 4:48 | 2023-03-28 | 2023-04-25 |
 | [Bird Of Beauty](https://open.spotify.com/track/5OmSzWSzMLHpTK1tp4zm95) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Bird Of Beauty](https://open.spotify.com/album/0qvKH6LujY8DPBZXRzeVAI) | 6:02 | 2023-03-07 | 2023-04-03 |
 | [Birth](https://open.spotify.com/track/0hUEm1BwD8R4Z1BebTKjOM) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Birth](https://open.spotify.com/album/3f7Hyu4Ll25UKKb3NkdHuh) | 7:30 | 2023-03-07 | 2023-04-05 |
-| [Black Nile](https://open.spotify.com/track/7jM01vnA3IbskNLZF23lyV) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Black Nile](https://open.spotify.com/album/6xaT3uAYw8VBtcI3hshU5V) | 3:33 | 2023-08-08 |  |
+| [Black Nile](https://open.spotify.com/track/7jM01vnA3IbskNLZF23lyV) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Black Nile](https://open.spotify.com/album/6xaT3uAYw8VBtcI3hshU5V) | 3:33 | 2023-08-08 | 2023-10-25 |
 | [Blackberry Winter](https://open.spotify.com/track/1QLz0xLqYiTLH1wgFH6syY) | [秩父英里](https://open.spotify.com/artist/3zVWuFMxi3W6BBeKUZX8GO) | [Crossing Reality](https://open.spotify.com/album/1D26JQHB9n7RDINZ5O8tXe) | 4:38 | 2022-09-06 | 2022-11-16 |
 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 | 2022-09-06 | 2023-10-11 |
 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 | 2022-09-06 |  |
@@ -64,6 +64,7 @@
 | [Flowing Rhyme](https://open.spotify.com/track/27R5CLTecHiNhM5BdghE1Z) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Flowing Rhyme](https://open.spotify.com/album/4gNAtde98C74XXWrJa5ntF) | 3:25 | 2022-10-18 | 2022-11-03 |
 | [Friends](https://open.spotify.com/track/7lECorfr6yQeruqdY2NaYC) | [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [Friends](https://open.spotify.com/album/7AeNL2e4gX3C2x7txDr05Q) | 4:32 | 2023-06-06 | 2023-07-05 |
 | [Futurez](https://open.spotify.com/track/3NTaVjpl7VY1RGWd6RGroz) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [Futurez](https://open.spotify.com/album/4iK5RotnCqsb4hBtluRXn5) | 4:52 | 2022-10-25 | 2022-12-13 |
+| [Garage Flower](https://open.spotify.com/track/6QrgpcSpIs1vUopy1TafjD) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Garage Flower](https://open.spotify.com/album/0jGUtjIN8PzJggAoEOEq6q) | 3:41 | 2023-10-24 |  |
 | [Give Me Your Love](https://open.spotify.com/track/0mtHN0H06S4Iefm43Kzlq2) | [The Handoors](https://open.spotify.com/artist/7Iwfkhbt82Nym1FXhF2AHN) | [Give Me Your Love](https://open.spotify.com/album/3AZpaJgFQ7iPTMmpVnPhif) | 4:11 | 2023-05-09 |  |
 | [Good Thing Will Happen](https://open.spotify.com/track/0s7Z1aZPuSyOno3IVZdLta) | [Light Music Society](https://open.spotify.com/artist/1uhicIWb5CGO8NLsWX1a5q), [Yu KUga](https://open.spotify.com/artist/6xQwMgylM6kuOlQJ5MW47s) | [From Where The Sun Rises](https://open.spotify.com/album/4Cccfl5EmABNIq7YFedo5z) | 6:45 | 2023-03-28 | 2023-04-19 |
 | [Goreezin'](https://open.spotify.com/track/0EqXbkxKfOpJl6XfqNOkwu) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [Goreezin'](https://open.spotify.com/album/2flFBbyybmmy7nB4NTnWWd) | 5:29 | 2022-09-06 | 2022-10-19 |
@@ -175,6 +176,7 @@
 | [Tokyo Portage](https://open.spotify.com/track/3CNv1GuxQLN1f4vdvUsBJ3) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Tokyo Portage](https://open.spotify.com/album/0PrT9gC39VNVdxo1odhjmm) | 3:13 | 2023-05-16 | 2023-05-18 |
 | [Tokyo Portage](https://open.spotify.com/track/45UTp7ium3cTgGO5zb2xR3) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Tokyo Portage](https://open.spotify.com/album/2mD5jItxhFupy9zAv4XdbH) | 3:13 | 2023-05-16 | 2023-09-13 |
 | [tomali](https://open.spotify.com/track/4yBzh8MWJ565XnqZ3qsRJI) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [tomali](https://open.spotify.com/album/2zA14R3kYzejS6pcb9W0Si) | 3:36 | 2023-08-01 | 2023-09-13 |
+| [Tully, Corfu, Greece](https://open.spotify.com/track/5djFwb0ctwmcs7g8di1pUF) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [Tully, Corfu, Greece](https://open.spotify.com/album/6Ldob1EDDVmP5DKWcWhryC) | 4:56 | 2023-10-24 |  |
 | [Tutumikomuyouni](https://open.spotify.com/track/3HoWRTwLaGRCnHS9hvRoOz) | [Udagawa Bekkan Band](https://open.spotify.com/artist/16zommf1ayPqidEsjaJfsh) | [Tutumikomuyouni](https://open.spotify.com/album/1vnxF4VENfoLws4brG1GD1) | 5:10 | 2023-05-16 | 2023-07-26 |
 | [Two Shadows](https://open.spotify.com/track/6DeMB7zj9PHsErZClrdna5) | [arauchi yu](https://open.spotify.com/artist/04bUFAiWthHUAI5TsPxTlS), [Julia Shortreed](https://open.spotify.com/artist/6Swtf1UAGASXEJXnhDRjoc) | [Sisei](https://open.spotify.com/album/4uRAlLzyBxwLHOtBBg6HDV) | 3:41 | 2022-09-06 | 2022-09-15 |
 | [UHOPE](https://open.spotify.com/track/1xUJg0XOmAN7u0Y2YAu7St) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [UHOPE](https://open.spotify.com/album/7q9hNKpqQbGXDeRWkwCmlZ) | 4:23 | 2022-12-20 | 2023-01-25 |
@@ -200,7 +202,7 @@
 | [みずいろの雨](https://open.spotify.com/track/75iEGWh5t7ZyqYKuvns6Ma) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [みずいろの雨](https://open.spotify.com/album/41aqTAsLAIAMGgW1tOqErz) | 4:50 | 2023-03-14 | 2023-05-10 |
 | [やわらかな夜](https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 4:00 | 2022-09-06 |  |
 | [りんご追分](https://open.spotify.com/track/3nQn93OivPqR8QW6NcfRel) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [りんご追分](https://open.spotify.com/album/1FjxsauokF028UtLSIS14r) | 4:55 | 2023-08-15 | 2023-08-17 |
-| [りんご追分](https://open.spotify.com/track/3sL2xabTbPg586o5InU6Lt) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Ringo Oiwake](https://open.spotify.com/album/24qe2xaBO74gnnDBgOZ3qr) | 4:55 | 2023-08-15 |  |
+| [りんご追分](https://open.spotify.com/track/3sL2xabTbPg586o5InU6Lt) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Ringo Oiwake](https://open.spotify.com/album/24qe2xaBO74gnnDBgOZ3qr) | 4:55 | 2023-08-15 | 2023-10-25 |
 | [アイ・ミス・ユー](https://open.spotify.com/track/3CSI0s3623E1ExOVG0fQus) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [ムード・インディゴ](https://open.spotify.com/album/79DUHlyE8a7R77ETOVCyDM) | 4:47 | 2022-09-06 | 2022-10-11 |
 | [エッグ・オン・ザ・ルーフ](https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Egg On The Roof](https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A) | 7:09 | 2023-01-10 |  |
 | [カリソメ乙女 \- DEATH JAZZ ver.](https://open.spotify.com/track/2M6Do3ldCBgbChvpxXhHfx) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [三文ゴシップ](https://open.spotify.com/album/4ryRMlHeVAEoNbN4XTquIm) | 2:29 | 2022-09-06 |  |

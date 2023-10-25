@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-207 songs - 13 hr 25 min
+208 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Come Home \(feat\. André 3000\)](https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 4:26 | 2022-12-05 |  |
 | [Come In My Kitchen](https://open.spotify.com/track/2Vr3sHONmr4oBHkim59hAw) | [Diplomats of Solid Sound](https://open.spotify.com/artist/2BNkflUlJ7uUr06ltR93mU), [The Diplomettes](https://open.spotify.com/artist/33sEjzZ7kpL9bnsrRy4D78) | [S/t](https://open.spotify.com/album/6N05syPvpoGsL5ZOnqQwQs) | 3:24 | 2021-12-13 | 2022-04-29 |
 | [Come on with the Good Thing](https://open.spotify.com/track/2oy3lFLrv7iO7XqhvEpBLB) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Music for Robots](https://open.spotify.com/album/63Op2LSvKkLkbKxTIUkwwc) | 5:19 | 2021-12-13 | 2022-05-18 |
-| [Comparison Is A Thief Of Joy](https://open.spotify.com/track/4K1e3kZiNClQgmzqxQrTIE) | [Fruit Distro Collective](https://open.spotify.com/artist/0vPnsaDFU6zMeXLjRIAPLf) | [Comparison Is A Thief Of Joy](https://open.spotify.com/album/0Q4r0UjqH1oZhhQaB1gVE8) | 2:56 | 2022-12-02 |  |
+| [Comparison Is A Thief Of Joy](https://open.spotify.com/track/1DlyIPZpwuVT7TZvt96Lgd) | [Fruit Distro Collective](https://open.spotify.com/artist/0vPnsaDFU6zMeXLjRIAPLf) | [Some Kind Of Wisdom](https://open.spotify.com/album/6uAMiLgcbEzp5gGfPuO419) | 2:56 | 2023-10-19 |  |
+| [Comparison Is A Thief Of Joy](https://open.spotify.com/track/4K1e3kZiNClQgmzqxQrTIE) | [Fruit Distro Collective](https://open.spotify.com/artist/0vPnsaDFU6zMeXLjRIAPLf) | [Comparison Is A Thief Of Joy](https://open.spotify.com/album/0Q4r0UjqH1oZhhQaB1gVE8) | 2:56 | 2022-12-02 | 2023-10-25 |
 | [Diamonds in the rough](https://open.spotify.com/track/0DltlSIHRJQR74DKrk9dvB) | [Nathan Badu](https://open.spotify.com/artist/3IjtugjO4uMXKRiNDmyAWY) | [Diamonds in the rough](https://open.spotify.com/album/2KSmHJMcHT22zT4qbXj5nz) | 3:36 | 2023-10-19 |  |
 | [Do You Really](https://open.spotify.com/track/4vt4JoGfQ1QaDeHXKxTpUI) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Do You Really](https://open.spotify.com/album/176nPDYntjkybucUj1VlJt) | 3:30 | 2021-12-13 | 2022-10-01 |
 | [Do You?](https://open.spotify.com/track/1wMVd1DxRhwdVtAugMbP2i) | [GaryOAKland](https://open.spotify.com/artist/3ugRqsUUkY3Dxc35llDO07), [Lee Brave](https://open.spotify.com/artist/6RogTcrhOPLlVZaV34LCyp) | [Do You?](https://open.spotify.com/album/6xmjPWzfj0yPFa90CqDaDB) | 3:12 | 2021-12-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Sabby making a late play for your Wrapped #1 artist",
-  "num_followers": 2142097,
+  "num_followers": 2142368,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmMwODEwMjNkOTBkNzBmYjg4ZDk0ZmEwMDk2YzgwZDczODMxOTI3",
+  "snapshot_id": "MCwwZWI2YTIzZjk2Mzg3MDMwYTgxZWRmODA5ODA2NDcyZjE0MmUzMmRh",
   "tracks": [
     {
       "added_at": "2023-10-18 04:00:08",
@@ -269,24 +269,24 @@
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
     },
     {
-      "added_at": "2023-10-19 13:55:11",
+      "added_at": "2023-10-24 04:59:09",
       "album": {
-        "name": "Mean Girls (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf"
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
       "artists": [
         {
-          "name": "Taylor Louderman",
-          "url": "https://open.spotify.com/artist/1f0vGTFXE64SLuypBV8zB0"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         },
         {
-          "name": "Original Broadway Cast of Mean Girls",
-          "url": "https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 203040,
-      "name": "World Burn",
-      "url": "https://open.spotify.com/track/3iISGrl3JKqPQ4GLqPjVkt"
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2023-10-16 14:36:18",
@@ -357,22 +357,6 @@
       "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
     },
     {
-      "added_at": "2023-10-19 17:59:10",
-      "album": {
-        "name": "Good God!",
-        "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
-      },
-      "artists": [
-        {
-          "name": "Rio Romeo",
-          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Nothing's New",
-      "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
-    },
-    {
       "added_at": "2023-10-13 03:59:49",
       "album": {
         "name": "Flicker (Deluxe)",
@@ -387,6 +371,22 @@
       "duration_ms": 232852,
       "name": "This Town",
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
+    },
+    {
+      "added_at": "2023-09-27 15:19:42",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2023-09-19 17:20:25",
@@ -469,20 +469,20 @@
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
-      "added_at": "2023-09-27 15:19:42",
+      "added_at": "2023-10-19 17:59:10",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+        "name": "Good God!",
+        "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
         }
       ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+      "duration_ms": 211000,
+      "name": "Nothing's New",
+      "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
     },
     {
       "added_at": "2023-10-16 13:35:22",
@@ -531,6 +531,26 @@
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+    },
+    {
+      "added_at": "2023-10-19 13:55:11",
+      "album": {
+        "name": "Mean Girls (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Louderman",
+          "url": "https://open.spotify.com/artist/1f0vGTFXE64SLuypBV8zB0"
+        },
+        {
+          "name": "Original Broadway Cast of Mean Girls",
+          "url": "https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu"
+        }
+      ],
+      "duration_ms": 203040,
+      "name": "World Burn",
+      "url": "https://open.spotify.com/track/3iISGrl3JKqPQ4GLqPjVkt"
     },
     {
       "added_at": "2023-09-19 17:20:25",
@@ -999,22 +1019,6 @@
       "duration_ms": 214068,
       "name": "SUCKER 4 GREEN",
       "url": "https://open.spotify.com/track/4C7qGYJ9vMAzX95o2xTdhA"
-    },
-    {
-      "added_at": "2023-09-29 04:00:51",
-      "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206008,
-      "name": "Punchline",
-      "url": "https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf"
     },
     {
       "added_at": "2023-09-19 17:20:25",

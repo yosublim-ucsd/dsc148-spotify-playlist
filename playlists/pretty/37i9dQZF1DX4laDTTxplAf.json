@@ -1,12 +1,12 @@
 {
   "description": "All 00s, all ballads. Cover: Norah Jones",
-  "num_followers": 258927,
+  "num_followers": 259035,
   "original_name": "00s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmIwYWM4YzQzZjM3YjY5ZGQzYzgxYmUxNmJhMWI1NmQyOWE3MTcw",
+  "snapshot_id": "MCwzYzJlMjkyMTc2NjAwYjJlZjI0MDcwMWVjN2JjOTFkZDJiMGYyZDI2",
   "tracks": [
     {
       "added_at": "2021-02-10 17:52:46",
@@ -551,22 +551,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "The Life",
-        "url": "https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt"
-      },
-      "artists": [
-        {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        }
-      ],
-      "duration_ms": 265533,
-      "name": "Differences",
-      "url": "https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 230306,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "The Life",
+        "url": "https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt"
+      },
+      "artists": [
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "Differences",
+      "url": "https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ"
     },
     {
       "added_at": "2021-02-10 17:52:46",

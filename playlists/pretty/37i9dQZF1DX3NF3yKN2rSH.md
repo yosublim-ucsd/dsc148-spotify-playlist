@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,672 likes - 100 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,670 likes - 100 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 50 | [Jesus Is the Answer](https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Classics Vol\. 1](https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE) | 5:03 |
 | 51 | [Jesus I Love You \(Live\)](https://open.spotify.com/track/4hLaRpyVQwU3g1VggcSxPw) | [The Brooklyn Tabernacle Choir](https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs), [Robin Giles](https://open.spotify.com/artist/0gt7HlBDU64IOmHCo5IUn5) | [Live..\. This Is Your House](https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU) | 6:20 |
 | 52 | [They Didn't Know](https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7) | [Kurt Carr](https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH) | [One Church](https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok) | 6:39 |
-| 53 | [Worth Fighting For \- 1 Mic 1 Take](https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Resilience](https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt) | 4:01 |
-| 54 | [Always Jesus](https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tunnel Vision](https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v) | 3:57 |
+| 53 | [Always Jesus](https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tunnel Vision](https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v) | 3:57 |
+| 54 | [Worth Fighting For \- 1 Mic 1 Take](https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Resilience](https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt) | 4:01 |
 | 55 | [Redeemer](https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V) | [Karima](https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE) | [Redeemer](https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs) | 5:17 |
 | 56 | [Finished Work \- Live From Chattanooga, TN](https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [Daniel Johnson](https://open.spotify.com/artist/7MEJq0Z47EF6SzR2XEG1DK) | [The Cry: A Live Worship Experience](https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b) | 7:47 |
 | 57 | [He Got Up](https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK) | [Deacon D.A.S.](https://open.spotify.com/artist/7bFhiDVFVyHqkr1VHBMOVA), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [He Got Up](https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK) | 3:49 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 80 | [Grace](https://open.spotify.com/track/6toqkWDFYdqZo5pTFeCa1E) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [Grace](https://open.spotify.com/album/0f4FkJpd9A2b6rGpK1CMnZ) | 3:27 |
 | 81 | [For the Love of the People](https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Conqueror](https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2) | 2:03 |
 | 82 | [Redeemed](https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb) | [The Winans](https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8) | [Let My People Go](https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t) | 4:57 |
-| 83 | [He Lives](https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57) | [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [He Lives](https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH) | 7:37 |
-| 84 | [The Blood](https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF) | [James Hall Worship & Praise](https://open.spotify.com/artist/4NjzfMUK1vMQUvY15RBFYB) | [Trip Down Memory Lane](https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h) | 7:23 |
+| 83 | [The Blood](https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF) | [James Hall Worship & Praise](https://open.spotify.com/artist/4NjzfMUK1vMQUvY15RBFYB) | [Trip Down Memory Lane](https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h) | 7:23 |
+| 84 | [He Lives](https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57) | [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [He Lives](https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH) | 7:37 |
 | 85 | [Calvary](https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy), [Jason Nicholson\-Porter](https://open.spotify.com/artist/0J41vFW1jyQEmCDNALvGHS) | [Easter Project](https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB) | 5:56 |
 | 86 | [Calvary](https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj) | [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Live in Concert](https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B) | 9:33 |
 | 87 | [Oh Happy Day \(feat\. Shirley Miller\)](https://open.spotify.com/track/6PH0etRGVIaYBpKmXYCHYo) | [Edwin Hawkins](https://open.spotify.com/artist/3IuP2fe32xEYp0GqLxWgmj), [Shirley Miller](https://open.spotify.com/artist/2ADbsiNz0Jv8tMN22OCOyb) | [Oh Happy Day](https://open.spotify.com/album/3v3LltsNgPWSou5ja6Ofjk) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [Calvary](https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Beginnings](https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR) | 5:48 |
 | 100 | [Oh Holy Lamb](https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Live In Detroit II \(Video\)](https://open.spotify.com/album/2En34iMFWvBpbGKZDOwusQ) | 9:05 |
 
-Snapshot ID: `MCw4NTg5MjkyYWU2Y2MwYWUyNjI1YjFjY2NjMjg2ZDRkN2Q1OTRlMzI2`
+Snapshot ID: `MCxiZmVhOTNkZGFjZDYwMDA3YjdkM2YyODY1YzkzNzM0NWQ1MDRkZTE2`

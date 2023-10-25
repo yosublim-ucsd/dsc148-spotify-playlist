@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: VIZE, Leony, Niklas Dee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,792,344 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,792,551 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 |
 | 50 | [High On Life](https://open.spotify.com/track/63yVtv3jDnjMa89SD7uYj2) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [High On Life](https://open.spotify.com/album/0A4eJEZQmWWNB2jPrE0xuR) | 3:19 |
 
-Snapshot ID: `MCxhNTE0NDgwOTFkOTdkMWQ3NTFmZDg1NTNjM2NhOWU0NGNhMmJiMWJj`
+Snapshot ID: `MCw0MjdlYmY4M2JmNjA0MGE3ZDkyN2RlNTQwN2RkZjNkOGQxYzZhZDIx`

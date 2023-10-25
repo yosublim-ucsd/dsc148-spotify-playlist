@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: NASKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,032 likes - 55 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,036 likes - 55 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 41 | [Privé](https://open.spotify.com/track/6Y9rfuFyLJDz4kj2aysvhs) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Privé](https://open.spotify.com/album/0qMfK0pn4oDONHjKDJEAFD) | 3:00 |
 | 42 | [Strappami](https://open.spotify.com/track/2hwhhzr8w5BDJVYYLWINTV) | [FirkLøver](https://open.spotify.com/artist/4565nNjbVvjOjpZjtJnH3R) | [Strappami](https://open.spotify.com/album/1g68iPAK1qMQaC0uRHj98w) | 2:29 |
 | 43 | [Via da me](https://open.spotify.com/track/2SFFxjmuvx91Yt4gCnLTO2) | [Aiden](https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3), [Pi Greco](https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b) | [Via da me](https://open.spotify.com/album/7KWbI2xW8wVSwWQUyKcXFQ) | 3:03 |
-| 44 | [La parte più bella di me \- RMX](https://open.spotify.com/track/3fqElKBSWrAvObrMqx5oP8) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [La parte più bella di me \(RMX\)](https://open.spotify.com/album/2Knm3BBycBMixIas269Ik2) | 2:15 |
+| 44 | [La parte più bella di me \- RMX](https://open.spotify.com/track/0pBKfPHCqniryGa355fuxX) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [La parte più bella di me \(RMX\)](https://open.spotify.com/album/4EwMpauuV16OuTohtrb4Zd) | 2:15 |
 | 45 | [Anni 70](https://open.spotify.com/track/4gExrhPC8TKtMqbO6MrjAP) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Anni 70](https://open.spotify.com/album/3CH6Le8XzQhnzWMQBELzmE) | 2:27 |
 | 46 | [ti sei scordata del mio compleanno](https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN) | [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [cattive abitudini](https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr) | 2:05 |
 | 47 | [Balla \(come la domenica\)](https://open.spotify.com/track/5c5i976D2vDemkPHOMcyDT) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR), [Paps'n'Skar](https://open.spotify.com/artist/7pbBSvkFKdTKLCJl5G1jSV) | [Balla \(come la domenica\)](https://open.spotify.com/album/5hun2luD1TdLOyNPm33U5Z) | 2:46 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 54 | [America](https://open.spotify.com/track/02EpIKMNhihIl6u2j7uK1I) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [Black Mood 2](https://open.spotify.com/album/0w7PADq4AfddY8glHNZN5M) | 2:39 |
 | 55 | [Tulipani Blu](https://open.spotify.com/track/5zBrVEBLgFYJAT63YoxFuO) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b), [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Tulipani Blu](https://open.spotify.com/album/5szcJT2NHzGev98dSKMLpN) | 2:39 |
 
-Snapshot ID: `MCw1MmZmNTc2YmYyMWJiMTFiNzI1ZDc3Y2QxODA2MTE4YzlkNDA3MTk5`
+Snapshot ID: `MCxhMGU5M2VkYmM4ZjdhNTIxMjA1Mjk2MzA5YWUxMTgyZjVkZDg4YjY4`

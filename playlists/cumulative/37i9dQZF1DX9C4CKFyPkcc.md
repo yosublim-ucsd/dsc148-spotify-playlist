@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-197 songs - 11 hr 37 min
+199 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Here to Stay](https://open.spotify.com/track/1bEw72sYBtcZarQ3pstrmc) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq), [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Christmas Eve in Bethlehem \(Deluxe Edition\)](https://open.spotify.com/album/2zpe0u6jgqTdlxZWo92MYa) | 3:38 | 2021-12-24 |  |
 | [Holly Jolly Christmas](https://open.spotify.com/track/6V0o74Ptf4aygUPCT2Wdcu) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [More The Merrier](https://open.spotify.com/album/7o83BpMH6xfIhOfDGxLcpa) | 2:21 | 2021-12-24 |  |
 | [Home](https://open.spotify.com/track/1JArBYjls1EZ996UAJopI3) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3), [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Home](https://open.spotify.com/album/0TxoOroboezaKCvWAwVVpP) | 3:32 | 2021-12-24 |  |
+| [Home for Christmas \(feat\. Joe\) \(feat\. Joe\)](https://open.spotify.com/track/4gGEaTqjTlEK0uf3guEhDI) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Christmas Card](https://open.spotify.com/album/3nDsomMe31JVCIlnaQizwU) | 4:00 | 2022-12-11 |  |
 | [Home This Christmas](https://open.spotify.com/track/4xhpkthtZ505fhk39Amx0K) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown) | [Home This Christmas](https://open.spotify.com/album/3DPjsXVOAFrgnuujEnJyJc) | 3:09 | 2022-12-11 | 2023-03-04 |
 | [Hope's Come to Town](https://open.spotify.com/track/76yElxLOh6tjCQTQrLKxXJ) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Lovkn Christmas: Awaited One](https://open.spotify.com/album/2OlK6S3FFUPYYNzXTzisXE) | 3:08 | 2021-12-24 |  |
 | [I Can Hardly Wait 'Til Christmas](https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Home For Christmas](https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw) | 4:47 | 2021-12-24 |  |
@@ -173,7 +174,8 @@
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-12-24 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/7Fkoq2pfSTpN6Slh05dYYN) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Christmas Waltz](https://open.spotify.com/album/6naVRYaRVpdsD9IUJDJcGF) | 3:16 | 2022-12-11 | 2023-03-23 |
 | [The First Noel](https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [The First Noel](https://open.spotify.com/album/3cszSYyCFlDPrCdcuN2nSe) | 3:23 | 2022-12-11 |  |
-| [The First Noel](https://open.spotify.com/track/2GRgDkptG53UQ91lwukxYv) | [Nonoy Peña](https://open.spotify.com/artist/1dSMhdi4YmecHoyFcSzpaA) | [The First Noel](https://open.spotify.com/album/3czRYtaKj5ogLBo6hND5UV) | 3:08 | 2022-11-26 |  |
+| [The First Noel](https://open.spotify.com/track/2GRgDkptG53UQ91lwukxYv) | [Nonoy Peña](https://open.spotify.com/artist/1dSMhdi4YmecHoyFcSzpaA) | [The First Noel](https://open.spotify.com/album/3czRYtaKj5ogLBo6hND5UV) | 3:08 | 2022-11-26 | 2023-10-25 |
+| [The First Noel](https://open.spotify.com/track/6LKNeprjWU0oP4TcrdNl1s) | [Nonoy Peña](https://open.spotify.com/artist/1dSMhdi4YmecHoyFcSzpaA) | [The First Noel](https://open.spotify.com/album/4SIaHnyHIfpeBqHnMT23vh) | 3:08 | 2022-12-11 |  |
 | [The First Noel](https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The First Noel](https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh) | 4:48 | 2022-12-11 |  |
 | [The First Noël](https://open.spotify.com/track/1SqCZGjHJGeSg1ZuKMDWqD) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/2tNbwGEri8pNkp8AmEf39f) | 4:19 | 2021-12-24 |  |
 | [The Hope for All](https://open.spotify.com/track/6xRhLODIOh065PTQTj9008) | [Soul City Worship](https://open.spotify.com/artist/5LtsEFW2aTWHrlwv5R49pP) | [The Hope for All](https://open.spotify.com/album/6G1ViS0M7AxZ7a3AnICM03) | 4:57 | 2022-12-11 | 2023-09-06 |
@@ -183,7 +185,7 @@
 | [This Christmas](https://open.spotify.com/track/3YtuVGsQpKawpJxH6bctKh) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [This Christmas](https://open.spotify.com/album/0gz7buq3Tup1nzABzoUeSZ) | 2:51 | 2022-12-11 | 2023-09-17 |
 | [This Christmas](https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:17 | 2021-12-24 |  |
 | [This Christmas](https://open.spotify.com/track/3NQcGDkm0I1XFeFSlCWMqt) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [This Christmas](https://open.spotify.com/album/7e7hga6IjsDcKAOpR2hn27) | 3:04 | 2022-11-26 |  |
-| [This Is Christmas](https://open.spotify.com/track/5ZydBDUkvBKXwUmvV3v4mi) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [This Is Christmas](https://open.spotify.com/album/5OhpJQEOrb8Wl0hkv2Wrs7) | 3:30 | 2022-12-11 |  |
+| [This Is Christmas](https://open.spotify.com/track/5ZydBDUkvBKXwUmvV3v4mi) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [This Is Christmas](https://open.spotify.com/album/5OhpJQEOrb8Wl0hkv2Wrs7) | 3:30 | 2022-12-11 | 2023-10-25 |
 | [UNEXPECTED KING](https://open.spotify.com/track/10j0mfFINV55qklpdPkuNx) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [UNEXPECTED KING](https://open.spotify.com/album/7JiiLLPbmDA6fAyfmz3uME) | 3:41 | 2022-12-11 |  |
 | [Unto Us](https://open.spotify.com/track/4CODxRNTaWMIhIRWsqxIOu) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Christmas Hymns](https://open.spotify.com/album/1VXaofVFtZHPCtgMBubW1a) | 2:38 | 2022-12-11 | 2023-04-30 |
 | [Unto Us](https://open.spotify.com/track/74s6HoDu3xKX8zzk56DYBK) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Unto Us](https://open.spotify.com/album/663RXaFX5ngMLhSFDsjFaR) | 4:03 | 2022-11-26 |  |

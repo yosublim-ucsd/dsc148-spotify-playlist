@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 153871,
+  "num_followers": 153915,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTNjZjg0N2U1Yzk1MGIwMWI3NGQyNDAxMmRlMTViOTY4ZjU1YzI1",
+  "snapshot_id": "MCw4MTJmYzM2ZDdjMjVhNDhlYjJiZjE5YzU1NWY2YmEzYjA1NWFmY2Iz",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Brain Cycles",
-        "url": "https://open.spotify.com/album/3f4iLZtqLg1oNhLKNziNAi"
-      },
-      "artists": [
-        {
-          "name": "Radio Moscow",
-          "url": "https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "250 Miles",
-      "url": "https://open.spotify.com/track/0Wze0lWoUjs8TrfLySyzDg"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 278200,
       "name": "Green & Gold",
       "url": "https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Brain Cycles",
+        "url": "https://open.spotify.com/album/3f4iLZtqLg1oNhLKNziNAi"
+      },
+      "artists": [
+        {
+          "name": "Radio Moscow",
+          "url": "https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "250 Miles",
+      "url": "https://open.spotify.com/track/0Wze0lWoUjs8TrfLySyzDg"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Oh My God",
-        "url": "https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 262542,
-      "name": "Sing a Glad Song",
-      "url": "https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 140164,
       "name": "Hippo",
       "url": "https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Oh My God",
+        "url": "https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 262542,
+      "name": "Sing a Glad Song",
+      "url": "https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Fanfare",
-        "url": "https://open.spotify.com/album/5yZL2ILFTbQFb64nD7zXO1"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Wilson",
-          "url": "https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw"
-        }
-      ],
-      "duration_ms": 390666,
-      "name": "Cecil Taylor",
-      "url": "https://open.spotify.com/track/1GCDmw5OI2g1k6CrcVn8wl"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Private Tales",
         "url": "https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 266946,
       "name": "Seaquest",
       "url": "https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Fanfare",
+        "url": "https://open.spotify.com/album/5yZL2ILFTbQFb64nD7zXO1"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Wilson",
+          "url": "https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw"
+        }
+      ],
+      "duration_ms": 390666,
+      "name": "Cecil Taylor",
+      "url": "https://open.spotify.com/track/1GCDmw5OI2g1k6CrcVn8wl"
     },
     {
       "added_at": "2023-09-29 04:00:00",

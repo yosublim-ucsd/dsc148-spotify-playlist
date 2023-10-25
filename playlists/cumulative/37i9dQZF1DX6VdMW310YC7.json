@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 326000,
       "name": "Assassin",
       "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
@@ -6309,6 +6309,24 @@
     },
     {
       "album": {
+        "name": "Do I Go",
+        "url": "https://open.spotify.com/album/4SJrqffwVOdXAhuzl1subk"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214426,
+      "name": "Do I Go",
+      "url": "https://open.spotify.com/track/4IyLuVGX6HpJQfUKrsk63U"
+    },
+    {
+      "album": {
         "name": "Do It Like You",
         "url": "https://open.spotify.com/album/4PKH86wn7Gw4iel2WD564k"
       },
@@ -7002,7 +7020,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 274795,
       "name": "Elenore",
       "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
@@ -11580,7 +11598,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 220625,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch"
@@ -13758,7 +13776,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 164723,
       "name": "Into The Sun - Chill Mix",
       "url": "https://open.spotify.com/track/4bXeqbONCSECKqU3XpA5eT"
@@ -16968,7 +16986,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 271025,
       "name": "Making Time",
       "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
@@ -18026,7 +18044,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 273146,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/7fJ5UGjo2oiNG1pmIboATC"
@@ -18294,7 +18312,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 228011,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY"
@@ -19782,7 +19800,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 164812,
       "name": "Ocean Quiet (Refeci Remix)",
       "url": "https://open.spotify.com/track/14EcgkY4YICkFrujD1NdDp"
@@ -24886,7 +24904,7 @@
       ],
       "date_added": "2020-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 222528,
       "name": "Something Was Real",
       "url": "https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ"
@@ -28836,7 +28854,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 233804,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/5cGBQ9W3XtRuRQFgDklDrI"
@@ -28926,7 +28944,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 222278,
       "name": "Waiting For The Sun",
       "url": "https://open.spotify.com/track/7uzFmJTvgHlDjXWeuM1t0l"

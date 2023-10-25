@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Este junte no sabía que lo necesitaba! Reik y Carin Leon arrancan con la temporada de Halloween, ¿dónde es la fiesta?
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,789 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,946 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 23 | [La Lista](https://open.spotify.com/track/50EiIhBL4GnkHFMPeDAeiV) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [La Lista](https://open.spotify.com/album/0mAXjJLsLQJwRWb34DkUoM) | 3:44 |
 | 24 | [Creo](https://open.spotify.com/track/483LcBcFERGkj6GACcQt8B) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [Creo](https://open.spotify.com/album/6Svp0BONDsBCG7UcoTfKmu) | 3:56 |
 | 25 | [Don't Speak](https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [The Skints](https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1) | [Don't Speak](https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw) | 4:40 |
-| 26 | [Ya te olvidé](https://open.spotify.com/track/3owDgulv6WSRDQg5OTQmcI) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Ya te olvidé](https://open.spotify.com/album/2NcMxRNPuy4UXPYdqv7zpD) | 2:50 |
+| 26 | [Ya te olvidé](https://open.spotify.com/track/3owDgulv6WSRDQg5OTQmcI) | [La Factoria](https://open.spotify.com/artist/1Izb3u2dh0nX6VAyPX4wzz) | [Ya te olvidé](https://open.spotify.com/album/2NcMxRNPuy4UXPYdqv7zpD) | 2:50 |
 | 27 | [Inocente](https://open.spotify.com/track/6UkuCMLfUR73tP39cBmMAW) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Inocente](https://open.spotify.com/album/7kzEdBcv5kzOXeo6aNZlh5) | 3:17 |
 | 28 | [Miami](https://open.spotify.com/track/7aIbtwiuvpJLPOnaPXnz2m) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Miami](https://open.spotify.com/album/3DCWtpUlHvcJUXW4pniHgv) | 2:49 |
 | 29 | [Mil Veces](https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mil Veces](https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Duérmete Clavel](https://open.spotify.com/track/6VZKzU8Gv14NXuSoEP404g) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [CLAR%SCURO](https://open.spotify.com/album/27oMHySev9yNNTbME6hAJL) | 4:42 |
 | 50 | [Niño Malo](https://open.spotify.com/track/6hRqkPeDGXuAwrGQM8762U) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Niño Malo](https://open.spotify.com/album/1p8UdHGoSNCDmPip8MdRCP) | 2:26 |
 
-Snapshot ID: `MCxkM2NmNDE2ZWQyZTAwYjE4ODFiMDE2MzY1NzRjNzY3YmU5ZWIwNjdm`
+Snapshot ID: `MCxhMzM2OGFmMmMxYzkzMmQ2MDNhMzUyMDIxMTFmNzM5ZWE2ZWVmMWEx`

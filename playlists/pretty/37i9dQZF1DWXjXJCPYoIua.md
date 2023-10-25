@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 
 > Rimas finas para inspirarte en el jale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,666 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,798 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 95 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 |
 | 96 | [Afuera Que Tengan Miedo](https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Afuera Que Tengan Miedo](https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51) | 2:43 |
 | 97 | [All My Life](https://open.spotify.com/track/2B4oDTNdmVGVplWTFoSwbx) | [MC Magic](https://open.spotify.com/artist/3cuVSUrq0yoSSP7gpvI6q1), [Nichole](https://open.spotify.com/artist/4NT0dR9aUV38ZdFwQ0knZZ) | [Magic City](https://open.spotify.com/album/7BlkHZxgF2tX7lk12c3DOa) | 3:43 |
-| 98 | [Borrachos Y Grifos](https://open.spotify.com/track/4Moj88SKkcxqFmBLpovzzB) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Borrachos Y Grifos](https://open.spotify.com/album/4g6oslb6tvmkt0NHdstmOP) | 5:16 |
-| 99 | [Neighborhood Music](https://open.spotify.com/track/1R2cccY1X0AKX6TugUKeZ5) | [Lil Rob](https://open.spotify.com/artist/7B7TGqQe7QTVm2U6q8jzk1) | [Neighborhood Music](https://open.spotify.com/album/3TcZqHDaNIFCTogCqRTd4E) | 4:11 |
+| 98 | [Neighborhood Music](https://open.spotify.com/track/1R2cccY1X0AKX6TugUKeZ5) | [Lil Rob](https://open.spotify.com/artist/7B7TGqQe7QTVm2U6q8jzk1) | [Neighborhood Music](https://open.spotify.com/album/3TcZqHDaNIFCTogCqRTd4E) | 4:11 |
+| 99 | [Borrachos Y Grifos](https://open.spotify.com/track/4Moj88SKkcxqFmBLpovzzB) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Borrachos Y Grifos](https://open.spotify.com/album/4g6oslb6tvmkt0NHdstmOP) | 5:16 |
 | 100 | [Hecho En Mexico](https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 4:22 |
 
-Snapshot ID: `MCwxOTY4YTllNmNkMGEyODE5MWU0MTUxNWZiMjU1MDFmZDNlMGFjMjdk`
+Snapshot ID: `MCw3OTU0OGQ5N2U0NzBmZTg4Y2VhZTYzZTBmZjU3MTUyYmI3ZjBlNzRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 > Les classiques du zouk\. Photo : Fanny J
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,500 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,601 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 49 | [Juste nous](https://open.spotify.com/track/7MnZqqg8l7TbxljbR6wpzl) | [Ali Angel](https://open.spotify.com/artist/4Go5t4FdYisfctyaNud3ZD) | [Hit Me…](https://open.spotify.com/album/2YZcaq5pJCqx2oJlANjW3C) | 4:49 |
 | 50 | [Pas de glace](https://open.spotify.com/track/2VatihdEUuhWjzTBw0iNUX) | [Jane Fostin](https://open.spotify.com/artist/1o9vz6gZBwCzkD1dC5sWUO), [Medhy Custos](https://open.spotify.com/artist/4yUROciHRAtEr2S3h33qZd) | [Alibi](https://open.spotify.com/album/0wUtizUcQyIebLLynh4JZq) | 4:05 |
 
-Snapshot ID: `MCxkZmMzZjMwN2ExMmFlMGI2ZTBiYWM5NDRhMDIxZDEwMTIzZmE5YzY1`
+Snapshot ID: `MCw4YTYyZjdkMjNmNTFmODE0MzBhNmNmNGZkMmI5MWNiYjY3YmYyM2Ri`

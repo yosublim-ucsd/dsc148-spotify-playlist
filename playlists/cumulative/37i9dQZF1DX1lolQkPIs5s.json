@@ -2611,6 +2611,28 @@
     },
     {
       "album": {
+        "name": "This Is The Thanks I Get?! (From \"Wish\")",
+        "url": "https://open.spotify.com/album/68aJkU3aeRGUW2p4lGnVzL"
+      },
+      "artists": [
+        {
+          "name": "Chris Pine",
+          "url": "https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "This Is The Thanks I Get?! - From \"Wish\"",
+      "url": "https://open.spotify.com/track/5jzCoRQd6YsKNWy4S3SUsx"
+    },
+    {
+      "album": {
         "name": "This Wish (From \"Wish\")",
         "url": "https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9"
       },

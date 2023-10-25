@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10096,
+  "num_followers": 10101,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTQwNGM4NmMyNjVlZjQ1ZTA0ZTYwNWQ5NTM5ZDY2OWFkN2MyNTNh",
+  "snapshot_id": "MCxkN2Q0M2UwNThiMjExNGJmZTUwM2JmMGE5ZDY5ZDJjOWM0ZDNlNjQ4",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Wotless Carnival Album",
-        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
-      },
-      "artists": [
-        {
-          "name": "KES the Band",
-          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
-        }
-      ],
-      "duration_ms": 218228,
-      "name": "Wotless",
-      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Street Shots 2020: Streets of Kingston",
         "url": "https://open.spotify.com/album/3StTdYfwlRuTvgjDfM00nk"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 144065,
       "name": "Beat Dem Bad",
       "url": "https://open.spotify.com/track/2K7lwIM77amplCz8FCA0RA"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Wotless Carnival Album",
+        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
+      },
+      "artists": [
+        {
+          "name": "KES the Band",
+          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
+        }
+      ],
+      "duration_ms": 218228,
+      "name": "Wotless",
+      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -727,6 +727,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Private Zess",
+        "url": "https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6"
+      },
+      "artists": [
+        {
+          "name": "K Lion",
+          "url": "https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi"
+        },
+        {
+          "name": "LR",
+          "url": "https://open.spotify.com/artist/3TkImpONkqVur05k1iIe7l"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "Private Zess",
+      "url": "https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Conch Shell",
         "url": "https://open.spotify.com/album/2HAyottRa9yxUIiZXx2xLQ"
       },
@@ -767,26 +787,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Private Zess",
-        "url": "https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6"
-      },
-      "artists": [
-        {
-          "name": "K Lion",
-          "url": "https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi"
-        },
-        {
-          "name": "LR",
-          "url": "https://open.spotify.com/artist/3TkImpONkqVur05k1iIe7l"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "Private Zess",
-      "url": "https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Saga Boy",
         "url": "https://open.spotify.com/album/1ijwvFIx4XKoJP5EXsTxXM"
       },
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Lifestyle Riddim",
+        "url": "https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb"
+      },
+      "artists": [
+        {
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Knock About Riddim",
         "url": "https://open.spotify.com/album/0rjdrM2IvkSXQodZMGEoZw"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 176000,
       "name": "We Outside",
       "url": "https://open.spotify.com/track/2tQ4YMW7iOA6pbA4Zb87sT"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Lifestyle Riddim",
-        "url": "https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb"
-      },
-      "artists": [
-        {
-          "name": "Intence",
-          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI"
+      },
+      "artists": [
+        {
+          "name": "Daddy1",
+          "url": "https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi"
+        }
+      ],
+      "duration_ms": 175216,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Local Drum Riddim",
         "url": "https://open.spotify.com/album/6nrr7yxkhFC1GDCNeKoAkD"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 151431,
       "name": "Bad in Bumbum",
       "url": "https://open.spotify.com/track/4NIhpYk93J8Xou2vZt3iIe"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI"
-      },
-      "artists": [
-        {
-          "name": "Daddy1",
-          "url": "https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi"
-        }
-      ],
-      "duration_ms": 175216,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
     },
     {
       "added_at": "2022-02-24 18:00:00",

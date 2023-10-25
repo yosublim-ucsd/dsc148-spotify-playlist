@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Whale In The Pond , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,481 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,500 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 5 | [I met a boy](https://open.spotify.com/track/3fBodzlhvIfiyNN2Bka0rC) | [Ishita Parakh](https://open.spotify.com/artist/0Fb1hND25pyPt3JSQAjIIV) | [I met a boy](https://open.spotify.com/album/3R6BJZrZ5jH98nu0JwNcpH) | 3:00 |
 | 6 | [Gir Jane De](https://open.spotify.com/track/30JVqya4V2cuXMk2HbXewm) | [Prabhanjan](https://open.spotify.com/artist/1G5ur1G4EQjPC5tP6sLYmY), [Riya Goley](https://open.spotify.com/artist/4ySpRlOBEyFbpSla57Tm9B) | [Gir Jane De](https://open.spotify.com/album/3L5stbP9Dc2kM6a0Z5ue8C) | 2:09 |
 | 7 | [Ye Shaamein](https://open.spotify.com/track/7g4qvUQ4URhFVf5h02RxvS) | [Vikaas Vishwakarma](https://open.spotify.com/artist/3MusGpFITCdtSHEeugBc6e), [Ram Chauhan](https://open.spotify.com/artist/3uu3xaa9nGYPpd0hKS3UBd), [Pragati Shahi](https://open.spotify.com/artist/72HKawCTohKafEmA1GEbzq) | [Ye Shaamein](https://open.spotify.com/album/5nGZZK1RhQT1J6tsdogrew) | 3:38 |
-| 8 | [Kehte Hain](https://open.spotify.com/track/5W5SN076eSLD8VSAAEpeOq) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Kehte Hain](https://open.spotify.com/album/44a8q1F9UD3mxEYDhbaPHv) | 3:49 |
+| 8 | [Kehte Hain](https://open.spotify.com/track/5W5SN076eSLD8VSAAEpeOq) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8), [Chazz Bhalla](https://open.spotify.com/artist/1KWkWVcQv13SkHQYNjFu2V), [Ejaz Hussain](https://open.spotify.com/artist/2FizMD1CFXw7ZjLxyWQr9A), [Ritesh Malaney](https://open.spotify.com/artist/24ZPryBZ9nYCORH2EJd29t) | [Kehte Hain](https://open.spotify.com/album/44a8q1F9UD3mxEYDhbaPHv) | 3:49 |
 | 9 | [Saansein](https://open.spotify.com/track/5L0tuFBJijhDF811yx6YAS) | [Underground Authority](https://open.spotify.com/artist/3J8yboH4lCQSwGjmqW9ggG) | [Saansein](https://open.spotify.com/album/6KSwR9LuHgQhlAJd2X7D1l) | 3:45 |
 | 10 | [On The Mend](https://open.spotify.com/track/3XqsS2DtLgZVHE8mqSvPcb) | [Nikhil D Almeida](https://open.spotify.com/artist/6qFyqRvBgi7lbJoD5Fr3j3) | [On The Mend](https://open.spotify.com/album/6a2pMBl8wk5ZPkkdz0nK5H) | 2:32 |
 | 11 | [Qareeb](https://open.spotify.com/track/46BZNOFxbWjXYtel6YqXzJ) | [Gaurang Jhalani](https://open.spotify.com/artist/7uIHPoefWztevk3VYRrBtw) | [Qareeb](https://open.spotify.com/album/373PAzTNR258UYN6KNVKX7) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Aao Zara](https://open.spotify.com/track/6Zc1kIVs8fAt5Rol3CjQg4) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Aao Zara](https://open.spotify.com/album/4QvcSQ2zjaoAGmk8ZZzCvI) | 3:42 |
 | 100 | [Humdum Tera](https://open.spotify.com/track/0dCicXrl4h0lO087jMm5hM) | [Rachit Shrivastava](https://open.spotify.com/artist/5k3Iw8VrxwZyFdi4dBPeBn), [Swapnil Tare](https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax) | [Humdum Tera](https://open.spotify.com/album/2XNwrtWLOTLXj5W4VQ1Ara) | 3:09 |
 
-Snapshot ID: `MCwyOTA2M2QyZWIxZmRiZDM1NDk5ZDFmNDkyMTc2ZjlhZTVkZjk2N2Jm`
+Snapshot ID: `MCw0ZTVmYTA5ZDM5NzZjNjhkY2MwMTk5ZWQ1NzM5NTViNThkYjcxYjkx`

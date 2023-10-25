@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist\. Cover: Azawi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,855 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,857 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 11 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 |
 | 12 | [Biwamiel](https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er) | [Udulele](https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY), [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Biwamiel](https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa) | 2:35 |
 | 13 | [Tutu Mama](https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG) | [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Bedroom Essentials](https://open.spotify.com/album/1UNHyhwVrEpDXadpnPQeF4) | 3:06 |
-| 14 | [Cinderella](https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Cinderella](https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2) | 3:47 |
-| 15 | [Omukwano \(Love\)](https://open.spotify.com/track/0OwVXpiH4Mikje2le0NQrG) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Omukwano \(Love\)](https://open.spotify.com/album/1DvxeF75SryYMeYsarF6NN) | 3:03 |
+| 14 | [Omukwano \(Love\)](https://open.spotify.com/track/0OwVXpiH4Mikje2le0NQrG) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Omukwano \(Love\)](https://open.spotify.com/album/1DvxeF75SryYMeYsarF6NN) | 3:03 |
+| 15 | [Cinderella](https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Cinderella](https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2) | 3:47 |
 | 16 | [One Bite](https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [One Bite](https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO) | 2:54 |
 | 17 | [Nkujjukira](https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkujjukira](https://open.spotify.com/album/57ag105JslVN8kfhARNrL3) | 3:05 |
 | 18 | [Lucky Day](https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [SANKOFA](https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC) | 2:09 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 39 | [Kika Buka](https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kika Buka](https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc) | 2:36 |
 | 40 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 |
 | 41 | [Singa](https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Singa](https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9) | 3:17 |
-| 42 | [Pretty Young Thing](https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Pretty Young Thing](https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF) | 3:10 |
-| 43 | [Mama I Made It](https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 2:17 |
+| 42 | [Mama I Made It](https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 2:17 |
+| 43 | [Pretty Young Thing](https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Pretty Young Thing](https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF) | 3:10 |
 | 44 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 |
 | 45 | [Wanting Me](https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Wanting Me](https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b) | 2:45 |
 | 46 | [Tattoo](https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ), [Caspian Marvin](https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU) | [Tattoo](https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB) | 3:34 |
-| 47 | [Kikole](https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK) | [Runbouy](https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4) | [Kikole](https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH) | 3:36 |
-| 48 | [I Do](https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [I Do](https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj) | 3:08 |
-| 49 | [Chai We Njaye](https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m) | [Omutume Planet](https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp) | [Chai We Njaye](https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc) | 2:45 |
-| 50 | [Freedom](https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Freedom](https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS) | 2:54 |
+| 47 | [Chai We Njaye](https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m) | [Omutume Planet](https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp) | [Chai We Njaye](https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc) | 2:45 |
+| 48 | [Freedom](https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Freedom](https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS) | 2:54 |
+| 49 | [Kikole](https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK) | [Runbouy](https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4) | [Kikole](https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH) | 3:36 |
+| 50 | [Gukuba](https://open.spotify.com/track/17rKr1FfnEDzA1LfyoAZqx) | [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6), [Vyroota](https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R) | [Gukuba](https://open.spotify.com/album/2sGJOLxu38C9Fzin1iwB8z) | 2:52 |
 
-Snapshot ID: `MCw1OTIyZTAwYTAyM2UyNDM3MTY2Mjg5ODI4YjBlNDI3ZDEwOTQyMTNl`
+Snapshot ID: `MCw5ZWE1Y2RmNjhlM2EyZWNlNDFjY2NlMmY3NDU2MWI5MGMwMjY3YTAz`

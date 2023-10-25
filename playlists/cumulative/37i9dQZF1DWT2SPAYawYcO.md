@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Jung Kook, The Kid LAROI & Central Cee
 
-1,760 songs - 3 day 22 hr 58 min
+1,760 songs - 3 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1231,7 +1231,7 @@
 | [Pretty Girl \(Teine Aulelei\)](https://open.spotify.com/track/6IEcLmbHyP3nPaKc2L7LZl) | [Vince Harder](https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M) | [Pretty Girl \(Teine Aulelei\)](https://open.spotify.com/album/5MU4ri3gJ6JK3YMiKmS0B7) | 4:11 | 2023-09-14 | 2023-09-22 |
 | [Pretty Girl \(with Rema\)](https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Pretty Girl \(with Rema\)](https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH) | 2:17 | 2023-10-13 | 2023-10-20 |
 | [Pretty Girls](https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:26 | 2023-08-17 | 2023-08-25 |
-| [PRETTY GIRLS](https://open.spotify.com/track/2TegXzhcQonA9Lv8fBzIco) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [PRETTY GIRLS](https://open.spotify.com/album/4vdZ3KWw1hi6yTMQ0WSvEZ) | 3:13 | 2023-10-19 |  |
+| [PRETTY GIRLS](https://open.spotify.com/track/2TegXzhcQonA9Lv8fBzIco) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [PRETTY GIRLS](https://open.spotify.com/album/4vdZ3KWw1hi6yTMQ0WSvEZ) | 2:50 | 2023-10-19 |  |
 | [PRETTYBOY!](https://open.spotify.com/track/18MZbVjTlMi6Hd1CYOOc33) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PRETTYBOY!](https://open.spotify.com/album/4isWgXL9r0Jq4OCMeTbeyl) | 4:05 | 2023-07-07 | 2023-07-14 |
 | [Problematic](https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Lucid Dreams](https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY) | 2:44 | 2023-10-05 | 2023-10-13 |
 | [problems \(feat\. Trippie Redd\)](https://open.spotify.com/track/6KpF6zZId94bNg4zoz5mIa) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [problems \(feat\. Trippie Redd\)](https://open.spotify.com/album/79lTZVUHdaqLkj814XzZxw) | 2:32 | 2023-09-15 | 2023-09-22 |

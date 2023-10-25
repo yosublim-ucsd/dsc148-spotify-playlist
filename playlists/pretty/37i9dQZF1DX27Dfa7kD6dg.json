@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 26638,
+  "num_followers": 26699,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWU0MWZiMWI0MmUzY2Q4Yjc3ODU4NTU4YTAyNWJiMmU3NDJiZmY1",
+  "snapshot_id": "MCw1YjBkYTY4Y2ZhODQzZjUyZmQwZGI1NDhjYjZlOWM1ODc3MzFkZDVh",
   "tracks": [
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1367,22 +1367,18 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "La Epoca de Oro, Vol. 1",
-        "url": "https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui"
+        "name": "Live in Berlin",
+        "url": "https://open.spotify.com/album/0fKzk4CCTilGtw4T4lBxFi"
       },
       "artists": [
         {
-          "name": "Cortijo Y Su Combo",
-          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
-        },
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+          "name": "Vocal Sampling",
+          "url": "https://open.spotify.com/artist/5WNsC1A1Bg1bCkylOw3bpD"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Tutuneco",
-      "url": "https://open.spotify.com/track/2rGtqPVV2JQPkuxH3HRiu2"
+      "duration_ms": 259800,
+      "name": "La Negra Tomasa",
+      "url": "https://open.spotify.com/track/2gfri3SpCftv9UAqNJ1IDD"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1407,18 +1403,22 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Live in Berlin",
-        "url": "https://open.spotify.com/album/0fKzk4CCTilGtw4T4lBxFi"
+        "name": "La Epoca de Oro, Vol. 1",
+        "url": "https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui"
       },
       "artists": [
         {
-          "name": "Vocal Sampling",
-          "url": "https://open.spotify.com/artist/5WNsC1A1Bg1bCkylOw3bpD"
+          "name": "Cortijo Y Su Combo",
+          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
+        },
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
         }
       ],
-      "duration_ms": 259800,
-      "name": "La Negra Tomasa",
-      "url": "https://open.spotify.com/track/2gfri3SpCftv9UAqNJ1IDD"
+      "duration_ms": 158400,
+      "name": "Tutuneco",
+      "url": "https://open.spotify.com/track/2rGtqPVV2JQPkuxH3HRiu2"
     },
     {
       "added_at": "2023-10-19 19:33:34",

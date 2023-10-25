@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DANSAR ALDRIG NYKTER!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,217 likes - 100 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,262 likes - 100 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 42 | [FLICKOR BAK I BILEN](https://open.spotify.com/track/6l7E7Qe1YjGiAuumtj5R6U) | [Mr DUNK](https://open.spotify.com/artist/1JU1mufjlVqdr9iu5at4qt), [AiA](https://open.spotify.com/artist/10CqxrG6uGQyRqIj8x7oxB) | [FLICKOR BAK I BILEN](https://open.spotify.com/album/21BxTgtthTPefP1e7gXVtV) | 2:13 |
 | 43 | [Välkommen in](https://open.spotify.com/track/0U27rCNgFuBlk9WwRyClOp) | [Dolores](https://open.spotify.com/artist/4qyhURA0g9oibogcNPMZaP) | [Välkommen in](https://open.spotify.com/album/7Hf4qCMoZANvgHCbVlkNPd) | 1:52 |
 | 44 | [RAGGARHIMLEN](https://open.spotify.com/track/0MN7D4GKZjeGrsxbiW1z7J) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [RAGGARHIMLEN](https://open.spotify.com/album/2TZaRMvxwjuvUZfroPmNpm) | 2:35 |
-| 45 | [En riktig Volvo EPA \- DJ Grillvante Remix](https://open.spotify.com/track/42ywLpSbvcjtipQGSR1KGS) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [Landsvägsserenader](https://open.spotify.com/album/2saRKmaDdrDwo94tvvtERL) | 3:12 |
+| 45 | [En riktig Volvo EPA \- DJ Grillvante Remix](https://open.spotify.com/track/42ywLpSbvcjtipQGSR1KGS) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3), [DJ Grillvante](https://open.spotify.com/artist/4dvpapP7dm2oCP7fUdiO5g) | [Landsvägsserenader](https://open.spotify.com/album/2saRKmaDdrDwo94tvvtERL) | 3:12 |
 | 46 | [SKEVA BIL](https://open.spotify.com/track/1tOSNNkVKi3AXyHqGsx8kR) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Daddy D](https://open.spotify.com/artist/2ZWlrFjP8qFJ095VYXr71f) | [SKEVA BIL](https://open.spotify.com/album/30I1erayJvUxp9pPEZSGRb) | 2:28 |
 | 47 | [SÅ MÅNGA MIL, SÅ MÅNGA ÅR...](https://open.spotify.com/track/3yE566OGWBAZ6Z6SuosfFQ) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [SÅ MÅNGA MIL, SÅ MÅNGA ÅR...](https://open.spotify.com/album/0pgqOhQRFL2n6if9pbcvGs) | 3:01 |
 | 48 | [LYSSNA PÅ DANSBAND](https://open.spotify.com/track/7j3PRUN9gcgcRsxCDfseCU) | [Coola Kids](https://open.spotify.com/artist/3XmHBwGYiLNWThAP4F82fq), [Alkis](https://open.spotify.com/artist/4du4gxnCGpDsJHYfCL66WD) | [LYSSNA PÅ DANSBAND](https://open.spotify.com/album/0oaIlZp9PCHir7mnNyic3Q) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [FUCKED UP \- Hansell Remix](https://open.spotify.com/track/60S5aC7jL01SqODVWDhBWO) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Hansell](https://open.spotify.com/artist/3Ee7c4D7yYLLub3zKe5j7J) | [FUCKED UP \(Hansell Remix\)](https://open.spotify.com/album/4iNEU8AqrNa1dDYKcnp8o8) | 1:50 |
 | 100 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 |
 
-Snapshot ID: `MCw0YjE4NTQ3OTkzODI1MjdkYjRjOTliNTY1OGJhN2U4ZTc4ZmIyOWI4`
+Snapshot ID: `MCxlYWU3MDg0NTUyODM2ZjhiMzIxYjcwYTNmYWEzNWMyNDJiM2RjMDQ1`

@@ -4,7 +4,7 @@
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-82 songs - 3 hr 44 min
+84 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/track/7KaqgncCU5AuJyZeA7CGne) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/album/5NEoedZHX7AuDcrpOZJslv) | 2:44 | 2023-09-27 |  |
 | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/track/5loBbZKs1cj4HTHaLIaTSn) | [Jill Pitz](https://open.spotify.com/artist/0q4Gc8YuoF6mB9RHIi9FDQ), [Marjorie Hanna](https://open.spotify.com/artist/2QYf4fFPNKLq2miKubXR0n) | [The First Noel](https://open.spotify.com/album/123hrI7QAnWUXiZHVgKHca) | 1:59 | 2021-11-19 | 2023-09-28 |
 | [Little Drummer Boy](https://open.spotify.com/track/5XrtgOxGZoczbEdIjCHNJp) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple II](https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4) | 4:03 | 2021-11-19 |  |
+| [O Come, All Ye Faithful](https://open.spotify.com/track/0TtPfPGcVawHTlLI8ckF3f) | [Eternal Hands](https://open.spotify.com/artist/16eZQHN2Px0yh5pdPsEGvz) | [O Come, All Ye Faithful](https://open.spotify.com/album/6jAZnvcbyBJPHmpbxr4wGg) | 2:11 | 2023-10-24 |  |
 | [O Come, O Come Emmanuel](https://open.spotify.com/track/0hhFft1zhB30uAOSyw7zS1) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [O Come, O Come Emmanuel](https://open.spotify.com/album/2MEUOyPkGaTa0jLxXLksGG) | 2:05 | 2023-10-18 |  |
 | [O Come, O Come Emmanuel 2018](https://open.spotify.com/track/0Xy3LwJFQfx7yQRRgdG5Wo) | [Louis Landon](https://open.spotify.com/artist/43Ybg5x9TrGovf70jSMzah) | [O Come, O Come Emmanuel 2018](https://open.spotify.com/album/2XSpLg6Gri2GupXZxP7K6j) | 3:05 | 2021-11-19 | 2023-10-19 |
 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/6wxLTjOG4U4rC9CWxGhWxu) | [Hak Huyun Lee](https://open.spotify.com/artist/2VMRqziWudDq6EOm3uId9N) | [X\-Mas](https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7) | 2:52 | 2021-11-19 | 2023-10-19 |
@@ -67,7 +68,7 @@
 | [O Tannenbaum](https://open.spotify.com/track/6qIgnz0yHDeMzYVZnmMCen) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Silent Night](https://open.spotify.com/album/5NzYBUOkslN8o3SRDxj620) | 2:30 | 2022-11-11 | 2022-12-03 |
 | [O Tannenbaum](https://open.spotify.com/track/6x3dy83g7vEmzd6z8wCVhK) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas](https://open.spotify.com/album/4dZqm3SWryHNPXOPJ39AyP) | 2:30 | 2022-12-05 | 2023-10-16 |
 | [O Tannenbaum](https://open.spotify.com/track/3giODUg7yq7Noolv09NY7Y) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 2:32 | 2023-10-11 |  |
-| [Oh Come All Ye Faithful](https://open.spotify.com/track/2bFvadJJ8s0NKFnseW1L3R) | [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [Oh Come All Ye Faithful](https://open.spotify.com/album/0O1s5cB1Fg7gbpaZBaKF0k) | 2:32 | 2023-09-27 |  |
+| [Oh Come All Ye Faithful](https://open.spotify.com/track/2bFvadJJ8s0NKFnseW1L3R) | [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [Oh Come All Ye Faithful](https://open.spotify.com/album/0O1s5cB1Fg7gbpaZBaKF0k) | 2:32 | 2023-09-27 | 2023-10-25 |
 | [Oh Come All Ye Faithful \(Strings\)](https://open.spotify.com/track/6WbnXKhylRQFICMaE7PtTA) | [Jennifer Saran](https://open.spotify.com/artist/6jVs08HTU1scgge7NaxAed) | [Merry Christmas, You Are Loved](https://open.spotify.com/album/1g2H5XhcLDVcUenGT2MOtw) | 0:55 | 2021-11-19 | 2023-09-28 |
 | [Once In Royal Davids City](https://open.spotify.com/track/4PzC5QA9SkhDMO7MCItZXx) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas](https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv) | 2:52 | 2021-11-19 |  |
 | [Sans Day Carol](https://open.spotify.com/track/17ECD7z521qoJRhO6N3iDB) | [Ken Dorset](https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI) | [Sans Day Carol](https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7) | 2:41 | 2021-11-19 |  |
@@ -78,7 +79,8 @@
 | [Star of Bethlehem](https://open.spotify.com/track/1B96IivJCEW4s9d7yODqZa) | [Emma Shynes](https://open.spotify.com/artist/7ie1xJZZDKyTGc3FxBTjTd) | [Star of Bethlehem](https://open.spotify.com/album/6VZJBmEQ9FbMmWDYuyxCN8) | 3:07 | 2021-11-19 |  |
 | [Sussex Carol](https://open.spotify.com/track/1vCKQqP4EIInHeXIAmaaKi) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:25 | 2021-11-19 |  |
 | [The Coventry Carol](https://open.spotify.com/track/1qRLuNPkZL4NcTvhbrn6yI) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:16 | 2021-11-19 |  |
-| [The First Noel](https://open.spotify.com/track/1hYK7uOlnJ6kvMkdPsFQ5l) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Upright Sketches, Winter Carols](https://open.spotify.com/album/1YHbzjlMq9UIyGWZmaFOc5) | 3:28 | 2021-11-19 |  |
+| [The First Noel](https://open.spotify.com/track/1hYK7uOlnJ6kvMkdPsFQ5l) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Upright Sketches, Winter Carols](https://open.spotify.com/album/1YHbzjlMq9UIyGWZmaFOc5) | 3:28 | 2021-11-19 | 2023-10-25 |
+| [The First Noel](https://open.spotify.com/track/47bpAl4y8LNNiyZFC26A2M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [The First Noel](https://open.spotify.com/album/0Yo7z3fUoLc6D1q5Xy9QYi) | 2:00 | 2023-10-24 |  |
 | [The Holly & The Ivy](https://open.spotify.com/track/3DfDRcNWGsOmSQ8eRKi46c) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Dinner](https://open.spotify.com/album/2oEoV2IoVHqm3VT7K5WUQ6) | 4:19 | 2022-11-09 | 2022-11-13 |
 | [The Holly & The Ivy](https://open.spotify.com/track/1xDE4ZqjA6Oi8yxIRn8goX) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Romance](https://open.spotify.com/album/5iSA8cwqAeL2Ep7RcnT62N) | 4:19 | 2021-11-19 |  |
 | [The Holly & the Ivy](https://open.spotify.com/track/7EJ27XsIcR0S5V9lQLbP2d) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Romance \(Deluxe Edition\)](https://open.spotify.com/album/4KCW2gVyGEUjBTOFLRgByk) | 4:19 | 2021-11-19 | 2022-07-29 |

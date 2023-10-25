@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-259 songs - 11 hr 23 min
+260 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Auf Wiederseh'n Sweetheart \- 2017 Version](https://open.spotify.com/track/2G5JMxVzmyWegACgF9oPuK) | [Vera Lynn](https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS) | [Vera Lynn 100](https://open.spotify.com/album/7JjLxpLEneo0xR443K9gUf) | 2:40 | 2020-07-08 | 2022-06-20 |
 | [Auf Wiederseh'n Sweetheart \- 2017 Version](https://open.spotify.com/track/3rIhZKroSQQjNcgGQsdaJF) | [Vera Lynn](https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS) | [Vera Lynn 100](https://open.spotify.com/album/2DWg5EgpevBgYN4lwSyBXU) | 2:40 | 2020-07-08 | 2023-10-09 |
 | [Banana Boat Song](https://open.spotify.com/track/3oY0qu8PC5gf7DkXP6ANx3) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Banana Boat Song](https://open.spotify.com/album/10fE4grc2jJr9G292IxCZA) | 3:04 | 2020-07-08 |  |
-| [Band of Gold \(with Ray Conniff & His Orchestra & Chorus\)](https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd) | [Don Cherry](https://open.spotify.com/artist/3uOUFs61rANc8dETV3OfID), [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [The Best of Don Cherry](https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4) | 2:35 | 2020-07-08 |  |
+| [Band of Gold \(with Ray Conniff & His Orchestra & Chorus\)](https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd) | [Don Cherry](https://open.spotify.com/artist/3uOUFs61rANc8dETV3OfID), [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [The Best of Don Cherry](https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4) | 2:35 | 2020-07-08 | 2023-10-25 |
 | [Be Bop a Lula](https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx) | [Saga All Stars: Be Bop a Lula / 1956](https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs) | 2:36 | 2020-07-08 | 2022-07-29 |
 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 | 2020-07-08 | 2023-09-15 |
 | [Bell Bottom Blues](https://open.spotify.com/track/5pEEoyopjRqfQdhgEEqLbu) | [Alma Cogan](https://open.spotify.com/artist/0oGo1uX2IixGBLb3fsiVnK) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 2:35 | 2020-07-08 | 2022-07-28 |
@@ -267,5 +267,6 @@
 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 | 2020-07-08 |  |
 | [Young Love](https://open.spotify.com/track/0fxGmAXY63q33mpOJdZlZ2) | [Tab Hunter](https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe) | [Dreamboats & Petticoats \- 10th Anniversary Collection](https://open.spotify.com/album/6irHfPP8fECBbyKDczgiIP) | 2:18 | 2020-07-08 | 2022-07-29 |
 | [Young Love](https://open.spotify.com/track/3f447padVRsEa7JrtRNJhT) | [Tab Hunter](https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe) | [The Young Love of Tab Hunter](https://open.spotify.com/album/42j5U2yHrzwOsXQnzkmk4j) | 2:26 | 2020-07-08 | 2023-09-25 |
+| [Young Love](https://open.spotify.com/track/5i2vPavoa6l4Qq9yV8Z1Na) | [Tab Hunter](https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe) | [Presenting Tab Hunter](https://open.spotify.com/album/3lOuKdCgV2FN2v2iY00LZw) | 2:26 | 2023-10-17 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > vibe out w some 🇵🇭 R&B Cover: Lo ki
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,319 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,454 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 | 49 | [MANATILI](https://open.spotify.com/track/1Zfwa2mECtqzy3fd97kNm5) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [MANATILI](https://open.spotify.com/album/0RMKf66jtbEHpk5tskbfws) | 2:42 |
 | 50 | [Co\-Pilot](https://open.spotify.com/track/3q2Sp5xZP5nvBbmIQTxvYA) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [JOLO](https://open.spotify.com/artist/1r5cXPqjg3R4Q1FpKG1UJs), [Rjay Ty](https://open.spotify.com/artist/6LCHWj94a1aMMGf3L3CVhx) | [Flight School Era](https://open.spotify.com/album/0DL6JoUUC5rYlexcZFACeN) | 4:10 |
 
-Snapshot ID: `MCw4NWVlNDE2MTM2NzkyODI1ZjczYmQ2OWM0NjJjZmExNzBlM2FiNTNk`
+Snapshot ID: `MCwxZjcwOGFhMzg5MTkwMjVkYzk0NWQ2ZTFkNTRiOWJiMzU4YzQyNzdj`

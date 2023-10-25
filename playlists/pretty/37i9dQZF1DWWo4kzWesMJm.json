@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 137799,
+  "num_followers": 137885,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWQ2ODUxMGNiMWJhMDcyMGNiNDk4MGEwZWM5YjQxMDQwYWE2NDRi",
+  "snapshot_id": "MCxhM2I4NDJkOTU1OGYyNzY3MzQyN2NiZTE5ZDVkZGY4MDhjNzJjODFm",
   "tracks": [
     {
       "added_at": "2023-05-23 12:45:45",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Nonante-Cinq",
-        "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 164956,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Il suffit d'y croire (Version deluxe)",
         "url": "https://open.spotify.com/album/6jQJaCZB3mCM73p7JE5XNJ"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 172626,
       "name": "Je vous trouve un charme fou - En duo avec Ga\u00ebtan Roussel",
       "url": "https://open.spotify.com/track/0C2yaSWVgCUiiqPyYxSOkd"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Nonante-Cinq",
+        "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Dure limite (Remasteris\u00e9 en 2015)",
-        "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9l\u00e9phone",
-          "url": "https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "Cendrillon - Remasteris\u00e9 en 2015",
-      "url": "https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "caravane",
         "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 210706,
       "name": "Le chemin (feat. Sita)",
       "url": "https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Dure limite (Remasteris\u00e9 en 2015)",
+        "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9l\u00e9phone",
+          "url": "https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "Cendrillon - Remasteris\u00e9 en 2015",
+      "url": "https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "D\u00e9cembre en \u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/34FJDy2QrV2gMESfcL2Kxf"
-      },
-      "artists": [
-        {
-          "name": "Da Silva",
-          "url": "https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X"
-        }
-      ],
-      "duration_ms": 185065,
-      "name": "L'ind\u00e9cision",
-      "url": "https://open.spotify.com/track/41zrRHYHY72LCf2hzaK18z"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Sacha Distel: Crooner",
         "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 123053,
       "name": "La belle vie",
       "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "D\u00e9cembre en \u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/34FJDy2QrV2gMESfcL2Kxf"
+      },
+      "artists": [
+        {
+          "name": "Da Silva",
+          "url": "https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X"
+        }
+      ],
+      "duration_ms": 185065,
+      "name": "L'ind\u00e9cision",
+      "url": "https://open.spotify.com/track/41zrRHYHY72LCf2hzaK18z"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "En passant",
-        "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Bonne id\u00e9e",
-      "url": "https://open.spotify.com/track/4GP7DvuweWXuqTNAdUmnEa"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Ailleurs Land",
         "url": "https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 204546,
       "name": "Ma libert\u00e9 de penser",
       "url": "https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "En passant",
+        "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Bonne id\u00e9e",
+      "url": "https://open.spotify.com/track/4GP7DvuweWXuqTNAdUmnEa"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "La recette",
-        "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
-      },
-      "artists": [
-        {
-          "name": "Slimane",
-          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
-        }
-      ],
-      "duration_ms": 197691,
-      "name": "La recette",
-      "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Les feux d'artifice",
         "url": "https://open.spotify.com/album/4ZtEVWnShn3yATqGn1JTWh"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 294173,
       "name": "Un jour au mauvais endroit",
       "url": "https://open.spotify.com/track/7ncNqIzXGRrKdP6C9fQUbm"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "La recette",
+        "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "duration_ms": 197691,
+      "name": "La recette",
+      "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Meilleurs souvenirs - Best Of",
-        "url": "https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg"
-      },
-      "artists": [
-        {
-          "name": "Les Innocents",
-          "url": "https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "L'autre finist\u00e8re",
-      "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Seul",
         "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 281373,
       "name": "Seul",
       "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Meilleurs souvenirs - Best Of",
+        "url": "https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg"
+      },
+      "artists": [
+        {
+          "name": "Les Innocents",
+          "url": "https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "L'autre finist\u00e8re",
+      "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
+        "name": "Cats On Trees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
+      },
+      "artists": [
+        {
+          "name": "Cats On Trees",
+          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
+        },
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "duration_ms": 176618,
+      "name": "Jimmy",
+      "url": "https://open.spotify.com/track/5rjHhZb8nSQJZZSIGtt78N"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
         "name": "In\u00e9dits 1968-1998",
         "url": "https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 178133,
       "name": "Le lion est mort ce soir",
       "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
-        "name": "Cats On Trees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
-      },
-      "artists": [
-        {
-          "name": "Cats On Trees",
-          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
-        },
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        }
-      ],
-      "duration_ms": 176618,
-      "name": "Jimmy",
-      "url": "https://open.spotify.com/track/5rjHhZb8nSQJZZSIGtt78N"
     },
     {
       "added_at": "2023-05-23 12:45:45",

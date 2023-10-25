@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: 藤井 風
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,004 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,215 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [無限さ](https://open.spotify.com/track/5hXzy6s8VF91bebMSzsd8O) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [無限さ](https://open.spotify.com/album/69vfAcogRrDZ6sHa9zoGjZ) | 4:01 |
 | 50 | [ナイモノネダリ](https://open.spotify.com/track/6UkpdAIJ2IIPCod7RxWkL0) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [ナイモノネダリ](https://open.spotify.com/album/0kJHPrDlgnJ3xWGEHco0lQ) | 3:35 |
 
-Snapshot ID: `MCw5MGRjM2ZlNGQzMDBkN2ViM2M5ZTdmNDQ5NzE2MTAzZWE4MzQwYWRl`
+Snapshot ID: `MCxjN2MzYTBmNWNlZDNmMzUyMDBiNzE4NTBmYzA4ODM5MTgxNzJmODY5`

@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 112224,
+  "num_followers": 112317,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGE4NzkzNjRhZWQ3N2NhZjQ2YzM4ODg1YWE1MDk3OGRmNWJmN2Nj",
+  "snapshot_id": "MCwxNDBmYjgyOGZkYWFhMDMwMTVmNTc5ZWRlMDRlNmIzMWUwODg0MWUz",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "The Wait: Silence The Noise (Live)",
+        "url": "https://open.spotify.com/album/3DieBlaZb3oBUjd8Stuxjd"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 296320,
+      "name": "I Will Wait - Live",
+      "url": "https://open.spotify.com/track/61w1MUwkJwRYUD4Wxn7dHz"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Neighbor Songs",
         "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 241600,
       "name": "Daughters of Zion",
       "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "The Wait: Silence The Noise (Live)",
-        "url": "https://open.spotify.com/album/3DieBlaZb3oBUjd8Stuxjd"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 296320,
-      "name": "I Will Wait - Live",
-      "url": "https://open.spotify.com/track/61w1MUwkJwRYUD4Wxn7dHz"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Another In The Fire (Studio)",
+        "url": "https://open.spotify.com/album/4kbVuaRR0ZcyqGOJViSwCE"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 265518,
+      "name": "Another In The Fire - Studio",
+      "url": "https://open.spotify.com/track/5zFwuCz6eVUrSq9MsuAqs9"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Spirit Of God",
         "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 320867,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/0md6zrFb7nhh9Gxr2hdUuo"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Another In The Fire (Studio)",
-        "url": "https://open.spotify.com/album/4kbVuaRR0ZcyqGOJViSwCE"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 265518,
-      "name": "Another In The Fire - Studio",
-      "url": "https://open.spotify.com/track/5zFwuCz6eVUrSq9MsuAqs9"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "I Stand Amazed",
+        "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
+      },
+      "artists": [
+        {
+          "name": "Reach City Worship",
+          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "I Stand Amazed",
+      "url": "https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/32Wr0t52xLB961RcVbsfDI"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 320080,
       "name": "You Are Fullness",
       "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "I Stand Amazed",
-        "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
-      },
-      "artists": [
-        {
-          "name": "Reach City Worship",
-          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "I Stand Amazed",
-      "url": "https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1539,30 +1539,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "For the Time We Have",
-        "url": "https://open.spotify.com/album/33lHJKIJxiCFKvpzFgaf2M"
-      },
-      "artists": [
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        },
-        {
-          "name": "Tehillah Fouch\u00e9",
-          "url": "https://open.spotify.com/artist/4e4R5WARcIRX74FVtUqA0v"
-        },
-        {
-          "name": "Connor Stephen",
-          "url": "https://open.spotify.com/artist/6UUsLigVXqT2R8nKj06sUa"
-        }
-      ],
-      "duration_ms": 206923,
-      "name": "For the Time We Have",
-      "url": "https://open.spotify.com/track/3V7L3BpcEpcup3Xon1ywMg"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "My Worship (Live)",
         "url": "https://open.spotify.com/album/1FE5cVevOjLl6SauUbrEM6"
       },
@@ -1583,6 +1559,30 @@
       "duration_ms": 459120,
       "name": "My Worship - Live",
       "url": "https://open.spotify.com/track/0CaD1v9lFnjI5jc1Ao34Ju"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "For the Time We Have",
+        "url": "https://open.spotify.com/album/33lHJKIJxiCFKvpzFgaf2M"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Tehillah Fouch\u00e9",
+          "url": "https://open.spotify.com/artist/4e4R5WARcIRX74FVtUqA0v"
+        },
+        {
+          "name": "Connor Stephen",
+          "url": "https://open.spotify.com/artist/6UUsLigVXqT2R8nKj06sUa"
+        }
+      ],
+      "duration_ms": 206923,
+      "name": "For the Time We Have",
+      "url": "https://open.spotify.com/track/3V7L3BpcEpcup3Xon1ywMg"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Nothing But Good",
+        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
+      },
+      "artists": [
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 225472,
+      "name": "Nothing But Good",
+      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "In The Hands Of Christ My King - EP",
         "url": "https://open.spotify.com/album/25INyQiDHJoWxazLARq7Cp"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 219942,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/55Ux5CRmDRoT2jhFqIdzCH"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Nothing But Good",
-        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
-      },
-      "artists": [
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 225472,
-      "name": "Nothing But Good",
-      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Christ Our Hope in Life and Death",
-        "url": "https://open.spotify.com/album/5M5GDV3NSebMu0GbfraYl1"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 271320,
-      "name": "Christ Our Hope in Life and Death",
-      "url": "https://open.spotify.com/track/0tNDbw65xyUlKWsOZhTe0f"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Kingdom Dreamers",
         "url": "https://open.spotify.com/album/54YU74s9xFDTSHpVWYZud2"
       },
@@ -1871,18 +1851,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Reputation",
-        "url": "https://open.spotify.com/album/35uMWw91HLD6OCBwCJSEv9"
+        "name": "Christ Our Hope in Life and Death",
+        "url": "https://open.spotify.com/album/5M5GDV3NSebMu0GbfraYl1"
       },
       "artists": [
         {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 242606,
-      "name": "Reputation",
-      "url": "https://open.spotify.com/track/63KXg5coLHasBMw6QY8SDR"
+      "duration_ms": 271320,
+      "name": "Christ Our Hope in Life and Death",
+      "url": "https://open.spotify.com/track/0tNDbw65xyUlKWsOZhTe0f"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1899,6 +1883,42 @@
       "duration_ms": 312132,
       "name": "Only Name",
       "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Reputation",
+        "url": "https://open.spotify.com/album/35uMWw91HLD6OCBwCJSEv9"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 242606,
+      "name": "Reputation",
+      "url": "https://open.spotify.com/track/63KXg5coLHasBMw6QY8SDR"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Never Going Back",
+        "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
+      },
+      "artists": [
+        {
+          "name": "Cross Point Music",
+          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
+        },
+        {
+          "name": "Mike Grayson",
+          "url": "https://open.spotify.com/artist/3SyG488mo91muoIM24jHq1"
+        }
+      ],
+      "duration_ms": 260213,
+      "name": "Oh The Wonder (feat. Mike Grayson)",
+      "url": "https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1923,26 +1943,6 @@
       "duration_ms": 314693,
       "name": "Never See the End",
       "url": "https://open.spotify.com/track/7rPewRYX89xFF9C64DrcZQ"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Never Going Back",
-        "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
-      },
-      "artists": [
-        {
-          "name": "Cross Point Music",
-          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
-        },
-        {
-          "name": "Mike Grayson",
-          "url": "https://open.spotify.com/artist/3SyG488mo91muoIM24jHq1"
-        }
-      ],
-      "duration_ms": 260213,
-      "name": "Oh The Wonder (feat. Mike Grayson)",
-      "url": "https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "We Have The Name",
-        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 346591,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Find a Reason",
         "url": "https://open.spotify.com/album/2UwgcxBU8Za9GheaWW25PZ"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 254310,
       "name": "Praise Your Name (feat. Desi Raines)",
       "url": "https://open.spotify.com/track/7wJgpOcsk9f4zMUd5RDSMX"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "We Have The Name",
+        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 346591,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2103,26 +2103,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Living Proof (Live)",
-        "url": "https://open.spotify.com/album/4nO5QhGxrtM39dsSjf9q8J"
-      },
-      "artists": [
-        {
-          "name": "David & Nicole Binion",
-          "url": "https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "Living Proof - Live",
-      "url": "https://open.spotify.com/track/48fSSUAlYJoq6CNmYc5RCw"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Here Comes This Dreamer (Live)",
         "url": "https://open.spotify.com/album/5qIgXZGm3ED0bstbSg37Ig"
       },
@@ -2139,6 +2119,26 @@
       "duration_ms": 253756,
       "name": "Heaven's Well - Live",
       "url": "https://open.spotify.com/track/1JQzeSYo86SvhiU5dmCDqK"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Living Proof (Live)",
+        "url": "https://open.spotify.com/album/4nO5QhGxrtM39dsSjf9q8J"
+      },
+      "artists": [
+        {
+          "name": "David & Nicole Binion",
+          "url": "https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Living Proof - Live",
+      "url": "https://open.spotify.com/track/48fSSUAlYJoq6CNmYc5RCw"
     },
     {
       "added_at": "2021-06-12 04:00:40",

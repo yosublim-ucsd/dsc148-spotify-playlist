@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Ayak \u0130zleri",
+        "url": "https://open.spotify.com/album/1KTsrEqXGKvgItaVfFWHzC"
+      },
+      "artists": [
+        {
+          "name": "Yuno Space",
+          "url": "https://open.spotify.com/artist/7ql5adexHn6ZH7yJTce6h0"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159750,
+      "name": "Ayak \u0130zleri",
+      "url": "https://open.spotify.com/track/51cSOTiIPcn0zKw8YRzfwv"
+    },
+    {
+      "album": {
         "name": "Aylak G\u00fcnd\u00f6n\u00fcm\u00fc",
         "url": "https://open.spotify.com/album/0CUmmQBSjZDzcsACmZW4fk"
       },
@@ -1659,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "Can't See Me",
+        "url": "https://open.spotify.com/album/0OifXynvTBoOHJU8UFhRyB"
+      },
+      "artists": [
+        {
+          "name": "Fuzziliers",
+          "url": "https://open.spotify.com/artist/2Uwk09iWbbWQvIUR8l2w7o"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203450,
+      "name": "Can't See Me",
+      "url": "https://open.spotify.com/track/54Au5DttvRoZRgUM4uitC1"
+    },
+    {
+      "album": {
         "name": "Canavar",
         "url": "https://open.spotify.com/album/4hN23sVYqchuMywJjjttcW"
       },
@@ -1952,6 +1988,24 @@
       "duration_ms": 176000,
       "name": "Derli Toplu",
       "url": "https://open.spotify.com/track/1p63Fz890Z9EgtsshIXlsW"
+    },
+    {
+      "album": {
+        "name": "Dert ettin",
+        "url": "https://open.spotify.com/album/7BQvluDVydF6RtluXE4c3Y"
+      },
+      "artists": [
+        {
+          "name": "B\u00f6c\u00fckler",
+          "url": "https://open.spotify.com/artist/4HCfRYLUtrthkLODJzXeAm"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165533,
+      "name": "Dert ettin",
+      "url": "https://open.spotify.com/track/29JQ6W1c7ojIt3KP809NUd"
     },
     {
       "album": {
@@ -3816,7 +3870,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 225191,
       "name": "Ho\u015f\u00e7akal",
       "url": "https://open.spotify.com/track/3Fb5ptgm9jL0B0T6pTpyEh"
@@ -4552,7 +4606,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 137183,
       "name": "ke\u015fke sen de burda olsan",
       "url": "https://open.spotify.com/track/35mW10cLGBLaCqVYlA9FnS"
@@ -4938,7 +4992,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 132558,
       "name": "Latibule",
       "url": "https://open.spotify.com/track/3fiIJa876bKzIJ2ulhWHfA"
@@ -5993,6 +6047,24 @@
     },
     {
       "album": {
+        "name": "Sadece",
+        "url": "https://open.spotify.com/album/0Im10RcKOHSVBhsvklGl90"
+      },
+      "artists": [
+        {
+          "name": "Kalk Yerine Yat",
+          "url": "https://open.spotify.com/artist/62sb4vIL1ROjDUAlPMI64Q"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Sadece",
+      "url": "https://open.spotify.com/track/3ehYxwJlR3U0lzGFkeHM6K"
+    },
+    {
+      "album": {
         "name": "sadece durmak istiyorum.",
         "url": "https://open.spotify.com/album/1MahjjrEXjc7vcNu6euo7U"
       },
@@ -6116,6 +6188,24 @@
       "duration_ms": 208313,
       "name": "Sahipsiz",
       "url": "https://open.spotify.com/track/3951tijEsr7TPB8gIR95s2"
+    },
+    {
+      "album": {
+        "name": "Sahtekar",
+        "url": "https://open.spotify.com/album/41dtNxto9PGO7byEGc49ab"
+      },
+      "artists": [
+        {
+          "name": "\u0130rem \u00d6zen",
+          "url": "https://open.spotify.com/artist/76G25ekDcncsRVCDunPdu1"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Sahtekar",
+      "url": "https://open.spotify.com/track/6w74pkZ6AGdXeBYUz6Wtcv"
     },
     {
       "album": {
@@ -7843,6 +7933,24 @@
     },
     {
       "album": {
+        "name": "yer g\u00f6k",
+        "url": "https://open.spotify.com/album/45Sk7rl97numMd9QhjPzMK"
+      },
+      "artists": [
+        {
+          "name": "Efza",
+          "url": "https://open.spotify.com/artist/4gPXQMEdpsYmYZWtbk4ATJ"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194667,
+      "name": "yer g\u00f6k",
+      "url": "https://open.spotify.com/track/2GJDulIgoggI9ElBv7jmjP"
+    },
+    {
+      "album": {
         "name": "Yerime Birini Koy",
         "url": "https://open.spotify.com/album/1XI9mIKvMsVwlQVLxZRD1R"
       },
@@ -7934,6 +8042,24 @@
       "duration_ms": 242800,
       "name": "yine ara",
       "url": "https://open.spotify.com/track/0Tf7N2tNtwYA0A9gY4bHMy"
+    },
+    {
+      "album": {
+        "name": "yine sen \u00f6\u011frettin",
+        "url": "https://open.spotify.com/album/0HbmSGZjo5trnS3VdLKMlQ"
+      },
+      "artists": [
+        {
+          "name": "AREF",
+          "url": "https://open.spotify.com/artist/7h5LeqEVftGXee4EW9dWTw"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221578,
+      "name": "yine sen \u00f6\u011frettin",
+      "url": "https://open.spotify.com/track/6iwttxMZ0mNnIJHkEqv7LX"
     },
     {
       "album": {
@@ -8132,6 +8258,24 @@
       "duration_ms": 208516,
       "name": "Y\u00fcz\u00fc\u011f\u00fc Hala Parma\u011f\u0131nda",
       "url": "https://open.spotify.com/track/1NwdsqqnwnRmgsCBV0vLGb"
+    },
+    {
+      "album": {
+        "name": "Y\u0131kay\u0131n Beni",
+        "url": "https://open.spotify.com/album/2ZdHNXmcAkWjzuas6UF4W1"
+      },
+      "artists": [
+        {
+          "name": "Efe Akbulut",
+          "url": "https://open.spotify.com/artist/5r5kh3Zx7SVfnoJjG7miyG"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213415,
+      "name": "Y\u0131kay\u0131n Beni",
+      "url": "https://open.spotify.com/track/2DxtzhOYdyOb4c7vCTJxIi"
     },
     {
       "album": {

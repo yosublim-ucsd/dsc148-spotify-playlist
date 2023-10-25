@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-468 songs - 20 hr 25 min
+471 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Excavation](https://open.spotify.com/track/3kOJMvFCOHykQws1qsVMsu) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Ruminate](https://open.spotify.com/album/4pOyBEYZRfEGsbSOinaytz) | 3:24 | 2023-03-10 |  |
 | [Faith](https://open.spotify.com/track/4omFiQ6RZGmoC5QncFwZ5P) | [Oscar Grönborg](https://open.spotify.com/artist/6oelQEIUrYRIGVxWcFmtwn) | [Faith](https://open.spotify.com/album/30yFD3pNvrdGDCyGHB81lE) | 2:00 | 2023-03-10 |  |
 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 | 2023-03-10 |  |
-| [Feu noir](https://open.spotify.com/track/5cfcFwKThGXg3L6kRFehnh) | [Luc Renot](https://open.spotify.com/artist/5SfdCgy16I4e8ACzJScyXT) | [Feu noir](https://open.spotify.com/album/4zryhZrsEZz3S1L6anysR8) | 2:12 | 2023-10-10 |  |
+| [Feu noir](https://open.spotify.com/track/5cfcFwKThGXg3L6kRFehnh) | [Luc Renot](https://open.spotify.com/artist/5SfdCgy16I4e8ACzJScyXT) | [Feu noir](https://open.spotify.com/album/4zryhZrsEZz3S1L6anysR8) | 2:12 | 2023-10-10 | 2023-10-25 |
 | [Feuilles Tombantes](https://open.spotify.com/track/18KgQFOqj7gZSWN81jcs9C) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Feuilles Tombantes](https://open.spotify.com/album/7gKQQqcUaQuE6g9hWuz23J) | 2:07 | 2023-03-10 |  |
 | [Finding Hope](https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms) | [Haakon Stange](https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx) | [Finding Hope](https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs) | 2:27 | 2023-03-10 |  |
 | [Finito](https://open.spotify.com/track/6iWBMo4Cc2yAqwqkAUzLSN) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Finito](https://open.spotify.com/album/1zrmFxQTfjPUoEZepbJaSS) | 2:42 | 2023-03-10 |  |
@@ -201,7 +201,7 @@
 | [Keepsake](https://open.spotify.com/track/3kInd0TVmBr2TaumXmTZbN) | [Isobel Watkins](https://open.spotify.com/artist/7q33Rk7eAyVKYNQ8e1yNeq) | [Open Window](https://open.spotify.com/album/3ZMOUgL032R3ee7TiaD5gV) | 2:20 | 2023-03-10 |  |
 | [Kiku](https://open.spotify.com/track/7n9YKxWPtz1wWugbTSftMZ) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Kiku](https://open.spotify.com/album/15FhA0dbfNYO8Rnei0KF3N) | 2:06 | 2023-03-10 |  |
 | [Kokachin](https://open.spotify.com/track/2pzrTJSU6bTqEmZ7Zv5XLM) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Kokachin](https://open.spotify.com/album/0D5XBOqxs8fW0dU0MgQM8G) | 4:02 | 2023-03-10 |  |
-| [L'autunno](https://open.spotify.com/track/34XblyhjvYRFtfaQQn0AnF) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [L'autunno](https://open.spotify.com/album/5RgG1uA2oFXVdPjFeOqlS2) | 2:26 | 2023-10-10 |  |
+| [L'autunno](https://open.spotify.com/track/34XblyhjvYRFtfaQQn0AnF) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [L'autunno](https://open.spotify.com/album/5RgG1uA2oFXVdPjFeOqlS2) | 2:26 | 2023-10-10 | 2023-10-25 |
 | [L'habit ne fait pas le moine](https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz) | [Pascal Duval](https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl) | [L'habit ne fait pas le moine](https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db) | 3:00 | 2023-03-10 |  |
 | [L'été du Cœur \- La Petite Pluie d'été](https://open.spotify.com/track/0REvq7uFumQghb3u2sRDp2) | [Coen Molenaar](https://open.spotify.com/artist/3mDU9n4gGcXFkQ2Cby05aO), [Myllèrí](https://open.spotify.com/artist/7FBXThPwYvJ0kdeQagzYKj) | [L'été du Cœur \- La Petite Pluie d'été](https://open.spotify.com/album/1iszyfxF6bae0VNiXTVOWq) | 2:50 | 2023-10-10 |  |
 | [La Fleur](https://open.spotify.com/track/3tTr7aNFBaUkH5O7KFB1wS) | [Blithe Youth](https://open.spotify.com/artist/4iIddIHZEHkH5SAjX7hEMu) | [La Fleur](https://open.spotify.com/album/6qec6hpXXfINiHHMnAvpHr) | 2:32 | 2023-03-10 |  |
@@ -228,6 +228,7 @@
 | [Letters](https://open.spotify.com/track/6znLeGhFx7y3dzLgLWy2WW) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Letters](https://open.spotify.com/album/46QdisjOJDgyTMxBVwbKAj) | 3:13 | 2023-03-10 |  |
 | [Libellule](https://open.spotify.com/track/0d331ogYaPH7un6BnYDjLj) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Libellule](https://open.spotify.com/album/0YtB4ZKR95JR1IoVk3lrgf) | 2:45 | 2023-03-10 |  |
 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 | 2023-03-10 |  |
+| [Liebevoll](https://open.spotify.com/track/5M4W1gIBx3eqCoxZWy48zE) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Liebevoll](https://open.spotify.com/album/5lp9wSSEvsgowFwuhrJ4Z8) | 2:24 | 2023-10-24 |  |
 | [Lifeline](https://open.spotify.com/track/7aKFjNKVGj91rDTijx1IN7) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 2:58 | 2023-03-10 | 2023-09-28 |
 | [Ligare Arcum](https://open.spotify.com/track/2SQnm2Hx9VCWopW6LMCD3N) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Ligare Arcum](https://open.spotify.com/album/5QuBJQRifMGPN3rf2OU7gj) | 3:04 | 2023-03-10 |  |
 | [Light a candle](https://open.spotify.com/track/5N6QzsywaYhOR8JoSjzLNP) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Light a candle](https://open.spotify.com/album/4DO9ymPy0U7IUtPQmYCDXD) | 1:48 | 2023-03-10 | 2023-10-11 |
@@ -242,6 +243,7 @@
 | [Los Viejos Tiempos](https://open.spotify.com/track/3B9bfvdtGxZp4IKU2esmQ3) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Los Viejos Tiempos](https://open.spotify.com/album/2kwDucB8NNIJJVpcsnj8mA) | 1:53 | 2023-03-10 | 2023-10-11 |
 | [Lost in a Dream](https://open.spotify.com/track/3n4WSQV9xopZy4wamL2tKL) | [Sophie Ronstadt](https://open.spotify.com/artist/3vXkoxi4Fo3dhKEy1Wxa8V) | [Lost in a Dream](https://open.spotify.com/album/5ZIgYon1ibEQwYlTyQyKTz) | 2:21 | 2023-03-10 |  |
 | [Lost in Trees](https://open.spotify.com/track/4OKxyAfD6CQaMM8NiJlIPm) | [Quinn Richman](https://open.spotify.com/artist/6kUZujYelwuZqTBiSagcrn) | [Lost in Trees](https://open.spotify.com/album/7yy0RGH5aj74t0EYBeLZHE) | 2:54 | 2023-03-10 |  |
+| [Lost to memories](https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Lost to memories](https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj) | 2:14 | 2023-10-24 |  |
 | [Luna piena](https://open.spotify.com/track/5YwXUOcRaJNOoEImMYLIfu) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Luna piena](https://open.spotify.com/album/2cP8f6LAElBMVU8epr2t5V) | 2:50 | 2023-03-10 |  |
 | [Lure](https://open.spotify.com/track/77JZMOwuyKnDpzBAQwwrhh) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Lure / Elegiac](https://open.spotify.com/album/435QkFbt0x0yrEJs6j5jtC) | 2:43 | 2023-03-10 |  |
 | [Lämna](https://open.spotify.com/track/3CQN71R8GSjtdBKodHBai2) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Lämna](https://open.spotify.com/album/3KGZgOnsQPjHYVHF4vAMni) | 3:15 | 2023-03-10 |  |
@@ -388,7 +390,8 @@
 | [Talking Seas](https://open.spotify.com/track/33HoZWD63mWWv0IwfP4lv9) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Paloma](https://open.spotify.com/album/3xRBY4G7wM6zO4tTZapAJ6) | 2:15 | 2023-03-10 |  |
 | [Te souviens\-tu](https://open.spotify.com/track/3mVXmQV9nn0MiQynug2nbd) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Waltzes from Paris](https://open.spotify.com/album/5QNjTrkjRD32KWQZywf17x) | 2:10 | 2023-03-10 |  |
 | [That Nothing Lasts Forever](https://open.spotify.com/track/5AjiFEWLAqkxCXRPAdKX6g) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [That Nothing Lasts Forever](https://open.spotify.com/album/1g13MCUPHteH5wpwX5kfBc) | 2:10 | 2023-03-10 |  |
-| [The Beautiful Changes](https://open.spotify.com/track/6EcHuYHG1OKDQQQvrqv2gV) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [The Beautiful Changes](https://open.spotify.com/album/3HqjTnli0Tcg3TRL7Sqb7F) | 2:10 | 2023-10-10 |  |
+| [The Beautiful Changes](https://open.spotify.com/track/6EcHuYHG1OKDQQQvrqv2gV) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [The Beautiful Changes](https://open.spotify.com/album/3HqjTnli0Tcg3TRL7Sqb7F) | 2:10 | 2023-10-10 | 2023-10-25 |
+| [The Beginning](https://open.spotify.com/track/29cTQB5qtEyaazYqjfVIt3) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [The Beginning](https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA) | 2:04 | 2023-10-24 |  |
 | [The Dancers](https://open.spotify.com/track/0IVtpsYy3n218ksSFFY56m) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [The Dancers](https://open.spotify.com/album/05rmQtJCd8yAS1dBLhccN9) | 2:37 | 2023-10-10 |  |
 | [The Dreams We Left Behind](https://open.spotify.com/track/6KZtv7JVe8fKXaIHPj3Gb2) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [The Dreams We Left Behind](https://open.spotify.com/album/5wpWx956vb5d7CDGmniwcY) | 3:02 | 2023-03-10 |  |
 | [The Far West](https://open.spotify.com/track/3nI7ooi7HA8oRVSgCKvcE7) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [The Far West](https://open.spotify.com/album/1oS03TkuqigN5sPeG4ubKQ) | 2:51 | 2023-03-10 |  |

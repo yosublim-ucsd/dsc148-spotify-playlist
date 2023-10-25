@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 
 > Because everyone else is already taken!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,477 likes - 89 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,478 likes - 89 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 | 82 | [I Have A Voice](https://open.spotify.com/track/6cgrUxPkDZbcPcfbRUkK4x) | [The BeatBuds](https://open.spotify.com/artist/7p1Lnq4QqQko93rJbaerql) | [I Have A Voice](https://open.spotify.com/album/5xqJz03fZ1GKQOvBqQ9IBU) | 3:23 |
 | 83 | [No Such Thing as Good or Bad Hair](https://open.spotify.com/track/2cMPeVWydk52ED84lGlDAF) | [Uncle Devin](https://open.spotify.com/artist/1qr8l7v727Gt0PLXMuVnpN) | [Be Yourself!](https://open.spotify.com/album/2DtCuiy2JgDmH2ys9X4P0Y) | 3:50 |
 | 84 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 |
-| 85 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 |
+| 85 | [Sunday Best](https://open.spotify.com/track/1qYKWcEOrh2tM8PlgIm8K1) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/5nX3zwIAgHttSudEHLTsAW) | 2:38 |
 | 86 | [Unpretty](https://open.spotify.com/track/0BUoLE4o9eVahDHvTqak67) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 4:38 |
 | 87 | [Who You Are](https://open.spotify.com/track/65lIGCfW59BxcEJnnIOCq3) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 3:50 |
 | 88 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 |
 | 89 | [Sing Your Song](https://open.spotify.com/track/0fjty03g806qqdJtz38ebJ) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Family Photo Album](https://open.spotify.com/album/5ReK6CXisDMoAfz8dKf1nD) | 2:11 |
 
-Snapshot ID: `MCxlMmQzMTU3YWZmM2Y3OGZjODAzZTA1ZWViOTc4OTA2N2IzMWQ1OWU1`
+Snapshot ID: `MCw2NTMwNzU0NGNlM2Q1ZDFhNjZmYTZlMjc0OWRjNDU3M2Y4YTFiYmNk`

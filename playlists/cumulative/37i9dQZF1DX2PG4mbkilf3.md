@@ -4,7 +4,7 @@
 
 > This is R&B in Canada\. Elevate your aura with RealestK.
 
-816 songs - 1 day 19 hr 4 min
+817 songs - 1 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,7 +595,8 @@
 | [Room](https://open.spotify.com/track/35wU3ihUZ1RnFPW1Q5NGvT) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [EGO](https://open.spotify.com/album/6s7rkUQ60j8BI4CGDgmxBZ) | 2:52 | 2022-11-11 | 2023-05-27 |
 | [Rounds](https://open.spotify.com/track/0MpBG76Vk6k9zUvEi2lAzf) | [RIZ](https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N) | [Rounds](https://open.spotify.com/album/5xn4T5fEYlezz3foZQ7NZT) | 2:28 | 2023-07-21 | 2023-10-21 |
 | [Ruin My Life](https://open.spotify.com/track/6CQFYzq3VjcTxqCRiqHpt0) | [Anushka Bibi](https://open.spotify.com/artist/5favHEsZBse1oFj1MuOE7x) | [Ruin My Life](https://open.spotify.com/album/4erW3RALpFIM5TmPvJhtJg) | 2:43 | 2023-01-06 | 2023-04-22 |
-| [Runaway](https://open.spotify.com/track/0agVesxTRMBILK1I1LosM1) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r) | [Runaway](https://open.spotify.com/album/5cTmXTvq9gPQlF4kSnam24) | 2:18 | 2023-08-11 |  |
+| [Runaway](https://open.spotify.com/track/10bZAyelkPwqUkkTVwEgdF) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r) | [Notorious & Noble](https://open.spotify.com/album/7x0bphVdGZG4lSij8ni8mx) | 2:15 | 2023-10-20 |  |
+| [Runaway](https://open.spotify.com/track/0agVesxTRMBILK1I1LosM1) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r) | [Runaway](https://open.spotify.com/album/5cTmXTvq9gPQlF4kSnam24) | 2:18 | 2023-08-11 | 2023-10-25 |
 | [Runnin](https://open.spotify.com/track/3srMBy9bUmxBMsXnMW298Z) | [Ben Dadoun](https://open.spotify.com/artist/3BS9OLvXhHGUZ6G5RormDD), [Jackson Welchner](https://open.spotify.com/artist/1erW4LJFwj2DR3g6uEmqmg), [Justin Juan](https://open.spotify.com/artist/47618gr5OEFj5KfKIOWYxG), [Connor Lum](https://open.spotify.com/artist/4nlPsFMpj6u7gC8YcPNZ9M) | [Runnin](https://open.spotify.com/album/296hZxkmHp0rxdiyEJtWC9) | 2:51 | 2023-06-02 | 2023-06-17 |
 | [Runnin' From Love](https://open.spotify.com/track/31vDbm2LeyHQ5oLp3OVi3d) | [Nicole Chambers](https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC), [Leila Dey](https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp) | [Runnin' From Love](https://open.spotify.com/album/3ae0Xmg11mBhowhJHh7X0y) | 3:24 | 2022-11-18 | 2023-03-18 |
 | [Running Loose](https://open.spotify.com/track/7gIsweU9wPiX525caZVglz) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Running Loose](https://open.spotify.com/album/4GOqt9sG3DojO5Zgv3x3uH) | 4:20 | 2023-02-03 | 2023-04-15 |

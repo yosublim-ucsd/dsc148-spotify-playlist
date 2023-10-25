@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzMRSBIsJEP.md) - [plain]
 
 > Descanse ao som dessas melodias clássicas e relaxantes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,340 likes - 68 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,348 likes - 68 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzMRSBIsJEP.md) - [plain]
 | 67 | [Debussy : Suite bergamasque : III Clair de lune](https://open.spotify.com/track/5VXqnaVDKEFazcDt57pcVY) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [James Rhodes](https://open.spotify.com/artist/5CDonRtIeV3ZYeE8nFjBUh) | [Bullets & Lullabies](https://open.spotify.com/album/0vjjWk3CsuOIx3Na9pSrm2) | 5:57 |
 | 68 | [All This Will Happen Again](https://open.spotify.com/track/6u9kkqfjdZPxAxEtHmGl68) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8) | [If It Were You, We'd Never Leave \(Bonus Track Version\)](https://open.spotify.com/album/5lR2OH2Mw2L1dwIBpM16GD) | 4:21 |
 
-Snapshot ID: `MCw4Njg4YmYwNTk4OWY0N2NhNzQ0YzcwN2E0ZDA4OTIzZGIzMjIwMDM4`
+Snapshot ID: `MCw5ZjAzOTE0YTkzMjBjMjE2YzkzN2ZiODcyNzNiOTI4N2RhZDhkOTgx`

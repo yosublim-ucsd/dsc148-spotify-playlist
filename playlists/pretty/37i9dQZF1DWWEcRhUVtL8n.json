@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: hemlocke springs ",
-  "num_followers": 1698033,
+  "num_followers": 1698022,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2ZmYzkyNjMxODkxNGIyMGY1ZTlhNzdkNzk5NjE0NTVhZDdmZDBh",
+  "snapshot_id": "MCw1MDA4MWM2OWYxMTU1ZDU1MWI3OWY5ZDlhNjhjZmEwOTFiMTZiZmQz",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -211,8 +211,8 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Bruise",
-        "url": "https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx"
+        "name": "I Love My Girl, She's My Boy",
+        "url": "https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
         }
       ],
-      "duration_ms": 179280,
+      "duration_ms": 179144,
       "name": "Bruise",
-      "url": "https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI"
+      "url": "https://open.spotify.com/track/1U1TpPbxYRFteIeT0Az4kM"
     },
     {
       "added_at": "2023-08-25 04:56:29",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/3NzCQuUAMhCSzLRuo6YWIY"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Into Your Room",
-        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 209787,
-      "name": "Into Your Room",
-      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
-    },
-    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "summer camp",
@@ -527,6 +511,22 @@
       "duration_ms": 172354,
       "name": "sunny day",
       "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Into Your Room",
+        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 209787,
+      "name": "Into Your Room",
+      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
     },
     {
       "added_at": "2023-04-21 04:19:11",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/6GdUMm5xMw9hJckIc0qsGb"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        }
-      ],
-      "duration_ms": 206893,
-      "name": "The Fool",
-      "url": "https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn"
-    },
-    {
       "added_at": "2023-08-25 04:56:29",
       "album": {
         "name": "Slowly",
@@ -713,20 +697,20 @@
       "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
-      "added_at": "2023-08-25 04:56:29",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "I Love My Girl, She's My Boy",
-        "url": "https://open.spotify.com/album/6xAbweCyvExMjOQmOl194h"
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0"
       },
       "artists": [
         {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
         }
       ],
-      "duration_ms": 173800,
-      "name": "Self destruct",
-      "url": "https://open.spotify.com/track/4B03LwLa4nuiktvLCN3KHN"
+      "duration_ms": 206893,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -745,22 +729,6 @@
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 218588,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "When We Were Younger",
@@ -777,24 +745,20 @@
       "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Daisy Chain",
-        "url": "https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
       },
       "artists": [
         {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
-        },
-        {
-          "name": "Tayo Sound",
-          "url": "https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ"
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
         }
       ],
-      "duration_ms": 166600,
-      "name": "Daisy Chain",
-      "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
+      "duration_ms": 218588,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
     },
     {
       "added_at": "2023-07-03 15:40:30",
@@ -815,6 +779,26 @@
       "duration_ms": 166194,
       "name": "Kill Your Pain (with King Princess)",
       "url": "https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Daisy Chain",
+        "url": "https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        },
+        {
+          "name": "Tayo Sound",
+          "url": "https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ"
+        }
+      ],
+      "duration_ms": 166600,
+      "name": "Daisy Chain",
+      "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -965,6 +949,22 @@
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "HATELOVE",
+        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
+      },
+      "artists": [
+        {
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
+        }
+      ],
+      "duration_ms": 171925,
+      "name": "HATELOVE",
+      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
+    },
+    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "Me & Me",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "HATELOVE",
-        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
-      },
-      "artists": [
-        {
-          "name": "Alex Porat",
-          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
-        }
-      ],
-      "duration_ms": 171925,
-      "name": "HATELOVE",
-      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Harmony House",
         "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
       },
@@ -1011,22 +995,6 @@
       "duration_ms": 151266,
       "name": "Balcony",
       "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Perspective",
-        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 163050,
-      "name": "Perspective",
-      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
     },
     {
       "added_at": "2023-08-14 19:08:31",
@@ -1043,6 +1011,22 @@
       "duration_ms": 167812,
       "name": "Happiest Girl",
       "url": "https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 163050,
+      "name": "Perspective",
+      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1197,6 +1181,22 @@
       "url": "https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2"
     },
     {
+      "added_at": "2023-08-25 04:56:29",
+      "album": {
+        "name": "Don\u2019t Wanna Love U",
+        "url": "https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 209418,
+      "name": "Don\u2019t Wanna Love U",
+      "url": "https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA"
+    },
+    {
       "added_at": "2023-06-30 04:21:00",
       "album": {
         "name": "DO IT AGAIN (Official Song of the FIFA Women\u2019s World Cup 2023\u2122)",
@@ -1215,22 +1215,6 @@
       "duration_ms": 176730,
       "name": "DO IT AGAIN - Official Song of the FIFA Women\u2019s World Cup 2023\u2122",
       "url": "https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j"
-    },
-    {
-      "added_at": "2023-08-25 04:56:29",
-      "album": {
-        "name": "Don\u2019t Wanna Love U",
-        "url": "https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 209418,
-      "name": "Don\u2019t Wanna Love U",
-      "url": "https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1297,22 +1281,6 @@
       "url": "https://open.spotify.com/track/0I43APbAcxRZkxYo6yipQj"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Everything Is Boring",
-        "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Everything Is Boring",
-      "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
-    },
-    {
       "added_at": "2023-04-18 18:49:21",
       "album": {
         "name": "Til U Hate Me",
@@ -1329,20 +1297,20 @@
       "url": "https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx"
     },
     {
-      "added_at": "2023-07-07 18:51:45",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Hello Hi / Un Deux Trois",
-        "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
+        "name": "Everything Is Boring",
+        "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
       },
       "artists": [
         {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
         }
       ],
-      "duration_ms": 210306,
-      "name": "Un Deux Trois",
-      "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
+      "duration_ms": 176005,
+      "name": "Everything Is Boring",
+      "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1359,6 +1327,22 @@
       "duration_ms": 148533,
       "name": "i wanna be your right hand",
       "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
+    },
+    {
+      "added_at": "2023-07-07 18:51:45",
+      "album": {
+        "name": "Hello Hi / Un Deux Trois",
+        "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Un Deux Trois",
+      "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1557,6 +1541,22 @@
       "url": "https://open.spotify.com/track/7sm7RkEXLx4IFvvbw8h5rC"
     },
     {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Stones",
+        "url": "https://open.spotify.com/album/06spE9ETkbGlW4P82T5A5t"
+      },
+      "artists": [
+        {
+          "name": "Sophia Alexa",
+          "url": "https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ"
+        }
+      ],
+      "duration_ms": 192490,
+      "name": "Stones",
+      "url": "https://open.spotify.com/track/2Y9s7N2xW1mPhnasYm5Cuq"
+    },
+    {
       "added_at": "2023-07-14 18:19:08",
       "album": {
         "name": "Supermodels",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Stones",
-        "url": "https://open.spotify.com/album/06spE9ETkbGlW4P82T5A5t"
+        "name": "Water Pistol",
+        "url": "https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC"
       },
       "artists": [
         {
-          "name": "Sophia Alexa",
-          "url": "https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ"
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
         }
       ],
-      "duration_ms": 192490,
-      "name": "Stones",
-      "url": "https://open.spotify.com/track/2Y9s7N2xW1mPhnasYm5Cuq"
+      "duration_ms": 219582,
+      "name": "Water Pistol",
+      "url": "https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1621,22 +1621,6 @@
       "url": "https://open.spotify.com/track/0vbqjI3TKufY0I33RtdXFD"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Water Pistol",
-        "url": "https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 219582,
-      "name": "Water Pistol",
-      "url": "https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg"
-    },
-    {
       "added_at": "2023-08-25 04:56:29",
       "album": {
         "name": "Moonlit Breakers (feat. Dijon)",
@@ -1655,6 +1639,26 @@
       "duration_ms": 234681,
       "name": "Moonlit Breakers (feat. Dijon)",
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "MOVIES! WORLDWIDE: PART I",
+        "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        },
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        }
+      ],
+      "duration_ms": 98042,
+      "name": "Gave U My Love",
+      "url": "https://open.spotify.com/track/3Q4Pa5EybvFw8O5P3eVrMW"
     }
   ],
   "unique_name": "Indie Pop",

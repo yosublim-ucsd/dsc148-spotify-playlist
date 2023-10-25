@@ -5840,7 +5840,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
@@ -12498,7 +12498,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 123000,
       "name": "JAA MAZAA ES SKAABAIS",
       "url": "https://open.spotify.com/track/1LJH42zyVqwVpNjOYmz7B6"
@@ -24318,7 +24318,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
@@ -31504,6 +31504,28 @@
       "duration_ms": 139117,
       "name": "\u041f\u0440\u0438\u0442\u043e\u043d",
       "url": "https://open.spotify.com/track/4S31jbr6mgGib7RAJJ3rlr"
+    },
+    {
+      "album": {
+        "name": "melancholia",
+        "url": "https://open.spotify.com/album/4zuWO3wSh815WtZ4aqyWdi"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u0440\u0438 \u0434\u043d\u044f \u0434\u043e\u0436\u0434\u044f",
+          "url": "https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ"
+        },
+        {
+          "name": "MONA",
+          "url": "https://open.spotify.com/artist/7k3cX5JItAJy6nxdqxycQx"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "\u041f\u0440\u043e\u0449\u0430\u043d\u0438\u0435",
+      "url": "https://open.spotify.com/track/1nginMHZwOYjtYDndhCeY2"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Ovy On The Drums, Quevedo y Yandel",
-  "num_followers": 519709,
+  "num_followers": 519743,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNThkNTJkYTNjMmJiNjEwNGU4ZTAzOTlmNDU1ZGQyYjY0OTA0ODgx",
+  "snapshot_id": "MCw3ZTQ3NGExODkxODQ5ZDU1YzY3MjhjNDYyMmMwNDg2ZjEzMjQyOTVi",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -118,15 +118,11 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 162767,
-      "name": "PERRO NEGRO",
-      "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -275,18 +271,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "UN PREVIEW",
-        "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
       "artists": [
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 165582,
-      "name": "UN PREVIEW",
-      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
+      "duration_ms": 162767,
+      "name": "PERRO NEGRO",
+      "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -387,8 +387,8 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+        "name": "UN PREVIEW",
+        "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 191959,
-      "name": "CYBERTRUCK",
-      "url": "https://open.spotify.com/track/4Jc7252S1P99DjQ1lNGEOc"
+      "duration_ms": 165582,
+      "name": "UN PREVIEW",
+      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 225654,
-      "name": "NO ME QUIERO CASAR",
-      "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"
+      "duration_ms": 191959,
+      "name": "CYBERTRUCK",
+      "url": "https://open.spotify.com/track/4Jc7252S1P99DjQ1lNGEOc"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 225654,
+      "name": "NO ME QUIERO CASAR",
+      "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Podemos Repetirlo (Remix)",
         "url": "https://open.spotify.com/album/3UmFOFNVmfzGI6NKJkUImG"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Me Muevo Con Dios",
-        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
-      },
-      "artists": [
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 180374,
-      "name": "Movezz en silencio",
-      "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "MOR, No Le Temas a La Oscuridad",
         "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 170640,
       "name": "GANGSTERS Y PISTOLAS",
       "url": "https://open.spotify.com/track/2GOnlLJqDMvlXlEqD8AQqn"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Me Muevo Con Dios",
+        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 180374,
+      "name": "Movezz en silencio",
+      "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -899,22 +915,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Tus Labios",
-        "url": "https://open.spotify.com/album/4fQLquz6RHPXSFeIRNiWYD"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 175662,
-      "name": "Tus Labios",
-      "url": "https://open.spotify.com/track/0HVvp9utYjZ9RCKgBNIGUY"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
@@ -939,6 +939,42 @@
       "duration_ms": 265999,
       "name": "COLMILLO",
       "url": "https://open.spotify.com/track/15U5RHzuLMPNFThQqfKL0U"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Tus Labios",
+        "url": "https://open.spotify.com/album/4fQLquz6RHPXSFeIRNiWYD"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 175662,
+      "name": "Tus Labios",
+      "url": "https://open.spotify.com/track/0HVvp9utYjZ9RCKgBNIGUY"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/6KDLws7nb97FLIZw1VHisk"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "duration_ms": 165318,
+      "name": "333",
+      "url": "https://open.spotify.com/track/5NlRqUTd4tv8AegeU7RW5x"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -979,26 +1015,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/6KDLws7nb97FLIZw1VHisk"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 165318,
-      "name": "333",
-      "url": "https://open.spotify.com/track/5NlRqUTd4tv8AegeU7RW5x"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Otra Vibra",
         "url": "https://open.spotify.com/album/0Dcd0VT52oXwUldW3jEaoS"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 207664,
       "name": "Otra Vibra",
       "url": "https://open.spotify.com/track/7aprD0hcQ0dr3efnJCrJI5"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "La Verde",
-        "url": "https://open.spotify.com/album/05d4pEdbkJIdAtMy9xIokx"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 181342,
-      "name": "La Verde",
-      "url": "https://open.spotify.com/track/73oBnvPUnuTmQxvbhXfZJ1"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1059,6 +1059,22 @@
       "duration_ms": 288053,
       "name": "Palabras Sobran - Remix",
       "url": "https://open.spotify.com/track/2I4ZalccAYtOnI9tnKDDml"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "La Verde",
+        "url": "https://open.spotify.com/album/05d4pEdbkJIdAtMy9xIokx"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 181342,
+      "name": "La Verde",
+      "url": "https://open.spotify.com/track/73oBnvPUnuTmQxvbhXfZJ1"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1123,26 +1139,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Cuerpo a Cuerpo",
-        "url": "https://open.spotify.com/album/7jqGVZrtpQty4hCslVZJb9"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 244110,
-      "name": "Cuerpo a Cuerpo",
-      "url": "https://open.spotify.com/track/59cCMgCXQNLCk4AEnXr5GJ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Maullame",
         "url": "https://open.spotify.com/album/02SfPrc9u72kuzrv2ZFjFj"
       },
@@ -1159,22 +1155,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/2TZv7gq1Xnp8c2IVTRy8Zp"
+        "name": "Cuerpo a Cuerpo",
+        "url": "https://open.spotify.com/album/7jqGVZrtpQty4hCslVZJb9"
       },
       "artists": [
         {
-          "name": "Yeruza",
-          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 254000,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/5V42ESWm6CPVldc1vzKwAU"
+      "duration_ms": 244110,
+      "name": "Cuerpo a Cuerpo",
+      "url": "https://open.spotify.com/track/59cCMgCXQNLCk4AEnXr5GJ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1211,26 +1207,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "EL DUE\u00d1O DE LO CROKY",
-        "url": "https://open.spotify.com/album/190ZJLansag1l9axCck8rx"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2TZv7gq1Xnp8c2IVTRy8Zp"
       },
       "artists": [
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Yeruza",
+          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
         },
         {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 182710,
-      "name": "EL DUE\u00d1O DE LO CROKY",
-      "url": "https://open.spotify.com/track/2J1uiNac11AmKR3cyOX3iC"
+      "duration_ms": 254000,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/5V42ESWm6CPVldc1vzKwAU"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1255,22 +1247,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "TRIP 21",
-        "url": "https://open.spotify.com/album/5qacSayUg0QNvxkVmJkATS"
+        "name": "EL DUE\u00d1O DE LO CROKY",
+        "url": "https://open.spotify.com/album/190ZJLansag1l9axCck8rx"
       },
       "artists": [
         {
-          "name": "Chris Palace",
-          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
         }
       ],
-      "duration_ms": 222857,
-      "name": "ACHO MAMI",
-      "url": "https://open.spotify.com/track/0RzYHfzAH2dNLvDpVa5HGD"
+      "duration_ms": 182710,
+      "name": "EL DUE\u00d1O DE LO CROKY",
+      "url": "https://open.spotify.com/track/2J1uiNac11AmKR3cyOX3iC"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1287,26 +1283,6 @@
       "duration_ms": 196626,
       "name": "La Manzana",
       "url": "https://open.spotify.com/track/5zn3YmZvi0SYMgGPLc8R93"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Sin Preguntar",
-        "url": "https://open.spotify.com/album/7rRuM1AiQPiFH5T4cxpE3d"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        },
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        }
-      ],
-      "duration_ms": 193496,
-      "name": "Sin Preguntar",
-      "url": "https://open.spotify.com/track/0tog9uUBCsPYP6zEg24wOB"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1335,6 +1311,70 @@
       "duration_ms": 308252,
       "name": "TU ME QUIERES? REMIXXX (feat. Lucky Brown)",
       "url": "https://open.spotify.com/track/2EudY7VpHg91v5PDkinD37"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Sin Preguntar",
+        "url": "https://open.spotify.com/album/7rRuM1AiQPiFH5T4cxpE3d"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        }
+      ],
+      "duration_ms": 193496,
+      "name": "Sin Preguntar",
+      "url": "https://open.spotify.com/track/0tog9uUBCsPYP6zEg24wOB"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "TRIP 21",
+        "url": "https://open.spotify.com/album/5qacSayUg0QNvxkVmJkATS"
+      },
+      "artists": [
+        {
+          "name": "Chris Palace",
+          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "ACHO MAMI",
+      "url": "https://open.spotify.com/track/0RzYHfzAH2dNLvDpVa5HGD"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "TE LLENASTE",
+        "url": "https://open.spotify.com/album/2bbsPeybovEKJ1C6rPvamw"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        }
+      ],
+      "duration_ms": 220862,
+      "name": "Te Llenaste",
+      "url": "https://open.spotify.com/track/5hXYp960arpKjZw78KgTGE"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1423,26 +1463,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "TE LLENASTE",
-        "url": "https://open.spotify.com/album/2bbsPeybovEKJ1C6rPvamw"
+        "name": "GANAS",
+        "url": "https://open.spotify.com/album/5WojaFxkR4saLIwiyUBAnX"
       },
       "artists": [
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
         },
         {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        },
-        {
-          "name": "El Fother",
-          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 220862,
-      "name": "Te Llenaste",
-      "url": "https://open.spotify.com/track/5hXYp960arpKjZw78KgTGE"
+      "duration_ms": 169651,
+      "name": "GANAS",
+      "url": "https://open.spotify.com/track/4WBJO0asHRwWh7yyFHzABq"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1495,26 +1531,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "GANAS",
-        "url": "https://open.spotify.com/album/5WojaFxkR4saLIwiyUBAnX"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 169651,
-      "name": "GANAS",
-      "url": "https://open.spotify.com/track/4WBJO0asHRwWh7yyFHzABq"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "AHORA",
         "url": "https://open.spotify.com/album/6XY5EPRak33PeJZSuBgvqs"
       },
@@ -1535,26 +1551,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Andaluza",
-        "url": "https://open.spotify.com/album/1k0F8bRdT0klGyWqQa8IPy"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "David Marley",
-          "url": "https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "Andaluza",
-      "url": "https://open.spotify.com/track/2fhtNu3GpxpZZL669pbP1h"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Piedritas En Los Dientes",
         "url": "https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A"
       },
@@ -1571,22 +1567,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Divi\u00e9rtete",
-        "url": "https://open.spotify.com/album/39z6PNTj66HNLXdJyN0Iwf"
+        "name": "Andaluza",
+        "url": "https://open.spotify.com/album/1k0F8bRdT0klGyWqQa8IPy"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
         },
         {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+          "name": "David Marley",
+          "url": "https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA"
         }
       ],
-      "duration_ms": 211428,
-      "name": "Divi\u00e9rtete",
-      "url": "https://open.spotify.com/track/3jcLh0Si6MU4yOQ7kk7AAy"
+      "duration_ms": 186352,
+      "name": "Andaluza",
+      "url": "https://open.spotify.com/track/2fhtNu3GpxpZZL669pbP1h"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1623,6 +1619,26 @@
       "duration_ms": 183613,
       "name": "SIGUE ROMPIENDO",
       "url": "https://open.spotify.com/track/4ooUVU8ZrGyY0dBwyOZhUl"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Divi\u00e9rtete",
+        "url": "https://open.spotify.com/album/39z6PNTj66HNLXdJyN0Iwf"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Divi\u00e9rtete",
+      "url": "https://open.spotify.com/track/3jcLh0Si6MU4yOQ7kk7AAy"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1695,26 +1711,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        }
-      ],
-      "duration_ms": 175907,
-      "name": "Blam Blam",
-      "url": "https://open.spotify.com/track/6Yi0H0gVNT3fGPWn3ZVZ3a"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "PARTY TETEO",
         "url": "https://open.spotify.com/album/75mKvZIBX3KpW1AQVGWxmm"
       },
@@ -1731,6 +1727,26 @@
       "duration_ms": 221664,
       "name": "PARTY TETEO",
       "url": "https://open.spotify.com/track/4vJJKzfLfLEOGHG4b1G9Y1"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "duration_ms": 175907,
+      "name": "Blam Blam",
+      "url": "https://open.spotify.com/track/6Yi0H0gVNT3fGPWn3ZVZ3a"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1879,6 +1895,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "No Te Veo",
+        "url": "https://open.spotify.com/album/2mvZ7NBq9CllcTzQB5d338"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 155240,
+      "name": "No Te Veo",
+      "url": "https://open.spotify.com/track/02wnMiBlKzoF3E3H5z7EeL"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "MILLAS",
         "url": "https://open.spotify.com/album/71ANhRl5U4jM8vBUTvQTsZ"
       },
@@ -1895,22 +1927,6 @@
       "duration_ms": 119533,
       "name": "Nota",
       "url": "https://open.spotify.com/track/5bC850rBpoHkvF0Nx4t2YM"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "No Te Veo",
-        "url": "https://open.spotify.com/album/2mvZ7NBq9CllcTzQB5d338"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 155240,
-      "name": "No Te Veo",
-      "url": "https://open.spotify.com/track/02wnMiBlKzoF3E3H5z7EeL"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -2015,26 +2031,6 @@
       "duration_ms": 225280,
       "name": "Si Si Si",
       "url": "https://open.spotify.com/track/5pfn2dFlOvpx5hsTDk0SH5"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "El Castillo",
-        "url": "https://open.spotify.com/album/4l0cvZurvFcRSY9JolKkIo"
-      },
-      "artists": [
-        {
-          "name": "Juliito",
-          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
-        },
-        {
-          "name": "Gaby Music",
-          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "Shorty",
-      "url": "https://open.spotify.com/track/2slBzWVAWFpqbAepfevdvx"
     }
   ],
   "unique_name": "el nuevo urbano",

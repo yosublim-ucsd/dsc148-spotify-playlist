@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS1oWUQvc2D.md) - [plain]
 
 > <a href="spotify:artist:4Bv3GYUzNM11yYGQslJOkp">Mr\. ID</a>'s favorite tracks\. Updated regularly\. Curated by Mr\. ID\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,755 likes - 50 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,768 likes - 50 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS1oWUQvc2D.md) - [plain]
 | 7 | [Try](https://open.spotify.com/track/12Pnf23BSnTZTTOOrzYBIu) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Feelin'](https://open.spotify.com/album/6g67MU2G9JmsIvuXf0yY9x) | 3:39 |
 | 8 | [Persona](https://open.spotify.com/track/033gWXBGVVmWxS8bULKY9j) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Persona](https://open.spotify.com/album/6my8D9w6cpBOyOVTRcMxOn) | 5:08 |
 | 9 | [Toque Del Sol](https://open.spotify.com/track/58eEvagJwKhcmHbG40AuEg) | [ReqTeq](https://open.spotify.com/artist/0F0tiuO58aU8k6KORsYrnv), [Thaïs Sala](https://open.spotify.com/artist/6xPRuXtCzd7gQH4yOSgZyB) | [Toque Del Sol](https://open.spotify.com/album/4OezapuJwbIXSoyUKlDFcn) | 4:30 |
-| 10 | [Raga](https://open.spotify.com/track/3uyd4cW7ukADr3iSjFIy5G) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [Yahya](https://open.spotify.com/artist/5ZFlQjYVg2YdyeXIVJKSiX) | [Raga](https://open.spotify.com/album/6B3R0opCJ5a87ZiC1FVckf) | 3:21 |
+| 10 | [Raga](https://open.spotify.com/track/3uyd4cW7ukADr3iSjFIy5G) | [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [Yahya](https://open.spotify.com/artist/5ZFlQjYVg2YdyeXIVJKSiX) | [Raga](https://open.spotify.com/album/6B3R0opCJ5a87ZiC1FVckf) | 3:21 |
 | 11 | [Ma liberté \- Mr\. ID Remix](https://open.spotify.com/track/1Vb2UINCT7PjxET6Bi4PXn) | [Osfur](https://open.spotify.com/artist/6qrKiEKVVelbXJa8HwchwO), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [Ma liberté](https://open.spotify.com/album/6KtSkPSgENj6VOoxkqVIiO) | 5:32 |
 | 12 | [Lawah Lawah \( Rework \) \- Radio Edit](https://open.spotify.com/track/7HQf96ZAn5FpVUqr3vfsCb) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Aziz Sahmaoui](https://open.spotify.com/artist/2MyGX3OGQZIkztt1Rx2dNF), [YADEE](https://open.spotify.com/artist/4BVO8Wwusex1h7UVxhwq1Y) | [Lawah Lawah \( Rework \)](https://open.spotify.com/album/5kFd527GLGwwHiEiLFAQEN) | 4:04 |
 | 13 | [Nha Manera \- Mr\. ID Remix \- edit](https://open.spotify.com/track/2Rga0GYOLXHFLrzp4hy4fH) | [Afrokillerz](https://open.spotify.com/artist/6r7b5Y6q3CuBgwVF5NmDSb), [Allis](https://open.spotify.com/artist/3UHXnkjXYnwQXXEDgVEHy1), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [Nha Manera Remixes](https://open.spotify.com/album/0PvfAfim4YVgHWxagHatIW) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS1oWUQvc2D.md) - [plain]
 | 49 | [Mangiamo](https://open.spotify.com/track/6bkEMeizXjKNYYRx3LymPy) | [Musta](https://open.spotify.com/artist/2JIEeEqJJ2Rt6O2KcXezEM) | [Cantana](https://open.spotify.com/album/2RF6jGOxn9Y7DsofkNVh2H) | 7:53 |
 | 50 | [After You](https://open.spotify.com/track/74bfHdLcObe6vc0DWZ61W1) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 5:27 |
 
-Snapshot ID: `MCw2NmRkNzdmZjU0NWZiOWY3MTZlM2M4ZWE1YzVjOTU5YTYzZTY2ZTVj`
+Snapshot ID: `MCwzNDI3OTFmNDBlNTNlN2E0YTUxMzcxNTFjOTc2NTRjNDdiYzc1Njdi`

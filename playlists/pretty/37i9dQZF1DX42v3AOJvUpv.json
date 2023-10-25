@@ -1,12 +1,12 @@
 {
   "description": "Entre peinados, maquillajes y vestimentas ex\u00f3ticas, la est\u00e9tica domin\u00f3 la escena musical de los a\u00f1os \u201980. Foto:<a href=\"spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL\"> Soda Stereo</a>",
-  "num_followers": 39795,
+  "num_followers": 39833,
   "original_name": "Jet Set",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjYzNWViNzVlNzM1YWJiZDY3MDVmYWQ4MzU5YmZiYTk3ZDE0N2M0",
+  "snapshot_id": "MCwzNmQ4YjFmZjIxOTAyZjlkNjQzNjFjOGZlZmNmNTdlYWUxMjAxMDZh",
   "tracks": [
     {
       "added_at": "2020-03-16 16:12:42",
@@ -415,18 +415,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Don Cornelio y La Zona",
-        "url": "https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz"
+        "name": "Los Abuelos De La Nada 1",
+        "url": "https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI"
       },
       "artists": [
         {
-          "name": "Don Cornelio Y La Zona",
-          "url": "https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe"
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
         }
       ],
-      "duration_ms": 251173,
-      "name": "Ella Vendr\u00e1 - Remastered",
-      "url": "https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg"
+      "duration_ms": 194693,
+      "name": "Lunes Por La Madrugada",
+      "url": "https://open.spotify.com/track/0F9DOXIFk0rJW9AmDkUuSz"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -447,18 +447,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Los Abuelos De La Nada 1",
-        "url": "https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI"
+        "name": "Don Cornelio y La Zona",
+        "url": "https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz"
       },
       "artists": [
         {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+          "name": "Don Cornelio Y La Zona",
+          "url": "https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe"
         }
       ],
-      "duration_ms": 194693,
-      "name": "Lunes Por La Madrugada",
-      "url": "https://open.spotify.com/track/0F9DOXIFk0rJW9AmDkUuSz"
+      "duration_ms": 251173,
+      "name": "Ella Vendr\u00e1 - Remastered",
+      "url": "https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -655,22 +655,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Heroes / Antologia 1986 - 1988",
-        "url": "https://open.spotify.com/album/5hTIPpvzJIy2Os07sMSWP5"
-      },
-      "artists": [
-        {
-          "name": "Friccion",
-          "url": "https://open.spotify.com/artist/5MoGn6jc9GHCMiWzccjWRD"
-        }
-      ],
-      "duration_ms": 379866,
-      "name": "H\u00e9roes",
-      "url": "https://open.spotify.com/track/0tj6CJdNcyU7L8hc61KXAE"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Ritual De Los Pericos",
         "url": "https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 219960,
       "name": "El Ritual De La Banana",
       "url": "https://open.spotify.com/track/1LeGL6sChxxaQbFhKknOcG"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Heroes / Antologia 1986 - 1988",
+        "url": "https://open.spotify.com/album/5hTIPpvzJIy2Os07sMSWP5"
+      },
+      "artists": [
+        {
+          "name": "Friccion",
+          "url": "https://open.spotify.com/artist/5MoGn6jc9GHCMiWzccjWRD"
+        }
+      ],
+      "duration_ms": 379866,
+      "name": "H\u00e9roes",
+      "url": "https://open.spotify.com/track/0tj6CJdNcyU7L8hc61KXAE"
     },
     {
       "added_at": "2020-03-16 16:12:42",

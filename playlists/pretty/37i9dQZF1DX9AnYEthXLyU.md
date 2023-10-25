@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AnYEthXLyU.md) - [plain]
 
 > when things just feel heavy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,233 likes - 56 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,270 likes - 56 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AnYEthXLyU.md) - [plain]
 | 55 | [Apologies](https://open.spotify.com/track/7BW0dJ7l1iG5YPdzPvVL7W) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [The Hunna](https://open.spotify.com/album/6o0Cd4hfhFGnVeYSugnzII) | 2:53 |
 | 56 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 |
 
-Snapshot ID: `MCw5YzA5Y2I4MWRiNWJlYzBlMWM5MjFlNWQyZTVhNDE3MDEyZjQzNjQ0`
+Snapshot ID: `MCxiNjk1NmU5MDQzM2M3NmRkNDZkYTM2ODg2YjUxZTBmZjNmMTQyNmYy`

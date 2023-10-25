@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 78262,
+  "num_followers": 78333,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2E3ZDkyNTZlY2JkYTI1NDI5ZGU1Yjk1ZGQ2ODQ0MDk3NTFlN2Nh",
+  "snapshot_id": "MCw4ODQ3MGIwNmEzMmM1MzM2MDM5MmZhMDIwOWU5ODIzZGM3NjEyMzkx",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -423,22 +423,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Leaving Trunk",
-      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Ball n' Chain",
         "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 181000,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Leaving Trunk",
+      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -791,6 +791,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "Nick Of Time",
+      "url": "https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Nick Of Time",
-      "url": "https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Suitcase",
-        "url": "https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 256493,
-      "name": "Life Is Beautiful",
-      "url": "https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Bad News Is Coming",
         "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 445533,
       "name": "Bad News Is Coming",
       "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Suitcase",
+        "url": "https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 256493,
+      "name": "Life Is Beautiful",
+      "url": "https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "War In My Mind",
-        "url": "https://open.spotify.com/album/2Eo7sjkI3fKanrJY4rtena"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 215911,
-      "name": "Bad Woman Blues",
-      "url": "https://open.spotify.com/track/0rOzFVPfQiJShjum8zpfu9"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "We Get By",
@@ -1035,6 +1019,22 @@
       "duration_ms": 215946,
       "name": "We Get By",
       "url": "https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "War In My Mind",
+        "url": "https://open.spotify.com/album/2Eo7sjkI3fKanrJY4rtena"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 215911,
+      "name": "Bad Woman Blues",
+      "url": "https://open.spotify.com/track/0rOzFVPfQiJShjum8zpfu9"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "The Baddest Of George Thorogood And The Destroyers",
-        "url": "https://open.spotify.com/album/5vliZHMdEeEHpTOZC2XcBw"
-      },
-      "artists": [
-        {
-          "name": "George Thorogood & The Destroyers",
-          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "Move It On Over",
-      "url": "https://open.spotify.com/track/2bgsFbiStgVqxOtQ4UK3Uf"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Road I Call Home",
         "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 232724,
       "name": "What's the Matter with You",
       "url": "https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "The Baddest Of George Thorogood And The Destroyers",
+        "url": "https://open.spotify.com/album/5vliZHMdEeEHpTOZC2XcBw"
+      },
+      "artists": [
+        {
+          "name": "George Thorogood & The Destroyers",
+          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "Move It On Over",
+      "url": "https://open.spotify.com/track/2bgsFbiStgVqxOtQ4UK3Uf"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1285,22 +1285,6 @@
       "url": "https://open.spotify.com/track/0Wv8SrR4kycxh3GIpl2adV"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions",
-        "url": "https://open.spotify.com/album/1inwZe8lEy9j9uhJaTRcbE"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "The Pleasure's All Mine",
-      "url": "https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Johnny Winter",
@@ -1331,6 +1315,22 @@
       "duration_ms": 214053,
       "name": "You Can't Teach An Old Dog New Tricks",
       "url": "https://open.spotify.com/track/2YXJSAmQ6teroFJLAkYI7f"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions",
+        "url": "https://open.spotify.com/album/1inwZe8lEy9j9uhJaTRcbE"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "The Pleasure's All Mine",
+      "url": "https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1399,38 +1399,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "You Don't Want Me",
-      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Strange Pleasure",
-        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 260733,
-      "name": "Don't Cha Know",
-      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Cry No More",
         "url": "https://open.spotify.com/album/6uqgNfRltyZuGzFhMF256y"
       },
@@ -1443,6 +1411,22 @@
       "duration_ms": 275800,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/42O2R9NmHyZqN6CvGcwzrl"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1493,20 +1477,20 @@
       "url": "https://open.spotify.com/track/0vDn81gdOuRxjbIwcASuiV"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
+      "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Blacktop Run",
-        "url": "https://open.spotify.com/album/583OXr5VnpSpYHHukpZkSc"
+        "name": "Strange Pleasure",
+        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
       },
       "artists": [
         {
-          "name": "Sonny Landreth",
-          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
         }
       ],
-      "duration_ms": 234417,
-      "name": "Somebody Gotta Make A Move",
-      "url": "https://open.spotify.com/track/3g8TyEzKyPMYXLSUvXMJU4"
+      "duration_ms": 260733,
+      "name": "Don't Cha Know",
+      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1525,6 +1509,22 @@
       "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
     },
     {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Blacktop Run",
+        "url": "https://open.spotify.com/album/583OXr5VnpSpYHHukpZkSc"
+      },
+      "artists": [
+        {
+          "name": "Sonny Landreth",
+          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+        }
+      ],
+      "duration_ms": 234417,
+      "name": "Somebody Gotta Make A Move",
+      "url": "https://open.spotify.com/track/3g8TyEzKyPMYXLSUvXMJU4"
+    },
+    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Bring 'Em In",
@@ -1539,22 +1539,6 @@
       "duration_ms": 317320,
       "name": "What Kind Of Woman Is This?",
       "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Baby, Please Come Home (Bonus Version)",
-        "url": "https://open.spotify.com/album/4dcO5CmDykJdNP9CTOPKYD"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 194280,
-      "name": "Be My Lovey Dovey",
-      "url": "https://open.spotify.com/track/0WGoAuzH6tLQpTe80YBRsV"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1623,6 +1607,22 @@
       "duration_ms": 202917,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Baby, Please Come Home (Bonus Version)",
+        "url": "https://open.spotify.com/album/4dcO5CmDykJdNP9CTOPKYD"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 194280,
+      "name": "Be My Lovey Dovey",
+      "url": "https://open.spotify.com/track/0WGoAuzH6tLQpTe80YBRsV"
     },
     {
       "added_at": "2021-03-03 17:28:10",

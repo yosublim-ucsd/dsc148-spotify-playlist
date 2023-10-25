@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena",
-  "num_followers": 987304,
+  "num_followers": 987365,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmI0OWFhODhlM2VlZjY2MjFmZDdhOTFjZTA0NjQxNThlNTBkYzY4",
+  "snapshot_id": "MCwyMjZmMjRkMTA3NGM2ZWU3YTQwMzcwZTViMDRlZWYwNDk2ODllMTg2",
   "tracks": [
     {
       "added_at": "2023-10-23 10:44:12",
@@ -399,6 +399,26 @@
     {
       "added_at": "2023-10-23 10:44:12",
       "album": {
+        "name": "Hoy Festejo",
+        "url": "https://open.spotify.com/album/2EchHhx889NsqylPaAzboM"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        },
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 164119,
+      "name": "Hoy Festejo",
+      "url": "https://open.spotify.com/track/5VzeBUPnyf9rWSPkEFeL6X"
+    },
+    {
+      "added_at": "2023-10-23 10:44:12",
+      "album": {
         "name": "Olvid\u00e9 Olvidarte",
         "url": "https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P"
       },
@@ -435,26 +455,6 @@
     {
       "added_at": "2023-10-23 10:44:12",
       "album": {
-        "name": "Hoy Festejo",
-        "url": "https://open.spotify.com/album/2EchHhx889NsqylPaAzboM"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        },
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 164119,
-      "name": "Hoy Festejo",
-      "url": "https://open.spotify.com/track/5VzeBUPnyf9rWSPkEFeL6X"
-    },
-    {
-      "added_at": "2023-10-23 10:44:12",
-      "album": {
         "name": "COBARDE",
         "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
       },
@@ -471,6 +471,26 @@
       "duration_ms": 166081,
       "name": "COBARDE",
       "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
+    },
+    {
+      "added_at": "2023-10-23 10:44:12",
+      "album": {
+        "name": "Dem Time Deh",
+        "url": "https://open.spotify.com/album/1QeOEm9n7zYsIqHvg0KRY6"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 167191,
+      "name": "Dem Time Deh",
+      "url": "https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf"
     },
     {
       "added_at": "2023-10-23 10:44:12",
@@ -495,26 +515,6 @@
       "duration_ms": 163401,
       "name": "LUCES DE CIUDAD (feat. \u00c1lvaro De Luna, Dani Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/4GrbQq8TcYoUd4s5YmzydE"
-    },
-    {
-      "added_at": "2023-10-23 10:44:12",
-      "album": {
-        "name": "Dem Time Deh",
-        "url": "https://open.spotify.com/album/1QeOEm9n7zYsIqHvg0KRY6"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 167191,
-      "name": "Dem Time Deh",
-      "url": "https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf"
     },
     {
       "added_at": "2023-10-23 10:44:12",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-10-23 10:44:12",
       "album": {
+        "name": "PORTARSE MAL",
+        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 192126,
+      "name": "PORTARSE MAL",
+      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
+    },
+    {
+      "added_at": "2023-10-23 10:44:12",
+      "album": {
         "name": "Puerta del Sol",
         "url": "https://open.spotify.com/album/0Feep6LUA5614f0kBIgLtU"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2023-10-23 10:44:12",
       "album": {
-        "name": "PORTARSE MAL",
-        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 192126,
-      "name": "PORTARSE MAL",
-      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
-    },
-    {
-      "added_at": "2023-10-23 10:44:12",
-      "album": {
         "name": "Derecho a No Declarar",
         "url": "https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B"
       },
@@ -627,38 +627,6 @@
       "duration_ms": 146763,
       "name": "Derecho a No Declarar",
       "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
-    },
-    {
-      "added_at": "2023-10-23 10:44:12",
-      "album": {
-        "name": "Como Ayer",
-        "url": "https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 157293,
-      "name": "Como Ayer",
-      "url": "https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY"
-    },
-    {
-      "added_at": "2023-10-23 10:44:12",
-      "album": {
-        "name": "Poquito a Poquito",
-        "url": "https://open.spotify.com/album/1v7khGGbZK12Y7CMofMFxI"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Poquito a Poquito",
-      "url": "https://open.spotify.com/track/1Uf6XdCFBmIrbs1Rbx8t9v"
     },
     {
       "added_at": "2023-10-23 10:44:12",
@@ -679,6 +647,38 @@
       "duration_ms": 200294,
       "name": "SUPERH\u00c9ROES",
       "url": "https://open.spotify.com/track/3qMpbW78QlPZM2bEdtD1YD"
+    },
+    {
+      "added_at": "2023-10-23 10:44:12",
+      "album": {
+        "name": "Poquito a Poquito",
+        "url": "https://open.spotify.com/album/1v7khGGbZK12Y7CMofMFxI"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Poquito a Poquito",
+      "url": "https://open.spotify.com/track/1Uf6XdCFBmIrbs1Rbx8t9v"
+    },
+    {
+      "added_at": "2023-10-23 10:44:12",
+      "album": {
+        "name": "Como Ayer",
+        "url": "https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 157293,
+      "name": "Como Ayer",
+      "url": "https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY"
     },
     {
       "added_at": "2023-10-23 10:44:12",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-10-23 10:44:12",
       "album": {
-        "name": "Canci\u00f3n de pop",
-        "url": "https://open.spotify.com/album/0GonIhSgK1AuasYbr8xbYH"
-      },
-      "artists": [
-        {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
-        }
-      ],
-      "duration_ms": 139876,
-      "name": "Canci\u00f3n de pop",
-      "url": "https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD"
-    },
-    {
-      "added_at": "2023-10-23 10:44:12",
-      "album": {
         "name": "Pop",
         "url": "https://open.spotify.com/album/0Ye07YKpMKTynGPopYcVNQ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 149710,
       "name": "Pop",
       "url": "https://open.spotify.com/track/51VLqRIxEjfT6guWSxEElY"
+    },
+    {
+      "added_at": "2023-10-23 10:44:12",
+      "album": {
+        "name": "Canci\u00f3n de pop",
+        "url": "https://open.spotify.com/album/0GonIhSgK1AuasYbr8xbYH"
+      },
+      "artists": [
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "duration_ms": 139876,
+      "name": "Canci\u00f3n de pop",
+      "url": "https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD"
     },
     {
       "added_at": "2023-10-23 10:44:12",
@@ -995,6 +995,26 @@
     {
       "added_at": "2023-10-23 10:44:12",
       "album": {
+        "name": "Diles",
+        "url": "https://open.spotify.com/album/2LWDpyZcSAbCHCUnCqspOQ"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00fa",
+          "url": "https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 203768,
+      "name": "Diles",
+      "url": "https://open.spotify.com/track/6V1lDPAv04ezqfgl58Hb58"
+    },
+    {
+      "added_at": "2023-10-23 10:44:12",
+      "album": {
         "name": "iPHONE AZUL",
         "url": "https://open.spotify.com/album/4PyEEGtGEPCZwLlSjq5VEg"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 227628,
       "name": "Que se caiga el cielo",
       "url": "https://open.spotify.com/track/5hpOWFyKa1hvE5DnCoGV2A"
-    },
-    {
-      "added_at": "2023-10-23 10:44:12",
-      "album": {
-        "name": "Diles",
-        "url": "https://open.spotify.com/album/2LWDpyZcSAbCHCUnCqspOQ"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00fa",
-          "url": "https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 203768,
-      "name": "Diles",
-      "url": "https://open.spotify.com/track/6V1lDPAv04ezqfgl58Hb58"
     },
     {
       "added_at": "2023-10-23 10:44:12",

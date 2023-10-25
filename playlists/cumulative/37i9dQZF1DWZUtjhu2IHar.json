@@ -2042,7 +2042,7 @@
     {
       "album": {
         "name": "Twinkle Twinkle",
-        "url": "https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb"
+        "url": "https://open.spotify.com/album/5X2sTkbON3MPA4rXZZlXSW"
       },
       "artists": [
         {
@@ -2053,6 +2053,24 @@
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 156937,
+      "name": "Twinkle Twinkle",
+      "url": "https://open.spotify.com/track/1ngmuX9jhz3YqvLI8q5pso"
+    },
+    {
+      "album": {
+        "name": "Twinkle Twinkle",
+        "url": "https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-25",
       "duration_ms": 156937,
       "name": "Twinkle Twinkle",
       "url": "https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT"

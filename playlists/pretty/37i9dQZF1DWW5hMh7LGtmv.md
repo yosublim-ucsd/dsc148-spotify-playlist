@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 
 > The ultimate line\-up of Summer anthems, strap in !!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,456 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,453 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 | 72 | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/track/1ftK0tLj4ZYKYxSzXk5Lpb) | [DJ Spiller](https://open.spotify.com/artist/6Ai7Oi56rJwoPAG8N2jsv6), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/album/774f2ASob19UJBVIrxNzg7) | 3:47 |
 | 73 | [Another Chance \(Radio Edit\)](https://open.spotify.com/track/46WVWDw8SubxyzQUXRBWt4) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Another Chance](https://open.spotify.com/album/1KyaCwJ2Hcz1M5g7qQcmue) | 3:30 |
 | 74 | [Black & Gold \- Radio Edit](https://open.spotify.com/track/1r9G1B0OJzb2O8NBPo4vLL) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Noughties Songs](https://open.spotify.com/album/1wD1MhNeYZT4RO9FE4Intf) | 3:30 |
-| 75 | [That's Not My Name \- Radio Edit](https://open.spotify.com/track/2H68hrTywSrLZjHH3kQ9wR) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [00s Party Mixtape](https://open.spotify.com/album/6uEj5L8M2kF3TrxjcnH5q0) | 3:46 |
-| 76 | [House Every Weekend \- Radio Edit](https://open.spotify.com/track/7u9zFAWUAZy2vdVwAIAv5s) | [David Zowie](https://open.spotify.com/artist/2yEkeJoFOvm6qHuECSDHFg) | [House Every Weekend \(Radio Edit\)](https://open.spotify.com/album/19hIjxvx2QBJoyJ0DVJgHJ) | 3:02 |
+| 75 | [House Every Weekend \- Radio Edit](https://open.spotify.com/track/7u9zFAWUAZy2vdVwAIAv5s) | [David Zowie](https://open.spotify.com/artist/2yEkeJoFOvm6qHuECSDHFg) | [House Every Weekend \(Radio Edit\)](https://open.spotify.com/album/19hIjxvx2QBJoyJ0DVJgHJ) | 3:02 |
+| 76 | [That's Not My Name \- Radio Edit](https://open.spotify.com/track/2H68hrTywSrLZjHH3kQ9wR) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [00s Party Mixtape](https://open.spotify.com/album/6uEj5L8M2kF3TrxjcnH5q0) | 3:46 |
 | 77 | [Louder \(feat\. Sian Evans\)](https://open.spotify.com/track/5rr88Jg9B0QLFMDj9qREaI) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Sian Evans](https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw) | [Louder EP](https://open.spotify.com/album/5JM2WMfuniCvsSgoVdbtyb) | 3:26 |
 | 78 | [Good Times \- Radio Edit](https://open.spotify.com/track/49Hb6hA4WJE6KdpDpotxt6) | [Roll Deep](https://open.spotify.com/artist/4gpElxNt5pL515njzmZaZG), [Jodie Connor](https://open.spotify.com/artist/2z8TUHYgpATw1YCb8WV6qv) | [Sommer Klassiker](https://open.spotify.com/album/3vkUHTM5ZgvHocuE882zew) | 3:43 |
 | 79 | [Young \- Radio Edit](https://open.spotify.com/track/0ObbI1mRYkcWHeM82rZf9U) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [Sommer Klassiker](https://open.spotify.com/album/3vkUHTM5ZgvHocuE882zew) | 3:35 |
 | 80 | [Bound 4 da Reload \- Casualty](https://open.spotify.com/track/24SElG0D2F6vJ7Z9EMD5Xu) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf) | [Execute](https://open.spotify.com/album/1C7r9ofyU8ajv54XBSAJEC) | 4:52 |
 
-Snapshot ID: `MCxmYjk2YjVkM2Q5ZjliZTAzZmVlZjU2MTI4ZTUxY2Y4ZWI1NWY3Njky`
+Snapshot ID: `MCwxMjFlNzdkZjEyMzE0NTlmMDg2Y2MyYzNkOWE5NzFjYWM5MTNiMGQ5`

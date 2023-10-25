@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Sahara Beck\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,837 likes - 104 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,857 likes - 104 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 4 | [Answer](https://open.spotify.com/track/5br04RlIhItYQmNIqGXO7E) | [Queenz](https://open.spotify.com/artist/2A0WFBUwFhCSrYVmBI8mu8) | [Answer](https://open.spotify.com/album/6Aniw68r3mUgOMtKucLpnU) | 2:15 |
 | 5 | [Looking Back](https://open.spotify.com/track/6BS3TRdBj6XyOaR8lUERpy) | [ENOLA](https://open.spotify.com/artist/0JwAxa5LS26N0e6wEedRnB) | [Looking Back](https://open.spotify.com/album/3ritrwkFqasE4hp42q1cHY) | 4:32 |
 | 6 | [In The Dark](https://open.spotify.com/track/1hGxNmp8ObCbhnQ1CQUf98) | [Soma](https://open.spotify.com/artist/23pMHdWBS71N6BsOmYjNYa) | [In The Dark](https://open.spotify.com/album/6SBXsz52xePJP4OhBfqQdW) | 2:59 |
-| 7 | [PRETTY GIRLS](https://open.spotify.com/track/2TegXzhcQonA9Lv8fBzIco) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [PRETTY GIRLS](https://open.spotify.com/album/4vdZ3KWw1hi6yTMQ0WSvEZ) | 3:13 |
+| 7 | [PRETTY GIRLS](https://open.spotify.com/track/2TegXzhcQonA9Lv8fBzIco) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [PRETTY GIRLS](https://open.spotify.com/album/4vdZ3KWw1hi6yTMQ0WSvEZ) | 2:50 |
 | 8 | [Famous](https://open.spotify.com/track/1dBV0TJOL14mw1Cl1YULPm) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Famous](https://open.spotify.com/album/7urbNKYM1F7FC9FZLU3jZs) | 3:06 |
 | 9 | [Fallen For](https://open.spotify.com/track/6ESH0ivhaHHhdeVQ5DVXgu) | [Darcie Haven](https://open.spotify.com/artist/4z5Ea2f21AVA18kbjWp0Ni) | [Fallen For](https://open.spotify.com/album/7cVSNWTxbRKz4FCoWUKcC9) | 3:55 |
 | 10 | [Late Night Antics](https://open.spotify.com/track/54Qxtqz5hGPjOXq5HEXhYx) | [Squid the Kid](https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2), [Infuschia](https://open.spotify.com/artist/6F9VNmh2GE2WdC3K5BbHjW), [Alisya Rae](https://open.spotify.com/artist/3FtD8ginawjseVwkf0GhFL) | [Late Night Antics](https://open.spotify.com/album/3SVxrQ8BhAVtwNBzBwLjzz) | 3:41 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 103 | [ELEGANTE](https://open.spotify.com/track/366Kk1owEIW4NJ5CHU5T1N) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [ELEGANTE](https://open.spotify.com/album/0Pol9jlvTYrOFftlWhdYDS) | 2:46 |
 | 104 | [on & on](https://open.spotify.com/track/6oAonvnwPnw3IadUWTyvhm) | [SAFETY CLUB](https://open.spotify.com/artist/52OF5mGGrAg9kdlq9Qkkd4) | [on & on](https://open.spotify.com/album/4ZPyfnsy8jy5vT9Hw4MlN1) | 2:49 |
 
-Snapshot ID: `MCxhYTdiMzQ3NTRjNzQyYTU4M2Q3YTJhYzZkMmEwMWI2OTc1ZmExN2Zi`
+Snapshot ID: `MCxmMzg0OTA0NDhhOTg1M2YyZDdjMGVmMjc0NWViZTFhODkzMmVjM2Iy`

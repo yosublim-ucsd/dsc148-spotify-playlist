@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Cledos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,483 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,523 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Liian moni \(feat\. VJ\)](https://open.spotify.com/track/3QUpgNvOU1AQsxVrdUby1H) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [euro musik](https://open.spotify.com/album/5RAmd82hWPvFBmUs73B5gO) | 2:21 |
 | 2 | [Rajal \(feat\. ibe, Ares & Elastinen\)](https://open.spotify.com/track/5grPmKSW7p7wxMzaje5SRP) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Rajal \(feat\. ibe, Ares & Elastinen\)](https://open.spotify.com/album/43jsrZfxsf5FYf20772F3t) | 3:05 |
 | 3 | [Feimii](https://open.spotify.com/track/7HOHMXcmf8gl4YuKwBO7SV) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Feimii](https://open.spotify.com/album/0LeKD7A9fjGqsCbvpIgXF7) | 3:02 |
-| 4 | [WILLAIN \(feat\. ibe\)](https://open.spotify.com/track/0Ch46DVttxlt7dNSkYcpZG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Willain](https://open.spotify.com/album/4fIyn02l750ivFtjp3MXor) | 2:51 |
-| 5 | [Ghetto Love](https://open.spotify.com/track/4zClLaFTN76B9qHuXpJ2hH) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Ghetto Love](https://open.spotify.com/album/6h6gvLvzUFaap0qVojsrox) | 2:06 |
+| 4 | [Ghetto Love](https://open.spotify.com/track/4zClLaFTN76B9qHuXpJ2hH) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Ghetto Love](https://open.spotify.com/album/6h6gvLvzUFaap0qVojsrox) | 2:06 |
+| 5 | [WILLAIN \(feat\. ibe\)](https://open.spotify.com/track/0Ch46DVttxlt7dNSkYcpZG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Willain](https://open.spotify.com/album/4fIyn02l750ivFtjp3MXor) | 2:51 |
 | 6 | [Voimaantunu](https://open.spotify.com/track/1P5dnsR8u5iyEsyIuB8t4O) | [Bämä](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1), [Aina](https://open.spotify.com/artist/3M36KGUt2RuwXQuxTDQIEY), [Sointu Borg](https://open.spotify.com/artist/34qCYPy8p0qTLUjkskB7Dz) | [Voimaantunu](https://open.spotify.com/album/3nmdPvniUdbuQPL8ZN9u2A) | 3:15 |
 | 7 | [Scorpio](https://open.spotify.com/track/3rhgPOgoOvYArCHt0MeRdp) | [Lika\-Aki](https://open.spotify.com/artist/4XSTZw9BvsG1ZXkyJOLyuw) | [Les Mains Sales](https://open.spotify.com/album/01MVf6zNOzHwrVoSbEbjJa) | 3:30 |
 | 8 | [Kiireinen nainen \(feat\. ibe\)](https://open.spotify.com/track/4haz2w5fIZagLEIOig3FGK) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Kiireinen nainen \(feat\. ibe\)](https://open.spotify.com/album/1rCAQxlXHja56iaCpyBLkb) | 3:04 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 69 | [Ihmisen ikävä toisen luo](https://open.spotify.com/track/6pKNXyQ10fTPDUZYzwIHaz) | [Mansesteri](https://open.spotify.com/artist/11OHTUETXL6VR3cnv9KNF1), [Inde Morjesta](https://open.spotify.com/artist/0oozCXvUcoIq24bjj0JKdY), [Mikko Alatalo](https://open.spotify.com/artist/0sXNaEi0XSZIEkCAOACaMI) | [Ihmisen ikävä toisen luo](https://open.spotify.com/album/3ETPXRQTmqp6d9VqYGSOgp) | 3:05 |
 | 70 | [Bad Body](https://open.spotify.com/track/3hRfRk5bwhrvHkHIE1KVje) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [W1NDY SEASON](https://open.spotify.com/album/0AMQd51PmhVYbnM3M35dBL) | 2:34 |
 
-Snapshot ID: `MCxlMmI5ZTkxOTkyMjkyMDdiNWQ4MDFkNjRhYjM5MDg5N2MyODJhZmFh`
+Snapshot ID: `MCxmMTA1M2U4MzdjYjNjZjA1YWQ5ZTExODhkNTI0OTMxOGFmZmVhMGFj`

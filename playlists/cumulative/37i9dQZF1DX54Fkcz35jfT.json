@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Age Factory",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Hey Smith",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 219533,
       "name": "BANG!!!",
       "url": "https://open.spotify.com/track/0GbTk360zzHOkQqyS6hvUz"
+    },
+    {
+      "album": {
+        "name": "Gutless",
+        "url": "https://open.spotify.com/album/3BjN8m2MWcPAWet9PIxBCE"
+      },
+      "artists": [
+        {
+          "name": "Sinker",
+          "url": "https://open.spotify.com/artist/5ssYTZaF3nmIR7PLJOxJ6f"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191506,
+      "name": "Baseball Boys",
+      "url": "https://open.spotify.com/track/77tcPNCVlARy4PGSIn5ZfZ"
     },
     {
       "album": {
@@ -554,7 +572,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 131680,
       "name": "Drain Water",
       "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
@@ -738,6 +756,24 @@
       "duration_ms": 237080,
       "name": "GROUNDSWELL",
       "url": "https://open.spotify.com/track/4REYshNixTxWSmDaEmA3aC"
+    },
+    {
+      "album": {
+        "name": "800TRIBUTE-champloo is the BEST!!2-",
+        "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
+      },
+      "artists": [
+        {
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164313,
+      "name": "HAPPY BIRTHDAY",
+      "url": "https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth"
     },
     {
       "album": {
@@ -1246,10 +1282,28 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 147157,
       "name": "living dead!!",
       "url": "https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL"
+    },
+    {
+      "album": {
+        "name": "LOOPLINE",
+        "url": "https://open.spotify.com/album/2JW1byxbmL4SHPOIrpvY3M"
+      },
+      "artists": [
+        {
+          "name": "TIGER&DRAGON",
+          "url": "https://open.spotify.com/artist/75XpMJGYvVgIBTM8bJk5C1"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184552,
+      "name": "LOOPLINE",
+      "url": "https://open.spotify.com/track/4btdnpbFCZGRjfdnFMEzEo"
     },
     {
       "album": {
@@ -1300,7 +1354,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 241944,
       "name": "MAE",
       "url": "https://open.spotify.com/track/0YgGz6kZcMw4QXq2IM6tAE"
@@ -1682,7 +1736,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 214039,
       "name": "Orange Night",
       "url": "https://open.spotify.com/track/6KZPFuYlff4NA8Q9nIgWUv"
@@ -1816,6 +1870,24 @@
       "duration_ms": 120985,
       "name": "PLAYDEAD",
       "url": "https://open.spotify.com/track/6xI23gJ23oTq2EAwjE3gjb"
+    },
+    {
+      "album": {
+        "name": "PSYCHO SISTER!!!!!",
+        "url": "https://open.spotify.com/album/2vG6YILPwBSvmytTQPvki1"
+      },
+      "artists": [
+        {
+          "name": "\u9996\u632f\u308aDolls",
+          "url": "https://open.spotify.com/artist/5YkHlLjqjiBcL9Jv5PImcE"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247533,
+      "name": "PSYCHO SISTER!!!!!",
+      "url": "https://open.spotify.com/track/7KOEnaAtgweLXXtwlLNJT8"
     },
     {
       "album": {
@@ -2080,6 +2152,24 @@
       "duration_ms": 226920,
       "name": "Salamander",
       "url": "https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq"
+    },
+    {
+      "album": {
+        "name": "Sapient Creature",
+        "url": "https://open.spotify.com/album/08leow67n0cloZA0lgygt8"
+      },
+      "artists": [
+        {
+          "name": "DURAN",
+          "url": "https://open.spotify.com/artist/0xJrq1b8p7EYC9aDVF9tHP"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271409,
+      "name": "Sapient Creature",
+      "url": "https://open.spotify.com/track/0EpvrHIm3434StMFhzrfmh"
     },
     {
       "album": {
@@ -2888,7 +2978,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 192506,
       "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc \u30b7\u30fc\u30b5\u30a4\u30c9",
       "url": "https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7"
@@ -2996,7 +3086,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 240550,
       "name": "\u30e6\u30a8\u30cb",
       "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
@@ -3036,6 +3126,24 @@
       "duration_ms": 251400,
       "name": "\u5bc2\u5bde -sekibaku-",
       "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"
+    },
+    {
+      "album": {
+        "name": "800TRIBUTE-champloo is the BEST!!2-",
+        "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260278,
+      "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM"
     },
     {
       "album": {

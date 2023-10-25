@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 58973,
+  "num_followers": 59003,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjliMmJlOTQ2YTAzZTg1Mjk3MjI0NWIwZDEzNzQxYjYwMjFhMTU2",
+  "snapshot_id": "MCxkODJmMDQyNWZlZTcxZGZkYTY2MmVlMzYxOTE0OWFkZTU1N2ViYTJi",
   "tracks": [
     {
       "added_at": "2023-10-05 11:28:23",
@@ -239,18 +239,18 @@
     {
       "added_at": "2023-10-05 11:28:23",
       "album": {
-        "name": "Christmas With Peggy Lee",
-        "url": "https://open.spotify.com/album/1gEGRhDmUBbWEIHWPzERrr"
+        "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
+        "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 180600,
-      "name": "It's Christmas Time Again",
-      "url": "https://open.spotify.com/track/2nOIIFBX3sh9xTpkwVKmZm"
+      "duration_ms": 165160,
+      "name": "Ole Santa",
+      "url": "https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0"
     },
     {
       "added_at": "2023-10-05 11:28:23",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-10-05 11:28:23",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
-        "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
+        "name": "Christmas With Peggy Lee",
+        "url": "https://open.spotify.com/album/1gEGRhDmUBbWEIHWPzERrr"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 165160,
-      "name": "Ole Santa",
-      "url": "https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0"
+      "duration_ms": 180600,
+      "name": "It's Christmas Time Again",
+      "url": "https://open.spotify.com/track/2nOIIFBX3sh9xTpkwVKmZm"
     },
     {
       "added_at": "2023-10-05 11:28:23",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-10-05 11:28:23",
       "album": {
-        "name": "Baby It's Cold Outside And I Have The Christmas Blues (2022 Remastered)",
-        "url": "https://open.spotify.com/album/0sUHXrRbPoVNVhQSjhnnjT"
-      },
-      "artists": [
-        {
-          "name": "Holly Cole",
-          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "If We Make It Through December - 2022 Remastered",
-      "url": "https://open.spotify.com/track/2hZ9HmWOmA20tDlHC2vrMz"
-    },
-    {
-      "added_at": "2023-10-05 11:28:23",
-      "album": {
         "name": "Pretty Swingin' Christmas",
         "url": "https://open.spotify.com/album/6gC08N6tOwaZutYVa1okgU"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 129042,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/2rQ9JzgsnYrY4mmlMaSDUH"
+    },
+    {
+      "added_at": "2023-10-05 11:28:23",
+      "album": {
+        "name": "Baby It's Cold Outside And I Have The Christmas Blues (2022 Remastered)",
+        "url": "https://open.spotify.com/album/0sUHXrRbPoVNVhQSjhnnjT"
+      },
+      "artists": [
+        {
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "If We Make It Through December - 2022 Remastered",
+      "url": "https://open.spotify.com/track/2hZ9HmWOmA20tDlHC2vrMz"
     },
     {
       "added_at": "2023-10-05 11:28:23",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-05 11:28:23",
       "album": {
-        "name": "All I Want For Christmas Is You",
-        "url": "https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8"
-      },
-      "artists": [
-        {
-          "name": "Midtown Players",
-          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
-        }
-      ],
-      "duration_ms": 241374,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD"
-    },
-    {
-      "added_at": "2023-10-05 11:28:23",
-      "album": {
         "name": "A Nancy Wilson Christmas",
         "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 237320,
       "name": "All Through The Night",
       "url": "https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ"
+    },
+    {
+      "added_at": "2023-10-05 11:28:23",
+      "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8"
+      },
+      "artists": [
+        {
+          "name": "Midtown Players",
+          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
+        }
+      ],
+      "duration_ms": 241374,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD"
     },
     {
       "added_at": "2023-10-05 11:28:23",
@@ -835,18 +835,22 @@
     {
       "added_at": "2023-10-05 11:28:23",
       "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+        "name": "The Christmas Feeling",
+        "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
       },
       "artists": [
         {
-          "name": "Silvio Thompson Band",
-          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
+          "name": "Peter Asplund",
+          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
+        },
+        {
+          "name": "Vivian Buczek",
+          "url": "https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq"
         }
       ],
-      "duration_ms": 200180,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
+      "duration_ms": 298813,
+      "name": "Christmas Memories",
+      "url": "https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy"
     }
   ],
   "unique_name": "Fireside Christmas Jazz",

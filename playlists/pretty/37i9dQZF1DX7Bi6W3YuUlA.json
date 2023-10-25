@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
-  "num_followers": 31249,
+  "num_followers": 31297,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTdhYjlkZGYwYTQxZWVlMGM0YmFiODQ4ZWI4YWZmODhlMzgwZDcw",
+  "snapshot_id": "MCxkNGE1Y2Q0OWE1ZDk3Mzc3M2YxZmU4NzAyMGY2NDRkYjA4ZjhlZGFk",
   "tracks": [
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 193685,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Swerve That",
         "url": "https://open.spotify.com/album/3DB8Imp4jE0LaXof9fzu11"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 156309,
       "name": "Swerve That",
       "url": "https://open.spotify.com/track/6IRXMRAckv2A7lB7rrFzrP"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
-      },
-      "artists": [
-        {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
-        }
-      ],
-      "duration_ms": 193685,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "It Could Be Worse",
+        "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 144021,
+      "name": "It Could Be Worse",
+      "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 186626,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "It Could Be Worse",
-        "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
-      },
-      "artists": [
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 144021,
-      "name": "It Could Be Worse",
-      "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Who That Is",
-        "url": "https://open.spotify.com/album/1YorEgzQ3eu2DmskAzB3Sq"
-      },
-      "artists": [
-        {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
-        },
-        {
-          "name": "Dj Laz",
-          "url": "https://open.spotify.com/artist/5REF3rMSUd6bSRwgV09dzQ"
-        }
-      ],
-      "duration_ms": 144533,
-      "name": "Who That Is",
-      "url": "https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "A Beautiful Revolution (Pt 1)",
         "url": "https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 173226,
       "name": "Don\u2019t Forget Who You Are",
       "url": "https://open.spotify.com/track/2bUOUKpJmF0KQqWpu8HIlX"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Who That Is",
+        "url": "https://open.spotify.com/album/1YorEgzQ3eu2DmskAzB3Sq"
+      },
+      "artists": [
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        },
+        {
+          "name": "Dj Laz",
+          "url": "https://open.spotify.com/artist/5REF3rMSUd6bSRwgV09dzQ"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Who That Is",
+      "url": "https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny"
     },
     {
       "added_at": "2023-02-18 05:58:41",

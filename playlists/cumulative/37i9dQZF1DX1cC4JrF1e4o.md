@@ -4,7 +4,7 @@
 
 > Timeless and smooth\. Here are your favorite crooners\. Cover: Nat King Cole.
 
-114 songs - 5 hr 38 min
+115 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All Of You](https://open.spotify.com/track/5WrIzbjBNw1zhGBnIwZNeM) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [My Greatest Songs](https://open.spotify.com/album/1YhrGPqZY6hba3OArznUwN) | 2:38 | 2022-01-19 | 2022-07-29 |
 | [And I Love You So](https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [It's Impossible](https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV) | 3:17 | 2022-01-19 | 2023-10-17 |
 | [As Time Goes By](https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Commodore Recordings](https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z) | 3:14 | 2022-01-19 |  |
+| [Autumn Leaves \- Remastered 1987](https://open.spotify.com/track/3AgqQbQWYLGsemeBHk1U1d) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 2:40 | 2023-10-24 |  |
 | [Azure \- Remastered](https://open.spotify.com/track/3izG6ro2ORtG1SYKI2TloD) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Capitol Collector's Series](https://open.spotify.com/album/0L3a0HwsJSOR0dARdZuWzs) | 2:24 | 2022-01-19 | 2022-04-21 |
 | [Beyond the Sea](https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [That's All](https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn) | 2:52 | 2022-01-19 |  |
 | [Black Coffee](https://open.spotify.com/track/56IQUfsUskt9VHe6YM6kue) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [After Hours](https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef) | 3:20 | 2022-09-08 |  |
@@ -83,7 +84,7 @@
 | [Personality](https://open.spotify.com/track/1kPvyhybeg114W9k20032n) | [Johnny Mercer](https://open.spotify.com/artist/5cBHm2CXrbncYIDzrxF4Vi), [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [Capitol Collectors Series](https://open.spotify.com/album/2VCJU8ozxkT4v2P7H4l8I8) | 2:49 | 2022-01-19 | 2022-04-20 |
 | [She Was Too Good to Me](https://open.spotify.com/track/5ONPeQRp1m4KJ0M57qBj1D) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [She Was Too Good To Me \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/2VtDHqGLNfqQP7mB5pGVgH) | 4:42 | 2022-01-19 | 2022-07-28 |
 | [Singin’ In The Rain](https://open.spotify.com/track/32N9DjXSINSBUhVqZxN6EC) | [Gene Kelly](https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk) | [Singin' In The Rain](https://open.spotify.com/album/0LL5jytt6mqAFGLm2wUUm4) | 2:55 | 2022-01-19 | 2022-05-10 |
-| [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 | 2022-01-19 |  |
+| [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 | 2022-01-19 | 2023-10-25 |
 | [Someone To Watch Over Me](https://open.spotify.com/track/5RcvlmVx2xtFcp2Ta5pw7X) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 3:16 | 2022-01-19 |  |
 | [Spanish Eyes](https://open.spotify.com/track/55Z0KHofKqhOMIOygAVXxm) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [My Cherie](https://open.spotify.com/album/4XdE4rX22hiMBUgRoMxlv0) | 2:46 | 2022-01-19 |  |
 | [Stardust](https://open.spotify.com/track/0VX8ptOQhUt1SIOHYLZGNN) | [Hoagy Carmichael](https://open.spotify.com/artist/7j8I1aIBA9Z9bMy7mTwWKk) | [The Stardust Road](https://open.spotify.com/album/1e1zz72xREdXtdedgG8EDx) | 2:26 | 2022-01-19 | 2023-09-15 |

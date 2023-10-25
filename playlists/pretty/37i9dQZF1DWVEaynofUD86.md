@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEaynofUD86.md) - [plain]
 
 > It's not summer without you\. Listen to the music from and inspired by The Summer I Turned Pretty, new season now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,785 likes - 163 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,890 likes - 163 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEaynofUD86.md) - [plain]
 | 4 | [Happy Together](https://open.spotify.com/track/5lsqoAqRnzpkDze5iy3VxL) | [FLOOR CRY](https://open.spotify.com/artist/0oNT7doR0CV9mAXYDSk8Tx) | [Covers](https://open.spotify.com/album/6YsYS9U2ngTayFloBzJMoP) | 2:20 |
 | 5 | [Hold My Head](https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:46 |
 | 6 | [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 |
-| 7 | [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 |
+| 7 | [I Can't Help But Feel](https://open.spotify.com/track/4zgGNKt9YQGUQHRu9FgZPM) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Hidden Youth](https://open.spotify.com/album/0p6lFaFEpTcukkXu793jXB) | 2:58 |
 | 8 | [How to disappear](https://open.spotify.com/track/4qUtC2BwFC154Ha8YQRrkk) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:48 |
 | 9 | [Bigger Than The Whole Sky](https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:38 |
 | 10 | [Getting Even With Steven \(from the Amazon Original \- The Summer I Turned Pretty\)](https://open.spotify.com/track/3Nqqsq11jozi0KjffQYcqV) | [Milo](https://open.spotify.com/artist/5IoqcPMBVbmgT2u6oLzqcm) | [Getting Even With Steven \(from the Amazon Original \- The Summer I Turned Pretty\)](https://open.spotify.com/album/3gcpOWvNXcEUydUs8jd07a) | 1:19 |
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEaynofUD86.md) - [plain]
 | 162 | [Funeral](https://open.spotify.com/track/4GvdsVns332wQ3JsWAg2OV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:52 |
 | 163 | [Laurel and Susannah Hug](https://open.spotify.com/track/7I8LpR7hOSY1i7ximwIKS5) | [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [The Summer I Turned Pretty: Season 1 \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/5uAzefaTa85YBHL6N5u2O1) | 1:13 |
 
-Snapshot ID: `MCw2ODBkYWVlZjM3YjRmMjZiN2U0YmQyZmEzN2M3OGQyMGNiNWM2M2U0`
+Snapshot ID: `MCw3NmYzODFhMjkxZjBkNzAwZDMzZThlMDQ2YjIxODQ5ODYzOGY2NjYz`

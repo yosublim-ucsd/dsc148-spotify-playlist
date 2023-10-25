@@ -1061,6 +1061,32 @@
     },
     {
       "album": {
+        "name": "Isaias 40",
+        "url": "https://open.spotify.com/album/6HjtpIwyVG5hnK1SZJ1Nn8"
+      },
+      "artists": [
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        },
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423840,
+      "name": "Isaias 40",
+      "url": "https://open.spotify.com/track/23rzAldzWKSi2KpTmg1dmg"
+    },
+    {
+      "album": {
         "name": "Encuentros",
         "url": "https://open.spotify.com/album/0z30sdnlJKKwputVLinplp"
       },
@@ -1080,7 +1106,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 423840,
       "name": "Isaias 40",
       "url": "https://open.spotify.com/track/5BtMxu4qq1QRPBGzfgjp1J"

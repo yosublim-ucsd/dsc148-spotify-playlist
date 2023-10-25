@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with GRiZ
 
-630 songs - 1 day 12 hr 22 min
+631 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [CASHMERE](https://open.spotify.com/track/5NJkNOXKEfThIuCNOjraGy) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [boler mani](https://open.spotify.com/artist/7uAzXw50IscCTZwLGTP2nc) | [CASHMERE](https://open.spotify.com/album/7n2XaVtj6fO1MFnKz5yh8V) | 2:59 | 2022-09-16 | 2023-04-01 |
 | [catalyst](https://open.spotify.com/track/40La981foZ1iPvfqfhgu7Y) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [kinder opposites](https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT) | 1:36 | 2023-07-07 | 2023-08-12 |
 | [Catharsis X](https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Catharsis X](https://open.spotify.com/album/3ryV1s0kjVYKwRR4Is6Dqs) | 4:04 | 2022-04-01 | 2022-09-03 |
-| [Celebrate](https://open.spotify.com/track/4kwL1llo15KnxK4SuX5Vrv) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Celebrate](https://open.spotify.com/album/5Na2qPre4PeDr7b9byYF7M) | 3:14 | 2023-07-07 |  |
+| [Celebrate](https://open.spotify.com/track/4kwL1llo15KnxK4SuX5Vrv) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Celebrate](https://open.spotify.com/album/5Na2qPre4PeDr7b9byYF7M) | 3:14 | 2023-07-07 | 2023-10-25 |
 | [Charmer](https://open.spotify.com/track/0qlcVvGMXn1aRB9nGPlaYN) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Charmer](https://open.spotify.com/album/24LzfYkJVldWDPJWfilfoM) | 3:36 | 2023-07-07 | 2023-09-24 |
 | [Chase The Sun](https://open.spotify.com/track/7kE5SGVpogBX5VXiTgYiRg) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Chase The Sun](https://open.spotify.com/album/1tXlFJklT4d4Jc5TtuWiwc) | 3:09 | 2023-09-15 |  |
 | [Cheat Code](https://open.spotify.com/track/7JJnlfOlh7dmQhjRDkyG0x) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [REDLESS](https://open.spotify.com/artist/30j2u2oo0Q8v2pBjnb3ctJ) | [Cheat Code](https://open.spotify.com/album/41N4WEXPbcLCJ5rgOQc6FC) | 2:50 | 2022-07-01 | 2022-12-03 |
@@ -509,6 +509,7 @@
 | [Shoyu](https://open.spotify.com/track/7ammiC4TKHgMXP8RnccYcA) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 2:21 | 2022-09-16 | 2023-07-29 |
 | [Shut Up](https://open.spotify.com/track/6asMDae76R5jPI6vQJkwwp) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [Shut Up](https://open.spotify.com/album/0ajXcWmw9BnS9UE81Ghodp) | 3:07 | 2022-07-08 | 2023-07-08 |
 | [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 | 2023-09-22 | 2023-10-23 |
+| [SHYPOP](https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:28 | 2023-10-20 |  |
 | [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 | 2023-08-25 | 2023-09-26 |
 | [Signal](https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Signal](https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj) | 3:14 | 2023-05-19 | 2023-09-16 |
 | [Silent](https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Silent](https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs) | 3:10 | 2022-07-01 | 2023-07-08 |

@@ -1,12 +1,12 @@
 {
   "description": "pop woke up and chose chaos. cover: EMELINE",
-  "num_followers": 81472,
+  "num_followers": 81567,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Yjg3OTc1NGI3YWIyZTIzZDkwMTliZDAwYTBhNzcwZDQ2ZDI4YWIw",
+  "snapshot_id": "MCw3ZjMwYWVmMGNjZThiMGUzZDBjMDhkYjZhMzBjNzIyY2Q0YjllZmI2",
   "tracks": [
     {
       "added_at": "2022-11-15 00:54:21",
@@ -311,22 +311,18 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+        "name": "The Monster You Made Me",
+        "url": "https://open.spotify.com/album/3aLOGvykDskOiDaLnTghjH"
       },
       "artists": [
         {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "Chloe Adams",
+          "url": "https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u"
         }
       ],
-      "duration_ms": 159096,
-      "name": "emo girl (feat. WILLOW)",
-      "url": "https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe"
+      "duration_ms": 129698,
+      "name": "Dirty Thoughts",
+      "url": "https://open.spotify.com/track/7zZDRq9CLl37OAywR39KVy"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -347,18 +343,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "The Monster You Made Me",
-        "url": "https://open.spotify.com/album/3aLOGvykDskOiDaLnTghjH"
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
       "artists": [
         {
-          "name": "Chloe Adams",
-          "url": "https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u"
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 129698,
-      "name": "Dirty Thoughts",
-      "url": "https://open.spotify.com/track/7zZDRq9CLl37OAywR39KVy"
+      "duration_ms": 159096,
+      "name": "emo girl (feat. WILLOW)",
+      "url": "https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "fleabag",
-        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
+        "name": "Alive and Unwell",
+        "url": "https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
         }
       ],
-      "duration_ms": 176988,
-      "name": "fleabag",
-      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
+      "duration_ms": 157138,
+      "name": "10 Things I Hate About You",
+      "url": "https://open.spotify.com/track/7I4XALvCb2VEmOCtGUe5uY"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -519,6 +519,22 @@
       "duration_ms": 193270,
       "name": "Vroom Vroom",
       "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "fleabag",
+        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 176988,
+      "name": "fleabag",
+      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -591,6 +607,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 211197,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "YES MOM",
         "url": "https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS"
       },
@@ -603,26 +635,6 @@
       "duration_ms": 162364,
       "name": "YES MOM",
       "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 163321,
-      "name": "Bois Lie (feat. Machine Gun Kelly)",
-      "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -643,24 +655,8 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 211197,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "Alive and Unwell",
-        "url": "https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB"
+        "name": "What Just Happened?",
+        "url": "https://open.spotify.com/album/257QBCiFw8K0YFITOhKv2J"
       },
       "artists": [
         {
@@ -668,9 +664,29 @@
           "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
         }
       ],
-      "duration_ms": 157138,
-      "name": "10 Things I Hate About You",
-      "url": "https://open.spotify.com/track/7I4XALvCb2VEmOCtGUe5uY"
+      "duration_ms": 155260,
+      "name": "F U Anthem",
+      "url": "https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 163321,
+      "name": "Bois Lie (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -735,22 +751,6 @@
       "duration_ms": 126825,
       "name": "Mental Health",
       "url": "https://open.spotify.com/track/7JTn6dpOUVDSSalQd4RRy7"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "What Just Happened?",
-        "url": "https://open.spotify.com/album/257QBCiFw8K0YFITOhKv2J"
-      },
-      "artists": [
-        {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
-        }
-      ],
-      "duration_ms": 155260,
-      "name": "F U Anthem",
-      "url": "https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -835,22 +835,6 @@
       "duration_ms": 218660,
       "name": "Middle Fingers",
       "url": "https://open.spotify.com/track/0zMjJjBTngvWZqZ9AAUOpF"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "Twinkle Twinkle",
-        "url": "https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb"
-      },
-      "artists": [
-        {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
-        }
-      ],
-      "duration_ms": 156937,
-      "name": "Twinkle Twinkle",
-      "url": "https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -959,22 +943,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "pretty poison",
-        "url": "https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 164994,
-      "name": "keep me afraid",
-      "url": "https://open.spotify.com/track/1M3DeTf5xVoEPNL8FF5vsi"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "debbie downer",
         "url": "https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6"
       },
@@ -991,6 +959,22 @@
       "duration_ms": 159617,
       "name": "debbie downer",
       "url": "https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "pretty poison",
+        "url": "https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 164994,
+      "name": "keep me afraid",
+      "url": "https://open.spotify.com/track/1M3DeTf5xVoEPNL8FF5vsi"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -1159,22 +1143,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "Serpentina",
-        "url": "https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 175527,
-      "name": "Skinnydipped",
-      "url": "https://open.spotify.com/track/6w6ZUEFgkLvMMSyn4zBQXR"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d"
       },
@@ -1251,6 +1219,22 @@
       "duration_ms": 180626,
       "name": "ugly",
       "url": "https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "Serpentina",
+        "url": "https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 175527,
+      "name": "Skinnydipped",
+      "url": "https://open.spotify.com/track/6w6ZUEFgkLvMMSyn4zBQXR"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -1335,6 +1319,22 @@
       "duration_ms": 181706,
       "name": "Brad Pitt",
       "url": "https://open.spotify.com/track/603NmSpDReeERhC8heOeVB"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/0qnu5fodeC4uxonNF1G22f"
+      },
+      "artists": [
+        {
+          "name": "CXLOE",
+          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
+        }
+      ],
+      "duration_ms": 197013,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/6BjW5OmG3t8KoibCQGxW5J"
     }
   ],
   "unique_name": "POP EDGE",

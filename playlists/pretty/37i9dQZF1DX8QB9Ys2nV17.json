@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 173104,
+  "num_followers": 173119,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTNhMTMxNWFjMDVjMmJhMTU5NDczMzMxNTY4NTYwNDA1ZmQ4MWVh",
+  "snapshot_id": "MCxmNzJmYjE4MzY2NWJkODY0ZWYzNDU3MmRiNGUzNzYyZTY2M2YwYTdl",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Back To The River",
-        "url": "https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc"
-      },
-      "artists": [
-        {
-          "name": "Susan Tedeschi",
-          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "Back To The River",
-      "url": "https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Uncivil War",
         "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 216171,
       "name": "Money Makes You Ugly",
       "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Back To The River",
+        "url": "https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc"
+      },
+      "artists": [
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Back To The River",
+      "url": "https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 266071,
+      "name": "Clotilda's On Fire",
+      "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Juice Me Up",
         "url": "https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 303600,
       "name": "Falling",
       "url": "https://open.spotify.com/track/30h268bCKmGWxFleXGYATy"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Ain't Too Worried Yet",
-        "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Ain't Too Worried Yet",
-      "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+        "name": "Ain't Too Worried Yet",
+        "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
       },
       "artists": [
         {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
         }
       ],
-      "duration_ms": 266071,
-      "name": "Clotilda's On Fire",
-      "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
+      "duration_ms": 212903,
+      "name": "Ain't Too Worried Yet",
+      "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "The Ice Queen",
-        "url": "https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe"
-      },
-      "artists": [
-        {
-          "name": "Sue Foley",
-          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
-        }
-      ],
-      "duration_ms": 383133,
-      "name": "The Ice Queen",
-      "url": "https://open.spotify.com/track/5Jhl0KvkFWBRNzLdY2iq3J"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "The Lily",
         "url": "https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 370760,
       "name": "Gemini Heart",
       "url": "https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "The Ice Queen",
+        "url": "https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe"
+      },
+      "artists": [
+        {
+          "name": "Sue Foley",
+          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
+        }
+      ],
+      "duration_ms": 383133,
+      "name": "The Ice Queen",
+      "url": "https://open.spotify.com/track/5Jhl0KvkFWBRNzLdY2iq3J"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 210989,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/6dB3CBDenGlbN82nWYTFIu"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Heavy Hearts Hard Fists",
         "url": "https://open.spotify.com/album/0fo7S7VAXlvSnmApHKJ2if"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 197640,
       "name": "Heavy Hearts Hard Fists",
       "url": "https://open.spotify.com/track/3s4ZPDlawFagjAr5yMRSMx"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/6dB3CBDenGlbN82nWYTFIu"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Ain't Gonna Hush!",
-        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
-      },
-      "artists": [
-        {
-          "name": "Saffire-The Uppity Blues Women",
-          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
-        }
-      ],
-      "duration_ms": 138066,
-      "name": "Ain't Gonna Hush",
-      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Nowhere Left to Go",
         "url": "https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 227333,
       "name": "Nowhere Left to Go",
       "url": "https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Ain't Gonna Hush!",
+        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
+      },
+      "artists": [
+        {
+          "name": "Saffire-The Uppity Blues Women",
+          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
+        }
+      ],
+      "duration_ms": 138066,
+      "name": "Ain't Gonna Hush",
+      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Masters of War",
-        "url": "https://open.spotify.com/album/7lAF2ragTBGGpRfa8m1AzZ"
-      },
-      "artists": [
-        {
-          "name": "Dani Wilde",
-          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
-        }
-      ],
-      "duration_ms": 296413,
-      "name": "Masters of War",
-      "url": "https://open.spotify.com/track/4uEyWg6xjJ9uYoJYTuWg8U"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Moon Goes Missing",
         "url": "https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh"
       },
@@ -883,18 +867,38 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA"
+        "name": "Masters of War",
+        "url": "https://open.spotify.com/album/7lAF2ragTBGGpRfa8m1AzZ"
       },
       "artists": [
         {
-          "name": "TORA",
-          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
         }
       ],
-      "duration_ms": 180583,
-      "name": "Cry for Me",
-      "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
+      "duration_ms": 296413,
+      "name": "Masters of War",
+      "url": "https://open.spotify.com/track/4uEyWg6xjJ9uYoJYTuWg8U"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Change in the Weather: Janiva Magness Sings John Fogerty",
+        "url": "https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5"
+      },
+      "artists": [
+        {
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+        },
+        {
+          "name": "Sam Morrow",
+          "url": "https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Lodi",
+      "url": "https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy"
     }
   ],
   "unique_name": "EQUAL Blues",

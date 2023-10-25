@@ -1,12 +1,12 @@
 {
   "description": "Midwest music breaking waves. Cover: <a href=\"spotify:artist:3DbwFQlvLxRSi2uX8mf81A\">Sexyy Red</a>",
-  "num_followers": 8845,
+  "num_followers": 8873,
   "original_name": "Ripple Effect:  Midwest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGZkODEzOTgxODI0ZGFkNDI0NDNmOTk2NGZkOTBhNTBiMmUwZTI2",
+  "snapshot_id": "MCw4OTI1ZTJlZDIzNGNiNmNlOTlmN2QwZGM1MjVmOWU0MTkxNTVlZjk3",
   "tracks": [
     {
       "added_at": "2023-10-13 19:42:43",
@@ -467,26 +467,6 @@
       "duration_ms": 243899,
       "name": "Route Paradise",
       "url": "https://open.spotify.com/track/5c1aygV1pk2w3TMj63E8ZM"
-    },
-    {
-      "added_at": "2023-10-13 19:42:43",
-      "album": {
-        "name": "Smack Sh*t",
-        "url": "https://open.spotify.com/album/3Wa0UdCqXUAWNNuEr9ulHk"
-      },
-      "artists": [
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        }
-      ],
-      "duration_ms": 179370,
-      "name": "Smack Sh*t",
-      "url": "https://open.spotify.com/track/02G0mbFgtqS3h1Ek29tBWW"
     },
     {
       "added_at": "2023-10-13 19:42:43",
@@ -1087,7 +1067,7 @@
     {
       "added_at": "2023-10-13 19:42:43",
       "album": {
-        "name": "Steph Curry",
+        "name": "Steph Curry (feat. Boldy James)",
         "url": "https://open.spotify.com/album/7EcXVrFsbFTg41bIMlrlL8"
       },
       "artists": [
@@ -1101,7 +1081,7 @@
         }
       ],
       "duration_ms": 138805,
-      "name": "Steph Curry",
+      "name": "Steph Curry (feat. Boldy James)",
       "url": "https://open.spotify.com/track/5HRytt4DtMIhfJryzfXCh6"
     },
     {

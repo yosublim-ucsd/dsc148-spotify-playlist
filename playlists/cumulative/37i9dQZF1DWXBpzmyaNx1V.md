@@ -4,7 +4,7 @@
 
 > Un paseo por la ciudad pintada de violeta.
 
-62 songs - 3 hr 56 min
+63 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Think of You](https://open.spotify.com/track/1TMNQtfsu3Bwa808I3Hx5X) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [What Do You Want It To Be?](https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL) | 4:18 | 2022-03-13 |  |
 | [Thinking Of You](https://open.spotify.com/track/5uWLuFDmMs1r44KFfUwWiA) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Lisa Tomlins](https://open.spotify.com/artist/6SisxwZsa3yQ3VTNGJ8AXR) | [Melodies](https://open.spotify.com/album/5gtaS4I65T2W5bIyFD2SEU) | 7:00 | 2022-03-13 |  |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2022-03-13 |  |
+| [Una Mañana](https://open.spotify.com/track/4svWyFxwaXJYfLlUNqw0uv) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Una Mañana](https://open.spotify.com/album/1viiLY7oeUX6GkIdJ9XxnZ) | 3:41 | 2023-10-24 |  |
 | [Under Cherry Blossom Trees](https://open.spotify.com/track/2FjqTNsMtqmat4oU2PpYwK) | [neeks](https://open.spotify.com/artist/01wJR8orhmzSLT8rO8rM5N) | [Under Cherry Blossom Trees](https://open.spotify.com/album/7KY5rT4oXqmTA3wflzfox0) | 1:25 | 2022-03-13 |  |
 | [Unfold](https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop) | 1:30 | 2023-03-31 |  |
 | [Visions](https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:55 | 2022-03-13 |  |

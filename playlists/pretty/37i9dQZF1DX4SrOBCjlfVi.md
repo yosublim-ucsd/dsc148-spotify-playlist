@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring 21 Savage, Lil Uzi Vert, City Girls and more\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,160 likes - 49 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,273 likes - 49 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [Give Em A Show](https://open.spotify.com/track/5l6eIWTmwDkadW03IDbYIe) | [Kidd Kenn](https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m) | [Busy Being Bad](https://open.spotify.com/album/6hVTA7m6JrrK16haH4AAwI) | 3:36 |
 | 49 | [Contacts](https://open.spotify.com/track/0EKNlEfWLUUlXFV2Xv5Ynj) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Contacts](https://open.spotify.com/album/1i0cSt3OejDSrTE7b6op3l) | 2:23 |
 
-Snapshot ID: `MCw4NDIzNDI1NzA2YWQ3NDE3NWM4ZTk5YjQ1MTA0YTUxNTA4ZGU3YzMy`
+Snapshot ID: `MCw2NDk2MDVjMDA0MTU3OWRiMjU4NmUyYjM5YTU5YjVhMTZmYTcxODNj`

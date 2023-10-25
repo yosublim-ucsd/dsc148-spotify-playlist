@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with SiM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,744 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,936 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [WILDLIFE](https://open.spotify.com/track/3RDSLS7jjYebu90AsfXHsk) | [Rev Theory](https://open.spotify.com/artist/10n5DVRlZbjbZ5ffpwpn6l) | [WILDLIFE](https://open.spotify.com/album/6SgId9Y6WtNHsSz6dvbXGT) | 2:54 |
 | 50 | [Wavery](https://open.spotify.com/track/2THCSs7C9BxHuD9yBfJvnU) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [This World is Going to Ruin You](https://open.spotify.com/album/2AZ6B4mTJHQYee6U64rsXa) | 4:40 |
 
-Snapshot ID: `MCw3NjhjOWFjMDM2Y2NiZTRmYjM5MjY4NDc3YjhkNDBhYTk1YjA3NWUw`
+Snapshot ID: `MCxmOGQ1OTVlYmVjNGQ5OGUwYWMyNjQ3OWJmZWI1NzBmZDM4MjNlNjk2`

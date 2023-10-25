@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-652 songs - 1 day 20 hr 50 min
+653 songs - 1 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,6 +633,7 @@
 | [Wagging Tongue \- Wet Leg Remix](https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wagging Tongue \(Remixes\)](https://open.spotify.com/album/3Oc7qOr81qHQIfNMjdEU1H) | 4:38 | 2023-07-12 | 2023-09-07 |
 | [Waiting Game](https://open.spotify.com/track/76k91hWeo3IEP9re5hKbt0) | [Junior Boys](https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR) | [Waiting Game](https://open.spotify.com/album/0SWx85JBX6hDzzWZZWbSuP) | 5:29 | 2022-10-12 | 2022-11-17 |
 | [Waiting In The Car](https://open.spotify.com/track/7twbKxmUCa7CJClSytrD2I) | [Mun Sing](https://open.spotify.com/artist/4i2WqYOYiN18NvrlWyNzfc) | [Waiting In The Car](https://open.spotify.com/album/6MNULW9FcQK3DfEDygB305) | 2:34 | 2023-05-03 | 2023-06-15 |
+| [Wasterpiece](https://open.spotify.com/track/0SxY0AzOnS96W8qAvD2dAc) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Wasterpiece](https://open.spotify.com/album/1OgkglNXgSMZsMzSlDjOAg) | 3:11 | 2023-10-24 |  |
 | [Watcher](https://open.spotify.com/track/2yM9xDhNKZWASkynqaOr9C) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Amber / Watcher](https://open.spotify.com/album/3jwveDyKQRKR18bTItbRsn) | 3:04 | 2023-08-30 | 2023-10-13 |
 | [Wave a Flag for Harvey Milk](https://open.spotify.com/track/1ucKIEDuGeZP2n9Cf1aGGa) | [Mr\. Greg](https://open.spotify.com/artist/1EfhVeO6Oi24r13WXUPyvn), [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Wave a Flag for Harvey Milk](https://open.spotify.com/album/1WGuKxMpGZoQqwT1dMe5Wz) | 3:22 | 2023-06-28 | 2023-08-10 |
 | [Wax](https://open.spotify.com/track/45MtG2vD5sc6imxYK6QLSt) | [W.A.T.](https://open.spotify.com/artist/3aruDbfcpaxFOtuEgrQoWz) | [World According To](https://open.spotify.com/album/0x33VyrEp3C2ZRFAgt8bWB) | 3:39 | 2023-09-27 |  |

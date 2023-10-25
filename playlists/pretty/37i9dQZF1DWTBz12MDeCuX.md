@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Amaru
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,061 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,301 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 9 | [I'll Be Missing You \(feat\. Faith Evans, 112\)](https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 5:01 |
 | 10 | [immer busy](https://open.spotify.com/track/6kxLxd8sYDnUCQU7j14dHd) | [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm), [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw), [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [immer busy](https://open.spotify.com/album/79FgUFxU44wogBZ5zOdjWZ) | 1:58 |
 | 11 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 |
-| 12 | [MAXIMUM RIZZ](https://open.spotify.com/track/2f90oF6hNsvRd2T7pDgNht) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [MAXIMUM RIZZ](https://open.spotify.com/album/6NB2r3HWlI3qKrVk69giA9) | 2:27 |
+| 12 | [MAXIMUM RIZZ](https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:27 |
 | 13 | [Feuer Wasser Sturm](https://open.spotify.com/track/0dEvVBg3ArnuJ9WBnPzOcj) | [Niclov](https://open.spotify.com/artist/79DrPht1MJw7KRXHINJDMd), [Baron](https://open.spotify.com/artist/0U6t1GxrhOhD5vSHhe2JqE) | [Feuer Wasser Sturm](https://open.spotify.com/album/4UN4DOOiKEvhsNTtOKKfhW) | 2:16 |
-| 14 | [SCHOCKVERLIEBT](https://open.spotify.com/track/1UAML9SPwhRrfpJLaSMOol) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn), [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [SCHOCKVERLIEBT](https://open.spotify.com/album/1t4WROocwtaYaE85J1RDLz) | 2:01 |
+| 14 | [SCHOCKVERLIEBT](https://open.spotify.com/track/2qHTMMgDpHTUMOQmMkRFvP) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn), [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [SCHOCKVERLIEBT](https://open.spotify.com/album/3AjZkTeoqEwIApTi2KKnNN) | 2:01 |
 | 15 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
 | 16 | [Mann vom Fach](https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [Mann vom Fach](https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF) | 2:40 |
 | 17 | [Wahnsinn](https://open.spotify.com/track/2pnZ17l3SWlz1StKUDIqSZ) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Wahnsinn](https://open.spotify.com/album/2AusTFYEhtdgeHvzwZ04DF) | 2:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [older](https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:17 |
 | 100 | [2 Handys](https://open.spotify.com/track/0mth0U5dtI4Fwmc3RrAERn) | [Gola Gianni](https://open.spotify.com/artist/1ldsuiSBiF9jsLQJape3e6) | [2 Handys](https://open.spotify.com/album/6rhIP92F4rmlNk32Lzlxtt) | 2:19 |
 
-Snapshot ID: `MCw0OTBjOTI4NDNlMjFhNjdlNzI4ZjQ5MTI0MTE0MzgyODRhNTg0OTI3`
+Snapshot ID: `MCxlZjZhOWEzYTVjMzgxMGYxNjBmNGZmNmQ3NWFiN2UzODVkZjU4MDQ0`

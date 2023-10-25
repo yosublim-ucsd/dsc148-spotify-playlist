@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,927 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,987 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Live Up to Your Name](https://open.spotify.com/track/7yaIFvg4FW9U3PRnBisAqi) | [Prince Lincoln](https://open.spotify.com/artist/7a6rxqAzBbhDL9fl4NXZzA) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 3:59 |
 | 60 | [Black Wax](https://open.spotify.com/track/1yZp4EH1pnKnytB1psEb7y) | [Pablove Black](https://open.spotify.com/artist/42FwZoRg0zhZgg2LUqglEz) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 3:24 |
 
-Snapshot ID: `MCxmMmFjODg4YzAyZmU2MjE3Y2MxMTNmYWI0ZTAyYjIyMWY0YmUyZjY4`
+Snapshot ID: `MCxiZmZlZjBlN2I2OGJlNmVkN2I5ZWQ4ODViZDFiZWQzNGY2YWQ5ZWZm`

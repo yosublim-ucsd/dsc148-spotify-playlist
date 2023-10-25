@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,282 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,300 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 30 | [She is Out](https://open.spotify.com/track/4BaquSwI7RbLtPhIU5fi9N) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Nuts](https://open.spotify.com/album/7e1AWSMpCR9n2R8pC1gQ1i) | 2:06 |
 | 31 | [High Tones](https://open.spotify.com/track/3t24v3y8GxyNExl2Y4wSIP) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [High Tones](https://open.spotify.com/album/1ksEjv3uBAWXLr6WuvxCCD) | 2:42 |
 | 32 | [Fire Thoughts](https://open.spotify.com/track/7s735OIUvkNxQu2wSocuhX) | [Malu](https://open.spotify.com/artist/3CoTT8moVNIv2ccIKX42gd) | [Fire Thoughts](https://open.spotify.com/album/4xfz16XcHIR0HMRTci57Zs) | 3:39 |
-| 33 | [Yesterday](https://open.spotify.com/track/53ATHsuT0gcejL7QvnDmWi) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Yesterday](https://open.spotify.com/album/4JiS0YEEcnxDITajHXvtBS) | 2:53 |
+| 33 | [Yesterday](https://open.spotify.com/track/11CL1qZhhP6aGufOCroYop) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Yesterday](https://open.spotify.com/album/4qGJskaaQJjzf63a222YI4) | 2:53 |
 | 34 | [Sunshine](https://open.spotify.com/track/4ZRr2gW76pb3huK79JFts6) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Sunshine](https://open.spotify.com/album/4tAYC8O702Uag2ILdlPkqj) | 2:47 |
 | 35 | [Love & Light](https://open.spotify.com/track/2tCW51NHWQmOCW2Yto4Web) | [Indian Askin](https://open.spotify.com/artist/0LMHkT69H40YY2x8GHJiD6) | [Love & Light](https://open.spotify.com/album/3ISa02QVkjbi6ybVOxTudV) | 3:06 |
 | 36 | [Off Goes The Light](https://open.spotify.com/track/2jXZYoIEspEBQzRQuJp0hf) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [BIB10](https://open.spotify.com/album/0oQnzhETkhY0LgeWGeEI4S) | 4:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 59 | [JUMP!](https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [JUMP!](https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD) | 3:14 |
 | 60 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 |
 
-Snapshot ID: `MCw4MTBiMDk4OThhMDdmZDU2ZjY5NDJiOGQ2MTI3ZGEyZGJmNWIyY2M5`
+Snapshot ID: `MCw4NjFmOTZkYWY3ZWM4MGQ0NTIzN2Y1MDg4MWRhMDk0YzM4YjFlY2Rj`

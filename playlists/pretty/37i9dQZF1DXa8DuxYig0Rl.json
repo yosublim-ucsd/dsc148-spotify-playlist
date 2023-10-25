@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 21960,
+  "num_followers": 21988,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGVjZWExOGRkM2QwYmU0NzM5ZDQ0MzQ1MjU4NWVkODkxY2M4YTQw",
+  "snapshot_id": "MCxiOWExZTg0ZWFiOWM3NDQ3YTJmYWM2NDcyNDAxNGMwYTVkZTI4YzY0",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "The Genius of Esquivel",
-        "url": "https://open.spotify.com/album/2cBovPqZGZkNfcsOfyajTj"
-      },
-      "artists": [
-        {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/3m5kWHTfLwkfBK0v9bjXGM"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Presentando a Ana Mar\u00eda Gonz\u00e1lez",
         "url": "https://open.spotify.com/album/1xUHmBMg8McZqErft7qraw"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 141640,
       "name": "Espinita",
       "url": "https://open.spotify.com/track/0mYvrd6bEvIb6eVlo8G0zN"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "The Genius of Esquivel",
+        "url": "https://open.spotify.com/album/2cBovPqZGZkNfcsOfyajTj"
+      },
+      "artists": [
+        {
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/3m5kWHTfLwkfBK0v9bjXGM"
     },
     {
       "added_at": "2023-01-23 22:42:50",

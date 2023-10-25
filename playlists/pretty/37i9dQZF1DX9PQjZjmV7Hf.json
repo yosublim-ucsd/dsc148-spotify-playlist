@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 36944,
+  "num_followers": 37032,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzZhNjA2ZTg2NGE2Njg5ZmY5OWZlZDEzOWJmOTM3Yjk0NmRmMzMy",
+  "snapshot_id": "MCwwMWUxMWRjODNlMmYwMmYyMTE3MDM0Yzg5NDNlYWE2ZmYyMzhhZjli",
   "tracks": [
     {
       "added_at": "2022-10-01 20:14:07",
@@ -635,26 +635,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
-      },
-      "artists": [
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        },
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 240895,
-      "name": "None of This",
-      "url": "https://open.spotify.com/track/3sG8wVhIbQjJfPWICb4TVk"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Slauson Boy 2",
         "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 135682,
       "name": "Ain't Hard Enough (feat. Mozzy)",
       "url": "https://open.spotify.com/track/5WswsvCfKxYR1acRBP8Y9m"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
+      },
+      "artists": [
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 240895,
+      "name": "None of This",
+      "url": "https://open.spotify.com/track/3sG8wVhIbQjJfPWICb4TVk"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -747,26 +747,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
-      },
-      "artists": [
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        },
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 185155,
-      "name": "Effortless",
-      "url": "https://open.spotify.com/track/0Zx7njsXzVa0rTX1h2K9qd"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "PARTYPACK",
         "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
       },
@@ -787,6 +767,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "Crenshaw",
+        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "U See Us",
+      "url": "https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "Ion Feel Nun",
         "url": "https://open.spotify.com/album/3fqV2haNIJQ5nn8qyVLzpU"
       },
@@ -803,18 +799,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Crenshaw",
-        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
       },
       "artists": [
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
         {
           "name": "Nipsey Hussle",
           "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
         }
       ],
-      "duration_ms": 205666,
-      "name": "U See Us",
-      "url": "https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0"
+      "duration_ms": 185155,
+      "name": "Effortless",
+      "url": "https://open.spotify.com/track/0Zx7njsXzVa0rTX1h2K9qd"
     },
     {
       "added_at": "2022-10-01 20:14:07",

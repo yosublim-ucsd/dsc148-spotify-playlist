@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:2SU1nwN4pyNj6cSVoOzcsc\">Gheba</a>",
+  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:1KcTkBvL86LqPDfxwHrTA5\">LYSA</a>",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -758,7 +758,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 308142,
       "name": "Acqua Bagnami",
       "url": "https://open.spotify.com/track/2cCxcIcuIRMRLEvDUrdHjN"
@@ -1074,6 +1074,24 @@
       "duration_ms": 148173,
       "name": "Alla lettera",
       "url": "https://open.spotify.com/track/54hUdI3CT5EtALpDC2Dkpm"
+    },
+    {
+      "album": {
+        "name": "Sguardo",
+        "url": "https://open.spotify.com/album/41qvb11RPZLtwyhUFbVRnE"
+      },
+      "artists": [
+        {
+          "name": "Defa",
+          "url": "https://open.spotify.com/artist/5qS6Eo8idiQCyMIk0JahRW"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117551,
+      "name": "Allo Specchio",
+      "url": "https://open.spotify.com/track/73EGPhR3NFqf0m82NRA03a"
     },
     {
       "album": {
@@ -1864,6 +1882,24 @@
       "duration_ms": 270000,
       "name": "Atriale",
       "url": "https://open.spotify.com/track/5QOorFHGga2xnhd6ZyYphG"
+    },
+    {
+      "album": {
+        "name": "ATTENTO",
+        "url": "https://open.spotify.com/album/4E3zh9novMvM7H2jy5Ndeq"
+      },
+      "artists": [
+        {
+          "name": "VPERVENTURA",
+          "url": "https://open.spotify.com/artist/2OeuVjUVfQ5hLlZXGRpZAT"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131886,
+      "name": "ATTENTO",
+      "url": "https://open.spotify.com/track/0OlWgFn52HD6ofpfOBFS1i"
     },
     {
       "album": {
@@ -2792,7 +2828,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 259577,
       "name": "Calciobalilla",
       "url": "https://open.spotify.com/track/4Pz2xSB2FxfzsvIhWYj2wP"
@@ -3949,6 +3985,24 @@
     },
     {
       "album": {
+        "name": "COLTRANE",
+        "url": "https://open.spotify.com/album/3Ppcr4dDCSjfbqks18yD31"
+      },
+      "artists": [
+        {
+          "name": "IRA",
+          "url": "https://open.spotify.com/artist/6MwFkxrIKasel8oMaH2h9V"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151780,
+      "name": "COLTRANE",
+      "url": "https://open.spotify.com/track/5W6RMuWxrvcdVaaF0hcRYI"
+    },
+    {
+      "album": {
         "name": "Come Back",
         "url": "https://open.spotify.com/album/1sUCObvXmV1atcS1yV7Pwo"
       },
@@ -4960,7 +5014,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 191301,
       "name": "Dondolare",
       "url": "https://open.spotify.com/track/1pkqt1QgLwskpc1AyVNLDi"
@@ -5560,6 +5614,24 @@
       "duration_ms": 169846,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/1hEsQqngL8iq7IwsoTjB9O"
+    },
+    {
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/4HjmOwLfSk01SQWnyTfXwh"
+      },
+      "artists": [
+        {
+          "name": "Smeia",
+          "url": "https://open.spotify.com/artist/1Fnb8NPRp4aj406R8J9bsw"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174381,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/0SwkjPNeN4FgLu75WH3832"
     },
     {
       "album": {
@@ -6502,7 +6574,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 126316,
       "name": "giovane combina guai :(:",
       "url": "https://open.spotify.com/track/7sdtaSoAmJ3yK6s6qdliHa"
@@ -7020,7 +7092,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 137148,
       "name": "HUSTLE",
       "url": "https://open.spotify.com/track/2GA2X9ppNsPpcMgBfpszA8"
@@ -8091,6 +8163,28 @@
     },
     {
       "album": {
+        "name": "LA NIGHT",
+        "url": "https://open.spotify.com/album/1QJ2j9bJkmlLrgs3LUAC34"
+      },
+      "artists": [
+        {
+          "name": "Florence",
+          "url": "https://open.spotify.com/artist/5qyGTDa4a3jH5cGdH6G9M6"
+        },
+        {
+          "name": "dNoise",
+          "url": "https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140877,
+      "name": "LA NIGHT",
+      "url": "https://open.spotify.com/track/08o3UYTWcQZZo5o7ygl4OE"
+    },
+    {
+      "album": {
         "name": "la notte (blu)",
         "url": "https://open.spotify.com/album/2QYOw0TelUUo7rRtqVZ8fY"
       },
@@ -8965,6 +9059,24 @@
     },
     {
       "album": {
+        "name": "Ma chi l'ha detto",
+        "url": "https://open.spotify.com/album/5KL9pdNJHPfYgqNC3jLvXb"
+      },
+      "artists": [
+        {
+          "name": "Cecile",
+          "url": "https://open.spotify.com/artist/2V71DNcQsRW0Vp8vCOy9Vw"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228760,
+      "name": "Ma chi l'ha detto",
+      "url": "https://open.spotify.com/track/4eIWN1p66A9FsKySpgGOpL"
+    },
+    {
+      "album": {
         "name": "Ma se restassi?",
         "url": "https://open.spotify.com/album/7dCyuQ69ADLDwyXgz7OZh1"
       },
@@ -9329,6 +9441,24 @@
     },
     {
       "album": {
+        "name": "Zolfo",
+        "url": "https://open.spotify.com/album/6IVY6UjSF6vwHzk9oQWHzm"
+      },
+      "artists": [
+        {
+          "name": "Malm\u00f6",
+          "url": "https://open.spotify.com/artist/6dHFhxw5uxV8SJtOmwbb3q"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245374,
+      "name": "Mare Motus",
+      "url": "https://open.spotify.com/track/3H2CxeiT9ugpjgAuDcrtY1"
+    },
+    {
+      "album": {
         "name": "MAREA",
         "url": "https://open.spotify.com/album/3WPEmt23OmvcsrY2qcALKf"
       },
@@ -9358,7 +9488,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 161999,
       "name": "Margherite",
       "url": "https://open.spotify.com/track/3KMtDchuVeFPMAeTfSM06x"
@@ -9504,7 +9634,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 157767,
       "name": "Meraviglioso",
       "url": "https://open.spotify.com/track/1jkRoA2wGzgOlzjAaGpXV6"
@@ -9598,6 +9728,24 @@
       "duration_ms": 140000,
       "name": "Mezzo Vuoto",
       "url": "https://open.spotify.com/track/71CPMGeUKhhTFuaU3PihKL"
+    },
+    {
+      "album": {
+        "name": "Mi Cerchi",
+        "url": "https://open.spotify.com/album/2lEJBbh3H1tdZ4VGNrcx5e"
+      },
+      "artists": [
+        {
+          "name": "Valentina Brozzu",
+          "url": "https://open.spotify.com/artist/3zLaUk0nDEIouUw4fa6CE4"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165170,
+      "name": "Mi Cerchi",
+      "url": "https://open.spotify.com/track/5sJMYWxgu27P2jQAAPoyIc"
     },
     {
       "album": {
@@ -9731,6 +9879,24 @@
     },
     {
       "album": {
+        "name": "millestrati",
+        "url": "https://open.spotify.com/album/4D4RslrJvzrlgR6sTYSM23"
+      },
+      "artists": [
+        {
+          "name": "fluente",
+          "url": "https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162525,
+      "name": "millestrati",
+      "url": "https://open.spotify.com/track/4etoQ2mowyfgEFLNCJGWY2"
+    },
+    {
+      "album": {
         "name": "mindmybusiness",
         "url": "https://open.spotify.com/album/2OoSo1q8RnsBbA1AxoC4iM"
       },
@@ -9858,6 +10024,24 @@
       "duration_ms": 132832,
       "name": "molecole d'odio",
       "url": "https://open.spotify.com/track/4rhpgjbcQYomjFcHm5mfXt"
+    },
+    {
+      "album": {
+        "name": "Mondi sparsi",
+        "url": "https://open.spotify.com/album/3wp9yl5jYvAvlgwPCkMgq1"
+      },
+      "artists": [
+        {
+          "name": "I Sentinelle",
+          "url": "https://open.spotify.com/artist/1BITu6YeNG6WCgJHxU80sa"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200594,
+      "name": "Mondi sparsi",
+      "url": "https://open.spotify.com/track/0Jz370blHFTaWrQMOO3qBy"
     },
     {
       "album": {
@@ -10528,6 +10712,24 @@
       "duration_ms": 143999,
       "name": "Never Need You",
       "url": "https://open.spotify.com/track/2cOIXOqu6Sj7TPjeYLcrF2"
+    },
+    {
+      "album": {
+        "name": "profumo di gente che scappa da me",
+        "url": "https://open.spotify.com/album/0cYLQoa1Nm5Lz03EogcBSW"
+      },
+      "artists": [
+        {
+          "name": "_MARCOBELLO",
+          "url": "https://open.spotify.com/artist/0QZcy1Xz8rL0lWSqYfnQzu"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199600,
+      "name": "NEW_CLAR\u00ecTAS",
+      "url": "https://open.spotify.com/track/0w1JoyyxMJq3sxttOpKb3i"
     },
     {
       "album": {
@@ -11236,6 +11438,32 @@
       "duration_ms": 180779,
       "name": "NORIMBERGA",
       "url": "https://open.spotify.com/track/5Q6uJoUztT45BTf5FpbNvR"
+    },
+    {
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/7dxOhzV5QxfiMHKNkh2YPB"
+      },
+      "artists": [
+        {
+          "name": "Cronor",
+          "url": "https://open.spotify.com/artist/5CNylpIFLp2zSR8mPMrfjm"
+        },
+        {
+          "name": "GIANIUC",
+          "url": "https://open.spotify.com/artist/2hWvuCfrl1ejW35I5AJAFp"
+        },
+        {
+          "name": "Errante",
+          "url": "https://open.spotify.com/artist/53tMXl8GCHCZd9G5vguj6A"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166649,
+      "name": "NOSTALGIA",
+      "url": "https://open.spotify.com/track/4nRVnLPj9mwuXciqhgANN3"
     },
     {
       "album": {
@@ -11955,6 +12183,24 @@
     },
     {
       "album": {
+        "name": "Questi Danni",
+        "url": "https://open.spotify.com/album/3Jf6vkY433UFys0PW62Od0"
+      },
+      "artists": [
+        {
+          "name": "Monteluna",
+          "url": "https://open.spotify.com/artist/6HWN4ZzmkY3LjJwqS4CFRb"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271958,
+      "name": "Paola",
+      "url": "https://open.spotify.com/track/13b8ROSc0IMAuwawlqHxa3"
+    },
+    {
+      "album": {
         "name": "paralosofia",
         "url": "https://open.spotify.com/album/2xJLLXbjGnMBJElImH9SMn"
       },
@@ -11984,7 +12230,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 160266,
       "name": "Parapendio",
       "url": "https://open.spotify.com/track/60znVWOd6jGnHKcsu5bybC"
@@ -12060,6 +12306,24 @@
       "duration_ms": 219756,
       "name": "Party on My Own",
       "url": "https://open.spotify.com/track/6TugyzSVVM9tpNtjc72GZz"
+    },
+    {
+      "album": {
+        "name": "passa una bella notte",
+        "url": "https://open.spotify.com/album/3RiHYwK5dT5dTzEULMiDo4"
+      },
+      "artists": [
+        {
+          "name": "LYSA",
+          "url": "https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191052,
+      "name": "passa una bella notte",
+      "url": "https://open.spotify.com/track/1NOfiMv7Tq5MijTzO51Zil"
     },
     {
       "album": {
@@ -13574,7 +13838,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 105088,
       "name": "RESTARE INSIEME",
       "url": "https://open.spotify.com/track/4AMBkDmbcbyZhG4W5zkFoT"
@@ -13618,7 +13882,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 129600,
       "name": "Restiamo A Guardare",
       "url": "https://open.spotify.com/track/1GYR1T4PSHtkElGyahDDqu"
@@ -14143,6 +14407,24 @@
     },
     {
       "album": {
+        "name": "Salto Nel Vuoto",
+        "url": "https://open.spotify.com/album/3sHDDGwI0pgkFtvRJLl4ZG"
+      },
+      "artists": [
+        {
+          "name": "NUBIARSE",
+          "url": "https://open.spotify.com/artist/7KYEK9g2ajKzn9n0tWCxSl"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206457,
+      "name": "Salto Nel Vuoto",
+      "url": "https://open.spotify.com/track/74vDsrQLOSFYovmEdMpev5"
+    },
+    {
+      "album": {
         "name": "San martino",
         "url": "https://open.spotify.com/album/2lXUeEEdQCNoALm7872kJ4"
       },
@@ -14212,6 +14494,24 @@
       "duration_ms": 172710,
       "name": "Santa Maria",
       "url": "https://open.spotify.com/track/154viKPI9dg50ZDjvFUu3M"
+    },
+    {
+      "album": {
+        "name": "Scartaggi",
+        "url": "https://open.spotify.com/album/06BUg0CBtQcPvXmAA8Uwx1"
+      },
+      "artists": [
+        {
+          "name": "Gli Occhi Degli Altri",
+          "url": "https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192250,
+      "name": "Satelliti",
+      "url": "https://open.spotify.com/track/0mHgGcaO1VBp50XuTB1Avl"
     },
     {
       "album": {
@@ -14898,7 +15198,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 181318,
       "name": "SMS",
       "url": "https://open.spotify.com/track/3yBUPuhzLEg3lBNwFLqdwP"
@@ -16307,6 +16607,24 @@
     },
     {
       "album": {
+        "name": "The Weather Song",
+        "url": "https://open.spotify.com/album/3KZmLwH0oI1MVeu6OUSAEX"
+      },
+      "artists": [
+        {
+          "name": "TA GA DA",
+          "url": "https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225306,
+      "name": "The Weather Song",
+      "url": "https://open.spotify.com/track/2OXsiCgkmUbfP6DoaQniaK"
+    },
+    {
+      "album": {
         "name": "disco-teca",
         "url": "https://open.spotify.com/album/6rSsz54SUKdgNAR0AXWRRc"
       },
@@ -17548,7 +17866,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 147306,
       "name": "VOCE",
       "url": "https://open.spotify.com/track/2zR6IvmycveCeXEjMpOwtK"

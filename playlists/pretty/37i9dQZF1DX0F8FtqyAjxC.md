@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,216 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,229 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 49 | [Don't Go Lose It Baby](https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Pure Sounds of Africa](https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab) | 6:53 |
 | 50 | [I'm Caught up \(In a One Night Love Affair\) \- 12” Edit](https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [I'm Caught Up \(In a One Night Love Affair\)](https://open.spotify.com/album/60o5ZuM7b03ENGBfED56RG) | 7:26 |
 
-Snapshot ID: `MCwwNGI0ZTc2ZjYzMTBkYTQ2MTFmNDMxNDIyYTUwYjE3YzUyNmExOWMz`
+Snapshot ID: `MCw4MGI2MGRlYmM5NzY1ZjcyMTM3ZWE3Nzc1ZTNhZDFhMWJjZjAwOWE1`

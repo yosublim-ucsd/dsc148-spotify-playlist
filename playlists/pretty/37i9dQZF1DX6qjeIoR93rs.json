@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 49769,
+  "num_followers": 49897,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTZiMDRmYTFmOGY1NjI2Yjg1MThhMjg5MmExMWU3MGE5ODVhNzk2",
+  "snapshot_id": "MCw5MWZiZGZkMjYxYWY0MzNhZjg3NTI2YjA0ZThmOGU5YTQ3MzY5MmJi",
   "tracks": [
     {
       "added_at": "2023-10-19 21:43:44",
@@ -251,38 +251,6 @@
     {
       "added_at": "2023-10-19 21:43:44",
       "album": {
-        "name": "Promises of the Storm",
-        "url": "https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk"
-      },
-      "artists": [
-        {
-          "name": "Marcel Khalifa",
-          "url": "https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ"
-        }
-      ],
-      "duration_ms": 557466,
-      "name": "My Mother",
-      "url": "https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ"
-    },
-    {
-      "added_at": "2023-10-19 21:43:44",
-      "album": {
-        "name": "Nirvana in Gaza",
-        "url": "https://open.spotify.com/album/21GUygV8B9lQPtJiM0FP8k"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "Nirvana in Gaza",
-      "url": "https://open.spotify.com/track/0wm6nHRoJig31gpq8oylzw"
-    },
-    {
-      "added_at": "2023-10-19 21:43:44",
-      "album": {
         "name": "Soundtrack to the Struggle 2",
         "url": "https://open.spotify.com/album/5gIwjf2qT4BdIt6REFXFcu"
       },
@@ -319,6 +287,38 @@
       "duration_ms": 317241,
       "name": "Long Live Palestine 3",
       "url": "https://open.spotify.com/track/3qWEyRdZJFmPepCXSTSq0r"
+    },
+    {
+      "added_at": "2023-10-19 21:43:44",
+      "album": {
+        "name": "Nirvana in Gaza",
+        "url": "https://open.spotify.com/album/21GUygV8B9lQPtJiM0FP8k"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "Nirvana in Gaza",
+      "url": "https://open.spotify.com/track/0wm6nHRoJig31gpq8oylzw"
+    },
+    {
+      "added_at": "2023-10-19 21:43:44",
+      "album": {
+        "name": "Promises of the Storm",
+        "url": "https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk"
+      },
+      "artists": [
+        {
+          "name": "Marcel Khalifa",
+          "url": "https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ"
+        }
+      ],
+      "duration_ms": 557466,
+      "name": "My Mother",
+      "url": "https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ"
     },
     {
       "added_at": "2023-10-19 21:43:44",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-10-19 21:43:44",
       "album": {
-        "name": "Ll Abad",
-        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
-      },
-      "artists": [
-        {
-          "name": "Lina Makoul",
-          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
-        }
-      ],
-      "duration_ms": 212476,
-      "name": "Ll Abad",
-      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
-    },
-    {
-      "added_at": "2023-10-19 21:43:44",
-      "album": {
         "name": "Revelation of Ecstasy and Rebellion",
         "url": "https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 274333,
       "name": "Supply Me with an Excess of Love",
       "url": "https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to"
+    },
+    {
+      "added_at": "2023-10-19 21:43:44",
+      "album": {
+        "name": "Ll Abad",
+        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
+      },
+      "artists": [
+        {
+          "name": "Lina Makoul",
+          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
+        }
+      ],
+      "duration_ms": 212476,
+      "name": "Ll Abad",
+      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
     },
     {
       "added_at": "2023-10-19 21:43:44",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-10-19 21:43:44",
       "album": {
-        "name": "A3MEL ESH",
-        "url": "https://open.spotify.com/album/2asPtwQJwsCs2LP0HQQgJP"
-      },
-      "artists": [
-        {
-          "name": "Ram Nafar",
-          "url": "https://open.spotify.com/artist/28CdLDNuzChKqZNArRgI5F"
-        },
-        {
-          "name": "Tamer Nafar",
-          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "A3MEL ESH",
-      "url": "https://open.spotify.com/track/3W2aWHlWIo373Npwv8TGEm"
-    },
-    {
-      "added_at": "2023-10-19 21:43:44",
-      "album": {
         "name": "Overdose (From the Netflix Series \"Mo\")",
         "url": "https://open.spotify.com/album/3nAhYY2KDN6HXz8WSMlfwI"
       },
@@ -743,18 +723,22 @@
     {
       "added_at": "2023-10-19 21:43:44",
       "album": {
-        "name": "Maskhara",
-        "url": "https://open.spotify.com/album/7bXGhJWxIhnFvwDKr9vqHx"
+        "name": "A3MEL ESH",
+        "url": "https://open.spotify.com/album/2asPtwQJwsCs2LP0HQQgJP"
       },
       "artists": [
         {
-          "name": "Bashar Murad",
-          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
+          "name": "Ram Nafar",
+          "url": "https://open.spotify.com/artist/28CdLDNuzChKqZNArRgI5F"
+        },
+        {
+          "name": "Tamer Nafar",
+          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
         }
       ],
-      "duration_ms": 186411,
-      "name": "Maskhara",
-      "url": "https://open.spotify.com/track/7602Aziy9m0JAcnzKX8mcC"
+      "duration_ms": 96000,
+      "name": "A3MEL ESH",
+      "url": "https://open.spotify.com/track/3W2aWHlWIo373Npwv8TGEm"
     },
     {
       "added_at": "2023-10-19 21:43:44",
@@ -775,6 +759,22 @@
       "duration_ms": 181968,
       "name": "Touchdown Palestine",
       "url": "https://open.spotify.com/track/1r9z2zRrmqjPMuPGRTINlN"
+    },
+    {
+      "added_at": "2023-10-19 21:43:44",
+      "album": {
+        "name": "Maskhara",
+        "url": "https://open.spotify.com/album/7bXGhJWxIhnFvwDKr9vqHx"
+      },
+      "artists": [
+        {
+          "name": "Bashar Murad",
+          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
+        }
+      ],
+      "duration_ms": 186411,
+      "name": "Maskhara",
+      "url": "https://open.spotify.com/track/7602Aziy9m0JAcnzKX8mcC"
     },
     {
       "added_at": "2023-10-19 21:43:44",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-10-19 21:43:44",
       "album": {
-        "name": "Nai 1",
-        "url": "https://open.spotify.com/album/3Ly05TtwGi1AfvYiRKtwwp"
-      },
-      "artists": [
-        {
-          "name": "Nai Barghouti",
-          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
-        }
-      ],
-      "duration_ms": 328773,
-      "name": "Ghandara Medley : Shorabanna / Sabbal Oyounou / Ya Bou Gh'thele / Shayyiou / Ya Dae'sa / Ya Thareef / Oulou La Immo",
-      "url": "https://open.spotify.com/track/61ZEVlG3xMptIGAm0wpLgc"
-    },
-    {
-      "added_at": "2023-10-19 21:43:44",
-      "album": {
         "name": "Seasons of Violet - Lovesongs from Palestine",
         "url": "https://open.spotify.com/album/2EU211lSUnCFszTWpUvU2Y"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 306106,
       "name": "The Night Has Fallen Down",
       "url": "https://open.spotify.com/track/4K4QRaxWC7MBuzRzRgNj3U"
+    },
+    {
+      "added_at": "2023-10-19 21:43:44",
+      "album": {
+        "name": "Nai 1",
+        "url": "https://open.spotify.com/album/3Ly05TtwGi1AfvYiRKtwwp"
+      },
+      "artists": [
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "duration_ms": 328773,
+      "name": "Ghandara Medley : Shorabanna / Sabbal Oyounou / Ya Bou Gh'thele / Shayyiou / Ya Dae'sa / Ya Thareef / Oulou La Immo",
+      "url": "https://open.spotify.com/track/61ZEVlG3xMptIGAm0wpLgc"
     },
     {
       "added_at": "2023-10-19 21:43:44",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-19 21:43:44",
       "album": {
-        "name": "Laween",
-        "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
-      },
-      "artists": [
-        {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
-        }
-      ],
-      "duration_ms": 208237,
-      "name": "Laween",
-      "url": "https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR"
-    },
-    {
-      "added_at": "2023-10-19 21:43:44",
-      "album": {
         "name": "Dedication",
         "url": "https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 225880,
       "name": "G'areeb Fi Bladi (Stranger In My Own Country)",
       "url": "https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27"
+    },
+    {
+      "added_at": "2023-10-19 21:43:44",
+      "album": {
+        "name": "Laween",
+        "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
+      },
+      "artists": [
+        {
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+        }
+      ],
+      "duration_ms": 208237,
+      "name": "Laween",
+      "url": "https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR"
     },
     {
       "added_at": "2023-10-19 21:43:44",
@@ -1127,22 +1127,6 @@
       "duration_ms": 152000,
       "name": "From Here",
       "url": "https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM"
-    },
-    {
-      "added_at": "2023-10-19 21:43:44",
-      "album": {
-        "name": "Badi Ellak",
-        "url": "https://open.spotify.com/album/5gIy2dF3eXhTo9XJULxLqK"
-      },
-      "artists": [
-        {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
-        }
-      ],
-      "duration_ms": 209999,
-      "name": "Badi Ellak",
-      "url": "https://open.spotify.com/track/6gazpfEpfoPQSPuTBoR30C"
     },
     {
       "added_at": "2023-10-19 21:43:44",
@@ -1215,6 +1199,22 @@
       "duration_ms": 166421,
       "name": "Bel7afli",
       "url": "https://open.spotify.com/track/33sM7X3w7bnrjJqdEh8zn9"
+    },
+    {
+      "added_at": "2023-10-19 21:43:44",
+      "album": {
+        "name": "Badi Ellak",
+        "url": "https://open.spotify.com/album/5gIy2dF3eXhTo9XJULxLqK"
+      },
+      "artists": [
+        {
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+        }
+      ],
+      "duration_ms": 209999,
+      "name": "Badi Ellak",
+      "url": "https://open.spotify.com/track/6gazpfEpfoPQSPuTBoR30C"
     }
   ],
   "unique_name": "Palestine Sounds",

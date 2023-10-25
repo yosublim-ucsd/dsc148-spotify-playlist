@@ -2,11 +2,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain]
 
 ### [RADAR Podcasters España](https://open.spotify.com/playlist/37i9dQZF1DX2WSz2bIXl9B)
 
-> Pódcasts que necesitas mantener en tu RADAR: Radio La Pera, La placita amarilla, Somos Estupendas, Coquetas y bravas; Sofá manta y crimen.
+> Pódcasts que necesitas mantener en tu RADAR: Sofá manta y crimen, Radio La Pera, La placita amarilla, Somos Estupendas, Coquetas y bravas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,294 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,306 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCw0NWVhZTUxZDBiODhlMjUzYTgzMjIwNjA3ODYyMDYxZmRiOTE3ZWEz`
+Snapshot ID: `MCw0ZTMxOGJlMmM3M2U1NzkxYWQ1Njc5ZTQ4ZTdjZmM0ODcxMTgzNWM5`

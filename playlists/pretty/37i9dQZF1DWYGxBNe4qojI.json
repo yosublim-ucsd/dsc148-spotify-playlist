@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: Black Moon",
-  "num_followers": 354834,
+  "num_followers": 355044,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGJjMTUwYzIzM2M3MTQ5NDVjMjZkZmUzMzU4OGM0Yzk4N2QzZDk2",
+  "snapshot_id": "MCxlYTgwNzRkOGVlMmUxZThlOTM4YTY2MDY3NGNjNmJjYmQ1MTUzZDEw",
   "tracks": [
     {
       "added_at": "2023-09-28 04:00:00",
@@ -747,22 +747,18 @@
     {
       "added_at": "2023-09-28 04:00:00",
       "album": {
-        "name": "Mr. Smith (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
+        "name": "Tical",
+        "url": "https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf"
       },
       "artists": [
         {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        },
-        {
-          "name": "Leshaun",
-          "url": "https://open.spotify.com/artist/0vHAWbRVMR4fNF1ABEe8D2"
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         }
       ],
-      "duration_ms": 293933,
-      "name": "Doin' It",
-      "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
+      "duration_ms": 189760,
+      "name": "Bring The Pain",
+      "url": "https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6"
     },
     {
       "added_at": "2023-09-28 04:00:00",
@@ -787,18 +783,22 @@
     {
       "added_at": "2023-09-28 04:00:00",
       "album": {
-        "name": "Tical",
-        "url": "https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf"
+        "name": "Mr. Smith (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
       },
       "artists": [
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Leshaun",
+          "url": "https://open.spotify.com/artist/0vHAWbRVMR4fNF1ABEe8D2"
         }
       ],
-      "duration_ms": 189760,
-      "name": "Bring The Pain",
-      "url": "https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6"
+      "duration_ms": 293933,
+      "name": "Doin' It",
+      "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
     },
     {
       "added_at": "2023-09-28 04:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-09-28 04:00:00",
       "album": {
-        "name": "Mr. Smith (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        },
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Loungin (Who Do Ya Luv) - Remix",
-      "url": "https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll"
-    },
-    {
-      "added_at": "2023-09-28 04:00:00",
-      "album": {
         "name": "Tical (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7DyAbrlPQTi2v6DAmgC8Qa"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 309946,
       "name": "I'll Be There For You/You're All I Need To Get By - Puff Daddy Mix",
       "url": "https://open.spotify.com/track/6C3yPXYG2NJYlIYVe5J7hv"
+    },
+    {
+      "added_at": "2023-09-28 04:00:00",
+      "album": {
+        "name": "Mr. Smith (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Loungin (Who Do Ya Luv) - Remix",
+      "url": "https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll"
     }
   ],
   "unique_name": "I Love My East Coast Classics",

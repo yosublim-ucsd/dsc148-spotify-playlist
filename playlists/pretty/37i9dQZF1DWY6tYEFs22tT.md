@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Offset, Gucci Mane,  Wale and Drake!
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,729 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,862 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 74 | [PORSCHE TOPLESS](https://open.spotify.com/track/0XyLyJATYbD8eSyfqq72hx) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [PORSCHE TOPLESS](https://open.spotify.com/album/63fDdZN9I2Q55bwmwbUMYn) | 2:50 |
 | 75 | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U) | 3:12 |
 
-Snapshot ID: `MCwxMGFjYzMwMjc3OGNmYzY1MjAyMTVlN2JlYjBhM2FjZGY1YWRjMjkw`
+Snapshot ID: `MCw0MWVjZGY1MWQ4YWQzZGY1MDQ0ZWIyNzJjM2E2ZGZiZGMwNTc3ZGEw`

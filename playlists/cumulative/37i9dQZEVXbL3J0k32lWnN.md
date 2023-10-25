@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,261 songs - 2 day 17 hr 51 min
+1,262 songs - 2 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2021-05-23 | 2021-06-19 |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-03-27\* | 2021-05-23 |
 | [Driving Home for Christmas \- 2019 Remaster](https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Dancing with Strangers \(Deluxe Edition, 2019 Remaster\)](https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4) | 4:01 | 2021-11-22 | 2022-12-29 |
-| [Dronning Af Månen](https://open.spotify.com/track/2d0qsULaWlQMZ13jlPRA1d) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Dronning Af Månen](https://open.spotify.com/album/3sCn7y5eBXjNOOhmLqSJMX) | 3:25 | 2023-04-02 |  |
+| [Dronning Af Månen](https://open.spotify.com/track/2d0qsULaWlQMZ13jlPRA1d) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Dronning Af Månen](https://open.spotify.com/album/3sCn7y5eBXjNOOhmLqSJMX) | 3:25 | 2023-04-02 | 2023-10-25 |
 | [Drop Top \(feat\. Lamin & Stepz\)](https://open.spotify.com/track/6Wos1urQJFPUcpeSKmQk4P) | [Mike Lowrey](https://open.spotify.com/artist/1Ty16CxXn9CapBAn9bt4Hv), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [Drop Top \(feat\. Lamin & Stepz\)](https://open.spotify.com/album/3DrHeMGPxfWWWB5zodJhdR) | 2:30 | 2022-11-12 | 2022-11-22 |
 | [DRØM MIG VÆK](https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [DRØM MIG VÆK](https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA) | 2:43 | 2022-04-02 |  |
 | [Drømte Mig En Lille Drøm \- Fra julekalenderen 'Absalons Hemmelighed'](https://open.spotify.com/track/1Qw3PDRBvbVzWMgi4qfPFD) | [Dicte](https://open.spotify.com/artist/2M8siACtKsHdqRo2y5YE1Z) | [Julemusik 2022](https://open.spotify.com/album/1BzZZjo4xeT5HrJm2hiEBx) | 4:18 | 2022-11-29 | 2022-12-04 |
@@ -456,6 +456,7 @@
 | [Half A Man](https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 2:59 | 2022-01-16 | 2022-10-16 |
 | [Halli Halli Hallo](https://open.spotify.com/track/1sIDcn2BURXpbD1qdfiKyJ) | [Johnny Reimar](https://open.spotify.com/artist/02SeGuSHai1b6rZuCUuJvI) | [Party 2](https://open.spotify.com/album/1DhJZTNwRVTH1LJ25oy9Wj) | 2:11 | 2021-07-09 | 2021-07-10 |
 | [Hallo Kitty \(KEWAN LIGGER BEATET NORMAL X Tessa\)](https://open.spotify.com/track/3Zvmp666yZQSznopxKuKTW) | [KEWAN LIGGER BEATET NORMAL](https://open.spotify.com/artist/3IamLW3k3rAlmCehXEBx1G), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Nasty Sommer / Hallo Kitty](https://open.spotify.com/album/05tC3poCpGn88eHuE4i7Vl) | 2:32 | 2021-07-04 | 2021-07-11 |
+| [Halskæde](https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Halskæde](https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq) | 2:37 | 2023-10-24 |  |
 | [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 | 2021-06-16 | 2021-06-19 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-10-17 |
 | [Happy For You](https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Happy For You](https://open.spotify.com/album/20cXMWG0KcvCA2N6O5ixbY) | 3:46 | 2021-05-16 | 2021-05-23 |

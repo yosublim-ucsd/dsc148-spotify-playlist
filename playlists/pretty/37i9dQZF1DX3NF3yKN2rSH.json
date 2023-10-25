@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53672,
+  "num_followers": 53670,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTg5MjkyYWU2Y2MwYWUyNjI1YjFjY2NjMjg2ZDRkN2Q1OTRlMzI2",
+  "snapshot_id": "MCxiZmVhOTNkZGFjZDYwMDA3YjdkM2YyODY1YzkzNzM0NWQ1MDRkZTE2",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
-      },
-      "artists": [
-        {
-          "name": "Brian Courtney Wilson",
-          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Worth Fighting For - 1 Mic 1 Take",
-      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Tunnel Vision",
         "url": "https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 237280,
       "name": "Always Jesus",
       "url": "https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Worth Fighting For - 1 Mic 1 Take",
+      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "He Lives",
-        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
-      },
-      "artists": [
-        {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
-        }
-      ],
-      "duration_ms": 457000,
-      "name": "He Lives",
-      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Trip Down Memory Lane",
         "url": "https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 443466,
       "name": "The Blood",
       "url": "https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
+      },
+      "artists": [
+        {
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+        }
+      ],
+      "duration_ms": 457000,
+      "name": "He Lives",
+      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
     },
     {
       "added_at": "2023-04-09 08:49:39",

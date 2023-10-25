@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 
 > Unearthing up\-and\-coming Pakistani acts\.  Cover: Hassan & Roshaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,147 likes - 57 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,191 likes - 57 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 | 56 | [Teriyan](https://open.spotify.com/track/4hHPrjRpr1jiqTXdWZn3zz) | [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Teriyan](https://open.spotify.com/album/3zdnb1So6h8GFY1GeuSIsJ) | 3:14 |
 | 57 | [Miracle feat\. Nimra Gilani](https://open.spotify.com/track/6bagTvFhOL39jrKdpyOJir) | [Natasha Humera Ejaz](https://open.spotify.com/artist/2NTRcxzXvgDtcSJJ2zraxp), [Nimra Gilani](https://open.spotify.com/artist/16YcBCxja71bOiP9BWktfD), [Rishabh Rajan](https://open.spotify.com/artist/3zpfHIe2T4vYtnB7MU7Q8z) | [Ordinary Miracle \| ہیرے موتی](https://open.spotify.com/album/17XSJDt998wsV2mrVN7LPr) | 2:34 |
 
-Snapshot ID: `MCxmZTBmZjdiYTM0NTc0M2RiZGQyY2NmMDY2NWRiOTNlMTAxMzc5NTg1`
+Snapshot ID: `MCxhOTkzNjExY2ZjNWM1NTY2OGM0MWExNGUwNGMzNWE4YWNkYWYwMDYy`

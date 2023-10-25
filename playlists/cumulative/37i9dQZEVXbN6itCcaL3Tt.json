@@ -8090,7 +8090,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 190486,
       "name": "Dziewczyna Pop",
       "url": "https://open.spotify.com/track/4POfce5YCaTN2HGoWZdPyg"
@@ -17156,7 +17156,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 194826,
       "name": "mori",
       "url": "https://open.spotify.com/track/2yxPqxHbj1L7vrCpHLtAcG"
@@ -20448,7 +20448,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 195542,
       "name": "Pakiet Platinium",
       "url": "https://open.spotify.com/track/7vAIFnO5Na6SjXow8z6rSx"
@@ -25250,7 +25250,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 63802,
       "name": "Sonic Skit",
       "url": "https://open.spotify.com/track/5d2lkJfRpza95F0c1ZhTfX"
@@ -27188,7 +27188,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -28938,7 +28938,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -31176,7 +31176,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 195649,
       "name": "Z\u0142amane serce jest OK",
       "url": "https://open.spotify.com/track/4588ZH7944EUrbDvdkr2sA"
@@ -31220,6 +31220,28 @@
       "duration_ms": 146269,
       "name": "Z\u0142ote Tarasy",
       "url": "https://open.spotify.com/track/0dorKIz071s55Jy0zxb4aW"
+    },
+    {
+      "album": {
+        "name": "Z\u0142oty Ch\u0142opak",
+        "url": "https://open.spotify.com/album/40fTvvMm0yV6JvuSJyzaIY"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195652,
+      "name": "Z\u0142oty Ch\u0142opak",
+      "url": "https://open.spotify.com/track/3n7C71Ktp5G2gj6KX6wlAv"
     },
     {
       "album": {

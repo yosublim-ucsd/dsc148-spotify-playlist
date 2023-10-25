@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > A Dios sea toda la gloria y alabanza\. Foto: Miel San Marcos, Ingrid Rosario
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,319 likes - 90 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,486 likes - 90 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 24 | [Despierta Mi Alma](https://open.spotify.com/track/44uiY9mN7UCReHQ79csPtd) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Despierta](https://open.spotify.com/album/25PGrgAo37O5dMSzgAj9BR) | 4:22 |
 | 25 | [Donde Está El Espíritu de Dios](https://open.spotify.com/track/0zXTW0J4XLhqsNSrmwk9sp) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Donde Está El Espíritu de Dios](https://open.spotify.com/album/3Yi2UipOGBlp03eUNT6tpj) | 4:05 |
 | 26 | [Eres el Dios de Lo Imposible](https://open.spotify.com/track/1idoREhk7OFo8KaHrzFDPQ) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Eres el Dios de Lo Imposible](https://open.spotify.com/album/4zY5iwJx4TscIX4rD6qJO4) | 4:14 |
-| 27 | [Isaias 40](https://open.spotify.com/track/5BtMxu4qq1QRPBGzfgjp1J) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Encuentros](https://open.spotify.com/album/0z30sdnlJKKwputVLinplp) | 7:03 |
+| 27 | [Isaias 40](https://open.spotify.com/track/23rzAldzWKSi2KpTmg1dmg) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Isaias 40](https://open.spotify.com/album/6HjtpIwyVG5hnK1SZJ1Nn8) | 7:03 |
 | 28 | [Sé Mi Shalom](https://open.spotify.com/track/7KN4aDexcgrtmCgZd4RhIR) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Be My Shalom](https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac) | 3:07 |
 | 29 | [Inigualable](https://open.spotify.com/track/4HH9pDGDPnVeuv4uC3nXOZ) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [Somos](https://open.spotify.com/album/71HrMvqpUUVwsiHOQIhOt5) | 5:36 |
 | 30 | [Él Que Resucitó \(Resurrecting\)](https://open.spotify.com/track/0wjq36Sfp7sjb0nzqZjc9w) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Lo Harás Otra Vez](https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx) | 7:45 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 89 | [De Lo Más Profundo](https://open.spotify.com/track/2YlJSBmdJcGmWAda2m5moL) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1) | 7:45 |
 | 90 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 |
 
-Snapshot ID: `MCxjYzI3MzE4NmFlZTUxN2QxZTBlNzAxMGY3ZmEyZTRkM2Q4NmI0NGQ3`
+Snapshot ID: `MCw1ZGRhMGM5NGIxNjUyZDY4YmIzYmI1MGQ4ODBmNjk2ZGM1NmE4NmM0`

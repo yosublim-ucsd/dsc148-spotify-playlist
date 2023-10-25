@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Jung Kook, The Kid LAROI & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,291 likes - 88 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,323 likes - 88 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 74 | [Deep End](https://open.spotify.com/track/3cVXxE7dbBR23PKzQwEV9C) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Deep End](https://open.spotify.com/album/4Ej3BMtqTg6YBp3iTaYYhP) | 3:18 |
 | 75 | [I Don't Know You](https://open.spotify.com/track/43DsSmYR7rk3LKnyY8wkGI) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Don't Know You](https://open.spotify.com/album/0zT2ilSANN1bLI7gV6lqCl) | 3:44 |
 | 76 | [Savage](https://open.spotify.com/track/3TccEBRYCve3AIjqhLQPua) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [Savage](https://open.spotify.com/album/1oTso5J2srWdggSoEtf752) | 2:38 |
-| 77 | [PRETTY GIRLS](https://open.spotify.com/track/2TegXzhcQonA9Lv8fBzIco) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [PRETTY GIRLS](https://open.spotify.com/album/4vdZ3KWw1hi6yTMQ0WSvEZ) | 3:13 |
+| 77 | [PRETTY GIRLS](https://open.spotify.com/track/2TegXzhcQonA9Lv8fBzIco) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [PRETTY GIRLS](https://open.spotify.com/album/4vdZ3KWw1hi6yTMQ0WSvEZ) | 2:50 |
 | 78 | [Honey](https://open.spotify.com/track/71bXObWU8rqaC2VI7zkAA8) | [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [Honey](https://open.spotify.com/album/3NZoHF0HRurm7UmOFGyrZu) | 3:10 |
 | 79 | [SCARED TO DIE](https://open.spotify.com/track/5egHfv3MM6LMHHTrkowFru) | [Clowns](https://open.spotify.com/artist/2TuGrkN9bcjWU1GcrUarYn) | [ENDLESS](https://open.spotify.com/album/5S2eS7V3fIj3zVrdTjEHH6) | 3:15 |
 | 80 | [MONEY AND VIBES](https://open.spotify.com/track/6XH5Uqo3d0cvBv0dv9Jwh8) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [MONEY AND VIBES](https://open.spotify.com/album/7s4VOuuo8CvJ5VLCmpBU8P) | 2:02 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 87 | [Falling in](https://open.spotify.com/track/4cbm57Rl7bs1loMHZbzUco) | [Blondumb](https://open.spotify.com/artist/021mK0NgHckx1TwdmzH6sl) | [Falling in](https://open.spotify.com/album/70Bdbs0ywY2qfwHJxuUuif) | 2:17 |
 | 88 | [Wake In Might](https://open.spotify.com/track/5Ad2MmfRQlCue9adixQyrw) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Wake In Might](https://open.spotify.com/album/0nagJCtUtrv3ap1WEQexiQ) | 3:31 |
 
-Snapshot ID: `MCw1NjU2M2ZjZGI2OTZjMjY1ZGE0NzUyYmQwYzJhNWY3OWM2MzJiMWQ1`
+Snapshot ID: `MCwzMDkxNjZjOTg3ODEyMWFkZDU1Y2QxN2I2NmUxYmNlOWM4YTdmNzlh`

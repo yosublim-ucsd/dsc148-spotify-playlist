@@ -1453,6 +1453,28 @@
     },
     {
       "album": {
+        "name": "\u30dd\u30b1\u30c3\u30c8\u306e\u30e2\u30f3\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/3127A3CU7WRzZwv5vfqMKP"
+      },
+      "artists": [
+        {
+          "name": "PinocchioP",
+          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216827,
+      "name": "\u30dd\u30b1\u30c3\u30c8\u306e\u30e2\u30f3\u30b9\u30bf\u30fc (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/164JMtlCerJvMQPSDi5GDb"
+    },
+    {
+      "album": {
         "name": "\u30de\u30a4\u30de\u30a4\u30de\u30a4 (\u4e70\u4e70\u4e70) [feat. \u521d\u97f3\u30df\u30af]",
         "url": "https://open.spotify.com/album/5hA4hcTTGOTx2Qpcapti0M"
       },

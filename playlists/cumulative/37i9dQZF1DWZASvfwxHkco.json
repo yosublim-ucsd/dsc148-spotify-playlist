@@ -745,6 +745,36 @@
     },
     {
       "album": {
+        "name": "Begin It Again",
+        "url": "https://open.spotify.com/album/72Y6Eryr561MQrNqQBRecg"
+      },
+      "artists": [
+        {
+          "name": "TYT",
+          "url": "https://open.spotify.com/artist/2qtG3DmCMRD23hlbK1DdJw"
+        },
+        {
+          "name": "DJ TORA",
+          "url": "https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS"
+        },
+        {
+          "name": "TJO",
+          "url": "https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN"
+        },
+        {
+          "name": "YAKSA",
+          "url": "https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142727,
+      "name": "Begin It Again",
+      "url": "https://open.spotify.com/track/2x9JWsVEq4oAGNBLR0l3L3"
+    },
+    {
+      "album": {
         "name": "Believe (feat. Goodboys)",
         "url": "https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx"
       },
@@ -1898,7 +1928,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"

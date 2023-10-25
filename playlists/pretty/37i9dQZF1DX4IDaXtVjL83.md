@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: The Kid LAROI, Jung Kook, Central Cee\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,628 likes - 86 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,792 likes - 86 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 43 | [\_WORLD](https://open.spotify.com/track/2kDrUAONMhG6CbDGBkhdrY) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [\_WORLD](https://open.spotify.com/album/63oE2Ew3Mud2Md9TXBjeKw) | 2:58 |
 | 44 | [Real Love Still Exists](https://open.spotify.com/track/0lJxsFybSunQWH4MQNIyCo) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Real Love Still Exists](https://open.spotify.com/album/7pbhkjfyhay9oP0RxqCZKt) | 3:02 |
 | 45 | [Teddy Bear \- Japanese Ver.](https://open.spotify.com/track/1YLb3ORC4AEegaFJvD944o) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear \(Japanese Ver.\)](https://open.spotify.com/album/5bAsWS1V3sJyZvDPXMSTUC) | 3:09 |
-| 46 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 |
+| 46 | [PS5](https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye) | 2:32 |
 | 47 | [IDOL](https://open.spotify.com/track/54azQnjuDYDFfImXimGFsA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:20 |
 | 48 | [Love,Maybe\(Japanese ver.\)](https://open.spotify.com/track/68gj7zHltrak3vcx0GHAAm) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [LIKE IT LIKE IT](https://open.spotify.com/album/0whVgabqObgiYZ5WmAPgpv) | 3:08 |
 | 49 | [Butter \- Megan Thee Stallion Remix](https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v) | 2:44 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 85 | [Under the Full Moon \- Alok Remix](https://open.spotify.com/track/2P7EG5won3VGHTzqimR9N5) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B), [Kim Jun Su](https://open.spotify.com/artist/7CUcK2meST31pjD3V14khI) | [Under the Full Moon \(Alok Remix\)](https://open.spotify.com/album/1AGVgb3cJdeyAjm1WAQxIk) | 2:45 |
 | 86 | [SCAR \(Prod\. BOYCOLD\)](https://open.spotify.com/track/4JwtEBtS1pAc9oTFzm5bFY) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [SCAR \(Prod\. BOYCOLD\)](https://open.spotify.com/album/5jrxT95JeyqMD7RzEU0qh1) | 2:38 |
 
-Snapshot ID: `MCw1YWNmYWI1YTg3NjAyYzU0MTZmMDQ5NjYyMDJlNTY5MTZlYjhkNWFl`
+Snapshot ID: `MCw3MmNkMTBkYzNjMzAzNmVmNDE3YWZjMDhjMjU2YTJhMTljNjUxMDhk`

@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": "Awful Thread",
+        "url": "https://open.spotify.com/album/0KtjgXUUul9V579ZrvyMxx"
+      },
+      "artists": [
+        {
+          "name": "Any Other",
+          "url": "https://open.spotify.com/artist/5RECxqPUWytzhwKabZ1lWx"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248302,
+      "name": "Awful Thread",
+      "url": "https://open.spotify.com/track/7kY3nelNouUqY5JJzKvR5J"
+    },
+    {
+      "album": {
         "name": "Stress",
         "url": "https://open.spotify.com/album/4nWf8QLYNgmTLCZcyFeLJY"
       },

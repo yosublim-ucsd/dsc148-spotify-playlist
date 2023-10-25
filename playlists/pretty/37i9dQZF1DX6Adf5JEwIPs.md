@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Michelle Maciel & El Frizian
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,797 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,975 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 28 | [A Mi Me Respetas](https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [A Mi Me Respetas](https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS) | 2:30 |
 | 29 | [Me Vas A Llorar](https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vas A Llorar](https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U) | 3:11 |
 | 30 | [Ya Vente](https://open.spotify.com/track/1v95Tm2SydxQPUqhU7GQ97) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Ya Vente](https://open.spotify.com/album/2TOroe1yjxET8gXl7gLH6k) | 4:30 |
-| 31 | [Dólares y Billetes de a 1000](https://open.spotify.com/track/2AG6cqXhmGTC0DHIuDw9NW) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Dólares y Billetes de a 1000](https://open.spotify.com/album/3B3QWJ9YHXUXQINYRqLP1a) | 3:36 |
+| 31 | [Dólares de a 100 y Billetes de a 1000](https://open.spotify.com/track/2AG6cqXhmGTC0DHIuDw9NW) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Dólares de a 100 y Billetes de a 1000](https://open.spotify.com/album/3B3QWJ9YHXUXQINYRqLP1a) | 3:36 |
 | 32 | [Hoy Te Extrañe](https://open.spotify.com/track/4GsoL01LWOmD6oF0uXhfiU) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Hoy Te Extrañe](https://open.spotify.com/album/1jwEz8C2izmYhK7UOnghaD) | 2:43 |
 | 33 | [Emilio Cazares](https://open.spotify.com/track/3E3GhgCd2EgSWvXfFMDQca) | [Kompa Marley](https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea), [Grupo Delta Norteño](https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG) | [Ay Nomas!](https://open.spotify.com/album/569ebqSgglmPkMLIHXBsNC) | 3:30 |
 | 34 | [19x O La Perris](https://open.spotify.com/track/1aBo1AUqBzv25I5n5nYHHR) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [19x O La Perris](https://open.spotify.com/album/7JSDY08S3UPzftSpbPOqf9) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Rosas](https://open.spotify.com/track/3uFzo9GFVS3Yw4KIVdsYHN) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rosas](https://open.spotify.com/album/6sDgZzqJBy8r5TWPPVjL1E) | 4:33 |
 | 50 | [QUE NOTICIÓN](https://open.spotify.com/track/4ChA6km0qGQJ0ULF7bS13f) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [QUE NOTICIÓN](https://open.spotify.com/album/6wiPzklqA9XPFnyotZuIYp) | 2:34 |
 
-Snapshot ID: `MCw1YTZiMjNhMzE1N2YxZDVjMGU3MDdiNGU2ZmJkOTYwYjE0ZTc5Mzdk`
+Snapshot ID: `MCw1ZGI0NDNmMjIwMmU2YjdiM2MyNjU4Mzg5MDEwNmViNTA5NDIxMjAy`

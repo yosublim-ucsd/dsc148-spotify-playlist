@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy muziek met een rand uit eigen land\. cover: Chibi Ichigo, Sophie Straat
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,906 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,907 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 25 | [youandme](https://open.spotify.com/track/51mffAss4N5q3VVkLR02TE) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Into Your Head](https://open.spotify.com/album/1YgODoJinZO2aL2Zhqtv6r) | 2:59 |
 | 26 | [Scheef](https://open.spotify.com/track/2vMHhWv9bIS2IpVcwALlKZ) | [THYRZA](https://open.spotify.com/artist/6Y0fFuFrEgAyOD2eIMwUX5) | [Scheef](https://open.spotify.com/album/3KwnniiGH4XmOs5FQgIoSp) | 3:16 |
 | 27 | [Glas In Lood](https://open.spotify.com/track/2jXsjXKDneBlnppUhdaaKC) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag](https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS) | 3:36 |
-| 28 | [Golvend Water](https://open.spotify.com/track/11WNquIczwWq8t8utMQpae) | [Navarone Cole](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Golvend Water](https://open.spotify.com/album/3rqmnLiK024NpId3HhxkdB) | 2:30 |
+| 28 | [Golvend Water](https://open.spotify.com/track/11WNquIczwWq8t8utMQpae) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Golvend Water](https://open.spotify.com/album/3rqmnLiK024NpId3HhxkdB) | 2:30 |
 | 29 | [De Ergste Dag](https://open.spotify.com/track/0xKKs27xVmFug8P9bHYyFy) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:21 |
 | 30 | [MEISJE IN WIT](https://open.spotify.com/track/4HQBvGxtBz3R0C7gcUsVH0) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [MEISJE IN WIT](https://open.spotify.com/album/53Qe59ywnVMSrmOo9ofV3U) | 2:22 |
 | 31 | [Waarheid](https://open.spotify.com/track/4EAG6m9bVVbX8d3tAfqlUv) | [Cassandra Onck](https://open.spotify.com/artist/7I8XQUz2YhHaF41tpOpwbW) | [Fractalnoia](https://open.spotify.com/album/1wlYADby49rptkaWPxVoip) | 3:31 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 54 | [Where Nothing Lives](https://open.spotify.com/track/6ofdXDYZi0FlGADmT8GXLM) | [Ariana Popal](https://open.spotify.com/artist/2KtR4fuIjdVu1h8slsENsD) | [Where Nothing Lives](https://open.spotify.com/album/4hftnqNfW3ZwZKoGpgehEV) | 3:28 |
 | 55 | [Little Girl](https://open.spotify.com/track/78JPkgiUKtPk16rgVwzwId) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Little Girl](https://open.spotify.com/album/1RYifRrTMcLIrGKOxTyt6N) | 2:49 |
 
-Snapshot ID: `MCwwYTA3MjUyOGUzNzczYTA2NzE0NjVjYTUxNDQ3YWU5NWViNzdhZGVj`
+Snapshot ID: `MCw3MGRkMzQ1N2M1N2Y0YmEwYmJjZmRmNWY1NDIwZjcwNTk5ZWIzMDdm`

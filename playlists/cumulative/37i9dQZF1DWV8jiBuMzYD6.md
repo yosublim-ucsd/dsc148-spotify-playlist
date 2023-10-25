@@ -4,14 +4,15 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/raycondones/">BruceDropEmOff</a>
 
-49 songs - 2 hr 16 min
+50 songs - 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1,2,3,4](https://open.spotify.com/track/5HzXtdq5LPH4YTQU2dmeOJ) | [Goonew](https://open.spotify.com/artist/3YqwRvYhfxmCFYIfvxaCAa) | [Goonwick 2](https://open.spotify.com/album/0l8VyC0o1DgLWSjichdO7G) | 2:04 | 2023-10-06 |  |
 | [4am to 8am](https://open.spotify.com/track/4LqROlzt1MvjgzaylD3usZ) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:46 | 2023-10-06 |  |
 | [A Different Age](https://open.spotify.com/track/5iMXCDWA4FxPNcOnq0HrpJ) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [A Different Age](https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61) | 6:52 | 2023-10-06 |  |
-| [Alter Ego 2](https://open.spotify.com/track/2jsa4vmcnHSwEolEtPGiCO) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [C4](https://open.spotify.com/artist/2ZI5j2UOqjBOcSakQcNCua) | [HH5](https://open.spotify.com/album/63loU5wOJuZfUymxLVwwxX) | 3:33 | 2023-10-06 |  |
+| [Alter Ego 2](https://open.spotify.com/track/2jsa4vmcnHSwEolEtPGiCO) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [C4](https://open.spotify.com/artist/2ZI5j2UOqjBOcSakQcNCua) | [HH5](https://open.spotify.com/album/63loU5wOJuZfUymxLVwwxX) | 3:33 | 2023-10-06 | 2023-10-25 |
+| [Alter Ego 2 \(feat\. C4\)](https://open.spotify.com/track/7MUn1Kq6EiaJmqC4U6CJEz) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [C4](https://open.spotify.com/artist/2ZI5j2UOqjBOcSakQcNCua) | [HH5](https://open.spotify.com/album/4LmwlhdLXjvdtU3vF55yVP) | 3:33 | 2023-10-06 |  |
 | [Amongst the Dead](https://open.spotify.com/track/4UFW7gWfmtaviFQAiv3SwY) | [Sickboyrari](https://open.spotify.com/artist/395BAMokcNaqWcCl8uU1ky) | [Bloodrain](https://open.spotify.com/album/0ApSVk8bGg13w4KYWMa8Vi) | 1:47 | 2023-10-06 |  |
 | [Baking Soda](https://open.spotify.com/track/5cNx7JPZrX6bBUnrn1EmIr) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Laughing so Hard, it Hurts](https://open.spotify.com/album/0zI5KZ81RN2x6RrQchLLBQ) | 3:10 | 2023-10-06 |  |
 | [Better Days](https://open.spotify.com/track/37B4GLH6OzUTUAMLRoJpdf) | [JayDaYoungan](https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d) | [Forever 23](https://open.spotify.com/album/0J6Ujzcx1ladoPha3cFQCE) | 2:07 | 2023-10-06 |  |

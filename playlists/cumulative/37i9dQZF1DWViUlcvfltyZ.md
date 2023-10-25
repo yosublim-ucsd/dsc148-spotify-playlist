@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia\. Cover: Santa Chiara
 
-601 songs - 1 day 9 hr 22 min
+602 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Assaggio](https://open.spotify.com/track/4AUvDIm0oTHqMHUYry1qbL) | [Alibi](https://open.spotify.com/artist/6vtDqOkppg14GMh5jq7tQv) | [Assaggio](https://open.spotify.com/album/01I4T6NBQ79WQ2Pp4kpFSr) | 3:13 | 2023-01-05 | 2023-02-03 |
 | [ASSOLO](https://open.spotify.com/track/73mlazOcJ2mD8SdQaYeVGN) | [VERSAILLES](https://open.spotify.com/artist/3A2Z3yqJm0weMjLnVZSHTE) | [ASSOLO](https://open.spotify.com/album/723w7XUsnkgzhgbilXylzU) | 2:38 | 2022-05-09 | 2022-05-27 |
 | [Atropina](https://open.spotify.com/track/41720wkLjBsUQfdqxfLzUe) | [Feava](https://open.spotify.com/artist/3SfiU1vN892diMx36GOJFW) | [Atropina](https://open.spotify.com/album/7qADw2zJVhmnNfpjV68huL) | 4:35 | 2023-01-19 | 2023-03-03 |
+| [Awful Thread](https://open.spotify.com/track/7kY3nelNouUqY5JJzKvR5J) | [Any Other](https://open.spotify.com/artist/5RECxqPUWytzhwKabZ1lWx) | [Awful Thread](https://open.spotify.com/album/0KtjgXUUul9V579ZrvyMxx) | 4:08 | 2023-10-24 |  |
 | [B4](https://open.spotify.com/track/471iPDomxfndXNESa4xg7C) | [Etta](https://open.spotify.com/artist/2U2hbzE2tUhswaUQipbQVB) | [Stress](https://open.spotify.com/album/4nWf8QLYNgmTLCZcyFeLJY) | 3:29 | 2022-12-08 | 2023-01-27 |
 | [BABY](https://open.spotify.com/track/7rat6YuFFrqCz7asAqQtMf) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [BABY](https://open.spotify.com/album/5znorjvZtJXTHO1fwtlXFl) | 2:15 | 2023-04-13 | 2023-06-09 |
 | [Back To Bangkok](https://open.spotify.com/track/5RrtTSB9uvPFCWFJ8ViI94) | [The Manges](https://open.spotify.com/artist/5Uop1XjzGUDG3t4uoWXooc) | [Back To Bangkok](https://open.spotify.com/album/17T80PkB923M3sQfkvkDQf) | 2:06 | 2022-07-14 | 2022-09-30 |

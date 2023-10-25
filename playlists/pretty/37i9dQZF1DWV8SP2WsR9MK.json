@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 76488,
+  "num_followers": 76554,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjZiZTc3ZDcwMGNkMDU5MWZjM2M1OThkYThjZDQzMDQwYzM2ZmMx",
+  "snapshot_id": "MCxhMDg4ZjU4ZjFkMmRmY2M5MTQ5MjRiNTZjYzc4ZWVlNmJiZjhkOWQ4",
   "tracks": [
     {
       "added_at": "2023-09-14 09:22:48",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-14 09:22:48",
       "album": {
-        "name": "The Next Step",
-        "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 354293,
-      "name": "Minor Blues",
-      "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
-    },
-    {
-      "added_at": "2023-09-14 09:22:48",
-      "album": {
         "name": "The Sound Of Johnny Smith",
         "url": "https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 328800,
       "name": "Misty - 2001 Remaster",
       "url": "https://open.spotify.com/track/5fQFn9MwQFgh1MRIl4eg7u"
+    },
+    {
+      "added_at": "2023-09-14 09:22:48",
+      "album": {
+        "name": "The Next Step",
+        "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 354293,
+      "name": "Minor Blues",
+      "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
     },
     {
       "added_at": "2023-09-14 09:22:48",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2023-09-14 09:22:48",
       "album": {
+        "name": "At the Garden Party",
+        "url": "https://open.spotify.com/album/2GHEmpg1poRNNgLSh8Q81q"
+      },
+      "artists": [
+        {
+          "name": "Don Thompson",
+          "url": "https://open.spotify.com/artist/1l2y80b850BRWQ3Y6YhLaX"
+        },
+        {
+          "name": "Ed Bickert",
+          "url": "https://open.spotify.com/artist/28OasCag6MpcSYdG8blWHA"
+        }
+      ],
+      "duration_ms": 394560,
+      "name": "You Are Too Beautiful",
+      "url": "https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO"
+    },
+    {
+      "added_at": "2023-09-14 09:22:48",
+      "album": {
         "name": "Standard Brands",
         "url": "https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 347413,
       "name": "Shape Of Things That Are And Were",
       "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
-    },
-    {
-      "added_at": "2023-09-14 09:22:48",
-      "album": {
-        "name": "At the Garden Party",
-        "url": "https://open.spotify.com/album/2GHEmpg1poRNNgLSh8Q81q"
-      },
-      "artists": [
-        {
-          "name": "Don Thompson",
-          "url": "https://open.spotify.com/artist/1l2y80b850BRWQ3Y6YhLaX"
-        },
-        {
-          "name": "Ed Bickert",
-          "url": "https://open.spotify.com/artist/28OasCag6MpcSYdG8blWHA"
-        }
-      ],
-      "duration_ms": 394560,
-      "name": "You Are Too Beautiful",
-      "url": "https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO"
     },
     {
       "added_at": "2023-09-14 09:22:48",
@@ -1547,46 +1547,6 @@
     {
       "added_at": "2023-09-14 09:22:48",
       "album": {
-        "name": "I Have The Room Above Her",
-        "url": "https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3"
-      },
-      "artists": [
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        },
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        }
-      ],
-      "duration_ms": 253866,
-      "name": "Odd Man Out",
-      "url": "https://open.spotify.com/track/4zSlzvNseGhiutbNKzq6nO"
-    },
-    {
-      "added_at": "2023-09-14 09:22:48",
-      "album": {
-        "name": "Standards (And Other Songs)",
-        "url": "https://open.spotify.com/album/6Az63x71f79GUhcyccTomF"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 324026,
-      "name": "Straight No Chaser",
-      "url": "https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB"
-    },
-    {
-      "added_at": "2023-09-14 09:22:48",
-      "album": {
         "name": "Idlewild",
         "url": "https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV"
       },
@@ -1607,6 +1567,46 @@
       "duration_ms": 448413,
       "name": "Rumspringa",
       "url": "https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN"
+    },
+    {
+      "added_at": "2023-09-14 09:22:48",
+      "album": {
+        "name": "Standards (And Other Songs)",
+        "url": "https://open.spotify.com/album/6Az63x71f79GUhcyccTomF"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 324026,
+      "name": "Straight No Chaser",
+      "url": "https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB"
+    },
+    {
+      "added_at": "2023-09-14 09:22:48",
+      "album": {
+        "name": "I Have The Room Above Her",
+        "url": "https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3"
+      },
+      "artists": [
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "duration_ms": 253866,
+      "name": "Odd Man Out",
+      "url": "https://open.spotify.com/track/4zSlzvNseGhiutbNKzq6nO"
     },
     {
       "added_at": "2023-09-14 09:22:48",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-09-14 09:22:48",
       "album": {
+        "name": "Move! The Guitar Artistry Of Hank Garland",
+        "url": "https://open.spotify.com/album/4a6xb1vtqetCNmtSA5TAVF"
+      },
+      "artists": [
+        {
+          "name": "Hank Garland",
+          "url": "https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU"
+    },
+    {
+      "added_at": "2023-09-14 09:22:48",
+      "album": {
         "name": "Jimmy Raney Featuring Bob Brookmeyer",
         "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 271200,
       "name": "How Long Has This Been Going On",
       "url": "https://open.spotify.com/track/3hQ6hSnDRPpHht0jK9AWeg"
-    },
-    {
-      "added_at": "2023-09-14 09:22:48",
-      "album": {
-        "name": "Move! The Guitar Artistry Of Hank Garland",
-        "url": "https://open.spotify.com/album/4a6xb1vtqetCNmtSA5TAVF"
-      },
-      "artists": [
-        {
-          "name": "Hank Garland",
-          "url": "https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU"
-        }
-      ],
-      "duration_ms": 266400,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU"
     },
     {
       "added_at": "2023-09-14 09:22:48",

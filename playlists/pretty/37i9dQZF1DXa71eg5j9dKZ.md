@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Floating Points
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,247 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,292 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 74 | [Everyday \(Far From\)](https://open.spotify.com/track/6EI7rWSTNICgjFB6qxqy4T) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18) | [Guiding Hand](https://open.spotify.com/album/4lsMOOhoxlPuuL7myVFyEy) | 3:21 |
 | 75 | [Zebadee](https://open.spotify.com/track/6yHSnAjPbUnLjXjAzP3QKX) | [Courage](https://open.spotify.com/artist/1kGMaFXRovFOZJqxbVdnHq), [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Zebadee](https://open.spotify.com/album/78KGuDpY11w5qxhKUHqKxT) | 3:12 |
 | 76 | [Loading](https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Loading](https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0) | 4:44 |
-| 77 | [Nobody Else Will Do](https://open.spotify.com/track/7523LoHW3sgiFG0GJcrV0C) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Nobody Else Will Do](https://open.spotify.com/album/6FQnPSIRDTKDxvZuFAH9qY) | 3:33 |
+| 77 | [Nobody Else Will Do](https://open.spotify.com/track/0X2BDvXWRUYKkgOvWqvUdM) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 3:33 |
 | 78 | [Blackbox Life Recorder 21f](https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f](https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX) | 4:26 |
 | 79 | [Touching My Body](https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Touching My Body / Down Shovel](https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI) | 7:10 |
 | 80 | [Time Machine](https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Time Machine](https://open.spotify.com/album/4N3tw2C89vya0RGo6P7g84) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Want Me Back](https://open.spotify.com/track/4BVgc6D5Z3eYlQMIrPLRgB) | [Decades](https://open.spotify.com/artist/2jNb4TNoYjSHsK5ONo6miz) | [Want Me Back](https://open.spotify.com/album/1in9hgVPXUWwzgBEQZASwU) | 3:43 |
 | 100 | [Four Thirty](https://open.spotify.com/track/3GRzGFVipiF8cDS3heRdoP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Focus](https://open.spotify.com/album/6ZfkXGIGWjgk7SUn0rOB3S) | 2:43 |
 
-Snapshot ID: `MCwzNDdkNWNiZGYyZDlhNDRlNjE0OTYwMjNjMGE0YWYyNGViYmZiZmIw`
+Snapshot ID: `MCxmYzY4YzE5MjM3MzhjMzQyNmJiYjc1MWU0NmE0NmVjZTRlMzJlNGQw`

@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 21866,
+  "num_followers": 21932,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmQwMWU4MDZlNTM0NDkxZWM2NWEzODJmOTZmYzk2MDI5MTcxMzI2",
+  "snapshot_id": "MCw4NTE1MGZlYzhmMWQ2ZTgzMGE3ZmYzOTA5MzBmNTE2MjhiNzQyZTEz",
   "tracks": [
     {
       "added_at": "2023-10-20 00:01:00",
@@ -459,26 +459,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Incoming",
-        "url": "https://open.spotify.com/album/29IgCJBPJyr5pbhOB7MIvS"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 162351,
-      "name": "Incoming",
-      "url": "https://open.spotify.com/track/56amD1DaOooWn1RwbJiJnq"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Walking Dead",
         "url": "https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq"
       },
@@ -519,22 +499,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Aquafina",
-        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "My Brother",
         "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
       },
@@ -551,18 +515,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Avana",
-        "url": "https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC"
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
       },
       "artists": [
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 140339,
-      "name": "GoodSin",
-      "url": "https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn"
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -579,6 +543,22 @@
       "duration_ms": 159100,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Avana",
+        "url": "https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 140339,
+      "name": "GoodSin",
+      "url": "https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -615,22 +595,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Elon musk",
-        "url": "https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 195761,
-      "name": "Elon musk",
-      "url": "https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
@@ -643,6 +607,22 @@
       "duration_ms": 170000,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Elon musk",
+        "url": "https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 195761,
+      "name": "Elon musk",
+      "url": "https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -855,6 +835,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Ara (Gen Gen Tin)",
+        "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Ara (Gen Gen Tin)",
+      "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "PALAZZO",
         "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
       },
@@ -871,22 +867,6 @@
       "duration_ms": 186002,
       "name": "PALAZZO",
       "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Ara (Gen Gen Tin)",
-        "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Ara (Gen Gen Tin)",
-      "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -955,22 +935,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Abracadabra (Remix)",
         "url": "https://open.spotify.com/album/6YMeH1rG1CtkXvv9zKI7f3"
       },
@@ -999,18 +963,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/0rq0mponMq2JxvmnPbQWhg"
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 168048,
-      "name": "DND",
-      "url": "https://open.spotify.com/track/24RnCHp1JaRJAANJXAZCPu"
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1075,6 +1039,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/0rq0mponMq2JxvmnPbQWhg"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 168048,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/24RnCHp1JaRJAANJXAZCPu"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Feeling Funny",
         "url": "https://open.spotify.com/album/21kuDsl3msFKcs3I2q3D1j"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 196471,
       "name": "The One (Chop Life)",
       "url": "https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Machala",
+        "url": "https://open.spotify.com/album/6YUssf4d3nQuCcQVRwRwqr"
+      },
+      "artists": [
+        {
+          "name": "Carterefe",
+          "url": "https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n"
+        },
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        }
+      ],
+      "duration_ms": 154565,
+      "name": "Machala",
+      "url": "https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR"
     }
   ],
   "unique_name": "Keep Fit Club ",

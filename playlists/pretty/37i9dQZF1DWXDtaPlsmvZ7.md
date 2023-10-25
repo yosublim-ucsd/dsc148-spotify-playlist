@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,066 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,082 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 18 | [La Bachata](https://open.spotify.com/track/3AMr0QkBGjrAoTbst5uWCG) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Valeria Gau](https://open.spotify.com/artist/1BfR4gQyjlhLAssULX0wDr), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [La Bachata](https://open.spotify.com/album/7IZJfSkOvMGvfc4OvYUttY) | 3:14 |
 | 19 | [La Ladrona](https://open.spotify.com/track/5jNMs2N5L3T4zRdlImX1nz) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Disco Cumbia México \(2\)](https://open.spotify.com/album/2aDLfd5FysnODAzaOKZSTY) | 3:47 |
 | 20 | [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 |
-| 21 | [Y Como Es Él](https://open.spotify.com/track/0KCwPtLRb2aGxAQ4qjTRdK) | [Sonora Skandalo](https://open.spotify.com/artist/60El5gpHTkzTCmrNz0VG7i) | [Éxitos de Oro](https://open.spotify.com/album/6BnHNHGHD9QCcUcpJFZn6A) | 3:16 |
-| 22 | [Mentirosa](https://open.spotify.com/track/0HXEzIjsvi8togdqeMgiNs) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Mentirosa](https://open.spotify.com/album/6EYYHWFcAckjccdpu5J1RE) | 4:22 |
+| 21 | [Mentirosa](https://open.spotify.com/track/0HXEzIjsvi8togdqeMgiNs) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Mentirosa](https://open.spotify.com/album/6EYYHWFcAckjccdpu5J1RE) | 4:22 |
+| 22 | [Y Como Es Él](https://open.spotify.com/track/0KCwPtLRb2aGxAQ4qjTRdK) | [Sonora Skandalo](https://open.spotify.com/artist/60El5gpHTkzTCmrNz0VG7i) | [Éxitos de Oro](https://open.spotify.com/album/6BnHNHGHD9QCcUcpJFZn6A) | 3:16 |
 | 23 | [De los Besos Que Te Di](https://open.spotify.com/track/6IPYskK5xGPGyxmA1yuoRs) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [De los Besos Que Te Di](https://open.spotify.com/album/2CoAYWDIDeKHaUswbc9fws) | 3:06 |
 | 24 | [Amnesia](https://open.spotify.com/track/1TyGQ2z0wpmlKybtnTAC4d) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [A2Í 5Uena!, Vol 2](https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW) | 4:52 |
 | 25 | [La Chica de Humo](https://open.spotify.com/track/5oOykQYu8olJbG4xA4wW7p) | [Los Siete Latinos](https://open.spotify.com/artist/5au5rwkZfDh9KsdtZGd860) | [La Chica de Humo](https://open.spotify.com/album/3MCNJYWUOOsPBV7buv8Tis) | 4:05 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 57 | [Jurabas Tu](https://open.spotify.com/track/7avxvCxt3xnxmksUckksIr) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Jurabas Tu](https://open.spotify.com/album/6dhWNg8zugr2KLiqwcMwn1) | 3:11 |
 | 58 | [Escapate Conmigo](https://open.spotify.com/track/6wklxdTR8NZGE0hsvQPKbV) | [Cumbia Para Bailar](https://open.spotify.com/artist/5HJpp04iycnIUsoBcH59Oh) | [Escapate Conmigo](https://open.spotify.com/album/3YARinPkMU6eepOcuKnuEJ) | 2:19 |
 | 59 | [Una Lady Como Tú](https://open.spotify.com/track/4cnac0Hd5P4nDPCB18yFUw) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Lemonchamp](https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T) | 2:20 |
-| 60 | [Come As You Are](https://open.spotify.com/track/4HYoMVI4mBbMsfXStbTPYX) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Smells Like Cumbia](https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9) | 2:57 |
+| 60 | [Luces](https://open.spotify.com/track/2A7ZbcDSmZEP7pzomG43Sv) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Valzzi](https://open.spotify.com/artist/0IbphE6Bv2bv5nuFHY6bfD) | [Luces](https://open.spotify.com/album/1nyyJVjVHzC8TdX7IoVU0o) | 3:02 |
 | 61 | [Corazon, Perro Fiel, Echame La Culpa,](https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy) | [Version Cumbia La Plata](https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv) | [Corazon, Perro Fiel, Echame La Culpa,](https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9) | 3:13 |
-| 62 | [Luces](https://open.spotify.com/track/2A7ZbcDSmZEP7pzomG43Sv) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Valzzi](https://open.spotify.com/artist/0IbphE6Bv2bv5nuFHY6bfD) | [Luces](https://open.spotify.com/album/1nyyJVjVHzC8TdX7IoVU0o) | 3:02 |
+| 62 | [Come As You Are](https://open.spotify.com/track/4HYoMVI4mBbMsfXStbTPYX) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Smells Like Cumbia](https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9) | 2:57 |
 | 63 | [No Pares Hasta Tener lo Suficiente \(Don't Stop 'til You Get Enough\)](https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 2:54 |
 | 64 | [La Mejor Version de Mi](https://open.spotify.com/track/6yBbgqbWxMVLqnzGwiiB8r) | [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Tropitango](https://open.spotify.com/album/4dOlABdZn7dUJwrzJCX4pb) | 1:52 |
 | 65 | [Dulce \(A La La La La Long\)](https://open.spotify.com/track/6wUz0vZ4F3ceJVN6XoTtbT) | [Los Fumancheros](https://open.spotify.com/artist/1ddoQssa4i9K8i5NXDknd7) | [Dulce \(A La La La La Long\)](https://open.spotify.com/album/1CKYVWjxAdkdNbd6RPaCN0) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 74 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO) | [Musicalísimo Fuego Indio](https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN) | [Retro Con](https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt) | 3:25 |
 | 75 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
 
-Snapshot ID: `MCxiODljYjg4ZjEyNzg1MzFjYTBkYjM4NjI5NzkwYmZmZTc0MGY0NTY1`
+Snapshot ID: `MCw4MjAwMmU1NmNmMjQ5MjgwNWQ1Y2UyODU2YzkwN2M2MjcyYzY5YmE3`

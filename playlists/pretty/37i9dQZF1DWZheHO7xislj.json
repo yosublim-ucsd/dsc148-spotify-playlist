@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 138171,
+  "num_followers": 138190,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjlhODIzOWJhYzk1N2I4YmZlNjExYmY5ZWQxNmE5MzRkYjI3NzMw",
+  "snapshot_id": "MCxhMTE4MWI4NWU1OGJiM2UyODU1YmVkZjU4YzY1MzU0N2ExYTQ2Mjc4",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:30",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Spooky (Single Version)",
+      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Spooky (Single Version)",
-      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Dreamin' Wild",
+        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
+      },
+      "artists": [
+        {
+          "name": "Donnie & Joe Emerson",
+          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Take from Me",
         "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 213933,
       "name": "Easy to Come Home",
       "url": "https://open.spotify.com/track/3UZ8WlceXd5kDmnpNvA8Dd"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Dreamin' Wild",
-        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
-      },
-      "artists": [
-        {
-          "name": "Donnie & Joe Emerson",
-          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Very Best of Otis Redding",
-        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "It's Your Night",
         "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 254880,
       "name": "How Do You Keep The Music Playing",
       "url": "https://open.spotify.com/track/3lrpllvYQtR0WxSe5PLVLG"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Very Best of Otis Redding",
+        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "Wonderful World",
-      "url": "https://open.spotify.com/track/61xW0GqeX38uF0elO3jjql"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Songs In A Minor",
         "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
       },
@@ -1931,18 +1915,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Lay It Down",
-        "url": "https://open.spotify.com/album/1lanaz3WgCVv2brd64XVeK"
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 238226,
-      "name": "Just For Me",
-      "url": "https://open.spotify.com/track/0Kjt9OTYDgTPTyiLRSkWp9"
+      "duration_ms": 210280,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/61xW0GqeX38uF0elO3jjql"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1959,6 +1943,22 @@
       "duration_ms": 280062,
       "name": "Remember the Rain",
       "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Lay It Down",
+        "url": "https://open.spotify.com/album/1lanaz3WgCVv2brd64XVeK"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 238226,
+      "name": "Just For Me",
+      "url": "https://open.spotify.com/track/0Kjt9OTYDgTPTyiLRSkWp9"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
-      },
-      "artists": [
-        {
-          "name": "Barbara Acklin",
-          "url": "https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Am I The Same Girl",
-      "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 270640,
       "name": "This Land Is Your Land",
       "url": "https://open.spotify.com/track/3PiHGEbBLYuBPFdP9tihF0"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
+      },
+      "artists": [
+        {
+          "name": "Barbara Acklin",
+          "url": "https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Am I The Same Girl",
+      "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Inspiration Information/ Wings Of Love",
-        "url": "https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "Inspiration Information",
-      "url": "https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Groove Curse",
         "url": "https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 275826,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Inspiration Information/ Wings Of Love",
+        "url": "https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "Inspiration Information",
+      "url": "https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Best Of Bobby Womack - The Soul Years",
-        "url": "https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd"
-      },
-      "artists": [
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 224546,
-      "name": "Across 110th Street",
-      "url": "https://open.spotify.com/track/3E0dHzJ1WIkm58RhJAe13n"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Very Best of Aretha Franklin - The 70's",
         "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 333933,
       "name": "Bridge over Troubled Water",
       "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Best Of Bobby Womack - The Soul Years",
+        "url": "https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "duration_ms": 224546,
+      "name": "Across 110th Street",
+      "url": "https://open.spotify.com/track/3E0dHzJ1WIkm58RhJAe13n"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Is It Because I'm Black",
+        "url": "https://open.spotify.com/album/7Iw4TahLkIe8RtKT8e4HIJ"
+      },
+      "artists": [
+        {
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+        }
+      ],
+      "duration_ms": 147280,
+      "name": "Concrete Reservation",
+      "url": "https://open.spotify.com/track/1Li9HBLXG2LJSeD4fEhtcd"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Pieces of a Man",
         "url": "https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl"
       },
@@ -2283,18 +2299,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Is It Because I'm Black",
-        "url": "https://open.spotify.com/album/7Iw4TahLkIe8RtKT8e4HIJ"
+        "name": "The Very Best of Aretha Franklin - The 70's",
+        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
       },
       "artists": [
         {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 147280,
-      "name": "Concrete Reservation",
-      "url": "https://open.spotify.com/track/1Li9HBLXG2LJSeD4fEhtcd"
+      "duration_ms": 213560,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2327,22 +2343,6 @@
       "duration_ms": 316306,
       "name": "Lowdown",
       "url": "https://open.spotify.com/track/20MxJN12WEqU5eWsuCrwM5"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "The Very Best of Aretha Franklin - The 70's",
-        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 213560,
-      "name": "Spanish Harlem",
-      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Come On Train",
-        "url": "https://open.spotify.com/album/1nEliK62SZTygH2Nm3bryF"
-      },
-      "artists": [
-        {
-          "name": "Don Thomas",
-          "url": "https://open.spotify.com/artist/2P9UdbP8tHeUrz9gKuGu2y"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "Come On Train - Original Mix",
-      "url": "https://open.spotify.com/track/7sa9QlfY9MUYT2ysod85Rz"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Art Of Tea",
         "url": "https://open.spotify.com/album/1Xp1azh2HHaCJu6CYReBPg"
       },
@@ -2695,6 +2679,22 @@
       "duration_ms": 215293,
       "name": "Monkey See-Monkey Do",
       "url": "https://open.spotify.com/track/65LeJBEMVBGJ8u68Cw8LXZ"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Come On Train",
+        "url": "https://open.spotify.com/album/1nEliK62SZTygH2Nm3bryF"
+      },
+      "artists": [
+        {
+          "name": "Don Thomas",
+          "url": "https://open.spotify.com/artist/2P9UdbP8tHeUrz9gKuGu2y"
+        }
+      ],
+      "duration_ms": 196653,
+      "name": "Come On Train - Original Mix",
+      "url": "https://open.spotify.com/track/7sa9QlfY9MUYT2ysod85Rz"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2879,22 +2879,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Can't Stop Dancing, Vol. 6",
-        "url": "https://open.spotify.com/album/67Za0D5XluGk4Bm1WlQrIc"
-      },
-      "artists": [
-        {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
-        }
-      ],
-      "duration_ms": 416626,
-      "name": "Be Thankful for What You've Got - David Todd Remix",
-      "url": "https://open.spotify.com/track/2TKt71TTe2CZCFsphbIZEs"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Second to None",
         "url": "https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH"
       },
@@ -2907,6 +2891,22 @@
       "duration_ms": 174333,
       "name": "Win Or Lose",
       "url": "https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Can't Stop Dancing, Vol. 6",
+        "url": "https://open.spotify.com/album/67Za0D5XluGk4Bm1WlQrIc"
+      },
+      "artists": [
+        {
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+        }
+      ],
+      "duration_ms": 416626,
+      "name": "Be Thankful for What You've Got - David Todd Remix",
+      "url": "https://open.spotify.com/track/2TKt71TTe2CZCFsphbIZEs"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2995,22 +2995,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Home Again",
-        "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 252213,
-      "name": "Tell Me A Tale",
-      "url": "https://open.spotify.com/track/3ZRvYw3UuvHemty0UHKRSI"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Please Love Me",
         "url": "https://open.spotify.com/album/01JqEExj71fdFiiwLuIUfx"
       },
@@ -3027,18 +3011,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "How Do You Do",
-        "url": "https://open.spotify.com/album/5pFEKvjZm4W8NSAS5VzmiR"
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
       },
       "artists": [
         {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 221013,
-      "name": "A Long Time",
-      "url": "https://open.spotify.com/track/6BPg9G2eIbVYPP5aFRvosy"
+      "duration_ms": 252213,
+      "name": "Tell Me A Tale",
+      "url": "https://open.spotify.com/track/3ZRvYw3UuvHemty0UHKRSI"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3055,6 +3039,22 @@
       "duration_ms": 238013,
       "name": "Lovestreet 55",
       "url": "https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "How Do You Do",
+        "url": "https://open.spotify.com/album/5pFEKvjZm4W8NSAS5VzmiR"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 221013,
+      "name": "A Long Time",
+      "url": "https://open.spotify.com/track/6BPg9G2eIbVYPP5aFRvosy"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3191,22 +3191,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "FEVER",
-        "url": "https://open.spotify.com/album/2QcXOk9Jd26gGzg8jTg3Ck"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dybdahl",
-          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
-        }
-      ],
-      "duration_ms": 183275,
-      "name": "45",
-      "url": "https://open.spotify.com/track/33tsDNAc6GeNXidKLCHhfz"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Sunday's Best",
         "url": "https://open.spotify.com/album/1fve3JXTenvbGiZEodDqgK"
       },
@@ -3223,6 +3207,22 @@
       "duration_ms": 166816,
       "name": "Ooo Baby Baby",
       "url": "https://open.spotify.com/track/7q3jpZxhLMt5YQO54zzPbB"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "FEVER",
+        "url": "https://open.spotify.com/album/2QcXOk9Jd26gGzg8jTg3Ck"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+        }
+      ],
+      "duration_ms": 183275,
+      "name": "45",
+      "url": "https://open.spotify.com/track/33tsDNAc6GeNXidKLCHhfz"
     },
     {
       "added_at": "2023-08-15 12:19:30",

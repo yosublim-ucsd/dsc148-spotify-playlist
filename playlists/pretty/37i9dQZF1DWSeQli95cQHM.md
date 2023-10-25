@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,146 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,155 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 20 | [Senhor Carangeju](https://open.spotify.com/track/2WU1pLmxOS4zPiCXBE45rJ) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Na Lagoa](https://open.spotify.com/album/0acKE1PTMxBOEhijXOyOHM) | 6:49 |
 | 21 | [Charme](https://open.spotify.com/track/6Zuy9QOueOYh8O4LcCRrgo) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Charme](https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV) | 5:44 |
 | 22 | [Moleque Vampiro](https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI) | [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Parente Neon](https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck) | 2:29 |
-| 23 | [Geleia de Morango](https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Geleia de Morango](https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD) | 5:49 |
-| 24 | [SINA](https://open.spotify.com/track/2jC1cPEjIui4v96OfqbvIi) | [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [TRAVESSIA](https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI) | 3:27 |
+| 23 | [SINA](https://open.spotify.com/track/2jC1cPEjIui4v96OfqbvIi) | [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [TRAVESSIA](https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI) | 3:27 |
+| 24 | [Geleia de Morango](https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Geleia de Morango](https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD) | 5:49 |
 | 25 | [Sarrafando Em Você](https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD) | [Guillerrrmo](https://open.spotify.com/artist/1FdmCrzayGeU9HYI5KOrmy) | [Movimento Paralelo, Vol.1](https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76) | 4:08 |
 | 26 | [Criptogramas](https://open.spotify.com/track/3DDPknKZvBbb98U1zEDN0w) | [Vermelho Wonder](https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu) | [Criptogramas](https://open.spotify.com/album/3VcGCItNhMLK3PG6bthKVu) | 5:33 |
 | 27 | [Orange Sunlight](https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Mensagem](https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 49 | [Kin Sharuba](https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Kin Sharuba](https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi) | 7:49 |
 | 50 | [Autoconstrução](https://open.spotify.com/track/3JDNY92MkmvZUnMIu8zxaU) | [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 1](https://open.spotify.com/album/2iN0VnUvrVr8VVsW9iiEgk) | 5:29 |
 
-Snapshot ID: `MCxjYjFmYjkxMjVmYjkzNjg3ODkwYWVhYmY1Y2QzNjgyNzA2YTljMDFh`
+Snapshot ID: `MCxhNmVkNDcwMTQ4NTM4ZTRkODhlZDA0OTExZTMzZWNlOTJhOGRjNzRi`

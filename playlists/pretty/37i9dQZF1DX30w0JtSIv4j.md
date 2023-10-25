@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30w0JtSIv4j.md) - [plain]
 
 > Experience Louis Theroux's Hip Hop House Party and listen to his <a href="https://open.spotify.com/show/7LuQv400JFzzlJrOuMukRj?si=b8abc7800daf4d8c/">new podcast</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,686,663 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,686,646 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30w0JtSIv4j.md) - [plain]
 | 18 | [Foot Fungus](https://open.spotify.com/track/3EikYy40GMSp8l5mDV6IQo) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:09 |
 | 19 | [Motorola \(feat\. Swarmz, Deno & Dappy\)](https://open.spotify.com/track/0Q8aQ6xUAFOGCd0vR32FPf) | [Da Beatfreakz](https://open.spotify.com/artist/3Q8Ow3li2nXzZhRPHMwR7h), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l), [Swarmz](https://open.spotify.com/artist/2yPprAQlrIQWu60g09B9MZ), [Dappy](https://open.spotify.com/artist/4q6hTJmeYXCwp0ivdtoSWA) | [Motorola \(feat\. Swarmz, Deno & Dappy\)](https://open.spotify.com/album/4LcHmOy7GtRqEeqIz1Ii12) | 2:57 |
 | 20 | [OT Bop](https://open.spotify.com/track/6bAirj2qDf0agxdMuIdq1p) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [OT Bop](https://open.spotify.com/album/40epv3b5tvj0DOqv48IS2B) | 3:05 |
-| 21 | [KIKA](https://open.spotify.com/track/0IFMbLUK5ttPmXyK16qUQu) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [DUMMY BOY](https://open.spotify.com/album/06XM9ExRELs8dcuwEAn1jd) | 2:16 |
+| 21 | [KIKA \(feat\. Tory Lanez\)](https://open.spotify.com/track/2gGyUF86bijvQyjcOcJxNw) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [DUMMY BOY \(Revised\)](https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr) | 2:16 |
 | 22 | [Options](https://open.spotify.com/track/2cytBOLpwFRX7J9URCrFIe) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Options](https://open.spotify.com/album/35MvbFXqp1ESDkKNqYfOIM) | 4:00 |
 | 23 | [Location \(feat\. Burna Boy\)](https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 4:01 |
 | 24 | [Best Life](https://open.spotify.com/track/3wAyZwtyyLMsJNG7Mb17ky) | [Hardy Caprio](https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd), [One Acen](https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8) | [Best Life](https://open.spotify.com/album/7pQiDfjvjk85WYlNmmBCZP) | 3:20 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30w0JtSIv4j.md) - [plain]
 | 39 | [Favela \(feat\. J Styles\)](https://open.spotify.com/track/48xlA36vr7wEFRu3gDwyC6) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [J Styles](https://open.spotify.com/artist/5yECsdgmXEkHpn5B00ZNfY) | [Crop Circle 2](https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6) | 2:21 |
 | 40 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
 
-Snapshot ID: `MCxkMjNmZDhjMzc4OGU4YzcwNmUzYzc5MmUwZmVkMGVhZmEzODk3YmEx`
+Snapshot ID: `MCw0Zjk4NTBmMWZkMDA2OTlhN2FhNTc1MjkyZjRkMGE4YTI4NmQxMjFh`

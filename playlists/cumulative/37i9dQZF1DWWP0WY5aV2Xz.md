@@ -4,7 +4,7 @@
 
 > The official EA SPORTS NHL 24 soundtrack.
 
-33 songs - 1 hr 41 min
+34 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Psychopath](https://open.spotify.com/track/7KSAqfQp0BgllQJuimgdye) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [Psychopath](https://open.spotify.com/album/3AbrCdHe3tzMrsyUMcuiPf) | 3:33 | 2023-09-29 |  |
 | [Riot](https://open.spotify.com/track/2JVYdQafLX5jbr6IlQ1KIx) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Comedy](https://open.spotify.com/album/40B9hxxs81k4rykZo0eF77) | 3:27 | 2023-09-29 |  |
 | [Rocket Ship](https://open.spotify.com/track/1LXzU01xpDmI54Slt5QbLd) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Antennae](https://open.spotify.com/album/5wpk8gismVSMMqfpoPwtLA) | 1:43 | 2023-09-29 |  |
-| [THOR!](https://open.spotify.com/track/2R0GMc87K9od0d1ZDGskZu) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [REAL RAW!](https://open.spotify.com/album/1vy7C8Ih5xGZM55A8mQME8) | 1:44 | 2023-09-29 |  |
+| [THOR!](https://open.spotify.com/track/2R0GMc87K9od0d1ZDGskZu) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [REAL RAW!](https://open.spotify.com/album/1vy7C8Ih5xGZM55A8mQME8) | 1:44 | 2023-09-29 | 2023-10-25 |
+| [THOR!](https://open.spotify.com/track/4g5QKisfR3aoVc1bSEfncT) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [REAL RAW!](https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk) | 1:44 | 2023-10-16 |  |
 | [Up & Down](https://open.spotify.com/track/2R7xKsStJ9hNeZKoD9W5Nv) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Up & Down](https://open.spotify.com/album/6VMrXUabbY8cFWLougHU5F) | 2:34 | 2023-09-29 |  |
 | [Vibration \(feat\. AR/CO\)](https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 4:02 | 2023-09-29 |  |
 | [Wake Up](https://open.spotify.com/track/4lanb9IYNnwzlQd9XmTjju) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I) | [Wake Up](https://open.spotify.com/album/7jc2djmbyBkslfXec7H6yv) | 2:54 | 2023-09-29 |  |

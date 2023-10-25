@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,007,817 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,008,528 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 52 | [Mele Kalikimaka \(Merry Christmas\)](https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 2:55 |
 | 53 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/796k6Hy4NnPq2TSBieDIwH) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Jolly Old Saint Nicholas](https://open.spotify.com/album/2WvlljI2jFK7CuyXUpSghq) | 2:11 |
 | 54 | [Ring Out The Bells](https://open.spotify.com/track/03qftRowv8aPZnNZbILxUR) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Ring Out The Bells](https://open.spotify.com/album/0YieGjIrwXOYgt4IBDTGbn) | 3:59 |
-| 55 | [Thank You Note](https://open.spotify.com/track/5EHoaIl9RURnb8nhyf26ug) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Thank You Note](https://open.spotify.com/album/3rRIBVqBytXrBgtfsNpBe9) | 2:36 |
+| 55 | [Thank You Note](https://open.spotify.com/track/67ss3RFo9MIjrdJcyINI0w) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Thank You Note](https://open.spotify.com/album/15XmhSKh6fCVeiRbknWKlT) | 2:36 |
 | 56 | [Make You Mine This Season](https://open.spotify.com/track/62k0PJ7guenoJoQHUYeN8o) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 3:06 |
 | 57 | [Christmas Isn't Canceled \(Just You\)](https://open.spotify.com/track/4zHDuDQx8dcWVmVVtyIzRO) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:51 |
 | 58 | [Mary's Boy Child](https://open.spotify.com/track/3Fi1Omhrp7yzJOCbhzhpLk) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Fantastic Boney M.](https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX) | 4:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 79 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 |
 | 80 | [merry christmas darling](https://open.spotify.com/track/6brLwOYFXw7rkGOcLntcPZ) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a very merry perri christmas](https://open.spotify.com/album/5noTFKbSGzGgXWxnEiuoK2) | 3:18 |
 
-Snapshot ID: `MCxlYjU2MGVjYzhmMGY3MzJjNjVkNDNhODZiOTgwNTA4NWQyNDU2ZWNi`
+Snapshot ID: `MCw0MDI2NmQyM2NjNzIzODg3ZWU3NjY3NzBlZDBhMTQ3ZjI3ZWU0Mzdk`

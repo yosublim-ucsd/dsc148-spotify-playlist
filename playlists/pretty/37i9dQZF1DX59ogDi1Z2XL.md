@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: AR Paisley, Chani Nattan, Inderpal Moga
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,494 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,533 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 7 | [Rap Game Dead](https://open.spotify.com/track/0XHuPRrqUSjup0cyPc1kSF) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Rap Game Dead](https://open.spotify.com/album/0WAtfFhLs7okYM50r51RIv) | 3:12 |
 | 8 | [Better As Friends](https://open.spotify.com/track/1Y54uuagorm2GyckTcPEUR) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Better As Friends](https://open.spotify.com/album/0ER236qnvuLjPS5QXIIezP) | 3:01 |
 | 9 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 |
-| 10 | [The Town](https://open.spotify.com/track/4dthkUfBWbKgRY2jHyBBUN) | [BEATCAVE](https://open.spotify.com/artist/3hgj9nNZaEdNMuiA7JjEVw), [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [seantommy](https://open.spotify.com/artist/5jDDKbkXcoXJsowZyVIKHB) | [The Town](https://open.spotify.com/album/2tRPn0yC2e5Lxv15U5axjU) | 2:20 |
+| 10 | [The Town](https://open.spotify.com/track/4dthkUfBWbKgRY2jHyBBUN) | [BEATCAVE](https://open.spotify.com/artist/3hgj9nNZaEdNMuiA7JjEVw), [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [seantommy](https://open.spotify.com/artist/5jDDKbkXcoXJsowZyVIKHB), [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO) | [The Town](https://open.spotify.com/album/2tRPn0yC2e5Lxv15U5axjU) | 2:20 |
 | 11 | [SUMMER BLUES](https://open.spotify.com/track/3KDJ9ZIeYhuDinUQZzLqGV) | [Teddy Franchize](https://open.spotify.com/artist/4J3t2gDHwxRxDYqvZ7xf5s) | [SUMMER BLUES](https://open.spotify.com/album/1I9VMzZypDblGHEXFit0Yd) | 3:12 |
 | 12 | [Facts](https://open.spotify.com/track/1llBn9ZpLIMToXyX3EHwTY) | [J Neat](https://open.spotify.com/artist/1sxzn6d0We1Q0RKxPE2BCu) | [Facts](https://open.spotify.com/album/25hriAa0ZI03DtMDypySRv) | 2:22 |
 | 13 | [ONLY JESUS CAN SAVE ME](https://open.spotify.com/track/1Sn2E6JfwiydxK48NF9tBE) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [ONLY JESUS CAN SAVE ME](https://open.spotify.com/album/4oRcK6QGJRrFMZmmlfLYQJ) | 1:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Thinking About Drilling](https://open.spotify.com/track/1QLgRHLG9sQXq4Plb600kj) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Thinking About Drilling](https://open.spotify.com/album/5ZgqagL5UMDxxvEECOLeKC) | 1:59 |
 | 100 | [Ms\. Do You Wrong](https://open.spotify.com/track/3kuby3Wz1hjeSgCFVB4Xn1) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Ms\. Do You Wrong](https://open.spotify.com/album/3dheKefbYeaYT97B6bxEzW) | 1:53 |
 
-Snapshot ID: `MCw1ZjFhNjhjMGU2M2FhNmVhYjc5N2QzMjdjOWE2MWMyYmM4ZDYyZDVj`
+Snapshot ID: `MCxlY2YwNjdkYTgwOGI3MmQzZjFhZTkzY2U0ZGFlOWYxNWQxYTdmZjBk`

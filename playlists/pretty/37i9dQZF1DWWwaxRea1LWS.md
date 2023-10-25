@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT this week is all about the double clap\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,267,611 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,267,534 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [The Fame](https://open.spotify.com/track/25pWYL5848CIMh3OfnDroM) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 3:42 |
 | 50 | [All For You](https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 5:29 |
 
-Snapshot ID: `MCxiZWI4NzkzYWFkODg4ZjMxZWFjMmQ3YjcxZmQ2MzdiNTc0Y2U3YTc0`
+Snapshot ID: `MCw1YzA5MTFmOTdiMTQ3MTUzMzk0MmMyMWM2OWE2OTE4NzA1ZjQwODk3`

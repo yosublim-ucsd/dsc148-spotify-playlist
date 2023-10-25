@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "O Come, All Ye Faithful",
+        "url": "https://open.spotify.com/album/6jAZnvcbyBJPHmpbxr4wGg"
+      },
+      "artists": [
+        {
+          "name": "Eternal Hands",
+          "url": "https://open.spotify.com/artist/16eZQHN2Px0yh5pdPsEGvz"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131069,
+      "name": "O Come, All Ye Faithful",
+      "url": "https://open.spotify.com/track/0TtPfPGcVawHTlLI8ckF3f"
+    },
+    {
+      "album": {
         "name": "O Come, O Come Emmanuel",
         "url": "https://open.spotify.com/album/2MEUOyPkGaTa0jLxXLksGG"
       },
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 152727,
       "name": "Oh Come All Ye Faithful",
       "url": "https://open.spotify.com/track/2bFvadJJ8s0NKFnseW1L3R"
@@ -1356,10 +1374,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 208770,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/1hYK7uOlnJ6kvMkdPsFQ5l"
+    },
+    {
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/0Yo7z3fUoLc6D1q5Xy9QYi"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Schulmann",
+          "url": "https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120662,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/47bpAl4y8LNNiyZFC26A2M"
     },
     {
       "album": {

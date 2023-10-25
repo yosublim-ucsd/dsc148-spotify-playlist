@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: LIGHTSUM(\ub77c\uc787\uc378) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: ILY:1 (\uc544\uc77c\ub9ac\uc6d0) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 197701,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/6GwtJzM3yffZ4FJ39QuUcE"
@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "side-B : memoirs of echo unseen",
+        "url": "https://open.spotify.com/album/0StHt9CZdb3lA5qXefa7tT"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185719,
+      "name": "DANG! (hocus pocus)",
+      "url": "https://open.spotify.com/track/2pNxufMWgPp8I7m6zPChq6"
+    },
+    {
+      "album": {
         "name": "Girl's Day Love Second Album",
         "url": "https://open.spotify.com/album/3Q6QsqW3WWq6DLphXbXWkL"
       },
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 208053,
       "name": "Dumhdurum",
       "url": "https://open.spotify.com/track/55kuHkT2CWhWKF6CoRDnJq"
@@ -5694,6 +5712,24 @@
       "duration_ms": 188527,
       "name": "To Heart",
       "url": "https://open.spotify.com/track/3PIzI4Bl2b7oZloFWTPAna"
+    },
+    {
+      "album": {
+        "name": "To My Boyfriend",
+        "url": "https://open.spotify.com/album/35tJGKUZuTosrpnCaKghCD"
+      },
+      "artists": [
+        {
+          "name": "ILY:1",
+          "url": "https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203649,
+      "name": "To My Boyfriend",
+      "url": "https://open.spotify.com/track/2WuD4tAn8iCscm1EuZvVWr"
     },
     {
       "album": {

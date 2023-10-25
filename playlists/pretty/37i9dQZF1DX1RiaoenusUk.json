@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 24712,
+  "num_followers": 24714,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmVhNDg3YTg1OGZmY2RiZTUzZGU3MTE0MzVhYmVmMTMwNjQ1ODg3",
+  "snapshot_id": "MCxiZDg5YTE3MDU4ZmEyN2NmOTg2NGZjZTY2YWEwOTg2ZWE1M2I2NjMz",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Hotel Boston",
+        "url": "https://open.spotify.com/album/2RwlECSGovyxM2hKHuIzeS"
+      },
+      "artists": [
+        {
+          "name": "Funk\u00b4chula",
+          "url": "https://open.spotify.com/artist/4sxtKd1hXg0d3VUWSux1Gq"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Hotel Boston",
+      "url": "https://open.spotify.com/track/02gOFILt8dgsA63vVI6E4c"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Groovin' Bohemia",
         "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 196000,
       "name": "Libre",
       "url": "https://open.spotify.com/track/3CfFt0xZrWJSBT0Ki46Eou"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Hotel Boston",
-        "url": "https://open.spotify.com/album/2RwlECSGovyxM2hKHuIzeS"
-      },
-      "artists": [
-        {
-          "name": "Funk\u00b4chula",
-          "url": "https://open.spotify.com/artist/4sxtKd1hXg0d3VUWSux1Gq"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Hotel Boston",
-      "url": "https://open.spotify.com/track/02gOFILt8dgsA63vVI6E4c"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Prescription For Soul",
+        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
+      },
+      "artists": [
+        {
+          "name": "Doctorfunk",
+          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Can't Fight The Funk",
+      "url": "https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Prescription For Soul",
-        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
       },
       "artists": [
         {
-          "name": "Doctorfunk",
-          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
         }
       ],
-      "duration_ms": 241706,
-      "name": "Can't Fight The Funk",
-      "url": "https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr"
+      "duration_ms": 176924,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/1mKpZeH6wpdhI4jpGYy870"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -799,22 +815,6 @@
       "duration_ms": 266203,
       "name": "Mi Propio Para\u00edso",
       "url": "https://open.spotify.com/track/3JYUCQOHCkbvnZLZjpRQxc"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 176924,
-      "name": "Freaky",
-      "url": "https://open.spotify.com/track/1mKpZeH6wpdhI4jpGYy870"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 218172,
+      "name": "Resistencia",
+      "url": "https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Tony 70",
         "url": "https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 218172,
-      "name": "Resistencia",
-      "url": "https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Espacios",
         "url": "https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6"
       },
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Aeronave",
+        "url": "https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s"
+      },
+      "artists": [
+        {
+          "name": "Aeronave",
+          "url": "https://open.spotify.com/artist/16E1xP8EmdxO16UHGeRQG7"
+        }
+      ],
+      "duration_ms": 355506,
+      "name": "Aeronave",
+      "url": "https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Myselfed",
         "url": "https://open.spotify.com/album/1gMhxgWFw8hCTKQH0B9Wvf"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 287639,
       "name": "Myselfed",
       "url": "https://open.spotify.com/track/5mp9xzoVJgpdHQTDkJz7r2"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Aeronave",
-        "url": "https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s"
-      },
-      "artists": [
-        {
-          "name": "Aeronave",
-          "url": "https://open.spotify.com/artist/16E1xP8EmdxO16UHGeRQG7"
-        }
-      ],
-      "duration_ms": 355506,
-      "name": "Aeronave",
-      "url": "https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Tangible",
+        "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
+      },
+      "artists": [
+        {
+          "name": "Jasper",
+          "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
+        }
+      ],
+      "duration_ms": 315922,
+      "name": "Beast in You",
+      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Solo por Hoy",
         "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
       },
@@ -1519,18 +1535,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Tangible",
-        "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
+        "name": "Twice",
+        "url": "https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527"
       },
       "artists": [
         {
-          "name": "Jasper",
-          "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
+          "name": "Willy Crook",
+          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
+        },
+        {
+          "name": "Funky Torinos",
+          "url": "https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5"
         }
       ],
-      "duration_ms": 315922,
-      "name": "Beast in You",
-      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
+      "duration_ms": 216249,
+      "name": "Twice",
+      "url": "https://open.spotify.com/track/3VKdesoESiJOCohefJctj3"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1555,26 +1575,6 @@
       "duration_ms": 213490,
       "name": "Para Ernesto",
       "url": "https://open.spotify.com/track/5EpbaJs8fHwiVHag4ZHX8K"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Twice",
-        "url": "https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527"
-      },
-      "artists": [
-        {
-          "name": "Willy Crook",
-          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
-        },
-        {
-          "name": "Funky Torinos",
-          "url": "https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5"
-        }
-      ],
-      "duration_ms": 216249,
-      "name": "Twice",
-      "url": "https://open.spotify.com/track/3VKdesoESiJOCohefJctj3"
     },
     {
       "added_at": "2023-10-06 03:00:00",

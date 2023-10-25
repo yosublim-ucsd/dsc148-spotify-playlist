@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Kynnie",
-  "num_followers": 164126,
+  "num_followers": 164167,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTIyZjdmMTAxNzkzOGEwODZkMWRlYmJjMDU3NmE4YmZiNmVmNzBh",
+  "snapshot_id": "MCw0YTFhNGFhMjA5MmU1OWE2MzIzOGEwZTFlZDM2MjQ3NzA0ODZmMTli",
   "tracks": [
     {
       "added_at": "2023-10-20 03:01:00",
@@ -563,6 +563,82 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
+      },
+      "artists": [
+        {
+          "name": "Fanieh",
+          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
+        }
+      ],
+      "duration_ms": 184489,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Mergulhei",
+        "url": "https://open.spotify.com/album/4raO1hapwBztV4pxrNSzps"
+      },
+      "artists": [
+        {
+          "name": "Izy Castelano",
+          "url": "https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq"
+        },
+        {
+          "name": "Juliah",
+          "url": "https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        },
+        {
+          "name": "kLap",
+          "url": "https://open.spotify.com/artist/51Qf68QZaIZsgS8C1XB5Ow"
+        },
+        {
+          "name": "Tapsounds",
+          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
+        }
+      ],
+      "duration_ms": 211524,
+      "name": "Mergulhei",
+      "url": "https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
+      },
+      "artists": [
+        {
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        },
+        {
+          "name": "Briozzini",
+          "url": "https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj"
+        }
+      ],
+      "duration_ms": 204937,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Faz Arrepiar",
         "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
       },
@@ -603,82 +679,6 @@
       "duration_ms": 136000,
       "name": "Bal\u00e9",
       "url": "https://open.spotify.com/track/7AD5Hbzsh4zsHCBDeMAqJh"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Mergulhei",
-        "url": "https://open.spotify.com/album/4raO1hapwBztV4pxrNSzps"
-      },
-      "artists": [
-        {
-          "name": "Izy Castelano",
-          "url": "https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq"
-        },
-        {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        },
-        {
-          "name": "kLap",
-          "url": "https://open.spotify.com/artist/51Qf68QZaIZsgS8C1XB5Ow"
-        },
-        {
-          "name": "Tapsounds",
-          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
-        }
-      ],
-      "duration_ms": 211524,
-      "name": "Mergulhei",
-      "url": "https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
-      },
-      "artists": [
-        {
-          "name": "Fanieh",
-          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
-        }
-      ],
-      "duration_ms": 184489,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
-      },
-      "artists": [
-        {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        },
-        {
-          "name": "WALL",
-          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
-        },
-        {
-          "name": "Briozzini",
-          "url": "https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj"
-        }
-      ],
-      "duration_ms": 204937,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
       },
@@ -787,18 +803,38 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
+        "name": "S\u00f3 Vem",
+        "url": "https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC"
       },
       "artists": [
         {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
+      "duration_ms": 177715,
+      "name": "Depois da Briga",
+      "url": "https://open.spotify.com/track/3Oec1XgUMdF58bIRlK40Qt"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/08tpiPjnSV3WujNwdrGeeq"
+      },
+      "artists": [
+        {
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+        },
+        {
+          "name": "Atlas",
+          "url": "https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/1RNaYWa47ci3S75qifl7si"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -831,22 +867,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
-      },
-      "artists": [
-        {
-          "name": "MOTICO MONEY",
-          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
-        }
-      ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -871,18 +891,18 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "S\u00f3 Vem",
-        "url": "https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC"
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
       },
       "artists": [
         {
-          "name": "Leo Guima",
-          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+          "name": "MOTICO MONEY",
+          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
         }
       ],
-      "duration_ms": 177715,
-      "name": "Depois da Briga",
-      "url": "https://open.spotify.com/track/3Oec1XgUMdF58bIRlK40Qt"
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -899,22 +919,6 @@
       "duration_ms": 159375,
       "name": "Troco",
       "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
-      },
-      "artists": [
-        {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -947,6 +951,22 @@
       "duration_ms": 218890,
       "name": "Bahamas",
       "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+      },
+      "artists": [
+        {
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1023,46 +1043,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/08tpiPjnSV3WujNwdrGeeq"
-      },
-      "artists": [
-        {
-          "name": "Salah",
-          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
-        },
-        {
-          "name": "Atlas",
-          "url": "https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/1RNaYWa47ci3S75qifl7si"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Eterno Esquema",
-        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Nath Audizio",
-          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
-        }
-      ],
-      "duration_ms": 133564,
-      "name": "Eterno Esquema",
-      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Mais Um Pouco",
         "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 185263,
       "name": "Mais Um Pouco",
       "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Eterno Esquema",
+        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Nath Audizio",
+          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Eterno Esquema",
+      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Universo Suspenso",
+        "url": "https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR"
+      },
+      "artists": [
+        {
+          "name": "Flavia K",
+          "url": "https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/6MAebUQUc54IEPRoaIv5My"
+        }
+      ],
+      "duration_ms": 222368,
+      "name": "Muito Sou(L)",
+      "url": "https://open.spotify.com/track/13JrvtgrEvyk5hCXhdHO26"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "O Que Eu Soul (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 199625,
       "name": "O Que Eu Soul - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Universo Suspenso",
-        "url": "https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR"
-      },
-      "artists": [
-        {
-          "name": "Flavia K",
-          "url": "https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/6MAebUQUc54IEPRoaIv5My"
-        }
-      ],
-      "duration_ms": 222368,
-      "name": "Muito Sou(L)",
-      "url": "https://open.spotify.com/track/13JrvtgrEvyk5hCXhdHO26"
     },
     {
       "added_at": "2023-10-20 03:01:00",

@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-188 songs - 17 hr 5 min
+189 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,9 +29,10 @@
 | [Black Unicorn](https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 05](https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf) | 8:05 | 2023-03-29 |  |
 | [BORE/ALIS](https://open.spotify.com/track/2XjiQGuiVWAfLmpt5JCNMK) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Vision 20/20](https://open.spotify.com/artist/2H3YaPmQxrV9eHZ9lcmvoM) | [DEVIN/ITION](https://open.spotify.com/album/7JPLAj9HtVO1l1eOhQN5Nc) | 4:07 | 2022-12-16 | 2023-02-01 |
 | [Can You Move To The Beat](https://open.spotify.com/track/7rljiHdUyJWOx7bY57FMFn) | [RETNA](https://open.spotify.com/artist/4GlYRE9Z9Uuo22oMUlWRAz) | [Can You Move To The Beat](https://open.spotify.com/album/08kYk1OYfMLxHFM9l2hrUi) | 3:06 | 2022-11-17 | 2023-02-01 |
-| [Can't Stop the Feeling](https://open.spotify.com/track/0NsigEyiIwuysCjeU9EhRU) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/15G5lWobigPCcfut6h0eaD) | 3:28 | 2023-10-03 |  |
+| [Can't Stop the Feeling](https://open.spotify.com/track/0NsigEyiIwuysCjeU9EhRU) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/15G5lWobigPCcfut6h0eaD) | 3:28 | 2023-10-03 | 2023-10-25 |
 | [Can't Stop the Feeling](https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/6qLxGWZeEO8XcScqKQ7tqZ) | 3:28 | 2022-10-21 | 2023-05-09 |
 | [Choir Of Spirits](https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Choir Of Spirits](https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd) | 6:45 | 2022-07-05 | 2023-10-17 |
+| [Choir Of Spirits](https://open.spotify.com/track/6BqmhyqTFbAXD5M8WnqhIM) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Choir Of Spirits](https://open.spotify.com/album/2lC45D73TicbOMEI1a8Fk7) | 6:45 | 2023-10-13 |  |
 | [Cleaning Pathes \- Original Mix](https://open.spotify.com/track/4D1IE24PxQ5QAzeqCjg3hg) | [F\-Rontal](https://open.spotify.com/artist/7xcEuNcEPzlYUuAKyqfJMS) | [Cleaning Pathes](https://open.spotify.com/album/36I7OXm7hoOD2ovRst0GBk) | 3:59 | 2022-07-05 | 2022-07-26 |
 | [Colonia](https://open.spotify.com/track/0eJInRAV3YR0xRNGsk5Ty7) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/3ICAjodGpPbA4VWC1CFYN0) | 3:54 | 2022-11-25 | 2023-02-26 |
 | [Colonia](https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX) | 3:54 | 2023-02-10 |  |

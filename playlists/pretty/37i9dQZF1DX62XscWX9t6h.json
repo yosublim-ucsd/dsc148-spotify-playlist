@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 160370,
+  "num_followers": 160455,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmI2YWVmZmY1YTgwOWE2MjMxZDkxZDNmZTQ1ODY3OWQ1ZmQwYWY5",
+  "snapshot_id": "MCw1OGJkYThmNjQxNDI0MTg4MmIyZTlhMDkwMGFkNzdlMDBkNDQzMTk2",
   "tracks": [
     {
       "added_at": "2021-10-20 20:05:06",
@@ -533,6 +533,22 @@
       "url": "https://open.spotify.com/track/1dxYM3qSzXe2O2RJ3rK3KI"
     },
     {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "K.G.",
+        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 252630,
+      "name": "Intrasport",
+      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
+    },
+    {
       "added_at": "2022-04-22 19:20:43",
       "album": {
         "name": "Up and Away",
@@ -551,22 +567,6 @@
       "duration_ms": 191471,
       "name": "Up and Away",
       "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 252630,
-      "name": "Intrasport",
-      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -627,18 +627,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+        "name": "K.G.",
+        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
       },
       "artists": [
         {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+      "duration_ms": 209803,
+      "name": "Automation",
+      "url": "https://open.spotify.com/track/03CS8ifzdYuzNCyzshYl7Z"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -659,6 +659,22 @@
       "duration_ms": 192404,
       "name": "Murkit Gem",
       "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -713,20 +729,20 @@
       "url": "https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2022-02-03 23:38:31",
       "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+        "name": "Aboogi",
+        "url": "https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
         }
       ],
-      "duration_ms": 209803,
-      "name": "Automation",
-      "url": "https://open.spotify.com/track/03CS8ifzdYuzNCyzshYl7Z"
+      "duration_ms": 256320,
+      "name": "Achinkad",
+      "url": "https://open.spotify.com/track/7eArOOr6p5TiYNGH6jHALx"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -759,22 +775,6 @@
       "duration_ms": 479546,
       "name": "Atomic Bomb",
       "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
-    },
-    {
-      "added_at": "2022-02-03 23:38:31",
-      "album": {
-        "name": "Aboogi",
-        "url": "https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw"
-      },
-      "artists": [
-        {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Achinkad",
-      "url": "https://open.spotify.com/track/7eArOOr6p5TiYNGH6jHALx"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/38qUvMP0z6Xn7aPrvpurit"
     },
     {
-      "added_at": "2023-06-07 04:01:30",
-      "album": {
-        "name": "Taivshral",
-        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Ash",
@@ -961,20 +945,36 @@
       "url": "https://open.spotify.com/track/4Qolq4voNJaxnQNYzFsMLu"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2023-06-07 04:01:30",
       "album": {
-        "name": "Safe Passage",
-        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
+        "name": "Taivshral",
+        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
       },
       "artists": [
         {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
         }
       ],
-      "duration_ms": 206684,
-      "name": "Nosotros Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I"
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
+    },
+    {
+      "added_at": "2022-07-28 06:00:43",
+      "album": {
+        "name": "Weird Fishes/ Arpeggi",
+        "url": "https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+        }
+      ],
+      "duration_ms": 325773,
+      "name": "Weird Fishes/ Arpeggi",
+      "url": "https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83"
     },
     {
       "added_at": "2023-05-25 23:48:57",
@@ -997,20 +997,20 @@
       "url": "https://open.spotify.com/track/6a2lsRBLR68z0azpNyFrzr"
     },
     {
-      "added_at": "2022-07-28 06:00:43",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Weird Fishes/ Arpeggi",
-        "url": "https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1"
+        "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
       },
       "artists": [
         {
-          "name": "Rodrigo y Gabriela",
-          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
         }
       ],
-      "duration_ms": 325773,
-      "name": "Weird Fishes/ Arpeggi",
-      "url": "https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83"
+      "duration_ms": 206684,
+      "name": "Nosotros Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/31SocnpUpBkeybeT5UsY65"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Cera Perdida",
-        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 189892,
-      "name": "Jaley Jaley",
-      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
-    },
-    {
       "added_at": "2023-04-14 00:27:25",
       "album": {
         "name": "Mentallogenic",
@@ -1059,6 +1043,22 @@
       "duration_ms": 259933,
       "name": "Silky",
       "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Cera Perdida",
+        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 189892,
+      "name": "Jaley Jaley",
+      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
     },
     {
       "added_at": "2022-04-06 01:47:33",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Grandeza",
-        "url": "https://open.spotify.com/album/0xMUBvCjRGQqWps0tKcnBn"
-      },
-      "artists": [
-        {
-          "name": "Sessa",
-          "url": "https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ"
-        }
-      ],
-      "duration_ms": 214787,
-      "name": "Flor do Real",
-      "url": "https://open.spotify.com/track/2Xnn9KSLIeECnBfACC4LKj"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Kabul Fire Vol. 2",
         "url": "https://open.spotify.com/album/0xye43RFZ3KDSFI5OqLZm1"
       },
@@ -1141,20 +1125,20 @@
       "url": "https://open.spotify.com/track/33sVaipoLkwfmS0FBPzgrc"
     },
     {
-      "added_at": "2023-07-19 02:43:48",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Uummati Attanarsimat (Heart of Glass)",
-        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
+        "name": "Grandeza",
+        "url": "https://open.spotify.com/album/0xMUBvCjRGQqWps0tKcnBn"
       },
       "artists": [
         {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+          "name": "Sessa",
+          "url": "https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ"
         }
       ],
-      "duration_ms": 238288,
-      "name": "Uummati Attanarsimat (Heart of Glass)",
-      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
+      "duration_ms": 214787,
+      "name": "Flor do Real",
+      "url": "https://open.spotify.com/track/2Xnn9KSLIeECnBfACC4LKj"
     },
     {
       "added_at": "2023-02-23 03:11:35",
@@ -1171,6 +1155,22 @@
       "duration_ms": 209480,
       "name": "Descending To Nowhere",
       "url": "https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF"
+    },
+    {
+      "added_at": "2023-07-19 02:43:48",
+      "album": {
+        "name": "Uummati Attanarsimat (Heart of Glass)",
+        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1329,20 +1329,20 @@
       "url": "https://open.spotify.com/track/3Oz6UMkZPQFP14wLXYWLul"
     },
     {
-      "added_at": "2022-03-04 03:59:12",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Binbo\u011fa",
-        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
+        "name": "Zan",
+        "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
       },
       "artists": [
         {
-          "name": "Yalnayak",
-          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
+          "name": "Liraz",
+          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
         }
       ],
-      "duration_ms": 242400,
-      "name": "Binbo\u011fa",
-      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
+      "duration_ms": 216640,
+      "name": "Bia Bia",
+      "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1361,20 +1361,20 @@
       "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2022-03-04 03:59:12",
       "album": {
-        "name": "Zan",
-        "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
+        "name": "Binbo\u011fa",
+        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
       },
       "artists": [
         {
-          "name": "Liraz",
-          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
+          "name": "Yalnayak",
+          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
         }
       ],
-      "duration_ms": 216640,
-      "name": "Bia Bia",
-      "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
+      "duration_ms": 242400,
+      "name": "Binbo\u011fa",
+      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1449,6 +1449,22 @@
       "url": "https://open.spotify.com/track/5CW8Sionqq9jxe1uZxN5h7"
     },
     {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Ilana (The Creator)",
+        "url": "https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 447083,
+      "name": "Tarhatazed",
+      "url": "https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU"
+    },
+    {
       "added_at": "2022-03-04 21:17:03",
       "album": {
         "name": "The Age of Aquarius",
@@ -1483,38 +1499,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Ilana (The Creator)",
-        "url": "https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 447083,
-      "name": "Tarhatazed",
-      "url": "https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Calling England Home",
-        "url": "https://open.spotify.com/album/4qO6OhmdEda5cfBjDOTduz"
-      },
-      "artists": [
-        {
-          "name": "Anthony Joseph",
-          "url": "https://open.spotify.com/artist/622cbugSJevUkEanSBCab9"
-        }
-      ],
-      "duration_ms": 373893,
-      "name": "Calling England Home",
-      "url": "https://open.spotify.com/track/6jd5uWEpV3zdgnR0obsXZ2"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Yol",
         "url": "https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k"
       },
@@ -1545,6 +1529,38 @@
       "url": "https://open.spotify.com/track/1z7SGD6F6OYGinYGyym9uC"
     },
     {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Calling England Home",
+        "url": "https://open.spotify.com/album/4qO6OhmdEda5cfBjDOTduz"
+      },
+      "artists": [
+        {
+          "name": "Anthony Joseph",
+          "url": "https://open.spotify.com/artist/622cbugSJevUkEanSBCab9"
+        }
+      ],
+      "duration_ms": 373893,
+      "name": "Calling England Home",
+      "url": "https://open.spotify.com/track/6jd5uWEpV3zdgnR0obsXZ2"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Optimisme",
+        "url": "https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
+    },
+    {
       "added_at": "2022-02-18 06:00:35",
       "album": {
         "name": "Remotely Close: Silkyway",
@@ -1563,22 +1579,6 @@
       "duration_ms": 230998,
       "name": "Remotely Close: Silkyway",
       "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Optimisme",
-        "url": "https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF"
-      },
-      "artists": [
-        {
-          "name": "Songhoy Blues",
-          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1617,6 +1617,22 @@
       "url": "https://open.spotify.com/track/48UIC5kKvE8ftxKyXvlvg7"
     },
     {
+      "added_at": "2022-08-31 05:20:13",
+      "album": {
+        "name": "Ghibli",
+        "url": "https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As"
+      },
+      "artists": [
+        {
+          "name": "Savana Funk",
+          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
+        }
+      ],
+      "duration_ms": 235519,
+      "name": "Ghibli",
+      "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
+    },
+    {
       "added_at": "2023-07-19 02:50:55",
       "album": {
         "name": "The Ballad of the Runaway Girl",
@@ -1633,20 +1649,24 @@
       "url": "https://open.spotify.com/track/7eMFZDDVezqN2tOEBOU29v"
     },
     {
-      "added_at": "2022-08-31 05:20:13",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Ghibli",
-        "url": "https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As"
+        "name": "The Source (2017 Remastered Version)",
+        "url": "https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj"
       },
       "artists": [
         {
-          "name": "Savana Funk",
-          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Nitin Sawhney",
+          "url": "https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ"
         }
       ],
-      "duration_ms": 235519,
-      "name": "Ghibli",
-      "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
+      "duration_ms": 308213,
+      "name": "Inchana Massina (feat. Nitin Sawhney) - 2017 Remastered Version",
+      "url": "https://open.spotify.com/track/3wvU3SK6KD2m4y5eOEAGjR"
     },
     {
       "added_at": "2023-03-29 18:06:57",
@@ -1683,26 +1703,6 @@
       "duration_ms": 235418,
       "name": "Mano de Fatima",
       "url": "https://open.spotify.com/track/1823wxCop81BdNRMKcfygg"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "The Source (2017 Remastered Version)",
-        "url": "https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Nitin Sawhney",
-          "url": "https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ"
-        }
-      ],
-      "duration_ms": 308213,
-      "name": "Inchana Massina (feat. Nitin Sawhney) - 2017 Remastered Version",
-      "url": "https://open.spotify.com/track/3wvU3SK6KD2m4y5eOEAGjR"
     },
     {
       "added_at": "2021-10-20 20:05:06",

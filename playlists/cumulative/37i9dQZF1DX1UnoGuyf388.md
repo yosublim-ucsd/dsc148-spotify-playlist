@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\.  Cover: Tinashe
 
-261 songs - 13 hr 14 min
+262 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Deserve It](https://open.spotify.com/track/7CgPnaIjzpMpM5cbeJPKnI) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 3:13 | 2022-04-22 | 2023-01-28 |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-24 |  |
 | [Do Better](https://open.spotify.com/track/0exKvNvCeofzXEVlPIebaN) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [Do Better](https://open.spotify.com/album/05FP2EnloDbiVO8nQBrf90) | 2:42 | 2022-02-11 | 2023-01-28 |
-| [do it all](https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [do it all](https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf) | 1:36 | 2023-03-24 |  |
+| [do it all](https://open.spotify.com/track/0W9PTP67SR6IrBYub9GsBC) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [leave me where you found me](https://open.spotify.com/album/1f19gczYsoUBsqpiG2UFR3) | 1:36 | 2023-10-17 |  |
+| [do it all](https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [do it all](https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf) | 1:36 | 2023-03-24 | 2023-10-25 |
 | [Don't Say No](https://open.spotify.com/track/3a9oWZ6mI5v3yGmcmVpcmu) | [Thalia Falcon](https://open.spotify.com/artist/7AsrMHlSAgnoCLSW723gYb) | [Don't Say No](https://open.spotify.com/album/3rliGA4cYKqMuzCKK819m2) | 3:00 | 2022-02-04 | 2023-01-28 |
 | [DONT TOUCH MY MONEY](https://open.spotify.com/track/2F6AKAUokqFmRCfZxXZuYH) | [Unghetto](https://open.spotify.com/artist/4a0UMM2QrKP5ESk1P8373s) | [Happy Trap](https://open.spotify.com/album/6vUvRaGRXMpZTU1ZFTsTUf) | 2:12 | 2022-02-25 | 2023-01-28 |
 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 4:28 | 2023-04-28 | 2023-08-19 |

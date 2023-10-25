@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ogchaseb/">Chase B</a>
 
-32 songs - 1 hr 41 min
+33 songs - 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Next To You](https://open.spotify.com/track/2SSyJ6hTS0JeHTg63wVDZ7) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 3:10 | 2022-10-01 |  |
 | [Over Your Head](https://open.spotify.com/track/7JsuXl9Odf3V38ksu4FWDZ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto \(Deluxe\)](https://open.spotify.com/album/3aITAVBURujVe8fhI2seeR) | 3:06 | 2022-10-01 |  |
 | [Overrated](https://open.spotify.com/track/6Fc9IYSkbmVwv4dlzn8hJb) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Love Lost](https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9) | 2:26 | 2022-10-01 |  |
-| [Prospect \(ft\. Lil Baby\)](https://open.spotify.com/track/4Zjdzxx0dsavsr7Ehr8fGE) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Prospect \(feat\. Lil Baby\)](https://open.spotify.com/album/0EmINljXosug1gnqewNqnn) | 3:46 | 2022-10-01 |  |
+| [Prospect \(feat\. Lil Baby\)](https://open.spotify.com/track/19WJ1TEz7RlwUrt7NFEW7t) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [I'm Gone](https://open.spotify.com/album/3MZ9DaqqNeedTrOsfYH93Q) | 3:46 | 2022-10-01 |  |
+| [Prospect \(ft\. Lil Baby\)](https://open.spotify.com/track/4Zjdzxx0dsavsr7Ehr8fGE) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Prospect \(feat\. Lil Baby\)](https://open.spotify.com/album/0EmINljXosug1gnqewNqnn) | 3:46 | 2022-10-01 | 2023-10-25 |
 | [Reality Check](https://open.spotify.com/track/2p72O2JobPc9sVz520Hil5) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Reality Check](https://open.spotify.com/album/2ypwyxLk2t1LUWW6rKyePH) | 3:52 | 2022-10-01 |  |
 | [Respect It \(with Hit\-Boy feat\. Young Thug\)](https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:27 | 2022-10-01 |  |
 | [Ridin Strikers](https://open.spotify.com/track/6PHbWsTTlmQKF9i9VC1KFv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:45 | 2022-10-01 |  |

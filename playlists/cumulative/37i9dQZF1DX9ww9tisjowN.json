@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 259053,
       "name": "I'm your hero",
       "url": "https://open.spotify.com/track/3mxwpuEFhRxKTryxKqDymy"
@@ -3147,6 +3147,24 @@
     },
     {
       "album": {
+        "name": "\u30ef\u30f3\u30eb\u30fc\u30e0\u30b5\u30d0\u30a4\u30d0\u30eb",
+        "url": "https://open.spotify.com/album/2AbeJ3WRfsuNBj60drWwWi"
+      },
+      "artists": [
+        {
+          "name": "Serani Poji",
+          "url": "https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262640,
+      "name": "\u3074\u307d\u3074\u307d",
+      "url": "https://open.spotify.com/track/7GxUPZNxNPvDToM4FkXE6G"
+    },
+    {
+      "album": {
         "name": "\u307b\u308d\u3088\u3044",
         "url": "https://open.spotify.com/album/2DsVuF5n03nZIlB5TH3x8Q"
       },
@@ -3292,6 +3310,24 @@
       "duration_ms": 259053,
       "name": "\u30a2\u30a4\u30e0\u30e6\u30a2\u30d2\u30fc\u30ed\u30fc",
       "url": "https://open.spotify.com/track/3qLF8tsuoFkpVVqBQyTgM8"
+    },
+    {
+      "album": {
+        "name": "\u6c38\u9060\u5e02",
+        "url": "https://open.spotify.com/album/5STqcXt9yxV4dpDCTB2D62"
+      },
+      "artists": [
+        {
+          "name": "amazarashi",
+          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290293,
+      "name": "\u30a4\u30f3\u30d2\u30e5\u30fc\u30de\u30f3\u30a8\u30f3\u30d1\u30b7\u30fc",
+      "url": "https://open.spotify.com/track/6ite4gtP02Vfb8NvXxlI1Q"
     },
     {
       "album": {
@@ -3479,6 +3515,28 @@
     },
     {
       "album": {
+        "name": "\u30dd\u30b1\u30c3\u30c8\u306e\u30e2\u30f3\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/3127A3CU7WRzZwv5vfqMKP"
+      },
+      "artists": [
+        {
+          "name": "PinocchioP",
+          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216827,
+      "name": "\u30dd\u30b1\u30c3\u30c8\u306e\u30e2\u30f3\u30b9\u30bf\u30fc (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/164JMtlCerJvMQPSDi5GDb"
+    },
+    {
+      "album": {
         "name": "\u30dd\u30ea\u30b4\u30f3\u30a6\u30a7\u30a4\u30f4 EP",
         "url": "https://open.spotify.com/album/2LuuZaVVX5Bp7eX3PIV6B7"
       },
@@ -3602,7 +3660,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 149226,
       "name": "\u30ed\u30de\u30f3\u30b9\u5ba3\u8a00",
       "url": "https://open.spotify.com/track/7ph7HRUsxYcKLRFTaYCQYQ"
@@ -4014,7 +4072,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 241920,
       "name": "\u7121\u9650\u3055",
       "url": "https://open.spotify.com/track/5hXzy6s8VF91bebMSzsd8O"

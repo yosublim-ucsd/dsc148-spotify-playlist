@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere & celebrating Filipino Heritage Month all month long! Cover: Ez Mil. ",
-  "num_followers": 279795,
+  "num_followers": 279807,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTk3NzQ4NDVhMzNlZmY3MDJmMmY0MTBmMmUxZTIzYzQzZjA1YzQz",
+  "snapshot_id": "MCw0MjYzYTY1M2Q0ZTdkYTVlMTE0OTAwMzJjYTljNDQwOTE5NDZkZjJh",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Bug Like an Angel",
-        "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "Bug Like an Angel",
-      "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "you won't be there for me",
         "url": "https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 182645,
       "name": "you won't be there for me",
       "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Bug Like an Angel",
+        "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Bug Like an Angel",
+      "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Don't Leave Yet",
-        "url": "https://open.spotify.com/album/3waB8KtFMT0fggbkjbK7Kj"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "Don't Leave Yet",
-      "url": "https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Don't Look Down (feat. BANKS)",
         "url": "https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu"
       },
@@ -1227,22 +1211,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Drink!",
-        "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
+        "name": "Don't Leave Yet",
+        "url": "https://open.spotify.com/album/3waB8KtFMT0fggbkjbK7Kj"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        },
-        {
-          "name": "YonYon",
-          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 187862,
-      "name": "Drink!",
-      "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
+      "duration_ms": 165933,
+      "name": "Don't Leave Yet",
+      "url": "https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1259,6 +1239,26 @@
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Drink!",
+        "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        }
+      ],
+      "duration_ms": 187862,
+      "name": "Drink!",
+      "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Lovegod",
-        "url": "https://open.spotify.com/album/2KEC2u2Q3nhAeXeZb6Ptq7"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 188065,
-      "name": "Lovegod",
-      "url": "https://open.spotify.com/track/2hKnW3SMsVWhXoSYLXn01G"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 162020,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Lovegod",
+        "url": "https://open.spotify.com/album/2KEC2u2Q3nhAeXeZb6Ptq7"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 188065,
+      "name": "Lovegod",
+      "url": "https://open.spotify.com/track/2hKnW3SMsVWhXoSYLXn01G"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1739,18 +1739,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Don't Know About The World",
-        "url": "https://open.spotify.com/album/5GrDrzY4yWfB2YwyZqx2gP"
+        "name": "Flashback feat. Daichi Yamamoto",
+        "url": "https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7"
       },
       "artists": [
         {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
         }
       ],
-      "duration_ms": 143696,
-      "name": "Don't Know About The World",
-      "url": "https://open.spotify.com/track/76M8uxD1WvL0H4h2Jv8Fm5"
+      "duration_ms": 284478,
+      "name": "Flashback feat. Daichi Yamamoto",
+      "url": "https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1771,22 +1775,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Flashback feat. Daichi Yamamoto",
-        "url": "https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7"
+        "name": "Don't Know About The World",
+        "url": "https://open.spotify.com/album/5GrDrzY4yWfB2YwyZqx2gP"
       },
       "artists": [
         {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        },
-        {
-          "name": "Daichi Yamamoto",
-          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 284478,
-      "name": "Flashback feat. Daichi Yamamoto",
-      "url": "https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB"
+      "duration_ms": 143696,
+      "name": "Don't Know About The World",
+      "url": "https://open.spotify.com/track/76M8uxD1WvL0H4h2Jv8Fm5"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1947,6 +1947,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "buttons!",
+        "url": "https://open.spotify.com/album/4LBaHD1RYaiZh4YGiLDyGo"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "buttons!",
+      "url": "https://open.spotify.com/track/5ekfEEnkAHxrn2KNvyZg7E"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "MEIGUANXIDEYO",
         "url": "https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu"
       },
@@ -1963,22 +1983,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "I Just Wanna Know",
-        "url": "https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 144489,
-      "name": "I Just Wanna Know",
-      "url": "https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "THE GRATITUDE PROJECT",
         "url": "https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K"
       },
@@ -1991,6 +1995,22 @@
       "duration_ms": 217258,
       "name": "SHOULD I BE OK?",
       "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "I Just Wanna Know",
+        "url": "https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 144489,
+      "name": "I Just Wanna Know",
+      "url": "https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2043,22 +2063,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "buttons!",
-        "url": "https://open.spotify.com/album/4LBaHD1RYaiZh4YGiLDyGo"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
       },
       "artists": [
         {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 239047,
-      "name": "buttons!",
-      "url": "https://open.spotify.com/track/5ekfEEnkAHxrn2KNvyZg7E"
+      "duration_ms": 173482,
+      "name": "so into you - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2079,22 +2095,6 @@
       "duration_ms": 121682,
       "name": "Thinkin Of U",
       "url": "https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 173482,
-      "name": "so into you - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "like everyone else",
-        "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "like everyone else",
-      "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "MIDNIGHT",
         "url": "https://open.spotify.com/album/6vzZymCJxleZ6bRSqACu0h"
       },
@@ -2179,6 +2163,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "like everyone else",
+        "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "like everyone else",
+      "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "The Hard Way",
         "url": "https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM"
       },
@@ -2191,6 +2191,26 @@
       "duration_ms": 212933,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Don't Step On My Nikes",
+        "url": "https://open.spotify.com/album/3IOrmd5uhcEwnLyWXEmM1d"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Carta",
+          "url": "https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Don't Step On My Nikes",
+      "url": "https://open.spotify.com/track/60rwDygmXmbkD5OVc508y9"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2215,26 +2235,6 @@
       "duration_ms": 190666,
       "name": "Anybody Out There (feat. HENRY & Sara Phillips)",
       "url": "https://open.spotify.com/track/05tOx5wW2LGBOExPe37wdI"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Don't Step On My Nikes",
-        "url": "https://open.spotify.com/album/3IOrmd5uhcEwnLyWXEmM1d"
-      },
-      "artists": [
-        {
-          "name": "Liu",
-          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
-        },
-        {
-          "name": "Carta",
-          "url": "https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Don't Step On My Nikes",
-      "url": "https://open.spotify.com/track/60rwDygmXmbkD5OVc508y9"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "ADHD",
-        "url": "https://open.spotify.com/album/5EPxYzh7xEjcATtggPNv0a"
-      },
-      "artists": [
-        {
-          "name": "Lucy Tun",
-          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "ADHD",
-      "url": "https://open.spotify.com/track/2RGyDsXQOexgD4bHC3oBVA"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "I'VE SEEN THIS MOVIE BEFORE Pt.2",
         "url": "https://open.spotify.com/album/3qJp0l4TtjzUNXQ3cJnMPh"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 208000,
       "name": "I'VE SEEN THIS MOVIE BEFORE Pt.2",
       "url": "https://open.spotify.com/track/6bZ6d4DqovVDecNAluId9h"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "ADHD",
+        "url": "https://open.spotify.com/album/5EPxYzh7xEjcATtggPNv0a"
+      },
+      "artists": [
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/2RGyDsXQOexgD4bHC3oBVA"
     },
     {
       "added_at": "2023-10-20 04:01:00",

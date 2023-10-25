@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-118 songs - 9 hr 16 min
+119 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [SUMASALANGIT](https://open.spotify.com/track/5SUO3VivayfBeZ4lxOFtBJ) | [Judah Vibar](https://open.spotify.com/artist/027cRwJWoGBJ54pT7yMZ9Q) | [SUMASALANGIT](https://open.spotify.com/album/0gbnXnnrDu85LXuMZcXp5o) | 5:27 | 2023-03-31 |  |
 | [The Good God](https://open.spotify.com/track/13yRKcO7grILliLJxcGqDb) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [The Good God](https://open.spotify.com/album/2NT0QHJDsW8lupjeCBluL6) | 4:32 | 2022-04-15 | 2023-05-06 |
 | [The Good God](https://open.spotify.com/track/5W2lmvNODzxh8HWKIKGuWt) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [The Good God](https://open.spotify.com/album/7BLeAdJsjIz2aRiM3jLvch) | 4:32 | 2023-05-05 |  |
-| [The Lord Is My Strength](https://open.spotify.com/track/2h3ijpjDCPUT8Xk0dSamdP) | [Winter Lines](https://open.spotify.com/artist/4nn7aCP8zkNozTIk0corHJ) | [The Lord Is My Strength](https://open.spotify.com/album/5yp8ku9AspiR681MinboV9) | 3:03 | 2022-04-15 |  |
+| [The Lord Is My Strength](https://open.spotify.com/track/2h3ijpjDCPUT8Xk0dSamdP) | [Winter Lines](https://open.spotify.com/artist/4nn7aCP8zkNozTIk0corHJ) | [The Lord Is My Strength](https://open.spotify.com/album/5yp8ku9AspiR681MinboV9) | 3:03 | 2022-04-15 | 2023-10-25 |
+| [The Lord Is My Strength](https://open.spotify.com/track/4nLRzSNYahU2dg4kMb8DCw) | [Winter Lines](https://open.spotify.com/artist/4nn7aCP8zkNozTIk0corHJ) | [The Lord Is My Strength](https://open.spotify.com/album/5F810zz502uWowONYFj6qJ) | 3:03 | 2023-05-05 |  |
 | [The Lord Is My Strength](https://open.spotify.com/track/5pn6jIp7xDLeqsolqo8xPM) | [Winter Lines](https://open.spotify.com/artist/4nn7aCP8zkNozTIk0corHJ) | [The Lord Is My Strength](https://open.spotify.com/album/3pet4Bt1uQWLf24NsiT93T) | 3:03 | 2022-04-15 | 2022-07-29 |
 | [This Year](https://open.spotify.com/track/232GkQUm3vxkug4dFIknAf) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [This Year](https://open.spotify.com/album/5s1UWPJuRes1KBa3ODY8Kv) | 3:00 | 2022-04-15 | 2023-05-06 |
 | [This Year](https://open.spotify.com/track/3UwIhoYUUjs6kYJq9IVYso) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [This Year](https://open.spotify.com/album/0ueqRiZwnfRqcm2ZZqYeuL) | 3:00 | 2023-05-05 |  |

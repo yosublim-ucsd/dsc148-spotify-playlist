@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Trazendo a Arca",
-  "num_followers": 130759,
+  "num_followers": 130817,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGRlZmIwZGJlNGFhNjg0YjllNjQzZWNjNWZkY2I4ZDI0MGJjY2Yx",
+  "snapshot_id": "MCw5NmY5YjJlNDI1N2VkNjQ2Y2UzN2QyZTUzMzJkZGVmOTkwZmYxOTI1",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -339,46 +339,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Dia De Milagres",
-        "url": "https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ"
-      },
-      "artists": [
-        {
-          "name": "Lakewood Music",
-          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
-        },
-        {
-          "name": "Ramiro Garcia",
-          "url": "https://open.spotify.com/artist/32tEqBlwNmhk5cYycFIbxZ"
-        },
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 262480,
-      "name": "Dia De Milagres",
-      "url": "https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Lembre-se 80's",
-        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 232191,
-      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder",
-      "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "O Que Me Espera",
         "url": "https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs"
       },
@@ -399,6 +359,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Lembre-se 80's",
+        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 232191,
+      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder",
+      "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Tudo Fica Bem",
         "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
       },
@@ -415,6 +391,30 @@
       "duration_ms": 304240,
       "name": "Tudo Fica Bem",
       "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Dia De Milagres",
+        "url": "https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Ramiro Garcia",
+          "url": "https://open.spotify.com/artist/32tEqBlwNmhk5cYycFIbxZ"
+        },
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 262480,
+      "name": "Dia De Milagres",
+      "url": "https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -443,18 +443,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Vida/Eternidade",
-        "url": "https://open.spotify.com/album/15aPsEilVLOZ4lF5JWg6be"
+        "name": "O Meu Lugar",
+        "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
       },
       "artists": [
         {
-          "name": "verboemcarne",
-          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        },
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
         }
       ],
-      "duration_ms": 258700,
-      "name": "Jo\u00e3o 1 - VEC",
-      "url": "https://open.spotify.com/track/7fY0cpQJpJkvMfN7st6PyG"
+      "duration_ms": 245912,
+      "name": "O Meu Lugar",
+      "url": "https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -475,22 +479,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "O Meu Lugar",
-        "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
+        "name": "Vida/Eternidade",
+        "url": "https://open.spotify.com/album/15aPsEilVLOZ4lF5JWg6be"
       },
       "artists": [
         {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        },
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+          "name": "verboemcarne",
+          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
         }
       ],
-      "duration_ms": 245912,
-      "name": "O Meu Lugar",
-      "url": "https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1"
+      "duration_ms": 258700,
+      "name": "Jo\u00e3o 1 - VEC",
+      "url": "https://open.spotify.com/track/7fY0cpQJpJkvMfN7st6PyG"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -535,6 +535,38 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Resist\u00eancia",
+        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "ATEU",
+        "url": "https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 245462,
+      "name": "ATEU",
+      "url": "https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Eu Vou Amanhecer (ao Vivo)",
         "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
       },
@@ -567,38 +599,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "ELE \u00c9 EXALTADO",
-        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 298342,
-      "name": "ELE \u00c9 EXALTADO",
-      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "ATEU",
-        "url": "https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 245462,
-      "name": "ATEU",
-      "url": "https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
         "url": "https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 304556,
       "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
       "url": "https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "ELE \u00c9 EXALTADO",
+        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 298342,
+      "name": "ELE \u00c9 EXALTADO",
+      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -651,18 +667,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Resist\u00eancia",
-        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
+        "name": "Cantem os Anjos",
+        "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
       },
       "artists": [
         {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+          "name": "Minist\u00e9rio M3",
+          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
         }
       ],
-      "duration_ms": 261500,
-      "name": "Resist\u00eancia",
-      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
+      "duration_ms": 194533,
+      "name": "Cantem os Anjos",
+      "url": "https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -695,22 +711,6 @@
       "duration_ms": 250475,
       "name": "Escolho Ser Fiel",
       "url": "https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Cantem os Anjos",
-        "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio M3",
-          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "Cantem os Anjos",
-      "url": "https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -767,30 +767,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Catarse: Lado B",
-        "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Adriano Daga",
-          "url": "https://open.spotify.com/artist/0b3DjFBA5CoBiW5Sz2zhbU"
-        }
-      ],
-      "duration_ms": 222727,
-      "name": "Cora\u00e7\u00e3o de Pedra",
-      "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Na Terra Parte 2/3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 403932,
       "name": "Descanso",
       "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Catarse: Lado B",
+        "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Adriano Daga",
+          "url": "https://open.spotify.com/artist/0b3DjFBA5CoBiW5Sz2zhbU"
+        }
+      ],
+      "duration_ms": 222727,
+      "name": "Cora\u00e7\u00e3o de Pedra",
+      "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
     },
     {
       "added_at": "2023-10-20 03:00:00",

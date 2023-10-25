@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk?si=gnYOdOZxT_-mL-QVsbRxKQ\">Red</a> ",
-  "num_followers": 138444,
+  "num_followers": 138512,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmE1ZmI1ZWM0YmNmMTUxYWEzYzRhM2E2YzdjYjZkODI5NDc5ZTg5",
+  "snapshot_id": "MCw2MjVhMWZlYTU0M2FkN2M2ZjU1YzIxOTg5NGNjZmIzZDdiZjQzZWUy",
   "tracks": [
     {
       "added_at": "2023-08-04 12:11:34",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "HEAVEN DON'T CRY",
-        "url": "https://open.spotify.com/album/5EricpSpQU25ngROzHMrSX"
-      },
-      "artists": [
-        {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
-        }
-      ],
-      "duration_ms": 265706,
-      "name": "HEAVEN DON'T CRY",
-      "url": "https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Long Live the Rebels",
         "url": "https://open.spotify.com/album/15add9fux55wlIQygXNPz9"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 243699,
       "name": "Erase",
       "url": "https://open.spotify.com/track/5ZCEWXE5I4l6x76GZA2Xby"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "HEAVEN DON'T CRY",
+        "url": "https://open.spotify.com/album/5EricpSpQU25ngROzHMrSX"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "duration_ms": 265706,
+      "name": "HEAVEN DON'T CRY",
+      "url": "https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
-        "url": "https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 194721,
-      "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
-      "url": "https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Outlive",
         "url": "https://open.spotify.com/album/3qumSCBx2jU1GB8aIfXhrn"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 205786,
       "name": "Cold Winter Sun",
       "url": "https://open.spotify.com/track/3x0jpqonkfTOPXtoVP4vmb"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 194721,
+      "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
+      "url": "https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "EXILE",
-        "url": "https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3"
-      },
-      "artists": [
-        {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
-        }
-      ],
-      "duration_ms": 256893,
-      "name": "ANOTHER PLACE",
-      "url": "https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Listen Friend",
         "url": "https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 304813,
       "name": "Lazarus",
       "url": "https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "EXILE",
+        "url": "https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "duration_ms": 256893,
+      "name": "ANOTHER PLACE",
+      "url": "https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -911,22 +911,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "SILENCE THE WORLD",
-        "url": "https://open.spotify.com/album/7oEjybhppczzGPKjbV8sTw"
+        "name": "Barbarians (Live)",
+        "url": "https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo"
       },
       "artists": [
         {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
-        },
-        {
-          "name": "Tom S. Englund",
-          "url": "https://open.spotify.com/artist/1JlSPIWzXu3HwBgealhTIk"
+          "name": "Freedom Church",
+          "url": "https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh"
         }
       ],
-      "duration_ms": 433866,
-      "name": "SILENCE THE WORLD",
-      "url": "https://open.spotify.com/track/01Pair9pvTuMRBcKzpwJ2P"
+      "duration_ms": 382125,
+      "name": "Chariots - Live",
+      "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -947,22 +943,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Barbarians (Live)",
-        "url": "https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo"
-      },
-      "artists": [
-        {
-          "name": "Freedom Church",
-          "url": "https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh"
-        }
-      ],
-      "duration_ms": 382125,
-      "name": "Chariots - Live",
-      "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "The Covering",
         "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 206288,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "SILENCE THE WORLD",
+        "url": "https://open.spotify.com/album/7oEjybhppczzGPKjbV8sTw"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        },
+        {
+          "name": "Tom S. Englund",
+          "url": "https://open.spotify.com/artist/1JlSPIWzXu3HwBgealhTIk"
+        }
+      ],
+      "duration_ms": 433866,
+      "name": "SILENCE THE WORLD",
+      "url": "https://open.spotify.com/track/01Pair9pvTuMRBcKzpwJ2P"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Pennell",
-        "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
-      },
-      "artists": [
-        {
-          "name": "Pennell",
-          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
-        }
-      ],
-      "duration_ms": 333370,
-      "name": "Send Forth Laborers",
-      "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "What Are You Waiting For",
         "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 199252,
       "name": "What Are You Waiting For",
       "url": "https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Pennell",
+        "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
+      },
+      "artists": [
+        {
+          "name": "Pennell",
+          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
+        }
+      ],
+      "duration_ms": 333370,
+      "name": "Send Forth Laborers",
+      "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "The Final Battle",
+        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "duration_ms": 233686,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "Future Golden Age",
         "url": "https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV"
       },
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "The Final Battle",
-        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
+        "name": "Real Emotion",
+        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
       },
       "artists": [
         {
-          "name": "Stryper",
-          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+          "name": "Paper Route",
+          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
         }
       ],
-      "duration_ms": 233686,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
+      "duration_ms": 254866,
+      "name": "Balconies",
+      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1235,22 +1251,6 @@
       "duration_ms": 515318,
       "name": "No Fear In Love",
       "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Real Emotion",
-        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
-      },
-      "artists": [
-        {
-          "name": "Paper Route",
-          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
-        }
-      ],
-      "duration_ms": 254866,
-      "name": "Balconies",
-      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Songs for the Late Night Drive Home",
-        "url": "https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl"
-      },
-      "artists": [
-        {
-          "name": "Anchor & Braille",
-          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Lower East Side",
-      "url": "https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Futures",
         "url": "https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 246286,
       "name": "Drive",
       "url": "https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Songs for the Late Night Drive Home",
+        "url": "https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl"
+      },
+      "artists": [
+        {
+          "name": "Anchor & Braille",
+          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Lower East Side",
+      "url": "https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "I'm Only Dreaming",
-        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
-      },
-      "artists": [
-        {
-          "name": "Eisley",
-          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
-        }
-      ],
-      "duration_ms": 236969,
-      "name": "Louder Than a Lion",
-      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Wake Me Up",
         "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Angels vs Demons",
-        "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
+        "name": "I'm Only Dreaming",
+        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
       },
       "artists": [
         {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+          "name": "Eisley",
+          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
         }
       ],
-      "duration_ms": 258888,
-      "name": "Angels vs Demons",
-      "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
+      "duration_ms": 236969,
+      "name": "Louder Than a Lion",
+      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1451,6 +1435,22 @@
       "duration_ms": 237522,
       "name": "Fame",
       "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Angels vs Demons",
+        "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 258888,
+      "name": "Angels vs Demons",
+      "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Pulp",
-        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
-      },
-      "artists": [
-        {
-          "name": "Love Ghost",
-          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
-        }
-      ],
-      "duration_ms": 239655,
-      "name": "Pulp",
-      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Death Stare",
         "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 248972,
       "name": "Voices",
       "url": "https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Pulp",
+        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
+      },
+      "artists": [
+        {
+          "name": "Love Ghost",
+          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+        }
+      ],
+      "duration_ms": 239655,
+      "name": "Pulp",
+      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Blood On Me",
-        "url": "https://open.spotify.com/album/7rSuzamwwlO5KhyV7ceI3V"
+        "name": "Crisis Of Faith",
+        "url": "https://open.spotify.com/album/5taN41htP1WJeMAlFhj3IZ"
       },
       "artists": [
         {
-          "name": "Kid Created Playa",
-          "url": "https://open.spotify.com/artist/2CpAiDocx8gIbL9MQG2XIv"
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
         }
       ],
-      "duration_ms": 203702,
-      "name": "Blood On Me",
-      "url": "https://open.spotify.com/track/5qXDPLvzc5SQeOlZDqMyS1"
+      "duration_ms": 229500,
+      "name": "Become Everything I Hate",
+      "url": "https://open.spotify.com/track/1xn3puc4CysCV0UqbLPDtb"
     }
   ],
   "unique_name": "Top Christian Rock",

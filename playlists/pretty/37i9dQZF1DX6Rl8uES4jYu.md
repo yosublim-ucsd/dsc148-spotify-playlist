@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,738 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,722 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 44 | [Good Day](https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Good Day](https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c) | 2:53 |
 | 45 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 |
 | 46 | [You'll Love It](https://open.spotify.com/track/1l5VfyPMwAv8Vibd2baoD2) | [BYRNE](https://open.spotify.com/artist/06a0KPufkYNdb0mZ9CcSho) | [You'll Love It](https://open.spotify.com/album/5qNvProy0GS5CWFMnPAlef) | 2:36 |
-| 47 | [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 |
+| 47 | [I Can't Help But Feel](https://open.spotify.com/track/4zgGNKt9YQGUQHRu9FgZPM) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Hidden Youth](https://open.spotify.com/album/0p6lFaFEpTcukkXu793jXB) | 2:58 |
 | 48 | [My Tribe](https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0) | 3:03 |
 | 49 | [What A Night](https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [What A Night](https://open.spotify.com/album/5x8srROrtSoC8dCCj6XtHf) | 2:04 |
 | 50 | [free me](https://open.spotify.com/track/1scFwySIE5a0btwc1J2CHk) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [free me](https://open.spotify.com/album/3pMK4vu9TW0y3FqZaoJNya) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 99 | [Lionel Richie](https://open.spotify.com/track/12NoB9QOi50RHQl6C5xg3F) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3) | 4:27 |
 | 100 | [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 |
 
-Snapshot ID: `MCwzMTY2MmM3YWE0YTIwYzdjZDM5MDA1YjhiZGFiY2QyY2I3YTM4Y2Y0`
+Snapshot ID: `MCxhYTBiYWMyMzIwNjgxZTMwMDUzYjJhN2RmMTMzNTA5MzZkNjhiNTM4`

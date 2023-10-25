@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Abraham Mateo & Sebastian Yatra",
-  "num_followers": 282293,
+  "num_followers": 282287,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTZhZDc3ZmY2YjAyMGRiMjkwZmMwNDA2MWU1MDdmOGRkODIwNWJl",
+  "snapshot_id": "MCxjMGZjODViYzEzZmY3MmRjMzgxZmY5NjA0ZmUyMWM3YTEwZTg3OWRl",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Mi Mejor Versi\u00f3n",
-        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        }
-      ],
-      "duration_ms": 201833,
-      "name": "Mi Mejor Versi\u00f3n",
-      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "11 RAZONES",
         "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 213179,
       "name": "11 RAZONES",
       "url": "https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Mi Mejor Versi\u00f3n",
+        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "duration_ms": 201833,
+      "name": "Mi Mejor Versi\u00f3n",
+      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "L\u00c1 L\u00c1",
-        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 164095,
-      "name": "L\u00c1 L\u00c1",
-      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "ROY",
         "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 191725,
       "name": "Si En Tu Mente Estuve",
       "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "L\u00c1 L\u00c1",
+        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 164095,
+      "name": "L\u00c1 L\u00c1",
+      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "Nublado (feat. Travis Barker)",
-      "url": "https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "S\u00f3lo D\u2019Lira",
         "url": "https://open.spotify.com/album/7oFmC5ecd2mIZt27j04eJ9"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 234416,
       "name": "Money In The Bank",
       "url": "https://open.spotify.com/track/29ncRQANm0IUUOc5p60ECP"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "Nublado (feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 150773,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Narvarte",
         "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 247375,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 150773,
-      "name": "Algo Bien",
-      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Cuesta Arriba",
+        "url": "https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "duration_ms": 164470,
+      "name": "Cuesta Arriba",
+      "url": "https://open.spotify.com/track/2sSKTls9xVXRnVUe0g8v6O"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Cansado de estar triste",
         "url": "https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 179872,
       "name": "TRAS",
       "url": "https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Cuesta Arriba",
-        "url": "https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        }
-      ],
-      "duration_ms": 164470,
-      "name": "Cuesta Arriba",
-      "url": "https://open.spotify.com/track/2sSKTls9xVXRnVUe0g8v6O"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "FLASHBACKS",
-        "url": "https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p"
-      },
-      "artists": [
-        {
-          "name": "ALOISIO",
-          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "FLASHBACKS",
-      "url": "https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "AAAAAA",
         "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 206615,
       "name": "Plaza En el Cielo",
       "url": "https://open.spotify.com/track/7gaonWEr5gnYx27N3JxZ2o"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "FLASHBACKS",
+        "url": "https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p"
+      },
+      "artists": [
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "FLASHBACKS",
+      "url": "https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS"
     },
     {
       "added_at": "2023-10-20 04:00:00",

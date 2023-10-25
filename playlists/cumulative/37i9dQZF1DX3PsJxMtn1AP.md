@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-209 songs - 13 hr 32 min
+210 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Afternoon X](https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Afternoon X](https://open.spotify.com/album/6yUptnHXA1lRp48hWzXsUl) | 4:06 | 2023-10-13 |  |
 | [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 | 2023-03-24 |  |
 | [Aloha Baby](https://open.spotify.com/track/3PdE82quKvFzUdBTd9NWyG) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paris\-Hawaï](https://open.spotify.com/album/4q2iiAmoWmM57F6I2al84B) | 6:05 | 2023-05-24 |  |
-| [Amanecer \(Remix\)](https://open.spotify.com/track/7tsbii6if5V9TPrkbsms84) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Nereidas](https://open.spotify.com/artist/3p22S9AiD01Izt8PBnGM94) | [Amanecer \(Remix\)](https://open.spotify.com/album/6ZbUkmIv5ERQf4oBE3yeR9) | 4:18 | 2023-03-15 |  |
+| [Amanecer \(Remix\)](https://open.spotify.com/track/7tsbii6if5V9TPrkbsms84) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Nereidas](https://open.spotify.com/artist/3p22S9AiD01Izt8PBnGM94) | [Amanecer \(Remix\)](https://open.spotify.com/album/6ZbUkmIv5ERQf4oBE3yeR9) | 4:18 | 2023-03-15 | 2023-10-25 |
 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 | 2023-03-31 | 2023-06-02 |
 | [An Immigrant and a Tourist](https://open.spotify.com/track/0wWSpPCnJyGnsLSDKCSgog) | [Christopher Bear](https://open.spotify.com/artist/0emf9Ah5yNpbvhS49Bl3zt), [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [Past Lives \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JwAMKpwk4IolH2KhF6nPn) | 2:22 | 2023-06-14 |  |
 | [An Ocean](https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [An Ocean](https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU) | 4:19 | 2023-03-03 | 2023-04-22 |
@@ -203,6 +203,7 @@
 | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/track/6GBY5tHb2U39hYDGjrpQ0Y) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/album/51uooEnqVtqGx2K0lscvqr) | 2:54 | 2023-05-24 | 2023-06-15 |
 | [Tom's Diner](https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tom's Diner](https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM) | 3:40 | 2023-04-21 | 2023-06-08 |
 | [Too Much Fun](https://open.spotify.com/track/37UG9jRXurN9Yr6sx9cq8l) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 2:34 | 2023-01-13 | 2023-03-25 |
+| [Una Mañana](https://open.spotify.com/track/4svWyFxwaXJYfLlUNqw0uv) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Una Mañana](https://open.spotify.com/album/1viiLY7oeUX6GkIdJ9XxnZ) | 3:41 | 2023-10-24 |  |
 | [una pistola](https://open.spotify.com/track/3W84tomeyoKmsMcQpRCoAb) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/29FBrqYK936MhgT10dfCPb) | 3:22 | 2023-03-17 | 2023-06-02 |
 | [una pistola](https://open.spotify.com/track/6xbrXgN5mCSzpCbEbH8O5m) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/71DiIrIpNnWV6So3CDIlGJ) | 3:22 | 2023-03-17 | 2023-03-19 |
 | [UNDER THE ILLUSION](https://open.spotify.com/track/6c0dPWNb18BL7RLwwlZ717) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [UNDER THE ILLUSION](https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP) | 3:56 | 2023-10-02 |  |

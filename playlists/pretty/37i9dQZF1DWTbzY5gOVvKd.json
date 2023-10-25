@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1200222,
+  "num_followers": 1200382,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzU2YTEwZDIxNTc4M2M2YmJmNjUwMDYxYjJiOTRlNDZiNzUyMTEx",
+  "snapshot_id": "MCxiYjBhMzdkNzE5YjkwMWYwMGJiZGQ2M2VlNzAzMzg5NDJmYTZiNGQw",
   "tracks": [
     {
       "added_at": "2023-10-04 11:21:47",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-10-04 11:21:47",
       "album": {
+        "name": "For One to Love",
+        "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 121039,
+      "name": "Monday",
+      "url": "https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb"
+    },
+    {
+      "added_at": "2023-10-04 11:21:47",
+      "album": {
         "name": "What Love Is",
         "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 279853,
       "name": "Let\u2019s Make The Most Of A Beautiful Thing",
       "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
-    },
-    {
-      "added_at": "2023-10-04 11:21:47",
-      "album": {
-        "name": "It Had To be You... The Great American Songbook",
-        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "We'll Be Together Again",
-      "url": "https://open.spotify.com/track/2UjKv7YLrzyU2HFIKdapMN"
     },
     {
       "added_at": "2023-10-04 11:21:47",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-10-04 11:21:47",
       "album": {
-        "name": "For One to Love",
-        "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
+        "name": "It Had To be You... The Great American Songbook",
+        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
       },
       "artists": [
         {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 121039,
-      "name": "Monday",
-      "url": "https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb"
+      "duration_ms": 234800,
+      "name": "We'll Be Together Again",
+      "url": "https://open.spotify.com/track/2UjKv7YLrzyU2HFIKdapMN"
     },
     {
       "added_at": "2023-10-04 11:21:47",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-10-04 11:21:47",
       "album": {
-        "name": "The Best Of... The Great American Songbook",
-        "url": "https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Long Ago And Far Away",
-      "url": "https://open.spotify.com/track/7fZvYBCwGukF0TBlCtLuXk"
-    },
-    {
-      "added_at": "2023-10-04 11:21:47",
-      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
       },
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2023-10-04 11:21:47",
       "album": {
+        "name": "The Best Of... The Great American Songbook",
+        "url": "https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Long Ago And Far Away",
+      "url": "https://open.spotify.com/track/7fZvYBCwGukF0TBlCtLuXk"
+    },
+    {
+      "added_at": "2023-10-04 11:21:47",
+      "album": {
         "name": "Night Songs II",
         "url": "https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-10-04 11:21:47",
       "album": {
-        "name": "On Holiday",
-        "url": "https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8s Fenger",
-          "url": "https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S"
-        }
-      ],
-      "duration_ms": 285866,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W"
-    },
-    {
-      "added_at": "2023-10-04 11:21:47",
-      "album": {
         "name": "Me and My Radio",
         "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 318980,
       "name": "I Can't Give You Anything",
       "url": "https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO"
+    },
+    {
+      "added_at": "2023-10-04 11:21:47",
+      "album": {
+        "name": "On Holiday",
+        "url": "https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8s Fenger",
+          "url": "https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S"
+        }
+      ],
+      "duration_ms": 285866,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W"
     },
     {
       "added_at": "2023-10-04 11:21:47",

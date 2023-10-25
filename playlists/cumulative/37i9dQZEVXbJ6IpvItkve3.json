@@ -8362,7 +8362,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 184675,
       "name": "\u05d0\u05d9\u05df \u05d0\u05d5\u05ea\u05e0\u05d5 \u05d9\u05d5\u05ea\u05e8 (By Tamar Yahalomy & Yonatan Kalimi)",
       "url": "https://open.spotify.com/track/1zZ9bah4HU0TtICQzCFXp3"
@@ -9644,7 +9644,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 197499,
       "name": "\u05d2\u05d3\u05dc \u05dc\u05d9 \u05e7\u05e6\u05ea \u05d6\u05e7\u05df",
       "url": "https://open.spotify.com/track/4abB8WdkswrxWxcV2e56x9"
@@ -10576,6 +10576,28 @@
       "duration_ms": 191078,
       "name": "\u05d7\u05d5\u05e5 \u05de\u05de\u05da",
       "url": "https://open.spotify.com/track/3ZT2YK7nfPXq3xCrlWkgt7"
+    },
+    {
+      "album": {
+        "name": "\u05d7\u05d5\u05e8\u05e3 23",
+        "url": "https://open.spotify.com/album/2Kq5LsFyyagcFRKBKgfOY5"
+      },
+      "artists": [
+        {
+          "name": "Odeya",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        },
+        {
+          "name": "E-Z",
+          "url": "https://open.spotify.com/artist/2YHuWGXNWLmpBTKo1rQ3me"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189428,
+      "name": "\u05d7\u05d5\u05e8\u05e3 23",
+      "url": "https://open.spotify.com/track/2pvlbipBAnMXwFkuRwLJpo"
     },
     {
       "album": {
@@ -13270,7 +13292,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 230823,
       "name": "\u05de\u05ea\u05d9 \u05d0\u05ea \u05d7\u05d5\u05d6\u05e8\u05ea",
       "url": "https://open.spotify.com/track/6OXv4CrNp3DFRj6Cu1GojJ"

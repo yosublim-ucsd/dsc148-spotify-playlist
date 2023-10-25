@@ -4,7 +4,7 @@
 
 > To: You, From: Anna <3
 
-53 songs - 2 hr 59 min
+54 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Part of Me](https://open.spotify.com/track/1o5WgxPWvoVgo20DQItKOE) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:59 | 2023-07-26 |  |
 | [Pink + White \- Live at Electric Lady](https://open.spotify.com/track/2FmADxrIphJZSrHzwYkUcR) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Live at Electric Lady](https://open.spotify.com/album/2H3dV4ihkK47r8M8f3tkb9) | 3:53 | 2023-07-26 |  |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2023-07-26 |  |
-| [Real Estate](https://open.spotify.com/track/4tE91iFWVroHWNpZrBzAqV) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Real Estate](https://open.spotify.com/album/5WKqEnCQgZi0Cf3bC7vWwx) | 2:16 | 2023-07-26 |  |
+| [Real Estate](https://open.spotify.com/track/0S7IntXCEk4y6EfIZhX9Dn) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Real Estate](https://open.spotify.com/album/1TsqumaIbefblYpXDDNXO0) | 2:16 | 2023-07-26 |  |
+| [Real Estate](https://open.spotify.com/track/4tE91iFWVroHWNpZrBzAqV) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Real Estate](https://open.spotify.com/album/5WKqEnCQgZi0Cf3bC7vWwx) | 2:16 | 2023-07-26 | 2023-10-25 |
 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2023-07-26 |  |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-07-26 |  |
 | [She Calls Me Back](https://open.spotify.com/track/1LvU6IFqQnXOIwJyBDb2io) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:03 | 2023-07-26 |  |

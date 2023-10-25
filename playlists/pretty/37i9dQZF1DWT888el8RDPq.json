@@ -1,12 +1,12 @@
 {
   "description": "canzoni felici italiane e internazionali per un settembre preso bene \u2600\ufe0f",
-  "num_followers": 47611,
+  "num_followers": 47615,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmZkNDNiMWU2MDc0MmQxYWFhM2JlMTRjYWE0MDU4YjJmZmYyNmIx",
+  "snapshot_id": "MCxiMDBmYTkyNzA1ZDFkY2E3MzM0NzgwNGRkNzJkZmE3OTkxYmU3NjRj",
   "tracks": [
     {
       "added_at": "2023-10-06 06:27:57",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-10-06 06:27:57",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+    },
+    {
+      "added_at": "2023-10-06 06:27:57",
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 206066,
       "name": "Alors on danse - Radio Edit",
       "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
-    },
-    {
-      "added_at": "2023-10-06 06:27:57",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
     },
     {
       "added_at": "2023-10-06 06:27:57",
@@ -1103,22 +1103,6 @@
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
-    },
-    {
-      "added_at": "2023-10-06 06:27:57",
-      "album": {
-        "name": "Where the Light Is",
-        "url": "https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Sunday Best",
-      "url": "https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo"
     },
     {
       "added_at": "2023-10-06 06:27:57",
@@ -1283,22 +1267,6 @@
     {
       "added_at": "2023-10-06 06:27:57",
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "3 Nights",
-      "url": "https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u"
-    },
-    {
-      "added_at": "2023-10-06 06:27:57",
-      "album": {
         "name": "True Genius",
         "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
       },
@@ -1311,6 +1279,22 @@
       "duration_ms": 119880,
       "name": "Hit the Road Jack",
       "url": "https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK"
+    },
+    {
+      "added_at": "2023-10-06 06:27:57",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "3 Nights",
+      "url": "https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u"
     },
     {
       "added_at": "2023-10-06 06:27:57",
@@ -1543,26 +1527,6 @@
     {
       "added_at": "2023-10-06 06:27:57",
       "album": {
-        "name": "Pacifico",
-        "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        },
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        }
-      ],
-      "duration_ms": 209732,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/16frIpnyUb9poRwQxQTmaC"
-    },
-    {
-      "added_at": "2023-10-06 06:27:57",
-      "album": {
         "name": "Potere",
         "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
       },
@@ -1687,6 +1651,26 @@
     {
       "added_at": "2023-10-06 06:27:57",
       "album": {
+        "name": "MI FAI IMPAZZIRE",
+        "url": "https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 220235,
+      "name": "MI FAI IMPAZZIRE",
+      "url": "https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN"
+    },
+    {
+      "added_at": "2023-10-06 06:27:57",
+      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
@@ -1707,22 +1691,42 @@
     {
       "added_at": "2023-10-06 06:27:57",
       "album": {
-        "name": "MI FAI IMPAZZIRE",
-        "url": "https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS"
+        "name": "Jiggle Jiggle",
+        "url": "https://open.spotify.com/album/3WcZOQwZQ5gLyNrA0aXUeT"
       },
       "artists": [
         {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Louis Theroux",
+          "url": "https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv"
         }
       ],
-      "duration_ms": 220235,
-      "name": "MI FAI IMPAZZIRE",
-      "url": "https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN"
+      "duration_ms": 97208,
+      "name": "Jiggle Jiggle",
+      "url": "https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2"
+    },
+    {
+      "added_at": "2023-10-06 06:27:57",
+      "album": {
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "duration_ms": 175893,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ"
     }
   ],
   "unique_name": "una playlist felice",

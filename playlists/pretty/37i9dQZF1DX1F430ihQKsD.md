@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Lou Phelps
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,490 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,495 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [ta peau](https://open.spotify.com/track/4Tu5nR9YC9TnSp2YVnPmxP) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO), [Jam Khalil](https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8) | [ta peau](https://open.spotify.com/album/0CDkekykSRQAUkQ6d7BRfH) | 3:48 |
 | 100 | [Almost Lost You](https://open.spotify.com/track/0MipSSCvBt5vFU1bGlOJXw) | [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9) | [Almost Lost You](https://open.spotify.com/album/0XxfQHSabJLZtrkGGLMiTN) | 3:47 |
 
-Snapshot ID: `MCxiODA3YjA0MzYyMDgwY2Q2YTgxZmVmZDRmMDRjYTRkNmZlMzJhMGM0`
+Snapshot ID: `MCw2OGEyMjA0NTQ3YzYyM2Y0OWE4NGFmMTIyZGEyZjI4ZmY0NmYzOWJl`

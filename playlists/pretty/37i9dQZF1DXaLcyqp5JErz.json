@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Damares",
-  "num_followers": 525867,
+  "num_followers": 526170,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGQxYWY2MTM1OWJiYTMwMmZlZThlMzFiNTU4NDE4ZWNiZThlYjll",
+  "snapshot_id": "MCwyNTAyYTE4ZGQ3MmIyNTQ2MzkxZGIzY2NmNzQxZjVlNWJjOWQ2MGNh",
   "tracks": [
     {
       "added_at": "2023-10-13 16:02:51",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Sinais de Deus",
-        "url": "https://open.spotify.com/album/2MgcX0tcdZVRVmko1x4goX"
-      },
-      "artists": [
-        {
-          "name": "Raquel Mello",
-          "url": "https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd"
-        }
-      ],
-      "duration_ms": 288960,
-      "name": "Quero Descer",
-      "url": "https://open.spotify.com/track/1kKh1EbODBQfL9gEjmnSlT"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "O Nome de Jesus",
         "url": "https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw"
       },
@@ -395,8 +379,24 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+        "name": "Sinais de Deus",
+        "url": "https://open.spotify.com/album/2MgcX0tcdZVRVmko1x4goX"
+      },
+      "artists": [
+        {
+          "name": "Raquel Mello",
+          "url": "https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd"
+        }
+      ],
+      "duration_ms": 288960,
+      "name": "Quero Descer",
+      "url": "https://open.spotify.com/track/1kKh1EbODBQfL9gEjmnSlT"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 365826,
-      "name": "Os Sonhos de Deus",
-      "url": "https://open.spotify.com/track/0mNfXZjFfpaNafDSFfYujZ"
+      "duration_ms": 476546,
+      "name": "Nunca Pare de Lutar",
+      "url": "https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -559,8 +559,8 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 476546,
-      "name": "Nunca Pare de Lutar",
-      "url": "https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN"
+      "duration_ms": 365826,
+      "name": "Os Sonhos de Deus",
+      "url": "https://open.spotify.com/track/0mNfXZjFfpaNafDSFfYujZ"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
+        "name": "Deserto",
+        "url": "https://open.spotify.com/album/3qh3aGtTcTBnLe6oxQ20RK"
+      },
+      "artists": [
+        {
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/0Nby9xQzcKdepn9xH0Glnn"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
         "name": "Esperan\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/798js9h8Xwy3yxST0Lep14"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 209293,
       "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
       "url": "https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
-        "name": "Deserto",
-        "url": "https://open.spotify.com/album/3qh3aGtTcTBnLe6oxQ20RK"
-      },
-      "artists": [
-        {
-          "name": "Os Arrais",
-          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "Deserto",
-      "url": "https://open.spotify.com/track/0Nby9xQzcKdepn9xH0Glnn"
     },
     {
       "added_at": "2023-10-13 16:02:51",

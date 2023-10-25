@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 
 > That fuzzy, noisy punk\-blues hybrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,031 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,038 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,15 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 12 | [Commit a Crime](https://open.spotify.com/track/2rmPVmO9hOrLi8dBNd5MEQ) | [Mr\. Airplane Man](https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP) | [Moanin'](https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7) | 3:30 |
 | 13 | [Good Man](https://open.spotify.com/track/0waxvHiyOCqyR40SRPPaHx) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Midnight Soul Serenade](https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS) | 2:57 |
 | 14 | [Frog Went a Courtin'](https://open.spotify.com/track/5mTijfc5CMHsXVwHWkVuTl) | [Flat Duo Jets](https://open.spotify.com/artist/2IkKf7MxjvDA8HWGy5xOyC) | [Two Headed Cow](https://open.spotify.com/album/6Rb1b126QqVXTwmxCwbBmY) | 2:18 |
-| 15 | [Christina](https://open.spotify.com/track/7ah8dRCjJFGCWstleG0PpD) | [Oblivians](https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi) | [Popular Favorites](https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M) | 1:59 |
+| 15 | [I Can't Stop Thinking About It](https://open.spotify.com/track/6sy3IAvhOXtXrARDBEcIPJ) | [The Dirtbombs](https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb) | [Horndog Fest](https://open.spotify.com/album/6uPjk9Anj9wEdCwHMpwJTK) | 3:03 |
 | 16 | [Nitroglycerine](https://open.spotify.com/track/36f45es7EH7JyT4sFl1irf) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 3:52 |
 | 17 | [The Way I Walk](https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:40 |
-| 18 | [Too Much Sorrow](https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI) | [The Greenhornes](https://open.spotify.com/artist/7sPZakwiHQUWkG1teFE8zv) | [Dual Mono](https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk) | 4:07 |
-| 19 | [I Can't Stop Thinking About It](https://open.spotify.com/track/6sy3IAvhOXtXrARDBEcIPJ) | [The Dirtbombs](https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb) | [Horndog Fest](https://open.spotify.com/album/6uPjk9Anj9wEdCwHMpwJTK) | 3:03 |
+| 18 | [Christina](https://open.spotify.com/track/7ah8dRCjJFGCWstleG0PpD) | [Oblivians](https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi) | [Popular Favorites](https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M) | 1:59 |
+| 19 | [Too Much Sorrow](https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI) | [The Greenhornes](https://open.spotify.com/artist/7sPZakwiHQUWkG1teFE8zv) | [Dual Mono](https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk) | 4:07 |
 | 20 | [Ditch](https://open.spotify.com/track/3CzyTczZzTeJsFadFNh2po) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Orange](https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH) | 2:34 |
 | 21 | [Fishfight](https://open.spotify.com/track/777LjHoW3blYhduQVUrCPk) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [The King Khan & Bbq Show](https://open.spotify.com/album/6Ap1PVkQ93MHggcPjQ0vuE) | 2:50 |
-| 22 | [Pretty Baby](https://open.spotify.com/track/15IZhtzC8mKdKGXoa9VF7V) | [The Milkshakes](https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG) | [Talking 'bout](https://open.spotify.com/album/3XehbkA49rI1F8wb6CirBe) | 2:14 |
-| 23 | [Playboys](https://open.spotify.com/track/4hGX78tAyrI9srdacmlOss) | [The Deadly Snakes](https://open.spotify.com/artist/6eIBsOv2XYFA8R7tAkNnS0) | [Ode To Joy](https://open.spotify.com/album/6Y2hYsUm2r7B4Ugbs105XM) | 2:47 |
+| 22 | [Playboys](https://open.spotify.com/track/4hGX78tAyrI9srdacmlOss) | [The Deadly Snakes](https://open.spotify.com/artist/6eIBsOv2XYFA8R7tAkNnS0) | [Ode To Joy](https://open.spotify.com/album/6Y2hYsUm2r7B4Ugbs105XM) | 2:47 |
+| 23 | [Pretty Baby](https://open.spotify.com/track/15IZhtzC8mKdKGXoa9VF7V) | [The Milkshakes](https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG) | [Talking 'bout](https://open.spotify.com/album/3XehbkA49rI1F8wb6CirBe) | 2:14 |
 | 24 | [Thunderbird ESQ](https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 2:18 |
 | 25 | [Sweat](https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Orange](https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH) | 3:06 |
 | 26 | [Promise Me \- Remastered 2020](https://open.spotify.com/track/620oK7tMifgGBddA6gsGli) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love \(Remastered 2020\)](https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 49 | [Hanky\-Joe Digger](https://open.spotify.com/track/1Sv7geImcYAkQw8MQVB3G4) | [Speedball Baby](https://open.spotify.com/artist/4oRzJXOEO1MDXDes16geFA) | [The Blackout](https://open.spotify.com/album/5w0QE2P3y8PAMAEG9NMgfE) | 2:06 |
 | 50 | [Preaching the Blues](https://open.spotify.com/track/4qZrZqBRq0tAKJ3wE3Az3A) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love](https://open.spotify.com/album/3OrGW7wRB8dIZ8EYrAkkWW) | 3:59 |
 
-Snapshot ID: `MCwxOGVjODM4OTNkYzQyNzVmZDBkZjc4NjRmMjRhYzMyZTA5NGUwYzM1`
+Snapshot ID: `MCw5MDA4NWExYjRhOWVjNTM1OGIzM2Q3ZWExZDgzNTBlN2QyMmNlYmQx`

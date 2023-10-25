@@ -2615,6 +2615,24 @@
     },
     {
       "album": {
+        "name": "Liebevoll",
+        "url": "https://open.spotify.com/album/5lp9wSSEvsgowFwuhrJ4Z8"
+      },
+      "artists": [
+        {
+          "name": "Pontiver Bogross",
+          "url": "https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144681,
+      "name": "Liebevoll",
+      "url": "https://open.spotify.com/track/5M4W1gIBx3eqCoxZWy48zE"
+    },
+    {
+      "album": {
         "name": "P.S. I'm Still Here",
         "url": "https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1"
       },
@@ -2720,6 +2738,24 @@
       "duration_ms": 143229,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/5UO03m8S0mJKptzwKo5N7c"
+    },
+    {
+      "album": {
+        "name": "Lost to memories",
+        "url": "https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj"
+      },
+      "artists": [
+        {
+          "name": "Aimon Cour",
+          "url": "https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134056,
+      "name": "Lost to memories",
+      "url": "https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx"
     },
     {
       "album": {
@@ -4900,6 +4936,24 @@
       "duration_ms": 144256,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/7eriWSdbkuFHBM6qiHIEq8"
+    },
+    {
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/3OfYsWc5jgdwmYZuQwzn6E"
+      },
+      "artists": [
+        {
+          "name": "Carmelito",
+          "url": "https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122105,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/0cUVh5ofEVsK3IiGS4Flii"
     },
     {
       "album": {

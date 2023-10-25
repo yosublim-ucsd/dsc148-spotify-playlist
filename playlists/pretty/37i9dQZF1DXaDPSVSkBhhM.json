@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 65208,
+  "num_followers": 65234,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2FmZjkxZTJkYjQ5MzNmODYxNzBmNGZlNGNmZTFhYzkxNjhhOTM2",
+  "snapshot_id": "MCwxNjhmNTk2N2Y2NTE3YjdlOTIwMDBmZTA5ODY3MWE2OWQzMTk2Yjg5",
   "tracks": [
     {
       "added_at": "2023-09-22 06:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
+        "name": "La teor\u00eda de los septenios",
+        "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
+      },
+      "artists": [
+        {
+          "name": "Da Skate",
+          "url": "https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW"
+        }
+      ],
+      "duration_ms": 151757,
+      "name": "No olvides de enfocarte siempre en lo importante",
+      "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
         "name": "CARIBE 4 LIFE",
         "url": "https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 206451,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/5lHTn6FuRalBBQZMUJt1xH"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
-        "name": "La teor\u00eda de los septenios",
-        "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
-      },
-      "artists": [
-        {
-          "name": "Da Skate",
-          "url": "https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW"
-        }
-      ],
-      "duration_ms": 151757,
-      "name": "No olvides de enfocarte siempre en lo importante",
-      "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
     },
     {
       "added_at": "2023-09-22 06:00:00",

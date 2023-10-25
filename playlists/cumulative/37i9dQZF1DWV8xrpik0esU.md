@@ -4,7 +4,7 @@
 
 > Relax with this soothing soundtrack from the nineties...
 
-244 songs - 17 hr 34 min
+245 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 | 2020-07-08 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 | 2020-07-08 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/6QYH8cjdC23Qt2HT4UtycH) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [So Far: The Best of Sinéad O'Connor](https://open.spotify.com/album/0NEqYqkLFoLgsRlfIS3xoV) | 4:40 | 2020-07-08 | 2022-07-29 |
-| [Nothing Else Matters \(Remastered\)](https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 6:28 | 2020-07-08 |  |
+| [Nothing Else Matters \(Remastered\)](https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 6:28 | 2020-07-08 | 2023-10-25 |
 | [Ocean Drive](https://open.spotify.com/track/5WjvNVcZmAHah5q1oaxMNE) | [Lighthouse Family](https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ) | [Ocean Drive](https://open.spotify.com/album/1UvIkBJ2cOVaq8Lrk4ArGy) | 3:48 | 2020-07-08 | 2022-07-29 |
 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 | 2020-07-08 |  |
 | [One](https://open.spotify.com/track/3PY7bg1gPZIurkWnRguKUF) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby](https://open.spotify.com/album/1U69hFsxaQxP6fquZmOmNH) | 4:36 | 2020-07-08 | 2022-07-29 |
@@ -251,6 +251,7 @@
 | [You'll Be In My Heart \- From "Tarzan"/Soundtrack Version](https://open.spotify.com/track/1fTDYdx5zYfWJSX0JlKO8o) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 4:18 | 2020-07-08 | 2022-12-26 |
 | [You're Gorgeous](https://open.spotify.com/track/0yJiIt4icur8txxfLRDJZK) | [Babybird](https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh) | [Best of Babybird](https://open.spotify.com/album/2ajdS41t4sGJr2cATdNK6i) | 3:42 | 2020-07-08 | 2022-07-29 |
 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 | 2020-07-08 | 2023-08-28 |
+| [You're Still The One](https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:32 | 2023-10-17 |  |
 | [You're Still The One](https://open.spotify.com/track/7cCf8vPXJw4e7e2CQYyYgi) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/1Xq7GtFHmTt110bmxQrtC4) | 3:32 | 2020-07-08 | 2022-03-10 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

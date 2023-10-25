@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Anh \u0110ang \u0110i Vi\u1ec7c",
+        "url": "https://open.spotify.com/album/3zyljfuV9aehf3MnYSWD4a"
+      },
+      "artists": [
+        {
+          "name": "Lil Van",
+          "url": "https://open.spotify.com/artist/5MTrg4flzchU1dnhISyKEF"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147235,
+      "name": "Anh \u0110ang \u0110i Vi\u1ec7c",
+      "url": "https://open.spotify.com/track/7LgKPLxcq9tVz9Sl1Nsmnm"
+    },
+    {
+      "album": {
         "name": "Anh \u0110\u00e3 L\u1ea1c V\u00e0o (Truzg Remix)",
         "url": "https://open.spotify.com/album/4fjMO4WTH01gAEH5uajhXY"
       },
@@ -6502,10 +6520,32 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 30400,
       "name": "C\u01b0ng Mu\u1ed1n X\u1ec9u",
       "url": "https://open.spotify.com/track/1Zsj6O8cZPiQd5gDRIdXZP"
+    },
+    {
+      "album": {
+        "name": "C\u01b0ng Mu\u1ed1n X\u1ec9u",
+        "url": "https://open.spotify.com/album/4dB3pveDqpFncjtU3XNTzd"
+      },
+      "artists": [
+        {
+          "name": "VAnh",
+          "url": "https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30400,
+      "name": "C\u01b0ng Mu\u1ed1n X\u1ec9u",
+      "url": "https://open.spotify.com/track/63iDlj5V45NuYf4dkPXGx6"
     },
     {
       "album": {
@@ -7998,6 +8038,24 @@
       "duration_ms": 253724,
       "name": "Em L\u00e0 Nh\u1ea5t",
       "url": "https://open.spotify.com/track/3gxxst9XVcNeFDhpV9qvM8"
+    },
+    {
+      "album": {
+        "name": "Em L\u00e0 Yeager",
+        "url": "https://open.spotify.com/album/4XrpiFLLL2mmi5EhMLxQlF"
+      },
+      "artists": [
+        {
+          "name": "NK",
+          "url": "https://open.spotify.com/artist/5kkMq1nrn49WTKTxUTqCpJ"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Em L\u00e0 Yeager",
+      "url": "https://open.spotify.com/track/4nNEzYAcYduREmjdXOAr9T"
     },
     {
       "album": {
@@ -13593,7 +13651,7 @@
       "artists": [
         {
           "name": "BAN",
-          "url": "https://open.spotify.com/artist/5gbmIkQ4h0GOGNrhhFV2WJ"
+          "url": "https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL"
         },
         {
           "name": "CoolKid",
@@ -15765,7 +15823,7 @@
       "artists": [
         {
           "name": "Linzy",
-          "url": "https://open.spotify.com/artist/6m9EewCnInHNApDOMhlwxM"
+          "url": "https://open.spotify.com/artist/6ZRoSmiBOV7YHnN7PbPlrN"
         },
         {
           "name": "X\u00f4n Nguy\u1ec5n",
@@ -20262,6 +20320,24 @@
       "duration_ms": 251889,
       "name": "S\u1eafc Hoa T\u00e0n",
       "url": "https://open.spotify.com/track/5eTHcu9ZDycdkTsJXWbGYq"
+    },
+    {
+      "album": {
+        "name": "S\u1eafc M\u00e0u",
+        "url": "https://open.spotify.com/album/07lfCVcyEoVAppCKnAaZof"
+      },
+      "artists": [
+        {
+          "name": "mess.",
+          "url": "https://open.spotify.com/artist/6kRuMeWznsiXAIF2GriqkF"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194849,
+      "name": "S\u1eafc M\u00e0u",
+      "url": "https://open.spotify.com/track/7hGChmX4qfsKzfffuvE5Ek"
     },
     {
       "album": {

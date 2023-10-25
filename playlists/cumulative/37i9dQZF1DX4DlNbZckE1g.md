@@ -4,7 +4,7 @@
 
 > Lose yourself in the summer daze...
 
-142 songs - 7 hr 55 min
+143 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 | 2022-02-10 |  |
 | [Winnie Crush](https://open.spotify.com/track/1Piv8ta4TNZ2ln3aKUGxyo) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [is it me, or is it you?](https://open.spotify.com/album/4ZSt8gHnOnfHZz4UMsgMH5) | 2:54 | 2022-02-10 | 2022-11-13 |
 | [Winnie Crush](https://open.spotify.com/track/1Pp8o0rIaUoU7JCWTcyHK6) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Winnie Crush](https://open.spotify.com/album/0a5dMmUgyFMjkLfLXJgmzs) | 2:54 | 2022-02-10 |  |
-| [World Is Fucked](https://open.spotify.com/track/2pbjwvnOZv7poZfeGlCieM) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [World Is Fucked](https://open.spotify.com/album/2gHg7XQzxKz4sdlBs2P1Lc) | 2:52 | 2022-02-10 |  |
+| [World Is Fucked](https://open.spotify.com/track/0BNfXrlaLhVynRYbMHV1N9) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [World Is Fucked](https://open.spotify.com/album/3uOuX5ziHrQkD7ULfT87Gs) | 2:52 | 2022-02-10 |  |
+| [World Is Fucked](https://open.spotify.com/track/2pbjwvnOZv7poZfeGlCieM) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [World Is Fucked](https://open.spotify.com/album/2gHg7XQzxKz4sdlBs2P1Lc) | 2:52 | 2022-02-10 | 2023-10-25 |
 | [You](https://open.spotify.com/track/3TZc0SOn6YZsQYN4FNZcml) | [Kuren](https://open.spotify.com/artist/6MCHLEjYo9byp8QYGpgnGp) | [You](https://open.spotify.com/album/57NxnMCCI18NSUzqFv5Mbd) | 2:45 | 2022-02-10 |  |
 | [You Know That I Love You](https://open.spotify.com/track/6v5VxQOaYShyi8TyGVArrD) | [Harvey M](https://open.spotify.com/artist/27clM8Zz7GvmrBHmklzth8) | [Love Songs](https://open.spotify.com/album/329Lm8mbxGvBLyA1HpVL8w) | 4:48 | 2022-02-10 | 2022-11-25 |
 | [You Know That I Love You](https://open.spotify.com/track/7HArfWkgOZGnRoFtmhgZXa) | [Harvey M](https://open.spotify.com/artist/27clM8Zz7GvmrBHmklzth8) | [Love Songs](https://open.spotify.com/album/0wt1q9GNtdjYFHsoPsD7vr) | 4:48 | 2022-02-10 |  |

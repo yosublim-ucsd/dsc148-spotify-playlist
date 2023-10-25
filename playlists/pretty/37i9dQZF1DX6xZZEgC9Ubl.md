@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,529,603 likes - 138 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,529,984 likes - 138 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 45 | [WOULDN'T IT BE NICE](https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [WOULDN'T IT BE NICE](https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP) | 3:02 |
 | 46 | [Cherry Blossoms](https://open.spotify.com/track/0i55G9XxEPCxYwzozhQun5) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/7JXeLOZu3B2iArq61xATwX) | 2:17 |
 | 47 | [VACANT](https://open.spotify.com/track/2CxTUwmFIMzGfkxVLVQiFJ) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [THE WALLS HAVE EYES](https://open.spotify.com/album/4dFW8b4h1IIKr5Un1NaNSI) | 2:41 |
-| 48 | [Save Me, Please](https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [First Draft](https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX) | 2:07 |
+| 48 | [Save Me, Please](https://open.spotify.com/track/0vtydnn50fuaO8li7usmlo) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [First Draft](https://open.spotify.com/album/6RHOhnOBZjeRI8DrlFeJbN) | 2:07 |
 | 49 | [under the weather](https://open.spotify.com/track/3PYFSGwWNZWnQpiuGke2J9) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [under the weather](https://open.spotify.com/album/5EMWV3wcySNCCLpSvNWUyx) | 1:46 |
 | 50 | [Without You](https://open.spotify.com/track/2iWDeE7fZyCsxAbqaiNCnM) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Without You](https://open.spotify.com/album/0N1ORToRsc2dkEJk1w2clC) | 2:16 |
 | 51 | [Not a Home](https://open.spotify.com/track/1aDEr0TNgY3a9ea90UL0Mj) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [I'm The Dumb One](https://open.spotify.com/album/5yLRCGUTDJ3OL145u85Wpi) | 2:49 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 85 | [when we were 16](https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [when we were 16](https://open.spotify.com/album/1ngBIvObgRpFAouI0dRn4M) | 3:15 |
 | 86 | [Seen It All Before](https://open.spotify.com/track/7wQbjBKlkfy4Cf1kq2fHVn) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Delmar](https://open.spotify.com/artist/1S5SNkPc86rs4WDDY7YKTA) | [Seen It All Before](https://open.spotify.com/album/6b9dWBhr65JAlegeoRgoK9) | 3:07 |
 | 87 | [Life Is but a Stream\~](https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:02 |
-| 88 | [emotions](https://open.spotify.com/track/5ls62WNKHUUrdF3r1cv83T) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [nothings ever good enough](https://open.spotify.com/album/5UHC2JN3ck4XPYPjngia2G) | 2:11 |
+| 88 | [emotions](https://open.spotify.com/track/4n3aUQnIxtVXpDwFvi66VD) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [nothings ever good enough](https://open.spotify.com/album/0O42Vd5poWUcdCj9kMNCC4) | 2:11 |
 | 89 | [Righteous \- Lil Gnar Remix](https://open.spotify.com/track/6hqMjgW1UMTCnONg61ToBq) | [Mo Beats](https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [Righteous \(Lil Gnar Remix\)](https://open.spotify.com/album/0BbOtstadMhKHPYOFbPiGR) | 2:57 |
 | 90 | [Feel Alive \(feat\. Lil Tracy\)](https://open.spotify.com/track/2gfssLSjUEqJnrGyHMWemS) | [Brennan Savage](https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK) | [Feel Alive \(feat\. Lil Tracy\)](https://open.spotify.com/album/767SOFGVixK5ZGpKVPZhgn) | 2:44 |
 | 91 | [Table for One](https://open.spotify.com/track/3NyGlrlfpTKK9J07N1BGud) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Table for One](https://open.spotify.com/album/5mldiHS5v1OF5yKoLoXWxk) | 2:44 |
@@ -122,11 +122,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 112 | [Lying To Myself](https://open.spotify.com/track/3f07vmqG0FxVFdUWqTREEw) | [7ru7h](https://open.spotify.com/artist/5WnlPOcTodnSWDtjnrjmzv) | [Lying To Myself](https://open.spotify.com/album/3rQSEAwbTU4hfB5Dmi0jqE) | 2:53 |
 | 113 | [fragment](https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [grim](https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55) | 2:14 |
 | 114 | [fml](https://open.spotify.com/track/0r8WywH5D8rL7mxhMyHzN1) | [Unodavid](https://open.spotify.com/artist/3mpOt39mUD754Q7aZ725KH) | [fml](https://open.spotify.com/album/0on4W1TsvgcYzaxwKQRxi5) | 2:43 |
-| 115 | [UDNTLUVME](https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0) | 2:18 |
+| 115 | [UDNTLUVME](https://open.spotify.com/track/3P1kLFAO2MxcVBtLWH3oOV) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/6cqqln1dVUJrrrf5eAuiu0) | 2:18 |
 | 116 | [wdym?](https://open.spotify.com/track/1iMsmdz6NFv30BfFn6H8cE) | [Razegod](https://open.spotify.com/artist/0sBbpqhrb9FInmsDSjpCau), [MinimumWade](https://open.spotify.com/artist/5tWiEejDM9WKiai4CkHFNm) | [wdym?](https://open.spotify.com/album/0YBi25ivXul0BBLjT2iQrC) | 3:15 |
 | 117 | [DANCE](https://open.spotify.com/track/4BgaAZ52ffIc6cRDn1oFVS) | [Yumi](https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2) | [LOST](https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP) | 2:41 |
 | 118 | [How Does It Feel](https://open.spotify.com/track/1vAN7qLSqTf1JdINjcKphB) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu) | [A Gift And A Curse](https://open.spotify.com/album/1yp7eZUWAXTHMcdjJV33PJ) | 2:09 |
-| 119 | [do it all](https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [do it all](https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf) | 1:36 |
+| 119 | [do it all](https://open.spotify.com/track/0W9PTP67SR6IrBYub9GsBC) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [leave me where you found me](https://open.spotify.com/album/1f19gczYsoUBsqpiG2UFR3) | 1:36 |
 | 120 | [BLUE MOON \(feat\. Teddi Jones\)](https://open.spotify.com/track/3JIohlY3x8YLOGHdfoWxyR) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Teddi Jones](https://open.spotify.com/artist/34a5LXFoUFNHj9MdFECobP) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:57 |
 | 121 | [FWM2](https://open.spotify.com/track/7o7WupJer78gUUoaHzVxTq) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t) | 2:04 |
 | 122 | [Ghostrider](https://open.spotify.com/track/7wBR106AOaYxjx3TnAcpTT) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [Ghostrider \(Clean\)](https://open.spotify.com/album/0ThUYc49NxSW6x1ZQQWCbE) | 2:12 |
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 126 | [F150](https://open.spotify.com/track/7xuklbiJnyZ5pqmoUWj5Eb) | [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f) | [F150](https://open.spotify.com/album/2Om9xZUlHWEjHk5JzEuTd5) | 2:10 |
 | 127 | [Felt Like Heaven](https://open.spotify.com/track/7Ave5xp7OvdD1ZUYVB0T3n) | [Bluey Thomas](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Felt Like Heaven](https://open.spotify.com/album/2vyaRLC8gq8nVoDvzgfxXh) | 2:26 |
 | 128 | [Normal](https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Normal](https://open.spotify.com/album/0vSwuVKVrx6L4RJuJkWiAL) | 2:42 |
-| 129 | [start again](https://open.spotify.com/track/3pkacg4CSnP4i0K907SODj) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [leave me where you found me](https://open.spotify.com/album/5ErAWZUiPinYqoryslUsFy) | 2:51 |
+| 129 | [start again](https://open.spotify.com/track/4CmWJjmqSIjH2zXnF6nI4S) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [leave me where you found me](https://open.spotify.com/album/1f19gczYsoUBsqpiG2UFR3) | 2:51 |
 | 130 | [MORBID MIND](https://open.spotify.com/track/6eKfQnTHKeqyyfaGlwMIcG) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [MIXED EMOTIONS](https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN) | 2:16 |
 | 131 | [Same Room](https://open.spotify.com/track/6cUwBCnf5yiBkUwExpcni2) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Same Room](https://open.spotify.com/album/5YkVPpSWxikAxEn48uU6Mp) | 3:22 |
 | 132 | [Key To My Heart](https://open.spotify.com/track/3safBWMqYnBJtNA2428Hmz) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [Key To My Heart](https://open.spotify.com/album/5MlRgizbT5l0vMtzSlBIvl) | 2:34 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 137 | [North Star](https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY) | [Mackned](https://open.spotify.com/artist/68VUmnZEzmzZdd1zPtnbZZ) | [God Mom](https://open.spotify.com/album/7gBvEFzk4d13BOayesrAuB) | 2:03 |
 | 138 | [KIDS ARE GROWING UP \(PART 1\)](https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [KIDS ARE GROWING UP \(PART 1\)](https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV) | 2:01 |
 
-Snapshot ID: `MCxlNDQyYmE2NjBjMTU4ZjdhNDQwZDIzNmU3ZGE5NGQxOGI3Y2UwMmIx`
+Snapshot ID: `MCxlMTVmZDQ1NzE1ZjYwZDZhYWViY2M3MjhiNDhlNzc1YWJhODEwOTA4`

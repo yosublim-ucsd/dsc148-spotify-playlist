@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Cloudy June
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,608 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,622 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 28 | [Teen](https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Teen](https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf) | 3:03 |
 | 29 | [Keine Tränen](https://open.spotify.com/track/03ClGz3IWepPxLcVlGSC5Q) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Keine Tränen](https://open.spotify.com/album/6omnE7nYZCSFSkbTFTVSqR) | 2:11 |
 | 30 | [In My Novaa](https://open.spotify.com/track/0BWgnfDV4o5PPQMhcKfrzH) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [In My Novaa](https://open.spotify.com/album/6vEMutP9WTvE9vC5oxhH2a) | 4:16 |
-| 31 | [MAXIMUM RIZZ](https://open.spotify.com/track/2f90oF6hNsvRd2T7pDgNht) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [MAXIMUM RIZZ](https://open.spotify.com/album/6NB2r3HWlI3qKrVk69giA9) | 2:27 |
+| 31 | [MAXIMUM RIZZ](https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:27 |
 | 32 | [Crushed](https://open.spotify.com/track/713AJFIsjfdlwC6IvY9FeJ) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Crushed by the Weight of the World](https://open.spotify.com/album/1Axcj3Di7G4Qw0iYTJAhC0) | 3:48 |
 | 33 | [Rimini](https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [rimini tape](https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU) | 2:54 |
 | 34 | [IDGAF](https://open.spotify.com/track/1QREbpl3GAFm0ZyufYeil7) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [IDGAF](https://open.spotify.com/album/3FSkVmYiQfJEePj9phBD55) | 2:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 59 | [Lipsticks & Heartbreaks](https://open.spotify.com/track/5WX5hHwiJnFx9IIcCKxWWP) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Lipsticks & Heartbreaks](https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc) | 2:10 |
 | 60 | [Paranoid](https://open.spotify.com/track/0HMqKvy71TIbFMZP573ggQ) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Complex Happenings Reduced To A Simple Design](https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF) | 3:16 |
 
-Snapshot ID: `MCw2MmU4ZjE5Y2NmNmE3MTIwYzk4NDg4YWUzZDU2MjNkMjY2N2M5N2Zm`
+Snapshot ID: `MCw0NjgwYjJmYzg1YjJmZDVhNGNlY2JkNmM5MzUxMWQwMzMzMjI0ZTlj`

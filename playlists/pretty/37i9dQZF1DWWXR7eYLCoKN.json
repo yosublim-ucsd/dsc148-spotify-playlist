@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 131063,
+  "num_followers": 131150,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGQ3MTUxNTcwYWJjOGJhYmYzNzc4NDJiYzkxNGU0MWNjOTQ3YWJk",
+  "snapshot_id": "MCxiNzhmNzFmZDYyODY3ZjE2Nzg4MmY4MWY5YjFiNWI0NTE3YTU2ZDU5",
   "tracks": [
     {
       "added_at": "2023-10-13 17:04:48",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-10-13 17:04:48",
       "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
-      },
-      "artists": [
-        {
-          "name": "Adoniran Barbosa",
-          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Trem Das Onze",
-      "url": "https://open.spotify.com/track/5JSNcb3MwTxkDH4mrYKnHG"
-    },
-    {
-      "added_at": "2023-10-13 17:04:48",
-      "album": {
         "name": "Nossa Onda \u00c9 Essa!",
         "url": "https://open.spotify.com/album/1sRJ6meQzUDBK0vDRMsk74"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 226733,
       "name": "Deixa pra L\u00e1",
       "url": "https://open.spotify.com/track/4iH8g2F3ygsoRoGpnMOsI3"
+    },
+    {
+      "added_at": "2023-10-13 17:04:48",
+      "album": {
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
+      },
+      "artists": [
+        {
+          "name": "Adoniran Barbosa",
+          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Trem Das Onze",
+      "url": "https://open.spotify.com/track/5JSNcb3MwTxkDH4mrYKnHG"
     },
     {
       "added_at": "2023-10-13 17:04:48",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-10-13 17:04:48",
       "album": {
-        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
-        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 119253,
-      "name": "E Luxo S\u00f3",
-      "url": "https://open.spotify.com/track/2gmmc95lX2fuZA3gVzBOjc"
-    },
-    {
-      "added_at": "2023-10-13 17:04:48",
-      "album": {
         "name": "Sarav\u00e1, Paz e Bem",
         "url": "https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 223799,
       "name": "Aprendi a Ser Feliz",
       "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
+    },
+    {
+      "added_at": "2023-10-13 17:04:48",
+      "album": {
+        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
+        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 119253,
+      "name": "E Luxo S\u00f3",
+      "url": "https://open.spotify.com/track/2gmmc95lX2fuZA3gVzBOjc"
     },
     {
       "added_at": "2023-10-13 17:04:48",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-10-13 17:04:48",
       "album": {
+        "name": "Tamb\u00e9m Pede Bis",
+        "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
+      },
+      "artists": [
+        {
+          "name": "Pedro Miranda",
+          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
+        }
+      ],
+      "duration_ms": 171805,
+      "name": "Tamb\u00e9m Pede Bis",
+      "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
+    },
+    {
+      "added_at": "2023-10-13 17:04:48",
+      "album": {
         "name": "Pagode Novo",
         "url": "https://open.spotify.com/album/0s8D5BFXXSI6sxJuszFphf"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 205663,
       "name": "Atraco",
       "url": "https://open.spotify.com/track/6iSEEpOeVU0VdXdpq8O6CM"
-    },
-    {
-      "added_at": "2023-10-13 17:04:48",
-      "album": {
-        "name": "Tamb\u00e9m Pede Bis",
-        "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
-      },
-      "artists": [
-        {
-          "name": "Pedro Miranda",
-          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
-        }
-      ],
-      "duration_ms": 171805,
-      "name": "Tamb\u00e9m Pede Bis",
-      "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
     },
     {
       "added_at": "2023-10-13 17:04:48",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-10-13 17:04:48",
       "album": {
-        "name": "Samba Social Clube",
-        "url": "https://open.spotify.com/album/7snROpKNdroDGvYYA9UqW8"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 268026,
-      "name": "N\u00e3o Deixe O Samba Morrer",
-      "url": "https://open.spotify.com/track/2SEY58AadzmWPiksxr2K1N"
-    },
-    {
-      "added_at": "2023-10-13 17:04:48",
-      "album": {
         "name": "Dia De Gl\u00f3ria",
         "url": "https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 242589,
       "name": "Dia De Gl\u00f3ria",
       "url": "https://open.spotify.com/track/33zWdhvtorBDf3voIMVZe6"
+    },
+    {
+      "added_at": "2023-10-13 17:04:48",
+      "album": {
+        "name": "Samba Social Clube",
+        "url": "https://open.spotify.com/album/7snROpKNdroDGvYYA9UqW8"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 268026,
+      "name": "N\u00e3o Deixe O Samba Morrer",
+      "url": "https://open.spotify.com/track/2SEY58AadzmWPiksxr2K1N"
     },
     {
       "added_at": "2023-10-13 17:04:48",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-10-13 17:04:48",
       "album": {
-        "name": "Macieira",
-        "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
-      },
-      "artists": [
-        {
-          "name": "Tel\u00ea",
-          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Macieira",
-      "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
-    },
-    {
-      "added_at": "2023-10-13 17:04:48",
-      "album": {
         "name": "Melhores Pagodes",
         "url": "https://open.spotify.com/album/0AYAOB2K3Eg98YaqP3efan"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 243053,
       "name": "Sufoco",
       "url": "https://open.spotify.com/track/5tNeqDocqM9bfagx3jEtd9"
+    },
+    {
+      "added_at": "2023-10-13 17:04:48",
+      "album": {
+        "name": "Macieira",
+        "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
+      },
+      "artists": [
+        {
+          "name": "Tel\u00ea",
+          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Macieira",
+      "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
     },
     {
       "added_at": "2023-10-13 17:04:48",

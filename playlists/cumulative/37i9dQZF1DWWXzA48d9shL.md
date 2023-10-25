@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$
 
-523 songs - 20 hr 39 min
+525 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [2nd Hand](https://open.spotify.com/track/4yORBk6ZyYsJpnJchyZevc) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XII: The Dark Glacier Saga](https://open.spotify.com/album/76f9HU4YP42WHFoyo9JWPa) | 2:03 | 2021-09-17 | 2022-05-17 |
 | [4SEASONS](https://open.spotify.com/track/6kahpDP8SCtBZtuFi6dKm2) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [4SEASONS](https://open.spotify.com/album/2wS2BbSlgP4bd7uSrjiQjv) | 3:17 | 2022-10-14 | 2023-06-03 |
 | [5 Ways](https://open.spotify.com/track/3yjucIWxFPn6cA0VWorAgM) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [5 Ways](https://open.spotify.com/album/1afLHpWGBzbRaGX32Qye3S) | 1:50 | 2021-09-17 | 2022-06-04 |
-| [777](https://open.spotify.com/track/4poMkivkZVPt6cWRPfSOUv) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/49MakTH6EbCMvPszbwvRAN) | 2:11 | 2023-08-29 |  |
+| [777](https://open.spotify.com/track/4poMkivkZVPt6cWRPfSOUv) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/49MakTH6EbCMvPszbwvRAN) | 2:11 | 2023-08-29 | 2023-10-25 |
+| [777](https://open.spotify.com/track/7MZ5uD8Ak34XOt6cgzQGM3) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/40SfUo7opbVMkFNCval599) | 2:11 | 2023-08-29 |  |
 | [7th Grade](https://open.spotify.com/track/2FMo7qMVZuzkTC0RNvetqU) | [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8), [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [7th Grade](https://open.spotify.com/album/0zWDfSw6Zc1N238MhXOvAN) | 2:26 | 2022-12-09 | 2023-03-25 |
 | [8 O 8](https://open.spotify.com/track/2RfmwyP48VHVQHUQJBAgIU) | [J€AN\-MARC](https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh) | [8 O 8](https://open.spotify.com/album/0bsMDzBkn83MplomFKcG95) | 3:22 | 2022-09-23 | 2022-10-19 |
 | [8 O 8](https://open.spotify.com/track/5ndGoKCS93cEy7pL2RjaM2) | [J€AN\-MARC](https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh) | [8 O 8](https://open.spotify.com/album/5r65jaORaCdaf7WouDpilt) | 3:22 | 2022-09-23 | 2023-06-03 |
@@ -520,8 +521,9 @@
 | [Wrath](https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Wrath](https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE) | 1:53 | 2022-06-10 |  |
 | [WTF!](https://open.spotify.com/track/5po4XqNwlBnXXAYLtRcvpT) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [WTF!](https://open.spotify.com/album/0LWrRIg4YsEn1Xo0njNzVa) | 2:10 | 2022-05-06 | 2022-07-27 |
 | [Xanny Bar](https://open.spotify.com/track/629O8nN3Z3I5RrBBirnGLB) | [Sinny](https://open.spotify.com/artist/4yFMTPSQAun7AXk06kLgHJ), [HELLFXRMANCE](https://open.spotify.com/artist/5SAfqbTKypuqia3PlUNUuZ) | [Xanny Bar](https://open.spotify.com/album/2r8TSBLlXxCDF3bzN2xkVz) | 1:35 | 2022-09-16 | 2022-10-15 |
-| [XTC](https://open.spotify.com/track/10Gu5xREaHENiWT53WycZR) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [XTC](https://open.spotify.com/album/4gfe52IH6Rtm58PC16i95I) | 1:52 | 2023-05-26 |  |
+| [XTC](https://open.spotify.com/track/10Gu5xREaHENiWT53WycZR) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [XTC](https://open.spotify.com/album/4gfe52IH6Rtm58PC16i95I) | 1:52 | 2023-05-26 | 2023-10-25 |
 | [XTC](https://open.spotify.com/track/1zv9AJbiLS7PhtsGVx8oro) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [XTC](https://open.spotify.com/album/17ZzioB5rmp2kddwGnUbrG) | 1:52 | 2023-05-26 | 2023-05-30 |
+| [XTC](https://open.spotify.com/track/7j1nSP2STIKRLndR6UDV2P) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [XTC](https://open.spotify.com/album/2zEFfNgzxryDCN9cAzRN0s) | 1:52 | 2023-05-26 |  |
 | [Yagami](https://open.spotify.com/track/7kJ1useulEnBVk6BP0gqIL) | [Red Dot](https://open.spotify.com/artist/3eSp3CUFfIsOQUGRfIVdSz), [III\-SCAR](https://open.spotify.com/artist/5rCZjgv80X6wi240xvkdjO) | [Yagami](https://open.spotify.com/album/0nTPiq0oNIWlgw7Mbqapy6) | 2:05 | 2022-07-15 | 2022-11-19 |
 | [YASOPP](https://open.spotify.com/track/5MLlfYP9uZUGqsaPtUAVQe) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 1:37 | 2021-10-29 | 2022-11-26 |
 | [YOU](https://open.spotify.com/track/2kBkseTPx3JksWLmfSAtTL) | [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju), [Cardeairé Latrelle](https://open.spotify.com/artist/43f5i9c2rhXrHmJaBt6bmG) | [YOU](https://open.spotify.com/album/24ATrBdz0bnhEeyjOioPL8) | 2:08 | 2023-09-15 |  |

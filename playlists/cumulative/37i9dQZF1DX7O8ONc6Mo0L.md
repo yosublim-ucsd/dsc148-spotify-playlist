@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: AMÉM
 
-131 songs - 9 hr 41 min
+132 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Misericórdia És](https://open.spotify.com/track/5AKt5pJIlou7XCZvWH1hGV) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Misericórdia És](https://open.spotify.com/album/03LxqclfFIJNh2fmPdqWCG) | 2:34 | 2023-02-03 | 2023-03-25 |
 | [Muda os Planos \- Ao Vivo](https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Nalú](https://open.spotify.com/artist/0YaxG7PCq40nc8tKcMkrgx) | [Muda os Planos \(Ao Vivo\)](https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk) | 4:50 | 2022-09-02 |  |
 | [Na Casa](https://open.spotify.com/track/4ogfIbc7uyb6M2btL5VJXj) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Na Casa](https://open.spotify.com/album/3CXvWLGCOKSVO8qI6dDqMN) | 3:11 | 2022-09-02 | 2022-11-26 |
-| [Nada vai me separar \- Acústico](https://open.spotify.com/track/3Gx2PliooXRtT5Budt9Oc0) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Nada vai me separar \(Acústico\)](https://open.spotify.com/album/0OnNop3rDPF1YGjO94Okju) | 4:38 | 2023-09-25 |  |
+| [Nada vai me separar \(Acústico\)](https://open.spotify.com/track/3lvW6YlRwTIhRkrFsqpXyD) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Nada vai me separar \(Acústico\)](https://open.spotify.com/album/2LEQUVyuNA0EveW6JSeIGw) | 4:38 | 2023-10-20 |  |
+| [Nada vai me separar \- Acústico](https://open.spotify.com/track/3Gx2PliooXRtT5Budt9Oc0) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Nada vai me separar \(Acústico\)](https://open.spotify.com/album/0OnNop3rDPF1YGjO94Okju) | 4:38 | 2023-09-25 | 2023-10-25 |
 | [Nenhuma Condenação Há](https://open.spotify.com/track/0ykHRYx1naTjHMDOajzjcA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 5:14 | 2022-09-02 |  |
 | [Ninguém Explica Deus](https://open.spotify.com/track/4tKdITTT7wvJNvl8c5Qoth) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ninguém Explica Deus](https://open.spotify.com/album/0rtnasiLRIz9jg94tmwTU3) | 5:01 | 2022-10-07 |  |
 | [No Quarto Com Deus](https://open.spotify.com/track/5lHZfFfNno9z9az0zk06mS) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [No Quarto Com Deus](https://open.spotify.com/album/53SeiqJysDCQ8XymuHdc9l) | 4:01 | 2022-09-30 | 2022-10-29 |

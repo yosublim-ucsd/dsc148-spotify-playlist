@@ -4,7 +4,7 @@
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Jarina De Marco en portada.
 
-281 songs - 16 hr 52 min
+282 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 | 2022-04-09 |  |
 | [Almacén de Datos](https://open.spotify.com/track/58ZAoRmXWnP5pXKD23Ymi7) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Almacén de Datos](https://open.spotify.com/album/0iEi94s2pqd4fARDElGSnx) | 3:32 | 2022-04-01 | 2022-09-01 |
 | [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 | 2022-09-19 | 2023-04-01 |
-| [Amores Pasajeros](https://open.spotify.com/track/65zydwc1abLPtLqvi6fOID) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Amores Pasajeros](https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe) | 2:36 | 2023-08-01 |  |
+| [Amores Pasajeros](https://open.spotify.com/track/65zydwc1abLPtLqvi6fOID) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Amores Pasajeros](https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe) | 2:36 | 2023-08-01 | 2023-10-25 |
 | [Amuleto](https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Amuleto](https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp) | 3:11 | 2022-07-25 |  |
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-05-09 | 2022-07-12 |
 | [Aquí seguimos](https://open.spotify.com/track/4Rar7xh8FOl8N50d4i4IL8) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Aquí seguimos](https://open.spotify.com/album/5uclJItFnUVNvdMKqxx2af) | 3:23 | 2022-03-03 | 2022-10-01 |
@@ -148,6 +148,7 @@
 | [Lo Sagrado](https://open.spotify.com/track/6hU4qL1RFuy5A5Ndk8t8Sv) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/3S4lvCHMkqUzXhqAWbrMEg) | 3:30 | 2021-10-05 | 2022-04-24 |
 | [Loco Playa](https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Loco Playa](https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7) | 3:37 | 2021-10-22 | 2023-04-01 |
 | [Los Estimados](https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Los Estimados](https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB) | 4:37 | 2022-09-03 |  |
+| [Los Fines de Semana](https://open.spotify.com/track/7rBXuya4uCZ0WXbX9RX8sT) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Los Fines de Semana](https://open.spotify.com/album/0239nPX0r342AlfkEidBHR) | 3:47 | 2023-10-24 |  |
 | [Los ojos](https://open.spotify.com/track/7myGZGiVdiN0LH5Oa0k3Bg) | [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Los ojos](https://open.spotify.com/album/2YwK74FkaMLpLA3Ql8cFkk) | 3:34 | 2023-03-03 | 2023-05-15 |
 | [Magia](https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Magia](https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7) | 3:19 | 2021-10-05 | 2022-10-14 |
 | [Magia](https://open.spotify.com/track/5qepvnv5b3XHMthEM7Mi8l) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 3:19 | 2021-10-05 | 2022-11-26 |

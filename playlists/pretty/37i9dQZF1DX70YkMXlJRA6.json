@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 47083,
+  "num_followers": 47111,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OThiYjhkMGYzY2ZlNDdkNDJhMzFiYmMzMTZlNjg2MWRkMGVjNzUy",
+  "snapshot_id": "MCxhNzQ0NzU4YjM1MzIyZDBmOTYzYmUxM2RjZDQwYjMzMzM3OTIwMDVm",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -33,6 +33,30 @@
       "url": "https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj"
     },
     {
+      "added_at": "2023-10-24 02:24:36",
+      "album": {
+        "name": "El Plan (Cyma Remix)",
+        "url": "https://open.spotify.com/album/5FVy4b9t6CmmErI8kpFqmG"
+      },
+      "artists": [
+        {
+          "name": "Klik & Frik",
+          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+        },
+        {
+          "name": "Cyma",
+          "url": "https://open.spotify.com/artist/33Hfr8ZfUeyyZWdpsEtisn"
+        }
+      ],
+      "duration_ms": 237488,
+      "name": "El Plan - Cyma Remix",
+      "url": "https://open.spotify.com/track/3DE5UpRmIHUtQFqvpqKAZg"
+    },
+    {
       "added_at": "2023-04-01 01:11:30",
       "album": {
         "name": "Liit",
@@ -53,30 +77,6 @@
       "url": "https://open.spotify.com/track/0tZytKFwVKhuTVAr1kJCSB"
     },
     {
-      "added_at": "2023-05-24 02:19:29",
-      "album": {
-        "name": "El Tiempo (Captain Planet Remix)",
-        "url": "https://open.spotify.com/album/4wlMcrq2ebIypk1FPwm94l"
-      },
-      "artists": [
-        {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
-        },
-        {
-          "name": "Dom La Nena",
-          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
-        },
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 223888,
-      "name": "El Tiempo (Captain Planet Remix)",
-      "url": "https://open.spotify.com/track/4c5nygEjIwHZSgAFPVXfiJ"
-    },
-    {
       "added_at": "2022-11-12 17:30:07",
       "album": {
         "name": "Sera El Sol (Mixed)",
@@ -91,42 +91,6 @@
       "duration_ms": 187851,
       "name": "Epico",
       "url": "https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE"
-    },
-    {
-      "added_at": "2023-05-12 15:56:59",
-      "album": {
-        "name": "Mala Crianza",
-        "url": "https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS"
-      },
-      "artists": [
-        {
-          "name": "Macha Kiddo",
-          "url": "https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Fuleamelo",
-      "url": "https://open.spotify.com/track/7cGW3OvX5ERF8KUwrAEDP2"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 219600,
-      "name": "Hipn\u00f3tico",
-      "url": "https://open.spotify.com/track/4jo8s0TQGVHnmZ2gjErAQ2"
     },
     {
       "added_at": "2023-06-02 00:31:34",
@@ -147,6 +111,26 @@
       "duration_ms": 206895,
       "name": "Azul Oro",
       "url": "https://open.spotify.com/track/3KgLKqA9FGDXXhhxHHgZvX"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "Hipn\u00f3tico",
+      "url": "https://open.spotify.com/track/4jo8s0TQGVHnmZ2gjErAQ2"
     },
     {
       "added_at": "2023-03-31 18:10:31",
@@ -283,6 +267,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Matanza",
+        "url": "https://open.spotify.com/album/53Ckzqd3sEAJ6inu7Vgozq"
+      },
+      "artists": [
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        }
+      ],
+      "duration_ms": 368176,
+      "name": "Canto al Fuego",
+      "url": "https://open.spotify.com/track/3R9l60BDCH4pq8iaR44i0O"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Muy Bien",
         "url": "https://open.spotify.com/album/0YBsUl0SvyfhMBJMg1EGDc"
       },
@@ -299,22 +299,6 @@
       "duration_ms": 415500,
       "name": "Muy Bien",
       "url": "https://open.spotify.com/track/39fTOnYqGqM00A6xaIqtJn"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Matanza",
-        "url": "https://open.spotify.com/album/53Ckzqd3sEAJ6inu7Vgozq"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 368176,
-      "name": "Canto al Fuego",
-      "url": "https://open.spotify.com/track/3R9l60BDCH4pq8iaR44i0O"
     },
     {
       "added_at": "2023-03-31 18:10:31",
@@ -413,24 +397,28 @@
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
-      "added_at": "2022-06-07 16:47:23",
+      "added_at": "2023-05-24 02:19:29",
       "album": {
-        "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
-        "url": "https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx"
+        "name": "El Tiempo (Captain Planet Remix)",
+        "url": "https://open.spotify.com/album/4wlMcrq2ebIypk1FPwm94l"
       },
       "artists": [
         {
-          "name": "Zoufris Maracas",
-          "url": "https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD"
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
         },
         {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+          "name": "Dom La Nena",
+          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
         }
       ],
-      "duration_ms": 220452,
-      "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
-      "url": "https://open.spotify.com/track/6GMd54cabubG2fdz438cmF"
+      "duration_ms": 223888,
+      "name": "El Tiempo (Captain Planet Remix)",
+      "url": "https://open.spotify.com/track/4c5nygEjIwHZSgAFPVXfiJ"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -451,6 +439,26 @@
       "duration_ms": 207386,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
+        "url": "https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx"
+      },
+      "artists": [
+        {
+          "name": "Zoufris Maracas",
+          "url": "https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD"
+        },
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 220452,
+      "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
+      "url": "https://open.spotify.com/track/6GMd54cabubG2fdz438cmF"
     },
     {
       "added_at": "2023-03-23 21:34:53",
@@ -569,6 +577,22 @@
       "url": "https://open.spotify.com/track/1dlyPfKv2Bl5nYZzpO1VUX"
     },
     {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Beat Cari",
+        "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 332142,
+      "name": "Beat Cari",
+      "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
+    },
+    {
       "added_at": "2023-03-24 19:41:45",
       "album": {
         "name": "Ca\u00f1a Brava",
@@ -587,22 +611,6 @@
       "duration_ms": 181134,
       "name": "Ca\u00f1a Brava",
       "url": "https://open.spotify.com/track/0hy6YsimguNescPjjijro0"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Magnetica",
-        "url": "https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Sol Clap",
-      "url": "https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -627,18 +635,18 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Beat Cari",
-        "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
+        "name": "Magnetica",
+        "url": "https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
         }
       ],
-      "duration_ms": 332142,
-      "name": "Beat Cari",
-      "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
+      "duration_ms": 230746,
+      "name": "Sol Clap",
+      "url": "https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -655,22 +663,6 @@
       "duration_ms": 284000,
       "name": "Costa Para\u00edso",
       "url": "https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Beach Planet Vol. 1",
-        "url": "https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp"
-      },
-      "artists": [
-        {
-          "name": "T\u00c2CHES",
-          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Each Time I Think of You",
-      "url": "https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -711,6 +703,22 @@
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Beach Planet Vol. 1",
+        "url": "https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp"
+      },
+      "artists": [
+        {
+          "name": "T\u00c2CHES",
+          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Each Time I Think of You",
+      "url": "https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -873,6 +881,22 @@
       "url": "https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz"
     },
     {
+      "added_at": "2023-05-12 15:56:59",
+      "album": {
+        "name": "Mala Crianza",
+        "url": "https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS"
+      },
+      "artists": [
+        {
+          "name": "Macha Kiddo",
+          "url": "https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Fuleamelo",
+      "url": "https://open.spotify.com/track/7cGW3OvX5ERF8KUwrAEDP2"
+    },
+    {
       "added_at": "2022-06-07 16:47:23",
       "album": {
         "name": "Diablo",
@@ -907,22 +931,6 @@
       "duration_ms": 256551,
       "name": "Pandemia",
       "url": "https://open.spotify.com/track/4kpldaItXUwR1A0KWB4Cz8"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Planeta",
-        "url": "https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R"
-      },
-      "artists": [
-        {
-          "name": "Bleepolar",
-          "url": "https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ"
-        }
-      ],
-      "duration_ms": 210748,
-      "name": "Planeta",
-      "url": "https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU"
     },
     {
       "added_at": "2022-06-07 16:47:23",

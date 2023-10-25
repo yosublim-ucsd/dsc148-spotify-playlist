@@ -579,7 +579,7 @@
 | [Your Imagination \(feat\. Jaden\)](https://open.spotify.com/track/2EHQk2I0PFsu1zMa8eHeBB) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Your Imagination \(feat\. Jaden\)](https://open.spotify.com/album/3EyGeq2HBkz5LEm61NPuNo) | 3:17 | 2021-06-07 | 2022-08-20 |
 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 | 2021-02-24 | 2023-05-23 |
 | [Zombies](https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Zombies](https://open.spotify.com/album/0a2bolGRmUpWKlS9h7wJGs) | 3:12 | 2020-10-16 | 2023-01-06 |
-| [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 | 2022-11-07 |  |
+| [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 | 2022-11-07 | 2023-10-25 |
 | [爱的大巴 \(Love Bus\)](https://open.spotify.com/track/6XmPjrMCCqsRYyN2qoq3Ox) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [爱的大巴 \(Love Bus\)](https://open.spotify.com/album/7qc7urAaezBqXaJHfZvNhu) | 4:31 | 2022-08-05 | 2022-11-26 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Vv Pete
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,682 likes - 109 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,680 likes - 109 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 7 | [Pretty Lies](https://open.spotify.com/track/3eoC0wfs5yy14YeHW98mje) | [BnB](https://open.spotify.com/artist/4jUxz9vL5BF7GAakeqD1iS) | [Pretty Lies](https://open.spotify.com/album/7siS5C7R6cB8ysAHpXxink) | 2:31 |
 | 8 | [WORST BEHAVIOUR](https://open.spotify.com/track/03GTtYFHCbaIDKySbAOYpP) | [Kid Rey](https://open.spotify.com/artist/7o3qyJI8ODvWje1f5U52jp) | [WORST BEHAVIOUR](https://open.spotify.com/album/0vRvrAcpn3MPWwaIYnU64v) | 2:10 |
 | 9 | [Boys Light Up](https://open.spotify.com/track/4ErGr6NdI8DHIaf9bYuquZ) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Boys Light Up](https://open.spotify.com/album/3GfGjAm40VSALkTTkj1dyQ) | 2:49 |
-| 10 | [PRETTY GIRLS](https://open.spotify.com/track/2TegXzhcQonA9Lv8fBzIco) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [PRETTY GIRLS](https://open.spotify.com/album/4vdZ3KWw1hi6yTMQ0WSvEZ) | 3:13 |
+| 10 | [PRETTY GIRLS](https://open.spotify.com/track/2TegXzhcQonA9Lv8fBzIco) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [PRETTY GIRLS](https://open.spotify.com/album/4vdZ3KWw1hi6yTMQ0WSvEZ) | 2:50 |
 | 11 | [Pinnacle Bitch](https://open.spotify.com/track/7zOHs1vpfnGnx2KFBjnNOE) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [Pinnacle Bitch](https://open.spotify.com/album/0odPeCpPLezE6U2cogRT2b) | 3:21 |
 | 12 | [Finding My Way](https://open.spotify.com/track/33ArwFU5L9M5S1lnTmAjz7) | [PROPH3T](https://open.spotify.com/artist/3CfDgUAqzcrVjX2GSgAroa), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [Finding My Way](https://open.spotify.com/album/2VJLah9SVibt5UYFU9HVM6) | 2:42 |
 | 13 | [Play for Keeps](https://open.spotify.com/track/1aD6KGgZ6duNKQJQVulwmT) | [FMB](https://open.spotify.com/artist/1Kk4fSEcYeC4Z02ie8ZntE), [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [Play for Keeps](https://open.spotify.com/album/1NQn3XcLiZNFwC5pqsYdgl) | 3:02 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 88 | [Turn Me Up](https://open.spotify.com/track/5l9OQXFhZaaA80JCz0fPwr) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [Turn Me Up](https://open.spotify.com/album/2K62QWxt9PRLH5unXFeGXb) | 2:06 |
 | 89 | [Take Me Back](https://open.spotify.com/track/0smjjXdyFwV9P2Qu53zkUn) | [The Boy Of Many Colors](https://open.spotify.com/artist/6TH3slGLeQpUTS5Ng01bWx) | [Take Me Back](https://open.spotify.com/album/6tCRa1aV7mO9t1sLbgn1Qu) | 3:28 |
 | 90 | [STILL KNOCKING](https://open.spotify.com/track/0yn3t8ZRS50r8arNu6kH1b) | [Nice Flaco](https://open.spotify.com/artist/0iHJfju2zMmRbXBnVryn65) | [STILL KNOCKING](https://open.spotify.com/album/7Erw2XLKHGkM2lgTRZ6Mmb) | 3:02 |
-| 91 | [777](https://open.spotify.com/track/4poMkivkZVPt6cWRPfSOUv) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/49MakTH6EbCMvPszbwvRAN) | 2:11 |
+| 91 | [777](https://open.spotify.com/track/7MZ5uD8Ak34XOt6cgzQGM3) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/40SfUo7opbVMkFNCval599) | 2:11 |
 | 92 | [Sway](https://open.spotify.com/track/4b6PF6INUHpeoYtEQTWOxD) | [Poppy Rose](https://open.spotify.com/artist/3LwvdFKJNqyknLEdIfXDAi) | [Sway](https://open.spotify.com/album/3gxswTu2uBOi8pGnw8Mtf9) | 2:32 |
 | 93 | [Midnight Sun](https://open.spotify.com/track/6VruexMGmO8zonX9LIU4cK) | [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Midnight Sun](https://open.spotify.com/album/0CHvMh24eRmthzRALhsDR4) | 2:04 |
 | 94 | [On Me](https://open.spotify.com/track/0UEFangrAqa2TpQI6VIK3I) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [On Me](https://open.spotify.com/album/1nfbrWZAkBG4VuKztrBcSg) | 2:45 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 108 | [Let It Go](https://open.spotify.com/track/1tKII756LdsDLEjDKkwT7H) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Let It Go](https://open.spotify.com/album/3ZwhtVi5KQG8y7c079jrRQ) | 2:43 |
 | 109 | [Blacked Out Tint](https://open.spotify.com/track/24rcytWl0Fq9CmC9QU2Hns) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej) | [Blacked Out Tint](https://open.spotify.com/album/4QPr1TkGC7FLVK03uyTzQG) | 2:35 |
 
-Snapshot ID: `MCw4MDkxNzg0OGRlNWFlMWIxMmFkYmZhZWE3ZjhlZWU1NTFjZTA4YzQy`
+Snapshot ID: `MCxhNTA5NjEyMzA3MzFlOGI3MGJhNmI1NmZmMDI1MWQ3NjU0NTBhZDNl`

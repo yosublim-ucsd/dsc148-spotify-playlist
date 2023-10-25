@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: Metejoor
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,981 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,994 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 19 | [Thuis Thuis](https://open.spotify.com/track/6WHIHaHkbYUCuik1j9KnFP) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Thuis Thuis](https://open.spotify.com/album/33rVHZAjT2mWHpJBdVBwyb) | 3:08 |
 | 20 | [Alles Kan Vanavond](https://open.spotify.com/track/5m7dZjtgshqh2pKZKir7SG) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Op Mijn Lijf Geschreven](https://open.spotify.com/album/7df3CFydeyJeyw2K09Igjd) | 2:55 |
 | 21 | [Voicemail](https://open.spotify.com/track/5I8IKmeOT9L7yB0D41483W) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Voicemail](https://open.spotify.com/album/37x0oNIyroVzO6YWXbfJto) | 2:57 |
-| 22 | [Dat Heb Jij Gedaan](https://open.spotify.com/track/0BQgYJF7yFEQUw8xQmnY6q) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/57TKivJiNHJ8xsi9jmVdKx) | 3:37 |
+| 22 | [Dat Heb Jij Gedaan](https://open.spotify.com/track/2oQBdzjJXIcO2t2kYbwmVc) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/0aQ1Po7gpFjMVWbBieimnH) | 3:37 |
 | 23 | [Eenzaam Samen](https://open.spotify.com/track/5gAwwq5heHnzLpLIIFc4NF) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [Eenzaam Samen](https://open.spotify.com/album/4WTBwa2BmjQFdFzuPHL2OY) | 2:54 |
 | 24 | [Dresscode](https://open.spotify.com/track/20Il3468yznPyLB8fjZEBX) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Van Huis Uit](https://open.spotify.com/album/3c5HcU9hSV8SjM51ZO31aY) | 2:24 |
 | 25 | [Vanavond Komt Ze Naar Mij](https://open.spotify.com/track/1XlUhojwsf89SFoxuwvXW8) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Vanavond Komt Ze Naar Mij](https://open.spotify.com/album/1kTXTth3kzIUg2mtiUxyOt) | 3:08 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 29 | [De Helft Van Mij](https://open.spotify.com/track/1b4EY1iGSNPRIW2fulM8Lj) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 3:24 |
 | 30 | [Datediner](https://open.spotify.com/track/4IDU19J711XA1ls4M9QWsL) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Datediner](https://open.spotify.com/album/7sEuys399UPSZiYX88MPXk) | 2:25 |
 | 31 | [Door Weer En Wind](https://open.spotify.com/track/1kAPdyoWB9Mw5CA6zuRVyD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 4:01 |
-| 32 | [Wat ik Zocht](https://open.spotify.com/track/3gMNloOnIjQ9eZzQhiiDrb) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/1sh6HCkhboWsoln9lf0ay8) | 2:52 |
+| 32 | [Wat ik Zocht](https://open.spotify.com/track/26k14Cfgd7XC3j6FeZ9SrW) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/63FODmXDW9eScFLFN5dPVs) | 2:52 |
 | 33 | [Luchtkasteel](https://open.spotify.com/track/6jYvHA6LvFcTe9lCiuIc5f) | [BIBI](https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi) | [Luchtkasteel](https://open.spotify.com/album/2YZgPFSB0qkZNUmhPMPh98) | 2:33 |
 | 34 | [De Tijd Gaat Mooie Dingen Doen](https://open.spotify.com/track/3uMtq20Rh0Bb2rodXPNhzQ) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [De Tijd Gaat Mooie Dingen Doen](https://open.spotify.com/album/4qwPLM18gSBRtb9twSnOGU) | 3:31 |
 | 35 | [Morgen Gaan We Praten](https://open.spotify.com/track/1hq1XJPTjakVHRjntJxGG9) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS), [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Morgen Gaan We Praten](https://open.spotify.com/album/4LGsHcf4ciNkjFNwWe03Nx) | 2:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Wakker](https://open.spotify.com/track/3qD6YcX8EYahVoqfZyIzYC) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Wakker](https://open.spotify.com/album/1bEM1VmjCucrV6SRcN8PRL) | 2:19 |
 | 60 | [Elke Avond Feest](https://open.spotify.com/track/2w1tIkkgJWKfSensaU0vXd) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta) | [Elke Avond Feest](https://open.spotify.com/album/4LjBa0yk1oYtaOlwrbSVcZ) | 2:34 |
 
-Snapshot ID: `MCxiOTYwMjEyOTM1Y2RlNDZhOTA1MzE3Nzc5NjU2NmU2MWMxNzY1ZjBk`
+Snapshot ID: `MCwzODFkMWUyNzY4YTNmYmVlY2VkMGIzNzc5NjNhNjEwOTQwNDRlMGNl`

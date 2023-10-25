@@ -2,7 +2,7 @@
 
 ### [Chill Hits](https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6)
 
-> Disfruta de los mejores éxitos relajantes más recientes.
+> Kick back to the best new and recent chill hits.
 
 914 songs - 2 day 1 hr 39 min
 
@@ -58,7 +58,7 @@
 | [Angels Like You](https://open.spotify.com/track/0QdePZJfBpRIBautuT4FSx) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/0BCjAmbM8ryCM9gxy5yW7h) | 3:16 | 2020-11-27 | 2022-07-29 |
 | [Anywhere Away From Here \(Rag’n’Bone Man & P!nk\)](https://open.spotify.com/track/3sZWxtVuRc1Iet6ELwRz43) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Anywhere Away From Here \(Rag’n’Bone Man & P!nk\)](https://open.spotify.com/album/1I8e5aPdqwrP3UJUMyaOMD) | 3:58 | 2021-04-19 | 2022-04-21 |
 | [Are you happy?](https://open.spotify.com/track/6s86N7LVaJZuU4alwKp6XO) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Sad Songs](https://open.spotify.com/album/71sb3x5BwKk87d7ZBOoSJY) | 2:37 | 2020-08-07 | 2022-11-13 |
-| [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 | 2021-05-07 | 2023-10-20 |
+| [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 | 2021-05-07 |  |
 | [At My Worst](https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [The Prelude](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) | 2:50 | 2020-10-12 |  |
 | [atlas](https://open.spotify.com/track/5q9eIN6RXrs4e5PsRTXMpp) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [atlas](https://open.spotify.com/album/6LS2O3DM4C8UcFz28KZTU0) | 2:52 | 2019-07-22 | 2019-08-27 |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2023-08-07 |  |
@@ -518,7 +518,7 @@
 | [Lovely](https://open.spotify.com/track/3zjw3EZfvgjuR4AQhVlNq7) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Lovely](https://open.spotify.com/album/61PhrZ1QgJCsQSYxlh87RZ) | 2:56 | 2019-12-05 | 2022-07-29 |
 | [Lover \(Remix\) \[feat\. Shawn Mendes\]](https://open.spotify.com/track/3i9UVldZOE0aD0JnyfAZZ0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Lover \(Remix\) \[feat\. Shawn Mendes\]](https://open.spotify.com/album/2UfvnX1YYeC2cExMQTMbXC) | 3:41 | 2019-11-17 | 2022-04-21 |
 | [Low Beams](https://open.spotify.com/track/5tYqK9de9RC6PMKDaJvr4Q) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Long Game](https://open.spotify.com/album/1JEM6cvLIfeLtnphHFnQK4) | 2:35 | 2019-10-25 | 2020-10-21 |
-| [Mad at Disney](https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P) | 2:16 | 2020-09-07 |  |
+| [Mad at Disney](https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P) | 2:16 | 2020-09-07 | 2023-10-25 |
 | [Magazines](https://open.spotify.com/track/7gT71c6WzCkifRtSQbggGz) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Magazines](https://open.spotify.com/album/4hL7bPlgURwziybd5zBuEo) | 3:40 | 2021-05-24 | 2021-05-25 |
 | [Mai Tais \(feat\. Skylar Grey\)](https://open.spotify.com/track/58e08QJdz9zs7AY2KiiHBt) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Mai Tais \(feat\. Skylar Grey\)](https://open.spotify.com/album/5dtKqmSeXNh85Mt7tjP3Vt) | 3:44 | 2020-01-04 | 2022-04-21 |
 | [Make the Move](https://open.spotify.com/track/2ymSNj7e3CjonAXyN9etmb) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [MELLOW!](https://open.spotify.com/album/6vY7z4ZBD3vgQgnG7JIBtL) | 2:55 | 2019-05-25\* | 2020-02-28 |

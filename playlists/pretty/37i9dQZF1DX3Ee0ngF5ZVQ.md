@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Randy Rogers and Wade Bowen
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,619 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,668 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 55 | [A Few Years Back](https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [A Few Years Back](https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4) | 3:40 |
 | 56 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 |
 | 57 | [How The Hurtin' Goes](https://open.spotify.com/track/0kx8fHSdEZPDaSommWNjfa) | [Curtis Grimes](https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP) | [How The Hurtin' Goes](https://open.spotify.com/album/2ncmrKQvRbxIkds4J4o3Ly) | 2:50 |
-| 58 | [Bridges to Burn](https://open.spotify.com/track/0wC4KXkDpSPnwmGjp1Wopt) | [Nick Hickman](https://open.spotify.com/artist/54dy3kYqGy3V4obgZZP08h) | [Bridges To Burn](https://open.spotify.com/album/1WG4fgaNMXbxbsbjJR1X6G) | 3:10 |
+| 58 | [Diamondhead](https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e) | [J.R\. Carroll](https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm) | [Diamondhead](https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc) | 3:07 |
 | 59 | [it won't always be this way](https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [it won't always be this way](https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc) | 4:27 |
-| 60 | [Diamondhead](https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e) | [J.R\. Carroll](https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm) | [Diamondhead](https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc) | 3:07 |
+| 60 | [Bridges to Burn](https://open.spotify.com/track/0wC4KXkDpSPnwmGjp1Wopt) | [Nick Hickman](https://open.spotify.com/artist/54dy3kYqGy3V4obgZZP08h) | [Bridges To Burn](https://open.spotify.com/album/1WG4fgaNMXbxbsbjJR1X6G) | 3:10 |
 | 61 | [All Of My Exes \(Still Make Me Breakfast\) \- Live From Cheatham Street](https://open.spotify.com/track/48pMU2RkrMLAzM4NfGIBUQ) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Live From Cheatham Street](https://open.spotify.com/album/5toLbY15yPPb1iVknycOc0) | 4:14 |
 | 62 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 |
 | 63 | [Saturday Night Comes Once A Week](https://open.spotify.com/track/4wRjg54YqSBl1MN3gEGbkc) | [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Border Radio](https://open.spotify.com/album/0dXxHFUV0SNhMjvCEBaUfG) | 4:04 |
@@ -82,16 +82,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 72 | [Quittin' Ain't Workin' \(feat\. Mike Ryan\)](https://open.spotify.com/track/6mPpuNKf0wPSoOCD3rFbdz) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Quittin' Ain't Workin' \(feat\. Mike Ryan\)](https://open.spotify.com/album/3r9sGBc6fpTs96wv1eXkwG) | 3:15 |
 | 73 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 |
 | 74 | [Cold Shoulder](https://open.spotify.com/track/282YiPLSxibbQvGCQ05bkF) | [Mary Heather Hickman](https://open.spotify.com/artist/7HCxS7azUAuU5SyWIY5fDl) | [Cold Shoulder](https://open.spotify.com/album/7rRa6fVsCQPLQPfQlyE8TS) | 2:51 |
-| 75 | [If I Had a Dollar](https://open.spotify.com/track/4PDiHpPfI0qr0HhIOyUNQn) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [If I Had a Dollar](https://open.spotify.com/album/25Y4FqiX9zxgeWepeu2sd6) | 4:52 |
+| 75 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 |
 | 76 | [If I Had a Bar](https://open.spotify.com/track/6BGBFbs555m7u2yFRXWJey) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [If I Had a Bar](https://open.spotify.com/album/3xKfoEvSGdBlRIZ6GUT4Lf) | 3:07 |
 | 77 | [Lonestar Lonely](https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Lonestar Lonely](https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM) | 3:35 |
-| 78 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 |
+| 78 | [Heartfelt](https://open.spotify.com/track/0OGcW962TOINe5X95LeAhl) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Heartfelt](https://open.spotify.com/album/5sCBCyGbNmMg4PzIg674ge) | 3:15 |
 | 79 | [Cowboy Kid](https://open.spotify.com/track/6HQDLJ0hcek1X70QOP6e3x) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Cowboy Kid](https://open.spotify.com/album/6aNpBKhFEU5CBJ8vY1TLk0) | 3:31 |
 | 80 | [Talkin' Company Man Blues](https://open.spotify.com/track/49X6s0pSjdjOxy2eMFA7BI) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Talkin' Company Man Blues](https://open.spotify.com/album/0ij4E9nKXJQaxJ8OcOb4D2) | 4:10 |
-| 81 | [Heartfelt](https://open.spotify.com/track/0OGcW962TOINe5X95LeAhl) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Heartfelt](https://open.spotify.com/album/5sCBCyGbNmMg4PzIg674ge) | 3:15 |
-| 82 | [Pancho and Lefty](https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ), [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Pancho and Lefty](https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX) | 5:09 |
+| 81 | [If I Had a Dollar](https://open.spotify.com/track/4PDiHpPfI0qr0HhIOyUNQn) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [If I Had a Dollar](https://open.spotify.com/album/25Y4FqiX9zxgeWepeu2sd6) | 4:52 |
+| 82 | [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 |
 | 83 | [In Case You Didn’t Know](https://open.spotify.com/track/21u5BXmVmipPoLlBFN11FD) | [Mikele Buck Band](https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN) | [In Case You Didn’t Know](https://open.spotify.com/album/3wojk7NMMnAmedGJG5as0k) | 3:54 |
-| 84 | [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 |
+| 84 | [Pancho and Lefty](https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ), [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Pancho and Lefty](https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX) | 5:09 |
 | 85 | [Don’t Mess With Exes](https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Don’t Mess With Exes](https://open.spotify.com/album/35nVx6SYYd33ss6uWNW956) | 3:27 |
 | 86 | [Dust](https://open.spotify.com/track/7mEK8ZfXB69HKYZrOnV9CD) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/23IQqam0aRAKSCLjOv9hlu) | 3:06 |
 | 87 | [Fine & Dandy](https://open.spotify.com/track/0HRBAbJgZuQM3Ku66svJFZ) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Fine & Dandy](https://open.spotify.com/album/4SJS7Bx8c2eYe5mcBTHgw3) | 3:39 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 97 | [Lovin' Not Leavin'](https://open.spotify.com/track/5rdW1DHY49AjT38jP4NZhf) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Lovin' Not Leavin'](https://open.spotify.com/album/6mc464jvzmrvUJBwlLdExy) | 4:41 |
 | 98 | [Fast Car](https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Homecoming](https://open.spotify.com/album/1Om7EoqiNsXCCMeiTzC9BZ) | 3:28 |
 | 99 | [My Heart You'll Tend](https://open.spotify.com/track/3po9LDXpTQyJCPc5O1RUut) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [My Heart You'll Tend](https://open.spotify.com/album/1KpJBUETISSfAToyFkBDDA) | 3:53 |
-| 100 | [Die Runnin'](https://open.spotify.com/track/7oWzVNBs8OUqXzfp8Psbxg) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Die Runnin'](https://open.spotify.com/album/6cB7PMBtBbBERIL8Aru4S5) | 3:11 |
+| 100 | [But Me](https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [But Me](https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1) | 3:55 |
 
-Snapshot ID: `MCwxYWRmMjNkNjE1YjdmODhjN2E2Y2UwOGI3ODNkNzVmMDVmM2M0MzNm`
+Snapshot ID: `MCw0ZTNiZTBlNTkzMjJlNGU4NWNkYWNjMTVkY2ZhOWQ4OWVjNDliYTZk`

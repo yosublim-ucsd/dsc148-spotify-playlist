@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 
 > Les plus grands hits français des années 90\. Photo: Manau
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,672 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,752 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 | 49 | [Bienvenue chez moi](https://open.spotify.com/track/17UfIUXlkq6u0ZiDqqda1R) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Bienvenue chez moi](https://open.spotify.com/album/6Pb6dzCoqNp4DdV7pCrfv5) | 4:09 |
 | 50 | [Paris a le Blues](https://open.spotify.com/track/2fJy6kGyMOusAwdzTmxIN3) | [Mad In Paris](https://open.spotify.com/artist/3fsoaS1PLh7xYiJsVb7QR0) | [Mad In Paris](https://open.spotify.com/album/6FGWuEYu8CKh6CQgrB6aoA) | 4:51 |
 
-Snapshot ID: `MCxmMmJiOTg5ZDU0MjY5OTU1N2JkMjMxZWM1NDYwOWJlODAxM2Y1ZTY5`
+Snapshot ID: `MCw5YjUwMjQ0ZmNlNDU2OTY5NTUxMDQzNDRiODZjY2QyYmM3ZDZlZDM4`

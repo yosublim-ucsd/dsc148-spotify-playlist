@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-289 songs - 14 hr 36 min
+290 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [My Lover](https://open.spotify.com/track/1blEpIJSU20zH1u14FxT6X) | [DJ FiiFii](https://open.spotify.com/artist/3OnR9rQurffV6EPVk46fwU), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [My Lover](https://open.spotify.com/album/40JF3vzsvMac08TpFx1JEs) | 2:52 | 2023-10-13 |  |
 | [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV) | 3:00 | 2023-06-22 |  |
 | [MY WAY \(feat\. Joey B\)](https://open.spotify.com/track/3YMPFjNdqspuEvCUYXbWAl) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [MY WAY \(feat\. Joey B\)](https://open.spotify.com/album/2pTkLDnVeiVT3HOdeh2r5Y) | 3:17 | 2023-03-30 | 2023-05-07 |
-| [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-06-09 |  |
+| [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-06-09 | 2023-10-25 |
 | [Never Love Again](https://open.spotify.com/track/0NLRTMtyvgX4HC9Yyf7fO9) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Never Love Again](https://open.spotify.com/album/0DyQM70GwzJIhxLDHeaULt) | 3:05 | 2022-06-09 | 2022-08-07 |
 | [No letting guh](https://open.spotify.com/track/4C0DwDS6OzrUjtU8VtwhUN) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [No letting guh](https://open.spotify.com/album/1nW3aKGYni9OSGk2311kr9) | 2:24 | 2023-03-24 | 2023-04-21 |
 | [No Stress](https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC) | [Tony Frank](https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Stress](https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB) | 2:35 | 2023-05-04 | 2023-10-18 |
@@ -261,6 +261,7 @@
 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:31 | 2023-10-20 |  |
 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/5h5fI8fZG0BGiUqyuR3BYZ) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/album/0XBN8hQFaFIVmTJCj6Yix5) | 3:31 | 2023-10-20 | 2023-10-21 |
 | [Too Late To Party](https://open.spotify.com/track/3yrdfryHbFnwQuGrNAZQIr) | [KwesiSoul](https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr), [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Too Late To Party](https://open.spotify.com/album/5DMDU4qd94FEgJlpKr7rZs) | 3:04 | 2023-06-30 | 2023-07-14 |
+| [Touché](https://open.spotify.com/track/6AmCAKY1V1msPUiqogglVW) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Moneybag](https://open.spotify.com/album/26MQEJC5dvEQL1rfShAXao) | 2:14 | 2023-10-20 |  |
 | [Trobul](https://open.spotify.com/track/3mitop70iyN03AreLNsit4) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Trobul](https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS) | 4:02 | 2022-06-09 |  |
 | [Tropicana](https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Flash](https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p) | [Palmwine Music 2](https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5) | 4:15 | 2022-06-09 |  |
 | [troublin \- A COLORS SHOW](https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [troublin \- A COLORS SHOW](https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K) | 2:25 | 2023-03-17 | 2023-08-04 |

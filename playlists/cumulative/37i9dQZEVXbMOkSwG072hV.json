@@ -495,6 +495,32 @@
     },
     {
       "album": {
+        "name": "Trap The Fato Deluxe",
+        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "7 NOVINHA PRA 2 MLK - BONUS TRACK",
+      "url": "https://open.spotify.com/track/53d5THIukxStMHSJrGOOvu"
+    },
+    {
+      "album": {
         "name": "8KG",
         "url": "https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J"
       },
@@ -1138,7 +1164,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
@@ -1640,6 +1666,24 @@
       "duration_ms": 216000,
       "name": "Alma",
       "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
+    },
+    {
+      "album": {
+        "name": "Already Over",
+        "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160640,
+      "name": "Already Over",
+      "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
     },
     {
       "album": {
@@ -3724,7 +3768,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 104013,
       "name": "BAIXO",
       "url": "https://open.spotify.com/track/0rb7HcBkdMPp04ybHBfX41"
@@ -6284,7 +6328,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 193322,
       "name": "Camisa P",
       "url": "https://open.spotify.com/track/0DPjN6E1YtYIH42IPomCNM"
@@ -11301,6 +11345,24 @@
     },
     {
       "album": {
+        "name": "Equalize",
+        "url": "https://open.spotify.com/album/7xW9I1m2LUQ6xFj8CxMNGf"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Equalize",
+      "url": "https://open.spotify.com/track/2N8jmZ4Ai3bJwnm3avMAru"
+    },
+    {
+      "album": {
         "name": "Seresta pra Pared\u00e3o 3.0",
         "url": "https://open.spotify.com/album/0fgAwNfRajNcfeYsFKZfev"
       },
@@ -11522,6 +11584,50 @@
       "duration_ms": 132942,
       "name": "Espelho Meu",
       "url": "https://open.spotify.com/track/5i0ngsSwZMnYAZ9dLSg69f"
+    },
+    {
+      "album": {
+        "name": "O Menino do Cabelo Rosa",
+        "url": "https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37"
+      },
+      "artists": [
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224491,
+      "name": "Esqueceu Seu Brinco",
+      "url": "https://open.spotify.com/track/29s3cKc0N9nS08Kc6Zv06B"
+    },
+    {
+      "album": {
+        "name": "Essa morena da pane no meu sistema-Remix",
+        "url": "https://open.spotify.com/album/3LuCycbYi1aVL6VjFvvU8t"
+      },
+      "artists": [
+        {
+          "name": "All\u00ea No Beat",
+          "url": "https://open.spotify.com/artist/0wpDxZjR7uvs0qHeSIHu96"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90807,
+      "name": "Essa morena da pane no meu sistema-Remix",
+      "url": "https://open.spotify.com/track/2E2J45WMvEonqlY9G97mWH"
     },
     {
       "album": {
@@ -13362,7 +13468,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 510697,
       "name": "Fernando de Noronha",
       "url": "https://open.spotify.com/track/62W2f0QOg20ufNjJQHqnkq"
@@ -14158,7 +14264,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 190799,
       "name": "Fumo da Noite - Ao Vivo",
       "url": "https://open.spotify.com/track/3BBZb18SMtr0S1bSk7wNTr"
@@ -14642,6 +14748,28 @@
       "duration_ms": 199453,
       "name": "God Save The Queen",
       "url": "https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1"
+    },
+    {
+      "album": {
+        "name": "GODS",
+        "url": "https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220878,
+      "name": "GODS",
+      "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
     },
     {
       "album": {
@@ -16691,6 +16819,44 @@
     },
     {
       "album": {
+        "name": "Invis\u00edvel pt.2",
+        "url": "https://open.spotify.com/album/0KzFmbHMHXxpa0GUjuMZir"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174556,
+      "name": "Invis\u00edvel pt.2",
+      "url": "https://open.spotify.com/track/2PsrJc45N7xbFo2ZrL4bHD"
+    },
+    {
+      "album": {
         "name": "INVU - The 3rd Album",
         "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
       },
@@ -16830,6 +16996,24 @@
       "duration_ms": 190960,
       "name": "Jardins Da Babil\u00f4nia",
       "url": "https://open.spotify.com/track/1voq70uyXy4i3S1oJP48Hs"
+    },
+    {
+      "album": {
+        "name": "Jeito Que Te Faco Poderosa",
+        "url": "https://open.spotify.com/album/4ZtcXcO0SHulUH4o2uU812"
+      },
+      "artists": [
+        {
+          "name": "Omcig4m",
+          "url": "https://open.spotify.com/artist/3y2NAhEyi3HgbSp2EtXOI9"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249335,
+      "name": "Jeito Que Te Faco Poderosa",
+      "url": "https://open.spotify.com/track/3aJ3EmS2Zje2GhIQqWjZry"
     },
     {
       "album": {
@@ -17790,7 +17974,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 134853,
       "name": "Le Monde - From Talk to Me",
       "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H"
@@ -18062,7 +18246,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 179725,
       "name": "liga\u00e7\u00f5es de alma",
       "url": "https://open.spotify.com/track/3RZ84nOV92gBOQc1iIdIez"
@@ -18412,7 +18596,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 116104,
       "name": "LOVELY BASTARDS",
       "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
@@ -19448,10 +19632,32 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 211666,
       "name": "Mar",
       "url": "https://open.spotify.com/track/69BDkdG5O2JB5e1ZbvMEjO"
+    },
+    {
+      "album": {
+        "name": "O Menino do Cabelo Rosa",
+        "url": "https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37"
+      },
+      "artists": [
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "Marcas de Batom",
+      "url": "https://open.spotify.com/track/0wnCeCkj3H9Ili3SsfZxBC"
     },
     {
       "album": {
@@ -24808,7 +25014,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 209139,
       "name": "Olho Encharcado - Ao Vivo",
       "url": "https://open.spotify.com/track/4GXrKLzDyWYJnD2TbgvKiN"
@@ -25680,6 +25886,32 @@
       "duration_ms": 196826,
       "name": "PANDORA",
       "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
+    },
+    {
+      "album": {
+        "name": "Pane no Sistema",
+        "url": "https://open.spotify.com/album/2dmlFvtOu5sd5ktVMiNMNZ"
+      },
+      "artists": [
+        {
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+        },
+        {
+          "name": "Paulo Pires",
+          "url": "https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY"
+        },
+        {
+          "name": "\u00c9aBest",
+          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214090,
+      "name": "Pane no Sistema",
+      "url": "https://open.spotify.com/track/7GjAXYuxjuXPbQJzRnNdob"
     },
     {
       "album": {
@@ -27972,6 +28204,24 @@
       "duration_ms": 572760,
       "name": "Quadrilha Brasileira / O Sanfoneiro S\u00f3 Tocava Isso - Instrumental",
       "url": "https://open.spotify.com/track/5bJnIg3FhAHoALP407aeMW"
+    },
+    {
+      "album": {
+        "name": "Apaixonando Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6PnH29qiKcyRGTyFJj4n2j"
+      },
+      "artists": [
+        {
+          "name": "Thiago Freitas",
+          "url": "https://open.spotify.com/artist/26u3LeVpw9EOQLkNVX6NUj"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211369,
+      "name": "Quando a Chuva Passar",
+      "url": "https://open.spotify.com/track/3EYs1xHiDQD9jw4MnHjbi9"
     },
     {
       "album": {
@@ -30578,7 +30828,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 384000,
       "name": "SET MC Kauan",
       "url": "https://open.spotify.com/track/4bRU8vV1N9cEkxPQW1XPau"
@@ -32818,13 +33068,13 @@
           "url": "https://open.spotify.com/artist/6PZAe0r2oRjcMwriylvnWw"
         },
         {
-          "name": "MC Jacar\u00e9",
-          "url": "https://open.spotify.com/artist/3pfMg9hiGHJt0x9zDhiL7I"
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
         }
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 105461,
       "name": "Tchau",
       "url": "https://open.spotify.com/track/043UqjcBUxcuoKfaxujfLA"
@@ -34478,7 +34728,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 134485,
       "name": "Tropa dos Covardes",
       "url": "https://open.spotify.com/track/3AlJeYu0F3gbttq276kBcM"
@@ -37447,6 +37697,24 @@
     },
     {
       "album": {
+        "name": "JENNIE Special Single [You & Me]",
+        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179164,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -37914,7 +38182,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 158091,
       "name": "\u00c9 Tes\u00e3o ou \u00c9 Amor",
       "url": "https://open.spotify.com/track/19TnKf5YHapfrI1FJjbx8i"

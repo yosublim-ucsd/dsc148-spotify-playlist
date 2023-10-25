@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW?si=MFWuaGKSRFCepbJ4nBSpCg">OSA</a>\. Updates every Wednesday.
 
-1,800 songs - 3 day 20 hr 38 min
+1,801 songs - 3 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1349,7 +1349,8 @@
 | [Roses](https://open.spotify.com/track/3EfZ1FovbvY5dxogyyB8sw) | [Cxrno](https://open.spotify.com/artist/1iKmg6IgBEKSUEnHr6KLom) | [Roses](https://open.spotify.com/album/37kEh032g40R9I6d7sd7cV) | 2:35 | 2023-06-30 | 2023-08-26 |
 | [Round](https://open.spotify.com/track/5kyX9OSz4Ruk0T3ZuAB03P) | [Infinite Coles](https://open.spotify.com/artist/1OUKcUMWgpiUgctbvFS5PZ) | [Round](https://open.spotify.com/album/3vjLV0o1TOUEsegrnzfRqn) | 3:21 | 2022-01-12 | 2022-02-03 |
 | [Royalty](https://open.spotify.com/track/6y5vkAMps3BAnwbzPhFPVT) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [Beezyx](https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso) | [Royalty](https://open.spotify.com/album/7EHtA9gPUvQqgTS886DeJg) | 3:33 | 2023-03-31 | 2023-08-04 |
-| [Runaway](https://open.spotify.com/track/0agVesxTRMBILK1I1LosM1) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r) | [Runaway](https://open.spotify.com/album/5cTmXTvq9gPQlF4kSnam24) | 2:18 | 2023-08-17 |  |
+| [Runaway](https://open.spotify.com/track/10bZAyelkPwqUkkTVwEgdF) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r) | [Notorious & Noble](https://open.spotify.com/album/7x0bphVdGZG4lSij8ni8mx) | 2:15 | 2023-08-17 |  |
+| [Runaway](https://open.spotify.com/track/0agVesxTRMBILK1I1LosM1) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r) | [Runaway](https://open.spotify.com/album/5cTmXTvq9gPQlF4kSnam24) | 2:18 | 2023-08-17 | 2023-10-25 |
 | [Runner Up](https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62) | [Tejy](https://open.spotify.com/artist/4mOvX6YYTQ1qdtNWPS6rmk) | [Runner Up](https://open.spotify.com/album/4XjO7PZoSXkaAQ5rbDVOMg) | 2:52 | 2023-06-02 | 2023-08-04 |
 | [Running](https://open.spotify.com/track/5ptEjQKJryWVLqZl8tfE6T) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Running](https://open.spotify.com/album/3UQ9GCV85aOagAsZJ6mbRw) | 3:26 | 2021-12-01 | 2022-01-13 |
 | [Rush](https://open.spotify.com/track/3OZGaDNeW1WkK2HB8vAkEQ) | [Cedric Brazle](https://open.spotify.com/artist/537DG59uwJsVL3RKA6YNW6) | [Rush](https://open.spotify.com/album/52nLx2HoVjs20rZ3sW3MQQ) | 3:10 | 2022-10-28 | 2022-12-01 |

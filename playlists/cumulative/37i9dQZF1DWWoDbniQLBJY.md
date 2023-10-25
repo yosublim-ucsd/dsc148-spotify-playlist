@@ -4,7 +4,7 @@
 
 > Pop acústico para tu día.
 
-183 songs - 11 hr 2 min
+184 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,9 +46,10 @@
 | [Cómo Te Atreves \- Versión Acústica](https://open.spotify.com/track/4co6MQZAvGMVYSecqIGA8c) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Cómo Te Atreves](https://open.spotify.com/album/5OQauBA2zwOQu0QNF40XMR) | 3:51 | 2021-12-16 | 2022-07-29 |
 | [De Adentro Pa Afuera \- En Vivo Desde La Puerta de Alcalá](https://open.spotify.com/track/6Br10W2EX7UkOxAWWAAZm5) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [De Adentro Pa Afuera \(Deluxe Edition\)](https://open.spotify.com/album/33CW5fr7A0nTN5prOTyScI) | 3:13 | 2023-06-09 |  |
 | [De Camino](https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Agua Del Pozo](https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd) | 3:26 | 2021-12-16 |  |
-| [De Rodillas \- Acústico](https://open.spotify.com/track/2iMb7HAmOcdnZzAOa4yNAq) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [De Rodillas \(Acústico\)](https://open.spotify.com/album/1vjl5MYuhrEKd9leIUnADp) | 4:28 | 2021-12-16 |  |
+| [De Rodillas \- Acústico](https://open.spotify.com/track/2iMb7HAmOcdnZzAOa4yNAq) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [De Rodillas \(Acústico\)](https://open.spotify.com/album/1vjl5MYuhrEKd9leIUnADp) | 4:28 | 2021-12-16 | 2023-10-25 |
 | [Desde las Alturas](https://open.spotify.com/track/44ojSkwMRjy7GRAOdKkNKz) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Desde las Alturas](https://open.spotify.com/album/7LjiZnqwouFkTnOKFJntcS) | 3:43 | 2021-12-16 | 2022-05-20 |
 | [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 | 2023-02-10 |  |
+| [Desorden](https://open.spotify.com/track/3vEK8aeuI9hC8yLbqm0L1n) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Desorden](https://open.spotify.com/album/1HZq5pIum2fq1cU6CeiCYs) | 3:26 | 2023-10-20 |  |
 | [Despacito \- Acoustic](https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Despacito \(Acoustic\)](https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB) | 3:38 | 2021-12-16 |  |
 | [Destino \- Acústico](https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk) | [Jxta Martin](https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P) | [En Acústico](https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk) | 3:27 | 2023-04-04 | 2023-04-16 |
 | [Downtown \- Acoustic Version](https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33) | [Downtown \(Acoustic Version\)](https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ) | 3:24 | 2021-12-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Pinches cumbiones bien locos para bailar.",
-  "num_followers": 141884,
+  "num_followers": 141954,
   "original_name": "50 Cumbiones Bien Locos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjMwMTVlZGZjMTA5NTllNGJiYjAyNWQ0ZDk5NjA5NjU3ODE4OGIy",
+  "snapshot_id": "MCw0ODYxZWI2ZDk5M2RhODE0NWI5MmY3MDA0N2M5YTg5ODk5ZGQ0YWVh",
   "tracks": [
     {
       "added_at": "2023-01-17 14:46:17",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 178050,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
         "name": "Ya Fue",
         "url": "https://open.spotify.com/album/7j5vECyVgTxKOAaEtSUYAl"
       },
@@ -419,18 +435,18 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
       "artists": [
         {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
         }
       ],
-      "duration_ms": 178050,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
+      "duration_ms": 211813,
+      "name": "Muchachita Consentida",
+      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -451,22 +467,6 @@
       "duration_ms": 312737,
       "name": "Messirve Mix 5",
       "url": "https://open.spotify.com/track/41VOCbJ4ronoGiRg4bWvV6"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Muchachita Consentida",
-      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1007,6 +1007,30 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
+        "name": "No Me Enga\u00f1es Nunca",
+        "url": "https://open.spotify.com/album/0tUwtwf1x9pnkZUM9tXrSX"
+      },
+      "artists": [
+        {
+          "name": "Mexikolombia",
+          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
+        },
+        {
+          "name": "Yulios Kumbia",
+          "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
+        },
+        {
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+        }
+      ],
+      "duration_ms": 233933,
+      "name": "No Me Enga\u00f1es Nunca",
+      "url": "https://open.spotify.com/track/061AptiQT6XhEkTViCMHWx"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
       },
@@ -1039,30 +1063,6 @@
       "duration_ms": 178573,
       "name": "Bailan Rochas y Chetas",
       "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
-        "name": "No Me Enga\u00f1es Nunca",
-        "url": "https://open.spotify.com/album/0tUwtwf1x9pnkZUM9tXrSX"
-      },
-      "artists": [
-        {
-          "name": "Mexikolombia",
-          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
-        },
-        {
-          "name": "Yulios Kumbia",
-          "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
-        },
-        {
-          "name": "Los Telez",
-          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
-        }
-      ],
-      "duration_ms": 233933,
-      "name": "No Me Enga\u00f1es Nunca",
-      "url": "https://open.spotify.com/track/061AptiQT6XhEkTViCMHWx"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1263,6 +1263,38 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
+        "name": "Latino",
+        "url": "https://open.spotify.com/album/3a4EAp0gT2IoAvNtToqrCD"
+      },
+      "artists": [
+        {
+          "name": "Ritmo Y Sabor",
+          "url": "https://open.spotify.com/artist/1FSn3FN1HTxrK4qgoslPJh"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "La Cumbia de los Monjes",
+      "url": "https://open.spotify.com/track/03ITeFvMvTRpTC92WsQWw5"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Sabros\u00f3n",
+      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
         "name": "Barrio Prendido",
         "url": "https://open.spotify.com/album/1y2ar7cUSgVihUHXeCI21J"
       },
@@ -1291,38 +1323,6 @@
       "duration_ms": 240008,
       "name": "Barrio Prendido",
       "url": "https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Sabros\u00f3n",
-      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
-        "name": "Latino",
-        "url": "https://open.spotify.com/album/3a4EAp0gT2IoAvNtToqrCD"
-      },
-      "artists": [
-        {
-          "name": "Ritmo Y Sabor",
-          "url": "https://open.spotify.com/artist/1FSn3FN1HTxrK4qgoslPJh"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "La Cumbia de los Monjes",
-      "url": "https://open.spotify.com/track/03ITeFvMvTRpTC92WsQWw5"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "CUMBIA DE BARRIO",
-        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
+        "name": "El Campeon",
+        "url": "https://open.spotify.com/album/0CtZ6ma3A8N1bcpzjpXT3U"
       },
       "artists": [
         {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+          "name": "Los Marios",
+          "url": "https://open.spotify.com/artist/1A5MEaeDJeABkpcW9crr8z"
         }
       ],
-      "duration_ms": 181354,
-      "name": "CUMBIA DE BARRIO",
-      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
+      "duration_ms": 205437,
+      "name": "Que Dolor",
+      "url": "https://open.spotify.com/track/7gbXqohYAdWbcUEoznCrqO"
     }
   ],
   "unique_name": "50 Cumbiones Bien Locos",

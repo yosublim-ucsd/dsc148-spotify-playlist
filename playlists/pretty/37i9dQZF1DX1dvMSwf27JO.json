@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ft Erykah Badu and Usher front row at Marni. ",
-  "num_followers": 525818,
+  "num_followers": 525884,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjZkOWI1NjRmM2YyYmNjY2I0ODE2ZTFmZjc4YzIxMjgyMDY2N2E2",
+  "snapshot_id": "MCw1Nzg0OWUzYjUyN2E5OTNiNDBmYTFhMzE5MWEwZDc4NDQ2Yjk4N2Y3",
   "tracks": [
     {
       "added_at": "2023-10-04 04:00:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "FAMJAM4000",
+      "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "Midnight Marauders",
         "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 226440,
       "name": "Award Tour (feat. Trugoy The Dove)",
       "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "FAMJAM4000",
-      "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Heaven To A Tortured Mind",
-        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 106102,
-      "name": "Romanticist",
-      "url": "https://open.spotify.com/track/3nRhH5u3TE6HtvBH6mNwzY"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "going...going...GONE!",
         "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 133200,
       "name": "girlfriend",
       "url": "https://open.spotify.com/track/7qkNf6D661jZI9yNqw27LA"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Heaven To A Tortured Mind",
+        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 106102,
+      "name": "Romanticist",
+      "url": "https://open.spotify.com/track/3nRhH5u3TE6HtvBH6mNwzY"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "Toronto Funhouse",
+        "url": "https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV"
+      },
+      "artists": [
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 120693,
+      "name": "Toronto Funhouse",
+      "url": "https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "girls like me don't cry (remix) ft. MIN",
         "url": "https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 213283,
       "name": "girls like me don't cry (remix) ft. MIN",
       "url": "https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "Toronto Funhouse",
-        "url": "https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV"
-      },
-      "artists": [
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 120693,
-      "name": "Toronto Funhouse",
-      "url": "https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Leak 04-13 (Bait Ones)",
-        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 56880,
-      "name": "chix - Unfinished",
-      "url": "https://open.spotify.com/track/7JZHO1HF2XIIWcPVh0uzlC"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "For My Own Sake",
         "url": "https://open.spotify.com/album/32qrX9uorcYSQkd8P6iE7M"
       },
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 56880,
+      "name": "chix - Unfinished",
+      "url": "https://open.spotify.com/track/7JZHO1HF2XIIWcPVh0uzlC"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "HEATWAVE",
         "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 219833,
       "name": "THE BOTTOM",
       "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "Once Twice Melody",
-        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "New Romance",
-      "url": "https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "Once Twice Melody",
+        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "New Romance",
+      "url": "https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "For Granted",
         "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
       },
@@ -1199,6 +1199,26 @@
       "duration_ms": 161946,
       "name": "For Granted",
       "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "SBTRKT (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Roses Gabor",
+          "url": "https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r"
+        }
+      ],
+      "duration_ms": 218146,
+      "name": "Pharaohs",
+      "url": "https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -1223,22 +1243,18 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "SBTRKT (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
+        "name": "MOVIES! WORLDWIDE: PART I",
+        "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
       },
       "artists": [
         {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        },
-        {
-          "name": "Roses Gabor",
-          "url": "https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r"
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
         }
       ],
-      "duration_ms": 218146,
-      "name": "Pharaohs",
-      "url": "https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY"
+      "duration_ms": 132903,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -1287,22 +1303,6 @@
       "duration_ms": 246733,
       "name": "NICE OUT",
       "url": "https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "MOVIES! WORLDWIDE: PART I",
-        "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 132903,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Leave It Alone",
-        "url": "https://open.spotify.com/album/73lqd2LyJKLOasSDBdgLH2"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        },
-        {
-          "name": "Tyler Mann",
-          "url": "https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz"
-        }
-      ],
-      "duration_ms": 171111,
-      "name": "Leave It Alone",
-      "url": "https://open.spotify.com/track/0r5Z0wgmOYDWHnhN4f8DtV"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 209108,
       "name": "Closure",
       "url": "https://open.spotify.com/track/5tir4dUwLnKYd1rr0zLiGR"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Leave It Alone",
+        "url": "https://open.spotify.com/album/73lqd2LyJKLOasSDBdgLH2"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Tyler Mann",
+          "url": "https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz"
+        }
+      ],
+      "duration_ms": 171111,
+      "name": "Leave It Alone",
+      "url": "https://open.spotify.com/track/0r5Z0wgmOYDWHnhN4f8DtV"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "VIRGINIA CREEPER",
+        "url": "https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "VIRGINIA CREEPER",
+      "url": "https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "CRYING AROUND AND IN COLOR",
         "url": "https://open.spotify.com/album/47qEHOZkmbSDXiN1oVa6UN"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 67768,
       "name": "UDANCE?",
       "url": "https://open.spotify.com/track/4S5sRziA27r5N3bi5dvMyD"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "VIRGINIA CREEPER",
-        "url": "https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 172307,
-      "name": "VIRGINIA CREEPER",
-      "url": "https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A"
     },
     {
       "added_at": "2023-10-04 04:00:00",

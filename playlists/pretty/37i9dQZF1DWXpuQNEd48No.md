@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala & Raftaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,636 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,770 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 47 | [Mcoca](https://open.spotify.com/track/1xbltijhuDs1FqqnBplv8l) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Mcoca](https://open.spotify.com/album/1LTxGYiIFEo8KzqpEkJKS1) | 3:13 |
 | 48 | [AAHO](https://open.spotify.com/track/33LN6U5oQa8bHh03oqxajL) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [AAHO](https://open.spotify.com/album/3tP7d652s8J8TitZHGGnZx) | 4:12 |
 | 49 | [Flirt](https://open.spotify.com/track/4K6jf2Pu26P6VbsLdOZP7e) | [MD](https://open.spotify.com/artist/2DAFnKypr3QcXMZZjHnFtx), [KD](https://open.spotify.com/artist/4F4MEZmjiBwcqNa4bTT6PD) | [Flirt](https://open.spotify.com/album/1bJEz7lupCxXDH2g6e65tN) | 4:47 |
-| 50 | [Haryana Roadways](https://open.spotify.com/track/3zhGKnKeYa3f71ndZomZqn) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX) | [Haryana Roadways](https://open.spotify.com/album/4UoqnEe3bNT8RyULI2Z8iW) | 3:08 |
+| 50 | [Jaat Warriors](https://open.spotify.com/track/6oWxnsiYG5bj2tqhDcdlRY) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/0XMUkwivt9uRvZtVhrSk4J) | 2:43 |
 
-Snapshot ID: `MCxmZWNiNDRmZWM2ZmUxM2NjNTBlNTNjM2RhYmMyZDJmMDE3Y2FjOTIw`
+Snapshot ID: `MCxkMTA2MTJhMjMyNDJmYjA4YjkxYmExOWRlOTgyYzdjYWQxZjlhMjgy`

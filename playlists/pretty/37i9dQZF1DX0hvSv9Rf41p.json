@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with GRiZ",
-  "num_followers": 976203,
+  "num_followers": 976267,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2RjOTA4M2EyYjA1ZmVhODliY2U5MDFhNWY0YmY4ZDQ3YzM1ZTk1",
+  "snapshot_id": "MCw5Y2QyMGYzOGM0MjFkZDQzMTU1ODY0Zjk0MjI1N2Q0NDdmMzI1NDlj",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -507,22 +507,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "I Found You",
-        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
         },
         {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "L\u00f8 Spirit",
+          "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
         }
       ],
-      "duration_ms": 176548,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
+      "duration_ms": 240000,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -547,26 +551,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd"
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
       },
       "artists": [
         {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
         },
         {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "L\u00f8 Spirit",
-          "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
+      "duration_ms": 176548,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -927,6 +927,30 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Skull Machine",
+        "url": "https://open.spotify.com/album/4N45nvS8gGoJ9kRxnBnk6J"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "Skull Machine",
+      "url": "https://open.spotify.com/track/5ScWfZGzV29Pr9dk7gLl95"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Summer Of Saigon",
         "url": "https://open.spotify.com/album/770o01vMAudjvaj6TzBnMO"
       },
@@ -1039,30 +1063,6 @@
       "duration_ms": 209341,
       "name": "Glow In The Dark",
       "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Skull Machine",
-        "url": "https://open.spotify.com/album/4N45nvS8gGoJ9kRxnBnk6J"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "Wasiu",
-          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "Skull Machine",
-      "url": "https://open.spotify.com/track/5ScWfZGzV29Pr9dk7gLl95"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        }
+      ],
+      "duration_ms": 140196,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/0WBKJgbjqaNdw2AqHQWuvf"
       },
@@ -1207,18 +1223,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
+        "name": "Die With It",
+        "url": "https://open.spotify.com/album/6uwEBRSWF2VwW6SUmGnhpW"
       },
       "artists": [
         {
-          "name": "Saint Punk",
-          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+          "name": "Azide",
+          "url": "https://open.spotify.com/artist/0jZCd5FFBIaaiXlIJX6I9h"
+        },
+        {
+          "name": "J Swey",
+          "url": "https://open.spotify.com/artist/7qF6NAMsPdmVz0o8n5v1Ht"
         }
       ],
-      "duration_ms": 140196,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
+      "duration_ms": 139500,
+      "name": "Die With It",
+      "url": "https://open.spotify.com/track/3ZDuop6M6asvg8zae32PVz"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1247,26 +1267,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Die With It",
-        "url": "https://open.spotify.com/album/6uwEBRSWF2VwW6SUmGnhpW"
-      },
-      "artists": [
-        {
-          "name": "Azide",
-          "url": "https://open.spotify.com/artist/0jZCd5FFBIaaiXlIJX6I9h"
-        },
-        {
-          "name": "J Swey",
-          "url": "https://open.spotify.com/artist/7qF6NAMsPdmVz0o8n5v1Ht"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Die With It",
-      "url": "https://open.spotify.com/track/3ZDuop6M6asvg8zae32PVz"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Grenade",
         "url": "https://open.spotify.com/album/5ByIux1mE8VfB072JtjUWL"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 248147,
       "name": "Grenade",
       "url": "https://open.spotify.com/track/4tRDqT9CZtUGnjGAJNVqaQ"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Your Lovin'",
+        "url": "https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7"
+      },
+      "artists": [
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "duration_ms": 219718,
+      "name": "Your Lovin'",
+      "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1323,38 +1339,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "DREAMING",
-        "url": "https://open.spotify.com/album/4j4lXlRPk0dcQZl8UqMorB"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "DREAMING",
-      "url": "https://open.spotify.com/track/1XmNeOPvxlWupeok8TzNvm"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Your Lovin'",
-        "url": "https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7"
-      },
-      "artists": [
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        }
-      ],
-      "duration_ms": 219718,
-      "name": "Your Lovin'",
-      "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Bring It Back (Spencer Ramsay Remix)",
         "url": "https://open.spotify.com/album/2JVhngo2MEV6euWD4HqLZ7"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 125851,
       "name": "Bring It Back (Spencer Ramsay Remix)",
       "url": "https://open.spotify.com/track/558wlAeGGjLBB1cua3OpSh"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "DREAMING",
+        "url": "https://open.spotify.com/album/4j4lXlRPk0dcQZl8UqMorB"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "DREAMING",
+      "url": "https://open.spotify.com/track/1XmNeOPvxlWupeok8TzNvm"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "dontstopme!",
+      "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "HOLLOW WORLD",
         "url": "https://open.spotify.com/album/1X7hgRvsPzxBrc0Q3HC719"
       },
@@ -1435,6 +1451,26 @@
       "duration_ms": 225600,
       "name": "Paper Moon",
       "url": "https://open.spotify.com/track/0QkLyxDS85ZsgqMazrhOMK"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Falling Over You",
+        "url": "https://open.spotify.com/album/7jaDlEf11uQpPoA5ITFETL"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        },
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Falling Over You",
+      "url": "https://open.spotify.com/track/50QFmuvuRizsHUoTRgmky6"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1563,26 +1599,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Of Two Minds",
-        "url": "https://open.spotify.com/album/3WfUE3XbaPkBOkRF3wTYMy"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Rhode",
-          "url": "https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi"
-        }
-      ],
-      "duration_ms": 279069,
-      "name": "Of Two Minds",
-      "url": "https://open.spotify.com/track/7Btth4NK0ICZC9DjYZPxgg"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Play With You",
         "url": "https://open.spotify.com/album/2cRHpoN1heCtuKIHHxwo8w"
       },
@@ -1599,6 +1615,26 @@
       "duration_ms": 214005,
       "name": "Take Your Throne",
       "url": "https://open.spotify.com/track/6hZ9RASHR1lgLRtRjjjhDn"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Of Two Minds",
+        "url": "https://open.spotify.com/album/3WfUE3XbaPkBOkRF3wTYMy"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Rhode",
+          "url": "https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi"
+        }
+      ],
+      "duration_ms": 279069,
+      "name": "Of Two Minds",
+      "url": "https://open.spotify.com/track/7Btth4NK0ICZC9DjYZPxgg"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1655,42 +1691,6 @@
       "duration_ms": 291000,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/6gNxFvK5yLL0uWCNQdP7GB"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "kidsgonemad!",
-        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "dontstopme!",
-      "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Falling Over You",
-        "url": "https://open.spotify.com/album/7jaDlEf11uQpPoA5ITFETL"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        },
-        {
-          "name": "Lucille Croft",
-          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "Falling Over You",
-      "url": "https://open.spotify.com/track/50QFmuvuRizsHUoTRgmky6"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "I Like It When You Move",
-        "url": "https://open.spotify.com/album/5aYHM8eo8umIePZGEDE3d3"
-      },
-      "artists": [
-        {
-          "name": "Mersiv",
-          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
-        }
-      ],
-      "duration_ms": 182896,
-      "name": "I Like It When You Move",
-      "url": "https://open.spotify.com/track/3LSzSHeK2RdMiznjXVTqJ2"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/4nDapjSoCGVjrUHJP85pLp"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 240428,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/75eUZ1Em0I86W4RbBL8EZV"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "I Like It When You Move",
+        "url": "https://open.spotify.com/album/5aYHM8eo8umIePZGEDE3d3"
+      },
+      "artists": [
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        }
+      ],
+      "duration_ms": 182896,
+      "name": "I Like It When You Move",
+      "url": "https://open.spotify.com/track/3LSzSHeK2RdMiznjXVTqJ2"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1915,22 +1915,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Bassline",
-        "url": "https://open.spotify.com/album/4NQardSGvLWdwHLJwSHZm3"
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
       },
       "artists": [
         {
-          "name": "Super Future",
-          "url": "https://open.spotify.com/artist/6Xri2X6xp5SDLr08hva6Bb"
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
         },
         {
-          "name": "Wreckno",
-          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
         }
       ],
-      "duration_ms": 254117,
-      "name": "Bassline",
-      "url": "https://open.spotify.com/track/1ZIglHDIFjtMiFV2VItzPg"
+      "duration_ms": 208941,
+      "name": "SHYPOP",
+      "url": "https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1951,22 +1951,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Mothership",
-        "url": "https://open.spotify.com/album/7bQMFsjUNd7QTMA6z8kHJE"
+        "name": "Bassline",
+        "url": "https://open.spotify.com/album/4NQardSGvLWdwHLJwSHZm3"
       },
       "artists": [
         {
-          "name": "F.O.O.L",
-          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+          "name": "Super Future",
+          "url": "https://open.spotify.com/artist/6Xri2X6xp5SDLr08hva6Bb"
         },
         {
-          "name": "SKUM",
-          "url": "https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z"
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
         }
       ],
-      "duration_ms": 243844,
-      "name": "Mothership",
-      "url": "https://open.spotify.com/track/4RcndKiQfqi78jtR3x7acx"
+      "duration_ms": 254117,
+      "name": "Bassline",
+      "url": "https://open.spotify.com/track/1ZIglHDIFjtMiFV2VItzPg"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1983,6 +1983,26 @@
       "duration_ms": 219428,
       "name": "Witchcraft",
       "url": "https://open.spotify.com/track/562XrisoThlh0IP3Gid2vb"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Mothership",
+        "url": "https://open.spotify.com/album/7bQMFsjUNd7QTMA6z8kHJE"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        },
+        {
+          "name": "SKUM",
+          "url": "https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z"
+        }
+      ],
+      "duration_ms": 243844,
+      "name": "Mothership",
+      "url": "https://open.spotify.com/track/4RcndKiQfqi78jtR3x7acx"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2019,22 +2039,6 @@
       "duration_ms": 136615,
       "name": "Sylky",
       "url": "https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/5Na2qPre4PeDr7b9byYF7M"
-      },
-      "artists": [
-        {
-          "name": "Hermitude",
-          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
-        }
-      ],
-      "duration_ms": 194076,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/4kwL1llo15KnxK4SuX5Vrv"
     }
   ],
   "unique_name": "Bass Arcade",

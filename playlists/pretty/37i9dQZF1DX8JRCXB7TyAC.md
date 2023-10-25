@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,206 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,352 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 59 | [Raosahab](https://open.spotify.com/track/1OkSGjNN37znjSZd7LwrzB) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX) | [Raosahab](https://open.spotify.com/album/64V6bH51CIBl9GLaxipZHK) | 2:52 |
 | 60 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 |
 
-Snapshot ID: `MCxiZjZlMzg2NDQ3MzU4ZDU4ZmYyMjQxNzQ2OTUxZDg0ZmVjYWFmN2Nm`
+Snapshot ID: `MCxiNzIyOTVmODBhYzAyOGZiYTI2OGFiOGUwNTQ2ZDM2OTc4Mzk2YjQ3`

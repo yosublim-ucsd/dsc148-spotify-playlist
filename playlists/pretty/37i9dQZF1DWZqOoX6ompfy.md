@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqOoX6ompfy.md) - [plain]
 
 > Your crush begins here, with the Malaysian pop artist's intimate vocals and the lush production of her most memorable tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,432 likes - 91 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,442 likes - 90 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,19 +85,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqOoX6ompfy.md) - [plain]
 | 75 | [Empty Room \- Sofi Tukker Remix](https://open.spotify.com/track/2g5u6IsOCEuwMBoQcP07wG) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Empty Room](https://open.spotify.com/album/6SJFvWHnjFWBRdEKxT3l7s) | 2:31 |
 | 76 | [Langit](https://open.spotify.com/track/6znALQgiLf17IIfCsRDkxy) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Langit \(Single\)](https://open.spotify.com/album/4iBiPGE1fOxJ3lAGtTld8x) | 3:44 |
 | 77 | [Island](https://open.spotify.com/track/1OerJEsQx82DtYL2VoZXUp) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Yuna](https://open.spotify.com/album/6gUQcNP5JKqs4fKCZVzHDg) | 4:10 |
-| 78 | [I Want You Back](https://open.spotify.com/track/6arq2bSoU7HJQZjk1IRz9U) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Nocturnal \(Deluxe Edition\)](https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt) | 3:32 |
-| 79 | [Coffee](https://open.spotify.com/track/6OVTzggJbGZRNJj7gjj0It) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Decorate](https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8) | 2:51 |
-| 80 | [Young](https://open.spotify.com/track/4gm6Wt1RPjxUObbW4RJk5m) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sixth Street EP](https://open.spotify.com/album/2bhurBsj5WhPEiptH0HXt0) | 3:12 |
-| 81 | [Lautan](https://open.spotify.com/track/5Ggl1nIAbq8DhsfZAkwx7L) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Lautan](https://open.spotify.com/album/0rTLWi37ESBVwKI2qwhQbF) | 4:32 |
-| 82 | [Pulang](https://open.spotify.com/track/2FlD3k6jV8ylgvh1ocMHmB) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [Pulang](https://open.spotify.com/album/74CtUACIorbi85uLiLXv14) | 3:21 |
-| 83 | [Someone Out Of Town](https://open.spotify.com/track/5arSLsu32pb7Kr8oNPydH7) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Decorate](https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8) | 3:00 |
-| 84 | [Right Again](https://open.spotify.com/track/0bAVgtlPYLBJZsRf8sI9jO) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sixth Street EP](https://open.spotify.com/album/2bhurBsj5WhPEiptH0HXt0) | 3:22 |
-| 85 | [Blank Marquee](https://open.spotify.com/track/4Ipmi2u1eQ45RaYk4Rl512) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Blank Marquee](https://open.spotify.com/album/5d2TPnMOde0tUIfzDZwAcr) | 3:40 |
-| 86 | [Baby Boy \(feat\. Yuna\)](https://open.spotify.com/track/2iQNtCDgx4oEhUBo8c5df4) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Baby Boy \(feat\. Yuna\)](https://open.spotify.com/album/52WULnV3arSE5JwhAhe3XV) | 3:34 |
-| 87 | [Someone Who Can](https://open.spotify.com/track/3njmCkSeyIwe6rNjxL27tM) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Nocturnal \(Deluxe Edition\)](https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt) | 3:47 |
-| 88 | [Gelora Jiwa](https://open.spotify.com/track/5L6GF1QgRVb7Ox1aTFdQ7B) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [P\. Ramlee : Satu Indiepretasi](https://open.spotify.com/album/3n3dlojrdjl8clhx3dT5lH) | 2:40 |
-| 89 | [Shine Your Way](https://open.spotify.com/track/6xV6bjb0E7qdY6s1RVVr4t) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [The Croods \(Music from the Motion Picture\)](https://open.spotify.com/album/0qCghphBMTxX8cttxnWGXI) | 3:27 |
-| 90 | [Lovely Intermission](https://open.spotify.com/track/22x0bKTXXitdbfuZUdhAAc) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Nocturnal \(Deluxe Edition\)](https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt) | 3:55 |
-| 91 | [Fears And Frustrations](https://open.spotify.com/track/6w9QevT88poB77qNzwy4LN) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Decorate](https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8) | 4:34 |
+| 78 | [Coffee](https://open.spotify.com/track/6OVTzggJbGZRNJj7gjj0It) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Decorate](https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8) | 2:51 |
+| 79 | [Young](https://open.spotify.com/track/4gm6Wt1RPjxUObbW4RJk5m) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sixth Street EP](https://open.spotify.com/album/2bhurBsj5WhPEiptH0HXt0) | 3:12 |
+| 80 | [Lautan](https://open.spotify.com/track/5Ggl1nIAbq8DhsfZAkwx7L) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Lautan](https://open.spotify.com/album/0rTLWi37ESBVwKI2qwhQbF) | 4:32 |
+| 81 | [Pulang](https://open.spotify.com/track/2FlD3k6jV8ylgvh1ocMHmB) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [Pulang](https://open.spotify.com/album/74CtUACIorbi85uLiLXv14) | 3:21 |
+| 82 | [Someone Out Of Town](https://open.spotify.com/track/5arSLsu32pb7Kr8oNPydH7) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Decorate](https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8) | 3:00 |
+| 83 | [Right Again](https://open.spotify.com/track/0bAVgtlPYLBJZsRf8sI9jO) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sixth Street EP](https://open.spotify.com/album/2bhurBsj5WhPEiptH0HXt0) | 3:22 |
+| 84 | [Blank Marquee](https://open.spotify.com/track/4Ipmi2u1eQ45RaYk4Rl512) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Blank Marquee](https://open.spotify.com/album/5d2TPnMOde0tUIfzDZwAcr) | 3:40 |
+| 85 | [Baby Boy \(feat\. Yuna\)](https://open.spotify.com/track/2iQNtCDgx4oEhUBo8c5df4) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Baby Boy \(feat\. Yuna\)](https://open.spotify.com/album/52WULnV3arSE5JwhAhe3XV) | 3:34 |
+| 86 | [Someone Who Can](https://open.spotify.com/track/3njmCkSeyIwe6rNjxL27tM) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Nocturnal \(Deluxe Edition\)](https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt) | 3:47 |
+| 87 | [Gelora Jiwa](https://open.spotify.com/track/5L6GF1QgRVb7Ox1aTFdQ7B) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [P\. Ramlee : Satu Indiepretasi](https://open.spotify.com/album/3n3dlojrdjl8clhx3dT5lH) | 2:40 |
+| 88 | [Shine Your Way](https://open.spotify.com/track/6xV6bjb0E7qdY6s1RVVr4t) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [The Croods \(Music from the Motion Picture\)](https://open.spotify.com/album/0qCghphBMTxX8cttxnWGXI) | 3:27 |
+| 89 | [Lovely Intermission](https://open.spotify.com/track/22x0bKTXXitdbfuZUdhAAc) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Nocturnal \(Deluxe Edition\)](https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt) | 3:55 |
+| 90 | [Fears And Frustrations](https://open.spotify.com/track/6w9QevT88poB77qNzwy4LN) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Decorate](https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8) | 4:34 |
 
-Snapshot ID: `MCwzNjQ1ZTYxMTU1ZjY0MTgyZDlhYWNjODY0ODM5ZWNiMDY2MzZmYmFh`
+Snapshot ID: `MCw4NDM3NGRjZTNmMzVmMGQ1OTkyYTBlY2FkM2FlNWU4NzFhOTllZWMz`

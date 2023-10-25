@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: Azawi
 
-176 songs - 9 hr 7 min
+177 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,9 +69,10 @@
 | [Geza Bugeza](https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Geza Bugeza](https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P) | 2:20 | 2023-01-12 | 2023-06-12 |
 | [Geza Bugeza](https://open.spotify.com/track/5fZzENyrqSsaxlUdMEjYpH) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Chronicles Of A Woman](https://open.spotify.com/album/3aZbRfKKvhnPtuYgaEdxSD) | 2:20 | 2023-01-12 | 2023-01-21 |
 | [Glory To The King](https://open.spotify.com/track/5hjIkgoGSlKlip1L0t3FyL) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Glory To The King](https://open.spotify.com/album/0mY2R7zCQYE4pzgymyWuJ2) | 2:30 | 2023-03-03 | 2023-04-05 |
+| [Gukuba](https://open.spotify.com/track/17rKr1FfnEDzA1LfyoAZqx) | [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6), [Vyroota](https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R) | [Gukuba](https://open.spotify.com/album/2sGJOLxu38C9Fzin1iwB8z) | 2:52 | 2023-10-20 |  |
 | [Gwookya](https://open.spotify.com/track/3DtERsS1lSUwcCV4MZHIdF) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Gwookya](https://open.spotify.com/album/08qkq3hZAmP91oAuQHxnXg) | 2:41 | 2022-07-29 | 2022-10-26 |
 | [Hey](https://open.spotify.com/track/5xUqCEP8fRDq1EBJb5IJC6) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Hey](https://open.spotify.com/album/6NDwf4CASUqLMn55RoslsR) | 2:47 | 2022-09-30 | 2022-12-01 |
-| [I Do](https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [I Do](https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj) | 3:08 | 2022-07-22 |  |
+| [I Do](https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [I Do](https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj) | 3:08 | 2022-07-22 | 2023-10-25 |
 | [I Need Your Love](https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [I Need Your Love](https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb) | 2:49 | 2022-05-27 | 2022-11-22 |
 | [It's OK](https://open.spotify.com/track/6SBSTfARlJBhsRfM2PyZv9) | [Uthman Music](https://open.spotify.com/artist/7buCEVAcbogrYQk2ygdJtz) | [It's OK](https://open.spotify.com/album/4PWYKui3UPV0qKRErAh8qX) | 1:09 | 2022-05-12 | 2022-10-08 |
 | [Kampala](https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Kampala](https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG) | 3:09 | 2022-09-01 | 2023-04-18 |

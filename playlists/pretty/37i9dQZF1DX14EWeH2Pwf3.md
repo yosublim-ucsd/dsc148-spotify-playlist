@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Slings, Bello Figo
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,779 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,234 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [TAXI SULLA LUNA](https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [TAXI SULLA LUNA](https://open.spotify.com/album/1Q2gs2NTXULiFqwCiv5JdG) | 2:23 |
 | 50 | [FINCHÉ NON ARRIVA LA BELLA VITA](https://open.spotify.com/track/3UAqmfO3U40eRAM8Cy8dbR) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ASPETTANDO LA BELLA VITA \- Before and After](https://open.spotify.com/album/2Ai4mlifU1ng53CBXc93L5) | 2:00 |
 
-Snapshot ID: `MCxhNDM4OTI2ZjcwOTVjYmVhODU1MmQwYmM3YzMwMzUwMGM0NDZkZGYz`
+Snapshot ID: `MCxkZTQ2NjVhODZjYTY3MTQwMTc0MmNhMjE3ODdhYjJkZDI3MWE4MjNk`

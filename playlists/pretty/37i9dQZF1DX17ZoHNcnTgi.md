@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 
 > Una unión que no sabrás olvidar\. Escucha la Fusión entre José Alfredo y Silvana Estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,813 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,888 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 | 40 | [Amanecé](https://open.spotify.com/track/2Pg72BWgJl3DJwXbhKxKx0) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [This Is Gozar \(Timbiquí Edition\)](https://open.spotify.com/album/1i121pfST9yfvgNSWnt07m) | 4:55 |
 | 41 | [Si Me Comprendieras](https://open.spotify.com/track/1LsJ6CihB1X4nnsdYjQzzf) | [José Antonio Mendez](https://open.spotify.com/artist/6H86gCQqtt9URO8GmYdhdX) | [Si Me Comprendieras](https://open.spotify.com/album/3UUaw8f5kgt8YcviM66sJt) | 3:10 |
 | 42 | [Veracruz](https://open.spotify.com/track/74wCVAy23zlSs39EP2A4u4) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Lo Mejor De...](https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP) | 2:47 |
-| 43 | [Ven](https://open.spotify.com/track/7lNybkl7h3byaFgxyxlLlk) | [Augusto Bracho](https://open.spotify.com/artist/0Z0ejdbAK7ng0JvbFzMUbT) | [Música Moderna](https://open.spotify.com/album/5W39t1f0HhfZZOiLQZIMd1) | 5:08 |
-| 44 | [Fallaste corazón](https://open.spotify.com/track/4aqT7emPTdp0lPhbMMMzRT) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Por Siempre](https://open.spotify.com/album/0eU0VNeD4aSjjaTeyBrlyT) | 4:22 |
+| 43 | [Fallaste corazón](https://open.spotify.com/track/4aqT7emPTdp0lPhbMMMzRT) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Por Siempre](https://open.spotify.com/album/0eU0VNeD4aSjjaTeyBrlyT) | 4:22 |
+| 44 | [Ven](https://open.spotify.com/track/7lNybkl7h3byaFgxyxlLlk) | [Augusto Bracho](https://open.spotify.com/artist/0Z0ejdbAK7ng0JvbFzMUbT) | [Música Moderna](https://open.spotify.com/album/5W39t1f0HhfZZOiLQZIMd1) | 5:08 |
 | 45 | [Si me pudieras querer](https://open.spotify.com/track/0BcLzcWBhWR3MowpcxhYEa) | [Bola De Nieve](https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ) | [Tata Cunengue](https://open.spotify.com/album/19YWaxyv6kEH1ozuh5V17V) | 2:50 |
 | 46 | [Fiesta Jiliana](https://open.spotify.com/track/0vkynltobiUGnyikvqr05w) | [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy) | [Flamenco\. Mausoleo de Celebración, Amor y Muerte](https://open.spotify.com/album/7EK2WnHyZAH02Rfu6MEOIg) | 4:00 |
 | 47 | [Defensa De Violeta](https://open.spotify.com/track/7rK6SMGudpGhD3MurXJXsy) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Homenaje A Violeta Parra](https://open.spotify.com/album/36yAwraxsgTgpguSVpHnHd) | 4:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 | 49 | [Aquellos ojos verdes](https://open.spotify.com/track/0ZZMqV6o9wgDyrrnsMwKUm) | [Bola De Nieve](https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ) | [La flor de la canela](https://open.spotify.com/album/40feN08wkMH0KNZZoCpT36) | 3:09 |
 | 50 | [En nosotros](https://open.spotify.com/track/0ltvkhMeu0NFLJqbmOBtWs) | [Bola De Nieve](https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ) | [La flor de la canela](https://open.spotify.com/album/40feN08wkMH0KNZZoCpT36) | 2:38 |
 
-Snapshot ID: `MCxlNTM5MDQ2ZjI0MzZjODlhYzNmY2YzNzVhOTE0MGU5ODc3NTBmOTdm`
+Snapshot ID: `MCxjOWUyMjFkNmIyYzgxZDY4MDRiZmU5YjkwNzEzZjBiMjgyYzMzZmVj`

@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-451 songs - 1 day 3 hr 3 min
+452 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Closer To The Sky](https://open.spotify.com/track/1pf8bjnKw5SgtfSvINI0Kt) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [A War On Everything](https://open.spotify.com/album/3XI6zViavQ6b7uTwdKGeWc) | 3:26 | 2022-04-22 | 2022-05-03 |
 | [Color \- Remastered](https://open.spotify.com/track/2HNnYRJIlsM1JHn1Nq8qU7) | [Finish Ticket](https://open.spotify.com/artist/3RthMq3xfDQZl80cMEg1JQ) | [When Night Becomes Day](https://open.spotify.com/album/1yz3tI7TG1fpTIzBzW1mud) | 4:10 | 2020-06-29 | 2022-06-12 |
 | [Colourblind](https://open.spotify.com/track/52oNoF4urZYTJFbmbZ6JI6) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Dissonants](https://open.spotify.com/album/2rwZyMtlv2x2o8vv1nQSia) | 3:42 | 2020-06-29 | 2022-02-26 |
+| [Come Around](https://open.spotify.com/track/3NKqvNqe04e1HeZUHjqTk8) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust?](https://open.spotify.com/album/1olq0CPrq1TGwmjVtrMtMb) | 3:30 | 2023-02-09 |  |
 | [Come Around](https://open.spotify.com/track/6Mf8ozEDo35UcgKgKajrBY) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust?](https://open.spotify.com/album/4o6vvGb6VGYz725fP45kAx) | 3:30 | 2020-06-29 | 2023-08-31 |
 | [Could Have Been Me](https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:07 | 2020-06-29 |  |
 | [Crazy](https://open.spotify.com/track/31xmybhg0i4lxMIn45aVq4) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [The Future](https://open.spotify.com/album/6GZ97OMabP41rOzXqzTROC) | 3:05 | 2020-06-29 | 2022-02-26 |
@@ -176,7 +177,7 @@
 | [Here We Come](https://open.spotify.com/track/6eOMDqSNqaDpeGCptJXajB) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL), [OTTO BLUE](https://open.spotify.com/artist/0wCVIpaF36VvTjQ4zWuZKX) | [Here We Come](https://open.spotify.com/album/7bf6O0wTvI8u5XGWS45o5T) | 3:12 | 2022-07-15 | 2022-07-29 |
 | [Hesitations](https://open.spotify.com/track/2ulg6v1K4pj8Pf6xzNAZGi) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 3:37 | 2022-04-22 | 2022-05-21 |
 | [Highway Tune](https://open.spotify.com/track/7JuD5r43XpRLSrUBRBQ7Dy) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Black Smoke Rising](https://open.spotify.com/album/23lA1QsNgeWOsMy0OlFRWC) | 3:01 | 2020-06-29 | 2022-02-24 |
-| [Hills Have Eyes](https://open.spotify.com/track/3HUB8GPbaGpIpjRoONLJP4) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Hills Have Eyes](https://open.spotify.com/album/1h7CsqmCV5QFpLJKWwoUY8) | 2:10 | 2021-02-10 |  |
+| [Hills Have Eyes](https://open.spotify.com/track/3HUB8GPbaGpIpjRoONLJP4) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Hills Have Eyes](https://open.spotify.com/album/1h7CsqmCV5QFpLJKWwoUY8) | 2:10 | 2021-02-10 | 2023-10-25 |
 | [Hollow Life](https://open.spotify.com/track/6Uaz0UV4y7EPdviYUDWwlu) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Hollow Life](https://open.spotify.com/album/01OIyyATPrl5QWeSNErI4l) | 3:57 | 2020-06-29 | 2022-04-21 |
 | [Hollow Life](https://open.spotify.com/track/2dq863fgcwToMdBxaPlyyT) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:57 | 2022-07-28 | 2022-08-24 |
 | [hollywood sucks//](https://open.spotify.com/track/4jYd4edE6RjDUm27rHFERQ) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 2:33 | 2022-04-22 | 2022-05-21 |

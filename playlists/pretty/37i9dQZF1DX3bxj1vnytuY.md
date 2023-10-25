@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,728 likes - 100 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,812 likes - 100 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 10 | [Kick Up The Dust](https://open.spotify.com/track/4pdR5VBU2TNVHukEEPNlqR) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Kick Up The Dust](https://open.spotify.com/album/5lHCAmlJ6o5CxYIRrydi2b) | 4:35 |
 | 11 | [Shelter of Hearts](https://open.spotify.com/track/59tv27hHZZMiBsXfVuwrMA) | [GMJ](https://open.spotify.com/artist/2jtEP3ZWQNoXeWQvjF86xU), [Matter](https://open.spotify.com/artist/477uzVK10OHa3NS2KXbnTh) | [Shelter of Hearts](https://open.spotify.com/album/1NgvZDLBodIcqEIxOdpjF8) | 7:58 |
 | 12 | [Sahara](https://open.spotify.com/track/0kpdD6AqC6dU06Ce9IELXB) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI) | [Sahara](https://open.spotify.com/album/0sVzf6cIeYhtwExwfvYeN8) | 2:04 |
-| 13 | [Raga](https://open.spotify.com/track/3uyd4cW7ukADr3iSjFIy5G) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [Yahya](https://open.spotify.com/artist/5ZFlQjYVg2YdyeXIVJKSiX) | [Raga](https://open.spotify.com/album/6B3R0opCJ5a87ZiC1FVckf) | 3:21 |
+| 13 | [Raga](https://open.spotify.com/track/3uyd4cW7ukADr3iSjFIy5G) | [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [Yahya](https://open.spotify.com/artist/5ZFlQjYVg2YdyeXIVJKSiX) | [Raga](https://open.spotify.com/album/6B3R0opCJ5a87ZiC1FVckf) | 3:21 |
 | 14 | [Maneyama](https://open.spotify.com/track/3iqXIZ2kihfbHNfFJJYzI2) | [ReqTeq](https://open.spotify.com/artist/0F0tiuO58aU8k6KORsYrnv), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Maneyama](https://open.spotify.com/album/5f6gUbbRKSt16q6zJIWe9L) | 4:40 |
 | 15 | [Carthage \- Radio Edit](https://open.spotify.com/track/25X66oOlwm9z6bPRAfs4mW) | [HunterSynth](https://open.spotify.com/artist/3Age3mMsN1JeN7csgZ4BQU), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Carthage \(Radio Edit\)](https://open.spotify.com/album/0nyPhA6JpZjzhBXvyGU4ZG) | 3:36 |
 | 16 | [Hey Mama \- FNX Omar Remix](https://open.spotify.com/track/2WNclxC7xlgeSTuAzkqnkP) | [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [Check B](https://open.spotify.com/artist/0BeTRkc0TGmIpxz93vrJak), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Hey Mama Remixes](https://open.spotify.com/album/6Xk6fRqgbcRPDcKvnDqX2d) | 6:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Devran](https://open.spotify.com/track/1Br0AatwWHo8JojDNAVMWq) | [KHAIKHAN](https://open.spotify.com/artist/0EhNqmWsXRucbAgAKfac75), [Mtu](https://open.spotify.com/artist/6Ex7C22f4WX3VqVRNriiXf) | [Anadolu](https://open.spotify.com/album/5Sj7kUvO8nrmWbQDFv71MV) | 6:47 |
 | 100 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 |
 
-Snapshot ID: `MCxjMGI3MzI0MGQ0YzEyMTJjODAwYmZhYWY4ZjM3MmY2MDVjZGIzMWEz`
+Snapshot ID: `MCwxMzNhZWQ1MTFmOGFlN2U1NzY1Y2RkY2VmYjNkZWJiMDRlYTA4ZmYx`

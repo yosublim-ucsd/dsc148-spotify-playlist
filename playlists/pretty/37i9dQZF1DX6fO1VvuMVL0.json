@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 62182,
+  "num_followers": 62246,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjY4OGIxZWI4NzdjYzc0MjdjYWJhN2I4NGRmOTg2MTY0Nzk0Yzlk",
+  "snapshot_id": "MCxmNWZiMzU0MDc4MzE1YzcyYjA4ZTc3ZDQ1YTQ0MmE0MDZmZmZjYTUw",
   "tracks": [
     {
       "added_at": "2023-09-13 10:58:25",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-09-13 10:58:25",
       "album": {
+        "name": "Lennie Tristano / The New Tristano",
+        "url": "https://open.spotify.com/album/1NONihvQGQ4aVVV956pGH9"
+      },
+      "artists": [
+        {
+          "name": "Lennie Tristano",
+          "url": "https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e"
+        }
+      ],
+      "duration_ms": 365840,
+      "name": "Ghost of a Chance",
+      "url": "https://open.spotify.com/track/5vTBSWHl0qXtM1980R2pVM"
+    },
+    {
+      "added_at": "2023-09-13 10:58:25",
+      "album": {
         "name": "Lester Young With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4LT6FAMWGSf3qpPn3Wdyh1"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 208468,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/5uQkJU8FDt9srkxKfKRiBN"
-    },
-    {
-      "added_at": "2023-09-13 10:58:25",
-      "album": {
-        "name": "Lennie Tristano / The New Tristano",
-        "url": "https://open.spotify.com/album/1NONihvQGQ4aVVV956pGH9"
-      },
-      "artists": [
-        {
-          "name": "Lennie Tristano",
-          "url": "https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e"
-        }
-      ],
-      "duration_ms": 365840,
-      "name": "Ghost of a Chance",
-      "url": "https://open.spotify.com/track/5vTBSWHl0qXtM1980R2pVM"
     },
     {
       "added_at": "2023-09-13 10:58:25",

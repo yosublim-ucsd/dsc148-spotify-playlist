@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > The best dance and electronic songs in the MENA region\. Cover: Alan Walker, Sophie Stray & Zena Emad
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,961 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,992 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 49 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 |
 | 50 | [Bel Ahlam \(Remix\)](https://open.spotify.com/track/5jonBF1ctoQZ3vkaTN5VIv) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM) | [Bel Ahlam \(Remix\)](https://open.spotify.com/album/7F8KwU004mAZFkyAzzK4qc) | 3:22 |
 
-Snapshot ID: `MCw2NzM2ZTI4ZjRlM2JjYjliZTA3N2M5YmFmOGE0MDNkOTM3MjJjYjgw`
+Snapshot ID: `MCxjODdlYmYxNmUwNWRlZmVhOWExYjk1ODk3YTI0Njk0OWM5ZjllZTY5`

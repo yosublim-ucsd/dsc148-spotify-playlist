@@ -4,12 +4,13 @@
 
 > Artists that have challenged norms and pushed culture forward.
 
-54 songs - 3 hr 46 min
+55 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\*\*\*Flawless \(feat\. Chimamanda Ngozi Adichie\)](https://open.spotify.com/track/7tefUew2RUuSAqHyegMoY1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Chimamanda Ngozi Adichie](https://open.spotify.com/artist/2jmAsMZ9hdMfeyCLiBeCzI) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 4:10 | 2019-10-17 |  |
-| [1400 / 999 Freestyle](https://open.spotify.com/track/75lcPkAkUsKWHGBlGM476R) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [A Love Letter To You 3](https://open.spotify.com/album/6qRbGZqJ3aQY8N8bcHc1ug) | 2:55 | 2019-10-17 |  |
+| [1400 / 999 Freestyle](https://open.spotify.com/track/75lcPkAkUsKWHGBlGM476R) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [A Love Letter To You 3](https://open.spotify.com/album/6qRbGZqJ3aQY8N8bcHc1ug) | 2:55 | 2019-10-17 | 2023-10-25 |
+| [1400 / 999 Freestyle \(feat\. Juice WRLD\)](https://open.spotify.com/track/0axBgt9y0GvMCLuRl2xBKG) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [A Love Letter To You 3](https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna) | 2:55 | 2019-10-17 |  |
 | [Antidote](https://open.spotify.com/track/1wHZx0LgzFHyeIZkUydNXq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 4:22 | 2019-10-17 |  |
 | [Aquemini](https://open.spotify.com/track/4V3N5LvUOh3yDPP16cwAhE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 5:19 | 2019-10-17 |  |
 | [Army of Me](https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:54 | 2019-10-17 |  |

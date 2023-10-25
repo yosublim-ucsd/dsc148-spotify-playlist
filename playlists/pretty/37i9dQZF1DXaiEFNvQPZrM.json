@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 716844,
+  "num_followers": 717015,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjI2NzlkZWVlYzM2NWMzMWZhOWJkNzM4ZGZhMjQ2ZGJlOTI2M2E3",
+  "snapshot_id": "MCxlZTQzNzQzY2M0YWM2MWQwZWJlZWM4MzBlMWFiYjhmY2IzMGJjMjU0",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "The Deana Carter Collection",
-        "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
+        "name": "I Still Believe In You",
+        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
       },
       "artists": [
         {
-          "name": "Deana Carter",
-          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 290466,
-      "name": "Strawberry Wine",
-      "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
+      "duration_ms": 191200,
+      "name": "One More Last Chance",
+      "url": "https://open.spotify.com/track/2h5a6t9JFasqH5WJFPbmGL"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "I Still Believe In You",
-        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
+        "name": "The Deana Carter Collection",
+        "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
       },
       "artists": [
         {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+          "name": "Deana Carter",
+          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
         }
       ],
-      "duration_ms": 191200,
-      "name": "One More Last Chance",
-      "url": "https://open.spotify.com/track/2h5a6t9JFasqH5WJFPbmGL"
+      "duration_ms": 290466,
+      "name": "Strawberry Wine",
+      "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Outlaws Like Me",
+        "url": "https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "duration_ms": 223280,
+      "name": "If Heaven Wasn't So Far Away",
+      "url": "https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Cab In A Solo",
         "url": "https://open.spotify.com/album/24vM6kihi4Hm94KOyvqZBW"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 228733,
       "name": "Livin' On Love",
       "url": "https://open.spotify.com/track/26iYJEimPCE0ozDlpj0UFN"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Outlaws Like Me",
-        "url": "https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq"
-      },
-      "artists": [
-        {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        }
-      ],
-      "duration_ms": 223280,
-      "name": "If Heaven Wasn't So Far Away",
-      "url": "https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn"
     },
     {
       "added_at": "2023-09-08 04:00:00",

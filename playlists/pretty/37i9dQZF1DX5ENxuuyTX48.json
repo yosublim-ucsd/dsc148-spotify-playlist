@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW!  BERCHANDYA! Cover: Assia Keva",
-  "num_followers": 16605,
+  "num_followers": 16624,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTc1ZDI3Y2YxOWQ5MTEzYzgyZjczM2NjZTk4MThhM2I2NDBhODgx",
+  "snapshot_id": "MCxmZTY3M2JiNjI5MjQ5NDk2MzM0Y2YwNzdmNjg5NWJhNmJiNmM4OWU2",
   "tracks": [
     {
       "added_at": "2023-10-19 17:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-10-19 17:00:00",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc"
-      },
-      "artists": [
-        {
-          "name": "Putri Ariani",
-          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N"
-    },
-    {
-      "added_at": "2023-10-19 17:00:00",
-      "album": {
         "name": "when it all ends HERE",
         "url": "https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2023-10-19 17:00:00",
       "album": {
-        "name": "Manusia",
-        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc"
       },
       "artists": [
         {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+          "name": "Putri Ariani",
+          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Diri",
-      "url": "https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U"
+      "duration_ms": 181000,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N"
     },
     {
       "added_at": "2023-10-19 17:00:00",
@@ -611,6 +595,22 @@
       "duration_ms": 220945,
       "name": "Bersamamu",
       "url": "https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ"
+    },
+    {
+      "added_at": "2023-10-19 17:00:00",
+      "album": {
+        "name": "Manusia",
+        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Diri",
+      "url": "https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U"
     },
     {
       "added_at": "2023-10-19 17:00:00",

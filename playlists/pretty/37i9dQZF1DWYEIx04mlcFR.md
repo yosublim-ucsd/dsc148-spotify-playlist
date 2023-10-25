@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > La nueva ola de artistas con Robot95 & Bruses en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,480 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,598 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 27 | [ENNI](https://open.spotify.com/track/1pQMCRRfUWhPlDCtZrMvsh) | [Cray Dalton](https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl) | [ENNI](https://open.spotify.com/album/0BXBqwBYsHsoi2locHuJuc) | 3:15 |
 | 28 | [El Cable](https://open.spotify.com/track/1UZQtIbMg0jxgiulIadYpU) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [El Cable](https://open.spotify.com/album/0sxMSSA5KNAIpwGN1UJI3j) | 2:57 |
 | 29 | [Gitana \(feat\. Jeis, Pao Alvarado & Charly Romero\)](https://open.spotify.com/track/36sCyXGpgGVkiPaTObxvVT) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Yung Dupe](https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3), [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0), [Charly Romero](https://open.spotify.com/artist/6fnfIkbG8zBq4ZKKnvHGhx), [Jeis](https://open.spotify.com/artist/48AZRfn6TdspMxXToat0WB), [Pao Alvarado](https://open.spotify.com/artist/0fDaJzTT0WTIYVyIkjqpB4) | [El Morro Que Hace Música](https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3) | 3:57 |
-| 30 | [Rosa Pastel](https://open.spotify.com/track/5JAQUTIpKkbccoFiJlYrV0) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Rosa Pastel](https://open.spotify.com/album/3iwukaTIs0irnTqui1vtnk) | 2:56 |
-| 31 | [SUFICIENTEPUNTOWAV](https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [1UNAMORSUPREMO](https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP) | 4:00 |
+| 30 | [SUFICIENTEPUNTOWAV](https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [1UNAMORSUPREMO](https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP) | 4:00 |
+| 31 | [Rosa Pastel](https://open.spotify.com/track/5JAQUTIpKkbccoFiJlYrV0) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Rosa Pastel](https://open.spotify.com/album/3iwukaTIs0irnTqui1vtnk) | 2:56 |
 | 32 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 |
 | 33 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
 | 34 | [Me Caga Tu Novia](https://open.spotify.com/track/1xBFsxUw84BMgEClaw09z4) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Me Caga Tu Novia](https://open.spotify.com/album/2uPxcGS41IV2ZH9ie4JWov) | 2:50 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 60 | [Inhabitable](https://open.spotify.com/track/1ni6rSyO6nAa10fL8R08Pb) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Inhabitable](https://open.spotify.com/album/3UKwGcVshIk7d3n7M4nfAG) | 2:47 |
 | 61 | [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 |
 | 62 | [LO QUE PASÓ UNA VEZ](https://open.spotify.com/track/3DEuPFTumozG70UjBuZDTL) | [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [LO QUE PASÓ UNA VEZ](https://open.spotify.com/album/46AiJ3b8zW1Mg7L8oZHf8t) | 2:30 |
-| 63 | [Llamadas Vacías](https://open.spotify.com/track/1yL2B3kWqmpC5cDISZB5EO) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Llamadas Vacías](https://open.spotify.com/album/1q7GW6BI9MzTLjwQbtje3n) | 2:23 |
-| 64 | [Tengo Que Hacer Esto Por Mi](https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Tengo Que Hacer Esto Por Mí](https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg) | 2:30 |
+| 63 | [Tengo Que Hacer Esto Por Mi](https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Tengo Que Hacer Esto Por Mí](https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg) | 2:30 |
+| 64 | [Llamadas Vacías](https://open.spotify.com/track/1yL2B3kWqmpC5cDISZB5EO) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Llamadas Vacías](https://open.spotify.com/album/1q7GW6BI9MzTLjwQbtje3n) | 2:23 |
 | 65 | [Yo Sé \(Aceptación\)](https://open.spotify.com/track/0P0WYN6UXKIKs3JRidiXEW) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Yo Sé \(Aceptación\)](https://open.spotify.com/album/0bIoDg1vbxAO6MqGKcbbmV) | 3:02 |
 | 66 | [cansada de verte en todas partes](https://open.spotify.com/track/09uBE5fjZUWZfjD2ensCGR) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [cansada de verte en todas partes](https://open.spotify.com/album/2xpnndjYm4cHc3f207UNXf) | 2:50 |
 | 67 | [Es Tan Bonita](https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Es Tan Bonita](https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY) | 2:39 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 69 | [nikes azules](https://open.spotify.com/track/4dhUtf8F9cIynSoavVG6u7) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [nikes azules](https://open.spotify.com/album/3DggDzjA8fjU3sEuys7NqG) | 2:53 |
 | 70 | [Bonita](https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Bonita](https://open.spotify.com/album/4ZDmqaDuuRIRKG8e05LzuT) | 2:54 |
 | 71 | [Despejao](https://open.spotify.com/track/0FgZOpqfzeuaogejdUrcfR) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Retrofuturismo](https://open.spotify.com/album/195qXbTqKUcqkIJnddV2yK) | 2:46 |
-| 72 | [lalalala](https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [lalalala](https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex) | 4:04 |
-| 73 | [Azul](https://open.spotify.com/track/4REs7jIplREVkIfXaNjUzJ) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Azul](https://open.spotify.com/album/6VgL4TQPE0jfvuCGWgUMut) | 4:10 |
-| 74 | [Duérmete Clavel](https://open.spotify.com/track/6VZKzU8Gv14NXuSoEP404g) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [CLAR%SCURO](https://open.spotify.com/album/27oMHySev9yNNTbME6hAJL) | 4:42 |
+| 72 | [Duérmete Clavel](https://open.spotify.com/track/6VZKzU8Gv14NXuSoEP404g) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [CLAR%SCURO](https://open.spotify.com/album/27oMHySev9yNNTbME6hAJL) | 4:42 |
+| 73 | [lalalala](https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [lalalala](https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex) | 4:04 |
+| 74 | [Azul](https://open.spotify.com/track/4REs7jIplREVkIfXaNjUzJ) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Azul](https://open.spotify.com/album/6VgL4TQPE0jfvuCGWgUMut) | 4:10 |
 | 75 | [Estar Mejor](https://open.spotify.com/track/2xeJX1c4Eel2pS7abE3PBZ) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [Estar Mejor](https://open.spotify.com/album/0MxWi4WRhsfE2p2lMdGCac) | 3:28 |
 
-Snapshot ID: `MCw5OWY5NDlmODg4NDRhZjBjMDk0NzZlYmYwNjMyZTk3MDYyNGIzMTVm`
+Snapshot ID: `MCw3YjRiMTkyMGZmZDIxNmMxZjA5YWE2OTQ3NjQyOWUxNmE0ZTlmZTBh`

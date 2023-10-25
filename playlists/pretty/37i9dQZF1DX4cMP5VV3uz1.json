@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 140600,
+  "num_followers": 140733,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWYzYjNjZWM0OTFlMDlmNDg3ZjhkOGQzOWY1YzgxNTk5Y2M5ODhi",
+  "snapshot_id": "MCwzYjU2NGVlOWI4NWIxZWFmNzdlM2MzNjliNTQ3ZTIyODYxYjVjNDcw",
   "tracks": [
     {
       "added_at": "2023-10-20 09:26:23",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
+        "name": "Tour",
+        "url": "https://open.spotify.com/album/1fPMAtqc8DOwCSLIVb98xv"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 289371,
+      "name": "Tour",
+      "url": "https://open.spotify.com/track/1Mze7crzF9BWo82DiAsmjj"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
         "name": "Oh Baby (feat. bshp & Issey Cross)",
         "url": "https://open.spotify.com/album/7oXgMepNUWPk1dN6MpDn2C"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 148236,
       "name": "Oh Baby (feat. bshp & Issey Cross)",
       "url": "https://open.spotify.com/track/2F0dCzhF9W1tcXwXu99m28"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
-        "name": "Tour",
-        "url": "https://open.spotify.com/album/1fPMAtqc8DOwCSLIVb98xv"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 289371,
-      "name": "Tour",
-      "url": "https://open.spotify.com/track/1Mze7crzF9BWo82DiAsmjj"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        }
+      ],
+      "duration_ms": 226916,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
         "name": "None Of Us Are Getting Out Of This Life Alive",
         "url": "https://open.spotify.com/album/4hEKRyUeVXejefnsvKYERB"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 186824,
       "name": "Take Me As I Am",
       "url": "https://open.spotify.com/track/5UjccMIJkNhont0TGSU0iD"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
-      },
-      "artists": [
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        }
-      ],
-      "duration_ms": 226916,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
+        "name": "We'll Be Alright EP",
+        "url": "https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Daga Da",
+      "url": "https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
         "name": "Downers (Rework)",
         "url": "https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 181689,
       "name": "Downers - Rework",
       "url": "https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
-        "name": "We'll Be Alright EP",
-        "url": "https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Daga Da",
-      "url": "https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
+        "name": "Lazers Not Included",
+        "url": "https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        }
+      ],
+      "duration_ms": 287241,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
         "name": "Drops Remixes",
         "url": "https://open.spotify.com/album/6WkDq5hrKzwxDY4fdgjFEq"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 262628,
       "name": "Drops - Kanine Remix",
       "url": "https://open.spotify.com/track/3okcBYUuR2VRbygL9kYb5k"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
-        "name": "Lazers Not Included",
-        "url": "https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB"
-      },
-      "artists": [
-        {
-          "name": "Wilkinson",
-          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
-        }
-      ],
-      "duration_ms": 287241,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP"
     },
     {
       "added_at": "2023-10-20 09:26:23",

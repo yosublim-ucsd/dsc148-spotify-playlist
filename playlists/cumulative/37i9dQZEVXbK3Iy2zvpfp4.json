@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "2 Handys",
+        "url": "https://open.spotify.com/album/6rhIP92F4rmlNk32Lzlxtt"
+      },
+      "artists": [
+        {
+          "name": "Gola Gianni",
+          "url": "https://open.spotify.com/artist/1ldsuiSBiF9jsLQJape3e6"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139130,
+      "name": "2 Handys",
+      "url": "https://open.spotify.com/track/0mth0U5dtI4Fwmc3RrAERn"
+    },
+    {
+      "album": {
         "name": "2000X",
         "url": "https://open.spotify.com/album/3hSuLnaYB9HBgCfX2ApgYo"
       },
@@ -1254,6 +1272,24 @@
       "duration_ms": 101321,
       "name": "ALORS BRAZIL",
       "url": "https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"
+    },
+    {
+      "album": {
+        "name": "Already Over",
+        "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160640,
+      "name": "Already Over",
+      "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
     },
     {
       "album": {
@@ -3464,7 +3500,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 143048,
       "name": "Bompary",
       "url": "https://open.spotify.com/track/4vkVjum7t9ShIuO4GmzRSJ"
@@ -3904,7 +3940,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 123692,
       "name": "Broken Trust",
       "url": "https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte"
@@ -5574,6 +5610,36 @@
       "duration_ms": 129522,
       "name": "Dance For Me (1, 2, 3)",
       "url": "https://open.spotify.com/track/2Gjo6E7ZemzmLzNUMRg6ac"
+    },
+    {
+      "album": {
+        "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
+        "url": "https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "Lyente",
+          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
+        },
+        {
+          "name": "Quinten Circle",
+          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147895,
+      "name": "Dance For Me (1, 2, 3) - Stutter Techno",
+      "url": "https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8"
     },
     {
       "album": {
@@ -9285,6 +9351,28 @@
     },
     {
       "album": {
+        "name": "GODS",
+        "url": "https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220878,
+      "name": "GODS",
+      "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
+    },
+    {
+      "album": {
         "name": "GOLDEN HILL",
         "url": "https://open.spotify.com/album/0DWMvuqLHUPrSlP8eLbvlJ"
       },
@@ -11050,7 +11138,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 145438,
       "name": "i am not who i was",
       "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
@@ -11622,6 +11710,28 @@
       "duration_ms": 156600,
       "name": "Idegen",
       "url": "https://open.spotify.com/track/35LInpwVpTlTBSMraEOjeY"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260111,
+      "name": "IDGAF (feat. Yeat)",
+      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
       "album": {
@@ -12206,6 +12316,32 @@
       "duration_ms": 240250,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
+    },
+    {
+      "album": {
+        "name": "It's That Time (Dimension Remix)",
+        "url": "https://open.spotify.com/album/1jf13J2HTGFllbhJH5Pozr"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "It's That Time - Dimension Remix",
+      "url": "https://open.spotify.com/track/76x1mIsCz46excW50sehDt"
     },
     {
       "album": {
@@ -12922,7 +13058,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 266614,
       "name": "KDO SOU",
       "url": "https://open.spotify.com/track/49gIkpUuDCQztZPg849Jbl"
@@ -16260,6 +16396,24 @@
     {
       "album": {
         "name": "Montagem Coral",
+        "url": "https://open.spotify.com/album/6RfEECBJXORJnhJNdVB4mN"
+      },
+      "artists": [
+        {
+          "name": "flux.beats",
+          "url": "https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143759,
+      "name": "Montagem Coral",
+      "url": "https://open.spotify.com/track/3cE1cyAdPmv5Eq5ZBaQmYV"
+    },
+    {
+      "album": {
+        "name": "Montagem Coral",
         "url": "https://open.spotify.com/album/3u9YkCaYo544roaesI591t"
       },
       "artists": [
@@ -16706,7 +16860,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 236999,
       "name": "My Gasoline",
       "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
@@ -18380,7 +18534,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 137778,
       "name": "older",
       "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
@@ -20108,7 +20262,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -21865,6 +22019,28 @@
     },
     {
       "album": {
+        "name": "Same Old Song",
+        "url": "https://open.spotify.com/album/5iqxmTQSlUKzkU5SKRidQa"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        },
+        {
+          "name": "HARLEE",
+          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/1b1U08Eqbx8f0QYyPTzqcU"
+    },
+    {
+      "album": {
         "name": "Samo mi se spava",
         "url": "https://open.spotify.com/album/2lChE0kdOhcD7p6U0e8RVc"
       },
@@ -22912,7 +23088,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 61094,
       "name": "Skibidi Toilet - Sped Up",
       "url": "https://open.spotify.com/track/0Vs4GfZBgKiu8Omm7BBdeO"
@@ -24778,7 +24954,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 114626,
       "name": "Tacata",
       "url": "https://open.spotify.com/track/3HVePjHJWt5uI9HtHgV4aM"
@@ -28719,6 +28895,24 @@
     },
     {
       "album": {
+        "name": "JENNIE Special Single [You & Me]",
+        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179164,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
+    },
+    {
+      "album": {
         "name": "You & Me",
         "url": "https://open.spotify.com/album/2Beq4oZ4hFHDCkboDgI5Jn"
       },
@@ -29148,7 +29342,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 165961,
       "name": "zn\u00e1my stav",
       "url": "https://open.spotify.com/track/4TbCXey1YnsUKwRHRsEB11"
@@ -29426,7 +29620,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 134000,
       "name": "\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u0430\u044f \u043b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/4Xy8Puv18tPae91K8rxZt1"

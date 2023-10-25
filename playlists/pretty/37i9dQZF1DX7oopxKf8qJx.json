@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 74459,
+  "num_followers": 74563,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWMwOWFkMWM0MWNjNDRmMWQxMTkxNWZhZDYwMWMzNzIwZDRiMzFi",
+  "snapshot_id": "MCw4MTgxMDE4OGEzODBjYWYzMmE3N2ZmZDg2MTQ3N2U0OTE0YjAzYzU4",
   "tracks": [
     {
       "added_at": "2023-09-01 09:29:43",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
-        "name": "A Band Is Born",
-        "url": "https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU"
+        "name": "Hatari!",
+        "url": "https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ"
       },
       "artists": [
         {
-          "name": "Billy May",
-          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         }
       ],
-      "duration_ms": 205173,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55"
+      "duration_ms": 203493,
+      "name": "Night Side",
+      "url": "https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu"
     },
     {
       "added_at": "2023-09-01 09:29:43",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
-        "name": "Hatari!",
-        "url": "https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ"
+        "name": "A Band Is Born",
+        "url": "https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU"
       },
       "artists": [
         {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+          "name": "Billy May",
+          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
         }
       ],
-      "duration_ms": 203493,
-      "name": "Night Side",
-      "url": "https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu"
+      "duration_ms": 205173,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55"
     },
     {
       "added_at": "2023-09-01 09:29:43",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
-        "name": "Charade",
-        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Megeve",
-      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
-    },
-    {
-      "added_at": "2023-09-01 09:29:43",
-      "album": {
         "name": "Champagne, Candlelight And Kisses",
         "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 222786,
       "name": "Theme From \"Bus Stop\"",
       "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
+    },
+    {
+      "added_at": "2023-09-01 09:29:43",
+      "album": {
+        "name": "Charade",
+        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Megeve",
+      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
     },
     {
       "added_at": "2023-09-01 09:29:43",

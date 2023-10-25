@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-181 songs - 9 hr 24 min
+182 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [All I Need](https://open.spotify.com/track/5ed3H9JNDRtTomjDegQUOI) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [All I Need](https://open.spotify.com/album/1ZnoaQUOjszDsLOUvNycts) | 3:16 | 2021-12-01 |  |
 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 | 2021-12-01 |  |
 | [Already](https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:57 | 2021-12-01 |  |
-| [Baby Choppa](https://open.spotify.com/track/3oQfAuWO64dSVo2JYfdK3x) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [Free Me](https://open.spotify.com/album/3XC5zlSkJyspgDKUImnahR) | 2:24 | 2021-12-01 |  |
+| [Baby Choppa](https://open.spotify.com/track/2oR601lE6D3Jrl0vT0Mhct) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [Free Me](https://open.spotify.com/album/3CZb7LkapC9PW8rQjedVBd) | 2:24 | 2021-12-01 |  |
+| [Baby Choppa](https://open.spotify.com/track/3oQfAuWO64dSVo2JYfdK3x) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [Free Me](https://open.spotify.com/album/3XC5zlSkJyspgDKUImnahR) | 2:24 | 2021-12-01 | 2023-10-25 |
 | [Baby Choppa](https://open.spotify.com/track/7H5lveJYjj2X4GWjiuPYnM) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [Baby Choppa](https://open.spotify.com/album/5ubvyUwyLff5nuJmN6N7Qw) | 2:24 | 2021-12-01 | 2022-11-13 |
 | [babyur2nice](https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [Avian](https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY) | 2:00 | 2021-12-01 |  |
 | [BACC WEST](https://open.spotify.com/track/4NPMw50wQZHINMjzGYs4xr) | [YSB Eli](https://open.spotify.com/artist/1oWGd65mQ43qogAn2pFQhM) | [BACC WEST](https://open.spotify.com/album/2bdeXHX9b5bE8KiuSdqdlt) | 2:28 | 2021-12-01 |  |

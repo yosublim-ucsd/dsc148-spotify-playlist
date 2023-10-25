@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,349 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,361 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 52 | [La Lista](https://open.spotify.com/track/50EiIhBL4GnkHFMPeDAeiV) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [La Lista](https://open.spotify.com/album/0mAXjJLsLQJwRWb34DkUoM) | 3:44 |
 | 53 | [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 |
 | 54 | [Desorden](https://open.spotify.com/track/3vEK8aeuI9hC8yLbqm0L1n) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Desorden](https://open.spotify.com/album/1HZq5pIum2fq1cU6CeiCYs) | 3:26 |
-| 55 | [Boca Boca](https://open.spotify.com/track/1GvDIXN7AxrtoTjrxg8hR2) | [Daniela Calle](https://open.spotify.com/artist/7KpsVPUvyYUhwQaUCVNYZX) | [Boca Boca](https://open.spotify.com/album/66cnlRnSTxKP5MYPFvAoSm) | 2:31 |
+| 55 | [Boca a Boca](https://open.spotify.com/track/1GvDIXN7AxrtoTjrxg8hR2) | [Daniela Calle](https://open.spotify.com/artist/7KpsVPUvyYUhwQaUCVNYZX) | [Boca a Boca](https://open.spotify.com/album/66cnlRnSTxKP5MYPFvAoSm) | 2:31 |
 | 56 | [Niño Malo](https://open.spotify.com/track/6hRqkPeDGXuAwrGQM8762U) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Niño Malo](https://open.spotify.com/album/1p8UdHGoSNCDmPip8MdRCP) | 2:26 |
 | 57 | [Chimbiando](https://open.spotify.com/track/2JuzL1lCVol7VJaKn8WnCn) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Chimbiando](https://open.spotify.com/album/7crWoBYWALhKVmqFF3Bx22) | 2:37 |
 | 58 | [Mango](https://open.spotify.com/track/79G1dnpn0pmR9iHJGnEG4t) | [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY) | [Mango](https://open.spotify.com/album/3VtGC8Q0En82YrnV8LhsEG) | 2:59 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 69 | [Track 001](https://open.spotify.com/track/1vYa4X5IWUNj96pqGyA7Ck) | [Vera Delacruz](https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt) | [Track 001](https://open.spotify.com/album/4d6T4rYs3jZZRMCRLWl8oi) | 3:07 |
 | 70 | [De Pie Es La Lucha](https://open.spotify.com/track/5Gag8UscRudKeuAIOK9srO) | [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25) | [The Vibraphone is Back](https://open.spotify.com/album/6eLC0XQ6OEOUyGuiDLQ0ZA) | 3:33 |
 
-Snapshot ID: `MCxkY2RmOWFmODAxMDhjZTExYTM3ZWEyN2U1MDZmZWQwYmJhNGVkNDUx`
+Snapshot ID: `MCwzOWZkY2UzYjJmNmMwYjkwNjNkNWE2NzQyNDdkYmMxZDFlNmE5Yjkx`

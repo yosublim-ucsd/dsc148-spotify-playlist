@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,703 likes - 93 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,892 likes - 93 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 34 | [Fragile](https://open.spotify.com/track/0GtinxtEBaIfjQ3MeZmBSD) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [Fragile](https://open.spotify.com/album/633ITRU98vaPptgSFYcmG6) | 2:21 |
 | 35 | [Under Paris Skies](https://open.spotify.com/track/1IT59rLa3oUTJ3FF9sOUAc) | [The Paris Musette](https://open.spotify.com/artist/1hoGDUIieScxaFnv587nv0) | [Café Francaise](https://open.spotify.com/album/0F60JZbxQ3gBazKp1Z8OPh) | 2:08 |
 | 36 | [L'indifférence](https://open.spotify.com/track/0pkL7GfHF6iyAdyQujyRnK) | [Les Sales Gosses](https://open.spotify.com/artist/3ysjzjJYSYv6Rp4j2Buspn) | [La Vie En Rose](https://open.spotify.com/album/3OG7njGt1Efjfyy1T1wwEs) | 2:30 |
-| 37 | [Alone](https://open.spotify.com/track/4Q0HA7QYunPrVYTuLyDj1J) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Incandessence](https://open.spotify.com/album/35Gdl9xS5pYQcxbz4V1Dgn) | 3:30 |
-| 38 | [Bistro Fada](https://open.spotify.com/track/08T5wMbEnPN8ghT8o24KY6) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Bistro Fada](https://open.spotify.com/album/6lT35xJDhO7Ao5TOLfKsqZ) | 3:02 |
-| 39 | [Bei Dir war es immer so schön](https://open.spotify.com/track/6l3FR8oM1vScye1lyIxUjN) | [George Laffitte](https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP) | [La Javanaise](https://open.spotify.com/album/1DdH3YQO9vGj4v75Lll1Uy) | 3:51 |
-| 40 | [Padam...Padam...](https://open.spotify.com/track/2xQmDo3CrD1s5npI3bWYqu) | [Jacques Ferchit](https://open.spotify.com/artist/2IJGeegMtg1oHYYXT6frrO) | [Paris\-accordeon](https://open.spotify.com/album/2xRxJSYzFSSpFYLHw6QVbD) | 2:38 |
-| 41 | [Reve d'accordeonist](https://open.spotify.com/track/1Lz7wiD9KaBS7zptRQJbWk) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 2:52 |
-| 42 | [Djangology](https://open.spotify.com/track/3dIl8SxXJTggnKIMozYRqi) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 2:37 |
-| 43 | [Boum Musette](https://open.spotify.com/track/7wBDJL7T1pSzwpfm5fzqjt) | [Joss Baselli](https://open.spotify.com/artist/2Goh2SVD0hBxz9qMrtBTkt) | [Presenting Joss Baselli](https://open.spotify.com/album/2ztegz9DBfyvvD1ArFsOwe) | 2:25 |
-| 44 | [Sensibilité musette](https://open.spotify.com/track/23c4owlvn3O72bWlHx1Kb5) | [S\. Methot](https://open.spotify.com/artist/4lOTDWfZfMZXrFZvSkVyyj) | [Ambiance Musette pour danser \(1 heure special dance non stop\)](https://open.spotify.com/album/0k1oqRUt0ayrqDn1R6xGas) | 2:22 |
+| 37 | [Bistro Fada](https://open.spotify.com/track/08T5wMbEnPN8ghT8o24KY6) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Bistro Fada](https://open.spotify.com/album/6lT35xJDhO7Ao5TOLfKsqZ) | 3:02 |
+| 38 | [Bei Dir war es immer so schön](https://open.spotify.com/track/6l3FR8oM1vScye1lyIxUjN) | [George Laffitte](https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP) | [La Javanaise](https://open.spotify.com/album/1DdH3YQO9vGj4v75Lll1Uy) | 3:51 |
+| 39 | [Padam...Padam...](https://open.spotify.com/track/2xQmDo3CrD1s5npI3bWYqu) | [Jacques Ferchit](https://open.spotify.com/artist/2IJGeegMtg1oHYYXT6frrO) | [Paris\-accordeon](https://open.spotify.com/album/2xRxJSYzFSSpFYLHw6QVbD) | 2:38 |
+| 40 | [Reve d'accordeonist](https://open.spotify.com/track/1Lz7wiD9KaBS7zptRQJbWk) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 2:52 |
+| 41 | [Djangology](https://open.spotify.com/track/3dIl8SxXJTggnKIMozYRqi) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 2:37 |
+| 42 | [Boum Musette](https://open.spotify.com/track/7wBDJL7T1pSzwpfm5fzqjt) | [Joss Baselli](https://open.spotify.com/artist/2Goh2SVD0hBxz9qMrtBTkt) | [Presenting Joss Baselli](https://open.spotify.com/album/2ztegz9DBfyvvD1ArFsOwe) | 2:25 |
+| 43 | [Sensibilité musette](https://open.spotify.com/track/23c4owlvn3O72bWlHx1Kb5) | [S\. Methot](https://open.spotify.com/artist/4lOTDWfZfMZXrFZvSkVyyj) | [Ambiance Musette pour danser \(1 heure special dance non stop\)](https://open.spotify.com/album/0k1oqRUt0ayrqDn1R6xGas) | 2:22 |
+| 44 | [Alone](https://open.spotify.com/track/4Q0HA7QYunPrVYTuLyDj1J) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Incandessence](https://open.spotify.com/album/35Gdl9xS5pYQcxbz4V1Dgn) | 3:30 |
 | 45 | [Swing Suspens](https://open.spotify.com/track/5EDDKBAMxFDvG3f7D6v93l) | [Marcel Loeffler](https://open.spotify.com/artist/0DglDT7eUNaSWf99w39e2m) | [Source Manouche](https://open.spotify.com/album/3mf1RSVpwCZZmDaY9nmN1o) | 3:23 |
 | 46 | [Thé Pour Deux](https://open.spotify.com/track/3zztM5yPmJFkX7vktaaa8F) | [Quintet de Jazz Parisien](https://open.spotify.com/artist/5jjAtTkp5UsT9PQyGfFOwO) | [Thé Pour Deux](https://open.spotify.com/album/43iVIfU4pgIheRuYzPbuqE) | 4:18 |
 | 47 | [Valse Therese](https://open.spotify.com/track/0fHU9X4xzibSUdMj084Opd) | [Mediterranean Café Society](https://open.spotify.com/artist/2fJ85pakgR26MQXGfE24gL) | [Mediterranean Café: Music of Italy, Greece and Spain](https://open.spotify.com/album/3gGZP9CROPsrqJpzaBK2Dc) | 2:05 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 92 | [Les rues de Paris](https://open.spotify.com/track/2Z706066GiPx7nVpQrVLqU) | [Stefano Corradi](https://open.spotify.com/artist/4KnatJMl9LPIdRUSQsYION), [Gian Pietro Marazza](https://open.spotify.com/artist/2tgYUszDncWLQhwJzSSfVX), [Luca Garlaschell](https://open.spotify.com/artist/4uHfosVwJmQAuFyXngLoPo) | [Love Routes \(Romantic Accordion Ballads in Rome\)](https://open.spotify.com/album/3lEXZx6W90Y1WjkWILQwaB) | 2:08 |
 | 93 | [Valse Des Niglos](https://open.spotify.com/track/0lHWKbBlhz3uzdFN5GGOT8) | [Jo Privat](https://open.spotify.com/artist/7wWbbQYVV7AVROYT3sMVoA) | [Minor Swing](https://open.spotify.com/album/5hdK38PRwYdBhdBuyGyZDF) | 2:22 |
 
-Snapshot ID: `MCxlZjc5ZjZhZDRjMTk4YTU4ZWI4OGVlOTZlYzdhNGMxYmEwMjlhY2Mz`
+Snapshot ID: `MCxhNjM5YTU3Yjg3MjIxZjQ1NDY0ZjYzZTRmYTE1Mjc2ZDYzMzQ0MGFk`

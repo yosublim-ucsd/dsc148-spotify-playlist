@@ -4,7 +4,7 @@
 
 > Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.
 
-58 songs - 4 hr 3 min
+59 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Duele](https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Duele](https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk) | 3:17 | 2022-06-30 |  |
 | [Each Time I Think of You](https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF) | [Beach Planet Vol\. 1](https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp) | 6:24 | 2022-06-07 |  |
 | [El Alma y el Cuerpo](https://open.spotify.com/track/39NuHXNW3SBW7ME4A1N0y8) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Elegancia Tropical](https://open.spotify.com/album/0tR3iN3sdyxAHcP66cB68F) | 5:01 | 2022-06-07 |  |
+| [El Plan \- Cyma Remix](https://open.spotify.com/track/3DE5UpRmIHUtQFqvpqKAZg) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn), [Cyma](https://open.spotify.com/artist/33Hfr8ZfUeyyZWdpsEtisn) | [El Plan \(Cyma Remix\)](https://open.spotify.com/album/5FVy4b9t6CmmErI8kpFqmG) | 3:57 | 2023-10-24 |  |
 | [El Tiempo \(Captain Planet Remix\)](https://open.spotify.com/track/4c5nygEjIwHZSgAFPVXfiJ) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [El Tiempo \(Captain Planet Remix\)](https://open.spotify.com/album/4wlMcrq2ebIypk1FPwm94l) | 3:43 | 2023-05-24 |  |
 | [Elelu Tomassita](https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [El Baile de las Arañas](https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw) | 6:44 | 2022-06-07 |  |
 | [Epico](https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Sera El Sol \(Mixed\)](https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR) | 3:07 | 2022-11-12 |  |
@@ -52,7 +53,7 @@
 | [Ojos Negros](https://open.spotify.com/track/1vRVJLRaCKiCdTRcfQmDNG) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W), [YoSoyMatt](https://open.spotify.com/artist/5ZsRHRaOpGEYw9rjJECXR6) | [Ojos Negros](https://open.spotify.com/album/2TQo6pKbGNMHD8G2NmrhQe) | 3:44 | 2022-06-07 |  |
 | [Pandemia](https://open.spotify.com/track/4kpldaItXUwR1A0KWB4Cz8) | [Casta](https://open.spotify.com/artist/5v304q5NLS1WXeIE6iWziJ) | [Lázaro](https://open.spotify.com/album/3Q6ZXvv9FJib9cNkKBoyVN) | 4:16 | 2022-06-07 |  |
 | [Piedras del Sol](https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Piedras del Sol](https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd) | 3:42 | 2022-11-12 |  |
-| [Planeta](https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU) | [Bleepolar](https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ) | [Planeta](https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R) | 3:30 | 2022-06-07 |  |
+| [Planeta](https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU) | [Bleepolar](https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ) | [Planeta](https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R) | 3:30 | 2022-06-07 | 2023-10-25 |
 | [Que Me Siga \(Malo\)](https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Que Me Siga \(Malo\)](https://open.spotify.com/album/6Bs9kozUMUa2Y6YAPgQ9XO) | 3:15 | 2022-06-07 |  |
 | [Sakoneta](https://open.spotify.com/track/3nUUBBkEqAYLkdhzCuEWmg) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA) | [Ostriconi](https://open.spotify.com/album/3jLWAXJ3NdQOoagDdia99w) | 4:45 | 2022-06-07 |  |
 | [Sambita \- Remastered](https://open.spotify.com/track/3WqdQxa5yPMLSbbnA1u2s3) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:58 | 2022-06-07 | 2023-10-08 |

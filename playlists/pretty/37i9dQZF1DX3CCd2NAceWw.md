@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CCd2NAceWw.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/taylorrooks/">Taylor Rooks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 198 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 202 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CCd2NAceWw.md) - [plain]
 | 39 | [Shoestring](https://open.spotify.com/track/4eRUEixV7P28rZ7x5CgJmj) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [JENA](https://open.spotify.com/album/2FpBj92pSFehoa23LolojW) | 3:58 |
 | 40 | [Liability](https://open.spotify.com/track/2vy9Ry1TNjCD85TiCbTz0r) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:57 |
 
-Snapshot ID: `MCwzODBlYTZlMzI1MWU3ZGQwNTI1MzdmZmM0NzA0Y2VlYTgwZTNmMjg5`
+Snapshot ID: `MCxlNDA3ZjQ1NzAzMTBlODY5Y2FmZmU0ODk0ODZmMjZjNjVmOTE0ODVl`

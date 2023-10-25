@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 
 > Chaos in electronic form.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,598 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,654 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 8 | [Eden Transit](https://open.spotify.com/track/16q8cwecGhHKGGiwTnkutf) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [Hiraeth](https://open.spotify.com/album/6VFTvpLVvfzUTMtNBloDEv) | 4:15 |
 | 9 | [On a Hilltop Sat the Moon](https://open.spotify.com/track/3182ZGsY58yGqlr1BJZBgZ) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fear in a Handful of Dust](https://open.spotify.com/album/5JntKJacrklh6D69IsETO7) | 3:36 |
 | 10 | [Internet Dump](https://open.spotify.com/track/5xXab44aWtEqltnKl3mTlD) | [Neukrapsio](https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa), [Miss Ayesha](https://open.spotify.com/artist/3aJK7LhPLg4rDr6hTbABzZ) | [Internet Dump](https://open.spotify.com/album/4Gml4rYNKgY0bpXKLG6GSW) | 2:06 |
-| 11 | [Unfinished Business](https://open.spotify.com/track/7xB6q501pjADLOIBO55NPp) | [Hong Kong Express](https://open.spotify.com/artist/5kanrcJl2KaWNzmrIT58vf) | [Hong Kong Express](https://open.spotify.com/album/1NPtLS8zjq1Z6giQzAJtiB) | 3:27 |
+| 11 | [Screen](https://open.spotify.com/track/4ymEyV9kduYBdmZpVtwjsQ) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 3:21 |
 | 12 | [Hint](https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y) | [SPIME.IM](https://open.spotify.com/artist/6zOLowG2X8FkUqPSEmetDJ) | [Hint](https://open.spotify.com/album/6kuAtwn4IGu4L0NnlBOJHc) | 5:03 |
-| 13 | [Screen](https://open.spotify.com/track/4ymEyV9kduYBdmZpVtwjsQ) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 3:21 |
+| 13 | [Unfinished Business](https://open.spotify.com/track/7xB6q501pjADLOIBO55NPp) | [Hong Kong Express](https://open.spotify.com/artist/5kanrcJl2KaWNzmrIT58vf) | [Hong Kong Express](https://open.spotify.com/album/1NPtLS8zjq1Z6giQzAJtiB) | 3:27 |
 | 14 | [Junkie](https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [Junkie](https://open.spotify.com/album/4GcXFLrJYvYYiu9NXV51yg) | 3:36 |
 | 15 | [Vaporware 05](https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Plays Bee Mask](https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc) | 6:03 |
 | 16 | [0°C](https://open.spotify.com/track/1tnexZBkX24zkjm2s11E8Y) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 49 | [New Planet](https://open.spotify.com/track/1oU8JXQGiir9KBnmC46qX8) | [Ford & Lopatin](https://open.spotify.com/artist/3eTOYD8UyQa3MalrtkyKha) | [Channel Pressure](https://open.spotify.com/album/0IukYhktfvsurQ1ojVNs1Z) | 3:22 |
 | 50 | [Coris](https://open.spotify.com/track/1G5b1MCRsBsC9T53vv5SH9) | [OVSICORI](https://open.spotify.com/artist/0MVM5Khj39EkpVtLvU9Ujp) | [Bucle](https://open.spotify.com/album/0e2ihe6UiQ1SL73u98L98b) | 7:00 |
 
-Snapshot ID: `MCw5MmE5NDUxNDM5ZGNkNWM3NDc4N2Y5NTI0OTFkMDAzYWY0YTdjMTA3`
+Snapshot ID: `MCxiY2YxMmU2ZGFjNjZkYmVhNTk5ZWQ0YzAxMWQ1YjU1NjkwMmMxNzA3`

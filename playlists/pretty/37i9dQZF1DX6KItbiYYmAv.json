@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 728293,
+  "num_followers": 728400,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWM1ODk2ODc4OTRhY2Q5YThmZGEwYjJjY2Q1MzRhOWVlMzI2MzE5",
+  "snapshot_id": "MCw4YzE3MGU3YWI3ZDFiMzRiODdlYzE1ZDA5YjJiYzNkMDg3N2ZkZjM1",
   "tracks": [
     {
       "added_at": "2023-09-25 14:18:15",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me",
-      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -615,6 +595,26 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 261881,
+      "name": "It Runs Through Me",
+      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "Loma Vista",
-        "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
-      },
-      "artists": [
-        {
-          "name": "Family of the Year",
-          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 230506,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "Loma Vista",
+        "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
+      },
+      "artists": [
+        {
+          "name": "Family of the Year",
+          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "Busyhead",
         "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 225893,
       "name": "Sink",
       "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "Young Blood (Acoustic)",
-        "url": "https://open.spotify.com/album/6S5IUKVISP7NycmxpuPr9v"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 200613,
-      "name": "Young Blood - Acoustic",
-      "url": "https://open.spotify.com/track/6QPqf4WqwZkxM68bGipzvP"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "Making All Things New",
         "url": "https://open.spotify.com/album/6Ng0ObItoKjeUL0POlI4FU"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 159600,
       "name": "Making All Things New",
       "url": "https://open.spotify.com/track/6VwAh8Z1d5YKoSWoEaV4db"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "Young Blood (Acoustic)",
+        "url": "https://open.spotify.com/album/6S5IUKVISP7NycmxpuPr9v"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 200613,
+      "name": "Young Blood - Acoustic",
+      "url": "https://open.spotify.com/track/6QPqf4WqwZkxM68bGipzvP"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "Magnetised (Acoustic)",
-        "url": "https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 292186,
-      "name": "Magnetised - Acoustic",
-      "url": "https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "On the Train Ride Home",
         "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 227200,
       "name": "On the Train Ride Home",
       "url": "https://open.spotify.com/track/4sTjyRMuBumcHsVWe9tfKL"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "Magnetised (Acoustic)",
+        "url": "https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 292186,
+      "name": "Magnetised - Acoustic",
+      "url": "https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "For The Company",
-        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
-      },
-      "artists": [
-        {
-          "name": "Little May",
-          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
-        }
-      ],
-      "duration_ms": 199359,
-      "name": "Boardwalks - Remastered 2015/ Bonus Track",
-      "url": "https://open.spotify.com/track/23Zlb66N7xcIWbpt2C1bsi"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "Living Water",
         "url": "https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 242000,
       "name": "Recording 15",
       "url": "https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "For The Company",
+        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
+      },
+      "artists": [
+        {
+          "name": "Little May",
+          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
+        }
+      ],
+      "duration_ms": 199359,
+      "name": "Boardwalks - Remastered 2015/ Bonus Track",
+      "url": "https://open.spotify.com/track/23Zlb66N7xcIWbpt2C1bsi"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "Hundred Acres",
-        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "searching for freedom",
         "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 242999,
       "name": "together",
       "url": "https://open.spotify.com/track/0ZJw3XElRNa29UmEqHTboR"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "Hundred Acres",
+        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
     },
     {
       "added_at": "2023-09-25 14:18:15",

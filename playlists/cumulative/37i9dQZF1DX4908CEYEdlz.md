@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: The Rolling Stones
 
-289 songs - 17 hr 41 min
+290 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Wake Me Up \(When This Nightmare's Over\)](https://open.spotify.com/track/6tj1GKBc6xYLxD9OYbEHku) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Wake Me Up \(When This Nightmare's Over\)](https://open.spotify.com/album/49JE7HOO2lg2NfRuLaq1uG) | 3:36 | 2022-04-08 | 2022-07-29 |
 | [Wake Me Up \(When This Nightmare’s Over\)](https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:36 | 2022-07-01 | 2022-08-13 |
 | [We Are The Rest](https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [We Are The Rest](https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE) | 3:02 | 2023-09-15 |  |
+| [We Got the Moves](https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TEKKNO](https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg) | 3:26 | 2023-10-24 |  |
 | [Welcome To The Circus](https://open.spotify.com/track/1linrfCmITmQHs4enAxTUY) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:16 | 2023-03-10 | 2023-09-02 |
 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 | 2022-04-08 | 2023-10-21 |
 | [Where Did All the Guitars Go?](https://open.spotify.com/track/0mSyc3nkVCKYMcm6L2OpST) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Where Did All the Guitars Go?](https://open.spotify.com/album/5aSEMoRkXZLZs4A6OoUm0r) | 4:00 | 2023-03-31 | 2023-08-12 |

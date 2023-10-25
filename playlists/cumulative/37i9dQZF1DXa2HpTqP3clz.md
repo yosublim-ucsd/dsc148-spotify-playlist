@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-481 songs - 1 day 4 hr 57 min
+482 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Abigail](https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Abigail](https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3) | 3:17 | 2022-05-13 | 2022-08-27 |
 | [Ain’t That Fine](https://open.spotify.com/track/22Is0mpoTCXoz5EE1U2yjb) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [See You Around](https://open.spotify.com/album/5CE2xIBgva5wYBhfMbluQW) | 3:08 | 2021-12-17 | 2022-07-29 |
 | [Ain’t That Fine](https://open.spotify.com/track/1TrLKX7IZyktQzBy6TeBpC) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [See You Around](https://open.spotify.com/album/6nIGYJuUbUNPlqLseIbFQh) | 3:08 | 2022-07-22 |  |
-| [Alive With You](https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Open The Road](https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx) | 2:58 | 2022-07-29 |  |
+| [Alive With You](https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Open The Road](https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx) | 2:58 | 2022-07-29 | 2023-10-25 |
 | [All Ashore](https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [All Ashore](https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl) | 7:05 | 2021-12-17 | 2023-08-19 |
 | [All The Lilacs In Ohio](https://open.spotify.com/track/5kjXFnaAnDT1LoZ0Ql4ood) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [All The Lilacs In Ohio](https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au) | 3:29 | 2021-12-17 | 2023-08-19 |
 | [All the Mornings Have an Echo](https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [All the Mornings Have an Echo](https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG) | 2:55 | 2023-06-02 | 2023-09-30 |
@@ -124,6 +124,7 @@
 | [Engine Trouble](https://open.spotify.com/track/3J2SefFgx68fw3RI2x2OLx) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 4:45 | 2022-07-22 | 2023-09-16 |
 | [Engine Trouble](https://open.spotify.com/track/3VGjFO89Sh53UjTRGJXWmi) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/1A43T5C9vFdOXecyJAE1We) | 4:45 | 2021-12-17 | 2022-07-29 |
 | [Eva Kelley](https://open.spotify.com/track/0s8Zuk9rkJf9NVR9azmDwE) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si) | [Eva Kelley](https://open.spotify.com/album/7DakEfniT1T6Wu4Ws4QRWV) | 4:41 | 2021-12-31 | 2022-06-18 |
+| [Fall In Tennessee \(feat\. Jerry Douglas\)](https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J) | [Authentic Unlimited](https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Fall In Tennessee](https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU) | 3:51 | 2023-10-20 |  |
 | [Fall Like Rain](https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX) | [Justin Moses](https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola) | [Fall Like Rain](https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY) | 4:22 | 2021-12-17 |  |
 | [Falling for You](https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX) | [The Petersens](https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx) | [Live Sessions, Vol\. 03](https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i) | 2:40 | 2022-01-14 |  |
 | [Far Away Again](https://open.spotify.com/track/4OnWVEvkYoFbEDWPwkvqLl) | [Cory Walker](https://open.spotify.com/artist/3LHp5fPvJvKchR2MB4E1ZZ), [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [Far Away Again](https://open.spotify.com/album/4b9zR844J9pihzB5Q63T8I) | 3:28 | 2023-01-27 | 2023-03-29 |

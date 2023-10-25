@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-838 songs - 1 day 16 hr 12 min
+839 songs - 1 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Burnt N Turnt \(feat\. NAV\)](https://open.spotify.com/track/6CLT0fZaePeeV1NnRutDSQ) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Burnt N Turnt \(feat\. NAV\)](https://open.spotify.com/album/0y0KRVvQqN3lLFWzwUl9ry) | 3:04 | 2022-02-11 | 2022-04-14 |
 | [Burnt Out \(feat\. Famous Dex\)](https://open.spotify.com/track/2GBSHo9elAhxPAth48W5zL) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W), [Famous Dex](https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W) | [Burnt Out \(feat\. Famous Dex\)](https://open.spotify.com/album/6yVQ3KNcs5fT0UOMkXTRcK) | 3:33 | 2023-05-26 | 2023-07-01 |
 | [Busy Body](https://open.spotify.com/track/6xQWKkfkobpwY8BniNIW7K) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Busy Body](https://open.spotify.com/album/1LWJQPMpfbboj2nBf033Lg) | 1:54 | 2022-03-18 | 2022-04-11 |
+| [BUTTERFLY COUPE \(feat\. Quavo\) \- PART 2](https://open.spotify.com/track/6fxgWsJWzQWKq2YoAJNLey) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [BUTTERFLY COUPE feat\. Quavo \(PART 2\)](https://open.spotify.com/album/7dlgyGTSBR0SyN7tMo3R43) | 2:44 | 2023-10-20 |  |
 | [BUTTERFLY COUPE feat\. Tyga](https://open.spotify.com/track/3HCDcijVzbd59yvVn0nLPY) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [BUTTERFLY COUPE feat\. Tyga](https://open.spotify.com/album/4Lm3jQ2K459Vufnq6wHjn4) | 2:44 | 2023-08-04 |  |
 | [Cabo](https://open.spotify.com/track/3SLu421u9hMKwcFNxGFrGk) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [Cabo](https://open.spotify.com/album/12TkZGM4pKpyK1xb8t5YTc) | 2:38 | 2021-09-03 | 2022-03-18 |
 | [Cactus](https://open.spotify.com/track/1t741g1kw8T5lvupCmgddl) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Cactus](https://open.spotify.com/album/7LaGCDyxngXIz7J5xFEIMi) | 2:12 | 2021-09-03 | 2022-02-27 |
@@ -681,7 +682,7 @@
 | [Slime Them \(feat\. Lil Yachty\)](https://open.spotify.com/track/15PbmOjutHh9O5IRp5yW6Z) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 2:26 | 2022-04-08 | 2022-04-20 |
 | [Sloppy Joe](https://open.spotify.com/track/0MvwWudS7kG92eCjjd6BSK) | [StaySolidRocky](https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ) | [Sloppy Joe](https://open.spotify.com/album/13LRn35iuNfIeYzmZv8iDr) | 1:50 | 2022-07-15 | 2022-07-17 |
 | [Smack Sh\*t](https://open.spotify.com/track/02G0mbFgtqS3h1Ek29tBWW) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Smack Sh\*t](https://open.spotify.com/album/3Wa0UdCqXUAWNNuEr9ulHk) | 2:59 | 2023-09-22 |  |
-| [Smooth](https://open.spotify.com/track/7fT5oRGPyTQVoR56GLM57W) | [Kountry50K](https://open.spotify.com/artist/1nAk4f03QT0MjFLLTY4PbH), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Smooth](https://open.spotify.com/album/5CiZTOCNU2PVQQjsAGz1WP) | 2:39 | 2023-09-15 |  |
+| [Smooth](https://open.spotify.com/track/7fT5oRGPyTQVoR56GLM57W) | [Kountry50K](https://open.spotify.com/artist/1nAk4f03QT0MjFLLTY4PbH), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Smooth](https://open.spotify.com/album/5CiZTOCNU2PVQQjsAGz1WP) | 2:39 | 2023-09-15 | 2023-10-25 |
 | [So High](https://open.spotify.com/track/5qtUKYu1bBe0U7SoANInou) | [Tm88](https://open.spotify.com/artist/5RMUeKq0dZxg9RHE1f0B9P), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [So High](https://open.spotify.com/album/3X42cq0ppTHylj6NVb6vGw) | 1:54 | 2022-03-25 | 2022-04-21 |
 | [So.Incredible.pkg \[Robert Glasper Version Feat\. Smino\]](https://open.spotify.com/track/4eOtmXtgxmzDsZcdc0lwiz) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [So.Incredible.pkg \[Robert Glasper Version Feat\. Smino\]](https://open.spotify.com/album/5FT1DfAMQ8ewLsCP6c8PtF) | 3:15 | 2022-03-25 | 2022-07-26 |
 | [Soak City \(Do it\)](https://open.spotify.com/track/6iiCzEd1ULpq7nXbZVQ4pi) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Lottery Pick](https://open.spotify.com/album/7pp3ZbXrqBiaaeRLIAyis5) | 2:03 | 2023-10-13 |  |

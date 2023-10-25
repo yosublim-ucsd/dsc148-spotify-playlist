@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 18144,
+  "num_followers": 18207,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTdmMDI0MmE1OTI0YmZmZDU5N2ZkYzE2ZjVlZTlkYzAxOWE3ZDc2",
+  "snapshot_id": "MCw1M2IxMTBlZThhY2Q2ZDFiNjhkMDIxZTMzZWM4ZWEyNzU1NTVlYzQ0",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "NCT #127 CHERRY BOMB\u2013 The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s"
-      },
-      "artists": [
-        {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
-        }
-      ],
-      "duration_ms": 236667,
-      "name": "Cherry Bomb",
-      "url": "https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Positive",
         "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 198795,
       "name": "Shine",
       "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "NCT #127 CHERRY BOMB\u2013 The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "duration_ms": 236667,
+      "name": "Cherry Bomb",
+      "url": "https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "HANN (Alone)",
-        "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 205820,
-      "name": "HANN (Alone)",
-      "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "SEOULITE",
         "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 288915,
       "name": "BREATHE",
       "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "HANN (Alone)",
+        "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 205820,
+      "name": "HANN (Alone)",
+      "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -727,22 +727,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Full Album RED PLANET",
-        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "Galaxy",
-      "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "MINISKIRT",
         "url": "https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 179808,
       "name": "Miniskirt",
       "url": "https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Mama - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
-      },
-      "artists": [
-        {
-          "name": "EXO-K",
-          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
-        }
-      ],
-      "duration_ms": 270452,
-      "name": "MAMA",
-      "url": "https://open.spotify.com/track/1EvB6tE5CHluLZaWm3r0bT"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "MAD Winter Edition",
         "url": "https://open.spotify.com/album/2CbU9JhqInjKPgsYdSAKAk"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 210834,
       "name": "If You Do",
       "url": "https://open.spotify.com/track/2Yzb7XLjtfZCeVm6XYH55s"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Mama - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
+      },
+      "artists": [
+        {
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
+        }
+      ],
+      "duration_ms": 270452,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/1EvB6tE5CHluLZaWm3r0bT"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "My Last Love OST Part.4",
-        "url": "https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG"
+        "name": "HER",
+        "url": "https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "Block B",
+          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
         }
       ],
-      "duration_ms": 195216,
-      "name": "Hold my hand",
-      "url": "https://open.spotify.com/track/0KVClXxsZEKkyWRNXeRFrE"
+      "duration_ms": 179053,
+      "name": "HER",
+      "url": "https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "HER",
-        "url": "https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3"
+        "name": "My Last Love OST Part.4",
+        "url": "https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG"
       },
       "artists": [
         {
-          "name": "Block B",
-          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 179053,
-      "name": "HER",
-      "url": "https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf"
+      "duration_ms": 195216,
+      "name": "Hold my hand",
+      "url": "https://open.spotify.com/track/0KVClXxsZEKkyWRNXeRFrE"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Bye Bye My Blue",
-        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 203409,
-      "name": "Bye Bye My Blue",
-      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Lucifer - The 2nd Album",
         "url": "https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4"
       },
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "Bye Bye My Blue",
+        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 203409,
+      "name": "Bye Bye My Blue",
+      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "John Travolta Wanna Be",
         "url": "https://open.spotify.com/album/3phQgRvQwZ0OPzmzoNKaYq"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Bubble Pop!",
-        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
-      },
-      "artists": [
-        {
-          "name": "HyunA",
-          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
-        }
-      ],
-      "duration_ms": 212244,
-      "name": "Bubble Pop!",
-      "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "COLLECTION",
         "url": "https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 225373,
       "name": "FIRE",
       "url": "https://open.spotify.com/track/4q2HU9Ijpk4zJ24x7oMdXb"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Bubble Pop!",
+        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "duration_ms": 212244,
+      "name": "Bubble Pop!",
+      "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "To Anyone",
+        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "You and I (Park Bom)",
+      "url": "https://open.spotify.com/track/14Pn9Vd2GKwQrVYADgCZ5l"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "Secret Garden",
         "url": "https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 196946,
       "name": "Electric Shock",
       "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "To Anyone",
-        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "You and I (Park Bom)",
-      "url": "https://open.spotify.com/track/14Pn9Vd2GKwQrVYADgCZ5l"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "ALONE",
-        "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "INFINITIZE",
         "url": "https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 202520,
       "name": "The Chaser",
       "url": "https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "ALONE",
+        "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 206266,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
     },
     {
       "added_at": "2021-03-01 03:07:22",

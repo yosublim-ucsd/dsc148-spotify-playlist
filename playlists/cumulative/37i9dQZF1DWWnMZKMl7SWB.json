@@ -2933,6 +2933,28 @@
     },
     {
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0B79D0ahoTfJSul9Gx7SIJ"
+      },
+      "artists": [
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        },
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142800,
+      "name": "Blunotte",
+      "url": "https://open.spotify.com/track/425HNsoUUAUGNPFbPZuyE2"
+    },
+    {
+      "album": {
         "name": "Blunotte",
         "url": "https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF"
       },
@@ -19780,7 +19802,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 177461,
       "name": "The Carlton",
       "url": "https://open.spotify.com/track/3J7FvVmbz6vvPvu3XymrNK"

@@ -3315,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "leave me where you found me",
+        "url": "https://open.spotify.com/album/1f19gczYsoUBsqpiG2UFR3"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "do it all",
+      "url": "https://open.spotify.com/track/0W9PTP67SR6IrBYub9GsBC"
+    },
+    {
+      "album": {
         "name": "do it all",
         "url": "https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf"
       },
@@ -3326,7 +3344,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 96000,
       "name": "do it all",
       "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
@@ -3952,6 +3970,24 @@
     {
       "album": {
         "name": "nothings ever good enough",
+        "url": "https://open.spotify.com/album/0O42Vd5poWUcdCj9kMNCC4"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131213,
+      "name": "emotions",
+      "url": "https://open.spotify.com/track/4n3aUQnIxtVXpDwFvi66VD"
+    },
+    {
+      "album": {
+        "name": "nothings ever good enough",
         "url": "https://open.spotify.com/album/5UHC2JN3ck4XPYPjngia2G"
       },
       "artists": [
@@ -3962,7 +3998,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 131213,
       "name": "emotions",
       "url": "https://open.spotify.com/track/5ls62WNKHUUrdF3r1cv83T"
@@ -12516,10 +12552,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 127934,
       "name": "Save Me, Please",
       "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
+    },
+    {
+      "album": {
+        "name": "First Draft",
+        "url": "https://open.spotify.com/album/6RHOhnOBZjeRI8DrlFeJbN"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127934,
+      "name": "Save Me, Please",
+      "url": "https://open.spotify.com/track/0vtydnn50fuaO8li7usmlo"
     },
     {
       "album": {
@@ -13728,10 +13782,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 171428,
       "name": "start again",
       "url": "https://open.spotify.com/track/3pkacg4CSnP4i0K907SODj"
+    },
+    {
+      "album": {
+        "name": "leave me where you found me",
+        "url": "https://open.spotify.com/album/1f19gczYsoUBsqpiG2UFR3"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "start again",
+      "url": "https://open.spotify.com/track/4CmWJjmqSIjH2zXnF6nI4S"
     },
     {
       "album": {
@@ -15338,10 +15410,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 138461,
       "name": "UDNTLUVME",
       "url": "https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v"
+    },
+    {
+      "album": {
+        "name": "UDNTLUVME",
+        "url": "https://open.spotify.com/album/6cqqln1dVUJrrrf5eAuiu0"
+      },
+      "artists": [
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "UDNTLUVME",
+      "url": "https://open.spotify.com/track/3P1kLFAO2MxcVBtLWH3oOV"
     },
     {
       "album": {

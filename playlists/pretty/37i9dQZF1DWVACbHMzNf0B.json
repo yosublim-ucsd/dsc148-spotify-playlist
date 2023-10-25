@@ -1,12 +1,12 @@
 {
   "description": "Somos una fusi\u00f3n que nunca termina... MEXCLA somos. Car\u00edn Le\u00f3n, BorderKid en portada.",
-  "num_followers": 325658,
+  "num_followers": 325950,
   "original_name": "MEXCLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWIxNzQzNjdlODU3MTE4NWViYzc0Mzg3MDM4ZDJhMGRhOTk0ZmUz",
+  "snapshot_id": "MCw0Zjg5MjMzN2ZlNDczNTk0NWEyMjJmMzFiYmE0YjA3NDY3NDRlYjFk",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -843,6 +843,26 @@
       "duration_ms": 188411,
       "name": "DE LUNES A LUNES",
       "url": "https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Mood Malandro",
+        "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 191558,
+      "name": "Mood Malandro",
+      "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
     },
     {
       "added_at": "2023-08-11 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Olivia García\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,514 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,516 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 27 | [Dame de Ese Amor](https://open.spotify.com/track/1ESJXU1v2ZbTQCmPDI9lJT) | [CHICOCHICA](https://open.spotify.com/artist/6vdC8DQQOSdDudNNE2BCVI) | [Dame de Ese Amor](https://open.spotify.com/album/22rra4M4dp3eli8H7Xffgn) | 3:06 |
 | 28 | [Sigo Aquí](https://open.spotify.com/track/410ERvIbH3m8mM1zKVgV2Q) | [Intervenciones](https://open.spotify.com/artist/7He11U01wHq1zaIU6GXSKd) | [Las Flores](https://open.spotify.com/album/71dj5Mh0BvHxtiBoXOdivw) | 3:43 |
 | 29 | [Hungry](https://open.spotify.com/track/58p1AX65B7OIVlxahsU8hl) | [Olivia Bec](https://open.spotify.com/artist/4PqejznzweGXKiJZimh7a6) | [Hungry](https://open.spotify.com/album/6zMdYzZ0KUzvCUlOVJvboc) | 3:48 |
-| 30 | [5 Minutos](https://open.spotify.com/track/3CMCp08bmQMC2LPCXMIjlU) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Cinco de Mil Pedazos](https://open.spotify.com/album/1JbpIaTJ7bauu4KWpC3BcA) | 2:35 |
-| 31 | [Te Mentiría](https://open.spotify.com/track/3bjuh3FRFO34f0qHXdLFF4) | [Gia](https://open.spotify.com/artist/4G2nnIDni8orlGBTl1Y7ez) | [Te Mentiría](https://open.spotify.com/album/6nHLRn46kC7t5NAqJcwkzV) | 2:40 |
+| 30 | [Te Mentiría](https://open.spotify.com/track/3bjuh3FRFO34f0qHXdLFF4) | [Gia](https://open.spotify.com/artist/4G2nnIDni8orlGBTl1Y7ez) | [Te Mentiría](https://open.spotify.com/album/6nHLRn46kC7t5NAqJcwkzV) | 2:40 |
+| 31 | [5 Minutos](https://open.spotify.com/track/3CMCp08bmQMC2LPCXMIjlU) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Cinco de Mil Pedazos](https://open.spotify.com/album/1JbpIaTJ7bauu4KWpC3BcA) | 2:35 |
 | 32 | [ARCO // ES TAN DIVINO](https://open.spotify.com/track/1KgKKPfMmwbBLmO9NxJ7cz) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [ARCO // ES TAN DIVINO](https://open.spotify.com/album/0zaUl1Y0qwTOSb77bIm8s4) | 4:06 |
 | 33 | [LOCO](https://open.spotify.com/track/2sD6GDoVsa55ZN58dwKhrr) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BELAMOR](https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22) | 3:43 |
 | 34 | [¿Cuánto Cotizará Mi Alma?](https://open.spotify.com/track/3HzRUVUhEB5upfj92jcPpI) | [Amelia](https://open.spotify.com/artist/54DOvUaX10WtpRddMhbI4P) | [¿Cuánto Cotizará Mi Alma?](https://open.spotify.com/album/4kQXXs8lhIt8Q3vSLQCO9P) | 3:47 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 44 | [Amanecer](https://open.spotify.com/track/0GPtTtncJBCsj960GfMSXy) | [Maikcel](https://open.spotify.com/artist/7ztqGuOjym3CJ0pYlFHLaK), [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [Amanecer](https://open.spotify.com/album/4T5ZWgrw4oQg69VDoPZyXU) | 3:16 |
 | 45 | [Llegale](https://open.spotify.com/track/18clgrJq3EfNWll8NacN2t) | [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO), [Polo Ml](https://open.spotify.com/artist/5bTmknFI6te1DhUpfWqhcR), [Krazy Flow ML](https://open.spotify.com/artist/42mthG3ab7EzyrZ4wnDV4Z), [Mundo Loco Crew](https://open.spotify.com/artist/6w0PX15pVK5D4SIB642QLI) | [Llegale](https://open.spotify.com/album/4vzKrk18fYxBDAtUAco127) | 3:11 |
 | 46 | [contratiempo](https://open.spotify.com/track/1MC66QbWw8yNMK27foDnOR) | [los romances](https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J), [Teesan](https://open.spotify.com/artist/6KRHiXeNG8whhNjXit3M6X) | [contratiempo](https://open.spotify.com/album/3iWrV6f4obDnaZFErIiRd8) | 2:18 |
-| 47 | [Metro \(Una Fiesta de Disfraces\)](https://open.spotify.com/track/6pPlLe11poISH7sAfrzn3P) | [el pájaro del mar](https://open.spotify.com/artist/6ufE2Ze2PczyxVdbdJwQDd) | [Metro \(Una Fiesta de Disfraces\)](https://open.spotify.com/album/1GLy9HJJrGLKU7FTpSU0b3) | 4:00 |
-| 48 | [TÓXICA](https://open.spotify.com/track/6ahdxx6xNTnA2MVDxhS3we) | [Legorreta](https://open.spotify.com/artist/7H7PSOSgC6q5dLbytIl4bV) | [TÓXICA](https://open.spotify.com/album/3tIg0qMA3ZngRWqyyYR8W7) | 2:35 |
+| 47 | [TÓXICA](https://open.spotify.com/track/6ahdxx6xNTnA2MVDxhS3we) | [Legorreta](https://open.spotify.com/artist/7H7PSOSgC6q5dLbytIl4bV) | [TÓXICA](https://open.spotify.com/album/3tIg0qMA3ZngRWqyyYR8W7) | 2:35 |
+| 48 | [Metro \(Una Fiesta de Disfraces\)](https://open.spotify.com/track/6pPlLe11poISH7sAfrzn3P) | [el pájaro del mar](https://open.spotify.com/artist/6ufE2Ze2PczyxVdbdJwQDd) | [Metro \(Una Fiesta de Disfraces\)](https://open.spotify.com/album/1GLy9HJJrGLKU7FTpSU0b3) | 4:00 |
 | 49 | [El Espejo](https://open.spotify.com/track/0wqKDRWbMCI1nAAkVcruhB) | [Juan Astronauta](https://open.spotify.com/artist/4pcBzfDpLQElWkjEif8BI3) | [El Espejo](https://open.spotify.com/album/5lZgcWviJISsiFoBMnX7d5) | 3:44 |
 | 50 | [aguanta cine](https://open.spotify.com/track/0plt2LEHt0VR7HFMxnpXFP) | [El Perri De Matt](https://open.spotify.com/artist/2G8obXWuz3LmXSAstk0nmA) | [aguanta cine](https://open.spotify.com/album/4MGKawfEHL16KNAS9x8EG9) | 5:00 |
 
-Snapshot ID: `MCxlZDRjMDRkOGU0ODc5YTM0NmY4ODE5OGU0NWE0NjhhNzBiN2ZlY2Zh`
+Snapshot ID: `MCwxNGJiZDM4OTA3OWRhYWFhODFmZWZjMzAyMmMxNzhhYTc3YzEzNzVi`

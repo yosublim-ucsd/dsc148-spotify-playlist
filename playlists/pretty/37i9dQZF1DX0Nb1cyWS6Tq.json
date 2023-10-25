@@ -1,12 +1,12 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 688456,
+  "num_followers": 689307,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGVlY2NlMDEzMGUzYzQzZDNmMDZmMjU2MTY4NjEyNjhkYmQ5ZTY4",
+  "snapshot_id": "MCxhOGYzZGE3NTQwNGU5NzA0MWQ1ZDBkMTNkODNkNWYwMTU3NzRiM2E1",
   "tracks": [
     {
       "added_at": "2021-10-15 04:04:50",
@@ -939,6 +939,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "Only Theatre of Pain",
+        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
+      },
+      "artists": [
+        {
+          "name": "Christian Death",
+          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "Spiritual Cramp",
+      "url": "https://open.spotify.com/track/3jSTCf4oCzZ2yhKNbmfl5k"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Reflections Revised",
         "url": "https://open.spotify.com/album/3gJASTvUI7AYoZdOZl8zdw"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 282577,
       "name": "Seemann",
       "url": "https://open.spotify.com/track/5zW8UE2pvxwZ1TRC6Q3CXr"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Only Theatre of Pain",
-        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
-      },
-      "artists": [
-        {
-          "name": "Christian Death",
-          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "Spiritual Cramp",
-      "url": "https://open.spotify.com/track/3jSTCf4oCzZ2yhKNbmfl5k"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "Only Theatre of Pain",
+        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
+      },
+      "artists": [
+        {
+          "name": "Christian Death",
+          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Suicide (2019 - Remaster)",
         "url": "https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 340666,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/4kiVRcINxpbNTbmEbePXQL"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Only Theatre of Pain",
-        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
-      },
-      "artists": [
-        {
-          "name": "Christian Death",
-          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH"
     },
     {
       "added_at": "2021-10-15 04:04:50",

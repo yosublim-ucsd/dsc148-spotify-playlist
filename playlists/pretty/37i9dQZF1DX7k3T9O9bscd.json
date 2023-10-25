@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 390886,
+  "num_followers": 391007,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGNkNWYwZjY0NjA5ODAzYjQzYTlhZjBhNGQ3NTU5ZTA3YjJlMzM1",
+  "snapshot_id": "MCw5ZTY0NzFmZDQzN2NkMjYxYWQyZjQ5NTc0ZDFlMTkzNDZhYjNjOGRj",
   "tracks": [
     {
       "added_at": "2023-08-02 16:20:29",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
-      },
-      "artists": [
-        {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Shell Island",
-      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Something Else",
         "url": "https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "World Music",
-        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
       },
       "artists": [
         {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
         }
       ],
-      "duration_ms": 170186,
-      "name": "Golden Dawn",
-      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
+      "duration_ms": 203680,
+      "name": "Shell Island",
+      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -603,6 +587,22 @@
       "duration_ms": 440014,
       "name": "Waves",
       "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "World Music",
+        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "Golden Dawn",
+      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Aufheben",
-        "url": "https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn"
-      },
-      "artists": [
-        {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
-        }
-      ],
-      "duration_ms": 278826,
-      "name": "Panic In Babylon",
-      "url": "https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Fase Luna",
         "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 285308,
       "name": "It's You",
       "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Aufheben",
+        "url": "https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn"
+      },
+      "artists": [
+        {
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        }
+      ],
+      "duration_ms": 278826,
+      "name": "Panic In Babylon",
+      "url": "https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Egypt",
-        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
-      },
-      "artists": [
-        {
-          "name": "KYANOS",
-          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
-        }
-      ],
-      "duration_ms": 261634,
-      "name": "Egypt",
-      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Spin",
         "url": "https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 212203,
       "name": "Spin",
       "url": "https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Egypt",
+        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
+      },
+      "artists": [
+        {
+          "name": "KYANOS",
+          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
+        }
+      ],
+      "duration_ms": 261634,
+      "name": "Egypt",
+      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Time Bazaar",
-        "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
-      },
-      "artists": [
-        {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Time Bazaar",
-      "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Los Estimados",
         "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 277589,
       "name": "Los Estimados",
       "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Time Bazaar",
+        "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
+      },
+      "artists": [
+        {
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Time Bazaar",
+      "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Steeple",
-        "url": "https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY"
-      },
-      "artists": [
-        {
-          "name": "Wolf People",
-          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
-        }
-      ],
-      "duration_ms": 318960,
-      "name": "Silbury Sands",
-      "url": "https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "The Revolt Against Tired Noises",
         "url": "https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
+        "name": "Steeple",
+        "url": "https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY"
+      },
+      "artists": [
+        {
+          "name": "Wolf People",
+          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
+        }
+      ],
+      "duration_ms": 318960,
+      "name": "Silbury Sands",
+      "url": "https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
         "name": "Death Hawks",
         "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 546640,
       "name": "Black Acid",
       "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
-        "name": "Hyper Super Mega",
-        "url": "https://open.spotify.com/album/4OIFW53ufeQgpo8PCDc8pT"
-      },
-      "artists": [
-        {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
-        }
-      ],
-      "duration_ms": 240468,
-      "name": "Forever End",
-      "url": "https://open.spotify.com/track/5aGBLQ3Xrbo7Ok0XDRM3bj"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1371,6 +1355,22 @@
       "duration_ms": 220287,
       "name": "Marihuana",
       "url": "https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Hyper Super Mega",
+        "url": "https://open.spotify.com/album/4OIFW53ufeQgpo8PCDc8pT"
+      },
+      "artists": [
+        {
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+        }
+      ],
+      "duration_ms": 240468,
+      "name": "Forever End",
+      "url": "https://open.spotify.com/track/5aGBLQ3Xrbo7Ok0XDRM3bj"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Fudge Sandwich",
-        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 240320,
-      "name": "Hit It and Quit It",
-      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Ghost Power",
         "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 221701,
       "name": "Asteroid Witch",
       "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Fudge Sandwich",
+        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 240320,
+      "name": "Hit It and Quit It",
+      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Pascuales",
-        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
+        "name": "MU!",
+        "url": "https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY"
       },
       "artists": [
         {
-          "name": "Bobui",
-          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
+          "name": "Gnoomes",
+          "url": "https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII"
         }
       ],
-      "duration_ms": 217103,
-      "name": "Pascuales",
-      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
+      "duration_ms": 208994,
+      "name": "Sword In the Stone",
+      "url": "https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "MU!",
-        "url": "https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY"
+        "name": "Pascuales",
+        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
       },
       "artists": [
         {
-          "name": "Gnoomes",
-          "url": "https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII"
+          "name": "Bobui",
+          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
         }
       ],
-      "duration_ms": 208994,
-      "name": "Sword In the Stone",
-      "url": "https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz"
+      "duration_ms": 217103,
+      "name": "Pascuales",
+      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
     },
     {
       "added_at": "2023-08-02 16:20:29",

@@ -4,7 +4,7 @@
 
 > Beautifully sad and moody piano music.
 
-349 songs - 15 hr 23 min
+352 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,9 +25,10 @@
 | [And There You Were](https://open.spotify.com/track/1r9tcQmkq2JBXbrEmhKu4N) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [For Tiny Feet](https://open.spotify.com/album/1GjPYdwgU2AU0Isa8pEYGN) | 2:24 | 2023-09-05 | 2023-10-04 |
 | [And There You Were](https://open.spotify.com/track/2OLfuAdRtXwsoORwiWahPe) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [A New Path](https://open.spotify.com/album/0sFVHCju4aS5BEiZtMt2LC) | 2:24 | 2023-08-14 | 2023-08-31 |
 | [And There You Were](https://open.spotify.com/track/5qcXvge6W2VFVwH20TNoPA) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [And Blueberries](https://open.spotify.com/album/5L2Y9P1JFnFirIsk9RbqWp) | 2:24 | 2023-08-14 | 2023-09-13 |
-| [And There You Were](https://open.spotify.com/track/5wgdYkgZVflEgEmFIWvpug) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Close To Maman](https://open.spotify.com/album/3dweglz4WqwRFNAU9eA3iH) | 2:24 | 2023-09-18 |  |
+| [And There You Were](https://open.spotify.com/track/5wgdYkgZVflEgEmFIWvpug) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Close To Maman](https://open.spotify.com/album/3dweglz4WqwRFNAU9eA3iH) | 2:24 | 2023-09-18 | 2023-10-25 |
 | [And There You Were](https://open.spotify.com/track/6inqfF6liJBitNaHqvxbj8) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [From Out Of Nowhere](https://open.spotify.com/album/0UetsAF1JQXncnzxmbua3v) | 2:24 | 2023-08-07 | 2023-08-23 |
 | [And There You Were](https://open.spotify.com/track/7bSLnYwRRxstyvCoqorAPU) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Of Great Expectations](https://open.spotify.com/album/3E1aUqQYMvCaOexhgq8V1Q) | 2:24 | 2023-08-14 | 2023-09-05 |
+| [And There You Were](https://open.spotify.com/track/7drtx97JQqC1zmb8AsrBuN) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [The Coldest Night](https://open.spotify.com/album/4F6VptSeANB6VQidKICIYn) | 2:24 | 2023-10-24 |  |
 | [Anfractuous View](https://open.spotify.com/track/6TX02ODkwVEymt9Yzw4lUf) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Anfractuous View](https://open.spotify.com/album/71vCCA6hOqaPYZw1Q7F4yq) | 3:09 | 2022-06-06 |  |
 | [Aning](https://open.spotify.com/track/1gqSAZHdFgARHhkmGHvr5D) | [Julia Andersson](https://open.spotify.com/artist/2biLvSI1dr6gdNAZAnq6z2) | [Dröm](https://open.spotify.com/album/7emzujJp5H2gEdEpzdgILf) | 2:38 | 2023-06-20 |  |
 | [Another Time](https://open.spotify.com/track/4D3yNko56x9TtQgVBKkxRl) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Another Time](https://open.spotify.com/album/2jeYw4SEjdiEUnCanJ2gIr) | 2:32 | 2022-03-30 |  |
@@ -116,6 +117,7 @@
 | [Gradational](https://open.spotify.com/track/7uam2Tyu6KZjGLauONQLk7) | [Martha Stone](https://open.spotify.com/artist/3Jk5F5o75NTajdLCYSYlbw) | [Gradational](https://open.spotify.com/album/1BNVlgLGu0gcQEroSXMhal) | 2:47 | 2022-03-30 |  |
 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 | 2021-12-14 | 2023-10-11 |
 | [Heartsease](https://open.spotify.com/track/2VqdRIXLDBYtDHLBvWw0p4) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Heartsease](https://open.spotify.com/album/2jVOyTHvkQHSQ0Y19arpqE) | 2:25 | 2022-09-13 |  |
+| [Hidden poetry](https://open.spotify.com/track/3KlDABftWLOMxlQUTkRmJI) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Hidden poetry](https://open.spotify.com/album/3hn4kKodyid2wx4agXY3rM) | 2:19 | 2023-10-24 |  |
 | [Home](https://open.spotify.com/track/7xYFoMTtdlx2GmK0sopL0T) | [Adrian Kuipers](https://open.spotify.com/artist/4qA8zZoA4L4YLpJTjgpIwi) | [Home](https://open.spotify.com/album/0v8ArMlSc9QCkB9rTfKPOs) | 3:57 | 2021-12-14 |  |
 | [Honeysuckle](https://open.spotify.com/track/2GlFrUTfhuFulESOkHcmFf) | [Sam Sapphire](https://open.spotify.com/artist/7eMKNdNPKSpP3WeulzX4fz) | [Honeysuckle](https://open.spotify.com/album/2Zjx4mvRk8p2IezpTxgjak) | 1:59 | 2023-08-07 |  |
 | [Hvile](https://open.spotify.com/track/1kahBtroEDGLOvzu1PeM64) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Hvile](https://open.spotify.com/album/5M9hyQ6AucPX7XGP9Y13fV) | 2:31 | 2022-08-03 |  |
@@ -285,6 +287,7 @@
 | [Talking Seas](https://open.spotify.com/track/33HoZWD63mWWv0IwfP4lv9) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Paloma](https://open.spotify.com/album/3xRBY4G7wM6zO4tTZapAJ6) | 2:15 | 2022-12-21 |  |
 | [Tenderly](https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Tenderly](https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t) | 2:25 | 2022-06-06 |  |
 | [Téli](https://open.spotify.com/track/22epH1mP5fU4Bg5fGVbnuc) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Téli](https://open.spotify.com/album/6smhLShr1DjFPuxW7EtB4d) | 2:30 | 2021-12-14 |  |
+| [The Beginning](https://open.spotify.com/track/29cTQB5qtEyaazYqjfVIt3) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [The Beginning](https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA) | 2:04 | 2023-10-24 |  |
 | [The Corner Of Your Eye](https://open.spotify.com/track/2Ajr0zS7FbrGCYv0SmSIVI) | [Hior Chronik](https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC) | [The Corner Of Your Eye](https://open.spotify.com/album/72gewhmKIYjaOLmf7Ka58e) | 1:58 | 2023-01-27 |  |
 | [The Destination](https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Destination](https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH) | 2:02 | 2023-08-07 |  |
 | [The Might](https://open.spotify.com/track/57yfoJ5x6tF6B3vhhHr35I) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [The Might](https://open.spotify.com/album/3SA356mCov4slJR4zhvPXv) | 2:19 | 2023-08-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,027 likes - 116 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,040 likes - 116 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 115 | [\(Interlude\)](https://open.spotify.com/track/6KzRwSrGHZVYn7rfSIAC0g) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL) | 1:21 |
 | 116 | [Silence Is Sincerity](https://open.spotify.com/track/73hk94lqe5AE2B4heXzivd) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 1:12 |
 
-Snapshot ID: `MCxkZjNmNjIwMTdkYWU2Zjg4YTcxZWY5N2MyN2MwZjZjOWNjOTQ4M2E0`
+Snapshot ID: `MCw2NjAyOTBiNTdjY2JmYzJmNzc5N2QxNmY2MmU1N2MzMGQwYTNlODk0`

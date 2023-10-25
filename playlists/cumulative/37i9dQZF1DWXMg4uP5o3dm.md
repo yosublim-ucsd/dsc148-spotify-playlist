@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: Layto
 
-270 songs - 14 hr 10 min
+272 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,11 +56,13 @@
 | [Crown](https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Crown](https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ) | 2:51 | 2023-08-18 |  |
 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 | 2022-11-25 |  |
 | [DANCEFLOOR](https://open.spotify.com/track/1Pvq76uvP8iMC7K0BXNE1c) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [DANCEFLOOR](https://open.spotify.com/album/1POG70eBb9W3K3BHhGKNMO) | 2:52 | 2023-08-18 |  |
-| [Dancing On My Grave](https://open.spotify.com/track/5SEVkAkzDaWPXw44o9VPNt) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [before the afters](https://open.spotify.com/album/5XTV8RuXj4pdd2wS5I7wyl) | 2:40 | 2023-08-18 |  |
+| [Dancing On My Grave](https://open.spotify.com/track/5SEVkAkzDaWPXw44o9VPNt) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [before the afters](https://open.spotify.com/album/5XTV8RuXj4pdd2wS5I7wyl) | 2:40 | 2023-08-18 | 2023-10-25 |
 | [Dancing On My Grave](https://open.spotify.com/track/7yJSJthb06XSJyVrI6aJ2o) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Dancing On My Grave](https://open.spotify.com/album/28qVezLAgShXv5A4loiqyx) | 2:40 | 2023-04-21 | 2023-10-22 |
+| [Dancing On My Grave \(feat\. KennyHoopla\)](https://open.spotify.com/track/5TSsTVTbFNxgDXPgBklGa3) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [before the afters](https://open.spotify.com/album/5pLi6ppCtjFyIKPb0qHeLI) | 2:40 | 2023-08-18 |  |
 | [Days Go By](https://open.spotify.com/track/0OCIiW9YJEqpHZZAyLuqU3) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Days Go By](https://open.spotify.com/album/3hEjE2rKrMxZNV0qO40aTV) | 2:50 | 2021-05-21 | 2022-08-14 |
 | [Days Go By](https://open.spotify.com/track/3HQgbZUdzP6kn27L5c0LcV) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Young Dumb](https://open.spotify.com/album/3t55Gq48Pbw1uw51T4WSoi) | 2:50 | 2022-11-25 | 2023-04-22 |
 | [Dead](https://open.spotify.com/track/3z4bbV92bY6K2A5EMXpLhI) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Dead](https://open.spotify.com/album/4c2aw2xQDzSHqesCIfeCMm) | 2:37 | 2022-04-01 | 2022-07-28 |
+| [Dead](https://open.spotify.com/track/6O2QJqa6hgF0uzj9mcDq4p) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Dead](https://open.spotify.com/album/3hKxNaxs2oVPewk04LDuBI) | 2:37 | 2023-08-18 |  |
 | [Dead](https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Dead](https://open.spotify.com/album/6yhPN6jzku1HlV8rZF6oZb) | 3:30 | 2022-06-03 | 2022-07-28 |
 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 | 2022-03-04 |  |
 | [deadly ever after](https://open.spotify.com/track/49RVuMbXGzYwu7Q8Jec5Yw) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [deadly ever after](https://open.spotify.com/album/257JMntLr2vKOG3esYNkdK) | 3:16 | 2023-02-05 |  |
@@ -164,7 +166,7 @@
 | [Lunatic](https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lunatic](https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR) | 2:21 | 2021-09-03 |  |
 | [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 | 2022-10-14 |  |
 | [Meant to be](https://open.spotify.com/track/4ePuicjF5iE9ZBS8Rz6kRm) | [idkjack](https://open.spotify.com/artist/5KpPvlBtQQCf0Jt836PyJX), [ylm shwty](https://open.spotify.com/artist/3jUsUXS7J4xR3UbHUuy7th) | [Meant to be](https://open.spotify.com/album/5Fpq5kAfeuNJHbMeDXlof8) | 2:39 | 2021-04-02 | 2022-01-15 |
-| [Miracle, Baby](https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Miracle, Baby](https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0) | 3:40 | 2021-07-09 |  |
+| [Miracle, Baby](https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Miracle, Baby](https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0) | 3:40 | 2021-07-09 | 2023-10-25 |
 | [molotov](https://open.spotify.com/track/6mKS8wregZJldi45FZIwHe) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [molotov](https://open.spotify.com/album/5p03MnJwU3fGTGz0Q1TWUA) | 2:51 | 2021-11-26 | 2022-07-29 |
 | [Monster](https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Monster](https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL) | 2:58 | 2021-07-30 |  |
 | [Mr Regular](https://open.spotify.com/track/1P4zbuZbTKc12UxXXZJohl) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Mr Regular](https://open.spotify.com/album/56ivqF23LdiQ6YYRhhdfXy) | 2:54 | 2022-06-17 | 2022-09-20 |

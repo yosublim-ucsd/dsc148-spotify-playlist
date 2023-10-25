@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 277672,
+  "num_followers": 277757,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmE2NzczMjViMGUyNGY4MWJmNmFiZWZkMmM5ZWRiZmUxNjlmYmI2",
+  "snapshot_id": "MCw5NmMwNzIyODkxZDk0MDE5NmY3ZmRiYmZmNjg0YjdiYmM0ZTA4NWY2",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Orc",
-        "url": "https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd"
-      },
-      "artists": [
-        {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "Nite Expo",
-      "url": "https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Hunger for a Way Out",
         "url": "https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 141000,
       "name": "Hunger for a Way Out",
       "url": "https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Orc",
+        "url": "https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd"
+      },
+      "artists": [
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "Nite Expo",
+      "url": "https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl"
     },
     {
       "added_at": "2023-06-20 22:28:34",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Flower of Devotion",
-        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 226678,
-      "name": "Flying",
-      "url": "https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Ultra Mono",
         "url": "https://open.spotify.com/album/20O6GKv8VfyvL4Gy0TAJs7"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 318694,
       "name": "A Hymn",
       "url": "https://open.spotify.com/track/0atNheZuMnQDtTnJOzd96N"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Flower of Devotion",
+        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 226678,
+      "name": "Flying",
+      "url": "https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Cheer",
-        "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 178654,
-      "name": "Avoidarama",
-      "url": "https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "It's a Myth",
         "url": "https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 197613,
       "name": "Look Like That",
       "url": "https://open.spotify.com/track/7aW0CpzMvI4MjptzitR24G"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Cheer",
+        "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 178654,
+      "name": "Avoidarama",
+      "url": "https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ"
     },
     {
       "added_at": "2023-02-24 00:00:00",

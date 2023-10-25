@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,965 likes - 126 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,962 likes - 126 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 95 | [Deep Blue](https://open.spotify.com/track/1c6xkwwhc0T5JdU2oiTFkH) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Deep Blue](https://open.spotify.com/album/7f9VlhNeNi5zc0URre6H6I) | 2:58 |
 | 96 | [Pissed in the Morning](https://open.spotify.com/track/37MEdkEWiuRRxzKmzzgaHb) | [Ricky James](https://open.spotify.com/artist/2mddthoxlzJ8mx06iAENrC) | [We're more than friends, but less than lovers.](https://open.spotify.com/album/4PWlGW7L9xO1LMF89Rhtnu) | 2:29 |
 | 97 | [White Picket Fence](https://open.spotify.com/track/6siOHdRw7Y4g0NmAZ5bweV) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [White Picket Fence](https://open.spotify.com/album/0OH3zQevY0Y3eXo0qA2aH1) | 2:56 |
-| 98 | [Baby Choppa](https://open.spotify.com/track/3oQfAuWO64dSVo2JYfdK3x) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [Free Me](https://open.spotify.com/album/3XC5zlSkJyspgDKUImnahR) | 2:24 |
+| 98 | [Baby Choppa](https://open.spotify.com/track/2oR601lE6D3Jrl0vT0Mhct) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [Free Me](https://open.spotify.com/album/3CZb7LkapC9PW8rQjedVBd) | 2:24 |
 | 99 | [1111](https://open.spotify.com/track/4MsZ2HwRZyyFSEhIgYxjCB) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [1111](https://open.spotify.com/album/6CHFEOsW7ihi1DlOrWHKKJ) | 3:00 |
 | 100 | [Still Miss U](https://open.spotify.com/track/3C3rtf7n8TNyUarr5fnRMW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme), [Kitty](https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV) | [Still Miss U](https://open.spotify.com/album/6Twb7nEWGMHnKHB4RKIHNu) | 3:47 |
 | 101 | [Right](https://open.spotify.com/track/4Z8uv43ji1zuzKxDzOR1DS) | [Bri Feel](https://open.spotify.com/artist/2bFe43J9gVry0s8sNN8Jet) | [Right](https://open.spotify.com/album/0qJFv1XxVA41TaqVy29ZmE) | 4:16 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 125 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 |
 | 126 | [If It Weren't For You](https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [If It Weren't For You](https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t) | 3:16 |
 
-Snapshot ID: `MCw0MWM1NTljMmExNGIyNGMyNzJiMDYwMjc5OGZkMTU1YzllM2QyZTlm`
+Snapshot ID: `MCw2NjY1MGVlMDJiYWFiNTgxYzQyMGRiMWM1NTQ4NmRhODdmZDM3M2Jh`

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Amaru
 
-1,346 songs - 2 day 15 hr 41 min
+1,348 songs - 2 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -724,7 +724,8 @@
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-08-18 | 2022-09-20 |
 | [Matin](https://open.spotify.com/track/2n9mhw8QD22FClNn9ye03T) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Matin](https://open.spotify.com/album/5QUnBzhQrzVPUDjnDqCrhB) | 2:32 | 2023-10-19 |  |
 | [matrix](https://open.spotify.com/track/2U1WraKDoy0he7Z03FXfNp) | [Ghost Shima](https://open.spotify.com/artist/2bSoJws20YwIWpzaMnrUcu) | [matrix](https://open.spotify.com/album/7kCGgpcphixTw2cI8MopXn) | 2:28 | 2023-03-02 | 2023-03-25 |
-| [MAXIMUM RIZZ](https://open.spotify.com/track/2f90oF6hNsvRd2T7pDgNht) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [MAXIMUM RIZZ](https://open.spotify.com/album/6NB2r3HWlI3qKrVk69giA9) | 2:27 | 2023-09-28 |  |
+| [MAXIMUM RIZZ](https://open.spotify.com/track/2f90oF6hNsvRd2T7pDgNht) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [MAXIMUM RIZZ](https://open.spotify.com/album/6NB2r3HWlI3qKrVk69giA9) | 2:27 | 2023-09-28 | 2023-10-25 |
+| [MAXIMUM RIZZ](https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:27 | 2023-10-20 |  |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL) | 1:54 | 2022-07-19 | 2022-07-26 |
 | [Me and the Devil](https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Sugarbread](https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa) | 3:05 | 2023-03-24 | 2023-04-14 |
 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 | 2023-01-09 | 2023-10-13 |
@@ -992,7 +993,8 @@
 | [Schnell](https://open.spotify.com/track/4eJaIuWmjaS8m0WnHX5G6P) | [kid kapri](https://open.spotify.com/artist/2fPTKvCZ1fEiDiuGFGMh2w) | [Schnell](https://open.spotify.com/album/2wD40HMPoIl9rM2JzT9MFt) | 3:00 | 2023-09-28 | 2023-10-10 |
 | [Schnelle Brille](https://open.spotify.com/track/1ChBwUU6drEFWCKXANhvKW) | [Addikt102](https://open.spotify.com/artist/08rciXpQrixSOu9GA0jSd7), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Schnelle Brille](https://open.spotify.com/album/7gcZZeUIyAWNTpDjziIxBA) | 2:54 | 2023-09-07 | 2023-09-29 |
 | [Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox) | [ilyproxy](https://open.spotify.com/artist/4wIBlvOhBSFNIAY7Gyht3h), [leander](https://open.spotify.com/artist/4vL5YP8WPnYnRHy2C64Ffx), [Hadesthegrim](https://open.spotify.com/artist/5zJRjAyQPqGD6TT2WwWCzf) | [Schnuffel](https://open.spotify.com/album/0OiurvRJpB36UMgVU2n2kp) | 3:15 | 2022-06-30 | 2022-07-05 |
-| [SCHOCKVERLIEBT](https://open.spotify.com/track/1UAML9SPwhRrfpJLaSMOol) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn), [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [SCHOCKVERLIEBT](https://open.spotify.com/album/1t4WROocwtaYaE85J1RDLz) | 2:01 | 2023-10-19 |  |
+| [SCHOCKVERLIEBT](https://open.spotify.com/track/1UAML9SPwhRrfpJLaSMOol) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn), [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [SCHOCKVERLIEBT](https://open.spotify.com/album/1t4WROocwtaYaE85J1RDLz) | 2:01 | 2023-10-19 | 2023-10-25 |
+| [SCHOCKVERLIEBT](https://open.spotify.com/track/2qHTMMgDpHTUMOQmMkRFvP) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn), [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [SCHOCKVERLIEBT](https://open.spotify.com/album/3AjZkTeoqEwIApTi2KKnNN) | 2:01 | 2023-10-20 |  |
 | [Schon gut](https://open.spotify.com/track/3XFbTdznmfjLogWvVJTrhc) | [kid kapri](https://open.spotify.com/artist/2fPTKvCZ1fEiDiuGFGMh2w) | [Schon gut](https://open.spotify.com/album/1eLgtW5knFtuzJUzD05i9q) | 2:18 | 2022-09-09 | 2022-10-11 |
 | [schon okay](https://open.spotify.com/track/29O9DmZ2vEYjPWrRG1zGck) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [schon okay](https://open.spotify.com/album/5EEKqJHXcJnO7a58fNudbX) | 2:46 | 2023-05-18 | 2023-07-27 |
 | [Schreien! \- Turbo Remix](https://open.spotify.com/track/4tQxA4wt4knZ19uqRka3u6) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [Schreien! \(Turbo Remix\)](https://open.spotify.com/album/39nZLctQpTKoFBNZ8gHjsE) | 2:45 | 2023-06-01 | 2023-07-18 |

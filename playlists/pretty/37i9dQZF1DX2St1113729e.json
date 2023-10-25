@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Rakky Ripper & Rizha",
-  "num_followers": 122281,
+  "num_followers": 122341,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTdiMGI4NGMyZmRjMjU0MzY0YzRhYzk5OTY1N2Y3ZGI1OTYxMWM5",
+  "snapshot_id": "MCwyOTNkNTYwMDA1OGU5ZDVhMzRmMThhNDMzNjBkZDFkNjUyMzgxZGM0",
   "tracks": [
     {
       "added_at": "2023-10-13 06:00:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "ESPINAS",
-        "url": "https://open.spotify.com/album/3lGBmbcL5HhyBZOLdVvnSO"
-      },
-      "artists": [
-        {
-          "name": "STRANGEL0VE",
-          "url": "https://open.spotify.com/artist/6IsXcpSH7ewL9FTTqSPFfP"
-        },
-        {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "ESPINAS",
-      "url": "https://open.spotify.com/track/3kcIQKnSLJP0KUWumNsDfb"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "QU\u00c9 M\u00c1S DA",
         "url": "https://open.spotify.com/album/0vPxyGWwFapgN1VLV65Wsi"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 153333,
       "name": "QU\u00c9 M\u00c1S DA",
       "url": "https://open.spotify.com/track/3ytTVQxppgPBANgAdYv3bs"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "ESPINAS",
+        "url": "https://open.spotify.com/album/3lGBmbcL5HhyBZOLdVvnSO"
+      },
+      "artists": [
+        {
+          "name": "STRANGEL0VE",
+          "url": "https://open.spotify.com/artist/6IsXcpSH7ewL9FTTqSPFfP"
+        },
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "ESPINAS",
+      "url": "https://open.spotify.com/track/3kcIQKnSLJP0KUWumNsDfb"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -987,30 +987,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Saturday Night",
-        "url": "https://open.spotify.com/album/7nGKhWqDtNum8DutBbFDDC"
-      },
-      "artists": [
-        {
-          "name": "LVL1",
-          "url": "https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ"
-        },
-        {
-          "name": "valverdina",
-          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
-        },
-        {
-          "name": "TURIAN BOY",
-          "url": "https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Saturday Night",
-      "url": "https://open.spotify.com/track/5LtRnDjLszqe4v8VBhcDeV"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "ALTERAWARE",
         "url": "https://open.spotify.com/album/3Oa78dDE9PDnbJmM9dkdVe"
       },
@@ -1031,6 +1007,30 @@
       "duration_ms": 168000,
       "name": "ALTERAWARE",
       "url": "https://open.spotify.com/track/73vlugJwvjE24YNo5rXez9"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Saturday Night",
+        "url": "https://open.spotify.com/album/7nGKhWqDtNum8DutBbFDDC"
+      },
+      "artists": [
+        {
+          "name": "LVL1",
+          "url": "https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ"
+        },
+        {
+          "name": "valverdina",
+          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
+        },
+        {
+          "name": "TURIAN BOY",
+          "url": "https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/5LtRnDjLszqe4v8VBhcDeV"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Cu\u00e1ntas Veces",
-        "url": "https://open.spotify.com/album/7igQKVqM29rwzZYHoV267G"
-      },
-      "artists": [
-        {
-          "name": "Nova Caeli",
-          "url": "https://open.spotify.com/artist/6RgIDy1x1vhGst77P2Wuts"
-        }
-      ],
-      "duration_ms": 161828,
-      "name": "Cu\u00e1ntas Veces",
-      "url": "https://open.spotify.com/track/7xqVmgYINjUmLktnTxQqFY"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "POP!",
         "url": "https://open.spotify.com/album/4lKQ0RdVuigNY5a77Py44t"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 147682,
       "name": "HOY ES UN MAL D\u00cdA",
       "url": "https://open.spotify.com/track/2AyF7X6ZwS1001Z5qGsYDw"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Cu\u00e1ntas Veces",
+        "url": "https://open.spotify.com/album/7igQKVqM29rwzZYHoV267G"
+      },
+      "artists": [
+        {
+          "name": "Nova Caeli",
+          "url": "https://open.spotify.com/artist/6RgIDy1x1vhGst77P2Wuts"
+        }
+      ],
+      "duration_ms": 161828,
+      "name": "Cu\u00e1ntas Veces",
+      "url": "https://open.spotify.com/track/7xqVmgYINjUmLktnTxQqFY"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "waterpolo",
-        "url": "https://open.spotify.com/album/267In0VMO1tk3QJ7UFadND"
-      },
-      "artists": [
-        {
-          "name": "Karma C",
-          "url": "https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh"
-        },
-        {
-          "name": "marinadorciud",
-          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
-        }
-      ],
-      "duration_ms": 178949,
-      "name": "waterpolo",
-      "url": "https://open.spotify.com/track/2YPInvtnWL6R5nmxerrH6f"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "2035",
         "url": "https://open.spotify.com/album/7xcHmGc4ctuRjSQn54hZst"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 112428,
       "name": "2035",
       "url": "https://open.spotify.com/track/3nbCRULrZIFo4prDNzOZ75"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "waterpolo",
+        "url": "https://open.spotify.com/album/267In0VMO1tk3QJ7UFadND"
+      },
+      "artists": [
+        {
+          "name": "Karma C",
+          "url": "https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh"
+        },
+        {
+          "name": "marinadorciud",
+          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
+        }
+      ],
+      "duration_ms": 178949,
+      "name": "waterpolo",
+      "url": "https://open.spotify.com/track/2YPInvtnWL6R5nmxerrH6f"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1807,22 +1807,18 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "TikTok",
-        "url": "https://open.spotify.com/album/35hGzz3bFwNrnqfPuYTDWu"
+        "name": "MENTERROTA",
+        "url": "https://open.spotify.com/album/4jl8ZsSkkKx2T5t8HNd2oG"
       },
       "artists": [
         {
-          "name": "Ure",
-          "url": "https://open.spotify.com/artist/0zdYNVXKtTexSAyDN5Wlz3"
-        },
-        {
-          "name": "Autotune Angel",
-          "url": "https://open.spotify.com/artist/51QnHDUuSZ6xZWeCIxtoyT"
+          "name": "mario cyrus",
+          "url": "https://open.spotify.com/artist/17SI9H35F9VeNTvLqH1dx5"
         }
       ],
-      "duration_ms": 128003,
-      "name": "TikTok",
-      "url": "https://open.spotify.com/track/6KkDeZ5espFoLmhKuaJkwh"
+      "duration_ms": 180211,
+      "name": "MENTERROTA",
+      "url": "https://open.spotify.com/track/2MYdg3KPg6xRdHZQmsJk57"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1843,6 +1839,26 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "TikTok",
+        "url": "https://open.spotify.com/album/35hGzz3bFwNrnqfPuYTDWu"
+      },
+      "artists": [
+        {
+          "name": "Ure",
+          "url": "https://open.spotify.com/artist/0zdYNVXKtTexSAyDN5Wlz3"
+        },
+        {
+          "name": "Autotune Angel",
+          "url": "https://open.spotify.com/artist/51QnHDUuSZ6xZWeCIxtoyT"
+        }
+      ],
+      "duration_ms": 128003,
+      "name": "TikTok",
+      "url": "https://open.spotify.com/track/6KkDeZ5espFoLmhKuaJkwh"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "SOLO PIENSO EN TI",
         "url": "https://open.spotify.com/album/1rOpIJuHiW72vtZSWOFv5g"
       },
@@ -1855,6 +1871,26 @@
       "duration_ms": 165330,
       "name": "SOLO PIENSO EN TI",
       "url": "https://open.spotify.com/track/5J99jbR3wtSGDZrHODOpbc"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Club Mood",
+        "url": "https://open.spotify.com/album/7A4AwFyMY3PC53Sd5zSmXE"
+      },
+      "artists": [
+        {
+          "name": "Lazykidd",
+          "url": "https://open.spotify.com/artist/6IvJetdbENjptniI7Gfmdv"
+        },
+        {
+          "name": "Kid$trange",
+          "url": "https://open.spotify.com/artist/6JVlP4bIQtcUrftDS1R2Q0"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Club Mood",
+      "url": "https://open.spotify.com/track/6EQ1GmJL0ITzztn1Nl22vP"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1875,22 +1911,6 @@
       "duration_ms": 147923,
       "name": "Sigues Tu - Eros White Remix",
       "url": "https://open.spotify.com/track/3CNEQxRMPHot5WD7aA12YG"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "MENTERROTA",
-        "url": "https://open.spotify.com/album/4jl8ZsSkkKx2T5t8HNd2oG"
-      },
-      "artists": [
-        {
-          "name": "mario cyrus",
-          "url": "https://open.spotify.com/artist/17SI9H35F9VeNTvLqH1dx5"
-        }
-      ],
-      "duration_ms": 180211,
-      "name": "MENTERROTA",
-      "url": "https://open.spotify.com/track/2MYdg3KPg6xRdHZQmsJk57"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1943,22 +1963,6 @@
       "duration_ms": 155776,
       "name": "No Future",
       "url": "https://open.spotify.com/track/5WqdhHhWaHbNKYsmr6OwCj"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Entre Tanta Gente",
-        "url": "https://open.spotify.com/album/45F6t9OxN6HekLxQtEbRXo"
-      },
-      "artists": [
-        {
-          "name": "Jonyx Ni\u00f1o Perdido",
-          "url": "https://open.spotify.com/artist/2ccGby3xTAUXBtkULIn0x4"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Entre Tanta Gente",
-      "url": "https://open.spotify.com/track/20O2VCZGEykubAmvurLrwv"
     }
   ],
   "unique_name": "helium",

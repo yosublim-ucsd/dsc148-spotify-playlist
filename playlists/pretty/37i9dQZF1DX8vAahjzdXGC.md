@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: The Kid Laroi, Jung Kook, Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,191 likes - 108 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,213 likes - 108 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 57 | [Kau Pergi](https://open.spotify.com/track/0leq3jzZkhUOXDjKtzZMx2) | [ROFA](https://open.spotify.com/artist/24fOBtG2MUcVO490MuYSFL), [Cacha Scholastica](https://open.spotify.com/artist/4lA0kkdCi2U5KxSq49dvMO) | [Kau Pergi](https://open.spotify.com/album/1wIvWAeC0voU31ME3uQtC0) | 2:54 |
 | 58 | [Menanti Tak Pasti](https://open.spotify.com/track/4LXH9zvpFK7dC0QT2eTo9N) | [Arman Harjo](https://open.spotify.com/artist/7IjOlGJhqTylWA6mf0PYfb), [Ferrent](https://open.spotify.com/artist/1xxwasrkAdp0qp48Dz5vkX), [GFRN](https://open.spotify.com/artist/6R8uzu1AcNhc7IgwzCqSsP) | [Menanti Tak Pasti](https://open.spotify.com/album/1BPKqILyBw47cjY4sDwyZr) | 3:12 |
 | 59 | [Pasti Bisa](https://open.spotify.com/track/73RlojrHXVqSA3NZeVK9Lp) | [Story Of Tomorrow](https://open.spotify.com/artist/3yOSZDGhURi7TNqOSERNRH) | [Heart of Mind](https://open.spotify.com/album/0ZiDSTcsVAMVvLY9OqtrTE) | 4:21 |
-| 60 | [FVCKTA](https://open.spotify.com/track/46dEn2FlXI9Pgg9sEHfoSx) | [MICL](https://open.spotify.com/artist/1IMaiqsE0OFmczM63J0a9N), [Naomi Ivo](https://open.spotify.com/artist/7qD7ytdQjlHr6W7kzFH5hH) | [FVCKTA](https://open.spotify.com/album/7qEDcPc3VDXGQTKcsul1Ue) | 3:09 |
+| 60 | [FVCKTA](https://open.spotify.com/track/46dEn2FlXI9Pgg9sEHfoSx) | [MIC\-L](https://open.spotify.com/artist/1gUldf4MvmwVpCER0dbZKi), [Naomi Ivo](https://open.spotify.com/artist/7qD7ytdQjlHr6W7kzFH5hH) | [FVCKTA](https://open.spotify.com/album/7qEDcPc3VDXGQTKcsul1Ue) | 3:09 |
 | 61 | [Wait and See](https://open.spotify.com/track/1bojxXpAm2fZqvQGIDfWyk) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE), [Grant Terry](https://open.spotify.com/artist/2ddZ1BXZRru1QyhNBSIb7E) | [Wait and See](https://open.spotify.com/album/06BpiyAlNX77cuQZ7JQHm5) | 3:01 |
 | 62 | [So What](https://open.spotify.com/track/1uWC5OG9GBYNjEWLIvpirZ) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [So What](https://open.spotify.com/album/463xJ8TlO5izv33kF1TCoS) | 2:36 |
 | 63 | [Howl](https://open.spotify.com/track/17cciVZC83EP26VENr3J5n) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Howl](https://open.spotify.com/album/4Dmzff19nSvZgWpgExga4d) | 2:49 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 107 | [am i in love?](https://open.spotify.com/track/4rrlU5omVhZN4RVKg83g8j) | [blackvelvetz](https://open.spotify.com/artist/3LM41UKgiR9khIkg8FS1k3) | [am i in love?](https://open.spotify.com/album/16Y4UUjzli47FkbPqYieXx) | 3:25 |
 | 108 | [Preacher](https://open.spotify.com/track/0dWhhgoBUldGUfSQMaqHdS) | [pariss](https://open.spotify.com/artist/5c1xmCiZ1QqV8xronuiPQC) | [Preacher](https://open.spotify.com/album/2KumeQV0vsNOOsmGXsuL3k) | 3:59 |
 
-Snapshot ID: `MCxkNTdhNmFmN2RlZDBlMzcwNWFjN2YwMTEwMTdhN2E3MmM3ZTM1N2M4`
+Snapshot ID: `MCw4MjhiNGU2Mjc3NjBlMWNmN2VhYWRlYzg1NmQ2ZGNmMmIzNzc2OTg2`

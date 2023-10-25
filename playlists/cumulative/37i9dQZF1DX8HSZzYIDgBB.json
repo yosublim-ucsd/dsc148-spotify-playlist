@@ -284,7 +284,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 156401,
       "name": "Amores Pasajeros",
       "url": "https://open.spotify.com/track/65zydwc1abLPtLqvi6fOID"
@@ -2766,6 +2766,24 @@
       "duration_ms": 277589,
       "name": "Los Estimados",
       "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
+    },
+    {
+      "album": {
+        "name": "Los Fines de Semana",
+        "url": "https://open.spotify.com/album/0239nPX0r342AlfkEidBHR"
+      },
+      "artists": [
+        {
+          "name": "La Dame Blanche",
+          "url": "https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227057,
+      "name": "Los Fines de Semana",
+      "url": "https://open.spotify.com/track/7rBXuya4uCZ0WXbX9RX8sT"
     },
     {
       "album": {

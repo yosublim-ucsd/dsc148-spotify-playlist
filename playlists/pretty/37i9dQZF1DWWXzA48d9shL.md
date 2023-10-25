@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,057 likes - 117 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,475 likes - 117 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 23 | [Provolone & Heroin \(Feat\. Freddie Dredd\)](https://open.spotify.com/track/54fRzLh8yrhK7lcjr6X5LH) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [YIN YANG TAPES: Fall Season \(1989\-1990\)](https://open.spotify.com/album/1hTPWpfjbWu8Trq3aZxFxB) | 3:56 |
 | 24 | [Glacier Pack](https://open.spotify.com/track/66QxkYu2FaOOwXwGozYUQe) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Glacier Pack](https://open.spotify.com/album/5TywaPIiadt6Oic1ApTij2) | 2:07 |
 | 25 | [TOOLIE BEAM](https://open.spotify.com/track/6wjR1iV0PmJRBJGsRyukSY) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [TOOLIE BEAM](https://open.spotify.com/album/0hnk0FclQcfKpAbKc9Qsxv) | 2:35 |
-| 26 | [777](https://open.spotify.com/track/4poMkivkZVPt6cWRPfSOUv) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/49MakTH6EbCMvPszbwvRAN) | 2:11 |
+| 26 | [777](https://open.spotify.com/track/7MZ5uD8Ak34XOt6cgzQGM3) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/40SfUo7opbVMkFNCval599) | 2:11 |
 | 27 | [$ix $ix](https://open.spotify.com/track/4b3gJ7fIKeo5Q3v5OSp9Ta) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [$ix $ix](https://open.spotify.com/album/6jKq9Avinx5yz7MzcPHPRG) | 1:52 |
 | 28 | [BLACKTOP](https://open.spotify.com/track/1V3xAfka9dN5KfVHtI747c) | [Yumi](https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2) | [LOST](https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP) | 1:21 |
 | 29 | [Ivory Coast Cocktail](https://open.spotify.com/track/7rJ4JkJORGMTnGFE2hd7u3) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [KEVLAR MONEY BAGS](https://open.spotify.com/album/1zw6CTbNWXZNdHaQjRHsF2) | 2:02 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 54 | [GANJA GOBLIN](https://open.spotify.com/track/2C0qiqukMAE9WZjvQB76qH) | [Pranav.Wav](https://open.spotify.com/artist/3lF1kjL5naJPzQjpWkg1IP) | [GANJA GOBLIN](https://open.spotify.com/album/6U4IaeKOwAnscsbdwEF5vJ) | 2:30 |
 | 55 | [YOU](https://open.spotify.com/track/2kBkseTPx3JksWLmfSAtTL) | [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju), [Cardeairé Latrelle](https://open.spotify.com/artist/43f5i9c2rhXrHmJaBt6bmG) | [YOU](https://open.spotify.com/album/24ATrBdz0bnhEeyjOioPL8) | 2:08 |
 | 56 | [Easter Pink](https://open.spotify.com/track/4GSOrzdPw00JS2aB2dAkSi) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Easter Pink](https://open.spotify.com/album/4zvl90HgnIRiO1sBRUPmf9) | 2:34 |
-| 57 | [XTC](https://open.spotify.com/track/10Gu5xREaHENiWT53WycZR) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [XTC](https://open.spotify.com/album/4gfe52IH6Rtm58PC16i95I) | 1:52 |
+| 57 | [XTC](https://open.spotify.com/track/7j1nSP2STIKRLndR6UDV2P) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [XTC](https://open.spotify.com/album/2zEFfNgzxryDCN9cAzRN0s) | 1:52 |
 | 58 | [D.O.A](https://open.spotify.com/track/1emIl2ARLo3I2CXbh3EKz1) | [Warlord Colossus](https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf), [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV) | [D.O.A](https://open.spotify.com/album/2swBtiVdXKsTFcm2hWkN4D) | 2:04 |
 | 59 | [wake up, choose violence](https://open.spotify.com/track/34Ggy1FcOxgFOCtjNaSZK3) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [wake up, choose violence](https://open.spotify.com/album/36J22fA0xZ474oPylmI92M) | 2:54 |
 | 60 | [DEAD SPACE](https://open.spotify.com/track/5PTrghejwHIxIQOjEZpjQg) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [DEAD SPACE](https://open.spotify.com/album/2zlWB2iozGBUV8LWEa8RMP) | 2:17 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 116 | [MONEY POWER FAME](https://open.spotify.com/track/4EsaTQDXDnD9hsKUjqtSK1) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [MONEY POWER FAME](https://open.spotify.com/album/3X3p3ZZ7VnV5JYwtfHUVQy) | 3:04 |
 | 117 | [GOD MODE!](https://open.spotify.com/track/21yw08HRAH2A7XAse3huYT) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [GOD MODE!](https://open.spotify.com/album/2zHlG0i6QwyFox9mhxynMO) | 2:43 |
 
-Snapshot ID: `MCwyNzdhYWYwMzU2ODQwNTg0OTQ1MTNjN2UyOWFkNWJmNmM2Nzg2M2Yz`
+Snapshot ID: `MCxjZTZhYzZkYmM0MjgyNmJmNDc0MDhhMWRjYTUwMTBjOTAxYTI3M2Yz`

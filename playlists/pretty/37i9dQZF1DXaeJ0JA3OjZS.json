@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 70375,
+  "num_followers": 70579,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Zjg4NmEzODIzOTgxMzhlYTBiOTU0NDEyNmFjNGY2NDc2MmQwZDk4",
+  "snapshot_id": "MCw4YmNjYTU4YTFiMDIyNGJhNjA2NjY2Y2FkNjZiMWEwNWMyZTQxMzU2",
   "tracks": [
     {
       "added_at": "2023-10-13 20:33:44",
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 184854,
-      "name": "El Siete Leguas",
-      "url": "https://open.spotify.com/track/7IpRUvslUAxkfXyEpuE09R"
+      "duration_ms": 190426,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/4xePDYKZKvxWNudB8ghgyA"
     },
     {
       "added_at": "2023-10-13 20:33:44",
@@ -444,25 +444,25 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 190426,
-      "name": "El Cantador",
-      "url": "https://open.spotify.com/track/4xePDYKZKvxWNudB8ghgyA"
+      "duration_ms": 184854,
+      "name": "El Siete Leguas",
+      "url": "https://open.spotify.com/track/7IpRUvslUAxkfXyEpuE09R"
     },
     {
       "added_at": "2023-10-13 20:33:44",
       "album": {
-        "name": "El Quemado",
-        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
+        "name": "Corridos de Caballos",
+        "url": "https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI"
       },
       "artists": [
         {
-          "name": "Beto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
         }
       ],
-      "duration_ms": 138130,
-      "name": "El Quemado",
-      "url": "https://open.spotify.com/track/5otHFBlYtJntssUdLSGeJH"
+      "duration_ms": 243500,
+      "name": "El 2 Estados",
+      "url": "https://open.spotify.com/track/42qBJPH22Hdw0e3yqPTU2q"
     },
     {
       "added_at": "2023-10-13 20:33:44",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-10-13 20:33:44",
       "album": {
-        "name": "Corridos de Caballos",
-        "url": "https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI"
+        "name": "El Quemado",
+        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
       },
       "artists": [
         {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+          "name": "Beto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
         }
       ],
-      "duration_ms": 243500,
-      "name": "El 2 Estados",
-      "url": "https://open.spotify.com/track/42qBJPH22Hdw0e3yqPTU2q"
+      "duration_ms": 138130,
+      "name": "El Quemado",
+      "url": "https://open.spotify.com/track/5otHFBlYtJntssUdLSGeJH"
     },
     {
       "added_at": "2023-10-13 20:33:44",

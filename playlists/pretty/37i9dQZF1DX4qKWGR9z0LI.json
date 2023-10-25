@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Adolescent's Orquestra",
-  "num_followers": 1833704,
+  "num_followers": 1833770,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGFlMThhNjk3MmI4MDNmMDQ2OTZmNzBmNjJlNWFiYWY5NjQ0NGUx",
+  "snapshot_id": "MCxmNzcyNzRlMWEwMjU5NTgyY2FlYmE3ZjViZGM3MTMwOTUzMWYwNDI1",
   "tracks": [
     {
       "added_at": "2023-10-19 19:29:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-10-19 19:29:00",
       "album": {
-        "name": "Nuevo Milenio - El Mismo Sabor",
-        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Me Liber\u00e9",
-      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
-    },
-    {
-      "added_at": "2023-10-19 19:29:00",
-      "album": {
         "name": "Probablemente",
         "url": "https://open.spotify.com/album/1xFgOy3uLcPd3sy5BL5m9u"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 217547,
       "name": "Probablemente",
       "url": "https://open.spotify.com/track/1RzRFnWWzFMzJiouw2BnOy"
+    },
+    {
+      "added_at": "2023-10-19 19:29:00",
+      "album": {
+        "name": "Nuevo Milenio - El Mismo Sabor",
+        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Me Liber\u00e9",
+      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
     },
     {
       "added_at": "2023-10-19 19:29:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-10-19 19:29:00",
       "album": {
-        "name": "La-33",
-        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
-      },
-      "artists": [
-        {
-          "name": "La-33",
-          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
-        }
-      ],
-      "duration_ms": 374840,
-      "name": "La Pantera Mambo",
-      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
-    },
-    {
-      "added_at": "2023-10-19 19:29:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 169207,
       "name": "El Que Ama Sufre",
       "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
+    },
+    {
+      "added_at": "2023-10-19 19:29:00",
+      "album": {
+        "name": "La-33",
+        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
+      },
+      "artists": [
+        {
+          "name": "La-33",
+          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
+        }
+      ],
+      "duration_ms": 374840,
+      "name": "La Pantera Mambo",
+      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
     },
     {
       "added_at": "2023-10-19 19:29:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-10-19 19:29:00",
       "album": {
-        "name": "Te Quise Olvidar",
-        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 209743,
-      "name": "Te Quise Olvidar",
-      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
-    },
-    {
-      "added_at": "2023-10-19 19:29:00",
-      "album": {
         "name": "Esa Soy Yo",
         "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 229945,
       "name": "Con Mi Amiga",
       "url": "https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y"
+    },
+    {
+      "added_at": "2023-10-19 19:29:00",
+      "album": {
+        "name": "Te Quise Olvidar",
+        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 209743,
+      "name": "Te Quise Olvidar",
+      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
     },
     {
       "added_at": "2023-10-19 19:29:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-10-19 19:29:00",
       "album": {
-        "name": "La Luz",
-        "url": "https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 185252,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF"
-    },
-    {
-      "added_at": "2023-10-19 19:29:00",
-      "album": {
         "name": "Empezando Otra Vez",
         "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 248325,
       "name": "Te Equivocaste Conmigo",
       "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
+    },
+    {
+      "added_at": "2023-10-19 19:29:00",
+      "album": {
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 185252,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF"
     },
     {
       "added_at": "2023-10-19 19:29:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-10-19 19:29:00",
       "album": {
-        "name": "Calle Linda (Golden Edition)",
-        "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
-      },
-      "artists": [
-        {
-          "name": "Pirulo y la Tribu",
-          "url": "https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO"
-        }
-      ],
-      "duration_ms": 383040,
-      "name": "Loco Pero Feliz",
-      "url": "https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t"
-    },
-    {
-      "added_at": "2023-10-19 19:29:00",
-      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
+    },
+    {
+      "added_at": "2023-10-19 19:29:00",
+      "album": {
+        "name": "Calle Linda (Golden Edition)",
+        "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
+      },
+      "artists": [
+        {
+          "name": "Pirulo y la Tribu",
+          "url": "https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO"
+        }
+      ],
+      "duration_ms": 383040,
+      "name": "Loco Pero Feliz",
+      "url": "https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t"
     },
     {
       "added_at": "2023-10-19 19:29:00",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2023-10-19 19:29:00",
       "album": {
-        "name": "Salsa At It's Best",
-        "url": "https://open.spotify.com/album/3h6vm8JRXQ43IiGXWH235R"
+        "name": "Salsa",
+        "url": "https://open.spotify.com/album/5ioWdgA2k4FhPQIC5bjSCY"
       },
       "artists": [
         {
-          "name": "Nino Segarra",
-          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
+          "name": "El Micha",
+          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
         }
       ],
-      "duration_ms": 304946,
-      "name": "Porque Te Amo",
-      "url": "https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l"
+      "duration_ms": 176360,
+      "name": "Salsa",
+      "url": "https://open.spotify.com/track/6hJShCXE9NWqhZfH2Qbi6n"
     }
   ],
   "unique_name": "Salsa Nation",

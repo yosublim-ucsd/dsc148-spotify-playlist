@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. Foto: Juliana Gattas",
-  "num_followers": 39421,
+  "num_followers": 39420,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGU1N2U2OWZhN2Y0OTMxMWI0YTExZTEwN2Y5ZTljZjJkMzE3NGIw",
+  "snapshot_id": "MCxiZGJiMjQwOWY5ZmQ4NDc2NzNjOGY2ZDY4YmNhYzk3NjkyNGNjNjBh",
   "tracks": [
     {
       "added_at": "2023-10-04 03:00:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "El Final de Las Cosas",
-        "url": "https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 319807,
-      "name": "Fin del Mundo",
-      "url": "https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
         "name": "Hay que venir al Sur",
         "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
       },
@@ -227,18 +211,18 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "Cardo o Ceniza",
-        "url": "https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl"
+        "name": "El Final de Las Cosas",
+        "url": "https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv"
       },
       "artists": [
         {
-          "name": "Agua Florida",
-          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
         }
       ],
-      "duration_ms": 183434,
-      "name": "Reina",
-      "url": "https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo"
+      "duration_ms": 319807,
+      "name": "Fin del Mundo",
+      "url": "https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -259,6 +243,22 @@
       "duration_ms": 167859,
       "name": "Acaramelao / End\u00falzame los O\u00eddos - Headphone Mix",
       "url": "https://open.spotify.com/track/4nbDc7f97uUIno916znqQM"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
+        "name": "Cardo o Ceniza",
+        "url": "https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl"
+      },
+      "artists": [
+        {
+          "name": "Agua Florida",
+          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
+        }
+      ],
+      "duration_ms": 183434,
+      "name": "Reina",
+      "url": "https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "Labio Inferior",
-        "url": "https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M"
-      },
-      "artists": [
-        {
-          "name": "Potra",
-          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
-        }
-      ],
-      "duration_ms": 175420,
-      "name": "Ninja",
-      "url": "https://open.spotify.com/track/3e4r36iC4TErf0yjSq4Ulh"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
         "name": "Cronos",
         "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 229750,
       "name": "Cronos",
       "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
+        "name": "Labio Inferior",
+        "url": "https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M"
+      },
+      "artists": [
+        {
+          "name": "Potra",
+          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
+        }
+      ],
+      "duration_ms": 175420,
+      "name": "Ninja",
+      "url": "https://open.spotify.com/track/3e4r36iC4TErf0yjSq4Ulh"
     },
     {
       "added_at": "2023-10-04 03:00:00",

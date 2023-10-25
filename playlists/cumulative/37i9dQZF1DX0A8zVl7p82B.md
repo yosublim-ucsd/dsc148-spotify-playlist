@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-228 songs - 12 hr 36 min
+229 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,8 @@
 | [Snowman \- Sped Up Version](https://open.spotify.com/track/3BwbSLW4YtIGkhCNFsHu52) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Snowman \(Sped Up Version\)](https://open.spotify.com/album/4ZGx4gR1GCT5i5zOHsRX6T) | 2:17 | 2022-10-25 |  |
 | [Step Into Christmas \- Remastered 1995](https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:32 | 2022-11-11 |  |
 | [Stretchy Pants](https://open.spotify.com/track/4nEo5fRitrMAf8VBfRBAWQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Stretchy Pants](https://open.spotify.com/album/6yMUbq6Ij65DrdAApMDgvD) | 3:07 | 2021-12-24 | 2022-10-26 |
-| [Thank You Note](https://open.spotify.com/track/5EHoaIl9RURnb8nhyf26ug) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Thank You Note](https://open.spotify.com/album/3rRIBVqBytXrBgtfsNpBe9) | 2:36 | 2021-12-24 |  |
+| [Thank You Note](https://open.spotify.com/track/5EHoaIl9RURnb8nhyf26ug) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Thank You Note](https://open.spotify.com/album/3rRIBVqBytXrBgtfsNpBe9) | 2:36 | 2021-12-24 | 2023-10-25 |
+| [Thank You Note](https://open.spotify.com/track/67ss3RFo9MIjrdJcyINI0w) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Thank You Note](https://open.spotify.com/album/15XmhSKh6fCVeiRbknWKlT) | 2:36 | 2023-10-06 |  |
 | [The Bells Are Ringing \- Acoustic](https://open.spotify.com/track/2bCs42HuMNTnbH4JCJ7tDo) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [The Bells Are Ringing \(Acoustic\)](https://open.spotify.com/album/0d4tQ6L8nuQiYMxtkM8iOI) | 3:05 | 2021-12-24 | 2022-10-26 |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/2cUW96AVns2GoEO3DWGo8v) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 4:15 | 2021-12-24 |  |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/4IkN8DoIuCYzCpcSeMcQSS) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/1rJRpYs4BJ7GIDG0zZCJSM) | 4:15 | 2021-12-24 | 2022-07-29 |

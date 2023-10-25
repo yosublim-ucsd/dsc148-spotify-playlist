@@ -1,12 +1,12 @@
 {
   "description": "Classic party anthems from the club to your ears!",
-  "num_followers": 274469,
+  "num_followers": 274526,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzljZGVkZmI5YTIwNWRhZmYwN2VkNzg0MDE3YzZlMjQ3N2E4MGY4",
+  "snapshot_id": "MCw2NjAyZDYzYTNiNWZjNWYyMzUyM2ZkMmMxYThjYjg5YTQwMzBlNWE1",
   "tracks": [
     {
       "added_at": "2020-11-06 16:59:04",
@@ -755,6 +755,22 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
+        "name": "Ya Kidding",
+        "url": "https://open.spotify.com/album/3pmLTOrDeJHsj01Fnu5030"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "Ya Kidding",
+      "url": "https://open.spotify.com/track/23u8Srx4MNpBjrM66Tj7On"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
         "name": "Solitary Daze",
         "url": "https://open.spotify.com/album/462nMAgJr4l14IqVngpOXM"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 150703,
       "name": "The Renegade",
       "url": "https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
-        "name": "Ya Kidding",
-        "url": "https://open.spotify.com/album/3pmLTOrDeJHsj01Fnu5030"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Ya Kidding",
-      "url": "https://open.spotify.com/track/23u8Srx4MNpBjrM66Tj7On"
     },
     {
       "added_at": "2020-11-06 16:59:04",

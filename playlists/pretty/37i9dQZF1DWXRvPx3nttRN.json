@@ -1,12 +1,12 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 516486,
+  "num_followers": 516625,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTQyZTFmNjVkZDhiYzc1YmU2MmFhZWFhM2Q3Y2YxMzM2NDUxZTg5",
+  "snapshot_id": "MCw2NjUxN2ExMTRkNGQyYWEyNDYwNjRhMDZkYmI4MjQ4MTNhOTFlOGE5",
   "tracks": [
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Strip That Down (Acoustic)",
-        "url": "https://open.spotify.com/album/3r0jAzmzY8r6tF1E6lYFr5"
-      },
-      "artists": [
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        }
-      ],
-      "duration_ms": 184475,
-      "name": "Strip That Down - Acoustic",
-      "url": "https://open.spotify.com/track/1Ddj6nkhUP3lHpLvDqPsvC"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Rockabye (Acoustic)",
         "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
+        "name": "Strip That Down (Acoustic)",
+        "url": "https://open.spotify.com/album/3r0jAzmzY8r6tF1E6lYFr5"
+      },
+      "artists": [
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        }
+      ],
+      "duration_ms": 184475,
+      "name": "Strip That Down - Acoustic",
+      "url": "https://open.spotify.com/track/1Ddj6nkhUP3lHpLvDqPsvC"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
         "name": "The Best Of...",
         "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
       },
@@ -1175,22 +1175,6 @@
       "duration_ms": 200840,
       "name": "Wherever You Will Go - Acoustic",
       "url": "https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
-        "name": "La La Land EP",
-        "url": "https://open.spotify.com/album/2UfIYmCJf5pvhiaYH8X0fK"
-      },
-      "artists": [
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        }
-      ],
-      "duration_ms": 137195,
-      "name": "La La Land - Acoustic",
-      "url": "https://open.spotify.com/track/1sMi8ywnrNKysixM34zH9W"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1223,6 +1207,22 @@
       "duration_ms": 214586,
       "name": "Lost In Japan - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "La La Land EP",
+        "url": "https://open.spotify.com/album/2UfIYmCJf5pvhiaYH8X0fK"
+      },
+      "artists": [
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        }
+      ],
+      "duration_ms": 137195,
+      "name": "La La Land - Acoustic",
+      "url": "https://open.spotify.com/track/1sMi8ywnrNKysixM34zH9W"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk"
+      },
+      "artists": [
+        {
+          "name": "Reggii",
+          "url": "https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP"
+        }
+      ],
+      "duration_ms": 174837,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
         "name": "I'll Scream (All The Words) (feat. Jessie Reyez)",
         "url": "https://open.spotify.com/album/1SvB73HwvP9xGYvNwUKfBB"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 223030,
       "name": "I'll Scream (All The Words) (feat. Jessie Reyez)",
       "url": "https://open.spotify.com/track/7Js0XIcvp0lavx7G8fInJA"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk"
-      },
-      "artists": [
-        {
-          "name": "Reggii",
-          "url": "https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP"
-        }
-      ],
-      "duration_ms": 174837,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 149062,
-      "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Turn Out the Lights",
         "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 203973,
       "name": "Turn Out the Lights",
       "url": "https://open.spotify.com/track/4lZ0S6jbJbeOmkfFXfDNxl"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 149062,
+      "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "R.E.V.O.",
-        "url": "https://open.spotify.com/album/4E2tpJR1a6bsKNrAZcXGvP"
-      },
-      "artists": [
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 248240,
-      "name": "Somebody That I Used to Know",
-      "url": "https://open.spotify.com/track/6mLufFjkRHCHaV1KJAOcte"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Perfect to Me (Acoustic)",
         "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 213213,
       "name": "Perfect To Me - Acoustic",
       "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "R.E.V.O.",
+        "url": "https://open.spotify.com/album/4E2tpJR1a6bsKNrAZcXGvP"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 248240,
+      "name": "Somebody That I Used to Know",
+      "url": "https://open.spotify.com/track/6mLufFjkRHCHaV1KJAOcte"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
+        "name": "New Rules",
+        "url": "https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE"
+      },
+      "artists": [
+        {
+          "name": "Becca Adams",
+          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
+        }
+      ],
+      "duration_ms": 227279,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
         "name": "Too Young",
         "url": "https://open.spotify.com/album/1abOgtHlHVN4INBipRQmds"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 227413,
       "name": "Sorry I'm Gone",
       "url": "https://open.spotify.com/track/60r0gseRNjgAfF3EiiRFXL"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
-        "name": "New Rules",
-        "url": "https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE"
-      },
-      "artists": [
-        {
-          "name": "Becca Adams",
-          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
-        }
-      ],
-      "duration_ms": 227279,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/7xxlAnL8WkSKsd26by0bfL"
-      },
-      "artists": [
-        {
-          "name": "Tay Watts",
-          "url": "https://open.spotify.com/artist/1fDLfG3k8h1ZFn2YtzsOhf"
-        }
-      ],
-      "duration_ms": 194965,
-      "name": "The Way You Make Me Feel",
-      "url": "https://open.spotify.com/track/3kYhNTBsprEoL1x66oguBj"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Over My Head (Cable Car)",
         "url": "https://open.spotify.com/album/0NgiEbNqjo4ZqnSuMApXHz"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 230133,
       "name": "Over My Head (Cable Car) - Live at Sirius Radio, NYC, NY - May 2006",
       "url": "https://open.spotify.com/track/2IQvTnOS1sicZ3plBZL6KR"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/7xxlAnL8WkSKsd26by0bfL"
+      },
+      "artists": [
+        {
+          "name": "Tay Watts",
+          "url": "https://open.spotify.com/artist/1fDLfG3k8h1ZFn2YtzsOhf"
+        }
+      ],
+      "duration_ms": 194965,
+      "name": "The Way You Make Me Feel",
+      "url": "https://open.spotify.com/track/3kYhNTBsprEoL1x66oguBj"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Acapella",
-        "url": "https://open.spotify.com/album/5XyVSYJJ4LaBfcsqVuYR2F"
-      },
-      "artists": [
-        {
-          "name": "Tim Schou",
-          "url": "https://open.spotify.com/artist/5XThsmRraC5gvRpetD2S1q"
-        }
-      ],
-      "duration_ms": 199024,
-      "name": "Acapella",
-      "url": "https://open.spotify.com/track/782iR5tNx93ayC8lwFjKv5"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Your Song (Acoustic)",
         "url": "https://open.spotify.com/album/3BfAAuW2nmVgQi1MOb85h3"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 200006,
       "name": "Your Song - Acoustic",
       "url": "https://open.spotify.com/track/19TkHF0HPSjDtCIFJzE6qF"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Acapella",
+        "url": "https://open.spotify.com/album/5XyVSYJJ4LaBfcsqVuYR2F"
+      },
+      "artists": [
+        {
+          "name": "Tim Schou",
+          "url": "https://open.spotify.com/artist/5XThsmRraC5gvRpetD2S1q"
+        }
+      ],
+      "duration_ms": 199024,
+      "name": "Acapella",
+      "url": "https://open.spotify.com/track/782iR5tNx93ayC8lwFjKv5"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Acoustic Hits, Vol. 4",
-        "url": "https://open.spotify.com/album/6zeNaLNHm4ajsYwav0Jq0G"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        }
-      ],
-      "duration_ms": 146519,
-      "name": "Cheerleader - Acoustic Version",
-      "url": "https://open.spotify.com/track/5SQwiRsUnh3V1Sx0nmV79w"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
       },
@@ -2695,6 +2679,22 @@
       "duration_ms": 142177,
       "name": "Only Want You - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Acoustic Hits, Vol. 4",
+        "url": "https://open.spotify.com/album/6zeNaLNHm4ajsYwav0Jq0G"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+        }
+      ],
+      "duration_ms": 146519,
+      "name": "Cheerleader - Acoustic Version",
+      "url": "https://open.spotify.com/track/5SQwiRsUnh3V1Sx0nmV79w"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2747,22 +2747,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Boy & Bear at Golden Retriever Studio",
-        "url": "https://open.spotify.com/album/6RrsqCPJLgyTX5LG8UBbgr"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Telescope - Acoustic",
-      "url": "https://open.spotify.com/track/538NuUdDJkBjumWei86WVH"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "The Covers, Vol. 5",
         "url": "https://open.spotify.com/album/660ZTDD3FsHdsPmZguPsLG"
       },
@@ -2775,6 +2759,22 @@
       "duration_ms": 219511,
       "name": "Can't Hold Us",
       "url": "https://open.spotify.com/track/0QCUpJtArsva9KIgc2TspW"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Boy & Bear at Golden Retriever Studio",
+        "url": "https://open.spotify.com/album/6RrsqCPJLgyTX5LG8UBbgr"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Telescope - Acoustic",
+      "url": "https://open.spotify.com/track/538NuUdDJkBjumWei86WVH"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2799,22 +2799,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Circles (Acoustic)",
-        "url": "https://open.spotify.com/album/5yIR9qGQWDNr5WZlStLxru"
-      },
-      "artists": [
-        {
-          "name": "Adam Christopher",
-          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Circles - Acoustic",
-      "url": "https://open.spotify.com/track/6sh4pUTeKKXr1RcIBe0AhS"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Sucker (Acoustic)",
         "url": "https://open.spotify.com/album/6i7dxbQqFN1UbjUCoDWh13"
       },
@@ -2827,6 +2811,22 @@
       "duration_ms": 179782,
       "name": "Sucker (Acoustic)",
       "url": "https://open.spotify.com/track/3dtyOjGhZOEYkQQLPLTJVP"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Circles (Acoustic)",
+        "url": "https://open.spotify.com/album/5yIR9qGQWDNr5WZlStLxru"
+      },
+      "artists": [
+        {
+          "name": "Adam Christopher",
+          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Circles - Acoustic",
+      "url": "https://open.spotify.com/track/6sh4pUTeKKXr1RcIBe0AhS"
     },
     {
       "added_at": "2023-10-23 17:16:09",

@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-408 songs - 22 hr 58 min
+409 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Honesty \- Cool Company Remix](https://open.spotify.com/track/7fxTweRQLu5xIKWSajN7GS) | [Linda Diaz](https://open.spotify.com/artist/0GyNf8GO6wlbCrReIREot3), [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Honesty \(Cool Company Remixes\)](https://open.spotify.com/album/7MTHZnqXV5bL1Am1Mq1fAN) | 2:55 | 2021-09-21 | 2023-02-18 |
 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 | 2022-04-01 |  |
 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 | 2022-08-26 | 2023-10-21 |
-| [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 | 2022-04-01 |  |
+| [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 | 2022-04-01 | 2023-10-25 |
+| [I Can't Help But Feel](https://open.spotify.com/track/4zgGNKt9YQGUQHRu9FgZPM) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Hidden Youth](https://open.spotify.com/album/0p6lFaFEpTcukkXu793jXB) | 2:58 | 2022-04-08 |  |
 | [I Don't Mind \(feat\. Ben Chandler\) \- Tim Atlas Remix](https://open.spotify.com/track/1GnPvCbotk6yCBGDLijet9) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH), [Ben Chandler](https://open.spotify.com/artist/5spCYJNfwMEdTpMrir8dJF) | [I Don't Mind \(feat\. Ben Chandler\) \[Tim Atlas Remix\]](https://open.spotify.com/album/7obRDpFWQB79fhmpFaJvbT) | 2:11 | 2021-10-01 | 2022-05-23 |
 | [I Feel Like Dancing](https://open.spotify.com/track/4xYlpJPENfM4DT0rUYFqSP) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [I Feel Like Dancing](https://open.spotify.com/album/0A22WfozS221n5tsFlJhfR) | 3:38 | 2023-02-17 | 2023-04-01 |
 | [I Feel The Light](https://open.spotify.com/track/1ccT0xJ6NNzAuglsM1UMQB) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Bright New World](https://open.spotify.com/album/0pS7jX45OJ9yac9eInnGvH) | 3:38 | 2021-09-21 | 2022-04-20 |

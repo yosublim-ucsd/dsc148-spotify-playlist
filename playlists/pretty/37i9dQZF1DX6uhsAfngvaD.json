@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 295618,
+  "num_followers": 295728,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTFmMzJmZTM0OTM4ZmI5ZTk0ZDg2NzczNDA3N2Q5ZDc3NTRiYjhh",
+  "snapshot_id": "MCxmNTg3M2UzZmZhMjNlMDFmZDFjMmI3OTlkZjY4Y2IyNTExMzgxMTUy",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Cellar",
+        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
+      },
+      "artists": [
+        {
+          "name": "Sea Lemon",
+          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
+        }
+      ],
+      "duration_ms": 245998,
+      "name": "Cellar",
+      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 190840,
       "name": "Only One Man (with Melody's Echo Chamber)",
       "url": "https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Cellar",
-        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
-      },
-      "artists": [
-        {
-          "name": "Sea Lemon",
-          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
-        }
-      ],
-      "duration_ms": 245998,
-      "name": "Cellar",
-      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Gloomy Girl",
-        "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 186410,
-      "name": "Gloomy Girl",
-      "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "number own",
         "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 159032,
       "name": "number own",
       "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Gloomy Girl",
+        "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 186410,
+      "name": "Gloomy Girl",
+      "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Full Hand",
+        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
+      },
+      "artists": [
+        {
+          "name": "Kevin Krauter",
+          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Opportunity",
+      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Future Falling",
         "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Full Hand",
-        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
+        "name": "rest up",
+        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
       },
       "artists": [
         {
-          "name": "Kevin Krauter",
-          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
         }
       ],
-      "duration_ms": 213480,
-      "name": "Opportunity",
-      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
+      "duration_ms": 204464,
+      "name": "rest up",
+      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1163,22 +1179,6 @@
       "duration_ms": 229333,
       "name": "Blister",
       "url": "https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "rest up",
-        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 204464,
-      "name": "rest up",
-      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Sentimiento Mundial",
-        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
-      },
-      "artists": [
-        {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Delicadeza",
-      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Smothered",
         "url": "https://open.spotify.com/album/21zwExLy0H0BDbrIb0J2DC"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 166453,
       "name": "What Does It Mean To Me?",
       "url": "https://open.spotify.com/track/0fQMFvcUD9j1SBFRoTHxnL"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Sentimiento Mundial",
+        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
+      },
+      "artists": [
+        {
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Delicadeza",
+      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
     }
   ],
   "unique_name": "Dreampop",

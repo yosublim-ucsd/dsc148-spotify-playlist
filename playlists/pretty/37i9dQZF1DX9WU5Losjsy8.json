@@ -1,12 +1,12 @@
 {
   "description": "Ist nur einmal im Jahr!",
-  "num_followers": 365183,
+  "num_followers": 365345,
   "original_name": "Malle Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWEzMzc1OTFkMzM4NTcwYWI0OWQ3YjRmMWVkYWFkZGVmN2QwNDYw",
+  "snapshot_id": "MCxmOTdjOTQ5NGQzZGUxZDY1ODJhMzZmMmRkOWY2ZTVlYTg3MjY5MjBm",
   "tracks": [
     {
       "added_at": "2023-10-20 15:43:15",
@@ -463,6 +463,26 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
+        "name": "Igel",
+        "url": "https://open.spotify.com/album/6wGn5LhAfZsymA3wVyBWFv"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "Vanessa Mai",
+          "url": "https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7"
+        }
+      ],
+      "duration_ms": 134826,
+      "name": "Igel",
+      "url": "https://open.spotify.com/track/1op1VrGBMP2uuPOMFQ45R3"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
         "name": "Rapunzel (DJ Robin Remix)",
         "url": "https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 165045,
       "name": "Rapunzel - DJ Robin Remix",
       "url": "https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
-        "name": "Igel",
-        "url": "https://open.spotify.com/album/6wGn5LhAfZsymA3wVyBWFv"
-      },
-      "artists": [
-        {
-          "name": "Ikke H\u00fcftgold",
-          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
-        },
-        {
-          "name": "Vanessa Mai",
-          "url": "https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7"
-        }
-      ],
-      "duration_ms": 134826,
-      "name": "Igel",
-      "url": "https://open.spotify.com/track/1op1VrGBMP2uuPOMFQ45R3"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
+        "name": "Ich schwanke noch",
+        "url": "https://open.spotify.com/album/3RyHanFXbchaHozto8cFJN"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        }
+      ],
+      "duration_ms": 209358,
+      "name": "Ich schwanke noch",
+      "url": "https://open.spotify.com/track/6myefhZIHsPCDloC1iu8KS"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
         "name": "Wir eskalieren",
         "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
-        "name": "Ich schwanke noch",
-        "url": "https://open.spotify.com/album/3RyHanFXbchaHozto8cFJN"
-      },
-      "artists": [
-        {
-          "name": "Ikke H\u00fcftgold",
-          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
-        }
-      ],
-      "duration_ms": 209358,
-      "name": "Ich schwanke noch",
-      "url": "https://open.spotify.com/track/6myefhZIHsPCDloC1iu8KS"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
         "name": "Partysau",
         "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
-        "name": "Herzfrequenz",
-        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00fcmchen",
-          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "Herz an Herz",
-      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
         "name": "Party Chaos",
         "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 194173,
       "name": "Strobo Pop",
       "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
+        "name": "Herzfrequenz",
+        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "Herz an Herz",
+      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
-        "name": "Arielle",
-        "url": "https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        },
-        {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
-        }
-      ],
-      "duration_ms": 205217,
-      "name": "Arielle",
-      "url": "https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
         "name": "Zum Greifen nah",
         "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 206302,
       "name": "Saufi saufi",
       "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
+        "name": "Arielle",
+        "url": "https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "Arielle",
+      "url": "https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
-        "name": "Marie",
-        "url": "https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP"
-      },
-      "artists": [
-        {
-          "name": "Die Draufg\u00e4nger",
-          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
-        }
-      ],
-      "duration_ms": 200314,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
         "name": "Ich schie\u00df mich weg",
         "url": "https://open.spotify.com/album/1nkb9GbsadB9rE1vonRmXg"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 127989,
       "name": "Ich schie\u00df mich weg",
       "url": "https://open.spotify.com/track/72ZWod6JckJuSZ4BeyEqPU"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
+        "name": "Marie",
+        "url": "https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP"
+      },
+      "artists": [
+        {
+          "name": "Die Draufg\u00e4nger",
+          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe"
     }
   ],
   "unique_name": "Malle Party 2023",

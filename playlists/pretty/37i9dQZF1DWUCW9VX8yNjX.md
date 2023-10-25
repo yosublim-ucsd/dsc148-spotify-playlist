@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,130 likes - 150 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,126 likes - 150 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 68 | [Ni en Defensa Propia](https://open.spotify.com/track/2DXigvJtnOxD7QPv7hhrIj) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ni En Defensa Propia](https://open.spotify.com/album/5MjQ6gStH8eWochAk1NbAr) | 2:24 |
 | 69 | [Popurrí Juan Gabriel / Ya Lo Sé Que Tú Te Vas / La Diferencia / Te Sigo Amando \- En Vivo](https://open.spotify.com/track/0rrhbg6KmRfAFZ7owKroiv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 8:04 |
 | 70 | [Loco](https://open.spotify.com/track/7eEvb7cYpg2CAVfpS0bPX3) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:17 |
-| 71 | [Mi Viejo](https://open.spotify.com/track/21OFSk5TSN8U9yMTMN9wih) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [La Historia De Un Idolo](https://open.spotify.com/album/7HgnENwYD1XHwIMdZLIkhU) | 3:10 |
-| 72 | [Yo Quiero Ser](https://open.spotify.com/track/45hZQUKq1hhbBVoGaz2M1x) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 2:56 |
+| 71 | [Yo Quiero Ser](https://open.spotify.com/track/45hZQUKq1hhbBVoGaz2M1x) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 2:56 |
+| 72 | [Mi Viejo](https://open.spotify.com/track/21OFSk5TSN8U9yMTMN9wih) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [La Historia De Un Idolo](https://open.spotify.com/album/7HgnENwYD1XHwIMdZLIkhU) | 3:10 |
 | 73 | [Mentí](https://open.spotify.com/track/1LBMyEhRDTzwvZPqaGvnCJ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:16 |
 | 74 | [Quiero Que Vuelvas](https://open.spotify.com/track/4HZg5K3kyDlJoscAL5888V) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Quiero Que Vuelvas](https://open.spotify.com/album/2lILQGv9BgTamuECgiljJX) | 2:36 |
 | 75 | [Cuando Yo Quería Ser Grande](https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:42 |
@@ -152,11 +152,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 142 | [Agua Salada](https://open.spotify.com/track/0zpwifNScjNcCxcpwjQs5N) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 3:20 |
 | 143 | [El Caballo de Mi Padre](https://open.spotify.com/track/7geALLlb83RRB8FX4BEBIw) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Mis 80's](https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh) | 3:21 |
 | 144 | [Mi Último Fracaso](https://open.spotify.com/track/3hD65xSEGpWsGHs9XRmsB3) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 3:12 |
-| 145 | [Si Quieres](https://open.spotify.com/track/01tyWRSqMtwY3uSfYgMIjY) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Si Quieres](https://open.spotify.com/album/1HXI2wijuioMYdbJ6G5cvR) | 4:19 |
-| 146 | [Quiero Que Vuelvas \- Live](https://open.spotify.com/track/3ksT9LcgbVR0QrEIguNDT1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Quiero Que Vuelvas \(Live\)](https://open.spotify.com/album/5TGk26qXwyUeDQWf8AQpfW) | 2:39 |
-| 147 | [Amor de Mi Alma](https://open.spotify.com/track/5EqCOJ1eCdTXU7S2ouz0dg) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 4:51 |
-| 148 | [Flores Negras](https://open.spotify.com/track/5w4lrTtCsUDxYGmLkrXtDo) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 3:30 |
+| 145 | [Quiero Que Vuelvas \- Live](https://open.spotify.com/track/3ksT9LcgbVR0QrEIguNDT1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Quiero Que Vuelvas \(Live\)](https://open.spotify.com/album/5TGk26qXwyUeDQWf8AQpfW) | 2:39 |
+| 146 | [Si Quieres](https://open.spotify.com/track/01tyWRSqMtwY3uSfYgMIjY) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Si Quieres](https://open.spotify.com/album/1HXI2wijuioMYdbJ6G5cvR) | 4:19 |
+| 147 | [Flores Negras](https://open.spotify.com/track/5w4lrTtCsUDxYGmLkrXtDo) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 3:30 |
+| 148 | [Amor de Mi Alma](https://open.spotify.com/track/5EqCOJ1eCdTXU7S2ouz0dg) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 4:51 |
 | 149 | [Para Nada](https://open.spotify.com/track/3HqDtfyluJxxNR9oWshJGp) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 3:29 |
 | 150 | [Para Sacarte De Mi Vida \- Versión Norteña](https://open.spotify.com/track/4itGUqG0j7mOHfAzTZSkAO) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Para Sacarte De Mi Vida \(Versión Norteña\)](https://open.spotify.com/album/3zdLxMDh5JtA6afQj9L5Yw) | 3:56 |
 
-Snapshot ID: `MCwzZjFkNzM5NjJlZmNhYmFmOWQxNDUwYTc3NjhkODlhMzAyZmQxNzFi`
+Snapshot ID: `MCw5NzkxNDEyMDA0YjQyN2FmNmE2OWFkYzI4MDIxYzk4YTBkYWE0YTI0`

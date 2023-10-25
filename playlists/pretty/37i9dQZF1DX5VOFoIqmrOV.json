@@ -1,12 +1,12 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Ala Vaikunthapurramuloo",
-  "num_followers": 301284,
+  "num_followers": 301588,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGVmNTMzMjc0MDY3MGE3YTgwZjFmNmIzYjk0MjE1MzBkZjA5M2I0",
+  "snapshot_id": "MCxiMGM2Y2Q4MjA3YzFlZjAwYjI2MmYzMzllMzcwNDQ5YmQ4MWM2ZDY3",
   "tracks": [
     {
       "added_at": "2022-07-24 04:40:57",
@@ -263,22 +263,22 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Sarrainodu",
-        "url": "https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8"
+        "name": "DJ",
+        "url": "https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw"
       },
       "artists": [
         {
-          "name": "Jubin Nautiyal",
-          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+          "name": "M.L.R. Karthikeyan",
+          "url": "https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm"
         },
         {
-          "name": "Sameera Bharadwaj",
-          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
         }
       ],
-      "duration_ms": 264544,
-      "name": "Telusaa Telusaa",
-      "url": "https://open.spotify.com/track/1jz0PUb4rChtZUk4Itn1Co"
+      "duration_ms": 264514,
+      "name": "Gudilo Badilo Madilo",
+      "url": "https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q"
     },
     {
       "added_at": "2023-01-10 09:27:27",
@@ -323,22 +323,22 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "DJ",
-        "url": "https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw"
+        "name": "Sarrainodu",
+        "url": "https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8"
       },
       "artists": [
         {
-          "name": "M.L.R. Karthikeyan",
-          "url": "https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm"
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
         },
         {
-          "name": "K. S. Chithra",
-          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+          "name": "Sameera Bharadwaj",
+          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
         }
       ],
-      "duration_ms": 264514,
-      "name": "Gudilo Badilo Madilo",
-      "url": "https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q"
+      "duration_ms": 264544,
+      "name": "Telusaa Telusaa",
+      "url": "https://open.spotify.com/track/1jz0PUb4rChtZUk4Itn1Co"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -393,26 +393,6 @@
       "url": "https://open.spotify.com/track/5JnXwEckWO0oFijOyTZDLf"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Chalo",
-        "url": "https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Mahati Swara Sagar",
-          "url": "https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd"
-        }
-      ],
-      "duration_ms": 202111,
-      "name": "Choosi Chudangane",
-      "url": "https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF"
-    },
-    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Mirchi",
@@ -431,6 +411,26 @@
       "duration_ms": 266760,
       "name": "Idhedho Bagundhe",
       "url": "https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Chalo",
+        "url": "https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Mahati Swara Sagar",
+          "url": "https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd"
+        }
+      ],
+      "duration_ms": 202111,
+      "name": "Choosi Chudangane",
+      "url": "https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -721,26 +721,6 @@
       "url": "https://open.spotify.com/track/0i5KYCaQs1xY7z9MWCFoXW"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Radhe Shyam",
-        "url": "https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Harini Ivaturi",
-          "url": "https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI"
-        }
-      ],
-      "duration_ms": 232762,
-      "name": "Ee Raathale",
-      "url": "https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R"
-    },
-    {
       "added_at": "2022-08-16 07:40:21",
       "album": {
         "name": "Kaanunna Kalyanam [From \"Sita Ramam (Telugu)\"]",
@@ -763,6 +743,26 @@
       "duration_ms": 232513,
       "name": "Kaanunna Kalyanam (From \"Sita Ramam (Telugu)\")",
       "url": "https://open.spotify.com/track/3eH3HTKPBmxvbT7OgxjNit"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Radhe Shyam",
+        "url": "https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Harini Ivaturi",
+          "url": "https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI"
+        }
+      ],
+      "duration_ms": 232762,
+      "name": "Ee Raathale",
+      "url": "https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -801,6 +801,22 @@
       "url": "https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS"
     },
     {
+      "added_at": "2023-01-11 20:52:12",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/47S3yMixAINohfHXD5vHfc"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi, Shashaa Tirupati, Yazin Nizar",
+          "url": "https://open.spotify.com/artist/3TttERM9n1ASk6Afa8Vgjt"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Manasu Maree",
+      "url": "https://open.spotify.com/track/57xczqwxDF0HZsuPyVEJXa"
+    },
+    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Oohalu Gusagusalade (Original Motion Picture Soundtrack)",
@@ -821,22 +837,6 @@
       "url": "https://open.spotify.com/track/6vsPBbLGfeLraBanG4HJaR"
     },
     {
-      "added_at": "2023-01-11 20:52:12",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/47S3yMixAINohfHXD5vHfc"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi, Shashaa Tirupati, Yazin Nizar",
-          "url": "https://open.spotify.com/artist/3TttERM9n1ASk6Afa8Vgjt"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Manasu Maree",
-      "url": "https://open.spotify.com/track/57xczqwxDF0HZsuPyVEJXa"
-    },
-    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Jathi Ratnalu",
@@ -851,6 +851,26 @@
       "duration_ms": 184128,
       "name": "Chitti",
       "url": "https://open.spotify.com/track/6PQpG2HlVxuR6GwwWQX7XM"
+    },
+    {
+      "added_at": "2022-08-16 07:40:21",
+      "album": {
+        "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
+        "url": "https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        }
+      ],
+      "duration_ms": 218808,
+      "name": "Inthandham (From \"Sita Ramam (Telugu)\")",
+      "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -883,26 +903,6 @@
       "duration_ms": 223961,
       "name": "Saami Saami",
       "url": "https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC"
-    },
-    {
-      "added_at": "2022-08-16 07:40:21",
-      "album": {
-        "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
-        "url": "https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "S.P. Charan",
-          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
-        }
-      ],
-      "duration_ms": 218808,
-      "name": "Inthandham (From \"Sita Ramam (Telugu)\")",
-      "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1009,10 +1009,10 @@
       "url": "https://open.spotify.com/track/0hFZn71Eyc8ajuQ2ax6bZW"
     },
     {
-      "added_at": "2023-05-04 06:50:45",
+      "added_at": "2021-12-16 12:46:43",
       "album": {
-        "name": "Petta (Telugu) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/4gtt8h7YGortJoVjb42k2H"
+        "name": "Psycho Saiyaan (From \"Saaho\")",
+        "url": "https://open.spotify.com/album/5qriE8k5TQuWLXKKnyxjDF"
       },
       "artists": [
         {
@@ -1020,13 +1020,17 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Mano",
-          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Massu Maranam - From \"Petta (Telugu)\"",
-      "url": "https://open.spotify.com/track/1Nh7gea2bnOt9i3HQI1JCB"
+      "duration_ms": 166293,
+      "name": "Psycho Saiyaan (From \"Saaho\")",
+      "url": "https://open.spotify.com/track/2IbRKQwgiyvXY1yVq8GuA3"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -1307,22 +1311,6 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Govindudu Andarivaadele",
-        "url": "https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W"
-      },
-      "artists": [
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Gulabi Kallu Rendu Mullu",
-      "url": "https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
         "name": "Aa Aaa",
         "url": "https://open.spotify.com/album/6v3wCqXfxeBqt63zXTCQOY"
       },
@@ -1335,6 +1323,22 @@
       "duration_ms": 215074,
       "name": "Yellipoke Shyamala",
       "url": "https://open.spotify.com/track/6x0uurbe3O3v7ogFWdEjYa"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Govindudu Andarivaadele",
+        "url": "https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Gulabi Kallu Rendu Mullu",
+      "url": "https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS"
     },
     {
       "added_at": "2023-08-07 09:11:28",

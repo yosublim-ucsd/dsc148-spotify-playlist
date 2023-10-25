@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 3224,
+  "num_followers": 3233,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTcxOTE2MDNiNGJmYTAyNjE0YzMyNDE0YTRmMTAzYWRjZWZmODQx",
+  "snapshot_id": "MCxiYTQ1NmE3NDVkNDEzYmMxNzYzZTg3ODA2NTg0MWRiNzljOWYyOWVl",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -387,22 +387,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Tamb\u00f3",
-        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
+        "name": "Los Pleneros del Quinto Olivo",
+        "url": "https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs"
       },
       "artists": [
         {
-          "name": "Paracumb\u00e9",
-          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
-        },
-        {
-          "name": "Nelie Lebron Robles",
-          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
+          "name": "Los Pleneros del Quinto Olivo",
+          "url": "https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG"
         }
       ],
-      "duration_ms": 194760,
-      "name": "Palo'e bandera",
-      "url": "https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh"
+      "duration_ms": 227000,
+      "name": "Una Noche En Borinquen",
+      "url": "https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -423,18 +419,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Los Pleneros del Quinto Olivo",
-        "url": "https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs"
+        "name": "Tamb\u00f3",
+        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
       "artists": [
         {
-          "name": "Los Pleneros del Quinto Olivo",
-          "url": "https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG"
+          "name": "Paracumb\u00e9",
+          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
+        },
+        {
+          "name": "Nelie Lebron Robles",
+          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Una Noche En Borinquen",
-      "url": "https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3"
+      "duration_ms": 194760,
+      "name": "Palo'e bandera",
+      "url": "https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Tambuy\u00e9",
-        "url": "https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl"
-      },
-      "artists": [
-        {
-          "name": "Tambuy\u00e9",
-          "url": "https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8"
-        }
-      ],
-      "duration_ms": 365600,
-      "name": "La Llevo en Mis Venas / Bambul\u00e9 a Par\u00e9 / Dios M\u00edo Si Yo Pudiera / Consu\u00e9lala",
-      "url": "https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Tamb\u00f3",
         "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 213106,
       "name": "Gua\u00f1eco pi\u00e9",
       "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Tambuy\u00e9",
+        "url": "https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl"
+      },
+      "artists": [
+        {
+          "name": "Tambuy\u00e9",
+          "url": "https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8"
+        }
+      ],
+      "duration_ms": 365600,
+      "name": "La Llevo en Mis Venas / Bambul\u00e9 a Par\u00e9 / Dios M\u00edo Si Yo Pudiera / Consu\u00e9lala",
+      "url": "https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Opus IV",
+        "url": "https://open.spotify.com/album/5RD5NmumoA8pStfZpQcHb7"
+      },
+      "artists": [
+        {
+          "name": "Viento De Agua",
+          "url": "https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE"
+        }
+      ],
+      "duration_ms": 310440,
+      "name": "La Marej\u00e1 de los Muertos",
+      "url": "https://open.spotify.com/track/0bObIC8XTOqsOdEoo7A3ys"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Tamb\u00f3",
         "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 225760,
       "name": "Si te preguntaran",
       "url": "https://open.spotify.com/track/4NbNwSJakq5ArlNsQwdqZQ"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Opus IV",
-        "url": "https://open.spotify.com/album/5RD5NmumoA8pStfZpQcHb7"
-      },
-      "artists": [
-        {
-          "name": "Viento De Agua",
-          "url": "https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE"
-        }
-      ],
-      "duration_ms": 310440,
-      "name": "La Marej\u00e1 de los Muertos",
-      "url": "https://open.spotify.com/track/0bObIC8XTOqsOdEoo7A3ys"
     }
   ],
   "unique_name": "Bomba y Plena",

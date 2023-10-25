@@ -5546,7 +5546,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 170232,
       "name": "Moonwalking in Calabasas (feat. Blueface) - Remix",
       "url": "https://open.spotify.com/track/7o4gBbTM6UBLkOYPw9xMCz"
@@ -7656,6 +7656,24 @@
       "duration_ms": 217699,
       "name": "Rose",
       "url": "https://open.spotify.com/track/0zKUwqzRfyWv6hHn5ig2Wn"
+    },
+    {
+      "album": {
+        "name": "Roule un autre (A COLORS SHOW)",
+        "url": "https://open.spotify.com/album/0ddT6KMNHM7qXZQww6yZWx"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176086,
+      "name": "Roule un autre - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich"
     },
     {
       "album": {

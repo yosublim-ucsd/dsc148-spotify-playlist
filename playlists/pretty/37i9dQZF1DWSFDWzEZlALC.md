@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: MilleniumKid, JBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,947 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,106 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [berlin night life](https://open.spotify.com/track/2ZmE6SXMTsHpcbR14awchh) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [berlin night life](https://open.spotify.com/album/7uuaGrUECPqIhVe4P7tlP0) | 3:03 |
 | 75 | [Shots](https://open.spotify.com/track/3SZ0pzEWeUTMvF2b9e5ak6) | [YRRRE](https://open.spotify.com/artist/1wwT1eZWyAjVXbb1qpzEVC) | [Shots](https://open.spotify.com/album/6ozSYOUv2z9a2NLyONFNnb) | 2:59 |
 
-Snapshot ID: `MCw4M2UwYjIzYjA2YWQ1OGU2MTU1ZjkxODAyOTE4MjU4YjM5ZWMyYWM0`
+Snapshot ID: `MCw4NjU0MDM0OTg0NjVlOTVkNmQ2OTg1MmY5MDQ0N2ZkY2I3NGU1ZDY1`

@@ -1,12 +1,12 @@
 {
   "description": "Descubre los nuevos \u00e1lbumes del a\u00f1o. Hit shuffle for a mixed listening experience. Cover: Fuerza Regida",
-  "num_followers": 14200,
+  "num_followers": 14262,
   "original_name": "New Latin Albums",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzFjY2FkMGNjOWQ4MzBkYzJiM2Q5ZGY3NDI4YTI4ODk4ODJhYWMx",
+  "snapshot_id": "MCxmNzBmNTg2ZmY0NjZlMGFhNzE4MTllNGY5MDU2MWU4OGRkOGRiMDc2",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -366,6 +366,26 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 216327,
+      "name": "FINA",
+      "url": "https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
       "duration_ms": 225654,
@@ -402,10 +422,6 @@
         {
           "name": "Carlos Baute",
           "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "Tutto Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
         }
       ],
       "duration_ms": 212790,

@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 40882,
+  "num_followers": 40896,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjg2YTJhYzFkZTc5OGM0NDg1MzVjYWZkMTlmZGI3YzZlMGQwMzkx",
+  "snapshot_id": "MCxiYmMwMmQ4MTRhNjY4MDNiMTdhYTZmOTNlNzAyOTVjYmQ0ZWJhMDEy",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fallingwater",
-      "url": "https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 366066,
       "name": "Posthumous Forgiveness",
       "url": "https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Fallingwater",
+      "url": "https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1639,18 +1639,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/1X0Na8DRV5U6G9grTPDWKF"
+        "name": "Lux Prima",
+        "url": "https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur"
       },
       "artists": [
         {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
+        },
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
         }
       ],
-      "duration_ms": 268695,
-      "name": "Drunk II",
-      "url": "https://open.spotify.com/track/4j1OTpSF5ejqYPKwqHvlzM"
+      "duration_ms": 199320,
+      "name": "Turn The Light",
+      "url": "https://open.spotify.com/track/6vw4YLRXNvtFxA2yxVrR6H"
     }
   ],
   "unique_name": "Best of Indie 2019",

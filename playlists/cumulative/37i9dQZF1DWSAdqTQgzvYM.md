@@ -4,7 +4,7 @@
 
 > Because everyone else is already taken!
 
-115 songs - 5 hr 52 min
+116 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/6XE0T5rJqfWz0rNbZrnQwU) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Greatest Hits \- Chapter One](https://open.spotify.com/album/0UxWN628tSTCaR4NVpqSHM) | 3:41 | 2022-04-15 | 2022-07-29 |
 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj) | 3:41 | 2022-04-15 |  |
 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/7yWxYfYiF3ekQpCyHQW0kS) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Single and Loving It](https://open.spotify.com/album/2PUAa4925N18G0R9RrhuPA) | 3:41 | 2022-04-15 | 2022-11-13 |
-| [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 | 2022-04-15 |  |
+| [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 | 2022-04-15 | 2023-10-25 |
+| [Sunday Best](https://open.spotify.com/track/1qYKWcEOrh2tM8PlgIm8K1) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/5nX3zwIAgHttSudEHLTsAW) | 2:38 | 2023-10-10 |  |
 | [Superwoman](https://open.spotify.com/track/694V3efHIeLmVRZIDMGc4O) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:34 | 2022-04-15 |  |
 | [The Man](https://open.spotify.com/track/2stPxcgjdSImK7Gizl8ZUN) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv) | 4:14 | 2022-04-15 |  |
 | [The Man](https://open.spotify.com/track/4e6ZN0EcEqYx74BTC5xQzy) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/5fTxUo4VVLBlU9nVGXiHEF) | 4:15 | 2022-04-15 | 2022-07-29 |

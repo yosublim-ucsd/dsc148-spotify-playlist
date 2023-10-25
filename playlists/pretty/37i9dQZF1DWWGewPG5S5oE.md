@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 賽
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,689 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,724 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 9 | [Everybody Loves The Sunshine](https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Rising Son](https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd) | 9:25 |
 | 10 | [Wanted](https://open.spotify.com/track/5v0Nftz5zbMK2CZhpJWiND) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/4AwRYl2kRyCYaAkxHAklZ8) | 7:12 |
 | 11 | [Can't Hide Love](https://open.spotify.com/track/4EGnoNlgvp9qtg4SsGszEN) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV) | [m\_unit: Beyond Orbits](https://open.spotify.com/album/1vEFCTIEfv5oueGhxYfq7u) | 5:59 |
-| 12 | [りんご追分](https://open.spotify.com/track/3sL2xabTbPg586o5InU6Lt) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Ringo Oiwake](https://open.spotify.com/album/24qe2xaBO74gnnDBgOZ3qr) | 4:55 |
+| 12 | [Tully, Corfu, Greece](https://open.spotify.com/track/5djFwb0ctwmcs7g8di1pUF) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [Tully, Corfu, Greece](https://open.spotify.com/album/6Ldob1EDDVmP5DKWcWhryC) | 4:56 |
 | 13 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
 | 14 | [くちばしにチェリー](https://open.spotify.com/track/5qSOiMOIJ7e6YdRciPafef) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 4:18 |
 | 15 | [xii\. Pig](https://open.spotify.com/track/6iLZBega4IaCrxa6qMRxrm) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [84 BPM ZODIAC](https://open.spotify.com/album/1clsgSKtxE8dTLvSYhiRbr) | 1:00 |
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 18 | [Daydream](https://open.spotify.com/track/1SGuM7OqpvyU4F5vIUEfTU) | [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [Landed on the Moon](https://open.spotify.com/album/77VLkt74v9MQlxa3i83ZJC) | 4:46 |
 | 19 | [dawn highway](https://open.spotify.com/track/54s18WiYM4XlfFDfUOvIa3) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [dawn highway](https://open.spotify.com/album/5anIBZvF2hBoS8rnRgAYsL) | 3:29 |
 | 20 | [FIRST NOTE](https://open.spotify.com/track/03IckTW2qNaWUvrOHtuYhL) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 7:45 |
-| 21 | [ルンルン](https://open.spotify.com/track/6WdmYOXOZPCTUXsPLDrnb1) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [ルンルン](https://open.spotify.com/album/19U81Y3NPDXB6pJ16m8UXy) | 3:10 |
+| 21 | [Garage Flower](https://open.spotify.com/track/6QrgpcSpIs1vUopy1TafjD) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Garage Flower](https://open.spotify.com/album/0jGUtjIN8PzJggAoEOEq6q) | 3:41 |
 | 22 | [カリソメ乙女 \- DEATH JAZZ ver.](https://open.spotify.com/track/2M6Do3ldCBgbChvpxXhHfx) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [三文ゴシップ](https://open.spotify.com/album/4ryRMlHeVAEoNbN4XTquIm) | 2:29 |
 | 23 | [Give Me Your Love](https://open.spotify.com/track/0mtHN0H06S4Iefm43Kzlq2) | [The Handoors](https://open.spotify.com/artist/7Iwfkhbt82Nym1FXhF2AHN) | [Give Me Your Love](https://open.spotify.com/album/3AZpaJgFQ7iPTMmpVnPhif) | 4:11 |
 | 24 | [Serendipity](https://open.spotify.com/track/0j7iNGrIc7Sye3rMbpPn8h) | [小沢咲希](https://open.spotify.com/artist/7rshbxxDcP56wNcT7cRea1) | [Serendipity](https://open.spotify.com/album/54t9EAdUVqNEPyZTD0y43y) | 5:56 |
-| 25 | [色彩のブルース](https://open.spotify.com/track/49qV0r81Wz0vwuVvQZS6je) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 5:33 |
-| 26 | [Black Nile](https://open.spotify.com/track/7jM01vnA3IbskNLZF23lyV) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Black Nile](https://open.spotify.com/album/6xaT3uAYw8VBtcI3hshU5V) | 3:33 |
+| 25 | [ルンルン](https://open.spotify.com/track/6WdmYOXOZPCTUXsPLDrnb1) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [ルンルン](https://open.spotify.com/album/19U81Y3NPDXB6pJ16m8UXy) | 3:10 |
+| 26 | [色彩のブルース](https://open.spotify.com/track/49qV0r81Wz0vwuVvQZS6je) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 5:33 |
 | 27 | [Clarice](https://open.spotify.com/track/7DrMC04xJQHabCzMcjWTI1) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [P.T.](https://open.spotify.com/album/1quyn6g2gIrwLJ2VmgI8Jx) | 3:46 |
 | 28 | [T.H.E\. \- Instrumental](https://open.spotify.com/track/7urvwSOF8IWNynEpoQOSik) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [T.H.E\. \(Instrumental\)](https://open.spotify.com/album/4cNyNFudfHb9txaVpToJ3D) | 4:45 |
 | 29 | [A Midsummer Night's Dream](https://open.spotify.com/track/14Ggh4Zw5ry2N1VJhP5La7) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [A Midsummer Night's Dream](https://open.spotify.com/album/4zrSXhqiZDjPrUEmq924vY) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 49 | [eden](https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB) | [ひかりとだいち love SOIL&"PIMP"SESSIONS](https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [eden](https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD) | 3:57 |
 | 50 | [Orange Mug](https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Orange Mug](https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS) | 3:38 |
 
-Snapshot ID: `MCw2MTcwNjgxOTA4YzAxNWM4NjRkMjc4M2FlODM0NmIwZWM2Y2FmZWMx`
+Snapshot ID: `MCxkNzc4OTkzMWRiN2I3NWE4OWI1OWVjNTJmZDdmMWZjZTZiNjI2YTM5`

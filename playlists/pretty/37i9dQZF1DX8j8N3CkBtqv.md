@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Pratsofficial
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,753 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,776 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 2 | [Semi Automatic Butane](https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Semi Automatic Butane](https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY) | 3:29 |
 | 3 | [Antihero](https://open.spotify.com/track/0tmVekD1MN9NDAKntGbOyO) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Antihero](https://open.spotify.com/album/1mWgasxdZFASpH5ITWiVw8) | 3:33 |
 | 4 | [Jaane Kab](https://open.spotify.com/track/5nr7vbPagiOgoqNSnYsG2H) | [Rishabh Tiwari](https://open.spotify.com/artist/0BAmhustIgYJL1k35JXgXb) | [Jaane Kab](https://open.spotify.com/album/6zeWNkKkSY8vAEdJjSqYFV) | 4:39 |
-| 5 | [Kehte Hain](https://open.spotify.com/track/5W5SN076eSLD8VSAAEpeOq) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Kehte Hain](https://open.spotify.com/album/44a8q1F9UD3mxEYDhbaPHv) | 3:49 |
+| 5 | [Kehte Hain](https://open.spotify.com/track/5W5SN076eSLD8VSAAEpeOq) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8), [Chazz Bhalla](https://open.spotify.com/artist/1KWkWVcQv13SkHQYNjFu2V), [Ejaz Hussain](https://open.spotify.com/artist/2FizMD1CFXw7ZjLxyWQr9A), [Ritesh Malaney](https://open.spotify.com/artist/24ZPryBZ9nYCORH2EJd29t) | [Kehte Hain](https://open.spotify.com/album/44a8q1F9UD3mxEYDhbaPHv) | 3:49 |
 | 6 | [Dil Ki Dastan](https://open.spotify.com/track/3S0kZyO86KTfKae540RV3I) | [Sahil Ahuja](https://open.spotify.com/artist/4em8pFjqZmKcflPQgobF6L) | [Dil Ki Dastan](https://open.spotify.com/album/0uFbi2fi8kPeVxFBSmpIJi) | 3:44 |
 | 7 | [I met a boy](https://open.spotify.com/track/3fBodzlhvIfiyNN2Bka0rC) | [Ishita Parakh](https://open.spotify.com/artist/0Fb1hND25pyPt3JSQAjIIV) | [I met a boy](https://open.spotify.com/album/3R6BJZrZ5jH98nu0JwNcpH) | 3:00 |
 | 8 | [Gir Jane De](https://open.spotify.com/track/30JVqya4V2cuXMk2HbXewm) | [Prabhanjan](https://open.spotify.com/artist/1G5ur1G4EQjPC5tP6sLYmY), [Riya Goley](https://open.spotify.com/artist/4ySpRlOBEyFbpSla57Tm9B) | [Gir Jane De](https://open.spotify.com/album/3L5stbP9Dc2kM6a0Z5ue8C) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Tu Aazma](https://open.spotify.com/track/38CMq8hlI8zIzGbENBBG1P) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Tu Aazma](https://open.spotify.com/album/5ME4ICYbKFTTYDqclbINw6) | 3:18 |
 | 50 | [Reh Jaao Yahi](https://open.spotify.com/track/3WZDeTvLZ5C0w2vstW8PVL) | [Aryan Katoch](https://open.spotify.com/artist/4gAmleqQJI116NpfqkMxha) | [Reh Jaao Yahi](https://open.spotify.com/album/5av87cCAj1VWPRwAfk2ShG) | 3:00 |
 
-Snapshot ID: `MCxmYWEzYTNmMTQ0OTc2MzliYzhkYzEzODg1ZjM4OTM5NGQzYTA5MjQ0`
+Snapshot ID: `MCxhNTFjYTI2ZmM3NGU0YjdkZTY3ZmYzNGM5OTAxNTE2NmE3OTE4NDI4`

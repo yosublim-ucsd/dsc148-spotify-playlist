@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "This week on Fuego, discover Santi's handpicked mixtape from Netflix's latest series, 'Neon'. \ud83d\udd25 Listen to all the mixtapes <a href=\"spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b\">here</a>.",
-  "name": "Fuego",
+  "description": "Do you dare to come in? Click <a href=\"spotify:playlist:37i9dQZF1DWXUjbdeyfJuU\">HERE</a> to enter the haunted playlist and find the hidden mixtapes!",
+  "name": "Fuego's Haunted Playlist",
   "tracks": [
     {
       "album": {
@@ -1479,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/7JXbdA56iBUeOsCOkaNqUJ"
+      },
+      "artists": [
+        {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15000,
+      "name": "ALIVE!",
+      "url": "https://open.spotify.com/track/3O6omBosLI6cpsFhsFXBRj"
+    },
+    {
+      "album": {
         "name": "Alocao (With Bad Gyal)",
         "url": "https://open.spotify.com/album/6pEhppkTzrKKGkQw4fNqOD"
       },
@@ -2358,7 +2376,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 217129,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon"
@@ -2486,7 +2504,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 187240,
       "name": "Az\u00facar Negra",
       "url": "https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw"
@@ -2772,7 +2790,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 158760,
       "name": "Baila Baila Baila",
       "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
@@ -4262,7 +4280,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 168323,
       "name": "Caf\u00e9 Con Leche",
       "url": "https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy"
@@ -5298,7 +5316,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 184733,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
@@ -5424,7 +5442,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 161626,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
@@ -6730,7 +6748,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 157017,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
@@ -9542,7 +9560,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 79280,
       "name": "Exagerao (from the Netflix Series \"Neon\")",
       "url": "https://open.spotify.com/track/6MvOt6KWi2ptUAl8j3GBew"
@@ -10691,6 +10709,24 @@
     },
     {
       "album": {
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/1zHedv3mZNHcAWJ87ajeoJ"
+      },
+      "artists": [
+        {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15000,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6Hksm4rMm9VGDFGa7qSR3S"
+    },
+    {
+      "album": {
         "name": "Fuego Forestal",
         "url": "https://open.spotify.com/album/3RIn81bgJPiH4XmMlDUm0Q"
       },
@@ -11139,6 +11175,24 @@
     },
     {
       "album": {
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/4kMGU0wataJgajRsuvQjAW"
+      },
+      "artists": [
+        {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15000,
+      "name": "GET",
+      "url": "https://open.spotify.com/track/6WzNYqEjHD1xiVQtJo1WY7"
+    },
+    {
+      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -11212,7 +11266,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 171093,
       "name": "Ginza",
       "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
@@ -11617,6 +11671,24 @@
     },
     {
       "album": {
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/7nvNEib3QUjo5wZJlEfuon"
+      },
+      "artists": [
+        {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15000,
+      "name": "HERE",
+      "url": "https://open.spotify.com/track/7y2p4RJ9y4LujtbvlTbbPn"
+    },
+    {
+      "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
@@ -11800,7 +11872,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 148644,
       "name": "Hombres y Mujeres",
       "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
@@ -12918,7 +12990,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 185220,
       "name": "K-POP",
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
@@ -14288,7 +14360,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 278866,
       "name": "La Vida Es Un Carnaval",
       "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
@@ -14420,7 +14492,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 197920,
       "name": "LALA",
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
@@ -14684,7 +14756,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 228554,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
@@ -14720,7 +14792,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 210933,
       "name": "Lo Que Pas\u00f3, Pas\u00f3",
       "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
@@ -16216,7 +16288,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 180929,
       "name": "Me Fui de Vacaciones",
       "url": "https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T"
@@ -17807,6 +17879,24 @@
     },
     {
       "album": {
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/1fJit1paD5pTbrMQZpZ2N1"
+      },
+      "artists": [
+        {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15000,
+      "name": "NEVER",
+      "url": "https://open.spotify.com/track/0fuZXDaYup3EjXymo37H7E"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -18777,6 +18867,24 @@
     },
     {
       "album": {
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/3Or4X89oVvucwOjXG6Zymh"
+      },
+      "artists": [
+        {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15002,
+      "name": "OF",
+      "url": "https://open.spotify.com/track/0YKcfyfZMtmedAjYBThoTt"
+    },
+    {
+      "album": {
         "name": "Felicilandia",
         "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
       },
@@ -18990,6 +19098,24 @@
       "duration_ms": 170920,
       "name": "One Love",
       "url": "https://open.spotify.com/track/2SfnV0AOAn3e5id2Yg5qJz"
+    },
+    {
+      "album": {
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/1rbFJexmC0Mq2o2ymDfgDf"
+      },
+      "artists": [
+        {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15000,
+      "name": "OR",
+      "url": "https://open.spotify.com/track/79z6ghauHTXIozErI4zG4i"
     },
     {
       "album": {
@@ -19218,6 +19344,24 @@
       "duration_ms": 287773,
       "name": "Otro Trago - Remix",
       "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
+    },
+    {
+      "album": {
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/2vhgRJVDILYrx9IN1vZ14b"
+      },
+      "artists": [
+        {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15000,
+      "name": "OUT",
+      "url": "https://open.spotify.com/track/4rOWS5yM8bxOlpglmIgJQ7"
     },
     {
       "album": {
@@ -20627,6 +20771,24 @@
     },
     {
       "album": {
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/15lTBJQgMQgjnGq279LW6d"
+      },
+      "artists": [
+        {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37199,
+      "name": "PLAY ME - WELCOME",
+      "url": "https://open.spotify.com/track/42fJ0VaFUBDsiZtXKbG72u"
+    },
+    {
+      "album": {
         "name": "DONDE QUIERO ESTAR",
         "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
       },
@@ -20912,7 +21074,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 164720,
       "name": "Por Una Mujer Bonita",
       "url": "https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79"
@@ -21220,7 +21382,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 184506,
       "name": "PROBLEMA",
       "url": "https://open.spotify.com/track/2dl5K2ScW7jYhAhuem06cm"
@@ -22324,7 +22486,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 191254,
       "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
       "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
@@ -24287,6 +24449,24 @@
     },
     {
       "album": {
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/0vfcU5a7RlIBxIlDTFBRA0"
+      },
+      "artists": [
+        {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15000,
+      "name": "Sincerely,",
+      "url": "https://open.spotify.com/track/0XW2Tam4DeiHRd4ZS5tqZq"
+    },
+    {
+      "album": {
         "name": "Sincero",
         "url": "https://open.spotify.com/album/3PWxaw7J5pSfAm62tU1LLd"
       },
@@ -25844,7 +26024,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 302333,
       "name": "Tiburon",
       "url": "https://open.spotify.com/track/26T9IOS6Bi9iOUjKkcZsZo"
@@ -26166,7 +26346,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 193463,
       "name": "Tormenta (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
@@ -26640,7 +26820,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 251253,
       "name": "Tu Cari\u00f1ito",
       "url": "https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp"
@@ -28262,7 +28442,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 185806,
       "name": "VOLVER",
       "url": "https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y"
@@ -28302,7 +28482,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 222213,
       "name": "Volv\u00ed a Nacer",
       "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"
@@ -28585,6 +28765,24 @@
     },
     {
       "album": {
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/3a3SNrzdQMR29sgaKQ4PxW"
+      },
+      "artists": [
+        {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15000,
+      "name": "WILL",
+      "url": "https://open.spotify.com/track/5RgsIKHfTSjPseTg42JFR7"
+    },
+    {
+      "album": {
         "name": "Wow Wow (feat. Becky G)",
         "url": "https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86"
       },
@@ -28746,7 +28944,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 144920,
       "name": "Xplicit Content",
       "url": "https://open.spotify.com/track/36ohb6o1C589APsOXrxYek"
@@ -29118,6 +29316,24 @@
       "duration_ms": 206710,
       "name": "Yonaguni",
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
+    },
+    {
+      "album": {
+        "name": "Haunted Playlist",
+        "url": "https://open.spotify.com/album/4bNOG1EI1cxqY61JggkHqC"
+      },
+      "artists": [
+        {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15000,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/6xBJp5rg2i4f1H4jKVTpo5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,092 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,156 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 41 | [Regina Let's Go \- Live](https://open.spotify.com/track/4RDAoIi6TCV4madz9hL0CF) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [CPM 22 \- Acústico](https://open.spotify.com/album/4LzjCuCcssmyxrnUHRwhE4) | 2:56 |
 | 42 | [Plush \- Live; MTV Unplugged, 11/17/93](https://open.spotify.com/track/1byoTlWVdu5MqeaoKgdRhZ) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core \(Super Deluxe Edition\)](https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC) | 5:46 |
 | 43 | [Dias de Luta, Dias de Glória \- Ao Vivo \- Chegou Quem Faltava](https://open.spotify.com/track/6QsNSUfywJxc5RelHUnf38) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Chegou Quem Faltava \- Volume 2 \(Ao Vivo\)](https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT) | 2:21 |
-| 44 | [Dança do Tempo \- Ao Vivo](https://open.spotify.com/track/5kB97u7TFIsfor7faFWtvO) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [A Céu Aberto \(Ao Vivo\)](https://open.spotify.com/album/3YMSBwHkhEE4yfpzQqzXHu) | 4:04 |
-| 45 | [Feel It Still \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 2:49 |
+| 44 | [Feel It Still \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 2:49 |
+| 45 | [Dança do Tempo \- Ao Vivo](https://open.spotify.com/track/5kB97u7TFIsfor7faFWtvO) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [A Céu Aberto \(Ao Vivo\)](https://open.spotify.com/album/3YMSBwHkhEE4yfpzQqzXHu) | 4:04 |
 | 46 | [Aposta \- Ao Vivo](https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Acústico 20 Anos \- O Amor Não Tem Inimigos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ) | 3:35 |
 | 47 | [City Of Angels \- Piano Version](https://open.spotify.com/track/3nqZdcbYyr4eatjoErsCVX) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [City Of Angels \(Piano Version\)](https://open.spotify.com/album/498Hq6UXvXQRspqyZlifcQ) | 4:22 |
 | 48 | [Welcome To The Sky \(Intro\) \- Ao Vivo](https://open.spotify.com/track/2cfUKb4GlITzFHWKO844GX) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial Acústico NYC \(Ao Vivo\) \[Versão Deluxe + Faixa Extra\]](https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN) | 1:05 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 66 | [Gold on the Ceiling \- BBC Session](https://open.spotify.com/track/5W8OjPfxN7bc7FgTcqwgfu) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Gold on the Ceiling \(BBC Session\)](https://open.spotify.com/album/5a7S1MDqFYulZZD40MrdGt) | 3:48 |
 | 67 | [Digital \- Acústico](https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX) | [Pirredy](https://open.spotify.com/artist/1t06JeHvwnnglW4sw3Luhf) | [Digital \(Acústico\)](https://open.spotify.com/album/32L9YGyYkP4jXe2ZrUfQTk) | 3:16 |
 | 68 | [What's My Age Again? \- Acoustic](https://open.spotify.com/track/45kMZGHOouczcHG6nwVzjh) | [Jota John](https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm) | [What's My Age Again? \(Acoustic\)](https://open.spotify.com/album/506hLUSMqm86HaWfCBmRqr) | 2:26 |
-| 69 | [Malandragem \- Ao Vivo](https://open.spotify.com/track/0brP1QBsJiMoqt3jqEHZaN) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Pop Brasil das Antigas](https://open.spotify.com/album/1hszah1arYRilCMPwvB6Ib) | 4:00 |
-| 70 | [Ignorance \- Acoustic Version](https://open.spotify.com/track/6x9Sf1jBFcSeSvMEkdKbOz) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [100 Greatest Acoustic Songs](https://open.spotify.com/album/4744LKhHEUK88uQPtDc5AH) | 3:40 |
-| 71 | [Caleidoscópio \(Ao Vivo\)](https://open.spotify.com/track/416HxK0h0JoSI6Qcgf0UMi) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [RoncaRonca Apresenta Os Paralamas do Sucesso \(Ao Vivo\)](https://open.spotify.com/album/4I2EcdKiwes6vePNcrPSKz) | 4:02 |
+| 69 | [Caleidoscópio \(Ao Vivo\)](https://open.spotify.com/track/416HxK0h0JoSI6Qcgf0UMi) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [RoncaRonca Apresenta Os Paralamas do Sucesso \(Ao Vivo\)](https://open.spotify.com/album/4I2EcdKiwes6vePNcrPSKz) | 4:02 |
+| 70 | [Malandragem \- Ao Vivo](https://open.spotify.com/track/0brP1QBsJiMoqt3jqEHZaN) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Pop Brasil das Antigas](https://open.spotify.com/album/1hszah1arYRilCMPwvB6Ib) | 4:00 |
+| 71 | [Ignorance \- Acoustic Version](https://open.spotify.com/track/6x9Sf1jBFcSeSvMEkdKbOz) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [100 Greatest Acoustic Songs](https://open.spotify.com/album/4744LKhHEUK88uQPtDc5AH) | 3:40 |
 | 72 | [O Coro Vai Come \- Ao Vivo](https://open.spotify.com/track/28d2A5ydgH2QCHsDSCsW9t) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Chorão: Marginal Alado](https://open.spotify.com/album/4zPoCE1PltlriIanm89x4Z) | 2:08 |
 | 73 | [Canção Da Meia Noite](https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Outros](https://open.spotify.com/album/0CzqUT8e3oHcXOXWiSxyY0) | 4:02 |
 | 74 | [Shadow Of The Day \- Acoustic](https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m) | [Jota John](https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm) | [Shadow Of The Day \(Acoustic\)](https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA) | 3:18 |
 | 75 | [Proibida Pra Mim \(Grazon\) \- Ao Vivo](https://open.spotify.com/track/1ChjgMHSdaPiWGSMmsIECN) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Rock Acústico Nacional](https://open.spotify.com/album/17XHBdjmUUCDWHm7W6r6bm) | 2:31 |
 
-Snapshot ID: `MCxjNWI4NTAxNTllZmMwZTk5OTYzODE1NTlhYmNjYmNjMmE0N2VkZjNl`
+Snapshot ID: `MCxlZjJlNWE1YThhNjE4NGYwOTUxNThkZGI5MWUxZTA4MDkyMTBkYWY1`

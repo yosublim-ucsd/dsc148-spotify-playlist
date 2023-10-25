@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > New music from Sufjan Stevens, boygenius, Caroline Polachek, Mitski and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,196,582 likes - 107 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,196,558 likes - 107 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 69 | [Spitting Off the Edge of the World \- Lush Version](https://open.spotify.com/track/2E69siDC6P2Rb2Cu3aITA3) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World \(Lush Version\)](https://open.spotify.com/album/59XfuTU6jkZ1yVrgqes1VH) | 4:23 |
 | 70 | [Picture You](https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:07 |
 | 71 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 |
-| 72 | [Bruise](https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Bruise](https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx) | 2:59 |
+| 72 | [Bruise](https://open.spotify.com/track/1U1TpPbxYRFteIeT0Az4kM) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF) | 2:59 |
 | 73 | [Tangerine](https://open.spotify.com/track/700iSqwIlmgyRCiHWbRNdh) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Tangerine](https://open.spotify.com/album/3iB5mDvMeU6xgF8hLETSop) | 3:23 |
 | 74 | [The Earth is a Very Small Dot](https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [The Earth is a Very Small Dot](https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG) | 3:56 |
 | 75 | [Boy Scout](https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Boy Scout](https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv) | 3:20 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 106 | [Bioluminescence](https://open.spotify.com/track/2Xm2BD8quy1r576X4L0MGT) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Bioluminescence](https://open.spotify.com/album/3ljdLdZzfpPaaz95B1xGG9) | 5:12 |
 | 107 | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD) | 3:54 |
 
-Snapshot ID: `MCw1ZDllOTRiMGYwMDExN2I5YWRjOTA5NzE2ZWNkYzdmZTIzNzA3NDll`
+Snapshot ID: `MCw0NmZjZTZiNjc1NjExYTQyYzM5ZTViODRjZTRhODI2ZTQ3ZDA3ZTEz`

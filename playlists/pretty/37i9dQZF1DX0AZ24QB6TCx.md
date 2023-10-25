@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,282 likes - 70 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,308 likes - 70 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 54 | [Goodbye](https://open.spotify.com/track/6bM8DrDD0hOuU0e06LKehN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 6:03 |
 | 55 | [Peace](https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Peace](https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX) | 7:47 |
 | 56 | [World Turns](https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:23 |
-| 57 | [Secret Places \- Club Version](https://open.spotify.com/track/0eTCzX1GD26oRixREZSz96) | [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX), [Alexandros Miaris](https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS) | [Secret Places \(Club Version\)](https://open.spotify.com/album/2es5Qr6rBI9eCUtitXbJ3i) | 6:57 |
+| 57 | [Laika.](https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Laika.](https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP) | 3:00 |
 | 58 | [Clarion \- Kiasmos Remix](https://open.spotify.com/track/3VSQJhXdcJZOLyTLPbmxDr) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER), [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Clarion \(Kiasmos Remix\)](https://open.spotify.com/album/57HX6lB11c4KENls8XUfAD) | 5:43 |
-| 59 | [Don't Go Asking \- Radio Edit](https://open.spotify.com/track/1wS7aQmC0S26hONOBL99Qb) | [Roswitha Nash](https://open.spotify.com/artist/1FbEK4vAkcgk8Iraf75d6S), [Roswitha](https://open.spotify.com/artist/3S7xRyDELQRBHJwdqC25ZT), [Nash \(NL\)](https://open.spotify.com/artist/1oZ9VaYo9aRLk0myoEr0Je) | [Don't Go Asking](https://open.spotify.com/album/61IwZ9b7ob482lwl6SXuHt) | 3:17 |
-| 60 | [Laika.](https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Laika.](https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP) | 3:00 |
+| 59 | [Secret Places \- Club Version](https://open.spotify.com/track/0eTCzX1GD26oRixREZSz96) | [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX), [Alexandros Miaris](https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS) | [Secret Places \(Club Version\)](https://open.spotify.com/album/2es5Qr6rBI9eCUtitXbJ3i) | 6:57 |
+| 60 | [Don't Go Asking \- Radio Edit](https://open.spotify.com/track/1wS7aQmC0S26hONOBL99Qb) | [Roswitha Nash](https://open.spotify.com/artist/1FbEK4vAkcgk8Iraf75d6S), [Roswitha](https://open.spotify.com/artist/3S7xRyDELQRBHJwdqC25ZT), [Nash \(NL\)](https://open.spotify.com/artist/1oZ9VaYo9aRLk0myoEr0Je) | [Don't Go Asking](https://open.spotify.com/album/61IwZ9b7ob482lwl6SXuHt) | 3:17 |
 | 61 | [Firmoral](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [Purified Fragments Vi](https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ) | 3:48 |
 | 62 | [Gypsy Woman \(She's Homeless\) \- Atmos Blaq Remix](https://open.spotify.com/track/0OIkGLJOrJtrQ9pm805I5m) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Gypsy Woman \(She's Homeless\) \[Atmos Blaq & Chymamusique Remixes\]](https://open.spotify.com/album/1iML6kYmw5LThCd4ONdgtZ) | 6:25 |
 | 63 | [Eolian](https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D) | [Xande \(IT\)](https://open.spotify.com/artist/13HuSRmBchb6XxM5M0lJU8), [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv) | [Eolian](https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87) | 6:21 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 67 | [Best of Me \- Album Mix](https://open.spotify.com/track/79PRSXNzO80F9REh1zVPUh) | [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx) | [Diving for Lost Treasure](https://open.spotify.com/album/44u9SqhF8InssPF7AjvLie) | 3:12 |
 | 68 | [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 |
 | 69 | [Sunset](https://open.spotify.com/track/4fkmywQO1lT7X6V3yOngaw) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 6:22 |
-| 70 | [Holy \- Frank Wiedemann Remix](https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Home \(Remixes\)](https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq) | 5:34 |
+| 70 | [Just Breathe](https://open.spotify.com/track/4bg2cMVdrlI4y4ZXjnReSm) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Enda Gallery](https://open.spotify.com/artist/1quMAp2YAz3SDEs0OmTIET) | [Just Breathe](https://open.spotify.com/album/5jLJSvxYN0MF0T7ObeMtjs) | 3:56 |
 
-Snapshot ID: `MCxmNjBlOTIxM2ZiYTIyYzhlMjM4MTg4YjNlZGU0Nzg2MjE3NTQ1OWJi`
+Snapshot ID: `MCwzNWFmODQzYzNiYTI4MDc5YzQ4ZThhZjRiOTMwOWViMmI2OTllYjI2`

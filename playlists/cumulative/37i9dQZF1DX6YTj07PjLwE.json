@@ -6209,6 +6209,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Freak",
+        "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132173,
+      "name": "My Beloved Monster",
+      "url": "https://open.spotify.com/track/6eBtWLeIcimzxOoX0fk42Z"
+    },
+    {
+      "album": {
         "name": "One Hot Minute (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
       },
@@ -9878,7 +9896,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 246920,
       "name": "The General",
       "url": "https://open.spotify.com/track/6n6EXIwLtNwe4u4CFzENYm"

@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-161 songs - 8 hr 55 min
+162 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Cello](https://open.spotify.com/track/5T45WCFBRo9d8Yzus9ZAYK) | [Maxtreme](https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j) | [Cello](https://open.spotify.com/album/0EO8XSWJRvJpF68ODjYO1S) | 3:08 | 2022-12-08 | 2023-03-30 |
 | [CHAINSAW](https://open.spotify.com/track/2iR2x7WYZbcntcTbw8swBl) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [CHAINSAW](https://open.spotify.com/album/2GtHUUQQhwOhUJpmNY50fg) | 2:34 | 2023-06-30 | 2023-10-17 |
 | [Chase The Sun \(Hardstyle Mix\)](https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL) | [Psyko Punkz](https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS) | [Chase The Sun \(Hardstyle Mix\)](https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6) | 2:15 | 2023-04-25 |  |
+| [Church of Hell \- Redhot Remix](https://open.spotify.com/track/1zOJTDiZP3uXqvNfN3jpKD) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Redhot](https://open.spotify.com/artist/3YnnRFY9QQ9F91WEnvTILG) | [Church of Hell \(Redhot Remix\)](https://open.spotify.com/album/5V57NTyGp4U71abnYXO9wt) | 2:15 | 2023-10-19 |  |
 | [CLUB BANGER](https://open.spotify.com/track/72j7y7nVfhi69H8X8oRbye) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [CLUB BANGER](https://open.spotify.com/album/2qKRkYCu6GqfL4tcQonqpO) | 3:36 | 2022-12-08 | 2023-07-01 |
 | [Come Take My Hand \- Ran\-D Remix](https://open.spotify.com/track/4plFHRIYpyvO46CWG2UMvG) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Come Take My Hand \(Ran\-D Remix\)](https://open.spotify.com/album/06a36yj8fqrm8MUFeI7qO4) | 4:22 | 2022-12-08 |  |
 | [Come With Me](https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Special D.](https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt) | [Come With Me](https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT) | 2:41 | 2022-12-08 | 2023-07-01 |
@@ -145,7 +146,7 @@
 | [Together We Grow](https://open.spotify.com/track/0Q9oI3atBARDyEWRr1C2H6) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Together We Grow](https://open.spotify.com/album/6LrvsgRIi1Hy1LBsrrt6rw) | 2:45 | 2022-12-08 | 2023-02-10 |
 | [Tonight](https://open.spotify.com/track/3boSIX0nw5AGdoo7LjAKEQ) | [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du), [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD) | [Tonight](https://open.spotify.com/album/716C8P7rj8KkwE7yZ6pSea) | 4:00 | 2023-06-01 | 2023-06-03 |
 | [TOUCH IT \(Don't Stop\)](https://open.spotify.com/track/2G5hIhJ61ENNcqUW1n1oTn) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Dynamite](https://open.spotify.com/artist/4yCk57xvx6iOnHerejzV9c), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [TOUCH IT \(Don't Stop\)](https://open.spotify.com/album/0736rP0PqNdxlnJ9khJ55P) | 2:56 | 2022-12-22 | 2023-02-10 |
-| [Tricky Melody](https://open.spotify.com/track/1G6S3IxD5oapB1SDqUyg2h) | [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [Semitoo](https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk), [Phil Praise](https://open.spotify.com/artist/615J5STey0JuUHF6Z2ReEv) | [Tricky Melody](https://open.spotify.com/album/0HelzdneLo2LOOuQr9X4Xx) | 2:45 | 2023-05-10 |  |
+| [Tricky Melody](https://open.spotify.com/track/1G6S3IxD5oapB1SDqUyg2h) | [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [Semitoo](https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk), [Phil Praise](https://open.spotify.com/artist/615J5STey0JuUHF6Z2ReEv) | [Tricky Melody](https://open.spotify.com/album/0HelzdneLo2LOOuQr9X4Xx) | 2:45 | 2023-05-10 | 2023-10-25 |
 | [Trip To Mars \(Astronauts\)](https://open.spotify.com/track/7kUBocchlTtTZVNplR9ZJI) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Trip To Mars \(Astronauts\)](https://open.spotify.com/album/29wNHESljXnFzohiGMCRMs) | 3:02 | 2023-03-23 | 2023-07-01 |
 | [TRIPPY SPACE](https://open.spotify.com/track/6kflmGIF2bbdkz56YPDees) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w) | [TRIPPY SPACE](https://open.spotify.com/album/3EUt1sPYHfAOjo7wLLYfia) | 2:58 | 2023-02-09 | 2023-02-25 |
 | [Turn To Dust](https://open.spotify.com/track/0tsR7yzuepDrAAIEarSfEk) | [KELTEK](https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e) | [Turn To Dust](https://open.spotify.com/album/25N3wE662dMVrJdm7KFDwH) | 3:02 | 2023-04-07 | 2023-06-02 |

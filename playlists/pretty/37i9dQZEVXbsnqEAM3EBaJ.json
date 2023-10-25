@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyOTYxODAsMDAwMDAwMDA4YzllNDFiYmI1Y2U5OTA5MGM5ZWEzZDNlODlmYWM3MQ==",
+  "snapshot_id": "MjgyOTYxODAsMDAwMDAwMDA4Yjk4YzNkOGEyZTM0OTVkN2EyNDM0YTIwZGQyOTk5OQ==",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -139,6 +139,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Hackney Diamonds",
+        "url": "https://open.spotify.com/album/3j0kAPRr52jZmyIy4olRK9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 442669,
+      "name": "Sweet Sounds Of Heaven (feat. Lady Gaga & Stevie Wonder)",
+      "url": "https://open.spotify.com/track/0MeSCMwHMJHZrcYwqrWJIX"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "California At The Edge 1995 (Live)",
         "url": "https://open.spotify.com/album/0fzMzAd8gTJb4RTVEWIMsK"
       },
@@ -195,6 +215,30 @@
       "duration_ms": 248083,
       "name": "The Retaliators Theme (21 Bullets) (feat. Ice Nine Kills, Asking Alexandria, From Ashes To New) - Acoustic",
       "url": "https://open.spotify.com/track/0nluh04rCNhjqVdPsQpjDq"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "El Viaje Nunca Llega al Horizonte",
+        "url": "https://open.spotify.com/album/5jW99GeUF9H8mNoxaRZrWn"
+      },
+      "artists": [
+        {
+          "name": "Ed Neidhardt",
+          "url": "https://open.spotify.com/artist/3bNG06xa1cMet4wV0dg21h"
+        },
+        {
+          "name": "Bufalo Dit",
+          "url": "https://open.spotify.com/artist/7eC2HRtBhiXNWTAVdflUtK"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        }
+      ],
+      "duration_ms": 209250,
+      "name": "Tr\u00e1tate Bi\u00e9n",
+      "url": "https://open.spotify.com/track/0H9XzJ1wraMqsGheDlxsLH"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -303,26 +347,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Aria: Piano pieces by Bach & other great composers",
-        "url": "https://open.spotify.com/album/27E5aVHIPK73najTieR5Y7"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 107129,
-      "name": "Goldberg Variations, BWV 988: Var. 29",
-      "url": "https://open.spotify.com/track/5o8hMDQzIwPTYP6CbGxRP5"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Real Love (Liva K Remix)",
         "url": "https://open.spotify.com/album/3joNpvmZheGoKgbIiQL1kd"
       },
@@ -387,8 +411,8 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Put A Little Holiday In Your Heart (with Cyndi Lauper)",
-        "url": "https://open.spotify.com/album/08MqCZBgZkefD1aN08hrK6"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
       },
       "artists": [
         {
@@ -402,23 +426,7 @@
       ],
       "duration_ms": 187880,
       "name": "Put A Little Holiday In Your Heart (with Cyndi Lauper)",
-      "url": "https://open.spotify.com/track/4us70cnilJgifaf2SUQ7aa"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Evolution Of Mike Shinoda",
-        "url": "https://open.spotify.com/album/0CPTcgnt3VIejOtwDPhaQ0"
-      },
-      "artists": [
-        {
-          "name": "Mike Shinoda",
-          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
-        }
-      ],
-      "duration_ms": 160640,
-      "name": "Already Over",
-      "url": "https://open.spotify.com/track/27dTjaV7r5s5tdHeDuxIdG"
+      "url": "https://open.spotify.com/track/0DSOt7MdnrRyh8oT8w1t6r"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -519,22 +527,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "First In Line",
-        "url": "https://open.spotify.com/album/6XN4rXWgar54VuGsPQLkHm"
-      },
-      "artists": [
-        {
-          "name": "Sonata Arctica",
-          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
-        }
-      ],
-      "duration_ms": 322045,
-      "name": "First In Line",
-      "url": "https://open.spotify.com/track/7vdv5e5atEgBlW9oGjtPIG"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "One Track Mind (Live at Hull City Hall, 22/6/1983)",
         "url": "https://open.spotify.com/album/4aQFtLSp3Uux25rRtFrejZ"
       },
@@ -547,6 +539,22 @@
       "duration_ms": 245266,
       "name": "One Track Mind - Live at Hull City Hall, 22/6/1983",
       "url": "https://open.spotify.com/track/4vRcgWjmYHGToSJyJvEEIu"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "First In Line",
+        "url": "https://open.spotify.com/album/6XN4rXWgar54VuGsPQLkHm"
+      },
+      "artists": [
+        {
+          "name": "Sonata Arctica",
+          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
+        }
+      ],
+      "duration_ms": 322045,
+      "name": "First In Line",
+      "url": "https://open.spotify.com/track/7vdv5e5atEgBlW9oGjtPIG"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -579,30 +587,6 @@
       "duration_ms": 384706,
       "name": "Get Up, Stand Up - Live At The Sundown Theatre, Edmonton, UK / May 1973",
       "url": "https://open.spotify.com/track/1T9ixkQTfQ8H00O6Na0KxL"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Warenkorb",
-        "url": "https://open.spotify.com/album/6LpRZvVjg5fCsM27KwAJCe"
-      },
-      "artists": [
-        {
-          "name": "Perfektomat",
-          "url": "https://open.spotify.com/artist/48qveLDPBlvMKdgdJG8sJt"
-        },
-        {
-          "name": "Retrogott",
-          "url": "https://open.spotify.com/artist/5tVBk9HCvx9dELxzEgQ2ll"
-        },
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        }
-      ],
-      "duration_ms": 256444,
-      "name": "Warenkorb",
-      "url": "https://open.spotify.com/track/69HzNcNqVpx53fQM9PXIxO"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -723,6 +707,30 @@
       "duration_ms": 357386,
       "name": "Soundtrack To A Generation - Pan Belgian Dub",
       "url": "https://open.spotify.com/track/6l7JIPpUSbdXXDCc7Q7vEO"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Voces para la Paz: En clave de SOLidaridad",
+        "url": "https://open.spotify.com/album/2EhdFReQr9K9XisP3XBvm7"
+      },
+      "artists": [
+        {
+          "name": "Orquesta y Coro de la Comunidad de Madrid",
+          "url": "https://open.spotify.com/artist/1P34ENYR5AC7fpYHHFOn2t"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Miguel Roa",
+          "url": "https://open.spotify.com/artist/6zegLBvHOo4AgGnhcli5uQ"
+        }
+      ],
+      "duration_ms": 247906,
+      "name": "Obertura 1812 op.49",
+      "url": "https://open.spotify.com/track/2Z6gB2C1sZZ2XvG0Bz8POJ"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -859,22 +867,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "I'm On The Lamb But I Ain't No Sheep (Live)",
-        "url": "https://open.spotify.com/album/4GrEbPIoWJVmKb8BBjHNH3"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "I'm On The Lamb But I Ain't No Sheep - Live",
-      "url": "https://open.spotify.com/track/2n31ApOKHdhiqZkT7iK0sd"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "To The Faithful Departed (Deluxe Edition)",
         "url": "https://open.spotify.com/album/07lKVrnG3PmC9mndjDiJsb"
       },
@@ -887,6 +879,22 @@
       "duration_ms": 309400,
       "name": "When You're Gone - Paris Demo",
       "url": "https://open.spotify.com/track/1ZTMDYbT0BG43f07S5yrRR"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "I'm On The Lamb But I Ain't No Sheep (Live)",
+        "url": "https://open.spotify.com/album/4GrEbPIoWJVmKb8BBjHNH3"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "I'm On The Lamb But I Ain't No Sheep - Live",
+      "url": "https://open.spotify.com/track/2n31ApOKHdhiqZkT7iK0sd"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -943,38 +951,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Live 1978 - 1992",
-        "url": "https://open.spotify.com/album/0HzNGuEaCuKDmYsZACO83h"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 442360,
-      "name": "Portobello Belle - Extended Intro / Live At Hammersmith Odeon, London / 1983 / Mixed And Remastered 2023",
-      "url": "https://open.spotify.com/track/0UwtpEJKrbCgrONqPjvcMu"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Tether",
-        "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Into The Sun",
-      "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "I've Seen All Good People: Your Move / All Good People (Early Take) [2023 Remaster]",
         "url": "https://open.spotify.com/album/0cnJiazhNlQWgP9fuUITwP"
       },
@@ -991,6 +967,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Live 1978 - 1992",
+        "url": "https://open.spotify.com/album/0HzNGuEaCuKDmYsZACO83h"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 442360,
+      "name": "Portobello Belle - Extended Intro / Live At Hammersmith Odeon, London / 1983 / Mixed And Remastered 2023",
+      "url": "https://open.spotify.com/track/0UwtpEJKrbCgrONqPjvcMu"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Necromanteum",
         "url": "https://open.spotify.com/album/581ToRMWBjDECfy931Zoip"
       },
@@ -1003,6 +995,22 @@
       "duration_ms": 240756,
       "name": "Infinite Night Terror",
       "url": "https://open.spotify.com/track/1q3ktDemgD0vPUv4BEPHwJ"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Tether",
+        "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Into The Sun",
+      "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1039,30 +1047,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Call Your Name (Remixes)",
-        "url": "https://open.spotify.com/album/01hRhyAiNnaz2SeosAXPIo"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        },
-        {
-          "name": "Andromedik",
-          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Call Your Name - Andromedik Remix",
-      "url": "https://open.spotify.com/track/2ZKB2c2R5pWjRJoRbpL0mR"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Insatiable Remixes Vol. 001",
         "url": "https://open.spotify.com/album/71suyBVVP754NLECru0cZo"
       },
@@ -1087,6 +1071,30 @@
       "duration_ms": 169533,
       "name": "Insatiable - BLVCK CROWZ Remix",
       "url": "https://open.spotify.com/track/1Az1YG8U4nuNuNLnfALqas"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Call Your Name (Andromedik Remix)",
+        "url": "https://open.spotify.com/album/3TIjAIFSHDzJMBSSCtGtmc"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        },
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Call Your Name - Andromedik Remix",
+      "url": "https://open.spotify.com/track/2ktvmX53byZmws2q2qMRiI"
     },
     {
       "added_at": "2023-10-20 03:00:00",

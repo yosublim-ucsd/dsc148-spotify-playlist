@@ -1784,6 +1784,32 @@
     {
       "album": {
         "name": "Mi Mejor Regalo",
+        "url": "https://open.spotify.com/album/5o46YcPUqnzB6QK4TRwD5C"
+      },
+      "artists": [
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        },
+        {
+          "name": "Juan Jose Diaz",
+          "url": "https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz"
+        },
+        {
+          "name": "Victoria Montero",
+          "url": "https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177578,
+      "name": "Mi Mejor Regalo",
+      "url": "https://open.spotify.com/track/04KZnB9Gb8WCHF1AMaGzwj"
+    },
+    {
+      "album": {
+        "name": "Mi Mejor Regalo",
         "url": "https://open.spotify.com/album/50Bt4ZSpTurO3QCBc5a4ad"
       },
       "artists": [
@@ -1802,7 +1828,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 177578,
       "name": "Mi Mejor Regalo",
       "url": "https://open.spotify.com/track/5mlT0dwuKmWnoslcFXRrSa"

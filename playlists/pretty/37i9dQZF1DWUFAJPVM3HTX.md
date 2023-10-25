@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW?si=MFWuaGKSRFCepbJ4nBSpCg">OSA</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,223 likes - 199 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,278 likes - 199 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,7 +195,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 185 | [Moonlight](https://open.spotify.com/track/3hIpTc5IwchQUWJkzLXDfK) | [Samoht](https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK) | [Moonlight](https://open.spotify.com/album/33Eg1v4Pw6xVs7IaZz9qWZ) | 3:06 |
 | 186 | [A Little More \(feat\. Dana Williams\)](https://open.spotify.com/track/5gCoZzvyiiEY5uEuhQL48V) | [Marra](https://open.spotify.com/artist/1K0pCVhJZHTvrCmGItXoq5), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [A Little More](https://open.spotify.com/album/4e3yi5az6mFH69vAriHViK) | 3:25 |
 | 187 | [MSB](https://open.spotify.com/track/5VeLU35wHRQrh8wzv6IuQh) | [Simi Liadi](https://open.spotify.com/artist/2PAsfFu061QMOIssyfdgRg) | [MSB](https://open.spotify.com/album/5NCosHfNVyZSiYIGmQtEL2) | 2:31 |
-| 188 | [Runaway](https://open.spotify.com/track/0agVesxTRMBILK1I1LosM1) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r) | [Runaway](https://open.spotify.com/album/5cTmXTvq9gPQlF4kSnam24) | 2:18 |
+| 188 | [Runaway](https://open.spotify.com/track/10bZAyelkPwqUkkTVwEgdF) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r) | [Notorious & Noble](https://open.spotify.com/album/7x0bphVdGZG4lSij8ni8mx) | 2:15 |
 | 189 | [6AM](https://open.spotify.com/track/4fOi6nj43ew8n8PXsHY8Yt) | [Maya Law](https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6) | [6AM](https://open.spotify.com/album/7uMxOYu5sBvapPzpnR79fw) | 3:04 |
 | 190 | [Love Tattoo, Pt\. 2](https://open.spotify.com/track/7pHUes9LYNh6LA1Cw3htKV) | [Jamie Rose](https://open.spotify.com/artist/3IPL3c3bGlUphVSWCPmYQa), [JARNA](https://open.spotify.com/artist/7dURglfKbeSd5WoF28mdWs), [Rose Woods](https://open.spotify.com/artist/2oBLjp9Npiv8h4wFliugcw) | [Love Tattoo, Pt\. 2](https://open.spotify.com/album/3F6teCzf7B8zO5fzrsuloM) | 3:16 |
 | 191 | [Ride Around](https://open.spotify.com/track/1U1AZVwn0hj0lzuVJE7Ggp) | [Jun Yoon](https://open.spotify.com/artist/5sDe0X0gLSn43jYACSZBzN) | [Ride Around](https://open.spotify.com/album/1Idu0K5mizJkGhAMuTyF3f) | 3:19 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 198 | [All Roads](https://open.spotify.com/track/0pvgbTB2y9DNDDXb9T7FJW) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [All Roads](https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9) | 3:17 |
 | 199 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 |
 
-Snapshot ID: `MCw0NTg3OWRjOTBjNDJhOGZlZTFkMTEyZGVmNTExNGNiMmRhN2JkZTg4`
+Snapshot ID: `MCw2ZjNkNmJiOWJhZjNjNjE5MGU1Mzg1MWE2ODUyZGY1MDhjNDNmMDc5`

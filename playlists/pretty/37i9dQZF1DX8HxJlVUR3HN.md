@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Skip The Use & Youv Dee
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,134 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,151 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [SOLO](https://open.spotify.com/track/6Qq8s0eASiHcvgbzsMTTo6) | [Sunborn](https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS) | [SOLO](https://open.spotify.com/album/0HboLHFNlLE9YKjvaKzDQQ) | 3:41 |
 | 50 | [Born to Win](https://open.spotify.com/track/4fsVCgzknleqGFmV7WihCF) | [La Rosa](https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB) | [Born to Win](https://open.spotify.com/album/5DVy8NKNSeRGYIjH7rCftk) | 2:31 |
 
-Snapshot ID: `MCxmOWRiMTZmNWJiZWFiMzA5OGVjYzIyMTk0MWYyNGFhYmFmODUxYjAx`
+Snapshot ID: `MCxlNWE1M2NhZWIzYjM5NjJmMzcyNzA3ZmEzZDYwNDQxZTJjYWM4YzNh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: CARR \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,215 likes - 126 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,253 likes - 126 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 125 | [Wind Up Merchant](https://open.spotify.com/track/4Op4RqAgY4FE1GotwYLw4x) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [Wind Up Merchant](https://open.spotify.com/album/0UHMSyyN0zZVcq7HBbXIsp) | 2:35 |
 | 126 | [Heavyweight](https://open.spotify.com/track/04bKfN1DmIwHAhvjaWmPgv) | [No Longer Kids](https://open.spotify.com/artist/39DMM7nr6ktYt2KfN6Bevg) | [Heavyweight](https://open.spotify.com/album/1cbUAh7LGxNsLpql5guTfB) | 3:11 |
 
-Snapshot ID: `MCwzNDBmYjQ1NTQ1MmM3N2Q0ZDliZWM0NzAzM2RiNzQ0YTI3NTg0Y2Fl`
+Snapshot ID: `MCwyYTY3ZDVjMzRiOTI5ZDZhY2RjNTJkMDhmNjMzM2U1MDRlZjRkYmIw`

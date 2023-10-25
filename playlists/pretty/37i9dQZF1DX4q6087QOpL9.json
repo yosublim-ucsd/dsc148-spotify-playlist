@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 82687,
+  "num_followers": 82761,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjg1OTMyNTJkNGY5ZWE3MjlmMzliM2ExZTYwNTI3OGI2YzM2NzNh",
+  "snapshot_id": "MCw4OGZhOGMxOTM5MDlmODdiYjA0MzQwOWMyOWEwYmVhNmE0Njg4MGM1",
   "tracks": [
     {
       "added_at": "2023-09-14 22:00:00",
@@ -603,26 +603,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Nights Over Egypt (Masters At Work Remixes)",
-        "url": "https://open.spotify.com/album/7mYEheHCeZX1F43xm8go5H"
-      },
-      "artists": [
-        {
-          "name": "Incognito",
-          "url": "https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs"
-        },
-        {
-          "name": "Masters At Work",
-          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
-        }
-      ],
-      "duration_ms": 471998,
-      "name": "Nights Over Egypt - Maw Mix",
-      "url": "https://open.spotify.com/track/6M2tryCDxjxjUg2QNEJWL2"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "The World As I See It",
         "url": "https://open.spotify.com/album/1JEFJHVVR9HD6DhNPIo1Xg"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 449026,
       "name": "Church Lady",
       "url": "https://open.spotify.com/track/62IE9XiYWdmGsDjV4xCUpT"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Nights Over Egypt (Masters At Work Remixes)",
+        "url": "https://open.spotify.com/album/7mYEheHCeZX1F43xm8go5H"
+      },
+      "artists": [
+        {
+          "name": "Incognito",
+          "url": "https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs"
+        },
+        {
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+        }
+      ],
+      "duration_ms": 471998,
+      "name": "Nights Over Egypt - Maw Mix",
+      "url": "https://open.spotify.com/track/6M2tryCDxjxjUg2QNEJWL2"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -811,30 +811,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Heard It All Before (Turbojazz & Sean McCabe Remixes)",
-        "url": "https://open.spotify.com/album/3qUm2lJFKLDbIRwEDgk366"
-      },
-      "artists": [
-        {
-          "name": "Lydia Harrell",
-          "url": "https://open.spotify.com/artist/0n3sS3Vtqd3uVJrKm6hYPf"
-        },
-        {
-          "name": "Turbojazz",
-          "url": "https://open.spotify.com/artist/2T6qQFm2LfdVTSTTBTwPBB"
-        },
-        {
-          "name": "Sean McCabe",
-          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
-        }
-      ],
-      "duration_ms": 265231,
-      "name": "Heard It All Before - Turbojazz & Sean McCabe Remix Edit",
-      "url": "https://open.spotify.com/track/6Swv2z8gSTBUlglW7EX0CE"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Get Down (feat. Kenny Dope, DJ Sneak, Terry Hunter, Tara McDonald) [Pt. 1]",
         "url": "https://open.spotify.com/album/46AATm4VBOMkOoljqYBQl0"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 356440,
       "name": "Get Down (feat. Kenny Dope & DJ Sneak & Terry Hunter & Tara McDonald) - Kenny Dope Mix",
       "url": "https://open.spotify.com/track/0xP5kC9fdXfKrgY2Dyp0sx"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Heard It All Before (Turbojazz & Sean McCabe Remixes)",
+        "url": "https://open.spotify.com/album/3qUm2lJFKLDbIRwEDgk366"
+      },
+      "artists": [
+        {
+          "name": "Lydia Harrell",
+          "url": "https://open.spotify.com/artist/0n3sS3Vtqd3uVJrKm6hYPf"
+        },
+        {
+          "name": "Turbojazz",
+          "url": "https://open.spotify.com/artist/2T6qQFm2LfdVTSTTBTwPBB"
+        },
+        {
+          "name": "Sean McCabe",
+          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
+        }
+      ],
+      "duration_ms": 265231,
+      "name": "Heard It All Before - Turbojazz & Sean McCabe Remix Edit",
+      "url": "https://open.spotify.com/track/6Swv2z8gSTBUlglW7EX0CE"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -939,6 +939,30 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Alex Attias Presents Lillygood Party Vol. 2",
+        "url": "https://open.spotify.com/album/2oeRB95IyG2Pr2KpB83HbP"
+      },
+      "artists": [
+        {
+          "name": "Stacy Kidd",
+          "url": "https://open.spotify.com/artist/3WFMMQ1fyhtNWADfkMwhTn"
+        },
+        {
+          "name": "Peven Everett",
+          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
+        },
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 538744,
+      "name": "How Bad I Want Ya - Gu Peak True Time Mix",
+      "url": "https://open.spotify.com/track/1ahoN2VQWi84I48TrV7r0X"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "WELCOME HOME",
         "url": "https://open.spotify.com/album/2fBXchCWGXcGViKCTRG3Bi"
       },
@@ -975,30 +999,6 @@
       "duration_ms": 519039,
       "name": "Backfired - Dave Lee Club Mix",
       "url": "https://open.spotify.com/track/2RsSPUTNQ147dUCQyC4toz"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Alex Attias Presents Lillygood Party Vol. 2",
-        "url": "https://open.spotify.com/album/2oeRB95IyG2Pr2KpB83HbP"
-      },
-      "artists": [
-        {
-          "name": "Stacy Kidd",
-          "url": "https://open.spotify.com/artist/3WFMMQ1fyhtNWADfkMwhTn"
-        },
-        {
-          "name": "Peven Everett",
-          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
-        },
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 538744,
-      "name": "How Bad I Want Ya - Gu Peak True Time Mix",
-      "url": "https://open.spotify.com/track/1ahoN2VQWi84I48TrV7r0X"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Find A Friend",
-        "url": "https://open.spotify.com/album/1VzRZvS1esx3ieORitcrnc"
-      },
-      "artists": [
-        {
-          "name": "DJ John \u201cJulius\u201d Knight",
-          "url": "https://open.spotify.com/artist/2PXoD4LZuPCdy1R05cpM1u"
-        }
-      ],
-      "duration_ms": 409238,
-      "name": "Find A Friend",
-      "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Avery*Sunshine Summer EP",
         "url": "https://open.spotify.com/album/0sLbMeLCTvBYnQv1YWb7NM"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 441600,
       "name": "Ugly Part of Me - Terry Hunter Mix",
       "url": "https://open.spotify.com/track/0N0lb2ExXb6eCRwLVrpBRJ"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Find A Friend",
+        "url": "https://open.spotify.com/album/1VzRZvS1esx3ieORitcrnc"
+      },
+      "artists": [
+        {
+          "name": "DJ John \u201cJulius\u201d Knight",
+          "url": "https://open.spotify.com/artist/2PXoD4LZuPCdy1R05cpM1u"
+        }
+      ],
+      "duration_ms": 409238,
+      "name": "Find A Friend",
+      "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1911,6 +1911,34 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Warning (Radio Edit)",
+        "url": "https://open.spotify.com/album/05hqHQOPleFvNzVddVR7YD"
+      },
+      "artists": [
+        {
+          "name": "Terry Hunter",
+          "url": "https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu"
+        },
+        {
+          "name": "Reelsoul",
+          "url": "https://open.spotify.com/artist/2BrpHfecMN0szTiQ0H0sWE"
+        },
+        {
+          "name": "DJ Spen",
+          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Warning - Radio Edit",
+      "url": "https://open.spotify.com/track/0UGEJhHc5CwI2BmbPTGq72"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)",
         "url": "https://open.spotify.com/album/5sgsO9BDA1z8DTNa5kXIkv"
       },
@@ -1943,34 +1971,6 @@
       "duration_ms": 501320,
       "name": "Elements of Life - Album Mix",
       "url": "https://open.spotify.com/track/33hWBifGdyJbPjCGwiqL6x"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Warning (Radio Edit)",
-        "url": "https://open.spotify.com/album/05hqHQOPleFvNzVddVR7YD"
-      },
-      "artists": [
-        {
-          "name": "Terry Hunter",
-          "url": "https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu"
-        },
-        {
-          "name": "Reelsoul",
-          "url": "https://open.spotify.com/artist/2BrpHfecMN0szTiQ0H0sWE"
-        },
-        {
-          "name": "DJ Spen",
-          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
-        },
-        {
-          "name": "Rona Ray",
-          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "Warning - Radio Edit",
-      "url": "https://open.spotify.com/track/0UGEJhHc5CwI2BmbPTGq72"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2159,26 +2159,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Set Me Free - Remixes",
-        "url": "https://open.spotify.com/album/5bh6uUNIySnxJCbdBTUwKV"
-      },
-      "artists": [
-        {
-          "name": "Black Motion",
-          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
-        },
-        {
-          "name": "Xoli",
-          "url": "https://open.spotify.com/artist/4LY4ifoDNpCTb52LZlrt1c"
-        }
-      ],
-      "duration_ms": 435920,
-      "name": "Set Me Free - Original Mix",
-      "url": "https://open.spotify.com/track/1ZYMfaDlaigLdi7hJgpxdX"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "There Is Soul in My House",
         "url": "https://open.spotify.com/album/0mtSczfPaltwZlDzGEwD0M"
       },
@@ -2195,6 +2175,26 @@
       "duration_ms": 488266,
       "name": "I'm Free - Main Mix",
       "url": "https://open.spotify.com/track/3ZW2pHUEgX65rINbaqzZA7"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Set Me Free - Remixes",
+        "url": "https://open.spotify.com/album/5bh6uUNIySnxJCbdBTUwKV"
+      },
+      "artists": [
+        {
+          "name": "Black Motion",
+          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
+        },
+        {
+          "name": "Xoli",
+          "url": "https://open.spotify.com/artist/4LY4ifoDNpCTb52LZlrt1c"
+        }
+      ],
+      "duration_ms": 435920,
+      "name": "Set Me Free - Original Mix",
+      "url": "https://open.spotify.com/track/1ZYMfaDlaigLdi7hJgpxdX"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Elle",
-        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
-      },
-      "artists": [
-        {
-          "name": "DJ Gregory",
-          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
-        }
-      ],
-      "duration_ms": 722920,
-      "name": "Elle (Main Version)",
-      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Fix Your Love",
         "url": "https://open.spotify.com/album/4Yinw5qIb3dMxdmSGQdYmP"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 409781,
       "name": "Fix Your Love - Main Mix",
       "url": "https://open.spotify.com/track/5Rcny33B7eTuPSbMyY6Aoi"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Elle",
+        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
+      },
+      "artists": [
+        {
+          "name": "DJ Gregory",
+          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
+        }
+      ],
+      "duration_ms": 722920,
+      "name": "Elle (Main Version)",
+      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2343,26 +2343,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Essential Beats, Vol.9",
-        "url": "https://open.spotify.com/album/2ei557S2aPyPih7ov1JhGV"
-      },
-      "artists": [
-        {
-          "name": "Phil Weeks",
-          "url": "https://open.spotify.com/artist/0ruxrxTRHzfO8KsLLNPNkK"
-        },
-        {
-          "name": "Ladybird",
-          "url": "https://open.spotify.com/artist/1nXlbKMRiXyiI6Rg1wnDOZ"
-        }
-      ],
-      "duration_ms": 380020,
-      "name": "Love Come Down - Main Mix",
-      "url": "https://open.spotify.com/track/0InOMJTU5586iFsGEC4VAg"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/3yuKDNV15fE0ttSmT2riCj"
       },
@@ -2403,6 +2383,26 @@
       "duration_ms": 483573,
       "name": "He Is (feat. Song Williamson) - Ferrer & Sydenham Inc Vox Mix",
       "url": "https://open.spotify.com/track/1y8VbIB3UBYC9Vov2ZuOOr"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Essential Beats, Vol.9",
+        "url": "https://open.spotify.com/album/2ei557S2aPyPih7ov1JhGV"
+      },
+      "artists": [
+        {
+          "name": "Phil Weeks",
+          "url": "https://open.spotify.com/artist/0ruxrxTRHzfO8KsLLNPNkK"
+        },
+        {
+          "name": "Ladybird",
+          "url": "https://open.spotify.com/artist/1nXlbKMRiXyiI6Rg1wnDOZ"
+        }
+      ],
+      "duration_ms": 380020,
+      "name": "Love Come Down - Main Mix",
+      "url": "https://open.spotify.com/track/0InOMJTU5586iFsGEC4VAg"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2735,26 +2735,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Blaque House",
-        "url": "https://open.spotify.com/album/5vlYXrDm2pyyIpHQ9Uf33O"
-      },
-      "artists": [
-        {
-          "name": "Jovonn",
-          "url": "https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V"
-        },
-        {
-          "name": "KT Brooks",
-          "url": "https://open.spotify.com/artist/1mWHQjx7JR2Rbi4KUMcmV2"
-        }
-      ],
-      "duration_ms": 392640,
-      "name": "I'm Gonna Miss You (feat. K.T. Brooks)",
-      "url": "https://open.spotify.com/track/0vuDLKz7yeNhmIpSDJ1Gz4"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Sermon One EP (feat. Ron Carroll)",
         "url": "https://open.spotify.com/album/1PenNFTRyle8MGmDlTBTE5"
       },
@@ -2791,6 +2771,26 @@
       "duration_ms": 397240,
       "name": "You Give Good Love (Jay-J's Mouton Studios Dub)",
       "url": "https://open.spotify.com/track/6SarIzRckv0TnNqoJbew5a"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Blaque House",
+        "url": "https://open.spotify.com/album/5vlYXrDm2pyyIpHQ9Uf33O"
+      },
+      "artists": [
+        {
+          "name": "Jovonn",
+          "url": "https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V"
+        },
+        {
+          "name": "KT Brooks",
+          "url": "https://open.spotify.com/artist/1mWHQjx7JR2Rbi4KUMcmV2"
+        }
+      ],
+      "duration_ms": 392640,
+      "name": "I'm Gonna Miss You (feat. K.T. Brooks)",
+      "url": "https://open.spotify.com/track/0vuDLKz7yeNhmIpSDJ1Gz4"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2903,6 +2903,26 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Re-Creation: Remixes Compiled",
+        "url": "https://open.spotify.com/album/7lKjLBFlbZeepoECfianTG"
+      },
+      "artists": [
+        {
+          "name": "Ezel",
+          "url": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
+        },
+        {
+          "name": "Deetron",
+          "url": "https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav"
+        }
+      ],
+      "duration_ms": 436000,
+      "name": "In My Lifetime - Deetron Remix",
+      "url": "https://open.spotify.com/track/1AvYeMUagyfmUOTE7pKAVM"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "I Can't Wait",
         "url": "https://open.spotify.com/album/70CvoeJITpeEJrlkrBr8QE"
       },
@@ -2923,26 +2943,6 @@
       "duration_ms": 443527,
       "name": "I Can't Wait - ATFC Main Vocal",
       "url": "https://open.spotify.com/track/7MSU8gtYyFZkZ9VXgDaqqF"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Re-Creation: Remixes Compiled",
-        "url": "https://open.spotify.com/album/7lKjLBFlbZeepoECfianTG"
-      },
-      "artists": [
-        {
-          "name": "Ezel",
-          "url": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
-        },
-        {
-          "name": "Deetron",
-          "url": "https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav"
-        }
-      ],
-      "duration_ms": 436000,
-      "name": "In My Lifetime - Deetron Remix",
-      "url": "https://open.spotify.com/track/1AvYeMUagyfmUOTE7pKAVM"
     },
     {
       "added_at": "2023-09-14 22:00:00",

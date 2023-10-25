@@ -4,7 +4,7 @@
 
 > That bouncy, groovy, dancey sound.
 
-389 songs - 21 hr 15 min
+390 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Bruises](https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:15 | 2023-02-10 |  |
 | [Bubbles](https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:38 | 2022-07-30 |  |
 | [Bunda](https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Bunda](https://open.spotify.com/album/011rNBobpGt1eRJPtqeOlQ) | 3:34 | 2023-01-20 |  |
-| [BURNA FONE](https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [BURNA FONE](https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg) | 2:39 | 2023-06-30 |  |
+| [BURNA FONE](https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [BURNA FONE](https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg) | 2:39 | 2023-06-30 | 2023-10-25 |
 | [Bus Stop \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2k3IJR9hf34ZfEnTdlcoSK) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:56 | 2023-02-24 |  |
 | [Butterfly \- Amorphous Anniversary Club Remix](https://open.spotify.com/track/6Z6OPzsqKT1fKbLEt2bYyg) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Amorphous](https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK) | [Butterfly: 25th Anniversary Expanded Edition](https://open.spotify.com/album/3VOqo81Nwyx8rcZEc2l379) | 6:06 | 2022-09-16 | 2022-09-24 |
 | [by my side](https://open.spotify.com/track/0iL674uEp8AZtgxXDosSmD) | [Ben Yen](https://open.spotify.com/artist/4IcZa7gtPIs352dbFVBjgZ) | [by my side](https://open.spotify.com/album/69CwjFfP6NM3nPw4nhREfn) | 3:00 | 2021-07-26 | 2022-04-15 |
@@ -123,6 +123,7 @@
 | [Fantasy](https://open.spotify.com/track/0dGFloLLIZyAbD6EjuBVFL) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [The R&B You Love](https://open.spotify.com/album/1IGcLVZl44MScNh7QFf9Xr) | 4:23 | 2023-10-06 |  |
 | [fav flav \(with Duckwrth\)](https://open.spotify.com/track/5jKADCQFs1tvvk3s2Er3be) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [fav flav \(with Duckwrth\)](https://open.spotify.com/album/6FqXFMDYQfxOCoX8Ame8az) | 3:16 | 2021-10-08 | 2022-07-28 |
 | [FEEL SOMETHING DIFFERENT](https://open.spotify.com/track/5Q4UX8hxcaJEtAE9RtsmSY) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [FEEL SOMETHING DIFFERENT](https://open.spotify.com/album/3FheSC4Vgn2ASKTyYt9WcA) | 3:27 | 2021-07-26 | 2022-07-31 |
+| [Feel the Feels](https://open.spotify.com/track/7qnaukVhNsfUCNX8Pd5uXv) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Chrome Bull DLX](https://open.spotify.com/album/5u8lkrEjY9W9yUevdcueWm) | 3:20 | 2023-10-20 |  |
 | [Feels Good](https://open.spotify.com/track/0XX56sCCGr5uxSmtdmySRB) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ) | [Feels Good](https://open.spotify.com/album/1HD3ODcrt0XLcGyS38xSJo) | 3:09 | 2021-07-26 | 2022-07-31 |
 | [Fever Dreamer \(feat\. Charlotte Day Wilson & Channel Tres\)](https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Fever Dreamer \(feat\. Charlotte Day Wilson & Channel Tres\)](https://open.spotify.com/album/6SymPOBPwcX3daLExr5uXP) | 5:10 | 2023-01-20 |  |
 | [FIND YOUR WAY BACK \- MELO\-X Remix](https://open.spotify.com/track/1g0k1bFcLKyIrdsdUkF3eW) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Melo\-X](https://open.spotify.com/artist/6AxHPycFTjxDROqK1pzsAE) | [The Lion King: The Gift \[Deluxe Edition\]](https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ) | 3:36 | 2022-07-30 |  |

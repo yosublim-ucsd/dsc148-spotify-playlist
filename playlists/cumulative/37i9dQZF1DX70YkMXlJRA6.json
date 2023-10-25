@@ -369,6 +369,32 @@
     },
     {
       "album": {
+        "name": "El Plan (Cyma Remix)",
+        "url": "https://open.spotify.com/album/5FVy4b9t6CmmErI8kpFqmG"
+      },
+      "artists": [
+        {
+          "name": "Klik & Frik",
+          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+        },
+        {
+          "name": "Cyma",
+          "url": "https://open.spotify.com/artist/33Hfr8ZfUeyyZWdpsEtisn"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237488,
+      "name": "El Plan - Cyma Remix",
+      "url": "https://open.spotify.com/track/3DE5UpRmIHUtQFqvpqKAZg"
+    },
+    {
+      "album": {
         "name": "El Tiempo (Captain Planet Remix)",
         "url": "https://open.spotify.com/album/4wlMcrq2ebIypk1FPwm94l"
       },
@@ -920,7 +946,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 210748,
       "name": "Planeta",
       "url": "https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU"

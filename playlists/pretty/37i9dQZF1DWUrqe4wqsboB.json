@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 3723,
+  "num_followers": 3737,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTVjMzgzOTk0YWY5MDRlZDliYzk5YTM2YjkxNDU5Njc2MjJlOGEw",
+  "snapshot_id": "MCxhZGZmZWU2NjYwNDA4MTAzZTU5MDYwMGQ1Nzg0Y2M4ZjljMWQ3ZmM2",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Nacarile",
-        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
+        "name": "D\u00edas Negros",
+        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
       },
       "artists": [
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Chango Menas",
+          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
         }
       ],
-      "duration_ms": 174080,
-      "name": "(Escap\u00e1ndome) de m\u00ed",
-      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
+      "duration_ms": 182320,
+      "name": "D\u00edas Negros",
+      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "D\u00edas Negros",
-        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
+        "name": "Nacarile",
+        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
       },
       "artists": [
         {
-          "name": "Chango Menas",
-          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 182320,
-      "name": "D\u00edas Negros",
-      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
+      "duration_ms": 174080,
+      "name": "(Escap\u00e1ndome) de m\u00ed",
+      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Vibra",
+        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
+      },
+      "artists": [
+        {
+          "name": "Calma Carmona",
+          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
+        }
+      ],
+      "duration_ms": 174947,
+      "name": "Vibra",
+      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Maldita Cach\u00e1",
         "url": "https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 179541,
       "name": "Guarapo y Flor",
       "url": "https://open.spotify.com/track/0kVjvfryus4UWTFKD42KzG"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Vibra",
-        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
-      },
-      "artists": [
-        {
-          "name": "Calma Carmona",
-          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
-        }
-      ],
-      "duration_ms": 174947,
-      "name": "Vibra",
-      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "La Rareza",
+        "url": "https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh"
+      },
+      "artists": [
+        {
+          "name": "Los Rarxs",
+          "url": "https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Tu Nunca Has Sentido",
+      "url": "https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "La Espina",
         "url": "https://open.spotify.com/album/31E2WkAxbbxIthqROYkvWp"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 228073,
       "name": "Toco Madera",
       "url": "https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "La Rareza",
-        "url": "https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh"
-      },
-      "artists": [
-        {
-          "name": "Los Rarxs",
-          "url": "https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Tu Nunca Has Sentido",
-      "url": "https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6"
     },
     {
       "added_at": "2023-10-20 04:00:00",

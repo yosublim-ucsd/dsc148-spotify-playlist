@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,971 likes - 125 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,015 likes - 125 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 39 | [Summer Of 99](https://open.spotify.com/track/7pYNJTBcjZjiONdUdk4vUM) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Summer Of 99](https://open.spotify.com/album/7pvFYXl8isCnyHVWpSOhp5) | 3:12 |
 | 40 | [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/track/4jSctcEMRrrjbOo60pbfmj) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu), [Sahati](https://open.spotify.com/artist/3PGzj3O66abGPzQNmKELCf) | [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/album/2Bom4X9Z5VZRH2tvWXRjx9) | 3:30 |
 | 41 | [Alonica](https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 3:58 |
-| 42 | [What's up](https://open.spotify.com/track/4PGZvQgg8Nd3lOl3L4Hdkb) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6xAbweCyvExMjOQmOl194h) | 2:52 |
+| 42 | [What's up](https://open.spotify.com/track/7Ho6dQkOqE0GB8Zb6fYf8h) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF) | 2:52 |
 | 43 | [KEEP IT COOL!](https://open.spotify.com/track/69ijRst757ROhLoC3dsRYu) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Downers Grove \(Explained\)](https://open.spotify.com/album/0RuZxzktEnwDwGFhnGOo74) | 2:50 |
 | 44 | [Sore Eyes](https://open.spotify.com/track/1vyaeOV5TqHDFK7ugi05Sk) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Be Still My Heart](https://open.spotify.com/album/2YHEafnqcoOmGpW8NwBMV0) | 3:13 |
 | 45 | [HARRY STYLES](https://open.spotify.com/track/6esDme3Yd33T6wk6EUPXqD) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [JUST A TASTE](https://open.spotify.com/album/5YThY3qtqTDc8VMnmd1eRF) | 2:55 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [pretty kids](https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [pretty kids](https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee) | 2:39 |
 | 125 | [Get With You](https://open.spotify.com/track/1cshIDD9PMf58mmOquIa9S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Get With You](https://open.spotify.com/album/7EeOH5oj2MgNjVFblGR6Ea) | 1:51 |
 
-Snapshot ID: `MCw5MmI1NjRmZDMxNGQ0N2QxNmQ3NTRhMGI3MjNjY2EzNzg2NTI0MDQw`
+Snapshot ID: `MCwzZmEyYjFkMTgxYWVlOWMxZmNiM2M0YTNjNjdlMzIyYmNkNDQzZDM1`

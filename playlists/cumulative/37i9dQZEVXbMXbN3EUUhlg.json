@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 124455,
       "name": "A Dona Aranha",
       "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
@@ -660,6 +660,32 @@
       "duration_ms": 176360,
       "name": "Agudo M\u00e1gico 3",
       "url": "https://open.spotify.com/track/6Hio4nlyWL2WBL8nYlbuGt"
+    },
+    {
+      "album": {
+        "name": "Agudo M\u00e1gico 4",
+        "url": "https://open.spotify.com/album/5A6i6FT6QjGhTUQaXk2TAb"
+      },
+      "artists": [
+        {
+          "name": "MC K.K",
+          "url": "https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "LeoZera",
+          "url": "https://open.spotify.com/artist/54x7oKoInjIgCDHUkgyPtu"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190100,
+      "name": "Agudo M\u00e1gico 4",
+      "url": "https://open.spotify.com/track/4wjDiZGsZYQqKkXyPcQGF6"
     },
     {
       "album": {
@@ -3396,7 +3422,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 157170,
       "name": "Chorei na Vaquejada",
       "url": "https://open.spotify.com/track/6xRDvureEBwHgwAYDufbJL"
@@ -7342,7 +7368,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -10048,7 +10074,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 154698,
       "name": "Milion\u00e1rio - Ao Vivo",
       "url": "https://open.spotify.com/track/2yIJ2CVZkTDftAsL9NPTw2"
@@ -11566,7 +11592,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 159158,
       "name": "Oi Balde - Ao Vivo",
       "url": "https://open.spotify.com/track/4xAGuRRKOgoaZbMGdmTD3N"
@@ -11804,6 +11830,32 @@
       "duration_ms": 177000,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
+    },
+    {
+      "album": {
+        "name": "Pane no Sistema",
+        "url": "https://open.spotify.com/album/2dmlFvtOu5sd5ktVMiNMNZ"
+      },
+      "artists": [
+        {
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+        },
+        {
+          "name": "Paulo Pires",
+          "url": "https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY"
+        },
+        {
+          "name": "\u00c9aBest",
+          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214090,
+      "name": "Pane no Sistema",
+      "url": "https://open.spotify.com/track/7GjAXYuxjuXPbQJzRnNdob"
     },
     {
       "album": {
@@ -13104,7 +13156,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 178547,
       "name": "P\u00e1tio do Posto - Ao Vivo",
       "url": "https://open.spotify.com/track/4uLzGOlqSanpNS3htaUViY"

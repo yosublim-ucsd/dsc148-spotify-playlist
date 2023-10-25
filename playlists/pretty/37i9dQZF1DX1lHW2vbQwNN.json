@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Ja Rule",
-  "num_followers": 123338,
+  "num_followers": 123625,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWVmNzIzODE5OGE1YTYxMTA5NTRjOWNjMmU2Y2FhZDc0YTIyM2Nk",
+  "snapshot_id": "MCwxOTYzZWZiMTU0MTY1Y2RiZThiMmY2MmQzMmIxZTMzNGEyY2UxNDk2",
   "tracks": [
     {
       "added_at": "2023-10-10 20:31:06",
@@ -699,8 +699,8 @@
     {
       "added_at": "2023-10-10 20:31:06",
       "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 297840,
-      "name": "Cleanin' Out My Closet",
-      "url": "https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv"
+      "duration_ms": 290426,
+      "name": "The Way I Am",
+      "url": "https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J"
     },
     {
       "added_at": "2023-10-10 20:31:06",
@@ -883,8 +883,8 @@
     {
       "added_at": "2023-10-10 20:31:06",
       "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 290426,
-      "name": "The Way I Am",
-      "url": "https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J"
+      "duration_ms": 297840,
+      "name": "Cleanin' Out My Closet",
+      "url": "https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv"
     },
     {
       "added_at": "2023-10-10 20:31:06",
@@ -1319,22 +1319,18 @@
     {
       "added_at": "2023-10-10 20:31:06",
       "album": {
-        "name": "Crime Mob",
-        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
+        "name": "A Gangster And A Gentleman",
+        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
       },
       "artists": [
         {
-          "name": "Crime Mob",
-          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
-        },
-        {
-          "name": "Lil Scrappy",
-          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
         }
       ],
-      "duration_ms": 205120,
-      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
-      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
+      "duration_ms": 211493,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP"
     },
     {
       "added_at": "2023-10-10 20:31:06",
@@ -1359,18 +1355,22 @@
     {
       "added_at": "2023-10-10 20:31:06",
       "album": {
-        "name": "A Gangster And A Gentleman",
-        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
+        "name": "Crime Mob",
+        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
       },
       "artists": [
         {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+          "name": "Crime Mob",
+          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
+        },
+        {
+          "name": "Lil Scrappy",
+          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
         }
       ],
-      "duration_ms": 211493,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP"
+      "duration_ms": 205120,
+      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
+      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
     },
     {
       "added_at": "2023-10-10 20:31:06",

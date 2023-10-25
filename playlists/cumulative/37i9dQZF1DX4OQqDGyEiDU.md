@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-534 songs - 1 day 6 hr 31 min
+535 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [ペタペタ](https://open.spotify.com/track/0QfPdBYuquukh7i0cp7soC) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ペタペタ](https://open.spotify.com/album/5wHBtD5cW9FKGi2Z0Olrhm) | 3:19 | 2022-06-14 | 2022-07-24 |
 | [ボッカデラベリタ](https://open.spotify.com/track/3sbj4p74huvGfIu3zKw7GJ) | [柊キライ](https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2) | [ヘイトフル](https://open.spotify.com/album/6AK0ZWjL1tdCfYM2p8mRJM) | 3:21 | 2022-06-14 | 2022-07-25 |
 | [ボニー&クライド](https://open.spotify.com/track/2o3z08ZoSbTt8yGw5rSH4T) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [ボニー&クライド](https://open.spotify.com/album/1ml6frwbwpvD4XLWzSmYnD) | 2:45 | 2023-05-09 | 2023-05-15 |
+| [ポケットのモンスター \(feat\. 初音ミク\)](https://open.spotify.com/track/164JMtlCerJvMQPSDi5GDb) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ポケットのモンスター](https://open.spotify.com/album/3127A3CU7WRzZwv5vfqMKP) | 3:36 | 2023-10-24 |  |
 | [ポジティブ☆ダンスタイム](https://open.spotify.com/track/7v5xPGDLbGMLqSnPfIrRgK) | [kinoshita](https://open.spotify.com/artist/5PBCVNjKu2JDCxHI0WNYa5) | [ポジティブ☆ダンスタイム](https://open.spotify.com/album/5SizyZsAfotoDLoNYbph5M) | 4:02 | 2022-06-09 | 2022-07-22 |
 | [マカロン](https://open.spotify.com/track/2VmOvzDdJmycCnGgCzkNrx) | [ATOLS](https://open.spotify.com/artist/1JiIdIqUZMFCPcZmTtSwLM) | [ATOLS/MIKU](https://open.spotify.com/album/3FXyXuRhxBSgj2r4v9PS7V) | 3:16 | 2022-06-14 | 2022-07-28 |
 | [マシンガンポエムドール](https://open.spotify.com/track/6XshXpv0LPjtTJbKkeilBQ) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [マシンガンポエムドール](https://open.spotify.com/album/2XdBm2tkrw0q2T5J1F0kF9) | 2:20 | 2022-06-09 | 2022-07-23 |
@@ -469,7 +470,7 @@
 | [恋愛裁判](https://open.spotify.com/track/5EG0O4u54pn4hG3aqkPWcM) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [41m](https://open.spotify.com/album/6xCIN7CcWYVPYmKrSb0INw) | 3:39 | 2022-06-09 | 2022-07-29 |
 | [愛されなくても君がいる](https://open.spotify.com/track/5ID6qtywQZ2RppAttfJ7xN) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [愛されなくても君がいる](https://open.spotify.com/album/02sgAZbWtqBMlK8jmJPVgV) | 4:32 | 2022-07-19 | 2022-07-26 |
 | [愛して 愛して 愛して](https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 4:12 | 2022-07-26 | 2022-10-14 |
-| [愛するように](https://open.spotify.com/track/0eAARuSD98FKHlmlKtmVUr) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd) | [愛するように](https://open.spotify.com/album/2qiWHFrlAcxy9us0awqP1O) | 2:46 | 2023-10-17 |  |
+| [愛するように](https://open.spotify.com/track/0eAARuSD98FKHlmlKtmVUr) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd) | [愛するように](https://open.spotify.com/album/2qiWHFrlAcxy9us0awqP1O) | 2:46 | 2023-10-17 | 2023-10-25 |
 | [懺悔参り](https://open.spotify.com/track/2IlbsAPqtXP9hLR4PESh7x) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc) | [浮世巡り](https://open.spotify.com/album/1aRPF08cXjYfPEtagbkszv) | 3:21 | 2022-06-09 | 2022-07-26 |
 | [才能なんか](https://open.spotify.com/track/3bSwUCPEIWpEs7rtqY3kBF) | [Una Otomachi](https://open.spotify.com/artist/3hv0cVJtEVUppVUb9Gp5xp), [葵木ゴウ](https://open.spotify.com/artist/2IBtJvUFPoqgtm0cfENAde) | [午後の葵木](https://open.spotify.com/album/3kC0lnA0vlHFURaSVFEk8d) | 4:10 | 2022-06-14 | 2022-07-29 |
 | [拝啓、何者にもなれなかった僕へ。](https://open.spotify.com/track/3Nm3uFDJ2elU5oeYi8wFLj) | [PolyphonicBranch](https://open.spotify.com/artist/2wlgxcLUDaeSoqEcdYtmLN) | [拝啓、何者にもなれなかった僕へ。](https://open.spotify.com/album/5lArx2pMXTG3tpcl4O356d) | 4:01 | 2022-06-14 | 2022-06-16 |

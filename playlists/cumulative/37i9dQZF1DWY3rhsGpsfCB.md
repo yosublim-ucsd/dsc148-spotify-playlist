@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-419 songs - 22 hr 5 min
+420 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Do Not Disturb](https://open.spotify.com/track/6pvxoVnP8Ep3AtjGCV9AMd) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 3:13 | 2022-07-22 | 2022-08-27 |
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-27 | 2023-02-17 |
 | [Do You Mind?](https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Do You Mind?](https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw) | 2:27 | 2023-05-26 | 2023-06-03 |
-| [Don't Leave](https://open.spotify.com/track/6AGy2SKNYEzMSTkLsCAtUn) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Don't Leave](https://open.spotify.com/album/709IXOjBvnPvOtoQZmPrX4) | 2:37 | 2023-03-17 |  |
+| [Don't Leave](https://open.spotify.com/track/6AGy2SKNYEzMSTkLsCAtUn) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Don't Leave](https://open.spotify.com/album/709IXOjBvnPvOtoQZmPrX4) | 2:37 | 2023-03-17 | 2023-10-25 |
 | [Don't Lie](https://open.spotify.com/track/4PjUTGWC6hQJ84zQQOMkWk) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Summer Breeze](https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR) | 2:36 | 2023-06-09 |  |
 | [Don't Lie \(feat\. Kuami Eugene\)](https://open.spotify.com/track/1jCZy2BqlnxOrKdEBqmSIK) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Just to Piss You Off](https://open.spotify.com/album/0XNCCyLb6fd11oeufnTI8Q) | 2:50 | 2023-03-24 | 2023-04-22 |
 | [Don't Take Your Love](https://open.spotify.com/track/35fBkyvLRrHKO4edE69LtA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Don't Take Your Love](https://open.spotify.com/album/64LOyCjv3fkbUBEYkcbbH9) | 3:06 | 2022-10-28 | 2022-11-26 |
@@ -415,6 +415,7 @@
 | [WICKED](https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [ACT 2](https://open.spotify.com/album/6MudGkfVHCyDuy56SU8CYC) | 2:48 | 2023-02-16 | 2023-04-26 |
 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 | 2022-07-22 | 2022-10-14 |
 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 | 2022-06-24 | 2022-10-01 |
+| [Wildin'](https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali \(Sweeter\)](https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R) | 3:01 | 2023-10-20 |  |
 | [Wine](https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 | 2022-06-24 | 2023-02-05 |
 | [WORK](https://open.spotify.com/track/7KFRcebVg5o52rQ9VN68kN) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [WORK](https://open.spotify.com/album/5mWVY9sdHib1YkZHOxuE3X) | 2:34 | 2023-04-27 | 2023-07-29 |
 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 | 2023-02-03 | 2023-06-23 |

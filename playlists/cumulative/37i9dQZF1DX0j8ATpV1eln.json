@@ -2495,6 +2495,24 @@
     },
     {
       "album": {
+        "name": "\u6700\u5f37\u306e\u63a8\u3057\uff01",
+        "url": "https://open.spotify.com/album/1CpgVE8KbNQfrP1aOyWFf9"
+      },
+      "artists": [
+        {
+          "name": "\u9234\u6728\u611b\u7406",
+          "url": "https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222353,
+      "name": "\u6700\u5f37\u306e\u63a8\u3057\uff01",
+      "url": "https://open.spotify.com/track/1XD1QrcvVJEE2MIKkzHT0r"
+    },
+    {
+      "album": {
         "name": "THE ORIGIN",
         "url": "https://open.spotify.com/album/6WJxW7FvMwPXkh27Yus0VB"
       },

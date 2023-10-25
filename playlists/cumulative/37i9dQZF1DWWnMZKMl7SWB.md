@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-1,217 songs - 2 day 6 hr 8 min
+1,218 songs - 2 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Blue Sky](https://open.spotify.com/track/1iLB0erbWIgXJUllRphSHP) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8) | [Blue Sky](https://open.spotify.com/album/0u42d8JsmgNmTX37buAQmD) | 2:13 | 2023-09-08 |  |
 | [Blue Sky](https://open.spotify.com/track/0FOde8zqSfkBbmIToMoE2K) | [WO Hoos](https://open.spotify.com/artist/2nGaqTZqJmnUMVxWJpsatL) | [Blue Sky](https://open.spotify.com/album/2AhfQhDu2hdIqgrD7LlHCx) | 2:07 | 2023-09-22 |  |
 | [Blueprints](https://open.spotify.com/track/5onlsO6h9mMeCjpBcwoOuO) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Mood Modifier](https://open.spotify.com/album/0KDTtTTW2RgZaBdlyPb4P8) | 2:19 | 2023-09-22 |  |
+| [Blunotte](https://open.spotify.com/track/425HNsoUUAUGNPFbPZuyE2) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Insomnia](https://open.spotify.com/album/0B79D0ahoTfJSul9Gx7SIJ) | 2:22 | 2023-10-20 |  |
 | [Blunotte](https://open.spotify.com/track/7xJ9d7j9fcB2czQyPbLyhy) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Blunotte](https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF) | 2:22 | 2023-09-22 | 2023-10-22 |
 | [blurred](https://open.spotify.com/track/1y9eslcDsTi75UfkTHuyQZ) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [blurred](https://open.spotify.com/album/3O5SG1lknx9ptWNp5wNj3J) | 1:52 | 2023-09-22 |  |
 | [Blurred Lines](https://open.spotify.com/track/4ChwSognLjwFYUYgPWQf5y) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Blurred Lines](https://open.spotify.com/album/1Klbnb8SzP8L26IwtqCvns) | 2:16 | 2023-09-22 |  |
@@ -1060,7 +1061,7 @@
 | [that 90s low](https://open.spotify.com/track/1pzOWECKHnMy5UrKeJduNB) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [that 90s low](https://open.spotify.com/album/74IMFw1dPIiXI1fXvXDsH4) | 2:23 | 2023-09-08 |  |
 | [That Gurl](https://open.spotify.com/track/5E2ZlARzfpAfvM6F5Db1Iz) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [That Gurl](https://open.spotify.com/album/29oDud6HPKoTiQuQRSuaK4) | 2:01 | 2023-09-08 |  |
 | [The Bay](https://open.spotify.com/track/0aSQ0c4oMfjUWoHenvcnvI) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f), [Luniworks](https://open.spotify.com/artist/0dMJ5zofJoExb5T8eSmOhW) | [The Bay](https://open.spotify.com/album/19eoQYs75KzT2Q9fA3pRPQ) | 2:09 | 2023-09-22 |  |
-| [The Carlton](https://open.spotify.com/track/3J7FvVmbz6vvPvu3XymrNK) | [PONY](https://open.spotify.com/artist/5CxY3qA1kVNN0MolYlkVAI) | [The Carlton](https://open.spotify.com/album/1DMVvbrhKB6oJbZxQM0gDi) | 2:57 | 2023-09-22 |  |
+| [The Carlton](https://open.spotify.com/track/3J7FvVmbz6vvPvu3XymrNK) | [PONY](https://open.spotify.com/artist/5CxY3qA1kVNN0MolYlkVAI) | [The Carlton](https://open.spotify.com/album/1DMVvbrhKB6oJbZxQM0gDi) | 2:57 | 2023-09-22 | 2023-10-25 |
 | [The Day Before Yesterday](https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J) | [merīkurisumasu!](https://open.spotify.com/artist/0YXdpycTC7il4RJ9lXmJv0) | [The Day Before Yesterday](https://open.spotify.com/album/4rJbIrWhBpge9CP2ULnDqS) | 2:02 | 2023-10-06 |  |
 | [The Difference \- Jon Hopkins Remix](https://open.spotify.com/track/3743gdiZ12ZJA3VrOf6U61) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [The Difference \(Jon Hopkins Remix\)](https://open.spotify.com/album/6LdFryPw3LFwyLqBriy9gw) | 5:26 | 2022-04-12 | 2023-09-09 |
 | [The Frog's Ritual](https://open.spotify.com/track/6WHfx1QdlgzjM5vYs4Ty2K) | [Felix Johansson Carne](https://open.spotify.com/artist/5tb6pZdgWLr5oHOlSgtiqk) | [The Frog's Ritual](https://open.spotify.com/album/6BWc7WW6Bh6CIqkP46GB1I) | 5:37 | 2022-04-12 | 2023-09-09 |

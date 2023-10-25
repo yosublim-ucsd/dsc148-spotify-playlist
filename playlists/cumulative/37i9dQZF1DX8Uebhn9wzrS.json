@@ -7621,6 +7621,24 @@
     },
     {
       "album": {
+        "name": "Dream Walker",
+        "url": "https://open.spotify.com/album/4hyOyHBAff6IYOQ4qyDHDH"
+      },
+      "artists": [
+        {
+          "name": "PI\u00d1A PINK",
+          "url": "https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164341,
+      "name": "Dream Walker",
+      "url": "https://open.spotify.com/track/4DBsrFbmAF9rJtRh88VXQN"
+    },
+    {
+      "album": {
         "name": "Dream Weaver",
         "url": "https://open.spotify.com/album/2WX7YqmBUlwRNIbjqJy2y7"
       },
@@ -10260,6 +10278,24 @@
       "duration_ms": 117906,
       "name": "Frog-School Beat",
       "url": "https://open.spotify.com/track/5WYyLP0tXdtamiUJ6jRODo"
+    },
+    {
+      "album": {
+        "name": "From a cloudy sky",
+        "url": "https://open.spotify.com/album/3BbAOcLjpCWeM55OmGtLtO"
+      },
+      "artists": [
+        {
+          "name": "Gogofluc",
+          "url": "https://open.spotify.com/artist/6OrQ9gVexUFxOERMRDEmkH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118333,
+      "name": "From a cloudy sky",
+      "url": "https://open.spotify.com/track/6E0xoTUNynlFT6Lm4LVAaw"
     },
     {
       "album": {
@@ -13320,7 +13356,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 100416,
       "name": "Inspired",
       "url": "https://open.spotify.com/track/7FtklceBvMCY4Fju8qATUH"
@@ -29434,7 +29470,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 170109,
       "name": "waiting",
       "url": "https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU"

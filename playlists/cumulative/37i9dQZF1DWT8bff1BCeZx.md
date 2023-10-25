@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-101 songs - 8 hr 55 min
+102 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4) | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz) | 3:38 | 2023-04-06 |  |
 | [Na You Dey Reign](https://open.spotify.com/track/2cf0ayENplwaFuiG0aphAS) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Na You Dey Reign](https://open.spotify.com/album/7EUG7ICDtR5G6FLseXjADm) | 4:27 | 2023-09-29 |  |
 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2023-04-06 | 2023-10-11 |
+| [Never Ending Love](https://open.spotify.com/track/6PTdosZg7sMabnr47NGdVE) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [The Excentric](https://open.spotify.com/artist/3XrrUDnJSH7bX0DEbSUCu3), [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc) | [Never Ending Love](https://open.spotify.com/album/6Pj4CUUtQXon0qZ7aFtQc1) | 2:54 | 2023-10-20 |  |
 | [Next Fuji Thing \(Bonus Track\)](https://open.spotify.com/track/3AKztbzt8WzVRnVjwGhtk5) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK), [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Good 2 Go](https://open.spotify.com/album/5fsqEs8zrGfxmnmvKsgTrg) | 6:57 | 2023-04-14 | 2023-07-07 |
 | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB), [Nacy](https://open.spotify.com/artist/4XEY7lCzPxqpq90xzRaJ96) | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk) | 6:49 | 2023-04-06 | 2023-07-02 |
 | [Now I See](https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Mr\. DDavid](https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC) | [Now I See](https://open.spotify.com/album/5c3xz82NykD7mtk1lIVvu9) | 3:11 | 2023-05-26 | 2023-07-22 |
@@ -77,7 +78,7 @@
 | [Omeriwo](https://open.spotify.com/track/65tGleT9TqETxPXyjLf6Es) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Omeriwo](https://open.spotify.com/album/76sBUYUu76JYwbMZ8K1dwP) | 3:38 | 2023-04-06 | 2023-08-24 |
 | [Omo Baba](https://open.spotify.com/track/4dwPr4moTpcCb7hER3nBep) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4e41b60U5kriqKlvTLIfp4) | 3:15 | 2023-04-14 |  |
 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 | 2023-04-06 | 2023-07-07 |
-| [Ope Mi](https://open.spotify.com/track/5Tf3Pu5PUTzdKysGXnijAQ) | [Pita](https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em) | [As I Am: In His Image](https://open.spotify.com/album/4cY1hBJNFUtaYeOJPZ6oxK) | 4:05 | 2023-04-06 |  |
+| [Ope Mi](https://open.spotify.com/track/5Tf3Pu5PUTzdKysGXnijAQ) | [Pita](https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em) | [As I Am: In His Image](https://open.spotify.com/album/4cY1hBJNFUtaYeOJPZ6oxK) | 4:05 | 2023-04-06 | 2023-10-25 |
 | [Paradise](https://open.spotify.com/track/2bSx2cJHJYUKNdJQgVoHBM) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Swaggy Jay](https://open.spotify.com/artist/7xF9Cn1qxDwYhvrE4EGRU2) | [Paradise](https://open.spotify.com/album/2MfmE6MldCPS8DOZBQnoe9) | 2:22 | 2023-08-04 | 2023-08-31 |
 | [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 | 2023-04-06 | 2023-07-09 |
 | [Praise Medley \(Live in London\)](https://open.spotify.com/track/15ycm5YuueCG3dIFqaY9zJ) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Praise Medley \(Live in London\)](https://open.spotify.com/album/7JFZdCVfCb849MLP2aOOoV) | 9:48 | 2023-04-06 | 2023-06-16 |

@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 70211,
+  "num_followers": 70296,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGFlNWJiMDNhOGRjNmJiNmNmZjVkYWVkZmU1N2E3ZDNlN2QyNDI1",
+  "snapshot_id": "MCw5ZjgzNjEzNDRjYzM0YzlhMTljYjI0ZDE0MzRjMjBkZGU3OWFjMTg3",
   "tracks": [
     {
       "added_at": "2023-09-26 16:36:45",
@@ -595,6 +595,30 @@
     {
       "added_at": "2023-09-26 16:36:45",
       "album": {
+        "name": "Tranquil\u00e3o Speed",
+        "url": "https://open.spotify.com/album/34fvOgLGTaHfwlvwOciAMn"
+      },
+      "artists": [
+        {
+          "name": "ogtreasure",
+          "url": "https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0"
+        },
+        {
+          "name": "L30",
+          "url": "https://open.spotify.com/artist/1BxVqY0zR8ymT4bLg6abA3"
+        },
+        {
+          "name": "Real Gutti",
+          "url": "https://open.spotify.com/artist/7agWCX0Q1FjITmRtM89zAI"
+        }
+      ],
+      "duration_ms": 139885,
+      "name": "Tranquil\u00e3o Speed",
+      "url": "https://open.spotify.com/track/6WpanZKjU4JEqJlG2D9mrM"
+    },
+    {
+      "added_at": "2023-09-26 16:36:45",
+      "album": {
         "name": "Ele Te Bota Soca Soca (Speed Up)",
         "url": "https://open.spotify.com/album/3rFJruJgtv2Y83i5dUydCg"
       },
@@ -619,30 +643,6 @@
       "duration_ms": 128759,
       "name": "Ele Te Bota Soca Soca - Speed Up",
       "url": "https://open.spotify.com/track/548LVIsbvfP70STa240ZeI"
-    },
-    {
-      "added_at": "2023-09-26 16:36:45",
-      "album": {
-        "name": "Tranquil\u00e3o Speed",
-        "url": "https://open.spotify.com/album/34fvOgLGTaHfwlvwOciAMn"
-      },
-      "artists": [
-        {
-          "name": "ogtreasure",
-          "url": "https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0"
-        },
-        {
-          "name": "L30",
-          "url": "https://open.spotify.com/artist/1BxVqY0zR8ymT4bLg6abA3"
-        },
-        {
-          "name": "Real Gutti",
-          "url": "https://open.spotify.com/artist/7agWCX0Q1FjITmRtM89zAI"
-        }
-      ],
-      "duration_ms": 139885,
-      "name": "Tranquil\u00e3o Speed",
-      "url": "https://open.spotify.com/track/6WpanZKjU4JEqJlG2D9mrM"
     },
     {
       "added_at": "2023-09-26 16:36:45",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-09-26 16:36:45",
       "album": {
-        "name": "Nunca Duvide de um Mano",
-        "url": "https://open.spotify.com/album/1fTsqeLfYx1EItPGCudGg9"
-      },
-      "artists": [
-        {
-          "name": "Brand\u00e3o85",
-          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
-        }
-      ],
-      "duration_ms": 84124,
-      "name": "Nunca Duvide de um Mano (Speed Up)",
-      "url": "https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D"
-    },
-    {
-      "added_at": "2023-09-26 16:36:45",
-      "album": {
         "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA (REMIX)",
         "url": "https://open.spotify.com/album/3nASJZOJV1VWbLzp2DS7AE"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 169846,
       "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA - REMIX",
       "url": "https://open.spotify.com/track/4Nly3yVddPbsDc6b2eK4W7"
+    },
+    {
+      "added_at": "2023-09-26 16:36:45",
+      "album": {
+        "name": "Nunca Duvide de um Mano",
+        "url": "https://open.spotify.com/album/1fTsqeLfYx1EItPGCudGg9"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        }
+      ],
+      "duration_ms": 84124,
+      "name": "Nunca Duvide de um Mano (Speed Up)",
+      "url": "https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D"
     },
     {
       "added_at": "2023-09-26 16:36:45",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-09-26 16:36:45",
       "album": {
-        "name": "Virgulado",
-        "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
-      },
-      "artists": [
-        {
-          "name": "Nino Leone",
-          "url": "https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx"
-        },
-        {
-          "name": "Goodboysut",
-          "url": "https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW"
-        }
-      ],
-      "duration_ms": 127011,
-      "name": "Virgulado - Speed",
-      "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
-    },
-    {
-      "added_at": "2023-09-26 16:36:45",
-      "album": {
         "name": "Joga na Cara (Vers\u00e3o Speed)",
         "url": "https://open.spotify.com/album/2Lh5XIcVNQdd8Dq2lglDGo"
       },
@@ -875,26 +855,22 @@
     {
       "added_at": "2023-09-26 16:36:45",
       "album": {
-        "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
-        "url": "https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA"
+        "name": "Virgulado",
+        "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
       },
       "artists": [
         {
-          "name": "ARTHUR DE AFC",
-          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
+          "name": "Nino Leone",
+          "url": "https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx"
         },
         {
-          "name": "Funk S\u00c9RIE GOLD",
-          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
-        },
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+          "name": "Goodboysut",
+          "url": "https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW"
         }
       ],
-      "duration_ms": 168615,
-      "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
-      "url": "https://open.spotify.com/track/7mSweyinAvjEFBy6sSTjkg"
+      "duration_ms": 127011,
+      "name": "Virgulado - Speed",
+      "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
     },
     {
       "added_at": "2023-09-26 16:36:45",
@@ -959,6 +935,30 @@
       "duration_ms": 156922,
       "name": "SEGREDO VERS\u00c3O BH",
       "url": "https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr"
+    },
+    {
+      "added_at": "2023-09-26 16:36:45",
+      "album": {
+        "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
+        "url": "https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA"
+      },
+      "artists": [
+        {
+          "name": "ARTHUR DE AFC",
+          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
+        },
+        {
+          "name": "Funk S\u00c9RIE GOLD",
+          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
+        },
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 168615,
+      "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
+      "url": "https://open.spotify.com/track/7mSweyinAvjEFBy6sSTjkg"
     },
     {
       "added_at": "2023-09-26 16:36:45",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-09-26 16:36:45",
       "album": {
+        "name": "Como Era Antes",
+        "url": "https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98"
+      },
+      "artists": [
+        {
+          "name": "rs9",
+          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
+        }
+      ],
+      "duration_ms": 64480,
+      "name": "Como Era Antes... (Speed Up)",
+      "url": "https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ"
+    },
+    {
+      "added_at": "2023-09-26 16:36:45",
+      "album": {
         "name": "Kill Bill - Speed",
         "url": "https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 90240,
       "name": "NICOTINA - Speed",
       "url": "https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU"
-    },
-    {
-      "added_at": "2023-09-26 16:36:45",
-      "album": {
-        "name": "SPEED Versions",
-        "url": "https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw"
-      },
-      "artists": [
-        {
-          "name": "rs9",
-          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
-        }
-      ],
-      "duration_ms": 106392,
-      "name": "Plug do S\u00e3o Jo\u00e3o SPEED",
-      "url": "https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l"
     },
     {
       "added_at": "2023-09-26 16:36:45",
@@ -1211,6 +1211,22 @@
       "duration_ms": 96082,
       "name": "Me Deixei Levar - Speed",
       "url": "https://open.spotify.com/track/1R2tR76ixjc4upkRz5LDNh"
+    },
+    {
+      "added_at": "2023-09-26 16:36:45",
+      "album": {
+        "name": "SPEED Versions",
+        "url": "https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw"
+      },
+      "artists": [
+        {
+          "name": "rs9",
+          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
+        }
+      ],
+      "duration_ms": 106392,
+      "name": "Plug do S\u00e3o Jo\u00e3o SPEED",
+      "url": "https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l"
     },
     {
       "added_at": "2023-09-26 16:36:45",
@@ -1303,22 +1319,6 @@
       "duration_ms": 138754,
       "name": "Tipo Naldo - Speed Up",
       "url": "https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh"
-    },
-    {
-      "added_at": "2023-09-26 16:36:45",
-      "album": {
-        "name": "Como Era Antes",
-        "url": "https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98"
-      },
-      "artists": [
-        {
-          "name": "rs9",
-          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
-        }
-      ],
-      "duration_ms": 64480,
-      "name": "Como Era Antes... (Speed Up)",
-      "url": "https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ"
     }
   ],
   "unique_name": "speed BR",

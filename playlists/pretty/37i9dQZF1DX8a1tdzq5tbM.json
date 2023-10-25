@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1419788,
+  "num_followers": 1420154,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjQ2NDYzNjZmYjY0NzgxNDVmZTVmN2UxMzc4Y2NiZGEwMTg4Njlh",
+  "snapshot_id": "MCw0M2NmM2IxYjNlMWRmNzVjY2YzODBjNDM1NGViZjFiNTc0ZmM2YjI4",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 169426,
+      "name": "Call On Me - Radio Edit",
+      "url": "https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Perfect Day",
         "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 253933,
       "name": "Ready Steady Go - Extended Mix",
       "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 169426,
-      "name": "Call On Me - Radio Edit",
-      "url": "https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1319,6 +1319,46 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Show Me Love (feat. Robin S)",
+        "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 185613,
+      "name": "Show Me Love (feat. Robin S) - Radio Edit",
+      "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Flight 643",
+        "url": "https://open.spotify.com/album/4VXRSzmR6Gsu6K8TZDrzER"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Flight 643 - Radio Edit",
+      "url": "https://open.spotify.com/track/3XWIuDBYd0xzLqCsj5OLP7"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Somewhere (feat. Sarah Lynn)",
         "url": "https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH"
       },
@@ -1339,18 +1379,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Flight 643",
-        "url": "https://open.spotify.com/album/4VXRSzmR6Gsu6K8TZDrzER"
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/3ICJTj5U5bm2mql3QduFLb"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Flight 643 - Radio Edit",
-      "url": "https://open.spotify.com/track/3XWIuDBYd0xzLqCsj5OLP7"
+      "duration_ms": 236706,
+      "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
+      "url": "https://open.spotify.com/track/2YdJ7ZnaXUMZcGe46eCiER"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1375,22 +1415,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Fight For You",
-        "url": "https://open.spotify.com/album/3ICJTj5U5bm2mql3QduFLb"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        }
-      ],
-      "duration_ms": 236706,
-      "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
-      "url": "https://open.spotify.com/track/2YdJ7ZnaXUMZcGe46eCiER"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Behind",
         "url": "https://open.spotify.com/album/2ERvgVHv284kvtfmYurONA"
       },
@@ -1411,26 +1435,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Show Me Love (feat. Robin S)",
-        "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
+        "name": "Hypnotica",
+        "url": "https://open.spotify.com/album/2467y5gcxljWnMqbYwWxwu"
       },
       "artists": [
         {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
         },
         {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+          "name": "The Biz",
+          "url": "https://open.spotify.com/artist/4oMCu6hBgTy2RFh8rRMFD0"
         }
       ],
-      "duration_ms": 185613,
-      "name": "Show Me Love (feat. Robin S) - Radio Edit",
-      "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
+      "duration_ms": 285413,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/5JZnjM9ijpit0d5zjT8MM7"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1547,26 +1567,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Hypnotica",
-        "url": "https://open.spotify.com/album/2467y5gcxljWnMqbYwWxwu"
-      },
-      "artists": [
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        },
-        {
-          "name": "The Biz",
-          "url": "https://open.spotify.com/artist/4oMCu6hBgTy2RFh8rRMFD0"
-        }
-      ],
-      "duration_ms": 285413,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/5JZnjM9ijpit0d5zjT8MM7"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Worldwide Dance Hits",
         "url": "https://open.spotify.com/album/6dfX6cEQ7MuTMY0Ldp7qup"
       },
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Move For Me",
+      "url": "https://open.spotify.com/track/5KOt1QRD9YQQrrzwLCWuTN"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Don't Stop!",
         "url": "https://open.spotify.com/album/2lN1TfOytRsnosYBm70kZ6"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 354613,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3BBioBvGxikn3mVT2hhrEm"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Move For Me",
-      "url": "https://open.spotify.com/track/5KOt1QRD9YQQrrzwLCWuTN"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1799,6 +1799,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 283040,
+      "name": "I Remember (Strobelight Edit)",
+      "url": "https://open.spotify.com/track/2OZrV4yyOZNuEFx22VVfFm"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Toys Are Nuts Remixes",
         "url": "https://open.spotify.com/album/5V2OID9LYLcd84BGiCYHhx"
       },
@@ -1839,26 +1859,6 @@
       "duration_ms": 292160,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4x5Y9ORUjOQs5JZk2uJ9bN"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 283040,
-      "name": "I Remember (Strobelight Edit)",
-      "url": "https://open.spotify.com/track/2OZrV4yyOZNuEFx22VVfFm"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
-          "name": "The Cube Guys",
-          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
-        }
-      ],
-      "duration_ms": 251706,
-      "name": "Baba O'Riley (Radio Edit)",
-      "url": "https://open.spotify.com/track/31gTL5XTmcI4JCSglW5Sda"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Take Me Away (Into the Night)",
         "url": "https://open.spotify.com/album/4WB7XNlgLRBQHt0I6cLqIc"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 191120,
       "name": "Take Me Away - Vocal Radio Mix",
       "url": "https://open.spotify.com/track/2iXSGmkft1qLUwxkRolc9U"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
+      },
+      "artists": [
+        {
+          "name": "The Cube Guys",
+          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
+        }
+      ],
+      "duration_ms": 251706,
+      "name": "Baba O'Riley (Radio Edit)",
+      "url": "https://open.spotify.com/track/31gTL5XTmcI4JCSglW5Sda"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2047,38 +2047,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "51 Big Room Fist Pumpers (feat. Mque)",
-        "url": "https://open.spotify.com/album/3jG0arQuB7uiEWsKGK3fNF"
-      },
-      "artists": [
-        {
-          "name": "Mischa Daniels Project",
-          "url": "https://open.spotify.com/artist/4mJadLzJpnWVKcunV0td5L"
-        }
-      ],
-      "duration_ms": 264374,
-      "name": "Disconnected (Radio Edit Dub Mix)",
-      "url": "https://open.spotify.com/track/7sOtNnr0Qv0WN0oWMj64yF"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
-          "name": "Bendj Feat Sushy",
-          "url": "https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU"
-        }
-      ],
-      "duration_ms": 172493,
-      "name": "Me and Myself (Wolfgang Gartner Radio Edit)",
-      "url": "https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Just One Day",
         "url": "https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A"
       },
@@ -2095,6 +2063,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "51 Big Room Fist Pumpers (feat. Mque)",
+        "url": "https://open.spotify.com/album/3jG0arQuB7uiEWsKGK3fNF"
+      },
+      "artists": [
+        {
+          "name": "Mischa Daniels Project",
+          "url": "https://open.spotify.com/artist/4mJadLzJpnWVKcunV0td5L"
+        }
+      ],
+      "duration_ms": 264374,
+      "name": "Disconnected (Radio Edit Dub Mix)",
+      "url": "https://open.spotify.com/track/7sOtNnr0Qv0WN0oWMj64yF"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 211266,
       "name": "Sorry - Dirty South Radio Edit",
       "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
+      },
+      "artists": [
+        {
+          "name": "Bendj Feat Sushy",
+          "url": "https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU"
+        }
+      ],
+      "duration_ms": 172493,
+      "name": "Me and Myself (Wolfgang Gartner Radio Edit)",
+      "url": "https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/2mXLJXAsGZVBPMTcKM25Ar"
-      },
-      "artists": [
-        {
-          "name": "JES",
-          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Imagination - Ti\u00ebsto Remix Radio Edit",
-      "url": "https://open.spotify.com/track/1mNiQ0hVgB7xQZ938A8lIJ"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Everything (feat. Myah)",
         "url": "https://open.spotify.com/album/3Bx89yMELMkVVtXMqJTaqT"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 228501,
       "name": "Everything (feat. Myah) - Radio Edit",
       "url": "https://open.spotify.com/track/6Ypg2IzQhNOpxQi2vIBvfz"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/2mXLJXAsGZVBPMTcKM25Ar"
+      },
+      "artists": [
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Imagination - Ti\u00ebsto Remix Radio Edit",
+      "url": "https://open.spotify.com/track/1mNiQ0hVgB7xQZ938A8lIJ"
     }
   ],
   "unique_name": "Dance Classics",

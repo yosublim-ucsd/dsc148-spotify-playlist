@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8jiBuMzYD6.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/raycondones/">BruceDropEmOff</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,425 likes - 47 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,697 likes - 47 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8jiBuMzYD6.md) - [plain]
 | 27 | [Lost Hope](https://open.spotify.com/track/6ySRI3aCPLKlUbqciKoTRO) | [Lil Candy Paint](https://open.spotify.com/artist/7eKI9e9Oa1muxmRwoY40kv) | [Kage](https://open.spotify.com/album/6iPAFDN66hqKZSnpanBXZL) | 2:33 |
 | 28 | [Standin Tall](https://open.spotify.com/track/0o3omGI7a40Ih159AzWBeE) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Duwap So Based](https://open.spotify.com/album/3zDRtE06py5J6qntnklYHY) | 1:30 |
 | 29 | [Nameless](https://open.spotify.com/track/4itETlhUWW6GFzYZwEL8do) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Keed Talk To 'Em](https://open.spotify.com/album/6m0AchDE7CuNfRE7CW48uH) | 3:05 |
-| 30 | [Alter Ego 2](https://open.spotify.com/track/2jsa4vmcnHSwEolEtPGiCO) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [C4](https://open.spotify.com/artist/2ZI5j2UOqjBOcSakQcNCua) | [HH5](https://open.spotify.com/album/63loU5wOJuZfUymxLVwwxX) | 3:33 |
+| 30 | [Alter Ego 2 \(feat\. C4\)](https://open.spotify.com/track/7MUn1Kq6EiaJmqC4U6CJEz) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [C4](https://open.spotify.com/artist/2ZI5j2UOqjBOcSakQcNCua) | [HH5](https://open.spotify.com/album/4LmwlhdLXjvdtU3vF55yVP) | 3:33 |
 | 31 | [signed a deal](https://open.spotify.com/track/3FtbX3ZFt9w98MRIASjKkv) | [2Sdxrt3all](https://open.spotify.com/artist/1P8P73y8wFhXBybKRBzhbv) | [gotta be geeked](https://open.spotify.com/album/5Q42rQhzhmoqaX2xFj5IYK) | 2:40 |
 | 32 | [Lost My Top Agian](https://open.spotify.com/track/7uUrzPeIG46jwl2PtC3TN1) | [220LilBirdie](https://open.spotify.com/artist/1A2VPGGdQNvudPnKA2TE5n), [220trill](https://open.spotify.com/artist/0mifaXYzuK8Tn2xQpfV2B0) | [Da Biggest Bird](https://open.spotify.com/album/0E65DwrfHQkYdeVTSx0WWH) | 2:28 |
 | 33 | [MY WAY / CODEINE COWBOY](https://open.spotify.com/track/3a7eDVIMIQHkuqDOH9pk5r) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [FLAWLESS LIKE ME](https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS) | 4:16 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8jiBuMzYD6.md) - [plain]
 | 46 | [Hello Stranger](https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw) | 2:46 |
 | 47 | [Try Me](https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:31 |
 
-Snapshot ID: `MCxiN2FjNGRmYzk4NGM2MjBlY2MwZmFhOWZjOGE1NzIwNmVjNDFjNTM1`
+Snapshot ID: `MCxjMGNmZTkyY2FlNWU2NDdkMzQyNTRmY2I4MWYxMzYzYjdiNjFmODBh`

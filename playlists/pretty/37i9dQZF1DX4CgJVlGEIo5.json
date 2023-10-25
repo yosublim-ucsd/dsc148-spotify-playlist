@@ -1,12 +1,12 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 339259,
+  "num_followers": 339324,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzA2Mzk2Yzc0Y2U0YWQ3YzBlZTdjY2UzYWJiNmRmM2U5ZWJhODYy",
+  "snapshot_id": "MCxkOGI3NGIxMmFmYmE3MDgzZjhkYWVkNDQ4MGZiNzM0NDc0OTA0MzAz",
   "tracks": [
     {
       "added_at": "2023-09-29 04:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "We Made It Through the Wreckage",
         "url": "https://open.spotify.com/album/1jRDpK2VoR7Pxi1LsK4JhM"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 191693,
       "name": "I Can Change",
       "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1279,22 +1279,18 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Pressure Machine (Abridged)",
-        "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
+        "name": "Wandered Away",
+        "url": "https://open.spotify.com/album/1x6WXEqvgHDBxGKpxLAaz1"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Anna Leone",
+          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
         }
       ],
-      "duration_ms": 204466,
-      "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
-      "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
+      "duration_ms": 255493,
+      "name": "My Soul I",
+      "url": "https://open.spotify.com/track/4yzgJXvWFXWGLd4vQMYo9p"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1315,18 +1311,22 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Wandered Away",
-        "url": "https://open.spotify.com/album/1x6WXEqvgHDBxGKpxLAaz1"
+        "name": "Pressure Machine (Abridged)",
+        "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
       "artists": [
         {
-          "name": "Anna Leone",
-          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 255493,
-      "name": "My Soul I",
-      "url": "https://open.spotify.com/track/4yzgJXvWFXWGLd4vQMYo9p"
+      "duration_ms": 204466,
+      "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
+      "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
     },
     {
       "added_at": "2023-09-29 04:01:00",

@@ -4,7 +4,7 @@
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ blink\-182 in cover!
 
-678 songs - 1 day 7 hr 7 min
+680 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,8 @@
 | [make up sex \(feat\. blackbear\)](https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:02 | 2022-05-06 | 2023-02-10 |
 | [Male e Bene](https://open.spotify.com/track/7tkwRpNRH4l15B070Tdzqi) | [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [Male e Bene](https://open.spotify.com/album/46pTEEeTXZ0Z4ACn6IHjFd) | 2:47 | 2022-09-29 | 2022-11-25 |
 | [Maledetti Ricordi](https://open.spotify.com/track/5WBW0To4RydXpvMxUMGoLb) | [Ciro](https://open.spotify.com/artist/1590xyaAGlLogecEcOPkHx) | [Maledetti Ricordi](https://open.spotify.com/album/4eQaiknBc4CB0V9DKBlGg0) | 2:58 | 2022-06-16 | 2022-07-01 |
-| [Mani sul viso](https://open.spotify.com/track/6Z3iBX7118HNp1eyPZ4FUN) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [Mani sul viso](https://open.spotify.com/album/1oV1JSsAIkhGSfJkTPcoBa) | 2:25 | 2023-10-05 |  |
+| [Mani sul viso](https://open.spotify.com/track/6Z3iBX7118HNp1eyPZ4FUN) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [Mani sul viso](https://open.spotify.com/album/1oV1JSsAIkhGSfJkTPcoBa) | 2:25 | 2023-10-05 | 2023-10-25 |
+| [Mani sul viso](https://open.spotify.com/track/6qXxGLUOO6t6vDzZUlNUGn) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [Mani sul viso](https://open.spotify.com/album/3buEmqsvR1edDE1Wx3XwKp) | 2:25 | 2023-10-24 |  |
 | [MARE](https://open.spotify.com/track/0yhryPsrbTLvFgrZuImvvo) | [Bobby Wanna](https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH) | [MARE](https://open.spotify.com/album/61kXE5CFFjp7pvWKy35yKu) | 3:11 | 2022-06-02 | 2022-07-01 |
 | [Mare Di Lacrime](https://open.spotify.com/track/35Jwhu5uWV0ekuzxDKCdpU) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Mare Di Lacrime](https://open.spotify.com/album/2hvhmg29psyxonU4ZogcnD) | 3:05 | 2023-05-11 |  |
 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 | 2023-07-06 |  |
@@ -608,6 +609,7 @@
 | [TEMPESTA](https://open.spotify.com/track/2SPWmeeJFV39qI4PVu9caj) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [TEMPESTA](https://open.spotify.com/album/6eFCLn92CVxTFvUvxNoHV4) | 2:48 | 2023-04-27 | 2023-07-14 |
 | [Terrified](https://open.spotify.com/track/5S9opvHpOztqiShDAAusum) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Terrified](https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd) | 3:06 | 2023-10-12 |  |
 | [TETTE](https://open.spotify.com/track/1ajGa2m0F9RmUD2Hz0xGto) | [Yans](https://open.spotify.com/artist/0JMlv0THvYWc44fizfiVCX), [Fulgur](https://open.spotify.com/artist/3AgppFtvLifix2HTKhGDiC), [Kunai](https://open.spotify.com/artist/1meu0gJt7jU6ltCO5eYz1J) | [TETTE](https://open.spotify.com/album/7ck9o1UbLFbggIUrcW7EFu) | 2:55 | 2022-09-01 | 2022-09-09 |
+| [The American Dream Is Killing Me](https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The American Dream Is Killing Me](https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC) | 3:06 | 2023-10-24 |  |
 | [The Bridge](https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 3:01 | 2023-05-25 | 2023-07-21 |
 | [The Emperor](https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Emperor](https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt) | 2:55 | 2022-08-11 | 2022-08-26 |
 | [the idea](https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [the idea](https://open.spotify.com/album/529HyBH38pXm03KrwyI0At) | 3:23 | 2022-07-13 | 2022-07-29 |

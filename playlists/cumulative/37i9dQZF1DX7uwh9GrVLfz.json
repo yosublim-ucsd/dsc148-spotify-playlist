@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: Ken Yokoyama",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u30cf\u30eb\u30ab\u30df\u30e9\u30a4(Haruka Mirai)",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -720,7 +720,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 276285,
       "name": "Betty",
       "url": "https://open.spotify.com/track/1xLlG6M2xQgLJA1WMgeORO"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 90733,
       "name": "BOYSISM",
       "url": "https://open.spotify.com/track/1MHMtAXsUytkrFc2b5gb2K"
@@ -2590,6 +2590,24 @@
       "duration_ms": 108120,
       "name": "Go\u81ea\u611b",
       "url": "https://open.spotify.com/track/0aHUgBSLIN8xVMY08qbHEk"
+    },
+    {
+      "album": {
+        "name": "800TRIBUTE-champloo is the BEST!!2-",
+        "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
+      },
+      "artists": [
+        {
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164313,
+      "name": "HAPPY BIRTHDAY",
+      "url": "https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth"
     },
     {
       "album": {
@@ -6128,7 +6146,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 164175,
       "name": "Settle down",
       "url": "https://open.spotify.com/track/2zxlzUyRM2hYEznyY91ENm"
@@ -6312,7 +6330,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 268826,
       "name": "Sink Like a Stone - feat.Hiro(from MY FIRST STORY)",
       "url": "https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1"
@@ -7448,10 +7466,28 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 143759,
       "name": "Time Waits For No One",
       "url": "https://open.spotify.com/track/2S9rqwwSSQejxj0sNnGxf5"
+    },
+    {
+      "album": {
+        "name": "to be continued",
+        "url": "https://open.spotify.com/album/2426KIh3FQjMSZfNeXktvA"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
+          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244133,
+      "name": "to be continued",
+      "url": "https://open.spotify.com/track/2Vjvy82eYW584ZzSpqRfeK"
     },
     {
       "album": {
@@ -8472,7 +8508,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 182480,
       "name": "ZINNIA",
       "url": "https://open.spotify.com/track/453y9UfKiUqrGNOAYcGvhh"
@@ -10511,6 +10547,24 @@
     },
     {
       "album": {
+        "name": "800TRIBUTE-champloo is the BEST!!2-",
+        "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260278,
+      "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30a8\u30e9\u306e\u3088\u3046\u306b",
         "url": "https://open.spotify.com/album/0luH7u81HrQytGR9HHRDKs"
       },
@@ -10886,7 +10940,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 222125,
       "name": "\u66d6\u6627",
       "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"

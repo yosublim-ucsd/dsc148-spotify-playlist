@@ -418,7 +418,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 213626,
       "name": "Black Nile",
       "url": "https://open.spotify.com/track/7jM01vnA3IbskNLZF23lyV"
@@ -1102,6 +1102,24 @@
       "duration_ms": 292800,
       "name": "Futurez",
       "url": "https://open.spotify.com/track/3NTaVjpl7VY1RGWd6RGroz"
+    },
+    {
+      "album": {
+        "name": "Garage Flower",
+        "url": "https://open.spotify.com/album/0jGUtjIN8PzJggAoEOEq6q"
+      },
+      "artists": [
+        {
+          "name": "Ryosuke Kojima",
+          "url": "https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Garage Flower",
+      "url": "https://open.spotify.com/track/6QrgpcSpIs1vUopy1TafjD"
     },
     {
       "album": {
@@ -3351,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "Tully, Corfu, Greece",
+        "url": "https://open.spotify.com/album/6Ldob1EDDVmP5DKWcWhryC"
+      },
+      "artists": [
+        {
+          "name": "igloo",
+          "url": "https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296213,
+      "name": "Tully, Corfu, Greece",
+      "url": "https://open.spotify.com/track/5djFwb0ctwmcs7g8di1pUF"
+    },
+    {
+      "album": {
         "name": "Tutumikomuyouni",
         "url": "https://open.spotify.com/album/1vnxF4VENfoLws4brG1GD1"
       },
@@ -3860,7 +3896,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 295722,
       "name": "\u308a\u3093\u3054\u8ffd\u5206",
       "url": "https://open.spotify.com/track/3sL2xabTbPg586o5InU6Lt"

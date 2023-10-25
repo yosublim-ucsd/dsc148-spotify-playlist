@@ -10797,6 +10797,24 @@
     },
     {
       "album": {
+        "name": "OFFLINE",
+        "url": "https://open.spotify.com/album/4QjJhfVACjKRN34TYYSDAE"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169555,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/5AldKuBeBygcSqPcFdZPMp"
+    },
+    {
+      "album": {
         "name": "oggi",
         "url": "https://open.spotify.com/album/51PjEv06ow9ZDidkw2fxX8"
       },
@@ -11289,6 +11307,28 @@
     },
     {
       "album": {
+        "name": "OFFLINE",
+        "url": "https://open.spotify.com/album/4QjJhfVACjKRN34TYYSDAE"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Passa Il Tempo (feat. Nabi)",
+      "url": "https://open.spotify.com/track/2eVBudzixqw5GDDXy7D9H7"
+    },
+    {
+      "album": {
         "name": "Passaggi Di Mano",
         "url": "https://open.spotify.com/album/078xzTGG29Ef2GowUOGWDt"
       },
@@ -11430,7 +11470,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 166080,
       "name": "Per me no",
       "url": "https://open.spotify.com/track/7IYh5OOeLuVrSO3oaPWROu"
@@ -16270,7 +16310,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 216214,
       "name": "XXL",
       "url": "https://open.spotify.com/track/38WBxeWWDxnggsr3USYSnP"

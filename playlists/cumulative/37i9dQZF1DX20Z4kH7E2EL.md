@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-210 songs - 18 hr 36 min
+211 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [NL\-L56\-19\-08697](https://open.spotify.com/track/5rRrRVkE6Qh9zastP4aJkd) | [Aleksi Perälä](https://open.spotify.com/artist/3hjBVvW03HcmXfKUipv1Fx) | [Oscillation Part 1](https://open.spotify.com/album/4PISJ7XgsKXg9FFYm2jaRb) | 4:42 | 2023-09-04 |  |
 | [No Ending \- Nils Hoffmann Remix](https://open.spotify.com/track/0on4Nj6eERwrMj7wivFewL) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [No Ending \(Nils Hoffmann Remix\)](https://open.spotify.com/album/4hrRW25xx2jiQqFe5pSbjs) | 4:19 | 2023-10-13 |  |
 | [No Sympathy](https://open.spotify.com/track/4wySt0Tw3gCiybsPeXScGA) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [No Sympathy](https://open.spotify.com/album/48140dThJ2fdFQpcvO0x5B) | 4:18 | 2023-03-31 |  |
-| [Nobody Else Will Do](https://open.spotify.com/track/7523LoHW3sgiFG0GJcrV0C) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Nobody Else Will Do](https://open.spotify.com/album/6FQnPSIRDTKDxvZuFAH9qY) | 3:33 | 2023-08-18 |  |
+| [Nobody Else Will Do](https://open.spotify.com/track/0X2BDvXWRUYKkgOvWqvUdM) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 3:33 | 2023-10-13 |  |
+| [Nobody Else Will Do](https://open.spotify.com/track/7523LoHW3sgiFG0GJcrV0C) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Nobody Else Will Do](https://open.spotify.com/album/6FQnPSIRDTKDxvZuFAH9qY) | 3:33 | 2023-08-18 | 2023-10-25 |
 | [Now Is](https://open.spotify.com/track/5sM3ZjYmxQ2haTliX3ry5M) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 6:31 | 2023-01-12 | 2023-03-18 |
 | [Obsessed \- Extended Mix](https://open.spotify.com/track/3JVxO7366xPzmFqEha1xZS) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [Obsessed](https://open.spotify.com/album/7JYcgSMmsH4JAylYu21jeJ) | 7:12 | 2023-10-06 |  |
 | [Obsessed \- Extended Mix](https://open.spotify.com/track/4xLyA7ZU4dvDnmTlSLdKFs) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [Obsessed EP](https://open.spotify.com/album/75VFo3nmd2EmNnTp6I9lTj) | 7:12 | 2023-03-31 | 2023-10-13 |

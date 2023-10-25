@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-380 songs - 16 hr 27 min
+387 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Blazing](https://open.spotify.com/track/4a4xMLfNR4gNYBOdqXJafV) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Blazing](https://open.spotify.com/album/3xZZ9V4l1VjBDvpDUxnynu) | 2:07 | 2022-04-27 |  |
 | [Blessed with a fire](https://open.spotify.com/track/1CjqK7of4R5W0lrUjjfRdx) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Blessed with a fire](https://open.spotify.com/album/4OkclVD647nRAOSsgOzxKr) | 2:06 | 2023-07-18 |  |
 | [Blue Light](https://open.spotify.com/track/7dquOWRPNWnUT5i4R0mP90) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Blue Light](https://open.spotify.com/album/7LcAKBxLzrACoefQrTLUQ1) | 2:14 | 2022-05-26 |  |
-| [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/00PMrRJ5KFM730sipeOuoz) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- First Meditation](https://open.spotify.com/album/5VaNEQPcYQ87Kj1fYW1uTn) | 1:48 | 2023-09-18 |  |
+| [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/00PMrRJ5KFM730sipeOuoz) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- First Meditation](https://open.spotify.com/album/5VaNEQPcYQ87Kj1fYW1uTn) | 1:48 | 2023-09-18 | 2023-10-25 |
+| [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/04tMznUFQWplHXAJeAmTpG) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Levitation](https://open.spotify.com/album/1q7eyowO4zO8zwpiDDhBWj) | 1:48 | 2023-10-24 |  |
 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/1CBWjgZy7onlRVByYknOLo) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Second Psalm](https://open.spotify.com/album/5StjzAp4cqRyGZyit1Qc3T) | 1:48 | 2023-08-22 | 2023-09-06 |
 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/7kgZUuD4aj8M0WfDxIxms7) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Mysterious Ways](https://open.spotify.com/album/1BfKFbABeUVtwlEVtXi3yU) | 1:48 | 2023-09-05 | 2023-10-04 |
 | [Breathe](https://open.spotify.com/track/3gtL7UMzcc54SjrOT0ZZE4) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Breathe / Debris](https://open.spotify.com/album/2wb8IcAFeV3ndOH36qTsRH) | 2:30 | 2022-04-14 | 2022-05-14 |
@@ -134,6 +135,7 @@
 | [Heal](https://open.spotify.com/track/2fxcZyta2BeXV92mae22B3) | [Pieter Savenberg](https://open.spotify.com/artist/2S4k9mN8c0AUrenisHLpNp) | [Duality](https://open.spotify.com/album/69L1ipjKws5rY7QuECAicd) | 2:09 | 2022-05-26 |  |
 | [Heartfelt](https://open.spotify.com/track/7hoho5MSIQZfluHupiNuq1) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Heartfelt](https://open.spotify.com/album/4n944iZef2VPY0Ahfnc8J9) | 2:16 | 2022-04-14 | 2022-05-14 |
 | [Heartsease](https://open.spotify.com/track/2VqdRIXLDBYtDHLBvWw0p4) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Heartsease](https://open.spotify.com/album/2jVOyTHvkQHSQ0Y19arpqE) | 2:25 | 2022-09-13 |  |
+| [Hidden poetry](https://open.spotify.com/track/3KlDABftWLOMxlQUTkRmJI) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Hidden poetry](https://open.spotify.com/album/3hn4kKodyid2wx4agXY3rM) | 2:19 | 2023-10-24 |  |
 | [Hind \- Voiceless \- Harpa Sessions](https://open.spotify.com/track/3xgrIw8JY1aqdD5yNAB5OH) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2) | 1:38 | 2022-10-26 |  |
 | [Hinode](https://open.spotify.com/track/0jP1vlXPZWKezTOU49xGzN) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Hinode](https://open.spotify.com/album/1wkFABi2Q0XBC9j0dOEAwZ) | 2:31 | 2022-09-13 |  |
 | [Homebound](https://open.spotify.com/track/2TSm3aFc5f0tgzsVhIbMxp) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Homebound](https://open.spotify.com/album/05upCw1lmnqV6dO7xFRTz8) | 2:53 | 2022-04-14 | 2022-06-08 |
@@ -191,6 +193,7 @@
 | [Les murmures](https://open.spotify.com/track/5fe40JdDz3qqDB1vAQOaRr) | [Bon Coeur](https://open.spotify.com/artist/3uvirEQnNIIz4wsyCPEper) | [Les murmures](https://open.spotify.com/album/4oYNPdNy3Zisu3oeUjLHGa) | 2:32 | 2022-12-22 | 2023-09-30 |
 | [Les passions](https://open.spotify.com/track/5eVSECRwlo8dpiAVWZImDs) | [Gianfranco Abate](https://open.spotify.com/artist/0LY1eNeWoYUJ9kwockmS2t) | [Les passions](https://open.spotify.com/album/1kLAGCQCV2Zn75wEKDl9eh) | 2:34 | 2022-04-14 |  |
 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 | 2023-06-20 |  |
+| [Liebevoll](https://open.spotify.com/track/5M4W1gIBx3eqCoxZWy48zE) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Liebevoll](https://open.spotify.com/album/5lp9wSSEvsgowFwuhrJ4Z8) | 2:24 | 2023-10-24 |  |
 | [Liminal ride](https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Liminal ride](https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY) | 2:36 | 2022-12-22 |  |
 | [Lionheart](https://open.spotify.com/track/65a1ng2xAbaRbYWsq9H2MH) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 3:29 | 2022-04-14 | 2022-05-14 |
 | [Little While](https://open.spotify.com/track/1f9RHATlSLTKsEgGjC6lQh) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Little While](https://open.spotify.com/album/11gmPF0r2oGtFQ6WP943jU) | 2:35 | 2022-04-14 | 2023-04-05 |
@@ -198,6 +201,7 @@
 | [Lonely Children](https://open.spotify.com/track/3qOEq8x1ayOUmvcEvzkPux) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Lonely Children](https://open.spotify.com/album/11ytfVbaf7XPoKghET8RIy) | 2:44 | 2022-04-14 | 2022-06-08 |
 | [Look to the Sea](https://open.spotify.com/track/0niChogoxtdK17KtHH0jni) | [Aisha Edwards](https://open.spotify.com/artist/3YZeY8Jt05JPzWSY6VNnYZ) | [Look to the Sea](https://open.spotify.com/album/5krugfl1J2zSBZG7R2zNy5) | 2:42 | 2022-04-14 | 2022-06-08 |
 | [Los Viejos Tiempos](https://open.spotify.com/track/3B9bfvdtGxZp4IKU2esmQ3) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Los Viejos Tiempos](https://open.spotify.com/album/2kwDucB8NNIJJVpcsnj8mA) | 1:53 | 2022-04-14 | 2022-05-27 |
+| [Lost to memories](https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Lost to memories](https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj) | 2:14 | 2023-10-24 |  |
 | [Luminous](https://open.spotify.com/track/7lPvVD6xk2KjEqyS0VkxM1) | [Lucas van Kesteren](https://open.spotify.com/artist/1nuw1AswgVJaRJLS5IkRTY) | [Luminous](https://open.spotify.com/album/6m4wOlboYm7g0LKsqsRJPG) | 2:15 | 2022-04-14 |  |
 | [Lunate](https://open.spotify.com/track/7whs3YkiIIVdTbUVZnDEAe) | [Hollou](https://open.spotify.com/artist/5AVCjUPGLAHTxEdYjkrjIM) | [Lunate](https://open.spotify.com/album/70V2wLc3pSpwh5HNQZleSC) | 2:50 | 2022-04-27 |  |
 | [Luz](https://open.spotify.com/track/16LPouz5bGb5gh4jerSRYi) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Luz](https://open.spotify.com/album/6FYr3rZ3L5e7VmpUaDfMzd) | 2:33 | 2022-04-14 | 2022-12-24 |
@@ -216,6 +220,7 @@
 | [Montmarte](https://open.spotify.com/track/0I4fEtucjFVQcwNvMCgqoL) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Waltzes from Paris](https://open.spotify.com/album/5QNjTrkjRD32KWQZywf17x) | 2:03 | 2022-04-14 | 2023-05-10 |
 | [Monuments](https://open.spotify.com/track/3UuRldDkQBgFmEkgWG42Ge) | [Daníel Fannar](https://open.spotify.com/artist/5N36wGewpkol8rMbwxx0nj) | [Monuments](https://open.spotify.com/album/0vq2GgBYof806maqlWvTky) | 2:48 | 2022-04-14 | 2022-09-15 |
 | [Moonlight](https://open.spotify.com/track/13b7swHOlTGpZoDgtTWFIc) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Moonlight](https://open.spotify.com/album/1bRqYfdj4ipHdK3JXuhxQz) | 2:20 | 2022-04-14 | 2022-04-28 |
+| [Moonlight Reverie](https://open.spotify.com/track/1F4LTsUjpZImXSgt4FI2Dy) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Moonlight Reverie](https://open.spotify.com/album/1EqwtiMH4fQsiTNmBVbWpY) | 3:00 | 2023-10-24 |  |
 | [My Affliction](https://open.spotify.com/track/49bBnHT2FcuusDAaIfZVLC) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [My Affliction](https://open.spotify.com/album/7mmt3L0Tva5TBR1gJ3fbtY) | 2:19 | 2022-12-22 |  |
 | [Myrdal\-Flam](https://open.spotify.com/track/7pwOwDFqgz7K8nvka7UCx0) | [Jorulf](https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO) | [Myrdal\-Flam](https://open.spotify.com/album/4u6qWwxYpre7Ln3upJ0fwX) | 1:58 | 2022-08-03 |  |
 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 | 2022-04-14 | 2022-05-27 |
@@ -332,6 +337,7 @@
 | [The Perfect Two](https://open.spotify.com/track/6ybvlo7BzMqEChtAwWoAew) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [The Perfect Two](https://open.spotify.com/album/2WE9WtMlbnh12kSbdJWA09) | 2:09 | 2022-12-22 |  |
 | [The Persistence of Memory](https://open.spotify.com/track/3QSKmjKCMCc8halbvPmwkl) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [The Persistence of Memory](https://open.spotify.com/album/6Bk0HhWSAZfMAioQEc1dl0) | 2:30 | 2022-04-14 |  |
 | [The Room Upstairs](https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [The Room Upstairs](https://open.spotify.com/album/2nroqN7kkTUrFfw8K55wP1) | 2:20 | 2022-04-14 | 2022-12-24 |
+| [Then I Saw You](https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [Then I Saw You](https://open.spotify.com/album/11e0Rf3uYRPR4nQUOqKpOQ) | 3:06 | 2023-10-24 |  |
 | [Thirty two steps](https://open.spotify.com/track/2oSzrwVIU2M0w4GMVCehj8) | [Violet Mar](https://open.spotify.com/artist/5elUadW5r1Yr21zo4bV7sh) | [Thirty two steps](https://open.spotify.com/album/7jk3EiT43JQpHeCujcrSJh) | 2:27 | 2023-05-03 |  |
 | [Through The Years](https://open.spotify.com/track/66ZgkGert8jeTCEtUq7KcQ) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Through The Years](https://open.spotify.com/album/2tmZIjSWjBloHaE77q4RJN) | 3:01 | 2023-08-22 |  |
 | [Tiens ma main](https://open.spotify.com/track/2OP9iKAHM767rIa85WViM7) | [Prewitt Massé](https://open.spotify.com/artist/4A2bJABmFzaDnZwBris4yj) | [Tiens ma main](https://open.spotify.com/album/4GZs8HylpUXyUbtvc2PNNJ) | 2:43 | 2023-01-20 |  |
@@ -354,6 +360,7 @@
 | [Un peu d'espoir](https://open.spotify.com/track/43PPeEImtgU8I1a7Wm41bt) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Un peu d'espoir](https://open.spotify.com/album/1G3A5OJ2NooyclJwgrCHGD) | 2:13 | 2022-04-14 |  |
 | [Unconditional](https://open.spotify.com/track/7eriWSdbkuFHBM6qiHIEq8) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Unconditional](https://open.spotify.com/album/1uy7xtQ94KNqMtQnr2KNCO) | 2:24 | 2022-04-14 | 2022-04-28 |
 | [Underverse](https://open.spotify.com/track/2FqPT4G4ygSSRTerAfyUD6) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [In Faith](https://open.spotify.com/album/2URSgPPCKlKmsGqcDxfygl) | 3:12 | 2022-07-15 |  |
+| [Underwater](https://open.spotify.com/track/0cUVh5ofEVsK3IiGS4Flii) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Underwater](https://open.spotify.com/album/3OfYsWc5jgdwmYZuQwzn6E) | 2:02 | 2023-10-24 |  |
 | [Une Danse](https://open.spotify.com/track/3rOhuafK8dRIjf2iDnn6yX) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Une Danse](https://open.spotify.com/album/2NI1xUFgeWBEjbNrjVCsbP) | 3:03 | 2022-04-14 |  |
 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 | 2022-04-14 |  |
 | [Valse Mélancolie](https://open.spotify.com/track/47L9KRq0WRPYiNs4oeHyFs) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Valse Mélancolie](https://open.spotify.com/album/0vJoclAstkRCim3ou4KEzj) | 3:46 | 2022-04-14 | 2022-10-27 |

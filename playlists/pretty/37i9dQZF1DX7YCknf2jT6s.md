@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Terrace Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,313 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,493 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 10 | [Feed Them To The Machine](https://open.spotify.com/track/69ttmOIzh9you9xe4whVDj) | [Move 78](https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr) | [Feed Them To The Machine](https://open.spotify.com/album/3i3yBICZRJlHUMa3mKReWw) | 2:57 |
 | 11 | [AT EASE](https://open.spotify.com/track/1w8qCPaSGag0pzg9VkbVoj) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [AT EASE](https://open.spotify.com/album/5IaYIRrdDukByGOU3GylvN) | 3:27 |
 | 12 | [Not My King](https://open.spotify.com/track/5rGMMibA5QXosSfJBW4MPo) | [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4), [Wonky Logic](https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [James Mollison](https://open.spotify.com/artist/5FHf0e5ya34Q4nDr1RbITm), [Axel Kaner\-Lidstrom](https://open.spotify.com/artist/0R4jkE6q1364F71jgVku0B) | [Not My King](https://open.spotify.com/album/1M79E2krDVMxYUy7OHGMYP) | 2:16 |
-| 13 | [Keep on Moving](https://open.spotify.com/track/0wC3dtsSFOvRhVHLhPp7sl) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr), [Brooke Leialoha](https://open.spotify.com/artist/3fTehHmTes9L5PnktfOd8i) | [Keep on Moving](https://open.spotify.com/album/6vq0MMZbQj9clpD5LzPDW5) | 2:48 |
+| 13 | [Keep on Moving](https://open.spotify.com/track/0wC3dtsSFOvRhVHLhPp7sl) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr), [Brooke Leialoha](https://open.spotify.com/artist/5NjHCbcV0NDH1qNMIb0KLt) | [Keep on Moving](https://open.spotify.com/album/6vq0MMZbQj9clpD5LzPDW5) | 2:48 |
 | 14 | [Beeyondsay](https://open.spotify.com/track/7dqmOuvPK13WOqEJ7EthZh) | [JD Allen](https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM) | [THIS](https://open.spotify.com/album/64M3TxQcWOTsbX7hEMS7st) | 5:02 |
 | 15 | [Phoenix \- Theon Cross Remix](https://open.spotify.com/track/6c358FrD7dJCkAyDAQGOlj) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [The Midnight Hour](https://open.spotify.com/artist/1S5jf5XWhQTMjGZQxCH0AJ), [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Phoenix \(Theon Cross Remix\)](https://open.spotify.com/album/3JUeHROdXb6FEGxs5KCPKN) | 4:05 |
 | 16 | [Light Years](https://open.spotify.com/track/4M3TB3K2uietahnWZuzIZF) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [The Good Life](https://open.spotify.com/track/7vCUJ7NPHoIVMGzmQLfoen) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [New Jawn](https://open.spotify.com/artist/0lpuuN7i6U5mUhMozlFncR) | [Prime](https://open.spotify.com/album/1vFLT0IUByItGLbFDb7NXJ) | 7:15 |
 | 100 | [Look To The Hills](https://open.spotify.com/track/6bfiCXTdEJBTskKdTfqzcj) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Kings Highway](https://open.spotify.com/album/6lenF7EOgaIQ9a1BQZRxac) | 4:20 |
 
-Snapshot ID: `MCwzZTE5MmU3MTY5NDMyNGRlODY2M2YwN2FhZmZkNjYwNmU1NTE4MWY4`
+Snapshot ID: `MCw0Y2FmOGQ1NTNmYmNmODZhZmQ3M2RhNzMwZjIwZGM3NWE3OTgyNzAw`

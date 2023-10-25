@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Joy Denalane
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,411 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,408 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 21 | [Black Goose](https://open.spotify.com/track/42twCm34xVG0EQexL1BuPm) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Black Goose](https://open.spotify.com/album/4QaBlPW42jSyeOv5dLg6pv) | 2:33 |
 | 22 | [lolita](https://open.spotify.com/track/5aG4QJ3Kzj9xWPdAFw00Bb) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [lolita](https://open.spotify.com/album/5AajzMoNWCklGCcN9E7MUI) | 2:34 |
 | 23 | [STERNE EGAL](https://open.spotify.com/track/4NVV6v5XmfzMHztGnVcArC) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [STERNE EGAL](https://open.spotify.com/album/7lyZsfKXqj7DSyY9mhAOyR) | 2:33 |
-| 24 | [Toxic Baggage](https://open.spotify.com/track/3HGcCi6OUatVgbGwD16ktQ) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Toxic Baggage](https://open.spotify.com/album/17Q5R0UNJuXQCQxRN6lgHH) | 2:26 |
-| 25 | [Love the game](https://open.spotify.com/track/0vdawkR50QbBBvYuJs3vGt) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Love the game](https://open.spotify.com/album/7mE7fQb7p35DLUTSfWeVQc) | 2:41 |
+| 24 | [Love the game](https://open.spotify.com/track/0vdawkR50QbBBvYuJs3vGt) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Love the game](https://open.spotify.com/album/7mE7fQb7p35DLUTSfWeVQc) | 2:41 |
+| 25 | [Toxic Baggage](https://open.spotify.com/track/3HGcCi6OUatVgbGwD16ktQ) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Toxic Baggage](https://open.spotify.com/album/17Q5R0UNJuXQCQxRN6lgHH) | 2:26 |
 | 26 | [Drugs](https://open.spotify.com/track/4XUvxZgvrvAoIpeEdzt9mi) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Drugs](https://open.spotify.com/album/0VG3DB6vKYfJ9cRBeDcsrk) | 3:47 |
 | 27 | [Rosarot](https://open.spotify.com/track/4WXhjmJaVEheeiaxbuVvDZ) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Rosarot](https://open.spotify.com/album/49aM6o7lUyIPUZUDIx5he1) | 2:39 |
 | 28 | [get tough](https://open.spotify.com/track/1fHKPEMw05XGxtB7ESSDZo) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [get tough](https://open.spotify.com/album/4Rbu6trRci6vt24z52i1p8) | 3:05 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 33 | [C\-Major](https://open.spotify.com/track/2R9P2h0TCkDK0qXzLSpiTy) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [C\-Major](https://open.spotify.com/album/0ch8XuUCgy7k10pbtlx1Dg) | 3:28 |
 | 34 | [Back and Forth](https://open.spotify.com/track/1VTuswz3VsGI44bV9P03iR) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ) | [Back and Forth](https://open.spotify.com/album/05tyjpb2EO5vhBoEyTB9rC) | 3:26 |
 | 35 | [wELLeN](https://open.spotify.com/track/3VMx9EFFqH2pwyqOtlMJfx) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [wELLeN](https://open.spotify.com/album/1wBviASwDZ1UXyj66XeQll) | 2:48 |
-| 36 | [prove you wrong](https://open.spotify.com/track/6ADmmi9qxOyE86To9Ul4qN) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [prove you wrong](https://open.spotify.com/album/2dejRFiYIXCo74X4uDLz6W) | 3:14 |
-| 37 | [Insecurities](https://open.spotify.com/track/6Uoy9kA7D9dFxrAJ8zntKa) | [Odd Beholder](https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v) | [Insecurities](https://open.spotify.com/album/1azqoOmCxV4jVSuavtwUY2) | 3:25 |
+| 36 | [Insecurities](https://open.spotify.com/track/6Uoy9kA7D9dFxrAJ8zntKa) | [Odd Beholder](https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v) | [Insecurities](https://open.spotify.com/album/1azqoOmCxV4jVSuavtwUY2) | 3:25 |
+| 37 | [prove you wrong](https://open.spotify.com/track/6ADmmi9qxOyE86To9Ul4qN) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [prove you wrong](https://open.spotify.com/album/2dejRFiYIXCo74X4uDLz6W) | 3:14 |
 | 38 | [BAD NEWS](https://open.spotify.com/track/2KGUmLjKyYgQeD6xPFsoIY) | [TRINA](https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ) | [BAD NEWS](https://open.spotify.com/album/7h2aBUeVqh7J9BEagbwTbj) | 2:40 |
 | 39 | [Referee](https://open.spotify.com/track/3gHCOrb1EasRxmmCy7apKD) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [Referee](https://open.spotify.com/album/4jilCP2w2LpwgBFhCjWGjT) | 3:08 |
 | 40 | [TÜR ZU/ LICHT AUS](https://open.spotify.com/track/41KucuT8C3ofEethijrSfx) | [DenniJasmin](https://open.spotify.com/artist/5yJut22NfYJpzq6vxvtOpE) | [TÜR ZU/ LICHT AUS](https://open.spotify.com/album/4B3pFDgOsCNSRYLcJV7PTr) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [nickname](https://open.spotify.com/track/5UbwGKkWpOMYv7oJ67z4jE) | [Soukou](https://open.spotify.com/artist/0eRpKXLg1McmJuL3ASNbiz) | [Bloodline EP](https://open.spotify.com/album/3YsmTeuy0gEf098c17dwmP) | 2:47 |
 | 50 | [Pussy Edible](https://open.spotify.com/track/3tFqXkmpukEmx0evY1yiK8) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Replica Of My Heart](https://open.spotify.com/album/1t0qPUVKhK3TSB9049ON4a) | 2:10 |
 
-Snapshot ID: `MCxlZmU3NjFiNzcxYjZlZmM2MDJmZTg2ZjRmZWU4MTY2MTRiOTc4NTFj`
+Snapshot ID: `MCxlMjU1MTIxOWQ4Y2YzMTMwNTdhZmZmOWNlYWI0ZjVjYTM5ZmUwOTA5`

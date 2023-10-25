@@ -496,10 +496,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 104810,
       "name": "THOR!",
       "url": "https://open.spotify.com/track/2R0GMc87K9od0d1ZDGskZu"
+    },
+    {
+      "album": {
+        "name": "REAL RAW!",
+        "url": "https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104810,
+      "name": "THOR!",
+      "url": "https://open.spotify.com/track/4g5QKisfR3aoVc1bSEfncT"
     },
     {
       "album": {

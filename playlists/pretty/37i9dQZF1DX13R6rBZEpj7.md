@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Gardna
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,360 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,382 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 54 | [Let U Have It](https://open.spotify.com/track/4ZhbxBYEqsuyk61ZBhgrBW) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Charlotte X](https://open.spotify.com/artist/5KEaTilneqGJ2SUc6ilfDS) | [Let U Have It](https://open.spotify.com/album/59ioF1E2Sbpfwy5Rwpt3Sj) | 2:55 |
 | 55 | [Lose My Mind](https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:41 |
 | 56 | [Redlight](https://open.spotify.com/track/60GofMxxkrLuEIOS9JluGG) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Liberation](https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW) | 4:09 |
-| 57 | [Inside](https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI) | [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Inside](https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa) | 4:12 |
-| 58 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
+| 57 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
+| 58 | [Inside](https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI) | [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Inside](https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa) | 4:12 |
 | 59 | [Never](https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Never](https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn) | 3:26 |
-| 60 | [Higher](https://open.spotify.com/track/0ToozEOeZ9UR0y1rbSj9Kv) | [Daffy](https://open.spotify.com/artist/19lhg4NCjnOC2gVeHsTed6) | [Higher](https://open.spotify.com/album/1KD01E2RBcy8JDDFa0YUlU) | 4:22 |
-| 61 | [Over](https://open.spotify.com/track/3hctz1DZDroVD2i26nGtLQ) | [Penfld](https://open.spotify.com/artist/0ZcCXqoqA3t1pJiK3kiFbZ), [Joshua Blu](https://open.spotify.com/artist/1HF6XJU6BW3gu4vL4rxkd5) | [Over / Holding On](https://open.spotify.com/album/6JsTt3BENeBQSdVhEfj5TH) | 4:33 |
+| 60 | [Over](https://open.spotify.com/track/3hctz1DZDroVD2i26nGtLQ) | [Penfld](https://open.spotify.com/artist/0ZcCXqoqA3t1pJiK3kiFbZ), [Joshua Blu](https://open.spotify.com/artist/1HF6XJU6BW3gu4vL4rxkd5) | [Over / Holding On](https://open.spotify.com/album/6JsTt3BENeBQSdVhEfj5TH) | 4:33 |
+| 61 | [Higher](https://open.spotify.com/track/0ToozEOeZ9UR0y1rbSj9Kv) | [Daffy](https://open.spotify.com/artist/19lhg4NCjnOC2gVeHsTed6) | [Higher](https://open.spotify.com/album/1KD01E2RBcy8JDDFa0YUlU) | 4:22 |
 | 62 | [Hard Hitters](https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl) | 3:52 |
 | 63 | [Barrington](https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Barrington / Bodies](https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk) | 3:41 |
 | 64 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 67 | [Take Me as I Am \- Holy Goof Remix](https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [Take Me as I Am](https://open.spotify.com/album/0ENUjXIwpXUtga0c4P1BHc) | 3:11 |
 | 68 | [Solid Ground](https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Solid Ground](https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be) | 4:01 |
 | 69 | [B22s](https://open.spotify.com/track/5LhxBJEa3bWhcrnyiF7qmv) | [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [B22s](https://open.spotify.com/album/5DdSHU4JHlD0d5Rk6Rhl8A) | 2:32 |
-| 70 | [Donny Don](https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC), [MIK](https://open.spotify.com/artist/4zotndJ6zbqir1ZkZNXzsm) | [Donny Don](https://open.spotify.com/album/3UusxCt7bhvh5aT6Lwbqwr) | 3:34 |
+| 70 | [Hold Me Close](https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Hold Me Close](https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg) | 3:52 |
 
-Snapshot ID: `MCw4YjczMDY2Nzc1NjIwZjNhZmY4YTlkYzUwOGY5ODlkYzUyOGU4OGJh`
+Snapshot ID: `MCw4ZGM4ZDUxNTliOTM5YWE5NDNkZDgzOTZjNDQwYWUwNjg0ZTY1ZGVk`

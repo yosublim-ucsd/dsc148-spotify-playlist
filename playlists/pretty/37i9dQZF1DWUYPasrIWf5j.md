@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 
 > Instrumental covers of favourites played on ukulele.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,127 likes - 76 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,189 likes - 76 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 71 | [Sweet Caroline \(Instrumental Version\)](https://open.spotify.com/track/1QUPoigzuwFjZf4NEbDoMe) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW), [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Popular Instrumental Songs on Ukulele](https://open.spotify.com/album/6rNPhHvHlRuIKJSYeJYo0V) | 3:19 |
 | 72 | [Hallelujah](https://open.spotify.com/track/3nSQdZM55hMuvGYtfHfOK6) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:34 |
 | 73 | [Here Comes the Sun](https://open.spotify.com/track/17DaSKTxBcuciWvywF2Vbg) | [Carsten Knudsen](https://open.spotify.com/artist/5f3DTzC7s625Pb9kLFicSj) | [Ukulele](https://open.spotify.com/album/3P36Jk9aUHfDfExcgdQeSg) | 2:08 |
-| 74 | [Let It Go \(Instrumental Version\)](https://open.spotify.com/track/4HYmwCqOEFg25G6xmiv86U) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW), [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Popular Disney Favorites on Ukulele](https://open.spotify.com/album/0FQDjL8QbeMZ7GsnEmEcRK) | 3:52 |
+| 74 | [Let It Go \(Instrumental Version\)](https://open.spotify.com/track/5ignUBEPkskuxQ41eANUZi) | [Matt Carlson](https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8) | [Lullabies for Little Ones on Ukulele](https://open.spotify.com/album/2lhNZafYdVBhPpjbVzlJj3) | 3:52 |
 | 75 | [La Vie En Rose](https://open.spotify.com/track/6aSdUhdyZuLqwjYnwu0hdo) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:12 |
 | 76 | [Adore You \- Ukulele Version](https://open.spotify.com/track/2zO27QsWDlFWJuquK2I7T5) | [Acoustic Guitar Revival](https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV) | [Ukulele 2020 Hits! \(Ukulele Version\)](https://open.spotify.com/album/5SO7tllIFBT4ZqFbRgdEkk) | 3:18 |
 
-Snapshot ID: `MCwzNWU1MmUzZTYzNjVlY2ZmNTdhZTY0NjNmNGFkZTc4YjViNjY3MmY2`
+Snapshot ID: `MCw2NWM0YTMzYWUzNDU3NGNkN2ViMmViM2I3YzgwMzk3YWQxOGEwOWM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 
 > Hello you...Listen to music from and inspired by You, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,768 likes - 153 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,812 likes - 153 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 | 39 | [Dancing with Myself](https://open.spotify.com/track/1lEhKudlkpBsh6S7JyvvHs) | [Generation X](https://open.spotify.com/artist/1inWec2E2UgfzMAhwjgTXe) | [Kiss Me Deadly](https://open.spotify.com/album/1AbDlSsOrlnuIl2L0PxqRA) | 3:48 |
 | 40 | [Heart Of Glass](https://open.spotify.com/track/4v2rkl1mC3zVAz0nXMx9r4) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:49 |
 | 41 | [Dangerous \- Oliver Remix](https://open.spotify.com/track/2BWtYgxamGttE2d0xRVAIC) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [1.6](https://open.spotify.com/album/6hO9Rx1gtqgPPWMQdkjaZV) | 4:37 |
-| 42 | [Inside of My Eyelids](https://open.spotify.com/track/6N0TaPAonUGCLvVT1rhJYV) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Inside of My Eyelids](https://open.spotify.com/album/18BDPJhQ7oIrszk1Q0OMdj) | 3:48 |
+| 42 | [Inside of My Eyelids](https://open.spotify.com/track/1JFt4HzBxWRDKbMyHRFvpP) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Inside of My Eyelids](https://open.spotify.com/album/5cCpekdI31EuhKewxaRb3q) | 3:48 |
 | 43 | [Buzzkill](https://open.spotify.com/track/3Z1FTfTLaxpRIFkrnYXzUC) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Buzzkill](https://open.spotify.com/album/0HkvLF5TkLma9xpHLq7PQq) | 3:24 |
 | 44 | [Running Around](https://open.spotify.com/track/2XwLv4H0P9sX7POvrOQEdy) | [James Quant](https://open.spotify.com/artist/0n4Bo2cDRYLcbXsbcPZ6Zo) | [Running Around](https://open.spotify.com/album/1V3IBWNLILgcWi1qfnhOk0) | 4:33 |
 | 45 | [My Heart Belongs to Only You](https://open.spotify.com/track/2ZLVZFxbt5y0jXj1Ljcm2d) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [There I've Said It Again](https://open.spotify.com/album/6H2obkE8t9qlR7hMjIdveT) | 2:46 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 | 152 | [Roller](https://open.spotify.com/track/0zFqjimE0Q6wk0OQVGu3rY) | [Quilt](https://open.spotify.com/artist/0S4yEUTvpxWhfXux925405) | [Plaza](https://open.spotify.com/album/0NEF1hzL7820zUVOU7n9Kj) | 4:14 |
 | 153 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
 
-Snapshot ID: `MCwwMzQzMWMzYjQzMTdmZjc5ODg5NTc3YzAxNTUxNjcxMjJjNTk0NjYy`
+Snapshot ID: `MCwxODU2NDQ5ZGU4OWRlMmQ1YjUyM2RlN2U0ODkyMjE4MzEwZDU4N2Yy`

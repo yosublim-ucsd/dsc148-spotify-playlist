@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Earl Sweatshirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,617,390 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,381 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 42 | [Dangerous Daringer](https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Dangerous Daringer](https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI) | 4:09 |
 | 43 | [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 |
 | 44 | [ALL 4 YOU](https://open.spotify.com/track/6PTEIszOGU733zIulViPjo) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [TEXAS BOY](https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH) | 2:54 |
-| 45 | [beauty supply](https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 3:13 |
-| 46 | [Passion](https://open.spotify.com/track/6oVLxrogWL86DNet6SR6y2) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg) | [Passion](https://open.spotify.com/album/3AFkefqinn7Jz7DuvuvLoe) | 3:05 |
+| 45 | [Burning Desire](https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 1:48 |
+| 46 | [beauty supply](https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 3:13 |
 | 47 | [Bless \(feat\. MIKE & Sideshow\)](https://open.spotify.com/track/2iPfam65gH9PWFplrBXwDW) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Sideshow](https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC) | [Flying High](https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz) | 2:59 |
-| 48 | [FromTheProjects \(feat\. Raekwon & Westside Gunn\)](https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY) | [Nappyhigh](https://open.spotify.com/artist/4MnQuPFIfAFg50h0RmnH0q), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [FromTheProjects \(feat\. Raekwon & Westside Gunn\)](https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB) | 2:35 |
+| 48 | [Passion](https://open.spotify.com/track/6oVLxrogWL86DNet6SR6y2) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg) | [Passion](https://open.spotify.com/album/3AFkefqinn7Jz7DuvuvLoe) | 3:05 |
 | 49 | [Mop](https://open.spotify.com/track/1zzr2hAl79SS4tGUrrDZGh) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Patience](https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI) | 2:48 |
-| 50 | [Burning Desire](https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 1:48 |
+| 50 | [FromTheProjects \(feat\. Raekwon & Westside Gunn\)](https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY) | [Nappyhigh](https://open.spotify.com/artist/4MnQuPFIfAFg50h0RmnH0q), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [FromTheProjects \(feat\. Raekwon & Westside Gunn\)](https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB) | 2:35 |
 
-Snapshot ID: `MCwzYjY4NDI3ZjQ5ZGVjODBmMDM5NDQxMjlmZjE5MDk0MTEyYTgyMDk5`
+Snapshot ID: `MCw1OWE3YzJkYWJjYTU5N2M1MTJlNjg2MmM2Y2U5NmRlZjEyZTJlMGRj`

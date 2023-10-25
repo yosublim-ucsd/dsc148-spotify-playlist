@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" /Aqoursの「みんなで叶える物語」を彩ってきた名曲の数々がここに。▶︎「Love Live！」<a href="spotify:user:spotify:playlist:37i9dQZF1DX1uvQpDoMmUF">Here</a> ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,536 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,545 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 46 | [INNOCENT BIRD](https://open.spotify.com/track/69n3yUeRmkVZpZuyiZcXgR) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [GALAXY HidE and SeeK](https://open.spotify.com/album/4OJGTVA3WqZpl8cUK1zVuq) | 3:44 |
 | 47 | [RED GEM WINK](https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI) | [黒澤ルビィ \(CV.降幡 愛\) from Aqours](https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh) | [LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album 〜RED GEM WINK〜](https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr) | 4:55 |
 | 48 | [Love is all, I sing love is all!](https://open.spotify.com/track/4FHxcdoJ0KfhQJUZz92zTF) | [小原鞠莉 \(CV.鈴木愛奈\) from Aqours](https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr) | [LoveLive! Sunshine!! Second Solo Concert Album \~THE STORY OF FEATHER\~ starring Ohara Mari](https://open.spotify.com/album/4tZnuXnlf0Lcn8dMRHnL9a) | 5:10 |
-| 49 | [Never giving up!](https://open.spotify.com/track/3wowUlcFYoM9CvSG0U7U92) | [高海千歌 \(CV.伊波杏樹\) from Aqours](https://open.spotify.com/artist/1nooN5DIt9Zps8shc8Sbno) | [LoveLive! Sunshine!! Takami Chika First Solo Concert Album 〜One More Sunshine Story〜](https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp) | 3:54 |
-| 50 | [TSUBOMI SEASON](https://open.spotify.com/track/40JiCBJlH4iqE1wCnJu6sm) | [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an) | [LoveLive! Sunshine!! Third Solo Concert Album ～THE STORY OF “OVER THE RAINBOW”～ starring Kunikida Hanamaru](https://open.spotify.com/album/4ZzyUO4OvlExdt327284Ho) | 5:00 |
+| 49 | [TSUBOMI SEASON](https://open.spotify.com/track/40JiCBJlH4iqE1wCnJu6sm) | [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an) | [LoveLive! Sunshine!! Third Solo Concert Album ～THE STORY OF “OVER THE RAINBOW”～ starring Kunikida Hanamaru](https://open.spotify.com/album/4ZzyUO4OvlExdt327284Ho) | 5:00 |
+| 50 | [Never giving up!](https://open.spotify.com/track/3wowUlcFYoM9CvSG0U7U92) | [高海千歌 \(CV.伊波杏樹\) from Aqours](https://open.spotify.com/artist/1nooN5DIt9Zps8shc8Sbno) | [LoveLive! Sunshine!! Takami Chika First Solo Concert Album 〜One More Sunshine Story〜](https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp) | 3:54 |
 
-Snapshot ID: `MCwzMzZiZmEyM2IyZDRiYmU4YWYzNmI5YmYwYmMzOGI5ODhlNTAxN2My`
+Snapshot ID: `MCxlMDU1NmZkOWJhYjI0YTIzYmI3YmMxODdiNTViYjAzY2JjYzk4MDEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Leina
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,842 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,897 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Pale&Deep](https://open.spotify.com/track/5On7JRAuTPIG7WEcGOQGmV) | [Awairo](https://open.spotify.com/artist/5zCXmpe2klqd9LXL9Q7gxa), [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks), [WaMi](https://open.spotify.com/artist/1qanQeBBRpAXORMg7BdCol) | [Pale&Deep](https://open.spotify.com/album/04nxxdazeMA0Wlx398KS6e) | 3:59 |
 | 80 | [液化](https://open.spotify.com/track/1SYl2CaGm5Joxz8FRptNnU) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [液化](https://open.spotify.com/album/4LKPTeleZPodLn7CvkTIoY) | 2:15 |
 
-Snapshot ID: `MCwxNmI5MTVhYmQyYzkyN2I2OWE0NmI1OTVlNmMyMGZlNTkwYThlNzA3`
+Snapshot ID: `MCxhYWQ4ODYxODE4NTMyYmUxMDM5ODU5NTFjYWVmOGRiOGIwNTY3ZDJl`

@@ -4,7 +4,7 @@
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Mx Blouse
 
-973 songs - 2 day 4 hr 55 min
+974 songs - 2 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,7 +439,7 @@
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2023-01-27 | 2023-02-07 |
 | [I've Loved You For So Long](https://open.spotify.com/track/0j1AlYnUBAiYOuVBDwCT20) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/1d4SG4S7oEKwHcPCyQsC2J) | 2:56 | 2023-06-01 | 2023-07-12 |
 | [Ice Slippin](https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ice Slippin](https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv) | 4:15 | 2023-09-12 | 2023-09-26 |
-| [ICON](https://open.spotify.com/track/3IQ4QwRknA5Qt2XaFQL1vo) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE) | [ICON](https://open.spotify.com/album/4BXaOmwa2VFrYyx5hbmhyf) | 2:03 | 2023-10-10 |  |
+| [ICON](https://open.spotify.com/track/3IQ4QwRknA5Qt2XaFQL1vo) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE) | [ICON](https://open.spotify.com/album/4BXaOmwa2VFrYyx5hbmhyf) | 2:03 | 2023-10-10 | 2023-10-25 |
 | [IDK SH!T](https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [IDK SH!T](https://open.spotify.com/album/2gfnBbxQ9zW5VH0wBt2uzF) | 2:51 | 2022-07-31 | 2022-12-01 |
 | [Idolize](https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 2:25 | 2023-10-10 |  |
 | [If](https://open.spotify.com/track/0s7wXifcEHCo9OgELbNv8d) | [Vu Cat Tuong](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Stardom](https://open.spotify.com/album/69Ymgxb9cq4EPWHqqG4yl4) | 4:14 | 2023-01-24 | 2023-03-08 |
@@ -646,6 +646,7 @@
 | [One](https://open.spotify.com/track/7G8xhYHnKiRu4KWTy5pBqO) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [One](https://open.spotify.com/album/2Xr00m7HTZsvKVuuFxq2ZE) | 4:37 | 2022-05-27 | 2022-06-09 |
 | [One Family](https://open.spotify.com/track/1QLT25obDU2eN1WTvIFFos) | [wrs](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [One Family](https://open.spotify.com/album/36TL3ctbmlUUGjNGcZt3qW) | 2:40 | 2023-06-01 | 2023-07-12 |
 | [One Of Us](https://open.spotify.com/track/5CqrCMMhS8QzBfzks0vel8) | [Goodwerks](https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Broken Glass, Vol\. 5](https://open.spotify.com/album/1GNtlaf1suRPWz351bNiVc) | 3:34 | 2023-08-08 | 2023-09-13 |
+| [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2023-10-24 |  |
 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 | 2023-05-09 | 2023-06-02 |
 | [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 | 2023-06-01 | 2023-07-12 |
 | [Ooh Just You](https://open.spotify.com/track/41qCPMY2yhelj8Dubjjft7) | [Le Thien Hieu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ooh Just You](https://open.spotify.com/album/26DJDsEwqLJJkC7c22il4p) | 3:15 | 2023-03-07 | 2023-04-01 |

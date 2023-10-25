@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#tb](https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Hongbi](https://open.spotify.com/artist/3dsCeMQUrHkfkcqhMCuhqN) | [\#tb](https://open.spotify.com/album/5NRXAUx3xt2YS4U07mAgEp) | 4:35 | 2021-12-20 |  |
+| [\#tb](https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Hongbi](https://open.spotify.com/artist/3dsCeMQUrHkfkcqhMCuhqN) | [\#tb](https://open.spotify.com/album/5NRXAUx3xt2YS4U07mAgEp) | 4:35 | 2021-12-20 | 2023-10-25 |
 | [11:11](https://open.spotify.com/track/093PI3mdUvOSlvMYDwnV1e) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [11:11](https://open.spotify.com/album/6ZLQnQfsxbsdLNff0gz2Qe) | 3:43 | 2021-12-20 | 2022-07-28 |
 | [11:11](https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:43 | 2022-07-25 |  |
 | [180 Degree](https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [180˚](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6) | 3:49 | 2021-12-20 |  |
@@ -301,7 +301,7 @@
 | [Scattered Days](https://open.spotify.com/track/27HoEXjsTVnwmvsSMQEDKb) | [Hanseul](https://open.spotify.com/artist/1mXzPR6FH3CMZYu4VQ6ghD), [In the City](https://open.spotify.com/artist/31Gze6obVZxuBeqEXJYNo8) | [PLAYBACK \#4 'Scattered Days'](https://open.spotify.com/album/6JwxEhmxoie8ldjW6PBE7m) | 3:48 | 2022-01-14 | 2022-06-26 |
 | [seep into you](https://open.spotify.com/track/1gI4erUG1xjcWi5Ysm8YjY) | [Yeoeun](https://open.spotify.com/artist/4KDlIFwLpNZE8xx3cpzsej) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/0pazoqMfChhTpwsbqaDS9P) | 3:48 | 2022-07-04 | 2022-07-23 |
 | [Seven, \(Prologue\) \- 위로](https://open.spotify.com/track/1ewzpN8UdeWkvxi8XBsJVG) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven, \(Prologue\) \- 위로](https://open.spotify.com/album/7oWC3ZxT8Tb95JQJwNarxV) | 4:48 | 2022-10-24 | 2022-11-24 |
-| [Should′ve known](https://open.spotify.com/track/4xpx0BlfaTd64yciFWlM4w) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Ballad 21 F/W](https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq) | 3:41 | 2021-12-20 | 2022-10-25 |
+| [Should′ve known](https://open.spotify.com/track/4xpx0BlfaTd64yciFWlM4w) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Ballad 21 F/W](https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq) | 3:41 | 2021-12-20 |  |
 | [Simple is the best](https://open.spotify.com/track/0CuWEtjM6WSMOZaUe25qRX) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J) | 3:43 | 2022-03-24 | 2022-04-21 |
 | [Snow Flower](https://open.spotify.com/track/0t3lRe5onWuDCm5533MRZ1) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Snow Flower](https://open.spotify.com/album/3GeRwFsu0S9PKpbzerXDt5) | 5:43 | 2023-01-25 | 2023-02-21 |
 | [Soju Hanjan](https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Bye](https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg) | 4:50 | 2022-03-24 |  |

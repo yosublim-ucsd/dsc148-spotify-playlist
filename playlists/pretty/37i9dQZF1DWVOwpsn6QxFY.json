@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked and nourishing.",
-  "num_followers": 127060,
+  "num_followers": 127101,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTZlYzQ1ZDVjYjUwYmI5MmE4YmFkMjMwYjM3YmYwZmJkMjhlMjNh",
+  "snapshot_id": "MCw0Y2ZkN2QyZWMxYzdhZjg5N2RkODYzYzE3Njk4YTg5MzAxY2UyY2Qz",
   "tracks": [
     {
       "added_at": "2023-08-04 20:15:09",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Glitra",
-        "url": "https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b"
-      },
-      "artists": [
-        {
-          "name": "Brijs",
-          "url": "https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV"
-        }
-      ],
-      "duration_ms": 210360,
-      "name": "Mol y Sol",
-      "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Big Fan of the Sesh, Vol. 1",
         "url": "https://open.spotify.com/album/2oD72e7o7hvjaxRI75foFR"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 386346,
       "name": "Harmonia's Dream",
       "url": "https://open.spotify.com/track/4Qzx5fRypU4q1wEaYwHpnr"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Glitra",
+        "url": "https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b"
+      },
+      "artists": [
+        {
+          "name": "Brijs",
+          "url": "https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "Mol y Sol",
+      "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 196739,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "I Can't Let Go",
         "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 235872,
       "name": "Wild Side",
       "url": "https://open.spotify.com/track/1WmEhKIzErn1aZNFf2m4FU"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 196739,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "It's Still Cool If You Don't",
-        "url": "https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 237413,
-      "name": "It's Still Cool If You Don't",
-      "url": "https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "My House",
         "url": "https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 256639,
       "name": "My House",
       "url": "https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "It's Still Cool If You Don't",
+        "url": "https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 237413,
+      "name": "It's Still Cool If You Don't",
+      "url": "https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Every Side Of You",
-        "url": "https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204573,
-      "name": "Every Side Of You",
-      "url": "https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "color theory",
         "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 337426,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Every Side Of You",
+        "url": "https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204573,
+      "name": "Every Side Of You",
+      "url": "https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 156333,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
         "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
         "url": "https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 279613,
       "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
       "url": "https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 156333,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv"
     },
     {
       "added_at": "2023-08-04 20:15:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,505 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,582 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 74 | [Under Your Spell Again \- Mono Single Version](https://open.spotify.com/track/5Qng3PODaPge1Pn2btusKJ) | [Buck Owens & The Buckaroos](https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV) | [The Complete Capitol Singles: 1957\-1966](https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy) | 2:44 |
 | 75 | [Blues, Stay Away From Me](https://open.spotify.com/track/7xVj55oXJ9eesE9f2XVHKe) | [The Delmore Brothers](https://open.spotify.com/artist/10XMe12TQkDF6o4QPJlZFJ) | [16 All Time Favorite Songs](https://open.spotify.com/album/49gjtUiOVrN6nQXLbOX4pi) | 2:54 |
 
-Snapshot ID: `MCwyMmY3YjU4ZTcwNGUyYmYyMTVmYTMzZWM5MGViOTA4NmY5NWYwNmU0`
+Snapshot ID: `MCw1YzIwNzA4M2M4OWRiMDNmMTFjMDBlMTljMjI1ZTljMmIyMWNhOTBj`

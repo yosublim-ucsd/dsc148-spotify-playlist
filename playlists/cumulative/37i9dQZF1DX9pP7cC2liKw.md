@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-308 songs - 21 hr 36 min
+309 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [El Invento \- Sofia Kourtesis Remix](https://open.spotify.com/track/1lV1ELb1CUSe94zV7h082P) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [El Invento EP](https://open.spotify.com/album/5hvdCkg5ETqfh9ZJlqWkOh) | 4:24 | 2022-03-11 | 2022-07-29 |
 | [El niño](https://open.spotify.com/track/4fCevXfseuEJRmPwmNnUZr) | [DjeuhDjoah](https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY), [Lieutenant Nicholson](https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5) | [Aimez ces airs](https://open.spotify.com/album/2He9SDdWsV0r3PdBPxjJrf) | 4:01 | 2022-04-17 |  |
 | [El pavo real](https://open.spotify.com/track/3nXscmWolUwx0VlMZNy8i7) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [La Estrella](https://open.spotify.com/album/4AYABoXRLfI7j1FsSrYTEk) | 3:28 | 2022-11-24 | 2023-01-08 |
+| [El Plan \- Cyma Remix](https://open.spotify.com/track/3DE5UpRmIHUtQFqvpqKAZg) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn), [Cyma](https://open.spotify.com/artist/33Hfr8ZfUeyyZWdpsEtisn) | [El Plan \(Cyma Remix\)](https://open.spotify.com/album/5FVy4b9t6CmmErI8kpFqmG) | 3:57 | 2023-10-24 |  |
 | [El Sabor del Viejo Mar](https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [El Sabor del Viejo Mar](https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1) | 4:23 | 2022-11-17 |  |
 | [El Traketeo](https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [El Traketeo](https://open.spotify.com/album/4agbz0mDBK5O5c5qoAVOsj) | 3:22 | 2022-04-11 | 2022-07-28 |
 | [Encerrada](https://open.spotify.com/track/0iJU9tl5QNx0x9Tkg2Z7zt) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Encerrada](https://open.spotify.com/album/5jCdPRTOcPLQNPZNHugD0s) | 3:03 | 2022-04-17 | 2023-09-25 |
@@ -198,7 +199,7 @@
 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 | 2022-01-04 | 2023-09-26 |
 | [Nosotros También](https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp) | 3:26 | 2022-06-15 | 2023-04-30 |
 | [Nosotros También](https://open.spotify.com/track/6aLokUtExlh83ueaUUOzrt) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Nosotros También](https://open.spotify.com/album/6SdRuhERJbTAuWMIHtvsLL) | 3:26 | 2022-01-04 | 2022-07-27 |
-| [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2022-06-15 |  |
+| [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2022-06-15 | 2023-10-25 |
 | [Octopus](https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:51 | 2023-04-12 | 2023-05-09 |
 | [Octopus](https://open.spotify.com/track/5DRamynEcg9LYLBpGCRBQK) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Octopus](https://open.spotify.com/album/59Tec9qk49gfAkKhkniSOy) | 3:51 | 2023-04-12 | 2023-05-07 |
 | [Ofele](https://open.spotify.com/track/6uq19YELPgAnpbjArNDRfg) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc) | [Baluka](https://open.spotify.com/album/194ja7JaqNWsIkqzlVjAbb) | 5:42 | 2022-04-17 | 2022-07-23 |

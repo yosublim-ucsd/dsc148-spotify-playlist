@@ -2030,6 +2030,28 @@
     {
       "album": {
         "name": "La parte pi\u00f9 bella di me (RMX)",
+        "url": "https://open.spotify.com/album/4EwMpauuV16OuTohtrb4Zd"
+      },
+      "artists": [
+        {
+          "name": "Anto Paga",
+          "url": "https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq"
+        },
+        {
+          "name": "I Desideri",
+          "url": "https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135172,
+      "name": "La parte pi\u00f9 bella di me - RMX",
+      "url": "https://open.spotify.com/track/0pBKfPHCqniryGa355fuxX"
+    },
+    {
+      "album": {
+        "name": "La parte pi\u00f9 bella di me (RMX)",
         "url": "https://open.spotify.com/album/2Knm3BBycBMixIas269Ik2"
       },
       "artists": [
@@ -2044,7 +2066,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 135172,
       "name": "La parte pi\u00f9 bella di me - RMX",
       "url": "https://open.spotify.com/track/3fqElKBSWrAvObrMqx5oP8"

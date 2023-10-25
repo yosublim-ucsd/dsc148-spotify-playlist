@@ -4,7 +4,7 @@
 
 > Diese Songs zaubern dir ein Grinsen ins Gesicht.
 
-112 songs - 6 hr 15 min
+113 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Dancing in the City \(Radio Edit\)](https://open.spotify.com/track/12pXH0mid48V0vN0ykfBG5) | [Siamese Elephants](https://open.spotify.com/artist/7bgOhFs7p8ZGBMIIORey80) | [Dancing in the City \(Radio Edit\)](https://open.spotify.com/album/4y2vjGF1u3hhPdyLHiL70o) | 3:21 | 2023-07-20 |  |
 | [Dice](https://open.spotify.com/track/1PYXkGTAy509qlSFvwkjTe) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Complex Happenings Reduced To A Simple Design](https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF) | 3:01 | 2023-07-20 |  |
 | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25) | 3:35 | 2023-08-24 | 2023-10-23 |
+| [Diving \- feat\. Holly Humberstone](https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:35 | 2023-10-19 |  |
 | [Don't Let Me Down](https://open.spotify.com/track/4hoNqOv7FRMefk6yC83yqP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Don't Let Me Down](https://open.spotify.com/album/1q5yqfGMptiI6uTXKxXT1o) | 3:20 | 2023-07-20 |  |
 | [Drowning](https://open.spotify.com/track/32QjoM6mbNCEFxS8OYiPYB) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Drowning](https://open.spotify.com/album/0U3nZkZJbWCRK71MhORAFt) | 2:54 | 2023-07-20 |  |
 | [Easy Way Out](https://open.spotify.com/track/59eGr21mOIQP3rcodg2IfL) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Twister](https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc) | 3:52 | 2023-07-20 |  |
@@ -98,7 +99,7 @@
 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 | 2023-07-20 | 2023-08-21 |
 | [Sisters](https://open.spotify.com/track/0xfUruKo8PubvGKs9hVN7b) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Leoniden](https://open.spotify.com/album/3vLc37mAx6aIQedeIlol7E) | 3:11 | 2023-07-20 |  |
 | [Sisyphus](https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 4:07 | 2023-07-20 |  |
-| [Slow \(feat\. Henjila\)](https://open.spotify.com/track/1U2Oezr82LbYOcXanHxyty) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX), [Henjila](https://open.spotify.com/artist/5pYcIcxfIowCcvR2wNxy0l) | [Slow \(feat\. Henjila\)](https://open.spotify.com/album/5RPGyfvn8loHLsU2riyKRw) | 3:13 | 2023-07-20 |  |
+| [Slow \(feat\. Henjila\)](https://open.spotify.com/track/1U2Oezr82LbYOcXanHxyty) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX), [Henjila](https://open.spotify.com/artist/5pYcIcxfIowCcvR2wNxy0l) | [Slow \(feat\. Henjila\)](https://open.spotify.com/album/5RPGyfvn8loHLsU2riyKRw) | 3:13 | 2023-07-20 | 2023-10-25 |
 | [Small Worlds](https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Good Mmornin](https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T) | 5:36 | 2023-07-20 |  |
 | [Smiling Face](https://open.spotify.com/track/083YqmGxSLpgr8Hr6HeFNx) | [Cinemagraph](https://open.spotify.com/artist/7zMxkD6FhVkm8hBRy7jyJP) | [Smiling Face](https://open.spotify.com/album/75E23gvtdp9zPvRpKXWcIA) | 3:35 | 2023-10-19 |  |
 | [Someone You Love](https://open.spotify.com/track/2JUXU13VveY6JMvPgpRJJZ) | [Some Sprouts](https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp) | [Someone You Love](https://open.spotify.com/album/3osxMWTR97vYigGuiqVhxM) | 3:23 | 2023-07-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,289 likes - 159 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,370 likes - 159 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 | 39 | [Manhattan](https://open.spotify.com/track/37bu67zutZr2gn7iiLewLF) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Manhattan](https://open.spotify.com/album/57PEe97Gfbucw9wUslaSOI) | 3:54 |
 | 40 | [Strawberry Snow Cones For Two](https://open.spotify.com/track/1j2stEmsymDnJNi1uPZ1rD) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Strawberry Snow Cones For Two](https://open.spotify.com/album/578scmNeIm4OpGwLnlAd8Q) | 3:34 |
 | 41 | [Woodwind](https://open.spotify.com/track/0g1TBY3JUXO8fGD2iI1CM7) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Woodwind](https://open.spotify.com/album/5JwbjlP5BpJ7LouNT6tNxU) | 5:20 |
-| 42 | [I'll Be Seeing You](https://open.spotify.com/track/48w1IYrxtNKmm0bBMICOdu) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [I'll Be Seeing You](https://open.spotify.com/album/2gPUo8oL5vW9LC5o7SnCSU) | 3:33 |
+| 42 | [I'll Be Seeing You](https://open.spotify.com/track/48w1IYrxtNKmm0bBMICOdu) | [Jenny Jones](https://open.spotify.com/artist/3tznBwhLYOJzC3mh6DBM47) | [I'll Be Seeing You](https://open.spotify.com/album/2gPUo8oL5vW9LC5o7SnCSU) | 3:33 |
 | 43 | [Distractions](https://open.spotify.com/track/34LqEe9GAniMgCJgN7jQzW) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Distractions](https://open.spotify.com/album/1Wgg5pGImhtCo9FJ3qGtGA) | 3:56 |
 | 44 | [The Imager](https://open.spotify.com/track/1mfuqzs480Ey1ia2Y7q7MH) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [The Imager](https://open.spotify.com/album/7y7VoIAYjag9EsvZpz4Dno) | 3:25 |
 | 45 | [Bridges](https://open.spotify.com/track/4lwnOftnucowM1naK5rB7X) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Bridges](https://open.spotify.com/album/5zZQGomSy4wpZaWL34x6fK) | 2:53 |
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 | 113 | [Never Let Me Go](https://open.spotify.com/track/25VqRlCspcn3W04pGctbcn) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Never Let Me Go](https://open.spotify.com/album/19Nia0TNGcaQFU2xI86mwg) | 4:14 |
 | 114 | [Maia Oh Maia](https://open.spotify.com/track/3VnChEq3PRsTQ3JPA7Gsh4) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Maia Oh Maia](https://open.spotify.com/album/2dDG5MRroFXo6i60i5MnPQ) | 3:55 |
 | 115 | [Rainbow Mountains](https://open.spotify.com/track/3c0kOPcHy2wJr3p8Vkno2j) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Rainbow Mountains](https://open.spotify.com/album/2DMK4fULgBjylc9Kj8J73K) | 4:50 |
-| 116 | [Compassion](https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Compassion](https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv) | 4:11 |
+| 116 | [Compassion](https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL) | [Jenny Jones](https://open.spotify.com/artist/3tznBwhLYOJzC3mh6DBM47) | [Compassion](https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv) | 4:11 |
 | 117 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 |
 | 118 | [Blue Sundays](https://open.spotify.com/track/2oSLSznCHtDk4JfKYNLkWd) | [Oakwood Station](https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf) | [Blue Sundays](https://open.spotify.com/album/5uOlGLzQ9dUViSfhuu4pxu) | 3:02 |
 | 119 | [Poor Butterfly](https://open.spotify.com/track/2vyuIth7SkLbbfx0wX8KsC) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Poor Butterfly](https://open.spotify.com/album/0voGzbbY9Wm9vtql5l2Uaz) | 3:36 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 | 158 | [Stella by Starlight](https://open.spotify.com/track/3TVpiMoI86chM88b0I712D) | [Sophie Lemon Jazz](https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON) | [Tea for Two](https://open.spotify.com/album/2ogUu6iYKmNTdddXXHBwp5) | 5:02 |
 | 159 | [I´ll Be Around](https://open.spotify.com/track/4axKyMqOx8NIyGsfKBA7Cv) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´ll Be Around](https://open.spotify.com/album/50XozG3HbIyUJWTJ9Fsoao) | 3:35 |
 
-Snapshot ID: `MCw0Yzk4MTI0MGQ1MjhkZDY1NjAxNDMyMTBlZjVjNGIxYTFhNjYzZDJm`
+Snapshot ID: `MCxkNTcwODUxMWU4OTA0MWI4MDBkNWFlZTIxZWZkYWE3MjAwOGU0NzQy`

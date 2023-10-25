@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 711447,
+  "num_followers": 711681,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWVjY2UxMTYxM2E4YWZmZGE1YTI0ODI0ODk1OTJlMGM3NjJlMmZh",
+  "snapshot_id": "MCw3OGQ0NDJiNjEwYWZjNmIyNTQ0NTAyMjA3OTRjODBiYTEzYmE1MmEw",
   "tracks": [
     {
       "added_at": "2023-09-24 19:18:19",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
-        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 208114,
-      "name": "ONE MORE TIME",
-      "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
-    },
-    {
-      "added_at": "2023-09-24 19:18:19",
-      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 182746,
       "name": "Santeria",
       "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
+    },
+    {
+      "added_at": "2023-09-24 19:18:19",
+      "album": {
+        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
+        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 208114,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
     },
     {
       "added_at": "2023-09-24 19:18:19",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Karma Police",
-      "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A"
-    },
-    {
-      "added_at": "2023-09-24 19:18:19",
-      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -251,18 +235,18 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "blink-182",
-        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
       "artists": [
         {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 227250,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl"
+      "duration_ms": 264066,
+      "name": "Karma Police",
+      "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A"
     },
     {
       "added_at": "2023-09-24 19:18:19",
@@ -279,6 +263,22 @@
       "duration_ms": 269973,
       "name": "Behind Blue Eyes",
       "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
+    },
+    {
+      "added_at": "2023-09-24 19:18:19",
+      "album": {
+        "name": "blink-182",
+        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 227250,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl"
     },
     {
       "added_at": "2023-09-24 19:18:19",
@@ -327,6 +327,22 @@
       "duration_ms": 255066,
       "name": "One More Light",
       "url": "https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt"
+    },
+    {
+      "added_at": "2023-09-24 19:18:19",
+      "album": {
+        "name": "Jar Of Flies",
+        "url": "https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Nutshell",
+      "url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"
     },
     {
       "added_at": "2023-09-24 19:18:19",
@@ -511,38 +527,6 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "Title Of Record (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 363800,
-      "name": "Take A Picture",
-      "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
-    },
-    {
-      "added_at": "2023-09-24 19:18:19",
-      "album": {
-        "name": "Break the Cycle",
-        "url": "https://open.spotify.com/album/2JHjVEvYNVQ9FUUMB2LcMl"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 293133,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm"
-    },
-    {
-      "added_at": "2023-09-24 19:18:19",
-      "album": {
         "name": "Vs.",
         "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
+        "name": "Title Of Record (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 363800,
+      "name": "Take A Picture",
+      "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
+    },
+    {
+      "added_at": "2023-09-24 19:18:19",
+      "album": {
         "name": "Steal This Album!",
         "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 201200,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA"
+    },
+    {
+      "added_at": "2023-09-24 19:18:19",
+      "album": {
+        "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/2JHjVEvYNVQ9FUUMB2LcMl"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 293133,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm"
     },
     {
       "added_at": "2023-09-24 19:18:19",
@@ -955,22 +971,6 @@
       "duration_ms": 276840,
       "name": "Zoe Jane",
       "url": "https://open.spotify.com/track/6WrOZ59ScdQXE24zcYNyyA"
-    },
-    {
-      "added_at": "2023-09-24 19:18:19",
-      "album": {
-        "name": "WALLS",
-        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 299253,
-      "name": "Conversation Piece",
-      "url": "https://open.spotify.com/track/6qV3OEpN6uFCZnzNSslbn1"
     }
   ],
   "unique_name": "Chill Rock",

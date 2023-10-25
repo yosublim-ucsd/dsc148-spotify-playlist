@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: NASKA
 
-249 songs - 11 hr 31 min
+250 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [L'Isola Delle Rose](https://open.spotify.com/track/5pFKuNJdKLyMceZuopqVFF) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [L'Isola Delle Rose](https://open.spotify.com/album/0dedUKXYTEmxuhkF5yZPj3) | 3:07 | 2023-03-23 | 2023-04-14 |
 | [La canzone più bella](https://open.spotify.com/track/5h6tNjVR2ZEP5QkEi3wSxK) | [Drama](https://open.spotify.com/artist/2h16TAqr8VkUs8ddUxOS6w), [PATRIK](https://open.spotify.com/artist/5Mwqi2MUNHBzXIVuOuO8ca) | [La canzone più bella](https://open.spotify.com/album/6BiXZOrgIItWAWakRZ6DtD) | 2:50 | 2023-03-23 | 2023-04-14 |
 | [La Notte Vola \- RMX \(feat\. Lorella Cuccarini\)](https://open.spotify.com/track/6wzhvovM1fT42S71JLZpNv) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Lorella Cuccarini](https://open.spotify.com/artist/6vwWMr71jvuVrDQu92Li7U) | [La Notte Vola \- RMX \(feat\. Lorella Cuccarini\)](https://open.spotify.com/album/3yaTIPOD3iR079s8cfB0wA) | 2:22 | 2023-03-23 |  |
-| [La parte più bella di me \- RMX](https://open.spotify.com/track/3fqElKBSWrAvObrMqx5oP8) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [La parte più bella di me \(RMX\)](https://open.spotify.com/album/2Knm3BBycBMixIas269Ik2) | 2:15 | 2023-10-12 |  |
+| [La parte più bella di me \- RMX](https://open.spotify.com/track/0pBKfPHCqniryGa355fuxX) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [La parte più bella di me \(RMX\)](https://open.spotify.com/album/4EwMpauuV16OuTohtrb4Zd) | 2:15 | 2023-10-19 |  |
+| [La parte più bella di me \- RMX](https://open.spotify.com/track/3fqElKBSWrAvObrMqx5oP8) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [La parte più bella di me \(RMX\)](https://open.spotify.com/album/2Knm3BBycBMixIas269Ik2) | 2:15 | 2023-10-12 | 2023-10-25 |
 | [Lacrime Di Piombo](https://open.spotify.com/track/5fh7anHZAkkaTzM3tUGkAg) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 3:16 | 2023-08-10 |  |
 | [Laila](https://open.spotify.com/track/2RDXSZsF1B28g2e4tjyVIa) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny) | [Laila](https://open.spotify.com/album/2Zr3KYLoXtzxhoU2R09joT) | 2:45 | 2023-10-19 |  |
 | [Le Cose In Comune](https://open.spotify.com/track/1rVPV7us0kW0mXBgoNKAYK) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Le Cose In Comune](https://open.spotify.com/album/1tFaJjfjNZCbc81buL2Um0) | 2:31 | 2023-03-23 | 2023-09-29 |

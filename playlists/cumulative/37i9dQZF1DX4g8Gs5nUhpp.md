@@ -2,9 +2,9 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Vũ Phụng Tiên
+> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Văn Mai Hương
 
-212 songs - 13 hr 33 min
+213 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Lỡ Say Bye Là Bye](https://open.spotify.com/track/0d6dbFvKczX1Us3J7TsMMv) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o) | [Lỡ Say Bye Là Bye](https://open.spotify.com/album/3BKiAnPnm2Xn2cWB2uWeE0) | 3:34 | 2022-07-27 | 2023-05-08 |
 | [Lỡ Say Bye Là Bye](https://open.spotify.com/track/2EMbVMhUtYNfuAhTi9HvBk) | [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o) | [Lỡ Say Bye Là Bye](https://open.spotify.com/album/7oZP3YD6tt4RAreNqTsjGv) | 3:34 | 2022-05-27 | 2022-07-29 |
 | [MAKING MY WAY](https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [MAKING MY WAY](https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal) | 4:18 | 2023-05-07 | 2023-07-09 |
+| [Martini](https://open.spotify.com/track/73YA19nNitv1AzmxQlabGq) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm) | [Minh Tinh](https://open.spotify.com/album/2jNxIyiGLvQz7UPCRUuU76) | 3:20 | 2023-10-25 |  |
 | [Mascara](https://open.spotify.com/track/2Jaaw8PrdUfPlU6o6tL5dl) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Mascara](https://open.spotify.com/album/0u3o3ESS1rnXlpF3VDI3gj) | 4:53 | 2022-05-27 | 2023-02-13 |
 | [Miên Man](https://open.spotify.com/track/7tFwBnuaGXqiiONukPRaCo) | [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Miên Man](https://open.spotify.com/album/4z7HfTeYfrAUm4e84Y1oPw) | 3:17 | 2023-09-10 |  |
 | [Muốn Nói Với Em](https://open.spotify.com/track/1HDrKXya87GMQfAGPlqNS9) | [T Team](https://open.spotify.com/artist/7gJkNlcHtpuOhvl1FIDK1y) | [Muốn Nói Với Em](https://open.spotify.com/album/4xxZSGefRZ1LOryWzpQGEc) | 3:53 | 2022-05-27 | 2022-07-29 |

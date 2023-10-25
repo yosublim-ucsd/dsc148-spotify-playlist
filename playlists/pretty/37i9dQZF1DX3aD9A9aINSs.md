@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Cumhuriyetin 100\. yılında Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Müzeyyen Senar
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,489 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,496 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kimseye Etmem Şikayet](https://open.spotify.com/track/1pV8paCBscEnJWOw2kFSyb) | [Müzeyyen Senar](https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd) | [Atatürk'ün Sevdigi Sarkilar](https://open.spotify.com/album/5J4QWWmohr3y08TRNwWc04) | 3:48 |
+| 1 | [Kimseye Etmem Şikayet](https://open.spotify.com/track/1pV8paCBscEnJWOw2kFSyb) | [Müzeyyen Senar](https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd) | [Atatürk'ün Sevdiği Şarkılar](https://open.spotify.com/album/5J4QWWmohr3y08TRNwWc04) | 3:16 |
 | 2 | [Sevmiyo](https://open.spotify.com/track/5NVXoNPyW9K1NQmxlDfBoU) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Sevmiyo](https://open.spotify.com/album/6bXBbK0TKPG6L9aCmcf6Fv) | 2:30 |
 | 3 | [Sonsuza Dek](https://open.spotify.com/track/59iT9ntjMNlibFmo9iMGZj) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Sonsuza Dek](https://open.spotify.com/album/3tgV3hvgaRl12Fbpfhcfkt) | 2:40 |
 | 4 | [Bana Yolla](https://open.spotify.com/track/2XawnprAvVcHHPFQqDkwXh) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Bana Yolla](https://open.spotify.com/album/2xJVnQqe0G2bGBFbR3xMSb) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 49 | [Gece Kal](https://open.spotify.com/track/7oQmMYl1XCeUcDxstnWBbw) | [Serenad Bayraktar](https://open.spotify.com/artist/3qWtoHeuQh2uzY7e7FQPzW) | [Gece Kal](https://open.spotify.com/album/6YOuhbpjklmP2QBbEgSagE) | 2:26 |
 | 50 | [Aşka İnandık](https://open.spotify.com/track/4U9GY1WAmfIUnbgbzSy820) | [Cevher](https://open.spotify.com/artist/5jUaU1L6PePJadPjzKYFXf) | [Aşka İnandık](https://open.spotify.com/album/6opFBGhv7ESX7xkwmwDrKK) | 4:28 |
 
-Snapshot ID: `MCwzMGQzMzFhYmE5MTU0ZDc3MzVkYzIzNmQ1ZDUwM2IxNTBiMDU1YmE4`
+Snapshot ID: `MCw4NDY5NDFiMGM2NmZlZDRlMTk4YTNiNmEzODdlODM0NDJkOTI3YjA1`

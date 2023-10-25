@@ -261,6 +261,28 @@
     },
     {
       "album": {
+        "name": "Club Mood",
+        "url": "https://open.spotify.com/album/7A4AwFyMY3PC53Sd5zSmXE"
+      },
+      "artists": [
+        {
+          "name": "Lazykidd",
+          "url": "https://open.spotify.com/artist/6IvJetdbENjptniI7Gfmdv"
+        },
+        {
+          "name": "Kid$trange",
+          "url": "https://open.spotify.com/artist/6JVlP4bIQtcUrftDS1R2Q0"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "Club Mood",
+      "url": "https://open.spotify.com/track/6EQ1GmJL0ITzztn1Nl22vP"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Maldito",
         "url": "https://open.spotify.com/album/6MUzxwHh6BbrO19mEvrLfc"
       },
@@ -498,7 +520,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 129229,
       "name": "Entre Tanta Gente",
       "url": "https://open.spotify.com/track/20O2VCZGEykubAmvurLrwv"

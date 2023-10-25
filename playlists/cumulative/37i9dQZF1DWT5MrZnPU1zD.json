@@ -2497,6 +2497,28 @@
     },
     {
       "album": {
+        "name": "BUTTERFLY COUPE feat. Quavo (PART 2)",
+        "url": "https://open.spotify.com/album/7dlgyGTSBR0SyN7tMo3R43"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164848,
+      "name": "BUTTERFLY COUPE (feat. Quavo) - PART 2",
+      "url": "https://open.spotify.com/track/6fxgWsJWzQWKq2YoAJNLey"
+    },
+    {
+      "album": {
         "name": "BUTTERFLY COUPE feat. Tyga",
         "url": "https://open.spotify.com/album/4Lm3jQ2K459Vufnq6wHjn4"
       },
@@ -14002,7 +14024,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 159137,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/7fT5oRGPyTQVoR56GLM57W"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Simone Mendes, Anitta, Tz da Coronel, Os Barões da Pisadinha e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,922,090 likes - 96 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,922,460 likes - 96 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 95 | [Próximo Vôo](https://open.spotify.com/track/2ccMEpGXZqb9CXajHd72g4) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Próximo Vôo](https://open.spotify.com/album/7sXAisagtRJZkEJGwFLupU) | 2:27 |
 | 96 | [Espetacular](https://open.spotify.com/track/3AARS3at2VsMGhR08Z9lNr) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Arizinho](https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F) | [Espetacular](https://open.spotify.com/album/1h4vZZxG13ls00M4YRYRWm) | 2:09 |
 
-Snapshot ID: `MCw2ZWEyNWQzODkxM2RkZGU4YTg1MDFiM2I4NTNiZDQyMGM2NWJkNWMw`
+Snapshot ID: `MCxjOWJmOWE0NmY1MzdkMGM3ODBhNTVkNThmMTIwNjkzNjY4OGIzNzYz`

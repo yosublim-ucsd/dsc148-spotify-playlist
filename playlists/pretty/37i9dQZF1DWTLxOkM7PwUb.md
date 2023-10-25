@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,086 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,151 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 21 | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 |
 | 22 | [Ayer Me Llamó Mi Ex](https://open.spotify.com/track/3ef2QlCUWO29UvqJaU3MUi) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex](https://open.spotify.com/album/3ryXum3u0sEV2f6oBHXI22) | 3:26 |
 | 23 | [Percocet \- Remix](https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [Percocet \(Remix\)](https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1) | 5:14 |
-| 24 | [Dime Cuantas Veces](https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Dime Cuantas Veces](https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd) | 3:33 |
-| 25 | [Como Estrellas](https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV) | [LA YOUNG](https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX) | [Como Estrellas](https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM) | 3:39 |
+| 24 | [Como Estrellas](https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV) | [LA YOUNG](https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX) | [Como Estrellas](https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM) | 3:39 |
+| 25 | [Dime Cuantas Veces](https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Dime Cuantas Veces](https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd) | 3:33 |
 | 26 | [Soy Peor](https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soy Peor](https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF) | 4:17 |
 | 27 | [No Me Llores](https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Leby](https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF) | [No Me Llores](https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52) | 3:11 |
 | 28 | [La Que Se Fue](https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [La Que Se Fue](https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP) | 4:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [Te Vas](https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [L.O.V.E.](https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I) | 1:58 |
 | 100 | [Pálida](https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Pálida](https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI) | 3:34 |
 
-Snapshot ID: `MCxiZDY2ZjdhYTJmZjVmZTQ4ZjEzMzdhODZiODg5OGEyMjU1ZTgwMGZj`
+Snapshot ID: `MCw1MDAyNmM2ZWUwZGQyZDhjMGY2OTVkYjAxZDIwNWVkNDllYzdmNTIy`

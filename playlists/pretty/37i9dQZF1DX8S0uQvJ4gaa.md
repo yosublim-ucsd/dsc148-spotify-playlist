@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Chris Lane
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,169,567 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,170,004 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Cab In A Solo](https://open.spotify.com/track/67tSyNccxstGL1kLSR0wIb) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Cab In A Solo](https://open.spotify.com/album/24vM6kihi4Hm94KOyvqZBW) | 3:45 |
 | 100 | [Spirits and Demons \(with Meghan Patrick\)](https://open.spotify.com/track/50EGsYVI4bC5AmfYp5KFvl) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Dive Bars & Broken Hearts EP](https://open.spotify.com/album/5GdX1cmOWhsYhbtAiIY5de) | 3:19 |
 
-Snapshot ID: `MCw1MDMyMTdjNjU1YzZmZTVlNGU2ZGE1OTM5M2ZkYzE4YmFlOTM0YTBh`
+Snapshot ID: `MCxjMWRmNTcxMmE1Mzk0YWEwMzI0Mzc2OWZhNzBiNDhkYTUzYjUxMDNk`

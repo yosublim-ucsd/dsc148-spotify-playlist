@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Vv Pete
 
-591 songs - 1 day 3 hr 30 min
+592 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [6ft Deep](https://open.spotify.com/track/5rrimoExne1LbHehlfymWe) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [6ft Deep](https://open.spotify.com/album/51gi5hluD0n0nagrHTnLi7) | 2:32 | 2023-03-02 | 2023-04-21 |
 | [6gs](https://open.spotify.com/track/6mA8PVPy78DHdky2ho8I6L) | [KiD LaZE](https://open.spotify.com/artist/6aH7GRjtjfnnp9MNBzdq1n), [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs), [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs), [New Wave](https://open.spotify.com/artist/1itGTqVfKk3HKGvYqFOy2s) | [6gs](https://open.spotify.com/album/2NXbev6sftAddNx2oRf0Za) | 3:25 | 2022-09-29 | 2023-01-06 |
 | [77](https://open.spotify.com/track/6EGnhQh2S3xcZSbgglQIUt) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [77](https://open.spotify.com/album/61WC7CaAwgk5vlCSKzCwQK) | 2:23 | 2022-11-03 | 2022-12-16 |
-| [777](https://open.spotify.com/track/4poMkivkZVPt6cWRPfSOUv) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/49MakTH6EbCMvPszbwvRAN) | 2:11 | 2023-08-03 |  |
+| [777](https://open.spotify.com/track/4poMkivkZVPt6cWRPfSOUv) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/49MakTH6EbCMvPszbwvRAN) | 2:11 | 2023-08-03 | 2023-10-25 |
+| [777](https://open.spotify.com/track/7MZ5uD8Ak34XOt6cgzQGM3) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/40SfUo7opbVMkFNCval599) | 2:11 | 2023-10-19 |  |
 | [96 Bulls](https://open.spotify.com/track/7j2RJA45G8l0ZcDK2bOJJL) | [GMC](https://open.spotify.com/artist/1mjliHn4gJcgY5U5YtmFiP), [Johnny Narcotics](https://open.spotify.com/artist/6GBTukZn3btgHr1hq7ZGuP), [Alj](https://open.spotify.com/artist/4HPUHbvEGdXfuyaXxB0TNa), [KingTheFreeSoul](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [96 Bulls](https://open.spotify.com/album/4nitXAPFuLyCHinybJQs9b) | 3:01 | 2022-03-31 | 2022-04-15 |
 | [ABGz](https://open.spotify.com/track/2UuCc79U1gMcK1koGAPH2N) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [FS Type Beats](https://open.spotify.com/album/2r0tKVKRCyof88kyiyFNUL) | 3:14 | 2022-05-01 | 2022-08-12 |
 | [AF1](https://open.spotify.com/track/41TCFuF8KNNcMSi0w8hU3k) | [Baby Lane](https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA), [OD](https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9) | [AF1](https://open.spotify.com/album/7wBBZY4zAjlFThctx2y4yY) | 2:47 | 2023-10-19 |  |
@@ -414,7 +415,7 @@
 | [Pray For More feat\. Lisi and Mikey Dam](https://open.spotify.com/track/4NVlydgjPhygEBpagUquGK) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu), [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Pray For More feat\. Lisi and Mikey Dam](https://open.spotify.com/album/2OOkgshtZngMZ8kcJYOhTZ) | 3:09 | 2022-04-07 | 2022-06-17 |
 | [Prayin'](https://open.spotify.com/track/1oyFb5GZKy9EZPUBiHT8Tw) | [Yung Gwopp](https://open.spotify.com/artist/11T18BfcT9H4yKtTcHEEJL) | [Prayin'](https://open.spotify.com/album/4TDRmPQik93Nvk94rwPGK8) | 2:55 | 2023-02-23 | 2023-06-30 |
 | [PRETTY](https://open.spotify.com/track/3j9dzoKjSbYAopfrwkXFmn) | [Fedi](https://open.spotify.com/artist/1wxgPiEj3LckS64IQSkzNj) | [PRETTY](https://open.spotify.com/album/1FJJkXw7T488YeO10c6191) | 1:59 | 2023-03-30 | 2023-06-30 |
-| [PRETTY GIRLS](https://open.spotify.com/track/2TegXzhcQonA9Lv8fBzIco) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [PRETTY GIRLS](https://open.spotify.com/album/4vdZ3KWw1hi6yTMQ0WSvEZ) | 3:13 | 2023-10-19 |  |
+| [PRETTY GIRLS](https://open.spotify.com/track/2TegXzhcQonA9Lv8fBzIco) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [PRETTY GIRLS](https://open.spotify.com/album/4vdZ3KWw1hi6yTMQ0WSvEZ) | 2:50 | 2023-10-19 |  |
 | [Pretty Lies](https://open.spotify.com/track/3eoC0wfs5yy14YeHW98mje) | [BnB](https://open.spotify.com/artist/4jUxz9vL5BF7GAakeqD1iS) | [Pretty Lies](https://open.spotify.com/album/7siS5C7R6cB8ysAHpXxink) | 2:31 | 2023-10-05 |  |
 | [Proper](https://open.spotify.com/track/3Dz7D9Ve3VLFBpmsQXiUJv) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Masi Rooc](https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc) | [Sinning Winning Living](https://open.spotify.com/album/6cq7FuEXbkgunvfNfVBshk) | 3:22 | 2023-10-05 |  |
 | [Proper60 \(feat\. Ay Huncho\)](https://open.spotify.com/track/3GRKDBSiMwmcJd7welX7nb) | [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Proper60 \(feat\. Ay Huncho\)](https://open.spotify.com/album/208Yu2Go1bkO92PdCCqrvO) | 3:09 | 2022-03-21 | 2022-05-13 |

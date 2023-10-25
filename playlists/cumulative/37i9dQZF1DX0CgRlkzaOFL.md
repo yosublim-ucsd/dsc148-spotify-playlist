@@ -4,7 +4,7 @@
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-80 songs - 4 hr 36 min
+81 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Cello Suites Nos\. 1, 5 & 6](https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg) | 2:32 | 2022-03-25 | 2022-07-29 |
 | [Circulation](https://open.spotify.com/track/08cx2NSZT86HpYzkVLKoRd) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Wolf Children \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q) | 1:50 | 2022-04-19 |  |
 | [dream..\. come true?](https://open.spotify.com/track/0CreM2us2Cy9LD6R1bBnrg) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.2 \(Episode 4\-7\)](https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX) | 1:43 | 2022-11-25 |  |
-| [Elegy of the Dynast](https://open.spotify.com/track/5M6ilhuxUWT0MVLWjucgGy) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [HUNTER×HUNTER セレクト×ベスト×α](https://open.spotify.com/album/2a9NHZwSyE5SAt6Z0V0zHF) | 2:27 | 2022-03-25 |  |
+| [Elegy of the Dynast](https://open.spotify.com/track/0uCgEJ9Md7vyyZuRRMqxbI) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [HUNTER x HUNTER Original Soundtrack 3](https://open.spotify.com/album/7pumli9VZpP9WIzFULfMGZ) | 2:27 | 2023-10-17 |  |
+| [Elegy of the Dynast](https://open.spotify.com/track/5M6ilhuxUWT0MVLWjucgGy) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [HUNTER×HUNTER セレクト×ベスト×α](https://open.spotify.com/album/2a9NHZwSyE5SAt6Z0V0zHF) | 2:27 | 2022-03-25 | 2023-10-25 |
 | [Faces in the Rain](https://open.spotify.com/track/47glEWHDcFq99QJIG41uyF) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 2:22 | 2022-03-25 |  |
 | [Free The Wind](https://open.spotify.com/track/0r3cg5Co9bAsNgLqcKVMlr) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [The Boy and The Beast \(Original Soundtrack Album\)](https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue) | 2:53 | 2022-04-19 |  |
 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/4FddKCeFq1J6ALw9ZZ2P8U) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Goldberg Variations \- The Goldberg Variations, BWV 988](https://open.spotify.com/album/2qLOFrKy9CJjjQHfaDgw1R) | 4:24 | 2022-03-25 |  |

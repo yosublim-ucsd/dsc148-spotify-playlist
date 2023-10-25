@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1354,
+  "num_followers": 1355,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmI3ZTU4MTM4ODZiZDY5OWQxZjAwYjc4ZGUzOGY2ZDkyZjNlZjI3",
+  "snapshot_id": "MCwyN2JjNTA2MDgzMzdiMDU4N2U0OWQ1MGY3NmNiNWZmZjQzN2ZiNDEy",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "El Primer D\u00eda de Escuela",
-        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "El Primer D\u00eda de Escuela",
-      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Juguemos a cantar con Barney",
         "url": "https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 113034,
       "name": "Me cepillo los dientes",
       "url": "https://open.spotify.com/track/0zi6orW9DLawYdACuAf7QZ"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "El Primer D\u00eda de Escuela",
+        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "El Primer D\u00eda de Escuela",
+      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+      },
+      "artists": [
+        {
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+        }
+      ],
+      "duration_ms": 66613,
+      "name": "The Potty Dance Song",
+      "url": "https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Miss Patylu, vol. 1",
         "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 155193,
       "name": "Leche Con Pan",
       "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
-      },
-      "artists": [
-        {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
-        }
-      ],
-      "duration_ms": 43626,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Songs to Brush Your Teeth To",
+        "url": "https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG"
+      },
+      "artists": [
+        {
+          "name": "Chompers",
+          "url": "https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z"
+        }
+      ],
+      "duration_ms": 109388,
+      "name": "Cover Your Sneeze",
+      "url": "https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "20 Canciones Infantiles",
         "url": "https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3"
       },
@@ -604,25 +620,9 @@
           "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
         }
       ],
-      "duration_ms": 66613,
-      "name": "The Potty Dance Song",
-      "url": "https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Songs to Brush Your Teeth To",
-        "url": "https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG"
-      },
-      "artists": [
-        {
-          "name": "Chompers",
-          "url": "https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z"
-        }
-      ],
-      "duration_ms": 109388,
-      "name": "Cover Your Sneeze",
-      "url": "https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU"
+      "duration_ms": 43626,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2023-03-17 09:43:03",

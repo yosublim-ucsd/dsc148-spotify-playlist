@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in Rock this week\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,650 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,708 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [On Halloween](https://open.spotify.com/track/2PxhH96T6JRsc3RP7HHnmm) | [Espanola](https://open.spotify.com/artist/2H9Drn26RQumTZLLSxmNpv) | [On Halloween](https://open.spotify.com/album/4vtkuvMPlxuYtW2hph0ILn) | 4:13 |
 | 100 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 |
 
-Snapshot ID: `MCw4NTg1ZmNkYTliY2JjZGYzZTg3YjRiMTNlODE2ZTZhNTRmMWMxYjVl`
+Snapshot ID: `MCw4ZTAzZGI3YjVjMTA3NWJmNDgyNDdjOTRlNTY0NGJjYWFhMTFmMTli`

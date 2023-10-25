@@ -4,7 +4,7 @@
 
 > Cumhuriyetin 100\. yılında Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Müzeyyen Senar
 
-979 songs - 2 day 3 hr 46 min
+979 songs - 2 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,7 +530,7 @@
 | [Kimse Bilmesin](https://open.spotify.com/track/4y7Qb8dgtuORXADb1Fd2mD) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Kimse Bilmesin](https://open.spotify.com/album/6e1IEpZ9MwSdblPHOUqZXP) | 3:18 | 2022-11-30 | 2023-01-04 |
 | [Kimse Sen Değil Ki](https://open.spotify.com/track/2WDEpvuZ4CQPTGICyFXJ8O) | [Defne Samyeli](https://open.spotify.com/artist/1BRZppvuk0dM9dG7S3cTxS) | [Kimse Sen Değil Ki](https://open.spotify.com/album/5EY305sEgm4Z34bTJx06ob) | 3:22 | 2023-04-04 | 2023-05-03 |
 | [Kimseye Etmem Şikayet](https://open.spotify.com/track/4TyhA1c1xGQVnDRn79bgDa) | [Glasxs](https://open.spotify.com/artist/4p3A5De4v6Pu6L3sVG7020) | [Kimseye Etmem Şikayet](https://open.spotify.com/album/3Ob5WeTsEJto0jbZTCHMMI) | 4:03 | 2023-05-02 | 2023-06-07 |
-| [Kimseye Etmem Şikayet](https://open.spotify.com/track/1pV8paCBscEnJWOw2kFSyb) | [Müzeyyen Senar](https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd) | [Atatürk'ün Sevdigi Sarkilar](https://open.spotify.com/album/5J4QWWmohr3y08TRNwWc04) | 3:48 | 2023-10-03 |  |
+| [Kimseye Etmem Şikayet](https://open.spotify.com/track/1pV8paCBscEnJWOw2kFSyb) | [Müzeyyen Senar](https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd) | [Atatürk'ün Sevdiği Şarkılar](https://open.spotify.com/album/5J4QWWmohr3y08TRNwWc04) | 3:16 | 2023-10-03 |  |
 | [Kirli Ellerin](https://open.spotify.com/track/52VpiTqYtFtTT5CHy4vx3U) | [Dilay Dal](https://open.spotify.com/artist/0dgKXNAgYiDNSdMBFQEbv1) | [Kirli Ellerin](https://open.spotify.com/album/5rWPGeCMqoLqhWUxGAu4MS) | 2:34 | 2023-10-03 |  |
 | [Kirpiklerin](https://open.spotify.com/track/79EWoUgwnCs7zE1dFj5kR6) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Kirpiklerin](https://open.spotify.com/album/0JLLhTlw7rI9OKy5q5nwDh) | 2:56 | 2022-11-30 | 2023-01-04 |
 | [Koku](https://open.spotify.com/track/3rhrJVxmNZHJvNMerDfTkq) | [Bengüsu Özkaya](https://open.spotify.com/artist/7GejpEEnUbWdtfGZ8nK8vk) | [Koku](https://open.spotify.com/album/3cuIfbk5DgMWs9KN6NdaMs) | 3:54 | 2022-08-02 | 2022-09-07 |

@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1186423,
+  "num_followers": 1186782,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmQxMDk5NGRlNmE1ZDZjN2M3ZWIyZDc3YmQwYzFmMzEwYzZmZmMy",
+  "snapshot_id": "MCxlNjYyMjE5OGNhMjEzMzJmYzA1YWNmOGQ2Zjc4YjRmZjczNWVkMTc5",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -331,26 +331,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "and the Anonymous Nobody...",
-        "url": "https://open.spotify.com/album/73USNxSgFncLAsOAWfIA4J"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 279754,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/6eLSYGoJhXsR6ZhQEtTC3o"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Nobody Cares Till Everybody Does",
         "url": "https://open.spotify.com/album/0TpMAy5WPGObUkL5LPuuMc"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 195821,
       "name": "Talk About Us",
       "url": "https://open.spotify.com/track/7GcCIkXh9Y4qDSXnMLJgHW"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "and the Anonymous Nobody...",
+        "url": "https://open.spotify.com/album/73USNxSgFncLAsOAWfIA4J"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 279754,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/6eLSYGoJhXsR6ZhQEtTC3o"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Blazing Arrow",
-        "url": "https://open.spotify.com/album/0DyXkWHnFMIJSuHfLgNfcc"
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje"
       },
       "artists": [
         {
-          "name": "Blackalicious",
-          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Make You Feel That Way",
-      "url": "https://open.spotify.com/track/4TlYG3mKosVWfGbb9VfDh3"
+      "duration_ms": 227826,
+      "name": "Resurrection",
+      "url": "https://open.spotify.com/track/4u7hiFNXUeTG3A4dqQrkcd"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Resurrection",
-        "url": "https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje"
+        "name": "Blazing Arrow",
+        "url": "https://open.spotify.com/album/0DyXkWHnFMIJSuHfLgNfcc"
       },
       "artists": [
         {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "name": "Blackalicious",
+          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
         }
       ],
-      "duration_ms": 227826,
-      "name": "Resurrection",
-      "url": "https://open.spotify.com/track/4u7hiFNXUeTG3A4dqQrkcd"
+      "duration_ms": 206400,
+      "name": "Make You Feel That Way",
+      "url": "https://open.spotify.com/track/4TlYG3mKosVWfGbb9VfDh3"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -679,18 +679,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Done By The Forces Of Nature",
-        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
       },
       "artists": [
         {
-          "name": "Jungle Brothers",
-          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 258933,
-      "name": "Doin' Our Own Dang",
-      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
+      "duration_ms": 213940,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -711,22 +715,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
+        "name": "Done By The Forces Of Nature",
+        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
       },
       "artists": [
         {
-          "name": "Lord Apex",
-          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
         }
       ],
-      "duration_ms": 213940,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
+      "duration_ms": 258933,
+      "name": "Doin' Our Own Dang",
+      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Don't Feed the Birds",
-        "url": "https://open.spotify.com/album/0CpFxcoFV9MHFVI7M8a2Qt"
-      },
-      "artists": [
-        {
-          "name": "Ben Beal",
-          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
-        },
-        {
-          "name": "byJ.",
-          "url": "https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws"
-        }
-      ],
-      "duration_ms": 173181,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/0t89zjm5vxQCuW4jkOfT93"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "GISEKE",
         "url": "https://open.spotify.com/album/3EVhMsdzVzTUe1I67viGDv"
       },
@@ -811,6 +791,22 @@
       "duration_ms": 153028,
       "name": "MOVIN'",
       "url": "https://open.spotify.com/track/344MYybqGBtYOEI97tb0f5"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "The Rain",
+        "url": "https://open.spotify.com/album/60DtiPQbSHleBcigjwztG9"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        }
+      ],
+      "duration_ms": 157603,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/30qvk9d9puwUPqklbQG3KT"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -871,26 +867,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Jazzmatazz Volume II: The New Reality",
-        "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
+        "name": "Don't Feed the Birds",
+        "url": "https://open.spotify.com/album/0CpFxcoFV9MHFVI7M8a2Qt"
       },
       "artists": [
         {
-          "name": "Guru",
-          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+          "name": "Ben Beal",
+          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
         },
         {
-          "name": "Paul Ferguson",
-          "url": "https://open.spotify.com/artist/5FEcqRnQYuAb8QyZginKaa"
-        },
-        {
-          "name": "Baybe",
-          "url": "https://open.spotify.com/artist/1dpH2N2f3HJ3D48z2q78br"
+          "name": "byJ.",
+          "url": "https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws"
         }
       ],
-      "duration_ms": 237733,
-      "name": "Feel The Music",
-      "url": "https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd"
+      "duration_ms": 173181,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/0t89zjm5vxQCuW4jkOfT93"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -911,18 +903,26 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "The Rain",
-        "url": "https://open.spotify.com/album/60DtiPQbSHleBcigjwztG9"
+        "name": "Jazzmatazz Volume II: The New Reality",
+        "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
       },
       "artists": [
         {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+          "name": "Guru",
+          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        {
+          "name": "Paul Ferguson",
+          "url": "https://open.spotify.com/artist/5FEcqRnQYuAb8QyZginKaa"
+        },
+        {
+          "name": "Baybe",
+          "url": "https://open.spotify.com/artist/1dpH2N2f3HJ3D48z2q78br"
         }
       ],
-      "duration_ms": 157603,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/30qvk9d9puwUPqklbQG3KT"
+      "duration_ms": 237733,
+      "name": "Feel The Music",
+      "url": "https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1047,30 +1047,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "The Return (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3qA0tPLgVE2F7GjnaqGLDP"
-      },
-      "artists": [
-        {
-          "name": "Glad2Mecha",
-          "url": "https://open.spotify.com/artist/6pokAyXBznXdV5T3gO6cNQ"
-        },
-        {
-          "name": "Ill Treats",
-          "url": "https://open.spotify.com/artist/2XbREPVhH8KH3T1jUiSEgk"
-        },
-        {
-          "name": "Grand Puba",
-          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
-        }
-      ],
-      "duration_ms": 147617,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/37NJtv7Cbkb9potgl3pArj"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/3vH1qTsY5lbQvkwHH8PwGc"
       },
@@ -1091,6 +1067,30 @@
       "duration_ms": 179463,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/2GUVzvrOhwAwTsDrZcyPQU"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "The Return (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3qA0tPLgVE2F7GjnaqGLDP"
+      },
+      "artists": [
+        {
+          "name": "Glad2Mecha",
+          "url": "https://open.spotify.com/artist/6pokAyXBznXdV5T3gO6cNQ"
+        },
+        {
+          "name": "Ill Treats",
+          "url": "https://open.spotify.com/artist/2XbREPVhH8KH3T1jUiSEgk"
+        },
+        {
+          "name": "Grand Puba",
+          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
+        }
+      ],
+      "duration_ms": 147617,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/37NJtv7Cbkb9potgl3pArj"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Speakthru (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/4kYA3PqnQ9nKhMtREJqW0i"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 187175,
+      "name": "Shine Thru",
+      "url": "https://open.spotify.com/track/7oedV61tJa8X3ZPE4egKpy"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "Late Night Link",
         "url": "https://open.spotify.com/album/5ROL6IqcFzRv6lm68RzsSo"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 194545,
       "name": "Late Night Link",
       "url": "https://open.spotify.com/track/1xa2CuAx4iD2tVq2SNlQG6"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Speakthru (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/4kYA3PqnQ9nKhMtREJqW0i"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        },
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 187175,
-      "name": "Shine Thru",
-      "url": "https://open.spotify.com/track/7oedV61tJa8X3ZPE4egKpy"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1343,22 +1343,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Protea",
-        "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
+        "name": "LONERWRLD, vol 1",
+        "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
       },
       "artists": [
         {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Hello O'shay",
-          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
         }
       ],
-      "duration_ms": 200775,
-      "name": "Super Rare (feat. Hello O'Shay)",
-      "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
+      "duration_ms": 130742,
+      "name": "Fly god manners",
+      "url": "https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1395,34 +1391,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "LONERWRLD, vol 1",
-        "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
+        "name": "Protea",
+        "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
       },
       "artists": [
         {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 130742,
-      "name": "Fly god manners",
-      "url": "https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Helping Hands",
-        "url": "https://open.spotify.com/album/32OdlhjvXBKe94WaviR3Qs"
-      },
-      "artists": [
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
         {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+          "name": "Hello O'shay",
+          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
         }
       ],
-      "duration_ms": 209613,
-      "name": "The Circle",
-      "url": "https://open.spotify.com/track/6GNDjlJnaAvxM3Ffn0CAWl"
+      "duration_ms": 200775,
+      "name": "Super Rare (feat. Hello O'Shay)",
+      "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 117546,
       "name": "079 (FloFilz Remix)",
       "url": "https://open.spotify.com/track/3BmufJ1d3jKAO27o1MNcib"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Helping Hands",
+        "url": "https://open.spotify.com/album/32OdlhjvXBKe94WaviR3Qs"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 209613,
+      "name": "The Circle",
+      "url": "https://open.spotify.com/track/6GNDjlJnaAvxM3Ffn0CAWl"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1627,30 +1627,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Eddie",
-        "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
-      },
-      "artists": [
-        {
-          "name": "Busty and the Bass",
-          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
-        },
-        {
-          "name": "Illa J",
-          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
-        },
-        {
-          "name": "Jon Connor",
-          "url": "https://open.spotify.com/artist/1F5zdoXcwIB9XSNfitdo7x"
-        }
-      ],
-      "duration_ms": 242747,
-      "name": "Go So Far",
-      "url": "https://open.spotify.com/track/7q2H0gVB35EQgn8vXS3kw3"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Chicken Wings (Remix)",
         "url": "https://open.spotify.com/album/7MdK6WWMMy9V2w8prCgycb"
       },
@@ -1671,6 +1647,30 @@
       "duration_ms": 165565,
       "name": "Chicken Wings - Remix",
       "url": "https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Eddie",
+        "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
+      },
+      "artists": [
+        {
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        },
+        {
+          "name": "Illa J",
+          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
+        },
+        {
+          "name": "Jon Connor",
+          "url": "https://open.spotify.com/artist/1F5zdoXcwIB9XSNfitdo7x"
+        }
+      ],
+      "duration_ms": 242747,
+      "name": "Go So Far",
+      "url": "https://open.spotify.com/track/7q2H0gVB35EQgn8vXS3kw3"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1871,22 +1871,26 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "New Day (feat. Illa J)",
-        "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
+        "name": "Palm Trees",
+        "url": "https://open.spotify.com/album/5cFilTRRO7XTL1ZN3AjDKM"
       },
       "artists": [
         {
-          "name": "Abstract Orchestra",
-          "url": "https://open.spotify.com/artist/4u3JZVJYDq2F3KgnUFw9dp"
+          "name": "K. Sparks",
+          "url": "https://open.spotify.com/artist/24wsTHZ4EsAzPrgG4qIf3Z"
         },
         {
-          "name": "Illa J",
-          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
+          "name": "Ricardo Schneider",
+          "url": "https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv"
+        },
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
         }
       ],
-      "duration_ms": 145051,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
+      "duration_ms": 136526,
+      "name": "Midnight Schemes",
+      "url": "https://open.spotify.com/track/6xPB98epJF3wqRObu8w0Ro"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1923,26 +1927,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Palm Trees",
-        "url": "https://open.spotify.com/album/5cFilTRRO7XTL1ZN3AjDKM"
+        "name": "New Day (feat. Illa J)",
+        "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
       },
       "artists": [
         {
-          "name": "K. Sparks",
-          "url": "https://open.spotify.com/artist/24wsTHZ4EsAzPrgG4qIf3Z"
+          "name": "Abstract Orchestra",
+          "url": "https://open.spotify.com/artist/4u3JZVJYDq2F3KgnUFw9dp"
         },
         {
-          "name": "Ricardo Schneider",
-          "url": "https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv"
-        },
-        {
-          "name": "Hoffy Beats",
-          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+          "name": "Illa J",
+          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
         }
       ],
-      "duration_ms": 136526,
-      "name": "Midnight Schemes",
-      "url": "https://open.spotify.com/track/6xPB98epJF3wqRObu8w0Ro"
+      "duration_ms": 145051,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
     },
     {
       "added_at": "2023-10-19 22:00:00",

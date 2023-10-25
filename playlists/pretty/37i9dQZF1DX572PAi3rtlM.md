@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > Italian funk, disco and jazz, recent and old\. Hand\-picked by actual Italians\. 🌙
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,918 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,922 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 12 | [Sabato Italiano](https://open.spotify.com/track/6yOSX613mf0t3b6kTiYSIO) | [I Coccodrilli](https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR) | [Sabato italiano](https://open.spotify.com/album/7jgBsFqhHEmuDumoqcOZiD) | 4:33 |
 | 13 | [Il veliero](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 5:59 |
 | 14 | [Motivo di Giorgia](https://open.spotify.com/track/6v77gXfHDNgbVqFbVN5MD7) | [Fred Bongusto](https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly) | [Gli ordini sono ordini \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3kBJUgj279LsOfO13mrhOe) | 1:20 |
-| 15 | [Musica leggerissima \- Ceri Remix](https://open.spotify.com/track/7Lgy02MHyCl4iOMkpv9iJJ) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g), [Ceri](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Musica leggerissima \(Remixes\)](https://open.spotify.com/album/6DZeYzqD1i6EmBwKOG6fvh) | 5:10 |
+| 15 | [Musica leggerissima \- Ceri Remix](https://open.spotify.com/track/7Lgy02MHyCl4iOMkpv9iJJ) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g), [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Musica leggerissima \(Remixes\)](https://open.spotify.com/album/6DZeYzqD1i6EmBwKOG6fvh) | 5:10 |
 | 16 | [Enchantè](https://open.spotify.com/track/7wz5J4wDOJ8XxVXDPunHIl) | [Germanò](https://open.spotify.com/artist/7s2UvXfaUlGeajsHlqWYBz) | [Piramidi](https://open.spotify.com/album/53sEevyzPYg4a04hbJVsj6) | 2:53 |
 | 17 | [Sera a Posillipo](https://open.spotify.com/track/0z2Hcipqu5NdpJxuYXV58B) | [Rosa](https://open.spotify.com/artist/7mMRRncwUBxnuIiOeljOdv) | [Acqua di sale](https://open.spotify.com/album/0Iz0na6iGxxjiUxQ9QtP39) | 4:45 |
 | 18 | [Beta Erotica](https://open.spotify.com/track/6fJaHqWWKFfw5vAuZU0rUC) | [Lorenzo Morresi](https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2), [Le Isole](https://open.spotify.com/artist/3VyyT9XNicqDVHYU9ZBNMF) | [Pop Flop](https://open.spotify.com/album/4JqPI4z7yJLMe5G5Uxrhb4) | 2:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 74 | [Hai capito o no? \- Live](https://open.spotify.com/track/1xBMyLQh9cxjwRdwUqdLxC) | [Ron](https://open.spotify.com/artist/3vuKNU7lgoecqjnArUKom6) | [Tutti cuori viaggianti](https://open.spotify.com/album/0U1L7YV4j7Jd3VDqoDBCmM) | 3:40 |
 | 75 | [La spiaggia incantata \(Seq.1, Titoli di testa\)](https://open.spotify.com/track/0q8GmIh3nYVnHWdr8KI5nf) | [Carlo Rustichelli](https://open.spotify.com/artist/4zPqGt9888ogJunfNtXubd) | [L'isola di Arturo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O2AnAOBMbWyX99vnl73m1) | 2:02 |
 
-Snapshot ID: `MCwxM2FlMTUwNDllMTJiYTcyODhmZGYyMjQzNzM1OTcxZGVmZDAyOWY4`
+Snapshot ID: `MCwwYmYzMmVjZGQ5OWZiNmFmODg3MmM2ZmViYTA3MTE2Yjc0YzFmOTM3`

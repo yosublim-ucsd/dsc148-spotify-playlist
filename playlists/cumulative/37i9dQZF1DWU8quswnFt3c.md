@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Jillian Mercado
 
-1,519 songs - 3 day 11 hr 45 min
+1,519 songs - 3 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,7 +633,7 @@
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2022-01-05 | 2022-02-03 |
 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 | 2023-09-06 |  |
 | [Kim Bilir](https://open.spotify.com/track/4nORqOfjk45WIT5NpKmv9o) | [Eda Baba](https://open.spotify.com/artist/0sG2HOcaA6eqnGTeLMJpRm) | [Kim Bilir](https://open.spotify.com/album/5AG2E8yMQcdFxJ0pqPLJCM) | 2:19 | 2023-08-02 | 2023-09-07 |
-| [Kimseye Etmem Şikayet](https://open.spotify.com/track/1pV8paCBscEnJWOw2kFSyb) | [Müzeyyen Senar](https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd) | [Atatürk'ün Sevdigi Sarkilar](https://open.spotify.com/album/5J4QWWmohr3y08TRNwWc04) | 3:48 | 2023-10-04 |  |
+| [Kimseye Etmem Şikayet](https://open.spotify.com/track/1pV8paCBscEnJWOw2kFSyb) | [Müzeyyen Senar](https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd) | [Atatürk'ün Sevdiği Şarkılar](https://open.spotify.com/album/5J4QWWmohr3y08TRNwWc04) | 3:16 | 2023-10-04 |  |
 | [Kirpiklerin](https://open.spotify.com/track/2NxBMC0gGCcQItr2iotAwZ) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Kirpiklerin](https://open.spotify.com/album/0SQuzuNMouc0l3NcgRYzrp) | 2:56 | 2022-01-05 | 2022-02-03 |
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-09-07 | 2022-10-05 |
 | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ) | 3:35 | 2021-12-11 | 2022-01-06 |

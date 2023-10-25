@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 172416,
+  "num_followers": 172445,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODA4Mzc1ZWViMGVmMDYwZGU2ODdjNGVlNjBmZjY0NmQ2NTkwY2Ey",
+  "snapshot_id": "MCw2ZjkxNmNlMDllYTRiZDRmMTc0ZTQ5YjEwZWM4Y2Q3NjU1NDU3NTBm",
   "tracks": [
     {
       "added_at": "2023-02-20 09:56:57",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Supereroe",
-        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
+        "name": "Sorriso (Milano Dateo)",
+        "url": "https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz"
       },
       "artists": [
         {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
         }
       ],
-      "duration_ms": 209179,
-      "name": "Fuoco e benzina",
-      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
+      "duration_ms": 177145,
+      "name": "Sorriso (Milano Dateo)",
+      "url": "https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "Supereroe",
+        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 209179,
+      "name": "Fuoco e benzina",
+      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "Non Avere Paura",
         "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 247478,
       "name": "Non Avere Paura",
       "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "Sorriso (Milano Dateo)",
-        "url": "https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz"
-      },
-      "artists": [
-        {
-          "name": "Calcutta ",
-          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
-        }
-      ],
-      "duration_ms": 177145,
-      "name": "Sorriso (Milano Dateo)",
-      "url": "https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "La Donna Cannone",
-        "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
-      },
-      "artists": [
-        {
-          "name": "Francesco De Gregori",
-          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
-        }
-      ],
-      "duration_ms": 279706,
-      "name": "La donna cannone",
-      "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Mainstream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "La Donna Cannone",
+        "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
+      },
+      "artists": [
+        {
+          "name": "Francesco De Gregori",
+          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+        }
+      ],
+      "duration_ms": 279706,
+      "name": "La donna cannone",
+      "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "111 Centoundici",
         "url": "https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 264986,
       "name": "Sere nere",
       "url": "https://open.spotify.com/track/4Ovy5UkvkweOluGd9hoKsR"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "Iperbole",
-        "url": "https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG"
-      },
-      "artists": [
-        {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
-        }
-      ],
-      "duration_ms": 296040,
-      "name": "Infinito",
-      "url": "https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -827,18 +811,34 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Zero Gravity",
-        "url": "https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P"
+        "name": "Iperbole",
+        "url": "https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG"
       },
       "artists": [
         {
-          "name": "Lorenzo Fragola",
-          "url": "https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy"
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
         }
       ],
-      "duration_ms": 209400,
-      "name": "D'improvviso",
-      "url": "https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6"
+      "duration_ms": 296040,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Splende",
+        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 211093,
+      "name": "Una finestra tra le stelle",
+      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
     }
   ],
   "unique_name": "Amore Davvero",

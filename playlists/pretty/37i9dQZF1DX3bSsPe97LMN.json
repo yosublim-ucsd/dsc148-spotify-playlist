@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Natalie Lopez en portada.",
-  "num_followers": 57853,
+  "num_followers": 57885,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTcxMWY4YjVhOTY4NGI4OTg5MTY5YjI4MzRhYWU3ZmZkNzI3YzVk",
+  "snapshot_id": "MCxlNjE1OWY1ZDFiODU4MWVjNDUxZmJhMTk2NTExOTA2MGQyNjRhODhj",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -291,22 +291,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "MM",
-        "url": "https://open.spotify.com/album/3vHvCoOUhQRogW4IlqV3jp"
+        "name": "Mientras Otros Duermen",
+        "url": "https://open.spotify.com/album/7E7b8MW6RcPnsOEoyoipqV"
       },
       "artists": [
         {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        },
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
         }
       ],
-      "duration_ms": 168800,
-      "name": "MM",
-      "url": "https://open.spotify.com/track/1IxTNg2s3WvWUiW271iDFv"
+      "duration_ms": 118434,
+      "name": "Quieren Mirarme Abajo",
+      "url": "https://open.spotify.com/track/75uqXVaw6XQdTjc04CpSf7"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -331,22 +327,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Mientras Otros Duermen",
-        "url": "https://open.spotify.com/album/7E7b8MW6RcPnsOEoyoipqV"
-      },
-      "artists": [
-        {
-          "name": "Plan de Escape",
-          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
-        }
-      ],
-      "duration_ms": 118434,
-      "name": "Quieren Mirarme Abajo",
-      "url": "https://open.spotify.com/track/75uqXVaw6XQdTjc04CpSf7"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Me Duele",
         "url": "https://open.spotify.com/album/1Vq8Ynt4RN2B6S1dmpfKnV"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 201142,
       "name": "Me Duele",
       "url": "https://open.spotify.com/track/5lUaSlCN3Zne9VKRbk7Xfp"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "MM",
+        "url": "https://open.spotify.com/album/3vHvCoOUhQRogW4IlqV3jp"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        }
+      ],
+      "duration_ms": 168800,
+      "name": "MM",
+      "url": "https://open.spotify.com/track/1IxTNg2s3WvWUiW271iDFv"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Descifrar",
-        "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 256885,
-      "name": "Hace Mucho Tiempo",
-      "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Desde la Cima",
         "url": "https://open.spotify.com/album/5Wdk5FbYQLeXB7EGUbo1X5"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 164062,
       "name": "LA 5 12",
       "url": "https://open.spotify.com/track/7nlYhsjPaMlRzjH1iCJ9P2"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Descifrar",
+        "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 256885,
+      "name": "Hace Mucho Tiempo",
+      "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Feliz Cumplea\u00f1os Ferxxo",
-        "url": "https://open.spotify.com/album/7r0ntv8Os7uQksoHTjrczw"
-      },
-      "artists": [
-        {
-          "name": "Diego Coss",
-          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
-        }
-      ],
-      "duration_ms": 201746,
-      "name": "Feliz Cumplea\u00f1os Ferxxo",
-      "url": "https://open.spotify.com/track/38gCWM721Yetzyd4cc3quv"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Sal",
         "url": "https://open.spotify.com/album/41oaDCSgz0dm75je22VRME"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 164364,
       "name": "Sal",
       "url": "https://open.spotify.com/track/7xRI4RckSJk8uJIJ8o6KlS"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Feliz Cumplea\u00f1os Ferxxo",
+        "url": "https://open.spotify.com/album/7r0ntv8Os7uQksoHTjrczw"
+      },
+      "artists": [
+        {
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+        }
+      ],
+      "duration_ms": 201746,
+      "name": "Feliz Cumplea\u00f1os Ferxxo",
+      "url": "https://open.spotify.com/track/38gCWM721Yetzyd4cc3quv"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Sencillito Y Serenito",
-        "url": "https://open.spotify.com/album/5w5cmlbVxvcOCBXscLhX2l"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 177044,
-      "name": "Sencillito Y Serenito",
-      "url": "https://open.spotify.com/track/5KbFSWl5CJ1CtV7Tq95xlp"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "No He Parado",
         "url": "https://open.spotify.com/album/0fTbXfGHSfS0Aq8JCqysdZ"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 143172,
       "name": "No He Parado",
       "url": "https://open.spotify.com/track/5JiK07lh0kf80tyy1d9j9S"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Sencillito Y Serenito",
+        "url": "https://open.spotify.com/album/5w5cmlbVxvcOCBXscLhX2l"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 177044,
+      "name": "Sencillito Y Serenito",
+      "url": "https://open.spotify.com/track/5KbFSWl5CJ1CtV7Tq95xlp"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -935,6 +935,26 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/47I5OpIC5kzWFrEKXM3I2V"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        },
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 175588,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/5R5VL0m76ZCO0YIvI6T8uU"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "7 Dias",
         "url": "https://open.spotify.com/album/11LDC0VyI6mfScuOCWXBLz"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 186666,
       "name": "Poses",
       "url": "https://open.spotify.com/track/7gtAGhDr9su6NvZ1sqg4Tf"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/47I5OpIC5kzWFrEKXM3I2V"
-      },
-      "artists": [
-        {
-          "name": "Plan de Escape",
-          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
-        },
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 175588,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/5R5VL0m76ZCO0YIvI6T8uU"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Los 2 de la S Y Sus Amigos",
+        "url": "https://open.spotify.com/album/1daB1drE8UKC2vbKDGadJX"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 140283,
+      "name": "Sin Escalas",
+      "url": "https://open.spotify.com/track/6hoC511JZk2gaDBSSDV7UP"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Cumbiecitas Elegantes",
         "url": "https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 167629,
       "name": "Cumbiecitas Elegantes",
       "url": "https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Los 2 de la S Y Sus Amigos",
-        "url": "https://open.spotify.com/album/1daB1drE8UKC2vbKDGadJX"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 140283,
-      "name": "Sin Escalas",
-      "url": "https://open.spotify.com/track/6hoC511JZk2gaDBSSDV7UP"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Que Bonito Es Tomar",
-        "url": "https://open.spotify.com/album/4auVeclloio4ybbEMCSeIP"
-      },
-      "artists": [
-        {
-          "name": "Franco Rey",
-          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
-        }
-      ],
-      "duration_ms": 165512,
-      "name": "Que Bonito Es Tomar",
-      "url": "https://open.spotify.com/track/521PvPw05mx8HH97MBxw9Y"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Mucha Mujer",
         "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "La Reina Del Condado",
-        "url": "https://open.spotify.com/album/1GAYzF6ub76uaNaW8srhAI"
+        "name": "Que Bonito Es Tomar",
+        "url": "https://open.spotify.com/album/4auVeclloio4ybbEMCSeIP"
       },
       "artists": [
         {
-          "name": "Jose Gomez",
-          "url": "https://open.spotify.com/artist/6OAcZpQHWwBwgDWejEd8DB"
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
         }
       ],
-      "duration_ms": 149333,
-      "name": "La Reina Del Condado",
-      "url": "https://open.spotify.com/track/0UzgGknQoXDbSmwAfsvqDN"
+      "duration_ms": 165512,
+      "name": "Que Bonito Es Tomar",
+      "url": "https://open.spotify.com/track/521PvPw05mx8HH97MBxw9Y"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1267,6 +1251,22 @@
       "duration_ms": 183106,
       "name": "Billetes Y Armas",
       "url": "https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "La Reina Del Condado",
+        "url": "https://open.spotify.com/album/1GAYzF6ub76uaNaW8srhAI"
+      },
+      "artists": [
+        {
+          "name": "Jose Gomez",
+          "url": "https://open.spotify.com/artist/6OAcZpQHWwBwgDWejEd8DB"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "La Reina Del Condado",
+      "url": "https://open.spotify.com/track/0UzgGknQoXDbSmwAfsvqDN"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Ganas de Volver",
-        "url": "https://open.spotify.com/album/0HNCuLUkataflaUI5NtVIy"
-      },
-      "artists": [
-        {
-          "name": "Omar Robles",
-          "url": "https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL"
-        }
-      ],
-      "duration_ms": 220571,
-      "name": "Qu\u00e9 Ganas de Volver",
-      "url": "https://open.spotify.com/track/2xfgaz02xDkL2Yyumjhejz"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Ojitos Lindos",
         "url": "https://open.spotify.com/album/5qcpDJhLdRHhLxoOhcFYE6"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 165919,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/6JYE09qjRvxvGZBxPNOTw1"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Qu\u00e9 Ganas de Volver",
+        "url": "https://open.spotify.com/album/0HNCuLUkataflaUI5NtVIy"
+      },
+      "artists": [
+        {
+          "name": "Omar Robles",
+          "url": "https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL"
+        }
+      ],
+      "duration_ms": 220571,
+      "name": "Qu\u00e9 Ganas de Volver",
+      "url": "https://open.spotify.com/track/2xfgaz02xDkL2Yyumjhejz"
     },
     {
       "added_at": "2023-10-06 06:00:00",

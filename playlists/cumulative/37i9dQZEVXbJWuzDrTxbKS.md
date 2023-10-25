@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Latvia.
 
-1,631 songs - 3 day 15 hr 42 min
+1,632 songs - 3 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/track/3xgT3xIlFGqZjYW9QlhJWp) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 2:51 | 2023-07-17 | 2023-07-19 |
 | [Dar' ko var – Latvija ir jāuzvar!](https://open.spotify.com/track/1NzeWbJ7AKbZkJmWpGzYEm) | [Gunārs Meijers](https://open.spotify.com/artist/3AhlZgJoyQOWNbUL1EU5nk) | [Latvija rullē!](https://open.spotify.com/album/1rY9eAcIT0TekqrXlK3Rft) | 3:52 | 2023-05-29 | 2023-06-01 |
 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 | 2021-08-11 | 2022-10-13 |
-| [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 | 2022-10-12 |  |
+| [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 | 2022-10-12 | 2023-10-25 |
 | [Dark Side](https://open.spotify.com/track/6A8B1kJ9ZNHbl2uFPN6Wtm) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Lzb7EjZXgtelxgBsZUhMS) | 2:57 | 2021-05-23 | 2021-06-24 |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
 | [Daydreaming](https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:07 | 2022-05-21 | 2022-05-30 |
@@ -631,7 +631,7 @@
 | [Itālija](https://open.spotify.com/track/3bqrb3pbc4PvKwXXzPlipG) | [Wiesulis](https://open.spotify.com/artist/7u9HzYQPhBC92mdvpzGqu8), [sangvn](https://open.spotify.com/artist/6eG66XVFe7u2IX3NOmEX9R) | [Fianchetto](https://open.spotify.com/album/7AxByCmniKOjEfOBACr71b) | 3:01 | 2023-07-16 | 2023-10-17 |
 | [IVL](https://open.spotify.com/track/0uNlsRmW2hrU5UKtBMZE7A) | [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU), [SCIRENA](https://open.spotify.com/artist/7l7B6CBUbV3SUp0dIiLKkA) | [IVL](https://open.spotify.com/album/3nsGjq6d4IF8PCF355sAI5) | 3:20 | 2023-05-13 | 2023-05-16 |
 | [IZVĒMĀMIES](https://open.spotify.com/track/0WXCCUa7Ud62vHSz10zUy6) | [Ziedu Vija](https://open.spotify.com/artist/7LT18zOJn9Z83KN4IwpfAr) | [CAW](https://open.spotify.com/album/2yEYdGKbdqwuK1hXkstBQ8) | 2:35 | 2021-10-22 | 2023-05-03 |
-| [JAA MAZAA ES SKAABAIS](https://open.spotify.com/track/1LJH42zyVqwVpNjOYmz7B6) | [$ourJ](https://open.spotify.com/artist/4kkqGukpeagcuHEBdoV1pv) | [JAA MAZAA ES SKAABAIS](https://open.spotify.com/album/2T7MHfFVIwVQlaFpiZzfXy) | 2:03 | 2023-09-07 |  |
+| [JAA MAZAA ES SKAABAIS](https://open.spotify.com/track/1LJH42zyVqwVpNjOYmz7B6) | [$ourJ](https://open.spotify.com/artist/4kkqGukpeagcuHEBdoV1pv) | [JAA MAZAA ES SKAABAIS](https://open.spotify.com/album/2T7MHfFVIwVQlaFpiZzfXy) | 2:03 | 2023-09-07 | 2023-10-25 |
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-11 |
 | [Jail pt 2](https://open.spotify.com/track/7f1w2rZoIf7g56McEUTh5W) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-09-02 | 2021-09-03 |
 | [Je me casse](https://open.spotify.com/track/559RWsQqSe4fNUffI9P7mW) | [Destiny](https://open.spotify.com/artist/1D6ueetjwqW491iboMI3NT) | [Je me casse](https://open.spotify.com/album/6Ltrg0NAj6GqIyO2bjPgYI) | 2:58 | 2021-05-25 | 2021-05-30 |
@@ -1235,7 +1235,7 @@
 | [Sports](https://open.spotify.com/track/53bcXwvsvpnso6MJnAgHCB) | [ansis](https://open.spotify.com/artist/7tkMUE1aCZQssaTYKdgmry), [DJ PM2THEAM](https://open.spotify.com/artist/3sJ4o2MedcE5Fs7jcqEHTx) | [Liela māksla](https://open.spotify.com/album/4I4PJdT1houbrgGxNW9eJc) | 3:27 | 2021-08-21 | 2021-08-22 |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-03 |  |
 | [Star Shopping](https://open.spotify.com/track/30bqVoKjX479ab90a8Pafp) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/1dEpGPZONvmwYlE2jDOWOM) | 2:22 | 2021-03-27\* | 2022-10-06 |
-| [Star Shopping](https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD) | 2:22 | 2022-11-13 | 2023-09-20 |
+| [Star Shopping](https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD) | 2:22 | 2022-11-13 |  |
 | [Star Shopping](https://open.spotify.com/track/0DNv3QYWibdoxgyLykB2l8) | [Rap Nation](https://open.spotify.com/artist/6KXLwLV4VV36g0ueE6p7t5) | [RIP](https://open.spotify.com/album/7msC8W1ZJlbavFa6d5OvRn) | 2:20 | 2021-04-02 | 2021-04-04 |
 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2022-09-24 | 2022-10-11 |
 | [Starboy](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:50 | 2022-11-30 |  |
@@ -1597,6 +1597,7 @@
 | [ПОСЛЕДНИЙ БИТ ОТ СЛАВЫ](https://open.spotify.com/track/39cTOq0Egkqi718Xb9pYoG) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 1:17 | 2021-05-23 | 2021-05-24 |
 | [ПОЧЕМУ?](https://open.spotify.com/track/6TYmpWMxhqv0TVtiAIwzBW) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [ПОЧЕМУ?](https://open.spotify.com/album/6dsSUCpM8bVdMxQ1yv6JTm) | 2:45 | 2022-01-15 | 2022-01-25 |
 | [Притон](https://open.spotify.com/track/4S31jbr6mgGib7RAJJ3rlr) | [VACÍO](https://open.spotify.com/artist/1wwHjqyokfyE9NbQebtKsq), [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Притон](https://open.spotify.com/album/6ikE9Ga94p7uNs8Saw5l4n) | 2:19 | 2022-09-02 | 2022-09-05 |
+| [Прощание](https://open.spotify.com/track/1nginMHZwOYjtYDndhCeY2) | [Три дня дождя](https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ), [MONA](https://open.spotify.com/artist/7k3cX5JItAJy6nxdqxycQx) | [melancholia](https://open.spotify.com/album/4zuWO3wSh815WtZ4aqyWdi) | 3:56 | 2023-10-24 |  |
 | [Пушка](https://open.spotify.com/track/3UlGli59XnXKdaocUFn0gw) | [10AGE](https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt) | [Пушка](https://open.spotify.com/album/4R38tSYY31xhqOFincgFb0) | 3:23 | 2021-07-02 | 2021-08-01 |
 | [Пьяный дождь](https://open.spotify.com/track/5BFADKJgtL2eZ4XZJq8zEc) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Малый повзрослел, Ч\. 2](https://open.spotify.com/album/3iKJSrtfk7d5XjhfYp46RB) | 3:15 | 2023-09-03 | 2023-09-08 |
 | [РЕТРО РЕЙВ](https://open.spotify.com/track/0IaWYTFIHIu1iHytmq3gup) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 2:47 | 2021-05-23 | 2021-05-25 |

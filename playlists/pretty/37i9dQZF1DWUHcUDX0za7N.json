@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=HVlq4wOvRTOtVCoJDJtpKA\"> Blaqbonez </a>  and <a href=\"https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=EYuG6hCJQCibu_udVtsN-Q\"> Zlatan </a> ",
-  "num_followers": 28918,
+  "num_followers": 29058,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2MxMzI0MTk2Y2ZhMzVhODM1MzRiMWQ0N2EyODk3MDJhNzYzOTVk",
+  "snapshot_id": "MCw1ZWY0MTc3N2QwZmQyMzVjZWFhYmNkMTExOTNiODQzYTAxYzU1YjQ2",
   "tracks": [
     {
       "added_at": "2023-10-20 06:18:44",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-10-20 06:18:44",
       "album": {
+        "name": "Earth Song",
+        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "duration_ms": 183536,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
+    },
+    {
+      "added_at": "2023-10-20 06:18:44",
+      "album": {
         "name": "PAPILO / ABENA",
         "url": "https://open.spotify.com/album/3XyMQj0gznOyea4pCdlRup"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 132173,
       "name": "PAPILO (Smadumodu)",
       "url": "https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54"
-    },
-    {
-      "added_at": "2023-10-20 06:18:44",
-      "album": {
-        "name": "Earth Song",
-        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
-      },
-      "artists": [
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        }
-      ],
-      "duration_ms": 183536,
-      "name": "Earth Song",
-      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
     },
     {
       "added_at": "2023-10-20 06:18:44",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-10-20 06:18:44",
       "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 145351,
+      "name": "In Charge",
+      "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
+    },
+    {
+      "added_at": "2023-10-20 06:18:44",
+      "album": {
         "name": "Where Dem Dey",
         "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 182500,
       "name": "Where Dem Dey",
       "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
-    },
-    {
-      "added_at": "2023-10-20 06:18:44",
-      "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 145351,
-      "name": "In Charge",
-      "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
     },
     {
       "added_at": "2023-10-20 06:18:44",
@@ -923,6 +923,26 @@
       "duration_ms": 120000,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0VOLzICIqLKFHQYLBxLw51"
+    },
+    {
+      "added_at": "2023-10-20 06:18:44",
+      "album": {
+        "name": "Philo (Remix)",
+        "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 166556,
+      "name": "Philo - Remix",
+      "url": "https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN"
     },
     {
       "added_at": "2023-10-20 06:18:44",
@@ -999,26 +1019,6 @@
     {
       "added_at": "2023-10-20 06:18:44",
       "album": {
-        "name": "Philo (Remix)",
-        "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 166556,
-      "name": "Philo - Remix",
-      "url": "https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN"
-    },
-    {
-      "added_at": "2023-10-20 06:18:44",
-      "album": {
         "name": "My Own (feat. Blaqbonez)",
         "url": "https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV"
       },
@@ -1035,6 +1035,30 @@
       "duration_ms": 180765,
       "name": "My Own (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8"
+    },
+    {
+      "added_at": "2023-10-20 06:18:44",
+      "album": {
+        "name": "Young Preacher",
+        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "FAKE NIKES (feat. Blxckie & Cheque)",
+      "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
     },
     {
       "added_at": "2023-10-20 06:18:44",
@@ -1075,6 +1099,26 @@
     {
       "added_at": "2023-10-20 06:18:44",
       "album": {
+        "name": "SHUT IT DOWN",
+        "url": "https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Chocobantis",
+          "url": "https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "SHUT IT DOWN",
+      "url": "https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX"
+    },
+    {
+      "added_at": "2023-10-20 06:18:44",
+      "album": {
         "name": "High Tension 2.0",
         "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
       },
@@ -1091,30 +1135,6 @@
       "duration_ms": 163813,
       "name": "Out There",
       "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
-    },
-    {
-      "added_at": "2023-10-20 06:18:44",
-      "album": {
-        "name": "Young Preacher",
-        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        }
-      ],
-      "duration_ms": 181250,
-      "name": "FAKE NIKES (feat. Blxckie & Cheque)",
-      "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
     },
     {
       "added_at": "2023-10-20 06:18:44",
@@ -1163,26 +1183,6 @@
     {
       "added_at": "2023-10-20 06:18:44",
       "album": {
-        "name": "SHUT IT DOWN",
-        "url": "https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Chocobantis",
-          "url": "https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "SHUT IT DOWN",
-      "url": "https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX"
-    },
-    {
-      "added_at": "2023-10-20 06:18:44",
-      "album": {
         "name": "2 Pac",
         "url": "https://open.spotify.com/album/7nVSprHJxzWVvVdlD4YP4D"
       },
@@ -1203,6 +1203,46 @@
       "duration_ms": 300463,
       "name": "Bad Character - Remix",
       "url": "https://open.spotify.com/track/5TNLFv24z226zDK7aAYXjf"
+    },
+    {
+      "added_at": "2023-10-20 06:18:44",
+      "album": {
+        "name": "BACK IN UNI",
+        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "BACK IN UNI",
+      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
+    },
+    {
+      "added_at": "2023-10-20 06:18:44",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN"
+      },
+      "artists": [
+        {
+          "name": "A-Q",
+          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 201897,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
     },
     {
       "added_at": "2023-10-20 06:18:44",
@@ -1235,66 +1275,6 @@
     {
       "added_at": "2023-10-20 06:18:44",
       "album": {
-        "name": "BACK IN UNI",
-        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "BACK IN UNI",
-      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
-    },
-    {
-      "added_at": "2023-10-20 06:18:44",
-      "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
-    },
-    {
-      "added_at": "2023-10-20 06:18:44",
-      "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN"
-      },
-      "artists": [
-        {
-          "name": "A-Q",
-          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 201897,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
-    },
-    {
-      "added_at": "2023-10-20 06:18:44",
-      "album": {
         "name": "STILL FIGURING LIFE",
         "url": "https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 161118,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY"
+    },
+    {
+      "added_at": "2023-10-20 06:18:44",
+      "album": {
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "added_at": "2023-10-20 06:18:44",

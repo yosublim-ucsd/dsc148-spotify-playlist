@@ -74,10 +74,32 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-25",
       "duration_ms": 213333,
       "name": "Alter Ego 2",
       "url": "https://open.spotify.com/track/2jsa4vmcnHSwEolEtPGiCO"
+    },
+    {
+      "album": {
+        "name": "HH5",
+        "url": "https://open.spotify.com/album/4LmwlhdLXjvdtU3vF55yVP"
+      },
+      "artists": [
+        {
+          "name": "CEO Trayle",
+          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
+        },
+        {
+          "name": "C4",
+          "url": "https://open.spotify.com/artist/2ZI5j2UOqjBOcSakQcNCua"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Alter Ego 2 (feat. C4)",
+      "url": "https://open.spotify.com/track/7MUn1Kq6EiaJmqC4U6CJEz"
     },
     {
       "album": {

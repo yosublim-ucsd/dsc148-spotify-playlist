@@ -1,12 +1,12 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 140287,
+  "num_followers": 140358,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDc2ZmExYWY4Njg2MmRjNmM1ZDFmNzgwMzkwMDE4YTRkNDYwNTg0",
+  "snapshot_id": "MCwxNWNjMDEyYzNkNWNlYjZhMmI1YTBhYWU1MDNiNzJjM2VjZmVlOTYx",
   "tracks": [
     {
       "added_at": "2023-06-23 17:27:36",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "Lamento De Amor",
+      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 137560,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Lamento De Amor",
-      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "En Mi Viejo San Juan",
-      "url": "https://open.spotify.com/track/3Cd9Lzxyqarjifb1T76W68"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "\u00c9xitos Eternos",
         "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "15 Exitos En Espanol",
-        "url": "https://open.spotify.com/album/7M4jG2ZAe19dGO8K2b8A9Q"
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
       },
       "artists": [
         {
-          "name": "Nicola Di Bari",
-          "url": "https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 197733,
-      "name": "El Corazon Es Un Gitano",
-      "url": "https://open.spotify.com/track/7nxkNNVzWpuoBHSBoeKoYJ"
+      "duration_ms": 173600,
+      "name": "En Mi Viejo San Juan",
+      "url": "https://open.spotify.com/track/3Cd9Lzxyqarjifb1T76W68"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1259,6 +1243,22 @@
       "duration_ms": 247266,
       "name": "No soy de aqu\u00ed",
       "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "15 Exitos En Espanol",
+        "url": "https://open.spotify.com/album/7M4jG2ZAe19dGO8K2b8A9Q"
+      },
+      "artists": [
+        {
+          "name": "Nicola Di Bari",
+          "url": "https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "El Corazon Es Un Gitano",
+      "url": "https://open.spotify.com/track/7nxkNNVzWpuoBHSBoeKoYJ"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "Rock, Balada y Sentimiento, Vol. I",
-        "url": "https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C"
-      },
-      "artists": [
-        {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
-        }
-      ],
-      "duration_ms": 199262,
-      "name": "Llamarada",
-      "url": "https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Hay Amores... Y Amores",
         "url": "https://open.spotify.com/album/0wWLi7i2f8XuZYmOvKLvKc"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 211905,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/0AthnRlNudLf39MtPC4pW0"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "Rock, Balada y Sentimiento, Vol. I",
+        "url": "https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "duration_ms": 199262,
+      "name": "Llamarada",
+      "url": "https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ"
     },
     {
       "added_at": "2023-06-23 17:27:36",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-06-23 17:27:36",
       "album": {
-        "name": "La Orquesta de Siempre: Volume 1",
-        "url": "https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB"
-      },
-      "artists": [
-        {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Pasito Tun, Tun",
-      "url": "https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw"
-    },
-    {
-      "added_at": "2023-06-23 17:27:36",
-      "album": {
         "name": "Sonia Rivas",
         "url": "https://open.spotify.com/album/6iUAHdlpev4yjjj3tEllhc"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 215600,
       "name": "Todo Con \u00c9l",
       "url": "https://open.spotify.com/track/5satdAuywrowLyNn9bIvGj"
+    },
+    {
+      "added_at": "2023-06-23 17:27:36",
+      "album": {
+        "name": "La Orquesta de Siempre: Volume 1",
+        "url": "https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB"
+      },
+      "artists": [
+        {
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Pasito Tun, Tun",
+      "url": "https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw"
     },
     {
       "added_at": "2023-06-23 17:27:36",

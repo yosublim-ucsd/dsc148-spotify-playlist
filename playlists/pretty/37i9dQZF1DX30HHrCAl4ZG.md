@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring new music by Mannequin Pussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,292 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,277 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Tora](https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [Pound For Pound](https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw) | 3:02 |
 | 100 | [Lookin' Out](https://open.spotify.com/track/21xQGFDvSeCi2deid5YtaJ) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Lookin' Out](https://open.spotify.com/album/6sAuAVVo9Wi7K9eecv4txq) | 3:47 |
 
-Snapshot ID: `MCxjYmFjNDUwYjU3MDM2NmI4YzQ4MTAyNzg5ZjQ2MmExZmYyYzA1YTIx`
+Snapshot ID: `MCwxODA2ZTlhMTUyZGY4YzE3NWExMWNkNDJjZDkxZTc4ZDc4MTJkYzVl`

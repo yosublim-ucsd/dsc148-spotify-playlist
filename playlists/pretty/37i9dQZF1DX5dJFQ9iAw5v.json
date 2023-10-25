@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Roxana Amed.",
-  "num_followers": 31342,
+  "num_followers": 31356,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGY0OTA3MmVkYjU2ODMzYzk4ZDgwYTc1M2VlNjI4YmU4ZmVjMWRm",
+  "snapshot_id": "MCxjNzY1MWEzNjkxNjBjYWNiNmJiMjY1Y2IyYmE5MjFjMTJjN2MxZDQ5",
   "tracks": [
     {
       "added_at": "2023-08-11 14:55:45",
@@ -563,6 +563,26 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
+        "name": "ONTOLOGY",
+        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
+      },
+      "artists": [
+        {
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Martin Bejerano",
+          "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
+        }
+      ],
+      "duration_ms": 345370,
+      "name": "El Regreso (feat. Martin Bejerano)",
+      "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
         "name": "Camino",
         "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 140213,
       "name": "I'm Beginning to See the Light",
       "url": "https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
-        "name": "ONTOLOGY",
-        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
-      },
-      "artists": [
-        {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        },
-        {
-          "name": "Martin Bejerano",
-          "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
-        }
-      ],
-      "duration_ms": 345370,
-      "name": "El Regreso (feat. Martin Bejerano)",
-      "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
+        "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
+        "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
+      },
+      "artists": [
+        {
+          "name": "Valentino Jazz Bazar",
+          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
+        }
+      ],
+      "duration_ms": 286109,
+      "name": "Full House - Live",
+      "url": "https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
         "name": "Umbral de M\u00ed",
         "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 327520,
       "name": "Acu\u00e1tico",
       "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
-        "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
-        "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
-      },
-      "artists": [
-        {
-          "name": "Valentino Jazz Bazar",
-          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
-        }
-      ],
-      "duration_ms": 286109,
-      "name": "Full House - Live",
-      "url": "https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "Inocencia Repetida",
-        "url": "https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX"
+        "name": "A Bajo y Pa'fuera",
+        "url": "https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N"
       },
       "artists": [
         {
-          "name": "Ignacio Montoya Carlotto",
-          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
+          "name": "Sebasti\u00e1n Tozzola",
+          "url": "https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a"
         }
       ],
-      "duration_ms": 157533,
-      "name": "Coplas de Luna Quieta",
-      "url": "https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs"
+      "duration_ms": 146757,
+      "name": "A Bajo y Pa'fuera",
+      "url": "https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "A Bajo y Pa'fuera",
-        "url": "https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N"
+        "name": "Inocencia Repetida",
+        "url": "https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Tozzola",
-          "url": "https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a"
+          "name": "Ignacio Montoya Carlotto",
+          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
         }
       ],
-      "duration_ms": 146757,
-      "name": "A Bajo y Pa'fuera",
-      "url": "https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH"
+      "duration_ms": 157533,
+      "name": "Coplas de Luna Quieta",
+      "url": "https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
+        "name": "Piano Tuerto",
+        "url": "https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8"
+      },
+      "artists": [
+        {
+          "name": "Leo Genovese",
+          "url": "https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk"
+        }
+      ],
+      "duration_ms": 326666,
+      "name": "Luna en Nueva York",
+      "url": "https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
         "name": "80 A\u00f1os - Jazztar\u00edaenbaterita",
         "url": "https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 413595,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
-        "name": "Piano Tuerto",
-        "url": "https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8"
-      },
-      "artists": [
-        {
-          "name": "Leo Genovese",
-          "url": "https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk"
-        }
-      ],
-      "duration_ms": 326666,
-      "name": "Luna en Nueva York",
-      "url": "https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1347,30 +1347,18 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "Tr\u00edas",
-        "url": "https://open.spotify.com/album/3r9kmsMm2FztYolno45BT2"
+        "name": "Polacos",
+        "url": "https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi"
       },
       "artists": [
         {
-          "name": "Juan Cruz De Urquiza",
-          "url": "https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Carlos Alvarez",
-          "url": "https://open.spotify.com/artist/3n4bsQdUztlsnOwCfEYsSI"
-        },
-        {
-          "name": "Carto Brand\u00e1n",
-          "url": "https://open.spotify.com/artist/6V37ntXjzq4ozdp0SYKsmB"
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
         }
       ],
-      "duration_ms": 640853,
-      "name": "Trias",
-      "url": "https://open.spotify.com/track/7sTSysRFQYhAW6SqmCUaaw"
+      "duration_ms": 188773,
+      "name": "Polacos",
+      "url": "https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7"
     }
   ],
   "unique_name": "Jazz Argentino",

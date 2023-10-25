@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 119570,
+  "num_followers": 119595,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDY2OTE1N2VkZDIwYjdiYTliZGE3NWNhNTkzZDJhMWU5MTg3Yzhl",
+  "snapshot_id": "MCxkNDBlMzE1MmEwZjQyMTZiYTgwNzhkNjg5ZmU0NDhkMTZkOGM3MWUw",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Apesar de Voc\u00ea",
-        "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        }
-      ],
-      "duration_ms": 275333,
-      "name": "Apesar de Voc\u00ea",
-      "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "S\u00f3 Porque Eu Sou Mulher",
         "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 163535,
       "name": "S\u00f3 Porque Eu Sou Mulher",
       "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Apesar de Voc\u00ea",
+        "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        }
+      ],
+      "duration_ms": 275333,
+      "name": "Apesar de Voc\u00ea",
+      "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        }
-      ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Espelho",
         "url": "https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 208986,
       "name": "Espelho",
       "url": "https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
     },
     {
       "added_at": "2023-10-20 03:00:00",

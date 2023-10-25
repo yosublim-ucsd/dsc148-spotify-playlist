@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 304135,
+  "num_followers": 304171,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjRhM2NhOWFjYTcwZjQxZTZmYzMwOGM4NjhmMmMwNzY4MzM3ZDhm",
+  "snapshot_id": "MCw0OTcxMTlmMjgxM2ExM2U5MGUzMTZmYWQwZjM1MGY0ZTBjMzFjMDAz",
   "tracks": [
     {
       "added_at": "2023-10-20 03:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/3Bv66xBV6gxCjKFGl32aOJ"
-      },
-      "artists": [
-        {
-          "name": "Bruna Griphao",
-          "url": "https://open.spotify.com/artist/3zBh63FeLXKl7X4M7Axqjo"
-        }
-      ],
-      "duration_ms": 140596,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/4Diwn4chKkEFT1c7XifxSl"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 235740,
       "name": "V\u00edcio",
       "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/3Bv66xBV6gxCjKFGl32aOJ"
+      },
+      "artists": [
+        {
+          "name": "Bruna Griphao",
+          "url": "https://open.spotify.com/artist/3zBh63FeLXKl7X4M7Axqjo"
+        }
+      ],
+      "duration_ms": 140596,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/4Diwn4chKkEFT1c7XifxSl"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Tenho Voc\u00ea",
+        "url": "https://open.spotify.com/album/29PFiWp9zAiwoiIx4gyApm"
+      },
+      "artists": [
+        {
+          "name": "Davi Sabbag",
+          "url": "https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8"
+        }
+      ],
+      "duration_ms": 185139,
+      "name": "Tenho Voc\u00ea",
+      "url": "https://open.spotify.com/track/2FJrDD1ZvsUg9klCy4LjCj"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "100 por Hora",
         "url": "https://open.spotify.com/album/60ipg4FiWce9Deo68OWZsA"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 196800,
       "name": "100 por Hora",
       "url": "https://open.spotify.com/track/6UKVh2rVOOTcMI9Hsh8jX2"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Tenho Voc\u00ea",
-        "url": "https://open.spotify.com/album/29PFiWp9zAiwoiIx4gyApm"
-      },
-      "artists": [
-        {
-          "name": "Davi Sabbag",
-          "url": "https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8"
-        }
-      ],
-      "duration_ms": 185139,
-      "name": "Tenho Voc\u00ea",
-      "url": "https://open.spotify.com/track/2FJrDD1ZvsUg9klCy4LjCj"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1175,30 +1175,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Y.D.K.H.M (Remix)",
-        "url": "https://open.spotify.com/album/09zWyPaGkqIMLF4pv7Z7ky"
-      },
-      "artists": [
-        {
-          "name": "Aya",
-          "url": "https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm"
-        },
-        {
-          "name": "Ashley David",
-          "url": "https://open.spotify.com/artist/1wEC94P6n5pxqSRpiJHufF"
-        },
-        {
-          "name": "Dj Will",
-          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
-        }
-      ],
-      "duration_ms": 265421,
-      "name": "Y.D.K.H.M - Remix",
-      "url": "https://open.spotify.com/track/6slv9K1TWiGKS0lLPGToXN"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Playlist Transante",
         "url": "https://open.spotify.com/album/5kU7Es6oEU01pfXhkG9YBS"
       },
@@ -1215,6 +1191,34 @@
       "duration_ms": 197494,
       "name": "Playlist Transante",
       "url": "https://open.spotify.com/track/2qCps28vIziXwOKmici1g7"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "V\u00eanus",
+        "url": "https://open.spotify.com/album/3wFwGLDDKHn9QGVY7fNhNb"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        },
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        },
+        {
+          "name": "Killua",
+          "url": "https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo"
+        },
+        {
+          "name": "Aisha",
+          "url": "https://open.spotify.com/artist/2xL7Ti7mCKljm68MTXez1Y"
+        }
+      ],
+      "duration_ms": 230437,
+      "name": "V\u00eanus (feat. A\u00edsha)",
+      "url": "https://open.spotify.com/track/1k2yIXtCDKULmVqlhWQeNz"
     }
   ],
   "unique_name": "Rala e Rola",

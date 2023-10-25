@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,102 likes - 149 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,113 likes - 149 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [Searching For My Love](https://open.spotify.com/track/4r7q81d4NQGRPixkZWKR7e) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:03 |
 | 149 | [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 |
 
-Snapshot ID: `MCxiMTBiMjk1ZGZmMTM1YjEwMzFkODM0YjM4Y2RmODQxOTA4ZTgwMGE3`
+Snapshot ID: `MCw2ODMxNGI5ODgzZGJhMmVmYzkwYjU1ZjJhNTJkNGQxMjA2ZDYzYWE2`

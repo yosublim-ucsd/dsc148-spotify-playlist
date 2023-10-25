@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Heerhorst
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,883 likes - 90 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,929 likes - 90 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Twinkies \- DC Salas Remix](https://open.spotify.com/track/6n5MNuC2TFhSaHkNELCmkr) | [CYRK](https://open.spotify.com/artist/14gs7nuIA4nh6ZETqbe9Pr), [DC Salas](https://open.spotify.com/artist/5Je9stfFSgHo3TZgyOPsUw) | [Twinkies](https://open.spotify.com/album/3UJ5LnPxr9DRHGNCSb8sD5) | 6:44 |
 | 90 | [Pleasure \- Original Vox Mix](https://open.spotify.com/track/0wGZ0gl1g04dAYFB0IeTji) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Pleasure](https://open.spotify.com/album/1nUIIkaakagx1UUd4R1yKd) | 6:43 |
 
-Snapshot ID: `MCwyNjQ0YjQ3NzNmNDJkZjUxM2UwNGYwMmU1NWE3MDhjZjk4OGE1NjQ5`
+Snapshot ID: `MCxhNzkzNmVlOWEwNWUyZWRjZTAzOTczYmI0MzI3ZWFlNWMyMDAyZjFl`
