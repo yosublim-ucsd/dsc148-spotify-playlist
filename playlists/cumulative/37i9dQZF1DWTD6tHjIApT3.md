@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 上白石萌音
 
-1,852 songs - 4 day 23 hr 46 min
+1,854 songs - 4 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,8 @@
 | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 4:43 | 2023-05-11 | 2023-07-05 |
 | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 | 2023-05-02 | 2023-05-13 |
 | [Day N Night](https://open.spotify.com/track/2bS0bzrGfnbnGiZhyRqpAt) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [Modesty Beats](https://open.spotify.com/artist/13FbrmsM0RLfPPbiqh7iCQ) | [Day N Night](https://open.spotify.com/album/2E3Drk037gBwve6OJOIlau) | 2:24 | 2022-10-25 | 2022-11-16 |
-| [daybreak](https://open.spotify.com/track/2f27ES8HOfTHLK8gYKuoTQ) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [daybreak](https://open.spotify.com/album/6ABAIf9VSs2zxDVRWkPwsN) | 3:13 | 2023-10-24 |  |
+| [daybreak](https://open.spotify.com/track/0hSz0Jx5yhQprUVLIoadYg) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [daybreak](https://open.spotify.com/album/2FHdYLhKa3ezkyddirjSfj) | 3:13 | 2023-10-24 |  |
+| [daybreak](https://open.spotify.com/track/2f27ES8HOfTHLK8gYKuoTQ) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [daybreak](https://open.spotify.com/album/6ABAIf9VSs2zxDVRWkPwsN) | 3:13 | 2023-10-24 | 2023-10-26 |
 | [Daydream Believer](https://open.spotify.com/track/6SQg7kkKjkWqXvOCh95aku) | [Tomoyo Harada](https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1) | [Daydream Believer](https://open.spotify.com/album/3bUnFxPYnMEOUfZUCBnVuk) | 3:21 | 2023-10-03 | 2023-10-06 |
 | [Dear My Boo \(She said\)](https://open.spotify.com/track/1a9buU76UQDqEkRuulkeA9) | [He & She](https://open.spotify.com/artist/2gtMOy05gUFnzqlJZea47U), [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [Dear My Boo \(She said\)](https://open.spotify.com/album/7IZOXruHpIbPqBFQDJ52Nt) | 3:54 | 2022-06-21 | 2022-07-17 |
 | [Death Anniversary](https://open.spotify.com/track/27worzTIPbLIOFS2LPkzTw) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Death Anniversary](https://open.spotify.com/album/2uoDeHqFLAKJLxwddkzGQt) | 3:21 | 2023-08-17 | 2023-10-20 |
@@ -421,7 +422,8 @@
 | [I WANNA 罠?](https://open.spotify.com/track/4s88PpuZHrawbHyEUfwyAy) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [I WANNA 罠?](https://open.spotify.com/album/5cUdH3PrCI4qwIw7oyyoAp) | 3:57 | 2023-08-01 | 2023-08-16 |
 | [I want to be loved like "Sakuranbo"](https://open.spotify.com/track/1wYhLZQ6UaYh287OmZjNEj) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [I want to be loved like "Sakuranbo"](https://open.spotify.com/album/2FtZL6TkQ0a51twIavqPMJ) | 3:29 | 2023-06-27 | 2023-07-05 |
 | [I was a girl \(長屋晴子より\)](https://open.spotify.com/track/4x3FzV0yt5wgQOypc2TUm4) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [marble](https://open.spotify.com/album/2ihGCQ3UJZ6hkf0KPJ27XO) | 4:21 | 2023-09-12 | 2023-09-20 |
-| [I'll be](https://open.spotify.com/track/7MBFjKKxAtwYAvJ4735L35) | [満島ひかり](https://open.spotify.com/artist/3NmymwEu7AQgg74vBh57NW) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 5:15 | 2023-10-24 |  |
+| [I'll be](https://open.spotify.com/track/3hnmW0g0SkxYc1IvUnUebL) | [満島ひかり](https://open.spotify.com/artist/3NmymwEu7AQgg74vBh57NW) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 5:15 | 2023-10-24 |  |
+| [I'll be](https://open.spotify.com/track/7MBFjKKxAtwYAvJ4735L35) | [満島ひかり](https://open.spotify.com/artist/3NmymwEu7AQgg74vBh57NW) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 5:15 | 2023-10-24 | 2023-10-26 |
 | [I'm Calling You](https://open.spotify.com/track/5iRz81mqmZt0ggeARC4t2d) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [I'm Calling You](https://open.spotify.com/album/6TDVhqH3gOj6m2v0EFccK8) | 3:43 | 2022-09-27 | 2022-10-05 |
 | [I'm yours](https://open.spotify.com/track/59gV0sNWj69t5XLbxvfvAA) | [Aoi Yamazaki](https://open.spotify.com/artist/5PVo95QG7f3xm0cU8ZndCG) | [I'm yours](https://open.spotify.com/album/7sLtfLlGBYUpbW2MMMqz0d) | 3:18 | 2022-06-07 | 2022-06-30 |
 | [I've Got the Power](https://open.spotify.com/track/5sGMHpYpF1oGHrzGQEBXfJ) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [I've Got the Power](https://open.spotify.com/album/7tAEGU20y23kFaLdQBW1TO) | 3:20 | 2023-08-22 | 2023-08-24 |

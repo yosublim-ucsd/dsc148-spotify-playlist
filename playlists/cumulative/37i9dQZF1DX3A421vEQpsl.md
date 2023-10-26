@@ -2,9 +2,9 @@
 
 ### [Bollywood 2.O](https://open.spotify.com/playlist/37i9dQZF1DX3A421vEQpsl)
 
-> Hits, repackaged by Bollywood\. Cover \- Yaariyan 2
+> Hits, repackaged by Bollywood\. Cover \- Badrinath Ki Dulhania
 
-128 songs - 7 hr 25 min
+129 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [So Gaya Yeh Jahan \(From "Bypass Road"\)](https://open.spotify.com/track/6HlKDKcgvwjvWPrYIqMSaK) | [Nitin Mukesh](https://open.spotify.com/artist/4ec676jWgAuvEZZg0y7dBy), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Saloni Thakkar](https://open.spotify.com/artist/7haLHbJDuh7ZPdFM78PtPg), [Raaj Aashoo](https://open.spotify.com/artist/3jNaDQZQjbidKVJrIhhibh) | [So Gaya Yeh Jahan \(From "Bypass Road"\)](https://open.spotify.com/album/3iGSnvNeUwTFxoKCE6t4hw) | 2:32 | 2022-05-24 |  |
 | [Sunny Sunny 2.O](https://open.spotify.com/track/2BrlVkUZz1bnE7RGF7mFRq) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Khaalif](https://open.spotify.com/artist/43wfBC2EqzE6jLYg4rf1gD), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Yaariyan 2](https://open.spotify.com/album/7ae6aMd39gAqmMfaPi9GUY) | 3:34 | 2023-09-25 |  |
 | [Tamma Tamma Again](https://open.spotify.com/track/5sqPE9h98DkO5ms20NUiUg) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Badrinath Ki Dulhania](https://open.spotify.com/album/26ska1StQhwbWADLTg2hky) | 3:19 | 2022-05-24 |  |
+| [Tenu Lehenga \(From "Satyameva Jayate 2"\)](https://open.spotify.com/track/2FlkFn2YRzTQ13Fu2tfHb0) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Tenu Lehenga \(From "Satyameva Jayate 2"\)](https://open.spotify.com/album/5tul86eaJyQKvgzoRemZtv) | 4:07 | 2023-10-25 |  |
 | [Tere Bin](https://open.spotify.com/track/4Y1Sd0fSSxHEMrWkd2x3EW) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Simmba](https://open.spotify.com/album/3dynRTuVOrAr5O7srr2txN) | 3:50 | 2023-05-25 | 2023-08-01 |
 | [Teri Ore](https://open.spotify.com/track/4f3MLn8DYKvBAkU4NZriLK) | [Deedar Kaur](https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q), [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6) | [Teri Ore](https://open.spotify.com/album/68tWrwi09EqoiQAkoq3NEt) | 3:15 | 2022-05-24 | 2022-07-29 |
 | [Teri Ore](https://open.spotify.com/track/5NZA85DJUCIVCAd8R7WLKf) | [Deedar Kaur](https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q), [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6) | [Teri Ore](https://open.spotify.com/album/5FAaX17K9rEZDBRUyigQXR) | 3:15 | 2022-07-04 | 2023-02-16 |

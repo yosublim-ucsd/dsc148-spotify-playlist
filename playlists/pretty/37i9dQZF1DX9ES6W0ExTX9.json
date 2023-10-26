@@ -1,12 +1,12 @@
 {
   "description": "Can you survive? Listen to the music from and inspired by FNAF. ",
-  "num_followers": 18606,
+  "num_followers": 25210,
   "original_name": "Five Nights at Freddy's Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGFiMGE4YTMwOWY0ODI2ZWM5M2YzZWYwM2JmOGVkM2YwNTFhMzc4",
+  "snapshot_id": "MCxhMWIwMTg0MTk3YjZkZDk2ZGYzNjdmNjY3YmYzY2JmMWNlMzA2MzJl",
   "tracks": [
     {
       "added_at": "2023-10-20 07:00:00",
@@ -619,6 +619,26 @@
       "duration_ms": 180000,
       "name": "Never Be Alone",
       "url": "https://open.spotify.com/track/3Mi2DxVPiT7j2EHdxOFCg3"
+    },
+    {
+      "added_at": "2023-10-20 07:00:00",
+      "album": {
+        "name": "Lights On",
+        "url": "https://open.spotify.com/album/0yPsHjjaKQYGmCM8B5zLZK"
+      },
+      "artists": [
+        {
+          "name": "Kyle Allen Music",
+          "url": "https://open.spotify.com/artist/1yH2ZjYHWeStR8K6Z7xYoL"
+        },
+        {
+          "name": "Corey Wilder",
+          "url": "https://open.spotify.com/artist/55JaQX2wIdP3uVEZtt8mxW"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Lights On",
+      "url": "https://open.spotify.com/track/5iaDOrWLCyewyzoB9bLE4n"
     },
     {
       "added_at": "2023-10-20 07:00:00",

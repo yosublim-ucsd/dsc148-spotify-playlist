@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Leo
 
-944 songs - 2 day 10 hr 4 min
+945 songs - 2 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,6 +585,7 @@
 | [Oorukaaran](https://open.spotify.com/track/72OE3wxjzKlgiqYyKxmJxo) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [ERA](https://open.spotify.com/artist/2CRQKvuqKw8euASgmEJE6p), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Oorukaaran](https://open.spotify.com/album/46Mi0QEBqykFh6kwkZ6qxs) | 2:38 | 2022-06-09 | 2022-08-05 |
 | [Oppari Rap \- From "Agent Kannayiram"](https://open.spotify.com/track/7424e9Qtxsi6Kvg1h8LFz9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [MC Sanna](https://open.spotify.com/artist/79U8u5jWzt6NFUlwgMMGT0), [Lakshmi](https://open.spotify.com/artist/53RrOfLkcRBKQZrKNTspBM) | [Oppari Rap \(From "Agent Kannayiram"\)](https://open.spotify.com/album/20XhAjIgBcrWKqdSwiJhHD) | 3:17 | 2022-11-05 | 2022-11-22 |
 | [Oraayiram Jenmam](https://open.spotify.com/track/0oyyuAAyZF6AMwx4HpoxtV) | [Simon K\. King](https://open.spotify.com/artist/0vwU0F5pTEFlcpz2hFqcEF), [Keshav Ram](https://open.spotify.com/artist/4ei0xbxMaki87T5fQIANx7) | [Paper Rocket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3lwB5hBZ2xVKPPxeDC3kVT) | 3:32 | 2022-07-19 | 2022-08-03 |
+| [Ordinary Person \(From "Leo"\)](https://open.spotify.com/track/6FahmzZYKH0zb2f9hrVsvw) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Ordinary Person \(From "Leo"\)](https://open.spotify.com/album/0qOjC3f9sN8JWr1SOz7m9Z) | 2:19 | 2023-10-25 |  |
 | [Orr Kadhal Kanaa \- From "Farhana"](https://open.spotify.com/track/2sizHChPI8FuMSwQXcVV7c) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Uma Devi](https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Orr Kadhal Kanaa \(From "Farhana"\)](https://open.spotify.com/album/0lQ4aL9v6knk6cQUFDCf07) | 4:11 | 2022-10-07 | 2022-10-19 |
 | [Oru Ezhai Deivam \(From "Kakkan"\)](https://open.spotify.com/track/4ZBYvNfwE0E1FhvZScXOcX) | [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi), [Deva](https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf), [Ekadesi](https://open.spotify.com/artist/2UgsCwpYI65SnAwpaokb9c) | [Oru Ezhai Deivam \(From "Kakkan"\)](https://open.spotify.com/album/0UkAWX0C7Flek0j0mBiBoo) | 5:24 | 2023-08-02 | 2023-08-08 |
 | [Oru Idayathil](https://open.spotify.com/track/5PWm5OJqcnC1STQhmfhFmX) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [S\. P\. Hosimin](https://open.spotify.com/artist/08Mj8WKPJSZxPzy8GU0QkP) | [Vithai Virumbu](https://open.spotify.com/album/4OsedZSh5gmJ354r7NJWoI) | 3:07 | 2023-09-21 | 2023-10-05 |

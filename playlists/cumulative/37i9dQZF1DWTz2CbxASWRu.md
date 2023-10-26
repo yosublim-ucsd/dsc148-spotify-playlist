@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-372 songs - 1 day 3 hr 13 min
+373 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Laissez\-moi danser](https://open.spotify.com/track/3EaN5JV1dPEoPq8rqFmMJb) | [Pat Kalla](https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj), [Le Super Mojo](https://open.spotify.com/artist/5gS8DfFU8NYsqLiuZ96bHd) | [Jongler](https://open.spotify.com/album/7tjdPNtMcG5VZ0qUeJHmTM) | 3:21 | 2023-07-10 |  |
 | [Lam Phu Thai \# 1](https://open.spotify.com/track/6dsZAzOrP9af5rmzGl9Tlr) | [Khun Narin](https://open.spotify.com/artist/63zawOgIPFW8J6QTTJiRX1) | [Khun Narin's Electric Phin Band](https://open.spotify.com/album/5jScyP5lgOyDuXwi720t2S) | 5:57 | 2023-07-10 |  |
 | [Lambi Judaai](https://open.spotify.com/track/2HzuZyBtJQcypPtXZyJ98n) | [Reshma](https://open.spotify.com/artist/0xawOgbaKGtq7KSlrRWrWP) | [Hero \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6yQsPqhpbIN49FGws6o2Dv) | 6:28 | 2023-07-10 | 2023-10-22 |
+| [Lambi Judaai \(From "Hero"\)](https://open.spotify.com/track/2r1ILRgmmhrhQqWwU9huUT) | [Reshma](https://open.spotify.com/artist/0xawOgbaKGtq7KSlrRWrWP) | [Sheesha Ho Ya Dil Ho \- Dard Bhare Geet](https://open.spotify.com/album/2DzDY8wKuOYnX4q1Wtv4Fr) | 6:28 | 2023-07-10 |  |
 | [Lazalypso](https://open.spotify.com/track/3OItIAWkXXMi3wXkKwmhsj) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y) | 3:33 | 2023-07-10 |  |
 | [Le Soleil Descend](https://open.spotify.com/track/0mDNjIWcWqU3bgF8fiGnOW) | [Wesli](https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5), [Paul Cargnello](https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj) | [Le Soleil Descend](https://open.spotify.com/album/5GmeUeefieul7OH3nrFaKN) | 4:08 | 2023-07-10 |  |
 | [Ley de gravedad](https://open.spotify.com/track/0QSiz5hqYFYf0TmCi5ioFJ) | [Ojos de Brujo](https://open.spotify.com/artist/6iKnagOuTEr3kLRAJlXRjq) | [Bari](https://open.spotify.com/album/5WNRhfXJhC8HGquGAFsZrz) | 3:49 | 2023-07-10 |  |
@@ -292,7 +293,7 @@
 | [Respiração](https://open.spotify.com/track/0E4zeEDvhfg0XuPYn70NMx) | [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [We Saw Blue](https://open.spotify.com/album/7chq6VXsRNWMf5s5SH2z9T) | 3:15 | 2023-07-10 |  |
 | [Rojo Carmín](https://open.spotify.com/track/1Mc4emiQC31XYufQGRcnAr) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb) | [Newen Afrobeat](https://open.spotify.com/album/7pZPR1shvyc15uXqC0fVVv) | 4:56 | 2023-07-10 |  |
 | [Ruby](https://open.spotify.com/track/56K7H3Ipsce0Csn2v4u8kZ) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 5:55 | 2023-07-10 |  |
-| [Rumbero](https://open.spotify.com/track/7lccfP8P28uLa2fgqgwCt7) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Y Su Descarga Internacional](https://open.spotify.com/album/5lCofRvucN41wJestulzNM) | 5:44 | 2023-07-10 |  |
+| [Rumbero](https://open.spotify.com/track/7lccfP8P28uLa2fgqgwCt7) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Y Su Descarga Internacional](https://open.spotify.com/album/5lCofRvucN41wJestulzNM) | 5:44 | 2023-07-10 | 2023-10-26 |
 | [Sakla Beni](https://open.spotify.com/track/4pyy5N9veZ3lcdu96chkWV) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Sakla Beni](https://open.spotify.com/album/0LBQVMsur8H3i3mwKkXV20) | 4:40 | 2023-07-10 |  |
 | [Samba de Verão](https://open.spotify.com/track/4ZxCL1QHcscbhxVDpkpoI7) | [Bahia Bahia Bahia](https://open.spotify.com/artist/5MbdV2ChR2UTRO6yczv6gj) | [A Rã EP](https://open.spotify.com/album/304Bab3sFlZCbt76DhqXh2) | 3:15 | 2023-07-10 |  |
 | [Samba Malató](https://open.spotify.com/track/67XnVq3LNc4nByje3F2kOL) | [La Colmena](https://open.spotify.com/artist/16sUEYkZHZMNFXt7hUhh0x) | [Oilando](https://open.spotify.com/album/2jsOKtBQHgnOzVXjdOmGn0) | 3:25 | 2023-07-10 |  |

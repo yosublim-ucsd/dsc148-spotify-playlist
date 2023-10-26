@@ -7410,7 +7410,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 223238,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d"
@@ -18554,6 +18554,24 @@
       "duration_ms": 194346,
       "name": "Warn Me",
       "url": "https://open.spotify.com/track/3FfmYyYHN47nLxPuJ84M0y"
+    },
+    {
+      "album": {
+        "name": "Wasting All These Tears (Cassadee's Version)",
+        "url": "https://open.spotify.com/album/3wgBdX4AFFHNBrYi5JNiq0"
+      },
+      "artists": [
+        {
+          "name": "Cassadee Pope",
+          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210317,
+      "name": "Wasting All These Tears - Cassadee's Version",
+      "url": "https://open.spotify.com/track/6ggAqp1zV8uSxZdItKRuWO"
     },
     {
       "album": {

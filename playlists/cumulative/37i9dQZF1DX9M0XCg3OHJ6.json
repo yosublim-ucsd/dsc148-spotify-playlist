@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Gentle White Noise",
+        "url": "https://open.spotify.com/album/6oxEgz8aIaZ62WeUlApe0c"
+      },
+      "artists": [
+        {
+          "name": "Natura Ferox",
+          "url": "https://open.spotify.com/artist/4pxwvJBcr1c7RBwb1sZ2pH"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Gentle White Noise - Seamless",
+      "url": "https://open.spotify.com/track/2COPUH8f4mlt1vzZG83zqU"
+    },
+    {
+      "album": {
         "name": "Intergalactic Sleep Sounds",
         "url": "https://open.spotify.com/album/1dKAPcNK146NsW8Aqkqr4F"
       },
@@ -1319,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Noise Waterfalls",
+        "url": "https://open.spotify.com/album/7By7Jo2T4WuFDwzW7MRc02"
+      },
+      "artists": [
+        {
+          "name": "Misa Bee",
+          "url": "https://open.spotify.com/artist/5JSgVFubDnbqYDUWPzl4tj"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145251,
+      "name": "Loud Noise Sound",
+      "url": "https://open.spotify.com/track/3WEhUtfxXaoRrpSIZ1XzQY"
+    },
+    {
+      "album": {
         "name": "Low Slow Noise",
         "url": "https://open.spotify.com/album/3duCww2adwRWRR8811ErjL"
       },
@@ -1384,7 +1420,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 146341,
       "name": "Mellow Forest Noise",
       "url": "https://open.spotify.com/track/3mwvAQMWc3Hb1Rmcl7iyyx"
@@ -2428,7 +2464,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 153780,
       "name": "Soothing Field Noise",
       "url": "https://open.spotify.com/track/2EGXrlIaOm4Qd3aEQy60GV"

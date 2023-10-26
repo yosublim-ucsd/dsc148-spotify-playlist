@@ -19017,6 +19017,28 @@
     },
     {
       "album": {
+        "name": "Equanimity",
+        "url": "https://open.spotify.com/album/2aAosBsE2g01oVPGgIjfbT"
+      },
+      "artists": [
+        {
+          "name": "L E F",
+          "url": "https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV"
+        },
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164373,
+      "name": "Equanimity",
+      "url": "https://open.spotify.com/track/2cXBurM9WVPw1famE11YFV"
+    },
+    {
+      "album": {
         "name": "Equata",
         "url": "https://open.spotify.com/album/4dGpZpqO3Si2tVleR9xP7i"
       },
@@ -53418,7 +53440,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 133406,
       "name": "Right Thing",
       "url": "https://open.spotify.com/track/2ugTMmn6H166ivXhQWsRjA"

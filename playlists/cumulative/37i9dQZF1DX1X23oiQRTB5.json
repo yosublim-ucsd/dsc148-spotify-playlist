@@ -2376,10 +2376,32 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 196089,
       "name": "Magot",
       "url": "https://open.spotify.com/track/69zAnyBtarXinChSUq925t"
+    },
+    {
+      "album": {
+        "name": "Magot",
+        "url": "https://open.spotify.com/album/6wPL7UMGoIptE9eWMDwP82"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196089,
+      "name": "Magot",
+      "url": "https://open.spotify.com/track/7qNQxRHoYd1xB1FnBhWVSm"
     },
     {
       "album": {

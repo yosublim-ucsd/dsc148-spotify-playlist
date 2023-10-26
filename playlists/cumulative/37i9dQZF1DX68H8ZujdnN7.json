@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Essential Rock Ballad Hits",
+        "url": "https://open.spotify.com/album/1d1rfKvbP8RRDyUBDIA04T"
+      },
+      "artists": [
+        {
+          "name": "Kix",
+          "url": "https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257053,
+      "name": "Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/3QnkcRD8WEKFQGSQDJMRIN"
+    },
+    {
+      "album": {
         "name": "The Atlantic Studio Albums",
         "url": "https://open.spotify.com/album/6uIUP2CM5O9rtrcJb12lwD"
       },
@@ -452,7 +470,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 257053,
       "name": "Don't Close Your Eyes",
       "url": "https://open.spotify.com/track/3R5xBsocF67P2nYDUebeFU"

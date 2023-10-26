@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Sixth Trumpet](https://open.spotify.com/track/0kqR9yoySq4IQSvEql8h4L) | [From Monument To Masses](https://open.spotify.com/artist/1U5hX2xotG9ilMOlgNekbq) | [On Little Known Frequencies](https://open.spotify.com/album/7lBdDIeIgMb1mWloh7N3Ea) | 5:35 | 2022-01-17 | 2023-10-20 |
+| [A Sixth Trumpet](https://open.spotify.com/track/0kqR9yoySq4IQSvEql8h4L) | [From Monument To Masses](https://open.spotify.com/artist/1U5hX2xotG9ilMOlgNekbq) | [On Little Known Frequencies](https://open.spotify.com/album/7lBdDIeIgMb1mWloh7N3Ea) | 5:35 | 2022-01-17 |  |
 | [A Sixth Trumpet](https://open.spotify.com/track/2PKwMRpEXSSRvuI6baAhMw) | [From Monument To Masses](https://open.spotify.com/artist/1U5hX2xotG9ilMOlgNekbq) | [On Little Known Frequencies](https://open.spotify.com/album/3zMejkLRBrCxen0T835MK0) | 5:35 | 2020-10-20\* | 2022-07-29 |
 | [Above The Clouds Lies Eternal Sun](https://open.spotify.com/track/0WCvBujFldzGsAimcyjchH) | [Joy Wants Eternity](https://open.spotify.com/artist/4ycYjrk65Tk9G1rhkzGjEy) | [You Who Pretend To Sleep](https://open.spotify.com/album/7G1o9IjZhkUIsQ1IGb7JDs) | 3:53 | 2020-10-20\* | 2023-10-20 |
 | [Alaska](https://open.spotify.com/track/4h0iGeA83sYvsngisIw92M) | [Kwoon](https://open.spotify.com/artist/1ctreRQSlu47UoP3po9zd2) | [Alaska](https://open.spotify.com/album/5hSPs0thai8mK30ivMFHeY) | 6:43 | 2020-10-20\* |  |
@@ -20,7 +20,7 @@
 | [Captured Moments](https://open.spotify.com/track/4ckmG9O7QH2qNA67QbDzjk) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Find a Place to Be Safe](https://open.spotify.com/album/7xnGXpy5HE5AbAgshq0wGw) | 4:25 | 2020-10-20\* |  |
 | [Ce que révèle l'éclipse](https://open.spotify.com/track/32ALgQvmpOXfIIPMRDBXG9) | [L'Effondras](https://open.spotify.com/artist/7MlGEYuOaC0SzJmAuvjZ4y) | [Stellar Frequencies Sessions](https://open.spotify.com/album/1Sz7eNhtBzBrhpU1xE3061) | 10:17 | 2022-09-30 | 2023-10-20 |
 | [Children](https://open.spotify.com/track/6lgUuPNqAPnihWXs66mRVP) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [Children](https://open.spotify.com/album/54HUczZ6IE8t8rrDuhWLaE) | 4:34 | 2023-10-19 |  |
-| [Colors In Stereo](https://open.spotify.com/track/2ThL97UJtUQwqZHpgtkktm) | [Moonlit Sailor](https://open.spotify.com/artist/3YX8jgxBqkl30HXjazVXXU) | [Colors In Stereo](https://open.spotify.com/album/6QWZgvK9Gid1Nu8w3rLfCx) | 3:39 | 2020-10-20\* |  |
+| [Colors In Stereo](https://open.spotify.com/track/2ThL97UJtUQwqZHpgtkktm) | [Moonlit Sailor](https://open.spotify.com/artist/3YX8jgxBqkl30HXjazVXXU) | [Colors In Stereo](https://open.spotify.com/album/6QWZgvK9Gid1Nu8w3rLfCx) | 3:39 | 2020-10-20\* | 2023-10-26 |
 | [Coolverine](https://open.spotify.com/track/0h0smRHEjrkSFUhNWQh8SR) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Coolverine](https://open.spotify.com/album/4VbkhUhlZDvaxqXadIdtjk) | 6:16 | 2020-10-20\* | 2021-02-19 |
 | [Darkfield](https://open.spotify.com/track/2aovLXeN9SYnqKKs4LA8BK) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [Darkfield](https://open.spotify.com/album/7KAOFjxkdtA3Daw4RdLRc6) | 6:36 | 2020-10-20\* | 2021-10-27 |
 | [De la Orquídea y la Avispa](https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [De la Orquídea y la Avispa](https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d) | 6:47 | 2022-09-30 |  |

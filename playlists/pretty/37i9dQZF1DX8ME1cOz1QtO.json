@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 78700,
+  "num_followers": 78765,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjQ5NDQ5M2Y4MDc1M2I4NzUzZjgyODBmN2UzZjU5ODU2OTVhZjk4",
+  "snapshot_id": "MCwwOTY2NDk0MjVjMmExMDljOGUxOTU0ZmIxNWQ2YjE5ZGEyYjk4MDY1",
   "tracks": [
     {
       "added_at": "2023-08-18 14:02:54",
@@ -475,8 +475,8 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
+        "name": "Antarctica (Remastered)",
+        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 546106,
-      "name": "To the Unknown Man",
-      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
+      "duration_ms": 445613,
+      "name": "Theme From Antarctica - Remastered",
+      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -655,8 +655,8 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Antarctica (Remastered)",
-        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 445613,
-      "name": "Theme From Antarctica - Remastered",
-      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
+      "duration_ms": 546106,
+      "name": "To the Unknown Man",
+      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -760,25 +760,9 @@
           "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
         }
       ],
-      "duration_ms": 416026,
-      "name": "Midnight On Mars",
-      "url": "https://open.spotify.com/track/5rVFG1UpzRO70YGdu634cK"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Gymnosphere: Song of the Rose",
-        "url": "https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS"
-      },
-      "artists": [
-        {
-          "name": "Jordan De La Sierra",
-          "url": "https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf"
-        }
-      ],
-      "duration_ms": 1457253,
-      "name": "Music for Gymnastics",
-      "url": "https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i"
+      "duration_ms": 410666,
+      "name": "77 Slightly Delayed",
+      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -795,6 +779,22 @@
       "duration_ms": 399066,
       "name": "Looking Glass",
       "url": "https://open.spotify.com/track/6zyoBj7fXtPLB20ovcdbS5"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Gymnosphere: Song of the Rose",
+        "url": "https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS"
+      },
+      "artists": [
+        {
+          "name": "Jordan De La Sierra",
+          "url": "https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf"
+        }
+      ],
+      "duration_ms": 1457253,
+      "name": "Music for Gymnastics",
+      "url": "https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
         }
       ],
-      "duration_ms": 410666,
-      "name": "77 Slightly Delayed",
-      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
+      "duration_ms": 416026,
+      "name": "Midnight On Mars",
+      "url": "https://open.spotify.com/track/5rVFG1UpzRO70YGdu634cK"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Rainbow Dome Musick",
-        "url": "https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz"
-      },
-      "artists": [
-        {
-          "name": "Steve Hillage",
-          "url": "https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC"
-        }
-      ],
-      "duration_ms": 1394160,
-      "name": "Garden Of Paradise - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Aum",
         "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 116440,
       "name": "Abraxas",
       "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Rainbow Dome Musick",
+        "url": "https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz"
+      },
+      "artists": [
+        {
+          "name": "Steve Hillage",
+          "url": "https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC"
+        }
+      ],
+      "duration_ms": 1394160,
+      "name": "Garden Of Paradise - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Hear and Be Yonder",
-        "url": "https://open.spotify.com/album/1ZWMulajDJxasDcb3iNnS0"
-      },
-      "artists": [
-        {
-          "name": "David Casper",
-          "url": "https://open.spotify.com/artist/50mjb7KMd745XerQx3jeGI"
-        }
-      ],
-      "duration_ms": 465986,
-      "name": "Carmel Valley Sunset",
-      "url": "https://open.spotify.com/track/3ByxuWhBseyN2kkhImsJjr"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Inter-Dimensional Music",
         "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 290053,
       "name": "Formentera Sunset Clouds",
       "url": "https://open.spotify.com/track/0hds7dcDAF2XkSqD5fycti"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Hear and Be Yonder",
+        "url": "https://open.spotify.com/album/1ZWMulajDJxasDcb3iNnS0"
+      },
+      "artists": [
+        {
+          "name": "David Casper",
+          "url": "https://open.spotify.com/artist/50mjb7KMd745XerQx3jeGI"
+        }
+      ],
+      "duration_ms": 465986,
+      "name": "Carmel Valley Sunset",
+      "url": "https://open.spotify.com/track/3ByxuWhBseyN2kkhImsJjr"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Astral Travels",
-        "url": "https://open.spotify.com/album/0KGv5Eo6JF7gck6HiqsA1S"
-      },
-      "artists": [
-        {
-          "name": "Cobalt",
-          "url": "https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Inside Celeste",
-      "url": "https://open.spotify.com/track/1F0gPy2GloSd4kh9rS26yc"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Inter-Dimensional Music",
         "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 200080,
       "name": "Crystal Petals",
       "url": "https://open.spotify.com/track/58FEt2axLMIzvw6LtGZAZP"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Collected Ambient & Textural Works 1977-1987",
+        "url": "https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq"
+      },
+      "artists": [
+        {
+          "name": "Michael Stearns",
+          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
+        }
+      ],
+      "duration_ms": 553800,
+      "name": "Elysian E",
+      "url": "https://open.spotify.com/track/27o1KeP2TefIvslGU9N2vQ"
     },
     {
       "added_at": "2023-08-18 14:02:54",

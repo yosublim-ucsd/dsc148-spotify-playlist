@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Twinkling Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-52 songs - 2 hr 57 min
+58 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,8 @@
 | [90's Love](https://open.spotify.com/track/64EDGnUytmCV7TfOo67810) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) | 3:33 | 2023-10-06 |  |
 | [A Song For You](https://open.spotify.com/track/2rZ9DFCQ1BvqGhEpwZY4xU) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [TwinkIing Watermelon \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3qgxfBEaP3OH8kM8PS5I07) | 3:54 | 2023-10-06 |  |
 | [A Song For You \- Instrumental](https://open.spotify.com/track/1nhPQPqx3hCMetweBmcIpG) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [TwinkIing Watermelon \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3qgxfBEaP3OH8kM8PS5I07) | 3:54 | 2023-10-06 |  |
+| [About loneliness](https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq) | 3:53 | 2023-10-25 |  |
+| [About loneliness \- Instrumental](https://open.spotify.com/track/3hIKQTSkysKIWfuehaX9c6) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq) | 3:53 | 2023-10-25 |  |
 | [After a long time\(Digging Club Seoul Ver.\)](https://open.spotify.com/track/3Kb84HFyDf5YRCt3GbbywY) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/0VlHbj4WLWabmo5NlIvLBq) | 4:10 | 2023-10-06 |  |
 | [As You Wish](https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [As You Wish](https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo) | 3:15 | 2023-10-06 |  |
 | [Aside](https://open.spotify.com/track/0szzXpjSNDfNOewFpe2JsT) | [KIM YEO MYUNG](https://open.spotify.com/artist/75Smk0h9bJWZsODXdTKMvP) | [Aside](https://open.spotify.com/album/3b52MvqG2zClRIomUl9g7j) | 3:50 | 2023-10-06 |  |
@@ -38,6 +40,8 @@
 | [Last night story](https://open.spotify.com/track/0EOWckhigz9Fd2qS5Foiqh) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 3:53 | 2023-10-06 |  |
 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 | 2023-10-06 |  |
 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2023-10-06 |  |
+| [Loveless Night](https://open.spotify.com/track/3D51P7X8MO6G6YaynJsprB) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/1uPd7ZyJe84CbFHoNco4ne) | 4:17 | 2023-10-25 |  |
+| [Loveless Night \- Instrumental](https://open.spotify.com/track/5iCmFZXRguqfltPzDxlsBY) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/1uPd7ZyJe84CbFHoNco4ne) | 4:18 | 2023-10-25 |  |
 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-10-06 |  |
 | [MY WAY](https://open.spotify.com/track/6w4QiIpOwtNKDMQBXBkBCS) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [STILL ON MY WAY](https://open.spotify.com/album/6aR92xjZNT47PxQDhQb4wC) | 3:27 | 2023-10-06 |  |
 | [Ring Ring Ring](https://open.spotify.com/track/4Z4RbMEkfPGncaFxfSl61v) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [VERI\-US](https://open.spotify.com/album/0Lztj1OhIc36IZ72Tefv9i) | 3:06 | 2023-10-06 |  |
@@ -54,6 +58,8 @@
 | [Voyage](https://open.spotify.com/track/3rmpG6Vtgt3L7aLhbk5RKv) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Door](https://open.spotify.com/album/5MO48BnK6X9VlYtFHpJtvy) | 3:30 | 2023-10-06 |  |
 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 | 2023-10-06 |  |
 | [White night](https://open.spotify.com/track/7oSP7hAMuF1R31jp8HnkfH) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [White night](https://open.spotify.com/album/2Fqe1wd9tWMAWNye43ZZKW) | 3:37 | 2023-10-06 |  |
+| [You’re Precious](https://open.spotify.com/track/0grAbqXDOJDerhzeYB4wy3) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/1UwKfiByjSWdIt2xGiE0Ig) | 3:17 | 2023-10-25 |  |
+| [You’re Precious \- Instrumental](https://open.spotify.com/track/3vfKwI37sjz161GNU7dv9A) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/1UwKfiByjSWdIt2xGiE0Ig) | 3:17 | 2023-10-25 |  |
 | [밤이 깊었네 Oh! What a Shiny Night](https://open.spotify.com/track/71yXrG7UY3myMhpn2QiMh4) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [하수연가 Poor Hand Love Song](https://open.spotify.com/album/6PGzupR5yrD7zTw4FgDA5M) | 4:08 | 2023-10-06 |  |
 | [넌 내게 반했어](https://open.spotify.com/track/1Bjds5pJTvgzlheWp1oHGo) | [No Brain](https://open.spotify.com/artist/6keuCA49b9am8lisSodCh7) | [Stand Up Again!](https://open.spotify.com/album/2qO7VvHG10c8nBPsiH1Va3) | 3:43 | 2023-10-06 |  |
 | [널 좋아하고 있어 I'm Into You \(with\. Kirin, Dala, Jungu\)](https://open.spotify.com/track/71Ogm7o9KbXrgGsUafjvy3) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [Dala](https://open.spotify.com/artist/1CvhwMuHPz3oLJEOv66fOg), [Jungu](https://open.spotify.com/artist/1wDD7jPUpGh3BOtRHmy8bX) | [널 좋아하고 있어 I'm Into You](https://open.spotify.com/album/0iBM2Yvh95b7bh1oQHkkyY) | 4:33 | 2023-10-06 |  |

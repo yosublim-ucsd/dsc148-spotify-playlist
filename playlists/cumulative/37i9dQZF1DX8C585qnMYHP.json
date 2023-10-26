@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 706000,
       "name": "27 Glass Ceilings",
       "url": "https://open.spotify.com/track/1b12pTqgdXTuD4GRSRFAQj"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 508603,
       "name": "Alcyone",
       "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
@@ -2246,10 +2246,28 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 284000,
       "name": "Asleep",
       "url": "https://open.spotify.com/track/7fE3ZAc2j7Z5Y4gQwW1lB0"
+    },
+    {
+      "album": {
+        "name": "Assim",
+        "url": "https://open.spotify.com/album/5tnZGrsPtDVAHePDI2TIun"
+      },
+      "artists": [
+        {
+          "name": "Xexa",
+          "url": "https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128750,
+      "name": "Assim",
+      "url": "https://open.spotify.com/track/5QsxLzOb24HfclGs6BLEt1"
     },
     {
       "album": {
@@ -2430,7 +2448,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 261433,
       "name": "Attrition",
       "url": "https://open.spotify.com/track/2jehW2Iv3rbQnEFrAdrAjz"
@@ -5207,6 +5225,24 @@
     },
     {
       "album": {
+        "name": "Compa\u00f1era de la pena",
+        "url": "https://open.spotify.com/album/4NYLzcP1P3NPJQTO7GbG5r"
+      },
+      "artists": [
+        {
+          "name": "REHHLL",
+          "url": "https://open.spotify.com/artist/724iTm2hBMu6dcBIcrazRx"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207021,
+      "name": "Compa\u00f1era de la pena",
+      "url": "https://open.spotify.com/track/17NVLM8kvDwED2uqCx6FCk"
+    },
+    {
+      "album": {
         "name": "earth capsules",
         "url": "https://open.spotify.com/album/77iqowJ7zGYecT0jakOD8z"
       },
@@ -5302,6 +5338,24 @@
       "duration_ms": 349329,
       "name": "Continuity",
       "url": "https://open.spotify.com/track/168bFZlKoeY8iLeBf9W8e0"
+    },
+    {
+      "album": {
+        "name": "Mezz'Aller",
+        "url": "https://open.spotify.com/album/41DJZPj8K5fIE7oM7iJ0JD"
+      },
+      "artists": [
+        {
+          "name": "Malad\u00e9",
+          "url": "https://open.spotify.com/artist/4pLZb6eSKa9V8EB0vF0VTl"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Contrabbando",
+      "url": "https://open.spotify.com/track/08pJydMv87jAQmuy2PGqK6"
     },
     {
       "album": {
@@ -5979,6 +6033,24 @@
     },
     {
       "album": {
+        "name": "depois do sonho, s\u00f3 a saudade de quem nunca fomos",
+        "url": "https://open.spotify.com/album/2dejoMCn59YdyfVP5ICt6a"
+      },
+      "artists": [
+        {
+          "name": "Gil Dion\u00edsio",
+          "url": "https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 667000,
+      "name": "depois do sonho, s\u00f3 a saudade de quem nunca fomos",
+      "url": "https://open.spotify.com/track/3u5W72Xf3KTreCDcQDSxhu"
+    },
+    {
+      "album": {
         "name": "Weisheit aus des Kindes Mund tut uns stets die Wahrheit kund",
         "url": "https://open.spotify.com/album/28dWBubs4Bm3Xp2yKFQVi8"
       },
@@ -6066,7 +6138,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 149626,
       "name": "Desendere\u00e7ada",
       "url": "https://open.spotify.com/track/5YB4GUHEoX2rMwseiRpdkG"
@@ -6992,7 +7064,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 320640,
       "name": "Eating food and fighting Wizards",
       "url": "https://open.spotify.com/track/6WpwLD1ybIjeb5xnoJlA5h"
@@ -9501,6 +9573,24 @@
     },
     {
       "album": {
+        "name": "FUTURA 2000",
+        "url": "https://open.spotify.com/album/1S6SYtisVAy2Nx4R4aLAPp"
+      },
+      "artists": [
+        {
+          "name": "San Leo",
+          "url": "https://open.spotify.com/artist/1g7G97GbkEAtBcEiMFVJdy"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 704253,
+      "name": "FUTURA 2000",
+      "url": "https://open.spotify.com/track/7taqxrAe5xltbEdeamlD0m"
+    },
+    {
+      "album": {
         "name": "Jaguar",
         "url": "https://open.spotify.com/album/3jSsWkEw99Vi36G1GFezGv"
       },
@@ -10452,7 +10542,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 90266,
       "name": "HAXAN",
       "url": "https://open.spotify.com/track/1BrVmVhe95wzB4wLw1KztV"
@@ -10954,6 +11044,24 @@
       "duration_ms": 378499,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/7ED7AVTiTcsnMPAQ95hUtK"
+    },
+    {
+      "album": {
+        "name": "Islands, Pt. 3",
+        "url": "https://open.spotify.com/album/6XFN9uEpCDmHwoRpYVzzTZ"
+      },
+      "artists": [
+        {
+          "name": "Jupi/ter",
+          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301445,
+      "name": "Hounds",
+      "url": "https://open.spotify.com/track/0wdxA7IX2xfcOMyF47WXFm"
     },
     {
       "album": {
@@ -12209,6 +12317,24 @@
     },
     {
       "album": {
+        "name": "HEAVEN",
+        "url": "https://open.spotify.com/album/4c9WLUSIr93MPolYtdeGdK"
+      },
+      "artists": [
+        {
+          "name": "UNCIVILIZED GIRLS MEMORY",
+          "url": "https://open.spotify.com/artist/01UvG1nVdhGv3bF6VVIT2H"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75518,
+      "name": "Incubator",
+      "url": "https://open.spotify.com/track/4yV0SSifaLWmDDiCLAewH1"
+    },
+    {
+      "album": {
         "name": "Inc\u00f3gnita",
         "url": "https://open.spotify.com/album/6nV0cetUOLGOtM7Wbrg7h9"
       },
@@ -12242,6 +12368,24 @@
       "duration_ms": 248074,
       "name": "Infinite Spin",
       "url": "https://open.spotify.com/track/6NVCeKcMGdTIFbaTKhraFM"
+    },
+    {
+      "album": {
+        "name": "The Infinite Hour",
+        "url": "https://open.spotify.com/album/7uNdcqyAS2lganZAE5FkTc"
+      },
+      "artists": [
+        {
+          "name": "Furtherset",
+          "url": "https://open.spotify.com/artist/0FVPfTfv7z6ZQUZwyOD2EV"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385016,
+      "name": "Infinity of Stasis",
+      "url": "https://open.spotify.com/track/4cIeV58evWPE5jInvjirNK"
     },
     {
       "album": {
@@ -12840,7 +12984,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 262675,
       "name": "ISSUES (INTRO)",
       "url": "https://open.spotify.com/track/201Y0nLSCr6ql1ueJlMPsT"
@@ -13082,6 +13226,24 @@
       "duration_ms": 354031,
       "name": "J\u00e1 n\u00e3o consigo mais, mas vou continuar",
       "url": "https://open.spotify.com/track/7GUaRliFFYyWV2NuUPjsPh"
+    },
+    {
+      "album": {
+        "name": "k00ky",
+        "url": "https://open.spotify.com/album/6AACE0NmIuO7L6xfwA5Qz5"
+      },
+      "artists": [
+        {
+          "name": "wh0wh0",
+          "url": "https://open.spotify.com/artist/7bf0hNbZUch3Fcc33forpw"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179760,
+      "name": "k00ky",
+      "url": "https://open.spotify.com/track/7CgPSGWTtmFOIRhND4GThX"
     },
     {
       "album": {
@@ -14911,6 +15073,24 @@
     },
     {
       "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227212,
+      "name": "Mata Hari",
+      "url": "https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs"
+    },
+    {
+      "album": {
         "name": "Cracks",
         "url": "https://open.spotify.com/album/0SKz3oXHcgtANIjmTDO2yJ"
       },
@@ -15854,7 +16034,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 84180,
       "name": "Monument to Possibilities",
       "url": "https://open.spotify.com/track/56sdpPGIid7f1GkzibrJXV"
@@ -17402,6 +17582,24 @@
       "duration_ms": 226363,
       "name": "Obsolete",
       "url": "https://open.spotify.com/track/2EUCeNjwKHay4iWbR3a9xk"
+    },
+    {
+      "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/0ESqmNRSe1gA2yXIJmopkP"
+      },
+      "artists": [
+        {
+          "name": "Mejiwahn",
+          "url": "https://open.spotify.com/artist/5nwqAZGgbbZOuK11nRCGyj"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196996,
+      "name": "October",
+      "url": "https://open.spotify.com/track/4BlcZJBXjWCffLynTahdVD"
     },
     {
       "album": {
@@ -19930,7 +20128,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 313986,
       "name": "Rising",
       "url": "https://open.spotify.com/track/2Cq40mHbccRMKxlHaAmsVe"
@@ -20024,7 +20222,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 114886,
       "name": "Room of Fear",
       "url": "https://open.spotify.com/track/0Xla3rLHq8UmkD0DX6J9hm"
@@ -21414,7 +21612,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 167462,
       "name": "Sleep Bag",
       "url": "https://open.spotify.com/track/0h4MS5onjOSx9v1vbeuoQX"
@@ -23933,6 +24131,24 @@
     },
     {
       "album": {
+        "name": "DESOLATION",
+        "url": "https://open.spotify.com/album/2xAK7yGGfnLgyG771lfhWJ"
+      },
+      "artists": [
+        {
+          "name": "REBEL YELL",
+          "url": "https://open.spotify.com/artist/08BlEXQUX2YD1cGlk9RBNw"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212465,
+      "name": "The Hell We Chose",
+      "url": "https://open.spotify.com/track/4wwDdd8G1kkBlMZ5FjbgYe"
+    },
+    {
+      "album": {
         "name": "X, wheel",
         "url": "https://open.spotify.com/album/4MP0bGQuOwHUt0JchikNLm"
       },
@@ -25473,6 +25689,24 @@
     },
     {
       "album": {
+        "name": "Trementina",
+        "url": "https://open.spotify.com/album/5KnGI6HyME7eLLoGP9DZwN"
+      },
+      "artists": [
+        {
+          "name": "Torso Corso",
+          "url": "https://open.spotify.com/artist/4M6TN8LGWYXUoezRTUp8F8"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127652,
+      "name": "Trementina",
+      "url": "https://open.spotify.com/track/1kqh6ZavA3h4PpkRAJgG8o"
+    },
+    {
+      "album": {
         "name": "Within the Walls",
         "url": "https://open.spotify.com/album/67hhASFStWey2401rj5TVJ"
       },
@@ -26760,7 +26994,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 407434,
       "name": "Vibrant Books",
       "url": "https://open.spotify.com/track/0ZrSKZdcURiYrk85Z3XrT6"
@@ -26812,6 +27046,28 @@
       "duration_ms": 313708,
       "name": "VICIS27",
       "url": "https://open.spotify.com/track/0co99JWt7OUMye6JDHTz31"
+    },
+    {
+      "album": {
+        "name": "Accela",
+        "url": "https://open.spotify.com/album/36RmzcuTO4QTi7FaKW4QtX"
+      },
+      "artists": [
+        {
+          "name": "Lila Tirando a Violeta",
+          "url": "https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx"
+        },
+        {
+          "name": "Sin Maldita",
+          "url": "https://open.spotify.com/artist/1HkwulQDUEiddSaIqlWTFJ"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199150,
+      "name": "Viconian Cycles",
+      "url": "https://open.spotify.com/track/7iFWNZWamXLZBtQjCV07AO"
     },
     {
       "album": {
@@ -26996,7 +27252,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 353250,
       "name": "V\u00e4ter und S\u00f6hne",
       "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
@@ -27076,6 +27332,24 @@
       "duration_ms": 173061,
       "name": "Wait Up",
       "url": "https://open.spotify.com/track/79uDI5OnWIIj4Za02naBzE"
+    },
+    {
+      "album": {
+        "name": "Wake In Might",
+        "url": "https://open.spotify.com/album/0nagJCtUtrv3ap1WEQexiQ"
+      },
+      "artists": [
+        {
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211459,
+      "name": "Wake In Might",
+      "url": "https://open.spotify.com/track/5Ad2MmfRQlCue9adixQyrw"
     },
     {
       "album": {
@@ -27422,7 +27696,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 260571,
       "name": "West Peak",
       "url": "https://open.spotify.com/track/11woWQDGXwLOKQ4ofuPdqj"

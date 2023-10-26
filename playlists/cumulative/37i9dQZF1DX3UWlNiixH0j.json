@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Bad days on fire",
+        "url": "https://open.spotify.com/album/1Fx70lGxsoGzHTlN6sAaxq"
+      },
+      "artists": [
+        {
+          "name": "Mom",
+          "url": "https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136182,
+      "name": "Bad days on fire",
+      "url": "https://open.spotify.com/track/4rO0BIc1vZXXoIM7kF1mqg"
+    },
+    {
+      "album": {
         "name": "ANORAK! / DIMWORK",
         "url": "https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ"
       },
@@ -1640,6 +1658,24 @@
       "duration_ms": 145632,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/0cubeAWj2WxZdoz7Nvf1VQ"
+    },
+    {
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/26qsJ7CMOmkXqjimRYw5DR"
+      },
+      "artists": [
+        {
+          "name": "Seikatsu no Sekkei",
+          "url": "https://open.spotify.com/artist/6xM4LUYF3ZCeNOU3sgfrCT"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192272,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/59y9GUXiEpeav1iDh3uAy4"
     },
     {
       "album": {
@@ -13026,7 +13062,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 192272,
       "name": "\u30ad\u30e3\u30ed\u30e9\u30a4\u30f3",
       "url": "https://open.spotify.com/track/2QVLcKnAZOa4kcvflcN0G6"
@@ -13642,7 +13678,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 136182,
       "name": "\u30d0\u30c3\u30c9\u30c7\u30a4\u30ba\u30fb\u30aa\u30f3\u30d5\u30a1\u30a4\u30e4\u30fc",
       "url": "https://open.spotify.com/track/6XuHRXgiGEpxs03w47OGy1"
@@ -14260,8 +14296,8 @@
       },
       "artists": [
         {
-          "name": "\u6298\u5742\u60a0\u592a",
-          "url": "https://open.spotify.com/artist/5Zy5Fg9iN1KSkrtVAsc7r3"
+          "name": "Yuta Orisaka",
+          "url": "https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH"
         }
       ],
       "date_added": "2023-10-24",

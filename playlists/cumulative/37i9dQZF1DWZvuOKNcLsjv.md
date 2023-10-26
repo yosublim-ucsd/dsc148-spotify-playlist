@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: BoyWithUke
 
-2,236 songs - 5 day 10 hr 23 min
+2,237 songs - 5 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [biscuit](https://open.spotify.com/track/4zG5UsMy6ZsGppfPijtzAY) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [原作](https://open.spotify.com/album/3V4cs5j2lb4uXz3k4gk2zc) | 3:18 | 2023-09-03 | 2023-09-18 |
 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 | 2023-05-28 | 2023-07-03 |
 | [Bite Me \- Japanese Ver.](https://open.spotify.com/track/0INxaaPlo9DnT0OYEzHdsk) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [結 \-YOU\-](https://open.spotify.com/album/6mPOqqTNfS3p7BlDMCy07r) | 2:38 | 2023-09-10 | 2023-09-25 |
-| [Bitter](https://open.spotify.com/track/4QuqtDZyTUmxJgGbsi1QAB) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Worldfly](https://open.spotify.com/album/46OkEoB1mHajNm6pIGXUCc) | 3:05 | 2023-10-08 |  |
+| [Bitter](https://open.spotify.com/track/2x6Vk4wODhe8AMnKZI1rGg) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Worldfly](https://open.spotify.com/album/04MIBSttVqz8KMppZWvheC) | 3:05 | 2023-10-23 |  |
+| [Bitter](https://open.spotify.com/track/4QuqtDZyTUmxJgGbsi1QAB) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Worldfly](https://open.spotify.com/album/46OkEoB1mHajNm6pIGXUCc) | 3:05 | 2023-10-08 | 2023-10-26 |
 | [Bitter & Sweet](https://open.spotify.com/track/40cHd1v1yBXs6zwUdkRMdl) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [Bitter & Sweet](https://open.spotify.com/album/6qX5IECVTweyHFQzNGS2Lx) | 4:22 | 2023-06-25 | 2023-07-03 |
 | [Black Chocolate](https://open.spotify.com/track/52hKZ9AOrKYP5PNbn3qkud) | [Panorama Panama Town](https://open.spotify.com/artist/7sfAmVy66Zdt9ykZwcg7hf) | [Black Chocolate](https://open.spotify.com/album/0PAczNH9xSxffrYBruVVRB) | 3:39 | 2023-06-25 | 2023-07-03 |
 | [BLACK COFFEE](https://open.spotify.com/track/7nVJUCN42beJPJbEbn1lwr) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [BLACK COFFEE](https://open.spotify.com/album/7nlneqSLyMw8mNmqZTAbFm) | 2:59 | 2023-03-26 | 2023-04-17 |

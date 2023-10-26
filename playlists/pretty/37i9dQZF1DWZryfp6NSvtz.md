@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: YUNGBLUD & Oli Sykes
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,996 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,257 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,20 +22,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 12 | [bella](https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [bella / i can't find anyone](https://open.spotify.com/album/3AJEvGdq17HHvF20ITVbD7) | 3:19 |
 | 13 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
 | 14 | [Perfect](https://open.spotify.com/track/5Vfl6AYr1PyG4BcEMIr8oT) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Perfect](https://open.spotify.com/album/7Ecotv7Pdu4utXTqulJ45n) | 2:33 |
-| 15 | [Constant Headache](https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8), [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Constant Headache](https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK) | 3:01 |
-| 16 | [Dig Deep](https://open.spotify.com/track/4r2zyY2HUhFe0MMU7M3JFU) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk), [New Medicine](https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr) | [Dig Deep](https://open.spotify.com/album/3CoJ4WWhxFDDkFWjYLnPHU) | 2:54 |
-| 17 | [I Don't Know You](https://open.spotify.com/track/43DsSmYR7rk3LKnyY8wkGI) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Don't Know You](https://open.spotify.com/album/0zT2ilSANN1bLI7gV6lqCl) | 3:44 |
-| 18 | [Black Balloons](https://open.spotify.com/track/6GcGjg0IfSzcnlrATESE4S) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Black Balloons](https://open.spotify.com/album/6i1eBfd25KyOdtOaZpeJxW) | 1:53 |
+| 15 | [Dig Deep](https://open.spotify.com/track/4r2zyY2HUhFe0MMU7M3JFU) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk), [New Medicine](https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr) | [Dig Deep](https://open.spotify.com/album/3CoJ4WWhxFDDkFWjYLnPHU) | 2:54 |
+| 16 | [Constant Headache](https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8), [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Constant Headache](https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK) | 3:01 |
+| 17 | [Black Balloons](https://open.spotify.com/track/6GcGjg0IfSzcnlrATESE4S) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Black Balloons](https://open.spotify.com/album/6i1eBfd25KyOdtOaZpeJxW) | 1:53 |
+| 18 | [I Don't Know You](https://open.spotify.com/track/43DsSmYR7rk3LKnyY8wkGI) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Don't Know You](https://open.spotify.com/album/0zT2ilSANN1bLI7gV6lqCl) | 3:44 |
 | 19 | [Mosaic](https://open.spotify.com/track/7nVJdyUy7Lfv9JBltR5kGU) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [LIGHTBRINGER](https://open.spotify.com/album/51CoENXtQxKfwEfvxRHyDN) | 5:34 |
 | 20 | [MIRACLE](https://open.spotify.com/track/5nzB0LJDNELDNb06PQMrWF) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [SUNDAY AT FOXWOODS](https://open.spotify.com/album/6YYgBgZ9yBTZ0l0Wpk9NSQ) | 3:00 |
 | 21 | [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 |
 | 22 | [Headhunters](https://open.spotify.com/track/0e2UXJVBkra5oNKMoOF9BH) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [Headhunters](https://open.spotify.com/album/0bPoR7rKYRoePTxcO69c5k) | 3:04 |
 | 23 | [Time Of Your Life](https://open.spotify.com/track/3MANuRQlw4dMMENY8gzcYl) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Time Of Your Life](https://open.spotify.com/album/7o2pbWYW58zhZiSHi6op6b) | 3:07 |
 | 24 | [PUZZLE](https://open.spotify.com/track/7haqUwA8ZHrKeeOXrgvflw) | [Blackout Problems](https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM) | [PUZZLE](https://open.spotify.com/album/38Eomo7Jhv27NPUiLjveJR) | 3:11 |
-| 25 | [Coming Home \(Ballad of the Shire\)](https://open.spotify.com/track/5eZVBnHekzKt790vYQeBDH) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Coming Home \(Ballad of the Shire\)](https://open.spotify.com/album/2gNks1RYLTStziHLRWewFY) | 3:14 |
-| 26 | [Hey Ma'am](https://open.spotify.com/track/4lDGAsQptqNAZjhr78YHri) | [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Find Me A Cloud](https://open.spotify.com/album/2NCFSe9Fl6kaso0babK0BS) | 2:39 |
-| 27 | [Real House](https://open.spotify.com/track/5tSRQ8rHKsdugZfTvcSC9b) | [Nicotine Dolls](https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM) | [Real House](https://open.spotify.com/album/2JEHhhFuzARxdJShcHpqxK) | 3:46 |
-| 28 | [Still Dreaming](https://open.spotify.com/track/12rdCy6mfXy7vwU1GN8Slk) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Still Dreaming](https://open.spotify.com/album/4s9PEviBVvvWwk35bJOWcW) | 3:34 |
+| 25 | [Real House](https://open.spotify.com/track/5tSRQ8rHKsdugZfTvcSC9b) | [Nicotine Dolls](https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM) | [Real House](https://open.spotify.com/album/2JEHhhFuzARxdJShcHpqxK) | 3:46 |
+| 26 | [Coming Home \(Ballad of the Shire\)](https://open.spotify.com/track/5eZVBnHekzKt790vYQeBDH) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Coming Home \(Ballad of the Shire\)](https://open.spotify.com/album/2gNks1RYLTStziHLRWewFY) | 3:14 |
+| 27 | [Still Dreaming](https://open.spotify.com/track/12rdCy6mfXy7vwU1GN8Slk) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Still Dreaming](https://open.spotify.com/album/4s9PEviBVvvWwk35bJOWcW) | 3:34 |
+| 28 | [Hey Ma'am](https://open.spotify.com/track/4lDGAsQptqNAZjhr78YHri) | [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Find Me A Cloud](https://open.spotify.com/album/2NCFSe9Fl6kaso0babK0BS) | 2:39 |
 | 29 | [Rotten Soul](https://open.spotify.com/track/7q36ObsjScn8spZ1w1VOUC) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [Rotten Soul](https://open.spotify.com/album/0L0df4kAmYN3iocYLf6MFI) | 3:13 |
 | 30 | [Let Go](https://open.spotify.com/track/4rwIVNZDiswV0wXcLdtceO) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Let Go](https://open.spotify.com/album/195upAWApmh2TbhBjUKlAt) | 4:13 |
 | 31 | [Dramamine](https://open.spotify.com/track/4LkUIkfIw7f3l7eJnOj9OW) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Dramamine](https://open.spotify.com/album/1RgOz8zYC5GKsZEZPjQ0pT) | 2:57 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 40 | [Superman\(ic\)](https://open.spotify.com/track/2NZ6l7ZaO5hACwRpbw9a7n) | [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [Alligator Death Roll](https://open.spotify.com/album/6Z1dLwNlEQb9LpVCktBTCZ) | 3:27 |
 | 41 | [Moon Chasers](https://open.spotify.com/track/5FQSHEXB1gJj1CAjHlbC28) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Melanin Punk](https://open.spotify.com/album/0l0pfg7fOxU9YHQkHhXTTD) | 3:23 |
 | 42 | [Chalk](https://open.spotify.com/track/4Cvpb8DicKbLSiftBmac99) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Chalk](https://open.spotify.com/album/5tN7YlTteG5wZV44sNx1r6) | 2:29 |
-| 43 | [Big Fish](https://open.spotify.com/track/7kY5rVq2LKZN2bjVryVN7A) | [Snarls](https://open.spotify.com/artist/3yZV7kMGClXfw0xaPAlImS) | [Big Fish](https://open.spotify.com/album/5FFr5TtGcTd1QGjSd7eVLG) | 3:28 |
-| 44 | [The Rut](https://open.spotify.com/track/6O921pnzJsmZgWuzHLzibG) | [Hideous](https://open.spotify.com/artist/0vvVC09B2npGGn1h67PcNy) | [The Rut](https://open.spotify.com/album/3uHts8w3FamF22xBjust3E) | 3:48 |
+| 43 | [The Rut](https://open.spotify.com/track/6O921pnzJsmZgWuzHLzibG) | [Hideous](https://open.spotify.com/artist/0vvVC09B2npGGn1h67PcNy) | [The Rut](https://open.spotify.com/album/3uHts8w3FamF22xBjust3E) | 3:48 |
+| 44 | [Big Fish](https://open.spotify.com/track/7kY5rVq2LKZN2bjVryVN7A) | [Snarls](https://open.spotify.com/artist/3yZV7kMGClXfw0xaPAlImS) | [Big Fish](https://open.spotify.com/album/5FFr5TtGcTd1QGjSd7eVLG) | 3:28 |
 | 45 | [Perspectives](https://open.spotify.com/track/6LqFc2I827LegWXB5XrxdN) | [Yvet Garden](https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7) | [A Long Way Down](https://open.spotify.com/album/0d8AlqicIHRdpouq35moLq) | 4:07 |
 | 46 | [Scatterbrain](https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Life Is Unfair](https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo) | 2:15 |
 | 47 | [Cold Water Swim](https://open.spotify.com/track/0sUCO8NGZhMG7IXRZ9IQjr) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Cold Water Swim](https://open.spotify.com/album/0awhRPFIuizXkso3zAiwWb) | 2:51 |
 | 48 | [The Weather Song](https://open.spotify.com/track/2OXsiCgkmUbfP6DoaQniaK) | [TA GA DA](https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5) | [The Weather Song](https://open.spotify.com/album/3KZmLwH0oI1MVeu6OUSAEX) | 3:45 |
 | 49 | [700m²](https://open.spotify.com/track/572uU6bg1zMbcwSA8ML67d) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [The Ethereal Beauty](https://open.spotify.com/album/1cJNcIoEZmIWDQHfO7N3b9) | 3:05 |
 
-Snapshot ID: `MCxjMDYxOTFmZmI3Mzk2YzY4NjYxNzYyNTgzYTQ4NWM3MDY4M2Y5MzQ1`
+Snapshot ID: `MCw0Yzg4OGI1OWY5YjkyZTgxMDkxMDRmMTEwM2E0MTNiNGE2MmJmNjA4`

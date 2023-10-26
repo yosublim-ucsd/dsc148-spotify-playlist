@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. Foto: Juliana Gattas",
-  "num_followers": 39420,
+  "num_followers": 39425,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGJiMjQwOWY5ZmQ4NDc2NzNjOGY2ZDY4YmNhYzk3NjkyNGNjNjBh",
+  "snapshot_id": "MCxmZGU1N2U2OWZhN2Y0OTMxMWI0YTExZTEwN2Y5ZTljZjJkMzE3NGIw",
   "tracks": [
     {
       "added_at": "2023-10-04 03:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "Llorar en un ba\u00f1o p\u00fablico",
-        "url": "https://open.spotify.com/album/7z1h9TLRvhebaSIwuLIFFA"
-      },
-      "artists": [
-        {
-          "name": "Babeblade",
-          "url": "https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm"
-        }
-      ],
-      "duration_ms": 167665,
-      "name": "sola otra vez",
-      "url": "https://open.spotify.com/track/65tHJ2o2hFDyBPghXWLYtv"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
         "name": "mejor me voy: )",
         "url": "https://open.spotify.com/album/0eCGqjEYwS7cAR0mUyi5cs"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 182591,
       "name": "mejor me voy :)",
       "url": "https://open.spotify.com/track/6gLruHcjm2ZS2JFMsLbBOY"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
+        "name": "Llorar en un ba\u00f1o p\u00fablico",
+        "url": "https://open.spotify.com/album/7z1h9TLRvhebaSIwuLIFFA"
+      },
+      "artists": [
+        {
+          "name": "Babeblade",
+          "url": "https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm"
+        }
+      ],
+      "duration_ms": 167665,
+      "name": "sola otra vez",
+      "url": "https://open.spotify.com/track/65tHJ2o2hFDyBPghXWLYtv"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "A Veces No Da",
-        "url": "https://open.spotify.com/album/6pWQ8icbcWlDOSmrPA6XC5"
-      },
-      "artists": [
-        {
-          "name": "La Femme D\u00b4Argent",
-          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
-        }
-      ],
-      "duration_ms": 194750,
-      "name": "A Veces No Da",
-      "url": "https://open.spotify.com/track/4oSj4VDcYCjt74sswuw7Ou"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
         "name": "Affaire",
         "url": "https://open.spotify.com/album/43wkXdPtvXxK5q3Wsh4ljE"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 179250,
       "name": "Despejarte",
       "url": "https://open.spotify.com/track/1FLNgasNG7B2OXdJKplNCd"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
+        "name": "A Veces No Da",
+        "url": "https://open.spotify.com/album/6pWQ8icbcWlDOSmrPA6XC5"
+      },
+      "artists": [
+        {
+          "name": "La Femme D\u00b4Argent",
+          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
+        }
+      ],
+      "duration_ms": 194750,
+      "name": "A Veces No Da",
+      "url": "https://open.spotify.com/track/4oSj4VDcYCjt74sswuw7Ou"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "Festejar",
-        "url": "https://open.spotify.com/album/160XSHPMZFnnDpPH9sUxdY"
-      },
-      "artists": [
-        {
-          "name": "Emme",
-          "url": "https://open.spotify.com/artist/46V95jm2XMU8IyaKSXjSfW"
-        }
-      ],
-      "duration_ms": 228290,
-      "name": "Festejar",
-      "url": "https://open.spotify.com/track/2Pl3nggNkBrthtJofSiPfh"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
         "name": "POR TRES MONEDAS",
         "url": "https://open.spotify.com/album/2HZRPWMv3X3yVv1QnIyZlT"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 233836,
       "name": "POR TRES MONEDAS",
       "url": "https://open.spotify.com/track/56cCFw8FHk7W5Sj6kLYseJ"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
+        "name": "Festejar",
+        "url": "https://open.spotify.com/album/160XSHPMZFnnDpPH9sUxdY"
+      },
+      "artists": [
+        {
+          "name": "Emme",
+          "url": "https://open.spotify.com/artist/46V95jm2XMU8IyaKSXjSfW"
+        }
+      ],
+      "duration_ms": 228290,
+      "name": "Festejar",
+      "url": "https://open.spotify.com/track/2Pl3nggNkBrthtJofSiPfh"
     },
     {
       "added_at": "2023-10-04 03:00:00",

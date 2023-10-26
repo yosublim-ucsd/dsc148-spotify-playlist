@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 234949,
+  "num_followers": 235007,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2I3MzczMjFlNjgyMmJkNGQwY2NkYTc5M2Y2MTU5YzBkNmI0YTA0",
+  "snapshot_id": "MCw4NDBmZjBkNzFmZGY1NDA3NWZmYzI2ZjM3ODE2YTkxMjFhNDUzMGU4",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "January Flower (Deluxe)",
-        "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
+        "name": "Searching For",
+        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
       },
       "artists": [
         {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
         }
       ],
-      "duration_ms": 203874,
-      "name": "Save Me - Bonus Track",
-      "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
+      "duration_ms": 255118,
+      "name": "Searching For",
+      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Searching For",
-        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
+        "name": "January Flower (Deluxe)",
+        "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
       },
       "artists": [
         {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
         }
       ],
-      "duration_ms": 255118,
-      "name": "Searching For",
-      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
+      "duration_ms": 203874,
+      "name": "Save Me - Bonus Track",
+      "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV"
+      },
+      "artists": [
+        {
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        }
+      ],
+      "duration_ms": 249495,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "WILD THINGS",
         "url": "https://open.spotify.com/album/5XaKKyhMqIAie5hIND1f6i"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 183000,
       "name": "WILD THINGS",
       "url": "https://open.spotify.com/track/1l6q0BU9csN5AEvVBdyc2l"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV"
-      },
-      "artists": [
-        {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        }
-      ],
-      "duration_ms": 249495,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Every Morning",
-        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
-      },
-      "artists": [
-        {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "No Greater Love",
         "url": "https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 199306,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Every Morning",
+        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
+      },
+      "artists": [
+        {
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Fall On The Nation",
-        "url": "https://open.spotify.com/album/2U41cpJltmjsWVXhcNrEML"
-      },
-      "artists": [
-        {
-          "name": "Pennell",
-          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
-        },
-        {
-          "name": "Corry Robinson",
-          "url": "https://open.spotify.com/artist/2bOO4AHJ9Y4CGsHFMpdhXv"
-        }
-      ],
-      "duration_ms": 272170,
-      "name": "Fall On The Nation",
-      "url": "https://open.spotify.com/track/3fFsDBcFycQogyVzen7PQX"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz"
       },
@@ -1355,18 +1335,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Stream",
-        "url": "https://open.spotify.com/album/4OxKwDgLuX1kuIqJh7AF7Q"
+        "name": "Fall On The Nation",
+        "url": "https://open.spotify.com/album/2U41cpJltmjsWVXhcNrEML"
       },
       "artists": [
         {
-          "name": "BEACH W",
-          "url": "https://open.spotify.com/artist/1sHJFAgrPJokmkPDinDuyp"
+          "name": "Pennell",
+          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
+        },
+        {
+          "name": "Corry Robinson",
+          "url": "https://open.spotify.com/artist/2bOO4AHJ9Y4CGsHFMpdhXv"
         }
       ],
-      "duration_ms": 283707,
-      "name": "Stream",
-      "url": "https://open.spotify.com/track/4KOP4xmCdhMu6trazcOdy6"
+      "duration_ms": 272170,
+      "name": "Fall On The Nation",
+      "url": "https://open.spotify.com/track/3fFsDBcFycQogyVzen7PQX"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1383,6 +1367,22 @@
       "duration_ms": 199005,
       "name": "Give My All",
       "url": "https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Stream",
+        "url": "https://open.spotify.com/album/4OxKwDgLuX1kuIqJh7AF7Q"
+      },
+      "artists": [
+        {
+          "name": "BEACH W",
+          "url": "https://open.spotify.com/artist/1sHJFAgrPJokmkPDinDuyp"
+        }
+      ],
+      "duration_ms": 283707,
+      "name": "Stream",
+      "url": "https://open.spotify.com/track/4KOP4xmCdhMu6trazcOdy6"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Break Out (Live)",
-        "url": "https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2"
-      },
-      "artists": [
-        {
-          "name": "Woodlands Worship",
-          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "Break Out - Live",
-      "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Coming Clean",
         "url": "https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Break Out (Live)",
+        "url": "https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2"
+      },
+      "artists": [
+        {
+          "name": "Woodlands Worship",
+          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "Break Out - Live",
+      "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 232703,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "We Won't Bow",
+        "url": "https://open.spotify.com/album/6uVhZExWu73pEfcx9TDXew"
+      },
+      "artists": [
+        {
+          "name": "Kamban",
+          "url": "https://open.spotify.com/artist/0mBDRW65svvamuKzjyB5uP"
+        }
+      ],
+      "duration_ms": 172552,
+      "name": "We Won't Bow",
+      "url": "https://open.spotify.com/track/4ojRBPB2zTHdEN1k7Xjf2U"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1595,22 +1611,6 @@
       "duration_ms": 204000,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/0HgPrONoZRbbsRxsTJgtg3"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "We Won't Bow",
-        "url": "https://open.spotify.com/album/6uVhZExWu73pEfcx9TDXew"
-      },
-      "artists": [
-        {
-          "name": "Kamban",
-          "url": "https://open.spotify.com/artist/0mBDRW65svvamuKzjyB5uP"
-        }
-      ],
-      "duration_ms": 172552,
-      "name": "We Won't Bow",
-      "url": "https://open.spotify.com/track/4ojRBPB2zTHdEN1k7Xjf2U"
     },
     {
       "added_at": "2022-12-16 05:02:00",

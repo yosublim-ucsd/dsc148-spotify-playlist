@@ -2109,6 +2109,24 @@
     },
     {
       "album": {
+        "name": "Big Fish",
+        "url": "https://open.spotify.com/album/5FFr5TtGcTd1QGjSd7eVLG"
+      },
+      "artists": [
+        {
+          "name": "Snarls",
+          "url": "https://open.spotify.com/artist/3yZV7kMGClXfw0xaPAlImS"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208697,
+      "name": "Big Fish",
+      "url": "https://open.spotify.com/track/7kY5rVq2LKZN2bjVryVN7A"
+    },
+    {
+      "album": {
         "name": "BIG HIT SINGLE",
         "url": "https://open.spotify.com/album/63heAOtxjx6cQtNnRPKR5D"
       },
@@ -6615,6 +6633,24 @@
     },
     {
       "album": {
+        "name": "Falling in",
+        "url": "https://open.spotify.com/album/70Bdbs0ywY2qfwHJxuUuif"
+      },
+      "artists": [
+        {
+          "name": "Blondumb",
+          "url": "https://open.spotify.com/artist/021mK0NgHckx1TwdmzH6sl"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137743,
+      "name": "Falling in",
+      "url": "https://open.spotify.com/track/4cbm57Rl7bs1loMHZbzUco"
+    },
+    {
+      "album": {
         "name": "fallingshort",
         "url": "https://open.spotify.com/album/275ahb5NgFC7QHFs8oVH2j"
       },
@@ -6828,6 +6864,28 @@
       "duration_ms": 233223,
       "name": "Fever",
       "url": "https://open.spotify.com/track/2OyBO7x26a0J92gicUgie5"
+    },
+    {
+      "album": {
+        "name": "Fight Back Time",
+        "url": "https://open.spotify.com/album/7vrjR8CtwCxt6WDON4Ph4C"
+      },
+      "artists": [
+        {
+          "name": "Sl\u00f8tface",
+          "url": "https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh"
+        },
+        {
+          "name": "The Buoys",
+          "url": "https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197079,
+      "name": "Fight Back Time",
+      "url": "https://open.spotify.com/track/1e0jxzKnJEKnjse5gfPBwZ"
     },
     {
       "album": {
@@ -8690,7 +8748,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 191912,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/04bKfN1DmIwHAhvjaWmPgv"
@@ -10194,7 +10252,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 230136,
       "name": "ifshitfuq",
       "url": "https://open.spotify.com/track/73YDopbDooUCO4WUKwI4zL"
@@ -10728,6 +10786,24 @@
       "duration_ms": 137186,
       "name": "It's Only Dancin'",
       "url": "https://open.spotify.com/track/76CLKuNhfzSn5rkwzIHwpN"
+    },
+    {
+      "album": {
+        "name": "It's The Magic",
+        "url": "https://open.spotify.com/album/1SuoXeP6CNGV78FIY2hO4v"
+      },
+      "artists": [
+        {
+          "name": "Lip Critic",
+          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266057,
+      "name": "It's The Magic",
+      "url": "https://open.spotify.com/track/4Y66dc6AG2eWQNUOzpKqtK"
     },
     {
       "album": {
@@ -11326,6 +11402,24 @@
       "duration_ms": 182880,
       "name": "Let It Sink",
       "url": "https://open.spotify.com/track/3oRrq1fkzb2aCznN0269mL"
+    },
+    {
+      "album": {
+        "name": "Let It Slide",
+        "url": "https://open.spotify.com/album/7wkEhIvIV4LCjFsQUdxYIA"
+      },
+      "artists": [
+        {
+          "name": "In The Pines",
+          "url": "https://open.spotify.com/artist/3KQoZQIHTfe9FsMMRuw9S6"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233440,
+      "name": "Let It Slide",
+      "url": "https://open.spotify.com/track/3CgjfpPDrHhG0NzI0ns9gj"
     },
     {
       "album": {
@@ -13462,7 +13556,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 108000,
       "name": "NO BRA NO PANTIES",
       "url": "https://open.spotify.com/track/2Rq16DMXxkEQIbpHP2Dfno"
@@ -13606,7 +13700,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 246468,
       "name": "Not Even Sadness",
       "url": "https://open.spotify.com/track/6Ax0KLAJ2ifwbgNPZlUBCH"
@@ -15836,7 +15930,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 81654,
       "name": "Road Trip!",
       "url": "https://open.spotify.com/track/6AKyFcrurdc7gbdP7hW509"
@@ -17162,7 +17256,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 157760,
       "name": "So Different",
       "url": "https://open.spotify.com/track/1KsiHd11ajEuJa3gwTxktJ"

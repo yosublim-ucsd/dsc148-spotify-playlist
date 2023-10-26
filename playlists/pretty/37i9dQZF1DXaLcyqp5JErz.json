@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Damares",
-  "num_followers": 526170,
+  "num_followers": 526427,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTAyYTE4ZGQ3MmIyNTQ2MzkxZGIzY2NmNzQxZjVlNWJjOWQ2MGNh",
+  "snapshot_id": "MCwxNGQxYWY2MTM1OWJiYTMwMmZlZThlMzFiNTU4NDE4ZWNiZThlYjll",
   "tracks": [
     {
       "added_at": "2023-10-13 16:02:51",
@@ -395,8 +395,8 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 476546,
-      "name": "Nunca Pare de Lutar",
-      "url": "https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN"
+      "duration_ms": 365826,
+      "name": "Os Sonhos de Deus",
+      "url": "https://open.spotify.com/track/0mNfXZjFfpaNafDSFfYujZ"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -543,38 +543,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Diante do Trono (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        }
-      ],
-      "duration_ms": 304973,
-      "name": "Te Agrade\u00e7o - Ao Vivo",
-      "url": "https://open.spotify.com/track/7FXEHVZMXO2brLAFsbqX1z"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 365826,
-      "name": "Os Sonhos de Deus",
-      "url": "https://open.spotify.com/track/0mNfXZjFfpaNafDSFfYujZ"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Primeiro Passo",
         "url": "https://open.spotify.com/album/3lJ1BI6U6HNDjeG57HIPau"
       },
@@ -587,6 +555,38 @@
       "duration_ms": 287506,
       "name": "No Sil\u00eancio",
       "url": "https://open.spotify.com/track/3BolY0shO32lLUW1qX8oPO"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 476546,
+      "name": "Nunca Pare de Lutar",
+      "url": "https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Diante do Trono (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        }
+      ],
+      "duration_ms": 304973,
+      "name": "Te Agrade\u00e7o - Ao Vivo",
+      "url": "https://open.spotify.com/track/7FXEHVZMXO2brLAFsbqX1z"
     },
     {
       "added_at": "2023-10-13 16:02:51",

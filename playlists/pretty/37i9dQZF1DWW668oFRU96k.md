@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: The Chainsmokers
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,702 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,731 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 8 | [Harder to Breathe](https://open.spotify.com/track/6unT16cLLca5TBBWrsO5zh) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [GISHIN](https://open.spotify.com/artist/53b5NwFZLCZySuNmbRvR0l), [ONLY GAIN](https://open.spotify.com/artist/0xjblJpWaCIsrMC9A0cd2O), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Harder to Breathe](https://open.spotify.com/album/0aFKHh9jzSvwlltwU2ljxN) | 3:42 |
 | 9 | [Michael](https://open.spotify.com/track/6Z9vnfbXfJi01aHapYYP6K) | [Moonbeam](https://open.spotify.com/artist/3QiHmFCzfmjt1XDPSdRh0D) | [Michael](https://open.spotify.com/album/3gNIKt7W1mu3cODg6ITP2y) | 4:38 |
 | 10 | [SHAKE THAT](https://open.spotify.com/track/0FKDp5enYGQjyA8VgEeOXk) | [Space Rangers](https://open.spotify.com/artist/25o5gyj3kk1DUaRkkcEkZy) | [SHAKE THAT](https://open.spotify.com/album/3tytSzAcuQeWL8DJxK6WqO) | 3:45 |
-| 11 | [Hold On Tight \(Ooh La La\)](https://open.spotify.com/track/3RogzJx2XNcUD9IIWnWAVq) | [Cesqeaux](https://open.spotify.com/artist/1EAFXic0Cfiwpe7nSuTrGL), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul) | [Hold On Tight \(Ooh La La\)](https://open.spotify.com/album/14r1Lo4JfHzJANQwjiyfx0) | 2:55 |
+| 11 | [Hold On Tight \(Ooh La La\)](https://open.spotify.com/track/6ZMb4j71pWM9jQBnSSkdBl) | [Cesqeaux](https://open.spotify.com/artist/1EAFXic0Cfiwpe7nSuTrGL), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul) | [Hold On Tight \(Ooh La La\)](https://open.spotify.com/album/5IFBV86QOmvgsYoZ6xqtzN) | 2:55 |
 | 12 | [I CAN'T FLY](https://open.spotify.com/track/1N7gxaXwuUnPZxmJKECApJ) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [I CAN'T FLY](https://open.spotify.com/album/5E3LwMkc36cZjRAugUlI0o) | 2:29 |
 | 13 | [Take Me Baby](https://open.spotify.com/track/0x41Z25Lt685NkEt6ZGvBQ) | [SmartLove Music](https://open.spotify.com/artist/2PXE99c8nCPIW3kFb1Il54) | [Take Me Baby](https://open.spotify.com/album/01od50B3HVn0ObuH7WdWsE) | 2:32 |
 | 14 | [pretty lies](https://open.spotify.com/track/33WxkDts7QNsNq3jKhIbuh) | [eeyrith.](https://open.spotify.com/artist/1hrmCM3G9UIJhy8Gye6bp3) | [pretty lies](https://open.spotify.com/album/6RhtHXoTWXHTRb0bK15Uuq) | 2:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 74 | [You're So Cold](https://open.spotify.com/track/0k4Ntfwh6jqxnyenlsuy6d) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [You're So Cold](https://open.spotify.com/album/1VirA73LPzNcJLgLWS4rqZ) | 2:33 |
 | 75 | [I'll Be There](https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [I'll Be There](https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ) | 2:46 |
 
-Snapshot ID: `MCw0YjFlYWMyYTk4ZmNhYjZhY2E0NTZmNjRlZDIyOWYyNzg3OGM3NWFk`
+Snapshot ID: `MCwyM2I3NWM4ODQ1Mjc3OTE5N2NlZWEzMzgzMjM2NTBlMmI4MzBhZTMx`

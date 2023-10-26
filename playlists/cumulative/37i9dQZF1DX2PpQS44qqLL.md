@@ -4,7 +4,7 @@
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-427 songs - 1 day 4 hr 19 min
+428 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,9 +345,9 @@
 | [Si Tú Eres Mi Hombre y Yo Tu Mujer \- The Power Of Love](https://open.spotify.com/track/483lAqPysPKoI3swMcwAlz) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 4:58 | 2021-12-21 |  |
 | [Siempre en Domingo Medley: Sé Como Duele / Tour / Celos / Será Porque Te Amo / Soldado del Amor / Quien Piensa en Ti](https://open.spotify.com/track/41hgUQ66SI9YTw2BPXOgCP) | [Matute](https://open.spotify.com/artist/6z7mf1FeKhq3GFy73o6PvC) | [En Vivo! \(La Mas Espectacular Experiencia de los 80's\)](https://open.spotify.com/album/0Nkwpkttxjb8y1sOhyhxLe) | 8:46 | 2021-12-21 | 2023-04-26 |
 | [Siénteme Ámame Quiéreme](https://open.spotify.com/track/4FfDzH6v1rJkOX5TXQm5KF) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Completamente Tuya](https://open.spotify.com/album/2SoxbtdNVYaMS7WpQ2qA70) | 4:19 | 2021-12-21 | 2022-07-28 |
-| [Siénteme, Ámame, Quiéreme](https://open.spotify.com/track/25Jcf7afKWtd5FmnaTVGUt) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 4:23 | 2021-12-21 | 2022-11-14 |
+| [Siénteme, Ámame, Quiéreme](https://open.spotify.com/track/25Jcf7afKWtd5FmnaTVGUt) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 4:23 | 2021-12-21 |  |
 | [Sola Con Mi Soledad](https://open.spotify.com/track/1ugNOyz3b85IiUSPuvPkMQ) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [30 Grandes Éxitos](https://open.spotify.com/album/3jiuj6UVjiDprGS3LjeAzm) | 3:49 | 2021-12-21 | 2022-07-29 |
-| [Sola Con Mi Soledad](https://open.spotify.com/track/5piVXhB5leKZ3kF5nFSiDZ) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 3:49 | 2021-12-21 |  |
+| [Sola Con Mi Soledad](https://open.spotify.com/track/5piVXhB5leKZ3kF5nFSiDZ) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 3:49 | 2021-12-21 | 2023-10-26 |
 | [Soldado Del Amor](https://open.spotify.com/track/5SNwMExhg8Cb85fRCfZgO1) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Uno Entre Mil](https://open.spotify.com/album/4eXjBKDecDYrCmjar3Ucwf) | 3:44 | 2021-12-21 | 2022-07-29 |
 | [Solo Se Vive una Vez](https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Monica Naranjo](https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz) | 4:13 | 2021-12-21 |  |
 | [Solo Él Y Yo](https://open.spotify.com/track/0G8zH9qCj0eXD55BAsNhTa) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Otra Vez](https://open.spotify.com/album/6K9mQMZejVTCBsXs6wtizd) | 3:45 | 2021-12-21 | 2022-11-13 |
@@ -383,9 +383,10 @@
 | [Total](https://open.spotify.com/track/6AZ8pZ3ivhZJrBDKgZ1Hq7) | [Vikki Carr](https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD) | [Mis Favoritas](https://open.spotify.com/album/0NkFk6wHLUItxXIguh5VC7) | 3:29 | 2021-12-21 | 2022-07-29 |
 | [Tu Amiga Fiel](https://open.spotify.com/track/3wzDQlQ0vUfIDogH3gjP4g) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [La Más Completa Colección \[Pop \(CD2\)\]](https://open.spotify.com/album/3iqD7PZKZLncrKEsaPvif1) | 4:53 | 2021-12-21 | 2022-07-29 |
 | [Tu Ausencia](https://open.spotify.com/track/5EiIpaWstz8Z2271NKeHJP) | [Antonio De Jesus](https://open.spotify.com/artist/2rIJ8Ab0HehNuDKALjycNR) | [15 Grandes Hits](https://open.spotify.com/album/3HFvgVHa0ZTPdytZ0DkObo) | 3:28 | 2021-12-21 | 2022-06-24 |
-| [Tu Dama de Hierro](https://open.spotify.com/track/0PanjuWPniwRZpU2SkMDtF) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 3:15 | 2021-12-21 |  |
+| [Tu Dama de Hierro](https://open.spotify.com/track/0PanjuWPniwRZpU2SkMDtF) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 3:15 | 2021-12-21 | 2023-10-26 |
 | [Tu Dama de Hierro](https://open.spotify.com/track/1yCHhmIDNXzIcyMQRUNTOK) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela, Vol\. 2](https://open.spotify.com/album/4pNjXSgSDPrN2jsJnurJOW) | 3:15 | 2021-12-21 | 2022-07-29 |
 | [Tu Muñeca](https://open.spotify.com/track/1sxwSsqFOhrmc1zl6iJyNn) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [La Más Completa Colección \(CD1\)](https://open.spotify.com/album/04YABmDMSBXSYQuFitSdUJ) | 3:38 | 2021-12-21 | 2022-07-28 |
+| [Tu Muñeca](https://open.spotify.com/track/4jiZpcv4YwVDw46wnMHwsy) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Tu Muñeca](https://open.spotify.com/album/7cfzMngiaoy5cBYzen6rua) | 3:44 | 2021-12-21 |  |
 | [Tímido](https://open.spotify.com/track/2m0rV14r7Idr8B8mVfSr6S) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [20 Millas](https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI) | 3:36 | 2021-12-21 |  |
 | [Tómame o Déjame \- Remasterizado](https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Mocedades 5](https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx) | 3:07 | 2021-12-21 |  |
 | [Tú hombre, yo niña](https://open.spotify.com/track/1A9uQznp9xUdvm0vGZMqSr) | [Alejandra Avalos](https://open.spotify.com/artist/0ujbYrGeviCZxfrKOzXDzK) | [20 Grandes Exitos](https://open.spotify.com/album/5XdzLQ5VPixvtDnw3iKHSl) | 3:02 | 2021-12-21 | 2022-07-28 |

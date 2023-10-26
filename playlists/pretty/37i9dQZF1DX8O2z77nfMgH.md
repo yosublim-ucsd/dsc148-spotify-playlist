@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,361 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,382 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 42 | [SOLO RESPIRA](https://open.spotify.com/track/4ZTYnXDN5xBl9yazQ9HpIZ) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [SOLO RESPIRA](https://open.spotify.com/album/4J5RkXVrNIXFDPCQnltPkl) | 2:35 |
 | 43 | [TEKATI](https://open.spotify.com/track/3JRb0yoXDnaLYBQ5ASpbmV) | [Tuto](https://open.spotify.com/artist/6Yc8UbJ0THaO1pcnu1Eg9K), [Fainal & Shako](https://open.spotify.com/artist/2aWyENWGXJIHKOY6BZ7DTD) | [TEKATI](https://open.spotify.com/album/3l6bq6wwiXjxcy2Wh3evCy) | 3:43 |
 | 44 | [Llorar](https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Venus & Blue](https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1) | 3:10 |
-| 45 | [LIBRE](https://open.spotify.com/track/4hCHvrNozvAGPJGeadXJML) | [ORO600](https://open.spotify.com/artist/5rHC8VSODpT9V7a8ZQu1h6), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [LIBRE](https://open.spotify.com/album/7Fli0EzDcjYjXZywh3gAsp) | 3:25 |
+| 45 | [LIBRE](https://open.spotify.com/track/4hCHvrNozvAGPJGeadXJML) | [ORO600](https://open.spotify.com/artist/5rHC8VSODpT9V7a8ZQu1h6), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Orodembow](https://open.spotify.com/artist/0fEjMgQHvs06BQuWWzsbrn), [0\-600](https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd) | [LIBRE](https://open.spotify.com/album/7Fli0EzDcjYjXZywh3gAsp) | 3:25 |
 | 46 | [Osama](https://open.spotify.com/track/3OKxyRWGtER05sWcgZF1Yy) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Antes del Alba](https://open.spotify.com/album/04jcunBbCe9hXGTfZGo9Bj) | 3:35 |
 | 47 | [Primero Lo Primero](https://open.spotify.com/track/4XyqGyQSLmBjmWgI2q8wFn) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Primero Lo Primero](https://open.spotify.com/album/0ntC5RLzimcgYTPq0YavWM) | 2:49 |
 | 48 | [SOLOS](https://open.spotify.com/track/64kyKuLQlXZGT2iayPicQR) | [Carlos Corté$](https://open.spotify.com/artist/3DplAKAVidNrhpivWNLMWC) | [SOLOS](https://open.spotify.com/album/0rDDFSmUmyYkyxduROC8m3) | 3:23 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 69 | [Track 001](https://open.spotify.com/track/1vYa4X5IWUNj96pqGyA7Ck) | [Vera Delacruz](https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt) | [Track 001](https://open.spotify.com/album/4d6T4rYs3jZZRMCRLWl8oi) | 3:07 |
 | 70 | [De Pie Es La Lucha](https://open.spotify.com/track/5Gag8UscRudKeuAIOK9srO) | [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25) | [The Vibraphone is Back](https://open.spotify.com/album/6eLC0XQ6OEOUyGuiDLQ0ZA) | 3:33 |
 
-Snapshot ID: `MCwzOWZkY2UzYjJmNmMwYjkwNjNkNWE2NzQyNDdkYmMxZDFlNmE5Yjkx`
+Snapshot ID: `MCxkY2RmOWFmODAxMDhjZTExYTM3ZWEyN2U1MDZmZWQwYmJhNGVkNDUx`

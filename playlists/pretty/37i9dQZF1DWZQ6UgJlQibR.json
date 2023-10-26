@@ -1,12 +1,12 @@
 {
   "description": "Where music and emotions meet. Cover: <a href=\"spotify:artist:7Ddov9nbJDbpgzvBVb7cU1\">George Wassouf</a>",
-  "num_followers": 70686,
+  "num_followers": 70774,
   "original_name": "Tarab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGU1NmE5YmM4NTNjZGJhYjFmZDY2YTI2MzM4Mjk3Yjk1Y2NlOWY1",
+  "snapshot_id": "MCxhZTZiMDBkMjJiMDFjNjk0ZWIxN2E0MWFiNmU0M2ViZDgwMGUxMGI1",
   "tracks": [
     {
       "added_at": "2022-09-13 14:22:57",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "El Layale",
-        "url": "https://open.spotify.com/album/3QNcRoTyS4dMawskF8qRF6"
-      },
-      "artists": [
-        {
-          "name": "Mayada El Hennawy",
-          "url": "https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz"
-        }
-      ],
-      "duration_ms": 1185163,
-      "name": "El Hop Elly Kan",
-      "url": "https://open.spotify.com/track/0qiH7V7xzBu2zTYuAmHeu7"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Kfoury Classic",
         "url": "https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 342973,
       "name": "Meen Habeebee Ana (Duet Nawal Al Zoghbi)",
       "url": "https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "El Layale",
+        "url": "https://open.spotify.com/album/3QNcRoTyS4dMawskF8qRF6"
+      },
+      "artists": [
+        {
+          "name": "Mayada El Hennawy",
+          "url": "https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz"
+        }
+      ],
+      "duration_ms": 1185163,
+      "name": "El Hop Elly Kan",
+      "url": "https://open.spotify.com/track/0qiH7V7xzBu2zTYuAmHeu7"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Ossit Helem",
-        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 365226,
-      "name": "Kellon Aanik Sa'alouni (Live)",
-      "url": "https://open.spotify.com/track/27olcVaOORgWUjFNC3OOLd"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Law Fina",
         "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 371890,
       "name": "Law Fina",
       "url": "https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Ossit Helem",
+        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 365226,
+      "name": "Kellon Aanik Sa'alouni (Live)",
+      "url": "https://open.spotify.com/track/27olcVaOORgWUjFNC3OOLd"
     },
     {
       "added_at": "2022-09-13 14:22:57",

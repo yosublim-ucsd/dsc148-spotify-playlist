@@ -4,7 +4,7 @@
 
 > Celebrate Halloween with spooky sounds from Disney favorites like Nightmare Before Christmas, The Haunted Mansion, and more.
 
-103 songs - 4 hr 56 min
+105 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Halloweentown Theme](https://open.spotify.com/track/6Afp1wDgGBQ4o5tNjvExpv) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Halloweentown \(Original Soundtrack\)](https://open.spotify.com/album/5lByeXRWMm2Bdn4MmoEsXe) | 1:47 | 2023-09-01 |  |
 | [He's a Pirate](https://open.spotify.com/track/08QaHlMPWuO5PUxjl61bXn) | [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ) | [Pirates of the Caribbean: The Curse of the Black Pearl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Qe057XqKloVNhnPohj6Yo) | 1:30 | 2022-10-07 |  |
 | [Healing Incantation \- From "Tangled"/Soundtrack Version](https://open.spotify.com/track/75VVIB2x1h6BfxD2PqOO57) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 0:54 | 2022-10-07 |  |
+| [Heaven's Light/Hellfire](https://open.spotify.com/track/4rp9YObc6Q5xc6X1S8c7m9) | [Tony Jay](https://open.spotify.com/artist/5qQpn0ZokyamZjyKtkKUYD), [Tom Hulce](https://open.spotify.com/artist/4wd5K3s3ekf0czSh2qGjTD), [Chorus \- The Hunchback Of Notre Dame](https://open.spotify.com/artist/5oHSxqr1uDloCbJJPNBd6T) | [The Hunchback Of Notre Dame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) | 5:23 | 2023-10-25 |  |
 | [Heffalumps and Woozles](https://open.spotify.com/track/3XxkvIoQdscyN4G7sOqbeF) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Halloween Songs & Sounds](https://open.spotify.com/album/6qFkmKtc6jJso1Bc3UIGDo) | 2:03 | 2022-10-07 |  |
 | [I Put a Spell on You](https://open.spotify.com/track/0G5zekG6CBSUMVRr5O5DZ6) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Luke Cage: Season 2](https://open.spotify.com/album/1Y1xgrYHw2lcDqWStVl6rK) | 4:44 | 2022-10-07 |  |
 | [I Put a Spell on You \(In the Style of Hocus Pocus\)](https://open.spotify.com/track/5U43AFyp6GyXm58h4uVt2L) | [PattyCake](https://open.spotify.com/artist/2iRYmjSAXUcCksbW8e9UKT) | [Into the Night \(A Hocus Pocus Collection\)](https://open.spotify.com/album/5UiFmg5GmenQxBRs18tTPV) | 2:02 | 2022-10-07 | 2023-09-23 |
@@ -98,6 +99,7 @@
 | [The Twilight Zone Tower of Terror Theme \- From "The Twilight Zone Tower of Terror"](https://open.spotify.com/track/69nE1ldzcv0vcF2m1t4ys2) | [Richard Bellis](https://open.spotify.com/artist/2AvjWonQaWlRkaolk2NCxe), [Marious Constant](https://open.spotify.com/artist/3n9cVWs0spyjg2feaCScV7) | [Walt Disney World Official Album](https://open.spotify.com/album/6lMJcDBuF11ofh3RcY5JIC) | 1:42 | 2022-10-07 |  |
 | [The Werewolf Song](https://open.spotify.com/track/0QNPxITooj5C1rHCS525q4) | [Marco Marinangeli](https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 2:22 | 2023-09-22 |  |
 | [The Witches Are Back](https://open.spotify.com/track/6SWxJnEL4PgRySciwic4N3) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W), [Sarah Jessica Parker](https://open.spotify.com/artist/07fyshwD6z8kprzXN7hQYH), [Kathy Najimy](https://open.spotify.com/artist/1JdX5huLHgBUAHTNinXnN5) | [Hocus Pocus 2 \(Original Soundtrack\)](https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED) | 1:44 | 2022-10-07 |  |
+| [The World Es Mi Familia](https://open.spotify.com/track/7FOS31xq9jv4cXWtp6Jnzw) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv), [Antonio Sol](https://open.spotify.com/artist/7GmYpAwLQ2PyE1BubvUBsM) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 0:50 | 2023-10-25 |  |
 | [This Is Halloween](https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:16 | 2022-10-07 |  |
 | [Tie the Knot Tango](https://open.spotify.com/track/23c50sgUoawToa6LvPmWuO) | [Taraji P\. Henson](https://open.spotify.com/artist/7DHnqpyebuZan18T1diaio), [Pepé the King Prawn](https://open.spotify.com/artist/1iMTLjdRyIo58maQgO0F1a) | [Muppets Haunted Mansion \(Original Soundtrack\)](https://open.spotify.com/album/4N6yxIJCYUQEpjlUtdEsjX) | 1:43 | 2022-10-07 |  |
 | [Trust in Me](https://open.spotify.com/track/6UtpOAQMPOYVDHBhj0o0CF) | [Scarlett Johansson](https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa) | [The Jungle Book \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm) | 2:54 | 2022-10-07 |  |

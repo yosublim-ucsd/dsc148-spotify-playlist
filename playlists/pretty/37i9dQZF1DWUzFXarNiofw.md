@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026,698 likes - 175 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026,854 likes - 175 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 19 | [LIE LIE LIE!](https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [LIE LIE LIE!](https://open.spotify.com/album/2NnP52zmXOENLm19DojzmS) | 2:28 |
 | 20 | [Hit You Right Back](https://open.spotify.com/track/2w3cXSJF6vRvYtBHUTitUR) | [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Hit You Right Back](https://open.spotify.com/album/0W181TOZ1CJZqSW5qaZfrg) | 3:38 |
 | 21 | [Liquor Locker](https://open.spotify.com/track/7iWR62SgwwDh17soqCALi0) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [JENA](https://open.spotify.com/album/2FpBj92pSFehoa23LolojW) | 4:32 |
-| 22 | [Wow!](https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Amén \(The Nomad’s Dream\)](https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD) | 2:37 |
+| 22 | [WOW!](https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Amén \(The Nomad’s Dream\)](https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD) | 2:37 |
 | 23 | [My Way \(with Anna Margo\)](https://open.spotify.com/track/6AuTEZjVz0VZUsSLyezRma) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Anna Margo](https://open.spotify.com/artist/6MYSB8gVxAqHrdIkdDxKXR) | [My Way](https://open.spotify.com/album/2kmx7iuGnBVuNlFscd2xky) | 2:55 |
 | 24 | [Crazy Things](https://open.spotify.com/track/3L04GXoW7iCezNnZuHlV8z) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Big Boss \(Deluxe\)](https://open.spotify.com/album/5MWFCD0DQEvp94XEi0SeyP) | 1:58 |
 | 25 | [Bad Intentions](https://open.spotify.com/track/0d7Z3ZMcCXP25EidWPC0Sf) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Bad Intentions](https://open.spotify.com/album/6woTomg4IThua1tXT9bsVx) | 2:23 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [I Drove U Crazy](https://open.spotify.com/track/3pV6qrTGBNx2nsTHfu71tR) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [I Drove U Crazy](https://open.spotify.com/album/3EaYlUGXxBtUpt0mfuogP0) | 2:49 |
 | 175 | [Sexy Lady \- Remix](https://open.spotify.com/track/6NvlMkDs7m6ZNIf1ioVDbT) | [Cedric Brazle](https://open.spotify.com/artist/537DG59uwJsVL3RKA6YNW6), [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Sexy Lady \(Remix\)](https://open.spotify.com/album/1SxKnUKEoooT5gRfnxMFBE) | 3:42 |
 
-Snapshot ID: `MCxhY2UwODVhMmI3YWQ5MDVkZTRkZjExOTdhOWFmNTRiNmU1ZWRmZDA0`
+Snapshot ID: `MCw4YTQxMzM0YjJkOTNkZDk0MzU1M2U4ODFmMzBmOGNiZDBhMmVhMWVh`

@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "AREAMATE MIZ",
+        "url": "https://open.spotify.com/album/2cuN40DJHCdsfxqx7jM8w3"
+      },
+      "artists": [
+        {
+          "name": "Anar",
+          "url": "https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80271,
+      "name": "AREAMATE MIZ",
+      "url": "https://open.spotify.com/track/6A3uNmMItYREVU0mKY84DO"
+    },
+    {
+      "album": {
         "name": "Aria",
         "url": "https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe"
       },
@@ -3500,7 +3518,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 143048,
       "name": "Bompary",
       "url": "https://open.spotify.com/track/4vkVjum7t9ShIuO4GmzRSJ"
@@ -5488,7 +5506,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 139764,
       "name": "CURSED",
       "url": "https://open.spotify.com/track/5kobhRGVKZeSvklVCr8zR6"
@@ -16406,7 +16424,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 143759,
       "name": "Montagem Coral",
       "url": "https://open.spotify.com/track/3cE1cyAdPmv5Eq5ZBaQmYV"
@@ -16860,7 +16878,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 236999,
       "name": "My Gasoline",
       "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
@@ -20262,7 +20280,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -22034,7 +22052,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 198620,
       "name": "Same Old Song",
       "url": "https://open.spotify.com/track/1b1U08Eqbx8f0QYyPTzqcU"
@@ -22248,6 +22266,28 @@
       "duration_ms": 228874,
       "name": "Scam",
       "url": "https://open.spotify.com/track/6X9wJ7rTc45kAKQjaSb1F4"
+    },
+    {
+      "album": {
+        "name": "Liederalbum",
+        "url": "https://open.spotify.com/album/4NxFF8cnL22iwcJSapUOfs"
+      },
+      "artists": [
+        {
+          "name": "Schnappi",
+          "url": "https://open.spotify.com/artist/689o3MBCp0gVNsH66V1rf2"
+        },
+        {
+          "name": "Joy",
+          "url": "https://open.spotify.com/artist/2ynQjtbkuB1fovlin5WNHV"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130039,
+      "name": "Schnappi, das kleine Krokodil",
+      "url": "https://open.spotify.com/track/2QnAg9u1MmoNpm4O7zrYA4"
     },
     {
       "album": {
@@ -23088,7 +23128,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 61094,
       "name": "Skibidi Toilet - Sped Up",
       "url": "https://open.spotify.com/track/0Vs4GfZBgKiu8Omm7BBdeO"
@@ -27488,7 +27528,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 180000,
       "name": "VZH\u016eRU CELOU NOC",
       "url": "https://open.spotify.com/track/47amAylHisxb5vuPLGQ72x"

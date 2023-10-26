@@ -1,12 +1,12 @@
 {
   "description": "Alcione e mais mulheres ic\u00f4nicas para serem ouvidas no volume m\u00e1ximo! Foto: Alcione",
-  "num_followers": 152884,
+  "num_followers": 153010,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzIzNjkwNWU2MmNiYTUzZjc3NGJkMDlkZWRmYzczMzEyYmI4MDBl",
+  "snapshot_id": "MCwyZjgxYjI5OTQyMDZiYjdmYTk5NTEwNWM0NDFmOTE3OTY2ZWEzYjgz",
   "tracks": [
     {
       "added_at": "2023-10-13 13:38:48",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-10-13 13:38:48",
       "album": {
+        "name": "NEKTAR",
+        "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
+      },
+      "artists": [
+        {
+          "name": "Ava Rocha",
+          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
+        }
+      ],
+      "duration_ms": 195836,
+      "name": "BEIJANDO TODOS VOC\u00caS",
+      "url": "https://open.spotify.com/track/7zXQVWgzxWZoTg3wzqP1ee"
+    },
+    {
+      "added_at": "2023-10-13 13:38:48",
+      "album": {
         "name": "Quadrado Vivo",
         "url": "https://open.spotify.com/album/6iWiBNwuDyk5k4qA3xHhJj"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 195539,
       "name": "Quadrado Vivo",
       "url": "https://open.spotify.com/track/7pcqYaiUOaFvyKSY4L9eb9"
-    },
-    {
-      "added_at": "2023-10-13 13:38:48",
-      "album": {
-        "name": "NEKTAR",
-        "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
-      },
-      "artists": [
-        {
-          "name": "Ava Rocha",
-          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
-        }
-      ],
-      "duration_ms": 195836,
-      "name": "BEIJANDO TODOS VOC\u00caS",
-      "url": "https://open.spotify.com/track/7zXQVWgzxWZoTg3wzqP1ee"
     },
     {
       "added_at": "2023-10-13 13:38:48",

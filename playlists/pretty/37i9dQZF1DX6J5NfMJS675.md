@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,335,685 likes - 60 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,336,346 likes - 60 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 59 | [Demon](https://open.spotify.com/track/0gAIgza1zHlUPTNIGWAOCw) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Body Ride / Demon](https://open.spotify.com/album/26TXuVlmcTZRN1qcuFZTsV) | 5:53 |
 | 60 | [Fall In Love](https://open.spotify.com/track/00yeUUrgFfxidZOWFQxDcZ) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Fall In Love](https://open.spotify.com/album/4S5m723e0p5GYuRWMeo8GY) | 4:04 |
 
-Snapshot ID: `MCxlMDE3MmIxMzhhMjhhYTljNjMyNGUwMTlmNjg4MGRhYjZiMzBkNTli`
+Snapshot ID: `MCwwMWY4NzU4ZTNjNTk3N2Y2MzhhNGVhM2ZmMmQ1MjhhYWRlYWQ4N2Jk`

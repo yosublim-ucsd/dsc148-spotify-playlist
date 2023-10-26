@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,295 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,421 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,7 +194,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 184 | [Rouge soleil](https://open.spotify.com/track/2BtrTeyutZQSPdpBfZTTxr) | [Ravages](https://open.spotify.com/artist/2CiP8cuzWyheJHIBTooapR) | [Abraxas](https://open.spotify.com/album/7GmFk4xUZLM9VIcNYfHBb4) | 3:41 |
 | 185 | [Cyclop \- Bonus track](https://open.spotify.com/track/2u575WsOcCPnA56f9CZWY2) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb), [Helena Miquel](https://open.spotify.com/artist/6Yf8Pbx7zg5uPx2PUeIwp9) | [Aranda](https://open.spotify.com/album/3MPf2UhcwjPbLgY1NCPA5a) | 3:41 |
 | 186 | [Banana Socks](https://open.spotify.com/track/7afoQRG04Pk9g2eRMlS2Vz) | [Bosco Rogers](https://open.spotify.com/artist/1oNSfCtInL4cMWKutAdeJK) | [French Kiss \- EP](https://open.spotify.com/album/1kHIDkSGsSmcrVEV4Gi84a) | 2:17 |
-| 187 | [Ce soir je m'en vais](https://open.spotify.com/track/7ijmaSSgw2knnk6GcsUa6N) | [Slove](https://open.spotify.com/artist/3LCptyvFjmOU8AU0ggJpOK), [Leo Hellden](https://open.spotify.com/artist/2xuVdExl3fVXV8NjGOaSpL), [Plaisir de France](https://open.spotify.com/artist/4gHBLfDuluArm1JWAZHNNn), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [Le Touch](https://open.spotify.com/album/5WF63jny8ZKaGAgbrO3va7) | 3:24 |
+| 187 | [Ce soir je m'en vais](https://open.spotify.com/track/7ijmaSSgw2knnk6GcsUa6N) | [Slove](https://open.spotify.com/artist/3LCptyvFjmOU8AU0ggJpOK), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij), [Leo Hellden](https://open.spotify.com/artist/2xuVdExl3fVXV8NjGOaSpL), [Plaisir de France](https://open.spotify.com/artist/4gHBLfDuluArm1JWAZHNNn) | [Le Touch](https://open.spotify.com/album/5WF63jny8ZKaGAgbrO3va7) | 3:24 |
 | 188 | [Pretty Boy](https://open.spotify.com/track/7bW47X2ikA5KyxFvjcMtSo) | [Cavale](https://open.spotify.com/artist/3pgB7XxnJc68c7AsDL23DW) | [Pretty Boy](https://open.spotify.com/album/2jJqXBjy7QAHI4EQIhovZ5) | 3:48 |
 | 189 | [Le temps est bon](https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn) | [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Le temps est bon](https://open.spotify.com/album/3DLFupu4f4MmTLy6TZv4sw) | 3:29 |
 | 190 | [Rendez Vous](https://open.spotify.com/track/0TZdKfPAUslDgAVkb9bnQK) | [La Plage](https://open.spotify.com/artist/718qvmLQ9ih3HVRiFHVIVg) | [Rendez Vous / Mark](https://open.spotify.com/album/1vCuBjzH8P7n1Has6wKrdU) | 3:20 |

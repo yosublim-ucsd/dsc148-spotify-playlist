@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,188,027 likes - 99 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,188,298 likes - 99 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 15 | [Static \(feat\. Lil Durk\)](https://open.spotify.com/track/7j1clHjAMtpsO0gKF76GF0) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:47 |
 | 16 | [Come Outside \(feat\. YTB Fatt\)](https://open.spotify.com/track/1fxlHuMfJPa0de1WJHOwBf) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Come Outside \(feat\. YTB Fatt\)](https://open.spotify.com/album/0xTtXNNN82brPd2cRn23ZX) | 2:14 |
 | 17 | [No Hook 2](https://open.spotify.com/track/2eLrDMQnosvAOTzoZ8bRZZ) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Hook 2](https://open.spotify.com/album/4VnhVzYgluzloFMMY5cCf5) | 2:22 |
-| 18 | [Get Back](https://open.spotify.com/track/7jwRq3gjpzHFuPNwSPLhBi) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Get Back](https://open.spotify.com/album/2QFWsFsh9RMFDyaGY5qQN5) | 2:35 |
+| 18 | [Get Back](https://open.spotify.com/track/3lJ0OmRN1dQE4JXucRHDpA) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Who Is Fatt](https://open.spotify.com/album/5ycaQESXqBPAqIvk57xYA7) | 2:35 |
 | 19 | [No Fake Love](https://open.spotify.com/track/7cUTJwL4pZiD3oTr5bKQSg) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [No Fake Love](https://open.spotify.com/album/0tJu26afSbkWTDgBABZeEV) | 2:26 |
 | 20 | [SHAQ & KOBE](https://open.spotify.com/track/02K2VtGdUG5fUlAQATEgE6) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [SHAQ & KOBE](https://open.spotify.com/album/4oekX6V7nkvYhjnbNSO7uA) | 3:39 |
 | 21 | [Why Would I?](https://open.spotify.com/track/5IN2qvFpISNge4Bed3fJz4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Why Would I?](https://open.spotify.com/album/2lAvIgCeAzIgdjJHLjuBt5) | 1:59 |

@@ -4,14 +4,15 @@
 
 > ジャンルレスな作品性と、美麗なファルセット・ヴォイスが魅力のSSW、ビッケブランカ のオールタイム・ベスト。
 
-92 songs - 5 hr 45 min
+95 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Avalanche](https://open.spotify.com/track/32ZKOOUBF9vWvKbN0UUTNC) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [BEST ALBUM SUPERVILLAIN](https://open.spotify.com/album/6q1FkwyDJcYQImWnK6UMCF) | 4:25 | 2022-08-21 | 2023-08-30 |
-| [Bitter](https://open.spotify.com/track/4QuqtDZyTUmxJgGbsi1QAB) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Worldfly](https://open.spotify.com/album/46OkEoB1mHajNm6pIGXUCc) | 3:05 | 2023-10-03 |  |
+| [Bitter](https://open.spotify.com/track/2x6Vk4wODhe8AMnKZI1rGg) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Worldfly](https://open.spotify.com/album/04MIBSttVqz8KMppZWvheC) | 3:05 | 2023-10-24 |  |
+| [Bitter](https://open.spotify.com/track/4QuqtDZyTUmxJgGbsi1QAB) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Worldfly](https://open.spotify.com/album/46OkEoB1mHajNm6pIGXUCc) | 3:05 | 2023-10-03 | 2023-10-26 |
 | [Black Catcher](https://open.spotify.com/track/6Q8W0bn2oAVvW56BriCGeb) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [BEST ALBUM SUPERVILLAIN](https://open.spotify.com/album/6q1FkwyDJcYQImWnK6UMCF) | 3:16 | 2022-08-21 | 2023-08-30 |
-| [Black Catcher](https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Devil](https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD) | 3:16 | 2023-08-29 | 2023-10-25 |
+| [Black Catcher](https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Devil](https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD) | 3:16 | 2023-08-29 |  |
 | [Black Rover](https://open.spotify.com/track/3YsmVudm2JmoDnlN2XSieG) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [BEST ALBUM SUPERVILLAIN](https://open.spotify.com/album/6q1FkwyDJcYQImWnK6UMCF) | 3:29 | 2022-08-21 | 2023-08-30 |
 | [Black Rover](https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:29 | 2023-08-29 |  |
 | [Broken](https://open.spotify.com/track/5T6v5UwRs7IGNr4IrQ1jle) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [FEARLESS](https://open.spotify.com/album/0guChGuEDcTGZln5bhyuN2) | 2:46 | 2022-08-21 |  |
@@ -45,7 +46,8 @@
 | [Shekebon!](https://open.spotify.com/track/50TqPhSc20XggKaQSUAllv) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Devil](https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD) | 3:20 | 2023-08-29 |  |
 | [Shekebon!](https://open.spotify.com/track/1oiYeBOXXQErNkv1nKneqc) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [BEST ALBUM SUPERVILLAIN](https://open.spotify.com/album/6q1FkwyDJcYQImWnK6UMCF) | 3:21 | 2022-08-21 | 2023-08-30 |
 | [Slave of Love](https://open.spotify.com/track/2ayROzS0w3bqU80rpi5E8p) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [BEST ALBUM SUPERVILLAIN](https://open.spotify.com/album/6q1FkwyDJcYQImWnK6UMCF) | 3:47 | 2022-08-21 |  |
-| [Snake](https://open.spotify.com/track/3gC9PXSvfJuLc6V9NjL9bf) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Snake](https://open.spotify.com/album/0GTl9PHpXPLCJ50xra0AQs) | 3:07 | 2023-08-29 |  |
+| [Snake](https://open.spotify.com/track/36tnLYMgjrHtcjDkAjFlpP) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Worldfly](https://open.spotify.com/album/04MIBSttVqz8KMppZWvheC) | 3:07 | 2023-10-24 |  |
+| [Snake](https://open.spotify.com/track/3gC9PXSvfJuLc6V9NjL9bf) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Snake](https://open.spotify.com/album/0GTl9PHpXPLCJ50xra0AQs) | 3:07 | 2023-08-29 | 2023-10-26 |
 | [Sound Of Your Name \(with Vickeblanka\)](https://open.spotify.com/track/6yY0MZVSs6Rv4eGQa9uh5q) | [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E), [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [TRUSTFALL](https://open.spotify.com/album/2ju68z3bSFCOXuNBDH0fbW) | 3:26 | 2022-08-21 |  |
 | [SPEECH](https://open.spotify.com/track/6RvrGemS3u7VhqxUPEWTdo) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [GOOD LUCK](https://open.spotify.com/album/5uOLDxAv6PxV4Yx36I3OZj) | 4:13 | 2022-08-21 |  |
 | [step in control](https://open.spotify.com/track/15qHwhk2gMN03nmlIcQmMH) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [ツベルクリン](https://open.spotify.com/album/48BNJ0CelfB9yhIDScDhnb) | 4:00 | 2022-08-21 |  |
@@ -98,7 +100,8 @@
 | [秋の香り](https://open.spotify.com/track/1OKZJY8K9mrslXTHWedlbI) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [ツベルクリン](https://open.spotify.com/album/48BNJ0CelfB9yhIDScDhnb) | 4:23 | 2022-08-21 |  |
 | [蒼天のヴァンパイア](https://open.spotify.com/track/6nVa28hoKADNE9EHGAX2S0) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [BEST ALBUM SUPERVILLAIN](https://open.spotify.com/album/6q1FkwyDJcYQImWnK6UMCF) | 3:17 | 2022-08-21 |  |
 | [追うBOY](https://open.spotify.com/track/2T7EGfl1fr22D818PMvgzq) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [ツベルクリン](https://open.spotify.com/album/48BNJ0CelfB9yhIDScDhnb) | 3:43 | 2022-08-21 |  |
-| [革命](https://open.spotify.com/track/56NF8AZqeTtSe6gRMdxGNf) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [革命](https://open.spotify.com/album/0S75gwZK3LNeFQB8xqjllT) | 4:52 | 2023-03-28 |  |
+| [革命](https://open.spotify.com/track/4kS8xbfy4g5jGjWTs3m9lR) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Worldfly](https://open.spotify.com/album/04MIBSttVqz8KMppZWvheC) | 4:52 | 2023-10-24 |  |
+| [革命](https://open.spotify.com/track/56NF8AZqeTtSe6gRMdxGNf) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [革命](https://open.spotify.com/album/0S75gwZK3LNeFQB8xqjllT) | 4:52 | 2023-03-28 | 2023-10-26 |
 | [魔法のアト](https://open.spotify.com/track/3VzlJc4jfKc1GWyP5LNU6n) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [United](https://open.spotify.com/album/0ykHMHtcrB2MJcoaibsye2) | 3:18 | 2022-08-21 |  |
 
 \*This playlist was first scraped on 2022-12-24. Prior content cannot be recovered.

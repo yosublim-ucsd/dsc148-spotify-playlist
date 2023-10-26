@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia\. Cover: Santa Chiara
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,419 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,448 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 74 | [Medioriente](https://open.spotify.com/track/1DRTAkWNgNyjUknJ5zcXQE) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Medioriente / Miku五](https://open.spotify.com/album/2f31VolieJe7o0J9m1en3I) | 6:21 |
 | 75 | [Giovane Distratta](https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Quanti Me Ne Dai](https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr) | 3:08 |
 
-Snapshot ID: `MCwwZTIyYWMxMWEyYWY5MTJjYmVmZDU5ZDY1MDBjN2IwN2VlMTMyYzg2`
+Snapshot ID: `MCxhYTQ2MWI5MTg0ZjMxZGViNzRhZTk2MDU2YTVlMzQ4MWJmMGM5OGM3`

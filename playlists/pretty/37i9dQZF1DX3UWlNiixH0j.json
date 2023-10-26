@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Guiba",
-  "num_followers": 53602,
+  "num_followers": 53632,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjhkMjZjYTE4NDcyMDE5MTdkZGE5Yjc0ZjI0OGY5MWUyNTY4ZjA4",
+  "snapshot_id": "MCw1NTY2M2U5OTdmM2RjNzY0YTYxZDQ2YzhiNzZlYzA2YmFlZWUzY2E2",
   "tracks": [
     {
       "added_at": "2023-10-24 15:00:00",
@@ -64,8 +64,8 @@
       },
       "artists": [
         {
-          "name": "\u6298\u5742\u60a0\u592a",
-          "url": "https://open.spotify.com/artist/5Zy5Fg9iN1KSkrtVAsc7r3"
+          "name": "Yuta Orisaka",
+          "url": "https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH"
         }
       ],
       "duration_ms": 300320,
@@ -171,8 +171,8 @@
     {
       "added_at": "2023-10-24 15:00:00",
       "album": {
-        "name": "\u30d0\u30c3\u30c9\u30c7\u30a4\u30ba\u30fb\u30aa\u30f3\u30d5\u30a1\u30a4\u30e4\u30fc",
-        "url": "https://open.spotify.com/album/7I0ezrFRdXuNBD2C0Hp5p2"
+        "name": "Bad days on fire",
+        "url": "https://open.spotify.com/album/1Fx70lGxsoGzHTlN6sAaxq"
       },
       "artists": [
         {
@@ -181,8 +181,8 @@
         }
       ],
       "duration_ms": 136182,
-      "name": "\u30d0\u30c3\u30c9\u30c7\u30a4\u30ba\u30fb\u30aa\u30f3\u30d5\u30a1\u30a4\u30e4\u30fc",
-      "url": "https://open.spotify.com/track/6XuHRXgiGEpxs03w47OGy1"
+      "name": "Bad days on fire",
+      "url": "https://open.spotify.com/track/4rO0BIc1vZXXoIM7kF1mqg"
     },
     {
       "added_at": "2023-10-24 15:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-10-24 15:00:00",
       "album": {
-        "name": "\u30ad\u30e3\u30ed\u30e9\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/4uUOmlaeXD1tLtpOOEgg8n"
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/26qsJ7CMOmkXqjimRYw5DR"
       },
       "artists": [
         {
-          "name": "\u751f\u6d3b\u306e\u8a2d\u8a08",
-          "url": "https://open.spotify.com/artist/6ZQ0j6vz0P9rQOQjP8BXlR"
+          "name": "Seikatsu no Sekkei",
+          "url": "https://open.spotify.com/artist/6xM4LUYF3ZCeNOU3sgfrCT"
         }
       ],
       "duration_ms": 192272,
-      "name": "\u30ad\u30e3\u30ed\u30e9\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/2QVLcKnAZOa4kcvflcN0G6"
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/59y9GUXiEpeav1iDh3uAy4"
     },
     {
       "added_at": "2023-10-24 15:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-10-24 15:00:00",
       "album": {
-        "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
-        "url": "https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 234288,
-      "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
-      "url": "https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L"
-    },
-    {
-      "added_at": "2023-10-24 15:00:00",
-      "album": {
         "name": "OLD ROOKIE EP.1",
         "url": "https://open.spotify.com/album/0cc0kTXheZsfEllaCljvKI"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 149425,
       "name": "Old Rookie",
       "url": "https://open.spotify.com/track/6wo2dSc2HAsF0KUqti4UQn"
+    },
+    {
+      "added_at": "2023-10-24 15:00:00",
+      "album": {
+        "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
+        "url": "https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 234288,
+      "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
+      "url": "https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L"
     },
     {
       "added_at": "2023-10-24 15:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-10-24 15:00:00",
       "album": {
-        "name": "\u3055\u3088u\u306a\u3089",
-        "url": "https://open.spotify.com/album/4Jh1hxtZ0WbjVTnsK1KoGz"
-      },
-      "artists": [
-        {
-          "name": "Cody\u30fbLee(\u674e)",
-          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
-        }
-      ],
-      "duration_ms": 291857,
-      "name": "\u3055\u3088u\u306a\u3089",
-      "url": "https://open.spotify.com/track/0bELtgWGunnj4aElCUgHje"
-    },
-    {
-      "added_at": "2023-10-24 15:00:00",
-      "album": {
         "name": "\u666f\u8272\u4e00\u7a7a",
         "url": "https://open.spotify.com/album/6gyGX7WrIQKwOWGZHFHgJu"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 287100,
       "name": "\u666f\u8272\u4e00\u7a7a",
       "url": "https://open.spotify.com/track/3CfgUhEuuWhwQRkj60SjbY"
+    },
+    {
+      "added_at": "2023-10-24 15:00:00",
+      "album": {
+        "name": "\u3055\u3088u\u306a\u3089",
+        "url": "https://open.spotify.com/album/4Jh1hxtZ0WbjVTnsK1KoGz"
+      },
+      "artists": [
+        {
+          "name": "Cody\u30fbLee(\u674e)",
+          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
+        }
+      ],
+      "duration_ms": 291857,
+      "name": "\u3055\u3088u\u306a\u3089",
+      "url": "https://open.spotify.com/track/0bELtgWGunnj4aElCUgHje"
     },
     {
       "added_at": "2023-10-24 15:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-10-24 15:00:00",
       "album": {
-        "name": "Aglio e olio",
-        "url": "https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT"
-      },
-      "artists": [
-        {
-          "name": "Tohji",
-          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
-        }
-      ],
-      "duration_ms": 165018,
-      "name": "Aglio e olio",
-      "url": "https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND"
-    },
-    {
-      "added_at": "2023-10-24 15:00:00",
-      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 185133,
       "name": "Sashiiro",
       "url": "https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5"
+    },
+    {
+      "added_at": "2023-10-24 15:00:00",
+      "album": {
+        "name": "Aglio e olio",
+        "url": "https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT"
+      },
+      "artists": [
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        }
+      ],
+      "duration_ms": 165018,
+      "name": "Aglio e olio",
+      "url": "https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND"
     },
     {
       "added_at": "2023-10-24 15:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-10-24 15:00:00",
       "album": {
-        "name": "\u9060\u3044\u671d",
-        "url": "https://open.spotify.com/album/22lwuTLvc0LQWA01kat0Fs"
-      },
-      "artists": [
-        {
-          "name": "Yuga",
-          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
-        }
-      ],
-      "duration_ms": 183168,
-      "name": "\u9060\u3044\u671d",
-      "url": "https://open.spotify.com/track/5KSWrw6dKkVaN4ImVrko9Z"
-    },
-    {
-      "added_at": "2023-10-24 15:00:00",
-      "album": {
         "name": "CHAI",
         "url": "https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 165757,
       "name": "GAME",
       "url": "https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj"
+    },
+    {
+      "added_at": "2023-10-24 15:00:00",
+      "album": {
+        "name": "\u9060\u3044\u671d",
+        "url": "https://open.spotify.com/album/22lwuTLvc0LQWA01kat0Fs"
+      },
+      "artists": [
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        }
+      ],
+      "duration_ms": 183168,
+      "name": "\u9060\u3044\u671d",
+      "url": "https://open.spotify.com/track/5KSWrw6dKkVaN4ImVrko9Z"
     },
     {
       "added_at": "2023-10-24 15:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-10-24 15:00:00",
       "album": {
+        "name": "sinister",
+        "url": "https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "duration_ms": 218148,
+      "name": "sinister",
+      "url": "https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm"
+    },
+    {
+      "added_at": "2023-10-24 15:00:00",
+      "album": {
         "name": "\u5728\u591c\u5e02\u518d\u898b",
         "url": "https://open.spotify.com/album/4T8JGSQyzpRN9LclQj3ki5"
       },
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2023-10-24 15:00:00",
       "album": {
-        "name": "sinister",
-        "url": "https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq"
-      },
-      "artists": [
-        {
-          "name": "a\u5b50",
-          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
-        }
-      ],
-      "duration_ms": 218148,
-      "name": "sinister",
-      "url": "https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm"
-    },
-    {
-      "added_at": "2023-10-24 15:00:00",
-      "album": {
         "name": "Super Loud",
         "url": "https://open.spotify.com/album/5xyyySZaoIUYX6FdSTiQnZ"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-10-24 15:00:00",
       "album": {
-        "name": "\u5f0f\u65e5\u6563\u82b1",
-        "url": "https://open.spotify.com/album/7j7qbYpUeyXm543KD9lIC5"
-      },
-      "artists": [
-        {
-          "name": "the dresscodes",
-          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
-        }
-      ],
-      "duration_ms": 218946,
-      "name": "\u5728\u6771\u4eac\u5c11\u5e74",
-      "url": "https://open.spotify.com/track/605J8O8EnF8FThxJ8Ma0G7"
-    },
-    {
-      "added_at": "2023-10-24 15:00:00",
-      "album": {
         "name": "Blue light",
         "url": "https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 235500,
       "name": "Blue light",
       "url": "https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g"
+    },
+    {
+      "added_at": "2023-10-24 15:00:00",
+      "album": {
+        "name": "\u5f0f\u65e5\u6563\u82b1",
+        "url": "https://open.spotify.com/album/7j7qbYpUeyXm543KD9lIC5"
+      },
+      "artists": [
+        {
+          "name": "the dresscodes",
+          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
+        }
+      ],
+      "duration_ms": 218946,
+      "name": "\u5728\u6771\u4eac\u5c11\u5e74",
+      "url": "https://open.spotify.com/track/605J8O8EnF8FThxJ8Ma0G7"
     },
     {
       "added_at": "2023-10-24 15:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-10-24 15:00:00",
       "album": {
-        "name": "\u6200\u611b\u5927\u5168",
-        "url": "https://open.spotify.com/album/7vquQAWbCFooOeeSrKDQky"
-      },
-      "artists": [
-        {
-          "name": "the dresscodes",
-          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "\u8056\u8005",
-      "url": "https://open.spotify.com/track/0pc65xApWsiCYFHay3uEEJ"
-    },
-    {
-      "added_at": "2023-10-24 15:00:00",
-      "album": {
         "name": "Steppin' Out",
         "url": "https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 403983,
       "name": "Runner's High",
       "url": "https://open.spotify.com/track/0tX5aD8AVLQSKCoEl2VCVx"
+    },
+    {
+      "added_at": "2023-10-24 15:00:00",
+      "album": {
+        "name": "\u6200\u611b\u5927\u5168",
+        "url": "https://open.spotify.com/album/7vquQAWbCFooOeeSrKDQky"
+      },
+      "artists": [
+        {
+          "name": "the dresscodes",
+          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "\u8056\u8005",
+      "url": "https://open.spotify.com/track/0pc65xApWsiCYFHay3uEEJ"
     },
     {
       "added_at": "2023-10-24 15:00:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-10-24 15:00:00",
       "album": {
+        "name": "\u304a\u3059\u3057",
+        "url": "https://open.spotify.com/album/5WYAvW8s9xG4ESshoqffaJ"
+      },
+      "artists": [
+        {
+          "name": "Zainichi Funk",
+          "url": "https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa"
+        }
+      ],
+      "duration_ms": 224250,
+      "name": "\u304a\u3059\u3057",
+      "url": "https://open.spotify.com/track/432b1BqmBhTu0YcQtZu3k0"
+    },
+    {
+      "added_at": "2023-10-24 15:00:00",
+      "album": {
         "name": "\u9053\u306e\u9014\u4e2d",
         "url": "https://open.spotify.com/album/2I2XSTxcPhYvozdRWKswAj"
       },
@@ -1491,6 +1507,22 @@
       "duration_ms": 245500,
       "name": "\u9053\u306e\u9014\u4e2d",
       "url": "https://open.spotify.com/track/03V3gmMDZZa8U3CGXTEOsu"
+    },
+    {
+      "added_at": "2023-10-24 15:00:00",
+      "album": {
+        "name": "All to Myself",
+        "url": "https://open.spotify.com/album/1X9QwFBNOCFiHkOE3OD4v2"
+      },
+      "artists": [
+        {
+          "name": "ako",
+          "url": "https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo"
+        }
+      ],
+      "duration_ms": 198002,
+      "name": "All to Myself",
+      "url": "https://open.spotify.com/track/4nIy52HZ6omZxRnMs6qB0g"
     },
     {
       "added_at": "2023-10-24 15:00:00",
@@ -1515,22 +1547,6 @@
     {
       "added_at": "2023-10-24 15:00:00",
       "album": {
-        "name": "All to Myself",
-        "url": "https://open.spotify.com/album/1X9QwFBNOCFiHkOE3OD4v2"
-      },
-      "artists": [
-        {
-          "name": "ako",
-          "url": "https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo"
-        }
-      ],
-      "duration_ms": 198002,
-      "name": "All to Myself",
-      "url": "https://open.spotify.com/track/4nIy52HZ6omZxRnMs6qB0g"
-    },
-    {
-      "added_at": "2023-10-24 15:00:00",
-      "album": {
         "name": "Feet Feet",
         "url": "https://open.spotify.com/album/4Fw194NfogwEO1WNbDHEYe"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 221029,
       "name": "Feet Feet",
       "url": "https://open.spotify.com/track/0LhOjOaUIdQHwdYjQJIbYx"
-    },
-    {
-      "added_at": "2023-10-24 15:00:00",
-      "album": {
-        "name": "\u304a\u3059\u3057",
-        "url": "https://open.spotify.com/album/5WYAvW8s9xG4ESshoqffaJ"
-      },
-      "artists": [
-        {
-          "name": "Zainichi Funk",
-          "url": "https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa"
-        }
-      ],
-      "duration_ms": 224250,
-      "name": "\u304a\u3059\u3057",
-      "url": "https://open.spotify.com/track/432b1BqmBhTu0YcQtZu3k0"
     },
     {
       "added_at": "2023-10-24 15:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-10-24 15:00:00",
       "album": {
-        "name": "\u3044\u3064\u304b\u6e1a\u3078",
-        "url": "https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds"
-      },
-      "artists": [
-        {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "\u3044\u3064\u304b\u6e1a\u3078",
-      "url": "https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu"
-    },
-    {
-      "added_at": "2023-10-24 15:00:00",
-      "album": {
         "name": "\u3066\u3093\u5bfe\u79f0\u79fb\u52d5",
         "url": "https://open.spotify.com/album/5hRtyxHIhwg5QkK3Yt01u3"
       },
@@ -1607,6 +1591,26 @@
       "duration_ms": 149424,
       "name": "\u3066\u3093\u5bfe\u79f0\u79fb\u52d5",
       "url": "https://open.spotify.com/track/0zKOfNlLeygAyy55AxJoXf"
+    },
+    {
+      "added_at": "2023-10-24 15:00:00",
+      "album": {
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/78z8tDsh0tpIQF86EIVmRT"
+      },
+      "artists": [
+        {
+          "name": "ASOUND",
+          "url": "https://open.spotify.com/artist/4pzv2ytPQ4JKkty8Qtnbvk"
+        },
+        {
+          "name": "Chinza Dopeness",
+          "url": "https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho"
+        }
+      ],
+      "duration_ms": 341890,
+      "name": "Meditation",
+      "url": "https://open.spotify.com/track/2p7rstljNEQ9dwNhKsS3Wr"
     },
     {
       "added_at": "2023-10-24 15:00:00",
@@ -1639,26 +1643,6 @@
     {
       "added_at": "2023-10-24 15:00:00",
       "album": {
-        "name": "Meditation",
-        "url": "https://open.spotify.com/album/78z8tDsh0tpIQF86EIVmRT"
-      },
-      "artists": [
-        {
-          "name": "ASOUND",
-          "url": "https://open.spotify.com/artist/4pzv2ytPQ4JKkty8Qtnbvk"
-        },
-        {
-          "name": "Chinza Dopeness",
-          "url": "https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho"
-        }
-      ],
-      "duration_ms": 341890,
-      "name": "Meditation",
-      "url": "https://open.spotify.com/track/2p7rstljNEQ9dwNhKsS3Wr"
-    },
-    {
-      "added_at": "2023-10-24 15:00:00",
-      "album": {
         "name": "NEW BORN GHOST",
         "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 141793,
       "name": "\u30d0\u30fc\u30b9\u30c7\u30a4",
       "url": "https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE"
+    },
+    {
+      "added_at": "2023-10-24 15:00:00",
+      "album": {
+        "name": "\u3044\u3064\u304b\u6e1a\u3078",
+        "url": "https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds"
+      },
+      "artists": [
+        {
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "\u3044\u3064\u304b\u6e1a\u3078",
+      "url": "https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu"
     },
     {
       "added_at": "2023-10-24 15:00:00",

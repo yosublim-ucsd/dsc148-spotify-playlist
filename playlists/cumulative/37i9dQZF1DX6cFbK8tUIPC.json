@@ -3701,6 +3701,24 @@
     },
     {
       "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/04QJpsEnEyBN0WSBQZ89Gn"
+      },
+      "artists": [
+        {
+          "name": "Sparky Deathcap",
+          "url": "https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189681,
+      "name": "September",
+      "url": "https://open.spotify.com/track/58COM3RaYYmMhPySBdsjxu"
+    },
+    {
+      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/2WYwG9H90bEhcHdyeUdA3h"
       },

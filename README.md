@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6932\)
+## Playlists \(6933\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -3579,6 +3579,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [No Cap](/playlists/pretty/37i9dQZF1DX0Tkc6ltcBfU.md)
 - [No Princípio Era o Verso](/playlists/pretty/37i9dQZF1DWYoltNfXbIx8.md)
 - [No Stress](/playlists/pretty/37i9dQZF1DXc0aozDLZsk7.md)
+- [No Stress!](/playlists/pretty/37i9dQZF1DXaz7CcPuNVXF.md)
 - [No Wahala](/playlists/pretty/37i9dQZF1DXdl8xYyG9Dm1.md)
 - [No corre](/playlists/pretty/37i9dQZF1DXb8e91bM8R51.md)
 - [No sleep for these forgotten bangers](/playlists/pretty/1EDj8shhTsXo5AlDodKp4M.md)
@@ -4079,7 +4080,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [RAPública de Colombia](/playlists/pretty/37i9dQZF1DX2vnBrKB7FwM.md)
 - [REM sleep](/playlists/pretty/37i9dQZF1DX3TRdW1ekdvM.md)
 - [RIP James Gandolfini](/playlists/pretty/3l6cfhKgkSNxYydKiD9o4G.md)
-- [RIPPLE EFFECT](/playlists/pretty/37i9dQZF1DX5qjSia2PLFP.md)
 - [RJ Barrett's Taste](/playlists/pretty/37i9dQZF1DX35VK5frwUWn.md)
 - [RNB X](/playlists/pretty/37i9dQZF1DX4SBhb3fqCJd.md)
 - [ROY G BIV](/playlists/pretty/37i9dQZF1DX6PiP84oEbKp.md)
@@ -4242,6 +4242,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Rimas Pa'l Cora](/playlists/pretty/37i9dQZF1DXbMnDeC4VENb.md)
 - [Rimas y Perreo](/playlists/pretty/37i9dQZF1DX5DeyeaDuJmw.md)
 - [Riot Grrrl](/playlists/pretty/37i9dQZF1DXadlZCyb9AB3.md)
+- [Ripple Effect](/playlists/pretty/37i9dQZF1DX5qjSia2PLFP.md)
 - [Ripple Effect:  Midwest](/playlists/pretty/37i9dQZF1DX9Xlyj8WKw1E.md)
 - [Ripple Effect: Bay to LA](/playlists/pretty/37i9dQZF1DX7q1woBjoKv7.md)
 - [Ripple Effect: DMV](/playlists/pretty/37i9dQZF1DWWNlm4v5v5Qw.md)

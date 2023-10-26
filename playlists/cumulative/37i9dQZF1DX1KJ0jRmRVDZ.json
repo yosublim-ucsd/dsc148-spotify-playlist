@@ -1863,6 +1863,24 @@
     },
     {
       "album": {
+        "name": "Gaze",
+        "url": "https://open.spotify.com/album/0hoSnKno21HWDf6u46AQ50"
+      },
+      "artists": [
+        {
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241986,
+      "name": "Gaze",
+      "url": "https://open.spotify.com/track/6s4yoCzQJOR2JtTMbFhIQj"
+    },
+    {
+      "album": {
         "name": "Gerbera",
         "url": "https://open.spotify.com/album/5bW6MAWuSTKFk7cuMLOETR"
       },
@@ -14696,7 +14714,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 241986,
       "name": "\u773c\u5dee\u3057",
       "url": "https://open.spotify.com/track/4X1PWrG6ES3ON8IXaa9uBX"

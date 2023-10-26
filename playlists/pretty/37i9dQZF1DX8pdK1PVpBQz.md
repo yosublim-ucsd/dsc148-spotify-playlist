@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 ### [Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> Discover something new from local independent artists on the rise\. Cover: Sahara Beck\. Artwork: Isu Kim
+> Discover something new from local independent artists on the rise\. Cover: Miss Kaninna\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,857 likes - 104 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,881 likes - 102 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ugly Feelings](https://open.spotify.com/track/1WZ4Y7NZqTzv9eR7ZuslZr) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Ugly Feelings](https://open.spotify.com/album/3m5yHtkpJaAdfFHBvXUtvI) | 2:24 |
-| 2 | [Hard To Tell](https://open.spotify.com/track/6jgPtwhexa32ckFqhFstn3) | [Sahara Beck](https://open.spotify.com/artist/52eVN5OWWaV4fVShDeJIj3) | [Hard To Tell](https://open.spotify.com/album/3aM1hjyXrIHsgfzj36GN6d) | 3:12 |
-| 3 | [Pinnacle Bitch](https://open.spotify.com/track/7zOHs1vpfnGnx2KFBjnNOE) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [Pinnacle Bitch](https://open.spotify.com/album/0odPeCpPLezE6U2cogRT2b) | 3:21 |
+| 2 | [Pinnacle Bitch](https://open.spotify.com/track/7zOHs1vpfnGnx2KFBjnNOE) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [Pinnacle Bitch](https://open.spotify.com/album/0odPeCpPLezE6U2cogRT2b) | 3:21 |
+| 3 | [Hard To Tell](https://open.spotify.com/track/6jgPtwhexa32ckFqhFstn3) | [Sahara Beck](https://open.spotify.com/artist/52eVN5OWWaV4fVShDeJIj3) | [Hard To Tell](https://open.spotify.com/album/3aM1hjyXrIHsgfzj36GN6d) | 3:12 |
 | 4 | [Answer](https://open.spotify.com/track/5br04RlIhItYQmNIqGXO7E) | [Queenz](https://open.spotify.com/artist/2A0WFBUwFhCSrYVmBI8mu8) | [Answer](https://open.spotify.com/album/6Aniw68r3mUgOMtKucLpnU) | 2:15 |
 | 5 | [Looking Back](https://open.spotify.com/track/6BS3TRdBj6XyOaR8lUERpy) | [ENOLA](https://open.spotify.com/artist/0JwAxa5LS26N0e6wEedRnB) | [Looking Back](https://open.spotify.com/album/3ritrwkFqasE4hp42q1cHY) | 4:32 |
 | 6 | [In The Dark](https://open.spotify.com/track/1hGxNmp8ObCbhnQ1CQUf98) | [Soma](https://open.spotify.com/artist/23pMHdWBS71N6BsOmYjNYa) | [In The Dark](https://open.spotify.com/album/6SBXsz52xePJP4OhBfqQdW) | 2:59 |
@@ -88,29 +88,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 78 | [All The Way](https://open.spotify.com/track/73Xhevivi1G77tIie74FRU) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All The Way](https://open.spotify.com/album/0VXfVRGsiU06KoBJs19PTb) | 3:32 |
 | 79 | [’til I figure it out](https://open.spotify.com/track/6ZyphmZwirJCxCqmxhW1WT) | [Citizen Kay](https://open.spotify.com/artist/5Lk4v9lO1NoZATNftqFznj) | [’til I figure it out](https://open.spotify.com/album/43X5xrpkCooWPIsJmGzgK4) | 3:16 |
 | 80 | [Lizard Eyes](https://open.spotify.com/track/0W7JDifoWEDPZFh5o8Dz8o) | [Reptant](https://open.spotify.com/artist/5U3qBQ7tFIpHNAYmrnOSiR) | [Duality Of The Gecko](https://open.spotify.com/album/3zyTyIf2SXvkYvQU9jfpGd) | 5:38 |
-| 81 | [Style so Sick \- Edit](https://open.spotify.com/track/3qRYLqnnW2IsmKoG9B6rBP) | [Mincy](https://open.spotify.com/artist/5KNUX2wDVlp2W9sukkgm2x), [Killjoy](https://open.spotify.com/artist/53zP3OFS7Ucgw1bcjoi9pH), [Radar Stanna](https://open.spotify.com/artist/1uJbbJSWMvTJqL9Q2l7O6a) | [Alien Cuts, Vol\. 2](https://open.spotify.com/album/2kVieMTyA7BmmlvJHVzmTY) | 3:35 |
-| 82 | [Someday](https://open.spotify.com/track/4fda3DHfuJXdrWOUuQpbzt) | [Lepani](https://open.spotify.com/artist/2BP4XXvv9754tQZ0Pumcml) | [Someday](https://open.spotify.com/album/7EOUlFpxWwFKISRGeqI7NN) | 3:19 |
-| 83 | [I'll Be There](https://open.spotify.com/track/10Nme1J5ty4ITnNE2npvmy) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [I'll Be There](https://open.spotify.com/album/6KXznfcaQfziAzJpsoiUZA) | 6:54 |
-| 84 | [I Want You Dead](https://open.spotify.com/track/6G7oIm5oIcd8cJ0513hYV5) | [Drift](https://open.spotify.com/artist/5As4J0NBaerSYQNuKgVuXi) | [Candyland](https://open.spotify.com/album/20wqWjwhu1NhPqRipNSrON) | 3:20 |
-| 85 | [Neighbours Never Wave](https://open.spotify.com/track/19i30clFcw3oyljs0WSUhz) | [Sid's Balcony](https://open.spotify.com/artist/3xaYtryvMV4jdpx3h4Ydaq) | [Neighbours Never Wave](https://open.spotify.com/album/7wz51Itl7KzEu8M1brdNi4) | 3:26 |
-| 86 | [Silly Little Things](https://open.spotify.com/track/7dlMohYqLtRbhUCG4yECUV) | [Tex Crick](https://open.spotify.com/artist/6tZLFWPPLQRWjRaDAhVYu0) | [Silly Little Things](https://open.spotify.com/album/0c66VzEzfBuypF1LX6Cg2S) | 3:11 |
-| 87 | [Molly Sucks \(At Parties\) \[feat\. Chanel Loren\]](https://open.spotify.com/track/3boVjk1GSKD4mnJJbmdXf9) | [GAZAL](https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU), [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Molly Sucks \(At Parties\) \[feat\. Chanel Loren\]](https://open.spotify.com/album/7pETeC6zWXLdNGFGrdM6X8) | 3:13 |
-| 88 | [Haiku Song](https://open.spotify.com/track/0pXlw4HLoeTZ86hxyWmiOi) | [Hannah Cameron](https://open.spotify.com/artist/5YONmUkKMhcZ425zGUfhqF) | [Holding Pattern](https://open.spotify.com/album/5QtjSD5s65FbCSkqSl7oMe) | 4:00 |
-| 89 | [Work With That](https://open.spotify.com/track/1vFjTDMs6UupIo9v52mokR) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Work With That](https://open.spotify.com/album/4wdqIrFeiYfitJJfcDjmQu) | 3:21 |
-| 90 | [WHAT IF](https://open.spotify.com/track/7qke4DL2gzazQqrrOzDMDR) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [WHAT IF](https://open.spotify.com/album/6GqmmKHEzloi6DA5WkqaRm) | 2:34 |
-| 91 | [Something I Said](https://open.spotify.com/track/1IxMV1vgW5jEMzAKBG5SPV) | [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [Body Beat](https://open.spotify.com/album/394IurmiaXgpfHcO7J8drZ) | 5:22 |
-| 92 | [New Feelings](https://open.spotify.com/track/2aqlCJQ2LSz3yA1dBsAH6G) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [New Feelings](https://open.spotify.com/album/5uMABp0y0oZXkLrYlwtOFZ) | 3:02 |
-| 93 | [Do Re Mi](https://open.spotify.com/track/2UYzGoyIdiTM4oYLi550qE) | [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs) | [Do Re Mi](https://open.spotify.com/album/4XGpbDovHYppZKNq4KVq23) | 3:04 |
-| 94 | [Alive](https://open.spotify.com/track/11lD8dtStBFmtcFU1b27Uv) | [Chores](https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I), [Elaskia](https://open.spotify.com/artist/6Q2uOBVYTPgtPnSFaBPUvV) | [Alive](https://open.spotify.com/album/1hG3fzvtahMniNamrEcerR) | 4:34 |
-| 95 | [I dropped the bottle](https://open.spotify.com/track/2Q0mGTS4rOEnl8Z0VwSFFc) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [I dropped the bottle](https://open.spotify.com/album/5N6E5nysJ950xzpi0ZqbAL) | 2:41 |
-| 96 | [WIM HOF](https://open.spotify.com/track/0aj4wmG23V5tflOKakQTa9) | [KingTheFreeSoul](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [WIM HOF](https://open.spotify.com/album/6rm6v24BAeWeuP6W2M32fp) | 2:38 |
-| 97 | [Into The Fire](https://open.spotify.com/track/3BQZdVLLg8hA3jQLMJzXty) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Love In The Sun \- EP](https://open.spotify.com/album/0Fz6d9y4o7Ykv0QoOcRb1S) | 5:02 |
-| 98 | [Not Your Fault](https://open.spotify.com/track/6iVJSdSyVrxcQJz48PAhdU) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Not Your Fault](https://open.spotify.com/album/4uYYIURaD0wnyzWNfmVFtl) | 3:53 |
-| 99 | [Cooking Oil](https://open.spotify.com/track/6mz6V9W1yL1GudUBEw9Oc2) | [Mia June](https://open.spotify.com/artist/3nGsiPPwDm3hNizqMYxtRi) | [Cooking Oil](https://open.spotify.com/album/5rTWHdCZhCuMMjGXi682QI) | 3:01 |
-| 100 | [Fake Friends](https://open.spotify.com/track/2YHoGZBdWEUvXG6m8X2HGA) | [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [Fake Friends](https://open.spotify.com/album/5qA6tcZ6Jk3wl1PMUZ2SMV) | 2:35 |
-| 101 | [Patterns](https://open.spotify.com/track/4dUwdBiHiSy7Jd66CjOGjV) | [Maanyung](https://open.spotify.com/artist/6Dg8fZV2GE2z6caTDzTH5i) | [Patterns](https://open.spotify.com/album/1NVxjaPPxBLH9QvnoNmwHd) | 2:43 |
-| 102 | [SIRENZ](https://open.spotify.com/track/75kE96bhxZKeWVWPIVwZUJ) | [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ) | [SIRENZ](https://open.spotify.com/album/1oxaBkkAsYY8GaPzs42gCq) | 3:19 |
-| 103 | [ELEGANTE](https://open.spotify.com/track/366Kk1owEIW4NJ5CHU5T1N) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [ELEGANTE](https://open.spotify.com/album/0Pol9jlvTYrOFftlWhdYDS) | 2:46 |
-| 104 | [on & on](https://open.spotify.com/track/6oAonvnwPnw3IadUWTyvhm) | [SAFETY CLUB](https://open.spotify.com/artist/52OF5mGGrAg9kdlq9Qkkd4) | [on & on](https://open.spotify.com/album/4ZPyfnsy8jy5vT9Hw4MlN1) | 2:49 |
+| 81 | [Someday](https://open.spotify.com/track/4fda3DHfuJXdrWOUuQpbzt) | [Lepani](https://open.spotify.com/artist/2BP4XXvv9754tQZ0Pumcml) | [Someday](https://open.spotify.com/album/7EOUlFpxWwFKISRGeqI7NN) | 3:19 |
+| 82 | [I'll Be There](https://open.spotify.com/track/10Nme1J5ty4ITnNE2npvmy) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [I'll Be There](https://open.spotify.com/album/6KXznfcaQfziAzJpsoiUZA) | 6:54 |
+| 83 | [I Want You Dead](https://open.spotify.com/track/6G7oIm5oIcd8cJ0513hYV5) | [Drift](https://open.spotify.com/artist/5As4J0NBaerSYQNuKgVuXi) | [Candyland](https://open.spotify.com/album/20wqWjwhu1NhPqRipNSrON) | 3:20 |
+| 84 | [Silly Little Things](https://open.spotify.com/track/7dlMohYqLtRbhUCG4yECUV) | [Tex Crick](https://open.spotify.com/artist/6tZLFWPPLQRWjRaDAhVYu0) | [Silly Little Things](https://open.spotify.com/album/0c66VzEzfBuypF1LX6Cg2S) | 3:11 |
+| 85 | [Molly Sucks \(At Parties\) \[feat\. Chanel Loren\]](https://open.spotify.com/track/3boVjk1GSKD4mnJJbmdXf9) | [GAZAL](https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU), [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Molly Sucks \(At Parties\) \[feat\. Chanel Loren\]](https://open.spotify.com/album/7pETeC6zWXLdNGFGrdM6X8) | 3:13 |
+| 86 | [Haiku Song](https://open.spotify.com/track/0pXlw4HLoeTZ86hxyWmiOi) | [Hannah Cameron](https://open.spotify.com/artist/5YONmUkKMhcZ425zGUfhqF) | [Holding Pattern](https://open.spotify.com/album/5QtjSD5s65FbCSkqSl7oMe) | 4:00 |
+| 87 | [Work With That](https://open.spotify.com/track/1vFjTDMs6UupIo9v52mokR) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Work With That](https://open.spotify.com/album/4wdqIrFeiYfitJJfcDjmQu) | 3:21 |
+| 88 | [WHAT IF](https://open.spotify.com/track/7qke4DL2gzazQqrrOzDMDR) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [WHAT IF](https://open.spotify.com/album/6GqmmKHEzloi6DA5WkqaRm) | 2:34 |
+| 89 | [Something I Said](https://open.spotify.com/track/1IxMV1vgW5jEMzAKBG5SPV) | [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [Body Beat EP](https://open.spotify.com/album/394IurmiaXgpfHcO7J8drZ) | 5:22 |
+| 90 | [New Feelings](https://open.spotify.com/track/2aqlCJQ2LSz3yA1dBsAH6G) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [New Feelings](https://open.spotify.com/album/5uMABp0y0oZXkLrYlwtOFZ) | 3:02 |
+| 91 | [Do Re Mi](https://open.spotify.com/track/2UYzGoyIdiTM4oYLi550qE) | [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs) | [Do Re Mi](https://open.spotify.com/album/4XGpbDovHYppZKNq4KVq23) | 3:04 |
+| 92 | [Alive](https://open.spotify.com/track/11lD8dtStBFmtcFU1b27Uv) | [Chores](https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I), [Elaskia](https://open.spotify.com/artist/6Q2uOBVYTPgtPnSFaBPUvV) | [Alive](https://open.spotify.com/album/1hG3fzvtahMniNamrEcerR) | 4:34 |
+| 93 | [I dropped the bottle](https://open.spotify.com/track/2Q0mGTS4rOEnl8Z0VwSFFc) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [I dropped the bottle](https://open.spotify.com/album/5N6E5nysJ950xzpi0ZqbAL) | 2:41 |
+| 94 | [WIM HOF](https://open.spotify.com/track/0aj4wmG23V5tflOKakQTa9) | [KingTheFreeSoul](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [WIM HOF](https://open.spotify.com/album/6rm6v24BAeWeuP6W2M32fp) | 2:38 |
+| 95 | [Into The Fire](https://open.spotify.com/track/3BQZdVLLg8hA3jQLMJzXty) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Love In The Sun \- EP](https://open.spotify.com/album/0Fz6d9y4o7Ykv0QoOcRb1S) | 5:02 |
+| 96 | [Not Your Fault](https://open.spotify.com/track/6iVJSdSyVrxcQJz48PAhdU) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Not Your Fault](https://open.spotify.com/album/4uYYIURaD0wnyzWNfmVFtl) | 3:53 |
+| 97 | [Cooking Oil](https://open.spotify.com/track/6mz6V9W1yL1GudUBEw9Oc2) | [Mia June](https://open.spotify.com/artist/3nGsiPPwDm3hNizqMYxtRi) | [Cooking Oil](https://open.spotify.com/album/5rTWHdCZhCuMMjGXi682QI) | 3:01 |
+| 98 | [Fake Friends](https://open.spotify.com/track/2YHoGZBdWEUvXG6m8X2HGA) | [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [Fake Friends](https://open.spotify.com/album/5qA6tcZ6Jk3wl1PMUZ2SMV) | 2:35 |
+| 99 | [Patterns](https://open.spotify.com/track/4dUwdBiHiSy7Jd66CjOGjV) | [Maanyung](https://open.spotify.com/artist/6Dg8fZV2GE2z6caTDzTH5i) | [Patterns](https://open.spotify.com/album/1NVxjaPPxBLH9QvnoNmwHd) | 2:43 |
+| 100 | [SIRENZ](https://open.spotify.com/track/75kE96bhxZKeWVWPIVwZUJ) | [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ) | [SIRENZ](https://open.spotify.com/album/1oxaBkkAsYY8GaPzs42gCq) | 3:19 |
+| 101 | [ELEGANTE](https://open.spotify.com/track/366Kk1owEIW4NJ5CHU5T1N) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [ELEGANTE](https://open.spotify.com/album/0Pol9jlvTYrOFftlWhdYDS) | 2:46 |
+| 102 | [on & on](https://open.spotify.com/track/6oAonvnwPnw3IadUWTyvhm) | [SAFETY CLUB](https://open.spotify.com/artist/52OF5mGGrAg9kdlq9Qkkd4) | [on & on](https://open.spotify.com/album/4ZPyfnsy8jy5vT9Hw4MlN1) | 2:49 |
 
-Snapshot ID: `MCxmMzg0OTA0NDhhOTg1M2YyZDdjMGVmMjc0NWViZTFhODkzMmVjM2Iy`
+Snapshot ID: `MCxjMDRlNzM2ZDM3N2U1YmE0MjYxNjEyZjY4ZWMzMmEzYTg5ODEyMjgx`

@@ -4,7 +4,7 @@
 
 > Guitarra cálida e instrumental para un agradable inicio de día.
 
-150 songs - 6 hr 46 min
+151 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Past & Present](https://open.spotify.com/track/43dy9gJMpgJmuhCS9fXreR) | [Isabella Molinero](https://open.spotify.com/artist/37C7aJnXB81MAsj0UqX4PV) | [Past & Present](https://open.spotify.com/album/1YkLOGEug3hxm0QZPfWkcs) | 3:01 | 2023-09-15 |  |
 | [Path To The Mind](https://open.spotify.com/track/14V2T4B8QG4kMZLc7XyYPv) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Path To The Mind](https://open.spotify.com/album/1qCBCQvepLF70Ge8hQJSxF) | 3:23 | 2023-09-15 |  |
 | [Pelotas](https://open.spotify.com/track/00lpRj2l4gBL7aex8kneAg) | [Maria Gastona](https://open.spotify.com/artist/3qkCdwF2fxcLJsPUigwRcV) | [Rosa](https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7) | 2:30 | 2023-09-15 |  |
-| [Polmont](https://open.spotify.com/track/3kPK9PpKFX9L49vnWJZC6f) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Polmont](https://open.spotify.com/album/6UrVGtXMRuwNHZwn3TDDoy) | 2:16 | 2023-09-15 |  |
+| [Polmont](https://open.spotify.com/track/28IOe7yxQZDSHJAnGjM8kO) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Across The Pond](https://open.spotify.com/album/6EdjNwaGHT3ofgwahD8WlH) | 2:16 | 2023-09-15 |  |
+| [Polmont](https://open.spotify.com/track/3kPK9PpKFX9L49vnWJZC6f) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Polmont](https://open.spotify.com/album/6UrVGtXMRuwNHZwn3TDDoy) | 2:16 | 2023-09-15 | 2023-10-26 |
 | [Private Investigation](https://open.spotify.com/track/5UJX41yJ3og8Jb1Gn6kjMv) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Private Investigation](https://open.spotify.com/album/5h0J1K7pgcNeILEhv472rN) | 3:04 | 2023-09-15 |  |
 | [Quite Comfy](https://open.spotify.com/track/0oAZ7VXoIgk8Q8Izs0YkhO) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Quite Comfy](https://open.spotify.com/album/3gf4STG2CwjdpqjqSJNKKw) | 3:34 | 2023-09-15 |  |
 | [Quiver and Wince](https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Quiver and Wince](https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH) | 2:19 | 2023-09-15 |  |

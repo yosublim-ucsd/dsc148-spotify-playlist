@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Cumhuriyetin 100\. yılında Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Müzeyyen Senar
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,496 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,494 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 49 | [Gece Kal](https://open.spotify.com/track/7oQmMYl1XCeUcDxstnWBbw) | [Serenad Bayraktar](https://open.spotify.com/artist/3qWtoHeuQh2uzY7e7FQPzW) | [Gece Kal](https://open.spotify.com/album/6YOuhbpjklmP2QBbEgSagE) | 2:26 |
 | 50 | [Aşka İnandık](https://open.spotify.com/track/4U9GY1WAmfIUnbgbzSy820) | [Cevher](https://open.spotify.com/artist/5jUaU1L6PePJadPjzKYFXf) | [Aşka İnandık](https://open.spotify.com/album/6opFBGhv7ESX7xkwmwDrKK) | 4:28 |
 
-Snapshot ID: `MCw4NDY5NDFiMGM2NmZlZDRlMTk4YTNiNmEzODdlODM0NDJkOTI3YjA1`
+Snapshot ID: `MCwzMGQzMzFhYmE5MTU0ZDc3MzVkYzIzNmQ1ZDUwM2IxNTBiMDU1YmE4`

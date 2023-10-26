@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 47622,
+  "num_followers": 47665,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDAzZjg4MmViYzVkYmUwYjE2ZDZjNzljOGZmYzk4ZDFlNjc5MmY4",
+  "snapshot_id": "MCw4MWFlZGViZDM5ZGYyMzczMWNjOGVkNmM4ZDVlNTJmYjQwZGE3ZTQw",
   "tracks": [
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
+        "name": "Memphis Moonlight",
+        "url": "https://open.spotify.com/album/590d9qiOtgIds5a3u8UHxP"
+      },
+      "artists": [
+        {
+          "name": "Deb Ryder",
+          "url": "https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3"
+        }
+      ],
+      "duration_ms": 288856,
+      "name": "Love Is Gone",
+      "url": "https://open.spotify.com/track/6mn9a2i93IcbCF9oY8eQPo"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
         "name": "Lucky Guy!",
         "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 329373,
       "name": "Sanctified, Holy And Hateful",
       "url": "https://open.spotify.com/track/2M3KYbPJPfKOCWN75MZZXa"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
-        "name": "Memphis Moonlight",
-        "url": "https://open.spotify.com/album/590d9qiOtgIds5a3u8UHxP"
-      },
-      "artists": [
-        {
-          "name": "Deb Ryder",
-          "url": "https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3"
-        }
-      ],
-      "duration_ms": 288856,
-      "name": "Love Is Gone",
-      "url": "https://open.spotify.com/track/6mn9a2i93IcbCF9oY8eQPo"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Pass It On Down",
-        "url": "https://open.spotify.com/album/6VLp6e4Bxv03KOfrDQ7IsM"
-      },
-      "artists": [
-        {
-          "name": "Chris Beard",
-          "url": "https://open.spotify.com/artist/6pDY9BEQMQQrLdfY6zvrSR"
-        }
-      ],
-      "duration_ms": 313447,
-      "name": "Son I Never Knew",
-      "url": "https://open.spotify.com/track/3Wjk0hGlJVw2lnEL3ZC0x8"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/4Luc0LX0LP4hH1tuqELJyV"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Roll and Tumble",
-        "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
+        "name": "Pass It On Down",
+        "url": "https://open.spotify.com/album/6VLp6e4Bxv03KOfrDQ7IsM"
       },
       "artists": [
         {
-          "name": "R.L. Boyce",
-          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+          "name": "Chris Beard",
+          "url": "https://open.spotify.com/artist/6pDY9BEQMQQrLdfY6zvrSR"
         }
       ],
-      "duration_ms": 205182,
-      "name": "Sometimes I Worry",
-      "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
+      "duration_ms": 313447,
+      "name": "Son I Never Knew",
+      "url": "https://open.spotify.com/track/3Wjk0hGlJVw2lnEL3ZC0x8"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1335,6 +1319,22 @@
       "duration_ms": 203395,
       "name": "Get Your Lovin'",
       "url": "https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Roll and Tumble",
+        "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
+      },
+      "artists": [
+        {
+          "name": "R.L. Boyce",
+          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+        }
+      ],
+      "duration_ms": 205182,
+      "name": "Sometimes I Worry",
+      "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
     },
     {
       "added_at": "2023-10-02 12:57:01",

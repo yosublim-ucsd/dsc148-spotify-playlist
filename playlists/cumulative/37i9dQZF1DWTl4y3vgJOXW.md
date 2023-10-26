@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: LeBron James & Nikola Jokić
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Victor Wembanyama
 
 547 songs - 1 day 3 hr 53 min
 

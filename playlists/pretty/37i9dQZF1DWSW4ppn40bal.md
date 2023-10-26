@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Colored noise to help you sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,835 likes - 381 songs - 19 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,862 likes - 381 songs - 19 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -390,4 +390,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 380 | [Windy Cave](https://open.spotify.com/track/0WrXSw3Ktkevf8k6Fb5953) | [True White](https://open.spotify.com/artist/5vhaG8WchlssMkNH1VefUl) | [Brown Comfort](https://open.spotify.com/album/3E10zcfQkAdmeEpVhkEs3t) | 3:58 |
 | 381 | [Brown Noise 250 Hz Smooth Q \- Seamless](https://open.spotify.com/track/1RauFf2NZTjZgPzsjl9W8q) | [Waves Of Time](https://open.spotify.com/artist/5doCIxxFrIe9mTSjcGKmQd) | [Tranquil Brown](https://open.spotify.com/album/2p2VzgpoN035uU2XzvVzEZ) | 2:56 |
 
-Snapshot ID: `MCw0YjZiY2ZmMTFlMWQyNTJlNjA0ZjU3YzMxZDhkMGVjYTQ1ZDk1ZmM5`
+Snapshot ID: `MCxhNGNlNTI2Mjc1MWZlMjJjMzM2Y2MzYjVkNmVlMmQ3YzQ3ZjY5OGNh`

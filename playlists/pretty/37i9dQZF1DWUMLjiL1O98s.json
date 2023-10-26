@@ -1,13 +1,33 @@
 {
   "description": "La nueva ola del Afrobeats con un toque latino. Feid y Rema en portada  ",
-  "num_followers": 1780,
+  "num_followers": 1782,
   "original_name": "calorcito afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTczOTk3N2I1ZGMxNDhiZTVkYzE5MTM0NzQ3OTQwNjUyZmEyMDM0",
+  "snapshot_id": "MCw3OGJjMzcyMTlhNGY5Nzc2MWE2YjE2NDZhYjFhMmJjZmVhNDNmNmE2",
   "tracks": [
+    {
+      "added_at": "2023-10-20 01:24:25",
+      "album": {
+        "name": "BUBALU",
+        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "BUBALU",
+      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
     {
       "added_at": "2023-10-20 01:24:25",
       "album": {

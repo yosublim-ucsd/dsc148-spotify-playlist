@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 5255,
+  "num_followers": 5382,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2E2N2NkYmFkOGE1ZjZhMjhhMDhhNDg4NTNhYWUzMDAyNWQwNjBj",
+  "snapshot_id": "MCwyM2I0ZTUwOGQxNDYwMTU5MTY3MDk5NmI2ZGIzODk1MWZjODY0NWRj",
   "tracks": [
     {
       "added_at": "2023-10-05 22:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Too Close",
-        "url": "https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 208350,
-      "name": "Too Close",
-      "url": "https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
         "name": "Pink Shades",
         "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 210506,
       "name": "Pink Shades",
       "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Too Close",
+        "url": "https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 208350,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Built And Broken",
-        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 268293,
-      "name": "Built And Broken",
-      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
         "name": "Sugah Rush",
         "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 160594,
       "name": "Sugah Rush",
       "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Built And Broken",
+        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 268293,
+      "name": "Built And Broken",
+      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -647,6 +647,26 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
+        "name": "Times",
+        "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
+      },
+      "artists": [
+        {
+          "name": "Marlayne",
+          "url": "https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr"
+        },
+        {
+          "name": "Hans Vermeulen",
+          "url": "https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD"
+        }
+      ],
+      "duration_ms": 244060,
+      "name": "Times",
+      "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
         "name": "Big Thing",
         "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
       },
@@ -683,58 +703,6 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Times",
-        "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
-      },
-      "artists": [
-        {
-          "name": "Marlayne",
-          "url": "https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr"
-        },
-        {
-          "name": "Hans Vermeulen",
-          "url": "https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD"
-        }
-      ],
-      "duration_ms": 244060,
-      "name": "Times",
-      "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
-        "name": "Gonna Shine",
-        "url": "https://open.spotify.com/album/56d6RiEgQQBFlkuEx6lmAi"
-      },
-      "artists": [
-        {
-          "name": "The Georgia Thunderbolts",
-          "url": "https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Gonna Shine",
-      "url": "https://open.spotify.com/track/5DmCE0x0NldbgmjClh3qRW"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
-        "name": "A Heightened Sense of Everything",
-        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
-      },
-      "artists": [
-        {
-          "name": "Jon Allen",
-          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Heat of the Moment",
-      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
         "name": "What Kind of Woman",
         "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
       },
@@ -755,18 +723,34 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Wandering Soul",
-        "url": "https://open.spotify.com/album/6OPr5drQs4sdE8IgAK4vEv"
+        "name": "A Heightened Sense of Everything",
+        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
       },
       "artists": [
         {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
         }
       ],
-      "duration_ms": 152590,
-      "name": "Gravel Road",
-      "url": "https://open.spotify.com/track/078aq6YFLnlMAK6yqst82A"
+      "duration_ms": 208440,
+      "name": "Heat of the Moment",
+      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Gonna Shine",
+        "url": "https://open.spotify.com/album/56d6RiEgQQBFlkuEx6lmAi"
+      },
+      "artists": [
+        {
+          "name": "The Georgia Thunderbolts",
+          "url": "https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Gonna Shine",
+      "url": "https://open.spotify.com/track/5DmCE0x0NldbgmjClh3qRW"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -787,6 +771,22 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
+        "name": "Wandering Soul",
+        "url": "https://open.spotify.com/album/6OPr5drQs4sdE8IgAK4vEv"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 152590,
+      "name": "Gravel Road",
+      "url": "https://open.spotify.com/track/078aq6YFLnlMAK6yqst82A"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
         "name": "For The Better Of Me",
         "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
       },
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
+        "name": "Too Much Of A Woman",
+        "url": "https://open.spotify.com/album/2bT1OG1ABW8NzsFfoyhu0d"
+      },
+      "artists": [
+        {
+          "name": "Mell & Vintage Future",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 193503,
+      "name": "Too Much Of A Woman",
+      "url": "https://open.spotify.com/track/1kZno76kl0lVWni9SlncvW"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
         "name": "Burlesque Desert Window",
         "url": "https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 179573,
       "name": "Burlesque Desert Window",
       "url": "https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
-        "name": "When Lovers Become Friends",
-        "url": "https://open.spotify.com/album/4fpgBmFlpiWb5Y8hpGQl7l"
-      },
-      "artists": [
-        {
-          "name": "Mattanja Joy Bradley",
-          "url": "https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush"
-        }
-      ],
-      "duration_ms": 239029,
-      "name": "When Lovers Become Friends",
-      "url": "https://open.spotify.com/track/20lnlhGmHmGwquzYCcRygq"
     },
     {
       "added_at": "2023-10-05 22:00:00",

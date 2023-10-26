@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Do you dare to come in? Click <a href="spotify:playlist:37i9dQZF1DWXUjbdeyfJuU">HERE</a> to enter the haunted playlist and find the hidden mixtapes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,907,762 likes - 12 songs - 3 min 22 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,907,850 likes - 12 songs - 3 min 22 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 11 | [Sincerely,](https://open.spotify.com/track/0XW2Tam4DeiHRd4ZS5tqZq) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [Haunted Playlist](https://open.spotify.com/album/0vfcU5a7RlIBxIlDTFBRA0) | 0:15 |
 | 12 | [Fuego](https://open.spotify.com/track/6Hksm4rMm9VGDFGa7qSR3S) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [Haunted Playlist](https://open.spotify.com/album/1zHedv3mZNHcAWJ87ajeoJ) | 0:15 |
 
-Snapshot ID: `MCw0YjU4NzA0Mzk2MDc5M2E5YjM5ZDY4ZjY1N2VhOTcwYmQxZmFkYThj`
+Snapshot ID: `MCwxNTFjZTc5YTNkNTkyNDU4YjgzNzdmYzE5ODdiYWU1M2VhYzEzNmRi`

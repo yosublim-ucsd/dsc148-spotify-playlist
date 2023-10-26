@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Games We Play
 
-1,045 songs - 2 day 7 hr 11 min
+1,046 songs - 2 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,7 @@
 | [Hard to Breathe](https://open.spotify.com/track/5FSflvUaIY9F108oIFNg1e) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hard to Breathe](https://open.spotify.com/album/0CeoYDY9Pw0mGIePXZXQrA) | 2:57 | 2021-12-10 | 2022-05-20 |
 | [Hate Me](https://open.spotify.com/track/1Lk13k8L1NPszPjKoNio3G) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [Hate Me](https://open.spotify.com/album/1XTGnMBP75w3lVdfWYIi4c) | 2:48 | 2021-12-10 | 2023-04-11 |
 | [Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hate.](https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV) | 2:14 | 2023-04-10 |  |
-| [Haunted](https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Haunted](https://open.spotify.com/album/28IfOPBv7xdi0qW72LOFVc) | 3:43 | 2023-05-31 |  |
+| [Haunted](https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Haunted](https://open.spotify.com/album/28IfOPBv7xdi0qW72LOFVc) | 3:43 | 2023-05-31 | 2023-10-26 |
 | [he a bad guy](https://open.spotify.com/track/3fbsX0zkyDN3Ae2huke2ae) | [Leo IV](https://open.spotify.com/artist/0sL7q6u63eg3AuYPwImbhN), [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [he a bad guy](https://open.spotify.com/album/6MpWpDk4cBNUkU2BppuuXM) | 3:04 | 2022-03-25 | 2022-04-18 |
 | [Head in the Clouds](https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Head in The Clouds](https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH) | 2:55 | 2023-04-23 |  |
 | [Headstone](https://open.spotify.com/track/5PbNsH6E4cKPKqSTIx6sQb) | [Weatherstate](https://open.spotify.com/artist/21N31MF7KfcS5OXKRBaVZt) | [Headstone](https://open.spotify.com/album/1qBvU9jzoyXf2FnF83MvvQ) | 3:50 | 2022-01-14 | 2022-07-19 |
@@ -988,6 +988,7 @@
 | [WANNA BE \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:38 | 2021-12-10 | 2023-04-11 |
 | [Want You Back](https://open.spotify.com/track/5CElk3IWvXZwXohMes1hkr) | [Saint Young](https://open.spotify.com/artist/4zS8T4WSzhklqXmik1sTBj), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [Want You Back](https://open.spotify.com/album/3m2p3knOJ7HIAHTX9KM4xI) | 2:44 | 2023-04-10 | 2023-04-12 |
 | [Warn Me](https://open.spotify.com/track/3FfmYyYHN47nLxPuJ84M0y) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Warn Me](https://open.spotify.com/album/2Iq1FXyQkuUSpFmv3CEnzJ) | 3:14 | 2021-12-10 | 2022-07-26 |
+| [Wasting All These Tears \- Cassadee's Version](https://open.spotify.com/track/6ggAqp1zV8uSxZdItKRuWO) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Wasting All These Tears \(Cassadee's Version\)](https://open.spotify.com/album/3wgBdX4AFFHNBrYi5JNiq0) | 3:30 | 2023-10-26 |  |
 | [Watch It Burn](https://open.spotify.com/track/71idbHTgcRCXijxQlfVsTX) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [The Things We Were](https://open.spotify.com/artist/2d67q6uEyd18pQb7ZsTMMz) | [Watch It Burn](https://open.spotify.com/album/3M2NMGHTNX91WjLMmFL3RE) | 3:18 | 2021-12-10 | 2022-05-19 |
 | [watery](https://open.spotify.com/track/3R0GEzbTqMY6Iba9ftP4ll) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [watery](https://open.spotify.com/album/5Kxux1R2Ke01Uh5oa1loXi) | 2:28 | 2022-08-26 | 2023-04-11 |
 | [We Don't Get High Like We Used To](https://open.spotify.com/track/0tQklkf8QBjP21FDcyXaDW) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [We Don't Get High Like We Used To](https://open.spotify.com/album/5VPRU8oDVSOsOR6T6OxaJE) | 2:48 | 2023-04-10 |  |

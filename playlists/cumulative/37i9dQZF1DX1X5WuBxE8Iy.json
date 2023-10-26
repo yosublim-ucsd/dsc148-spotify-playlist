@@ -43,6 +43,28 @@
     },
     {
       "album": {
+        "name": "La Sirenita (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Michael Cruz",
+          "url": "https://open.spotify.com/artist/2AGl0dUCflM3mAfFcJVq5d"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192506,
+      "name": "Bajo el mar",
+      "url": "https://open.spotify.com/track/1CK7FnJxNSZrQhEPLVVa2N"
+    },
+    {
+      "album": {
         "name": "Sleeping Beauty",
         "url": "https://open.spotify.com/album/6lmX98s1RHfYVXTMlplw9S"
       },
@@ -228,10 +250,28 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 129613,
       "name": "Happy Working Song - From \"Enchanted\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/7G061Oqw7NXFr1NDTpXoI4"
+    },
+    {
+      "album": {
+        "name": "Disney Summer Songs , Vol. 2",
+        "url": "https://open.spotify.com/album/4AORimNOUL0YaMx9jYx2G8"
+      },
+      "artists": [
+        {
+          "name": "Amy Adams",
+          "url": "https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130039,
+      "name": "Happy Working Song - From \"Enchanted\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/6oNKXDX7bpzkXohQdd0MLc"
     },
     {
       "album": {
@@ -328,10 +368,32 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 186693,
       "name": "I'm Wishing / One Song",
       "url": "https://open.spotify.com/track/35yv66uP9q34KpJ4eix9E3"
+    },
+    {
+      "album": {
+        "name": "Princess Collection",
+        "url": "https://open.spotify.com/album/5IxfjB9Ai8tD9cggC4GYkm"
+      },
+      "artists": [
+        {
+          "name": "Adriana Caselotti",
+          "url": "https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ"
+        },
+        {
+          "name": "Harry Stockwell",
+          "url": "https://open.spotify.com/artist/2tCELGtX6ikbBFQomLSCRp"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187706,
+      "name": "I'm Wishing / One Song - From \"Snow White and the Seven Dwarfs\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/0EWPLve8jEV6j9oWAG21oL"
     },
     {
       "album": {
@@ -350,7 +412,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 194848,
       "name": "Into the Unknown",
       "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
@@ -426,10 +488,46 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 223840,
       "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/6kOXFFNTzraDTj6fceHenx"
+    },
+    {
+      "album": {
+        "name": "Frozen Canciones de una Aventura Congelada",
+        "url": "https://open.spotify.com/album/2pC5M2j2omSWmqBbZo678t"
+      },
+      "artists": [
+        {
+          "name": "Carmen Sarahi",
+          "url": "https://open.spotify.com/artist/2q8I4WTdPTd07a0IsKLch7"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222640,
+      "name": "Libre Soy",
+      "url": "https://open.spotify.com/track/6X7g8O6vs22Z6sh9q4rrZj"
+    },
+    {
+      "album": {
+        "name": "Like a Princess",
+        "url": "https://open.spotify.com/album/6h9bzkWa7k5BDgiJxG1KqV"
+      },
+      "artists": [
+        {
+          "name": "Ana Kohler",
+          "url": "https://open.spotify.com/artist/3dTChZZWzgIDSSeiEb0qLw"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167004,
+      "name": "Like a Princess",
+      "url": "https://open.spotify.com/track/5sroJvvnv3YE63XRSiPips"
     },
     {
       "album": {
@@ -544,6 +642,46 @@
       "duration_ms": 194120,
       "name": "Mi sue\u00f1o ideal",
       "url": "https://open.spotify.com/track/1vWWJKXt6TGw0eFfVO2Xs7"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Banda Sonora Original en Espa\u00f1ol/Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/1ltVI90usp38HOd7QmSSD2"
+      },
+      "artists": [
+        {
+          "name": "Carmen Sarahi",
+          "url": "https://open.spotify.com/artist/2q8I4WTdPTd07a0IsKLch7"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "Mucho M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/6UWaMec3jc3ESl5hfSaejU"
+    },
+    {
+      "album": {
+        "name": "Disney Princesas: Canciones de las Princesas",
+        "url": "https://open.spotify.com/album/3nDUYzBoVY7wDSRAtyKgR0"
+      },
+      "artists": [
+        {
+          "name": "Tatiana y las musas",
+          "url": "https://open.spotify.com/artist/6bIfJirg7c2O0HO0QzvO0t"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140053,
+      "name": "No Hablar\u00e9",
+      "url": "https://open.spotify.com/track/2jyOvWnLtMvw859fM2koYR"
     },
     {
       "album": {
@@ -769,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Aladdin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS"
+      },
+      "artists": [
+        {
+          "name": "Naomi Scott",
+          "url": "https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Speechless (Full)",
+      "url": "https://open.spotify.com/track/0XPsOSYzDJZJArevQNm2AR"
+    },
+    {
+      "album": {
         "name": "Aladdin (Trilha Sonora Original em Portugu\u00eas)",
         "url": "https://open.spotify.com/album/6QUeW09M5K56v4NtqM4ScO"
       },
@@ -780,7 +936,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 208800,
       "name": "Speechless (Full)",
       "url": "https://open.spotify.com/track/1wH367kMcVEAtZXDKuORNZ"
@@ -923,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63586,
+      "name": "Vanessa's Trick",
+      "url": "https://open.spotify.com/track/3tMQKPLplBCDdOgdsZn0SZ"
+    },
+    {
+      "album": {
         "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
       },
@@ -934,7 +1108,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 63586,
       "name": "Vanessa's Trick",
       "url": "https://open.spotify.com/track/7KFcG1V5DRuG9822GZzih6"
@@ -1050,6 +1224,32 @@
       "duration_ms": 151293,
       "name": "\u00bfQu\u00e9 Ser\u00e1? Quiero Saber",
       "url": "https://open.spotify.com/track/5EzMHt1dIPGDugHyXlp45a"
+    },
+    {
+      "album": {
+        "name": "Frozen Canciones de una Aventura Congelada",
+        "url": "https://open.spotify.com/album/2pC5M2j2omSWmqBbZo678t"
+      },
+      "artists": [
+        {
+          "name": "Romina Marroqu\u00edn Payr\u00f3",
+          "url": "https://open.spotify.com/artist/5f0gcyyPRCUTePOs4YRT5Y"
+        },
+        {
+          "name": "Sara Paula G\u00f3mez Arias",
+          "url": "https://open.spotify.com/artist/2eR6JJZdUg8R3TB8LLdaxT"
+        },
+        {
+          "name": "Andrea Rebeca G\u00f3mez Arias",
+          "url": "https://open.spotify.com/artist/2lIwN9VYopnWydLL1Gz4z0"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206946,
+      "name": "\u00bfY Si Hacemos Un Mu\u00f1eco?",
+      "url": "https://open.spotify.com/track/03FqinKPv27MArnoijp8FT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1X5WuBxE8Iy"

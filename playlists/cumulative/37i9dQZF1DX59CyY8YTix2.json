@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 277223,
       "name": "Futaba",
       "url": "https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4"
@@ -9855,6 +9855,24 @@
     },
     {
       "album": {
+        "name": "Virus Buster",
+        "url": "https://open.spotify.com/album/08yJkMIGw3ATCmqGoGXl6F"
+      },
+      "artists": [
+        {
+          "name": "CARAMEL CANDiD",
+          "url": "https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210838,
+      "name": "Virus Buster",
+      "url": "https://open.spotify.com/track/47ghKf5vH4unAKTXLkvoWu"
+    },
+    {
+      "album": {
         "name": "Line of sight",
         "url": "https://open.spotify.com/album/7eqEaO6vnNqeAK7bUbkf7L"
       },
@@ -12820,7 +12838,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 210838,
       "name": "\u30a6\u30a3\u30eb\u30b9\u30fb\u30d0\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/2I59NFHM2MKe4gktvxlN5H"
@@ -15902,7 +15920,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 190210,
       "name": "\u30ea\u30c3\u30d7\u30b7\u30f3\u30af",
       "url": "https://open.spotify.com/track/1kyp3dQGHftpJRpRAoY94z"

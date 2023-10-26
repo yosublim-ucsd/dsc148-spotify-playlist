@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 68465,
+  "num_followers": 68538,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzFjMWFiZDRjYzQ4ODY1ZGQ0MjEwMTQ5MmIzMzM0ZWQ3N2Y0NzA0",
+  "snapshot_id": "MCw4OTlmM2ZmZThkNzJlZGRjOWNkODY0OWEzNTBhNmFhMzE0ZDc1ZWU0",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -503,22 +503,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "El Sentimiento del Latino En Nueva York",
-        "url": "https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv"
-      },
-      "artists": [
-        {
-          "name": "Angel Canales",
-          "url": "https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB"
-        }
-      ],
-      "duration_ms": 340400,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Serenata con Pedro Infante",
         "url": "https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 198080,
       "name": "No me platiques",
       "url": "https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "El Sentimiento del Latino En Nueva York",
+        "url": "https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv"
+      },
+      "artists": [
+        {
+          "name": "Angel Canales",
+          "url": "https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB"
+        }
+      ],
+      "duration_ms": 340400,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "El Estilo de Roberto Ledesma",
-        "url": "https://open.spotify.com/album/2cW8xEyy96yugn4JzlSsBM"
-      },
-      "artists": [
-        {
-          "name": "Roberto Ledesma",
-          "url": "https://open.spotify.com/artist/2Ejmg38PVquSCqD7ijebmY"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Mira Que Eres Linda",
-      "url": "https://open.spotify.com/track/3QMnlOZnTJtoJwyizN832A"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "16 Exitos De Oro",
         "url": "https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 186200,
       "name": "Soy Lo Prohibido",
       "url": "https://open.spotify.com/track/3NNehXVkdD040tJURh6Foc"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "El Estilo de Roberto Ledesma",
+        "url": "https://open.spotify.com/album/2cW8xEyy96yugn4JzlSsBM"
+      },
+      "artists": [
+        {
+          "name": "Roberto Ledesma",
+          "url": "https://open.spotify.com/artist/2Ejmg38PVquSCqD7ijebmY"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Mira Que Eres Linda",
+      "url": "https://open.spotify.com/track/3QMnlOZnTJtoJwyizN832A"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Dos Leyendas del Bolero",
-        "url": "https://open.spotify.com/album/6kMY1yrxN1jwuH0rjihCnk"
-      },
-      "artists": [
-        {
-          "name": "Pedro Vargas",
-          "url": "https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd"
-        }
-      ],
-      "duration_ms": 177684,
-      "name": "El Reloj",
-      "url": "https://open.spotify.com/track/6sGUQrIkp6qqgrddIeGNLx"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Maria Bonita",
         "url": "https://open.spotify.com/album/6gO7t964RdRQy59RuoZMzJ"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 203440,
       "name": "Maria Bonita",
       "url": "https://open.spotify.com/track/4997YRP3x3LNG7D81e0mrh"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Dos Leyendas del Bolero",
+        "url": "https://open.spotify.com/album/6kMY1yrxN1jwuH0rjihCnk"
+      },
+      "artists": [
+        {
+          "name": "Pedro Vargas",
+          "url": "https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd"
+        }
+      ],
+      "duration_ms": 177684,
+      "name": "El Reloj",
+      "url": "https://open.spotify.com/track/6sGUQrIkp6qqgrddIeGNLx"
     },
     {
       "added_at": "2021-12-26 12:28:38",

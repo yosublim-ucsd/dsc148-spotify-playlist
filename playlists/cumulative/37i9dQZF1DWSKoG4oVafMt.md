@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-789 songs - 1 day 18 hr 54 min
+790 songs - 1 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Challa \- Spotify Singles](https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Challa \- Spotify Singles](https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J) | 4:43 | 2023-03-18 | 2023-05-06 |
 | [Chalo Mannya](https://open.spotify.com/track/3JAHmBtj0tynb50kziPAlG) | [Romaana](https://open.spotify.com/artist/424s65ZBz4Alruua67iFmO) | [Chalo Mannya](https://open.spotify.com/album/6rMF3sY9ue7xNwKUBgaP4c) | 2:44 | 2022-04-21 | 2022-07-06 |
 | [Chan Nalon Sohna](https://open.spotify.com/track/2cl60OUzIMNChSkO0Twj92) | [Ricky Khan](https://open.spotify.com/artist/5QcmkDotvADr6cAYDdlRZQ), [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Sidhika Sharma](https://open.spotify.com/artist/7KnsZZEfgH7iwLdWDiQp0J) | [Chan Nalon Sohna \(From "Yaar Mera Titliaan Warga"\) \- Single](https://open.spotify.com/album/4CiwIxkpUHZqoipyZ8gCrk) | 3:51 | 2022-09-05 | 2022-09-23 |
-| [Chan Reha Na Chan](https://open.spotify.com/track/48Wv5mqdMb8QMQUIg9ybSC) | [Babbu Maan](https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es) | [Chan Reha Na Chan](https://open.spotify.com/album/38K8KGc2Fp0FAjQxkzXxMV) | 6:14 | 2023-09-08 |  |
+| [Chan Reha Na Chan](https://open.spotify.com/track/48Wv5mqdMb8QMQUIg9ybSC) | [Babbu Maan](https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es) | [Chan Reha Na Chan](https://open.spotify.com/album/38K8KGc2Fp0FAjQxkzXxMV) | 6:14 | 2023-09-08 | 2023-10-26 |
 | [Chan Vekhya](https://open.spotify.com/track/246oVYRWuTz7rgAMdaQi6N) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Chan Vekhya](https://open.spotify.com/album/7c8AsG2LEvK2smAbiuO2o2) | 3:30 | 2021-12-02 | 2022-12-16 |
 | [Chandigarh](https://open.spotify.com/track/0C3E2mfHDxqrSQjQ5702g4) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf) | [Chandigarh](https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto) | 2:17 | 2022-02-07 | 2022-04-06 |
 | [Chandigarh Di](https://open.spotify.com/track/3zc0J4UVg0yvnyCnKGlgT1) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Chandigarh Di](https://open.spotify.com/album/70QRTrmes1yqKSz0nYHTJs) | 2:32 | 2022-09-15 | 2022-09-23 |
@@ -350,6 +350,7 @@
 | [Kehri Gali](https://open.spotify.com/track/1paDFKGNdKWOSq8sk4Bv8u) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Tini \- EP](https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3) | 3:33 | 2022-09-05 | 2022-09-16 |
 | [Khabbi Seat](https://open.spotify.com/track/4aK30RcFKxsiF1gjLlH5Gt) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Khabbi Seat](https://open.spotify.com/album/0Q0QRo49mBz9zs7KKdZYrG) | 3:24 | 2021-12-02 | 2022-04-29 |
 | [Khayaal](https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Khayaal](https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG) | 2:42 | 2023-05-11 |  |
+| [Khayal Rakhunga \- From "Any How Mitti Pao"](https://open.spotify.com/track/1pZiK3peitwvY0LqRxuDcd) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP), [Khushi Pandher](https://open.spotify.com/artist/6JgrVNpfoFwE3imEDPrzqJ) | [Khayal Rakhunga \(From "Any How Mitti Pao"\)](https://open.spotify.com/album/2xGEpbUAvug9LheBHtFkGW) | 2:19 | 2023-10-25 |  |
 | [Khilona](https://open.spotify.com/track/59wY6mjaBDsLMrRXqe67Gl) | [Vibhor Parashar](https://open.spotify.com/artist/6q2TUP4nBtVhI7wyRwKXxu) | [Khilona](https://open.spotify.com/album/7FugdJh2s51qyNsFOhT5Eq) | 3:07 | 2022-05-10 | 2022-05-20 |
 | [Khoon Peendi](https://open.spotify.com/track/4GZkz4Ck4bhfWlBe2FaKe2) | [Geeta Zaildar](https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Khoon Peendi](https://open.spotify.com/album/7A0QuOnpRPzEAyb1KjjX0c) | 2:41 | 2022-03-10 | 2022-04-06 |
 | [Khyaal](https://open.spotify.com/track/2NSePTBNvDTrLCfa12IlbC) | [Babbal Rai](https://open.spotify.com/artist/5LFXPuKD97Sp9qdkxYBfDn) | [Khyaal](https://open.spotify.com/album/6na48949ddaO9SJwS0Jg3P) | 3:42 | 2022-04-25 | 2022-05-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,416 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,449 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 47 | [So Long So Long](https://open.spotify.com/track/5nGF0GD9p1lnKn8OdUNlUL) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [So Long So Long](https://open.spotify.com/album/0DrSVziCS5z1okRftdWpIh) | 3:00 |
 | 48 | [Money](https://open.spotify.com/track/5OOhLxTtBtUIYqlujP0ghn) | [The Buckleys](https://open.spotify.com/artist/5MgruQdD3UhVfysDjMqG7p) | [Daydream](https://open.spotify.com/album/31q9R2jptLMylI1iDR68ON) | 3:02 |
 | 49 | [Duncan \- 1998 Remaster](https://open.spotify.com/track/2EnHSj3GZ0pr7S3fka1zcf) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Very Best Of Slim Dusty \(Remastered\)](https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02) | 2:35 |
-| 50 | [Waltzing Matilda 2000](https://open.spotify.com/track/2KzeUrxM30mLlMTl97yWej) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Looking for a Story](https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg) | 3:50 |
+| 50 | [Waltzing Matilda 2000](https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Anthems \- A Celebration of Australia](https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy) | 3:50 |
 
-Snapshot ID: `MCw0NzhjMDM1NzY5YjFkZTI0ZGRkYTFhZTg0MGZmMTJmYjY2MTg2M2Jk`
+Snapshot ID: `MCwzMmU2MDk4YWEzNWY4NjdlNmIwNDRhZDM2NjFlMzZlMzNmMDVmZjk5`

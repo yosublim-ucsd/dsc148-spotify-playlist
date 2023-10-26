@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Malumm\u00ed, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Cosmo Lautaro , Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 195396,
       "name": "Backseat Dreams",
       "url": "https://open.spotify.com/track/7ymGUcvRGJKJzQnw7tJBtI"
@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 156226,
       "name": "Bist du verliebt?",
       "url": "https://open.spotify.com/track/5UTxeElkgEQWC6jMoOU4Nx"
@@ -1752,6 +1752,24 @@
       "duration_ms": 183914,
       "name": "Black Sesame",
       "url": "https://open.spotify.com/track/7wxKP5puWTtABvOfDKDZR1"
+    },
+    {
+      "album": {
+        "name": "Black Swarms",
+        "url": "https://open.spotify.com/album/6A3NLFObdsklTIA4McVPkw"
+      },
+      "artists": [
+        {
+          "name": "Amber & the Moon",
+          "url": "https://open.spotify.com/artist/7bxdfk6ZAZRXFZeTsdTLEs"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251150,
+      "name": "Black Swarms",
+      "url": "https://open.spotify.com/track/129EcBG38OROKW3K0jW9LT"
     },
     {
       "album": {
@@ -4276,7 +4294,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 308693,
       "name": "Du Bist Hier",
       "url": "https://open.spotify.com/track/2mMMDJM85hhd5vtoQK75U7"
@@ -8171,6 +8189,24 @@
     },
     {
       "album": {
+        "name": "Jemand der vermisst",
+        "url": "https://open.spotify.com/album/5yKlA0FfXHMUbSnmqQXTSf"
+      },
+      "artists": [
+        {
+          "name": "SHIMMER.",
+          "url": "https://open.spotify.com/artist/1z0aR4prJcIq4u9AyYRuBL"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203230,
+      "name": "Jemand der vermisst",
+      "url": "https://open.spotify.com/track/4jEU06FcMNZO89VxE7FDGa"
+    },
+    {
+      "album": {
         "name": "Jessiwhat",
         "url": "https://open.spotify.com/album/1WoYKgdRneKdUxSVggUhbx"
       },
@@ -8402,7 +8438,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 178092,
       "name": "Keep It Movin'",
       "url": "https://open.spotify.com/track/0VgKrJORvQuSbLkgzYw1BU"
@@ -10531,6 +10567,28 @@
     },
     {
       "album": {
+        "name": "No Gravity",
+        "url": "https://open.spotify.com/album/6xZ1A3mkKqiYzI2xKDaQRN"
+      },
+      "artists": [
+        {
+          "name": "LILA SOVIA",
+          "url": "https://open.spotify.com/artist/1NIH8EEgfLHvU5KxfyRM4Z"
+        },
+        {
+          "name": "Jule Weber",
+          "url": "https://open.spotify.com/artist/6lBYTfSeuz9iuwTkMGonGb"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181477,
+      "name": "No Gravity",
+      "url": "https://open.spotify.com/track/11YLvPx14bykKKbhEWGHCw"
+    },
+    {
+      "album": {
         "name": "No Hero, That's Fine",
         "url": "https://open.spotify.com/album/7djkSeB0OSaTIJG1REj2A1"
       },
@@ -10957,6 +11015,24 @@
     },
     {
       "album": {
+        "name": "OCEANS MISSING YOU",
+        "url": "https://open.spotify.com/album/5Go28xHvXbgD6zaWAVmkni"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Lautaro",
+          "url": "https://open.spotify.com/artist/1KkOEEp4YjvWIWH7NjOu2M"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243496,
+      "name": "OCEANS MISSING YOU",
+      "url": "https://open.spotify.com/track/3LpukLeiwm9d0Mo4eCZLCG"
+    },
+    {
+      "album": {
         "name": "Ode To T",
         "url": "https://open.spotify.com/album/1KhPpYOXaFZbxRkDy1XExg"
       },
@@ -11376,7 +11452,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 146518,
       "name": "Paralysiert",
       "url": "https://open.spotify.com/track/6Ryf1GSw4Q0qTMRzy6Tk69"
@@ -12314,7 +12390,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 175197,
       "name": "Red Wine & Cigarettes",
       "url": "https://open.spotify.com/track/1OqpBTZGtKnSWfNGHiXbNG"
@@ -13162,6 +13238,24 @@
       "duration_ms": 240000,
       "name": "shiver",
       "url": "https://open.spotify.com/track/5C5AgNK83NEKe3Du8Et0SL"
+    },
+    {
+      "album": {
+        "name": "SHOTS",
+        "url": "https://open.spotify.com/album/5sdZKEtJpW1DvtaTthN8eX"
+      },
+      "artists": [
+        {
+          "name": "LYO",
+          "url": "https://open.spotify.com/artist/4Q52SgbnXydJePjdRSUrXO"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134587,
+      "name": "SHOTS",
+      "url": "https://open.spotify.com/track/2eLrZ1m4gmeKEUBZ14FctK"
     },
     {
       "album": {
@@ -14086,6 +14180,24 @@
       "duration_ms": 255848,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/6Bgh5QVuEsMALL3OnKSsyW"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/0gq7kwNKZoTf22GJS33zJz"
+      },
+      "artists": [
+        {
+          "name": "Monomers",
+          "url": "https://open.spotify.com/artist/0MYxZLFZQRGMYEtN1tntq6"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229858,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5slGloF5Q8G7quDkUbBccm"
     },
     {
       "album": {
@@ -16555,6 +16667,24 @@
     },
     {
       "album": {
+        "name": "Wie Berlin",
+        "url": "https://open.spotify.com/album/3yWtTRGIErcGQ7CD9BPVeh"
+      },
+      "artists": [
+        {
+          "name": "linna",
+          "url": "https://open.spotify.com/artist/4EgjoNttrpi5WU1lIMWs1J"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161906,
+      "name": "Wie Berlin",
+      "url": "https://open.spotify.com/track/66JUFEw7AuUx3SazWxjuqh"
+    },
+    {
+      "album": {
         "name": "wie verliebt",
         "url": "https://open.spotify.com/album/41id0WlZVcSoNIC1qMsZtm"
       },
@@ -16902,7 +17032,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 302769,
       "name": "You",
       "url": "https://open.spotify.com/track/5GxGbqzO7k4PDwrA67uzEn"

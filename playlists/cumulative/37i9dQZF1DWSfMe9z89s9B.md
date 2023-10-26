@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Q
 
-1,002 songs - 2 day 5 hr 43 min
+1,003 songs - 2 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Fellowship \(Remix\) ft\. Ambré & Alex Isley](https://open.spotify.com/track/23quKa0BHCq8CKcoFKbHRL) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Ambre](https://open.spotify.com/artist/5mmOgnbsj8LXOUWqLPcoMa), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Fellowship \(Remix\) ft\. Ambré & Alex Isley](https://open.spotify.com/album/0z9WlDfltYm5CAyWHIkXPd) | 3:40 | 2021-11-05 | 2022-01-25 |
 | [Figures](https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Figures](https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q) | 2:32 | 2022-10-14 |  |
 | [Fiji Fine](https://open.spotify.com/track/3Q0S0vFNDJviYsMaeo4wIi) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Fiji Fine](https://open.spotify.com/album/6xRXep3NUG7Hqy41uvzyKQ) | 3:00 | 2021-03-19 | 2022-07-04 |
-| [Find Out](https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:28 | 2023-01-13 |  |
+| [Find Out](https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:28 | 2023-01-13 | 2023-10-26 |
 | [Find Out](https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Find Out](https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi) | 2:28 | 2023-01-13 | 2023-02-19 |
 | [find u](https://open.spotify.com/track/4nrPp7oq6Rhnbohqji1x71) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [find u](https://open.spotify.com/album/79cTjmw9O6NVhQgpnaNqe6) | 1:58 | 2023-04-07 |  |
 | [fingerprints](https://open.spotify.com/track/4VT53Nt4LR3znRIUu4ALs5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [FOR STARTERS](https://open.spotify.com/album/316oNIv6BFvl4jomSmcGg2) | 2:26 | 2023-06-30 |  |
@@ -965,6 +965,7 @@
 | [Whiteclaw](https://open.spotify.com/track/6DpLbRHQLP3dJvz3khE3UE) | [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Hits Of Today](https://open.spotify.com/album/1jHO2EMilNQVl5JnMRtQU3) | 2:47 | 2022-08-19 | 2022-11-05 |
 | [Who Are You, Pt\. II](https://open.spotify.com/track/6JjLSIKFdzaLcCwQ2vWqgv) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Who Are You, Pt\. II](https://open.spotify.com/album/2V8bi0LD8wtZAw0uz4drrh) | 3:07 | 2023-05-19 | 2023-05-27 |
 | [WHO DO U LUV](https://open.spotify.com/track/4K3c9V4rrzCHv4kHNXP0xE) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [WHO DO U LUV](https://open.spotify.com/album/0As7QlanAke4qQRSW4bEQr) | 4:08 | 2023-07-07 | 2023-10-07 |
+| [WHO DO U LUV](https://open.spotify.com/track/74KASQI7XvyWdsNyQcJuv9) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [WHO DO U LUV](https://open.spotify.com/album/5OSxxuKEwrcv9Xe8bZ4iSm) | 4:08 | 2023-07-07 |  |
 | [Who I Gotta Be](https://open.spotify.com/track/5pw8GzT56mdgDbQL25PqL6) | [oddCouple](https://open.spotify.com/artist/4SNPCk41ou9AgQeMBIEZqi), [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Who I Gotta Be](https://open.spotify.com/album/0ew1GBGpp9n8rfliV3g6Pn) | 4:00 | 2021-06-04 | 2022-01-27 |
 | [WHOSE LOVE \(feat\. Tempest\)](https://open.spotify.com/track/2IM8UcsHElXjQkkhlOuODo) | [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [WHOSE LOVE \(feat\. Tempest\)](https://open.spotify.com/album/0zHwMqEuRB7AbVFoZ57RW3) | 3:30 | 2022-07-15 | 2022-12-03 |
 | [Why](https://open.spotify.com/track/2eQBMUJcOCsbEKTwHSqAdx) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Why](https://open.spotify.com/album/3oBQqjDtb8KWw1SBXJllBO) | 2:29 | 2022-10-14 | 2022-12-03 |
@@ -985,7 +986,7 @@
 | [World In My Hands](https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [World In My Hands](https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT) | 3:14 | 2023-02-24 |  |
 | [Worth It](https://open.spotify.com/track/7yeAu4xPWoTOGwQlQpgNZA) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Worth It](https://open.spotify.com/album/4gA30BEiTEYzHesXLSBbJc) | 4:18 | 2021-04-30 | 2022-07-29 |
 | [Worth It](https://open.spotify.com/track/2DDU8tcHwfrs7HbJQN2Aqu) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [Worth It](https://open.spotify.com/album/0bQAqtkdj7DUynbYiVLRX8) | 3:36 | 2022-10-07 | 2022-11-12 |
-| [Wow!](https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Amén \(The Nomad’s Dream\)](https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD) | 2:37 | 2023-10-20 |  |
+| [WOW!](https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Amén \(The Nomad’s Dream\)](https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD) | 2:37 | 2023-10-20 |  |
 | [Wrong for It](https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:22 | 2022-05-13 | 2022-05-20 |
 | [WUSYANAME \(feat\. Youngboy Never Broke Again & Ty Dolla $ign\)](https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:01 | 2021-06-25 | 2022-07-04 |
 | [WYA](https://open.spotify.com/track/3cgLWMVT7LOKeGNLeovYZ9) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE), [King Ivy](https://open.spotify.com/artist/62nhtMbfF8zR4MC1FirUAJ), [IJALE](https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo), [Valve Sounds](https://open.spotify.com/artist/0bF7ZdAMnvBwd7gQmPzBH6) | [WYA](https://open.spotify.com/album/1DzELP81LDxS3NZ4vSoS4y) | 3:31 | 2023-02-03 | 2023-02-18 |

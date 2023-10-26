@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
-  "num_followers": 4934,
+  "num_followers": 4954,
   "original_name": "Chase B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzE5YzNkMjYwNjMzMWZhNDVjNzY4MWQ1MGIyZjgzNjJlODRjM2U5",
+  "snapshot_id": "MCxmNWZlNGUxOGQ2MjMxYmUxMDU4OWRmMmI4ZTQ2ZTM5NjFhZWY1NzMz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -327,6 +327,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "I'm Gone",
+        "url": "https://open.spotify.com/album/3MZ9DaqqNeedTrOsfYH93Q"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 226313,
+      "name": "Prospect (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/19WJ1TEz7RlwUrt7NFEW7t"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "So Help Me God!",
         "url": "https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF"
       },
@@ -343,30 +363,6 @@
       "duration_ms": 178993,
       "name": "Money Maker (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/5ntqpbNqI2ZXWiPA1Pr46f"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Detroit 2",
-        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 207243,
-      "name": "Respect It (with Hit-Boy feat. Young Thug)",
-      "url": "https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -411,6 +407,54 @@
       "duration_ms": 186842,
       "name": "Over Your Head",
       "url": "https://open.spotify.com/track/7JsuXl9Odf3V38ksu4FWDZ"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "B4 The Storm",
+        "url": "https://open.spotify.com/album/7bPIbMw7lgncHBoFfzjQRj"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 181495,
+      "name": "Lemonade - Remix",
+      "url": "https://open.spotify.com/track/3gU7Pr1I4plN6QSxF6jFh3"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Detroit 2",
+        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 207243,
+      "name": "Respect It (with Hit-Boy feat. Young Thug)",
+      "url": "https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -463,50 +507,6 @@
       "duration_ms": 138926,
       "name": "Barnacles",
       "url": "https://open.spotify.com/track/7zHsmufvSqrrYJkDhbkW1T"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "I'm Gone",
-        "url": "https://open.spotify.com/album/3MZ9DaqqNeedTrOsfYH93Q"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 226313,
-      "name": "Prospect (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/19WJ1TEz7RlwUrt7NFEW7t"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "B4 The Storm",
-        "url": "https://open.spotify.com/album/7bPIbMw7lgncHBoFfzjQRj"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 181495,
-      "name": "Lemonade - Remix",
-      "url": "https://open.spotify.com/track/3gU7Pr1I4plN6QSxF6jFh3"
     },
     {
       "added_at": "2022-10-01 16:00:00",

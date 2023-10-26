@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXar0WmW5YgAc.md) - [plain]
 
 > Love songs from your favorite films
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,391 likes - 97 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,775 likes - 97 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXar0WmW5YgAc.md) - [plain]
 | 57 | [Like a Prayer](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:42 |
 | 58 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
 | 59 | [Yes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/7k4uHnOdJViC6EBvcvzJZJ) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 3:18 |
-| 60 | [Suddenly I See \- Cover](https://open.spotify.com/track/0I496TtWR8wffTHUsFYjkH) | [Chill Music BGM Lab](https://open.spotify.com/artist/7hrrHc6msosJJnHdvUQ1ER) | [Surfing and Music](https://open.spotify.com/album/6W6pYPy3LOX8QKbIwJ7UzE) | 3:15 |
+| 60 | [Suddenly I See](https://open.spotify.com/track/51xAY9tR8iQm9I0KBFZfQ1) | [The Super Actives](https://open.spotify.com/artist/27N0scDxg764yxjSxQ8DKQ) | [Ultimate Housework Music Mix](https://open.spotify.com/album/0dCtvBJiL44jg8zTXaPvRN) | 3:15 |
 | 61 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
 | 62 | [Only Hope](https://open.spotify.com/track/3XpgLBx3TGuDIFV5gUaR0w) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [A Walk To Remember Music From The Motion Picture](https://open.spotify.com/album/0hdH7DpYGnTWmwV2UhYbKa) | 3:53 |
 | 63 | [Time After Time](https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 4:03 |

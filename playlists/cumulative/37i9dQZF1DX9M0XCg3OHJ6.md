@@ -4,7 +4,7 @@
 
 > Sail away to dreamland and sleep all night with fluffy and relaxing white noise.
 
-210 songs - 9 hr 6 min
+212 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Fountains From Wonderland](https://open.spotify.com/track/73wCXKPj8RcLRaCo82tJgm) | [Skiez](https://open.spotify.com/artist/76TpbhaDR5e489v77KxN3H) | [Fountains From Wonderland](https://open.spotify.com/album/4j3s6FImdTmh7gcDKnmBO2) | 2:04 | 2023-02-07 |  |
 | [Fuori Zona](https://open.spotify.com/track/7efOZRH7Zu4oCvQwZ8ppIq) | [Molecualar Binary](https://open.spotify.com/artist/4jtz7FSoYdL5pUWD6jk6av) | [Fuori Zona](https://open.spotify.com/album/3lTDHYbUaQxWlYrmKaNOM0) | 2:21 | 2023-02-07 |  |
 | [FX Noise](https://open.spotify.com/track/0r07HUVhRRaku5uI7sXCUF) | [BBVB](https://open.spotify.com/artist/1uMU5JVDiS1brp2XOicvPP) | [In the back of the Cabin](https://open.spotify.com/album/5S12zt9R6E8GnTQLyA0Iqm) | 2:21 | 2023-02-07 |  |
+| [Gentle White Noise \- Seamless](https://open.spotify.com/track/2COPUH8f4mlt1vzZG83zqU) | [Natura Ferox](https://open.spotify.com/artist/4pxwvJBcr1c7RBwb1sZ2pH) | [Gentle White Noise](https://open.spotify.com/album/6oxEgz8aIaZ62WeUlApe0c) | 2:53 | 2023-10-25 |  |
 | [Grainy White & Brown Noise \- 653hz 3.2dB Slope](https://open.spotify.com/track/1ksiTvcujtLM4UFNWvcnG9) | [Astral Noise](https://open.spotify.com/artist/6ukbhEhFk72rEfygTKIdIE) | [Intergalactic Sleep Sounds](https://open.spotify.com/album/1dKAPcNK146NsW8Aqkqr4F) | 1:04 | 2023-02-07 | 2023-06-27 |
 | [Harmonious](https://open.spotify.com/track/1wUzoaQgii2QrgnqlcRPAC) | [Somnography](https://open.spotify.com/artist/7jjmpyxSEBfFehyESBdMpM) | [Harmonious](https://open.spotify.com/album/3IDmrMJl8iGvEXij8TqaPO) | 2:53 | 2023-02-07 |  |
 | [Heavenly White](https://open.spotify.com/track/6kpj39kjc6RXinIQSMn36K) | [Waves Of Time](https://open.spotify.com/artist/5doCIxxFrIe9mTSjcGKmQd) | [Heavenly White](https://open.spotify.com/album/2SRlxVlbNsTy5OqZvLBwCh) | 3:07 | 2023-02-07 |  |
@@ -81,10 +82,11 @@
 | [Lean Noise](https://open.spotify.com/track/2KfLH77WUxnPq28o3SZsFp) | [Hovar](https://open.spotify.com/artist/3COnOYhmr8nINwgd54Z8wj) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 2:17 | 2023-02-07 |  |
 | [Light Noises](https://open.spotify.com/track/2t3BUtYNYGoPcCeHamofRy) | [Doctor Sleep](https://open.spotify.com/artist/3MwKjfr5kxBuFhTZJUimC5) | [A Waterfall of Noise](https://open.spotify.com/album/0Zwsr67zu7UodgvugtKzex) | 2:15 | 2023-02-07 |  |
 | [Lost In Noise](https://open.spotify.com/track/3koQV9TtQq5XTYf0Cw0zUq) | [Sleepness Orchestra](https://open.spotify.com/artist/0sW4js5qCxePw9lLfKdRTv) | [Lost In Noise](https://open.spotify.com/album/3fkXmI6THO7Cv1OWvq1byg) | 3:04 | 2023-02-07 |  |
+| [Loud Noise Sound](https://open.spotify.com/track/3WEhUtfxXaoRrpSIZ1XzQY) | [Misa Bee](https://open.spotify.com/artist/5JSgVFubDnbqYDUWPzl4tj) | [Noise Waterfalls](https://open.spotify.com/album/7By7Jo2T4WuFDwzW7MRc02) | 2:25 | 2023-10-25 |  |
 | [Low Slow Noise](https://open.spotify.com/track/5RpqglzYhFDpxDlQXwol9P) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Low Slow Noise](https://open.spotify.com/album/3duCww2adwRWRR8811ErjL) | 2:05 | 2023-02-07 |  |
 | [Lullaby Noise](https://open.spotify.com/track/6OJyeoxhqTWQgBdeL2UQFE) | [Noise Nirvana](https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM) | [Baby Sleep Noise](https://open.spotify.com/album/175abkm2ojCKUtNBP691ZV) | 2:49 | 2023-06-26 |  |
 | [Magic Baby Noise](https://open.spotify.com/track/3mdZaRNblDtvpwSrjZef4p) | [Dr\. Dreammaker](https://open.spotify.com/artist/761jLrJ3YSvCWz7F0NPZJY) | [Baby Noise Machine](https://open.spotify.com/album/69XDtLpr30IiwcnJuNGYuR) | 3:16 | 2023-06-26 |  |
-| [Mellow Forest Noise](https://open.spotify.com/track/3mwvAQMWc3Hb1Rmcl7iyyx) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Embracing Subsets](https://open.spotify.com/album/3a8Z1k1oeMZC7GksmbubGa) | 2:26 | 2023-02-07 |  |
+| [Mellow Forest Noise](https://open.spotify.com/track/3mwvAQMWc3Hb1Rmcl7iyyx) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Embracing Subsets](https://open.spotify.com/album/3a8Z1k1oeMZC7GksmbubGa) | 2:26 | 2023-02-07 | 2023-10-26 |
 | [Mesmerizing White Noise](https://open.spotify.com/track/0y1ozidM5tqAHX4NL5bYjV) | [Brain Men](https://open.spotify.com/artist/75vQj5HjwaKcqz2XmzvvRK) | [Hypnotic White Noise](https://open.spotify.com/album/452VGEBpfWkWkDHMPS6Ine) | 1:16 | 2023-02-07 | 2023-06-27 |
 | [Mild White Noise](https://open.spotify.com/track/2eFije7gUh0N0NcmvHKOVp) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Low Slow Noise](https://open.spotify.com/album/3duCww2adwRWRR8811ErjL) | 2:30 | 2023-02-07 |  |
 | [Mind Calming Noise](https://open.spotify.com/track/6IEpMvQOYDtEyVE5ZOP9UA) | [Universe Collectors](https://open.spotify.com/artist/2RavKkz1kkDUEVWjSrLUOu) | [Mind Calming Noises](https://open.spotify.com/album/6ZCsQFrbaoIMd2k9huiRsN) | 1:52 | 2023-02-07 | 2023-06-27 |
@@ -142,7 +144,7 @@
 | [Smooth White Colors](https://open.spotify.com/track/3Xj7GjfLNoVM7uEUp4OApN) | [Citys Of Collides](https://open.spotify.com/artist/12h32e6YMBk03yUo8tySbQ) | [Smooth White Colors](https://open.spotify.com/album/2DIIYdv1sA6E17eExpHLBk) | 2:21 | 2023-02-07 |  |
 | [Smooth White Noise](https://open.spotify.com/track/7DqTiksMnzXDEb3WPh2VVC) | [Focus Finders](https://open.spotify.com/artist/46PyhxzOXadyGA2297Fp68) | [Smooth White Noise](https://open.spotify.com/album/7oXC4G3sDmIDpNeXogPBGa) | 2:23 | 2023-02-07 |  |
 | [Soothing Deep](https://open.spotify.com/track/7onLbJEZjADTmezCnSWND5) | [Focus Noise](https://open.spotify.com/artist/15nL9hF1vK3mHTqpV9Z2jP) | [Fluffy Winds](https://open.spotify.com/album/11utgFeLO1G1HZsyPEaj6U) | 3:07 | 2023-02-07 |  |
-| [Soothing Field Noise](https://open.spotify.com/track/2EGXrlIaOm4Qd3aEQy60GV) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Embracing Subsets](https://open.spotify.com/album/3a8Z1k1oeMZC7GksmbubGa) | 2:33 | 2023-02-07 |  |
+| [Soothing Field Noise](https://open.spotify.com/track/2EGXrlIaOm4Qd3aEQy60GV) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Embracing Subsets](https://open.spotify.com/album/3a8Z1k1oeMZC7GksmbubGa) | 2:33 | 2023-02-07 | 2023-10-26 |
 | [Soothing Noise](https://open.spotify.com/track/0mDRli5eDtt9RQ3IceGIpj) | [Space Is Noisy](https://open.spotify.com/artist/3QKb8c9V6DSLRZaeqWvEFp) | [Restful Dreams](https://open.spotify.com/album/4WPECiBoYXoCbcvhmK4gXv) | 1:05 | 2023-02-07 | 2023-06-27 |
 | [Soulwaves](https://open.spotify.com/track/29udRWpKTQUjkPZZkliBVl) | [Sky Travis](https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy) | [Soulwaves](https://open.spotify.com/album/1THmxeqFdDM57e9QrDY23i) | 2:53 | 2023-02-07 |  |
 | [Sound Asleep](https://open.spotify.com/track/5kcLGL8xKMpuLw1hoMfxD4) | [Trapture](https://open.spotify.com/artist/57566QTg37Kl2Qx9kppxks) | [Sound Asleep](https://open.spotify.com/album/5pZVDx4GRV8gW5E62ivrmv) | 2:54 | 2023-02-07 |  |

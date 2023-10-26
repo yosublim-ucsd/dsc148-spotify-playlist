@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 
 > The leaders in the lively Pinoy indie scene\. Cover: Sansette
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,228 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,269 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 | 49 | [Sa Iyo Na Lang Ako](https://open.spotify.com/track/3h7L0RyN7IR3M5I6L2fObU) | [Sunset Sessions](https://open.spotify.com/artist/77EPS0bhR5i4KusgcHqN5Y), [Earth To Mars](https://open.spotify.com/artist/6vidCmEKqTVNLxalYQuskK), [Ruth Lee Resuello](https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20) | [Sa Iyo Na Lang Ako](https://open.spotify.com/album/5RP6MCfIhoHQDAXBrhxRX0) | 5:03 |
 | 50 | [Please Don't Stay](https://open.spotify.com/track/5F0Srwhpjpqt1KxyI1cDy1) | [Three Legged Men PH](https://open.spotify.com/artist/6Ef0AJQePmfx2cB3vo5vEe) | [Please Don't Stay](https://open.spotify.com/album/43zGzmF8jcqYpZTgru1Nh1) | 4:38 |
 
-Snapshot ID: `MCw3MmI0YzdiZGJmOTc4NjhkMmY3NDVlNmRlM2Q5OTc5YTIwMDE3NTBi`
+Snapshot ID: `MCxhOThiNTQ0MjA4ODk0ODBmZGEwZDg4ZjZmMWNhOGVjZWQ0MzMzMjYw`

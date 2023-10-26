@@ -1,13 +1,177 @@
 {
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Mike Taveira",
-  "num_followers": 196759,
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Sophia Veraz",
+  "num_followers": 196906,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTkwZDQ3MzJhNmE4YjA3NjRiZWRkMjQyMDYyMGZjM2VkMzcwYTg4",
+  "snapshot_id": "MCw2NmI3ZWFiYjcxNDRiNDkzZGVkMzgzZTZmODgzMjA0ZDdiYmNlMjgz",
   "tracks": [
+    {
+      "added_at": "2023-10-25 04:00:00",
+      "album": {
+        "name": "Social Battery",
+        "url": "https://open.spotify.com/album/5yW9M6bQ4HMdnMhis4o9F3"
+      },
+      "artists": [
+        {
+          "name": "Sophia Veraz",
+          "url": "https://open.spotify.com/artist/5MCKCM0EPBoVHTJCGOcybJ"
+        }
+      ],
+      "duration_ms": 191094,
+      "name": "Social Battery",
+      "url": "https://open.spotify.com/track/6EA6qNb0XWmj73H7yQbrai"
+    },
+    {
+      "added_at": "2023-10-25 04:00:00",
+      "album": {
+        "name": "Voicemail",
+        "url": "https://open.spotify.com/album/0RHshQRGWqB01NSbxX2j3R"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        }
+      ],
+      "duration_ms": 179428,
+      "name": "Voicemail",
+      "url": "https://open.spotify.com/track/7nfpKpGa2rarRaeCTf6aEB"
+    },
+    {
+      "added_at": "2023-10-25 04:00:00",
+      "album": {
+        "name": "brief romance EP",
+        "url": "https://open.spotify.com/album/4ZvKMykwrbcrlnQmJCOMDw"
+      },
+      "artists": [
+        {
+          "name": "Good/Vlly",
+          "url": "https://open.spotify.com/artist/69v7yR9Qx34Jrea5OYwq9E"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "touching",
+      "url": "https://open.spotify.com/track/7dfQ7YoyqoXuGbojDbWIKG"
+    },
+    {
+      "added_at": "2023-10-25 04:00:00",
+      "album": {
+        "name": "witching season",
+        "url": "https://open.spotify.com/album/01MDo6anjKhyKzTSdaoNuh"
+      },
+      "artists": [
+        {
+          "name": "Khya",
+          "url": "https://open.spotify.com/artist/3PB3jNDI2PphEFIyNFqczr"
+        }
+      ],
+      "duration_ms": 185680,
+      "name": "Witching Season",
+      "url": "https://open.spotify.com/track/24d8FlU7CWYV94UfDnxVC6"
+    },
+    {
+      "added_at": "2023-10-25 04:00:00",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/1E1ZtxOU3SC4mvhiDYMDfd"
+      },
+      "artists": [
+        {
+          "name": "Alfie Indra",
+          "url": "https://open.spotify.com/artist/6iLEBUFSlFyOzHnMtpqYuN"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/7jPksrT2r7LIlKRW876RJa"
+    },
+    {
+      "added_at": "2023-10-25 04:00:00",
+      "album": {
+        "name": "Ain't Ready",
+        "url": "https://open.spotify.com/album/3xAiT16wiimaFT4CLQrFKE"
+      },
+      "artists": [
+        {
+          "name": "Emily Mei",
+          "url": "https://open.spotify.com/artist/3PPvyQnDRHIwwzCWwONgRk"
+        },
+        {
+          "name": "sunkis",
+          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Ain't Ready",
+      "url": "https://open.spotify.com/track/7Mf8yUJUoy4Nx8qT6qJhPo"
+    },
+    {
+      "added_at": "2023-10-25 04:00:00",
+      "album": {
+        "name": "Pills",
+        "url": "https://open.spotify.com/album/1xx2DyTEJW71GTx9AVsVCm"
+      },
+      "artists": [
+        {
+          "name": "Bridges",
+          "url": "https://open.spotify.com/artist/0ihM2W92MAW9UMGl5HYnH1"
+        }
+      ],
+      "duration_ms": 195999,
+      "name": "Pills",
+      "url": "https://open.spotify.com/track/0XGhXGsnDnoSzXL1T3eCa1"
+    },
+    {
+      "added_at": "2023-10-25 04:00:00",
+      "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/6BRdexHbMkyYtw0Z3nYYB3"
+      },
+      "artists": [
+        {
+          "name": "Sophia Alexa",
+          "url": "https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ"
+        }
+      ],
+      "duration_ms": 221286,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/5udu8qPZKBuxXxygJ5mD8Z"
+    },
+    {
+      "added_at": "2023-10-25 04:00:00",
+      "album": {
+        "name": "M.D.M.A.",
+        "url": "https://open.spotify.com/album/3Uc2rXNrJcWLkyabGvII7a"
+      },
+      "artists": [
+        {
+          "name": "Lua.",
+          "url": "https://open.spotify.com/artist/6mmawxELp9o7kFYDPL5NeK"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "M.D.M.A.",
+      "url": "https://open.spotify.com/track/2Nbmo4Z0zXxVNAfXt6mppq"
+    },
+    {
+      "added_at": "2023-10-25 04:00:00",
+      "album": {
+        "name": "TAKEN BACK",
+        "url": "https://open.spotify.com/album/5VSHHaUiU4qwpw2XjTKsyC"
+      },
+      "artists": [
+        {
+          "name": "Allen Haley",
+          "url": "https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb"
+        }
+      ],
+      "duration_ms": 153672,
+      "name": "TAKEN BACK",
+      "url": "https://open.spotify.com/track/0mf94fPDF0uwdoaQ06Mun6"
+    },
     {
       "added_at": "2023-10-11 04:00:00",
       "album": {
@@ -331,22 +495,6 @@
     {
       "added_at": "2023-10-04 14:00:29",
       "album": {
-        "name": "Innocent",
-        "url": "https://open.spotify.com/album/2FqTVCFWf8V1ICGYZBZmmK"
-      },
-      "artists": [
-        {
-          "name": "BUZA",
-          "url": "https://open.spotify.com/artist/22P8toI7EZxsf2STzI23cS"
-        }
-      ],
-      "duration_ms": 234979,
-      "name": "Innocent",
-      "url": "https://open.spotify.com/track/16N31JzkfFBttYJO1k0cuu"
-    },
-    {
-      "added_at": "2023-10-04 14:00:29",
-      "album": {
         "name": "Backseat Driver",
         "url": "https://open.spotify.com/album/6uP6H8cvDYJUzKV1hoi0cT"
       },
@@ -359,22 +507,6 @@
       "duration_ms": 175548,
       "name": "Backseat Driver",
       "url": "https://open.spotify.com/track/22nzFhzs8OUwmfXx2SdBwm"
-    },
-    {
-      "added_at": "2023-10-04 14:00:29",
-      "album": {
-        "name": "My Heart Will Be Facing Backwards",
-        "url": "https://open.spotify.com/album/6cwkGAajLuPRvxm7OYEsYW"
-      },
-      "artists": [
-        {
-          "name": "Bike Lane",
-          "url": "https://open.spotify.com/artist/4hmP7SKOIhC8e1PZo8UG7f"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Tenderheart",
-      "url": "https://open.spotify.com/track/1uYB08ericzRoJW1HNP8MK"
     },
     {
       "added_at": "2023-09-27 04:11:21",
@@ -541,54 +673,6 @@
       "url": "https://open.spotify.com/track/7JEjkRI7uJAqMFv4618HHh"
     },
     {
-      "added_at": "2023-09-27 04:11:21",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/1LpGadE3RF8aYWz06Ij9Lm"
-      },
-      "artists": [
-        {
-          "name": "India Thieriot",
-          "url": "https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg"
-        }
-      ],
-      "duration_ms": 216153,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3NQ3PPFELKvDRafbIrqMj9"
-    },
-    {
-      "added_at": "2023-09-27 04:11:21",
-      "album": {
-        "name": "Polite",
-        "url": "https://open.spotify.com/album/3kS9OA29PAdFlwhOLOS2KU"
-      },
-      "artists": [
-        {
-          "name": "JADE RICH",
-          "url": "https://open.spotify.com/artist/2fMcXdY556OEgI31kIwebi"
-        }
-      ],
-      "duration_ms": 184142,
-      "name": "Polite",
-      "url": "https://open.spotify.com/track/78mbjJFBbWZKoNdz1Ty2Ev"
-    },
-    {
-      "added_at": "2023-09-27 04:11:21",
-      "album": {
-        "name": "2009",
-        "url": "https://open.spotify.com/album/5W8wvoLa3IJiAa4wvbFoYe"
-      },
-      "artists": [
-        {
-          "name": "Livia O",
-          "url": "https://open.spotify.com/artist/0DJDFfRvWrXgjbFn0Wl0CG"
-        }
-      ],
-      "duration_ms": 219891,
-      "name": "2009",
-      "url": "https://open.spotify.com/track/0PAgdg0v7LSjinrubTDsjp"
-    },
-    {
       "added_at": "2023-09-20 14:26:31",
       "album": {
         "name": "D.O.N.E",
@@ -603,22 +687,6 @@
       "duration_ms": 122842,
       "name": "D.O.N.E",
       "url": "https://open.spotify.com/track/0j4K8zY3Em7tzCYUkX5Dsh"
-    },
-    {
-      "added_at": "2023-09-20 14:26:31",
-      "album": {
-        "name": "Risky",
-        "url": "https://open.spotify.com/album/1PPHXJ5LxH3wdPAuOpkODv"
-      },
-      "artists": [
-        {
-          "name": "Isabel Wood",
-          "url": "https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO"
-        }
-      ],
-      "duration_ms": 186971,
-      "name": "Risky",
-      "url": "https://open.spotify.com/track/2m6impWnt3BTPW5hUpXDGD"
     },
     {
       "added_at": "2023-09-13 04:00:00",
@@ -708,7 +776,7 @@
       },
       "artists": [
         {
-          "name": "Ayla Tesler-Mab\u00e9",
+          "name": "AYLA TESLER-MAB\u00c9",
           "url": "https://open.spotify.com/artist/3BEEiUnWFsmP8EbK0QCe1O"
         }
       ],
@@ -779,38 +847,6 @@
       "duration_ms": 191962,
       "name": "Yours For Life",
       "url": "https://open.spotify.com/track/6oefuOfCQpbUjhWjpTRguL"
-    },
-    {
-      "added_at": "2023-09-13 04:00:00",
-      "album": {
-        "name": "Felt Like Hell",
-        "url": "https://open.spotify.com/album/4j9CUAP0FDTq1PmaCIbAfq"
-      },
-      "artists": [
-        {
-          "name": "Sophia Veraz",
-          "url": "https://open.spotify.com/artist/5MCKCM0EPBoVHTJCGOcybJ"
-        }
-      ],
-      "duration_ms": 190403,
-      "name": "Felt Like Hell",
-      "url": "https://open.spotify.com/track/5xgZg7Xv91Uo4JxfBKIL7T"
-    },
-    {
-      "added_at": "2023-09-13 04:00:00",
-      "album": {
-        "name": "Takeaway Cup",
-        "url": "https://open.spotify.com/album/12PdiG9F9Xz8tFYIZXwUUn"
-      },
-      "artists": [
-        {
-          "name": "Chris Bates",
-          "url": "https://open.spotify.com/artist/1wMxoWB76tKp8gOJDGRxxJ"
-        }
-      ],
-      "duration_ms": 149763,
-      "name": "Takeaway Cup",
-      "url": "https://open.spotify.com/track/65CvImGO0oPmybnQix1SVv"
     },
     {
       "added_at": "2023-09-13 04:00:00",
@@ -971,22 +1007,6 @@
       "duration_ms": 133665,
       "name": "The List",
       "url": "https://open.spotify.com/track/0zFSjXMYDHVdzIoQl9d1lZ"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
-        "name": "everything",
-        "url": "https://open.spotify.com/album/4YoIc5gx0CWXlrLVwvvZJQ"
-      },
-      "artists": [
-        {
-          "name": "Good/Vlly",
-          "url": "https://open.spotify.com/artist/69v7yR9Qx34Jrea5OYwq9E"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/05FRnwWErfFvWRupmnDKpD"
     },
     {
       "added_at": "2023-08-30 04:00:00",

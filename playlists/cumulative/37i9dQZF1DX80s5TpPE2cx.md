@@ -4,7 +4,7 @@
 
 > The songs that defined Nigeria's Alté era
 
-94 songs - 5 hr 7 min
+95 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [My Wave](https://open.spotify.com/track/7FbmKPvnVKpyd45jDsRhlF) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sona](https://open.spotify.com/artist/2Z4SIKdYcugWq0fyvPpA7w), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Leap of Faith](https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl) | 4:19 | 2022-07-27 |  |
 | [Not my Bae](https://open.spotify.com/track/3lBTbzfg1kooHibufzkj5x) | [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [N/A](https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40) | [Not my Bae](https://open.spotify.com/album/7M1PYdkEj0VasRUM5JMXmO) | 3:40 | 2022-07-27 | 2023-05-03 |
 | [Optimum Esse](https://open.spotify.com/track/20EbpUHGtvuluX2AQSLYkZ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Renascentia](https://open.spotify.com/album/5R7cUADCzBIPUfq0hrSv2N) | 3:11 | 2022-07-27 |  |
-| [Pew](https://open.spotify.com/track/3N3CiAy8C7p4rtQewcgEcY) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [KwakuBs](https://open.spotify.com/artist/4WIDKbsLcrvVVwUrzihgxo), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH), [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [La Meme Tape](https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT) | 3:00 | 2022-07-27 |  |
+| [Pew](https://open.spotify.com/track/3N3CiAy8C7p4rtQewcgEcY) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [KwakuBs](https://open.spotify.com/artist/4WIDKbsLcrvVVwUrzihgxo), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH), [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [La Meme Tape](https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT) | 3:00 | 2022-07-27 | 2023-10-26 |
 | [Play for Keeps](https://open.spotify.com/track/57eoDpCIH3hQmmy6NbuBxQ) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9) | [Play for Keeps](https://open.spotify.com/album/2IrUKNMogEptODtx7b9aBU) | 3:17 | 2022-07-27 |  |
 | [Popping](https://open.spotify.com/track/7b9QrJwaTRQYAbs0fnoilW) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Odunsi \(The Engine\)](https://open.spotify.com/artist/2IJM1sZVKURhI8zSar9pbL) | [Palmwine Music](https://open.spotify.com/album/4reE9Z0ffJqJA37fUlmQjW) | 4:00 | 2022-07-27 |  |
 | [Pull Up](https://open.spotify.com/track/4cobcXNVYowm5a8gdfCsiz) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Santi](https://open.spotify.com/artist/4B0NjjLmANzqttcCrw9VeF) | [Everything Pretty](https://open.spotify.com/album/5C0aXCJzr9tBP7iWvuWBGs) | 3:22 | 2022-07-27 |  |
@@ -85,6 +85,7 @@
 | [Supa Sigh](https://open.spotify.com/track/6mESvUo6c4KILTSt0tv7Em) | [BrisB](https://open.spotify.com/artist/5hsqUG0HzeF5qurzzanUWa), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Supa Sigh](https://open.spotify.com/album/0Ozr5RbURs53qS2LPBq3eS) | 3:32 | 2022-07-27 |  |
 | [Take Me Home](https://open.spotify.com/track/4JP3dHzz9RwACJZePm2vqL) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Enjoy Your Life](https://open.spotify.com/album/1tbGvVPTxiB6eZUbDjbSvv) | 2:51 | 2022-07-27 | 2023-09-28 |
 | [Take Me Home](https://open.spotify.com/track/4RbhOqxDhVedWUAJeYTn7b) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Enjoy Your Life](https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS) | 2:51 | 2022-07-27 | 2023-08-18 |
+| [Take Me Home](https://open.spotify.com/track/0xUlA1njYp92AKYP4Kj5Pv) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Enjoy Your Life](https://open.spotify.com/album/0w9eny2YNRw2bU9x1t4nM5) | 2:52 | 2023-10-25 |  |
 | [The Atlas](https://open.spotify.com/track/2QtMHkOVl28e5QOUbeLfkB) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Me in Me](https://open.spotify.com/album/0ie5Z0uCEmLVQaDlmja49u) | 4:28 | 2022-07-27 |  |
 | [The Other Side \(feat\. Odunsi & King Zamir\)](https://open.spotify.com/track/3zIiwUQogxtTieEgGPKB7B) | [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [King Zamir](https://open.spotify.com/artist/76e2rJtSnKai5gTBg1xFae) | [The Other Side \(feat\. Odunsi & King Zamir\)](https://open.spotify.com/album/3siHuAYwyA4ql8j4BltiyV) | 3:54 | 2022-07-27 |  |
 | [TheBox](https://open.spotify.com/track/55R9jXpjIkCPMiYzbOzkAV) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Passport](https://open.spotify.com/album/5pQXeCuA6l4kmhWzh4lsig) | 3:55 | 2022-07-27 |  |

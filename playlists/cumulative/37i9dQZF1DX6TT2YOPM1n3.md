@@ -2,7 +2,7 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Current Pakistani hits under one roof\. Cover: Adnan Dhool
+> Current Pakistani hits under one roof\. Cover: AUR
 
 79 songs - 4 hr 50 min
 

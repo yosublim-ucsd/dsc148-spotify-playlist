@@ -2,7 +2,7 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover\- KING
+> India's Rap Scene\. Cover\- Raftaar
 
 112 songs - 6 hr 18 min
 

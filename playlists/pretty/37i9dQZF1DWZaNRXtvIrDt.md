@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,199 likes - 85 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,216 likes - 85 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 30 | [on my own](https://open.spotify.com/track/7Lm6wV3xhU1ZRhXjejARRG) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [focus](https://open.spotify.com/album/5ZMmKV7bXG909IMbp2ezWJ) | 3:30 |
 | 31 | [Wildfire](https://open.spotify.com/track/4jGVld5PpMBfIUqc5eOWPw) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Wildfire](https://open.spotify.com/album/0fboWMJea94CfwHwDLMrh8) | 3:20 |
 | 32 | [Don't Feel A Thing](https://open.spotify.com/track/4GmfXiutjG47Dtl72KkoZH) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [WASH](https://open.spotify.com/album/46nwevyvFgmAkqMuOBvloC) | 5:45 |
-| 33 | [Something I Said](https://open.spotify.com/track/1IxMV1vgW5jEMzAKBG5SPV) | [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [Body Beat](https://open.spotify.com/album/394IurmiaXgpfHcO7J8drZ) | 5:22 |
+| 33 | [Something I Said](https://open.spotify.com/track/1IxMV1vgW5jEMzAKBG5SPV) | [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [Body Beat EP](https://open.spotify.com/album/394IurmiaXgpfHcO7J8drZ) | 5:22 |
 | 34 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 |
 | 35 | [PsyPilled \- Vocal Rework](https://open.spotify.com/track/3iCbeFDVW51dM33CUt7DZS) | [Mittens](https://open.spotify.com/artist/2oJviFhUidYxVydzwNKrwM) | [Groove Bait](https://open.spotify.com/album/4LBGYRn8VxCQRodNVeV64V) | 5:50 |
 | 36 | [Deadbeat Gospel](https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [somedeadbeat](https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6) | [Deadbeat Gospel](https://open.spotify.com/album/2idTKvVf3bPURpVdZ8k6ZH) | 4:14 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 84 | [Long Ago](https://open.spotify.com/track/3Sv8Txb3DxbalXwe5TlLAq) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Set The Roof](https://open.spotify.com/album/5QXXTODvdjHMUUTrMvS8lD) | 4:54 |
 | 85 | [You Need Somebody](https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8) | [Puppy Mountain](https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH) | [You Need Somebody](https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi) | 3:20 |
 
-Snapshot ID: `MCw5ZDlhNzI4MmI2YzEwYzVlNDlmYTQ2NTk5MzIxN2JmYmU3ZDBmMTE2`
+Snapshot ID: `MCwxNWE0ZGQxM2Q1ZWYyYzc5YWU2MGYyZGEyMGMzODUyMTQ3NmQyYTFk`

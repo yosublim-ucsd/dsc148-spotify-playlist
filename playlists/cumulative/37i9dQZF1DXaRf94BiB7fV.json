@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Whale In The Pond , Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Arjun Tikadar , Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -306,6 +306,28 @@
       "duration_ms": 209652,
       "name": "Aana Tera",
       "url": "https://open.spotify.com/track/39ofWJYwWdzqXrs5appd5i"
+    },
+    {
+      "album": {
+        "name": "Aangan",
+        "url": "https://open.spotify.com/album/1Y8jcvhXzOdX8n8JkxniVT"
+      },
+      "artists": [
+        {
+          "name": "Arjun Tikadar",
+          "url": "https://open.spotify.com/artist/6xVuJatFzZDvLRsU3mGAsn"
+        },
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212692,
+      "name": "Aangan",
+      "url": "https://open.spotify.com/track/5fQ68f0syCRx6dJoJvyxEh"
     },
     {
       "album": {
@@ -1054,6 +1076,28 @@
       "duration_ms": 339147,
       "name": "Antaragini",
       "url": "https://open.spotify.com/track/3YpTG7n52Ok4AqIGlKKs7j"
+    },
+    {
+      "album": {
+        "name": "Antihero",
+        "url": "https://open.spotify.com/album/1mWgasxdZFASpH5ITWiVw8"
+      },
+      "artists": [
+        {
+          "name": "RANJ",
+          "url": "https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H"
+        },
+        {
+          "name": "Clifr",
+          "url": "https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213380,
+      "name": "Antihero",
+      "url": "https://open.spotify.com/track/0tmVekD1MN9NDAKntGbOyO"
     },
     {
       "album": {
@@ -3749,6 +3793,24 @@
     },
     {
       "album": {
+        "name": "Dil Ki Dastan",
+        "url": "https://open.spotify.com/album/0uFbi2fi8kPeVxFBSmpIJi"
+      },
+      "artists": [
+        {
+          "name": "Sahil Ahuja",
+          "url": "https://open.spotify.com/artist/4em8pFjqZmKcflPQgobF6L"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224470,
+      "name": "Dil Ki Dastan",
+      "url": "https://open.spotify.com/track/3S0kZyO86KTfKae540RV3I"
+    },
+    {
+      "album": {
         "name": "Dil Ko Teri Adat Hay",
         "url": "https://open.spotify.com/album/5aDOsyB0Vaw1okkIeP7Sl3"
       },
@@ -6140,7 +6202,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 189000,
       "name": "Humdum Tera",
       "url": "https://open.spotify.com/track/0dCicXrl4h0lO087jMm5hM"
@@ -8835,6 +8897,24 @@
     },
     {
       "album": {
+        "name": "Khuda Na Kare",
+        "url": "https://open.spotify.com/album/1Gr6PjVUWaffXkTjCK7too"
+      },
+      "artists": [
+        {
+          "name": "Shivi R Kashyap",
+          "url": "https://open.spotify.com/artist/3P4NvflcDL5fSFUYTQcUEn"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198262,
+      "name": "Khuda Na Kare",
+      "url": "https://open.spotify.com/track/5gMaNHNdruVWfAhSRGdZG9"
+    },
+    {
+      "album": {
         "name": "Khula Aasmaan",
         "url": "https://open.spotify.com/album/6IIFWue4zTFcPiC1mXbGk9"
       },
@@ -8958,7 +9038,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 238333,
       "name": "Khwahishein",
       "url": "https://open.spotify.com/track/0RZ6TjIvdmsM3vL13Lke2P"
@@ -9778,7 +9858,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 219556,
       "name": "Losing Streak (Bombs Away)",
       "url": "https://open.spotify.com/track/1FFBaU01mjDSjLuCQ4IGCp"
@@ -16799,6 +16879,28 @@
     },
     {
       "album": {
+        "name": "Tu Jo Mila",
+        "url": "https://open.spotify.com/album/5lomNAhbEClCm24ehvtzvc"
+      },
+      "artists": [
+        {
+          "name": "Aman Sagar",
+          "url": "https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF"
+        },
+        {
+          "name": "Cherish Banhotra",
+          "url": "https://open.spotify.com/artist/7ryOj0x9PQ23Cnm13lKh6o"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186176,
+      "name": "Tu Jo Mila",
+      "url": "https://open.spotify.com/track/2fkJkUAcDU214ds17s2tE4"
+    },
+    {
+      "album": {
         "name": "Tu Mera Hua",
         "url": "https://open.spotify.com/album/2wGBJjqmgEGzjkQXgSXB4j"
       },
@@ -17518,7 +17620,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 225535,
       "name": "Usey Le Gaye",
       "url": "https://open.spotify.com/track/1D0RV2WoRhdgmFkpTby25W"

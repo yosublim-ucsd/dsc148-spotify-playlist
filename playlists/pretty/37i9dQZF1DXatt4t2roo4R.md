@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatt4t2roo4R.md) - [plain]
 
 > 트와이스의 \[ONCE AGAIN\]  <a href="    ">팬미팅 이벤트 참여</a>는 클립스를 확인하세요! 팬미팅을 기다리며 트와이스의 대표곡들을 감상해보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,686 likes - 25 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,202 likes - 25 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

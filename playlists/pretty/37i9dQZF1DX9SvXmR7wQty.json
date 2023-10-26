@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Tayc",
-  "num_followers": 38577,
+  "num_followers": 38582,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmMyZGNjZjQ1ZmRlOWFjYzVkOWJlOGQxYjUzZTc4NWUxMjYxYWQ1",
+  "snapshot_id": "MCw3OWQ3MzhiN2QyZDEwOTE3MTBmYTNmYTE2YzU2OGY3MWU0YTBhMmQy",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -63,22 +63,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Telegram 2",
-        "url": "https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc"
+        "name": "ADC",
+        "url": "https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM"
       },
       "artists": [
         {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        },
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
         }
       ],
-      "duration_ms": 196089,
-      "name": "Magot",
-      "url": "https://open.spotify.com/track/69zAnyBtarXinChSUq925t"
+      "duration_ms": 228800,
+      "name": "Voldemort",
+      "url": "https://open.spotify.com/track/7CpI3rs2A4etl7VXghjfWe"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -99,18 +95,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "ADC",
-        "url": "https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM"
+        "name": "Ma muse / Je t'haine",
+        "url": "https://open.spotify.com/album/6GuWrATXQamfjDlQdion0H"
       },
       "artists": [
         {
-          "name": "Freeze corleone",
-          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Voldemort",
-      "url": "https://open.spotify.com/track/7CpI3rs2A4etl7VXghjfWe"
+      "duration_ms": 178115,
+      "name": "Ma muse",
+      "url": "https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -131,38 +127,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Ma muse / Je t'haine",
-        "url": "https://open.spotify.com/album/6GuWrATXQamfjDlQdion0H"
-      },
-      "artists": [
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        }
-      ],
-      "duration_ms": 178115,
-      "name": "Ma muse",
-      "url": "https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Les ramasseux d'canettes",
-        "url": "https://open.spotify.com/album/48MqI218WCaf3BnEdun9QM"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00f4me 50",
-          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
-        }
-      ],
-      "duration_ms": 161933,
-      "name": "Les ramasseux d'canettes",
-      "url": "https://open.spotify.com/track/54hckWuClgHpYgakvFGsKC"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Immonde",
         "url": "https://open.spotify.com/album/3x78Oog0LtAlT75BAshBZ3"
       },
@@ -179,6 +143,22 @@
       "duration_ms": 162525,
       "name": "Immonde",
       "url": "https://open.spotify.com/track/21QfY11V5UmQ3xZJVoK5A2"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Les ramasseux d'canettes",
+        "url": "https://open.spotify.com/album/48MqI218WCaf3BnEdun9QM"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me 50",
+          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
+        }
+      ],
+      "duration_ms": 161933,
+      "name": "Les ramasseux d'canettes",
+      "url": "https://open.spotify.com/track/54hckWuClgHpYgakvFGsKC"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -219,6 +199,22 @@
       "duration_ms": 207338,
       "name": "SI TE LLAMO",
       "url": "https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "IL LE FALLAIT",
+        "url": "https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S"
+      },
+      "artists": [
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        }
+      ],
+      "duration_ms": 179973,
+      "name": "GMAIL",
+      "url": "https://open.spotify.com/track/6cETuNTKBm0k4NiCJwU2bT"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -311,18 +307,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "IL LE FALLAIT",
-        "url": "https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S"
+        "name": "Commando",
+        "url": "https://open.spotify.com/album/0UrZIIXENkXrBBvhwqyMJx"
       },
       "artists": [
         {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+          "name": "Shay",
+          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
         }
       ],
-      "duration_ms": 179973,
-      "name": "GMAIL",
-      "url": "https://open.spotify.com/track/6cETuNTKBm0k4NiCJwU2bT"
+      "duration_ms": 171649,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/36aSwnrZXd0k334PSXT7w2"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -343,18 +339,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Commando",
-        "url": "https://open.spotify.com/album/0UrZIIXENkXrBBvhwqyMJx"
+        "name": "Magot",
+        "url": "https://open.spotify.com/album/6wPL7UMGoIptE9eWMDwP82"
       },
       "artists": [
         {
-          "name": "Shay",
-          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
         }
       ],
-      "duration_ms": 171649,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/36aSwnrZXd0k334PSXT7w2"
+      "duration_ms": 196089,
+      "name": "Magot",
+      "url": "https://open.spotify.com/track/7qNQxRHoYd1xB1FnBhWVSm"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Diff\u00e9rent",
-        "url": "https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y"
-      },
-      "artists": [
-        {
-          "name": "Beendo Z",
-          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
-        }
-      ],
-      "duration_ms": 159841,
-      "name": "Diff\u00e9rent",
-      "url": "https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Allo",
         "url": "https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD"
       },
@@ -599,22 +583,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "French Riviera",
-        "url": "https://open.spotify.com/album/0zz8rBPR2RmxmlNfvjrgGA"
+        "name": "Diff\u00e9rent",
+        "url": "https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y"
       },
       "artists": [
         {
-          "name": "Dosseh",
-          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Beendo Z",
+          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
         }
       ],
-      "duration_ms": 201254,
-      "name": "French Riviera",
-      "url": "https://open.spotify.com/track/1YIxzV3rlDUmIES9tpOytj"
+      "duration_ms": 159841,
+      "name": "Diff\u00e9rent",
+      "url": "https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -635,6 +615,26 @@
       "duration_ms": 158782,
       "name": "Terminus",
       "url": "https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "French Riviera",
+        "url": "https://open.spotify.com/album/0zz8rBPR2RmxmlNfvjrgGA"
+      },
+      "artists": [
+        {
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 201254,
+      "name": "French Riviera",
+      "url": "https://open.spotify.com/track/1YIxzV3rlDUmIES9tpOytj"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -755,54 +755,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "\u00c0 l'inverse",
-        "url": "https://open.spotify.com/album/7uGFdMiWN1Mdk4tmwKSrnX"
-      },
-      "artists": [
-        {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
-        }
-      ],
-      "duration_ms": 175706,
-      "name": "\u00c0 l'inverse",
-      "url": "https://open.spotify.com/track/4ljLseBCdBixUTd56quaVZ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "OH MADELEINE",
-        "url": "https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx"
-      },
-      "artists": [
-        {
-          "name": "Disiz",
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-        }
-      ],
-      "duration_ms": 159603,
-      "name": "OH MADELEINE",
-      "url": "https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Sentiments Heureux",
-        "url": "https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 175483,
-      "name": "A quoi tu penses vraiment",
-      "url": "https://open.spotify.com/track/0YRaJCYiH7PCBY7hRxz3XV"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Plaisir Risque D\u00e9pendance",
         "url": "https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc"
       },
@@ -823,34 +775,50 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Appart des Apes",
-        "url": "https://open.spotify.com/album/5yIPSHNtMozcsdkvjfX5rw"
+        "name": "OH MADELEINE",
+        "url": "https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx"
       },
       "artists": [
         {
-          "name": "GLK",
-          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
+          "name": "Disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
         }
       ],
-      "duration_ms": 175968,
-      "name": "Appart des Apes",
-      "url": "https://open.spotify.com/track/3yEsyr32BAZ4WegEmFPW7s"
+      "duration_ms": 159603,
+      "name": "OH MADELEINE",
+      "url": "https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc"
     },
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "La Peuf 6",
-        "url": "https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp"
+        "name": "\u00c0 l'inverse",
+        "url": "https://open.spotify.com/album/7uGFdMiWN1Mdk4tmwKSrnX"
       },
       "artists": [
         {
-          "name": "Hornet La Frappe",
-          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
         }
       ],
-      "duration_ms": 168359,
-      "name": "La Peuf 6",
-      "url": "https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k"
+      "duration_ms": 175706,
+      "name": "\u00c0 l'inverse",
+      "url": "https://open.spotify.com/track/4ljLseBCdBixUTd56quaVZ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Joli coeur",
+        "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Joli coeur",
+      "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -867,6 +835,38 @@
       "duration_ms": 196026,
       "name": "Apocalypse Calypso",
       "url": "https://open.spotify.com/track/1KnLj7n3uEwwEOYeQc1gfg"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Sentiments Heureux",
+        "url": "https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 175483,
+      "name": "A quoi tu penses vraiment",
+      "url": "https://open.spotify.com/track/0YRaJCYiH7PCBY7hRxz3XV"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Appart des Apes",
+        "url": "https://open.spotify.com/album/5yIPSHNtMozcsdkvjfX5rw"
+      },
+      "artists": [
+        {
+          "name": "GLK",
+          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
+        }
+      ],
+      "duration_ms": 175968,
+      "name": "Appart des Apes",
+      "url": "https://open.spotify.com/track/3yEsyr32BAZ4WegEmFPW7s"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

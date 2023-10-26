@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM?si=fhmA3NrsTjKgd5DxioX\_2Q">Nolly</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,857 likes - 102 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,872 likes - 102 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 60 | [Smile](https://open.spotify.com/track/4DfJ8y6VRUakdGRItV10gd) | [Sikan Isong](https://open.spotify.com/artist/2AOjBsqXJ0TAxXXy4tyCq1) | [Smile](https://open.spotify.com/album/0AFyOUpnR6p3bqLdhhLNy0) | 3:08 |
 | 61 | [Solid Rock](https://open.spotify.com/track/6HVpagBVnpFlXKUXjvzEjw) | [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE), [Kinsu](https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh) | [Solid Rock](https://open.spotify.com/album/5gkSoSuoJYp2Ne5fWTxhhd) | 2:39 |
 | 62 | [The Light](https://open.spotify.com/track/1Vn3a4AkgUFtWD6FcyafI7) | [The Abstract Kid](https://open.spotify.com/artist/4MdaPhRU2AMaylIfyWm8cW) | [The Light](https://open.spotify.com/album/7wSIvjH3ZS1JACPOqoKx8Q) | 2:49 |
-| 63 | [Bless The Lord \(x 10,000\)](https://open.spotify.com/track/5BYk7J5s73ccx1aDgUWiXv) | [Afrobeats Worship](https://open.spotify.com/artist/1zP3vvPUniQz6k3bKXI49n), [Rigga](https://open.spotify.com/artist/32kjO3tsKmbUyN8mPrYYxf) | [Bless The Lord \(x 10,000\)](https://open.spotify.com/album/57Mag3JC0UQJBZo0UaJfPA) | 3:44 |
+| 63 | [Bless The Lord \(x 10,000\)](https://open.spotify.com/track/5BYk7J5s73ccx1aDgUWiXv) | [Afrobeats Worship](https://open.spotify.com/artist/1zP3vvPUniQz6k3bKXI49n), [Rigga](https://open.spotify.com/artist/32kjO3tsKmbUyN8mPrYYxf), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY) | [Bless The Lord \(x 10,000\)](https://open.spotify.com/album/57Mag3JC0UQJBZo0UaJfPA) | 3:44 |
 | 64 | [Trust in You](https://open.spotify.com/track/24QZ8sZVtangqkebKPq4Lq) | [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2) | [Trust in You](https://open.spotify.com/album/3aKIB6yncFyXoE0t4ITRDl) | 3:30 |
 | 65 | [Mudzimu Nthuse](https://open.spotify.com/track/4BB6bUyjlo4G9xy2vPkimC) | [THENDELO SHALOM DAVHANA](https://open.spotify.com/artist/6VRXH2bCrfYZKEGLbwFRwz) | [Mudzimu Nthuse](https://open.spotify.com/album/5meGSu11thDMyCYmz6hGi9) | 6:49 |
 | 66 | [We Chant in the Holy Ghost Ah Ah \- Full Version](https://open.spotify.com/track/1knGQFJdtRYLkI2nQYlIJc) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [We Chant in the Holy Ghost Ah Ah \(Full Version\)](https://open.spotify.com/album/4PMQOZD9gwCBLgOHgUJnsa) | 15:00 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 101 | [Run To You](https://open.spotify.com/track/0UIpdVr8h1Pm15IknyeZuv) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB) | [Run To You](https://open.spotify.com/album/1utQ8YyqCvuI18HHfRtU3c) | 2:54 |
 | 102 | [Twinkle Star](https://open.spotify.com/track/3R0RkG2Sm7TAXzOg1lyxbF) | [Kaydeegospel](https://open.spotify.com/artist/3I9jvm6n4vcnYvfAdYgT2X) | [Twinkle Star](https://open.spotify.com/album/4frOvFrexwfK1ZmyiM6XQG) | 2:19 |
 
-Snapshot ID: `MCw4Y2ViMWJkMjc3OWEwMTkxMTcyMWQyM2Y0ZjQ0MjZiZmE5NDRhOGY4`
+Snapshot ID: `MCwwMzA4YzUwNzZjOTlkZGFiY2UxM2YwYTZjNTY1OTQzOTQyMDRkODQy`

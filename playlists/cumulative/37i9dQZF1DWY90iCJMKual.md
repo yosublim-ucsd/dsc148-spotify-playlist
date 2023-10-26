@@ -4,7 +4,7 @@
 
 > vibe out w some 🇵🇭 R&B Cover: Lo ki
 
-169 songs - 9 hr 57 min
+170 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alam Mo Na](https://open.spotify.com/track/774A5MOLetP7l96uR0ZHZn) | [BTDTbeats](https://open.spotify.com/artist/0rCPgUfWXPdKYIvTeZcy7x), [Urdee](https://open.spotify.com/artist/1fwSTEYdetDkpzNwLGZcqg) | [Alam Mo Na](https://open.spotify.com/album/204lTLS6R8MYYmNPy8ZlIP) | 4:02 | 2022-10-12 | 2023-05-03 |
 | [alaskwatro y medya](https://open.spotify.com/track/280toQx99v54QvDxDGTAa6) | [Quatro](https://open.spotify.com/artist/0xLtaDZVH44ecTvHSUV7bX) | [alaskwatro y medya](https://open.spotify.com/album/3CGCSa2mqJoKiIJpULmFgf) | 3:16 | 2022-10-12 | 2023-07-29 |
 | [All For You](https://open.spotify.com/track/4sJwP1KX1nLmGjIZjKWgSL) | [CJt](https://open.spotify.com/artist/5wMe42YSVxyFt6amGFPCbS) | [All For You](https://open.spotify.com/album/5malgaYrcA1cf4q6EoaP4G) | 3:33 | 2022-10-12 | 2023-07-29 |
+| [All I Want](https://open.spotify.com/track/03X0BZPwMFxLNg9O2yMtza) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [All I Want](https://open.spotify.com/album/22ykUNFfBrxQJcNBZyvXgh) | 2:30 | 2023-10-25 |  |
 | [Aminin](https://open.spotify.com/track/58Y3alAZ4Z2zJGFJiyT9CX) | [Pricetagg](https://open.spotify.com/artist/1UvsiRB2EarPibq6XRl9Sv), [Zae](https://open.spotify.com/artist/4Flrlc0Sf1QaWLbDLdvU3L) | [Aminin](https://open.spotify.com/album/1nxQSlG58nXJJextcAoTzy) | 3:37 | 2023-07-28 |  |
 | [Araw2x Gabi2x](https://open.spotify.com/track/5LrsVk1IzDBXkaUDL6PoDC) | [Zo zo](https://open.spotify.com/artist/0xyijUZwKlIH8yjj0OuDf6) | [Araw2x Gabi2x](https://open.spotify.com/album/5tCSAhDhtQZlvFXywZu7PZ) | 3:43 | 2022-10-12 | 2023-07-29 |
 | [Ayos Lang ‘Yan](https://open.spotify.com/track/4SsdGsUCb6RWorUQ58bueg) | [Hero](https://open.spotify.com/artist/0zF89Z0aMZSGZlgEBX0uvm) | [Ayos Lang ‘Yan](https://open.spotify.com/album/2pBLiHZ28ZbC3gC6MOIp1H) | 3:23 | 2023-10-02 |  |
@@ -50,7 +51,7 @@
 | [Fight or Flight](https://open.spotify.com/track/1JTjcIK0OOwopIWkWfKUw2) | [primo.io](https://open.spotify.com/artist/4sG37eH4v8Oi8nReR52YCB) | [Fight or Flight](https://open.spotify.com/album/1ZwAq8ymX6JaWcAWLEq7GT) | 3:30 | 2023-04-06 | 2023-09-16 |
 | [First Impressions \- Yuan Estrada x Dave Anonuevo Remix](https://open.spotify.com/track/2yzGqCVboYtsOUolarj6hd) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Yuan Estrada](https://open.spotify.com/artist/4lip0Iq4MmA7pHujoaMWlN), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [Options \(Deluxe\)](https://open.spotify.com/album/6BiJmwF8oi2ZZIWYXbdU5O) | 4:03 | 2022-10-12 | 2022-12-15 |
 | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/track/3UPfHl6IoVopUu6wVHek4s) | [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO) | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/album/3uYvCGaqN8HgwYs4aM0nwb) | 4:20 | 2022-10-12 | 2023-07-29 |
-| [Gunita](https://open.spotify.com/track/6BgwDTBvewo3waE0LhfSUT) | [$ho](https://open.spotify.com/artist/5jq0FNV7UUOnySZ6lvv8tH) | [Gunita](https://open.spotify.com/album/26WdICKZG6NBoLvCXGtJkA) | 3:56 | 2023-07-13 |  |
+| [Gunita](https://open.spotify.com/track/6BgwDTBvewo3waE0LhfSUT) | [$ho](https://open.spotify.com/artist/5jq0FNV7UUOnySZ6lvv8tH) | [Gunita](https://open.spotify.com/album/26WdICKZG6NBoLvCXGtJkA) | 3:56 | 2023-07-13 | 2023-10-26 |
 | [Gusto](https://open.spotify.com/track/5ojhdirBnBs8y1EXgkpSj1) | [RAINA](https://open.spotify.com/artist/0TMW4pEBWFz1GZa0cGua0l) | [Gusto](https://open.spotify.com/album/4A5EzPzTX7nQVhMmKGc1dG) | 2:10 | 2022-10-12 | 2023-07-29 |
 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-07-13 |  |
 | [Gusto With Ya](https://open.spotify.com/track/0hr2Itwh84Zn3PiRRjHTnw) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Gusto With Ya](https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk) | 2:42 | 2022-10-12 | 2023-07-29 |

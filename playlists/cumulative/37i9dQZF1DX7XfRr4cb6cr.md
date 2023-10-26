@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-248 songs - 20 hr 51 min
+249 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Between Two Breaths](https://open.spotify.com/track/4ppsp7PyPEllHWDzCyHHF8) | [Night Gestalt](https://open.spotify.com/artist/4UuRl4uM2Nf7sbNFBKpZ6b) | [Between Two Breaths](https://open.spotify.com/album/0mvMU44cr2G86elQUQkDIx) | 5:48 | 2022-01-21 | 2022-11-02 |
 | [Beyond Entropia](https://open.spotify.com/track/3VC4vfxgf8ZacZCDy3Rnea) | [Shunkan Idou](https://open.spotify.com/artist/5cIfhBA7Wabl7fAAnMvdJs) | [Beyond Entropia](https://open.spotify.com/album/3N6YfSTnZdzLfhrFL8BSdr) | 7:37 | 2022-01-28 |  |
 | [bipolar](https://open.spotify.com/track/1uvn7eP1I7mIKGvpsqDcoW) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [bipolar](https://open.spotify.com/album/5MOmkgxIJLtmoapI60uK6A) | 2:12 | 2023-10-06 |  |
+| [black box \- alt version](https://open.spotify.com/track/1aEqFOVkJRPBxQME5U06DS) | [Father2006](https://open.spotify.com/artist/27yhOwnmWiOJf474zGblS4) | [black box](https://open.spotify.com/album/6nJbapZnyYjqx1Sxka9fQx) | 3:41 | 2023-10-23 |  |
 | [Blue Window](https://open.spotify.com/track/2pYUcvzuzdGc4joj0KYX84) | [The Reflectionist](https://open.spotify.com/artist/3FWqZF8m9XAImKhKHM4TLE) | [Blue Window](https://open.spotify.com/album/5zfa586cmW4HGRZFTtmbGu) | 2:34 | 2022-02-11 |  |
 | [Bondage To Formula](https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Cast Of Mind](https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN) | 7:15 | 2022-01-21 |  |
 | [Breakdown \(The End of Chemical Romance\)](https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Breakdown](https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0) | 7:27 | 2022-01-21 |  |
@@ -210,7 +211,7 @@
 | [The Arrival](https://open.spotify.com/track/43hoTnsjs3Vsx8P1SCQLlP) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [Soundtracks for Winter Departures](https://open.spotify.com/album/4ktjEssT9GeVlNhhliA269) | 4:48 | 2023-10-06 |  |
 | [The Aurae Loops](https://open.spotify.com/track/19dF9aQX9Kn5lTt5VJv7pF) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 5:42 | 2022-01-21 |  |
 | [The Canonization](https://open.spotify.com/track/0qnPb51JWtWmUdNt97ODnO) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:10 | 2022-12-30 | 2023-02-13 |
-| [The Church](https://open.spotify.com/track/4F7ezw5Lid54Yo7xQ5v4U0) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Men \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EoXQyNGzvmUFgVkIMnidn) | 4:25 | 2023-10-06 |  |
+| [The Church](https://open.spotify.com/track/4F7ezw5Lid54Yo7xQ5v4U0) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Men \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EoXQyNGzvmUFgVkIMnidn) | 4:25 | 2023-10-06 | 2023-10-26 |
 | [The Church \- From The "Men" Original Motion Picture Soundtrack](https://open.spotify.com/track/0fQkf9YaBHEzdT0SpsdCVx) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [The Church \(From The "Men" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GnIduqIk7FJKEDgKLfLmr) | 4:25 | 2022-05-06 | 2022-07-28 |
 | [The Distance \- Slowed](https://open.spotify.com/track/4EME3335xHgRETXiT0wYKE) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [The Distance \(Slowed\)](https://open.spotify.com/album/0ganyllgclUc8rdKBqDQW9) | 3:38 | 2023-10-06 | 2023-10-10 |
 | [the distance between us](https://open.spotify.com/track/2QN2myMPxIyn2rsqU3FpFR) | [monosleep](https://open.spotify.com/artist/2rHHKIugCALDXcAaYryNCt) | [a world of possibility](https://open.spotify.com/album/6w6EdQV1km9T25x209Q4sx) | 2:30 | 2022-08-17 |  |

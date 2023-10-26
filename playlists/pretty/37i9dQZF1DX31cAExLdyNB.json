@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 64388,
+  "num_followers": 64393,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjA4ODBjYjdkMDgzZTY4NjYwZjk3YTY3MjJhN2NmMjdhYjExYTBh",
+  "snapshot_id": "MCxmMDUwM2JlZjgzNTdmYjU3Zjg4MzA2YWIzNjY5ODA1ZjEwMDgzYTUz",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "How Long Have You Been Away?",
-        "url": "https://open.spotify.com/album/0rG6VTxWDBNufy5ghJTHij"
-      },
-      "artists": [
-        {
-          "name": "kryptogram",
-          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
-        }
-      ],
-      "duration_ms": 208568,
-      "name": "How Long Have You Been Away?",
-      "url": "https://open.spotify.com/track/0W1jh3ExLv0nMvvmNJOBxh"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Cura",
         "url": "https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 217151,
       "name": "Se Eu Soubesse",
       "url": "https://open.spotify.com/track/0T7iwFLmkeKuKvFdtUTKGe"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "How Long Have You Been Away?",
+        "url": "https://open.spotify.com/album/0rG6VTxWDBNufy5ghJTHij"
+      },
+      "artists": [
+        {
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+        }
+      ],
+      "duration_ms": 208568,
+      "name": "How Long Have You Been Away?",
+      "url": "https://open.spotify.com/track/0W1jh3ExLv0nMvvmNJOBxh"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -803,6 +803,22 @@
       "duration_ms": 268434,
       "name": "Silence & Secrets",
       "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Uncanny Valley",
+        "url": "https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 193299,
+      "name": "Chapstick",
+      "url": "https://open.spotify.com/track/33E5u0qmzBlsHkhU1bTBWa"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -967,6 +983,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Drinkee (Radio Edit)",
+        "url": "https://open.spotify.com/album/0JdrR2T6BFxVSyZlQxtYb7"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 191468,
+      "name": "Drinkee (Radio Edit)",
+      "url": "https://open.spotify.com/track/32dGtSQJ07FYAS9sK13eO6"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Los Caymanes (Para Olvidar)",
         "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
       },
@@ -999,42 +1031,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Drinkee (Radio Edit)",
-        "url": "https://open.spotify.com/album/0JdrR2T6BFxVSyZlQxtYb7"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 191468,
-      "name": "Drinkee (Radio Edit)",
-      "url": "https://open.spotify.com/track/32dGtSQJ07FYAS9sK13eO6"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Nunca Nunca",
-        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
-        },
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Nunca Nunca",
-      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Born a Loser (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1IbTYBq7imKlDRQCYhuReB"
       },
@@ -1055,6 +1051,26 @@
       "duration_ms": 240853,
       "name": "Moving Men - Metronomy Remix",
       "url": "https://open.spotify.com/track/3k2ccZTU1D3JK9hVR0qdbO"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Mirada Speed",
+        "url": "https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8"
+      },
+      "artists": [
+        {
+          "name": "Plastical People",
+          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
+        },
+        {
+          "name": "Diana Flores",
+          "url": "https://open.spotify.com/artist/1uY5M89vDvIAwHW0df42Oe"
+        }
+      ],
+      "duration_ms": 227992,
+      "name": "Mirada Speed",
+      "url": "https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1083,26 +1099,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Mirada Speed",
-        "url": "https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8"
-      },
-      "artists": [
-        {
-          "name": "Plastical People",
-          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
-        },
-        {
-          "name": "Diana Flores",
-          "url": "https://open.spotify.com/artist/1uY5M89vDvIAwHW0df42Oe"
-        }
-      ],
-      "duration_ms": 227992,
-      "name": "Mirada Speed",
-      "url": "https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "THREE STRIKES (feat. Khalid)",
         "url": "https://open.spotify.com/album/62rnq2H2kSqfAWSOic6X6f"
       },
@@ -1123,6 +1119,26 @@
       "duration_ms": 266811,
       "name": "THREE STRIKES (feat. Khalid) - TSHA remix",
       "url": "https://open.spotify.com/track/4Tq3g2KMag5tgmmEnO91lA"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Nunca Nunca",
+        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+        },
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "Nunca Nunca",
+      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1219,22 +1235,6 @@
       "duration_ms": 289335,
       "name": "Realidades No Ordinarias",
       "url": "https://open.spotify.com/track/58VAdJ19ENSELUjofs5Ocn"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Cuadros",
-        "url": "https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK"
-      },
-      "artists": [
-        {
-          "name": "Floreana",
-          "url": "https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Takotsubo",
-      "url": "https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz"
     }
   ],
   "unique_name": "Onda Indietr\u00f3nica",

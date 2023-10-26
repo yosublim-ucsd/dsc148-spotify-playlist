@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:7IRnDitYnXmIpoClQ0XspK">Kasia Lins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,682 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,687 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 7 | [Tarka](https://open.spotify.com/track/3hWRddn9FrOVUSlUxOl02C) | [Sara Kordowska](https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P) | [Tarka](https://open.spotify.com/album/6nyr8OvrbXc1Gp4KmmbpFc) | 3:23 |
 | 8 | [Rodeo](https://open.spotify.com/track/7cD3GOKnMPgW4m37meuv3J) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Rodeo](https://open.spotify.com/album/3qRfgIajUoPGnLDZSlX33g) | 2:35 |
 | 9 | [aloha spirit](https://open.spotify.com/track/3SWh8zLv3QsAofaZfnI6xQ) | [nath](https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd), [1988](https://open.spotify.com/artist/1cEKae6J83197V4jUz0GSJ) | [aloha spirit](https://open.spotify.com/album/4hKPcUTMX2GjdUqvhM5EX0) | 2:48 |
-| 10 | [Do Ciebie](https://open.spotify.com/track/3TvJqcLU6fgKtnsH4nLKzQ) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [ZUZA](https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ), [Irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U) | [UMAMI](https://open.spotify.com/album/0aHvoiipMBXeLDMyXHLGzE) | 2:49 |
+| 10 | [Do Ciebie](https://open.spotify.com/track/3TvJqcLU6fgKtnsH4nLKzQ) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [ZUZA](https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ), [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U) | [UMAMI](https://open.spotify.com/album/0aHvoiipMBXeLDMyXHLGzE) | 2:49 |
 | 11 | [TIMOTHEE CHALAMET](https://open.spotify.com/track/7daFtiKPaAXzFiCNfwvDS1) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [TIMOTHEE CHALAMET](https://open.spotify.com/album/5HRAAPPC2Q4j21g0lKPkTE) | 3:25 |
 | 12 | [Bynajmniej](https://open.spotify.com/track/6OE94XGcWBoOy0xVGIS1Oq) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Bynajmniej](https://open.spotify.com/album/1LM49jGF9aTqbdSiqyI1cZ) | 2:23 |
 | 13 | [Poems](https://open.spotify.com/track/11QwbRiai0WSgdIREg04cB) | [IGA](https://open.spotify.com/artist/194PQAWwypriEsRab3Ly6D) | [Poems](https://open.spotify.com/album/4eusURd6SKfzNss9vJovLR) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Nie Mrzonki](https://open.spotify.com/track/0OV8q4z2MAXroTokfUIapP) | [Sandra Czuraj](https://open.spotify.com/artist/3qQDvGPGR4wGp6EcTVD3uV) | [Nie Mrzonki](https://open.spotify.com/album/0EUJR4j4i5pLZD3wMCBfAM) | 3:06 |
 | 50 | [FUCK OFF](https://open.spotify.com/track/1y7ZmHjhNSoeLD0BO8t7aM) | [Ziggiel Lou](https://open.spotify.com/artist/3QiTnVbqgpS65j9BABxfiL) | [ROLLING WITH THE OUTER WORLD](https://open.spotify.com/album/3vgatJ9CkofNaGpscWeUUg) | 3:39 |
 
-Snapshot ID: `MCxmMTE4ZGUyNmM4NjA1Njk3YTUzYjEwNjY2Mjc5MjgwY2EyMjA4NGZl`
+Snapshot ID: `MCw3YzI4MDkxOWVmZmRhNWY0NjgyYzQzZDc5YTQ4ZjAwNzM0MjE0YWNi`

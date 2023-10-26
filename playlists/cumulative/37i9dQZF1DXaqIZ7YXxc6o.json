@@ -12297,6 +12297,24 @@
     },
     {
       "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/1QHmnxrk1m86aSxyHbqkGN"
+      },
+      "artists": [
+        {
+          "name": "Big Skeez",
+          "url": "https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142487,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0ORztKuYmQZKCyQwRYr3vP"
+    },
+    {
+      "album": {
         "name": "Her Way",
         "url": "https://open.spotify.com/album/0IOjKjzEsOkHvmjcOGTPaM"
       },
@@ -32197,7 +32215,7 @@
         },
         {
           "name": "DNA",
-          "url": "https://open.spotify.com/artist/5ISgOPcI1bY7Rd28GUWWE8"
+          "url": "https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs"
         }
       ],
       "date_added": "2023-10-19",

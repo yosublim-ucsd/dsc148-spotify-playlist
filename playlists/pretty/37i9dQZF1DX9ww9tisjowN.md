@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: XG
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,637 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,804 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [Gold　～また逢う日まで～](https://open.spotify.com/track/4asfbynajcQo9Y2FRaAyjc) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Gold　～また逢う日まで～ EP](https://open.spotify.com/album/3WuydSB2E7WbXqTReBNo8N) | 4:15 |
 | 75 | [angel girl is a slut](https://open.spotify.com/track/6R7HHLUnA8HNW0IQYHy9qS) | [cyber milk chan](https://open.spotify.com/artist/1o7ZTFiwtNY4lB9p2q1pt1) | [angel girl is a slut](https://open.spotify.com/album/4eL3wRQYnnauSjMxgAV4rv) | 2:28 |
 
-Snapshot ID: `MCw4NzBmOTE4ZDMwMzRlMWUwM2M5NzQ2YjFiY2JjY2U1NmZiYzg0M2Ew`
+Snapshot ID: `MCw5MTZkZmE2OTI0MzRjNzUxOGU5YTg1MjZkMmRmMGRmZmQ0OTg5NmNk`

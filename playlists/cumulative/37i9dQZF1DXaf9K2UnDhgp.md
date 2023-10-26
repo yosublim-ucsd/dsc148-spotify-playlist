@@ -4,7 +4,7 @@
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-217 songs - 11 hr 52 min
+218 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Merry Christmas, Kiss My Ass](https://open.spotify.com/track/1Y2GZOHagYKkKRzNVbpbT5) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:19 | 2021-11-26 |  |
 | [Merry Christmas, Kiss My Ass](https://open.spotify.com/track/2V7aVEgncnJEacAjPpDqT1) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Anti Christmas Christmas Vibes 2021](https://open.spotify.com/album/4BQrXkk1BJSwMrr9hjKRfY) | 3:19 | 2022-11-09 | 2022-11-13 |
 | [Merry Xmas Everybody](https://open.spotify.com/track/5QIphfOQihUj7yRWzYN8ZF) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Merry Xmas Everybody](https://open.spotify.com/album/5UoLyRYhbCOtqNDZDXXBjL) | 3:05 | 2022-12-20 |  |
+| [Missing You This Christmas](https://open.spotify.com/track/4FlwJjkAnBkEzSK8nP4NIw) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Missing You This Christmas](https://open.spotify.com/album/2m3FIWsaQkWNMQI6DYfIT1) | 3:07 | 2023-10-25 |  |
 | [Mistress for Christmas](https://open.spotify.com/track/6xwxKqCIdrs0RDWkmFxzZs) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 3:59 | 2022-11-09 |  |
 | [Mistress for Christmas](https://open.spotify.com/track/5Pk7LNZbcJk7E1cSMYhqV3) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Mistress for Christmas](https://open.spotify.com/album/1H08mkzymVRV8TSqf79GYj) | 3:34 | 2021-11-26 |  |
 | [My December](https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 4:20 | 2021-11-26 |  |
@@ -201,7 +202,7 @@
 | [Threadbare](https://open.spotify.com/track/4JrYtPByIks9p7h9FYhgeS) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Threadbare](https://open.spotify.com/album/7n9A3XL9AprUZ4UhMRWCja) | 3:30 | 2021-11-26 |  |
 | [Turn off All the Christmas Songs](https://open.spotify.com/track/2GPUnkrAWoJ2YkzLBsaXwl) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Turn off All the Christmas Songs](https://open.spotify.com/album/65mYBztp2MM9ozVljKjePj) | 3:10 | 2022-12-20 |  |
 | [Violent Night \(A Christmas Tale\)](https://open.spotify.com/track/0U9gvmhKLcCMimMjz00qxp) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Chubby and the Gang Presents: A Christmas Extravaganza](https://open.spotify.com/album/7LnLkjFzqLUpONVoOVbpwH) | 3:30 | 2022-12-20 | 2023-09-21 |
-| [Violent Night \(A Christmas Tale\)](https://open.spotify.com/track/1gaeICtm5jZet0IF8khcdP) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Chubby and the Gang presents: A Christmas Extravaganza](https://open.spotify.com/album/2haNprGHaH0xhari2p1ri6) | 3:30 | 2022-12-20 |  |
+| [Violent Night \(A Christmas Tale\)](https://open.spotify.com/track/1gaeICtm5jZet0IF8khcdP) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Chubby and the Gang presents: A Christmas Extravaganza](https://open.spotify.com/album/2haNprGHaH0xhari2p1ri6) | 3:30 | 2022-12-20 | 2023-10-26 |
 | [Violent Night \(A Christmas Tale\)](https://open.spotify.com/track/7bKiUJ2re9OTNkB8sjYEdm) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Violent Night \(A Christmas Tale\)](https://open.spotify.com/album/13rqjPtmNSnmvBBO6tZyZg) | 3:30 | 2022-12-02 | 2023-01-06 |
 | [We All Need Christmas](https://open.spotify.com/track/0cGgN5pGXfECL8OLZEeIf2) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [We All Need Christmas](https://open.spotify.com/album/7nXguxttjtF1IkupVfms5q) | 3:57 | 2021-11-26 |  |
 | [We Three Kings](https://open.spotify.com/track/2XwPpAAZVnakNYw6S9qPJC) | [Bang Bang Romeo](https://open.spotify.com/artist/0pYrJEBQD23sHMvxsBM3fO) | [We Three Kings](https://open.spotify.com/album/1TO6QSqIhdI5plWSHDi31p) | 1:58 | 2021-11-26 | 2022-11-09 |

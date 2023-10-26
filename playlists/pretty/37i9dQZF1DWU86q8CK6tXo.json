@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover:  <a href=\u201cspotify:artist:5GGJosGMs08YEmKTZJe1fL\u201d>Suki Waterhouse</a> ",
-  "num_followers": 43799,
+  "num_followers": 43816,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjJiNzVjZDY2NzIzNGE1MmM1ZjczNzgxOWI4ZWZjYmU0Zjc1OTlj",
+  "snapshot_id": "MCwzOTk0MjU1YjEzNzcxODY5YThlNmU3Zjc5YjA2MjNhYWVkN2RjNWY3",
   "tracks": [
     {
       "added_at": "2023-10-17 04:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-10-17 04:00:00",
       "album": {
+        "name": "Bitch Imma Star",
+        "url": "https://open.spotify.com/album/1Oi6OOxpwlDmEYXfKA80nY"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "duration_ms": 112887,
+      "name": "Bitch Imma Star",
+      "url": "https://open.spotify.com/track/2UrYTtcWsZNlkwXdLp0ZHY"
+    },
+    {
+      "added_at": "2023-10-17 04:00:00",
+      "album": {
         "name": "Big Mad (feat. Flo Milli)",
         "url": "https://open.spotify.com/album/04jIgr8btAumWJzTRIhrxl"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 110781,
       "name": "Big Mad (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/6UliIDFULJHvJpSfQ61zu5"
-    },
-    {
-      "added_at": "2023-10-17 04:00:00",
-      "album": {
-        "name": "Bitch Imma Star",
-        "url": "https://open.spotify.com/album/1Oi6OOxpwlDmEYXfKA80nY"
-      },
-      "artists": [
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        }
-      ],
-      "duration_ms": 112887,
-      "name": "Bitch Imma Star",
-      "url": "https://open.spotify.com/track/2UrYTtcWsZNlkwXdLp0ZHY"
     },
     {
       "added_at": "2023-10-17 04:00:00",

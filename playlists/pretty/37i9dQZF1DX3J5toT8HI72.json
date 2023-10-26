@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas pra voc\u00ea curtir com seu amorzinho (ou pensando nele) ",
-  "num_followers": 784566,
+  "num_followers": 784658,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGU4ZjcxNjI3MDdkYTdjY2E1OGEwMTEwM2VjYzVlNGMzYzE4NjVk",
+  "snapshot_id": "MCwzZmY2MjFhOGNkMTQ0MzI5NjU0YmViMzc0ZTM0N2EyNWRiYzIyNzhm",
   "tracks": [
     {
       "added_at": "2023-10-23 12:44:30",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-10-23 12:44:30",
       "album": {
-        "name": "Musica para Churrasco, Vol. 2",
-        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
-    },
-    {
-      "added_at": "2023-10-23 12:44:30",
-      "album": {
         "name": "Nossa Miss\u00e3o",
         "url": "https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 254026,
       "name": "Quero Ser Feliz Tamb\u00e9m",
       "url": "https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS"
+    },
+    {
+      "added_at": "2023-10-23 12:44:30",
+      "album": {
+        "name": "Musica para Churrasco, Vol. 2",
+        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
     },
     {
       "added_at": "2023-10-23 12:44:30",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2023-10-23 12:44:30",
       "album": {
-        "name": "Top Hits",
-        "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
+        "name": "Tantos Mares",
+        "url": "https://open.spotify.com/album/18fvdisM9gH3ZWH6ETAGBd"
       },
       "artists": [
         {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        },
+        {
+          "name": "Gabriella Stehling",
+          "url": "https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Proibida Pra Mim",
-      "url": "https://open.spotify.com/track/0Cro1lolgliyLKxGptK6RZ"
+      "duration_ms": 280266,
+      "name": "Tantos Mares",
+      "url": "https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct"
     },
     {
       "added_at": "2023-10-23 12:44:30",
@@ -1319,22 +1323,18 @@
     {
       "added_at": "2023-10-23 12:44:30",
       "album": {
-        "name": "Tantos Mares",
-        "url": "https://open.spotify.com/album/18fvdisM9gH3ZWH6ETAGBd"
+        "name": "Top Hits",
+        "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
       },
       "artists": [
         {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        },
-        {
-          "name": "Gabriella Stehling",
-          "url": "https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ"
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         }
       ],
-      "duration_ms": 280266,
-      "name": "Tantos Mares",
-      "url": "https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct"
+      "duration_ms": 195000,
+      "name": "Proibida Pra Mim",
+      "url": "https://open.spotify.com/track/0Cro1lolgliyLKxGptK6RZ"
     },
     {
       "added_at": "2023-10-23 12:44:30",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-10-23 12:44:30",
       "album": {
+        "name": "coisa mais bonita",
+        "url": "https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "duration_ms": 176103,
+      "name": "coisa mais bonita",
+      "url": "https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M"
+    },
+    {
+      "added_at": "2023-10-23 12:44:30",
+      "album": {
         "name": "Vem C\u00e1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4n3V55qm74LHzn5JTH6pLN"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 215236,
       "name": "Eu Sou Voc\u00ea",
       "url": "https://open.spotify.com/track/1S5xxCLAVai7U3iNn4GztE"
-    },
-    {
-      "added_at": "2023-10-23 12:44:30",
-      "album": {
-        "name": "coisa mais bonita",
-        "url": "https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb"
-      },
-      "artists": [
-        {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
-        }
-      ],
-      "duration_ms": 176103,
-      "name": "coisa mais bonita",
-      "url": "https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M"
     },
     {
       "added_at": "2023-10-23 12:44:30",

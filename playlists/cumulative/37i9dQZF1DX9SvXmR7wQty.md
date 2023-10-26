@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Tayc
 
-2,129 songs - 4 day 17 hr 42 min
+2,131 songs - 4 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -923,6 +923,7 @@
 | [Jeudredi](https://open.spotify.com/track/62aHISvX2eYqpZO6VAWMCC) | [David Pineau](https://open.spotify.com/artist/3n53aGeDfq4Vc3q7OpstmY), [Anthony Gaudet](https://open.spotify.com/artist/2Acgfke9DIf3ZLRwiVMqCi) | [Jeudredi](https://open.spotify.com/album/5rgxPhxSqa6tFoyK8BduGW) | 2:24 | 2023-01-13 | 2023-01-21 |
 | [jm'en bas les couilles](https://open.spotify.com/track/4liOxDRHynaU7pAREKkH0A) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [jm'en bas les couilles](https://open.spotify.com/album/61lVQh4YSAFeBU0XATTDh7) | 2:22 | 2022-10-28 | 2022-11-12 |
 | [Jn'attendrai plus](https://open.spotify.com/track/6UOGItOYXOpnqCORE9VP9t) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Par Fierté](https://open.spotify.com/album/3joknrlbS386Npao4I4p49) | 3:52 | 2023-09-15 | 2023-10-01 |
+| [Joli coeur](https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Joli coeur](https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd) | 3:14 | 2023-10-20 |  |
 | [Joli cœur](https://open.spotify.com/track/4xCFHoSZjzetjFGQadXlgR) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Evidence](https://open.spotify.com/album/2h6EgCJTdQ57YGsmp4pCII) | 2:53 | 2023-04-07 | 2023-05-13 |
 | [Jolie Go](https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Jolie Go](https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF) | 2:46 | 2023-03-03 | 2023-03-18 |
 | [Jolie poupée](https://open.spotify.com/track/1Qafc5IMJQVIzBiEoZLa2S) | [AM La Scampia](https://open.spotify.com/artist/0WzzOQ8n065ISKclSusFzY), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Jolie poupée](https://open.spotify.com/album/55onUtLec5yGHqActDK79r) | 2:50 | 2022-03-11 | 2022-03-18 |
@@ -1026,7 +1027,7 @@
 | [La nuit](https://open.spotify.com/track/3QNCQAYQqhEdv3zwWmBMX6) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [La nuit](https://open.spotify.com/album/1CaTDmBmiYtRJVvfVv0GT9) | 2:39 | 2022-06-10 | 2022-06-25 |
 | [La nuit nous laisse les étoiles](https://open.spotify.com/track/7eDJnQDTDWYu7mMCc0azhN) | [David Thibault](https://open.spotify.com/artist/19x0G0gV8vPa6l6kYNzKPT) | [Désormais](https://open.spotify.com/album/1U4Ano5gL9nyv7ujehVfLP) | 3:01 | 2023-01-27 | 2023-02-11 |
 | [La Nuit règne](https://open.spotify.com/track/781hUmNWjtcKD7Gz0nVAMR) | [Jam Khalil](https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8) | [Au cœur du royaume](https://open.spotify.com/album/58ZYHXWMuvOLy0GfRUMDdc) | 3:33 | 2022-06-10 | 2022-06-25 |
-| [La Peuf 6](https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [La Peuf 6](https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp) | 2:48 | 2023-09-08 |  |
+| [La Peuf 6](https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [La Peuf 6](https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp) | 2:48 | 2023-09-08 | 2023-10-26 |
 | [LA PLUME OU L’ARME](https://open.spotify.com/track/2r0KFnfmPqWSOUSm5m2Pob) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr) | [LA PLUME OU L’ARME](https://open.spotify.com/album/73hFazxCeNZmYRrWyqJQGc) | 3:02 | 2022-05-06 | 2022-05-14 |
 | [La protagoniste](https://open.spotify.com/track/3WClLiQH8U19rNzxTPIAnA) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Traits d'union](https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g) | 2:15 | 2023-09-22 | 2023-09-30 |
 | [La recette](https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [La recette](https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v) | 3:17 | 2022-05-20 | 2022-05-28 |
@@ -1235,7 +1236,8 @@
 | [Magic Johnson](https://open.spotify.com/track/68IeiFIaq7Pd5O5REmwMuj) | [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [Sua broue](https://open.spotify.com/album/4qCiQshJI98LzrP1gtE7T1) | 1:59 | 2022-06-24 | 2022-07-09 |
 | [Magique](https://open.spotify.com/track/0FzN7tnPh3epsX38zFgvV1) | [S’tano](https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc) | [Magique](https://open.spotify.com/album/7Ju4HUvlakPvIsibpoZ4Wu) | 3:05 | 2023-01-20 | 2023-01-28 |
 | [Magnifique](https://open.spotify.com/track/4mzNeemSeYcTJSPlQWudN7) | [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [TronelDiablo](https://open.spotify.com/album/1kRKwfoDM7hFBH9YrBGlyb) | 3:16 | 2022-08-12 | 2022-08-27 |
-| [Magot](https://open.spotify.com/track/69zAnyBtarXinChSUq925t) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 3:16 | 2023-09-22 |  |
+| [Magot](https://open.spotify.com/track/69zAnyBtarXinChSUq925t) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 3:16 | 2023-09-22 | 2023-10-26 |
+| [Magot](https://open.spotify.com/track/7qNQxRHoYd1xB1FnBhWVSm) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Magot](https://open.spotify.com/album/6wPL7UMGoIptE9eWMDwP82) | 3:16 | 2023-10-20 |  |
 | [main l’oiseau](https://open.spotify.com/track/1b00k9gcQ9SxLK0aLXlUpa) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [ET SI, DE/main l'oiseau](https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa) | 3:26 | 2023-09-22 | 2023-09-30 |
 | [MAINTENANT](https://open.spotify.com/track/5I7W7mFSWcIWN5LfWR8ElP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [MAINTENANT](https://open.spotify.com/album/7wroesHmGqA6A7UmoKZCxO) | 3:55 | 2022-09-30 | 2022-10-15 |
 | [Maison de dicks](https://open.spotify.com/track/0MFuLr24g6cc6iAmuwj7PQ) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Maison de dicks](https://open.spotify.com/album/0qCoa6PwtapBcSp8KRIQiZ) | 2:26 | 2022-02-11 | 2022-02-26 |

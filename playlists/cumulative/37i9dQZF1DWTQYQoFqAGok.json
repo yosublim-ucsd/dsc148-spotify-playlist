@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 339280,
       "name": "Por los Caminos del Sur",
       "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
@@ -1570,6 +1570,24 @@
       "duration_ms": 318122,
       "name": "Trato De Asimilar",
       "url": "https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h"
+    },
+    {
+      "album": {
+        "name": "Trementina",
+        "url": "https://open.spotify.com/album/5KnGI6HyME7eLLoGP9DZwN"
+      },
+      "artists": [
+        {
+          "name": "Torso Corso",
+          "url": "https://open.spotify.com/artist/4M6TN8LGWYXUoezRTUp8F8"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127652,
+      "name": "Trementina",
+      "url": "https://open.spotify.com/track/1kqh6ZavA3h4PpkRAJgG8o"
     },
     {
       "album": {

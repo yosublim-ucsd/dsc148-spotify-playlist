@@ -2127,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "Broke In A Minute",
+        "url": "https://open.spotify.com/album/0UWsJ8Z4BRe740txEt4IM6"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132023,
+      "name": "Broke In A Minute",
+      "url": "https://open.spotify.com/track/2ZrAjMSmlbDIil0JaVgTHh"
+    },
+    {
+      "album": {
         "name": "The D.O.A. Tape",
         "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
       },
@@ -4795,6 +4813,32 @@
     },
     {
       "album": {
+        "name": "Double Or Nothing (& Metro Boomin)",
+        "url": "https://open.spotify.com/album/0llyIxX3nDC3hobbGibVZl"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268946,
+      "name": "Go Legend (& Metro Boomin)",
+      "url": "https://open.spotify.com/track/3wAI7MIQtTgwcRmwchPZBc"
+    },
+    {
+      "album": {
         "name": "4REAL 4REAL",
         "url": "https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm"
       },
@@ -6904,6 +6948,28 @@
       "duration_ms": 219494,
       "name": "Link Up (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/2HScVhNGt7DltJYrph09Ee"
+    },
+    {
+      "album": {
+        "name": "Detroit 2",
+        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199250,
+      "name": "Lithuania (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4VLTxHOyFX5FRtkpsFm5Pc"
     },
     {
       "album": {

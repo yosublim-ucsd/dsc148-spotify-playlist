@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. BUDAYA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,848 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,867 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 28 | [Fuiste](https://open.spotify.com/track/43E9DTi6w0KDcVlMUQJZ3G) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Fuiste](https://open.spotify.com/album/1TwffFgHGraPkTQbOq2YKs) | 3:16 |
 | 29 | [DUELO \(ft\. Valdivia\)](https://open.spotify.com/track/6GBu4seDvfwQ3zZvS7BNdG) | [Medalla](https://open.spotify.com/artist/7gF2UrWGq0htyQ1SeF7jet), [Valdivia](https://open.spotify.com/artist/622Gl6V4TWg2yWdsSsnx3q) | [DUELO \(ft\. Valdivia\)](https://open.spotify.com/album/0lZRTi24Q7b4PKwIKuvbcX) | 5:09 |
 | 30 | [Diamante y Lágrima](https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Diamante y Lágrima](https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY) | 3:20 |
-| 31 | [Canción de despedida](https://open.spotify.com/track/0aiLg6zGgeNoNYqk0e4d4m) | [Adiós Amores](https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT) | [El Camino](https://open.spotify.com/album/720mOOPxxpzDogAwBGOY9q) | 4:13 |
+| 31 | [Canción de Despedida](https://open.spotify.com/track/0aiLg6zGgeNoNYqk0e4d4m) | [Adiós Amores](https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT) | [El Camino](https://open.spotify.com/album/720mOOPxxpzDogAwBGOY9q) | 4:13 |
 | 32 | [Números \(no sé\)](https://open.spotify.com/track/3DeyVuYfSdZC0aJ9zZOJxE) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Números \(no sé\)](https://open.spotify.com/album/000Tmvli0xEfW5uzhIZOXh) | 3:36 |
 | 33 | [Mientras sienta que existo](https://open.spotify.com/track/0WPwcStCX2wESnLdpfaAVP) | [Gala Brie](https://open.spotify.com/artist/1QiR1T9GDuS9E5hrxbkLbE) | [Mientras sienta que existo](https://open.spotify.com/album/2hwdP0aclrUiyrqHgF6770) | 3:55 |
 | 34 | [La Protagonista](https://open.spotify.com/track/76ghjeu5kx0IuGSH5kvy5Y) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [La Protagonista](https://open.spotify.com/album/2v8vkRfH6Uy01EMEqW766c) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Para Ti](https://open.spotify.com/track/2B9fz9WW4XRg1ExCZnfuAI) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1), [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Para Ti](https://open.spotify.com/album/0F4Ex5ET5dBsPX2tAiYRvP) | 3:37 |
 | 50 | [Humo y Menta](https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u), [Charlie Desidney](https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu) | [Humo y Menta](https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ) | 3:03 |
 
-Snapshot ID: `MCw1MDk2ODcwYzhlYWRmYmQ5N2I1ZTQ1MmE0ZGY5MGNjMjNmNzNiNjBj`
+Snapshot ID: `MCw2MDEzNGNiNjIwZjM5Mzc4NjllMWYxYmE2OGY1OGJkM2RhNjJiMzBk`

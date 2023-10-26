@@ -742,7 +742,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 214400,
-      "name": "Colors of the Wind - From \"Pocahontas\" / Soundtrack Version",
+      "name": "Colors of the Wind",
       "url": "https://open.spotify.com/track/1OYOLWqKmhkFIx2KC9ek1a"
     },
     {
@@ -1754,7 +1754,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 147706,
-      "name": "Just Around the Riverbend - From \"Pocahontas\" / Soundtrack Version",
+      "name": "Just Around the Riverbend",
       "url": "https://open.spotify.com/track/6P316E7tFylzpVrDrXVF9s"
     },
     {
@@ -3118,6 +3118,28 @@
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o"
+    },
+    {
+      "album": {
+        "name": "This Is The Thanks I Get?! (From \"Wish\")",
+        "url": "https://open.spotify.com/album/68aJkU3aeRGUW2p4lGnVzL"
+      },
+      "artists": [
+        {
+          "name": "Chris Pine",
+          "url": "https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "This Is The Thanks I Get?! - From \"Wish\"",
+      "url": "https://open.spotify.com/track/5jzCoRQd6YsKNWy4S3SUsx"
     },
     {
       "album": {

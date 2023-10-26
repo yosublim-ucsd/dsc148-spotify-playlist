@@ -24,6 +24,24 @@
     {
       "album": {
         "name": "Worldfly",
+        "url": "https://open.spotify.com/album/04MIBSttVqz8KMppZWvheC"
+      },
+      "artists": [
+        {
+          "name": "Vicke Blanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185793,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/2x6Vk4wODhe8AMnKZI1rGg"
+    },
+    {
+      "album": {
+        "name": "Worldfly",
         "url": "https://open.spotify.com/album/46OkEoB1mHajNm6pIGXUCc"
       },
       "artists": [
@@ -34,7 +52,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 185793,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/4QuqtDZyTUmxJgGbsi1QAB"
@@ -70,7 +88,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 196946,
       "name": "Black Catcher",
       "url": "https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix"
@@ -675,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Worldfly",
+        "url": "https://open.spotify.com/album/04MIBSttVqz8KMppZWvheC"
+      },
+      "artists": [
+        {
+          "name": "Vicke Blanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187898,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/36tnLYMgjrHtcjDkAjFlpP"
+    },
+    {
+      "album": {
         "name": "Snake",
         "url": "https://open.spotify.com/album/0GTl9PHpXPLCJ50xra0AQs"
       },
@@ -686,7 +722,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 187898,
       "name": "Snake",
       "url": "https://open.spotify.com/track/3gC9PXSvfJuLc6V9NjL9bf"
@@ -1641,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "Worldfly",
+        "url": "https://open.spotify.com/album/04MIBSttVqz8KMppZWvheC"
+      },
+      "artists": [
+        {
+          "name": "Vicke Blanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292214,
+      "name": "\u9769\u547d",
+      "url": "https://open.spotify.com/track/4kS8xbfy4g5jGjWTs3m9lR"
+    },
+    {
+      "album": {
         "name": "\u9769\u547d",
         "url": "https://open.spotify.com/album/0S75gwZK3LNeFQB8xqjllT"
       },
@@ -1652,7 +1706,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 292214,
       "name": "\u9769\u547d",
       "url": "https://open.spotify.com/track/56NF8AZqeTtSe6gRMdxGNf"

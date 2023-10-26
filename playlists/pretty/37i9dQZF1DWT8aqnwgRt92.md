@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,361,383 likes - 85 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,361,934 likes - 85 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 15 | [遥か](https://open.spotify.com/track/5DjOVg4mTlMHWsLREAHe7S) | [Ryujin Kiyoshi](https://open.spotify.com/artist/15c6wAJcxNMHjSZVjgE8VW) | [遥か](https://open.spotify.com/album/3YDS1skzsx5PZk0HspoEm9) | 3:01 |
 | 16 | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/track/3h05x3Bh7SOzINsxBMgFDS) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy), [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/album/3wh5pzFmCbKM93X2pgcdTj) | 2:28 |
 | 17 | [Realize \- From CrosSing](https://open.spotify.com/track/45ERV2ib1M7bYkQaoma1I5) | [Yusuke Kobayashi](https://open.spotify.com/artist/6RmXHj7JiSCVZSvdsN5a10) | [Realize \- From CrosSing](https://open.spotify.com/album/7AUurGO9fs5WWPyl9B5QIH) | 4:03 |
-| 18 | [HELP](https://open.spotify.com/track/5fTk6RfTbySiEyjRnrpHNV) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/2hJ603Bso9KCAAHwQD606w) | 3:47 |
+| 18 | [HELP](https://open.spotify.com/track/6qzigrdGbzParrcscn1707) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/15OxWt5Wd6QKRr3BM2SI1K) | 3:47 |
 | 19 | [シュガースポット](https://open.spotify.com/track/5KQnoIToRhc46PsWoiv5iq) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [シュガースポット](https://open.spotify.com/album/7CogGI6l5nM7bXFcQfg0Wg) | 3:50 |
 | 20 | [GRAYSCALE DOMINATOR](https://open.spotify.com/track/3d3daBk3HYupo4j1QIp0yx) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPENING THEME FROM TV SERIES ”THE EMINENCE IN SHADOW” 2ND SEASON](https://open.spotify.com/album/7vnKFhEQihYcVGPAClsSBL) | 3:31 |
 | 21 | [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 33 | [8th HEAVEN](https://open.spotify.com/track/3d45q7MTSFGPbYPwKJ7SFc) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [8th HEAVEN](https://open.spotify.com/album/08zVfmvFnPEBCNqYGdLCKi) | 3:36 |
 | 34 | [GET BACK](https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GET BACK](https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo) | 3:15 |
 | 35 | [Shiny Girl](https://open.spotify.com/track/4zsnFklp5it8A4VLFVH6ly) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Shiny Girl](https://open.spotify.com/album/5tybkse08gS8EPh8cIICQB) | 4:22 |
-| 36 | [Welcome!](https://open.spotify.com/track/4NrsLiWz4tu4eh9HVTC5JX) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [Welcome!](https://open.spotify.com/album/1OF3CVQb02uJtiMwXQOlBt) | 3:13 |
+| 36 | [Welcome!](https://open.spotify.com/track/5kcPYZhmbe7M7rcO3bI9PV) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [Welcome!](https://open.spotify.com/album/2KlzKHbKhBL8n3jWNUnUfd) | 3:14 |
 | 37 | [鱗角](https://open.spotify.com/track/3BNFamKUQFxYJ2EY8zkek3) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [鱗角](https://open.spotify.com/album/7x2daOODJgZuOtuQ0eCN3e) | 2:39 |
 | 38 | [UP TO ME!](https://open.spotify.com/track/0J9Uc8VeEljV62jAcdLXQO) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [UP TO ME!](https://open.spotify.com/album/7hBsU35JlTGaVv5lwaxBli) | 3:30 |
 | 39 | [Naiteiinda](https://open.spotify.com/track/4qYnNRrUStS7FLdosbQFPS) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [The Best flumpool 2.0 \~ Blue\(2008\-2011\)& Red\(2019\-2023\) \~](https://open.spotify.com/album/1jUNCwNItivgFwAqqrAMNv) | 3:40 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 41 | [Prayer](https://open.spotify.com/track/7pKHXmkkGkT2UZpt7DU4nd) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Prayer](https://open.spotify.com/album/7yCylSqqsPNlVeLPUxJB1h) | 3:08 |
 | 42 | [know me...](https://open.spotify.com/track/2E5ysbHpbYGmJvwyhQubaG) | [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [know me...](https://open.spotify.com/album/36lFXBqcHUeZAW9Cij58xE) | 3:30 |
 | 43 | [6を撫でる](https://open.spotify.com/track/5R2p1rjy9nzGx2Do6Vqulo) | [ももすももす](https://open.spotify.com/artist/09xFgYi2WMH18mnuipigzN) | [6を撫でる](https://open.spotify.com/album/0XwsUFo91VTzQDNc2WSIOw) | 3:00 |
-| 44 | [ダブル](https://open.spotify.com/track/255hEevtmMTxsKTVQo0fgE) | [MILGRAM ミコト \(CV: 花江夏樹\)](https://open.spotify.com/artist/6GjjbcGn9ooKDynyo0ISWo) | [ダブル](https://open.spotify.com/album/0QjzjHWHRlzJP0oJmr03Hp) | 2:33 |
+| 44 | [Double](https://open.spotify.com/track/6f2ToOdyiDDdC3bSMHoARk) | [MILGRAM ミコト \(CV: 花江夏樹\)](https://open.spotify.com/artist/6GjjbcGn9ooKDynyo0ISWo) | [Double](https://open.spotify.com/album/3oggIhfX6BMxH5ADVWDHvd) | 2:33 |
 | 45 | [リップシンク](https://open.spotify.com/track/1bvbHclmu1q5yLsGuaV1pS) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [リップシンク](https://open.spotify.com/album/1Hf7LSW4yGAhlTgOdsvBJU) | 3:13 |
 | 46 | [Hope](https://open.spotify.com/track/3SPLNGNyEZWr1ZqCQEeH8l) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Hope](https://open.spotify.com/album/7q2OTBt5eMAlJi9Vw830S3) | 4:29 |
 | 47 | [ささくれ](https://open.spotify.com/track/2IggjcM8LKudTaoCDlCoJM) | [久保あおい](https://open.spotify.com/artist/6tQv9pBC2QYU5InvkNoN0k) | [ささくれ](https://open.spotify.com/album/4oHoW4jY2GC1WQr4RinCxa) | 3:53 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 79 | [Perfect World](https://open.spotify.com/track/0wbjzPFuDHLWQs3Aw0vRIH) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Perfect World EP](https://open.spotify.com/album/2pEkFJTFkRgN9CkpJ8mRwJ) | 3:42 |
 | 80 | [Another Complex](https://open.spotify.com/track/6FZSpjDp4A6AZE0mIPUHio) | [somei](https://open.spotify.com/artist/0tVhHQ4UZHCOsvrd3wf0km) | [Another Complex](https://open.spotify.com/album/4sqKDhjSQHH4hPYPim5pMY) | 4:27 |
 | 81 | [LOVE × LOVE × LOVE](https://open.spotify.com/track/3Xyr5sp7jNYN73vy1Dx5nX) | [真壁政宗 \(CV.花江夏樹\)](https://open.spotify.com/artist/6u9KgFCHwddS0YD60bBoiv), [安達垣愛姫 \(CV.大橋彩香\)](https://open.spotify.com/artist/0v9Nu2SuLBJhku8ykI6G4C), [小岩井吉乃 \(CV.水瀬いのり\)](https://open.spotify.com/artist/1bp7Wsapk3Q9ycpnuGWs8N) | [TVアニメ『政宗くんのリベンジR』\(ORIGINAL SOUNDTRACK\)](https://open.spotify.com/album/0NZmocnBXN1Kw0cffZgyvL) | 4:36 |
-| 82 | [ユウマガドキ](https://open.spotify.com/track/2rEATv4FT09bqwB6fQ2qJY) | [Soraru & Rib](https://open.spotify.com/artist/2xagT4uswba0ebsK4tlNr2), [Soraru](https://open.spotify.com/artist/2hRrM4EVq5bjYRHQvX7goz), [Rib](https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f) | [コラボシングル「ユウマガドキ」（TVアニメ『ミギとダリ』オープニング主題歌）](https://open.spotify.com/album/6w1EvJBv6p3gLrz8cvxIVP) | 3:36 |
+| 82 | [Yumagadoki](https://open.spotify.com/track/5ZQfzVe2AZ2YGeW04QNWmn) | [Soraru & Rib](https://open.spotify.com/artist/2xagT4uswba0ebsK4tlNr2), [Soraru](https://open.spotify.com/artist/2hRrM4EVq5bjYRHQvX7goz), [Rib](https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f) | [Collaboration Single "Yumagadoki" \-TV Anime "Migi & Dali" OpeningTheme\-](https://open.spotify.com/album/5HjBHw6gFDGDkrR0e694mn) | 3:36 |
 | 83 | [FIRST GREETING](https://open.spotify.com/track/3A2N0YMWbk7mG0Hc748nur) | [花たん](https://open.spotify.com/artist/7gCg1p9hTSlp86FNnq5VJN) | [TV SERIES ”LET ME CHECK THE WALKTHROUGH FIRST”](https://open.spotify.com/album/2Dm9bs7CVC5PgyfIrjxfEz) | 4:16 |
 | 84 | [Hyper](https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N) | 4:17 |
 | 85 | [Skyline](https://open.spotify.com/track/4eKbNMZEejC4lWxkRaDyan) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Skyline](https://open.spotify.com/album/6MiQuUPf4xQK3QaVC2f7uO) | 3:57 |
 
-Snapshot ID: `MCxlNjBhNDdiYzJlMWJiMmQ3MGUyYmNlMTEwZjBjZmUyYjc0ZjEzMDlj`
+Snapshot ID: `MCxkNjdhMTA5YjBmNGJhOWUyMzVjYzIxNDY2ZGFlZTc1ZmEzODZiMDA5`

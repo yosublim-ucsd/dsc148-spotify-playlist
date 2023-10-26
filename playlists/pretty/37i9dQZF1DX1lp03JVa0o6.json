@@ -1,12 +1,12 @@
 {
   "description": "Today's biggest Dance hits! Cover: PNAU, Empire of the Sun",
-  "num_followers": 409695,
+  "num_followers": 409744,
   "original_name": "Dance Generation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjdmNTQxM2NlYzY4MjcwMGFiMzg1YTQwMDljZWNlODg4NzVhN2U0",
+  "snapshot_id": "MCxhNjYzNjIxMDIzZWE4Yjk4NzMyMjQ0YTBkNjU3NTM1MzE5Y2UyYTli",
   "tracks": [
     {
       "added_at": "2023-10-23 22:33:29",
@@ -1579,6 +1579,26 @@
       "duration_ms": 156391,
       "name": "Rush",
       "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+    },
+    {
+      "added_at": "2023-10-23 22:33:29",
+      "album": {
+        "name": "Number 1",
+        "url": "https://open.spotify.com/album/0vkYGGLv8iwyQWdccl46j3"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Number 1",
+      "url": "https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ"
     },
     {
       "added_at": "2023-10-23 22:33:29",

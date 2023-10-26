@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 15245,
+  "num_followers": 15291,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDU1ZDBlYTgxMzM5NTUyOWM3NjE4YjRkZWYwYWYwOGQ4YzY1NTk2",
+  "snapshot_id": "MCwzOWU1YjgzZmM0MDkxMDJmZTE4ZTdlZDhjNGE3OTljMmI4YTYwODQx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -167,22 +167,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Dark Lane Demo Tapes",
-        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1I55Ea0zVoSKs6MqW7DQ3i"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "State of Emergency",
         "url": "https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 214825,
       "name": "Zoo York (feat. Fivio Foreign & Pop Smoke)",
       "url": "https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Dark Lane Demo Tapes",
+        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1I55Ea0zVoSKs6MqW7DQ3i"
     },
     {
       "added_at": "2022-10-01 16:00:00",

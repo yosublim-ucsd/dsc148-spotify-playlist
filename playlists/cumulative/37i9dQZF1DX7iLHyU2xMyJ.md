@@ -4,7 +4,7 @@
 
 > From Annakili to Viduthalai \- all the essential tracks of Isaignani!
 
-497 songs - 1 day 15 hr 9 min
+498 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Chinna Kannan](https://open.spotify.com/track/59m1vY4JuxEkUnhrLcV8mO) | [M\. Balamuralikrishna](https://open.spotify.com/artist/4OTsinUjquvK195Hgs3u8I) | [Kavikkuyil](https://open.spotify.com/album/41Hap451mrbqt5FHZ2WRAz) | 4:34 | 2021-11-01 | 2022-07-29 |
 | [Chinna Ponnu Selai](https://open.spotify.com/track/3JCH2cc73aWiV4sm0yoIyV) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Malaiyoor Mambattiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hSCC8chQP85rafyOO2lGE) | 3:33 | 2021-11-01 | 2022-07-27 |
 | [Chinna Rasavae](https://open.spotify.com/track/09u9X6Drsv8OFxih15wIxn) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Walter Vetrivel](https://open.spotify.com/album/7qOu7DAM1l3UvU7BvvSQtx) | 4:54 | 2021-11-01 | 2022-07-28 |
-| [Chinnakannan \- Male Vocals](https://open.spotify.com/track/2eXIJgXynJdkWux9HL70JM) | [M\. Balamuralikrishna](https://open.spotify.com/artist/4OTsinUjquvK195Hgs3u8I) | [Kavikkuyil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66fr6TrP8uBgnrgAm1jAXC) | 4:34 | 2021-11-01 |  |
+| [Chinnakannan \- Male Vocals](https://open.spotify.com/track/2eXIJgXynJdkWux9HL70JM) | [M\. Balamuralikrishna](https://open.spotify.com/artist/4OTsinUjquvK195Hgs3u8I) | [Kavikkuyil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66fr6TrP8uBgnrgAm1jAXC) | 4:34 | 2021-11-01 | 2023-10-26 |
 | [Chinnamani Kuyile](https://open.spotify.com/track/4Z1uAlMUODGDArqJcPBztL) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Amman Kovil Kizhakale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Ynuau9m4nwk88sNxjaBYe) | 4:25 | 2021-11-01 | 2023-05-09 |
 | [Chinnanchiru \- Duet](https://open.spotify.com/track/0zqHnJ96jjYBTuonxql3RW) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Classic Revival Hits Volume 02 \- Tamil](https://open.spotify.com/album/1iRoQE7NZi0vDNC9hFUPwV) | 4:20 | 2021-11-01 | 2022-07-27 |
 | [Chinnapura Ondru](https://open.spotify.com/track/5fNP4zzLyigsb9EaKZMhrY) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. P\. Sailaja](https://open.spotify.com/artist/0w1zspBrCXnMx8CcB1WR31) | [Anbe Sangeetha](https://open.spotify.com/album/03aPn52RdUwNjNcwhYYAhx) | 4:47 | 2021-11-01 | 2022-07-28 |
@@ -157,6 +157,7 @@
 | [Ithu Oru Ponmalai](https://open.spotify.com/track/1Lx4k8zay8JjyN7Ew2u4wG) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Nizhalgal](https://open.spotify.com/album/3HqPbW7AiRW63mqPHKOmyk) | 4:18 | 2021-11-01 | 2022-07-27 |
 | [Jingidi Jingidi](https://open.spotify.com/track/65ok0TnRRcI60v2G4uxbSW) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Guru Sishyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eVondEXUxXCjBxM2TXTsb) | 4:24 | 2021-11-01 | 2023-04-11 |
 | [Kaadhal Vaanilae](https://open.spotify.com/track/0IMEdXJyzivhWbZIYhNQbY) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Preeti](https://open.spotify.com/artist/6qBukaZAaJjYHStsQGb6hb) | [Raasaiyya](https://open.spotify.com/album/3HGKIXgVcddeXayKY2nJsm) | 5:40 | 2021-11-01 | 2022-07-28 |
+| [Kaadhal Vaanilae](https://open.spotify.com/track/0aI0rl12cGvE9vzH4xqiVq) | [S.P.Balasubramaniam](https://open.spotify.com/artist/6L0CDEv6dMKPyGEbzCs5do), [Preeti](https://open.spotify.com/artist/6qBukaZAaJjYHStsQGb6hb) | [Raasaiyya](https://open.spotify.com/album/0J95ZpiUCgaSz8ALgfVLEm) | 5:40 | 2021-11-01 |  |
 | [Kaala Kaalamaaga Vaazhum](https://open.spotify.com/track/6JnZtiMzhdrI5hdDnbumoK) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Punnagai Mannan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5K7oR20uqdI0UTffVwXsR6) | 4:21 | 2021-11-01 | 2022-07-21 |
 | [Kaathal Deepam Ondru](https://open.spotify.com/track/1P4L4Zkt5tigCYv8WirvQb) | [Malaysia Vasudevan](https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW) | [Kalyanaraman](https://open.spotify.com/album/7oHJ3PtismBKLeyM9PAqyi) | 3:45 | 2021-11-01 | 2022-07-29 |
 | [Kaathalin Deepam Ondru \- Male version](https://open.spotify.com/track/0523YjBhkcVoAGONOUFrf6) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Thambikku Entha Ooru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4BDR27NwHzqWE4MqVGJP0B) | 4:36 | 2021-11-01 | 2023-05-09 |

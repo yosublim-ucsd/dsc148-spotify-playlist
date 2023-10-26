@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: ProfJam.  ",
-  "num_followers": 54099,
+  "num_followers": 54166,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjI4MWZlZWUwOTQ2OWM2OTY5MmI0YWE4NmZmODAyNDllMGJlNjg1",
+  "snapshot_id": "MCxjOGU2OGFjN2ExNDkzNmU2ODc5NTYzY2M3MTVkMzg3NTkyMzQxMDgz",
   "tracks": [
     {
       "added_at": "2023-10-19 23:00:00",
@@ -1339,18 +1339,22 @@
     {
       "added_at": "2023-10-19 23:00:00",
       "album": {
-        "name": "NASTY",
-        "url": "https://open.spotify.com/album/5z6BbFaxfgfEJDXDT3ps4Q"
+        "name": "A Chuva",
+        "url": "https://open.spotify.com/album/4vgaPBoGEMRS4gtl1Nq5RR"
       },
       "artists": [
         {
-          "name": "LEO2745",
-          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+          "name": "NGA",
+          "url": "https://open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s"
+        },
+        {
+          "name": "Van Sophie",
+          "url": "https://open.spotify.com/artist/7kj0eH1FPO3YJP1pTTsrkG"
         }
       ],
-      "duration_ms": 187826,
-      "name": "NASTY",
-      "url": "https://open.spotify.com/track/09882XP1lt5VQwc2I9i9Pf"
+      "duration_ms": 298710,
+      "name": "A Chuva",
+      "url": "https://open.spotify.com/track/0BeusjQlyZQEZO45q5Py3U"
     }
   ],
   "unique_name": "Rap Tuga Hits",

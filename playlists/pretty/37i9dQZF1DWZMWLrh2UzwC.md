@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Yuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,897 likes - 91 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,913 likes - 91 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 90 | [Old Socks](https://open.spotify.com/track/1IfLzwLXcmCnueVr7k4SCa) | [thepicnik](https://open.spotify.com/artist/4SMvJNBPlNx6JsonzNi3Nw) | [Old Socks](https://open.spotify.com/album/5TmGvIq5PdeOMeWkdaEM0O) | 3:38 |
 | 91 | [Preacher](https://open.spotify.com/track/0dWhhgoBUldGUfSQMaqHdS) | [pariss](https://open.spotify.com/artist/5c1xmCiZ1QqV8xronuiPQC) | [Preacher](https://open.spotify.com/album/2KumeQV0vsNOOsmGXsuL3k) | 3:59 |
 
-Snapshot ID: `MCw0ZWVkY2ViOGQ4YzRmZmU4ZjI3N2Q2Yjg1NGU1YmU3NjcwOTMzODI4`
+Snapshot ID: `MCw0MWZlZGRhYWE2ZjE1ZTFlYmQ3MmE3NzU5MjZiMWI2NTA2NDdmNzQ3`

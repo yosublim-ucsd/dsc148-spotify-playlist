@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Mayorkun
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,229 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,281 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 48 | [Atlantis](https://open.spotify.com/track/0qlCLYmWUwebbDwRrL2x9h) | [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR), [WaxFiend](https://open.spotify.com/artist/052544MnsA3CEiQtQHlx7r), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ), [CHAMOS](https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi) | [Atlantis](https://open.spotify.com/album/6Tbso6hKAJh87lbG9qnJHR) | 3:34 |
 | 49 | [Ma jolie](https://open.spotify.com/track/3Vcq4ea5Q2aGEtgMhbCc5x) | [Diane Dddd](https://open.spotify.com/artist/62MufOQctTd5rxW46i0ehY) | [Ma jolie](https://open.spotify.com/album/79p1bCrAr8ONsd2Y1p2kRV) | 2:24 |
 
-Snapshot ID: `MCxkYTZiYTlmMzk0ZDhmYzkzNWYwM2QyNjA0YjU0NWIzNjI1OTk0MTgy`
+Snapshot ID: `MCxhNjVlZDkwMWIzZDE4NzMyMTI1MmY3MTU5ZDA1YTYyMmQwMTAxOTQ1`

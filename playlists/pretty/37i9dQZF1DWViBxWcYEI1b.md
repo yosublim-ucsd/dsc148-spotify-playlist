@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Zach Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,884 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,929 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 61 | [Trouble](https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble](https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp) | 3:34 |
 | 62 | [Burn](https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf) | 2:23 |
 | 63 | [The End](https://open.spotify.com/track/5GLkDPQvFqsFgtiVkfbhx2) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [The End](https://open.spotify.com/album/0lKrUfcWPN31tzv9Fi7IAs) | 2:54 |
-| 64 | [Natural Tendency](https://open.spotify.com/track/5RhxxIUt6PpeqDjJln2H0E) | [Ayla Tesler\-Mabé](https://open.spotify.com/artist/3BEEiUnWFsmP8EbK0QCe1O) | [Natural Tendency](https://open.spotify.com/album/7adpPb0DioQlvT5juvqntA) | 3:22 |
+| 64 | [Natural Tendency](https://open.spotify.com/track/5RhxxIUt6PpeqDjJln2H0E) | [AYLA TESLER\-MABÉ](https://open.spotify.com/artist/3BEEiUnWFsmP8EbK0QCe1O) | [Natural Tendency](https://open.spotify.com/album/7adpPb0DioQlvT5juvqntA) | 3:22 |
 | 65 | [Endless Nights](https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 3:11 |
 | 66 | [Broken Hearted](https://open.spotify.com/track/0qUkLPmdkTAEqcT6Bl5Lok) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Broken Hearted](https://open.spotify.com/album/31nzRdy29f41xSsV1ConUk) | 3:10 |
 | 67 | [Living Again](https://open.spotify.com/track/6uZuPslAaUm01KtTAsFv5v) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Pearl](https://open.spotify.com/album/6VO0kbsASYzqsleTf3pKN5) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [What About Hiding](https://open.spotify.com/track/4ZeyxFIpDLHBBxxPjQY4YU) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [What About Hiding](https://open.spotify.com/album/5fWyG8LpMszwr1wqMiO0wC) | 2:50 |
 | 100 | [Dance With Myself](https://open.spotify.com/track/3Ozg0uLdo0xQGb2w0kWUad) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [Dance With Myself](https://open.spotify.com/album/42L2UX912IQEKg84KcO2SY) | 2:51 |
 
-Snapshot ID: `MCw5M2E2NGJlZjE1NWMzMThhYTc3YTQwMTBmMzVjNDRmZDVlNDRkNzA4`
+Snapshot ID: `MCxkZTllMmUyMWNhMDZkMGUzNTM4NTI0YjMyMWE2YjBkYjI1YTk4NjJi`

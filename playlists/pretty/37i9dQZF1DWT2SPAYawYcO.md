@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Jung Kook, The Kid LAROI & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,323 likes - 88 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,348 likes - 88 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 87 | [Falling in](https://open.spotify.com/track/4cbm57Rl7bs1loMHZbzUco) | [Blondumb](https://open.spotify.com/artist/021mK0NgHckx1TwdmzH6sl) | [Falling in](https://open.spotify.com/album/70Bdbs0ywY2qfwHJxuUuif) | 2:17 |
 | 88 | [Wake In Might](https://open.spotify.com/track/5Ad2MmfRQlCue9adixQyrw) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Wake In Might](https://open.spotify.com/album/0nagJCtUtrv3ap1WEQexiQ) | 3:31 |
 
-Snapshot ID: `MCwzMDkxNjZjOTg3ODEyMWFkZDU1Y2QxN2I2NmUxYmNlOWM4YTdmNzlh`
+Snapshot ID: `MCw1NjU2M2ZjZGI2OTZjMjY1ZGE0NzUyYmQwYzJhNWY3OWM2MzJiMWQ1`

@@ -1,12 +1,12 @@
 {
   "description": "why is this game so hard goddamnit #SpotifyWrapped",
-  "num_followers": 14736,
+  "num_followers": 14765,
   "original_name": "dance tracks we smashed our controllers to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGNhZDllZDk4MDVkODA5ZThjNTQ3ZjM5MTdlYmVlYTBiY2Q5NWFh",
+  "snapshot_id": "MCxjYjI1MmI3MzNlMTFiZjFkNTcwYmRjYTNjNjgwZWQ2Nzk0MGJhYjJh",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -975,18 +975,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Desperado",
-        "url": "https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6"
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
       },
       "artists": [
         {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
         }
       ],
-      "duration_ms": 233046,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo"
+      "duration_ms": 206141,
+      "name": "Losing My Mind (with Elohim)",
+      "url": "https://open.spotify.com/track/4EJ32mSyaiC9r5XMKxqu1I"
     }
   ],
   "unique_name": "dance tracks we smashed our controllers to in 2022",

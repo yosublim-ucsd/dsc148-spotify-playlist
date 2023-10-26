@@ -4,7 +4,7 @@
 
 > Country songs that soundtrack the great Australian outback
 
-50 songs - 2 hr 56 min
+51 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [The Captain](https://open.spotify.com/track/3UaUq1TdT5jerdeCkIOFjG) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/3i9IhP5dZwhEileTfygCBr) | 4:32 | 2021-09-28 |  |
 | [Walk a Country Mile](https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Troy Cassar\-Daley](https://open.spotify.com/artist/0fP6sL5Q937oEJ5IawnlBM) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 3:46 | 2021-09-28 |  |
 | [Walk A Country Mile](https://open.spotify.com/track/3KhUgTw3hzDZPwgbpxgIEE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Walk A Country Mile](https://open.spotify.com/album/3sc1AiknncWpdSsemqjhXi) | 2:52 | 2021-09-28 |  |
-| [Waltzing Matilda 2000](https://open.spotify.com/track/2KzeUrxM30mLlMTl97yWej) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Looking for a Story](https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg) | 3:50 | 2021-09-28 |  |
+| [Waltzing Matilda 2000](https://open.spotify.com/track/2KzeUrxM30mLlMTl97yWej) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Looking for a Story](https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg) | 3:50 | 2021-09-28 | 2023-10-26 |
+| [Waltzing Matilda 2000](https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Anthems \- A Celebration of Australia](https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy) | 3:50 | 2021-09-28 |  |
 | [Way Out West](https://open.spotify.com/track/1YXKsmwzAGt6R63tFeBSfx) | [James Blundell](https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD), [James Reyne](https://open.spotify.com/artist/4v0Hh2bdIAJnaUqAOipfYs) | [Friday Arvo Beers](https://open.spotify.com/album/6oyY9zsDo91bjOTLXpS1iB) | 4:02 | 2021-09-28 |  |
 | [What If I Was Willing](https://open.spotify.com/track/0OKjR5SHiBZbYDv0M4pAz4) | [Deep Creek Road](https://open.spotify.com/artist/3k46FD3ZStLNs73TwTgFxV) | [What If I Was Willing](https://open.spotify.com/album/7cPZTDXG4C8cHEEqab4iHw) | 3:30 | 2021-09-28 |  |
 | [Where Country Is \- Live From Australia/2000](https://open.spotify.com/track/4BCPNtyHGhM1PTbm4A6skL) | [Anne Kirkpatrick](https://open.spotify.com/artist/60jrOXNbRmY2Mq0l0JFOme) | [Slim Dusty Live](https://open.spotify.com/album/44ANFDCI13LRwr4c8BFtRD) | 3:47 | 2021-09-28 |  |

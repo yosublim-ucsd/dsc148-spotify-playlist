@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 780239,
+  "num_followers": 781778,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmZiOWIxNWU4N2ZjYTZkZGZkNDE1OGY4YTgyZGM5NzExNmM2YTEx",
+  "snapshot_id": "MCwyM2VmODdjMTQ3MjA1YzBhOGIzNTM5MmM2NDM4M2VmMTJiOTJiMDdi",
   "tracks": [
     {
       "added_at": "2023-09-26 20:58:57",
@@ -563,6 +563,26 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
+        "name": "Shakira!",
+        "url": "https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "EGOVERT",
+          "url": "https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp"
+        }
+      ],
+      "duration_ms": 149577,
+      "name": "Shakira!",
+      "url": "https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
         "name": "BABY I'M HOME (w/ Kanii & 9lives)",
         "url": "https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 208938,
       "name": "BABY I'M HOME (w/ Kanii & 9lives)",
       "url": "https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
-        "name": "Shakira!",
-        "url": "https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "EGOVERT",
-          "url": "https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp"
-        }
-      ],
-      "duration_ms": 149577,
-      "name": "Shakira!",
-      "url": "https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
-        "name": "LA ESPADA",
-        "url": "https://open.spotify.com/album/251w9v57Ijs1ZCAiwW0hjs"
-      },
-      "artists": [
-        {
-          "name": "Eternal Raijin",
-          "url": "https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "LA ESPADA",
-      "url": "https://open.spotify.com/track/2KYNQpVdHsqC84TgJa5T7O"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
         "name": "POPTHATRUNK",
         "url": "https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 133333,
       "name": "POPTHATRUNK",
       "url": "https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
+        "name": "LA ESPADA",
+        "url": "https://open.spotify.com/album/251w9v57Ijs1ZCAiwW0hjs"
+      },
+      "artists": [
+        {
+          "name": "Eternal Raijin",
+          "url": "https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "LA ESPADA",
+      "url": "https://open.spotify.com/track/2KYNQpVdHsqC84TgJa5T7O"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
+        "name": "Corrupted",
+        "url": "https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS"
+      },
+      "artists": [
+        {
+          "name": "OmenXIII",
+          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
+        }
+      ],
+      "duration_ms": 134451,
+      "name": "LED",
+      "url": "https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
         "name": "Bunny Girl",
         "url": "https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 99560,
       "name": "die",
       "url": "https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
-        "name": "Corrupted",
-        "url": "https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS"
-      },
-      "artists": [
-        {
-          "name": "OmenXIII",
-          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
-        }
-      ],
-      "duration_ms": 134451,
-      "name": "LED",
-      "url": "https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -1201,6 +1201,22 @@
       "url": "https://open.spotify.com/track/3f1Jurx7wpabtVoxpLrtCE"
     },
     {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
+        "name": "COWBELL WARRIOR!",
+        "url": "https://open.spotify.com/album/7E5iS4h201MO7HWZqbrMU4"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "COWBELL WARRIOR!",
+      "url": "https://open.spotify.com/track/3yMrcqveZ2DrWBYJbDsous"
+    },
+    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "The Perfect Girl (Instrumental)",
@@ -1215,6 +1231,22 @@
       "duration_ms": 194423,
       "name": "The Perfect Girl - Instrumental",
       "url": "https://open.spotify.com/track/1iiOnQBpssMKWXJJiqBsbN"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
+        "name": "Feeling of Unity",
+        "url": "https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY"
+      },
+      "artists": [
+        {
+          "name": "Fear, and Loathing in Las Vegas",
+          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
+        }
+      ],
+      "duration_ms": 225546,
+      "name": "Let Me Hear",
+      "url": "https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -1235,22 +1267,6 @@
       "duration_ms": 197183,
       "name": "Blood (Alucard Rap)",
       "url": "https://open.spotify.com/track/2deb24yUrqgOVwGJjaIaYp"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
-        "name": "Feeling of Unity",
-        "url": "https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY"
-      },
-      "artists": [
-        {
-          "name": "Fear, and Loathing in Las Vegas",
-          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
-        }
-      ],
-      "duration_ms": 225546,
-      "name": "Let Me Hear",
-      "url": "https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -1315,38 +1331,6 @@
       "duration_ms": 140460,
       "name": "V-12",
       "url": "https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
-        "name": "DONNA",
-        "url": "https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI"
-      },
-      "artists": [
-        {
-          "name": "Softwilly",
-          "url": "https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc"
-        },
-        {
-          "name": "void",
-          "url": "https://open.spotify.com/artist/4jtsFTEnLnF4zDZaBWrH6L"
-        },
-        {
-          "name": "LEX PAIN",
-          "url": "https://open.spotify.com/artist/5gs6KOePAS97FunPmAheEE"
-        },
-        {
-          "name": "$atori Zoom",
-          "url": "https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic"
-        },
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        }
-      ],
-      "duration_ms": 158710,
-      "name": "CHROME BERETTA",
-      "url": "https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL"
     }
   ],
   "unique_name": "sh\u014dnen",

@@ -4,7 +4,7 @@
 
 > Listen to women at full volume!  On the cover this month: <a href="spotify:artist:2vmZupMPxLgT8MNNXTRfa2">Laura Tesoro</a>
 
-507 songs - 1 day 3 hr 53 min
+508 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Afterlove](https://open.spotify.com/track/0mXZ0BhpgGWxWzTQNw69Mx) | [Lorana](https://open.spotify.com/artist/5f0UvwT0IueZUyTblRVwKA) | [Afterlove](https://open.spotify.com/album/3xfNzqdGEeNV6n5yy9dde2) | 3:37 | 2022-07-05 | 2022-10-05 |
 | [Ailleurs n'existe pas](https://open.spotify.com/track/7jrFuYM7WgKKJivb3Fa3B6) | [ML](https://open.spotify.com/artist/2zYOYW80qD91lBNQ0i1bH8) | [Ailleurs n'existe pas](https://open.spotify.com/album/1Fac6Ok2663hdhBPNEgb38) | 3:35 | 2023-04-04 | 2023-06-07 |
 | [Alive](https://open.spotify.com/track/3yg4TZJBk7UuF6mJEsWwTe) | [Coely](https://open.spotify.com/artist/2DzbXUAn0DiYqcgu2wDfaf) | [Alive](https://open.spotify.com/album/3xIUeWBzzmpOc1DyQNQnMl) | 3:21 | 2022-07-05 | 2023-02-01 |
-| [All I Wanna Do](https://open.spotify.com/track/3MXkQ81NLeq1AkcmeB4jhh) | [Mayorga](https://open.spotify.com/artist/5AyhF5G3hX20eu1ONPW3j6) | [All I Wanna Do](https://open.spotify.com/album/14DRVUhVr4TDmv7YOjf1Q5) | 3:13 | 2023-07-04 |  |
+| [All I Wanna Do](https://open.spotify.com/track/0dkstWAA0aFBzilko6wxAC) | [Mayorga](https://open.spotify.com/artist/5AyhF5G3hX20eu1ONPW3j6) | [All I Wanna Do](https://open.spotify.com/album/205AOrgcGYt21MhVB54pZh) | 3:13 | 2023-10-03 |  |
+| [All I Wanna Do](https://open.spotify.com/track/3MXkQ81NLeq1AkcmeB4jhh) | [Mayorga](https://open.spotify.com/artist/5AyhF5G3hX20eu1ONPW3j6) | [All I Wanna Do](https://open.spotify.com/album/14DRVUhVr4TDmv7YOjf1Q5) | 3:13 | 2023-07-04 | 2023-10-26 |
 | [All My Fault](https://open.spotify.com/track/0TfG6qkt2Mo6OdZspoifPQ) | [Marigo Bay](https://open.spotify.com/artist/59E09Es8P8Kj2ANWsqS6h3) | [All My Fault](https://open.spotify.com/album/6PYY93pyiUscKmjVcBvkxv) | 2:33 | 2023-07-04 | 2023-10-04 |
 | [ALL NIGHT](https://open.spotify.com/track/1kZs4gceUzWIvW2WIyqete) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp), [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [CHAPTER II: SELF](https://open.spotify.com/album/3RGxtqcYERL88PX0FmNw4A) | 2:41 | 2022-02-02 | 2022-04-06 |
 | [All These Desires](https://open.spotify.com/track/4MvjfnLTjSiJyIUvvvLqWJ) | [Maris](https://open.spotify.com/artist/3ug2nlod9nxf24UvNxcukH) | [By Virtue of the Absurd](https://open.spotify.com/album/5Ks4UFdGwFkR0Zj43J52Ng) | 10:57 | 2021-12-08 | 2022-02-03 |

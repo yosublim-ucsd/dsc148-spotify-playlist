@@ -5676,7 +5676,7 @@
     {
       "album": {
         "name": "Hope",
-        "url": "https://open.spotify.com/album/1XSBe1dxP8HEB1npsFcPQc"
+        "url": "https://open.spotify.com/album/1VLFfDuuqsC3xYyeKtzQnW"
       },
       "artists": [
         {
@@ -5687,6 +5687,24 @@
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/3pA9teCcxI6k42jaWQPmxn"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/1XSBe1dxP8HEB1npsFcPQc"
+      },
+      "artists": [
+        {
+          "name": "PEAVIS",
+          "url": "https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-26",
       "duration_ms": 172800,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5TB7HUODhKV1SVnEJQRrBP"

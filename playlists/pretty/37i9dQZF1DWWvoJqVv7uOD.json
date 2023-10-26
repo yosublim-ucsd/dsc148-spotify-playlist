@@ -1,12 +1,12 @@
 {
   "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Dermot Kennedy ",
-  "num_followers": 401464,
+  "num_followers": 401570,
   "original_name": "Everyday Favorites ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzhkZTcyNTc3ZjVlYmU3NmU3MjY4ZmFhZGU3ZTY2YzhmNGE1MGZk",
+  "snapshot_id": "MCwwMzQwNGUxMWFhZjRlZjFkYjFjYTNlMmExMDdiNWYyNTBmYzQ2ODg4",
   "tracks": [
     {
       "added_at": "2023-10-24 13:55:28",
@@ -55,6 +55,22 @@
       "duration_ms": 178746,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/7xxmW8ieHp9YnACGc0PfNz"
+    },
+    {
+      "added_at": "2023-10-24 13:55:28",
+      "album": {
+        "name": "Lil Boo Thang",
+        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "duration_ms": 114233,
+      "name": "Lil Boo Thang",
+      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
     },
     {
       "added_at": "2023-10-24 13:55:28",

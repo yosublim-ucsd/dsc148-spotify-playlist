@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-452 songs - 1 day 2 hr 54 min
+453 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Adiye Kovakaari](https://open.spotify.com/track/1cd6y5tZxAskdOsLHrLMHw) | [Ragu Branavan](https://open.spotify.com/artist/6m1vrQWvtpNlq3pJBvkAiF), [Veena AE](https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK), [Aathis AK](https://open.spotify.com/artist/2m7FpQ4Kznt7cGjd9hIH01) | [Adiye Kovakaari](https://open.spotify.com/album/66hUlCpK7XHg15xiLhF8OI) | 3:15 | 2022-11-17 | 2023-02-22 |
 | [Adiye Pogathe](https://open.spotify.com/track/0u7kiuKFuTkxcXgQq6zpYR) | [Josh Thomas Mathew](https://open.spotify.com/artist/4erTQzNoRB1c7lXlBOmih0), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Anusha Haneef](https://open.spotify.com/artist/0KJR33DdaLKQq8A3h5P9I8) | [Adiye Pogathe](https://open.spotify.com/album/57XcU9En45cCemIeG76UQb) | 3:40 | 2023-01-13 |  |
 | [Adiye Sonali](https://open.spotify.com/track/1wF5Lmm1YHSbLqR4IQjBzY) | [A\. R\. Ameen](https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE) | [Adiye Sonali](https://open.spotify.com/album/17Y3GJG8q0KW5YAoFfhRbt) | 1:00 | 2023-01-25 | 2023-03-23 |
+| [Aigiri](https://open.spotify.com/track/5iXC0jZlDPxNokyL1rdHsV) | [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9), [DEYO](https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B) | [Aigiri](https://open.spotify.com/album/3Rd1QZKjazNOFZ7w5kGRGQ) | 1:43 | 2023-10-25 |  |
 | [Ailasa](https://open.spotify.com/track/3mJ2SqmXIDbn5XECaqN1jj) | [Aathi](https://open.spotify.com/artist/2Yi3hZ5XdMAYxPQKZVOEvp), [Yanchan](https://open.spotify.com/artist/2oCMtxRHVtTsqHbnnRWRWQ) | [Maaran Ambu](https://open.spotify.com/album/3PfyF79cW79EclIsyQ2Xf4) | 3:03 | 2022-05-06 | 2023-01-28 |
 | [Aiyo \- From "Think Indie"](https://open.spotify.com/track/7mNB1MALEoRd6VrDjJktFI) | [M.S Krsna](https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx) | [Aiyo \(From "Think Indie"\)](https://open.spotify.com/album/4iSiDRfGh96CxLNSMFMoi2) | 4:00 | 2023-01-30 | 2023-07-25 |
 | [Aladhi Kadhale](https://open.spotify.com/track/4zNgT5XTDiU0gme9wJSstg) | [M.S.Jones Rupert](https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID) | [Aladhi Kadhale](https://open.spotify.com/album/7hygqx2WfOVpxqtGBEkbO2) | 3:12 | 2023-03-31 | 2023-06-27 |

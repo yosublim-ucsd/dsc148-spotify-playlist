@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,173 likes - 104 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,717 likes - 104 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 19 | [RoCKSTAR 2.0](https://open.spotify.com/track/4xUtTQuVT6UBF76SPsgOsr) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [RoCKSTAR 2.0](https://open.spotify.com/album/0iBp9wWy4m2MqwOQlponWD) | 2:53 |
 | 20 | [Count Money](https://open.spotify.com/track/7LmPLDKwlYZLscMSH16maY) | [Oplus](https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Count Money](https://open.spotify.com/album/5QtYYHL5Z88Dz4mEy8qmSG) | 3:43 |
 | 21 | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb) | 2:44 |
-| 22 | [LIBRE](https://open.spotify.com/track/4hCHvrNozvAGPJGeadXJML) | [ORO600](https://open.spotify.com/artist/5rHC8VSODpT9V7a8ZQu1h6), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [LIBRE](https://open.spotify.com/album/7Fli0EzDcjYjXZywh3gAsp) | 3:25 |
+| 22 | [LIBRE](https://open.spotify.com/track/4hCHvrNozvAGPJGeadXJML) | [ORO600](https://open.spotify.com/artist/5rHC8VSODpT9V7a8ZQu1h6), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Orodembow](https://open.spotify.com/artist/0fEjMgQHvs06BQuWWzsbrn), [0\-600](https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd) | [LIBRE](https://open.spotify.com/album/7Fli0EzDcjYjXZywh3gAsp) | 3:25 |
 | 23 | [SONIDO DEL AÑO](https://open.spotify.com/track/1QNifxPOa17DtmPn54Ac4d) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [TU DUO FAVORITO](https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ) | 2:49 |
 | 24 | [LAGUNA](https://open.spotify.com/track/0JLKzgJT62z3jNWsDt6znJ) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 4:06 |
 | 25 | [CC \- Remix](https://open.spotify.com/track/1sMMcQDlV626GPvzJaGSFx) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [CC \(Remix\)](https://open.spotify.com/album/3kHMc3S6pPS9gODoTwhDTH) | 4:02 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 103 | [Tú Eres Loca?](https://open.spotify.com/track/279CFygxzwjumv9FTG25jn) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Tú Eres Loca?](https://open.spotify.com/album/6ygS8nXo9JLjrjxYIWRo9X) | 4:24 |
 | 104 | [Sucio Guapo](https://open.spotify.com/track/3O6qgosmTPliBdsuCIOqMh) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Sucio Guapo](https://open.spotify.com/album/6U4wNHIQPFMrKKSxbcZUvH) | 3:28 |
 
-Snapshot ID: `MCw1NTJiMTdhYjkwMGRiMTI4NmYzMGRhN2FiZDc3ZDczMjk0NTYyNDgx`
+Snapshot ID: `MCw0ZTg1Njc5MTI1M2MzZTM1OTk1OGVjNDhjNzcxY2I0OWRmYTY2Mjlj`

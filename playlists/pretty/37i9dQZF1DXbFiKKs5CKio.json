@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 51467,
+  "num_followers": 51509,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
-        "name": "Faminta",
-        "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
-      },
-      "artists": [
-        {
-          "name": "Bia Ferreira",
-          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "Eu Tava Em Casa",
-      "url": "https://open.spotify.com/track/6XoSJgy9m0TeYNZuCen1xW"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
         "name": "Auge",
         "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 190286,
       "name": "Auge",
       "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
+        "name": "Faminta",
+        "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
+      },
+      "artists": [
+        {
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "Eu Tava Em Casa",
+      "url": "https://open.spotify.com/track/6XoSJgy9m0TeYNZuCen1xW"
     },
     {
       "added_at": "2023-10-13 16:15:22",
@@ -359,26 +359,6 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
-        "name": "Ouroboros",
-        "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
-      },
-      "artists": [
-        {
-          "name": "Kanda Ent",
-          "url": "https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze"
-        },
-        {
-          "name": "Diego Amani",
-          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
-        }
-      ],
-      "duration_ms": 152706,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
         "name": "Coisas De Amor",
         "url": "https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v"
       },
@@ -391,26 +371,6 @@
       "duration_ms": 211005,
       "name": "Me Esque\u00e7a Devagar",
       "url": "https://open.spotify.com/track/74yArCzYnQuxpMeo68JYgd"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
-        "name": "Vai dar Bom",
-        "url": "https://open.spotify.com/album/45VqPGiDgFuiqeiOKtaxk5"
-      },
-      "artists": [
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "NUNES",
-          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "VAI DAR BOM",
-      "url": "https://open.spotify.com/track/3WKoJ3XpkwOLyR1MROs59k"
     },
     {
       "added_at": "2023-10-13 16:15:22",
@@ -435,6 +395,46 @@
       "duration_ms": 330901,
       "name": "Licor",
       "url": "https://open.spotify.com/track/62LSep7P2d7uPyDdMMuemr"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
+        "name": "Ouroboros",
+        "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
+      },
+      "artists": [
+        {
+          "name": "Kanda Ent",
+          "url": "https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze"
+        },
+        {
+          "name": "Diego Amani",
+          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
+        }
+      ],
+      "duration_ms": 152706,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
+        "name": "Vai dar Bom",
+        "url": "https://open.spotify.com/album/45VqPGiDgFuiqeiOKtaxk5"
+      },
+      "artists": [
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "NUNES",
+          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "VAI DAR BOM",
+      "url": "https://open.spotify.com/track/3WKoJ3XpkwOLyR1MROs59k"
     },
     {
       "added_at": "2023-10-13 16:15:22",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
+        "name": "S\u00f3 Vem",
+        "url": "https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC"
+      },
+      "artists": [
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+        }
+      ],
+      "duration_ms": 188168,
+      "name": "Debochada",
+      "url": "https://open.spotify.com/track/429MZRfRYM5RWR5Lie3beS"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
         "name": "Corpo Poss\u00edvel (Deluxe)",
         "url": "https://open.spotify.com/album/5DPQYWvyndISm87e1Clu6e"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 226073,
       "name": "Me Curar",
       "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
-        "name": "S\u00f3 Vem",
-        "url": "https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC"
-      },
-      "artists": [
-        {
-          "name": "Leo Guima",
-          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
-        }
-      ],
-      "duration_ms": 188168,
-      "name": "Debochada",
-      "url": "https://open.spotify.com/track/429MZRfRYM5RWR5Lie3beS"
     },
     {
       "added_at": "2023-10-13 16:15:22",
@@ -695,6 +695,26 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
+        "name": "Brincava de Amar",
+        "url": "https://open.spotify.com/album/3il965mOJh8Jk3KjcxX4fg"
+      },
+      "artists": [
+        {
+          "name": "Carol Olly",
+          "url": "https://open.spotify.com/artist/1eOQwXqT0DJ1XbXMdOp1QR"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+        }
+      ],
+      "duration_ms": 125217,
+      "name": "Brincava de Amar",
+      "url": "https://open.spotify.com/track/2l2FbvWn2uathty65JcJCD"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
         "name": "Pulando",
         "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 194137,
       "name": "\u00cdndigo (Te Venero)",
       "url": "https://open.spotify.com/track/73Yn2f5eGn3iG4bzTB98tl"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
-        "name": "Brincava de Amar",
-        "url": "https://open.spotify.com/album/3il965mOJh8Jk3KjcxX4fg"
-      },
-      "artists": [
-        {
-          "name": "Carol Olly",
-          "url": "https://open.spotify.com/artist/1eOQwXqT0DJ1XbXMdOp1QR"
-        },
-        {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
-        }
-      ],
-      "duration_ms": 125217,
-      "name": "Brincava de Amar",
-      "url": "https://open.spotify.com/track/2l2FbvWn2uathty65JcJCD"
     },
     {
       "added_at": "2023-10-13 16:15:22",

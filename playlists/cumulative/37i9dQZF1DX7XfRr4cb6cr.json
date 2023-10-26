@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "black box",
+        "url": "https://open.spotify.com/album/6nJbapZnyYjqx1Sxka9fQx"
+      },
+      "artists": [
+        {
+          "name": "Father2006",
+          "url": "https://open.spotify.com/artist/27yhOwnmWiOJf474zGblS4"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221612,
+      "name": "black box - alt version",
+      "url": "https://open.spotify.com/track/1aEqFOVkJRPBxQME5U06DS"
+    },
+    {
+      "album": {
         "name": "Blue Window",
         "url": "https://open.spotify.com/album/5zfa586cmW4HGRZFTtmbGu"
       },
@@ -3872,7 +3890,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 265000,
       "name": "The Church",
       "url": "https://open.spotify.com/track/4F7ezw5Lid54Yo7xQ5v4U0"

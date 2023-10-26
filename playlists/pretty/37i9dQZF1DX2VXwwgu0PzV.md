@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta?si=buZB\_ByvSiaAfMN7mBHiXg">Noël Mio</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,713 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,832 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 99 | [Biggie God](https://open.spotify.com/track/5aWzE094axeDe5yYh9Y6A1) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX) | [Biggie God](https://open.spotify.com/album/6CmPwAGrY2eQUKAG4pkk9h) | 2:34 |
 | 100 | [Jesus Christ is seen](https://open.spotify.com/track/3vqe006cBlMnYYAmbrYvXj) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/6zhXvRi37zhARlTYinBHJp) | 3:03 |
 
-Snapshot ID: `MCwxYjIyNDk4MTg0YWZkYzc3NThhYjBkOTAxODhmNTVhYjhhNjc1NjJi`
+Snapshot ID: `MCwwMmYxNjNmMGJhNDEwODA3ZWZiYzNhZDBhYWUyZTNjMGNkOTNkZmYy`

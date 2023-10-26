@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 123337,
+  "num_followers": 123343,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTlhMDhiMjZlZjBmNWIwMmQwYWE1NWE5MGFiOGQ1MzBlNTlmYzMz",
+  "snapshot_id": "MCwzNzYwYzVjYTU0NDRmYWMwZjNhMzY5YmM0YWEwOTVmNDYwZWFhOGI3",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -49,26 +49,6 @@
       "url": "https://open.spotify.com/track/4XG8r3tuGn2Sossi2eoNtO"
     },
     {
-      "added_at": "2023-01-07 03:40:31",
-      "album": {
-        "name": "sol",
-        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
-        }
-      ],
-      "duration_ms": 119649,
-      "name": "sol",
-      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
-    },
-    {
       "added_at": "2023-03-23 21:33:09",
       "album": {
         "name": "Gato Negro (Daniel Hokum & Okuma Remix)",
@@ -91,6 +71,26 @@
       "duration_ms": 395632,
       "name": "Gato Negro - Daniel Hokum & okuma Remix",
       "url": "https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp"
+    },
+    {
+      "added_at": "2023-01-07 03:40:31",
+      "album": {
+        "name": "sol",
+        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+        }
+      ],
+      "duration_ms": 119649,
+      "name": "sol",
+      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -439,26 +439,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Si Mami",
-        "url": "https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps"
-      },
-      "artists": [
-        {
-          "name": "Michael Fortvne",
-          "url": "https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz"
-        },
-        {
-          "name": "Dan Solo",
-          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
-        }
-      ],
-      "duration_ms": 308571,
-      "name": "Si Mami",
-      "url": "https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Koro Kemboro",
         "url": "https://open.spotify.com/album/2a99LCBq1HLVEym4R7iHYF"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 303197,
       "name": "Koro Kemboro",
       "url": "https://open.spotify.com/track/0WpeystVcDypHRUhfrRBuz"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Si Mami",
+        "url": "https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps"
+      },
+      "artists": [
+        {
+          "name": "Michael Fortvne",
+          "url": "https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz"
+        },
+        {
+          "name": "Dan Solo",
+          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
+        }
+      ],
+      "duration_ms": 308571,
+      "name": "Si Mami",
+      "url": "https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Amuleto",
-        "url": "https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg"
-      },
-      "artists": [
-        {
-          "name": "Syntrovert",
-          "url": "https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Cuarzo",
-      "url": "https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Mexico Trance",
         "url": "https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 415000,
       "name": "Mexico Trance",
       "url": "https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg"
+      },
+      "artists": [
+        {
+          "name": "Syntrovert",
+          "url": "https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Cuarzo",
+      "url": "https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -629,6 +629,22 @@
       "url": "https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv"
     },
     {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Tierra del Fuego",
+        "url": "https://open.spotify.com/album/3bM79Y0P0jnhA6Yz8lE2Fa"
+      },
+      "artists": [
+        {
+          "name": "Tayhana",
+          "url": "https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg"
+        }
+      ],
+      "duration_ms": 234468,
+      "name": "Coraz\u00f3n Lleno de Mil Inviernos",
+      "url": "https://open.spotify.com/track/3rE9V4p5WkROR7ud2QG6Yh"
+    },
+    {
       "added_at": "2022-12-21 17:17:38",
       "album": {
         "name": "Dreamy Hamilton (Remixes)",
@@ -651,22 +667,6 @@
       "duration_ms": 337102,
       "name": "Dreamy Hamilton - Oneironautics Remix",
       "url": "https://open.spotify.com/track/0uVfcsjX9FX0VRU3sn2PyR"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Tierra del Fuego",
-        "url": "https://open.spotify.com/album/3bM79Y0P0jnhA6Yz8lE2Fa"
-      },
-      "artists": [
-        {
-          "name": "Tayhana",
-          "url": "https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg"
-        }
-      ],
-      "duration_ms": 234468,
-      "name": "Coraz\u00f3n Lleno de Mil Inviernos",
-      "url": "https://open.spotify.com/track/3rE9V4p5WkROR7ud2QG6Yh"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Afrotrip",
-        "url": "https://open.spotify.com/album/4Ita5yp1OjGhZqdmuiEGug"
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/632kGPMnxUSMHTngCCeb4Z"
       },
       "artists": [
         {
-          "name": "Frikstailers",
-          "url": "https://open.spotify.com/artist/3kGiP6mQDtEZG5UD7mAlBH"
+          "name": "Dietscha Jung",
+          "url": "https://open.spotify.com/artist/6DYNkp4jACOeI3bn2gmKqg"
         }
       ],
-      "duration_ms": 275063,
-      "name": "Afrotrip",
-      "url": "https://open.spotify.com/track/0n84JDWB6PWHobrArjK1m1"
+      "duration_ms": 141818,
+      "name": "K Royal Con Las de Harina",
+      "url": "https://open.spotify.com/track/08V1tV1HjwZeV04MaV9dpQ"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 274226,
       "name": "Chinnakannan - Male Vocals",
       "url": "https://open.spotify.com/track/2eXIJgXynJdkWux9HL70JM"
@@ -3204,6 +3204,28 @@
       "duration_ms": 340683,
       "name": "Kaadhal Vaanilae",
       "url": "https://open.spotify.com/track/0IMEdXJyzivhWbZIYhNQbY"
+    },
+    {
+      "album": {
+        "name": "Raasaiyya",
+        "url": "https://open.spotify.com/album/0J95ZpiUCgaSz8ALgfVLEm"
+      },
+      "artists": [
+        {
+          "name": "S.P.Balasubramaniam",
+          "url": "https://open.spotify.com/artist/6L0CDEv6dMKPyGEbzCs5do"
+        },
+        {
+          "name": "Preeti",
+          "url": "https://open.spotify.com/artist/6qBukaZAaJjYHStsQGb6hb"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340683,
+      "name": "Kaadhal Vaanilae",
+      "url": "https://open.spotify.com/track/0aI0rl12cGvE9vzH4xqiVq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,768 songs - 6 day 0 hr 23 min
+3,769 songs - 6 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -956,6 +956,7 @@
 | [eons away](https://open.spotify.com/track/1IGkkm35S2KRItswTm0eKP) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [eons away](https://open.spotify.com/album/6dVltlMV1WFe0BcU9m8ZnE) | 2:32 | 2021-08-27 | 2021-10-01 |
 | [Epic Assembly](https://open.spotify.com/track/61ywmWhIne3B0MogD9cLrV) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Stop Button / Epic Assembly](https://open.spotify.com/album/6Bt1sT4R1OHXRNRt4GdkF3) | 1:39 | 2021-07-29 | 2021-09-09 |
 | [Epoch](https://open.spotify.com/track/3i1QDnpInuZUfTmnauuEbu) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Epoch](https://open.spotify.com/album/7MT9QQ0XGiA4Dz2sDN6Faz) | 1:34 | 2021-12-12 | 2023-08-04 |
+| [Equanimity](https://open.spotify.com/track/2cXBurM9WVPw1famE11YFV) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV), [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Equanimity](https://open.spotify.com/album/2aAosBsE2g01oVPGgIjfbT) | 2:44 | 2023-10-19 |  |
 | [Equata](https://open.spotify.com/track/06IcYJVcONJEnswRGec8pM) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Equata](https://open.spotify.com/album/4dGpZpqO3Si2tVleR9xP7i) | 1:47 | 2023-03-09 | 2023-04-14 |
 | [Erik](https://open.spotify.com/track/4VyzbS5lqk3E4kJI4gM9M9) | [Titus Martinu](https://open.spotify.com/artist/5xgzUVEK9ndCxbJQIoZjlA) | [Epilogue](https://open.spotify.com/album/28oI2WkcZyWebTntwGmKrX) | 1:56 | 2020-08-04 | 2020-11-03 |
 | [Eros](https://open.spotify.com/track/6RGcJf0l7aBAmAJ4FoLuhl) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Eros](https://open.spotify.com/album/7FzaGM4XYmgRdEy7IZxcPd) | 2:30 | 2021-12-11 | 2021-12-30 |
@@ -2657,7 +2658,7 @@
 | [right here](https://open.spotify.com/track/0CAXwqDURV3HNIcRBo6q0H) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [right here](https://open.spotify.com/album/3556dB6cUPlexPigmPwSmi) | 2:18 | 2023-03-02 |  |
 | [Right Here](https://open.spotify.com/track/7CcVwEVUuwrxMPUPaWmBXA) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Right Here](https://open.spotify.com/album/6ODm8mk98s4HJ4WQrnoUR8) | 1:54 | 2019-05-26\* | 2019-08-13 |
 | [Right of Passage](https://open.spotify.com/track/1CLStK65V1u99FsCaJvu9m) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Right of Passage](https://open.spotify.com/album/3XTeWDmtfvjPYdPR80QnnW) | 2:23 | 2021-05-29 | 2021-07-09 |
-| [Right Thing](https://open.spotify.com/track/2ugTMmn6H166ivXhQWsRjA) | [IONA](https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [jüle.](https://open.spotify.com/artist/2awWBxv11I86fi6z4T0U9o) | [Right Thing](https://open.spotify.com/album/6ZOiRnOI96IDbcbmIADRch) | 2:13 | 2023-10-19 |  |
+| [Right Thing](https://open.spotify.com/track/2ugTMmn6H166ivXhQWsRjA) | [IONA](https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [jüle.](https://open.spotify.com/artist/2awWBxv11I86fi6z4T0U9o) | [Right Thing](https://open.spotify.com/album/6ZOiRnOI96IDbcbmIADRch) | 2:13 | 2023-10-19 | 2023-10-26 |
 | [Rinse](https://open.spotify.com/track/1SBNNxJQpcl6LDXDJ23B2C) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Source](https://open.spotify.com/album/1ArjsnPFmKrjIz91NOBexw) | 1:43 | 2019-05-26\* | 2019-08-13 |
 | [Rio](https://open.spotify.com/track/0Lca4X8ywapByHnAc09r1u) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Short Trip](https://open.spotify.com/album/0bN24muTluyeHcws540raW) | 1:22 | 2022-12-22 |  |
 | [Rio](https://open.spotify.com/track/2IPVS6FVoIBXGHi6CoWvr6) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Short Trip](https://open.spotify.com/album/02gygILAWHgp44KdGOtvEk) | 1:22 | 2022-11-17 | 2022-12-16 |

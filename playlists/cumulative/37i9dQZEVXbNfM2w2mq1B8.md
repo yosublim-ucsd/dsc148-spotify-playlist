@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-1,282 songs - 3 day 0 hr 2 min
+1,283 songs - 3 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1130,7 +1130,7 @@
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-05-23 |
 | [Zabraven](https://open.spotify.com/track/5MaFlpAHHxv7f3MMQLxF0Q) | [Alex Robov](https://open.spotify.com/artist/3dUX6G8rrysXN3GVdfpOBA) | [Zabraven](https://open.spotify.com/album/6YCZuwLaW7ImuwHnUe5BqI) | 3:41 | 2022-06-01 | 2022-07-14 |
 | [ZAD RESHETKITE](https://open.spotify.com/track/374fBUUBWUOeUVE8hCLdqG) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [3/3](https://open.spotify.com/album/0iPAgdeorXevx4eVGu3rpt) | 2:56 | 2023-07-01 | 2023-07-23 |
-| [Zakachen](https://open.spotify.com/track/7l0PQwiw5MZJhBSt7zMLwv) | [Kiara](https://open.spotify.com/artist/3J4l3yj3cNs6TifveDvk9Z) | [Zakachen](https://open.spotify.com/album/5AlHkEVB2Lsx9lNruKiNSL) | 3:17 | 2023-09-21 |  |
+| [Zakachen](https://open.spotify.com/track/7l0PQwiw5MZJhBSt7zMLwv) | [Kiara](https://open.spotify.com/artist/3J4l3yj3cNs6TifveDvk9Z) | [Zakachen](https://open.spotify.com/album/5AlHkEVB2Lsx9lNruKiNSL) | 3:17 | 2023-09-21 | 2023-10-26 |
 | [ZASLUJAVAM](https://open.spotify.com/track/7xeauW5oB0TRGNbK2kaxsl) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW) | [FAKT\. ZASLUJAVAM\. SCENATA.](https://open.spotify.com/album/6h2R71xZWTPrILvEsaNBGo) | 3:33 | 2021-12-04 | 2022-01-08 |
 | [Zeit](https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu) | 5:21 | 2022-03-12 | 2022-03-14 |
 | [Zick Zack](https://open.spotify.com/track/2w7Ca8DNYXBCgA6Bht7o0N) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:04 | 2022-04-30 | 2022-05-02 |
@@ -1239,6 +1239,7 @@
 | [Няма драма](https://open.spotify.com/track/12lvqPO77cMXAownBTw36L) | [Anelia](https://open.spotify.com/artist/5tUV7pEJAFzJXWbJBtTkjt) | [Няма драма](https://open.spotify.com/album/0PYIaOsrKgczT2PF3gOWYc) | 4:04 | 2022-07-24 | 2022-07-29 |
 | [Нямам Теб](https://open.spotify.com/track/1SWt6vgg3LHeYBvVXe1RR7) | [Ivayla](https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt), [Ilian Boyd](https://open.spotify.com/artist/1LLZb3EzxafwHumGvgwy5u) | [Нямам Теб](https://open.spotify.com/album/7jePjUOREudBjAaaSfDlim) | 3:40 | 2023-10-12 |  |
 | [Нямаш мене](https://open.spotify.com/track/37vQo8j33koOfhL5qK0YId) | [Anelia](https://open.spotify.com/artist/5tUV7pEJAFzJXWbJBtTkjt), [Konstantin](https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8) | [Нямаш мене](https://open.spotify.com/album/3YDsTkqKN1V7ujLFGChKqZ) | 3:54 | 2023-07-22 | 2023-10-24 |
+| [Нямаше Нужда](https://open.spotify.com/track/3Ze32iucxa6iuloBHTfmuJ) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Нямаше Нужда](https://open.spotify.com/album/2Ef0Lz3rFc3Py593sBUyui) | 3:12 | 2023-10-25 |  |
 | [Обичам те, ти мене \- не](https://open.spotify.com/track/2R3jE3iK7C1Ok8eCuIFCmy) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Обичам те, ти мене \- не](https://open.spotify.com/album/4sSVZfarKHR318eTUD2avZ) | 2:48 | 2023-08-02 |  |
 | [Обратно броене](https://open.spotify.com/track/22J88l8vmMwbDAHDCshZWU) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Обратно броене](https://open.spotify.com/album/4gnTNf6GCPeQYaLfLHX5oN) | 3:26 | 2023-05-25 | 2023-06-10 |
 | [Олигофрен](https://open.spotify.com/track/4b219WjJp306KV0BFCzEpA) | [Boro Purvi](https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV), [Haikko 372](https://open.spotify.com/artist/0Y5BK0n283ke4voiBtKzzi) | [Груби песни с хора дет ме кефят](https://open.spotify.com/album/0X2uU8eVPrWvx6kpKdOZ6h) | 3:22 | 2021-06-21 | 2021-06-25 |

@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Matthew Halsall
 
-486 songs - 1 day 11 hr 4 min
+487 songs - 1 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,8 @@
 | [Low Sun \- Live](https://open.spotify.com/track/5BDMUXvlEm9LCqvl38FHFN) | [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Low Sun \(Live\)](https://open.spotify.com/album/0l993bL6QX8RzqiA6UsjsB) | 4:02 | 2022-02-04 | 2022-07-29 |
 | [lucidly \(ft\. Ophie\)](https://open.spotify.com/track/3zpFSNm0QQ3F1MFjliSFwG) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [yield](https://open.spotify.com/album/4mKB6j98xCM5fpw123pY1p) | 2:23 | 2022-11-04 | 2022-12-22 |
 | [LuvSeat](https://open.spotify.com/track/7gDkwa8ibrsrdRVbz7egRg) | [DeCarteret](https://open.spotify.com/artist/2xpN3bfOsPsnOCzDrxXXhr), [Squid Ethics](https://open.spotify.com/artist/1djpz94BFiJu96e2OR5ujh) | [LuvSeat](https://open.spotify.com/album/7mowkfkSao0S1LasYxdU3Y) | 2:51 | 2022-03-08 | 2023-03-09 |
-| [Magnolia II](https://open.spotify.com/track/6FG0RYmtPG4UKRpLG2Syu7) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Corey Fonville](https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP) | [Magnolia II](https://open.spotify.com/album/4TohzEm1l1RRwCFxFNMU0u) | 3:17 | 2023-08-11 |  |
+| [Magnolia II](https://open.spotify.com/track/5P7SWP6NrHNmWcvLCfmwkk) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Corey Fonville](https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP) | [Stings](https://open.spotify.com/album/6VinTZHoP04RXMsQk3W4A4) | 3:17 | 2023-10-19 |  |
+| [Magnolia II](https://open.spotify.com/track/6FG0RYmtPG4UKRpLG2Syu7) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Corey Fonville](https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP) | [Magnolia II](https://open.spotify.com/album/4TohzEm1l1RRwCFxFNMU0u) | 3:17 | 2023-08-11 | 2023-10-26 |
 | [Marching Band \(feat\. Masego\)](https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Marching Band \(feat\. Masego\)](https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt) | 4:44 | 2023-07-13 |  |
 | [May The Funk Be With You](https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [May The Funk Be With You](https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ) | 4:27 | 2022-07-28 | 2023-09-04 |
 | [May The Funk Be With You](https://open.spotify.com/track/6GkeuiAXhBvPp4WsBgDvmV) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [May The Funk Be With You](https://open.spotify.com/album/5faIHrMfkgStcx4P1MmiKT) | 4:27 | 2022-03-04 |  |

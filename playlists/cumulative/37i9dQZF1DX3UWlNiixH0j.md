@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Guiba
 
-950 songs - 2 day 11 hr 5 min
+952 songs - 2 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [BABY END](https://open.spotify.com/track/7vIMvvEMQu2Su8qyHrUtPQ) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [BABY END](https://open.spotify.com/album/0dwHmTKqojEP054Y8SoZiZ) | 4:40 | 2023-08-22 | 2023-09-09 |
 | [Baby So in Love](https://open.spotify.com/track/1tLmk8MxJuLMXNv654c6A5) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Portray](https://open.spotify.com/album/4gf7SnhuI71ZpFVivmLQiF) | 3:43 | 2023-05-02 | 2023-05-24 |
 | [Baby So in Love](https://open.spotify.com/track/4Pvxx8Df8cAgKZSMgTZ2RK) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Baby So in Love](https://open.spotify.com/album/0JnANJ963m0PwSBXY0C1zO) | 3:43 | 2023-03-30 | 2023-04-20 |
+| [Bad days on fire](https://open.spotify.com/track/4rO0BIc1vZXXoIM7kF1mqg) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Bad days on fire](https://open.spotify.com/album/1Fx70lGxsoGzHTlN6sAaxq) | 2:16 | 2023-10-24 |  |
 | [basement](https://open.spotify.com/track/3MIc6RMb83SodnfE7T5XNU) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK! / DIMWORK](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 1:48 | 2023-08-08 | 2023-08-23 |
 | [BAUMKUCHEN](https://open.spotify.com/track/0Z2XB27naetMS2GOgXrE3f) | [Plastic Girl In Closet](https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm) | [BAUMKUCHEN](https://open.spotify.com/album/3dlOhyY45XqTWY208giI3T) | 4:25 | 2023-03-07 | 2023-03-29 |
 | [BEATING UP MYSELF](https://open.spotify.com/track/2ugohDT7qduGWCq6EYUjzQ) | [Bearwear](https://open.spotify.com/artist/1vs4LphTDQKsiFwVnDGFKf) | [BEATING UP MYSELF](https://open.spotify.com/album/10uSUm4kURSuzZX7sO0YkL) | 3:02 | 2023-02-14 | 2023-03-01 |
@@ -95,6 +96,7 @@
 | [Calming Influence](https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Calming Influence](https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ) | 4:48 | 2023-01-12 | 2023-01-18 |
 | [Can’t Get Over Myself \- feat\. Zuma.](https://open.spotify.com/track/2BQhm7S8FL2B1bdq0IlRKo) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [Zuma.](https://open.spotify.com/artist/5njJbzFJ6lY7tq7ZiuFZX5) | [Can’t Get Over Myself \(feat\. Zuma.\)](https://open.spotify.com/album/3R5j05cIiE1DmVu2DwYjai) | 3:20 | 2023-04-18 | 2023-06-14 |
 | [Carnival](https://open.spotify.com/track/0cubeAWj2WxZdoz7Nvf1VQ) | [Kill The Gossip](https://open.spotify.com/artist/536HIHYj6SspezuJFoFHmo) | [Carnival](https://open.spotify.com/album/1Zk5AiKxK6rQh9ykyIKIA7) | 2:25 | 2023-03-28 | 2023-04-05 |
+| [Caroline](https://open.spotify.com/track/59y9GUXiEpeav1iDh3uAy4) | [Seikatsu no Sekkei](https://open.spotify.com/artist/6xM4LUYF3ZCeNOU3sgfrCT) | [Caroline](https://open.spotify.com/album/26qsJ7CMOmkXqjimRYw5DR) | 3:12 | 2023-10-24 |  |
 | [Catch The Miracle](https://open.spotify.com/track/0veerJcFJTSumChnxuLD0i) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [Catch The Miracle](https://open.spotify.com/album/2jHtSMczXw6jiUfFL64Vjz) | 5:24 | 2023-09-05 | 2023-10-22 |
 | [Chain \- feat\. Misi Ke](https://open.spotify.com/track/6TIaFPdO2FLhhFSAqrD4lV) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [Chain \(feat\. Misi Ke\)](https://open.spotify.com/album/3G6zWaVtyWLt98U0emMJPT) | 3:03 | 2023-02-28 | 2023-03-15 |
 | [Chair](https://open.spotify.com/track/6ErnKii0YNkOZODh3XrVZu) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Chair](https://open.spotify.com/album/6QEPQxAtRodkKAcakSJeRs) | 2:23 | 2023-10-10 | 2023-10-18 |
@@ -695,7 +697,7 @@
 | [ウィンディー](https://open.spotify.com/track/0QI2f7Fb9EoWkQc0C2Qg0k) | [千葉剛久](https://open.spotify.com/artist/6cVmanDEHDZdRNZV0NzefC) | [ウィンディー](https://open.spotify.com/album/3V7BCCulLTeX0MqQHJdV4i) | 3:42 | 2023-08-22 | 2023-08-24 |
 | [カウントダウン・ラグ](https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh) | 5:25 | 2023-04-18 | 2023-04-20 |
 | [カープファンの子](https://open.spotify.com/track/0fljI44hj6m737RIfY8kmK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [しばたさとこ島](https://open.spotify.com/album/2rgn6LRtYPMOtzbsEVp6KS) | 2:22 | 2023-05-29 | 2023-06-02 |
-| [キャロライン](https://open.spotify.com/track/2QVLcKnAZOa4kcvflcN0G6) | [生活の設計](https://open.spotify.com/artist/6ZQ0j6vz0P9rQOQjP8BXlR) | [キャロライン](https://open.spotify.com/album/4uUOmlaeXD1tLtpOOEgg8n) | 3:12 | 2023-10-24 |  |
+| [キャロライン](https://open.spotify.com/track/2QVLcKnAZOa4kcvflcN0G6) | [生活の設計](https://open.spotify.com/artist/6ZQ0j6vz0P9rQOQjP8BXlR) | [キャロライン](https://open.spotify.com/album/4uUOmlaeXD1tLtpOOEgg8n) | 3:12 | 2023-10-24 | 2023-10-26 |
 | [キリン](https://open.spotify.com/track/5pwlfTuMRYRv1YQmQvPew4) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [キリン](https://open.spotify.com/album/0IsKWVJ9oleyraPcUF2GlY) | 3:20 | 2023-08-10 | 2023-08-16 |
 | [クーポン](https://open.spotify.com/track/01pdUYUoID51rCnVBI8LGy) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [クーポン](https://open.spotify.com/album/5uuInhJa0eNzpdI0vXQJJT) | 3:54 | 2023-10-24 |  |
 | [グリーンマン](https://open.spotify.com/track/5A5IxGThcKc5ZG3TVqouVP) | [KiQ](https://open.spotify.com/artist/1wpDXEtGHLGW18q9A0bvGz) | [グリーンマン](https://open.spotify.com/album/5YoZ2aUnPsLCJIduIMG9Xg) | 3:43 | 2023-09-05 | 2023-09-20 |
@@ -729,7 +731,7 @@
 | [ハニーとマスタード](https://open.spotify.com/track/5Old3zhCyVtgPCArANiMNw) | [The Whoops](https://open.spotify.com/artist/0wNomLWF4Yg4XN2hHlP3Cz) | [ハニーとマスタード](https://open.spotify.com/album/5fJw0wUOt9yesE75myJFNV) | 1:56 | 2023-01-31 | 2023-02-02 |
 | [ハルケシ](https://open.spotify.com/track/35r5R6H2wyjkOsbvGh0YiX) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ハルケシ](https://open.spotify.com/album/5WLYwlMKYlv33hNEooeGy4) | 3:53 | 2023-05-23 | 2023-08-02 |
 | [バケーションに沿って](https://open.spotify.com/track/0CnzkJ43YQpKu7IbBFxwvd) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [バケーションに沿って](https://open.spotify.com/album/6kmhdz9RBc5dfXl0vXEHSX) | 3:16 | 2023-07-18 | 2023-09-24 |
-| [バッドデイズ・オンファイヤー](https://open.spotify.com/track/6XuHRXgiGEpxs03w47OGy1) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [バッドデイズ・オンファイヤー](https://open.spotify.com/album/7I0ezrFRdXuNBD2C0Hp5p2) | 2:16 | 2023-10-24 |  |
+| [バッドデイズ・オンファイヤー](https://open.spotify.com/track/6XuHRXgiGEpxs03w47OGy1) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [バッドデイズ・オンファイヤー](https://open.spotify.com/album/7I0ezrFRdXuNBD2C0Hp5p2) | 2:16 | 2023-10-24 | 2023-10-26 |
 | [バースデイ](https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 2:21 | 2023-06-23 |  |
 | [パンデミック](https://open.spotify.com/track/2yKphSroLPQ2vPZO5lcHqy) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [XX](https://open.spotify.com/album/1aTsna8FcJ1uh56XBeilNc) | 3:29 | 2023-07-18 | 2023-07-28 |
 | [パンデミック](https://open.spotify.com/track/362O8pwLinfFwPKUqxFhIg) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [パンデミック](https://open.spotify.com/album/0IdY0aJAlMww8ki3Rh4WBo) | 3:29 | 2023-01-12 | 2023-07-20 |
@@ -763,7 +765,7 @@
 | [一生このまま](https://open.spotify.com/track/1q4zRDIKKchOp9fijZf7Px) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [一生このまま](https://open.spotify.com/album/59dpWHuyHaj4thgbTdD14U) | 4:43 | 2023-05-30 | 2023-06-01 |
 | [不思議な関係](https://open.spotify.com/track/00Nj6hCC9wNg86MO0sIGJf) | [Shin Rizumu](https://open.spotify.com/artist/0KZ7Lk1c6rpp0nwvY9EuD4) | [不思議な関係](https://open.spotify.com/album/1W2FaF800M2nRqZlPFMhG9) | 4:32 | 2023-01-12 | 2023-01-18 |
 | [不眠導入剤](https://open.spotify.com/track/0NL5SHYE1u3TgA0WtYhwlF) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [肴](https://open.spotify.com/album/3FgHoa9C34h5KOuA9VrVZp) | 2:40 | 2023-09-26 |  |
-| [主人公](https://open.spotify.com/track/2hIqgaBOn6Z1iGB5Bx6n5S) | [折坂悠太](https://open.spotify.com/artist/5Zy5Fg9iN1KSkrtVAsc7r3) | [みんなのさだ Another Edition](https://open.spotify.com/album/5NcJl0jiqk2fDs1sAutNU3) | 5:00 | 2023-10-24 |  |
+| [主人公](https://open.spotify.com/track/2hIqgaBOn6Z1iGB5Bx6n5S) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [みんなのさだ Another Edition](https://open.spotify.com/album/5NcJl0jiqk2fDs1sAutNU3) | 5:00 | 2023-10-24 |  |
 | [予感](https://open.spotify.com/track/5KNP39R2DEshipc9QjzPiT) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [タオルケットは穏やかな](https://open.spotify.com/album/2byWdUAtCOUaxDe73nGfhU) | 2:43 | 2023-03-28 | 2023-09-06 |
 | [五次元Surfin'](https://open.spotify.com/track/5dJFzvOC7t0FVOO75ZmQrD) | [Kinoko Hotel](https://open.spotify.com/artist/54kSq4Nz99jYuneoUIPXpS) | [マリアンヌの教典](https://open.spotify.com/album/3xGA3YgNAnCwZtjEjMLejm) | 4:09 | 2023-06-13 | 2023-06-21 |
 | [会いたい](https://open.spotify.com/track/5VPbNf4LkDv7reM1SDsFyH) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [会いたい](https://open.spotify.com/album/4M4391JYcKGO5GBhl5bbbd) | 4:27 | 2023-09-14 | 2023-10-15 |

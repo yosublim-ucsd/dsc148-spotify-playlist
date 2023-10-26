@@ -1775,6 +1775,28 @@
     },
     {
       "album": {
+        "name": "Gentle Bones",
+        "url": "https://open.spotify.com/album/1y2ye5sTKykfcAwRNPAmHC"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        },
+        {
+          "name": "Tay Kewei",
+          "url": "https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191365,
+      "name": "\u4f60\u9084\u4e0d\u77e5\u9053?",
+      "url": "https://open.spotify.com/track/1JEieh4dFgrZSz0XWPv3n3"
+    },
+    {
+      "album": {
         "name": "\u4f60\u9084\u4e0d\u77e5\u9053?",
         "url": "https://open.spotify.com/album/64w5Op6YBOQ9AiV76Rvikp"
       },
@@ -3488,7 +3510,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 197233,
       "name": "\u60f3\u8981\u548c\u4f60",
       "url": "https://open.spotify.com/track/0yNpiYOgmQkNLO42IgRj6E"

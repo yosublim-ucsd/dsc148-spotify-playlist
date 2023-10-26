@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:52x2PpXaL6h6JesQPInDei">didi</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,330 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,352 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [będzie mi okej](https://open.spotify.com/track/0c3pW84R8d3n0Q1O6aTJBf) | [didi](https://open.spotify.com/artist/52x2PpXaL6h6JesQPInDei) | [będzie mi okej](https://open.spotify.com/album/2nAkimvEjX78yEK51TTSVN) | 3:08 |
-| 2 | [ulubione spodnie](https://open.spotify.com/track/1zvkdQatl7lvAvfn2jLOFX) | [Irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U) | [ulubione spodnie](https://open.spotify.com/album/3vTqMbJxYz5JswGJjpj9HE) | 4:08 |
+| 2 | [ulubione spodnie](https://open.spotify.com/track/1zvkdQatl7lvAvfn2jLOFX) | [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U) | [ulubione spodnie](https://open.spotify.com/album/3vTqMbJxYz5JswGJjpj9HE) | 4:08 |
 | 3 | [Żądza](https://open.spotify.com/track/5B4DmLUmPLfwbOSb4Y6gNv) | [Malarze i Żołnierze](https://open.spotify.com/artist/6npcpaDCkCA7QOkQM5WWxH), [Kafi](https://open.spotify.com/artist/2CCBoQDEmU276LcYsu21wo) | [Żądza](https://open.spotify.com/album/2poHZfV1trzz5SjbeqrATx) | 3:23 |
 | 4 | [zgubione dzieciaki robią papier](https://open.spotify.com/track/0SHUfF5vk5f6owdDCsN2Lu) | [chudy dredd](https://open.spotify.com/artist/0Muaqh9wkA9mlQXDXOkTvU) | [zgubione dzieciaki robią papier](https://open.spotify.com/album/4uafrlu3WnzeSU92CMxiIa) | 1:36 |
 | 5 | [Sny W Słońcu](https://open.spotify.com/track/3X1bQgOB4zKpen6KmoKZku) | [WASILEWSKI](https://open.spotify.com/artist/1Kede7dhODygxBDvVdkXuf), [Wishlake](https://open.spotify.com/artist/3oEXMAInmcKoggPiSIxsSx) | [Sny W Słońcu](https://open.spotify.com/album/4b9oLWqHl0ev5J5EPxiUBC) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [PIRUET](https://open.spotify.com/track/6JhRgP2grP9aD22M6XQMww) | [Karolina Prasał](https://open.spotify.com/artist/1hQJVFqdypfYIUK91Pzadr) | [PIRUET](https://open.spotify.com/album/23xMwIHak1SGxdaPv5x5Vr) | 3:06 |
 | 100 | [Cały Świat](https://open.spotify.com/track/5Q49ihsa7fEzLnQb9YSTGy) | [Robert Wojciechowski](https://open.spotify.com/artist/488R2UBrXX5qEFYsdvr56S) | [Robson Po Polsku](https://open.spotify.com/album/2cepFAtBgckCoWsjEZXezM) | 3:50 |
 
-Snapshot ID: `MCxiMTQ2NGNjYjAzMDQzMmZlNzQzZDBjZjMzYWUwOTczMTI2YjQyNGU5`
+Snapshot ID: `MCw4NDA3MmY1OWU4MmIxNjk3NTM4Njc2OTRkZWRkY2UyMjE5ZGI5M2Fj`

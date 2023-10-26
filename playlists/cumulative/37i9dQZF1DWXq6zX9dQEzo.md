@@ -4,7 +4,7 @@
 
 > Music blasting, faith on swole\.  Get your beast mode on!  Guest Curated by <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=ee8a724b019b4d6d">KB</a>
 
-463 songs - 23 hr 11 min
+464 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Fight Of Your Life](https://open.spotify.com/track/75nrUKvEyi6NUP4SJC1wit) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Fight Of Your Life](https://open.spotify.com/album/5NvLQlP11h3vpyCDJP3BJL) | 3:09 | 2022-07-17 |  |
 | [Fire + Rain](https://open.spotify.com/track/5pFU5IH9dTIaGGRtL7dNUQ) | [The Agape Music Group](https://open.spotify.com/artist/6q6OWH72l1iFYBZUb6z9E4), [Renee Pullum](https://open.spotify.com/artist/6jX5ekSzDJgziIWpxvumgt) | [Fire + Rain](https://open.spotify.com/album/7HsEsFpLDvnsIwuIpZypm7) | 3:10 | 2022-02-04 | 2022-09-03 |
 | [Fire Emoji](https://open.spotify.com/track/5GAo1lngd23rtBxvyIJSca) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [God Still Has Soldiers 2](https://open.spotify.com/album/7a9KaysU2i9dxlQawh5lgu) | 3:14 | 2022-02-04 | 2023-08-12 |
+| [First Of Many](https://open.spotify.com/track/0mjP2ndK2r5JtQuE0PNOhd) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr) | [First Of Many](https://open.spotify.com/album/06seLeQW3q3EqYArVAgTfn) | 2:19 | 2023-08-11 |  |
 | [First Of Many \(feat\. George.Rose\)](https://open.spotify.com/track/0yiFuQgmMRhl5hVIZLMBGh) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr) | [First Of Many \(feat\. George.Rose\)](https://open.spotify.com/album/0HVwrQkPvA6sjjC9TDNoVI) | 2:19 | 2022-02-04 | 2023-08-24 |
 | [Flashy](https://open.spotify.com/track/2AHoi03XAHDv5df9AJjLYs) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Flashy](https://open.spotify.com/album/6xbofFdMv6ZQCUTHs8CyIi) | 2:28 | 2022-10-01 | 2022-10-05 |
 | [Fo' Rilly Flow](https://open.spotify.com/track/0h9O7fUWZFuVZLbec9f1Qz) | [Scribe Music](https://open.spotify.com/artist/6Sje0vb62lzeO204N9yh0n), [Marc Stevens](https://open.spotify.com/artist/1fmn2V2H1bqmwk9SCdnuCd), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav) | [Fo' Rilly Flow](https://open.spotify.com/album/4NYHAo56V6kokxfU2w80VF) | 2:54 | 2022-02-04 |  |
@@ -257,7 +258,7 @@
 | [Love With Your Life](https://open.spotify.com/track/3YVsYrddp7lbej2cXniN3Q) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [One\-Way Conversations](https://open.spotify.com/album/2iB2b6Vw1eOWJc4ZNQPLhW) | 3:30 | 2022-02-04 | 2022-04-20 |
 | [Loyal Til The End \(feat\. Jon Keith\)](https://open.spotify.com/track/0XDdbGVWoomccMBmkkkPs9) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 4:02 | 2022-02-04 | 2023-08-12 |
 | [MAD 2 THE MAX](https://open.spotify.com/track/6y6hyRiHnfwHKd2D8oy00W) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [TRANSCENDENT](https://open.spotify.com/album/6rIfLRsHOsNEsLsRV3V5RG) | 2:24 | 2022-12-16 | 2023-08-12 |
-| [MAKE IT MAKE SENSE](https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [MAKE IT MAKE SENSE](https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5) | 2:45 | 2022-04-30 |  |
+| [MAKE IT MAKE SENSE](https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [MAKE IT MAKE SENSE](https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5) | 2:45 | 2022-04-30 | 2023-10-26 |
 | [Marvelous](https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Marvelous](https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt) | 2:22 | 2023-08-11 |  |
 | [Meant For Good](https://open.spotify.com/track/3HzNYPLR7TB2PkDak8kVEN) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [HELP!](https://open.spotify.com/album/6GH2Oi7zWgZsVKLz9IRLH6) | 3:34 | 2022-05-28 | 2022-08-07 |
 | [mess it up](https://open.spotify.com/track/0R65qkFygRF8FB4iX9VndY) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [mess it up](https://open.spotify.com/album/6RGc68Chn4t2kLI2OODxYP) | 2:08 | 2022-12-16 | 2023-06-10 |

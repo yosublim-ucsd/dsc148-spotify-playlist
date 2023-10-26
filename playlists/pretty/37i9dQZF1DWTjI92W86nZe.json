@@ -1,12 +1,12 @@
 {
   "description": "El que por su gusto muere, hasta la muerte la sabe. Las historias de nuestro M\u00e9xico con Alfredo Olivas \ud83d\udc80\ud83e\udea6\ud83d\udc90",
-  "num_followers": 194233,
+  "num_followers": 194586,
   "original_name": "Corridos de la Muerte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTI1MzNlMDE3MGFkNjYzYjE3OWJkMThhZWM5MTJmMjY1N2RmZWQy",
+  "snapshot_id": "MCwwYTk3ZWI4NDg5MmE1YzRlMzQ5NDY3NTQ0NWE4OGUzMzk0ODg2YTk0",
   "tracks": [
     {
       "added_at": "2023-10-17 06:00:00",
@@ -115,6 +115,22 @@
       "duration_ms": 226000,
       "name": "Ciudad Peligrosa",
       "url": "https://open.spotify.com/track/3AzpG3c25sZQNaQi8qTTDQ"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "El Free",
+        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Mi \u00daltimo Deseo",
+      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
     },
     {
       "added_at": "2023-10-17 06:00:00",

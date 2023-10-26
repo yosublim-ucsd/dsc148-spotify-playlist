@@ -406,6 +406,60 @@
     {
       "album": {
         "name": "MAHORO",
+        "url": "https://open.spotify.com/album/5nG0MLe2zThj9ffmLqUhBX"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        },
+        {
+          "name": "basho",
+          "url": "https://open.spotify.com/artist/7ez1K2i8OPLFYZMKV1GH6V"
+        },
+        {
+          "name": "Moon",
+          "url": "https://open.spotify.com/artist/6lBRFShYoK35Ya2HqrJOdU"
+        },
+        {
+          "name": "Takuma the Great",
+          "url": "https://open.spotify.com/artist/2VwCj19Ruz3bW7tF0KRJws"
+        },
+        {
+          "name": "IKE",
+          "url": "https://open.spotify.com/artist/2jABWw2VBAvwYyWSLxjUcX"
+        },
+        {
+          "name": "Takaya",
+          "url": "https://open.spotify.com/artist/0fLD8jCkHztg8trao0hlAz"
+        },
+        {
+          "name": "Kanomaker",
+          "url": "https://open.spotify.com/artist/1VpsU9G5OV1BfYNmiMy1NT"
+        },
+        {
+          "name": "MANJYU",
+          "url": "https://open.spotify.com/artist/0lVJ6Rsqd2siZz32IZo77R"
+        },
+        {
+          "name": "SKRYU",
+          "url": "https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM"
+        },
+        {
+          "name": "Ando Tsuyoshi",
+          "url": "https://open.spotify.com/artist/22pQh0BaRuX3U5mlYWydZN"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Be a Good Neighbor",
+      "url": "https://open.spotify.com/track/0cub0o5LgyxsaOlGgdG8OK"
+    },
+    {
+      "album": {
+        "name": "MAHORO",
         "url": "https://open.spotify.com/album/17glFnt3V5BP7UaDeg3bcU"
       },
       "artists": [
@@ -452,7 +506,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 284000,
       "name": "Be a Good Neighbor",
       "url": "https://open.spotify.com/track/2nZ2uDJRsPvnWL4b5SqOOP"
@@ -1302,7 +1356,7 @@
     {
       "album": {
         "name": "Forever Street",
-        "url": "https://open.spotify.com/album/0cETZ4Pr7mfRpS6bdYmEIA"
+        "url": "https://open.spotify.com/album/73DzCWZFeNfEcEc17lWAnx"
       },
       "artists": [
         {
@@ -1321,6 +1375,32 @@
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 141200,
+      "name": "Forever Street",
+      "url": "https://open.spotify.com/track/4hICL79aIU4z62Cvh5GBDw"
+    },
+    {
+      "album": {
+        "name": "Forever Street",
+        "url": "https://open.spotify.com/album/0cETZ4Pr7mfRpS6bdYmEIA"
+      },
+      "artists": [
+        {
+          "name": "03- Performance",
+          "url": "https://open.spotify.com/artist/6s8icbnXfmBIWKZBOeapej"
+        },
+        {
+          "name": "Godzilla East",
+          "url": "https://open.spotify.com/artist/4u8gYY3ubYwelf5UbzqZg5"
+        },
+        {
+          "name": "Rommy Montana",
+          "url": "https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-26",
       "duration_ms": 141200,
       "name": "Forever Street",
       "url": "https://open.spotify.com/track/4jM7kNtTFz8zQsy8BCAuaT"
@@ -1354,6 +1434,40 @@
     {
       "album": {
         "name": "Fucking New",
+        "url": "https://open.spotify.com/album/5jDptyHcMJ3vAoothdXW1U"
+      },
+      "artists": [
+        {
+          "name": "THE SAMURAI SQUAD",
+          "url": "https://open.spotify.com/artist/5P82NiGh9AGB8dLdJAT7tR"
+        },
+        {
+          "name": "Whoopee Bomb",
+          "url": "https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3"
+        },
+        {
+          "name": "Seeker4L",
+          "url": "https://open.spotify.com/artist/0rzFpmPCcB3HseaSeGBHZE"
+        },
+        {
+          "name": "Jango",
+          "url": "https://open.spotify.com/artist/1yKai70gNYSJJnwPgrRnKZ"
+        },
+        {
+          "name": "MAX!!!",
+          "url": "https://open.spotify.com/artist/1MgqejqU5aSwZkhkhPkefn"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Fucking New",
+      "url": "https://open.spotify.com/track/6la5iywVzJB1ZkIPIJxJDI"
+    },
+    {
+      "album": {
+        "name": "Fucking New",
         "url": "https://open.spotify.com/album/4EQ5GkxlrwEfUQZTjPcCGz"
       },
       "artists": [
@@ -1380,7 +1494,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 217500,
       "name": "Fucking New",
       "url": "https://open.spotify.com/track/3ekpGHpbMhZn67lmRFwvn1"
@@ -1794,7 +1908,7 @@
     {
       "album": {
         "name": "Hope",
-        "url": "https://open.spotify.com/album/1XSBe1dxP8HEB1npsFcPQc"
+        "url": "https://open.spotify.com/album/1VLFfDuuqsC3xYyeKtzQnW"
       },
       "artists": [
         {
@@ -1805,6 +1919,24 @@
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/3pA9teCcxI6k42jaWQPmxn"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/1XSBe1dxP8HEB1npsFcPQc"
+      },
+      "artists": [
+        {
+          "name": "PEAVIS",
+          "url": "https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-26",
       "duration_ms": 172800,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5TB7HUODhKV1SVnEJQRrBP"

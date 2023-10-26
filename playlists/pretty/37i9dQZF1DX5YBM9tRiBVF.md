@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women at full volume!  On the cover this month: <a href="spotify:artist:2vmZupMPxLgT8MNNXTRfa2">Laura Tesoro</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,624 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,628 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 35 | [Hot Girl Summer](https://open.spotify.com/track/4x2GSpiJqd13eiT0fdxxUe) | [Cloudie](https://open.spotify.com/artist/52jIUp3kS81lUqD2jFhAQd) | [Hot Girl Summer](https://open.spotify.com/album/2H26Jfr5fEsKlmfseqvSy6) | 2:47 |
 | 36 | [Klaar](https://open.spotify.com/track/3tSYgm8y65CE647ArJieoF) | [Emee.](https://open.spotify.com/artist/1D2mP1WtyiqpILpb64uHXE) | [Klaar](https://open.spotify.com/album/4Reo9utu6dZ0NokcWFuFxC) | 3:40 |
 | 37 | [note perso](https://open.spotify.com/track/2WaDtWJfMnauH7lNkdEkod) | [Mia Lena](https://open.spotify.com/artist/2i2zUTjbAJuVCLxPR5bHHx) | [note perso](https://open.spotify.com/album/2je7WjQKEZRUq8jc8pQGth) | 3:40 |
-| 38 | [All I Wanna Do](https://open.spotify.com/track/3MXkQ81NLeq1AkcmeB4jhh) | [Mayorga](https://open.spotify.com/artist/5AyhF5G3hX20eu1ONPW3j6) | [All I Wanna Do](https://open.spotify.com/album/14DRVUhVr4TDmv7YOjf1Q5) | 3:13 |
+| 38 | [All I Wanna Do](https://open.spotify.com/track/0dkstWAA0aFBzilko6wxAC) | [Mayorga](https://open.spotify.com/artist/5AyhF5G3hX20eu1ONPW3j6) | [All I Wanna Do](https://open.spotify.com/album/205AOrgcGYt21MhVB54pZh) | 3:13 |
 | 39 | [elke dag](https://open.spotify.com/track/44KmHfy3KmMXD3cb77p6yF) | [Ellora](https://open.spotify.com/artist/50YdfPREaCZfFfzJo1xF8j) | [elke dag](https://open.spotify.com/album/3KclPalEJs78KD3Tmy0Age) | 3:17 |
 | 40 | [Radiance](https://open.spotify.com/track/4Z086HzCQqB2M0m8jme8rY) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Radiance](https://open.spotify.com/album/4e7dw7ZW7rpfPxUfoLfDcu) | 5:38 |
 
-Snapshot ID: `MCxjZGVhZjU4MDNiNDBiZjRjN2VhNmVlMzJkMmVjZDY5ZWRhOTkyM2Rm`
+Snapshot ID: `MCw5M2UwZjRmMjg1ZWM1OGI4NjM0YWEzYTQ4NWE5OTcwM2I1NTZmZDUx`

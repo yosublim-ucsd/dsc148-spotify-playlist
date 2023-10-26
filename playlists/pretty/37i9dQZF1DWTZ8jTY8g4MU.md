@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: نادر الشراري
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,455 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,528 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [العشق يجمعنا](https://open.spotify.com/track/6muHAEoB1eZZeY3KDCbRyW) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [العشق يجمعنا](https://open.spotify.com/album/75AS6XMqcgEsqan0pKtZch) | 4:07 |
-| 2 | [صاحب سمو](https://open.spotify.com/track/0kjGgQ2mmCpdyecl5uYEAx) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [صاحب سمو](https://open.spotify.com/album/0Lc0TkHmEepZGyGy9PuQWE) | 4:15 |
+| 2 | [صاحب سمو](https://open.spotify.com/track/0kjGgQ2mmCpdyecl5uYEAx) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [صاحب سمو](https://open.spotify.com/album/0Lc0TkHmEepZGyGy9PuQWE) | 4:15 |
 | 3 | [صفوف الدحية](https://open.spotify.com/track/2D2tSQAQOxzuDUv9RrrsuJ) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [صفوف الدحية](https://open.spotify.com/album/7GAvzZ7vfyIcrRXmCbktlQ) | 5:00 |
 | 4 | [جمالك غير](https://open.spotify.com/track/2JVNP7hVTG0lUXtzmO6FM8) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [جمالك غير](https://open.spotify.com/album/3yeHJBZJNbg4ADLM0Rutyo) | 5:44 |
 | 5 | [البارحة قلبي](https://open.spotify.com/track/0TNOCBHR9uGQpbFLe89bgN) | [علي الواهبي](https://open.spotify.com/artist/1qkjQSTleIzUxX95HhuKam) | [البارحة قلبي](https://open.spotify.com/album/3QsmwhoUrTaFPTybd6H8ed) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 49 | [أدعج عيون](https://open.spotify.com/track/3L0rLqS7wCn0qi7D5kgEQ0) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [أدعج عيون](https://open.spotify.com/album/5cOcNb7qAXUcskBBe2tk6i) | 3:34 |
 | 50 | [Bas Wenh](https://open.spotify.com/track/50b8yDKb6RDZtaxMYN3PUe) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs) | [Bas Wenh](https://open.spotify.com/album/4esCyXD8PmyQ2ctfE0asUA) | 4:47 |
 
-Snapshot ID: `MCw5MjNmOTliOGQ5ZWUzNWE0MDc1YTJkMTQ1NmRkYjJjMzVlZDIxY2Ni`
+Snapshot ID: `MCxmYTA5YTc3ODRjYTM5ZGY4ZmQxMTZkNjVjZjJhMDA4NmMwMTQwY2I2`

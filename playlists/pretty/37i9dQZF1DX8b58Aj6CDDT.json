@@ -1,12 +1,12 @@
 {
   "description": "Las canciones alternativas que definieron el 2022 en Hispanoam\u00e9rica. Marilina Bertoldi y Javiera Mena en portada.",
-  "num_followers": 3307,
+  "num_followers": 3314,
   "original_name": "Lo mejor del Indie y Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjBmNTQ4ODk1NTAyNGI3MDVlMmJiMTlmZDJlYjM5OGEyZGE5MmQ1",
+  "snapshot_id": "MCw1YzRmZjc0ZmE2MTVlYzY0ZGYwNDkyODgxNDkyNGQ5NTIzNjA4ZTkx",
   "tracks": [
     {
       "added_at": "2022-11-30 14:18:55",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
-        "name": "Charly Garc\u00eda",
-        "url": "https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF"
-      },
-      "artists": [
-        {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
-        }
-      ],
-      "duration_ms": 157467,
-      "name": "Charly Garc\u00eda",
-      "url": "https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
         "name": "Mientras Ando",
         "url": "https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 198000,
       "name": "Me lo kiero imaginar",
       "url": "https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
+        "name": "Charly Garc\u00eda",
+        "url": "https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF"
+      },
+      "artists": [
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+        }
+      ],
+      "duration_ms": 157467,
+      "name": "Charly Garc\u00eda",
+      "url": "https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP"
     },
     {
       "added_at": "2022-11-30 14:18:55",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
-        "name": "La Puerta Dorada",
-        "url": "https://open.spotify.com/album/7IoX8WbxcqgD15fKTfwQiy"
-      },
-      "artists": [
-        {
-          "name": "Edu Requejo",
-          "url": "https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M"
-        }
-      ],
-      "duration_ms": 223730,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/1YErzz0pkMQCxZdYeUbNUC"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
         "name": "Abrazo",
         "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 172386,
       "name": "Aqu\u00ed",
       "url": "https://open.spotify.com/track/6MBestQzTJ5XPvDM1afJid"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
+        "name": "La Puerta Dorada",
+        "url": "https://open.spotify.com/album/7IoX8WbxcqgD15fKTfwQiy"
+      },
+      "artists": [
+        {
+          "name": "Edu Requejo",
+          "url": "https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M"
+        }
+      ],
+      "duration_ms": 223730,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/1YErzz0pkMQCxZdYeUbNUC"
     },
     {
       "added_at": "2022-11-30 14:18:55",

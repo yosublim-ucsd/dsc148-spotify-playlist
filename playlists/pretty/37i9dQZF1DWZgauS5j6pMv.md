@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Kossisko
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,652 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,699 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Gucci Shoes](https://open.spotify.com/track/2UIBN3TFpOcLzLzh5SjaaV) | [Collard](https://open.spotify.com/artist/3UHGHiVMz1L0XqFi3oXHvH) | [Gucci Shoes](https://open.spotify.com/album/4QyoHSymwpjMRONWFHYBX8) | 3:01 |
 | 100 | [Quilted!](https://open.spotify.com/track/0x3v4Tsf7SqJSu9yRK69ZQ) | [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Quilted!](https://open.spotify.com/album/2fPB0iONZKpcNRRvjgwvVj) | 2:13 |
 
-Snapshot ID: `MCwzMDgyYjQyODIxMTMzOWMyMGNjMjViMjA5ZmIyNjZhYzQ4MTEzZjcy`
+Snapshot ID: `MCwxY2VlNTlkZGY5NGJjZDI1ZTBmZWYyYmE0MDIxNjA5MTljMjA3NDVm`

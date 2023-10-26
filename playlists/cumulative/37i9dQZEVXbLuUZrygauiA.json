@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 183040,
       "name": "Alguien De Aqu\u00ed",
       "url": "https://open.spotify.com/track/4jkdEOFesiftLvR7AUF1Rg"
@@ -9189,6 +9189,24 @@
     },
     {
       "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212853,
+      "name": "EYES",
+      "url": "https://open.spotify.com/track/0VWfG35i4baw8AbN9hvYpS"
+    },
+    {
+      "album": {
         "name": "Fabulosa de Paris",
         "url": "https://open.spotify.com/album/7xrhpUxZuo4Qdj7NEnG2EJ"
       },
@@ -15990,7 +16008,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
@@ -24554,7 +24572,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 156333,
       "name": "Te Amo y M\u00e1s",
       "url": "https://open.spotify.com/track/5I0aHj2JSQpoxSQnh3XcjO"

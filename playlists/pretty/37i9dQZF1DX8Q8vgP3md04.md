@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,698 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,710 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Darm Yelat](https://open.spotify.com/track/6SVoDXBSU1eZKRdokV2yaT) | [Nahom Mekuria](https://open.spotify.com/artist/3zFxJvpOzvb6aD0Lvk96he) | [Darm Yelat](https://open.spotify.com/album/5WbVCGdmMmWVjCbR64FghT) | 3:17 |
-| 2 | [Wow!](https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Amén \(The Nomad’s Dream\)](https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD) | 2:37 |
+| 2 | [WOW!](https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Amén \(The Nomad’s Dream\)](https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD) | 2:37 |
 | 3 | [Tewedaj](https://open.spotify.com/track/4FHNogeGpRbEFRlLCqw1GH) | [Haleluya Tekletsadik](https://open.spotify.com/artist/4ZpsiP2o6O2aNe2E7Kk9Ke) | [Tewedaj, Vol\. 1](https://open.spotify.com/album/6xDnveRco4B2JmHZdJeV6W) | 3:26 |
 | 4 | [Amsaya](https://open.spotify.com/track/5fMFrjOkltUkTKPlV7qtRM) | [Sami Dan](https://open.spotify.com/artist/6pmiKm0FnDKK5oIYrMCLRY) | [Qitsbet](https://open.spotify.com/album/0Cml7FJiuQWF4aaPrhBV5Y) | 4:12 |
 | 5 | [One Life](https://open.spotify.com/track/5I6ohxdSpuR6oxR15nvDqP) | [BiniZion](https://open.spotify.com/artist/0gP8OJt9A0EdaSAyuUhSEU) | [One Life](https://open.spotify.com/album/1PkZwghjdN9FKrrCPWR8gb) | 3:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 59 | [Abebayewosh](https://open.spotify.com/track/5xgAoUsx0TV1bbYzTpxvgj) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Arifzefen Singles Collection, Vol\. I](https://open.spotify.com/album/7uiQJEWNzZt6puyMWX2J2d) | 5:19 |
 | 60 | [Konjo Bager](https://open.spotify.com/track/0YMIDzzUtGmPVGMhBXDkzB) | [Dawit Mellesse](https://open.spotify.com/artist/6iGBGaxHab6voJ9yrhPR0V) | [Andiken](https://open.spotify.com/album/4uj9CkcVsJMJYLTVWGKeAf) | 6:13 |
 
-Snapshot ID: `MCwyMzhlOTRjNGRiMzU1ZGRkMjY3NzRhY2FhNDFiNmNiNWQyMDc1NzUy`
+Snapshot ID: `MCxhYThjM2JhN2NlOGFkMGFmNzFhNmM5OTA4OGM5ODRkODRmOWI4ZTFj`

@@ -1703,6 +1703,24 @@
     },
     {
       "album": {
+        "name": "Across The Pond",
+        "url": "https://open.spotify.com/album/6EdjNwaGHT3ofgwahD8WlH"
+      },
+      "artists": [
+        {
+          "name": "Olma",
+          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136187,
+      "name": "Polmont",
+      "url": "https://open.spotify.com/track/28IOe7yxQZDSHJAnGjM8kO"
+    },
+    {
+      "album": {
         "name": "Polmont",
         "url": "https://open.spotify.com/album/6UrVGtXMRuwNHZwn3TDDoy"
       },
@@ -1714,7 +1732,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 136187,
       "name": "Polmont",
       "url": "https://open.spotify.com/track/3kPK9PpKFX9L49vnWJZC6f"

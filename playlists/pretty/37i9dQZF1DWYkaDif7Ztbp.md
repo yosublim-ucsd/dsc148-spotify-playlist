@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon?si=1H1TvnLXRuq2KmOx9hT7GA"> Kamo Mphela </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,474,176 likes - 49 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,474,972 likes - 49 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 48 | [Sgudi Snyc](https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Sgudi Snyc](https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe) | 5:31 |
 | 49 | [Dollar For Love \(Baby\)](https://open.spotify.com/track/46906mYFRf4gRPqvdrhWhX) | [Thuto The Human](https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj) | [Dollar For Love \(Baby\)](https://open.spotify.com/album/4IABFEmSzX66zvR16cPt1H) | 6:53 |
 
-Snapshot ID: `MCw5MDk2OGYxYzdmYzViNmIzODU0ZjdmZjE0ODc5ODI5ZTVkNTA5ZTZk`
+Snapshot ID: `MCwzMDhlYWMyZTJhMjkyMDVlNzY2OTk5ZjJlZWZlMjMzMGY5Y2RlYmVh`

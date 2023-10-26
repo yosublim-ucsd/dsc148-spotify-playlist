@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/22ykUNFfBrxQJcNBZyvXgh"
+      },
+      "artists": [
+        {
+          "name": "brayll",
+          "url": "https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150583,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/03X0BZPwMFxLNg9O2yMtza"
+    },
+    {
+      "album": {
         "name": "Aminin",
         "url": "https://open.spotify.com/album/1nxQSlG58nXJJextcAoTzy"
       },
@@ -844,7 +862,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 236444,
       "name": "Gunita",
       "url": "https://open.spotify.com/track/6BgwDTBvewo3waE0LhfSUT"

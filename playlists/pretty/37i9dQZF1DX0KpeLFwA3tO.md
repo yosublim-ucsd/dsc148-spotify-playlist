@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,088 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,164 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [I Don’t Hate You](https://open.spotify.com/track/07EUiDdpkB8Zo5AZLzYDxU) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [I Don’t Hate You](https://open.spotify.com/album/3tWcMdxF1NBUvLplGZtnFV) | 3:04 |
 | 100 | [Stockholm Syndrome](https://open.spotify.com/track/6v05B04FBFqXPpYYP9oedP) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Stockholm Syndrome](https://open.spotify.com/album/3qEjfWQeyI7KED7GXGDujw) | 2:41 |
 
-Snapshot ID: `MCxkOGNlM2FjNDA5ZTJhMmQ3NGRiY2Q3MzZiMzg4NGY3MTM5OTA2MjAw`
+Snapshot ID: `MCxmMTIxNjVkMWE4Y2UzNjlmMzMwYTg5MzM2N2IwNzE2NmU2NzA4ZDMy`

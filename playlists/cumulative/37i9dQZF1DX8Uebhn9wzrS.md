@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,638 songs - 2 day 14 hr 12 min
+1,639 songs - 2 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Aquarius](https://open.spotify.com/track/4AXG2evgy3smvD6OymqYys) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA) | [Aquarius](https://open.spotify.com/album/6V8QJQBvmgJRi8D5IpC3QZ) | 2:48 | 2022-11-11 | 2023-02-07 |
 | [Aquatic Crystals](https://open.spotify.com/track/4pUOWikHwi87jPXYtwwb3v) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [Aquatic Crystals](https://open.spotify.com/album/2cUBsQeqRMJ3NqNVJsRW3U) | 2:05 | 2022-04-15 | 2023-02-14 |
 | [are you still awake?](https://open.spotify.com/track/0yhPGQumNYiw9VI2MRzrxK) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [are you still awake?](https://open.spotify.com/album/3zM77eNvVTifUQdcsxf6Bc) | 2:01 | 2023-02-13 |  |
-| [arrival](https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF) | [foursite](https://open.spotify.com/artist/52zHyZn0uVtMXDhJXVIRma) | [arrival](https://open.spotify.com/album/4StEvC14w9UGdxD5SJqrhQ) | 2:49 | 2023-07-13 |  |
+| [arrival](https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF) | [foursite](https://open.spotify.com/artist/52zHyZn0uVtMXDhJXVIRma) | [arrival](https://open.spotify.com/album/4StEvC14w9UGdxD5SJqrhQ) | 2:49 | 2023-07-13 | 2023-10-26 |
 | [Artful Haze](https://open.spotify.com/track/0Xlthct8SOi0gAdnn2GbRT) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Artful Haze](https://open.spotify.com/album/7etSid2yKrfknqNM8Tqs0Q) | 2:40 | 2022-04-15 | 2022-08-12 |
 | [Artifacts](https://open.spotify.com/track/0X3tR78eWkLh5yBDBXb1tF) | [Hi Hotel](https://open.spotify.com/artist/5XpDsM9N17TONXweroKN59) | [Cassette](https://open.spotify.com/album/2Q6LqD1dFcW7IuekRJ9C01) | 3:42 | 2022-04-15 | 2022-10-14 |
 | [Artificial](https://open.spotify.com/track/5a5TO5nHnrrCRtEGNpO8jV) | [beauBAE](https://open.spotify.com/artist/5f2AVkePCObkkyEwAx4jef) | [Artificial](https://open.spotify.com/album/3v5ThC3GpRXSwxqjeBHlrQ) | 2:07 | 2023-03-08 |  |
@@ -1259,6 +1259,7 @@
 | [She Said](https://open.spotify.com/track/5BtBdCsbhh5QxIbhjNmNnx) | [Elven Chlls](https://open.spotify.com/artist/2KleiaytQePm3q471pOHdJ) | [Bumps!](https://open.spotify.com/album/2rk2IGhAithv0Sjxj9d1a6) | 1:24 | 2022-04-15 | 2022-07-01 |
 | [She Ski Lifts My Spirits](https://open.spotify.com/track/329HZF8ohmz9GYbFchV8wa) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [She Ski Lifts My Spirits](https://open.spotify.com/album/7gdWhNl9Nm20pp8QGaZTcz) | 3:15 | 2023-02-06 |  |
 | [She Won’t Say](https://open.spotify.com/track/65Y6wPTP8UkhnX3Bqf5bd1) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [We Must Believe in Spring](https://open.spotify.com/album/34Mc3rhKGN4b8YUZQX8LvE) | 2:24 | 2022-04-15 | 2022-05-27 |
+| [Shelter from the Rain](https://open.spotify.com/track/5mVcNIcuA4AaLSe8ktZadf) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Shelter from the Rain](https://open.spotify.com/album/1Ud55m8IUWsnJ3fDXcNm5f) | 2:15 | 2023-10-20 |  |
 | [Shifting Sands](https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Shifting Sands](https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2) | 2:27 | 2023-10-06 |  |
 | [Shine](https://open.spotify.com/track/2iy5zw1TcG78KODuv9hG1P) | [Ah\. BLOOM](https://open.spotify.com/artist/1WCbF1wd3vJOgwlBy4csXn), [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Shine](https://open.spotify.com/album/3TE8nSmg9B4WkCbkJXhHRW) | 3:53 | 2022-12-16 | 2023-09-16 |
 | [Shiny Cement \- Garden](https://open.spotify.com/track/4Z5iuqme7UL1ihly12mbZr) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Shiny Cement](https://open.spotify.com/album/5BQNNaVQL1pKqyBZtOFj4E) | 2:20 | 2022-06-17 | 2023-09-29 |
@@ -1601,7 +1602,7 @@
 | [When Our Eyes Meet](https://open.spotify.com/track/4A416X9ErbzPCkyuHl8lVZ) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [When Our Eyes Meet](https://open.spotify.com/album/7l7LGXNNY3M65UX5SgS9PV) | 1:27 | 2023-06-06 | 2023-10-06 |
 | [When We Last Spoke](https://open.spotify.com/track/5wAD3nLgZYfx9rq2nwj7ij) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [When We Last Spoke](https://open.spotify.com/album/729l7CLfvcWNkVX1Cm0ZyK) | 1:51 | 2022-04-22 | 2022-11-12 |
 | [Where Is My Coffee](https://open.spotify.com/track/4rXf8PFJS58qtHpqo3BMZD) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK), [Sven Lindvall](https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx) | [Where Is My Coffee](https://open.spotify.com/album/0sNbkS3kL6ustJVGnEs8ss) | 3:10 | 2023-01-06 | 2023-04-04 |
-| [Where Were You](https://open.spotify.com/track/1vGQOxqFAlGJdyGRhcN8y9) | [Jonny Where How](https://open.spotify.com/artist/1ZpSXCUCMP3E5GPFmI1VMc) | [Where Were You](https://open.spotify.com/album/2DcEZpW2pWgy2T5EaHMIg4) | 2:37 | 2022-10-28 |  |
+| [Where Were You](https://open.spotify.com/track/1vGQOxqFAlGJdyGRhcN8y9) | [Jonny Where How](https://open.spotify.com/artist/1ZpSXCUCMP3E5GPFmI1VMc) | [Where Were You](https://open.spotify.com/album/2DcEZpW2pWgy2T5EaHMIg4) | 2:37 | 2022-10-28 | 2023-10-26 |
 | [Whiskey Ginger](https://open.spotify.com/track/01odH3pfNq6NeksGK1iwbi) | [Tedette](https://open.spotify.com/artist/789CEG7mUkpeQyWvzq8dX8) | [Taz](https://open.spotify.com/album/4I5oLwvVJ8PZMULjDkLvGZ) | 3:51 | 2022-04-15 | 2022-07-22 |
 | [Whistling Vibe](https://open.spotify.com/track/7cyFTgbWmruA5q4Rd2zjQ6) | [L O F I L U V](https://open.spotify.com/artist/4yhcsS8fEAHnMszuWUU37O), [Distant.face](https://open.spotify.com/artist/0VhJq7JgGP0BkswNCZqZHB) | [Whistling Vibe](https://open.spotify.com/album/11JEEFFJwrA2nwYb1qKKHo) | 2:04 | 2022-10-01 | 2023-01-07 |
 | [Who Are We](https://open.spotify.com/track/20pxIVsAEvIxbKwh3rjIju) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Who Are We](https://open.spotify.com/album/0GsrMWjwpZOn14T7My0r0i) | 1:56 | 2023-03-08 | 2023-10-06 |
@@ -1630,7 +1631,7 @@
 | [Workit](https://open.spotify.com/track/7GmA2dTy4r4MPxenVVDzMy) | [Netta Inn](https://open.spotify.com/artist/7lF2gpQHWssOuxR1kipNsn) | [Workit](https://open.spotify.com/album/1WSr66Wahw1IvFjmystaxW) | 2:45 | 2022-04-15 | 2022-07-01 |
 | [World Is My Pillow](https://open.spotify.com/track/0V2A3Wj3b7wLbEf0kLZAhn) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [World Is My Pillow](https://open.spotify.com/album/4DtC7Dy60nNTJP6vOoCG5q) | 1:44 | 2022-04-15 | 2022-10-14 |
 | [World Wonders](https://open.spotify.com/track/7ECNeHwthaexm4DlKXoB6L) | [Anex Xi Ko](https://open.spotify.com/artist/49aViG8nPbDT9il51JrGD4) | [World Wonders](https://open.spotify.com/album/3WBitz6lZdhmXpW7Nu7FzO) | 1:58 | 2022-10-28 |  |
-| [wrapped arms](https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [wrapped arms](https://open.spotify.com/album/23SKlJ7adcyLeKDQcjrZ5E) | 1:57 | 2022-07-15 | 2023-10-24 |
+| [wrapped arms](https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [wrapped arms](https://open.spotify.com/album/23SKlJ7adcyLeKDQcjrZ5E) | 1:57 | 2022-07-15 |  |
 | [wwwonderful](https://open.spotify.com/track/75EDTSiCdoU7D1fudbsVRj) | [chilliament](https://open.spotify.com/artist/6XpSrMMpim7PcR2s9dMnu7) | [llofi](https://open.spotify.com/album/1jPxjaOPiE04TzQbJiU1ow) | 2:18 | 2022-04-15 | 2023-02-14 |
 | [XOXO](https://open.spotify.com/track/6Bc5p9BJM9YPS9sZNaBp9V) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Night Life](https://open.spotify.com/album/5cNuT4skHDNiMmiwehhknD) | 1:31 | 2022-04-15 | 2022-07-15 |
 | [yellow](https://open.spotify.com/track/0lVHOXO4RZVfAog2QnCQ3T) | [ThinkChill](https://open.spotify.com/artist/0UFcspQ3mJJHtvaU43z460), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [yellow](https://open.spotify.com/album/7DVT4nL7IW52rubRdiEfut) | 2:06 | 2022-08-05 | 2022-12-03 |

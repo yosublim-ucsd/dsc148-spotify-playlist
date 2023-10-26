@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: AR Paisley, Chani Nattan, Inderpal Moga
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,533 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,575 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Thinking About Drilling](https://open.spotify.com/track/1QLgRHLG9sQXq4Plb600kj) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Thinking About Drilling](https://open.spotify.com/album/5ZgqagL5UMDxxvEECOLeKC) | 1:59 |
 | 100 | [Ms\. Do You Wrong](https://open.spotify.com/track/3kuby3Wz1hjeSgCFVB4Xn1) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Ms\. Do You Wrong](https://open.spotify.com/album/3dheKefbYeaYT97B6bxEzW) | 1:53 |
 
-Snapshot ID: `MCxlY2YwNjdkYTgwOGI3MmQzZjFhZTkzY2U0ZGFlOWYxNWQxYTdmZjBk`
+Snapshot ID: `MCw1ZjFhNjhjMGU2M2FhNmVhYjc5N2QzMjdjOWE2MWMyYmM4ZDYyZDVj`

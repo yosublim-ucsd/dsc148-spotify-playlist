@@ -1,12 +1,12 @@
 {
   "description": "This week's top new releases. Cover: Grand Corps Malade",
-  "num_followers": 38294,
+  "num_followers": 38293,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzViODNjNmRhZmE5MWEzZDcyNTkzYTc1ZmI2MWY1ODY2Y2JkZjZk",
+  "snapshot_id": "MCw0MzU2ZGExNGUzNWU2ODNjZDI4N2E0M2MzYTcxODgzYzhjOTkyMTdh",
   "tracks": [
     {
       "added_at": "2023-10-20 06:20:37",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-10-20 06:20:37",
       "album": {
+        "name": "Lethal Woman",
+        "url": "https://open.spotify.com/album/25JZaVPcasGATDbLqizABZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 126264,
+      "name": "Lethal Woman",
+      "url": "https://open.spotify.com/track/4GnjXzJfmPcVEt0S7zIS9L"
+    },
+    {
+      "added_at": "2023-10-20 06:20:37",
+      "album": {
         "name": "Breath of Fresh Air",
         "url": "https://open.spotify.com/album/7yaZiqWLiUdPXwl2m9EnGR"
       },
@@ -1959,6 +1975,26 @@
       "duration_ms": 141538,
       "name": "AGGRESSION",
       "url": "https://open.spotify.com/track/6TducOLRoHNoWRWelWuoHG"
+    },
+    {
+      "added_at": "2023-10-20 06:20:37",
+      "album": {
+        "name": "Call Me Revenge (Call of Duty: Modern Warfare 3)",
+        "url": "https://open.spotify.com/album/7ISArb5GeVeJ6O65wUyIux"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 166464,
+      "name": "Call Me Revenge - Call of Duty: Modern Warfare 3",
+      "url": "https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI"
     },
     {
       "added_at": "2023-10-20 06:20:37",

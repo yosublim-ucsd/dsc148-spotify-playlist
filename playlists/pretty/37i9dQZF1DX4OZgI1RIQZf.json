@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 69944,
+  "num_followers": 70883,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDQ5OTA1NGRkYmM3MjljNGYyZTZlMmU3NTQ3YmEwYjgyMjliNGUw",
+  "snapshot_id": "MCwyNjY0ZTE5MGE2NDhkN2EyMjA2ZWVhYmY4YjdlYzM5Y2E3OWZkYmMx",
   "tracks": [
     {
       "added_at": "2023-10-17 16:38:23",
@@ -103,6 +103,22 @@
       "duration_ms": 247147,
       "name": "Season Of The Witch",
       "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
+    },
+    {
+      "added_at": "2023-10-25 15:44:35",
+      "album": {
+        "name": "Clean Sheets, Dirty Walls",
+        "url": "https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM"
+      },
+      "artists": [
+        {
+          "name": "Cleffy",
+          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "Meet you at the Graveyard",
+      "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -491,22 +507,6 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "brainrot",
-        "url": "https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj"
-      },
-      "artists": [
-        {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
-        }
-      ],
-      "duration_ms": 132111,
-      "name": "brainrot",
-      "url": "https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
         "name": "Get Behind Me Satan",
         "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 138893,
       "name": "Little Ghost",
       "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
+        "name": "brainrot",
+        "url": "https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "duration_ms": 132111,
+      "name": "brainrot",
+      "url": "https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -539,22 +555,6 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "Dead Man's Bones",
-        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
-      },
-      "artists": [
-        {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Dead Man's Bones",
-      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
         "name": "Illinois",
         "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 309786,
       "name": "They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!",
       "url": "https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Dead Man's Bones",
+      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -619,22 +635,6 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "Noise Floor (Rarities: 1998-2005)",
-        "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 183240,
-      "name": "Devil Town",
-      "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
         "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
         "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 215179,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
+        "name": "Noise Floor (Rarities: 1998-2005)",
+        "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 183240,
+      "name": "Devil Town",
+      "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -811,18 +827,18 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "GHOSTS ON TAPE",
-        "url": "https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08"
+        "name": "God Is Dead",
+        "url": "https://open.spotify.com/album/5BLV32zI1HWGP6DLkXMRKZ"
       },
       "artists": [
         {
-          "name": "Blood Red Shoes",
-          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
+          "name": "Twin Temple",
+          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
         }
       ],
-      "duration_ms": 226622,
-      "name": "MORBID FASCINATION",
-      "url": "https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M"
+      "duration_ms": 241614,
+      "name": "Let's Have A Satanic Orgy",
+      "url": "https://open.spotify.com/track/1TytKeDnrjx0t29DYclf3W"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -843,18 +859,18 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "God Is Dead",
-        "url": "https://open.spotify.com/album/5BLV32zI1HWGP6DLkXMRKZ"
+        "name": "GHOSTS ON TAPE",
+        "url": "https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08"
       },
       "artists": [
         {
-          "name": "Twin Temple",
-          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
+          "name": "Blood Red Shoes",
+          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
         }
       ],
-      "duration_ms": 241614,
-      "name": "Let's Have A Satanic Orgy",
-      "url": "https://open.spotify.com/track/1TytKeDnrjx0t29DYclf3W"
+      "duration_ms": 226622,
+      "name": "MORBID FASCINATION",
+      "url": "https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -1003,6 +1019,30 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
+        "name": "Boogieman",
+        "url": "https://open.spotify.com/album/3ngRFbcy8cThWOZ7FFqS1K"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        },
+        {
+          "name": "Elliot Lee",
+          "url": "https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5"
+        },
+        {
+          "name": "Lucky Dog",
+          "url": "https://open.spotify.com/artist/2EzEehpkduwnWPYQdHaJfi"
+        }
+      ],
+      "duration_ms": 182007,
+      "name": "Boogieman",
+      "url": "https://open.spotify.com/track/2nMog3num0pGta2SsWEuRG"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
         "name": "Frankenstein",
         "url": "https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB"
       },
@@ -1047,30 +1087,6 @@
       "duration_ms": 281066,
       "name": "Trick or Treatz",
       "url": "https://open.spotify.com/track/3JjiOYtQlAl7AHh2sXBgC6"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
-        "name": "Boogieman",
-        "url": "https://open.spotify.com/album/3ngRFbcy8cThWOZ7FFqS1K"
-      },
-      "artists": [
-        {
-          "name": "Baby Bugs",
-          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
-        },
-        {
-          "name": "Elliot Lee",
-          "url": "https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5"
-        },
-        {
-          "name": "Lucky Dog",
-          "url": "https://open.spotify.com/artist/2EzEehpkduwnWPYQdHaJfi"
-        }
-      ],
-      "duration_ms": 182007,
-      "name": "Boogieman",
-      "url": "https://open.spotify.com/track/2nMog3num0pGta2SsWEuRG"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -1219,6 +1235,22 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
+        "name": "Hit to Death in the Future Head",
+        "url": "https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 342693,
+      "name": "Halloween on the Barbary Coast",
+      "url": "https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
         "name": "No Regerts",
         "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
       },
@@ -1251,22 +1283,6 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "Hit to Death in the Future Head",
-        "url": "https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 342693,
-      "name": "Halloween on the Barbary Coast",
-      "url": "https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
         "name": "Breakfast",
         "url": "https://open.spotify.com/album/3w4m4CcL9u1R5THKkVFDdl"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 217880,
       "name": "Skeleton Dance",
       "url": "https://open.spotify.com/track/1w4Nno8lOz0xv8KxvIqghO"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
-        "name": "Drowaton",
-        "url": "https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw"
-      },
-      "artists": [
-        {
-          "name": "Starlight Mints",
-          "url": "https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE"
-        }
-      ],
-      "duration_ms": 162320,
-      "name": "Pumpkin",
-      "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
     }
   ],
   "unique_name": "Indie Halloween",

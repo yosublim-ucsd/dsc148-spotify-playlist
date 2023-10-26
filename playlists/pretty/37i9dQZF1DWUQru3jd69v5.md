@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Il Ghost, Darden
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,120 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,162 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Tutta Tatuata](https://open.spotify.com/track/45g7ALZKKjiaUvH5o6ovxC) | [Manu Skar](https://open.spotify.com/artist/592TSNOHonUcOHcEorAGgV) | [Tutta Tatuata](https://open.spotify.com/album/7lrATruRoCmymNm6JXtUml) | 2:04 |
 | 50 | [DON'T TRUST HOES](https://open.spotify.com/track/6c8ttfvaawdm8iKhSvgWzc) | [MISSVIVS](https://open.spotify.com/artist/4M8Y3T3ocS8wJNw9hAWkY1) | [DON'T TRUST HOES](https://open.spotify.com/album/0qnzven1Tz6v5C8qPpXjzR) | 2:43 |
 
-Snapshot ID: `MCxiM2FkNzE1MWU1OTU2ZGYxMjkzNzRmYjhjMTIyN2YzOTc4YTA5MDI5`
+Snapshot ID: `MCwzMTI4M2I0MDkyNWM3YzI5M2JkZGYyMTU5YzQyMzJkZGIxMzgzOGNi`

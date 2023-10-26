@@ -2,7 +2,7 @@
 
 ### [Hot Hits Pakistan](https://open.spotify.com/playlist/37i9dQZF1DX8BmpQ9HroVZ)
 
-> The hottest local and global tracks in Pakistan\. Cover \- Adnan Dhool
+> The hottest local and global tracks in Pakistan\. Cover \- AUR
 
 235 songs - 13 hr 53 min
 

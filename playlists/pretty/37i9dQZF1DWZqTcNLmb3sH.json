@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Ghost",
-  "num_followers": 55000,
+  "num_followers": 55028,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGFlMzY5MzEwMGU2NDA1MmU5NTMwMjBhYTQ4NWU0NTExNjE4NmMy",
+  "snapshot_id": "MCxkNDVmY2FhM2Y2MTQxOTBhZWM4N2Y3Yjg3YTVlNGJhYzUwMjA5NmEw",
   "tracks": [
     {
       "added_at": "2023-10-18 05:00:00",
@@ -71,6 +71,70 @@
       "duration_ms": 233413,
       "name": "Jaggade Kuggade (From \"Ronnie - The Hunter\")",
       "url": "https://open.spotify.com/track/3JPqLECC7amVkYrxUsMDpK"
+    },
+    {
+      "added_at": "2023-10-25 08:04:34",
+      "album": {
+        "name": "Ordinary Person (From \"Leo\")",
+        "url": "https://open.spotify.com/album/0qOjC3f9sN8JWr1SOz7m9Z"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Ordinary Person (From \"Leo\")",
+      "url": "https://open.spotify.com/track/6FahmzZYKH0zb2f9hrVsvw"
+    },
+    {
+      "added_at": "2023-10-25 08:07:08",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/3cfav1aUanUUahgpyaxnWu"
+      },
+      "artists": [
+        {
+          "name": "Miniway Bantai",
+          "url": "https://open.spotify.com/artist/2FYltZ4LXQINVNzsfBc5nC"
+        },
+        {
+          "name": "Yo Zaid",
+          "url": "https://open.spotify.com/artist/4AtQNDnP8ILaZvWYS6e24D"
+        }
+      ],
+      "duration_ms": 265605,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/0byPWBiH5ihtBylD7mUEFR"
+    },
+    {
+      "added_at": "2023-10-25 08:04:20",
+      "album": {
+        "name": "Pretha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4yZbZUxvUrbO52YEuR94pJ"
+      },
+      "artists": [
+        {
+          "name": "Praveen Srinivasmurthy",
+          "url": "https://open.spotify.com/artist/0j797yShflaeSHwSXgvudO"
+        },
+        {
+          "name": "Pramod Maravante",
+          "url": "https://open.spotify.com/artist/072hm2tGA2geeswvhueVQe"
+        },
+        {
+          "name": "Naveen Sajju",
+          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
+        }
+      ],
+      "duration_ms": 186260,
+      "name": "Doorada Oorige",
+      "url": "https://open.spotify.com/track/2Zs8K5ZXwNf4tYWe77FAqF"
     },
     {
       "added_at": "2023-10-20 10:51:18",
@@ -1053,26 +1117,6 @@
       "url": "https://open.spotify.com/track/5cFEvdj5DlKm9EcebYi8SX"
     },
     {
-      "added_at": "2023-09-20 12:59:03",
-      "album": {
-        "name": "Manasaige Hidisidanu Ivanu (from \"Karnatakada Aliya\")",
-        "url": "https://open.spotify.com/album/6LJkgrRzFphsI4sghWzKi0"
-      },
-      "artists": [
-        {
-          "name": "Aditi Sagar",
-          "url": "https://open.spotify.com/artist/79yEkymoTkieurpetMpr9G"
-        },
-        {
-          "name": "Praddyottan",
-          "url": "https://open.spotify.com/artist/2cM8BF1ngqyE703rsaRbaw"
-        }
-      ],
-      "duration_ms": 258282,
-      "name": "Manasaige Hidisidanu Ivanu (from \"Karnatakada Aliya\")",
-      "url": "https://open.spotify.com/track/1mCVUoOyPf4x0jicvZJMfT"
-    },
-    {
       "added_at": "2023-09-21 13:49:00",
       "album": {
         "name": "Jeeva (from\"Bad Manners\")",
@@ -1143,34 +1187,6 @@
       "duration_ms": 255643,
       "name": "Sapta Sagaradaache Ello - Side A Title Track (From \"Sapta Sagaradaache Ello - Side A\")",
       "url": "https://open.spotify.com/track/4mfrhh7oSf1NAfLHUvQaMU"
-    },
-    {
-      "added_at": "2023-09-20 12:59:03",
-      "album": {
-        "name": "Ayyayyo Rama (From \"Arasayyana Prema Prasanga\")",
-        "url": "https://open.spotify.com/album/380UFPG5dEMLD4gZGja3AE"
-      },
-      "artists": [
-        {
-          "name": "Shankar Bharathipura",
-          "url": "https://open.spotify.com/artist/0v118xP5XtXDflf0Xd44TU"
-        },
-        {
-          "name": "Pradeep. B.V",
-          "url": "https://open.spotify.com/artist/2HGxLlttgPl435abk4RjUu"
-        },
-        {
-          "name": "Praveen. B. V",
-          "url": "https://open.spotify.com/artist/1zfSay84T9Fx7e0pHQJmnq"
-        },
-        {
-          "name": "Krishna Ritti",
-          "url": "https://open.spotify.com/artist/23WPCtDqpn1er9kzQZIY4O"
-        }
-      ],
-      "duration_ms": 191111,
-      "name": "Ayyayyo Rama - From \"Arasayyana Prema Prasanga\"",
-      "url": "https://open.spotify.com/track/6UDBorxo21i6mrRL4YSWpG"
     },
     {
       "added_at": "2023-09-14 12:04:33",
@@ -1251,22 +1267,6 @@
       "duration_ms": 264807,
       "name": "Maathella Haage Ide",
       "url": "https://open.spotify.com/track/25eMW2PZwdlOeBZE2TdOQc"
-    },
-    {
-      "added_at": "2023-09-12 10:06:17",
-      "album": {
-        "name": "Chaser (From \"Chaser\")",
-        "url": "https://open.spotify.com/album/041OeTRRaNikQpCwgRMryy"
-      },
-      "artists": [
-        {
-          "name": "Harsha Vardhan Raaj",
-          "url": "https://open.spotify.com/artist/2ptITI8e8lLC2XCRV4BVzc"
-        }
-      ],
-      "duration_ms": 61866,
-      "name": "Chaser - From \"Chaser\"",
-      "url": "https://open.spotify.com/track/6d2sQoVR7WUFiIQtBNjzLa"
     },
     {
       "added_at": "2023-08-04 09:58:42",
@@ -1379,30 +1379,6 @@
       "duration_ms": 210500,
       "name": "Kanna Muchchikonde - From \"Aaraariraaro\"",
       "url": "https://open.spotify.com/track/0gaWdy5tDuo1JywUDeOiDy"
-    },
-    {
-      "added_at": "2023-09-12 10:06:17",
-      "album": {
-        "name": "Dance Baby (From\" Taekwondo Girl\")",
-        "url": "https://open.spotify.com/album/49V5OIA6zTmr7r1Sj4eP2e"
-      },
-      "artists": [
-        {
-          "name": "Arpita Venu",
-          "url": "https://open.spotify.com/artist/09K8iPaQYpFfMLdwbAtOQ9"
-        },
-        {
-          "name": "M.S.Thyagaraja",
-          "url": "https://open.spotify.com/artist/5rCZqUof0PAWaGGwFIoZY4"
-        },
-        {
-          "name": "C.Manoj Kumar",
-          "url": "https://open.spotify.com/artist/3r8UHWlHPkRFkq7n6FuLMx"
-        }
-      ],
-      "duration_ms": 260868,
-      "name": "Dance Baby - From\" Taekwondo Girl\"",
-      "url": "https://open.spotify.com/track/5v79TXaS0ErvNCJ03Yi4mI"
     },
     {
       "added_at": "2023-09-11 10:21:15",

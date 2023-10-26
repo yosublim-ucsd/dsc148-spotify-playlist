@@ -2,7 +2,7 @@
 
 ### [Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> Discover something new from local independent artists on the rise\. Cover: Sahara Beck\. Artwork: Isu Kim
+> Discover something new from local independent artists on the rise\. Cover: Miss Kaninna\. Artwork: Isu Kim
 
 2,837 songs - 6 day 11 hr 31 min
 
@@ -1675,7 +1675,7 @@
 | [Need You Wet](https://open.spotify.com/track/3tEsaocNfPST27BvetRUUN) | [Tobi Tunis](https://open.spotify.com/artist/3iLIsbJ8srNU4lyNmkOHur), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Need You Wet](https://open.spotify.com/album/0kc114AT5sPUWHt73euZ2y) | 3:22 | 2023-09-06 | 2023-09-21 |
 | [Needs](https://open.spotify.com/track/6T9GtW3xij5pXlssM0nCp3) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Needs](https://open.spotify.com/album/3woKr2kmNLAvEdsRZmwq4r) | 3:21 | 2021-12-28 | 2022-01-13 |
 | [Negative Image](https://open.spotify.com/track/5VORKf3nUmxw84T5iyZJAy) | [Sweetie](https://open.spotify.com/artist/2oE9iKDAQnylK5wWR5Ldcs) | [Negative Image](https://open.spotify.com/album/4uC7FTaGzEZ1oeg0xMH65s) | 4:07 | 2022-03-23 | 2022-04-07 |
-| [Neighbours Never Wave](https://open.spotify.com/track/19i30clFcw3oyljs0WSUhz) | [Sid's Balcony](https://open.spotify.com/artist/3xaYtryvMV4jdpx3h4Ydaq) | [Neighbours Never Wave](https://open.spotify.com/album/7wz51Itl7KzEu8M1brdNi4) | 3:26 | 2023-09-27 |  |
+| [Neighbours Never Wave](https://open.spotify.com/track/19i30clFcw3oyljs0WSUhz) | [Sid's Balcony](https://open.spotify.com/artist/3xaYtryvMV4jdpx3h4Ydaq) | [Neighbours Never Wave](https://open.spotify.com/album/7wz51Itl7KzEu8M1brdNi4) | 3:26 | 2023-09-27 | 2023-10-26 |
 | [Neon](https://open.spotify.com/track/6wWWx9C26Il3MU4KElGWAZ) | [Able Joseph](https://open.spotify.com/artist/0djvjweduXm6AxFgwcznq8) | [Able Joseph](https://open.spotify.com/album/5xeXWC9VZxU549R9QkaDGg) | 4:15 | 2023-05-30 | 2023-06-23 |
 | [Nerves](https://open.spotify.com/track/6bQOIRbrc5IIirf3FroS1B) | [Freeds](https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi) | [Nerves](https://open.spotify.com/album/1ati5a1tJP4KtGq41tODCN) | 3:02 | 2022-11-23 | 2022-12-01 |
 | [nervous](https://open.spotify.com/track/2nlmU7cDHIA0ylralWgWiV) | [jnr.](https://open.spotify.com/artist/5qXDmi36IOhCnPLnoXRLrj) | [nervous](https://open.spotify.com/album/3GpGR1FtFib50SrioPt5ZQ) | 3:02 | 2023-08-23 | 2023-09-07 |
@@ -2262,7 +2262,7 @@
 | [Something](https://open.spotify.com/track/6HnpBnwaBOiEIag6DbUwpp) | [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U), [GrimesAI](https://open.spotify.com/artist/7qiNgbnabvfRbA9lomTgEk) | [Something](https://open.spotify.com/album/5JPxSvSbIa6QkGvpEee3my) | 2:20 | 2023-06-22 | 2023-07-20 |
 | [Something](https://open.spotify.com/track/3vUbxvyfXOeqY0JfEhAy3f) | [Soaked Oats](https://open.spotify.com/artist/6J6UC5lC7h9fEJPCR7UM4m) | [Something](https://open.spotify.com/album/43a47O5shfjpEDhwQkZCBR) | 4:06 | 2022-10-04 | 2022-11-17 |
 | [Something About Your Love](https://open.spotify.com/track/5N8VCCvFSVZ8edUG0nYv4z) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Something About Your Love](https://open.spotify.com/album/1836M35PklZc1u3kE0CQWK) | 2:47 | 2023-06-22 | 2023-07-20 |
-| [Something I Said](https://open.spotify.com/track/1IxMV1vgW5jEMzAKBG5SPV) | [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [Body Beat](https://open.spotify.com/album/394IurmiaXgpfHcO7J8drZ) | 5:22 | 2023-10-04 |  |
+| [Something I Said](https://open.spotify.com/track/1IxMV1vgW5jEMzAKBG5SPV) | [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [Body Beat EP](https://open.spotify.com/album/394IurmiaXgpfHcO7J8drZ) | 5:22 | 2023-10-04 |  |
 | [Something More](https://open.spotify.com/track/6IyKV2L3YsvltndZECLtTo) | [Sputnik Sweetheart](https://open.spotify.com/artist/2qCCY6f039kyoPA4AhLUuL) | [Something More](https://open.spotify.com/album/3Qr57hPO99r3bbXUwub1Oo) | 4:22 | 2023-05-30 | 2023-06-15 |
 | [Something New](https://open.spotify.com/track/3m3x5QjoeEsJJ9v8GFGFwd) | [Aidan Fine](https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V) | [Something New](https://open.spotify.com/album/6udL3BxhltD8yGyFi2AAE6) | 3:57 | 2022-05-25 | 2022-06-09 |
 | [Something New](https://open.spotify.com/track/1TWBsQA0pQqV5dPEu83yv9) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [Something New](https://open.spotify.com/album/1F3OffAbOInLUHAmFYBCNY) | 2:46 | 2023-01-25 | 2023-03-08 |
@@ -2338,7 +2338,7 @@
 | [Struck](https://open.spotify.com/track/1QlwgL89GH4WNF6JOjwB9j) | [Porpoise Spit](https://open.spotify.com/artist/6WGOUJ693ivV5Dfkb9Ld4c) | [Struck](https://open.spotify.com/album/5GCcUnXwzkjbNfDU6swf59) | 4:39 | 2023-09-27 | 2023-10-20 |
 | [Stuck](https://open.spotify.com/track/5TQ90ca8kkuVYYS46duSSu) | [i.amsolo](https://open.spotify.com/artist/6IHDG6UjGgC9axdBbIDv2b) | [Stuck](https://open.spotify.com/album/3b5rq61h3ESbSiu6fkANdA) | 2:56 | 2022-04-13 | 2022-05-26 |
 | [Stuck On Repeat](https://open.spotify.com/track/4GlJK7ctXyGRODcIteM3WO) | [Interphase](https://open.spotify.com/artist/3kr6LLriNxuGjc87icJOzL) | [Stuck On Repeat](https://open.spotify.com/album/2zFqiQySlNdVBnYlkhRCGj) | 3:36 | 2022-04-06 | 2022-05-05 |
-| [Style so Sick \- Edit](https://open.spotify.com/track/3qRYLqnnW2IsmKoG9B6rBP) | [Mincy](https://open.spotify.com/artist/5KNUX2wDVlp2W9sukkgm2x), [Killjoy](https://open.spotify.com/artist/53zP3OFS7Ucgw1bcjoi9pH), [Radar Stanna](https://open.spotify.com/artist/1uJbbJSWMvTJqL9Q2l7O6a) | [Alien Cuts, Vol\. 2](https://open.spotify.com/album/2kVieMTyA7BmmlvJHVzmTY) | 3:35 | 2023-09-27 |  |
+| [Style so Sick \- Edit](https://open.spotify.com/track/3qRYLqnnW2IsmKoG9B6rBP) | [Mincy](https://open.spotify.com/artist/5KNUX2wDVlp2W9sukkgm2x), [Killjoy](https://open.spotify.com/artist/53zP3OFS7Ucgw1bcjoi9pH), [Radar Stanna](https://open.spotify.com/artist/1uJbbJSWMvTJqL9Q2l7O6a) | [Alien Cuts, Vol\. 2](https://open.spotify.com/album/2kVieMTyA7BmmlvJHVzmTY) | 3:35 | 2023-09-27 | 2023-10-26 |
 | [Stylin'](https://open.spotify.com/track/2o04z6k2tjf2eaFVNQ44dj) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Stylin'](https://open.spotify.com/album/6bR92xsO1lHNfywSLS50ol) | 3:44 | 2023-09-21 | 2023-10-12 |
 | [SUBUTEX](https://open.spotify.com/track/4NBjcKubM6KkVaKEh1YWP4) | [Yargii](https://open.spotify.com/artist/3NMfQeCdkC9pmBi3AGeNA8), [GLEEM](https://open.spotify.com/artist/2BciQdUKtKQOkUMqWTyQb4) | [SUBUTEX](https://open.spotify.com/album/00QHuwCv0Zk0njdbknlI97) | 2:46 | 2023-03-29 | 2023-04-27 |
 | [Suffer Suffer](https://open.spotify.com/track/1FEwkFQFOxdJLngkH7Jgao) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Suffer Suffer](https://open.spotify.com/album/3ZmxhUBvoUgzHbDh4xfmDq) | 2:50 | 2023-03-01 | 2023-03-16 |

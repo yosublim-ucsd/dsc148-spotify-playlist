@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kukon
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,984 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,150 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [nóż motylkowy](https://open.spotify.com/track/2xCSrx8a1gZllp0jSFzsP2) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [nóż motylkowy](https://open.spotify.com/album/2rAT9XqHZFhEWgLfQeN50j) | 2:54 |
 | 50 | [Grand Prix](https://open.spotify.com/track/3xnJpiD7nR1xonj3QxQvgE) | [Avi](https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [Grand Prix](https://open.spotify.com/album/35HvNMzdTNLKGDwUurvy3u) | 2:19 |
 
-Snapshot ID: `MCxlZjc1ZDBjYmE0ODExODMwNmEzNGNjZDExYjNmNjc5NjU0ZTY5MWU5`
+Snapshot ID: `MCwzYjk1NzBhZGQ3Y2MyNmVjZmUwYmYwNTE5ZjQ1YTNlZTNhM2NiMjRm`

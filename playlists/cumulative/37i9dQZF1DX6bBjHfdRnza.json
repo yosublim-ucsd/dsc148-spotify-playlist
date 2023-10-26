@@ -208,10 +208,28 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 332350,
       "name": "21",
       "url": "https://open.spotify.com/track/7jDUpWbyxCXUxH4mcIumh8"
+    },
+    {
+      "album": {
+        "name": "30th Street",
+        "url": "https://open.spotify.com/album/78aLK8BkDtY4ko5QtSTfiY"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215250,
+      "name": "30th Street",
+      "url": "https://open.spotify.com/track/3dhr44L6QDTLt021EMtp62"
     },
     {
       "album": {
@@ -490,7 +508,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 192000,
       "name": "@NIGHT",
       "url": "https://open.spotify.com/track/6FcULzid8kTdhrlgxrR64Z"
@@ -3058,7 +3076,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 195000,
       "name": "Better Left Unsaid",
       "url": "https://open.spotify.com/track/084Bexeea6EEoUVBWz9AGB"
@@ -4398,7 +4416,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 178208,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/6qbTffHCR9toPiMLgcftLH"
@@ -4644,6 +4662,24 @@
       "duration_ms": 225375,
       "name": "Can't Help U",
       "url": "https://open.spotify.com/track/3LvN1PIpS2BUEVSBvXxQHp"
+    },
+    {
+      "album": {
+        "name": "Can't Stop",
+        "url": "https://open.spotify.com/album/5ZiQILMXxesK53plE9ku4k"
+      },
+      "artists": [
+        {
+          "name": "Mezraa",
+          "url": "https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236769,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/5AzuYeylIVZ3B0V7eKXFqC"
     },
     {
       "album": {
@@ -5188,6 +5224,24 @@
       "duration_ms": 204680,
       "name": "Chemicals - Radio Edit",
       "url": "https://open.spotify.com/track/6UA0G9eUkhKWvhWure5Heh"
+    },
+    {
+      "album": {
+        "name": "Chian / Slowdive",
+        "url": "https://open.spotify.com/album/5a7QeE85zfHtOLM5YiXPbA"
+      },
+      "artists": [
+        {
+          "name": "La Fleur",
+          "url": "https://open.spotify.com/artist/5bt7DkWw4iHzjzRF2d9scU"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237794,
+      "name": "Chian",
+      "url": "https://open.spotify.com/track/48F8Cj8p6oltTcZ3edzAcE"
     },
     {
       "album": {
@@ -6248,7 +6302,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 219928,
       "name": "Crazy Legs",
       "url": "https://open.spotify.com/track/3xrzc1lpKQQMjpSMukVAAB"
@@ -9042,7 +9096,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 218350,
       "name": "El Fuego",
       "url": "https://open.spotify.com/track/3ZaVoj8BLT8ig7GLDFwr2A"
@@ -13016,6 +13070,28 @@
       "duration_ms": 183356,
       "name": "Hardcore",
       "url": "https://open.spotify.com/track/0GbfdrRADUjlKAEk3kYkJL"
+    },
+    {
+      "album": {
+        "name": "HARLEYS IN HAWAII [TECHNO]",
+        "url": "https://open.spotify.com/album/3WVdxEmbOxq5im8Fsy3Yny"
+      },
+      "artists": [
+        {
+          "name": "TEKNODYN",
+          "url": "https://open.spotify.com/artist/5dZnMjjbgVg2xTeP3AEJYJ"
+        },
+        {
+          "name": "Glowave Town",
+          "url": "https://open.spotify.com/artist/2TAqjOljK0hSinsDjbuICP"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123233,
+      "name": "HARLEYS IN HAWAII [TECHNO]",
+      "url": "https://open.spotify.com/track/3HEvTFqQvoJ5JK5t54KXUm"
     },
     {
       "album": {
@@ -20674,7 +20750,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 277500,
       "name": "Neva",
       "url": "https://open.spotify.com/track/7A0SNCqMZ15MvtvL2o8XsW"
@@ -21855,6 +21931,24 @@
     },
     {
       "album": {
+        "name": "Revanchist",
+        "url": "https://open.spotify.com/album/2e5dgajfEhTCWniWQ8ZNHH"
+      },
+      "artists": [
+        {
+          "name": "Evian Christ",
+          "url": "https://open.spotify.com/artist/75BN2bMrpeLl89blBiaFuv"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305348,
+      "name": "On Embers",
+      "url": "https://open.spotify.com/track/6NGuBUDtlmPak65c4V2uyC"
+    },
+    {
+      "album": {
         "name": "Cycle Twice",
         "url": "https://open.spotify.com/album/29hIcfWWiY26O084yE2iAr"
       },
@@ -21870,6 +21964,24 @@
       "duration_ms": 419456,
       "name": "On Greed",
       "url": "https://open.spotify.com/track/2TgfrolQ5cDBDwJe9Bzmpk"
+    },
+    {
+      "album": {
+        "name": "on my feet",
+        "url": "https://open.spotify.com/album/1X11bMhud9yiSKHT2OCCl4"
+      },
+      "artists": [
+        {
+          "name": "Harrisun",
+          "url": "https://open.spotify.com/artist/7Fs3Yj5hp3rvtj9JSXYiSa"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155596,
+      "name": "on my feet",
+      "url": "https://open.spotify.com/track/29S3SNhCCRZSVm0VUQYet6"
     },
     {
       "album": {
@@ -22188,6 +22300,24 @@
       "duration_ms": 192000,
       "name": "Only One - Dosem Remix",
       "url": "https://open.spotify.com/track/4pw09H8AUaO9clzCvladA9"
+    },
+    {
+      "album": {
+        "name": "OOSHA",
+        "url": "https://open.spotify.com/album/2r9Hi6ivlWhQY1Wrxun4Xp"
+      },
+      "artists": [
+        {
+          "name": "Lwny",
+          "url": "https://open.spotify.com/artist/0nwK1tWueQUPpKudMyAArz"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211271,
+      "name": "OOSHA",
+      "url": "https://open.spotify.com/track/4SPPHRyqnhbzLK0rGkz9uU"
     },
     {
       "album": {
@@ -25521,6 +25651,24 @@
     },
     {
       "album": {
+        "name": "Seasonal Love",
+        "url": "https://open.spotify.com/album/5mwGjLKv9cloJ0CGqYZ0fs"
+      },
+      "artists": [
+        {
+          "name": "Fettuccine",
+          "url": "https://open.spotify.com/artist/0zFE3Ckfp0Buc0LTGv1r7H"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "Seasonal Love",
+      "url": "https://open.spotify.com/track/1pViaTGFcr679zF8dgARKO"
+    },
+    {
+      "album": {
         "name": "Second Story Sunlight",
         "url": "https://open.spotify.com/album/3PhyRzz7sT2tqp05ebeoK6"
       },
@@ -26580,7 +26728,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 253857,
       "name": "SMS",
       "url": "https://open.spotify.com/track/0i5lksOWWANr2WQsYWm7Dm"
@@ -28158,7 +28306,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 256548,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/74rGeSKxOyoPlty2caAMFA"
@@ -29022,6 +29170,24 @@
       "duration_ms": 280802,
       "name": "Te Veo En Londres",
       "url": "https://open.spotify.com/track/5qyeYLwayS3ZL9u0nJk16B"
+    },
+    {
+      "album": {
+        "name": "Tef\u00e9",
+        "url": "https://open.spotify.com/album/6aqreTVS6wP0ALMBd2JRKL"
+      },
+      "artists": [
+        {
+          "name": "Fredy Lane",
+          "url": "https://open.spotify.com/artist/4eqF8svFUIhgdkR7bSlQ6M"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Tef\u00e9",
+      "url": "https://open.spotify.com/track/0GGFrmZVMTdti1BVtZpSH2"
     },
     {
       "album": {
@@ -29936,7 +30102,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 331890,
       "name": "The Sudden Light of Certainty",
       "url": "https://open.spotify.com/track/7BCjZxZG14DhnPT7IHsiz1"
@@ -30748,6 +30914,24 @@
       "duration_ms": 202851,
       "name": "Touche",
       "url": "https://open.spotify.com/track/4J7fXO87MTKKFLGzuUYAuP"
+    },
+    {
+      "album": {
+        "name": "brief romance EP",
+        "url": "https://open.spotify.com/album/4ZvKMykwrbcrlnQmJCOMDw"
+      },
+      "artists": [
+        {
+          "name": "Good/Vlly",
+          "url": "https://open.spotify.com/artist/69v7yR9Qx34Jrea5OYwq9E"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "touching",
+      "url": "https://open.spotify.com/track/7dfQ7YoyqoXuGbojDbWIKG"
     },
     {
       "album": {
@@ -33293,6 +33477,28 @@
     },
     {
       "album": {
+        "name": "Work Dat Shit",
+        "url": "https://open.spotify.com/album/5Q0gnRR9IixlGSR6K58MZB"
+      },
+      "artists": [
+        {
+          "name": "Toribio",
+          "url": "https://open.spotify.com/artist/1pvkxX6Q1JG8rnyBZ3t2MQ"
+        },
+        {
+          "name": "The Illustrious Blacks",
+          "url": "https://open.spotify.com/artist/1ZZthpcsHPWbkTUw7HNTu1"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376000,
+      "name": "Work Dat Shit",
+      "url": "https://open.spotify.com/track/2vdOZWlyrmXaYtwO0TkguI"
+    },
+    {
+      "album": {
         "name": "Like a Freak Machine",
         "url": "https://open.spotify.com/album/2MlnkW2DjN1V7FR7s8bZNa"
       },
@@ -33898,7 +34104,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 236040,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/3lBKeGFrV9zZRnGzNklsGF"

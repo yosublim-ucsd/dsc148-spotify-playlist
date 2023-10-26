@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Amaru
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,301 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,465 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [older](https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:17 |
 | 100 | [2 Handys](https://open.spotify.com/track/0mth0U5dtI4Fwmc3RrAERn) | [Gola Gianni](https://open.spotify.com/artist/1ldsuiSBiF9jsLQJape3e6) | [2 Handys](https://open.spotify.com/album/6rhIP92F4rmlNk32Lzlxtt) | 2:19 |
 
-Snapshot ID: `MCxlZjZhOWEzYTVjMzgxMGYxNjBmNGZmNmQ3NWFiN2UzODVkZjU4MDQ0`
+Snapshot ID: `MCw0OTBjOTI4NDNlMjFhNjdlNzI4ZjQ5MTI0MTE0MzgyODRhNTg0OTI3`

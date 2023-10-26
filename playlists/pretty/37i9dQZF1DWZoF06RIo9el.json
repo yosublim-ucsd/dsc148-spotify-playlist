@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de octubre 2023",
-  "num_followers": 1536342,
+  "num_followers": 1536410,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGUyNzZjNTFhODczMTRkMjU5MzA2NmYyZTQ0MGRjYzY1OGQzMzk4",
+  "snapshot_id": "MCxiM2RiYjUxNDc2OTI4ZDZmYzc4YWE3ZjhjMzJkOTk1Mzg3ZTlkNmZl",
   "tracks": [
     {
       "added_at": "2023-10-12 21:24:35",
@@ -871,22 +871,18 @@
     {
       "added_at": "2023-10-12 21:24:35",
       "album": {
-        "name": "AMIGA DEL ALCOHOL",
-        "url": "https://open.spotify.com/album/3l5PnrhVfXZL9NiAxk0e36"
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/5SsyubVb6ry1L845ARB5x2"
       },
       "artists": [
         {
-          "name": "OMGisNEFF",
-          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
-        },
-        {
-          "name": "LI4M",
-          "url": "https://open.spotify.com/artist/0ItFkNpFwk5M1GEWtZzhbs"
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
         }
       ],
-      "duration_ms": 193806,
-      "name": "AMIGA DEL ALCOHOL",
-      "url": "https://open.spotify.com/track/4wL75NdSDkaK9KocyH5JHY"
+      "duration_ms": 229093,
+      "name": "Arte",
+      "url": "https://open.spotify.com/track/2AocneguErlK5cs3OrmZXb"
     },
     {
       "added_at": "2023-10-12 21:24:35",
@@ -915,18 +911,22 @@
     {
       "added_at": "2023-10-12 21:24:35",
       "album": {
-        "name": "Arte",
-        "url": "https://open.spotify.com/album/5SsyubVb6ry1L845ARB5x2"
+        "name": "AMIGA DEL ALCOHOL",
+        "url": "https://open.spotify.com/album/3l5PnrhVfXZL9NiAxk0e36"
       },
       "artists": [
         {
-          "name": "Diego Smith",
-          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+          "name": "OMGisNEFF",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        },
+        {
+          "name": "LI4M",
+          "url": "https://open.spotify.com/artist/0ItFkNpFwk5M1GEWtZzhbs"
         }
       ],
-      "duration_ms": 229093,
-      "name": "Arte",
-      "url": "https://open.spotify.com/track/2AocneguErlK5cs3OrmZXb"
+      "duration_ms": 193806,
+      "name": "AMIGA DEL ALCOHOL",
+      "url": "https://open.spotify.com/track/4wL75NdSDkaK9KocyH5JHY"
     },
     {
       "added_at": "2023-10-12 21:24:35",

@@ -1,12 +1,12 @@
 {
   "description": "Cruzando cerros y arroyos mientras recordamos el legado campirano y rancher\u00f3n.",
-  "num_followers": 64509,
+  "num_followers": 64753,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzY3Yjc1ZmUzOTM5NzVmZGE1NmM1OGM4MWI5NTRhMmIwMzJiM2Iy",
+  "snapshot_id": "MCxlYzM5NDI2MTJiMTFiYzI0ZGZiMGM2NTg3NTAyNjA4Nzc4YjU2ZTQ5",
   "tracks": [
     {
       "added_at": "2023-08-09 00:07:19",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-08-09 00:07:19",
       "album": {
-        "name": "Seguimos Sumando",
-        "url": "https://open.spotify.com/album/7G8SUIcg4K4Rx55r2fuMGk"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Barron",
-          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Ni\u00e9game",
-      "url": "https://open.spotify.com/track/3A3En2MIrcY4S6aKVCBTQo"
-    },
-    {
-      "added_at": "2023-08-09 00:07:19",
-      "album": {
         "name": "\"14 Exitos\" A Cada Instante",
         "url": "https://open.spotify.com/album/26vKr0uiVeTMbiqyNJcc6Z"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 137733,
       "name": "Pideme La Luna",
       "url": "https://open.spotify.com/track/2lqwq9vyPWoBu8xxmlXZAr"
+    },
+    {
+      "added_at": "2023-08-09 00:07:19",
+      "album": {
+        "name": "Seguimos Sumando",
+        "url": "https://open.spotify.com/album/7G8SUIcg4K4Rx55r2fuMGk"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Ni\u00e9game",
+      "url": "https://open.spotify.com/track/3A3En2MIrcY4S6aKVCBTQo"
     },
     {
       "added_at": "2023-08-09 00:07:19",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-08-09 00:07:19",
       "album": {
-        "name": "Hombres de Rancho",
-        "url": "https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t"
+        "name": "Piel de Az\u00facar",
+        "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
       },
       "artists": [
         {
-          "name": "Grupo cessna",
-          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
+          "name": "Los Gavilanes de la Sierra",
+          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
         }
       ],
-      "duration_ms": 204506,
-      "name": "Dos Palomas Al Volar",
-      "url": "https://open.spotify.com/track/33ukiKvMGOhbpMEdpH8GgR"
+      "duration_ms": 161626,
+      "name": "Piel de Az\u00facar",
+      "url": "https://open.spotify.com/track/1y8ZcMQhBEySjQxmxnyurt"
     },
     {
       "added_at": "2023-08-09 00:07:19",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-08-09 00:07:19",
       "album": {
-        "name": "Piel de Az\u00facar",
-        "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
+        "name": "Hombres de Rancho",
+        "url": "https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t"
       },
       "artists": [
         {
-          "name": "Los Gavilanes de la Sierra",
-          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
+          "name": "Grupo cessna",
+          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
         }
       ],
-      "duration_ms": 161626,
-      "name": "Piel de Az\u00facar",
-      "url": "https://open.spotify.com/track/1y8ZcMQhBEySjQxmxnyurt"
+      "duration_ms": 204506,
+      "name": "Dos Palomas Al Volar",
+      "url": "https://open.spotify.com/track/33ukiKvMGOhbpMEdpH8GgR"
     },
     {
       "added_at": "2023-08-09 00:07:19",
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb"
         }
       ],
-      "duration_ms": 206759,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/70lFCPMdLXpxcfApqTECxA"
+      "duration_ms": 156760,
+      "name": "De Esta Sierra a la Otra Sierra",
+      "url": "https://open.spotify.com/track/6Hsuzg08RM8Bz9ypVyJBce"
     },
     {
       "added_at": "2023-08-09 00:07:19",
@@ -1048,25 +1048,9 @@
           "url": "https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb"
         }
       ],
-      "duration_ms": 156760,
-      "name": "De Esta Sierra a la Otra Sierra",
-      "url": "https://open.spotify.com/track/6Hsuzg08RM8Bz9ypVyJBce"
-    },
-    {
-      "added_at": "2023-08-09 00:07:19",
-      "album": {
-        "name": "Hombres de Rancho",
-        "url": "https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t"
-      },
-      "artists": [
-        {
-          "name": "Grupo cessna",
-          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
-        }
-      ],
-      "duration_ms": 204546,
-      "name": "Que Casualidad",
-      "url": "https://open.spotify.com/track/6mYGR28K8XuYJGER8EvBN4"
+      "duration_ms": 206759,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/70lFCPMdLXpxcfApqTECxA"
     },
     {
       "added_at": "2023-08-09 00:07:19",
@@ -1083,6 +1067,22 @@
       "duration_ms": 185756,
       "name": "Cielo Azul, Cielo Nublado",
       "url": "https://open.spotify.com/track/5GRe4EsGxq49GaxKYvWQoZ"
+    },
+    {
+      "added_at": "2023-08-09 00:07:19",
+      "album": {
+        "name": "Hombres de Rancho",
+        "url": "https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t"
+      },
+      "artists": [
+        {
+          "name": "Grupo cessna",
+          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
+        }
+      ],
+      "duration_ms": 204546,
+      "name": "Que Casualidad",
+      "url": "https://open.spotify.com/track/6mYGR28K8XuYJGER8EvBN4"
     },
     {
       "added_at": "2023-08-09 00:07:19",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-08-09 00:07:19",
       "album": {
-        "name": "Besos y Caricias",
-        "url": "https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4"
-      },
-      "artists": [
-        {
-          "name": "Grupo cessna",
-          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
-        }
-      ],
-      "duration_ms": 130039,
-      "name": "Ya No Vuelvo a Molestarte",
-      "url": "https://open.spotify.com/track/7GOi2uDFPSc1pnq33KvgqW"
-    },
-    {
-      "added_at": "2023-08-09 00:07:19",
-      "album": {
         "name": "Para Morir Nac\u00ed",
         "url": "https://open.spotify.com/album/6xO9JouFVYKw9lD9YejQJD"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 192000,
       "name": "Para Morir Naci",
       "url": "https://open.spotify.com/track/58VjK7wICoMm0M2zftvsll"
+    },
+    {
+      "added_at": "2023-08-09 00:07:19",
+      "album": {
+        "name": "Besos y Caricias",
+        "url": "https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4"
+      },
+      "artists": [
+        {
+          "name": "Grupo cessna",
+          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
+        }
+      ],
+      "duration_ms": 130039,
+      "name": "Ya No Vuelvo a Molestarte",
+      "url": "https://open.spotify.com/track/7GOi2uDFPSc1pnq33KvgqW"
     },
     {
       "added_at": "2023-08-09 00:07:19",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-08-09 00:07:19",
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/0h1qpEWCEyKf6lJHPbN4MR"
-      },
-      "artists": [
-        {
-          "name": "Los Students",
-          "url": "https://open.spotify.com/artist/468vRwxNFLQ9bnv9LeA5Sm"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Llorando Por Ti",
-      "url": "https://open.spotify.com/track/7xtzhHqkdbgCqefLIKgKpY"
-    },
-    {
-      "added_at": "2023-08-09 00:07:19",
-      "album": {
         "name": "De La Sierra A La Playa",
         "url": "https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 163448,
       "name": "Tus Verdades",
       "url": "https://open.spotify.com/track/0R2UCKv5qB6H0ENzZqjH2e"
+    },
+    {
+      "added_at": "2023-08-09 00:07:19",
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/0h1qpEWCEyKf6lJHPbN4MR"
+      },
+      "artists": [
+        {
+          "name": "Los Students",
+          "url": "https://open.spotify.com/artist/468vRwxNFLQ9bnv9LeA5Sm"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Llorando Por Ti",
+      "url": "https://open.spotify.com/track/7xtzhHqkdbgCqefLIKgKpY"
     },
     {
       "added_at": "2023-08-09 00:07:19",

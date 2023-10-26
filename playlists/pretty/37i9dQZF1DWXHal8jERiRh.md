@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHal8jERiRh.md) - [plain]
 
 > Listen to the soundtracks of the The Escape of the Seven\. \(7인의 탈출의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246 likes - 31 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,598 likes - 31 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sunset Kiss](https://open.spotify.com/track/5uAPDJnAl6Iide6UfzXZ3J) | [MONE](https://open.spotify.com/artist/25pqKY5XQQCDyPZgtzUM9Q) | [The Escape of the Seven OST Special Track](https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ) | 3:06 |
-| 2 | [Sunset Kiss \(Pool Party Ver.\)](https://open.spotify.com/track/5o10SzMQAeOsImjqzs8Byl) | [MONE](https://open.spotify.com/artist/25pqKY5XQQCDyPZgtzUM9Q) | [The Escape of the Seven OST Special Track](https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ) | 3:14 |
+| 1 | [Sunset Kiss](https://open.spotify.com/track/5uAPDJnAl6Iide6UfzXZ3J) | [MONE](https://open.spotify.com/artist/2XJnHK08g01FSgC9xavdwo) | [The Escape of the Seven OST Special Track](https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ) | 3:06 |
+| 2 | [Sunset Kiss \(Pool Party Ver.\)](https://open.spotify.com/track/5o10SzMQAeOsImjqzs8Byl) | [MONE](https://open.spotify.com/artist/2XJnHK08g01FSgC9xavdwo) | [The Escape of the Seven OST Special Track](https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ) | 3:14 |
 | 3 | [Disappear](https://open.spotify.com/track/3npyCr1ht50WqZF537vr8t) | [Richard Parkers](https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C) | [The Escape of the Seven OST Part.2](https://open.spotify.com/album/1CgrARHgGDA67xWn9JJ3uG) | 3:42 |
 | 4 | [EXIT](https://open.spotify.com/track/0aXjaZxWiorYro27xglNJH) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [The Escape of the Seven OST Part.1](https://open.spotify.com/album/3Uv6LiZNT7I2hLKVQBK6SS) | 3:25 |
-| 5 | [Sunset Kiss \(Inst.\)](https://open.spotify.com/track/3msC9dJ6Jec8iQsHSJ4FPr) | [MONE](https://open.spotify.com/artist/25pqKY5XQQCDyPZgtzUM9Q) | [The Escape of the Seven OST Special Track](https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ) | 3:06 |
-| 6 | [Sunset Kiss \(Pool Party Ver.\) \(Inst.\)](https://open.spotify.com/track/3tcnCNTTjqHhYJwnarAi8J) | [MONE](https://open.spotify.com/artist/25pqKY5XQQCDyPZgtzUM9Q) | [The Escape of the Seven OST Special Track](https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ) | 3:14 |
+| 5 | [Sunset Kiss \(Inst.\)](https://open.spotify.com/track/3msC9dJ6Jec8iQsHSJ4FPr) | [MONE](https://open.spotify.com/artist/2XJnHK08g01FSgC9xavdwo) | [The Escape of the Seven OST Special Track](https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ) | 3:06 |
+| 6 | [Sunset Kiss \(Pool Party Ver.\) \(Inst.\)](https://open.spotify.com/track/3tcnCNTTjqHhYJwnarAi8J) | [MONE](https://open.spotify.com/artist/2XJnHK08g01FSgC9xavdwo) | [The Escape of the Seven OST Special Track](https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ) | 3:14 |
 | 7 | [Disappear \(Inst.\)](https://open.spotify.com/track/1g0WFid0GCww3TFA39flaV) | [Richard Parkers](https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C) | [The Escape of the Seven OST Part.2](https://open.spotify.com/album/1CgrARHgGDA67xWn9JJ3uG) | 3:42 |
 | 8 | [EXIT \(inst.\)](https://open.spotify.com/track/0UfVAMsF6C5d50QDInN7kY) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [The Escape of the Seven OST Part.1](https://open.spotify.com/album/3Uv6LiZNT7I2hLKVQBK6SS) | 3:23 |
 | 9 | [Curated by Lee Yubi](https://open.spotify.com/track/0PcrcVmCHTe3vdkke3HyGC) | [The Escape of the Seven](https://open.spotify.com/artist/2e40rNSF1VHxeDBkJR0xZ5) | [The Escape of the Seven audio liner](https://open.spotify.com/album/5Ss3JF1zGufz0NLnBIi2q9) | 0:20 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHal8jERiRh.md) - [plain]
 | 30 | [The Tree from Mount Fuji](https://open.spotify.com/track/4VulISo0xgXeWnOQsS1IgN) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 2:28 |
 | 31 | [Fire!](https://open.spotify.com/track/3KxwePed3M2ItHEyxI59Gt) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 1:15 |
 
-Snapshot ID: `MCwwNTU0M2ExOTViZjRlYmE1NWJiZWE3MWQ2NTMwMzk4YzQ4Njc3MmZk`
+Snapshot ID: `MCwxNTExOThhYTkxYWVkYWMwMzcxNzFmOWM1NGFhYzVhMDY3NzQ0ZDlj`

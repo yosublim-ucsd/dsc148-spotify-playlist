@@ -379,6 +379,28 @@
     },
     {
       "album": {
+        "name": "Aigiri",
+        "url": "https://open.spotify.com/album/3Rd1QZKjazNOFZ7w5kGRGQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Sai",
+          "url": "https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9"
+        },
+        {
+          "name": "DEYO",
+          "url": "https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103500,
+      "name": "Aigiri",
+      "url": "https://open.spotify.com/track/5iXC0jZlDPxNokyL1rdHsV"
+    },
+    {
+      "album": {
         "name": "Maaran Ambu",
         "url": "https://open.spotify.com/album/3PfyF79cW79EclIsyQ2Xf4"
       },

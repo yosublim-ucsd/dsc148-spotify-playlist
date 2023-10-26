@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Masdo, Aisyah Aziz",
+  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Fadhilah Intan",
   "name": "Carta Malaysia 50",
   "tracks": [
     {
@@ -374,7 +374,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 134970,
       "name": "Bagaimana Aku",
       "url": "https://open.spotify.com/track/2HqmS98nQsBVhmS5rBjeVZ"
@@ -552,6 +552,28 @@
       "duration_ms": 159190,
       "name": "Benar",
       "url": "https://open.spotify.com/track/5XRffsZ6c9u2I2yWRZBBx1"
+    },
+    {
+      "album": {
+        "name": "Berat Hati",
+        "url": "https://open.spotify.com/album/6KkxKjkIQbOcczD6UJuHxL"
+      },
+      "artists": [
+        {
+          "name": "Dina Nadzir",
+          "url": "https://open.spotify.com/artist/18Cadv76vQqqyt5HhwEfVJ"
+        },
+        {
+          "name": "Hazrul Nizam",
+          "url": "https://open.spotify.com/artist/1QdTqQYcmC2ZgxedjFARhC"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223019,
+      "name": "Berat Hati",
+      "url": "https://open.spotify.com/track/4Lfav8nWU9ZcQ8MV9IcGKM"
     },
     {
       "album": {
@@ -1152,10 +1174,28 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 220230,
       "name": "Cukup",
       "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
+    },
+    {
+      "album": {
+        "name": "INI AKU",
+        "url": "https://open.spotify.com/album/429fzbnYOVktk7X0sOLxiU"
+      },
+      "artists": [
+        {
+          "name": "Zynakal",
+          "url": "https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159996,
+      "name": "Dah Bagi",
+      "url": "https://open.spotify.com/track/0M5s6bACgTh9nTRO6hR9oE"
     },
     {
       "album": {
@@ -1214,6 +1254,24 @@
       "duration_ms": 209374,
       "name": "Darah",
       "url": "https://open.spotify.com/track/4PK0MXzzC7iz7ygDCQn5Xj"
+    },
+    {
+      "album": {
+        "name": "Dawai (From \"Air Mata Di Ujung Sajadah\")",
+        "url": "https://open.spotify.com/album/4eRO6qTZCzTqibBy1j9lHz"
+      },
+      "artists": [
+        {
+          "name": "Fadhilah Intan",
+          "url": "https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279618,
+      "name": "Dawai (From \"Air Mata Di Ujung Sajadah\")",
+      "url": "https://open.spotify.com/track/5KKqMjyldESKZbcfEs9QnY"
     },
     {
       "album": {
@@ -2870,7 +2928,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 247000,
       "name": "Kuat",
       "url": "https://open.spotify.com/track/4OqbiABu5jE9Ei57BxkGMZ"
@@ -3340,6 +3398,24 @@
       "duration_ms": 313829,
       "name": "Mencintaimu",
       "url": "https://open.spotify.com/track/32ikFVT4ttN9VTu9PIFrBm"
+    },
+    {
+      "album": {
+        "name": "Mencuba",
+        "url": "https://open.spotify.com/album/55ZxfSKNYReZpogQQGnZG9"
+      },
+      "artists": [
+        {
+          "name": "Irfan Haris",
+          "url": "https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213103,
+      "name": "Mencuba",
+      "url": "https://open.spotify.com/track/5GIvD5a2MXrMsmFplhvEEM"
     },
     {
       "album": {
@@ -3994,6 +4070,24 @@
       "duration_ms": 238906,
       "name": "Pencarianku",
       "url": "https://open.spotify.com/track/7MajjFbtZq2ZfELVQ4Op3x"
+    },
+    {
+      "album": {
+        "name": "penjaga hati",
+        "url": "https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260346,
+      "name": "penjaga hati",
+      "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
     },
     {
       "album": {
@@ -5594,7 +5688,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 315398,
       "name": "Talalu Sakit",
       "url": "https://open.spotify.com/track/62Ga6ylfUQl469DkZ3P7L7"
@@ -5854,7 +5948,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 234666,
       "name": "Terus Menunggu",
       "url": "https://open.spotify.com/track/3Sw1AuJxpwJEmfqDcGO9Zv"

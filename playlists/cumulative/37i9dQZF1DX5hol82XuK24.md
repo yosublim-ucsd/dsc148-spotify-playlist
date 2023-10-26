@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-252 songs - 16 hr 47 min
+253 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Lost](https://open.spotify.com/track/3xd4GVGAuzJGdVZLEKvWea) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly EP](https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7) | 2:28 | 2022-10-23 | 2022-11-01 |
 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 | 2021-11-01 |  |
 | [Love Is a Real Place](https://open.spotify.com/track/35a1pcDwARb6heYFO3gkKx) | [The Crayon Set](https://open.spotify.com/artist/5w7xIHvMgSdV2rjkNRVKnW) | [Love Is a Real Place](https://open.spotify.com/album/6x6pxXPd1eRXZzpEFNS2Av) | 3:42 | 2022-10-15 | 2023-07-06 |
+| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-10-25 |  |
 | [Messing](https://open.spotify.com/track/2wloteObIm2R5HC1zgijBI) | [Hussy](https://open.spotify.com/artist/6GlHnc09wnTmBC43d5NtL8) | [Hussy](https://open.spotify.com/album/19oTVM7p7W8JA53RL6p8gL) | 3:29 | 2021-11-01 | 2022-09-15 |
 | [Milky](https://open.spotify.com/track/6SSApQjEIaX0xy8fF9nzjf) | [Laundromat](https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm) | [En Bloc](https://open.spotify.com/album/5wQpv9txTYej5QleKS8ImH) | 4:01 | 2022-11-01 |  |
 | [Milky](https://open.spotify.com/track/6TEDvriGdoz4bVaCyXCJRY) | [Laundromat](https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm) | [En Bloc](https://open.spotify.com/album/1FftaeMeVTstmjMD09gqlX) | 4:01 | 2022-09-21 | 2022-11-17 |

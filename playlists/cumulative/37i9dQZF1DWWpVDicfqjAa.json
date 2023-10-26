@@ -737,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Black Rave Culture Vol 3",
+        "url": "https://open.spotify.com/album/0ja7oUDgBKdC8M2qVuWbCe"
+      },
+      "artists": [
+        {
+          "name": "Black Rave Culture",
+          "url": "https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202092,
+      "name": "Blowin O's",
+      "url": "https://open.spotify.com/track/7EiVTY4RzOqoRl1Ir8T5qf"
+    },
+    {
+      "album": {
         "name": "Renaissance (Remixes)",
         "url": "https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ"
       },
@@ -1043,6 +1061,32 @@
     },
     {
       "album": {
+        "name": "Roots EP, Pt. 1",
+        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "KUENTA",
+          "url": "https://open.spotify.com/artist/3pr6mWxBNnh2OHul3o0A0p"
+        },
+        {
+          "name": "Cheryl Lispier",
+          "url": "https://open.spotify.com/artist/57DvbdvXfkpcMOgSlo8rnt"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Coco Loco",
+      "url": "https://open.spotify.com/track/2n4Ul3ywASFI46NKxWrGtL"
+    },
+    {
+      "album": {
         "name": "Comfy",
         "url": "https://open.spotify.com/album/1WDYeelj0L1Xl4U4ZYOZKk"
       },
@@ -1134,7 +1178,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 219928,
       "name": "Crazy Legs",
       "url": "https://open.spotify.com/track/3sn5ncoXCNl2DTUO17TGj5"
@@ -1662,7 +1706,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 152093,
       "name": "fund$",
       "url": "https://open.spotify.com/track/2zsWUr91K3TIdnzWb0XOmI"
@@ -2684,7 +2728,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 460084,
       "name": "London",
       "url": "https://open.spotify.com/track/7cDgMxxIHLRrk3JAZEmgnC"
@@ -3694,6 +3738,24 @@
       "duration_ms": 298573,
       "name": "Problems",
       "url": "https://open.spotify.com/track/31lxxLV8Ap4spCtGt2jR8P"
+    },
+    {
+      "album": {
+        "name": "Prove It",
+        "url": "https://open.spotify.com/album/58vQGPMjxqhm76jpfB703d"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Infiniti",
+          "url": "https://open.spotify.com/artist/4Ii6N7zTISiFbVsUPPD0sE"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400567,
+      "name": "Prove It",
+      "url": "https://open.spotify.com/track/2JhC0vPvHp5eIOKW8QQLmr"
     },
     {
       "album": {

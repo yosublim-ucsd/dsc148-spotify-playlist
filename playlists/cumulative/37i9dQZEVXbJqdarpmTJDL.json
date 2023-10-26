@@ -3319,6 +3319,24 @@
     },
     {
       "album": {
+        "name": "Big Moves (Vol. 4)",
+        "url": "https://open.spotify.com/album/2Mk4Aq6YjkWnpunDdHLCPP"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158793,
+      "name": "Big Moves - Vol. 4",
+      "url": "https://open.spotify.com/track/0lERxH3jbcidjxfTrarujg"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -7648,7 +7666,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 169811,
       "name": "ENA VRADI",
       "url": "https://open.spotify.com/track/6wpj0XOOx9rJkoNYCv2d7i"
@@ -17138,10 +17156,6 @@
         {
           "name": "Baghdad",
           "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
-        },
-        {
-          "name": "Sioma",
-          "url": "https://open.spotify.com/artist/6v3wBr0HQJftInZ5zObz2z"
         }
       ],
       "date_added": "2023-09-22",

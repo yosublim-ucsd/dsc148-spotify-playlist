@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 245812,
       "name": "103",
       "url": "https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW"
@@ -1383,6 +1383,24 @@
     },
     {
       "album": {
+        "name": "Birth4000",
+        "url": "https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286274,
+      "name": "Birth4000",
+      "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
+    },
+    {
+      "album": {
         "name": "Blame",
         "url": "https://open.spotify.com/album/59dntsJjxfrBurSijHw97J"
       },
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 303386,
       "name": "Blue Marbled Elm Trees",
       "url": "https://open.spotify.com/track/5DeuSsOtWl6vEnepxzrAJ6"
@@ -2336,7 +2354,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 459704,
       "name": "Contingency",
       "url": "https://open.spotify.com/track/1R7nKYErgE3xyXmEzqJPCM"
@@ -2547,6 +2565,24 @@
     },
     {
       "album": {
+        "name": "Laco / Cross This Heart",
+        "url": "https://open.spotify.com/album/6LIDj2QaRausIuZMxHR8dA"
+      },
+      "artists": [
+        {
+          "name": "96 Back",
+          "url": "https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356720,
+      "name": "Cross This Heart",
+      "url": "https://open.spotify.com/track/3vQQ28Ns9LqDbOoLojbQc7"
+    },
+    {
+      "album": {
         "name": "An Inbuilt Fault",
         "url": "https://open.spotify.com/album/2b1PiwT8a8UT9scekQGGtG"
       },
@@ -2580,6 +2616,28 @@
       "duration_ms": 260021,
       "name": "Cut Me Off",
       "url": "https://open.spotify.com/track/3M4cMrOmTEeC438J7CypNT"
+    },
+    {
+      "album": {
+        "name": "Re: This Is Why",
+        "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        },
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144593,
+      "name": "C\u2019est Comme \u00c7a (Re: Wet Leg)",
+      "url": "https://open.spotify.com/track/5PA2Q9hBo1gmB3RlA8TZa2"
     },
     {
       "album": {
@@ -6264,7 +6322,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 425363,
       "name": "King of the Slugs",
       "url": "https://open.spotify.com/track/059rVLt0il9OJVc93OQDQs"
@@ -6710,7 +6768,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 299670,
       "name": "Loam",
       "url": "https://open.spotify.com/track/0aDDGZ5TD5UGfkIkRZMbaU"
@@ -7547,6 +7605,28 @@
     },
     {
       "album": {
+        "name": "My Favourite Stranger (Remixes)",
+        "url": "https://open.spotify.com/album/4sKi74JyzjNzfrb1KYNtue"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228883,
+      "name": "My Favourite Stranger - Ela Minus Remix",
+      "url": "https://open.spotify.com/track/0mmzCZ3uYf9r4AwiH0m3o3"
+    },
+    {
+      "album": {
         "name": "Fantastic Star: The Artist's Cut",
         "url": "https://open.spotify.com/album/36EeftuTr1znBENuuOXQU8"
       },
@@ -7800,7 +7880,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 182153,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow"
@@ -8394,6 +8474,24 @@
       "duration_ms": 229920,
       "name": "Our Love Remains",
       "url": "https://open.spotify.com/track/27fhKlrPdZ2V3ifyyM6DiV"
+    },
+    {
+      "album": {
+        "name": "Out Of Town",
+        "url": "https://open.spotify.com/album/2tsyNzu8IIjWLFhbSaRnWO"
+      },
+      "artists": [
+        {
+          "name": "Hotline TNT",
+          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135434,
+      "name": "Out of Town",
+      "url": "https://open.spotify.com/track/5Rg0pw959nvOvdE1EVKZwH"
     },
     {
       "album": {
@@ -9540,7 +9638,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 289453,
       "name": "She Belongs To Me - Live at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/5SWH0cj1CS3JNinFHiRMjo"
@@ -10988,7 +11086,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 265920,
       "name": "The Turning Ground",
       "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
@@ -11736,7 +11834,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 226385,
       "name": "Up and Comer",
       "url": "https://open.spotify.com/track/0yMfUaFL7LDT38c648msAM"

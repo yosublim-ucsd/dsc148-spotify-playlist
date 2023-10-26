@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: New West
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,096 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,120 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Cheapshot](https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Cheapshot](https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH) | 1:40 |
 | 100 | [Leave Me Alone](https://open.spotify.com/track/7mYU5AQ4rc3RlVpQsV6iK8) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Look Now](https://open.spotify.com/album/3xlR9r8agdyf0JJ8kf3R9t) | 3:39 |
 
-Snapshot ID: `MCxmZDk5YjQyOGYyODNiYjQzZDMyODc2OWM4YzMyODQ3MTY1OGFlNTE2`
+Snapshot ID: `MCw4YTdiYzUzNzQ5N2Q3NDM3OGRhMGZiMDE0ODI0NmNiNjBlZTkyNzdm`

@@ -2325,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/3oggIhfX6BMxH5ADVWDHvd"
+      },
+      "artists": [
+        {
+          "name": "MILGRAM \u30df\u30b3\u30c8 (CV: \u82b1\u6c5f\u590f\u6a39)",
+          "url": "https://open.spotify.com/artist/6GjjbcGn9ooKDynyo0ISWo"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153032,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/6f2ToOdyiDDdC3bSMHoARk"
+    },
+    {
+      "album": {
         "name": "DownTimer (unknown Vo:O2)",
         "url": "https://open.spotify.com/album/1YUoDBtPxU6MscbdMcdNGq"
       },
@@ -3846,6 +3864,24 @@
       "duration_ms": 227478,
       "name": "HELP",
       "url": "https://open.spotify.com/track/5fTk6RfTbySiEyjRnrpHNV"
+    },
+    {
+      "album": {
+        "name": "HELP",
+        "url": "https://open.spotify.com/album/15OxWt5Wd6QKRr3BM2SI1K"
+      },
+      "artists": [
+        {
+          "name": "Aimi",
+          "url": "https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227978,
+      "name": "HELP",
+      "url": "https://open.spotify.com/track/6qzigrdGbzParrcscn1707"
     },
     {
       "album": {
@@ -10576,10 +10612,28 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 193631,
       "name": "Welcome!",
       "url": "https://open.spotify.com/track/4NrsLiWz4tu4eh9HVTC5JX"
+    },
+    {
+      "album": {
+        "name": "Welcome!",
+        "url": "https://open.spotify.com/album/2KlzKHbKhBL8n3jWNUnUfd"
+      },
+      "artists": [
+        {
+          "name": "angela",
+          "url": "https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194961,
+      "name": "Welcome!",
+      "url": "https://open.spotify.com/track/5kcPYZhmbe7M7rcO3bI9PV"
     },
     {
       "album": {
@@ -10898,6 +10952,32 @@
       "duration_ms": 182160,
       "name": "Young Gun of The Sun",
       "url": "https://open.spotify.com/track/1FvOJYT3Q7JI4HvAekiEW8"
+    },
+    {
+      "album": {
+        "name": "Collaboration Single \"Yumagadoki\" -TV Anime \"Migi & Dali\" OpeningTheme-",
+        "url": "https://open.spotify.com/album/5HjBHw6gFDGDkrR0e694mn"
+      },
+      "artists": [
+        {
+          "name": "Soraru & Rib",
+          "url": "https://open.spotify.com/artist/2xagT4uswba0ebsK4tlNr2"
+        },
+        {
+          "name": "Soraru",
+          "url": "https://open.spotify.com/artist/2hRrM4EVq5bjYRHQvX7goz"
+        },
+        {
+          "name": "Rib",
+          "url": "https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216200,
+      "name": "Yumagadoki",
+      "url": "https://open.spotify.com/track/5ZQfzVe2AZ2YGeW04QNWmn"
     },
     {
       "album": {
@@ -13412,7 +13492,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 153032,
       "name": "\u30c0\u30d6\u30eb",
       "url": "https://open.spotify.com/track/255hEevtmMTxsKTVQo0fgE"
@@ -14584,7 +14664,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 216200,
       "name": "\u30e6\u30a6\u30de\u30ac\u30c9\u30ad",
       "url": "https://open.spotify.com/track/2rEATv4FT09bqwB6fQ2qJY"

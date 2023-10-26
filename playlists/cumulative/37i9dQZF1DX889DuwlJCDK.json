@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 207555,
       "name": "hanauranai",
       "url": "https://open.spotify.com/track/3MSqycwh9ypAp45GaqudLo"
@@ -830,6 +830,24 @@
       "duration_ms": 207199,
       "name": "Himitsu",
       "url": "https://open.spotify.com/track/6mdV5v37CdoCbVXEtRahiU"
+    },
+    {
+      "album": {
+        "name": "Eisei no Yoru / Himitsu",
+        "url": "https://open.spotify.com/album/40DrlmSNJQpMC058lWDYhJ"
+      },
+      "artists": [
+        {
+          "name": "ZOOKARADERU",
+          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244159,
+      "name": "Himitsu",
+      "url": "https://open.spotify.com/track/0HoZNIXm2wZ5qh3Ipc5AHR"
     },
     {
       "album": {
@@ -920,6 +938,24 @@
       "duration_ms": 193356,
       "name": "I Love me",
       "url": "https://open.spotify.com/track/2x7tc0BJTDDLwg1jQ9ROAB"
+    },
+    {
+      "album": {
+        "name": "Identify",
+        "url": "https://open.spotify.com/album/66ZFlm59P8mAeHRsnQ0BpA"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216517,
+      "name": "Identify",
+      "url": "https://open.spotify.com/track/7eHQ769Mbys4ALmMnpDE2p"
     },
     {
       "album": {
@@ -1773,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "TadaSayonara,InochiMoetsukiruMade",
+        "url": "https://open.spotify.com/album/7gngBY9MJCQ2omm0sDhRXC"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230477,
+      "name": "TadaSayonara,InochiMoetsukiruMade",
+      "url": "https://open.spotify.com/track/0Neuw3qMNXv2IO7jftQbAs"
+    },
+    {
+      "album": {
         "name": "kimitokurashinomannakade",
         "url": "https://open.spotify.com/album/4Wvy3DcHA9g5jLg3VIXzaL"
       },
@@ -2270,7 +2324,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 230477,
       "name": "\u305f\u3060\u3055\u3088\u306a\u3089\u3001\u547d\u71c3\u3048\u5c3d\u304d\u308b\u307e\u3067",
       "url": "https://open.spotify.com/track/26u3T0YLgfwwwxSd4yOp62"
@@ -2450,7 +2504,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 216517,
       "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30d5\u30a1\u30a4",
       "url": "https://open.spotify.com/track/0GSOn33YYURnOeFuUR1L8k"
@@ -4326,7 +4380,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 220340,
       "name": "\u6cf3\u3044\u3067\u3086\u3051\u305f\u3089",
       "url": "https://open.spotify.com/track/5rhbxoPNJdhcFm2YU5xeta"
@@ -4452,7 +4506,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-26",
       "duration_ms": 244159,
       "name": "\u79d8\u5bc6",
       "url": "https://open.spotify.com/track/3zZLp1mzcP0WDuDqcY7hyQ"

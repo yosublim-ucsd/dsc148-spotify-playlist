@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest french touch classics! Cover: Daft Punk",
-  "num_followers": 402209,
+  "num_followers": 402300,
   "original_name": "French Touch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTY1YjI1ZTBkZjY0NjM3NGUyM2JhODc3NzRhMjlkOWE5MGJhNmJh",
+  "snapshot_id": "MCwyM2E1MmZlMDdkN2EzMjljY2QzM2Y3ZjM0ZjYwNTQ3MTJkMWRjMDdm",
   "tracks": [
     {
       "added_at": "2023-10-16 07:15:00",
@@ -151,6 +151,22 @@
       "duration_ms": 241440,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
+    },
+    {
+      "added_at": "2023-10-16 07:15:00",
+      "album": {
+        "name": "Night Patrol - Single",
+        "url": "https://open.spotify.com/album/09JyAk5hfkLDuue2STHPuq"
+      },
+      "artists": [
+        {
+          "name": "Lifelike",
+          "url": "https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5"
+        }
+      ],
+      "duration_ms": 470000,
+      "name": "Night Patrol",
+      "url": "https://open.spotify.com/track/3bi9LdoayzjhpriotcubGd"
     },
     {
       "added_at": "2023-10-16 07:15:00",

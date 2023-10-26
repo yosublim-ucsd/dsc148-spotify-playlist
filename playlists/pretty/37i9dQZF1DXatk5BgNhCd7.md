@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Callejero Fino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,084 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,163 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bienvenidos a Mi Barrio](https://open.spotify.com/track/4uRBz2dXQnwi0GyZzvijyM) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Bienvenidos a Mi Barrio](https://open.spotify.com/album/7c6XRLWcvCYf5slViBDKmF) | 2:53 |
-| 2 | [El Matador/en la Orilla de Mi Cama](https://open.spotify.com/track/613mAugJpYd49eFybQ6g4k) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [El Matador/en la Orilla de Mi Cama](https://open.spotify.com/album/23mD8VK46XkVZWeZur4jLg) | 4:02 |
+| 2 | [El Matador/en la Orilla de Mi Cama](https://open.spotify.com/track/613mAugJpYd49eFybQ6g4k) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [El Matador/En La Orilla De Mi Cama](https://open.spotify.com/album/23mD8VK46XkVZWeZur4jLg) | 4:02 |
 | 3 | [Aquellos Tiempos](https://open.spotify.com/track/2J0L0LpkfmrVyZ9ez9ZfdY) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Aquellos Tiempos](https://open.spotify.com/album/7cq6fr12VRaq8kgbvX8oJV) | 2:13 |
 | 4 | [LOKITA](https://open.spotify.com/track/4bDKRo2qGLPQlbcEWCluKT) | [RYH](https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100) | [LOKITA](https://open.spotify.com/album/4HcuTZU8zMdNHKfwWp9NMR) | 2:31 |
 | 5 | [Corazón de Madre / Cosas Del Amor](https://open.spotify.com/track/6R2UbyXsPIpBlKBiqy4nHg) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6), [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Corazón de Madre / Cosas Del Amor](https://open.spotify.com/album/1p2Ds7qSk9Qo7D9f61Eljy) | 3:49 |

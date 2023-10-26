@@ -4340,7 +4340,7 @@
     {
       "album": {
         "name": "daybreak",
-        "url": "https://open.spotify.com/album/6ABAIf9VSs2zxDVRWkPwsN"
+        "url": "https://open.spotify.com/album/2FHdYLhKa3ezkyddirjSfj"
       },
       "artists": [
         {
@@ -4351,6 +4351,24 @@
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 193411,
+      "name": "daybreak",
+      "url": "https://open.spotify.com/track/0hSz0Jx5yhQprUVLIoadYg"
+    },
+    {
+      "album": {
+        "name": "daybreak",
+        "url": "https://open.spotify.com/album/6ABAIf9VSs2zxDVRWkPwsN"
+      },
+      "artists": [
+        {
+          "name": "SAKURA FUJIWARA",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-26",
       "duration_ms": 193411,
       "name": "daybreak",
       "url": "https://open.spotify.com/track/2f27ES8HOfTHLK8gYKuoTQ"
@@ -7940,7 +7958,7 @@
     {
       "album": {
         "name": "800TRIBUTE-champloo is the BEST!!2-",
-        "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
+        "url": "https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD"
       },
       "artists": [
         {
@@ -7951,6 +7969,24 @@
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 315539,
+      "name": "I'll be",
+      "url": "https://open.spotify.com/track/3hnmW0g0SkxYc1IvUnUebL"
+    },
+    {
+      "album": {
+        "name": "800TRIBUTE-champloo is the BEST!!2-",
+        "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
+      },
+      "artists": [
+        {
+          "name": "\u6e80\u5cf6\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/3NmymwEu7AQgg74vBh57NW"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-26",
       "duration_ms": 315539,
       "name": "I'll be",
       "url": "https://open.spotify.com/track/7MBFjKKxAtwYAvJ4735L35"

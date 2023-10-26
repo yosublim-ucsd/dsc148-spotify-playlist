@@ -1,12 +1,12 @@
 {
   "description": "Anthems from a generation of party starters. Cover: Jazzy\n",
-  "num_followers": 31084,
+  "num_followers": 31144,
   "original_name": "Party Starters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjlkODQ3NDBlYjkxNDk1YTEyNmU2ZmJlMWU5MDM3MGUyZmQwODE4",
+  "snapshot_id": "MCxjYzkzYjU1ZGU1YWMwOWEzMzU2Nzg4NzkzMjgyNmE3NzA1ZGU0YzMy",
   "tracks": [
     {
       "added_at": "2023-10-06 13:00:09",
@@ -847,26 +847,22 @@
     {
       "added_at": "2023-10-06 13:00:09",
       "album": {
-        "name": "Make Me",
-        "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
       "artists": [
         {
-          "name": "Borai & Denham Audio",
-          "url": "https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Borai",
-          "url": "https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO"
-        },
-        {
-          "name": "Denham Audio",
-          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 151436,
-      "name": "Make Me",
-      "url": "https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm"
+      "duration_ms": 129817,
+      "name": "Hot In It",
+      "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
     },
     {
       "added_at": "2023-10-06 13:00:09",
@@ -895,26 +891,6 @@
     {
       "added_at": "2023-10-06 13:00:09",
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 129817,
-      "name": "Hot In It",
-      "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
-    },
-    {
-      "added_at": "2023-10-06 13:00:09",
-      "album": {
         "name": "You Little Beauty",
         "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 206587,
       "name": "You Little Beauty",
       "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
+    },
+    {
+      "added_at": "2023-10-06 13:00:09",
+      "album": {
+        "name": "Make Me",
+        "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
+      },
+      "artists": [
+        {
+          "name": "Borai & Denham Audio",
+          "url": "https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1"
+        },
+        {
+          "name": "Borai",
+          "url": "https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO"
+        },
+        {
+          "name": "Denham Audio",
+          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
+        }
+      ],
+      "duration_ms": 151436,
+      "name": "Make Me",
+      "url": "https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm"
     },
     {
       "added_at": "2023-10-06 13:00:09",
@@ -1351,22 +1351,18 @@
     {
       "added_at": "2023-10-06 13:00:09",
       "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/5IgB6Fk5htrX4vQAcmw4ga"
+        "name": "Hawt",
+        "url": "https://open.spotify.com/album/2iK3grtziXltGlUceq1ppd"
       },
       "artists": [
         {
-          "name": "MENTIS",
-          "url": "https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3"
-        },
-        {
-          "name": "Kate Wild",
-          "url": "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
+          "name": "TIBASKO",
+          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
         }
       ],
-      "duration_ms": 172750,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/2gvIIpYdM9x1rdekmQMXCL"
+      "duration_ms": 157836,
+      "name": "Hawt",
+      "url": "https://open.spotify.com/track/2Yhue0OmVBXQiEbdqszVar"
     },
     {
       "added_at": "2023-10-06 13:00:09",
@@ -1387,18 +1383,22 @@
     {
       "added_at": "2023-10-06 13:00:09",
       "album": {
-        "name": "Hawt",
-        "url": "https://open.spotify.com/album/2iK3grtziXltGlUceq1ppd"
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/5IgB6Fk5htrX4vQAcmw4ga"
       },
       "artists": [
         {
-          "name": "TIBASKO",
-          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
+          "name": "MENTIS",
+          "url": "https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3"
+        },
+        {
+          "name": "Kate Wild",
+          "url": "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
         }
       ],
-      "duration_ms": 157836,
-      "name": "Hawt",
-      "url": "https://open.spotify.com/track/2Yhue0OmVBXQiEbdqszVar"
+      "duration_ms": 172750,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/2gvIIpYdM9x1rdekmQMXCL"
     },
     {
       "added_at": "2023-10-06 13:00:09",
