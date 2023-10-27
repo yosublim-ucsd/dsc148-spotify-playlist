@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-211 songs - 12 hr 31 min
+213 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 | 2022-06-03 |  |
 | [Close To You](https://open.spotify.com/track/0ptKXVvF6qrNAjm9HGG0Rw) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [De Beste Singer Songwriter van Nederland 2](https://open.spotify.com/album/5rWkw0mK0WGSWtZnfKE8DV) | 4:50 | 2021-11-24 | 2023-02-24 |
 | [Closer To The Sun](https://open.spotify.com/track/5qQ7HmA57BxMfHEOtWuPCF) | [Frank Rensen](https://open.spotify.com/artist/4nahdbp2YzcisSOrGyVBAP) | [Closer To The Sun](https://open.spotify.com/album/7tCbZ4Kx4ksIKqRTnoM3Eo) | 3:47 | 2021-11-24 |  |
+| [Come on By](https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Come on By](https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX) | 3:25 | 2023-10-26 |  |
 | [Constellations](https://open.spotify.com/track/427ckvkTomPZKpFvgaMBcy) | [Moonloops](https://open.spotify.com/artist/2rXIqzzsMByBxUJhiZPXWo) | [Constellations](https://open.spotify.com/album/3cJm2D899SihiCAY68lU1Z) | 2:45 | 2023-02-23 |  |
 | [Convince Yourself](https://open.spotify.com/track/0lbuz5ZNwAxlp1z1Vkks9f) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Jeffrey Dol](https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh) | [Convince Yourself](https://open.spotify.com/album/3GgDV6ldoI54egU3rfOBGZ) | 3:16 | 2023-09-29 |  |
 | [Courtyard Theatre](https://open.spotify.com/track/00eAyad4JN4CFGRdZPFdF9) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Courtyard Theatre](https://open.spotify.com/album/3QD3YNRDTSsYLI30dBYAHm) | 3:09 | 2023-04-06 | 2023-09-29 |
@@ -45,7 +46,8 @@
 | [Don't Forget About Me](https://open.spotify.com/track/04eXDIDkXFrfZQeJtLERVh) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68pBVLvF14n0d3c6BYlOTk) | 4:28 | 2021-11-24 | 2022-07-29 |
 | [Don't You](https://open.spotify.com/track/3rBM5DQVSTzkpNLqRwsNpH) | [Marike Jager](https://open.spotify.com/artist/1DvjWYF9T7H6CuQ7udKLYF), [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [The Silent Song](https://open.spotify.com/album/5786aDAs5wQeuRgbPVuhBt) | 3:03 | 2022-06-03 |  |
 | [Don't You](https://open.spotify.com/track/57qbmijYidoNcaLkT9zXQJ) | [Marike Jager](https://open.spotify.com/artist/1DvjWYF9T7H6CuQ7udKLYF), [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [The Silent Song](https://open.spotify.com/album/7p8kTQeWSGGs3yQkl8t6j8) | 3:03 | 2021-11-24 | 2022-07-29 |
-| [Down The Line \(Acoustic\)](https://open.spotify.com/track/0sAypLPBNeIMSuiJtq8SKz) | [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw) | [Down The Line \(Acoustic\)](https://open.spotify.com/album/4Qg9EgLw5BhglDaZ2CtpkP) | 3:03 | 2023-09-21 |  |
+| [Down The Line \(Acoustic\)](https://open.spotify.com/track/0sAypLPBNeIMSuiJtq8SKz) | [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw) | [Down The Line \(Acoustic\)](https://open.spotify.com/album/4Qg9EgLw5BhglDaZ2CtpkP) | 3:03 | 2023-09-21 | 2023-10-27 |
+| [Down The Line \(Acoustic\)](https://open.spotify.com/track/1eHOfFemzsunjLponZYqdf) | [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw) | [Popular Problems](https://open.spotify.com/album/1mhmQBmR0fjaTEuDGRiXaK) | 3:03 | 2023-10-26 |  |
 | [Dream In A Dream](https://open.spotify.com/track/6EGvCC2xy1lEzfINPK5DUq) | [Frank Rensen](https://open.spotify.com/artist/4nahdbp2YzcisSOrGyVBAP) | [1/2](https://open.spotify.com/album/02YjNurvWFrkzn5wjEYT2P) | 3:11 | 2021-11-24 |  |
 | [Even on Bad Days](https://open.spotify.com/track/1Yn0e8tam3k9rNHIhI5GNg) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Even on Bad Days](https://open.spotify.com/album/02fIwZWAMLUPo5OI7LVnr9) | 4:38 | 2023-10-06 |  |
 | [Everything Grows](https://open.spotify.com/track/1SjWBuWiOuEWyZQJZI7aLZ) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [Everything Grows](https://open.spotify.com/album/3bUHdR32jmz04qR2DNSF8B) | 4:17 | 2023-02-23 | 2023-05-18 |
@@ -165,7 +167,7 @@
 | [Sister](https://open.spotify.com/track/1IKMzW0NMEWOgNO3LVFZbe) | [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Airplanes](https://open.spotify.com/album/5Nm3G5vPdDf9hxo11dQiEZ) | 3:25 | 2021-11-24 |  |
 | [Slow Love \- Acoustic](https://open.spotify.com/track/79ZmAU7DaOEm7etd0mRkKT) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [2 degrees](https://open.spotify.com/album/5VaSkpAV6yLSudbdkHtjlB) | 3:19 | 2022-04-28 | 2023-05-27 |
 | [Soldier On](https://open.spotify.com/track/5ciRElWhvA0LuG2hQi90Ie) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Soldier On](https://open.spotify.com/album/1h86JSDcGsMsWgPFpoZ0Aj) | 3:27 | 2021-11-24 | 2023-04-21 |
-| [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 | 2021-11-24 |  |
+| [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 | 2021-11-24 | 2023-10-27 |
 | [Sorry](https://open.spotify.com/track/2YG9R7bf3gbbI6K2mKklvf) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Easy Sunny Morning](https://open.spotify.com/album/395vm4hYjijR0jLbWCx5Xy) | 3:46 | 2022-11-03 | 2022-11-13 |
 | [Sorry](https://open.spotify.com/track/07uuo1yEND3oinbFZnYOvx) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Control](https://open.spotify.com/album/2mDFaJRa8HHbUbWusiq3DF) | 3:47 | 2022-06-03 |  |
 | [Sorry](https://open.spotify.com/track/39HyltGRsg2q0s5PMA9ala) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Control](https://open.spotify.com/album/7kunNk4rQrxOtatKGidJO4) | 3:47 | 2021-11-24 | 2022-07-29 |

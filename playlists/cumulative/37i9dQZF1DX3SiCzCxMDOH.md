@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-643 songs - 1 day 13 hr 44 min
+647 songs - 1 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [A Tribute To Oscar Peterson](https://open.spotify.com/track/0QFPEr4Sk1r9NAlJy5i5Hv) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT), [Edvin Fridolfsson](https://open.spotify.com/artist/0dm9f6OH0ImQjAywl6xgtK), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [A Tribute To Oscar Peterson](https://open.spotify.com/album/2tF18D6WvNHWKqxhDbLyXw) | 3:05 | 2022-04-11 | 2022-07-29 |
 | [A Tribute To Oscar Peterson](https://open.spotify.com/track/3wd4T3N6Z2PdYMcAvnaBlT) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA), [Edvin Fridolfsson](https://open.spotify.com/artist/0dm9f6OH0ImQjAywl6xgtK) | [All The Things You Are](https://open.spotify.com/album/5cOvxmt5iLyz2c1Rm8Au75) | 3:05 | 2022-06-28 | 2022-11-25 |
 | [A Tribute To Oscar Peterson](https://open.spotify.com/track/4MGjocXx9F9lnBkrgDGdSD) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA), [Edvin Fridolfsson](https://open.spotify.com/artist/0dm9f6OH0ImQjAywl6xgtK) | [A Tribute To Oscar Peterson](https://open.spotify.com/album/158HWbvslEdAjzpoF6enCK) | 3:05 | 2022-11-10 | 2022-11-13 |
+| [A Wayfarer's Tale](https://open.spotify.com/track/0RrvMxwdAX6qBQHjR3EEPZ) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [A Wayfarer's Tale](https://open.spotify.com/album/3E7581DaCGTtHOi5KvwYpN) | 3:34 | 2023-10-27 |  |
 | [Across the Ocean](https://open.spotify.com/track/3uAk1bGnkgBOybte47PUm1) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Candles on the Moon](https://open.spotify.com/album/0KtqPp4quy5rDlMfWnRIjL) | 2:43 | 2023-09-22 |  |
 | [Affection](https://open.spotify.com/track/62LIjQ7uet2hOT9577QYoq) | [Hunter Paige](https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ) | [Affection](https://open.spotify.com/album/0xye9fPdkqLWvaW52XXpg5) | 3:26 | 2023-04-20 |  |
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2022-04-11 | 2023-03-25 |
@@ -107,6 +108,7 @@
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2022-08-10 |  |
 | [Change of Heart](https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E) | [Turtleneck Trio](https://open.spotify.com/artist/54QkrSdChFqOKNG4S9NRcf) | [Change of Heart](https://open.spotify.com/album/3k8gus1toU2ljnUynceNNY) | 4:51 | 2022-04-11 | 2022-12-09 |
 | [Chasing Rainbows](https://open.spotify.com/track/55FGpcsMf5cQGF3BQtZjEw) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [Chasing Rainbows](https://open.spotify.com/album/3Ho0NuGDkrtrZGwfe9NwdO) | 3:28 | 2023-09-29 |  |
+| [Chasing Raindrops](https://open.spotify.com/track/1Qz102L6nW3SfTBmvbKnuU) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Chasing Raindrops](https://open.spotify.com/album/3W663XXNBOrudqv9SjqQ08) | 3:34 | 2023-10-27 |  |
 | [Chelsea Bridge](https://open.spotify.com/track/5GCBRCB2SVSNOu7k38ix5r) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Chelsea Bridge](https://open.spotify.com/album/7LELdHXIAow8e1HFmoC859) | 5:03 | 2022-04-11 | 2022-11-25 |
 | [chemin de la lune](https://open.spotify.com/track/7BgjINRWnW9fIiuLdMXQ5R) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [chemin de la lune](https://open.spotify.com/album/15mvy7ylxmKsgrBHa0WCA1) | 3:39 | 2023-02-23 |  |
 | [Cherie](https://open.spotify.com/track/2aFdC7xP56IAHVc6NulDRX) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Cherie](https://open.spotify.com/album/5PlgIvkFi9KCurYCCWfzmZ) | 4:08 | 2022-04-11 | 2022-11-11 |
@@ -395,6 +397,7 @@
 | [My Shining Hour](https://open.spotify.com/track/0IBOhB35u9pJLdNSWFuCpM) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [My Shining Hour](https://open.spotify.com/album/7uqCrcgqBpD40AI8MrAxh1) | 2:23 | 2023-08-10 |  |
 | [My Ship](https://open.spotify.com/track/6LfNBoBMp1pJtnm2VQm0gy) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [My Ship](https://open.spotify.com/album/4L2n6cYNRrpHlsIO6sokyR) | 2:36 | 2023-09-22 |  |
 | [My Words Are Not Enough](https://open.spotify.com/track/37nnBZliiFwBAYZolb1e0W) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [My Words Are Not Enough](https://open.spotify.com/album/0j6u4s9bsjhp1lLHA6PAic) | 2:42 | 2023-03-23 |  |
+| [Mystic Moonlight Groove](https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Mystic Moonlight Groove](https://open.spotify.com/album/52zp4HrTeYZeiLn3iDy01S) | 3:31 | 2023-10-27 |  |
 | [Naima](https://open.spotify.com/track/6N1c9EHlOMHdQ55hmHkhDq) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [Naima](https://open.spotify.com/album/2sSS9Mxw73wnpilrkA4mdJ) | 3:10 | 2022-11-17 |  |
 | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq) | 4:05 | 2022-09-20 |  |
 | [Need to rest](https://open.spotify.com/track/0Z9IuuRyNcz275MxEMvdZ7) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [Need to rest](https://open.spotify.com/album/10hgpKgMU5w4n3pCRIfPrY) | 3:07 | 2023-10-06 |  |
@@ -407,6 +410,7 @@
 | [Nightfall](https://open.spotify.com/track/0pUJIrhpnvI1wneFmal7oG) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Nightfall](https://open.spotify.com/album/1NKqdrY5COQ2fE54U1Mxbh) | 3:12 | 2023-04-13 |  |
 | [Nightshift](https://open.spotify.com/track/7s7b3petWiTzsJE9oeVXKW) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Nightshift](https://open.spotify.com/album/1I7aRHHNn8lmr5ECqMkQ4u) | 2:54 | 2022-12-22 |  |
 | [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 | 2022-04-11 |  |
+| [Nocturnal Whispers](https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Nocturnal Whispers](https://open.spotify.com/album/05VITsYb1YmKoBQuZCoGr9) | 4:27 | 2023-10-27 |  |
 | [North again](https://open.spotify.com/track/1KsztYFy4WJZ7ZbuTIfrMH) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [North again](https://open.spotify.com/album/54cLqLRb50nAibPwJWBjyV) | 2:37 | 2023-04-13 |  |
 | [Not Nice At All](https://open.spotify.com/track/7pilE4NULuXBPHZNzODH5i) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Not Nice At All](https://open.spotify.com/album/5TRSBkD21PjK91y6gfUWMH) | 2:56 | 2023-09-22 |  |
 | [Not Too Hot](https://open.spotify.com/track/0FoNYyoLC8Jj12GQggux8T) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Not Too Hot](https://open.spotify.com/album/4qOxXHChJ2JsAkT3Id2zQf) | 4:47 | 2022-06-28 | 2022-08-31 |

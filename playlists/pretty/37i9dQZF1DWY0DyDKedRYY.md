@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music, featuring RADAR official artist Peso Pluma on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,039 likes - 47 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,032 likes - 47 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 13 | [Candy](https://open.spotify.com/track/15NYGHy9F4vQstNvznsTZw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz), [Two star](https://open.spotify.com/artist/3QCMLWLjJyGA8cQCPrusdv) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:54 |
 | 14 | [WHITE CROCS \(with Ryan Trey\)](https://open.spotify.com/track/0VNe1ZE8U2baB3JKZpEBok) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:27 |
 | 15 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
-| 16 | [First Day Out \(Freestyle\)](https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u) | 2:22 |
+| 16 | [First Day Out \(Freestyle\)](https://open.spotify.com/track/7idI4LLo9LVLqrvvzhSj3n) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/31UX5n39Siyj0nXs1s5DSZ) | 2:22 |
 | 17 | [Higher \(Escalators\)](https://open.spotify.com/track/3oUiNUmZ5ONKmITWEpcT4h) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Higher \(Escalators\)](https://open.spotify.com/album/37E0mCzR5jbqIWX1EM4VFE) | 2:19 |
 | 18 | [beautiful waste](https://open.spotify.com/track/6JfISacOvddHFsPkE8bE3Z) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [beautiful waste](https://open.spotify.com/album/7ntBWu8hyC7hIPqMwi5mJQ) | 2:29 |
 | 19 | [try](https://open.spotify.com/track/7KPibpTWZTtzUuhiNWX6d3) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [try](https://open.spotify.com/album/4Bgc3jlcqzN9QtRqq4hUqg) | 2:08 |
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 39 | [how's it feel to be a boy](https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [how's it feel to be a boy](https://open.spotify.com/album/4sHzSRwp8ALK3b6itOJvrA) | 2:21 |
 | 40 | [Do You Love You Or Do You Love Money](https://open.spotify.com/track/4b5DBuOxapO0h4FFCoWVhM) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum), [Gawd 5](https://open.spotify.com/artist/0kSc2CEDUGHscgXJJPtFNu) | [Do You Love You Or Do You Love Money](https://open.spotify.com/album/34cpEt0hwBa8HBRLPmbqxa) | 3:45 |
 | 41 | [Johnny's Dead](https://open.spotify.com/track/6qh5yE6FEk0n6hsCufMIX6) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [Johnny's Dead](https://open.spotify.com/album/5y8pk29U5u1ZF2Woi7jqgn) | 2:37 |
-| 42 | [Ready For You](https://open.spotify.com/track/3cDHpCGXwtmwlYG03O73UD) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Ready For You](https://open.spotify.com/album/1h4w0lyV12u3CuxsvQvEKR) | 3:00 |
+| 42 | [Ready For You](https://open.spotify.com/track/73HF6dF6a3XjmVMW30Zjp0) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [I Don't Want You Anymore](https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb) | 2:58 |
 | 43 | [hot girls in hell](https://open.spotify.com/track/7vys2uYSgV5eN1QvdBw6iz) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [hot girls in hell](https://open.spotify.com/album/7Cg3eGiwQB6KVfVoEMWi8y) | 2:50 |
 | 44 | [Holes](https://open.spotify.com/track/0B6v7ZT2yrqYaCQb6OP5Gn) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Holes](https://open.spotify.com/album/1AAJoXqYgInrxXjoRCK4Uh) | 3:58 |
 | 45 | [FIND MY WAY](https://open.spotify.com/track/32oM6ZiwrFcXtscoQWpN76) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [FIND MY WAY](https://open.spotify.com/album/6zMB1gaaFKxJIWQtYnsES5) | 1:50 |
 | 46 | [Bring It Back](https://open.spotify.com/track/1ZGiu67oe3wt3t6Lqoegqm) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Bring It Back](https://open.spotify.com/album/59nhRrYrcHzI5vs0obptvb) | 2:58 |
 | 47 | [Celebrity Lookalikes](https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Celebrity Lookalikes](https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu) | 3:32 |
 
-Snapshot ID: `MCw3NmNjNWU5MDJjNmFkMDAyY2ZkYTJkMGM0NmQ5NTQyMGVmNDU1OTE2`
+Snapshot ID: `MCwyM2U5MGI2ZDQ4NWFiNGJiMzA2YzY1OWI4OTRlNjlkNWU4OGJmYTcy`

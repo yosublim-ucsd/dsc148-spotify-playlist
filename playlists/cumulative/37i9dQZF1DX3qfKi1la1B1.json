@@ -1495,6 +1495,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/7bPgpfTm8qpumS9b1QTmLM"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249119,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5qLrPj4UgxfXDQ8eMCrepp"
+    },
+    {
+      "album": {
         "name": "fly bys",
         "url": "https://open.spotify.com/album/47lONTnQXNykToQaD6OUPD"
       },
@@ -3166,7 +3184,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 265906,
       "name": "New Type (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
@@ -3366,6 +3384,28 @@
       "duration_ms": 226160,
       "name": "Panic Attacks",
       "url": "https://open.spotify.com/track/0hFxiaVUZTEpsAdrV595Xn"
+    },
+    {
+      "album": {
+        "name": "Past From (Rebelski Remix)",
+        "url": "https://open.spotify.com/album/6YidGPbvQ6iC6LJx3XFIQK"
+      },
+      "artists": [
+        {
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+        },
+        {
+          "name": "Rebelski",
+          "url": "https://open.spotify.com/artist/18zTVJ6fMHo39oGuHINfOX"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295505,
+      "name": "Past From - Rebelski Remix",
+      "url": "https://open.spotify.com/track/3pCjv2qXqPpiCttub0jk32"
     },
     {
       "album": {
@@ -4203,6 +4243,28 @@
     },
     {
       "album": {
+        "name": "Slow Dancing (Remixes)",
+        "url": "https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "FRNK",
+          "url": "https://open.spotify.com/artist/6rI2O8GMY9k1JYDDWkD0a8"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169840,
+      "name": "Slow Dancing (FRNK Remix)",
+      "url": "https://open.spotify.com/track/6mSCY4xjKyt5xLlgOXXHSk"
+    },
+    {
+      "album": {
         "name": "Soft Peng (JD. Reid Remix)",
         "url": "https://open.spotify.com/album/30qoQspPtZ44pVnW3fh3ec"
       },
@@ -4298,7 +4360,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 166533,
       "name": "Something About You (with Rudimental) - Chill Mix",
       "url": "https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ"
@@ -4730,6 +4792,28 @@
       "duration_ms": 178722,
       "name": "The Surge - Edit",
       "url": "https://open.spotify.com/track/7zgqpFBkgX3ycNALKpVdhQ"
+    },
+    {
+      "album": {
+        "name": "The Two Of Us (feat. Clara Mann)",
+        "url": "https://open.spotify.com/album/1xI6SdJtqpXDJbJH1XRWHz"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        },
+        {
+          "name": "Clara Mann",
+          "url": "https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289856,
+      "name": "The Two Of Us (feat. Clara Mann)",
+      "url": "https://open.spotify.com/track/514zM3fP40Dubmz2bQJSw3"
     },
     {
       "album": {
@@ -5330,7 +5414,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
@@ -5388,7 +5472,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 168562,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"

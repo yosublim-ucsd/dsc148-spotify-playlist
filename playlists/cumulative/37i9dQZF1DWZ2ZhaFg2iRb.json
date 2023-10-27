@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Welcome To The Madhouse",
+        "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC"
+    },
+    {
+      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/0ej8KymWppPptOQ57e6sOb"
       },
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 219133,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/21vLEEtCTBS6fxw1TuPJAy"
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 205156,
       "name": "Ray-Bans",
       "url": "https://open.spotify.com/track/75Krgu40syJQZMrrU853Kp"
@@ -2336,6 +2354,28 @@
       "duration_ms": 157016,
       "name": "V m\u00edru",
       "url": "https://open.spotify.com/track/3AOj2C9uyr2pOtxFvpSelx"
+    },
+    {
+      "album": {
+        "name": "Rodinn\u00e9 album",
+        "url": "https://open.spotify.com/album/3g5zSk0kQkPeJbEhBXlpxT"
+      },
+      "artists": [
+        {
+          "name": "Pok\u00e1\u010d",
+          "url": "https://open.spotify.com/artist/5YmH8W9CJRTj4LKg6qyYtE"
+        },
+        {
+          "name": "Gabriela La\u0161kov\u00e1",
+          "url": "https://open.spotify.com/artist/5a2qJ2eTESIKFhZHmsF2Iz"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169760,
+      "name": "V pe\u0159in\u00e1ch",
+      "url": "https://open.spotify.com/track/1nc721r5hVptG2hlmWf332"
     },
     {
       "album": {

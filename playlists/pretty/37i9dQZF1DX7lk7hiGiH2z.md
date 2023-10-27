@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Süßes sonst gibt's Saures! 🎃
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,957 likes - 45 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,650 likes - 45 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 22 | [Gespenster und Vampire](https://open.spotify.com/track/4EWFa6k3VJgBjhvKu3nsdK) | [Andi Und Die Affenbande](https://open.spotify.com/artist/2TcyoCxsDs7SIunkChvNjq) | [Gespenster und Vampire](https://open.spotify.com/album/2WK7N0bHiLFXrvMjK2tG4M) | 3:02 |
 | 23 | [Time Warp](https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu) | [Little Nell](https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke), [Patricia Quinn](https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs), [Richard O'Brien](https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:19 |
 | 24 | [Zombietanz](https://open.spotify.com/track/2o8OojmqLNat22KUd1YeRl) | [Minidisco Deutsch](https://open.spotify.com/artist/6wHvqVUezhjP2pNemRLyIY) | [Minidisco 2020 \(Deutsch Version\)](https://open.spotify.com/album/0HT9yqMozur34CCOk9pdLd) | 2:54 |
-| 25 | [Hu Ha Halloween](https://open.spotify.com/track/4r8pkG3FfuYGFTHYtb2az9) | [Cattu der Traumfänger](https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx) | [Im Land der bunten Fantasie \- Lieder zum Tanzen, Träumen und Mitsingen](https://open.spotify.com/album/4snrlgBOo2mHe82gC8ONhn) | 2:36 |
-| 26 | [Paranormal](https://open.spotify.com/track/6dmdfDexEUn0aSPgZQLbrv) | [Dolini](https://open.spotify.com/artist/4XKVz2WC7nZStQsHJv7zyS) | [Paranormal](https://open.spotify.com/album/7p7huTAyXP2i2WdfyB32rB) | 4:12 |
+| 25 | [Paranormal](https://open.spotify.com/track/6dmdfDexEUn0aSPgZQLbrv) | [Dolini](https://open.spotify.com/artist/4XKVz2WC7nZStQsHJv7zyS) | [Paranormal](https://open.spotify.com/album/7p7huTAyXP2i2WdfyB32rB) | 4:12 |
+| 26 | [Hu Ha Halloween](https://open.spotify.com/track/4r8pkG3FfuYGFTHYtb2az9) | [Cattu der Traumfänger](https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx) | [Im Land der bunten Fantasie \- Lieder zum Tanzen, Träumen und Mitsingen](https://open.spotify.com/album/4snrlgBOo2mHe82gC8ONhn) | 2:36 |
 | 27 | [Kinder Mäuse Monster Party](https://open.spotify.com/track/1tBU646XvprtvmJdqblhYN) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Kinder Mäuse Monster Party](https://open.spotify.com/album/3kQzllISQiYBuEKfBKmQmD) | 2:13 |
-| 28 | [Monster & Drachen](https://open.spotify.com/track/5dWlVr7ZsSosxpoZO2KiHT) | [Dota Kehr](https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga) | [Unter meinem Bett 4](https://open.spotify.com/album/6urz9b8HGTbqHBYOejq7c4) | 3:44 |
-| 29 | [Halloween Song](https://open.spotify.com/track/6NQJCS8jFOzOZfW0AgLJ5G) | [Bibi Blocksberg](https://open.spotify.com/artist/3t2iKODSDyzoDJw7AsD99u) | [Halloween Song](https://open.spotify.com/album/2xDOcXB86nEYmmb0tk6Sca) | 2:29 |
+| 28 | [Halloween Song](https://open.spotify.com/track/6NQJCS8jFOzOZfW0AgLJ5G) | [Bibi Blocksberg](https://open.spotify.com/artist/3t2iKODSDyzoDJw7AsD99u) | [Halloween Song](https://open.spotify.com/album/2xDOcXB86nEYmmb0tk6Sca) | 2:29 |
+| 29 | [Monster & Drachen](https://open.spotify.com/track/5dWlVr7ZsSosxpoZO2KiHT) | [Dota Kehr](https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga) | [Unter meinem Bett 4](https://open.spotify.com/album/6urz9b8HGTbqHBYOejq7c4) | 3:44 |
 | 30 | [Thriller \- Single Version](https://open.spotify.com/track/20efeySIfZoiSaISGLBbNs) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 5:12 |
 | 31 | [Dracula \- Remastered 2004](https://open.spotify.com/track/2qNDy6bmZyVnWJS8UeqbtA) | [Iris Gruttmann](https://open.spotify.com/artist/7ePL5iRMTwMrgA6DyFDA4l) | [Das große Felix Liederalbum 2](https://open.spotify.com/album/6UCseiCljsu6wn0tQuT5sq) | 4:49 |
 | 32 | [Hui Buh \- Das Schlossgespenst](https://open.spotify.com/track/74skypXEi8IWrHoXZZ8sw8) | [Michael Schanze](https://open.spotify.com/artist/3qZlcxiBZnekq0NeAnPLy4), [Hans Clarin](https://open.spotify.com/artist/6i6Rf2vtI1fQ4E9oXx6oZX) | [Danke Rudi!](https://open.spotify.com/album/0PaCAksrWV8EIPLMdYmGAe) | 3:12 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 44 | [Drei kleine Hexen](https://open.spotify.com/track/7prmyyJSIZbY7ZwlczWG0T) | [Rainer Wenzel](https://open.spotify.com/artist/0Pqj7d09m594nU0ckKJ9vh) | [Au Backe!](https://open.spotify.com/album/15TCbswxpNzD23AJJIG78I) | 2:48 |
 | 45 | [Monsterparty](https://open.spotify.com/track/43fpx6UumXkrClViE5kfrV) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Party \- EP](https://open.spotify.com/album/1Axi7PGr2v3JLEHHkoLAK7) | 2:10 |
 
-Snapshot ID: `MCxjYTlkYmI2ZTllMzM0OTY2MjExM2RlMjM4YmU1MDg4MGY0OGI5ZGJm`
+Snapshot ID: `MCxmY2FlNDdkMDM4YjNhOGE0MTI0ZDRiZGJkOWUyNWQyNDg3Yjk5ZmIw`

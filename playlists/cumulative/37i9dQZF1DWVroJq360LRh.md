@@ -4,7 +4,7 @@
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-244 songs - 13 hr 35 min
+245 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Take me to church \- Acoustic](https://open.spotify.com/track/0aennjtfg2FjQnKDlwezNO) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Take Me To Church \(Acoustic\)](https://open.spotify.com/album/1YY1bunCgmyMCVtEsaGNvP) | 3:51 | 2022-12-23 | 2023-06-02 |
 | [Take Me With You](https://open.spotify.com/track/15hzzXpFQCJp9P2dTHUXfK) | [A Day Awaits](https://open.spotify.com/artist/1UjkFkJmV49oRNMhSN32NJ) | [Take Me With You](https://open.spotify.com/album/2MdMio4OjHlXYoe51na2ua) | 3:11 | 2022-01-12 | 2023-06-02 |
 | [Tenerife Sea](https://open.spotify.com/track/5rYipCuUMXmKr5XM3eDC1r) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/0MeOIA0wwSa6nW79jy8QcZ) | 4:01 | 2022-01-12 | 2022-07-29 |
-| [Tenerife Sea](https://open.spotify.com/track/6vSwxzO2Qf4BinHSXRwZJe) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 4:01 | 2022-07-26 |  |
+| [Tenerife Sea](https://open.spotify.com/track/6vSwxzO2Qf4BinHSXRwZJe) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 4:01 | 2022-07-26 | 2023-10-27 |
 | [Thank You Next \- Bossa Nova](https://open.spotify.com/track/0oDaCDJSz9K878vbIOmQsT) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Thank You Next \- Bossa Nova](https://open.spotify.com/album/4cpGMTeSx4MyAbDgfW51ih) | 3:47 | 2022-05-06 | 2023-06-16 |
 | [The A Team](https://open.spotify.com/track/5lbeUlfWKtXsUsOk6tscZz) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct) | [The A Team](https://open.spotify.com/album/5F0rVfRsZs4pbmjVlbVD55) | 3:05 | 2022-01-12 |  |
 | [The Body](https://open.spotify.com/track/5pVzgoVzrM07rWm0Ui7HBg) | [John Blek](https://open.spotify.com/artist/5CxmG18g0Za8n3kxtRShFj) | [Thistle & Thorn](https://open.spotify.com/album/4CSy2t88qUFosP05IIpjoI) | 4:30 | 2022-01-12 | 2023-09-08 |
@@ -250,6 +250,7 @@
 | [Wicked Game](https://open.spotify.com/track/4WW5jLs5WXLE5YoRBoju0p) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Wicked Game](https://open.spotify.com/album/0zH3SHiGlCJWDJ3iwPAoqD) | 2:29 | 2022-11-11 | 2023-08-25 |
 | [Wish You Were Here](https://open.spotify.com/track/4GKleQApcyCJduauR13QIi) | [Son De Durango](https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6) | [Wish You Were Here](https://open.spotify.com/album/5jVI3QPXUpKFqOLTVaS0wn) | 3:18 | 2022-05-06 |  |
 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6NSKAs3VYE0hpb13s6RDrp) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/14v8SrlIVSEbVNcDcAylp9) | 3:30 | 2022-01-12 | 2022-06-04 |
+| [yellow](https://open.spotify.com/track/4kUwfiTlAuHOtKZ54ajvP0) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [yellow](https://open.spotify.com/album/2Tc1vowFnDvNyP7sgseWII) | 3:08 | 2023-10-27 |  |
 | [you broke me first](https://open.spotify.com/track/0KAFjeQ6jpmtKP4CW9m5X6) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [you broke me first](https://open.spotify.com/album/0xo6qHMKN7rvr49SAV9imz) | 3:10 | 2022-01-12 | 2023-06-02 |
 | [You Get What You Give](https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [You Get What You Give](https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd) | 2:53 | 2022-01-12 |  |
 

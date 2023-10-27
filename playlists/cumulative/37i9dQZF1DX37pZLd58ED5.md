@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Geolier
 
-122 songs - 6 hr 40 min
+123 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [AIRFORCE \(feat\. Madame\)](https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:40 | 2022-04-28 |  |
 | [ALIBI](https://open.spotify.com/track/1zfszqoisdKWCIfFToaMHi) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:58 | 2022-04-28 | 2022-06-10 |
 | [Amore lo\-fi \(feat\. Nicola Siciliano & Madame\)](https://open.spotify.com/track/65qZHYBCEzXy12gyH4v9Z7) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI), [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:19 | 2022-04-28 | 2022-05-20 |
-| [Andrea](https://open.spotify.com/track/03j2Lo97VCDprSk8oLb8Gi) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Andrea](https://open.spotify.com/album/1mbwNDgFojWsQfJCN46Izm) | 3:05 | 2022-04-28 |  |
+| [Andrea](https://open.spotify.com/track/03j2Lo97VCDprSk8oLb8Gi) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Andrea](https://open.spotify.com/album/1mbwNDgFojWsQfJCN46Izm) | 3:05 | 2022-04-28 | 2023-10-27 |
 | [Angelina Jolie](https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Angelina Jolie](https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR) | 2:49 | 2022-04-28 |  |
 | [Apnea](https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Io In Terra](https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc) | 3:31 | 2022-04-28 |  |
 | [APPARTENGO \- Il sangue](https://open.spotify.com/track/6mP8EUaw6JbuYMJkQew3Ny) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Persona](https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v) | 4:15 | 2022-12-15 |  |
@@ -28,6 +28,7 @@
 | [Brivido](https://open.spotify.com/track/52dGHpZuhlsB28gV4z6MSv) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Grandi Classici Rap Italiano I GOT 5 ON IT](https://open.spotify.com/album/1lCXo2TP1ryw3AsaTgwDac) | 3:47 | 2022-10-25 | 2022-11-14 |
 | [Brivido](https://open.spotify.com/track/631EjX7Jgo7QeSn2JbRoBz) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Pensando a te Rap Italiano Game Over](https://open.spotify.com/album/23KDlmJHZGCeM8G6LUhsRm) | 3:47 | 2022-07-14 |  |
 | [Brivido](https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Bravo Ragazzo \(Royal Edition\)](https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW) | 3:47 | 2022-04-28 | 2022-07-29 |
+| [Brutto Sogno](https://open.spotify.com/track/4poLmuelQUDfAPPB4G94Z7) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Brutto Sogno](https://open.spotify.com/album/5Hs2qAbyTo605RNTgYbdUh) | 3:05 | 2023-10-26 |  |
 | [BUONANOTTE](https://open.spotify.com/track/5MNHrahj1qZFjh46GZmqLT) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 3:40 | 2022-12-05 | 2023-03-25 |
 | [BUONANOTTE](https://open.spotify.com/track/6QgnT0tFcEWqzAO6GrYvff) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 3:40 | 2022-11-17 | 2022-12-08 |
 | [BUONANOTTE ❈ \(con NOYZ NARCOS, FRANCO126 & SIDE BABY\)](https://open.spotify.com/track/70im6fWHD1m7VQve5I6Yim) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [OBE](https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj) | 3:28 | 2022-04-28 |  |

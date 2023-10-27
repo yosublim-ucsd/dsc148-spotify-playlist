@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-708 songs - 1 day 17 hr 26 min
+709 songs - 1 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,7 @@
 | [Outro : Ego](https://open.spotify.com/track/2LVw2bIK99go1NdD77dUCW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:16 | 2023-02-19 | 2023-02-21 |
 | [Outro: Wings](https://open.spotify.com/track/7kyUapJyppdjzoAWB6XS14) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:45 | 2022-05-12 | 2022-05-14 |
 | [Paint Me Naked](https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [Paint Me Naked \- SM STATION](https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6) | 3:00 | 2021-08-12 | 2023-10-09 |
-| [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 | 2023-09-23 | 2023-10-23 |
+| [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 | 2023-09-23 |  |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-09-05 | 2023-09-24 |
 | [Pandora's Box](https://open.spotify.com/track/2On611HXKQAbaYkuc4NQAm) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:36 | 2022-07-16 | 2022-07-20 |
 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 | 2023-01-26 | 2023-03-14 |
@@ -498,6 +498,7 @@
 | [กาลครั้งนึง](https://open.spotify.com/track/7cwlsNRPvS8v5IqgdScwM8) | [JUNENOM](https://open.spotify.com/artist/2UFwI4H1ZRWRRCdsxC9N7N) | [กาลครั้งนึง](https://open.spotify.com/album/5Wt9eVJL0doDLKDo0b2jUs) | 5:13 | 2023-07-03 | 2023-08-06 |
 | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/track/5AukYCDfrtIPvlqG6ZsFR9) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/album/3iaCbQ38BeeaqKFLrGXeuE) | 3:41 | 2021-10-17 | 2021-12-04 |
 | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/track/6GOQ0p77lhlhNfZDEmmqUx) | [Kannika Phio](https://open.spotify.com/artist/5ippZkUHIqFZrMRxnQwNwf) | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/album/3BrbZPxvZHzd0hu5yhbO3p) | 3:41 | 2021-11-04 | 2021-11-06 |
+| [กำแพงหัวใจ](https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [กำแพงหัวใจ](https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT) | 4:37 | 2023-10-26 |  |
 | [กีดกัน \(Skyline\) \- Ost\. แปลรักฉันด้วยใจเธอ](https://open.spotify.com/track/4D6f8Y7qiOvmFbm3TIab22) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [กีดกัน \(Skyline\) \[Ost\. แปลรักฉันด้วยใจเธอ\]](https://open.spotify.com/album/0BRS9EeGy9IHobfnnrreUX) | 3:37 | 2021-03-27\* | 2021-05-03 |
 | [ก่อนที่เธอจะลืมฝัน](https://open.spotify.com/track/7434PIB7QneUWJSKjHhNXH) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ก่อนที่เธอจะลืมฝัน \(Lucid\)](https://open.spotify.com/album/3ERquWsXSCsvB7g1LGTrIp) | 4:16 | 2023-06-25 | 2023-06-27 |
 | [ขอให้เธอใจดี](https://open.spotify.com/track/3y5HhSSAyYGtOkP6mhKs6z) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ขอให้เธอใจดี](https://open.spotify.com/album/0M0ul20pgcYfWCooWsh9Sb) | 4:55 | 2023-08-12 |  |
@@ -532,7 +533,7 @@
 | [จีบ](https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [จีบ](https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI) | 3:44 | 2021-03-27\* | 2021-08-18 |
 | [ฉบับปรับปรุง](https://open.spotify.com/track/2MnVrkbwL6ViB7q4NI7oVK) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi), [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q), [Lazyloxy](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [MAS\[S\]TERPIECE](https://open.spotify.com/album/65khrtPTO8Sy7txWgVZYM2) | 4:04 | 2022-01-15 | 2023-01-14 |
 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 | 2022-07-29 | 2022-09-23 |
-| [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/track/4pfjFUrtfnnkADqijqKmzP) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/album/10y1B7xbbawrkQ9VZ6uXZC) | 4:48 | 2023-02-11 |  |
+| [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/track/4pfjFUrtfnnkADqijqKmzP) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/album/10y1B7xbbawrkQ9VZ6uXZC) | 4:48 | 2023-02-11 | 2023-10-27 |
 | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j) | 3:42 | 2022-07-22 | 2023-04-13 |
 | [ชอบอยู่คนเดียว](https://open.spotify.com/track/3LzQ0QF4Ud7CyAIWdFxUHl) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ชอบอยู่คนเดียว](https://open.spotify.com/album/1PXCXG0vrdGwIbykWKt9eB) | 2:59 | 2022-09-30 | 2022-12-20 |
 | [ช่วยไม่ได้](https://open.spotify.com/track/4GGNl8jiANylTJj4hfzqP7) | [UrboyTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:17 | 2021-03-27\* | 2022-02-02 |
@@ -589,7 +590,7 @@
 | [มีปัญหาปรึกษาดาว](https://open.spotify.com/track/4YxaxRxi8lFZdAWS9nCmAn) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [มีปัญหาปรึกษาดาว](https://open.spotify.com/album/2Xt4DOcKSz4DZfB1cKsZAo) | 3:58 | 2021-04-30 | 2021-09-10 |
 | [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 | 2023-07-16 |  |
 | [ยิ่งใกล้ยิ่งเก็บ](https://open.spotify.com/track/1GcLstNhtKD1c60tPGxYcH) | [I HATE MONDAY](https://open.spotify.com/artist/4bZFk69BTd1y2IsxIjO35M), [feat\. AUTTA](https://open.spotify.com/artist/4rVLBFI2QUVzXq4h4jzUFj) | [ยิ่งใกล้ยิ่งเก็บ \(feat\. AUTTA\)](https://open.spotify.com/album/3yeiECYxzfsMV77YsDVDnY) | 3:39 | 2021-05-03 | 2021-07-22 |
-| [ยิ้มทั้งน้ำตา](https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ้มทั้งน้ำตา](https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd) | 4:45 | 2023-03-10 |  |
+| [ยิ้มทั้งน้ำตา](https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ้มทั้งน้ำตา](https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd) | 4:45 | 2023-03-10 | 2023-10-27 |
 | [ยื้อ](https://open.spotify.com/track/4gwYEnoxp8QDqrNwWNsGq9) | [ปรีชา ปัดภัย](https://open.spotify.com/artist/0BMQhit4vJRkf4b1HO5qXv) | [ยื้อ](https://open.spotify.com/album/1m924NxQkRrH7GGxuInQ41) | 5:15 | 2023-10-23 |  |
 | [รบกวน](https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [รบกวน](https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb) | 3:41 | 2023-06-25 | 2023-07-12 |
 | [รสหวาน](https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ท้องฟ้าจำลอง](https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr) | 4:53 | 2023-02-11 | 2023-10-15 |

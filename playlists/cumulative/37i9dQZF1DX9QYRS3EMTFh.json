@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Meryl",
+  "description": "Les hits dancehall du moment. Photo : Maureen",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -2854,10 +2854,36 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 142703,
       "name": "James Bond",
       "url": "https://open.spotify.com/track/2BZl98NLm3NOanLqkJqkMW"
+    },
+    {
+      "album": {
+        "name": "James Bond (King Doudou Remix)",
+        "url": "https://open.spotify.com/album/1FzOPp8T1jWUNceqSqu6EC"
+      },
+      "artists": [
+        {
+          "name": "Jujuboy",
+          "url": "https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a"
+        },
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        },
+        {
+          "name": "King Doudou",
+          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186448,
+      "name": "James Bond - King Doudou Remix",
+      "url": "https://open.spotify.com/track/5dVVnvIl96krM2WYcq0FGJ"
     },
     {
       "album": {
@@ -3868,7 +3894,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 146419,
       "name": "Mon Ex",
       "url": "https://open.spotify.com/track/37VhlYpveBIh6MY4wBgRfq"
@@ -6680,6 +6706,28 @@
       "duration_ms": 150303,
       "name": "World Whine",
       "url": "https://open.spotify.com/track/7d04AeR7by0s0g8tA8P28T"
+    },
+    {
+      "album": {
+        "name": "WW",
+        "url": "https://open.spotify.com/album/1sQz06S4nf4HfMviIkbtKC"
+      },
+      "artists": [
+        {
+          "name": "Meel B",
+          "url": "https://open.spotify.com/artist/3WERUo1M9Vgnk6e9rAPmaX"
+        },
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101176,
+      "name": "WW",
+      "url": "https://open.spotify.com/track/2Hr3MEW0eoM0wtKMEy0eWS"
     },
     {
       "album": {

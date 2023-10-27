@@ -2,13 +2,14 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> Exceptionally vivid Swahili love stories for you and yours\. Cover: Mocco Genius
+> Exceptionally vivid Swahili love stories for you and yours\. Cover: Barnaba
 
-111 songs - 6 hr 21 min
+112 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 | 2022-05-26 | 2022-10-28 |
+| [All I Need](https://open.spotify.com/track/7wsTFtax8COrbO5BYRD3Dh) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [All I Need](https://open.spotify.com/album/0FkKqxcA1miGb9IkW2Vbgp) | 3:07 | 2023-10-26 |  |
 | [Amelowa](https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Amelowa](https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV) | 2:59 | 2022-09-22 |  |
 | [Ananipenda](https://open.spotify.com/track/4R6vTxggpyMGuSjfwOkPEB) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Ananipenda](https://open.spotify.com/album/4ubtaCtnqlodlNKIXhjijl) | 3:35 | 2023-04-13 |  |
 | [Asali](https://open.spotify.com/track/6zOkUcfqRYE6vc1iIa2KtB) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Asali](https://open.spotify.com/album/1949QLHsnthywLL5n79tAz) | 3:41 | 2022-09-29 | 2023-04-28 |
@@ -69,7 +70,7 @@
 | [Naisha](https://open.spotify.com/track/5d5bOX4rcX8PaF3KqCKu0D) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Inside Out](https://open.spotify.com/album/305UoRlLjJxe9uJoT2GUnR) | 3:01 | 2023-06-08 | 2023-09-01 |
 | [Nakufa](https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Amlyoto](https://open.spotify.com/artist/5X2uImif1VgMwjoNgzAkEP) | [Nakufa](https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH) | 4:55 | 2022-05-26 |  |
 | [Nakupenda](https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nakupenda](https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN) | 3:14 | 2022-10-27 |  |
-| [Nalego](https://open.spotify.com/track/6F50sh6SmKzIapv4TkAUmn) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Nalego](https://open.spotify.com/album/4LioOosWof1zHLi0B63C6g) | 3:29 | 2023-07-06 |  |
+| [Nalego](https://open.spotify.com/track/6F50sh6SmKzIapv4TkAUmn) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Nalego](https://open.spotify.com/album/4LioOosWof1zHLi0B63C6g) | 3:29 | 2023-07-06 | 2023-10-27 |
 | [Nampenda](https://open.spotify.com/track/6bY6Rrr3enYLfJK7djbgZQ) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Nampenda](https://open.spotify.com/album/0xhgXtc2IbEFcG7K12Olkb) | 3:37 | 2023-03-24 |  |
 | [Nana](https://open.spotify.com/track/0gwDoWMGqKUDZKFVnIGSJB) | [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc) | [Nana](https://open.spotify.com/album/6SpeTOCv5BzrJis3dUxmBU) | 2:38 | 2023-07-27 |  |
 | [Naoa](https://open.spotify.com/track/5mqvQK9sfEM9oVV4FCipjs) | [Brown Mauzo](https://open.spotify.com/artist/2ee8EQ0K7tAYVxHT9suKdf) | [V the Album](https://open.spotify.com/album/6bTnVI9B98ircUnv8UYXuy) | 3:20 | 2022-05-26 | 2022-11-18 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,313 songs - 2 day 22 hr 14 min
+1,314 songs - 2 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,7 +526,7 @@
 | [IBRA](https://open.spotify.com/track/0loJREraQLLtQxO6oq1R5X) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [IBRA](https://open.spotify.com/album/2rECNULAoj208MVJNRh2yt) | 2:19 | 2023-10-11 |  |
 | [Ice BOYZ](https://open.spotify.com/track/3mgfECSAnvo2cADUvLjHqB) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn) | [Ice BOYZ](https://open.spotify.com/album/0g2n5pvDvupyq0aTuCc2ed) | 2:31 | 2021-04-28 | 2021-05-23 |
 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-10-07 | 2023-10-22 |
-| [Idrogeios](https://open.spotify.com/track/77S1MD14JNFGwTVlr1NLTh) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy) | [Idrogeios](https://open.spotify.com/album/0CZ66Y3fWW3kptJQyM5kDC) | 2:50 | 2023-03-01 |  |
+| [Idrogeios](https://open.spotify.com/track/77S1MD14JNFGwTVlr1NLTh) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy) | [Idrogeios](https://open.spotify.com/album/0CZ66Y3fWW3kptJQyM5kDC) | 2:50 | 2023-03-01 | 2023-10-27 |
 | [IKEA](https://open.spotify.com/track/5g3XIqEmePr8ZNTxz3FgSS) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Fthina Tricks](https://open.spotify.com/album/7MqSq1YDxSsLL5vEvBPsAk) | 2:58 | 2023-05-20 | 2023-05-26 |
 | [Iliovasilema \- \(Part 2 \- Fos\)](https://open.spotify.com/track/3gMkuoFyby1uUf7rR7y8Km) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [22](https://open.spotify.com/album/6OqLxDFzcx4KrOsxZxG3VC) | 4:43 | 2022-05-02 | 2023-01-11 |
 | [Iliovasilemata](https://open.spotify.com/track/5pGtx4WUN2ieRY0yHh4wQR) | [Logos Timis](https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s), [Eleuthero Pneuma](https://open.spotify.com/artist/1ES4Fgglz6Q2ySlPsCAcgZ), [Koraki](https://open.spotify.com/artist/3KNpAQtSKrxaoafYl6RRuV), [Sativa](https://open.spotify.com/artist/6xfmBXL6ndOsNpZPpxWz6w), [Tokesick](https://open.spotify.com/artist/733tGeoTlbTeRjKHm7HAvQ) | [Iliovasilemata](https://open.spotify.com/album/10189huizuaGbkE785IqNk) | 5:00 | 2022-04-01 | 2022-04-04 |
@@ -874,6 +874,7 @@
 | [Okana](https://open.spotify.com/track/3msHaoj5LFaBazDo3fNxnJ) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q) | [Psixi](https://open.spotify.com/album/3HtrMyrM7HfCicKZPUmSeU) | 2:15 | 2022-02-23 | 2022-02-25 |
 | [Ola](https://open.spotify.com/track/7c8ddTBYFAgxBGaxQaZwpl) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Ola](https://open.spotify.com/album/7wN63iTjncYrbZnQeO0qxF) | 2:24 | 2023-03-18 | 2023-03-20 |
 | [OLA GYRNANE](https://open.spotify.com/track/5pQmCRAMhjM0nUBFVa6ioM) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [BLESSED](https://open.spotify.com/album/4Q9oW9CToVGcsXmkgj1ykP) | 2:59 | 2023-05-13 | 2023-05-15 |
+| [Ola Kala](https://open.spotify.com/track/0pqkfIGOaW41isgsnzdGpQ) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Ola Kala](https://open.spotify.com/album/25vFcAwCSIZzVID0k8sdXP) | 3:06 | 2023-10-26 |  |
 | [OLE](https://open.spotify.com/track/2G9iZhy22NiEkyAeKtKIXC) | [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw) | [STATUS](https://open.spotify.com/album/3o4jrfejp2xzBi41YSwMrP) | 3:26 | 2022-06-24 | 2022-10-23 |
 | [Omorfo Koritsi](https://open.spotify.com/track/7jKvq8HTmWAvRCu8qq1Dc5) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Omorfo Koritsi](https://open.spotify.com/album/3QLklLgb5H2UIGzAk5IhjJ) | 2:37 | 2022-08-27 | 2022-09-12 |
 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 | 2022-11-05 | 2022-11-13 |

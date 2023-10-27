@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-298 songs - 18 hr 35 min
+299 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Las Amo a Las Dos](https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Cumbia Pa' seguir Bailando](https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu) | 4:49 | 2022-07-05 | 2023-09-19 |
 | [Las Dos Camisas](https://open.spotify.com/track/3pfD9cp1evigTGungCt8wP) | [La Banda Tropikal de Vallenar](https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD) | [Las Dos Camisas](https://open.spotify.com/album/69SoU25343FcVNnghicQDA) | 4:05 | 2022-07-05 | 2022-07-22 |
 | [Las Maravillas de la Vida](https://open.spotify.com/track/5Qv9CmAHCWKs1okEFl6chK) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Las Maravillas de la Vida](https://open.spotify.com/album/4N9za8GNl17tmAjssJBdzs) | 3:04 | 2022-07-05 | 2022-07-29 |
-| [Las Mujers No Se Acaban](https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6) | [Grupo Kual? Dinastia Pedraza Es Grupo Kein?](https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd), [Grupo Kien? Los reyes del sabor](https://open.spotify.com/artist/6fEzGwsCbebAQaAXoSh2gy) | [Para Que La Cuña Apriete](https://open.spotify.com/album/643Req8SJXX188L5fuuVD2) | 4:30 | 2022-07-05 |  |
+| [Las Mujers No Se Acaban](https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6) | [Grupo Kual? Dinastia Pedraza Es Grupo Kein?](https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd), [Grupo Kien? Los reyes del sabor](https://open.spotify.com/artist/6fEzGwsCbebAQaAXoSh2gy) | [Para Que La Cuña Apriete](https://open.spotify.com/album/643Req8SJXX188L5fuuVD2) | 4:30 | 2022-07-05 | 2023-10-27 |
 | [Le Hace Falta un Beso](https://open.spotify.com/track/0I8QHW2T9Eqj4QWRIiKwRK) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Le Hace Falta un Beso](https://open.spotify.com/album/6qLZAeyYDTZ4MdFGBipbgP) | 3:19 | 2022-07-05 | 2022-07-29 |
 | [Llamame Mas Temprano](https://open.spotify.com/track/5aHJug2wnupoGfgfxRudsk) | [Mano Arriba](https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp) | [Llamame Mas Temprano / Hicimos un Pacto \- Single](https://open.spotify.com/album/7rTpfdX5EFZWlWxMyeAhKY) | 3:05 | 2022-07-05 | 2022-07-24 |
 | [Llamame Más Temprano](https://open.spotify.com/track/6JVZ8mwbwSU8iiJUE2kyql) | [Mano Arriba](https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp) | [Cumbia Baby!](https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG) | 3:05 | 2023-08-18 |  |
@@ -212,6 +212,7 @@
 | [Paisaje](https://open.spotify.com/track/6NipZljiEekGRNF6vddEP3) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn) | 4:24 | 2022-07-05 | 2023-03-10 |
 | [Para dormir contigo otra vez](https://open.spotify.com/track/5MarqoT4wE5uNITGuEZams) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [15Añero](https://open.spotify.com/album/6VANTf2CMQHLbGdxtvaXKN) | 3:01 | 2022-07-05 | 2022-07-29 |
 | [Para dormir contigo otra vez](https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [15Añero](https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk) | 3:01 | 2022-07-05 | 2023-10-18 |
+| [Pedazo de Papel](https://open.spotify.com/track/1TCXt8Z6MOKmqYqunAUEGG) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Pedazo de Papel](https://open.spotify.com/album/38Ppm9ZknrdRRwWAzLaqOa) | 4:49 | 2023-10-26 |  |
 | [Pero La Recuerdo](https://open.spotify.com/track/3mtThJNrqACi4f6GJeduAR) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Pero La Recuerdo](https://open.spotify.com/album/1rZTUDYyxdMYExoSiMa9kC) | 4:02 | 2022-07-05 | 2023-06-30 |
 | [Perrito Malvado](https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Marita](https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ) | [Perrito Malvado](https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ) | 4:40 | 2022-07-05 |  |
 | [Pideme la luna](https://open.spotify.com/track/5EaIGGp65BeF4u9rgPygfl) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cachacas favoritas vol 1](https://open.spotify.com/album/442PotJOVamQkCyPhagrXJ) | 3:16 | 2022-07-05 | 2022-07-29 |

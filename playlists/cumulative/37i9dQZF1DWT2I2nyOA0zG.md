@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-253 songs - 14 hr 25 min
+254 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Africa](https://open.spotify.com/track/0HOdXa3PPnJhNRBlgO7Jhr) | [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ) | [Africa](https://open.spotify.com/album/5oVYOWGSA1iXbviwW3SnTH) | 2:33 | 2022-08-12 | 2022-09-02 |
 | [Africa \(Main Mix\)](https://open.spotify.com/track/2ysx1y1Ump2gvFdCTQbYRK) | [Kwiish SA](https://open.spotify.com/artist/2J1TbsWFTYT0LHNSX897xS), [Busi N](https://open.spotify.com/artist/2Obuq2d8jqdtewbsU5DbFq), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4), [Sipho Magudulela](https://open.spotify.com/artist/34gZK9MCSnKzdcGbG74cXb) | [Back To Black \(Main Mix\)](https://open.spotify.com/album/5GqsbW7uPHmQKVnFHFaiKL) | 6:56 | 2023-03-03 | 2023-06-10 |
 | [Aibu](https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu](https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC) | 2:17 | 2022-02-11 | 2022-07-01 |
-| [Akwaba](https://open.spotify.com/track/6cOqoDln6OzVrjc2xI4Wsu) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Akwaba](https://open.spotify.com/album/0sAGpAdrQGbvB4f28asqUR) | 3:42 | 2023-10-12 |  |
+| [Akwaba](https://open.spotify.com/track/6cOqoDln6OzVrjc2xI4Wsu) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Akwaba](https://open.spotify.com/album/0sAGpAdrQGbvB4f28asqUR) | 3:42 | 2023-10-12 | 2023-10-27 |
+| [Akwaba](https://open.spotify.com/track/1RpYaDpoVelSpkVHj2yNYv) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Akwaba](https://open.spotify.com/album/6fy8ndrkD16idsJ22b8cFo) | 3:43 | 2023-10-20 |  |
 | [Alive](https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Alive](https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq) | 2:34 | 2021-12-02 | 2023-01-28 |
 | [All My Days](https://open.spotify.com/track/052blcya1EJNErdYq2HHbA) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [All My Days](https://open.spotify.com/album/45px3I5ighDQfdY7seZnwP) | 3:06 | 2022-11-18 | 2023-09-22 |
 | [Alone](https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:41 | 2023-03-17 |  |

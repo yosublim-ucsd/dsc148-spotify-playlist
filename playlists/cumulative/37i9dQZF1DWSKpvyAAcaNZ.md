@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-289 songs - 18 hr 11 min
+290 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/track/4eZUZRpgqQVtQsvaEHtxti) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Tony Coleman](https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8) | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/album/6v7PWbwEKiBFAPcijUpRVe) | 4:33 | 2021-12-17 | 2022-07-29 |
 | [How High](https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:12 | 2022-07-22 |  |
 | [How High](https://open.spotify.com/track/1ifHcMs6Cm7LaSwIokxzzQ) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [How High](https://open.spotify.com/album/0mK7xlYoiJLSMI3qfSCZQq) | 3:12 | 2021-12-17 | 2022-07-29 |
+| [How Long](https://open.spotify.com/track/3Y01uxGrWEnR9U78AUSwr5) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [How Long](https://open.spotify.com/album/0ssN0rucOvi8W4Sy2inv6a) | 3:59 | 2023-10-20 |  |
 | [How Long?](https://open.spotify.com/track/10f3q2Od3xz3P4BmsP2AHY) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [How Long?](https://open.spotify.com/album/7IDrMmvLYjBPHXWhLSloO2) | 4:16 | 2021-12-17 |  |
 | [Howlin' Back Again](https://open.spotify.com/track/0VjnoDDlSpYjue7QBdY1WA) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [New Blues Roots](https://open.spotify.com/album/691cfDyQ3ZKuAZVFZMfiZR) | 2:49 | 2022-07-22 | 2022-11-13 |
 | [Howlin' Back Again](https://open.spotify.com/track/5D11T1h41MKzM42WguJSfY) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Howlin' Back Again](https://open.spotify.com/album/3hcVuh1Bou7eQk329f7BsF) | 2:49 | 2021-12-17 | 2022-07-29 |

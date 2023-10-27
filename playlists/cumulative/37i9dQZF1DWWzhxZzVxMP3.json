@@ -3081,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "Sweet Dreams (Are Made of This)",
+        "url": "https://open.spotify.com/album/417nFOw9t04mP8GCqMKqps"
+      },
+      "artists": [
+        {
+          "name": "Lisa Laew",
+          "url": "https://open.spotify.com/artist/1BJxvqEKk18whkqb6eNUSR"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155555,
+      "name": "Sweet Dreams (Are Made of This) - Bossa Nova Version",
+      "url": "https://open.spotify.com/track/67PFYFZIywl6xjGVCpLJmW"
+    },
+    {
+      "album": {
         "name": "Bossanova Chill 1",
         "url": "https://open.spotify.com/album/3i1c4TS3vifZBHzCVF18i2"
       },

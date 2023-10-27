@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The best in current indie rock. Cover: The Last Dinner Party",
+  "description": "The best in current indie rock. Cover: bar italia",
   "name": "pulp",
   "tracks": [
     {
@@ -902,6 +902,24 @@
       "duration_ms": 211800,
       "name": "Better - Edit",
       "url": "https://open.spotify.com/track/6NIrjH865NExM8juniJlLY"
+    },
+    {
+      "album": {
+        "name": "Better Luck Next Time",
+        "url": "https://open.spotify.com/album/7LRaEYO1IbbqjIm8hyxmLu"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "Better Luck Next Time",
+      "url": "https://open.spotify.com/track/7emXHhr2yFGO7mSVZnNHjB"
     },
     {
       "album": {
@@ -3502,7 +3520,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 205884,
       "name": "Hello Alien",
       "url": "https://open.spotify.com/track/4apqIevNZl1POiQccrGWls"
@@ -3538,7 +3556,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 161816,
       "name": "Hippodrome",
       "url": "https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr"
@@ -4755,6 +4773,24 @@
     },
     {
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206667,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ"
+    },
+    {
+      "album": {
         "name": "Let The Lights On",
         "url": "https://open.spotify.com/album/4GvPhsT3ybieptovGBbzqP"
       },
@@ -4928,7 +4964,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 171280,
       "name": "Lucky Bean",
       "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
@@ -5810,6 +5846,24 @@
       "duration_ms": 265214,
       "name": "Only Me",
       "url": "https://open.spotify.com/track/5HnAp1NqTJlGVkYWOIVchp"
+    },
+    {
+      "album": {
+        "name": "My Big Day",
+        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361840,
+      "name": "Onward",
+      "url": "https://open.spotify.com/track/6LxqraiUfqeViP5BsTVCP6"
     },
     {
       "album": {
@@ -7226,7 +7280,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 153000,
       "name": "SPLAT!",
       "url": "https://open.spotify.com/track/3QYGJb41WJjj6xs68Pvf1z"
@@ -8894,6 +8948,24 @@
       "duration_ms": 210629,
       "name": "With Or Without",
       "url": "https://open.spotify.com/track/4aobh4j9xhG08Yb7VkcCzd"
+    },
+    {
+      "album": {
+        "name": "worlds greatest emoter",
+        "url": "https://open.spotify.com/album/2w3uek920NjhKNSpZBX4OE"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174521,
+      "name": "worlds greatest emoter",
+      "url": "https://open.spotify.com/track/6cjffqe2ghES5XsGAL9TlT"
     },
     {
       "album": {

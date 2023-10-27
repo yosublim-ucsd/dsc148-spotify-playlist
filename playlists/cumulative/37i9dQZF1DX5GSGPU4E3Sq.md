@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-289 songs - 16 hr 17 min
+290 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Mountains](https://open.spotify.com/track/6AfCbp1MYafDCjZZnwEaQx) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Mountains](https://open.spotify.com/album/2coNnA3QDgoYWqQgK7BDM9) | 2:18 | 2022-06-29 | 2022-07-29 |
 | [Myth](https://open.spotify.com/track/5KZVYoYeck4Hq0wzc7ugZ2) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [All Behind Us](https://open.spotify.com/album/2ti9WM4q1Qst0BcTs4Q8A3) | 2:39 | 2022-07-19 |  |
 | [Nature's Awakening](https://open.spotify.com/track/01VRlzhuv5LS1WLZsBJuek) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Nature's Awakening](https://open.spotify.com/album/5x2Ih98J99fFLaDRNFsPf0) | 2:51 | 2023-02-18 |  |
-| [Nature's Cradle](https://open.spotify.com/track/1iORN9lDsUet8tzaEK5AuQ) | [Sleepy Night Music](https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP) | [Nature's Cradle](https://open.spotify.com/album/3ANL08Lrbqey32BoLpeTjW) | 3:20 | 2022-07-19 |  |
+| [Nature's Cradle](https://open.spotify.com/track/1iORN9lDsUet8tzaEK5AuQ) | [Sleepy Night Music](https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP) | [Nature's Cradle](https://open.spotify.com/album/3ANL08Lrbqey32BoLpeTjW) | 3:20 | 2022-07-19 | 2023-10-27 |
 | [Nature's Cradle](https://open.spotify.com/track/4P5BrmxMAJrqenB0L1e5Up) | [Sleepy Night Music](https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP) | [Nature's Cradle](https://open.spotify.com/album/4kolQoCPZsE5KrroNfaRNK) | 3:20 | 2022-06-29 | 2022-07-29 |
 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 | 2022-06-29 |  |
 | [Om mani palme hum](https://open.spotify.com/track/0FtC15WLzcESeYps3uDcpP) | [CRAS](https://open.spotify.com/artist/7xLXfZZ2WhMqupfnyEZprQ), [KLiJN](https://open.spotify.com/artist/2NeBvyUzeaT49yAKHasE06) | [Om mani palme hum](https://open.spotify.com/album/2uiDDNlK6bgzWs1ELV0erj) | 5:00 | 2022-06-29 | 2023-10-25 |
@@ -275,6 +275,7 @@
 | [The Silent Reverie](https://open.spotify.com/track/0yUoE3PQOdwGthhyRp9evR) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [The Silent Reverie](https://open.spotify.com/album/6t0fbtaGRaTnkMIr0PLlm5) | 2:51 | 2022-06-29 | 2022-07-22 |
 | [The Sounds of Nature](https://open.spotify.com/track/2pnF9tTiEf4kxKD81scld8) | [Forest Walks](https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW) | [The Sounds of Nature](https://open.spotify.com/album/2FFBrD5XOhYuWvgcjkp9Rp) | 3:04 | 2022-06-29 |  |
 | [Timeline of the Magellan](https://open.spotify.com/track/6tmA9HzNzTa7wP2NxkaYHg) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Timeline of the Magellan](https://open.spotify.com/album/3lN0OcfkKbpIUw1DW6jlqV) | 3:03 | 2022-06-29 | 2022-07-29 |
+| [Together](https://open.spotify.com/track/17KJNfibbcWaQnmRdzr8mn) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Together](https://open.spotify.com/album/3O33rkMMk6HRkXSXjejCVu) | 3:26 | 2023-10-05 |  |
 | [Toulouse](https://open.spotify.com/track/3xtVrtdGTnoYvDY0ra5MGY) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Toulouse](https://open.spotify.com/album/5Oo8aMBO6zxhlUBrn9mdhj) | 2:22 | 2022-07-19 | 2022-07-29 |
 | [Toulouse](https://open.spotify.com/track/4wvMF7ZYxzd2lLUThMpSAg) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Toulouse](https://open.spotify.com/album/0elj9tMQi6XMfd0FXlAdgj) | 2:22 | 2022-09-13 |  |
 | [Tranquillity](https://open.spotify.com/track/34tN9XGSKpJwaP5NM96UTW) | [My Wondrous Dream](https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q) | [Tranquillity](https://open.spotify.com/album/0Idd7AHuBso3AghHoahMBs) | 3:21 | 2022-07-19 |  |

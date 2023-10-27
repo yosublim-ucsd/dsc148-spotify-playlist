@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,059 likes - 125 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,106 likes - 125 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 27 | [Dead Ends](https://open.spotify.com/track/57Pz0fOVKmE0sRDVfSeNV3) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Dead Ends](https://open.spotify.com/album/4Q07vYyjKcPGdL62PzlgHf) | 3:23 |
 | 28 | [Hey Blondie \(From Barbie The Album\)](https://open.spotify.com/track/78JGdUz8IxGBaBpZo9BYKv) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Hey Blondie \(From Barbie The Album\)](https://open.spotify.com/album/4xkTjrcq1DSA8fZ09ILDm5) | 2:21 |
 | 29 | [We Can Be Anything](https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn) | 3:21 |
-| 30 | [Don't Trip](https://open.spotify.com/track/0fpkHQGbWh9riooDthOYx8) | [Julianna Laine](https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU) | [Don't Trip](https://open.spotify.com/album/5p6eVXyPFtOkEsppzbUT3I) | 3:55 |
+| 30 | [Don't Trip](https://open.spotify.com/track/32BncKYogLQS8i0tgBc9oL) | [Julianna Laine](https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU) | [Don't Trip](https://open.spotify.com/album/7ehj3TAtnA2aDJSA1HP0md) | 3:55 |
 | 31 | [Dog](https://open.spotify.com/track/1ReHqNFQ2HfJcWzajkDx8g) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:52 |
 | 32 | [Rumours](https://open.spotify.com/track/6IXPMTm9es1QqzGNt7q6xh) | [Yehra](https://open.spotify.com/artist/3PLqRcOQ0mbGN3mPELPAZI) | [Rumours](https://open.spotify.com/album/6ljc6wEyQMYNc2FhxXVeKU) | 2:44 |
 | 33 | [Alabama](https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Alabama](https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b) | 3:34 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [pretty kids](https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [pretty kids](https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee) | 2:39 |
 | 125 | [Get With You](https://open.spotify.com/track/1cshIDD9PMf58mmOquIa9S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Get With You](https://open.spotify.com/album/7EeOH5oj2MgNjVFblGR6Ea) | 1:51 |
 
-Snapshot ID: `MCw5MmI1NjRmZDMxNGQ0N2QxNmQ3NTRhMGI3MjNjY2EzNzg2NTI0MDQw`
+Snapshot ID: `MCwzZmEyYjFkMTgxYWVlOWMxZmNiM2M0YTNjNjdlMzIyYmNkNDQzZDM1`

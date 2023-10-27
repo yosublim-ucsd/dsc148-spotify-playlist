@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,802 likes - 51 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,861 likes - 51 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 47 | [Best of Me](https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Best of Me](https://open.spotify.com/album/4nNPzcNhJRIV2einl7IK4n) | 4:22 |
 | 48 | [Love Buzz](https://open.spotify.com/track/3SihtP7OfilcWv91B3T78i) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Love Buzz](https://open.spotify.com/album/5ZzgY4zglWsJAL1U4tkuiC) | 4:22 |
 | 49 | [Sunflower](https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Sunflower](https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl) | 4:00 |
-| 50 | [Before](https://open.spotify.com/track/1R0Q2qjI1YoViP4O3QDr31) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 4:28 |
+| 50 | [Before](https://open.spotify.com/track/6JNSKF9Nsnhb4gNHskBt42) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 4:28 |
 | 51 | [coma](https://open.spotify.com/track/5gpEgBBVfRQRJCC7qfC0bu) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [coma](https://open.spotify.com/album/0G0FpaE92mPvnBpEnaimyg) | 2:46 |
 
-Snapshot ID: `MCxhNGYxNzgyOWJhZGM3OGM4YWE1YzFmYWZlNzRmODBmOGFlM2QzYzlm`
+Snapshot ID: `MCw0MDNjOWQ5NWEzYTIyY2I1MzliMmFlODcwNDViOGNiNjZlZTI1MDYw`

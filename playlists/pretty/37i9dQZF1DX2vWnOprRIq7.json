@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring Carolo.",
-  "num_followers": 16642,
+  "num_followers": 16644,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjFlNDhkMDIwZThkYjhmYzc1ZDExNjgyMmJlZWVkMDUyMzA5OTJk",
+  "snapshot_id": "MCw0ZmNlNGU3ZTM4NTdjMjI4NDE0NjcwZGJhMGZkNjA1ZWUwMmE1NDRj",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Hay que venir al Sur",
+        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
+      },
+      "artists": [
+        {
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Hay que venir al Sur",
+      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Cuando la Luna Caiga",
         "url": "https://open.spotify.com/album/0Q64aIzoIOqP5Xw5dzbn35"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 273056,
       "name": "Cuando la Luna Caiga",
       "url": "https://open.spotify.com/track/4kbQVab7ftejREWGo8ebUi"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Hay que venir al Sur",
-        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
-      },
-      "artists": [
-        {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Hay que venir al Sur",
-      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "El After",
-      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Xtasis",
         "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 203125,
       "name": "Xtasis",
       "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "CONSTITUCI\u00d3N",
-        "url": "https://open.spotify.com/album/0tUcd7rih15vA60HYbZ9LJ"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        }
-      ],
-      "duration_ms": 161977,
-      "name": "CONSTITUCI\u00d3N",
-      "url": "https://open.spotify.com/track/18835Ty8i86m9U7ki4Azoi"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Mosaicos",
         "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 146791,
       "name": "Sed",
       "url": "https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "CONSTITUCI\u00d3N",
+        "url": "https://open.spotify.com/album/0tUcd7rih15vA60HYbZ9LJ"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "duration_ms": 161977,
+      "name": "CONSTITUCI\u00d3N",
+      "url": "https://open.spotify.com/track/18835Ty8i86m9U7ki4Azoi"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 201601,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Salto al Alba",
         "url": "https://open.spotify.com/album/0znSItsZWQGn9mQG73lFSr"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 247149,
       "name": "Tiene Sentido",
       "url": "https://open.spotify.com/track/0ByHt3Ov5pnJbPqeL6qp1X"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 201601,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -683,26 +683,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "fribRitni",
-        "url": "https://open.spotify.com/album/6luUb5rdY8eNPkK6XEYXTN"
-      },
-      "artists": [
-        {
-          "name": "Carolo",
-          "url": "https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh"
-        },
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        }
-      ],
-      "duration_ms": 196556,
-      "name": "fribRitni",
-      "url": "https://open.spotify.com/track/1A6xpBr2L2MTtj0SKrtJhW"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Provoqu\u00e9",
         "url": "https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 218500,
       "name": "Provoqu\u00e9",
       "url": "https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "fribRitni",
+        "url": "https://open.spotify.com/album/6luUb5rdY8eNPkK6XEYXTN"
+      },
+      "artists": [
+        {
+          "name": "Carolo",
+          "url": "https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh"
+        },
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 196556,
+      "name": "fribRitni",
+      "url": "https://open.spotify.com/track/1A6xpBr2L2MTtj0SKrtJhW"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "BESO",
+        "url": "https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "como antes :(",
         "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 237888,
       "name": "como antes :(",
       "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "BESO",
-        "url": "https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW"
-      },
-      "artists": [
-        {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "BESO",
-      "url": "https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Nadie+",
-        "url": "https://open.spotify.com/album/5bpk7x7dhCGetRY2onJA1X"
-      },
-      "artists": [
-        {
-          "name": "Alfonsina",
-          "url": "https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k"
-        },
-        {
-          "name": "R.L.G",
-          "url": "https://open.spotify.com/artist/5To36hmLSdEjhfoakePQra"
-        }
-      ],
-      "duration_ms": 142525,
-      "name": "Nadie+",
-      "url": "https://open.spotify.com/track/4Hc0J63unKggiHSpP47tXw"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "7 canciones antes de que nos corten la luz",
         "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 223278,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Nadie+",
+        "url": "https://open.spotify.com/album/5bpk7x7dhCGetRY2onJA1X"
+      },
+      "artists": [
+        {
+          "name": "Alfonsina",
+          "url": "https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k"
+        },
+        {
+          "name": "R.L.G",
+          "url": "https://open.spotify.com/artist/5To36hmLSdEjhfoakePQra"
+        }
+      ],
+      "duration_ms": 142525,
+      "name": "Nadie+",
+      "url": "https://open.spotify.com/track/4Hc0J63unKggiHSpP47tXw"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Las Fuerzas Almadas",
-        "url": "https://open.spotify.com/album/1YAdvCKLUF12puHah2NxdW"
-      },
-      "artists": [
-        {
-          "name": "Dat Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW"
-        }
-      ],
-      "duration_ms": 272384,
-      "name": "Todo es Conectividad",
-      "url": "https://open.spotify.com/track/5omJg6cDZ3d7Zq5tozrNai"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "El Estado de las Cosas Como Son",
         "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 182312,
       "name": "El Estado de las Cosas Como Son",
       "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Las Fuerzas Almadas",
+        "url": "https://open.spotify.com/album/1YAdvCKLUF12puHah2NxdW"
+      },
+      "artists": [
+        {
+          "name": "Dat Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW"
+        }
+      ],
+      "duration_ms": 272384,
+      "name": "Todo es Conectividad",
+      "url": "https://open.spotify.com/track/5omJg6cDZ3d7Zq5tozrNai"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Debilidad",
-        "url": "https://open.spotify.com/album/21pyXWvMYZ6OALRRsAt6IP"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Gomez Casa",
-          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
-        }
-      ],
-      "duration_ms": 263546,
-      "name": "Debilidad",
-      "url": "https://open.spotify.com/track/3YJJtTITDvpaAqZmBR3Knj"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Debilidad",
+        "url": "https://open.spotify.com/album/21pyXWvMYZ6OALRRsAt6IP"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Gomez Casa",
+          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
+        }
+      ],
+      "duration_ms": 263546,
+      "name": "Debilidad",
+      "url": "https://open.spotify.com/track/3YJJtTITDvpaAqZmBR3Knj"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "ACAPULCO GOLD",
         "url": "https://open.spotify.com/album/6uNd8ONIK8m3CBHlOcSv7x"
       },
@@ -1583,6 +1583,22 @@
       "duration_ms": 178020,
       "name": "ACAPULCO GOLD",
       "url": "https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Ninfas",
+        "url": "https://open.spotify.com/album/4fPKA89F5TsuVepQZKhgvz"
+      },
+      "artists": [
+        {
+          "name": "Chala",
+          "url": "https://open.spotify.com/artist/7GnPv7aXKmKqFSAjoJGHvW"
+        }
+      ],
+      "duration_ms": 185429,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/3s9DwqX5OKIWoqynT0F1sn"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1603,22 +1619,6 @@
       "duration_ms": 216204,
       "name": "Affaire de Colecci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/0dHpIAezpDGLW27v6g7ek0"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Ninfas",
-        "url": "https://open.spotify.com/album/4fPKA89F5TsuVepQZKhgvz"
-      },
-      "artists": [
-        {
-          "name": "Chala",
-          "url": "https://open.spotify.com/artist/7GnPv7aXKmKqFSAjoJGHvW"
-        }
-      ],
-      "duration_ms": 185429,
-      "name": "Enigma",
-      "url": "https://open.spotify.com/track/3s9DwqX5OKIWoqynT0F1sn"
     },
     {
       "added_at": "2023-10-06 03:00:00",

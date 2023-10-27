@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV2mRphxMWjR.md) - [plain]
 
 > The official playlist for "ONE PIECE FILM RED"\. <a href="https://www.onepiece\-film.jp/">『ONE PIECE FILM RED』</a>公式プレイリスト。「ONE PIECE」映画作品の主題歌集。 ©尾田栄一郎／2022「ワンピース」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,613 likes - 72 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,665 likes - 72 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV2mRphxMWjR.md) - [plain]
 | 28 | [Bad Reputation](https://open.spotify.com/track/58ZYHG6xGz1Lx25FsvVH1A) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 2:42 |
 | 29 | [怒りをくれよ](https://open.spotify.com/track/2FXtYLpJKHEbtLuCDGpRrr) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Next One](https://open.spotify.com/album/7e4Ohezjjyg28roi8wFxhZ) | 3:28 |
 | 30 | [GONG](https://open.spotify.com/track/4TFUsim1NVJGvQjE2Ppeno) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 4:28 |
-| 31 | [RED 運命の決意](https://open.spotify.com/track/2f9G9tROsE1GbQ3EAM7aGL) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 2:07 |
+| 31 | [RED　運命の決意](https://open.spotify.com/track/2f9G9tROsE1GbQ3EAM7aGL) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 2:07 |
 | 32 | [悪意に立ち向かうは麦わらの一味](https://open.spotify.com/track/3qA4L8bzBDYGZrcrK72gqU) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 2:35 |
 | 33 | [世界の秩序](https://open.spotify.com/track/0DGNRuq5tvT65TydvMKAiQ) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 1:36 |
 | 34 | [思い出のフーシャ](https://open.spotify.com/track/7hjxPT23qB7SqX2wsgNu6L) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 1:41 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV2mRphxMWjR.md) - [plain]
 | 41 | [カワイイデンジャラス](https://open.spotify.com/track/14k1kzxYZfEQzJPqkobtLy) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 1:41 |
 | 42 | [ファニーダンス](https://open.spotify.com/track/4UB0DNuVVfEfN4S56QPipN) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:46 |
 | 43 | [前兆トットムジカ](https://open.spotify.com/track/5wi07q909E4weV5Ieu5IX1) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:27 |
-| 44 | [サニーくんが来た!](https://open.spotify.com/track/0WaoVnnjdhv1G7fkiywtS7) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:08 |
+| 44 | [サニーくんが来た！](https://open.spotify.com/track/0WaoVnnjdhv1G7fkiywtS7) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:08 |
 | 45 | [海軍の秩序](https://open.spotify.com/track/6Gul2gFRv2J7sj87JurJcr) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:36 |
 | 46 | [現実と幻想](https://open.spotify.com/track/1qs2ji3UFNWWrapVLnyZA3) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 1:29 |
 | 47 | [反撃開始](https://open.spotify.com/track/2Nvuqr9An3f9ewK9WzORyA) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:56 |
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV2mRphxMWjR.md) - [plain]
 | 57 | [戦いの果てに](https://open.spotify.com/track/1qjBxLbcGT6xtICKkfPgwF) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:56 |
 | 58 | [予感トットムジカ](https://open.spotify.com/track/3LavVHlBcQtSeGJryCAkeu) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 1:51 |
 | 59 | [立ち向かう意思](https://open.spotify.com/track/14CsKYjUsBFLnajAeJKQqe) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:42 |
-| 60 | [処刑 \~大海賊時代の終わり\~](https://open.spotify.com/track/2CUdJ7TjqnQjqPqjd5aq2v) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:53 |
-| 61 | [優しい思い出 \- 世界のつづき ピアノVer](https://open.spotify.com/track/6jtf9OuaMtICxeh4GaINa4) | [折坂悠太](https://open.spotify.com/artist/5Zy5Fg9iN1KSkrtVAsc7r3) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 1:42 |
+| 60 | [処刑　～大海賊時代の終わり～](https://open.spotify.com/track/2CUdJ7TjqnQjqPqjd5aq2v) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:53 |
+| 61 | [優しい思い出 \- 世界のつづき ピアノVer](https://open.spotify.com/track/6jtf9OuaMtICxeh4GaINa4) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 1:42 |
 | 62 | [赤く燃える](https://open.spotify.com/track/0YGgxMFymMxMjIvfsSx7SH) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:54 |
 | 63 | [その男、シャンクス](https://open.spotify.com/track/2PJ6gThvCt0XsiJATfA1gE) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 1:04 |
-| 64 | [立ち向かえ!](https://open.spotify.com/track/5yNWaE2ULFzEXcime8uKZ6) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:21 |
+| 64 | [立ち向かえ！](https://open.spotify.com/track/5yNWaE2ULFzEXcime8uKZ6) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:21 |
 | 65 | [戦乱のエレジア](https://open.spotify.com/track/3B4wxpCiKKq09Az7ZlLPF5) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:30 |
 | 66 | [絶対的正義](https://open.spotify.com/track/0bM7qAuutuqi9Wlnfwulzh) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 1:55 |
 | 67 | [ルフィの意思](https://open.spotify.com/track/30xfAgeDj8KeoHzJDgZMkg) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:43 |
@@ -79,6 +79,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV2mRphxMWjR.md) - [plain]
 | 69 | [私が大好きな海賊 \- 風のゆくえ リコーダー Ver.](https://open.spotify.com/track/1rq31ywgghXvJ8WVgU2rdl) | [秦基博](https://open.spotify.com/artist/6v9pschPobXmKOtIeckX6E) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 1:40 |
 | 70 | [フォーメーション・コビー](https://open.spotify.com/track/5Lomh2jFLmvOAkH3tCPT55) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 4:41 |
 | 71 | [絶望トットムジカ](https://open.spotify.com/track/1481hejmBZuoeyZHOkARlM) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 1:09 |
-| 72 | [RED 海賊の生きざま](https://open.spotify.com/track/3ektWJ35SuVMvcMwrflilV) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:47 |
+| 72 | [RED　海賊の生きざま](https://open.spotify.com/track/3ektWJ35SuVMvcMwrflilV) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:47 |
 
-Snapshot ID: `MCxiNmFmMmZjZDI3ODZmNjNkZWZmZDI2MWY3OWYzMDhhZTE1NDQ4NDBj`
+Snapshot ID: `MCwwNDlkOThhNmM0ZmY3MjMwOTcxZDIwZDBjMGYzMTIxYTJkMDljYzJj`

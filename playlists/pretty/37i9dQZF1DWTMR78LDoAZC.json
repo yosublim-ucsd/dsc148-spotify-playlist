@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 141481,
+  "num_followers": 141576,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjRhOWQ1MjkwMWNkNjRjZTdiZmNjZTY2ZjE3NjI5Zjc1MjZhYWFk",
+  "snapshot_id": "MCwxNDg1NzUyNmRmYTYxYWJjYjMxOWU4NWIzYjdlYzEzNzY5YTA0MmU1",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
+        "name": "Permanent Damage",
+        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 221873,
+      "name": "It's Been a Little Heavy Lately",
+      "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
         "name": "if i were a fish (feat. Olivia Barton)",
         "url": "https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 141903,
       "name": "if i were a fish (feat. Olivia Barton)",
       "url": "https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Permanent Damage",
-        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 221873,
-      "name": "It's Been a Little Heavy Lately",
-      "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -433,22 +433,6 @@
       "url": "https://open.spotify.com/track/46Boh7rtDSxoEDZ52Qowcc"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Loveher",
-        "url": "https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "Loveher",
-      "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Good At Falling",
@@ -463,6 +447,22 @@
       "duration_ms": 218935,
       "name": "Maybe You're the Reason",
       "url": "https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Loveher",
+        "url": "https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "Loveher",
+      "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "More Like You",
-        "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "More Like You",
-      "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Mad",
         "url": "https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 228040,
       "name": "Mad",
       "url": "https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "More Like You",
+        "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "More Like You",
+      "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Sex Education Original Soundtrack",
-        "url": "https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4"
-      },
-      "artists": [
-        {
-          "name": "Ezra Furman",
-          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
-        }
-      ],
-      "duration_ms": 222616,
-      "name": "Love You So Bad",
-      "url": "https://open.spotify.com/track/3WeADp1NvwmsuzO30FpBQH"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Olympus",
@@ -1103,6 +1087,22 @@
       "duration_ms": 216852,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Sex Education Original Soundtrack",
+        "url": "https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4"
+      },
+      "artists": [
+        {
+          "name": "Ezra Furman",
+          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+        }
+      ],
+      "duration_ms": 222616,
+      "name": "Love You So Bad",
+      "url": "https://open.spotify.com/track/3WeADp1NvwmsuzO30FpBQH"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "sorry isn't good enough",
+      "url": "https://open.spotify.com/track/1PTjdobwHJOZc8NdtGvtKJ"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
         "name": "Day Breaks",
         "url": "https://open.spotify.com/album/6ST0U2V3WOBV8RzFYwBg6F"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 175664,
       "name": "Back",
       "url": "https://open.spotify.com/track/0mytPbo2GAlCTjA0zZ1Z8e"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "sorry isn't good enough",
-      "url": "https://open.spotify.com/track/1PTjdobwHJOZc8NdtGvtKJ"
     },
     {
       "added_at": "2023-03-07 19:29:41",

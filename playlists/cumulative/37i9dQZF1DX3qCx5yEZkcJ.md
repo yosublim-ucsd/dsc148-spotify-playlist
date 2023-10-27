@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-502 songs - 20 hr 33 min
+503 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Dusk](https://open.spotify.com/track/6h2oA9xLnB4EdUeXCB9oIL) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Dusk](https://open.spotify.com/album/4VoDJObA9HYgoPHkfX9Nmr) | 2:29 | 2022-07-28 | 2022-12-13 |
 | [Dusted](https://open.spotify.com/track/3XcmdZcd9I6XT2q0IxW1KI) | [Ufa Palava](https://open.spotify.com/artist/7DsWT0ekMbWSCtT9yBFX3U), [En Rie](https://open.spotify.com/artist/3P18mn1T53JU82867PDYbM) | [Dusted](https://open.spotify.com/album/4P6JH6cCJ0RQidBruu0phX) | 1:58 | 2020-06-29 | 2021-10-29 |
 | [D’s Swing](https://open.spotify.com/track/6t19DdPFNoNbclHt3stXZ8) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [D’s Swing](https://open.spotify.com/album/7E2Dz8BSnXj0gAq86v43xX) | 3:38 | 2022-03-03 | 2022-07-29 |
-| [easy](https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [easy](https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu) | 3:23 | 2022-04-13 |  |
+| [easy](https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [easy](https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu) | 3:23 | 2022-04-13 | 2023-10-27 |
 | [Education](https://open.spotify.com/track/4SwV9qy9H2ObCS5y3G32Cw) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Education](https://open.spotify.com/album/6kYy5w6Uv33REXcaaxdXk3) | 4:34 | 2020-06-19 | 2022-01-07 |
 | [Elephant & Castle](https://open.spotify.com/track/54RcQpS4FNCxBwCceX96JJ) | [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM) | [Soho / Elephant & Castle](https://open.spotify.com/album/0TfiwhVL0ZXqVy7z3deGCr) | 2:14 | 2019-05-26\* | 2019-06-15 |
 | [Elevator \- Remastered](https://open.spotify.com/track/1OleyH3ir8AfmOMCpGfNyN) | [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV) | [Elevator \(Remastered\)](https://open.spotify.com/album/41s25Wuzr8YVh0OIyacx8G) | 3:27 | 2019-06-14 | 2022-07-29 |
@@ -247,6 +247,7 @@
 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 | 2023-01-06 |  |
 | [Late Trains](https://open.spotify.com/track/7JQt4KO35aSwLQSlaSRsdY) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Late Trains](https://open.spotify.com/album/2RQtx9HPPtCPJPqUb1I3yJ) | 3:19 | 2020-12-11 | 2023-01-13 |
 | [Laverne](https://open.spotify.com/track/0pYdhNukjrkpBWdq75GXSm) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Moose Dawa](https://open.spotify.com/artist/4iLyC66mfowfMoMtmbsDUb) | [Birds of a Feather, Vol\. 1](https://open.spotify.com/album/65kDeUOJ7UAXQJtdmXYtT5) | 1:55 | 2019-05-26\* | 2019-06-15 |
+| [Lazy Days](https://open.spotify.com/track/6LtIELSxjBVXOCPJwicGvP) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Lazy Days](https://open.spotify.com/album/5ZsS71c790zjzt30CeDCOQ) | 2:12 | 2023-10-26 |  |
 | [Legacy](https://open.spotify.com/track/2Ba2yo38eh6atKPDdaYZRM) | [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh), [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Legacy](https://open.spotify.com/album/7D0dE3E7LTaPe6WcZheWQI) | 2:01 | 2019-07-26 | 2022-04-20 |
 | [Legend \- Instrumental](https://open.spotify.com/track/4D6ODloEcphnoSF33TF9L3) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Legend \(Instrumental\)](https://open.spotify.com/album/4ChW17PKiVa3twCaWcimzA) | 3:38 | 2022-01-27 | 2022-07-29 |
 | [Legend \- Instrumental](https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Legend \(Instrumental\)](https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh) | 3:38 | 2022-07-28 | 2022-10-10 |

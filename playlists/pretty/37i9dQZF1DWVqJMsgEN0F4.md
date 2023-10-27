@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > blink\-182 along with the best alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,649 likes - 66 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,653 likes - 66 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 65 | [The Place That Makes Me Happy](https://open.spotify.com/track/6fOemgTsBaM10g8Rz3unmT) | [The Moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [The Place That Makes Me Happy](https://open.spotify.com/album/6UklsqQkhLmsEqFZZuVKkW) | 3:01 |
 | 66 | [In Between](https://open.spotify.com/track/0q1ojrOIoqEjGvojo4Y0FK) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [In Between](https://open.spotify.com/album/6z3SytoRF8ak4NLSdvQH1f) | 2:34 |
 
-Snapshot ID: `MCw0MTQwOWI2ODk5ZDUxODc0MDdmMGQ5MjBiYWJhZGI3YWQwNzQ5Mjlh`
+Snapshot ID: `MCxlMTBkZWMxZTRmY2MwMWM3MzY3NTkwZWM2Yzc0NGU3YTdkYmE3ZWQ1`

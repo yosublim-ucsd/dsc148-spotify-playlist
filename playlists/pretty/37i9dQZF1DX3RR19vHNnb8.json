@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 15786,
+  "num_followers": 15823,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjM2MTdmMjdlMTYwODJhYjdkMTJkZjk4OTIxODI5OGM4Y2ExYjhk",
+  "snapshot_id": "MCw3OWY4NDcxOWIzNjYzY2IzMzI5YzRiOTg1MzczZDBhZTQ2Y2Q3N2Fj",
   "tracks": [
     {
       "added_at": "2023-10-20 00:01:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Hate Me",
-        "url": "https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 199322,
-      "name": "Hate Me",
-      "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Banger",
         "url": "https://open.spotify.com/album/7qbMTYZNQiUFS3eZogAjDl"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 123733,
       "name": "Banger (feat. Boj)",
       "url": "https://open.spotify.com/track/6GPxaASbGS5vbKaW7oYSvO"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 199322,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Young Preacher",
+        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 183370,
+      "name": "HOT BOY",
+      "url": "https://open.spotify.com/track/29BUex8teSBlVwOjRWhrAs"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "The Guy",
         "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
       },
@@ -959,30 +975,6 @@
       "duration_ms": 197538,
       "name": "The Guy",
       "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "JAIYE EVERYDAY",
-        "url": "https://open.spotify.com/album/7MR5PLjXyCV6yzHUfyqz09"
-      },
-      "artists": [
-        {
-          "name": "KIING LU",
-          "url": "https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k"
-        },
-        {
-          "name": "DAPO TUBURNA",
-          "url": "https://open.spotify.com/artist/5qGa60tcmi61tvYmoIjgJO"
-        },
-        {
-          "name": "Alpha Ojini",
-          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "JAIYE EVERYDAY",
-      "url": "https://open.spotify.com/track/1XHXaCmp8ruWJMyNAuXgy6"
     },
     {
       "added_at": "2023-10-20 00:01:00",

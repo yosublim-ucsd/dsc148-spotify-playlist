@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap per non smettere mai di crederci.",
+  "description": "Rap per non smettere mai di crederci \ud83d\udcaa",
   "name": "Rap Motivazionale",
   "tracks": [
     {
@@ -444,7 +444,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 204826,
       "name": "Barking",
       "url": "https://open.spotify.com/track/2JbO1rep5Um3RAKB8szQrR"
@@ -502,6 +502,24 @@
       "duration_ms": 135882,
       "name": "Blanc Orange (Nanana)",
       "url": "https://open.spotify.com/track/477eOHpLpnOJyREyNP3dHG"
+    },
+    {
+      "album": {
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208506,
+      "name": "Bling Bling (Oro)",
+      "url": "https://open.spotify.com/track/11AXfsh0V6zCCU7Po6kQiY"
     },
     {
       "album": {
@@ -1752,7 +1770,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225541,
       "name": "Look Back at It (feat. CAPO PLAZA)",
       "url": "https://open.spotify.com/track/34Jnbbi34tPtYdutY5Pd6G"
@@ -2362,7 +2380,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 181661,
       "name": "Non Abbiamo Et\u00e0",
       "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"

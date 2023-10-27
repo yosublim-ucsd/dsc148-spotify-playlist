@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,397 likes - 85 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,427 likes - 85 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 80 | [Christmas Cards](https://open.spotify.com/track/2vIxMkWXzJdaDJVKHK4icG) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Songs for Christmas](https://open.spotify.com/album/232HV9TPBGG4N9p9uu6tFX) | 3:26 |
 | 81 | [Ave Maria](https://open.spotify.com/track/1i7JjMvpzUCFR6GiqSaenp) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 4:03 |
 | 82 | [first winter](https://open.spotify.com/track/4r7i3Td09NJvgmXotOvi3a) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [first winter](https://open.spotify.com/album/3kDhiltnqo4XvEvAzPU7aI) | 2:56 |
-| 83 | [Jingle Bells](https://open.spotify.com/track/5b7NpZvS8ueO0B3KNtB0d8) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Jingle Bells](https://open.spotify.com/album/6HyoKXjrQ2gPomfPd5kq1s) | 3:17 |
+| 83 | [Jingle Bells](https://open.spotify.com/track/4KVGhE7rSozVpd6thV94c7) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Christmas Mistletunes](https://open.spotify.com/album/7hxw2kfP8PliEPbKzaDvoG) | 3:17 |
 | 84 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 |
 | 85 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
 
-Snapshot ID: `MCw4ZDJhYTlkZDA2MGUyYTNmYjg2YjY5ZWVmZTZhOGUzNWFmZjAxMzZi`
+Snapshot ID: `MCw2YzIxNjIyMmNmZTUyZjUwMWFhZGY5NGY0Mjg1NzRkMmY4NjE3ODBk`

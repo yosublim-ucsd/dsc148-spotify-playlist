@@ -6328,7 +6328,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 193322,
       "name": "Camisa P",
       "url": "https://open.spotify.com/track/0DPjN6E1YtYIH42IPomCNM"
@@ -11356,7 +11356,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 218709,
       "name": "Equalize",
       "url": "https://open.spotify.com/track/2N8jmZ4Ai3bJwnm3avMAru"
@@ -21027,6 +21027,44 @@
     },
     {
       "album": {
+        "name": "Vida Cara (Deluxe)",
+        "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Ribb",
+          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Mesma Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/54FV2rMVwLusAVnzROB0c1"
+    },
+    {
+      "album": {
         "name": "METAMORPHOSIS",
         "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
       },
@@ -25032,7 +25070,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 209139,
       "name": "Olho Encharcado - Ao Vivo",
       "url": "https://open.spotify.com/track/4GXrKLzDyWYJnD2TbgvKiN"
@@ -34048,8 +34086,8 @@
           "url": "https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C"
         },
         {
-          "name": "Mc Chothi\u00ea",
-          "url": "https://open.spotify.com/artist/2VngfW14xdHwv72pQRdoLv"
+          "name": "MC Cothi\u00ea",
+          "url": "https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k"
         }
       ],
       "date_added": "2023-10-19",

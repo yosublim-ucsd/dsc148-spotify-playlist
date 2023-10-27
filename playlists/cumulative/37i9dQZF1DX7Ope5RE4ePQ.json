@@ -1954,10 +1954,36 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 278360,
       "name": "The Village: Morning",
       "url": "https://open.spotify.com/track/0nyDhaZfQN7uw071Fpq8pg"
+    },
+    {
+      "album": {
+        "name": "Night After Night (Music from the Movies of M. Night Shyamalan)",
+        "url": "https://open.spotify.com/album/6bZ512Kffdbv911Mbxi1ui"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Hilary Hahn",
+          "url": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278360,
+      "name": "The Village: Morning",
+      "url": "https://open.spotify.com/track/6fv5zOzFVGSJBF2N8NCgG2"
     },
     {
       "album": {

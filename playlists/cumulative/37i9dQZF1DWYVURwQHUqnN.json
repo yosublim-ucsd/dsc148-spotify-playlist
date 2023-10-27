@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo: KeBlack",
+  "description": "Photo: Morad x GIMS\n",
   "name": "Best Life",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 163253,
       "name": "Bisous",
       "url": "https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj"
@@ -236,6 +236,24 @@
       "duration_ms": 134612,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4boEoouWug1KL4oIdO6yOn"
+    },
+    {
+      "album": {
+        "name": "Eh toi",
+        "url": "https://open.spotify.com/album/6Bt2qMEBgt0qbmtsOeEeL9"
+      },
+      "artists": [
+        {
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170527,
+      "name": "Eh toi",
+      "url": "https://open.spotify.com/track/04IKxemPvQl0z76VGhqTQr"
     },
     {
       "album": {

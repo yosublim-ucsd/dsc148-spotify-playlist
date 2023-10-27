@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A?si=4c149014dd4c4245">King Kaleidoscope</a>
 
-391 songs - 23 hr 30 min
+392 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Mountain Top](https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw) | 3:53 | 2023-02-19 |  |
 | [Mr\. Blue Sky](https://open.spotify.com/track/2SaTjiE4luy9qUeC5Lgnkk) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Covers EP](https://open.spotify.com/album/4GXAgGRpLvP2BolXN9VzOS) | 2:44 | 2023-02-19 | 2023-08-05 |
 | [My Deliverer](https://open.spotify.com/track/0oTqpffMAdIcVD2QInfrIO) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chichi Onyekanne](https://open.spotify.com/artist/50gFsE5NXUZTs9Ystdog7B) | [My Deliverer](https://open.spotify.com/album/3dBEsJbJjAytRaLnBWWOr9) | 5:24 | 2023-02-19 | 2023-07-30 |
-| [My Heart Alone](https://open.spotify.com/track/62IMghHVMRqb8GsuVm5Hbc) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [My Heart Alone](https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB) | 3:21 | 2023-02-19 |  |
+| [My Heart Alone](https://open.spotify.com/track/62IMghHVMRqb8GsuVm5Hbc) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [My Heart Alone](https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB) | 3:21 | 2023-02-19 | 2023-10-27 |
 | [Mōhio](https://open.spotify.com/track/6ck8vtqwTOJtsdUK2emEvR) | [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c), [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI) | [Mōhio](https://open.spotify.com/album/4tSGbI8oOTj9W2LF25Ym3h) | 4:20 | 2023-02-19 | 2023-08-05 |
 | [Names \- Acoustic](https://open.spotify.com/track/1yJ7WrQql0OIsXQflW0Zpv) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Names \(Acoustic\)](https://open.spotify.com/album/5jwzW7iNZgN9tNPLl7bof2) | 6:09 | 2023-02-24 | 2023-03-03 |
 | [Names \- Acoustic](https://open.spotify.com/track/2dnEcb10peK8kQeGa69Zvv) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Throne Room](https://open.spotify.com/album/2buktwWoAIGQCPgDa11Cvt) | 6:09 | 2023-02-24 |  |
@@ -268,6 +268,7 @@
 | [Proceed](https://open.spotify.com/track/2ejCU3N0ILmpE23zrqNm4r) | [Deuel](https://open.spotify.com/artist/0IrOqD4oueXc7E7Wu7NzWv) | [Proceed](https://open.spotify.com/album/0NKNIOpBUg5mZT1k7jGlsM) | 4:26 | 2020-12-18 | 2022-07-29 |
 | [Prove My Love](https://open.spotify.com/track/6eV7yJ3eD4U3LJUAyOEBuF) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Prove My Love](https://open.spotify.com/album/2wAY9M3jmw7ftEiExGTzQv) | 3:58 | 2023-02-24 | 2023-04-09 |
 | [Radiant Reason](https://open.spotify.com/track/7fkDrV2fvORVEiUkmWEi6R) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Kings Kaleidoscope](https://open.spotify.com/album/7em1z6RFOEdURjAEuJE352) | 4:01 | 2023-08-11 |  |
+| [REASON](https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT) | [J Vessel](https://open.spotify.com/artist/2jWuaPjpJpIwXhWY6y0JQp) | [REASON](https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0) | 3:13 | 2023-08-11 |  |
 | [Reciprocate](https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Songs from the Valley](https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN) | 3:17 | 2020-12-18 | 2023-02-19 |
 | [Refuge](https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp) | [Grant Leslie](https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6) | [Refuge](https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH) | 4:37 | 2020-12-18 | 2023-02-19 |
 | [Remedy](https://open.spotify.com/track/0hJZ9B9GpjIa7QT1AVWlOI) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Remedy](https://open.spotify.com/album/4u3rrpmyCCK5J5xKxgHGxl) | 2:04 | 2023-02-21 | 2023-04-09 |

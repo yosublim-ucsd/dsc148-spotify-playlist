@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,574 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,571 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 9 | [I've Got You Under My Skin \- 2011 Remaster](https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Desmond Blue](https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58) | 4:39 |
 | 10 | [Taking a Chance on Love](https://open.spotify.com/track/3I1DVI1Bllke45hTQke9ux) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:30 |
 | 11 | [It Might as Well Be Spring](https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Pogline](https://open.spotify.com/artist/0REkhjWkTuMhx8uvOKVZmH) | [It Might as Well Be Spring](https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG) | 4:52 |
-| 12 | [Spring Can Really Hang You Up The Most \- Demo](https://open.spotify.com/track/24mo3C5GuVTfoL8vedPMqL) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:48 |
-| 13 | [A Ballad for Alice](https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [A Ballad for Alice](https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv) | 2:58 |
+| 12 | [A Ballad for Alice](https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [A Ballad for Alice](https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv) | 2:58 |
+| 13 | [Spring Can Really Hang You Up The Most \- Demo](https://open.spotify.com/track/24mo3C5GuVTfoL8vedPMqL) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:48 |
 | 14 | [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 |
 | 15 | [Mrs\. Cold](https://open.spotify.com/track/2fZpBqtZeNpXxX5UiO0AVw) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Mrs\. Cold](https://open.spotify.com/album/1WhW0QimR7aDE0qoBhzCaz) | 3:03 |
 | 16 | [Spring Is in the Air](https://open.spotify.com/track/0c6PEeFIX4PQ20yyjwW1SE) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [In a Deeper Sense](https://open.spotify.com/album/7HUtFnt2Tl5PJGhybMBAt1) | 4:48 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 61 | [April In Paris](https://open.spotify.com/track/1WDlBvlNSMA5kmj3PTYh3C) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Easy Does It](https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR) | 3:23 |
 | 62 | [I Believe In You](https://open.spotify.com/track/362GKG5yz5Da5c77jUsR9A) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Come What May](https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ) | 2:58 |
 | 63 | [On a Turquoise Cloud](https://open.spotify.com/track/1XrEY8nz2P4L9rVoq9MdXs) | [Echoes of Swing](https://open.spotify.com/artist/2MGK5rV3sBiI1UW1hjYDD8) | [Travelin'](https://open.spotify.com/album/6pOPaRqCpE0X8aJN1lvXD5) | 3:48 |
-| 64 | [Promise of Spring](https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 4:29 |
-| 65 | [It Must Be Love](https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [The Complete Bill Evans On Verve](https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU) | 3:57 |
+| 64 | [It Must Be Love](https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [The Complete Bill Evans On Verve](https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU) | 3:57 |
+| 65 | [Promise of Spring](https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 4:29 |
 | 66 | [My Heart Stood Still](https://open.spotify.com/track/5q91yKtiubyJEFaaEvDJCD) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Colin Oxley](https://open.spotify.com/artist/6Qs92KB5NHAzQ3NsLfZ6qs), [David Newton](https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy), [Jasper Kviberg](https://open.spotify.com/artist/7HLQsg7VWG5Xmx9dwrbWBy), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Simon Thorpe](https://open.spotify.com/artist/73R87wFxKX8jZu9zdfFSmm) | [In Love Again](https://open.spotify.com/album/4mvkItBFlkQ2BUxi4kPaKl) | 2:57 |
 | 67 | [April Come She Will](https://open.spotify.com/track/3onycGcXENXzRke49yNQvI) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty) | 3:14 |
 | 68 | [Take a Giant Step](https://open.spotify.com/track/3JzqSi4PEvFZiQlayiDnqN) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:47 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 79 | [Pennies from Heaven](https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I) | [Jeff Rupert](https://open.spotify.com/artist/3eWJmHOgjTdo3ZsS25iRMh), [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Let's Sail Away](https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD) | 4:43 |
 | 80 | [Holland](https://open.spotify.com/track/6or1VbOYOIjDPxJxyjZvuE) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 8:46 |
 | 81 | [Getting To Know You](https://open.spotify.com/track/6EtTFFycF09St9D0lxOilY) | [Spencer Day](https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6) | [Broadway By Day](https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3) | 3:16 |
-| 82 | [You Must Believe In Spring](https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse) | [Estelle Perrault](https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP) | [Dare That Dream](https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB) | 4:16 |
-| 83 | [Something 'bout the Rain](https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK) | [Alma Naidu](https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE) | [Alma](https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa) | 4:37 |
+| 82 | [Something 'bout the Rain](https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK) | [Alma Naidu](https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE) | [Alma](https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa) | 4:37 |
+| 83 | [You Must Believe In Spring](https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse) | [Estelle Perrault](https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP) | [Dare That Dream](https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB) | 4:16 |
 | 84 | [I'll Remember April](https://open.spotify.com/track/57d7EP17867urAaj7vp3Tt) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 3:11 |
 | 85 | [Melancholy March](https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Calendar Girl](https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE) | 2:21 |
 | 86 | [Joy Spring](https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Happyfeet](https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP) | 6:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 99 | [Comes Love](https://open.spotify.com/track/6KPzkbirCRJJdgRHFM9ozt) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [The Danish Radio Big Band](https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE) | [We've Just Begun](https://open.spotify.com/album/0IDhy8JGpoMH9xw4gnMHZh) | 6:41 |
 | 100 | [Shallow Waters](https://open.spotify.com/track/0Q3LZbJerwYufO4DfOfZ56) | [Harold Danko](https://open.spotify.com/artist/26IGMCxg4NgtwUVLlX5rPw), [Jay Anderson](https://open.spotify.com/artist/7eaHILZta913Fkf49T57SV), [Jeff Hirshfield](https://open.spotify.com/artist/52O6frArSmachHxpz0NSTZ) | [Triple Play](https://open.spotify.com/album/5yMWBKYnLrYHMJeA9j9nwr) | 7:46 |
 
-Snapshot ID: `MCxiNmVlMTU0NWY4NzYzZTg2NWYzMjdkOGQ0NzMyNjkzZjAyMGVhZjQ1`
+Snapshot ID: `MCw0ZmMzOTgyNWU2ZjdkZDZhOTRhMWMyMzRkYzZiYjYyNTk0MDY2YWM4`

@@ -1,13 +1,125 @@
 {
   "description": "Apasi\u00f3nate con sus \u00e9xitos en espa\u00f1ol.",
-  "num_followers": 257647,
+  "num_followers": 257741,
   "original_name": "This Is Laura Pausini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDAxNWVjZThlMGE3MjQ1YWM5NzQwOTBkMThjODgyNjdjNzFmY2Iy",
+  "snapshot_id": "MCxkNTUzMDkwOGRiOGM1MzNkNDUwMzEwNTgwNTUxZWY2MzZkYmRiZDRh",
   "tracks": [
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/0T3HDSk6LqhMND9mgHoBdb"
+    },
+    {
+      "added_at": "2023-03-10 06:00:00",
+      "album": {
+        "name": "Un buen inicio",
+        "url": "https://open.spotify.com/album/4oUnlll4PQn0sMA7z7alRB"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 190018,
+      "name": "Un buen inicio",
+      "url": "https://open.spotify.com/track/7wYqyJHvK9mwz4h8YK8MU5"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Durar",
+        "url": "https://open.spotify.com/album/5WGzrCnJgloOH4uau17Aug"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "Durar",
+      "url": "https://open.spotify.com/track/4z0YuBEZ29pCut5HtLeQ9Z"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 219144,
+      "name": "Perdona si no es as\u00ed",
+      "url": "https://open.spotify.com/track/26J884mAuQgyANciA1JTI2"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 200498,
+      "name": "Qu\u00e9 es",
+      "url": "https://open.spotify.com/track/4GKGNCzRNLVyiImJ0kRXiN"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 209434,
+      "name": "Todas las veces",
+      "url": "https://open.spotify.com/track/1LzbWUNwGyup20mpcCkhEG"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 178545,
+      "name": "El primer paso en la luna",
+      "url": "https://open.spotify.com/track/2omBUI7JoHe7zEauJvn6Oj"
+    },
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
@@ -25,10 +137,10 @@
       "url": "https://open.spotify.com/track/6ghYXPIPncuPb1VQWkSh2F"
     },
     {
-      "added_at": "2023-10-13 06:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "El primer paso en la luna",
-        "url": "https://open.spotify.com/album/0UU1WRNq0lEBST4QqW7DS6"
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
       },
       "artists": [
         {
@@ -36,9 +148,105 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 178545,
-      "name": "El primer paso en la luna",
-      "url": "https://open.spotify.com/track/4GcdtQaqyH6qpnv0jrPpcm"
+      "duration_ms": 207306,
+      "name": "M\u00e1s que una idea",
+      "url": "https://open.spotify.com/track/2aEwX97ENXALKe6MzsymyI"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 185804,
+      "name": "Almas paralelas",
+      "url": "https://open.spotify.com/track/4MwKtN8gWGqrVMtOjZEGxT"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Pero",
+      "url": "https://open.spotify.com/track/05gyYNhI8lUtyFxaoQDZRd"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/2izgZtTWV6x0gXUpq047gj"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 211550,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/1mH6dAaWJzrmoqpSs1MjEK"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 179861,
+      "name": "Vale la pena - Spanish",
+      "url": "https://open.spotify.com/track/5PbOX7sRkGZBRIRYyisto0"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Almas paralelas",
+        "url": "https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 199125,
+      "name": "M\u00e1s all\u00e1 de la superficie",
+      "url": "https://open.spotify.com/track/7LSVOi0SpjNRy6ud0dRxSX"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -55,22 +263,6 @@
       "duration_ms": 179303,
       "name": "Frente a nosotros",
       "url": "https://open.spotify.com/track/7ejgpCjT3L5JRJWKnqeSbV"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Durar",
-        "url": "https://open.spotify.com/album/5WGzrCnJgloOH4uau17Aug"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "Durar",
-      "url": "https://open.spotify.com/track/4z0YuBEZ29pCut5HtLeQ9Z"
     },
     {
       "added_at": "2021-09-23 17:55:37",
@@ -183,22 +375,6 @@
       "duration_ms": 226693,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/0mct3ztXaGdJW20o0mZt8c"
-    },
-    {
-      "added_at": "2023-03-10 06:00:00",
-      "album": {
-        "name": "Un buen inicio",
-        "url": "https://open.spotify.com/album/4oUnlll4PQn0sMA7z7alRB"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 190018,
-      "name": "Un buen inicio",
-      "url": "https://open.spotify.com/track/7wYqyJHvK9mwz4h8YK8MU5"
     },
     {
       "added_at": "2021-09-23 17:55:37",

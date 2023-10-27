@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-268 songs - 12 hr 12 min
+269 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,10 +37,10 @@
 | [As Lovely as You](https://open.spotify.com/track/1DM9o5mLVWg0gigkcHBLHE) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [As Lovely As You](https://open.spotify.com/album/332IMrwRY4IP3srSACnjH4) | 3:07 | 2022-05-13 | 2023-10-13 |
 | [Asian Delight](https://open.spotify.com/track/0EQOLN8bCteRj62De3MLSn) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [Asian Delight](https://open.spotify.com/album/3EhfE5X0ILlNI30Yt3trQ2) | 3:28 | 2022-05-13 |  |
 | [At first dawn](https://open.spotify.com/track/7xWZgRtEfN2WYzomtNynes) | [Robert Blanke](https://open.spotify.com/artist/0nXlrKMk6YSm3vN04HaghF) | [At first dawn](https://open.spotify.com/album/2Cv6U6taQMno5m7KMZakLz) | 2:41 | 2022-05-13 |  |
-| [Autumn Coming](https://open.spotify.com/track/4FMe5WxTUYxd4U9jk0C4yl) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Autumn Coming](https://open.spotify.com/album/3Q6axAHOm4KVMFJlxFRvQF) | 2:21 | 2022-05-13 |  |
+| [Autumn Coming](https://open.spotify.com/track/4FMe5WxTUYxd4U9jk0C4yl) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Autumn Coming](https://open.spotify.com/album/3Q6axAHOm4KVMFJlxFRvQF) | 2:21 | 2022-05-13 | 2023-10-27 |
 | [Autumn Evening](https://open.spotify.com/track/5xdX77NFqdR2ZbJGwCm2Gh) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Autumn Evening](https://open.spotify.com/album/3OxAWwzZfvU262xrBeGoMY) | 1:29 | 2022-05-13 | 2023-09-14 |
 | [Back to Boulder Creek](https://open.spotify.com/track/3aa0G5MIUCXZDD3FwcqL0j) | [Carol Poole](https://open.spotify.com/artist/02I1DT5QQhN18VH7MYEsSv) | [Back to Boulder Creek](https://open.spotify.com/album/6toTINQLDLrIcJRmXxd1fF) | 2:19 | 2022-05-13 | 2023-06-16 |
-| [Bastiments](https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Núria](https://open.spotify.com/album/35xNbujDkw7WI2064N4L53) | 2:56 | 2023-02-24 |  |
+| [Bastiments](https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Núria](https://open.spotify.com/album/35xNbujDkw7WI2064N4L53) | 2:56 | 2023-02-24 | 2023-10-27 |
 | [Beautitude](https://open.spotify.com/track/4IWpVVj6c0LhBePxFoAZEe) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [Beautitude](https://open.spotify.com/album/2exVfoLC3vLD8qBdNDPuDY) | 1:59 | 2023-01-20 | 2023-09-14 |
 | [Beech Woods](https://open.spotify.com/track/2LN0TKS8xzsrD3UQ74O7LA) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Beech Woods](https://open.spotify.com/album/0s4AKKQuijvlppeRcSj51D) | 1:52 | 2023-02-24 | 2023-09-14 |
 | [Before You go](https://open.spotify.com/track/3m4gh0NRsAwzyGjPoL2o3s) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Before You Go](https://open.spotify.com/album/3PdwBttSdtSzCa9hktsYxf) | 2:52 | 2023-03-10 | 2023-06-10 |
@@ -221,6 +221,7 @@
 | [Stay](https://open.spotify.com/track/3IwotLyzLEwvnVV5tK3LxX) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Stay](https://open.spotify.com/album/2ZpJ6FLDVO1ktGjRf8d3jP) | 1:54 | 2022-05-13 | 2022-07-22 |
 | [Stream](https://open.spotify.com/track/0iQJKde2ceeY5iu7zX4b6s) | [Masaaki Kishibe](https://open.spotify.com/artist/4D9ADmnRSSpkyrnofqLa7b) | [Stream](https://open.spotify.com/album/4r9WzvRUBLaFP6qep8wHPE) | 2:41 | 2022-05-13 |  |
 | [Summer Haze](https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Summer Haze](https://open.spotify.com/album/6b5M9uiTVphHivV0LrXWeO) | 1:38 | 2022-05-13 | 2023-09-14 |
+| [Sun over the desert](https://open.spotify.com/track/3wNOEQe2NOlExECcLqVPLG) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Sun over the desert](https://open.spotify.com/album/3sEZnpkw2WFgCLRTRE5BPV) | 2:08 | 2023-10-27 |  |
 | [Sunbeam](https://open.spotify.com/track/5qDr76MRaLPELK9SGKHYu4) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Sunbeam](https://open.spotify.com/album/2PIMTYAFnWmmoBv1cmfTsd) | 2:52 | 2023-08-11 |  |
 | [Sunrise Murmur](https://open.spotify.com/track/1kJApkWnDkH6wgjApxlIcK) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [A Slow Winding Road](https://open.spotify.com/album/2T141nerYqMwPqgCgJk71E) | 3:13 | 2022-05-13 |  |
 | [Sunset on the Farmland](https://open.spotify.com/track/5tvM2CxNOcCBY7Z2H9Xa12) | [Tapperstand](https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH) | [Shapes in the Sky](https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol) | 2:51 | 2022-05-13 |  |
@@ -267,7 +268,7 @@
 | [Wide Open Fields](https://open.spotify.com/track/5JcB7SJbD2TeJKEwHE4Pjt) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Wide Open Fields](https://open.spotify.com/album/66QsqLd9r1qVermYTWChlO) | 3:52 | 2022-05-13 |  |
 | [Window From A Train](https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw) | [Carrie Mittenkemp](https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P) | [Window From A Train](https://open.spotify.com/album/6QGcFMaEC1eSBuO2QgH9yT) | 2:25 | 2022-05-13 | 2023-04-28 |
 | [Windward Breath](https://open.spotify.com/track/65o5SX8EGxCoPhTh31YI94) | [Playfall](https://open.spotify.com/artist/0pqHT6ERaAgl6rawFnytRS) | [Situations](https://open.spotify.com/album/5jhBDjpYs8hBJTBR1HVxxp) | 2:35 | 2022-05-13 |  |
-| [With Eyes Closed](https://open.spotify.com/track/1iTlxUv96DWOGIbHCoL8Dr) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [With Eyes Closed](https://open.spotify.com/album/5XlfbF5Ln48pZAaw7IPpxq) | 3:19 | 2022-09-02 |  |
+| [With Eyes Closed](https://open.spotify.com/track/1iTlxUv96DWOGIbHCoL8Dr) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [With Eyes Closed](https://open.spotify.com/album/5XlfbF5Ln48pZAaw7IPpxq) | 3:19 | 2022-09-02 | 2023-10-27 |
 | [Within You, Within Me](https://open.spotify.com/track/4d1mlzslIWzM9Ky1YJ2vpQ) | [Sophie Hansen\-Agard](https://open.spotify.com/artist/46KklrpIr7r0aD2p8vmOMu) | [Within You, Within Me](https://open.spotify.com/album/5oKe4TVgb8IRk347ZVxQmS) | 2:44 | 2022-05-13 | 2022-10-07 |
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-02-24 |  |
 | [Wood Circles](https://open.spotify.com/track/2gyh1Z3wAP2gChERJJG52c) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Wood Circles](https://open.spotify.com/album/7xr8qnA4cvLLuHmiUEpGer) | 2:54 | 2022-05-13 | 2022-09-09 |

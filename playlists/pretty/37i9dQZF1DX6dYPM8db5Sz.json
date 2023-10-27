@@ -1,13 +1,29 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=QKXC5s4zQk-r0hpZqnAVjA\">HONEYMOAN</a> ",
-  "num_followers": 9394,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl?si=AvqIY2gjRqyKhpfGBzZZRQ\">Tyler Page</a> ",
+  "num_followers": 9409,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjBmNTk4YmFkYjllMGJiMDcwNTYxOWY0NDYyN2E4ZTlhMzlhNGUw",
+  "snapshot_id": "MCwzMGJkZjVmYTIwNTI0MWVlMGY3OTMzY2Y0MWExN2Y5NjBmZWFmOWJh",
   "tracks": [
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Psychoheart",
+        "url": "https://open.spotify.com/album/0llxbNb1hB1ky2nOy8CrxE"
+      },
+      "artists": [
+        {
+          "name": "Tyler Page",
+          "url": "https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Psychoheart",
+      "url": "https://open.spotify.com/track/1rZKQh1xYiEHdUJ90FWLsj"
+    },
     {
       "added_at": "2023-09-29 03:01:55",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/4E5P6ztlfq3jE9Df80jtND"
     },
     {
-      "added_at": "2023-10-12 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "for the boys i like",
-        "url": "https://open.spotify.com/album/03sJKeNC4zs4jRrPr8BYpu"
+        "name": "I Can't Hide Me Anymore",
+        "url": "https://open.spotify.com/album/2pJQo4qVjG6mve8LNkFdv9"
       },
       "artists": [
         {
-          "name": "Muneyi",
-          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+          "name": "Eln\u00e9",
+          "url": "https://open.spotify.com/artist/1Eio90q1NlMKd7aOSk2IuN"
         }
       ],
-      "duration_ms": 219320,
-      "name": "letter to my father",
-      "url": "https://open.spotify.com/track/7tCVDMEqgqSNPKhs8DTIER"
+      "duration_ms": 207103,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/4JTtMnkEaOaqzjSMt7PMj0"
     },
     {
       "added_at": "2023-09-29 03:01:55",
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/1aS9JhKewGG5VJza4E6S3u"
     },
     {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Jaguar",
+        "url": "https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 175923,
+      "name": "Jaguar",
+      "url": "https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy"
+    },
+    {
       "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Proof Of Life (Deluxe)",
@@ -71,6 +103,190 @@
       "duration_ms": 171700,
       "name": "Black Car",
       "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Mine Of Myself",
+        "url": "https://open.spotify.com/album/1gZ6GbTfp1Cvuwp0tK00Xf"
+      },
+      "artists": [
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "duration_ms": 155327,
+      "name": "Mine Of Myself",
+      "url": "https://open.spotify.com/track/2qPH0TDd5bVnIaPA7yoV7t"
+    },
+    {
+      "added_at": "2023-10-06 04:19:13",
+      "album": {
+        "name": "Life Of The Party",
+        "url": "https://open.spotify.com/album/61asLyV0SRvt9XrcqpHeZt"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 130539,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/1FEZnCbas8ET6pfyB3u6Rb"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "JEALOUSY",
+        "url": "https://open.spotify.com/album/1MbVek8MpYBfm9zl1woBXu"
+      },
+      "artists": [
+        {
+          "name": "JUCINDA",
+          "url": "https://open.spotify.com/artist/70ZW0jioaMggqkfttoWkQo"
+        }
+      ],
+      "duration_ms": 192787,
+      "name": "JEALOUSY",
+      "url": "https://open.spotify.com/track/5VdNSYWfAwlp4geQjXpmlg"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Oversized Jersey",
+        "url": "https://open.spotify.com/album/0c9kkxZBN8KLG5ufiwJJZ6"
+      },
+      "artists": [
+        {
+          "name": "Jacob Swann",
+          "url": "https://open.spotify.com/artist/3b8ExEnWwnymMCMM3vcHbe"
+        }
+      ],
+      "duration_ms": 192564,
+      "name": "Oversized Jersey",
+      "url": "https://open.spotify.com/track/3tZDaJWJwkUbEM8YaonrYS"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Designated Observer",
+        "url": "https://open.spotify.com/album/30mj9sd9m8t3b66gIYrWYB"
+      },
+      "artists": [
+        {
+          "name": "Alexis Silvestra",
+          "url": "https://open.spotify.com/artist/6H199k00mZXpsUzJI6yKdu"
+        }
+      ],
+      "duration_ms": 242421,
+      "name": "Designated Observer",
+      "url": "https://open.spotify.com/track/6rkUWq5E1hajNe137MnLlw"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/0XawzyieTnvh4oY6cX9w3n"
+      },
+      "artists": [
+        {
+          "name": "Daniel Swan",
+          "url": "https://open.spotify.com/artist/2MTzEuYjVaguQ1Jc9bXEnv"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/0RzWnHJmLxw1rYA9vch1o5"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Can't Stop the Leaves",
+        "url": "https://open.spotify.com/album/0KhcwN64V5kD0XDGOohKa9"
+      },
+      "artists": [
+        {
+          "name": "Daniel Gadd",
+          "url": "https://open.spotify.com/artist/7yjQG2WkOptNRfNKcZUUOJ"
+        }
+      ],
+      "duration_ms": 154088,
+      "name": "Can't Stop the Leaves",
+      "url": "https://open.spotify.com/track/0XFrvXmBUuO35vVvxiGhig"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "A Stone in the Mouth of the Ocean",
+        "url": "https://open.spotify.com/album/3OhGXVRBTDW2omR3hj2gP0"
+      },
+      "artists": [
+        {
+          "name": "Luke Beling",
+          "url": "https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V"
+        }
+      ],
+      "duration_ms": 225853,
+      "name": "Nightbirds",
+      "url": "https://open.spotify.com/track/1lTS4fQzd2niFLbQiyRoNy"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Kisses",
+        "url": "https://open.spotify.com/album/6Qy5s1FZIeWGCvqwXauhOj"
+      },
+      "artists": [
+        {
+          "name": "SKTLLZ",
+          "url": "https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5"
+        },
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        },
+        {
+          "name": "KVSE",
+          "url": "https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz"
+        }
+      ],
+      "duration_ms": 209782,
+      "name": "Kisses",
+      "url": "https://open.spotify.com/track/2uTOgEF8G1QHrRd85vIgyi"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/0mBjxXRFxMDBbiYDJ5ON3g"
+      },
+      "artists": [
+        {
+          "name": "Steve Umculo",
+          "url": "https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B"
+        }
+      ],
+      "duration_ms": 296992,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/7ANSTOU6zS4oQf5Y69Y1yV"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "for the boys i like",
+        "url": "https://open.spotify.com/album/03sJKeNC4zs4jRrPr8BYpu"
+      },
+      "artists": [
+        {
+          "name": "Muneyi",
+          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "letter to my father",
+      "url": "https://open.spotify.com/track/7tCVDMEqgqSNPKhs8DTIER"
     },
     {
       "added_at": "2023-10-06 04:19:13",
@@ -107,22 +323,6 @@
       "duration_ms": 213494,
       "name": "Winter Depression",
       "url": "https://open.spotify.com/track/6qE4LaHVH7Dgkm7N9Bhp2o"
-    },
-    {
-      "added_at": "2023-10-06 04:19:13",
-      "album": {
-        "name": "Life Of The Party",
-        "url": "https://open.spotify.com/album/61asLyV0SRvt9XrcqpHeZt"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 130539,
-      "name": "Life Of The Party",
-      "url": "https://open.spotify.com/track/1FEZnCbas8ET6pfyB3u6Rb"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1503,38 +1703,6 @@
       "duration_ms": 186795,
       "name": "Waiting Forever",
       "url": "https://open.spotify.com/track/0wABBgkiamVDvK04MUvHkU"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Wildfire Love",
-        "url": "https://open.spotify.com/album/0ElRBkdS5gLayPwG1HO1if"
-      },
-      "artists": [
-        {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
-        }
-      ],
-      "duration_ms": 103021,
-      "name": "Wildfire Love",
-      "url": "https://open.spotify.com/track/2Z9r1F0qUif5yjEHq01X60"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Show You Off",
-        "url": "https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 174323,
-      "name": "Show You Off",
-      "url": "https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc"
     }
   ],
   "unique_name": "SAlt",

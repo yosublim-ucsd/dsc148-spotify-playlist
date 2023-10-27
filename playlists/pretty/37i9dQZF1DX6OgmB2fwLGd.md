@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,393,420 likes - 98 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,393,417 likes - 98 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 61 | [Jenn Jenn Jenn](https://open.spotify.com/track/09A7OM0R7yazApSFe0v1SA) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Jenn Jenn Jenn](https://open.spotify.com/album/6WjpdxDbIidSJuY2Z4yjMg) | 2:00 |
 | 62 | [2017](https://open.spotify.com/track/3yl7WqiswUejJddFqErYPV) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [2017](https://open.spotify.com/album/6E8WPJP4zLzLWxBnOU7qoM) | 2:20 |
 | 63 | [melanin](https://open.spotify.com/track/00GgVbUzNfwknUJN0XSuh1) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [22Joeyy](https://open.spotify.com/album/3rDrOvwAlhgk3xxvsJz0Ja) | 2:20 |
-| 64 | [First Day Out \(Freestyle\)](https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u) | 2:22 |
+| 64 | [First Day Out \(Freestyle\)](https://open.spotify.com/track/7idI4LLo9LVLqrvvzhSj3n) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/31UX5n39Siyj0nXs1s5DSZ) | 2:22 |
 | 65 | [Quite Frankly \(with Luh Tyler & Trapland Pat\)](https://open.spotify.com/track/6jSC6HQdTrDMobpRciFYvq) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ) | [Bars Mitzvah](https://open.spotify.com/album/77iWKhQsnPv2ceYGWZ4TMS) | 3:00 |
 | 66 | [PAMPER PAMPER](https://open.spotify.com/track/10Ov8KUvheyNHKlCBK5VLd) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [WISH YOU WERE HERE](https://open.spotify.com/album/0PxvbdJQowxgtKBhNJAMep) | 1:52 |
 | 67 | [CRAZY GIRL P2 \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/1MoxBQxwPAiQKlRQ4BV9MB) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [CRAZY GIRL P2 \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0i6aioaKcPI1Nw9Jm3p8Yz) | 3:02 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 97 | [First Things First](https://open.spotify.com/track/7DFTrjG8Y4uNSUGj8bfLMR) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [First Things First](https://open.spotify.com/album/7vC8AyFxSAN0qPQwE4RxBm) | 1:46 |
 | 98 | [Imagine](https://open.spotify.com/track/1OXBgL6v7PbBlsW04YTqHr) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Imagine](https://open.spotify.com/album/3eE3jvTL3vFOXQuVlXM1sr) | 2:32 |
 
-Snapshot ID: `MCwzMjAwMDI3NjVmOGQwMWI1ZDlmODQyYWVlMzhlMDQzMzJlMmFkYzcw`
+Snapshot ID: `MCxhOTFhZGVjMTE2NjVkYzIxMDhlMzU3OTMyZTIwYzg1YjgxMjViZGZm`

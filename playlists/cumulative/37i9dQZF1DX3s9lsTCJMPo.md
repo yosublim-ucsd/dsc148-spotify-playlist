@@ -4,7 +4,7 @@
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by Lissa Monet
 
-280 songs - 20 hr 4 min
+282 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Keep Talking](https://open.spotify.com/track/6j3zJhkmRUz2FqhcTg4A5N) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2012](https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0) | 3:26 | 2022-08-18 | 2023-05-16 |
 | [Leh Go](https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Future Riddim](https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm) | 3:23 | 2023-07-10 |  |
 | [Lift Ya Leg Up](https://open.spotify.com/track/6pHBIt92RkPztpBh3PW2v1) | [Spice & Co.](https://open.spotify.com/artist/1Iz2YzkS477m4Jd3lvf7S9) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:20 | 2020-09-16 | 2022-07-29 |
-| [Like Ah Boss](https://open.spotify.com/track/6yauoDrUUPOaLTMwycTomd) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Like Ah Boss](https://open.spotify.com/album/4cqO3f0vJTeyrfBv3esQ0I) | 3:09 | 2023-07-10 |  |
+| [Like Ah Boss](https://open.spotify.com/track/08uIpFwr0W4XuoJqR7uuQa) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Monk Monté](https://open.spotify.com/album/6lwmNrIkDEUTo8z45DzLc6) | 3:09 | 2023-08-07 |  |
+| [Like Ah Boss](https://open.spotify.com/track/6yauoDrUUPOaLTMwycTomd) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Like Ah Boss](https://open.spotify.com/album/4cqO3f0vJTeyrfBv3esQ0I) | 3:09 | 2023-07-10 | 2023-10-27 |
 | [Like Yuh Self](https://open.spotify.com/track/1gzoAtrRQlcrRHgRc9K4OC) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Like Yuh Self](https://open.spotify.com/album/3CRTmP0iyWPAsG54CkxUO5) | 2:56 | 2023-07-10 |  |
 | [Long Time](https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur) | [Arrow](https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm) | [Soca Savage](https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x) | 3:53 | 2023-07-10 |  |
 | [Long Time](https://open.spotify.com/track/0jXbojsGFpX0mjfdVuIzOC) | [Arrow!!!](https://open.spotify.com/artist/4eKyrb1vSumgjMmpndPEsa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 6:50 | 2020-09-16 | 2023-07-11 |
@@ -170,7 +171,8 @@
 | [Movin To De Left](https://open.spotify.com/track/5Mp9zveDmaceWyodJ5WGfO) | [Nigel Lewis](https://open.spotify.com/artist/1HBWca70vmbDcbUlj4mD9F) | [Soca for De World](https://open.spotify.com/album/2wacFQTy8C00bNdGN5xuHN) | 5:17 | 2020-09-16 | 2023-07-11 |
 | [Movin'](https://open.spotify.com/track/6c5fzIabjARvfleaqkz8Bb) | [Nigell & Marvinn](https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:19 | 2020-09-16 | 2022-07-26 |
 | [Mr Bissessar](https://open.spotify.com/track/0Jj7sZ5QmuYh7kB8vxYEo8) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 6:45 | 2023-07-10 |  |
-| [Mr\. Fete](https://open.spotify.com/track/2cTbXePq0kurJhdxG7qBd5) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Mr\. Fete \- Single](https://open.spotify.com/album/5eGmGmPuRrwqkio8StYeBK) | 3:51 | 2023-07-10 |  |
+| [Mr\. Fete](https://open.spotify.com/track/4m8vRm7j9mt7eGb8baKt37) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Double M, Vol\. 1](https://open.spotify.com/album/3RhogPqWdqkCv4vkLglNiZ) | 3:50 | 2023-08-07 |  |
+| [Mr\. Fete](https://open.spotify.com/track/2cTbXePq0kurJhdxG7qBd5) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Mr\. Fete \- Single](https://open.spotify.com/album/5eGmGmPuRrwqkio8StYeBK) | 3:51 | 2023-07-10 | 2023-10-27 |
 | [Nani Wine](https://open.spotify.com/track/67nNlpQ2skJNnSZ9G5q0E7) | [Crazy](https://open.spotify.com/artist/09tdBgP6yxiWD6DOHIT3j5) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 7:12 | 2020-09-16 | 2023-07-11 |
 | [No Apology](https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [No Apology](https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh) | 2:49 | 2023-07-10 |  |
 | [Oh Yay](https://open.spotify.com/track/69vJqBlRXJZFhhwl6l4Qln) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Awakening](https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB) | 3:31 | 2023-07-10 |  |

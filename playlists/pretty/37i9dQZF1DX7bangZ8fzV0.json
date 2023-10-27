@@ -1,44 +1,28 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo?si=UVi8h7mnRq6csv3QEqKP3Q\">Elandr\u00e9</a>  ",
-  "num_followers": 85368,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3?si=mQeEio3tSmOt6tXRQon_CA\">FATMAN</a>  ",
+  "num_followers": 85466,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjk0NWYwNTc2YTZjYTUzMzJhNmZjODExYzFmNzFlZDE5NWU5MDU3",
+  "snapshot_id": "MCxmODkzZDZjY2JjODFiMzRmNGExYjU1NDBmMTk4Mjc2ZDg1NjBjMDEx",
   "tracks": [
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Asseblief",
-        "url": "https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO"
+        "name": "Tannie Katesbes",
+        "url": "https://open.spotify.com/album/3MONfNQ8xdPBx77X5J4D3N"
       },
       "artists": [
         {
-          "name": "Elandr\u00e9",
-          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
+          "name": "FATMAN",
+          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
         }
       ],
-      "duration_ms": 207812,
-      "name": "Asseblief",
-      "url": "https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Boksemdais",
-        "url": "https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 188553,
-      "name": "Boksemdais",
-      "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
+      "duration_ms": 180348,
+      "name": "Tannie Katesbes",
+      "url": "https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x"
     },
     {
       "added_at": "2023-08-17 22:01:39",
@@ -105,6 +89,22 @@
       "url": "https://open.spotify.com/track/4QyvkP2gRHGYOaOntzVJpL"
     },
     {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Boksemdais",
+        "url": "https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 188553,
+      "name": "Boksemdais",
+      "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
+    },
+    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Foute",
@@ -119,6 +119,22 @@
       "duration_ms": 202917,
       "name": "Foute",
       "url": "https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Asseblief",
+        "url": "https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO"
+      },
+      "artists": [
+        {
+          "name": "Elandr\u00e9",
+          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
+        }
+      ],
+      "duration_ms": 207812,
+      "name": "Asseblief",
+      "url": "https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -301,22 +317,6 @@
       "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Ek Wonder",
-        "url": "https://open.spotify.com/album/07wqaVr50Sy5ke6YhxnIF4"
-      },
-      "artists": [
-        {
-          "name": "Riana Nel",
-          "url": "https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ"
-        }
-      ],
-      "duration_ms": 212941,
-      "name": "Ek Wonder",
-      "url": "https://open.spotify.com/track/7d1dnWCYBxIkLHYkxjF6Yd"
-    },
-    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Tekkies Brand",
@@ -363,6 +363,22 @@
       "duration_ms": 175375,
       "name": "H2O\u00eb",
       "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Ek Wonder",
+        "url": "https://open.spotify.com/album/07wqaVr50Sy5ke6YhxnIF4"
+      },
+      "artists": [
+        {
+          "name": "Riana Nel",
+          "url": "https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ"
+        }
+      ],
+      "duration_ms": 212941,
+      "name": "Ek Wonder",
+      "url": "https://open.spotify.com/track/7d1dnWCYBxIkLHYkxjF6Yd"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -413,30 +429,6 @@
       "url": "https://open.spotify.com/track/474ACPInPwPBWt1eFwG0fs"
     },
     {
-      "added_at": "2023-08-24 21:59:00",
-      "album": {
-        "name": "Kwagga Karnaval",
-        "url": "https://open.spotify.com/album/7J8QRwCuKTylCzzhObMTTc"
-      },
-      "artists": [
-        {
-          "name": "Kurt Darren",
-          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
-        },
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        },
-        {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Kwagga Karnaval",
-      "url": "https://open.spotify.com/track/0YibPa1JNIDIvubnDjrDFF"
-    },
-    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Stout Vir ...",
@@ -485,6 +477,46 @@
       "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
     },
     {
+      "added_at": "2023-08-24 21:59:00",
+      "album": {
+        "name": "Kwagga Karnaval",
+        "url": "https://open.spotify.com/album/7J8QRwCuKTylCzzhObMTTc"
+      },
+      "artists": [
+        {
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+        },
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        },
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Kwagga Karnaval",
+      "url": "https://open.spotify.com/track/0YibPa1JNIDIvubnDjrDFF"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/5UlvfJZV9qoZA6Ik3xXlbE"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 210232,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/6bcUztS91zHtPE9uJ2JIL2"
+    },
+    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Frikkie vir 'n Rukkie",
@@ -531,22 +563,6 @@
       "duration_ms": 185062,
       "name": "Lyntjie",
       "url": "https://open.spotify.com/track/1EhZrbHrX4gTpH7cS35cd2"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/5UlvfJZV9qoZA6Ik3xXlbE"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 210232,
-      "name": "Diana",
-      "url": "https://open.spotify.com/track/6bcUztS91zHtPE9uJ2JIL2"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -683,22 +699,6 @@
       "duration_ms": 198995,
       "name": "Haai Haai",
       "url": "https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm"
-    },
-    {
-      "added_at": "2023-09-21 21:59:00",
-      "album": {
-        "name": "Die Rower",
-        "url": "https://open.spotify.com/album/5MRXndYHbRTxLhROnjpeoO"
-      },
-      "artists": [
-        {
-          "name": "Juan Boucher",
-          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
-        }
-      ],
-      "duration_ms": 255857,
-      "name": "Die Rower",
-      "url": "https://open.spotify.com/track/2V2nGO3KiIXZunNZjIiPY4"
     },
     {
       "added_at": "2023-06-29 21:59:00",

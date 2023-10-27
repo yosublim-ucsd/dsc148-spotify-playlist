@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PiXXiE",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 4EVE",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -406,6 +406,24 @@
       "duration_ms": 181914,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2"
+    },
+    {
+      "album": {
+        "name": "Daily Magic",
+        "url": "https://open.spotify.com/album/5Rgqtmbcjo7yoK7a0s7TpR"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252709,
+      "name": "Daily Magic",
+      "url": "https://open.spotify.com/track/21gpUjOF7vYrqMMjQgMI3g"
     },
     {
       "album": {
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 217674,
       "name": "\u0e19\u0e49\u0e2d\u0e21\u0e23\u0e31\u0e1a\u0e04\u0e33\u0e17\u0e33\u0e19\u0e32\u0e22 - THE SUN",
       "url": "https://open.spotify.com/track/7yRaBXZzpWLAnW57MeVts5"
@@ -5086,7 +5104,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 264444,
       "name": "\u0e2a\u0e25\u0e31\u0e01\u0e08\u0e34\u0e15",
       "url": "https://open.spotify.com/track/03Yp2uEOtPGHQ6E9XSjmyv"
@@ -7124,6 +7142,24 @@
       "duration_ms": 264762,
       "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
       "url": "https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e1b\u0e25\u0e49\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e44\u0e01\u0e25\u0e46",
+        "url": "https://open.spotify.com/album/19X9OKv7wLrVkfZRwksheZ"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189830,
+      "name": "\u0e44\u0e1b\u0e25\u0e49\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e44\u0e01\u0e25\u0e46",
+      "url": "https://open.spotify.com/track/4YbyUda6Zsjk76hDfgH3CP"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [pulp](https://open.spotify.com/playlist/37i9dQZF1DX3IplhwNexYg)
 
-> The best in current indie rock\. Cover: The Last Dinner Party
+> The best in current indie rock\. Cover: bar italia
 
-495 songs - 1 day 3 hr 47 min
+499 songs - 1 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Bet My Blood](https://open.spotify.com/track/1VkDsso47HItKLQh98kGfL) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Bet My Blood](https://open.spotify.com/album/6G5IHNBlR3Ac0fSRwUgFFn) | 2:59 | 2021-05-21 | 2022-02-04 |
 | [Bet My Brains](https://open.spotify.com/track/293L4QqPp9XAyYAO32VJpp) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Bet My Brains](https://open.spotify.com/album/63UCoFVtwXykTLnEk5vMiP) | 3:53 | 2021-03-09 | 2022-01-17 |
 | [Better \- Edit](https://open.spotify.com/track/6NIrjH865NExM8juniJlLY) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Better \(Edit\)](https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7) | 3:31 | 2023-07-13 | 2023-09-21 |
+| [Better Luck Next Time](https://open.spotify.com/track/7emXHhr2yFGO7mSVZnNHjB) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Better Luck Next Time](https://open.spotify.com/album/7LRaEYO1IbbqjIm8hyxmLu) | 3:53 | 2023-10-26 |  |
 | [Between The Rocks](https://open.spotify.com/track/2FK5khW8jinlrJOy0TWVxM) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Between The Rocks](https://open.spotify.com/album/3JDZzKj3R9MGJEncZLi5ZQ) | 3:31 | 2022-08-18 | 2023-01-19 |
 | [Big Win](https://open.spotify.com/track/2jR7NL3VzaKWtmUi10SSTQ) | [Spare Parts For Broken Hearts](https://open.spotify.com/artist/2Ztv3nUtX0tMKHlOpLeGf5) | [Big Win](https://open.spotify.com/album/6X8C9Vs8SzBkbzwuzFsAUH) | 3:25 | 2021-03-09 | 2022-01-17 |
 | [Bigger](https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Bigger](https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl) | 3:18 | 2023-09-15 |  |
@@ -199,9 +200,9 @@
 | [Heavy](https://open.spotify.com/track/0mlE732Ghbmo89ISngqVNk) | [The Goodnight Darlings](https://open.spotify.com/artist/6krukeKcu8LAYaEG50ohmM) | [Heavy](https://open.spotify.com/album/7j52cSMnSXWMbYV37zbhFH) | 3:16 | 2021-03-09 | 2022-01-17 |
 | [Heavy Heart](https://open.spotify.com/track/5eWmggao2s6P1vVDeheUIg) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Farm to Table](https://open.spotify.com/album/5szOdnVq0e6pDDFNxz6YK3) | 4:23 | 2022-08-18 | 2022-10-14 |
 | [Hell On Earth](https://open.spotify.com/track/5zkVTkQkHV4ygkf4sjicbA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Hell On Earth](https://open.spotify.com/album/0H19BYgfRBOrW5BXg7yFqH) | 2:45 | 2022-08-18 | 2022-09-23 |
-| [Hello Alien](https://open.spotify.com/track/4apqIevNZl1POiQccrGWls) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hello Alien](https://open.spotify.com/album/0dZ0p4707siTGOUEvr98D5) | 3:25 | 2022-10-13 |  |
+| [Hello Alien](https://open.spotify.com/track/4apqIevNZl1POiQccrGWls) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hello Alien](https://open.spotify.com/album/0dZ0p4707siTGOUEvr98D5) | 3:25 | 2022-10-13 | 2023-10-27 |
 | [Hey Sis](https://open.spotify.com/track/18BngYNbP0xadmssigycDH) | [Labradors](https://open.spotify.com/artist/4kf8k9dopDL5PK5q0ufGkG) | [Retriever](https://open.spotify.com/album/7mWI8Asn8rQqYX0lXgHNhk) | 3:18 | 2022-01-17 | 2022-08-19 |
-| [Hippodrome](https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Hippodrome](https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc) | 2:41 | 2023-06-30 |  |
+| [Hippodrome](https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Hippodrome](https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc) | 2:41 | 2023-06-30 | 2023-10-27 |
 | [Holdup](https://open.spotify.com/track/0l8o0hshn4qrihNPvvJu2l) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Got Him!](https://open.spotify.com/album/6rBt5RO5Yb4sfMwGpWXjyU) | 2:35 | 2023-08-17 |  |
 | [Hollywood](https://open.spotify.com/track/7nhHhAK4luQGM6yxIAZcF4) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [Hollywood](https://open.spotify.com/album/5HBRejbP2IlsqHNQDQb2oy) | 3:51 | 2022-01-17 | 2022-08-19 |
 | [Hollywood Ending](https://open.spotify.com/track/4swwHP8APaMGiBiD2RpLQi) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Hollywood Ending](https://open.spotify.com/album/2AVfB4purBhdmqpoR25zp1) | 3:26 | 2021-03-09 | 2022-01-17 |
@@ -269,6 +270,7 @@
 | [Lazy Brain](https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Deepest Blue](https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl) | 3:38 | 2023-07-21 | 2023-08-05 |
 | [Leader of the Pack](https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Leader of the Pack](https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS) | 3:03 | 2022-08-18 | 2022-10-07 |
 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 | 2022-10-06 | 2023-04-16 |
+| [Lemonade](https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Lemonade](https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE) | 3:26 | 2023-10-26 |  |
 | [Let The Lights On](https://open.spotify.com/track/1ydI7YlZY6Ik7lzeaRc3jN) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Let The Lights On](https://open.spotify.com/album/4GvPhsT3ybieptovGBbzqP) | 3:03 | 2022-08-18 | 2022-10-07 |
 | [Let's Go](https://open.spotify.com/track/0FGRPpBeQxkGEpnIChlnf8) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Let's Go](https://open.spotify.com/album/09PcwXJ6Kdt2M6ezSCYnQb) | 2:22 | 2021-04-30 | 2022-02-04 |
 | [Liffey](https://open.spotify.com/track/6JWsaKAJaqznc19DLk5d00) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [In Waiting](https://open.spotify.com/album/1bcRBsdflwrlfkkVSTFKBI) | 4:19 | 2021-03-09 | 2022-01-22 |
@@ -278,7 +280,7 @@
 | [Lost Honor](https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Lost Honor](https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP) | 3:59 | 2022-08-18 | 2022-09-09 |
 | [Love For Two](https://open.spotify.com/track/4h0yZCpf4CunKMi06y8kqZ) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Green Dream in F\#](https://open.spotify.com/album/3FsVZD0eyVFDemLLWcR8rq) | 2:05 | 2022-10-13 | 2023-01-14 |
 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 | 2022-10-13 |  |
-| [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 | 2023-03-05 |  |
+| [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 | 2023-03-05 | 2023-10-27 |
 | [Lux](https://open.spotify.com/track/3OBlUMdio4gMywyU63AhT9) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Lux](https://open.spotify.com/album/1VCH62Yg84u6WevIg7oEiK) | 1:39 | 2021-03-09 | 2022-02-04 |
 | [Make It Right](https://open.spotify.com/track/3bGQc58jpE4J9xlqavrTPb) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 2:33 | 2022-02-28 | 2022-08-19 |
 | [Making the Most of It](https://open.spotify.com/track/728EWD7qN8QAwkG17bHkjW) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Havasu](https://open.spotify.com/album/6Uxjn5Rskks7mUFhWp7UPV) | 3:57 | 2022-01-24 | 2022-08-19 |
@@ -326,6 +328,7 @@
 | [One Of A Million](https://open.spotify.com/track/129EFIQ1KrSVCPPIg1XQnj) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [One Of A Million](https://open.spotify.com/album/2RyB5I5mCKX3dic2vxyjvG) | 3:36 | 2022-09-22 | 2023-01-21 |
 | [Only Good Things](https://open.spotify.com/track/4jAuXYgRTt64vVRFQnHuzt) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Only Good Things](https://open.spotify.com/album/0BpLn2166vvfF8ZTU8igCt) | 3:15 | 2022-08-18 | 2023-02-06 |
 | [Only Me](https://open.spotify.com/track/5HnAp1NqTJlGVkYWOIVchp) | [Hilma Nikolaisen](https://open.spotify.com/artist/13KN5sIVb9i5L9fDxa3CdZ) | [Only Me](https://open.spotify.com/album/45bexRxIgTFFf0JtsurKke) | 4:25 | 2021-03-09 | 2022-01-17 |
+| [Onward](https://open.spotify.com/track/6LxqraiUfqeViP5BsTVCP6) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 6:01 | 2023-10-26 |  |
 | [Or Durves](https://open.spotify.com/track/52Jdjv3m2QrXK94MgupDza) | [Egg Drop Soup](https://open.spotify.com/artist/7pzH64zegJsbv79XgCYXr0) | [Or Durves](https://open.spotify.com/album/6ixqkqbhv6oF0bqBYnQHRO) | 2:02 | 2021-06-04 | 2022-08-19 |
 | [Out of My Mind](https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Out of My Mind](https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33) | 3:32 | 2022-10-06 | 2023-03-03 |
 | [Oval Stones](https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:33 | 2023-04-13 | 2023-05-26 |
@@ -403,7 +406,7 @@
 | [Sometimes, I Swear](https://open.spotify.com/track/0koN5ovIrxSXrO7QJXQB4Y) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Sometimes, I Swear](https://open.spotify.com/album/64PIFHc0VXzd9sbkbSJfeU) | 3:38 | 2023-10-13 |  |
 | [Speak of the Devil](https://open.spotify.com/track/5dBqUGyiFVvjc901wkZGyr) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Speak of the Devil](https://open.spotify.com/album/0cwnN8cat7gqJDL84CxxyO) | 3:35 | 2021-03-09 | 2022-01-17 |
 | [Spilling Yr Guts](https://open.spotify.com/track/6wVjWIoAuJUqizw5MdgzDf) | [Apollo Ghosts](https://open.spotify.com/artist/1kELNMadpWBN7W2moY0h9O) | [Spilling Yr Guts](https://open.spotify.com/album/54jluCmKYHXQp2cii3NOzN) | 2:52 | 2022-01-24 | 2022-08-19 |
-| [SPLAT!](https://open.spotify.com/track/3QYGJb41WJjj6xs68Pvf1z) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [SPLAT!](https://open.spotify.com/album/4jUgvT7VlkhWmpmm6KvtCt) | 2:33 | 2023-10-13 |  |
+| [SPLAT!](https://open.spotify.com/track/3QYGJb41WJjj6xs68Pvf1z) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [SPLAT!](https://open.spotify.com/album/4jUgvT7VlkhWmpmm6KvtCt) | 2:33 | 2023-10-13 | 2023-10-27 |
 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 | 2023-06-30 | 2023-08-05 |
 | [St\. Charles Square](https://open.spotify.com/track/7lo2Wos97Xq6DFHURcsxeQ) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 3:55 | 2023-08-04 |  |
 | [stabilise](https://open.spotify.com/track/3JlNvjlxIlaQ4iQsnxPGct) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 3:32 | 2022-08-18 | 2022-10-07 |
@@ -496,6 +499,7 @@
 | [Win](https://open.spotify.com/track/0Z2d1Wv9VaHFxNxdgdKeBE) | [Nasty Cherry](https://open.spotify.com/artist/3a4OHGZwsqHc3eRChiDkS9) | [Win](https://open.spotify.com/album/3riT2ROhv1aQ7zZYut5cmQ) | 2:44 | 2021-03-09 | 2022-01-17 |
 | [Wind in My Sail](https://open.spotify.com/track/6qzKy0MR6hR7tjcw0a66Ct) | [\*repeat repeat](https://open.spotify.com/artist/0PEqo7RkX5wkaYwlT6hINn) | [Wind in My Sail](https://open.spotify.com/album/1thTc5DAfIg41RtmnFYyzf) | 3:05 | 2021-03-09 | 2022-01-17 |
 | [With Or Without](https://open.spotify.com/track/4aobh4j9xhG08Yb7VkcCzd) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [With Or Without](https://open.spotify.com/album/4OPRKb28mSim18LxaWMErZ) | 3:30 | 2021-03-09 | 2022-01-17 |
+| [worlds greatest emoter](https://open.spotify.com/track/6cjffqe2ghES5XsGAL9TlT) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [worlds greatest emoter](https://open.spotify.com/album/2w3uek920NjhKNSpZBX4OE) | 2:54 | 2023-10-26 |  |
 | [Worn Out Buildings](https://open.spotify.com/track/0xUN8ZBQGxTnNp8AaCiFum) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Worn Out Buildings](https://open.spotify.com/album/2m74UsKsBKUaCZT7mXOhh6) | 3:35 | 2023-08-17 | 2023-09-29 |
 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-05-25 | 2023-06-02 |
 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 | 2023-05-25 |  |

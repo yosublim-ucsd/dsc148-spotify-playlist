@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 64350,
+  "num_followers": 64393,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOThkOTlmOWI2YjE3OTFkZGVjNzAyMmU5ZTM2N2RmZGJjZDJmNTU2",
+  "snapshot_id": "MCw4MjZjZjkzODU1MmJkZjNhNmE5YjkyOTQ2ODg1ZmNkZWE1MjQ3MmRm",
   "tracks": [
     {
       "added_at": "2023-10-06 13:11:56",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Rymdresa",
-        "url": "https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad"
-      },
-      "artists": [
-        {
-          "name": "Juni Ros",
-          "url": "https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9"
-        }
-      ],
-      "duration_ms": 154090,
-      "name": "Rymdresa",
-      "url": "https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "calm waters & distant star",
         "url": "https://open.spotify.com/album/2KbMBAAeKkXMokJB1yyOZQ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 158000,
       "name": "distant star",
       "url": "https://open.spotify.com/track/6IlOnQUzJckb3KXqUXAbVt"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Rymdresa",
+        "url": "https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad"
+      },
+      "artists": [
+        {
+          "name": "Juni Ros",
+          "url": "https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9"
+        }
+      ],
+      "duration_ms": 154090,
+      "name": "Rymdresa",
+      "url": "https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Easy Mind",
-        "url": "https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl"
-      },
-      "artists": [
-        {
-          "name": "Alma Meris",
-          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Easy Mind",
-      "url": "https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 176390,
       "name": "Reasons For Being",
       "url": "https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Easy Mind",
+        "url": "https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl"
+      },
+      "artists": [
+        {
+          "name": "Alma Meris",
+          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Easy Mind",
+      "url": "https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Vibrational",
-        "url": "https://open.spotify.com/album/7ItE1PpkbhDgDQQkmGEn7V"
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/4aquErMoJ6lr67HTcTMPPB"
       },
       "artists": [
         {
-          "name": "unvrsl frqncy",
-          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
+          "name": "xerLK",
+          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
         }
       ],
-      "duration_ms": 175460,
-      "name": "Vibrational",
-      "url": "https://open.spotify.com/track/0WPubOHAJO44JOIYpbaHd7"
+      "duration_ms": 178928,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/4TYAkHr7OjLZrERXYmvkAQ"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Heavenly",
-        "url": "https://open.spotify.com/album/4aquErMoJ6lr67HTcTMPPB"
+        "name": "Vibrational",
+        "url": "https://open.spotify.com/album/7ItE1PpkbhDgDQQkmGEn7V"
       },
       "artists": [
         {
-          "name": "xerLK",
-          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
+          "name": "unvrsl frqncy",
+          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
         }
       ],
-      "duration_ms": 178928,
-      "name": "Heavenly",
-      "url": "https://open.spotify.com/track/4TYAkHr7OjLZrERXYmvkAQ"
+      "duration_ms": 175460,
+      "name": "Vibrational",
+      "url": "https://open.spotify.com/track/0WPubOHAJO44JOIYpbaHd7"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
+        "name": "Lights on Water",
+        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Lights on Water",
+      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
         "name": "Ambient Sleep Bliss",
         "url": "https://open.spotify.com/album/6N4hsBasKsW1LAuv2bPKNp"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 252765,
       "name": "Nature's Embrace",
       "url": "https://open.spotify.com/track/7iASF4SyBJIHg7PM3rEpTR"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
-        "name": "Lights on Water",
-        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
-      },
-      "artists": [
-        {
-          "name": "Astral Wonder",
-          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Lights on Water",
-      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
-      },
-      "artists": [
-        {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ"
       },
@@ -1087,22 +1071,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Sleep, Heavenly Sleep",
-        "url": "https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL"
-      },
-      "artists": [
-        {
-          "name": "Dreamabout",
-          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
-        }
-      ],
-      "duration_ms": 180882,
-      "name": "Sleep, Heavenly Sleep",
-      "url": "https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Sleep Sequence",
         "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
       },
@@ -1115,6 +1083,38 @@
       "duration_ms": 203374,
       "name": "Sleep Sequence",
       "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
+      },
+      "artists": [
+        {
+          "name": "Nimbus Skies",
+          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Sleep, Heavenly Sleep",
+        "url": "https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL"
+      },
+      "artists": [
+        {
+          "name": "Dreamabout",
+          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
+        }
+      ],
+      "duration_ms": 180882,
+      "name": "Sleep, Heavenly Sleep",
+      "url": "https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Sammram",
-        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
-      },
-      "artists": [
-        {
-          "name": "Ikupu Ume",
-          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
-        }
-      ],
-      "duration_ms": 206624,
-      "name": "Sammram",
-      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Theta Sleep",
         "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 166000,
       "name": "Clear-Headed",
       "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Sammram",
+        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
+      },
+      "artists": [
+        {
+          "name": "Ikupu Ume",
+          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
+        }
+      ],
+      "duration_ms": 206624,
+      "name": "Sammram",
+      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "mOther World",
-        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
-      },
-      "artists": [
-        {
-          "name": "Mike Molloy",
-          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
-        }
-      ],
-      "duration_ms": 124458,
-      "name": "mOther World",
-      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
       },
@@ -1247,34 +1231,18 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Semblance",
-        "url": "https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN"
+        "name": "mOther World",
+        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
       },
       "artists": [
         {
-          "name": "Rubycon Sunset",
-          "url": "https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W"
+          "name": "Mike Molloy",
+          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Semblance",
-      "url": "https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/7onJu6pkaORhUz9FF7MflA"
-      },
-      "artists": [
-        {
-          "name": "Halcyon Shores",
-          "url": "https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl"
-        }
-      ],
-      "duration_ms": 170958,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/2uk6pIi8sz7HOK9BLSRRXH"
+      "duration_ms": 124458,
+      "name": "mOther World",
+      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1295,6 +1263,22 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/7onJu6pkaORhUz9FF7MflA"
+      },
+      "artists": [
+        {
+          "name": "Halcyon Shores",
+          "url": "https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl"
+        }
+      ],
+      "duration_ms": 170958,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/2uk6pIi8sz7HOK9BLSRRXH"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
         "name": "Oh so Quiet",
         "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Capella",
-        "url": "https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE"
+        "name": "Semblance",
+        "url": "https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN"
       },
       "artists": [
         {
-          "name": "Aerial Love",
-          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
+          "name": "Rubycon Sunset",
+          "url": "https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W"
         }
       ],
-      "duration_ms": 157402,
-      "name": "Capella",
-      "url": "https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ"
+      "duration_ms": 183529,
+      "name": "Semblance",
+      "url": "https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1339,6 +1323,22 @@
       "duration_ms": 224791,
       "name": "Sleepy Eyes",
       "url": "https://open.spotify.com/track/6yh2v1ESQ0gOqU8d1Cyexm"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Capella",
+        "url": "https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE"
+      },
+      "artists": [
+        {
+          "name": "Aerial Love",
+          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
+        }
+      ],
+      "duration_ms": 157402,
+      "name": "Capella",
+      "url": "https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
+        "name": "Prieks",
+        "url": "https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs"
+      },
+      "artists": [
+        {
+          "name": "Adelina Palm",
+          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
+        }
+      ],
+      "duration_ms": 145524,
+      "name": "Prieks",
+      "url": "https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
         "name": "Moonlit",
         "url": "https://open.spotify.com/album/39mlZc7KmKoHZ8jiGancz3"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 158490,
       "name": "Waves of Harmony",
       "url": "https://open.spotify.com/track/5JEUb6ZynRuW2tuhk3oPE1"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
-        "name": "Prieks",
-        "url": "https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs"
-      },
-      "artists": [
-        {
-          "name": "Adelina Palm",
-          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
-        }
-      ],
-      "duration_ms": 145524,
-      "name": "Prieks",
-      "url": "https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "The State of Mudita",
-        "url": "https://open.spotify.com/album/34tKY4ovl06o917Ggv6ztL"
-      },
-      "artists": [
-        {
-          "name": "The State Of Mudita",
-          "url": "https://open.spotify.com/artist/6CqbtbMl0AAhgkpg7nmquy"
-        }
-      ],
-      "duration_ms": 155853,
-      "name": "The State of Mudita",
-      "url": "https://open.spotify.com/track/1xPNLw77249xsb6EBWipV2"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Repose",
         "url": "https://open.spotify.com/album/1kWjQNP5T5CsEgbYusdWu2"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 192187,
       "name": "Repose",
       "url": "https://open.spotify.com/track/3IC2C6R4V6iTeHNT9tgLGv"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "The State of Mudita",
+        "url": "https://open.spotify.com/album/34tKY4ovl06o917Ggv6ztL"
+      },
+      "artists": [
+        {
+          "name": "The State Of Mudita",
+          "url": "https://open.spotify.com/artist/6CqbtbMl0AAhgkpg7nmquy"
+        }
+      ],
+      "duration_ms": 155853,
+      "name": "The State of Mudita",
+      "url": "https://open.spotify.com/track/1xPNLw77249xsb6EBWipV2"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Dreamcatcher",
-        "url": "https://open.spotify.com/album/1ZKBIUYB7bGLNntOUNFDH4"
+        "name": "A Space Within a Space",
+        "url": "https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp"
       },
       "artists": [
         {
-          "name": "Silent Movement",
-          "url": "https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw"
+          "name": "Escape Gravity",
+          "url": "https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js"
         }
       ],
-      "duration_ms": 184545,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/5GbKfGHRwy7EBmf9c1RRGF"
+      "duration_ms": 191111,
+      "name": "A Space Within a Space",
+      "url": "https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Loveliness",
-        "url": "https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP"
+        "name": "Dreamcatcher",
+        "url": "https://open.spotify.com/album/1ZKBIUYB7bGLNntOUNFDH4"
       },
       "artists": [
         {
-          "name": "Gentle Dreams",
-          "url": "https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC"
+          "name": "Silent Movement",
+          "url": "https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw"
         }
       ],
-      "duration_ms": 160188,
-      "name": "Loveliness",
-      "url": "https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt"
+      "duration_ms": 184545,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/5GbKfGHRwy7EBmf9c1RRGF"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "A Space Within a Space",
-        "url": "https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp"
+        "name": "Loveliness",
+        "url": "https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP"
       },
       "artists": [
         {
-          "name": "Escape Gravity",
-          "url": "https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js"
+          "name": "Gentle Dreams",
+          "url": "https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC"
         }
       ],
-      "duration_ms": 191111,
-      "name": "A Space Within a Space",
-      "url": "https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM"
+      "duration_ms": 160188,
+      "name": "Loveliness",
+      "url": "https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Stillness",
-        "url": "https://open.spotify.com/album/45JitQMFNSa8L3wFS5JOcC"
-      },
-      "artists": [
-        {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
-        }
-      ],
-      "duration_ms": 191718,
-      "name": "Stillness",
-      "url": "https://open.spotify.com/track/5dm8dyCwn5fGikFFmcSoGc"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Air Castle",
         "url": "https://open.spotify.com/album/4ROOv2nn1kJrgX5mK2c1pJ"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 214054,
       "name": "Air Castle",
       "url": "https://open.spotify.com/track/6cLY5VyDhvPzM8dSKYfsNx"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Stillness",
+        "url": "https://open.spotify.com/album/45JitQMFNSa8L3wFS5JOcC"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "duration_ms": 191718,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/5dm8dyCwn5fGikFFmcSoGc"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Quiet Stars",
-        "url": "https://open.spotify.com/album/4kY0CmaPvEq48UR8W8NTt6"
-      },
-      "artists": [
-        {
-          "name": "Language of Lyrics",
-          "url": "https://open.spotify.com/artist/7l76D4b9qcmJjIO5Me5tlC"
-        }
-      ],
-      "duration_ms": 190147,
-      "name": "Quiet Stars",
-      "url": "https://open.spotify.com/track/2NcRLIAKxwFPCdI8NoffL5"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Sphere",
         "url": "https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 179104,
       "name": "Sphere",
       "url": "https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Quiet Stars",
+        "url": "https://open.spotify.com/album/4kY0CmaPvEq48UR8W8NTt6"
+      },
+      "artists": [
+        {
+          "name": "Language of Lyrics",
+          "url": "https://open.spotify.com/artist/7l76D4b9qcmJjIO5Me5tlC"
+        }
+      ],
+      "duration_ms": 190147,
+      "name": "Quiet Stars",
+      "url": "https://open.spotify.com/track/2NcRLIAKxwFPCdI8NoffL5"
     },
     {
       "added_at": "2023-10-06 13:11:56",

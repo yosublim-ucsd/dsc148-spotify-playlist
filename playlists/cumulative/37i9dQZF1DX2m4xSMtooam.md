@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-245 songs - 15 hr 40 min
+246 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Day by day](https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6) | [Luca Mundaca](https://open.spotify.com/artist/7u3L4UZO9IXBElwdUyvAxl) | [day by day](https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB) | 4:19 | 2022-05-13 |  |
 | [De Conversa Em Conversa](https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Summer Samba! \- João Gilberto](https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc) | 2:16 | 2022-06-10 | 2023-08-25 |
 | [Desafinado](https://open.spotify.com/track/0aOH62uqDzuvCvN2jdVtZs) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 5:49 | 2022-08-17 |  |
-| [Dias Ensolarados Pela Frente](https://open.spotify.com/track/6vurAgqsH9soYum0gS52vu) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Dias Ensolarados Pela Frente](https://open.spotify.com/album/1aQXeiKnkkiMWfC5z5oS3a) | 3:51 | 2023-09-22 |  |
+| [Dias Ensolarados Pela Frente](https://open.spotify.com/track/6vurAgqsH9soYum0gS52vu) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Dias Ensolarados Pela Frente](https://open.spotify.com/album/1aQXeiKnkkiMWfC5z5oS3a) | 3:51 | 2023-09-22 | 2023-10-27 |
 | [Dindi](https://open.spotify.com/track/0v2LWjMTUcwl49SLxflj9n) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [Dindi](https://open.spotify.com/album/77UUjAXL27yMKkyWzam0xL) | 2:41 | 2022-12-08 |  |
 | [Don't Know Why](https://open.spotify.com/track/7v70FdNcR0GkePhz3aQV3n) | [Naira Fonseca](https://open.spotify.com/artist/7CsiZmusVRzvSxLFk3qrgC) | [Don't Know Why](https://open.spotify.com/album/1eOWhe6KSCG5aV9mrhjySq) | 3:24 | 2023-01-19 |  |
 | [Don't Think Twice, It's Alright](https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Beat Goes On](https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh) | 4:40 | 2022-05-13 |  |
@@ -191,6 +191,7 @@
 | [Samba Saravah](https://open.spotify.com/track/50CyJ5uAFd64BkJtLOlEqz) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [To Brazil With Love](https://open.spotify.com/album/4eNdkAtsaqZH4mcdJx52wQ) | 4:00 | 2022-05-13 | 2023-08-25 |
 | [Samba saravah](https://open.spotify.com/track/3RBnF6OEuRbwXZIEPFZdk2) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 3:44 | 2022-05-13 |  |
 | [Sambalamento](https://open.spotify.com/track/0utN2UcAocw2Ewk6lzMRpx) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1), [Oscar Castro\-Neves](https://open.spotify.com/artist/55PO0aYAH6lYKr0SqYR3Z9) | [Composer Of Black Orpheus Plays And Sings Bossa Nova](https://open.spotify.com/album/0Mi7ijRGlYyIzdUB14FlbQ) | 2:19 | 2022-05-13 |  |
+| [Saudade](https://open.spotify.com/track/5BRVuZtqoGuHuqMZjahOe7) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [Saudade](https://open.spotify.com/album/6fdG50OGUX9nr0ZW9xMywu) | 2:40 | 2023-10-25 |  |
 | [Scintilla](https://open.spotify.com/track/4IvwFo7d9K78CdN4OmnGnw) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Scintilla](https://open.spotify.com/album/5NOen6G8sot5tYOayw7UbP) | 2:34 | 2023-06-13 |  |
 | [Small Bossa](https://open.spotify.com/track/4UHOmvAehYOtvoc5ULXLb2) | [Matt Rollings](https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu) | [The Valentine Sessions](https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c) | 3:19 | 2023-09-22 |  |
 | [So In Love](https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Every Time We Say Goodbye](https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0) | 3:33 | 2023-06-13 |  |

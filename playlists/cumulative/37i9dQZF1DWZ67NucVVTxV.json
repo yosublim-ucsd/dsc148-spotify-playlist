@@ -1215,6 +1215,28 @@
     },
     {
       "album": {
+        "name": "Nothing Personal",
+        "url": "https://open.spotify.com/album/2pJNxJSjNu2eCOtVMouABo"
+      },
+      "artists": [
+        {
+          "name": "Skaa Veceti",
+          "url": "https://open.spotify.com/artist/7moqwVMHJ39sfMGtjfRNNo"
+        },
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Bread",
+      "url": "https://open.spotify.com/track/1LWBKiR25hhbVACZREEDcG"
+    },
+    {
+      "album": {
         "name": "Brodo",
         "url": "https://open.spotify.com/album/5vP5InTqdYiCA3i2LORLJ3"
       },
@@ -3166,7 +3188,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 174485,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/1UcrPc3sarXiVaoYelfLbU"
@@ -4695,6 +4717,28 @@
     },
     {
       "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187368,
+      "name": "NO SLEEP $$$ (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
+    },
+    {
+      "album": {
         "name": "No Stress / Mawe",
         "url": "https://open.spotify.com/album/62yWidZfJ8W73jEdXhtWEg"
       },
@@ -4944,6 +4988,24 @@
       "duration_ms": 168610,
       "name": "Ogaranya",
       "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
+    },
+    {
+      "album": {
+        "name": "Ogaranya",
+        "url": "https://open.spotify.com/album/3RXbJhPt1MjhD9bAxD4KGG"
+      },
+      "artists": [
+        {
+          "name": "Pawzz",
+          "url": "https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175809,
+      "name": "Ogaranya",
+      "url": "https://open.spotify.com/track/3e7N1Gyzl6cz52UJl1P5Jp"
     },
     {
       "album": {
@@ -5256,7 +5318,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 190066,
       "name": "Out Of Reach",
       "url": "https://open.spotify.com/track/6vxKYDcvlvVbFCfqNEtKoe"
@@ -7054,7 +7116,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 218099,
       "name": "Wike",
       "url": "https://open.spotify.com/track/5QNiUOCJ05N65FGvgx5rKv"

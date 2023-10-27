@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Ibhokisi Lomncwabo",
+        "url": "https://open.spotify.com/album/1EWLUNQgH4mgHv5FjdmWvw"
+      },
+      "artists": [
+        {
+          "name": "uMehlabomvu",
+          "url": "https://open.spotify.com/artist/108KwQSLKiaZbIPgNg1pBm"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253139,
+      "name": "Abafana Bayefana",
+      "url": "https://open.spotify.com/track/6Gw55e0BsDiebc5EUSzlvl"
+    },
+    {
+      "album": {
         "name": "Isibuko",
         "url": "https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR"
       },
@@ -68,7 +86,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 260017,
       "name": "Akasangifuni",
       "url": "https://open.spotify.com/track/3gFgWXXr5TO2WI2ykUeSxi"
@@ -852,7 +870,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 229773,
       "name": "I'm Happy",
       "url": "https://open.spotify.com/track/5wuZ7biZx3qqGnO1YBvjiG"
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 260036,
       "name": "Kuthiwa sizomlanda",
       "url": "https://open.spotify.com/track/2esrQHLsVsxLxAp2HSOTTB"

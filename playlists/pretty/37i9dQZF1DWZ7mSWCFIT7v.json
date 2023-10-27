@@ -1,12 +1,12 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 95123,
+  "num_followers": 95168,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTMwOGIxMjM1YzgzYTFkODAxZDc4NmRjY2NiZTlhMWFkN2EyZTc2",
+  "snapshot_id": "MCw5M2E2MTkzZGVjNWU2NGYxNDcxOWZhMjY3N2VhYmRlMzRlN2M1OWYy",
   "tracks": [
     {
       "added_at": "2023-05-09 01:25:54",
@@ -135,22 +135,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "No Mind",
-        "url": "https://open.spotify.com/album/3oF1tzg93AKNKRcX2sdABL"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        }
-      ],
-      "duration_ms": 135269,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/1th4PAEaEQEV0NWAFfwWvv"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Angel's Flight",
         "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 352357,
       "name": "Angel's Flight",
       "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "No Mind",
+        "url": "https://open.spotify.com/album/3oF1tzg93AKNKRcX2sdABL"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "duration_ms": 135269,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/1th4PAEaEQEV0NWAFfwWvv"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/4JT4orneDAvaWkjUTuwShZ"
     },
     {
-      "added_at": "2022-09-27 23:17:09",
-      "album": {
-        "name": "1994",
-        "url": "https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE"
-      },
-      "artists": [
-        {
-          "name": "OKRAA",
-          "url": "https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU"
-        }
-      ],
-      "duration_ms": 645372,
-      "name": "Ola De Luz",
-      "url": "https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH"
-    },
-    {
       "added_at": "2022-09-21 01:59:31",
       "album": {
         "name": "Feorm Falorx",
@@ -409,20 +393,20 @@
       "url": "https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k"
     },
     {
-      "added_at": "2023-06-02 00:27:20",
+      "added_at": "2022-09-27 23:17:09",
       "album": {
-        "name": "Common Land",
-        "url": "https://open.spotify.com/album/6qfUGWERKWc8Q0Mcsh0CUr"
+        "name": "1994",
+        "url": "https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE"
       },
       "artists": [
         {
-          "name": "James Holden",
-          "url": "https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI"
+          "name": "OKRAA",
+          "url": "https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU"
         }
       ],
-      "duration_ms": 321482,
-      "name": "Common Land",
-      "url": "https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW"
+      "duration_ms": 645372,
+      "name": "Ola De Luz",
+      "url": "https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH"
     },
     {
       "added_at": "2022-08-03 02:34:20",
@@ -439,6 +423,22 @@
       "duration_ms": 251333,
       "name": "Truffles Sprinkles",
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
+    },
+    {
+      "added_at": "2023-06-02 00:27:20",
+      "album": {
+        "name": "Common Land",
+        "url": "https://open.spotify.com/album/6qfUGWERKWc8Q0Mcsh0CUr"
+      },
+      "artists": [
+        {
+          "name": "James Holden",
+          "url": "https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI"
+        }
+      ],
+      "duration_ms": 321482,
+      "name": "Common Land",
+      "url": "https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
     },
     {
-      "added_at": "2021-11-25 22:12:36",
-      "album": {
-        "name": "Haut",
-        "url": "https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm"
-      },
-      "artists": [
-        {
-          "name": "Ralph Heidel",
-          "url": "https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Haut",
-      "url": "https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Late Spring",
@@ -539,6 +523,22 @@
       "duration_ms": 365960,
       "name": "Twilight Sea",
       "url": "https://open.spotify.com/track/4dHxCO4kzAtcoki383YV0v"
+    },
+    {
+      "added_at": "2021-11-25 22:12:36",
+      "album": {
+        "name": "Haut",
+        "url": "https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm"
+      },
+      "artists": [
+        {
+          "name": "Ralph Heidel",
+          "url": "https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Haut",
+      "url": "https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU"
     },
     {
       "added_at": "2022-09-15 12:23:59",
@@ -763,6 +763,26 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Tar (Jan Jelinek Remix)",
+        "url": "https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        },
+        {
+          "name": "Jan Jelinek",
+          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
+        }
+      ],
+      "duration_ms": 359543,
+      "name": "Tar - Jan Jelinek Remix",
+      "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Kelly Lee Owens",
         "url": "https://open.spotify.com/album/0aol42apbylFf2POjiAOeP"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 349575,
       "name": "Warm Electronics Box",
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Tar (Jan Jelinek Remix)",
-        "url": "https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        },
-        {
-          "name": "Jan Jelinek",
-          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
-        }
-      ],
-      "duration_ms": 359543,
-      "name": "Tar - Jan Jelinek Remix",
-      "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
     },
     {
       "added_at": "2022-03-29 02:05:38",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/1IEHhrdBcjiZ4tZ5CiDGb3"
     },
     {
+      "added_at": "2023-03-03 04:14:50",
+      "album": {
+        "name": "Vegetal Passivity",
+        "url": "https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW"
+      },
+      "artists": [
+        {
+          "name": "Rzekomo",
+          "url": "https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku"
+        }
+      ],
+      "duration_ms": 238153,
+      "name": "Vegetal Passivity",
+      "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "These Days Don't Exist",
@@ -943,22 +959,6 @@
       "duration_ms": 228395,
       "name": "Be Like Water",
       "url": "https://open.spotify.com/track/7Cf9U4IO5YXjaNbh45sImM"
-    },
-    {
-      "added_at": "2023-03-03 04:14:50",
-      "album": {
-        "name": "Vegetal Passivity",
-        "url": "https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW"
-      },
-      "artists": [
-        {
-          "name": "Rzekomo",
-          "url": "https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku"
-        }
-      ],
-      "duration_ms": 238153,
-      "name": "Vegetal Passivity",
-      "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
     },
     {
       "added_at": "2023-04-15 02:42:19",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Seelen",
-        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
-      },
-      "artists": [
-        {
-          "name": "Doreem",
-          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
-        }
-      ],
-      "duration_ms": 275271,
-      "name": "Seele III",
-      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Street Talk",
         "url": "https://open.spotify.com/album/5vR8ut78J1NdClW40QmtuT"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 229367,
       "name": "Street Talk",
       "url": "https://open.spotify.com/track/0fTYyY4Egxd86l8Yvvo2Ag"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Seelen",
+        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
+      },
+      "artists": [
+        {
+          "name": "Doreem",
+          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
+        }
+      ],
+      "duration_ms": 275271,
+      "name": "Seele III",
+      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
     },
     {
       "added_at": "2023-01-07 02:10:08",
@@ -1171,6 +1171,42 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Dub Protection & The Sportswear Mystics",
+        "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
+      },
+      "artists": [
+        {
+          "name": "The Diabolical Liberties",
+          "url": "https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "duration_ms": 311480,
+      "name": "Dub Protection",
+      "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
+    },
+    {
+      "added_at": "2022-03-09 04:45:41",
+      "album": {
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 319047,
+      "name": "Amygdala",
+      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "No era s\u00f3lida",
         "url": "https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u"
       },
@@ -1199,42 +1235,6 @@
       "duration_ms": 393717,
       "name": "Promise You'll Haunt Me",
       "url": "https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI"
-    },
-    {
-      "added_at": "2022-03-09 04:45:41",
-      "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 319047,
-      "name": "Amygdala",
-      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Dub Protection & The Sportswear Mystics",
-        "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
-      },
-      "artists": [
-        {
-          "name": "The Diabolical Liberties",
-          "url": "https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb"
-        },
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 311480,
-      "name": "Dub Protection",
-      "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
     },
     {
       "added_at": "2022-02-25 05:11:21",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/38CvS1tbJBGBxV4TCJda4M"
     },
     {
-      "added_at": "2022-08-24 01:27:39",
-      "album": {
-        "name": "Eve",
-        "url": "https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe"
-      },
-      "artists": [
-        {
-          "name": "Floatleaf",
-          "url": "https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Eve",
-      "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
-    },
-    {
       "added_at": "2022-04-09 04:34:06",
       "album": {
         "name": "Natura",
@@ -1339,6 +1323,22 @@
       "duration_ms": 360000,
       "name": "Badwater Psalm - Khotin Remix",
       "url": "https://open.spotify.com/track/5g1o2X09PYouRGkp13SaQu"
+    },
+    {
+      "added_at": "2022-08-24 01:27:39",
+      "album": {
+        "name": "Eve",
+        "url": "https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe"
+      },
+      "artists": [
+        {
+          "name": "Floatleaf",
+          "url": "https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Eve",
+      "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
     },
     {
       "added_at": "2023-03-28 06:19:24",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Toska",
-        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
-      },
-      "artists": [
-        {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
-        }
-      ],
-      "duration_ms": 342005,
-      "name": "Toska",
-      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Misplaced",
         "url": "https://open.spotify.com/album/0QppwjRDWUS0SPwD7L1cvS"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 112000,
       "name": "Treks",
       "url": "https://open.spotify.com/track/3LLih0W5lB0xEAQxSxoBW6"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Toska",
+        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+        }
+      ],
+      "duration_ms": 342005,
+      "name": "Toska",
+      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Blinking/Aubades",
-        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
-      },
-      "artists": [
-        {
-          "name": "rAHHH",
-          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
-        }
-      ],
-      "duration_ms": 220212,
-      "name": "Aubades",
-      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Ficciones Del Tr\u00f3pico",
         "url": "https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Blinking/Aubades",
+        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
+      },
+      "artists": [
+        {
+          "name": "rAHHH",
+          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
+        }
+      ],
+      "duration_ms": 220212,
+      "name": "Aubades",
+      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Hodes",
         "url": "https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 194000,
       "name": "The Pier",
       "url": "https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK"
-    },
-    {
-      "added_at": "2022-01-21 20:27:00",
-      "album": {
-        "name": "Some Way",
-        "url": "https://open.spotify.com/album/2dpL1I201z6H3710toHacQ"
-      },
-      "artists": [
-        {
-          "name": "Holodec",
-          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
-        }
-      ],
-      "duration_ms": 217494,
-      "name": "Some Way",
-      "url": "https://open.spotify.com/track/6kRLQTgIr9LSudbn03qIMN"
     },
     {
       "added_at": "2022-09-30 02:46:46",
@@ -1571,6 +1555,22 @@
       "duration_ms": 270546,
       "name": "Give It Your Choir - Instrumental",
       "url": "https://open.spotify.com/track/2lsUYy3qMvswbX3rfbZUiI"
+    },
+    {
+      "added_at": "2022-01-21 20:27:00",
+      "album": {
+        "name": "Some Way",
+        "url": "https://open.spotify.com/album/2dpL1I201z6H3710toHacQ"
+      },
+      "artists": [
+        {
+          "name": "Holodec",
+          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
+        }
+      ],
+      "duration_ms": 217494,
+      "name": "Some Way",
+      "url": "https://open.spotify.com/track/6kRLQTgIr9LSudbn03qIMN"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1657,24 +1657,20 @@
       "url": "https://open.spotify.com/track/2TvgXwgbSkt4hsDyOlmyQA"
     },
     {
-      "added_at": "2023-04-15 02:42:19",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
       "artists": [
         {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        },
-        {
-          "name": "Meemo Comma",
-          "url": "https://open.spotify.com/artist/46fSsw6Lx6s1kvYGnb4pnd"
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
         }
       ],
-      "duration_ms": 336132,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1"
+      "duration_ms": 311783,
+      "name": "Park Line",
+      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
     },
     {
       "added_at": "2021-10-06 04:42:05",

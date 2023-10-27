@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 10754,
+  "num_followers": 10762,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmEzOGZhODVmNTBjYjY0YjRiNGYzOGFjYmIzMTZlYjFhZTExM2Ux",
+  "snapshot_id": "MCwzYTkxZmFkMjViYjRjZGM3ODZlMjUxMTllNThjMGFlNWFjOTBmN2Rk",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -167,6 +167,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Benton County Relic",
+        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 214613,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 174466,
       "name": "Snatch It Back And Hold It",
       "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Benton County Relic",
-        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "We Made It",
-      "url": "https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -287,6 +287,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Benton County Relic",
+        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 143013,
+      "name": "Get Your Groove On",
+      "url": "https://open.spotify.com/track/7rTMCY2QFWN8iHD1JjCWye"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 170000,
       "name": "T-Bone Shuffle",
       "url": "https://open.spotify.com/track/6bl7UHHcx1OY9tbvvnSssc"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Benton County Relic",
-        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 143013,
-      "name": "Get Your Groove On",
-      "url": "https://open.spotify.com/track/7rTMCY2QFWN8iHD1JjCWye"
     },
     {
       "added_at": "2020-12-01 05:01:00",

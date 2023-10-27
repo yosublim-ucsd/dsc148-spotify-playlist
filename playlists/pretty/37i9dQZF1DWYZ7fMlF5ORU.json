@@ -1,12 +1,12 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 146116,
+  "num_followers": 146181,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGEyM2YwZWY2M2ZhZTY4Y2RiMWVhMGUyZjdkMTNkYTQ1MjQxMTJi",
+  "snapshot_id": "MCxkYzQ1ODY4YjBjMjA1M2ZkYWQ1Njk3NDViMWI0YzAwNGExMGVlYTE1",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "A Noiva (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
-        }
-      ],
-      "duration_ms": 343626,
-      "name": "A Noiva - Ao Vivo",
-      "url": "https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Ele Continua Sendo Deus",
         "url": "https://open.spotify.com/album/5gsyztW15tySbiLjc9OmkH"
       },
@@ -447,26 +431,34 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Nossa Gente (Ao Vivo Em Balne\u00e1rio Cambori\u00fa, Santa Catarina / 2020)",
-        "url": "https://open.spotify.com/album/0AhbaBsyYzznGVHfC3Bm7Y"
+        "name": "A Noiva (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o"
       },
       "artists": [
         {
-          "name": "Felipe Vilela",
-          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
-        },
-        {
-          "name": "Nic Medeiros",
-          "url": "https://open.spotify.com/artist/7z4f7gF5I8R1ZQVPao5Tts"
-        },
-        {
-          "name": "Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
         }
       ],
-      "duration_ms": 249535,
-      "name": "Nossa Gente - Ao Vivo",
-      "url": "https://open.spotify.com/track/5QGURHzwT0j0Fmom11dPhk"
+      "duration_ms": 343626,
+      "name": "A Noiva - Ao Vivo",
+      "url": "https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Avante",
+        "url": "https://open.spotify.com/album/6ILLqsxadRd8B2BNA0oQk3"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 349500,
+      "name": "Eu N\u00e3o Desisto",
+      "url": "https://open.spotify.com/track/27ynruXjPgN7YE8dJ4WDiV"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -503,18 +495,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Avante",
-        "url": "https://open.spotify.com/album/6ILLqsxadRd8B2BNA0oQk3"
+        "name": "Nossa Gente (Ao Vivo Em Balne\u00e1rio Cambori\u00fa, Santa Catarina / 2020)",
+        "url": "https://open.spotify.com/album/0AhbaBsyYzznGVHfC3Bm7Y"
       },
       "artists": [
         {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+          "name": "Felipe Vilela",
+          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
+        },
+        {
+          "name": "Nic Medeiros",
+          "url": "https://open.spotify.com/artist/7z4f7gF5I8R1ZQVPao5Tts"
+        },
+        {
+          "name": "Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
         }
       ],
-      "duration_ms": 349500,
-      "name": "Eu N\u00e3o Desisto",
-      "url": "https://open.spotify.com/track/27ynruXjPgN7YE8dJ4WDiV"
+      "duration_ms": 249535,
+      "name": "Nossa Gente - Ao Vivo",
+      "url": "https://open.spotify.com/track/5QGURHzwT0j0Fmom11dPhk"
     },
     {
       "added_at": "2023-10-20 03:00:00",

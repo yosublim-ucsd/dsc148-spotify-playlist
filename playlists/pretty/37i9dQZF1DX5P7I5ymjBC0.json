@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 65914,
+  "num_followers": 65948,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmVmNTFiNDU3Y2VmOWNlMDVhNWIzYjNhNWMyOThiZDQxZTVkMmYz",
+  "snapshot_id": "MCw3MzQ5NjgxN2EyNjU0YTAyMWY2YTliMmY3MGVjNzhhNGVhMmU2NjY3",
   "tracks": [
     {
       "added_at": "2023-10-18 08:13:47",
@@ -61,28 +61,24 @@
       "url": "https://open.spotify.com/track/4t2sMBajRuSKudtieXPgPp"
     },
     {
-      "added_at": "2023-10-18 08:13:47",
+      "added_at": "2023-10-26 06:06:43",
       "album": {
-        "name": "Jogiya",
-        "url": "https://open.spotify.com/album/3HDp3VjwowVEIkWkVpP15W"
+        "name": "Khalasi | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq"
       },
       "artists": [
         {
-          "name": "Santanu Ghatak",
-          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
+          "name": "Aditya Gadhvi",
+          "url": "https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW"
         },
         {
-          "name": "Chandreyee Bhattacharya",
-          "url": "https://open.spotify.com/artist/3mH3uFlFhSCBJ9iJRrTtxy"
-        },
-        {
-          "name": "Nilanjan Samadder",
-          "url": "https://open.spotify.com/artist/534gzAUm9B9d5jFkWR0y4A"
+          "name": "Achint",
+          "url": "https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk"
         }
       ],
-      "duration_ms": 196901,
-      "name": "Jogiya",
-      "url": "https://open.spotify.com/track/7MU4WVkk08iWn61vLxGU9C"
+      "duration_ms": 258260,
+      "name": "Khalasi | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw"
     },
     {
       "added_at": "2023-10-20 05:00:34",
@@ -343,6 +339,22 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Classic Love",
+        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
+      },
+      "artists": [
+        {
+          "name": "Fuzon",
+          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
+        }
+      ],
+      "duration_ms": 412266,
+      "name": "Mora Saiyaan",
+      "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Goldfish (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co"
       },
@@ -359,22 +371,6 @@
       "duration_ms": 201230,
       "name": "Piya Padh Lena",
       "url": "https://open.spotify.com/track/5fuAQJ1kgVpFi5fge9oBae"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Classic Love",
-        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
-      },
-      "artists": [
-        {
-          "name": "Fuzon",
-          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
-        }
-      ],
-      "duration_ms": 412266,
-      "name": "Mora Saiyaan",
-      "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -539,6 +535,30 @@
       "duration_ms": 158476,
       "name": "Garaj Garaj",
       "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Jogiya",
+        "url": "https://open.spotify.com/album/3HDp3VjwowVEIkWkVpP15W"
+      },
+      "artists": [
+        {
+          "name": "Santanu Ghatak",
+          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
+        },
+        {
+          "name": "Chandreyee Bhattacharya",
+          "url": "https://open.spotify.com/artist/3mH3uFlFhSCBJ9iJRrTtxy"
+        },
+        {
+          "name": "Nilanjan Samadder",
+          "url": "https://open.spotify.com/artist/534gzAUm9B9d5jFkWR0y4A"
+        }
+      ],
+      "duration_ms": 196901,
+      "name": "Jogiya",
+      "url": "https://open.spotify.com/track/7MU4WVkk08iWn61vLxGU9C"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -715,6 +735,22 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Palkan",
+        "url": "https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd"
+      },
+      "artists": [
+        {
+          "name": "Advaita",
+          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
+        }
+      ],
+      "duration_ms": 361080,
+      "name": "Palkan",
+      "url": "https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/02tgCcfhK6499d0CtWPQgR"
       },
@@ -751,22 +787,6 @@
       "duration_ms": 380000,
       "name": "Nirbhay Nirgun (Live)",
       "url": "https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Palkan",
-        "url": "https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd"
-      },
-      "artists": [
-        {
-          "name": "Advaita",
-          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
-        }
-      ],
-      "duration_ms": 361080,
-      "name": "Palkan",
-      "url": "https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -847,6 +867,50 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "In Other Words",
+        "url": "https://open.spotify.com/album/3mL6fwYvMOzFSPdjFsOoso"
+      },
+      "artists": [
+        {
+          "name": "Anhad + Tanner",
+          "url": "https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ"
+        },
+        {
+          "name": "Akanksha Grover",
+          "url": "https://open.spotify.com/artist/5d78XABQ0O7YUJu7uI65Tj"
+        }
+      ],
+      "duration_ms": 294855,
+      "name": "Coming Home (feat. Akanksha Grover)",
+      "url": "https://open.spotify.com/track/6CQhSRMH7HYenOa3OToRyh"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Songs Of The River - Ganga",
+        "url": "https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn"
+      },
+      "artists": [
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        },
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Natkhat Nadiya",
+      "url": "https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "This Moment",
         "url": "https://open.spotify.com/album/283JCZJcJLqUYohOHMFuyI"
       },
@@ -879,50 +943,6 @@
       "duration_ms": 390826,
       "name": "Shrini\u2019s Dream",
       "url": "https://open.spotify.com/track/6llehsN0Mgms7vs6J88zTX"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Songs Of The River - Ganga",
-        "url": "https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn"
-      },
-      "artists": [
-        {
-          "name": "Shantanu Moitra",
-          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
-        },
-        {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
-        },
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Natkhat Nadiya",
-      "url": "https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "In Other Words",
-        "url": "https://open.spotify.com/album/3mL6fwYvMOzFSPdjFsOoso"
-      },
-      "artists": [
-        {
-          "name": "Anhad + Tanner",
-          "url": "https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ"
-        },
-        {
-          "name": "Akanksha Grover",
-          "url": "https://open.spotify.com/artist/5d78XABQ0O7YUJu7uI65Tj"
-        }
-      ],
-      "duration_ms": 294855,
-      "name": "Coming Home (feat. Akanksha Grover)",
-      "url": "https://open.spotify.com/track/6CQhSRMH7HYenOa3OToRyh"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -1003,22 +1023,6 @@
       "duration_ms": 243750,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/144TS04R5kwzBqaM805g9E"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Savera - Single",
-        "url": "https://open.spotify.com/album/01uQLmpmr0kXXW935hub2N"
-      },
-      "artists": [
-        {
-          "name": "Anusha Mani",
-          "url": "https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry"
-        }
-      ],
-      "duration_ms": 245510,
-      "name": "Savera",
-      "url": "https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2"
     }
   ],
   "unique_name": "Fusion Finds",

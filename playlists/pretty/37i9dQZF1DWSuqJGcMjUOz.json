@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTI2YzE1NjdmYjg0YzQ1MGIwMmIxYmMwMmZlNDVlMjE0YTNmYjA0",
+  "snapshot_id": "MCxlYTdlMWQxMDJkMmFhNGVkNjQxOWZkMjdiODk5NDkxZjFlMTY3ODI4",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Tant qu'il y aura des enfants",
-        "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
-      },
-      "artists": [
-        {
-          "name": "Marjo",
-          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "Provocante",
-      "url": "https://open.spotify.com/track/5LdCzn92GXvMOJ2wHMHKJh"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Nouvelle vague",
         "url": "https://open.spotify.com/album/2sSEaDk3kB9uT2rK2ya1S2"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 122985,
       "name": "Quiconque meurt, meurt \u00e0 douleur",
       "url": "https://open.spotify.com/track/7uZM6lu93fsaaIKOMRXagN"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Tant qu'il y aura des enfants",
+        "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
+      },
+      "artists": [
+        {
+          "name": "Marjo",
+          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
+        }
+      ],
+      "duration_ms": 282066,
+      "name": "Provocante",
+      "url": "https://open.spotify.com/track/5LdCzn92GXvMOJ2wHMHKJh"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Aurore",
+        "url": "https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m"
+      },
+      "artists": [
+        {
+          "name": "Roselle",
+          "url": "https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3"
+        }
+      ],
+      "duration_ms": 96031,
+      "name": "Suffit d'attendre I",
+      "url": "https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Waska Matisiwin",
         "url": "https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Aurore",
-        "url": "https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m"
-      },
-      "artists": [
-        {
-          "name": "Roselle",
-          "url": "https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3"
-        }
-      ],
-      "duration_ms": 96031,
-      "name": "Suffit d'attendre I",
-      "url": "https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Danser",
         "url": "https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55"
       },
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Il faut partir maintenant",
-        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 178405,
-      "name": "Penses-tu rester encore?",
-      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Le soleil et la mer",
         "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 168190,
       "name": "Le matin",
       "url": "https://open.spotify.com/track/1vNQPck3HugkKRZrmRrRp6"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Il faut partir maintenant",
+        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 178405,
+      "name": "Penses-tu rester encore?",
+      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "L'\u00e9chec h\u00e9ro\u00efque",
+        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
+      },
+      "artists": [
+        {
+          "name": "Thick Glasses",
+          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
+        }
+      ],
+      "duration_ms": 204461,
+      "name": "Mydriase",
+      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "normal",
         "url": "https://open.spotify.com/album/6oCINsAkkdM3RguhaI8IOI"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 277195,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/6vM411RagdEKjnK4kb1f88"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "L'\u00e9chec h\u00e9ro\u00efque",
-        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
-      },
-      "artists": [
-        {
-          "name": "Thick Glasses",
-          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
-        }
-      ],
-      "duration_ms": 204461,
-      "name": "Mydriase",
-      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Hauterive",
+        "url": "https://open.spotify.com/album/2T3H2zGJ0OAdpDDful41Bn"
+      },
+      "artists": [
+        {
+          "name": "Hauterive",
+          "url": "https://open.spotify.com/artist/1FjP1PNg8eZOJ5uuRe6UWj"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Le temps d'avance",
+      "url": "https://open.spotify.com/track/7sYhY4B6gKSH5XERKxS6UF"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Petite fille devient grande",
         "url": "https://open.spotify.com/album/0HkbzxdXq9eY7Bp4FzFkqf"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 152126,
       "name": "T'es la reine",
       "url": "https://open.spotify.com/track/1M4zFvJ4c7jJvvZ5FUCufg"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Hauterive",
-        "url": "https://open.spotify.com/album/2T3H2zGJ0OAdpDDful41Bn"
-      },
-      "artists": [
-        {
-          "name": "Hauterive",
-          "url": "https://open.spotify.com/artist/1FjP1PNg8eZOJ5uuRe6UWj"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "Le temps d'avance",
-      "url": "https://open.spotify.com/track/7sYhY4B6gKSH5XERKxS6UF"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Pas l'temps d'niaiser",
-        "url": "https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz"
-      },
-      "artists": [
-        {
-          "name": "Les H\u00f4tesses D' Hilaire",
-          "url": "https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "Inconfortable",
-      "url": "https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Tous les jours printemps",
         "url": "https://open.spotify.com/album/0lLG060tds4iQhGQHGAixA"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 249480,
       "name": "Glace noire",
       "url": "https://open.spotify.com/track/22FXAL3JiYeeYK8E54SLat"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Pas l'temps d'niaiser",
+        "url": "https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz"
+      },
+      "artists": [
+        {
+          "name": "Les H\u00f4tesses D' Hilaire",
+          "url": "https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "Inconfortable",
+      "url": "https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Chou",
-        "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
-      },
-      "artists": [
-        {
-          "name": "Chou",
-          "url": "https://open.spotify.com/artist/1Cqb7NVdvCVvToNwW8Tgb2"
-        }
-      ],
-      "duration_ms": 123541,
-      "name": "Chou",
-      "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "El Futuro Es Tribal",
         "url": "https://open.spotify.com/album/0aBNYVK8WtwYXkbXs46tkp"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 307337,
       "name": "Breath Of Fire",
       "url": "https://open.spotify.com/track/66kQ9RYFHdW4FIcjDOUYCV"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Chou",
+        "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
+      },
+      "artists": [
+        {
+          "name": "Chou",
+          "url": "https://open.spotify.com/artist/1Cqb7NVdvCVvToNwW8Tgb2"
+        }
+      ],
+      "duration_ms": 123541,
+      "name": "Chou",
+      "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
     },
     {
       "added_at": "2023-05-25 23:46:15",

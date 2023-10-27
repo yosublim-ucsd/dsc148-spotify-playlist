@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Cuore in Gola",
+        "url": "https://open.spotify.com/album/6YOAAMsWhRujHGP7rPdG4G"
+      },
+      "artists": [
+        {
+          "name": "Camilla Magli",
+          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Cuore in Gola",
+      "url": "https://open.spotify.com/track/6t4dhFqiP2W05yqPX4ebI4"
+    },
+    {
+      "album": {
         "name": "Cuore Spezzato",
         "url": "https://open.spotify.com/album/6XhfFeVmH0ZjtKfhGRDRTq"
       },

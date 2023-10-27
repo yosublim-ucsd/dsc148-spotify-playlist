@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Arco.",
+  "description": "Lo mejor del rock de aqu\u00ed, como El \u00daltimo de la Fila.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -658,7 +658,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 230779,
       "name": "Aviones Plateados - En Directo",
       "url": "https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 203213,
       "name": "Como Camar\u00f3n",
       "url": "https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6"
@@ -1214,10 +1214,28 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 283373,
       "name": "Como Si Fueras a Morir Ma\u00f1ana - Madrid Nuclear - En Directo",
       "url": "https://open.spotify.com/track/5LscAfMaxkC3ciH2kUZtOa"
+    },
+    {
+      "album": {
+        "name": "Astronom\u00eda Razonable",
+        "url": "https://open.spotify.com/album/1IxY9bcAPSu0ENtX3oLRlS"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217093,
+      "name": "Como un burro amarrado en la puerta del baile",
+      "url": "https://open.spotify.com/track/5cjEWYDWMXlTZr8Rehu2bl"
     },
     {
       "album": {
@@ -1232,7 +1250,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 217093,
       "name": "Como un burro amarrado en la puerta del baile",
       "url": "https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC"
@@ -1846,7 +1864,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 281560,
       "name": "Dulce condena",
       "url": "https://open.spotify.com/track/1J2XL5ciqUgCQ92TmFDAAZ"
@@ -2361,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "El regreso del Perro Andaluz",
+        "url": "https://open.spotify.com/album/5qJiA0yTkkj2BQ4CAsGZTI"
+      },
+      "artists": [
+        {
+          "name": "Albertucho",
+          "url": "https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292451,
+      "name": "El rey de los afortunados",
+      "url": "https://open.spotify.com/track/3d34ER4oaDVYOETSpxBoeS"
+    },
+    {
+      "album": {
         "name": "Heroes De Los 80",
         "url": "https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd"
       },
@@ -2394,6 +2430,24 @@
       "duration_ms": 250093,
       "name": "El roce de tu cuerpo",
       "url": "https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl"
+    },
+    {
+      "album": {
+        "name": "El saco de los sue\u00f1os",
+        "url": "https://open.spotify.com/album/5aYefSGGoNpMUDPdoGRy3K"
+      },
+      "artists": [
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272997,
+      "name": "El saco de los sue\u00f1os",
+      "url": "https://open.spotify.com/track/2Sb95W4jLCu0daFZXMdpOO"
     },
     {
       "album": {
@@ -3806,6 +3860,24 @@
       "duration_ms": 222549,
       "name": "Luna",
       "url": "https://open.spotify.com/track/1YRuKNFkQeyECwYvsrDCH6"
+    },
+    {
+      "album": {
+        "name": "Astronom\u00eda Razonable",
+        "url": "https://open.spotify.com/album/1IxY9bcAPSu0ENtX3oLRlS"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226533,
+      "name": "L\u00e1piz y tinta",
+      "url": "https://open.spotify.com/track/32tarmPzTWgTZj0NAZz2DH"
     },
     {
       "album": {
@@ -5224,7 +5296,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 180266,
       "name": "Rock And Roll en la Plaza del Pueblo",
       "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
@@ -6194,7 +6266,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 293466,
       "name": "Una noche de amor desesperada",
       "url": "https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9"
@@ -6470,6 +6542,24 @@
       "duration_ms": 258528,
       "name": "Zarcillos de Plata",
       "url": "https://open.spotify.com/track/36Ka4VOPBMgYAZ23BXQpHH"
+    },
+    {
+      "album": {
+        "name": "La Rebeli\u00f3n De Los Hombres Rana",
+        "url": "https://open.spotify.com/album/7DDYo4fzs3YTZgGeqqshq4"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266320,
+      "name": "\u00a1Qu\u00e9 bien huelen los pinos!",
+      "url": "https://open.spotify.com/track/2Wdm4pU96flScueqW3zB13"
     },
     {
       "album": {

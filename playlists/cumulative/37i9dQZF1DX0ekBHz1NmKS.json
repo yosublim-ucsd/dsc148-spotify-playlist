@@ -957,6 +957,24 @@
     },
     {
       "album": {
+        "name": "Hey mom, don\u2019t worry I\u2019m fine",
+        "url": "https://open.spotify.com/album/6zclTvnQt7riaa8pLl99Ba"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153176,
+      "name": "Awkward",
+      "url": "https://open.spotify.com/track/1DwFRzuCCcU7iogXAieS6V"
+    },
+    {
+      "album": {
         "name": "Baby Blue",
         "url": "https://open.spotify.com/album/4rflFIW66KafmJSRgEkc4n"
       },
@@ -3915,6 +3933,24 @@
     },
     {
       "album": {
+        "name": "Explosion",
+        "url": "https://open.spotify.com/album/20rt7cmBrpIM9iKGtOrWWq"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rn Holmgren",
+          "url": "https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186530,
+      "name": "Explosion",
+      "url": "https://open.spotify.com/track/0lOMfJkmkV20ajd98fpM7z"
+    },
+    {
+      "album": {
         "name": "Fade Into A Dream",
         "url": "https://open.spotify.com/album/6GCENCYB7bj7ZKEZivC1as"
       },
@@ -4912,7 +4948,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 144000,
       "name": "Get Real",
       "url": "https://open.spotify.com/track/1Eg6JkuIMYJzgbLOwV0e79"
@@ -7978,7 +8014,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 200869,
       "name": "Lillebror (No Love)",
       "url": "https://open.spotify.com/track/4GyAVQXFrYcs2AdLOu4M8D"
@@ -13875,6 +13911,24 @@
     },
     {
       "album": {
+        "name": "Tillr\u00e4cklig",
+        "url": "https://open.spotify.com/album/5fwPOg0afgFvEnVZFY6Dqa"
+      },
+      "artists": [
+        {
+          "name": "ALMEA",
+          "url": "https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166653,
+      "name": "Tillr\u00e4cklig",
+      "url": "https://open.spotify.com/track/5KTWAnAjNvWpJ5oTlzkOUU"
+    },
+    {
+      "album": {
         "name": "Tilt",
         "url": "https://open.spotify.com/album/0AC4E1o8yb9e0RMmqxcgXI"
       },
@@ -14986,7 +15040,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 250393,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2HjiabJKOLvVze6mEZ7Yrk"

@@ -4,7 +4,7 @@
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-155 songs - 11 hr 35 min
+156 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Shadows](https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT) | [Wagon Christ](https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy) | [Sorry I Make You Lush](https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR) | 4:26 | 2023-02-17 |  |
 | [She Moves She](https://open.spotify.com/track/5nHG7C56sxZIlply71VbcO) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Rounds \(Special Anniversary Edition\)](https://open.spotify.com/album/6ebN0Gkim6B1SDSp2ZbwI1) | 4:41 | 2023-02-17 |  |
 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 | 2023-02-17 |  |
+| [Shimmer and Glimmer](https://open.spotify.com/track/4w7JDDgv13YI0ZiIwplRSy) | [Chants](https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC) | [Poly Pointillism](https://open.spotify.com/album/7zmMRLwzf3PPnzEBWI2cLi) | 2:10 | 2023-02-17 |  |
 | [Silhouettes \(I, II, III\)](https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 10:42 | 2023-02-17 |  |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2023-02-17 |  |
 | [Sister Species](https://open.spotify.com/track/0xi81plszmA40tDw7cefN1) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Meridians](https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC) | 5:04 | 2023-02-17 | 2023-10-21 |
@@ -146,7 +147,7 @@
 | [Theory of Colours](https://open.spotify.com/track/7nT24kprAb4l7tI5FSd9zU) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Theory of Colours](https://open.spotify.com/album/6oIrL0YBYT6T6tXVF3LBVY) | 5:27 | 2023-02-17 |  |
 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 | 2023-05-09 |  |
 | [to all the plants i loved](https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX) | [s e r é n a t e](https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq) | [caso de estudio](https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp) | 3:45 | 2023-02-17 |  |
-| [Together](https://open.spotify.com/track/2u7rfC0PO6XdUBIjS1giEB) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza) | [William Shatner Has Been](https://open.spotify.com/album/53CfmaDFzVoFdPcU5SjjmB) | 5:39 | 2023-02-17 |  |
+| [Together](https://open.spotify.com/track/2u7rfC0PO6XdUBIjS1giEB) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza) | [William Shatner Has Been](https://open.spotify.com/album/53CfmaDFzVoFdPcU5SjjmB) | 5:39 | 2023-02-17 | 2023-10-27 |
 | [Tommy](https://open.spotify.com/track/1C8rpSZ77xf4lbFnl0Tunc) | [Jack Sapienza](https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K) | [Tommy](https://open.spotify.com/album/7MvAvnrcS8LfjuGWddaodU) | 3:40 | 2023-02-17 |  |
 | [Too Far](https://open.spotify.com/track/4bXwtTkkedf9RHndi65kcC) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Too Far](https://open.spotify.com/album/4cGbgxMQWj4KD99pLSVfdF) | 4:26 | 2023-02-17 |  |
 | [Treat Em Right \- Boards of Canada Remix Instrumental](https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG) | [Nevermen](https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq), [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Treat Em Right \(Boards Of Canada Remix\)](https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm) | 4:29 | 2023-02-17 |  |

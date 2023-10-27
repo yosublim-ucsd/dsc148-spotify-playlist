@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Nonpalidece.",
-  "num_followers": 55705,
+  "num_followers": 55741,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzAzNmQ0YmY3NmVhMWQ1OTE5ZjM5MTI1YmMwNDFjMTYxMDIyYWJj",
+  "snapshot_id": "MCxhZDM2NzA4MzBiYTAxODQwNTk0OTczN2FjYTU2NjgxNWNmZWVjMzNh",
   "tracks": [
     {
       "added_at": "2023-10-05 21:31:47",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-10-05 21:31:47",
       "album": {
+        "name": "International Love",
+        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "International Love",
+      "url": "https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq"
+    },
+    {
+      "added_at": "2023-10-05 21:31:47",
+      "album": {
         "name": "Cali Roots Riddim 2023",
         "url": "https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 224986,
       "name": "Do It Right",
       "url": "https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM"
-    },
-    {
-      "added_at": "2023-10-05 21:31:47",
-      "album": {
-        "name": "International Love",
-        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "International Love",
-      "url": "https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq"
     },
     {
       "added_at": "2023-10-05 21:31:47",
@@ -373,7 +373,7 @@
         },
         {
           "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/1nwqmVoGXHGiQ5oH8uyVZr"
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
         },
         {
           "name": "Quique Neira",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2023-10-05 21:31:47",
       "album": {
+        "name": "Seguirla",
+        "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
+      },
+      "artists": [
+        {
+          "name": "Gaspar OM",
+          "url": "https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj"
+        },
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 191776,
+      "name": "Seguirla",
+      "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
+    },
+    {
+      "added_at": "2023-10-05 21:31:47",
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 214000,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo"
-    },
-    {
-      "added_at": "2023-10-05 21:31:47",
-      "album": {
-        "name": "Seguirla",
-        "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
-      },
-      "artists": [
-        {
-          "name": "Gaspar OM",
-          "url": "https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj"
-        },
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 191776,
-      "name": "Seguirla",
-      "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
     },
     {
       "added_at": "2023-10-05 21:31:47",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-10-05 21:31:47",
       "album": {
-        "name": "Liberaci\u00f3n",
-        "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
-      },
-      "artists": [
-        {
-          "name": "Slow Burnin\u00b4",
-          "url": "https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "Nada Que Me Venga Mal",
-      "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
-    },
-    {
-      "added_at": "2023-10-05 21:31:47",
-      "album": {
         "name": "S\u00fabete",
         "url": "https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 245000,
       "name": "El Cuento",
       "url": "https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ"
+    },
+    {
+      "added_at": "2023-10-05 21:31:47",
+      "album": {
+        "name": "Liberaci\u00f3n",
+        "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
+      },
+      "artists": [
+        {
+          "name": "Slow Burnin\u00b4",
+          "url": "https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV"
+        }
+      ],
+      "duration_ms": 171013,
+      "name": "Nada Que Me Venga Mal",
+      "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
     },
     {
       "added_at": "2023-10-05 21:31:47",

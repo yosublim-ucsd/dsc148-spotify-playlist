@@ -1,12 +1,12 @@
 {
   "description": "Classic rock favorites. Cover: Bruce Springsteen",
-  "num_followers": 343925,
+  "num_followers": 344464,
   "original_name": "Dad Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTI3MGFlYmUyYmVkZDg4MjE0NmJkN2U5ZTNhNTdlNmIzMmE4OGE2",
+  "snapshot_id": "MCwxN2VlODU0ODQyOTZjYmU5NzFkMTdlYjE5ZWM3OGE0MDcwMzJmZjU1",
   "tracks": [
     {
       "added_at": "2022-03-04 19:14:07",
@@ -1007,6 +1007,22 @@
       "duration_ms": 265560,
       "name": "Stone in Love",
       "url": "https://open.spotify.com/track/4cgSBnNzOo9rhwzUczB7HI"
+    },
+    {
+      "added_at": "2022-03-07 21:05:58",
+      "album": {
+        "name": "Van Halen II (Remastered)",
+        "url": "https://open.spotify.com/album/3w93PGkmXAmEAdJVvmPbzI"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 188083,
+      "name": "Dance the Night Away - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4RS9PmtHQe7I0o5fEeweOY"
     },
     {
       "added_at": "2022-03-15 19:39:34",

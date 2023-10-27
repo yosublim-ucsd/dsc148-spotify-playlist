@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,138 songs - 6 day 0 hr 23 min
+2,139 songs - 6 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -894,8 +894,9 @@
 | [Hanen](https://open.spotify.com/track/2WdkiDYeDX1VgiEp0Y52Ns) | [Carthago](https://open.spotify.com/artist/5VXwGdDD7KI0NrlT4EzNzU) | [Alech \(Habibi Funk 004\)](https://open.spotify.com/album/5FA03xFVBdvnFN2F0eJVfn) | 4:56 | 2022-10-31 |  |
 | [Hatgini Tani](https://open.spotify.com/track/2kfPIkTn1aYfXJhz4nxD59) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 4:02 | 2022-07-12 | 2022-11-20 |
 | [Hatgini Tani](https://open.spotify.com/track/4wu7OqmEPzuxmYZqUuXd7V) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd) | 4:02 | 2022-10-31 |  |
+| [Heaven](https://open.spotify.com/track/6V8mQGMlteOnomLViyIRwU) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Ebo Taylor](https://open.spotify.com/album/5FOShBCFRekNYPZwzKWLB2) | 6:05 | 2023-10-06 |  |
 | [Heaven](https://open.spotify.com/track/0Pjj42t8MwtxoPoIezwWHR) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Life Stories](https://open.spotify.com/album/6eQYdaH4MdCn8D2aiiKatZ) | 6:05 | 2022-07-12 | 2022-07-29 |
-| [Heaven](https://open.spotify.com/track/1KT0sltdhzB2LxfS0GM8Uq) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/6qSmpM356gfbFMpy97f2JF) | 6:05 | 2023-03-17 |  |
+| [Heaven](https://open.spotify.com/track/1KT0sltdhzB2LxfS0GM8Uq) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/6qSmpM356gfbFMpy97f2JF) | 6:05 | 2023-03-17 | 2023-10-27 |
 | [Heaven](https://open.spotify.com/track/2GNzKVnqNE1E6VcHn9QjH7) | [Ebo Taylor](https://open.spotify.com/artist/1yDtHakLGMYiERfsHbXiv7) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/65bFwgGVr8WOlERe4kt5Gz) | 6:05 | 2022-07-27 | 2023-04-30 |
 | [Heaven and Hell](https://open.spotify.com/track/5NsYkl3g1aI314Ui5Tu5fi) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [Box Set](https://open.spotify.com/album/4PxvAyPKkslgDI1k2f1L1Y) | 4:03 | 2022-10-31 | 2022-11-14 |
 | [Heaven and Hell](https://open.spotify.com/track/5hQiWYvizq6wFAZHG79SXq) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/6QttcoRAAKse6CODVuHerf) | 4:03 | 2022-06-09 | 2022-07-29 |

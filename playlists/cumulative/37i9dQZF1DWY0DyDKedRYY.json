@@ -3394,10 +3394,28 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 142739,
       "name": "First Day Out (Freestyle)",
       "url": "https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G"
+    },
+    {
+      "album": {
+        "name": "First Day Out (Freestyle)",
+        "url": "https://open.spotify.com/album/31UX5n39Siyj0nXs1s5DSZ"
+      },
+      "artists": [
+        {
+          "name": "Rundown Spaz",
+          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142837,
+      "name": "First Day Out (Freestyle)",
+      "url": "https://open.spotify.com/track/7idI4LLo9LVLqrvvzhSj3n"
     },
     {
       "album": {
@@ -8337,6 +8355,24 @@
     },
     {
       "album": {
+        "name": "I Don't Want You Anymore",
+        "url": "https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb"
+      },
+      "artists": [
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178240,
+      "name": "Ready For You",
+      "url": "https://open.spotify.com/track/73HF6dF6a3XjmVMW30Zjp0"
+    },
+    {
+      "album": {
         "name": "Ready For You",
         "url": "https://open.spotify.com/album/1h4w0lyV12u3CuxsvQvEKR"
       },
@@ -8348,7 +8384,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 180666,
       "name": "Ready For You",
       "url": "https://open.spotify.com/track/3cDHpCGXwtmwlYG03O73UD"

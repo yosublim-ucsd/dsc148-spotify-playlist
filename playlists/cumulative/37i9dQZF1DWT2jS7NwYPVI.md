@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Picture Parlour
 
-1,908 songs - 4 day 4 hr 29 min
+1,909 songs - 4 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1508,7 +1508,8 @@
 | [sober](https://open.spotify.com/track/7qhIVH6Vov1CxFX7X7s8RM) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [BOYFRIENDZ](https://open.spotify.com/artist/0iZ1Gwx0L2YqRDBTF3JzqT) | [sober](https://open.spotify.com/album/1EicEDUEVlEAYYWPIL8Oxf) | 3:06 | 2021-11-19 | 2022-01-22 |
 | [Sober/Hungover \(feat\. Arizona Zervas\)](https://open.spotify.com/track/4yfQyGR61s7Mc5898V1BE6) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [Sober/Hungover \(feat\. Arizona Zervas\)](https://open.spotify.com/album/7eZqdxIfr07B8Vr02Ijd5K) | 2:49 | 2021-11-19 | 2022-01-29 |
 | [Soccer Mommy](https://open.spotify.com/track/7Eh51PbeKl19zS1dzWpTsO) | [Shalom](https://open.spotify.com/artist/5CgUSK3nZJAv90N00E6gj5) | [Soccer Mommy](https://open.spotify.com/album/4R3TpyRzegSa4DHpvmDqe5) | 1:53 | 2023-02-10 | 2023-03-11 |
-| [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:18 | 2023-07-14 |  |
+| [Soft Like a Flower](https://open.spotify.com/track/2hj7KCZ38HJWlEfQDs4IQH) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [I Don't Want You Anymore](https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb) | 3:18 | 2023-10-20 |  |
+| [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:18 | 2023-07-14 | 2023-10-27 |
 | [soft\-glow](https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Angelhood](https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh) | 3:13 | 2022-08-19 | 2022-10-15 |
 | [Someone/Somewhere](https://open.spotify.com/track/7dpapaF7YR0IkpDZOeoBrz) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M), [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [The Present Is a Foreign Land](https://open.spotify.com/album/1qmMt5MpOLwD2FbHZEE034) | 4:37 | 2022-07-15 | 2022-09-24 |
 | [Someone2Me](https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Someone2Me](https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n) | 3:46 | 2022-12-16 | 2023-01-28 |
@@ -1861,7 +1862,7 @@
 | [Why Do I Hear Breathing?](https://open.spotify.com/track/0w7MzV3fcO059kkPJUINyB) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Why Do I Hear Breathing?](https://open.spotify.com/album/6sM8hpWQ2MJqhG8swSwatj) | 1:59 | 2023-03-24 | 2023-04-09 |
 | [Why Do I Hear Breathing?](https://open.spotify.com/track/34AV8kRHUmM06sdnmDrPRe) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Why Do I Hear Breathing?](https://open.spotify.com/album/5Rld3VgahTXdhsOQk1oRnt) | 1:59 | 2023-04-07 | 2023-04-15 |
 | [WHY WOULD I BOTHER](https://open.spotify.com/track/3wd5pxc7UgHAwLiCrIz0ye) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [HELL OR HIGH WATER](https://open.spotify.com/album/3H4hHVygBP5MlpXmgbbjXi) | 2:58 | 2023-04-28 | 2023-05-13 |
-| [Wicked Styley](https://open.spotify.com/track/5bwjacSzWwVZzKHRGsOGDP) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Wicked Styley](https://open.spotify.com/album/1H5rc0kUITrP2PfdQyypUX) | 2:32 | 2023-08-11 | 2023-10-26 |
+| [Wicked Styley](https://open.spotify.com/track/5bwjacSzWwVZzKHRGsOGDP) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Wicked Styley](https://open.spotify.com/album/1H5rc0kUITrP2PfdQyypUX) | 2:32 | 2023-08-11 |  |
 | [Wide Asleep](https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wide Asleep](https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64) | 4:12 | 2023-02-03 | 2023-04-09 |
 | [Wide Eyes](https://open.spotify.com/track/0KiN95OOUGLFadCzc2ghBa) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ), [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x), [Brian Butcher](https://open.spotify.com/artist/245ZucnzUyK9RrTUFq5w8w) | [Built To Last](https://open.spotify.com/album/23XiIM9QKyC9urzQbTidGE) | 3:05 | 2023-05-26 | 2023-06-24 |
 | [Wiggy](https://open.spotify.com/track/6rydH51WZy57dxUBdHyUU1) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Wiggy](https://open.spotify.com/album/7I2nm8uXW9PjIW4EICNb22) | 3:35 | 2023-01-20 | 2023-03-04 |

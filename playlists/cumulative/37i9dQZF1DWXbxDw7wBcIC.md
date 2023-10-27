@@ -4,7 +4,7 @@
 
 > The birth of the blues, as it happened...
 
-89 songs - 4 hr 26 min
+90 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Juke \- Single Version](https://open.spotify.com/track/0msDgzMahuwWdekda2H4VO) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues Greats: Little Walter](https://open.spotify.com/album/3WIwVBItK3XnJMhX4SPDPF) | 2:44 | 2017-11-02 | 2022-07-29 |
 | [Levee Camp Blues](https://open.spotify.com/track/0QLGHswYCY4j0IAfqleuNw) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda), [Willie Brown](https://open.spotify.com/artist/6zxIBQ4sNvQCSkciayJxaS), [Fiddlin’ Joe Martin](https://open.spotify.com/artist/3raXFpk21XigZmb4xXG6qz), [Leroy Williams](https://open.spotify.com/artist/6uQnHbypkRY4KmLvJrs4OY) | [Son House Library of Congress Recordings 1941\-1942](https://open.spotify.com/album/2WC66jvXcoXHRqgfLTZ9Z5) | 3:42 | 2017-11-02 |  |
 | [Match Box Blues](https://open.spotify.com/track/1Fae2EbIMVEu14Qmb3fg41) | [Blind Lemon Jefferson](https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe) | [Essential Blind Lemon Jefferson, Vol\. 2](https://open.spotify.com/album/1sgSyKEC1dpHu02oOWx5YO) | 2:55 | 2017-11-02 | 2022-07-29 |
-| [Match Box Blues \(Alternate Take 3\)](https://open.spotify.com/track/5i1OyZAOU0ewFLc7txMuTq) | [Blind Lemon Jefferson](https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe) | [Presenting Blind Lemon Jefferson](https://open.spotify.com/album/4Zts8YPK9tFsccSTxf7xMe) | 2:55 | 2017-11-02 |  |
+| [Match Box Blues](https://open.spotify.com/track/1c676ThK6tHWNmCZw4yWGN) | [Blind Lemon Jefferson](https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe) | [Presenting Blind Lemon Jefferson](https://open.spotify.com/album/4Zts8YPK9tFsccSTxf7xMe) | 3:03 | 2017-11-02 |  |
+| [Match Box Blues \(Alternate Take 3\)](https://open.spotify.com/track/5i1OyZAOU0ewFLc7txMuTq) | [Blind Lemon Jefferson](https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe) | [Presenting Blind Lemon Jefferson](https://open.spotify.com/album/4Zts8YPK9tFsccSTxf7xMe) | 2:55 | 2017-11-02 | 2023-10-27 |
 | [Match Box Blues 1](https://open.spotify.com/track/5fdcZ3W2P2vMATpFQ3bYlZ) | [Blind Lemon Jefferson](https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe) | [The Best Of Blind Lemon Jefferson](https://open.spotify.com/album/1GZ9X9UoBxBcPbSkFlg9O4) | 2:55 | 2017-11-02 | 2022-11-13 |
 | [Mean Old Twister](https://open.spotify.com/track/7z4xP8kzJ6UDviV0qmO9l1) | [Kokomo Arnold](https://open.spotify.com/artist/1kSOv0QaraiHwnDs5ld2kr) | [Presenting Kokomo Arnold](https://open.spotify.com/album/60D5tvGM6mLtJaXnkpEOdd) | 2:59 | 2017-11-02 |  |
 | [Mean Old Twister](https://open.spotify.com/track/6TZ1JU2VlzcnrFCdbxLq3q) | [Kokomo Arnold](https://open.spotify.com/artist/1kSOv0QaraiHwnDs5ld2kr) | [Kokomo Arnold Blues Masters, Vol\. 14](https://open.spotify.com/album/397FdSyumWn3kPICSHRBlH) | 3:00 | 2017-11-02 | 2022-11-13 |

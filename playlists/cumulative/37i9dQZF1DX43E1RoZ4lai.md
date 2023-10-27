@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Aaron Diehl
 
-412 songs - 1 day 12 hr 36 min
+413 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [All Things Are](https://open.spotify.com/track/5QZQp59h4rFScQWWfKeLPG) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [All Things Are](https://open.spotify.com/album/1W923x7J8MGjYj0xTdoHuJ) | 9:35 | 2022-02-10 |  |
 | [Along Too Long](https://open.spotify.com/track/26ekvT7x2kUaj94gXv5DB1) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudio Chiara](https://open.spotify.com/artist/4iPKMm0rxAbqEUrbYgbVgw), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL) | [Drumless](https://open.spotify.com/album/53WDDbvjTrIFdqItSPII5z) | 3:33 | 2022-04-01 |  |
 | [Ana Maria](https://open.spotify.com/track/0J77Bn0nBHgttG27Hab2L7) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Alphonso Johnson](https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU), [Land Richards](https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84) | [Ana Maria](https://open.spotify.com/album/0keaEB8bKZgfg61N8qsDD0) | 5:46 | 2022-06-24 |  |
-| [Aquello](https://open.spotify.com/track/4KAvEGHDIo0bWO6fk9lKQr) | [Hugo Fattoruso](https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9) | [Aquello](https://open.spotify.com/album/1UKFaf4A41MDSjTLSugTWH) | 3:03 | 2022-09-23 |  |
+| [Aquello](https://open.spotify.com/track/4KAvEGHDIo0bWO6fk9lKQr) | [Hugo Fattoruso](https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9) | [Aquello](https://open.spotify.com/album/1UKFaf4A41MDSjTLSugTWH) | 3:03 | 2022-09-23 | 2023-10-27 |
 | [At The 5 Spot](https://open.spotify.com/track/2FZem5RglrV8dnPkhFF6FQ) | [Peter Calandra](https://open.spotify.com/artist/3PtLe7U5nAWhiPJ8jKp6VB) | [At The 5 Spot](https://open.spotify.com/album/5anvlQTK44VC5IuQPb7o9j) | 5:23 | 2022-02-23 |  |
 | [Auf den glückseligen Inseln](https://open.spotify.com/track/6cOK9fHTBsoaL1P6JicMqM) | [Kilian Kemmer Trio](https://open.spotify.com/artist/6zmCAuOs8ughM18ryScvdm) | [Und Zarathustra Tanzte](https://open.spotify.com/album/0ZlritXzGMoiRAlFE9hU7i) | 3:58 | 2022-02-10 | 2022-11-17 |
 | [Avail](https://open.spotify.com/track/3EWX16gyPWqh2HB1MmND36) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [Activate Infinity](https://open.spotify.com/album/4di70TuVf9J97NAGO4lKMc) | 3:15 | 2022-02-10 | 2022-09-03 |
@@ -95,6 +95,7 @@
 | [Elegia](https://open.spotify.com/track/0o8tfJxkRdTlLvKq9kPGn3) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [All Things Are](https://open.spotify.com/album/1W923x7J8MGjYj0xTdoHuJ) | 9:54 | 2022-02-10 |  |
 | [Emptiness](https://open.spotify.com/track/3ukdpI71PLkfxT101kBUUC) | [Misha Alperin](https://open.spotify.com/artist/75nUDbtfJzGVqs6fOmSXhx) | [At Home](https://open.spotify.com/album/6h4CYPknLUdud1GQ9bvFyB) | 5:03 | 2022-02-10 | 2022-07-19 |
 | [Endless](https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv) | [Kjetil Mulelid Trio](https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX) | [Endless](https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD) | 5:01 | 2022-04-01 |  |
+| [Enlightened](https://open.spotify.com/track/2iIXQdea5hnuyRRZUbjR9I) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/0ILAAcet8xZuw1h5LBgseA) | 5:50 | 2022-02-10 |  |
 | [Enlightened](https://open.spotify.com/track/7IRvgPZQXoIAKZtmtmq3vn) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Enlightened](https://open.spotify.com/album/6NkrkasoreRZmVSI8snlQZ) | 5:50 | 2022-02-10 | 2023-10-19 |
 | [Enneadic](https://open.spotify.com/track/25Fmiy6OrLrjm3NRONUJQ4) | [Santiago Leibson Trio](https://open.spotify.com/artist/1maoRyK1VYvbFqzfx3uJTi), [Matt Pavolka](https://open.spotify.com/artist/6uJyNRUVwrgjKVFMUyG5Vx), [Mark Ferber](https://open.spotify.com/artist/2BrGFbXBIGLSy4lRO8Pf6w) | [Little Pieces](https://open.spotify.com/album/5SpfrWa74NChLFILB14KzK) | 7:25 | 2022-02-10 | 2022-07-29 |
 | [Equipoise](https://open.spotify.com/track/56AqMbBb7WnD5nKg8bXbxr) | [John Escreet](https://open.spotify.com/artist/4Ije0Q0RlICc17Q7TDZof9) | [Equipoise](https://open.spotify.com/album/6MIYkxA20TqTPGLnXMar2d) | 5:51 | 2022-12-02 |  |

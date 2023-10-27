@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Summer Soul\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,627 likes - 101 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,642 likes - 101 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 100 | [Good Thing](https://open.spotify.com/track/3pzUFmvTXX1yRD2UYM0cCM) | [Ja Jung](https://open.spotify.com/artist/4eOSz0kdCi6Ed4xzcJ1XJK) | [Good Thing](https://open.spotify.com/album/41HhVPm3m3XBWFBqcMa9fG) | 3:53 |
 | 101 | [Love me like you do](https://open.spotify.com/track/3bBhhf0aalrrfvUbOb3nrH) | [yukon](https://open.spotify.com/artist/5xhOn3cPLp1ZUQsQE54LoA) | [my Imperfections](https://open.spotify.com/album/5yjieZorv88zV3tBkfBPsx) | 3:28 |
 
-Snapshot ID: `MCwwY2E3MzlkZTA3ZjcyM2FjNWYyMzZlNzUxMzg2OTljOGI0YmJjYzhj`
+Snapshot ID: `MCxjMDBlNWRhNDJiZWVlNDUxMDJkZDE4NTllMzcxMmQ5NDEzMjA3MTI2`

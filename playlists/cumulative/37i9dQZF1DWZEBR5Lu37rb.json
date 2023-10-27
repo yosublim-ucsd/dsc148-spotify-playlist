@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "All the Noise",
+        "url": "https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249520,
+      "name": "All the Noise",
+      "url": "https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d"
+    },
+    {
+      "album": {
         "name": "Asibe Happy",
         "url": "https://open.spotify.com/album/0K6ImXCD9oG3p3HBcAq9UA"
       },
@@ -560,7 +578,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 293593,
       "name": "Ghanama",
       "url": "https://open.spotify.com/track/0AZxr9dlswnn6TNxIMyijH"
@@ -1444,7 +1462,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 238000,
       "name": "Nobody but Me",
       "url": "https://open.spotify.com/track/2Pwndcw1d2gONsdKTnIAHx"
@@ -1470,6 +1488,28 @@
       "duration_ms": 238000,
       "name": "Nobody but Me (feat. K.O)",
       "url": "https://open.spotify.com/track/0VhQbntrTPGcGHqgCvYQdS"
+    },
+    {
+      "album": {
+        "name": "Money Mondays",
+        "url": "https://open.spotify.com/album/74TKlZ8yGp72GgYbJHwIys"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Mdee",
+          "url": "https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7"
+        },
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Nobody but Me (feat. K.O)",
+      "url": "https://open.spotify.com/track/0czaEvn4QpmdgbkKIHWXOg"
     },
     {
       "album": {
@@ -1643,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "Compilation",
+        "url": "https://open.spotify.com/album/5plKeEs2bHRz44nTFkByhg"
+      },
+      "artists": [
+        {
+          "name": "Styl-Plus",
+          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Olufunmi",
+      "url": "https://open.spotify.com/track/7dFvxW8AlUz5X4xqe6kqcY"
+    },
+    {
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/5dVJp3wBd86sYrMpZsCiE2"
       },
@@ -1690,7 +1748,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 320012,
       "name": "Olufunmi",
       "url": "https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE"

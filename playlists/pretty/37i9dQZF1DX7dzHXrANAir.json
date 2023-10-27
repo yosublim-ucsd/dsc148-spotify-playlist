@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 101499,
+  "num_followers": 101561,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjE2MjQ1OTg5NDkwMWExOTVlZjVmYjk2ZTcwMWI2MzVkZGUxZmQ1",
+  "snapshot_id": "MCwyMDBjYjg0MmFjMWQyNGE1OTI1YTIzZWI4Yjc1MmQ0OTRjNzgzYzMz",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -120,8 +120,24 @@
       },
       "artists": [
         {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
           "name": "Thylacine",
           "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        },
+        {
+          "name": "U\u00e8le Lamore",
+          "url": "https://open.spotify.com/artist/12jPinlyvDpbdEHwg0oXXl"
+        },
+        {
+          "name": "Pierre-Louis Bonamy",
+          "url": "https://open.spotify.com/artist/0SRstnr4CDVioPCrDDFoch"
+        },
+        {
+          "name": "Orchestre national des Pays de la Loire",
+          "url": "https://open.spotify.com/artist/1i7fbBvtzozXObZKcL6sGH"
         }
       ],
       "duration_ms": 200759,
@@ -519,6 +535,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Round",
+        "url": "https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB"
+      },
+      "artists": [
+        {
+          "name": "Steven Gutheinz",
+          "url": "https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW"
+        }
+      ],
+      "duration_ms": 163945,
+      "name": "Pattern of Water",
+      "url": "https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Orph\u00e9e",
         "url": "https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN"
       },
@@ -535,22 +567,6 @@
       "duration_ms": 148600,
       "name": "De Luce et Umbra",
       "url": "https://open.spotify.com/track/3xQFcCnjsWMIVJo66jC0U2"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Round",
-        "url": "https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB"
-      },
-      "artists": [
-        {
-          "name": "Steven Gutheinz",
-          "url": "https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW"
-        }
-      ],
-      "duration_ms": 163945,
-      "name": "Pattern of Water",
-      "url": "https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -895,6 +911,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "A Light Without Flame",
+        "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
+      },
+      "artists": [
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 203994,
+      "name": "A Light Without Flame",
+      "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Traveller (Lambert rework)",
         "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
       },
@@ -911,22 +943,6 @@
       "duration_ms": 200259,
       "name": "Traveller - Lambert rework",
       "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "A Light Without Flame",
-        "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
-      },
-      "artists": [
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 203994,
-      "name": "A Light Without Flame",
-      "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -995,6 +1011,42 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Sound Visions",
+        "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
+      },
+      "artists": [
+        {
+          "name": "Matteo Saggese",
+          "url": "https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4"
+        },
+        {
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+        }
+      ],
+      "duration_ms": 207315,
+      "name": "Dancing leaves",
+      "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Philanthropy",
+        "url": "https://open.spotify.com/album/3025WVTCNtHpOXugys7yuV"
+      },
+      "artists": [
+        {
+          "name": "Hauschka",
+          "url": "https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt"
+        }
+      ],
+      "duration_ms": 347555,
+      "name": "Nature",
+      "url": "https://open.spotify.com/track/5heSMKHPcP7cjWefeJ89d3"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "By This River",
         "url": "https://open.spotify.com/album/11o6UQ8kXXknp41Dsg75ca"
       },
@@ -1023,26 +1075,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sound Visions",
-        "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
-      },
-      "artists": [
-        {
-          "name": "Matteo Saggese",
-          "url": "https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4"
-        },
-        {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
-        }
-      ],
-      "duration_ms": 207315,
-      "name": "Dancing leaves",
-      "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Ensemb7e",
         "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
       },
@@ -1055,26 +1087,6 @@
       "duration_ms": 190120,
       "name": "Les m\u00e9tamorphoses du vide - Ensemb7e Version",
       "url": "https://open.spotify.com/track/04vHdg0RjWpVt2OQKJ3VAK"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "The Wind (Deluxe)",
-        "url": "https://open.spotify.com/album/0o9rSszHt4kikYbAPtlokj"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        },
-        {
-          "name": "Scoring Berlin",
-          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
-        }
-      ],
-      "duration_ms": 133335,
-      "name": "Nos - C.B. Rework",
-      "url": "https://open.spotify.com/track/1zVbL4ZCLbEE8fmVl881Gj"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1099,18 +1111,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Close To Her",
-        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
+        "name": "The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/0o9rSszHt4kikYbAPtlokj"
       },
       "artists": [
         {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        },
+        {
+          "name": "Scoring Berlin",
+          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
         }
       ],
-      "duration_ms": 209558,
-      "name": "Close To Her",
-      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
+      "duration_ms": 133335,
+      "name": "Nos - C.B. Rework",
+      "url": "https://open.spotify.com/track/1zVbL4ZCLbEE8fmVl881Gj"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1143,26 +1159,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "In Memory Of A Honey Bee",
-        "url": "https://open.spotify.com/album/0UxXgN6snQJUtGzO4my3cP"
+        "name": "Close To Her",
+        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
       },
       "artists": [
         {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        },
-        {
-          "name": "mond\u00ebna quartet",
-          "url": "https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo"
-        },
-        {
-          "name": "Matija Strni\u0161a",
-          "url": "https://open.spotify.com/artist/4My9G0wlkR07kBourTj665"
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
         }
       ],
-      "duration_ms": 175500,
-      "name": "In Memory Of A Honey Bee",
-      "url": "https://open.spotify.com/track/0ZTQntkek3PSvpPI1qTxFu"
+      "duration_ms": 209558,
+      "name": "Close To Her",
+      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1179,22 +1187,6 @@
       "duration_ms": 214000,
       "name": "Thaw",
       "url": "https://open.spotify.com/track/63FVStUF6Dk6UGjkjmOsLU"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Philanthropy",
-        "url": "https://open.spotify.com/album/3025WVTCNtHpOXugys7yuV"
-      },
-      "artists": [
-        {
-          "name": "Hauschka",
-          "url": "https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt"
-        }
-      ],
-      "duration_ms": 347555,
-      "name": "Nature",
-      "url": "https://open.spotify.com/track/5heSMKHPcP7cjWefeJ89d3"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1219,22 +1211,46 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sh\u00e9h\u00e9razade (Laura Masotto Rework)",
-        "url": "https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q"
+        "name": "In Memory Of A Honey Bee",
+        "url": "https://open.spotify.com/album/0UxXgN6snQJUtGzO4my3cP"
       },
       "artists": [
         {
-          "name": "Laura Masotto",
-          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
         },
         {
-          "name": "Matteo Zanferrari",
-          "url": "https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj"
+          "name": "mond\u00ebna quartet",
+          "url": "https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo"
+        },
+        {
+          "name": "Matija Strni\u0161a",
+          "url": "https://open.spotify.com/artist/4My9G0wlkR07kBourTj665"
         }
       ],
-      "duration_ms": 243431,
-      "name": "Sh\u00e9h\u00e9razade - Laura Masotto Rework",
-      "url": "https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO"
+      "duration_ms": 175500,
+      "name": "In Memory Of A Honey Bee",
+      "url": "https://open.spotify.com/track/0ZTQntkek3PSvpPI1qTxFu"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
+        "url": "https://open.spotify.com/album/5MZ8acAjqGSHJSzZEPeQny"
+      },
+      "artists": [
+        {
+          "name": "Hugar",
+          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+        },
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "duration_ms": 307840,
+      "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
+      "url": "https://open.spotify.com/track/487hpT0HXTGIpyQXvrVzSg"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1263,22 +1279,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
-        "url": "https://open.spotify.com/album/5MZ8acAjqGSHJSzZEPeQny"
+        "name": "Sh\u00e9h\u00e9razade (Laura Masotto Rework)",
+        "url": "https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q"
       },
       "artists": [
         {
-          "name": "Hugar",
-          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+          "name": "Laura Masotto",
+          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
         },
         {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+          "name": "Matteo Zanferrari",
+          "url": "https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj"
         }
       ],
-      "duration_ms": 307840,
-      "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
-      "url": "https://open.spotify.com/track/487hpT0HXTGIpyQXvrVzSg"
+      "duration_ms": 243431,
+      "name": "Sh\u00e9h\u00e9razade - Laura Masotto Rework",
+      "url": "https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Fractured Light",
-        "url": "https://open.spotify.com/album/2c1yB6ttUGq2y7QcWdYDAc"
-      },
-      "artists": [
-        {
-          "name": "AVAWAVES",
-          "url": "https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1"
-        }
-      ],
-      "duration_ms": 202706,
-      "name": "Fractured Light",
-      "url": "https://open.spotify.com/track/4XUGZJBkx8OQSayvUfRasb"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Patina",
         "url": "https://open.spotify.com/album/7aAavljDRxaxDMCq2c3YlV"
       },
@@ -1495,34 +1495,50 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/5cgLX8KMJaNvS6WQaMXHwY"
+        "name": "Owls",
+        "url": "https://open.spotify.com/album/4y9qF03bF30CXAK0qwzoLI"
       },
       "artists": [
         {
-          "name": "Mazoulew",
-          "url": "https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj"
+          "name": "Samuel Powell",
+          "url": "https://open.spotify.com/artist/1qb9AWGLwoHz2r3eQYPmIG"
         }
       ],
-      "duration_ms": 139130,
-      "name": "Overture",
-      "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
+      "duration_ms": 242880,
+      "name": "Owls",
+      "url": "https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO"
     },
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Recaptures",
-        "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
+        "name": "Fractured Light",
+        "url": "https://open.spotify.com/album/2c1yB6ttUGq2y7QcWdYDAc"
       },
       "artists": [
         {
-          "name": "Minihi",
-          "url": "https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0"
+          "name": "AVAWAVES",
+          "url": "https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1"
         }
       ],
-      "duration_ms": 210600,
-      "name": "Minquiers",
-      "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
+      "duration_ms": 202706,
+      "name": "Fractured Light",
+      "url": "https://open.spotify.com/track/4XUGZJBkx8OQSayvUfRasb"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/0Ruw6EAFove5eAZrf7cU6l"
+      },
+      "artists": [
+        {
+          "name": "David A. Molina",
+          "url": "https://open.spotify.com/artist/6OmPjTPiNJ2IGNjcgg3Oug"
+        }
+      ],
+      "duration_ms": 238223,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3l3ahfNRJqe58020fZz10w"
     }
   ],
   "unique_name": "Classical X",

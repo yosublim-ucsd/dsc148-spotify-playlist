@@ -4,13 +4,14 @@
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-154 songs - 8 hr 2 min
+155 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2000 Miles](https://open.spotify.com/track/4zrdqZybs0wk1sXkxlCLlB) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [2000 Miles](https://open.spotify.com/album/423lxgcnvIhkE70kUZ6Z0n) | 3:49 | 2022-10-24 |  |
 | [A Cradle In Bethlehem](https://open.spotify.com/track/76JY0EcePnLePHMXuYSkvH) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [A Cradle in Bethlehem](https://open.spotify.com/album/4riylNG00A6FG6CdVhb5hA) | 3:08 | 2021-12-17 |  |
 | [A Hazy Shade Of Winter](https://open.spotify.com/track/07UJwROZlxGkoq0dlv4FvQ) | [Javier Barrera](https://open.spotify.com/artist/0rPKDNLYtijSxZYDwdOpN8) | [A Hazy Shade Of Winter](https://open.spotify.com/album/35NxsFHdWTSkPnMOpgYld3) | 3:18 | 2022-10-24 | 2023-10-21 |
+| [A Marshmallow World](https://open.spotify.com/track/6pB2kCDyRizqjFAtw4B8Bp) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol\. 3](https://open.spotify.com/album/2hdVR9dhg6UmbY5Dk6qzGT) | 2:25 | 2023-10-27 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/4AeRtxiXa5Z6hakq6vTdrk) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ) | [All I Want for Christmas Is You](https://open.spotify.com/album/474t5zcCFnsicUn3nNooel) | 3:12 | 2021-12-17 |  |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [All I Want For Christmas Is You](https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8) | 4:01 | 2022-12-16 | 2023-09-09 |
 | [All My Christmases](https://open.spotify.com/track/7M3k7CQYsEOknxlCrXgj1D) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [All My Christmases](https://open.spotify.com/album/1Oc0lXoyXZP6ed8otsHiQJ) | 3:24 | 2021-12-17 |  |

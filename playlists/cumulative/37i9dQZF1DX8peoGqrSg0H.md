@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: 4EVE
 
-396 songs - 23 hr 48 min
+398 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/track/6M8nx5vDof89UySjbL8KPM) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5) | 2:58 | 2022-09-02 | 2022-09-16 |
 | [Closer \(Clothes Off\)](https://open.spotify.com/track/23siAc5fhlQ0CnWeXDTdI2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Closer \(Clothes Off\)](https://open.spotify.com/album/6GBRwdee7lE4S0OLAwary7) | 3:15 | 2023-05-02 | 2023-05-11 |
 | [Complicated](https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Complicated](https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR) | 3:01 | 2022-09-08 | 2022-09-16 |
+| [Daily Magic](https://open.spotify.com/track/21gpUjOF7vYrqMMjQgMI3g) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Daily Magic](https://open.spotify.com/album/5Rgqtmbcjo7yoK7a0s7TpR) | 4:12 | 2023-10-26 |  |
 | [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 | 2023-07-16 |  |
 | [don't wanna miss you](https://open.spotify.com/track/4RfKwkEosc5ObAzKRMyU5b) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [don't wanna miss you](https://open.spotify.com/album/48hRUZvo0w1yOgBZOAUEyf) | 4:17 | 2023-09-15 | 2023-09-26 |
 | [Dum Dum](https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Dum Dum](https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1) | 3:15 | 2023-03-15 | 2023-06-16 |
@@ -202,7 +203,7 @@
 | [น่ารักชิบปุ๋ง Feat.SPRITE](https://open.spotify.com/track/6I3Y2cxdvLVZeLRVoB3aVG) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [น่ารักชิบปุ๋ง Feat.SPRITE](https://open.spotify.com/album/2bAeenjgVDSwCpEWEcnsbJ) | 3:36 | 2022-12-15 | 2023-04-01 |
 | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [น่ารักน้อยลงหน่อย \(Cuteless\) \- Single](https://open.spotify.com/album/1iDsrhpGyZfAtoDXXgxhxE) | 3:45 | 2023-06-15 |  |
 | [น่ารักไม่ได้แปลว่ามีเจ้าของ \(Try Me\)](https://open.spotify.com/track/1I0XLODs2jOKlKd4z9ytYt) | [iWish](https://open.spotify.com/artist/6dlCDcr5JTHjzc1osXFaNH) | [น่ารักไม่ได้แปลว่ามีเจ้าของ \(Try Me\)](https://open.spotify.com/album/3JAiFB6tzLSOn7NEiHZZ9z) | 2:49 | 2022-09-29 | 2022-10-08 |
-| [น้อมรับคำทำนาย \- THE SUN](https://open.spotify.com/track/7yRaBXZzpWLAnW57MeVts5) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [น้อมรับคำทำนาย \(THE SUN\)](https://open.spotify.com/album/2GwiR97NrF1ZzADeuJpLHd) | 3:37 | 2022-11-19 |  |
+| [น้อมรับคำทำนาย \- THE SUN](https://open.spotify.com/track/7yRaBXZzpWLAnW57MeVts5) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [น้อมรับคำทำนาย \(THE SUN\)](https://open.spotify.com/album/2GwiR97NrF1ZzADeuJpLHd) | 3:37 | 2022-11-19 | 2023-10-27 |
 | [น้อยใจ \(hurt\)](https://open.spotify.com/track/4SUjsrUM5F05F85ZdAZn2v) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [น้อยใจ \(hurt\)](https://open.spotify.com/album/7w6pH6dWy5zIBNQBvvJ0Wm) | 3:52 | 2023-10-12 |  |
 | [บรรเทา \- PLASTER](https://open.spotify.com/track/5khymyREguDo1CVkvmkNbF) | [Porch Pathaseth](https://open.spotify.com/artist/4fsxA6EvDO4EElwerEM6Ve) | [บรรเทา \(PLASTER\)](https://open.spotify.com/album/3YvA19eCW4iFHuQhpMEMkt) | 3:43 | 2022-07-23 | 2022-07-29 |
 | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/track/0agwacC49QdfC2rZ6R6lBc) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/album/4fTuhlSm9xd48eyxz9nzEm) | 3:36 | 2022-07-28 | 2022-09-30 |
@@ -277,7 +278,7 @@
 | [สถานะเบลอ \(BLURRR\)](https://open.spotify.com/track/2MzPAfKHgy5BoE8bjm97d0) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [สถานะเบลอ \(BLURRR\)](https://open.spotify.com/album/6nILOs9tIhM6mp1tn72JdM) | 3:04 | 2023-04-12 | 2023-06-23 |
 | [สบายดีไหม? \(how r u?\)](https://open.spotify.com/track/6w6CKv0wpFBTjBcV6YuQJs) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [สบายดีไหม? \(how r u?\)](https://open.spotify.com/album/7FZ3wtsNBVQqvoYBuFaPv2) | 4:06 | 2022-07-01 | 2022-07-23 |
 | [สมัยนี้เค้าไม่แอบรัก\(Just Say You Love Me\) \- เพลงประกอบซีรีส์ คืนนับดาว Astrophile](https://open.spotify.com/track/2mBtzhDDwoGBKAsrGMYrev) | [Mook Worranit](https://open.spotify.com/artist/0WvnXNFhAbvUHTSYVXIudV) | [เพลงประกอบซีรีส์ คืนนับดาว Astrophile](https://open.spotify.com/album/0BX886v6YDSPtIbxRBTESe) | 3:11 | 2022-07-23 | 2022-07-29 |
-| [สลักจิต](https://open.spotify.com/track/03Yp2uEOtPGHQ6E9XSjmyv) | [Pop Pongkool](https://open.spotify.com/artist/1C6qssOWal7Sii2guMg0mx), [Da Endorphine](https://open.spotify.com/artist/7z9oTDasH4sBISUE2Hxrki) | [สลักจิต \- Single](https://open.spotify.com/album/2UUUwWqFQUIRfzkcCqf50v) | 4:24 | 2022-07-14 |  |
+| [สลักจิต](https://open.spotify.com/track/03Yp2uEOtPGHQ6E9XSjmyv) | [Pop Pongkool](https://open.spotify.com/artist/1C6qssOWal7Sii2guMg0mx), [Da Endorphine](https://open.spotify.com/artist/7z9oTDasH4sBISUE2Hxrki) | [สลักจิต \- Single](https://open.spotify.com/album/2UUUwWqFQUIRfzkcCqf50v) | 4:24 | 2022-07-14 | 2023-10-27 |
 | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/track/4CTgPJbgNQ031q8HzhTtq2) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/album/5fFOH4YGk6BS0yXc7SZWtI) | 3:08 | 2022-05-26 | 2022-07-29 |
 | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/track/7Mcy886fsW8eUQzIwdLnVC) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/album/6doxtJV5kZ6Z5QBolgoCHi) | 3:08 | 2022-07-28 | 2022-09-29 |
 | [สายตาหลอกกันไม่ได้ \(Eyes Don’t Lie\)](https://open.spotify.com/track/3Rkt2LzmQkW2yzSM0NAZgT) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [INK](https://open.spotify.com/album/42UUZAtYzoWxysrGIPmF4Z) | 3:08 | 2022-09-23 | 2022-12-16 |
@@ -387,6 +388,7 @@
 | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI) | 3:45 | 2022-06-09 | 2022-11-16 |
 | [ได้แค่ยิ้ม](https://open.spotify.com/track/3iAOFKx2EqIxyygClOeMGy) | [ISBANKY](https://open.spotify.com/artist/57MmIrE7F4N7StdvOXs5O2) | [ได้แค่ยิ้ม](https://open.spotify.com/album/1JTydgat0wXcSTK4vqOpiE) | 3:36 | 2022-11-11 | 2022-11-18 |
 | [ได้แต่นึกถึง](https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ได้แต่นึกถึง](https://open.spotify.com/album/35dG27p89W1PxkG4YTPQof) | 4:24 | 2022-05-26 | 2022-11-12 |
+| [ไปล้อเล่นไกลๆ](https://open.spotify.com/track/4YbyUda6Zsjk76hDfgH3CP) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ไปล้อเล่นไกลๆ](https://open.spotify.com/album/19X9OKv7wLrVkfZRwksheZ) | 3:09 | 2023-10-26 |  |
 | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/track/15MIlusZDUVhN1jZ84OyDA) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [ไม่ตอบเลยน้า \(What's the matter?\) \- Single](https://open.spotify.com/album/0hyMlYAOfsCJrTnHSM2eHj) | 3:53 | 2022-10-28 |  |
 | [ไม่ต้องคิดถึงฉัน](https://open.spotify.com/track/2cfCJjWrK5z2cYg9hzjSx2) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [ไม่ต้องคิดถึงฉัน](https://open.spotify.com/album/1Gx38T6KW5mqd0sl8MSBn3) | 3:39 | 2022-08-11 | 2022-08-26 |
 | [ไม่น่ารักรึเปล่า \(Naughty boy\) Feat\. BONNADOL](https://open.spotify.com/track/0G8DwcIYO47JA5KcW1QwcO) | [CINCIN IRADA](https://open.spotify.com/artist/3bqEpQrRxvblzV4PopBbgK) | [ไม่น่ารักรึเปล่า \(Naughty boy\) Feat\. BONNADOL](https://open.spotify.com/album/4YkMIz5y4V4bsE3THOuEwY) | 3:46 | 2022-05-26 | 2022-06-03 |

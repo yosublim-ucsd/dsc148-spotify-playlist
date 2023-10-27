@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo?si=UVi8h7mnRq6csv3QEqKP3Q\">Elandr\u00e9</a>  ",
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3?si=mQeEio3tSmOt6tXRQon_CA\">FATMAN</a>  ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -618,7 +618,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 255857,
       "name": "Die Rower",
       "url": "https://open.spotify.com/track/2V2nGO3KiIXZunNZjIiPY4"
@@ -2884,6 +2884,24 @@
       "duration_ms": 204067,
       "name": "S\u00eara S\u00ea Ja!",
       "url": "https://open.spotify.com/track/2FxVzofHY8UuSUoSC6SS6x"
+    },
+    {
+      "album": {
+        "name": "Tannie Katesbes",
+        "url": "https://open.spotify.com/album/3MONfNQ8xdPBx77X5J4D3N"
+      },
+      "artists": [
+        {
+          "name": "FATMAN",
+          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180348,
+      "name": "Tannie Katesbes",
+      "url": "https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x"
     },
     {
       "album": {

@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 153368,
       "name": "89 hz Band Q brown noise",
       "url": "https://open.spotify.com/track/5sEbUxmIkJ5R7LgXwJd0iv"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 142597,
       "name": "Baby Sleep Brown Noise 7",
       "url": "https://open.spotify.com/track/6OB7ui86XKzFm5TqvZkBR9"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 143756,
       "name": "Big Waterfall Brown Noise",
       "url": "https://open.spotify.com/track/7eDoyHAqFhm4QRME1GYQFV"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 201000,
       "name": "Brown Noise 465Hz",
       "url": "https://open.spotify.com/track/23YAJGXhT9AHp4Kx2xWbuU"
@@ -596,6 +596,42 @@
       "duration_ms": 108483,
       "name": "Brown Noise Airplane Mode",
       "url": "https://open.spotify.com/track/4vei5lYKqbu2xN9AuDWA88"
+    },
+    {
+      "album": {
+        "name": "Brown Noise Wind Chimes",
+        "url": "https://open.spotify.com/album/59vAlFFbnLg9r6hN9Rmdo6"
+      },
+      "artists": [
+        {
+          "name": "Relaxed Skies",
+          "url": "https://open.spotify.com/artist/7MuuwHQrVsCg68uvZHK35x"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165697,
+      "name": "Brown Noise Ambiance",
+      "url": "https://open.spotify.com/track/2FD3wA24usVLyaEqgCCCx6"
+    },
+    {
+      "album": {
+        "name": "Brown Noise for Focus",
+        "url": "https://open.spotify.com/album/7m6H0VaqjftnVc7cUsdAHo"
+      },
+      "artists": [
+        {
+          "name": "Ablation",
+          "url": "https://open.spotify.com/artist/5iaYfJCxvfufnRwTVSMahD"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145635,
+      "name": "Brown Noise Ambient Music",
+      "url": "https://open.spotify.com/track/37oGrZzNz0rlx9Eku8ayim"
     },
     {
       "album": {
@@ -758,6 +794,42 @@
       "duration_ms": 224000,
       "name": "Brown Noise Cold Plunge",
       "url": "https://open.spotify.com/track/6WSgIpFD161LgTUw5t0NcW"
+    },
+    {
+      "album": {
+        "name": "Brown Noise Dunes",
+        "url": "https://open.spotify.com/album/3zM5dvtwTBuRJAl2h1XlPd"
+      },
+      "artists": [
+        {
+          "name": "Dreamstatician",
+          "url": "https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138613,
+      "name": "Brown Noise Desert Night",
+      "url": "https://open.spotify.com/track/7x6qK1GPSAM15EoWyglQSs"
+    },
+    {
+      "album": {
+        "name": "Brown Noise Sleep Aid",
+        "url": "https://open.spotify.com/album/6whbAN5a7AomUMXWA0PIJB"
+      },
+      "artists": [
+        {
+          "name": "Dream Samples \ub4dc\ub9bc \uc0d8\ud50c",
+          "url": "https://open.spotify.com/artist/3ldyvLiikXplDsstMBDmUY"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155295,
+      "name": "Brown Noise Dreamy Sounds",
+      "url": "https://open.spotify.com/track/6Uc6mRODHNq04YLQIFXl1o"
     },
     {
       "album": {
@@ -941,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Brown Noise for Relaxation",
+        "url": "https://open.spotify.com/album/37XeeoY4EwEZhBMRl6UE9C"
+      },
+      "artists": [
+        {
+          "name": "Sleep Waves",
+          "url": "https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153065,
+      "name": "Brown Noise for Relaxation",
+      "url": "https://open.spotify.com/track/1gU8BZkkAAgyDHCzDv5obA"
+    },
+    {
+      "album": {
         "name": "Sleeping Brown Noise",
         "url": "https://open.spotify.com/album/7umltGSpruiFHUJUxQJLlf"
       },
@@ -952,10 +1042,28 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 223500,
       "name": "Brown Noise for Relaxing",
       "url": "https://open.spotify.com/track/0bohmotsrCFyZ4Wfouo7CV"
+    },
+    {
+      "album": {
+        "name": "Brown Noise for Sleepy Moms",
+        "url": "https://open.spotify.com/album/5sQOg3F1Y60VXT9LufAnN9"
+      },
+      "artists": [
+        {
+          "name": "Limone M",
+          "url": "https://open.spotify.com/artist/5FxD8GodVlJCHgsf1mjX9d"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191741,
+      "name": "Brown Noise for Sleepy Moms",
+      "url": "https://open.spotify.com/track/238uX8gGLneKDtrezxvkxR"
     },
     {
       "album": {
@@ -1013,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Lull To Brown Noise",
+        "url": "https://open.spotify.com/album/5SNc4dgsOvkjPVwtoctXL7"
+      },
+      "artists": [
+        {
+          "name": "Alex Slumber",
+          "url": "https://open.spotify.com/artist/220bhoAsBPF9N3gZJPgNtF"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Brown Noise Hibernation",
+      "url": "https://open.spotify.com/track/44y7Vy4aMXcERazTG82Jgj"
+    },
+    {
+      "album": {
         "name": "Sunrise & Brown Noise",
         "url": "https://open.spotify.com/album/5EhhubebcvSOaQcarfHy7E"
       },
@@ -1042,7 +1168,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 160000,
       "name": "Brown Noise Hush",
       "url": "https://open.spotify.com/track/05lEyUhKBZ8xzRR4o0KeBo"
@@ -1078,7 +1204,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 216000,
       "name": "Brown Noise in a Cave",
       "url": "https://open.spotify.com/track/7J4fKu2rJSP5zS2jyUgZuk"
@@ -1150,7 +1276,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 220000,
       "name": "Brown Noise in the Sky",
       "url": "https://open.spotify.com/track/3AVaAHD61FqFpvBPBSyPV0"
@@ -1168,7 +1294,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 215266,
       "name": "Brown Noise in the Valley",
       "url": "https://open.spotify.com/track/19ZC9ogVpIEko5043hVYhg"
@@ -1370,6 +1496,24 @@
       "duration_ms": 214000,
       "name": "Brown Noise River",
       "url": "https://open.spotify.com/track/3vQOmQzXu7NTj989yxonZt"
+    },
+    {
+      "album": {
+        "name": "Brown Noise River Stream",
+        "url": "https://open.spotify.com/album/3dZao3539rwchDaUjrnDtX"
+      },
+      "artists": [
+        {
+          "name": "The Brownian Sleepers",
+          "url": "https://open.spotify.com/artist/0knYqGnaAzMnPYgvzubyNN"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176880,
+      "name": "Brown Noise River Stream",
+      "url": "https://open.spotify.com/track/0HtiH9oeEf82hjYsUUC2Gw"
     },
     {
       "album": {
@@ -1726,7 +1870,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 181624,
       "name": "Brown Waves 160 Hz Smooth Q",
       "url": "https://open.spotify.com/track/3yXY7AgMoI111ectpPgUTm"
@@ -1913,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "Rumore Marrone",
+        "url": "https://open.spotify.com/album/1b72n5oTBZdwlfVr4gDKL1"
+      },
+      "artists": [
+        {
+          "name": "Sleep Dimension",
+          "url": "https://open.spotify.com/artist/2ZV8Daj4IYuvunYiUTQIFN"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215874,
+      "name": "Calming Brown Noise",
+      "url": "https://open.spotify.com/track/2WPeMK6gNeOBUtNPRnpwzo"
+    },
+    {
+      "album": {
         "name": "Calming Mind Brown Noise",
         "url": "https://open.spotify.com/album/4fhGQzppGIX4sbTyxXJ0yS"
       },
@@ -1942,7 +2104,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 198000,
       "name": "Centered Brown Noise",
       "url": "https://open.spotify.com/track/6XoH4UO0EFJVBW0aCyRbH9"
@@ -1996,7 +2158,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 224907,
       "name": "City Sleep",
       "url": "https://open.spotify.com/track/4JM6SPP4klfw5guc4U78Bp"
@@ -2147,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Comforting Brown Noise",
+        "url": "https://open.spotify.com/album/7IA3KeuuDkU1YO6HIMlmBv"
+      },
+      "artists": [
+        {
+          "name": "HQ-10",
+          "url": "https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128746,
+      "name": "Dark Brown Noise",
+      "url": "https://open.spotify.com/track/22a1kI5KEfaKqGNLp5MvZm"
+    },
+    {
+      "album": {
         "name": "Dark Brown Noise",
         "url": "https://open.spotify.com/album/6VBU1yRd1xIRN3vL4v2szL"
       },
@@ -2212,7 +2392,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 145231,
       "name": "Deep 100 hz Brown Noise",
       "url": "https://open.spotify.com/track/5gj1RIAFbI3cIdAuWCKlwK"
@@ -2597,6 +2777,24 @@
     },
     {
       "album": {
+        "name": "Endless Noises Vol II",
+        "url": "https://open.spotify.com/album/4MrhA8HUGK31Z5kqa2wr6j"
+      },
+      "artists": [
+        {
+          "name": "Thyyphoon",
+          "url": "https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Endless Brown Noise",
+      "url": "https://open.spotify.com/track/5YJBWioj7Qc7pyjlYyqBkJ"
+    },
+    {
+      "album": {
         "name": "Faithfully Sleeps",
         "url": "https://open.spotify.com/album/3CtbDpc3uEK8fwsPgtE2v2"
       },
@@ -2738,6 +2936,24 @@
       "duration_ms": 159999,
       "name": "From Water Brown Noise",
       "url": "https://open.spotify.com/track/2NGH2qb97tFuNMtk84mkJp"
+    },
+    {
+      "album": {
+        "name": "Brown Harmony",
+        "url": "https://open.spotify.com/album/5LHE4NmJKeO3Nk5ewTOdkD"
+      },
+      "artists": [
+        {
+          "name": "Focus Frequency",
+          "url": "https://open.spotify.com/artist/7M7Z5YhclUy7AjsdZEN8X4"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166031,
+      "name": "Gentle Brown Noise Whispers",
+      "url": "https://open.spotify.com/track/3lYoIpGgSnF9n7fRrlDcdh"
     },
     {
       "album": {
@@ -2993,6 +3209,24 @@
     },
     {
       "album": {
+        "name": "Tranquil Brown Noise",
+        "url": "https://open.spotify.com/album/0VSQtAxsuUSEKmIfQnPhbD"
+      },
+      "artists": [
+        {
+          "name": "Noise Eternity",
+          "url": "https://open.spotify.com/artist/0BMo2rAO5oSO9aSnjumKOD"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174071,
+      "name": "Meditative Brown Noise",
+      "url": "https://open.spotify.com/track/1AmRa0N5eKc7OLsam5GOdb"
+    },
+    {
+      "album": {
         "name": "Baby Sleep Brown Noise",
         "url": "https://open.spotify.com/album/1X1p7zdya8kn57EXdwkd25"
       },
@@ -3047,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "Brown Noise for Relaxation",
+        "url": "https://open.spotify.com/album/1E6F6GgZyFaMDxSXgLVZ7J"
+      },
+      "artists": [
+        {
+          "name": "Julia Sono",
+          "url": "https://open.spotify.com/artist/7Bbr5r0eIb5k773rp7En9q"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159010,
+      "name": "Nature Sounds & Brown Noise",
+      "url": "https://open.spotify.com/track/69KhM6G8FxEnZfZNGoX3NP"
+    },
+    {
+      "album": {
         "name": "Floating Through Brown Noise",
         "url": "https://open.spotify.com/album/2JrmVd9VXCLeW6z3XgUYLM"
       },
@@ -3098,6 +3350,24 @@
       "duration_ms": 159000,
       "name": "Oceanic Brown Noise",
       "url": "https://open.spotify.com/track/2Dq2Gwo7S7lj7O8Zg3rIzL"
+    },
+    {
+      "album": {
+        "name": "Sleep Aid Brown Noise",
+        "url": "https://open.spotify.com/album/4hzsIdXqE5kzNUj4edWk2t"
+      },
+      "artists": [
+        {
+          "name": "Euaxations",
+          "url": "https://open.spotify.com/artist/3RGM53632OyIVzEN2FrLJN"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140635,
+      "name": "Oceanic Brown Noise",
+      "url": "https://open.spotify.com/track/2rCwRmAlM27oTMPEtiiUBy"
     },
     {
       "album": {
@@ -3310,7 +3580,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 163923,
       "name": "Rested brown noise",
       "url": "https://open.spotify.com/track/28Eji4hXXLvLuMzCRFUP3V"
@@ -3602,6 +3872,24 @@
       "duration_ms": 193000,
       "name": "Soothing Brown Noise 304.6 Hz",
       "url": "https://open.spotify.com/track/7FQpbVqEAbbALTGqodrqZL"
+    },
+    {
+      "album": {
+        "name": "Machine Brown Noise",
+        "url": "https://open.spotify.com/album/0s6i6UdOJqJV1JDLyzqHDy"
+      },
+      "artists": [
+        {
+          "name": "Construidor",
+          "url": "https://open.spotify.com/artist/3kICqEeSkPAyTXjtJ9GryG"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148065,
+      "name": "Soundproofing Brown Nois",
+      "url": "https://open.spotify.com/track/4ShlTNzP1ZSJxItox6QvI6"
     },
     {
       "album": {

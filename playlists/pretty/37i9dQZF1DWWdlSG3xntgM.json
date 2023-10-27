@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: L\u1ec7 Quy\u00ean",
-  "num_followers": 35583,
+  "num_followers": 35601,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2FjZjhhNDMwZjMyYjczMGIxZmViMWYwN2YxNzQ0YzI4MDNlNGMx",
+  "snapshot_id": "MCxhYmE0NDY5NTYxODUzMWJhYjVhMDAwYzlmOTY3NThiZTM1YTg3NTQ5",
   "tracks": [
     {
       "added_at": "2023-10-12 02:03:48",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-10-12 02:03:48",
       "album": {
+        "name": "M\u1ed9t Mai Gi\u00e3 T\u1eeb V\u0169 Kh\u00ed",
+        "url": "https://open.spotify.com/album/5Mwa2pqo8DKUNvOBhaRdie"
+      },
+      "artists": [
+        {
+          "name": "Duy Khanh",
+          "url": "https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O"
+        }
+      ],
+      "duration_ms": 303893,
+      "name": "Qua C\u01a1n M\u00ea",
+      "url": "https://open.spotify.com/track/0bjODEyw6tUCWIP7uDZ7Gt"
+    },
+    {
+      "added_at": "2023-10-12 02:03:48",
+      "album": {
         "name": "Giao Linh - Tu\u1ea5n V\u0169 - \u0110\u00f4i m\u1eaft ng\u01b0\u1eddi x\u01b0a",
         "url": "https://open.spotify.com/album/66OokQWhqEW3dQTZemuyqN"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 269133,
       "name": "\u0110\u01b0\u1eddng t\u00ecnh \u0111\u00f4i ng\u1ea3",
       "url": "https://open.spotify.com/track/2jCpS5IdAXdDnUeUfhXhOu"
-    },
-    {
-      "added_at": "2023-10-12 02:03:48",
-      "album": {
-        "name": "M\u1ed9t Mai Gi\u00e3 T\u1eeb V\u0169 Kh\u00ed",
-        "url": "https://open.spotify.com/album/5Mwa2pqo8DKUNvOBhaRdie"
-      },
-      "artists": [
-        {
-          "name": "Duy Khanh",
-          "url": "https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O"
-        }
-      ],
-      "duration_ms": 303893,
-      "name": "Qua C\u01a1n M\u00ea",
-      "url": "https://open.spotify.com/track/0bjODEyw6tUCWIP7uDZ7Gt"
     },
     {
       "added_at": "2023-10-12 02:03:48",

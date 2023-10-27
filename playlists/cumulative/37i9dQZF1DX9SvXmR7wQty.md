@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Tayc
 
-2,131 songs - 4 day 17 hr 48 min
+2,132 songs - 4 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Aphélie](https://open.spotify.com/track/1oyFzGMjJWnAsg9yC5u1GO) | [Joseph Boonen](https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG) | [Aphélie](https://open.spotify.com/album/0Ioq2Js5cjVVRR9jytXRRr) | 4:24 | 2022-03-25 | 2022-04-02 |
 | [Apocalypse Calypso](https://open.spotify.com/track/1KnLj7n3uEwwEOYeQc1gfg) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Apocalypse Calypso](https://open.spotify.com/album/6W0wlmuTLCE2K5OPMgwsLz) | 3:16 | 2023-10-20 |  |
 | [Apparaît](https://open.spotify.com/track/3GS2743jHrfQlA37gOVsmd) | [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb), [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [JPS](https://open.spotify.com/artist/0tziQnn4fmfk5ReISVIJEN) | [Apparaît](https://open.spotify.com/album/6WrLK9v2g0Ggzqy5h00vpe) | 4:11 | 2022-09-23 | 2022-10-01 |
-| [Appart des Apes](https://open.spotify.com/track/3yEsyr32BAZ4WegEmFPW7s) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Appart des Apes](https://open.spotify.com/album/5yIPSHNtMozcsdkvjfX5rw) | 2:55 | 2023-09-15 |  |
+| [Appart des Apes](https://open.spotify.com/track/3yEsyr32BAZ4WegEmFPW7s) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Appart des Apes](https://open.spotify.com/album/5yIPSHNtMozcsdkvjfX5rw) | 2:55 | 2023-09-15 | 2023-10-27 |
 | [Appels manqués](https://open.spotify.com/track/7rW4dUZDIWat7hGmW4JjNK) | [Jordane](https://open.spotify.com/artist/53w2o1UZ53Pc5gir1VuAa1) | [Reine de papier](https://open.spotify.com/album/7tXOmWg1UOXPcYXzmPhTB4) | 2:43 | 2022-04-22 | 2022-05-07 |
 | [Apprendre encore](https://open.spotify.com/track/726IohC36wEmCqnU3LPtQB) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:38 | 2022-02-11 | 2022-02-26 |
 | [APRÈS\-VOUS MADAME](https://open.spotify.com/track/3s7x3OMiEI7cmE8KBxIwCy) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/4u1S2O3WTGIj53GqtpVjlI) | 3:37 | 2022-12-02 | 2022-12-24 |
@@ -145,6 +145,7 @@
 | [Avant Elle](https://open.spotify.com/track/5ECN3yzsBiExzh5VLabINw) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Avant Elle](https://open.spotify.com/album/37HLuNvMsD3ibgohJHropW) | 3:20 | 2023-05-05 | 2023-06-18 |
 | [Avant l'été](https://open.spotify.com/track/2tSQmf09N55t8ia3yMdo3Z) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Années Sauvages](https://open.spotify.com/album/6O9VlKASBVMGQqR7n6ELtW) | 1:59 | 2023-05-19 | 2023-07-08 |
 | [Avant que le ciel ne tombe](https://open.spotify.com/track/3MUhg6FHlv4IqDFJRFrcfn) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k), [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA) | [Avant que le ciel ne tombe](https://open.spotify.com/album/7e0Mmke0NiDGbDgBjTQtzF) | 2:21 | 2023-03-17 | 2023-04-15 |
+| [Avec elle](https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Avec elle](https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg) | 2:46 | 2023-10-20 |  |
 | [Avec Jeanne](https://open.spotify.com/track/0SDhPGnG7RVMIOGQI2SMS7) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Avec Jeanne](https://open.spotify.com/album/3Y7wpCxQ3IqWxuvF7mFWoA) | 3:16 | 2022-04-22 | 2022-05-07 |
 | [Avec mes géants](https://open.spotify.com/track/6UNrdERCSsBxnEtMsOdiVX) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Car le temps est venu](https://open.spotify.com/album/5DWTH79oXavRenJFEwYwwZ) | 2:40 | 2022-09-16 | 2022-10-01 |
 | [Avec toi \- Version acoustique](https://open.spotify.com/track/1gvFLmCy0lS7oOCg1Lglbi) | [Nicola Ciccone](https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM) | [Gratitude \(Acoustique, version acoustique\)](https://open.spotify.com/album/7MFYgEBwcUUrb9cHaXjF1Q) | 2:58 | 2022-03-18 | 2022-03-26 |
@@ -1236,8 +1237,8 @@
 | [Magic Johnson](https://open.spotify.com/track/68IeiFIaq7Pd5O5REmwMuj) | [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [Sua broue](https://open.spotify.com/album/4qCiQshJI98LzrP1gtE7T1) | 1:59 | 2022-06-24 | 2022-07-09 |
 | [Magique](https://open.spotify.com/track/0FzN7tnPh3epsX38zFgvV1) | [S’tano](https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc) | [Magique](https://open.spotify.com/album/7Ju4HUvlakPvIsibpoZ4Wu) | 3:05 | 2023-01-20 | 2023-01-28 |
 | [Magnifique](https://open.spotify.com/track/4mzNeemSeYcTJSPlQWudN7) | [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [TronelDiablo](https://open.spotify.com/album/1kRKwfoDM7hFBH9YrBGlyb) | 3:16 | 2022-08-12 | 2022-08-27 |
-| [Magot](https://open.spotify.com/track/69zAnyBtarXinChSUq925t) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 3:16 | 2023-09-22 | 2023-10-26 |
-| [Magot](https://open.spotify.com/track/7qNQxRHoYd1xB1FnBhWVSm) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Magot](https://open.spotify.com/album/6wPL7UMGoIptE9eWMDwP82) | 3:16 | 2023-10-20 |  |
+| [Magot](https://open.spotify.com/track/69zAnyBtarXinChSUq925t) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 3:16 | 2023-09-22 |  |
+| [Magot](https://open.spotify.com/track/7qNQxRHoYd1xB1FnBhWVSm) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Magot](https://open.spotify.com/album/6wPL7UMGoIptE9eWMDwP82) | 3:16 | 2023-10-20 | 2023-10-27 |
 | [main l’oiseau](https://open.spotify.com/track/1b00k9gcQ9SxLK0aLXlUpa) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [ET SI, DE/main l'oiseau](https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa) | 3:26 | 2023-09-22 | 2023-09-30 |
 | [MAINTENANT](https://open.spotify.com/track/5I7W7mFSWcIWN5LfWR8ElP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [MAINTENANT](https://open.spotify.com/album/7wroesHmGqA6A7UmoKZCxO) | 3:55 | 2022-09-30 | 2022-10-15 |
 | [Maison de dicks](https://open.spotify.com/track/0MFuLr24g6cc6iAmuwj7PQ) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Maison de dicks](https://open.spotify.com/album/0qCoa6PwtapBcSp8KRIQiZ) | 2:26 | 2022-02-11 | 2022-02-26 |

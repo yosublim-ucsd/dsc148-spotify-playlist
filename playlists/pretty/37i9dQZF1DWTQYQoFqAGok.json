@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 58114,
+  "num_followers": 58125,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2Q4ZTU3NTkyYjQ5YmYzNmNjYjA4MWM2ZTgzM2FlZjM2NDBhOWE5",
+  "snapshot_id": "MCxhNTQyZGFkOGQyYzkyMzQ3MmY0ZmM2NDg5Zjg5ZjdmZjAzMGNkM2Vj",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -475,6 +475,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Retazos",
+        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
+      },
+      "artists": [
+        {
+          "name": "Donna Pierrot",
+          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
+        }
+      ],
+      "duration_ms": 269080,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Paisaje Gris",
         "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
       },
@@ -495,30 +511,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Qui\u00e9n Eres T\u00fa?",
-        "url": "https://open.spotify.com/album/6627kcDKivQe10EdHUDmok"
-      },
-      "artists": [
-        {
-          "name": "Iraida Noriega",
-          "url": "https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi"
-        },
-        {
-          "name": "Enrique Nery",
-          "url": "https://open.spotify.com/artist/5lOnG3d2nIvI20objBklwi"
-        },
-        {
-          "name": "Aar\u00f3n Cruz",
-          "url": "https://open.spotify.com/artist/6km6DCmnVWUSAzNEccF8yv"
-        }
-      ],
-      "duration_ms": 350746,
-      "name": "Qui\u00e9n Eres T\u00fa?",
-      "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Raz\u00f3n de Vivir (Desde Casa)",
         "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
       },
@@ -535,22 +527,6 @@
       "duration_ms": 254269,
       "name": "Raz\u00f3n de Vivir (Desde Casa)",
       "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Retazos",
-        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
-      },
-      "artists": [
-        {
-          "name": "Donna Pierrot",
-          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
-        }
-      ],
-      "duration_ms": 269080,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -599,18 +575,26 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Ventana espacial",
-        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+        "name": "Qui\u00e9n Eres T\u00fa?",
+        "url": "https://open.spotify.com/album/6627kcDKivQe10EdHUDmok"
       },
       "artists": [
         {
-          "name": "Filip y Woppe",
-          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+          "name": "Iraida Noriega",
+          "url": "https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi"
+        },
+        {
+          "name": "Enrique Nery",
+          "url": "https://open.spotify.com/artist/5lOnG3d2nIvI20objBklwi"
+        },
+        {
+          "name": "Aar\u00f3n Cruz",
+          "url": "https://open.spotify.com/artist/6km6DCmnVWUSAzNEccF8yv"
         }
       ],
-      "duration_ms": 254720,
-      "name": "Ventana espacial",
-      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
+      "duration_ms": 350746,
+      "name": "Qui\u00e9n Eres T\u00fa?",
+      "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -627,6 +611,22 @@
       "duration_ms": 178773,
       "name": "No Se que Pasa Entre T\u00fa y Yo",
       "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Ventana espacial",
+        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+      },
+      "artists": [
+        {
+          "name": "Filip y Woppe",
+          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Ventana espacial",
+      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -829,6 +829,26 @@
       "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Voices from the Border",
+        "url": "https://open.spotify.com/album/2wITZBdfVISfiCe7NOEWfA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Balderas Quartet",
+          "url": "https://open.spotify.com/artist/58qSHv8M0ELKIDSObDqEFH"
+        },
+        {
+          "name": "John Vince",
+          "url": "https://open.spotify.com/artist/5aPsi6G5Cs3dt1FnjkVYDF"
+        }
+      ],
+      "duration_ms": 443872,
+      "name": "Those People",
+      "url": "https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8"
+    },
+    {
       "added_at": "2022-03-30 03:01:09",
       "album": {
         "name": "Kumoi",
@@ -847,22 +867,6 @@
       "duration_ms": 127240,
       "name": "Suite Yusef Lateef",
       "url": "https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Chucho en Chipp's",
-        "url": "https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs"
-      },
-      "artists": [
-        {
-          "name": "Chucho Zarzosa Su Piano y su Conjunto",
-          "url": "https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "Bula",
-      "url": "https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

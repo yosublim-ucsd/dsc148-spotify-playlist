@@ -1,12 +1,12 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 120368,
+  "num_followers": 120449,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzUzOTJiZTZhN2VmZDlmOGZiMzMyOWRmNzFlZjI1ODM1NGNlY2Ix",
+  "snapshot_id": "MCxmZDU0NzBmMDM1OTVhNDYzN2QzNDI4MGNkNDNhZGMxZmNjZGEwNzY3",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "No Se Va (EN VIVO)",
-        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va - EN VIVO",
-      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Joan Sebastian Con Mariachi",
         "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 211255,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "No Se Va (EN VIVO)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va - EN VIVO",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1027,22 +1027,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Mi Venganza",
-        "url": "https://open.spotify.com/album/0GfKEcyPtvzo7hNNJFCAfZ"
+        "name": "Te Hubieras Ido Antes",
+        "url": "https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf"
       },
       "artists": [
         {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
-        },
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
         }
       ],
-      "duration_ms": 191634,
-      "name": "Mi Venganza",
-      "url": "https://open.spotify.com/track/4MAGNMEAi6yUpC5w58eHLN"
+      "duration_ms": 193071,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1063,18 +1059,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Te Hubieras Ido Antes",
-        "url": "https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf"
+        "name": "Mi Venganza",
+        "url": "https://open.spotify.com/album/0GfKEcyPtvzo7hNNJFCAfZ"
       },
       "artists": [
         {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 193071,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH"
+      "duration_ms": 191634,
+      "name": "Mi Venganza",
+      "url": "https://open.spotify.com/track/4MAGNMEAi6yUpC5w58eHLN"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "La Voz Popular de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ"
+        "name": "Mis Borracheras",
+        "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
       },
       "artists": [
         {
-          "name": "Francy",
-          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
         }
       ],
-      "duration_ms": 214306,
-      "name": "Si Se Fue, Se Fue",
-      "url": "https://open.spotify.com/track/6WTF798e9hxNDWj95ISu5e"
+      "duration_ms": 167895,
+      "name": "Mis Borracheras",
+      "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Mis Borracheras",
-        "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
+        "name": "La Voz Popular de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ"
       },
       "artists": [
         {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+          "name": "Francy",
+          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
         }
       ],
-      "duration_ms": 167895,
-      "name": "Mis Borracheras",
-      "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
+      "duration_ms": 214306,
+      "name": "Si Se Fue, Se Fue",
+      "url": "https://open.spotify.com/track/6WTF798e9hxNDWj95ISu5e"
     },
     {
       "added_at": "2023-04-14 06:00:00",

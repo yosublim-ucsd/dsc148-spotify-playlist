@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,127 songs - 2 day 9 hr 50 min
+1,128 songs - 2 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,8 @@
 | [Don't Know How to Girlfriend](https://open.spotify.com/track/3V85ifdF1As9rpzJl0m916) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0ShzMz3SLy1V9gwSVHXqT8) | 3:01 | 2022-10-07 | 2023-04-09 |
 | [don't leave](https://open.spotify.com/track/7rVJxAAj8zEHOOGg3t4T0Q) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [don't leave](https://open.spotify.com/album/3JUkRAqaZemIi1SE3dF1xy) | 2:24 | 2021-05-03 | 2021-05-29 |
 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 | 2022-01-07 | 2022-02-12 |
-| [Don't Trip](https://open.spotify.com/track/0fpkHQGbWh9riooDthOYx8) | [Julianna Laine](https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU) | [Don't Trip](https://open.spotify.com/album/5p6eVXyPFtOkEsppzbUT3I) | 3:55 | 2023-06-30 |  |
+| [Don't Trip](https://open.spotify.com/track/0fpkHQGbWh9riooDthOYx8) | [Julianna Laine](https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU) | [Don't Trip](https://open.spotify.com/album/5p6eVXyPFtOkEsppzbUT3I) | 3:55 | 2023-06-30 | 2023-10-27 |
+| [Don't Trip](https://open.spotify.com/track/32BncKYogLQS8i0tgBc9oL) | [Julianna Laine](https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU) | [Don't Trip](https://open.spotify.com/album/7ehj3TAtnA2aDJSA1HP0md) | 3:55 | 2023-10-20 |  |
 | [Don't You Want Me](https://open.spotify.com/track/38X5UR1bKeg85ocjyPNAcl) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Celine Autumn](https://open.spotify.com/artist/6Pp0HjTuD5G0IfcHXqpusQ) | [Don't You Want Me](https://open.spotify.com/album/2eg78jugnXfoMypTi5fpus) | 3:33 | 2022-06-24 | 2023-04-01 |
 | [Doubt of Revival](https://open.spotify.com/track/1ba4s0V7UuidW0PAWBAer9) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [Doubt of Revival](https://open.spotify.com/album/4JJRgLTqfdIxE0zSb6Rq4u) | 3:34 | 2021-03-06 | 2021-05-22 |
 | [Douchebag](https://open.spotify.com/track/3Z9tTtoCgQDUPzQerBg1jv) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Douchebag](https://open.spotify.com/album/1EeCf52PdUbgMKCpbbV9Pk) | 2:58 | 2022-02-04 | 2022-03-19 |

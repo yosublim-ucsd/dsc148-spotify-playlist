@@ -1,12 +1,12 @@
 {
   "description": "A fusion of highlife and hip-hop, these hip-life jams are undeniable.",
-  "num_followers": 27999,
+  "num_followers": 28023,
   "original_name": "Hip-Life Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzA0NmM2YTg3YTRkMmNlZjdiZTRiZjY1ZDU4Y2MxYWU1MWY2Njkx",
+  "snapshot_id": "MCxlYzc5ZWU5NDZmYTBlMmJjMjgyZDQ3NjdiMDJiMzFhYTVkYTA5YjQx",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Nte Tee Pa",
-        "url": "https://open.spotify.com/album/0XC9r8JfFHVz7K9FYdEu80"
-      },
-      "artists": [
-        {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
-        }
-      ],
-      "duration_ms": 300359,
-      "name": "Oye Ohene featuring Tinny",
-      "url": "https://open.spotify.com/track/5jt5Tx1dIC9BdNqaZTO0Xd"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Love You",
         "url": "https://open.spotify.com/album/4wyKFCKsJZCXzcr00nl9EE"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Atadwe",
+        "url": "https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk"
+      },
+      "artists": [
+        {
+          "name": "Papa Sheee",
+          "url": "https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw"
+        }
+      ],
+      "duration_ms": 360573,
+      "name": "Atadwe",
+      "url": "https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/4eoXF9sYckKQAajJCzUngn"
       },
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Atadwe",
-        "url": "https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk"
+        "name": "FINGERS",
+        "url": "https://open.spotify.com/album/4BoK4qfCb8y8rejtjCwf8m"
       },
       "artists": [
         {
-          "name": "Papa Sheee",
-          "url": "https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw"
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
         }
       ],
-      "duration_ms": 360573,
-      "name": "Atadwe",
-      "url": "https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW"
+      "duration_ms": 205090,
+      "name": "FINGERS",
+      "url": "https://open.spotify.com/track/6pGf2XUUNaj6tTkWXR1yJQ"
     }
   ],
   "unique_name": "Hip-Life Hits",

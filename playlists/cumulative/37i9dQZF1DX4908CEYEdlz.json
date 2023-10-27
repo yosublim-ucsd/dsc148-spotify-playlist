@@ -782,7 +782,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 201305,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/11KdG302ZtlT6LUC0NpaAW"
@@ -808,6 +808,24 @@
       "duration_ms": 212406,
       "name": "Call Me When You're Sober",
       "url": "https://open.spotify.com/track/7IzqOoxdRKrRiPkauVLcAb"
+    },
+    {
+      "album": {
+        "name": "Call Us by Her Name",
+        "url": "https://open.spotify.com/album/3OMKbvZnvcUqCjB31U7YzI"
+      },
+      "artists": [
+        {
+          "name": "Ego Kill Talent",
+          "url": "https://open.spotify.com/artist/2FkHoIxJdhomebqlsXKZ3i"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211702,
+      "name": "Call Us by Her Name",
+      "url": "https://open.spotify.com/track/3I6n7hgL6fwhsPleITTwGn"
     },
     {
       "album": {

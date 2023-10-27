@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Babehoven
 
-1,077 songs - 2 day 13 hr 23 min
+1,078 songs - 2 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -903,7 +903,8 @@
 | [Structure](https://open.spotify.com/track/0OPD9fnjX6xWgHBQ4QClgu) | [Odd Sweetheart](https://open.spotify.com/artist/0Re7wtl0w6niMZR0GfROpg) | [Odd Sweetheart](https://open.spotify.com/album/3LLHBI11ekr5he4Y8TqVnG) | 2:31 | 2022-04-29 | 2022-10-01 |
 | [Suburban Mall Jewelry](https://open.spotify.com/track/7jkyjrW4PspGKdR9YpYQJl) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [Fantasy For Danger](https://open.spotify.com/album/3E2cDKt4O1oy4e329IGvPM) | 3:06 | 2023-06-15 | 2023-07-27 |
 | [Sucker](https://open.spotify.com/track/0KAW820FoYhpDe3lsgMRaC) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker](https://open.spotify.com/album/5LzeVIZgtEHrbLYwsBRalD) | 4:43 | 2021-03-05 | 2022-04-29 |
-| [Sugar](https://open.spotify.com/track/6sfjX5Q0qNKzQYDupMixI1) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Sugar](https://open.spotify.com/album/5jskWgV62IYvxCKjpuuWSx) | 3:15 | 2023-09-15 |  |
+| [Sugar](https://open.spotify.com/track/66YbJfNnj4MBf7xZ3JQYvB) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [I Don't Want You Anymore](https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb) | 3:15 | 2023-10-20 |  |
+| [Sugar](https://open.spotify.com/track/6sfjX5Q0qNKzQYDupMixI1) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Sugar](https://open.spotify.com/album/5jskWgV62IYvxCKjpuuWSx) | 3:15 | 2023-09-15 | 2023-10-27 |
 | [sugar ray](https://open.spotify.com/track/2A1WPASEga9mFnpNRc7ADd) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [sugar ray](https://open.spotify.com/album/6Ou1n0STYMpzbbrxNC454M) | 4:03 | 2021-06-11 | 2022-04-18 |
 | [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 | 2021-07-16 | 2022-03-22 |
 | [Summer Windows](https://open.spotify.com/track/1KGQwsicpxAnfNmOvubfAP) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Summer Windows](https://open.spotify.com/album/5baT0B05D6yDJFgKdTvjB6) | 3:21 | 2023-08-11 |  |

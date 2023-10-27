@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: BADBADNOTGOOD
 
-1,246 songs - 3 day 3 hr 16 min
+1,247 songs - 3 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -945,7 +945,8 @@
 | [Sirens](https://open.spotify.com/track/6rjxyDTlJCGqo1XQ6vrq5R) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Sirens](https://open.spotify.com/album/5jtOLGuMV0eYTHJptwgI1D) | 4:28 | 2023-08-01 | 2023-09-23 |
 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/56Qg15afWhWx83aFusmXc4) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/album/5uQmuKzNPNelihF5FnvXLJ) | 3:58 | 2022-04-01 | 2022-04-15 |
 | [Sisyphus \- Single Version](https://open.spotify.com/track/4QJIaGAfI4Ems0oU17NgYQ) | [DC Gore](https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6) | [Sisyphus](https://open.spotify.com/album/4bniwpGQ3K2eEfNI7yUBXF) | 3:59 | 2022-06-17 | 2022-07-16 |
-| [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/4J9b9lIW0SavuQIlcG8Sgs) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 3:28 | 2023-09-29 |  |
+| [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/2fSBTVIsJhUMm9EUbhXwMA) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 3:28 | 2023-10-20 |  |
+| [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/4J9b9lIW0SavuQIlcG8Sgs) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 3:28 | 2023-09-29 | 2023-10-27 |
 | [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/7x27tghtFiGJOdWEO79zdB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner \(Pts\. 1 & 2\)](https://open.spotify.com/album/4RdZwuamNwjNBgfZInobFr) | 3:28 | 2023-09-29 | 2023-10-03 |
 | [Sitting Up](https://open.spotify.com/track/4ecbBr4l07EN9I6lUwQTcv) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sitting Up](https://open.spotify.com/album/5ck87FVQRnVHW9xfc8NVZA) | 3:09 | 2022-06-24 | 2022-07-30 |
 | [skin in the game](https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [skin in the game](https://open.spotify.com/album/1EYRoDy36KEklMF2LJRnZb) | 3:52 | 2023-07-21 | 2023-08-26 |

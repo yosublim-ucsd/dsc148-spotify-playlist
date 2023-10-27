@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : aupinard",
+  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : LYNN",
   "name": "le miel",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 140281,
       "name": "Bad Mood",
       "url": "https://open.spotify.com/track/1LpsOvHQ77GmWNgp8mxNyp"
@@ -194,6 +194,28 @@
       "duration_ms": 183446,
       "name": "Cigarette apr\u00e8s l'amour",
       "url": "https://open.spotify.com/track/43G27zY6jl4NF0Kv5AyvAq"
+    },
+    {
+      "album": {
+        "name": "CIN\u00c9",
+        "url": "https://open.spotify.com/album/1jnVoQRrIYtW8di19qvNzl"
+      },
+      "artists": [
+        {
+          "name": "Omizs",
+          "url": "https://open.spotify.com/artist/5O1s8Zfh5BbsXjtIXjVS9y"
+        },
+        {
+          "name": "Ogee",
+          "url": "https://open.spotify.com/artist/6dKleaGxvv38r5qC8RiTwn"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "CIN\u00c9",
+      "url": "https://open.spotify.com/track/2QwBM6L5t8yuEwaC2FXid7"
     },
     {
       "album": {
@@ -296,6 +318,64 @@
       "duration_ms": 190400,
       "name": "Cra$h (feat. Enchant\u00e9e Julia & Jazzy Bazz)",
       "url": "https://open.spotify.com/track/2F2i8pZ4yGqLGrRFuMicOA"
+    },
+    {
+      "album": {
+        "name": "Des bisous",
+        "url": "https://open.spotify.com/album/2BNHfSQ6WMakKIf7mCYpuq"
+      },
+      "artists": [
+        {
+          "name": "Myra",
+          "url": "https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE"
+        },
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172052,
+      "name": "Des bisous",
+      "url": "https://open.spotify.com/track/0J1rfWxfvcmoFQnN1Z0iFf"
+    },
+    {
+      "album": {
+        "name": "Dimanche Soir",
+        "url": "https://open.spotify.com/album/4lSVxSUbj5WchWl67HBwqX"
+      },
+      "artists": [
+        {
+          "name": "LYNN",
+          "url": "https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189836,
+      "name": "Dimanche Soir",
+      "url": "https://open.spotify.com/track/1s8fQVWLb7q8o4bQrLNnUr"
+    },
+    {
+      "album": {
+        "name": "E.M.I",
+        "url": "https://open.spotify.com/album/0Pq1bF9Gi48aSXrsrpp2fu"
+      },
+      "artists": [
+        {
+          "name": "Macy Lu",
+          "url": "https://open.spotify.com/artist/1wEZ7fUt7Mh3ZB38xrYoVB"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233948,
+      "name": "E.M.I",
+      "url": "https://open.spotify.com/track/5FY2ILoDg2EIvjYJxA25MM"
     },
     {
       "album": {
@@ -426,7 +506,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 155761,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3509Io3FyjSPoCMD1EUelJ"
@@ -444,7 +524,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 174400,
       "name": "L'amour dure 6 ans",
       "url": "https://open.spotify.com/track/704opmBSscvN3R4nstMKCE"
@@ -532,7 +612,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 176957,
       "name": "Lie (feat. Sonik) - Version acoustique",
       "url": "https://open.spotify.com/track/66wbCeD09YB0yZ4Y4Ozt12"
@@ -572,6 +652,24 @@
       "duration_ms": 109053,
       "name": "Maudit",
       "url": "https://open.spotify.com/track/0CyzbKO9MFV1pFCaMbwA1U"
+    },
+    {
+      "album": {
+        "name": "NLSM",
+        "url": "https://open.spotify.com/album/3xXgREhv7YglpAix0bTbFm"
+      },
+      "artists": [
+        {
+          "name": "Ayelya",
+          "url": "https://open.spotify.com/artist/0ivvGPySFFiWS9fpWJzc6c"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187683,
+      "name": "NLSM",
+      "url": "https://open.spotify.com/track/1rjs9YCSrSSQoAmKNtnC0y"
     },
     {
       "album": {
@@ -868,7 +966,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 254827,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/48A49w7J6TefeUX69H737j"

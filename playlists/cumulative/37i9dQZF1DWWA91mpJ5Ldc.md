@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-240 songs - 14 hr 37 min
+241 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Cores](https://open.spotify.com/track/2HVxpg6Xhfnzzc8vdTQjOu) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Outono](https://open.spotify.com/album/6HxkXsDXFdFcHQ6QKmH8qo) | 3:09 | 2022-02-04 | 2022-07-29 |
 | [Cores](https://open.spotify.com/track/3zSoilgYEL3ORqtuLKUFkq) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Outono](https://open.spotify.com/album/0PkdWfglmXqNY79Xr7oUwQ) | 3:18 | 2022-07-22 | 2022-08-17 |
 | [Corpura](https://open.spotify.com/track/0tG3WgBKVuxBxciHEniYVX) | [Aláfia](https://open.spotify.com/artist/2ZzDm7UiS7g3e9HVjTMr29) | [Corpura](https://open.spotify.com/album/1w20oOwAGU1lWSFuQlIXyp) | 4:56 | 2022-03-22 | 2022-04-21 |
+| [Céu da Boca](https://open.spotify.com/track/5RYsihoTr47Rd9uXYrVZpC) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Serviço](https://open.spotify.com/album/4HN3LF9h0II1QfSJvs5x96) | 2:59 | 2023-10-20 |  |
 | [Céu da Boca](https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Serviço](https://open.spotify.com/album/5WCVs6FJvyIH9Zr0ZVGmge) | 3:03 | 2022-04-01 | 2023-10-18 |
 | [Decisão de Te Amar](https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Te Amo Lá Fora](https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc) | 4:06 | 2022-02-04 |  |
 | [Deixa](https://open.spotify.com/track/1ysILtLWerLamGMXpbeIie) | [dossel](https://open.spotify.com/artist/0kPUGF91WawX8k9lsFZxt3), [Silvia Machete](https://open.spotify.com/artist/6a3loWAysYxkjTW2bxxs8b) | [Deixa](https://open.spotify.com/album/2tdz8G3jOnRh6Ad8WCBZ1Z) | 4:06 | 2022-04-08 | 2022-07-18 |
@@ -84,7 +85,7 @@
 | [Desafio](https://open.spotify.com/track/3hft4CnJUz54rJcJY5mw22) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Desafio](https://open.spotify.com/album/2gdQzcvu00rbuwtOFefWxc) | 3:46 | 2022-02-04 | 2022-07-29 |
 | [Deu Bossa](https://open.spotify.com/track/33hnkbQrn9OpSOLCHYrxnd) | [André Bellini](https://open.spotify.com/artist/389NRQvEXJKmucw2RIR2fC), [Bira Fernandez](https://open.spotify.com/artist/2DTGjI8UW3h8CK3g7H4avw) | [Deu Bossa](https://open.spotify.com/album/6JUbFtuF3sxxPKcFdCFujl) | 2:55 | 2022-02-04 | 2022-07-29 |
 | [Devagarinho 2.0 \(prod\. DKVPZ\)](https://open.spotify.com/track/0HYHMmuWQ1WWLiYXOhjt5I) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [Devagarinho 2.0 \(prod\. DKVPZ\)](https://open.spotify.com/album/7sjeAJANX5rlCazXEMkSLO) | 3:42 | 2022-03-22 |  |
-| [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 | 2022-03-22 |  |
+| [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 | 2022-03-22 | 2023-10-27 |
 | [Dilema](https://open.spotify.com/track/7GZoLg9b4QggdnHBHeSmpX) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Dilema](https://open.spotify.com/album/5nCyYGiOwdgYcafhT6Asq3) | 2:57 | 2022-02-04 | 2022-07-29 |
 | [do avesso](https://open.spotify.com/track/1mPXDwkAClgl2XeI12ubB5) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [bem vindo, amanhecer](https://open.spotify.com/album/680EwE0QR2RqxQxjyVqXWQ) | 2:49 | 2022-07-04 | 2022-07-19 |
 | [Do Nada](https://open.spotify.com/track/4UbnuzTFQyCXjd0QsKDez6) | [Mixdgroove](https://open.spotify.com/artist/7C9uzbHPDku3N6vZUokNNL) | [Do Nada](https://open.spotify.com/album/1SnabqksVSUoWOQpfWutQm) | 3:23 | 2022-03-14 | 2022-07-11 |

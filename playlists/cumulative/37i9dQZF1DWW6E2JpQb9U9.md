@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-293 songs - 21 hr 52 min
+294 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Cerca De La Revolución \- Live](https://open.spotify.com/track/2qV86KONAvMWtYrQs0FLPf) | [Charly García & The Prostitution](https://open.spotify.com/artist/4Y2lfQWx1xZIiA8ckQjyta) | [La Vanguardia Es Así \(Live\)](https://open.spotify.com/album/6squHvecpkgdtu5ugJ36dZ) | 4:48 | 2022-04-01 | 2022-07-29 |
 | [Chau](https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 5:19 | 2022-04-01 | 2023-10-07 |
 | [Chino](https://open.spotify.com/track/2itM9PP3LGo6DgyJpBY4JX) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [La Mancha 360](https://open.spotify.com/album/4lmRIta1CJWESEv4EA9laV) | 3:56 | 2022-04-01 | 2022-07-26 |
+| [Cinco Siglos Igual \(En Vivo Teatro Coliseo\)](https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Cinco Siglos Igual \(En Vivo Teatro Coliseo\)](https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x) | 4:28 | 2023-10-26 |  |
 | [Colgado de la luna \- En vivo El Sol 2, abril 1998](https://open.spotify.com/track/4gPtmKoWB6X7vXxLn3Dhcf) | [Ariel Rot](https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu) | [Colgado de la luna \(En vivo El Sol 2, abril 1998\)](https://open.spotify.com/album/0w8Lpf5B1qVbRid4BFMCWo) | 4:15 | 2023-03-17 | 2023-09-22 |
 | [Consejos del Abuelo \(Luz y Fuerza\) \- En Vivo](https://open.spotify.com/track/7hmiuQdJh2dIlAQnJerKg4) | [Jauría](https://open.spotify.com/artist/1Abg5u0GFm9k3jst9mw4gH) | [Consejos del Abuelo \(Luz y Fuerza\) \[En Vivo\]](https://open.spotify.com/album/6HBp9FPhhLJ0pNWyHsjNTk) | 3:26 | 2022-04-01 | 2022-07-25 |
 | [Correte \- En Vivo](https://open.spotify.com/track/672VMQMw4RrCHNzQQ0KtFn) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Sesión Saldias \(En Vivo\)](https://open.spotify.com/album/206rMmryQBWqNoIMNsOS8q) | 2:46 | 2022-06-10 | 2022-07-29 |
@@ -298,7 +299,7 @@
 | [Ya No Estás \- En Vivo en el Luna Park](https://open.spotify.com/track/3c8v1vkAFkEMn17asSMldf) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:34 | 2022-04-01 |  |
 | [Yendo de la Cama al Living \- En Vivo Teatro Ópera](https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Fabián Von Quintiero](https://open.spotify.com/artist/5GUNQozsGa2d0JupBb99hG) | [Yendo de la Cama al Living \(En Vivo Teatro Ópera\)](https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc) | 4:58 | 2022-04-01 |  |
 | [Yo Tomo \- Live In Buenos Aires / 2001](https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 3:46 | 2022-04-01 |  |
-| [¿Por Qué Será Que Dios No Me Quiere? \- En Vivo](https://open.spotify.com/track/3ErClfBvCqOTjeUqdrmm2V) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [¿Por Qué Será Que Dios No Me Quiere? \(En Vivo\)](https://open.spotify.com/album/1w0irouqXrcdR4Wm8SYohd) | 3:56 | 2022-06-10 |  |
+| [¿Por Qué Será Que Dios No Me Quiere? \- En Vivo](https://open.spotify.com/track/3ErClfBvCqOTjeUqdrmm2V) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [¿Por Qué Será Que Dios No Me Quiere? \(En Vivo\)](https://open.spotify.com/album/1w0irouqXrcdR4Wm8SYohd) | 3:56 | 2022-06-10 | 2023-10-27 |
 | [¿Qué Tal? \(En Vivo\)](https://open.spotify.com/track/5L4FkYBqBBcGBhD72rebEh) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [En Vivo en el Teatro Coliseo](https://open.spotify.com/album/4Tm00saalKTLhIz3xL6erW) | 8:07 | 2022-04-01 | 2022-07-25 |
 | [¿Qué Tal? \- En Vivo](https://open.spotify.com/track/0L8j3R0I7PT6dPsITLMhdL) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [En Vivo en el Teatro Coliseo](https://open.spotify.com/album/2HPBjV6pfag0WSo7l1Y8oY) | 8:07 | 2023-10-06 |  |
 

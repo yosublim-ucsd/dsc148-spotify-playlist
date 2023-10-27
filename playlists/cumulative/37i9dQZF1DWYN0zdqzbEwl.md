@@ -2,7 +2,7 @@
 
 ### [Rock en Español](https://open.spotify.com/playlist/37i9dQZF1DWYN0zdqzbEwl)
 
-> Legendarios del rock en español\. Cover: Bunbury
+> Legendarios del rock en español\. Cover: Maná
 
 146 songs - 10 hr 0 min
 

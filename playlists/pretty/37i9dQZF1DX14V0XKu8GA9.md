@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: King Lil G & Young Drummer Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,360 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,430 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 24 | [Energy](https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i) | [Chito Rana$](https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz) | [Energy](https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY) | 3:07 |
 | 25 | [Bad Habit](https://open.spotify.com/track/029WlDmdzpAOk50tDXb6LR) | [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Bad Habit](https://open.spotify.com/album/4MAefGYESTnCQio1sF5gET) | 2:26 |
 | 26 | [Apologies](https://open.spotify.com/track/0E1xO4LIXWBRxSaKVtls87) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Apologies](https://open.spotify.com/album/3AhD9hkjE5CNI5fwA8iqOP) | 3:10 |
-| 27 | [Glock N Switches \(with DJ Drama\)](https://open.spotify.com/track/3054AeRkauPqoSjtxGHE3z) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Gangsta Grillz: Mvrda Gvng](https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos) | 2:56 |
-| 28 | [Morals & Principles](https://open.spotify.com/track/7taqc8ECCZeRWtjaCEYzlc) | [Acito](https://open.spotify.com/artist/01oY6wumU3INVxo8ddX7mj), [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [The Ace Of Spades](https://open.spotify.com/album/0HNREpMTFSwFnURnDYEYS8) | 2:40 |
+| 27 | [Morals & Principles](https://open.spotify.com/track/7taqc8ECCZeRWtjaCEYzlc) | [Acito](https://open.spotify.com/artist/01oY6wumU3INVxo8ddX7mj), [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [The Ace Of Spades](https://open.spotify.com/album/0HNREpMTFSwFnURnDYEYS8) | 2:40 |
+| 28 | [Glock N Switches \(with DJ Drama\)](https://open.spotify.com/track/3054AeRkauPqoSjtxGHE3z) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Gangsta Grillz: Mvrda Gvng](https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos) | 2:56 |
 | 29 | [Chingon \(with Peso Peso\)](https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Chingon \(with Peso Peso\)](https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px) | 2:05 |
 | 30 | [Need That](https://open.spotify.com/track/6Mlt51MMwu5wg0f11BynCE) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Need That](https://open.spotify.com/album/1fbUmxGfHJQhvr2Va02YaW) | 2:30 |
 | 31 | [This Is What I Need](https://open.spotify.com/track/174sKBWy1cMVxUapeaD1SC) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [Muriel](https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov) | [This Is What I Need](https://open.spotify.com/album/5xlnkITJKmXqDETUJB9qQw) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 49 | [Rich Remedy](https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Tweak on the Beat](https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B) | [Rich Remedy](https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv) | 1:55 |
 | 50 | [Toxic](https://open.spotify.com/track/0aS10pGB1AyvV8YKlModuD) | [BELLA](https://open.spotify.com/artist/7DmOVfbnFeAOA3Fujc3Toe) | [Abandoned Love](https://open.spotify.com/album/4NB6CVW0MxLuMwKz9emUPK) | 3:20 |
 
-Snapshot ID: `MCxkOWFkYmQwNTJkZjNiMGNhYjRjYmE1MGYxNmY2YjcxZGY4YTU3MGYx`
+Snapshot ID: `MCwwZDYwNzBkMWJhNWE3NjY1NGE4ZDI1YWI3NGQwN2FiMTM1ZmY5YTE0`

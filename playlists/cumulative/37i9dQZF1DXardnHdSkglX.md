@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-231 songs - 13 hr 46 min
+232 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Careless Whisper \(feat\. Stephenie Coker\)](https://open.spotify.com/track/78igxfQCKcsgQ1yeV0Vmpz) | [Costa Azul Quartet](https://open.spotify.com/artist/6rJnoDgugy2T0eTH7ZUZUK), [Stephenie Coker](https://open.spotify.com/artist/6amQ4aTH5ThxBgwbD3jrzi) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow) | 5:53 | 2023-01-03 |  |
 | [Chega de Saudade](https://open.spotify.com/track/1cVydAIXdvoppZ4DmplKBN) | [Luiz Murá](https://open.spotify.com/artist/5os4puXkeFYMsBpyN55oHQ), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Chega de Saudade](https://open.spotify.com/album/26I6RGEYmOUGrIgBfFtv8b) | 4:06 | 2022-09-30 | 2023-05-13 |
 | [China](https://open.spotify.com/track/3GDVAt1e7YXnjpLQLO3Uj6) | [Altozano](https://open.spotify.com/artist/45abbsTxbatVK1zPypX2kt) | [China](https://open.spotify.com/album/0tzBJeeNocpK4aAJJ8PWu6) | 2:48 | 2021-12-09 |  |
-| [Closer](https://open.spotify.com/track/5q0SV5avxVZkET73G2Neq9) | [Bossa Players](https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm) | [Closer](https://open.spotify.com/album/1OjnaY1fTZP2MiXzTnlLxL) | 3:36 | 2022-11-24 |  |
+| [Closer](https://open.spotify.com/track/5q0SV5avxVZkET73G2Neq9) | [Bossa Players](https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm) | [Closer](https://open.spotify.com/album/1OjnaY1fTZP2MiXzTnlLxL) | 3:36 | 2022-11-24 | 2023-10-27 |
 | [Cold Heart](https://open.spotify.com/track/2hcgHA5iPCBHlWZusjsr1w) | [The Bacalhau Quintet](https://open.spotify.com/artist/6tK6HFxCJ3PUpeYkgse2Ya) | [Bossa Vibes Vol\. 01](https://open.spotify.com/album/65KDUBMIG3sk3sa6lv4QnT) | 3:30 | 2023-04-20 |  |
 | [Collide](https://open.spotify.com/track/6eKyomPI3ztAYr1jh6BkwH) | [New Years Project](https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu) | [Collide](https://open.spotify.com/album/6qeWEQ0QZq3kotA1IQ8qpJ) | 2:40 | 2023-06-08 |  |
 | [Company](https://open.spotify.com/track/1waygSn0gHDRqvPjcm5oje) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Modern Jukebox](https://open.spotify.com/album/2i7MhuER8I9dk47TWkrT8t) | 2:59 | 2023-04-20 |  |
@@ -201,6 +201,7 @@
 | [Summertime Sadness \(Bossa Nova Version\) \[Originally Performed By Lana Del Rey\]](https://open.spotify.com/track/7fu2faNjkEZWrHxpBdHJw6) | [The Bossa Nova All Stars](https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box) | [Relaxing Bossa Nova Cover Hits](https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO) | 4:32 | 2021-12-09 |  |
 | [Sunday Best](https://open.spotify.com/track/5RrY34g0sNf76ynA3SEarW) | [Hot Spot Band](https://open.spotify.com/artist/280Ye8CB89v9PCZE1b2H8s), [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Sunday Best](https://open.spotify.com/album/4K3x2c6Juuuq5nTHR56TYr) | 2:36 | 2021-12-09 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/2DHoF695nEPtbWMiqFeDTy) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Sweet Child O' Mine](https://open.spotify.com/album/7k2tdsIiuaQY0fLXiO7V1a) | 3:24 | 2021-12-09 | 2023-04-21 |
+| [Sweet Dreams \(Are Made of This\) \- Bossa Nova Version](https://open.spotify.com/track/67PFYFZIywl6xjGVCpLJmW) | [Lisa Laew](https://open.spotify.com/artist/1BJxvqEKk18whkqb6eNUSR) | [Sweet Dreams \(Are Made of This\)](https://open.spotify.com/album/417nFOw9t04mP8GCqMKqps) | 2:35 | 2023-10-27 |  |
 | [Tainted Love](https://open.spotify.com/track/2oRy6hcs9wQzQtYWDK5HzT) | [Diana Martinez](https://open.spotify.com/artist/7mEajYyUcyqlvR4M6CpNkG) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow) | 5:05 | 2023-01-03 | 2023-05-13 |
 | [Tainted Love](https://open.spotify.com/track/6k0LUyHvtjq9iVYln8FZun) | [Diana Martinez](https://open.spotify.com/artist/7mEajYyUcyqlvR4M6CpNkG) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px) | 5:05 | 2022-05-04 | 2023-01-07 |
 | [Take on me](https://open.spotify.com/track/6TYgHFFLZRbX491zjRjcND) | [Sonya](https://open.spotify.com/artist/4c9gY5cZpArATWNkbG1lT3) | [Bossanova Chill 1](https://open.spotify.com/album/3i1c4TS3vifZBHzCVF18i2) | 3:38 | 2023-02-20 |  |

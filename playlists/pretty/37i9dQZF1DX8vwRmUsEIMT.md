@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Charli XCX
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,280 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,322 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [When the Rain Comes](https://open.spotify.com/track/0mw1bEX0GYt1txWBjwGmRJ) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [When the Rain Comes](https://open.spotify.com/album/2mPSmGrWTnWuND6i6CwgWE) | 3:19 |
 | 80 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 |
 
-Snapshot ID: `MCwzZWRmODgyOWNkYmM2NGE1MThmODhiMDgxYjM0Nzc4NWZjMjEwNzk4`
+Snapshot ID: `MCwxZTgzZjAwNGFmZDUxMjAwZGM3ZDlhYTcxMzE0M2EzNjFjM2MzZWNl`

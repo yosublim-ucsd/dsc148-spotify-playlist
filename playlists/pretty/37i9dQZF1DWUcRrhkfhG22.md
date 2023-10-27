@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 > Funky vocoders and talk boxes
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,526 likes - 85 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,559 likes - 85 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 52 | [Like a Robot](https://open.spotify.com/track/5gHb5pxavFmxVJwMvQenl2) | [Dogg Master](https://open.spotify.com/artist/7D7OH1u01xndWNoeG153gy), [Busta Brown](https://open.spotify.com/artist/4KagRlTqZ01I5oyFiUcie0) | [Like a Robot](https://open.spotify.com/album/2OdHcVJdxJVtu9lFmjEt3G) | 3:16 |
 | 53 | [Baby Girl](https://open.spotify.com/track/4JNrXBUhRwZiMnO98GrFgn) | [Mofak](https://open.spotify.com/artist/5NM65Y5uGN6Z9X5Uh3w8iV) | [Baby Girl](https://open.spotify.com/album/6RI3EgiH5O8H46ASJ1QnNb) | 4:17 |
 | 54 | [Get Down Baby](https://open.spotify.com/track/62fnuo5anKzkxu7fL8kp0d) | [Excellent Gentlemen](https://open.spotify.com/artist/0AIMzdNf3UXVJVA0GAjVnb) | [Just Say Yes](https://open.spotify.com/album/0PazShoQJ7tUuJGIXwn35a) | 3:50 |
-| 55 | [Contagious](https://open.spotify.com/track/2TsASKFLtMb6M1D8W42pS3) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Contagious](https://open.spotify.com/album/4fbDHh7p8PDxoPMjlesQsA) | 3:53 |
+| 55 | [Contagious](https://open.spotify.com/track/5X4PAws5oW5K22G6Ic17AV) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Panorama: Form](https://open.spotify.com/album/5JHsZYG9ai1cW6YEZ0Rh2v) | 3:53 |
 | 56 | [Make You Mine](https://open.spotify.com/track/1aKPbD7aGsySdLz27P92Gt) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Baby I'm Yours](https://open.spotify.com/album/0sCktPXUOt19W503or8h9b) | 3:23 |
 | 57 | [Shake It \(Extended\)](https://open.spotify.com/track/318AONjmfz3gTrcKXCjMIi) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/5h3omMgMw42o9lNiNPpXIw) | 7:03 |
 | 58 | [Computer Funk](https://open.spotify.com/track/4pP7kcJEo55xmH9Z9oPsrP) | [Osé](https://open.spotify.com/artist/1ogxAd9tjtTE5H6rtb4Pwj) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/7FyxIddviuFxayIXXIl358) | 6:32 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 84 | [Closer to You](https://open.spotify.com/track/174JRizws7VqM3oCF8zruo) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/2FzPLZyS7d7g6GneVKT4Kx) | 5:04 |
 | 85 | [Pomslap](https://open.spotify.com/track/1o93PmeUiSJopZ70Z4LlMK) | [Pomrad](https://open.spotify.com/artist/4PM7uuFnzArhW3FNNBeMXA) | [This Day EP](https://open.spotify.com/album/4zRbQIkHYXOBEoL84vEqTJ) | 4:04 |
 
-Snapshot ID: `MCwxOTVkYmMyZjUzOTc3MTdkMWFjNTRmZTJhM2VlZTYxYjgyZTY1ODBk`
+Snapshot ID: `MCw2YzYzNDc3N2E2ODNiNWMxZmEzYjIwOTJjMGFmOGZhZDExMTA3OTgy`

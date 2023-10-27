@@ -1,12 +1,12 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 8412,
+  "num_followers": 8491,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDg0YTc2ZGEzN2Q1MzM4ZGI0Y2VkOWQwNjZjZGJhYzEyMTYwYmEz",
+  "snapshot_id": "MCxhYmY3MmI5NmZkMmEwM2I5MjQ1ZDEyM2I3ODAzNTRlMmFkNzU4ZjA2",
   "tracks": [
     {
       "added_at": "2023-02-17 01:10:22",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg"
     },
     {
-      "added_at": "2023-02-17 01:29:01",
-      "album": {
-        "name": "Lost Horizons",
-        "url": "https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 422826,
-      "name": "Space Walk",
-      "url": "https://open.spotify.com/track/1bne4gsJshCv77LeKqQb1A"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Time to Recover",
@@ -427,6 +411,22 @@
       "duration_ms": 136383,
       "name": "Stranger to One",
       "url": "https://open.spotify.com/track/0NaOI7rSBynlCl5ss2R2Hj"
+    },
+    {
+      "added_at": "2023-02-17 01:29:01",
+      "album": {
+        "name": "Lost Horizons",
+        "url": "https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 422826,
+      "name": "Space Walk",
+      "url": "https://open.spotify.com/track/1bne4gsJshCv77LeKqQb1A"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/5jRkJXPo4SiPaTCNzn01X8"
     },
     {
-      "added_at": "2023-02-17 01:29:01",
-      "album": {
-        "name": "Lost Horizons",
-        "url": "https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "Nice Weather for Ducks",
-      "url": "https://open.spotify.com/track/3z24ayp6vSCkN6btftwyet"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Playground In A Lake",
@@ -587,6 +571,22 @@
       "duration_ms": 204123,
       "name": "Lambent Rag",
       "url": "https://open.spotify.com/track/3U8DW25FSajJzQXgApAJ0B"
+    },
+    {
+      "added_at": "2023-02-17 01:29:01",
+      "album": {
+        "name": "Lost Horizons",
+        "url": "https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "Nice Weather for Ducks",
+      "url": "https://open.spotify.com/track/3z24ayp6vSCkN6btftwyet"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -673,24 +673,20 @@
       "url": "https://open.spotify.com/track/0MoeShvEacFvWAROMIfqKz"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
+      "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "21 Again Collaborations, Pt. 1",
-        "url": "https://open.spotify.com/album/3bPdgAKQZRbPa9ESQGUsqr"
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
       "artists": [
         {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        },
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 170040,
-      "name": "Fertilized",
-      "url": "https://open.spotify.com/track/25INV7gnl2B502qCvxrluh"
+      "duration_ms": 293200,
+      "name": "CREEK",
+      "url": "https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv"
     },
     {
       "added_at": "2023-02-17 01:29:01",
@@ -713,20 +709,24 @@
       "url": "https://open.spotify.com/track/4nQNNwnIUUmFzVOcVVJCk1"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+        "name": "21 Again Collaborations, Pt. 1",
+        "url": "https://open.spotify.com/album/3bPdgAKQZRbPa9ESQGUsqr"
       },
       "artists": [
         {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        },
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
         }
       ],
-      "duration_ms": 293200,
-      "name": "CREEK",
-      "url": "https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv"
+      "duration_ms": 170040,
+      "name": "Fertilized",
+      "url": "https://open.spotify.com/track/25INV7gnl2B502qCvxrluh"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Fahrenheit Fair Enough",
-        "url": "https://open.spotify.com/album/27teXombBxDGNa9f5jtOr2"
-      },
-      "artists": [
-        {
-          "name": "Telefon Tel Aviv",
-          "url": "https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC"
-        }
-      ],
-      "duration_ms": 400293,
-      "name": "Fahrenheit Fair Enough",
-      "url": "https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Why She Is Hiding in the Other Man's Eyes",
@@ -807,6 +791,22 @@
       "duration_ms": 304390,
       "name": "Why She Is Hiding in the Other Man's Eyes",
       "url": "https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Fahrenheit Fair Enough",
+        "url": "https://open.spotify.com/album/27teXombBxDGNa9f5jtOr2"
+      },
+      "artists": [
+        {
+          "name": "Telefon Tel Aviv",
+          "url": "https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC"
+        }
+      ],
+      "duration_ms": 400293,
+      "name": "Fahrenheit Fair Enough",
+      "url": "https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -825,20 +825,20 @@
       "url": "https://open.spotify.com/track/62OTU01ZBggT2ETgT1ju6i"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
+      "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
-        "url": "https://open.spotify.com/album/5rO7uUV7bvnFYmHPc8QemY"
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
       "artists": [
         {
-          "name": "\u25b3\u2583\u25b3\u2593",
-          "url": "https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 144000,
-      "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
-      "url": "https://open.spotify.com/track/0v2kIE5dfrMxQWhfRXWKPp"
+      "duration_ms": 319666,
+      "name": "SHEEP",
+      "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
     },
     {
       "added_at": "2023-02-17 01:29:01",
@@ -857,20 +857,20 @@
       "url": "https://open.spotify.com/track/5jEUZSxLX8EbuhcXncEnDE"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+        "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
+        "url": "https://open.spotify.com/album/5rO7uUV7bvnFYmHPc8QemY"
       },
       "artists": [
         {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+          "name": "\u25b3\u2583\u25b3\u2593",
+          "url": "https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8"
         }
       ],
-      "duration_ms": 319666,
-      "name": "SHEEP",
-      "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
+      "duration_ms": 144000,
+      "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
+      "url": "https://open.spotify.com/track/0v2kIE5dfrMxQWhfRXWKPp"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
+        "name": "Royal Astronomy",
+        "url": "https://open.spotify.com/album/6wderqhoGndjyEC1rODumX"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "duration_ms": 247373,
+      "name": "Goodbye, Goodbye",
+      "url": "https://open.spotify.com/track/2P43WROXRRBFqSKd2aSc0o"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
         "name": "Double Figure",
         "url": "https://open.spotify.com/album/3194Mf7OpqJqCGJpv9lRFB"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 260972,
       "name": "Eyen",
       "url": "https://open.spotify.com/track/0w1P0lcWUKniBbJfcz8Hvy"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Royal Astronomy",
-        "url": "https://open.spotify.com/album/6wderqhoGndjyEC1rODumX"
-      },
-      "artists": [
-        {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "Goodbye, Goodbye",
-      "url": "https://open.spotify.com/track/2P43WROXRRBFqSKd2aSc0o"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Maracuy\u00e1",
-        "url": "https://open.spotify.com/album/782NCRRX6A2vjARVbugrIi"
-      },
-      "artists": [
-        {
-          "name": "Hermanito",
-          "url": "https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Maracuy\u00e1",
-      "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Thirsts",
         "url": "https://open.spotify.com/album/1Ju3IMjyQFXsrStPmrZX7j"
       },
@@ -1017,20 +1001,36 @@
       "url": "https://open.spotify.com/track/41rdl3Oiyz5o5todvKyOWA"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Polymer",
-        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
+        "name": "Maracuy\u00e1",
+        "url": "https://open.spotify.com/album/782NCRRX6A2vjARVbugrIi"
       },
       "artists": [
         {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+          "name": "Hermanito",
+          "url": "https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j"
         }
       ],
-      "duration_ms": 300000,
-      "name": "Dancers",
-      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
+      "duration_ms": 182000,
+      "name": "Maracuy\u00e1",
+      "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Truffles Sprinkles",
+        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Truffles Sprinkles",
+      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Truffles Sprinkles",
-        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+        "name": "Polymer",
+        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
       },
       "artists": [
         {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
         }
       ],
-      "duration_ms": 251333,
-      "name": "Truffles Sprinkles",
-      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
+      "duration_ms": 300000,
+      "name": "Dancers",
+      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
+        "name": "Hypernatural",
+        "url": "https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO"
+      },
+      "artists": [
+        {
+          "name": "Hypernatural",
+          "url": "https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER"
+        }
+      ],
+      "duration_ms": 259488,
+      "name": "Changing Tides",
+      "url": "https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
         "name": "Building Blocks, Pt. 5",
         "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 341346,
       "name": "Haku - RUMTUM Remix",
       "url": "https://open.spotify.com/track/4bbC2PWt5QDvICHQBUXyj4"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Hypernatural",
-        "url": "https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO"
-      },
-      "artists": [
-        {
-          "name": "Hypernatural",
-          "url": "https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER"
-        }
-      ],
-      "duration_ms": 259488,
-      "name": "Changing Tides",
-      "url": "https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Iaora Tahiti",
-        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Kompod",
-      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Drunken Clouds",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Kompod",
+      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
         "name": "For Beginner Piano",
         "url": "https://open.spotify.com/album/2mdkf39z60lelr7zulBMky"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 237133,
       "name": "Plock",
       "url": "https://open.spotify.com/track/1Oq3hZjG2WWIR2MEqASnNd"
+    },
+    {
+      "added_at": "2023-03-03 04:01:23",
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1451,22 +1467,6 @@
       "duration_ms": 268000,
       "name": "The Psychedelic One",
       "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
-    },
-    {
-      "added_at": "2023-03-03 04:01:23",
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
     },
     {
       "added_at": "2023-07-28 21:27:55",
@@ -1505,22 +1505,6 @@
       "url": "https://open.spotify.com/track/5lztNaNPhBTrfygH1BO1W2"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Expert Knob Twiddlers",
-        "url": "https://open.spotify.com/album/0HlGVb8TqEG6hlE9OVhCxW"
-      },
-      "artists": [
-        {
-          "name": "Mike & Rich",
-          "url": "https://open.spotify.com/artist/6J3zaNqIk0fXXFhpbLDg0H"
-        }
-      ],
-      "duration_ms": 413384,
-      "name": "Mr. Frosty",
-      "url": "https://open.spotify.com/track/0dl9NcB987SNb5bUqHQsxG"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Treat Em Right (Boards Of Canada Remix)",
@@ -1541,6 +1525,22 @@
       "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
     },
     {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Expert Knob Twiddlers",
+        "url": "https://open.spotify.com/album/0HlGVb8TqEG6hlE9OVhCxW"
+      },
+      "artists": [
+        {
+          "name": "Mike & Rich",
+          "url": "https://open.spotify.com/artist/6J3zaNqIk0fXXFhpbLDg0H"
+        }
+      ],
+      "duration_ms": 413384,
+      "name": "Mr. Frosty",
+      "url": "https://open.spotify.com/track/0dl9NcB987SNb5bUqHQsxG"
+    },
+    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Trusted EP",
@@ -1557,22 +1557,6 @@
       "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Tanz Mit Mir",
-        "url": "https://open.spotify.com/album/4vNzlHsH4NHckL127Tu6tn"
-      },
-      "artists": [
-        {
-          "name": "Datassette",
-          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
-        }
-      ],
-      "duration_ms": 343158,
-      "name": "Tanz Mit Mir",
-      "url": "https://open.spotify.com/track/1FBJbDjXg2rfih1ITZoqUP"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Homescreen Glow",
@@ -1587,6 +1571,22 @@
       "duration_ms": 326829,
       "name": "Soft Gaiden",
       "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Tanz Mit Mir",
+        "url": "https://open.spotify.com/album/4vNzlHsH4NHckL127Tu6tn"
+      },
+      "artists": [
+        {
+          "name": "Datassette",
+          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
+        }
+      ],
+      "duration_ms": 343158,
+      "name": "Tanz Mit Mir",
+      "url": "https://open.spotify.com/track/1FBJbDjXg2rfih1ITZoqUP"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Harmonic Frequencies",
-        "url": "https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 383899,
-      "name": "Music To Heal To",
-      "url": "https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
         "name": "Lagoon",
         "url": "https://open.spotify.com/album/6WJxRoJgFPTxi9odNrGKKp"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 190213,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/7oYOdF7lpYvwYNLk3BWNpD"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Harmonic Frequencies",
+        "url": "https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 383899,
+      "name": "Music To Heal To",
+      "url": "https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R"
     },
     {
       "added_at": "2023-08-29 01:12:43",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Put Your Head Above The Parakeets",
-        "url": "https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 436052,
-      "name": "Head Above The Parakeets",
-      "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
         "name": "Space Oddities: Studio Ganaro (1972-1982)",
         "url": "https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 123973,
       "name": "Beyond the Clouds",
       "url": "https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Put Your Head Above The Parakeets",
+        "url": "https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 436052,
+      "name": "Head Above The Parakeets",
+      "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Feorm Falorx",
-        "url": "https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 261700,
-      "name": "Wondergan",
-      "url": "https://open.spotify.com/track/0z5sKnDYAGBm5DyZlr4wc1"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Comma",
         "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 223750,
       "name": "Summer Places",
       "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Feorm Falorx",
+        "url": "https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 261700,
+      "name": "Wondergan",
+      "url": "https://open.spotify.com/track/0z5sKnDYAGBm5DyZlr4wc1"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "First Lesson",
-        "url": "https://open.spotify.com/album/40nSeTMuFMiMHvwIwncgQG"
-      },
-      "artists": [
-        {
-          "name": "Bur\u0113ku",
-          "url": "https://open.spotify.com/artist/4ZROS5RylFIQnzi4SRTHVH"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Cat Friend",
-      "url": "https://open.spotify.com/track/5KqCoQucFcqcUCzpA2MveP"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "For Beginner Piano",
         "url": "https://open.spotify.com/album/2mdkf39z60lelr7zulBMky"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 229826,
       "name": "Marbles",
       "url": "https://open.spotify.com/track/54WZSly8s7E08NsP1twRU2"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "First Lesson",
+        "url": "https://open.spotify.com/album/40nSeTMuFMiMHvwIwncgQG"
+      },
+      "artists": [
+        {
+          "name": "Bur\u0113ku",
+          "url": "https://open.spotify.com/artist/4ZROS5RylFIQnzi4SRTHVH"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Cat Friend",
+      "url": "https://open.spotify.com/track/5KqCoQucFcqcUCzpA2MveP"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2493,20 +2493,20 @@
       "url": "https://open.spotify.com/track/7EfEP1QN5EMCubPSrI5x6q"
     },
     {
-      "added_at": "2023-02-17 01:29:01",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "William Shatner Has Been",
-        "url": "https://open.spotify.com/album/53CfmaDFzVoFdPcU5SjjmB"
+        "name": "Poly Pointillism",
+        "url": "https://open.spotify.com/album/7zmMRLwzf3PPnzEBWI2cLi"
       },
       "artists": [
         {
-          "name": "William Shatner",
-          "url": "https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza"
+          "name": "Chants",
+          "url": "https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC"
         }
       ],
-      "duration_ms": 339480,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/2u7rfC0PO6XdUBIjS1giEB"
+      "duration_ms": 130416,
+      "name": "Shimmer and Glimmer",
+      "url": "https://open.spotify.com/track/4w7JDDgv13YI0ZiIwplRSy"
     }
   ],
   "unique_name": "Quirktronica",

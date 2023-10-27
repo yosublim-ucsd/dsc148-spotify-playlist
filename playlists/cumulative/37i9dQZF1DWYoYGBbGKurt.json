@@ -3610,7 +3610,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 112207,
       "name": "Bunch Of Flowers",
       "url": "https://open.spotify.com/track/6DBneGJiUSPIKNRTOAsP1V"
@@ -4348,10 +4348,6 @@
         {
           "name": "lonelyboy",
           "url": "https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc"
-        },
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         }
       ],
       "date_added": "2023-08-21",
@@ -10167,6 +10163,28 @@
     },
     {
       "album": {
+        "name": "Fluffity",
+        "url": "https://open.spotify.com/album/7syd7u5StZKwBgcaFw7JUB"
+      },
+      "artists": [
+        {
+          "name": "Choftus Leek",
+          "url": "https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl"
+        },
+        {
+          "name": "Ge\u00f3rgia Neve",
+          "url": "https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Fluffity",
+      "url": "https://open.spotify.com/track/22iHU9AESPMxf6aaI2OKd3"
+    },
+    {
+      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/3VjkTcP80q9hpwK6KYDTf6"
       },
@@ -10254,6 +10272,24 @@
       "duration_ms": 159733,
       "name": "Folded Notes",
       "url": "https://open.spotify.com/track/4cowhth7bG7PZRuYnlGhSH"
+    },
+    {
+      "album": {
+        "name": "follow curves",
+        "url": "https://open.spotify.com/album/55IZEKu9b2Nf57guiXN7ca"
+      },
+      "artists": [
+        {
+          "name": "aUra Lu",
+          "url": "https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123815,
+      "name": "follow curves",
+      "url": "https://open.spotify.com/track/6ySxZ4DIudwVEohGVNJJBy"
     },
     {
       "album": {
@@ -10550,7 +10586,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 89600,
       "name": "From Atlanta",
       "url": "https://open.spotify.com/track/33EBBJiynBsJl5tsomy18A"
@@ -11094,7 +11130,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 138352,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/2JWwwEa2Hz5FxhU0XWXLLs"
@@ -11264,7 +11300,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 140000,
       "name": "Gratefulness",
       "url": "https://open.spotify.com/track/2AbUPIumDoBR9tfKGv3c7e"
@@ -12312,7 +12348,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 153000,
       "name": "high tide",
       "url": "https://open.spotify.com/track/4VTJ41f30zyF2ACwzXkSiH"
@@ -12910,7 +12946,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 161032,
       "name": "humify",
       "url": "https://open.spotify.com/track/4wkQzdybc3qK4nNaxHLzvO"
@@ -14474,7 +14510,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 149442,
       "name": "KIND",
       "url": "https://open.spotify.com/track/77B0g62tqdmFGQBeKJ6gpA"
@@ -14732,7 +14768,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 159000,
       "name": "Last Day",
       "url": "https://open.spotify.com/track/6Fhm8ZQ8BM01LicNeoBaPq"
@@ -16552,7 +16588,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 153600,
       "name": "Lovin",
       "url": "https://open.spotify.com/track/3x7JGBBBJj6BIZtMXeiaKa"
@@ -20197,6 +20233,24 @@
     },
     {
       "album": {
+        "name": "One Flame",
+        "url": "https://open.spotify.com/album/2P1KFMTCzA09BPBrqtmJID"
+      },
+      "artists": [
+        {
+          "name": "T.O.M",
+          "url": "https://open.spotify.com/artist/68rwVO9em9O2JzESsN2whJ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164819,
+      "name": "One Flame",
+      "url": "https://open.spotify.com/track/4Ff9CW1dMdIqupiUG3yn3q"
+    },
+    {
+      "album": {
         "name": "Onia",
         "url": "https://open.spotify.com/album/3FWL321KpyvxPAgo5cdT9c"
       },
@@ -23584,6 +23638,24 @@
       "duration_ms": 127058,
       "name": "Silk Lips",
       "url": "https://open.spotify.com/track/26nnd4xKNuV4jXkr9fJkKc"
+    },
+    {
+      "album": {
+        "name": "silver sky",
+        "url": "https://open.spotify.com/album/4WF2vO9nbL4OYv0XE63bOh"
+      },
+      "artists": [
+        {
+          "name": "LVTA",
+          "url": "https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121643,
+      "name": "silver sky",
+      "url": "https://open.spotify.com/track/1Xof3gjWH8EGGwZo7hxJb1"
     },
     {
       "album": {
@@ -28434,7 +28506,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 133670,
       "name": "Two Cents",
       "url": "https://open.spotify.com/track/0hnuPhO4YjGnco61hDmSCy"
@@ -28492,7 +28564,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 97714,
       "name": "Two Way Street",
       "url": "https://open.spotify.com/track/4Rb5fniS91KBLDmxqVpKte"
@@ -29130,7 +29202,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 130909,
       "name": "Ventanales",
       "url": "https://open.spotify.com/track/321n0thcYceXywly551T18"
@@ -29700,6 +29772,24 @@
       "duration_ms": 115416,
       "name": "Warm Breeze",
       "url": "https://open.spotify.com/track/1weQYfRCaDf2qdjw93N3RV"
+    },
+    {
+      "album": {
+        "name": "Warm Weather",
+        "url": "https://open.spotify.com/album/47PV2WKeOwohlF0OzZ9lrt"
+      },
+      "artists": [
+        {
+          "name": "ATONED",
+          "url": "https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149119,
+      "name": "Warm Weather",
+      "url": "https://open.spotify.com/track/5WyejtsDpXpq2CGz2hzMju"
     },
     {
       "album": {

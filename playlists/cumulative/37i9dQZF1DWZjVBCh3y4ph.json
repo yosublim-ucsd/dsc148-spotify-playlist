@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9",
+  "description": "Les hits zouk du moment. Photo : Stony",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -221,6 +221,46 @@
     },
     {
       "album": {
+        "name": "En sang",
+        "url": "https://open.spotify.com/album/5PB3y3i9V2mkvHU3P3jTbP"
+      },
+      "artists": [
+        {
+          "name": "ADJA",
+          "url": "https://open.spotify.com/artist/4f8FFKe4ZyOO8tNMxz3Ijp"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187717,
+      "name": "En sang",
+      "url": "https://open.spotify.com/track/0uUF8ZLICJbqW0WrnGpbqj"
+    },
+    {
+      "album": {
+        "name": "Faut doser",
+        "url": "https://open.spotify.com/album/5XgOnjM0YeiEBXRPsrXkP6"
+      },
+      "artists": [
+        {
+          "name": "Stony",
+          "url": "https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk"
+        },
+        {
+          "name": "Dj Tyson",
+          "url": "https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236674,
+      "name": "Faut doser",
+      "url": "https://open.spotify.com/track/0x2VefZ4j8ruCDXjJQxZMm"
+    },
+    {
+      "album": {
         "name": "Calypso : Winter Edition",
         "url": "https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y"
       },
@@ -268,7 +308,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 162000,
       "name": "Je le savais",
       "url": "https://open.spotify.com/track/0GmFgFtkqsgnrFMWJZ1x99"
@@ -290,6 +330,36 @@
       "duration_ms": 217311,
       "name": "Je veux ton coeur",
       "url": "https://open.spotify.com/track/0qAlln8GToiVhlmS9VTokc"
+    },
+    {
+      "album": {
+        "name": "Jessica",
+        "url": "https://open.spotify.com/album/1hoA7oUcaigr1g671sYAz8"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Jessica (Island Remix)",
+      "url": "https://open.spotify.com/track/0RUPASmo0mJgjOx30NoYO5"
     },
     {
       "album": {
@@ -320,7 +390,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 181224,
       "name": "Jessica (with J Balvin, SAINt JHN, Charly Black & J Perry)",
       "url": "https://open.spotify.com/track/4e6a6yMJvPZItd0l4KTs1p"
@@ -364,7 +434,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 294066,
       "name": "Kar\u00e9s\u00e9 Mwen - Toi et Moi",
       "url": "https://open.spotify.com/track/43La0fMCv1tBBmAeuYSumQ"
@@ -576,6 +646,24 @@
       "duration_ms": 174000,
       "name": "Nous 2",
       "url": "https://open.spotify.com/track/5kf1Bp0L9FZQteJfawmiSa"
+    },
+    {
+      "album": {
+        "name": "Nous deux",
+        "url": "https://open.spotify.com/album/71F50RsJ4zLG8TgmYRVppT"
+      },
+      "artists": [
+        {
+          "name": "Ina Lina",
+          "url": "https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199650,
+      "name": "Nous deux",
+      "url": "https://open.spotify.com/track/0szzlgPOFtP4zkT0PwCYhm"
     },
     {
       "album": {
@@ -859,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Pi\u00e8ce Ma\u00eetresse",
+        "url": "https://open.spotify.com/album/3ZAiBEiCKVYwdeiWHEYIU3"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00efssa",
+          "url": "https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176423,
+      "name": "Trahison",
+      "url": "https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9"
+    },
+    {
+      "album": {
         "name": "TROP DOUX",
         "url": "https://open.spotify.com/album/52mKE8lmxbVpXyAVJa4lX7"
       },
@@ -870,7 +976,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 208814,
       "name": "TROP DOUX",
       "url": "https://open.spotify.com/track/7qk5RFp7PrxzguPkTdgkmq"
@@ -950,7 +1056,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 174068,
       "name": "West Indies",
       "url": "https://open.spotify.com/track/2nJIdiAk5QyqkDilI4Lph6"

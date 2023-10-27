@@ -1089,6 +1089,28 @@
     },
     {
       "album": {
+        "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
+        "url": "https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268960,
+      "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
+      "url": "https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX"
+    },
+    {
+      "album": {
         "name": "Colgado de la luna (En vivo El Sol 2, abril 1998)",
         "url": "https://open.spotify.com/album/0w8Lpf5B1qVbRid4BFMCWo"
       },
@@ -5456,7 +5478,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 236720,
       "name": "\u00bfPor Qu\u00e9 Ser\u00e1 Que Dios No Me Quiere? - En Vivo",
       "url": "https://open.spotify.com/track/3ErClfBvCqOTjeUqdrmm2V"

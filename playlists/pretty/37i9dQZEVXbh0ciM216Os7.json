@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyOTYyNDAsMDAwMDAwMDBiMzkwOWU1NDdjODFhNmUzNWU0Y2RlZjc4OGI0ZDRlMA==",
+  "snapshot_id": "MjgyOTYyNDAsMDAwMDAwMDAzZmRmMmJjMjhmNDU0MmE2N2UyM2U5N2UzNTQ5NzMzZg==",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Te Mata",
-        "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 232306,
-      "name": "Te Mata",
-      "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Hackney Diamonds",
         "url": "https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 243687,
       "name": "Mess It Up",
       "url": "https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Te Mata",
+        "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 232306,
+      "name": "Te Mata",
+      "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -211,54 +211,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Next Chapter",
-        "url": "https://open.spotify.com/album/5JisVgkCcT6clzRWaHzxow"
-      },
-      "artists": [
-        {
-          "name": "V Knuckles",
-          "url": "https://open.spotify.com/artist/7cl6ITtJr0Wa2a71sXkmyu"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Siahlaw",
-          "url": "https://open.spotify.com/artist/7qYWqEgWYdgBSrlp7ZA2lL"
-        }
-      ],
-      "duration_ms": 237124,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/2GBTgnhUDZyweeg7mTwhOi"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "we're going wrong",
-        "url": "https://open.spotify.com/album/0cxzv4qbITfKKH1N2lxq65"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Brie O'Banion",
-          "url": "https://open.spotify.com/artist/3EoSm0VXLJgVCAPsPS4a6G"
-        }
-      ],
-      "duration_ms": 258924,
-      "name": "we're going wrong",
-      "url": "https://open.spotify.com/track/0ZSKRyeth2Bo3sin3QvC6q"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "\u010cohkka/Cort\u00e8ge (Live In Helsinki St. John's Church)",
         "url": "https://open.spotify.com/album/7wZR2dWNOpsRpEZ2GPhWMJ"
       },
@@ -295,22 +247,30 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/1RzEe2SHJlPOIRQv6BFVSe"
+        "name": "The Next Chapter",
+        "url": "https://open.spotify.com/album/5JisVgkCcT6clzRWaHzxow"
       },
       "artists": [
         {
-          "name": "Malik Baptiste",
-          "url": "https://open.spotify.com/artist/3kOQ7t9MH5gt289CcfWZUW"
+          "name": "V Knuckles",
+          "url": "https://open.spotify.com/artist/7cl6ITtJr0Wa2a71sXkmyu"
         },
         {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Siahlaw",
+          "url": "https://open.spotify.com/artist/7qYWqEgWYdgBSrlp7ZA2lL"
         }
       ],
-      "duration_ms": 154285,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/2ZhOrhhlB7QAzNQsXEm6EZ"
+      "duration_ms": 237124,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/2GBTgnhUDZyweeg7mTwhOi"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -327,6 +287,46 @@
       "duration_ms": 204277,
       "name": "Almost blue",
       "url": "https://open.spotify.com/track/2TvvypFABr65clA6O68qfn"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "we're going wrong",
+        "url": "https://open.spotify.com/album/0cxzv4qbITfKKH1N2lxq65"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Brie O'Banion",
+          "url": "https://open.spotify.com/artist/3EoSm0VXLJgVCAPsPS4a6G"
+        }
+      ],
+      "duration_ms": 258924,
+      "name": "we're going wrong",
+      "url": "https://open.spotify.com/track/0ZSKRyeth2Bo3sin3QvC6q"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/1RzEe2SHJlPOIRQv6BFVSe"
+      },
+      "artists": [
+        {
+          "name": "Malik Baptiste",
+          "url": "https://open.spotify.com/artist/3kOQ7t9MH5gt289CcfWZUW"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/2ZhOrhhlB7QAzNQsXEm6EZ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Reunion (25th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/0LKOlxflzwKoZerUQLtSmJ"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 209774,
-      "name": "Selling My Soul - Danny Saber Remix",
-      "url": "https://open.spotify.com/track/5soAf86M7IS91HacoojI9H"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "FYFTY (Super Deluxe)",
         "url": "https://open.spotify.com/album/5x2HAo3F8HL7sKyTL9h0EI"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Reunion (25th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/0LKOlxflzwKoZerUQLtSmJ"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 209774,
+      "name": "Selling My Soul - Danny Saber Remix",
+      "url": "https://open.spotify.com/track/5soAf86M7IS91HacoojI9H"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "NIGHTTIME",
         "url": "https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y"
       },
@@ -459,6 +459,26 @@
       "duration_ms": 147783,
       "name": "NIGHTTIME",
       "url": "https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Shadow Boxin' 2.0",
+        "url": "https://open.spotify.com/album/3VK20AvaDAbt9XYOBOEdAf"
+      },
+      "artists": [
+        {
+          "name": "Picanto the boy",
+          "url": "https://open.spotify.com/artist/6gSYK8reLZWaJK2PCfMkT0"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        }
+      ],
+      "duration_ms": 267337,
+      "name": "Shadow Boxin' 2.0",
+      "url": "https://open.spotify.com/track/0OMjDQ112ToLSSV7nCde4y"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -483,26 +503,6 @@
       "duration_ms": 209716,
       "name": "MOTHERLESS - Robert Glasper Rendition",
       "url": "https://open.spotify.com/track/1wefL4EqXv2WsHtjuAc1W7"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Shadow Boxin' 2.0",
-        "url": "https://open.spotify.com/album/3VK20AvaDAbt9XYOBOEdAf"
-      },
-      "artists": [
-        {
-          "name": "Picanto the boy",
-          "url": "https://open.spotify.com/artist/6gSYK8reLZWaJK2PCfMkT0"
-        },
-        {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
-        }
-      ],
-      "duration_ms": 267337,
-      "name": "Shadow Boxin' 2.0",
-      "url": "https://open.spotify.com/track/0OMjDQ112ToLSSV7nCde4y"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Who's That?",
-        "url": "https://open.spotify.com/album/2aq3ORkrQrbY34dFnQDKZH"
-      },
-      "artists": [
-        {
-          "name": "Attica Riots",
-          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
-        }
-      ],
-      "duration_ms": 251500,
-      "name": "Who's That?",
-      "url": "https://open.spotify.com/track/306sDtgbcHZJrz9fxTZD5U"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Tether",
         "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 214000,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Who's That?",
+        "url": "https://open.spotify.com/album/2aq3ORkrQrbY34dFnQDKZH"
+      },
+      "artists": [
+        {
+          "name": "Attica Riots",
+          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
+        }
+      ],
+      "duration_ms": 251500,
+      "name": "Who's That?",
+      "url": "https://open.spotify.com/track/306sDtgbcHZJrz9fxTZD5U"
     },
     {
       "added_at": "2023-10-20 04:00:00",

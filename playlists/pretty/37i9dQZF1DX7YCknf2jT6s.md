@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Terrace Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,623 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,792 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [The Good Life](https://open.spotify.com/track/7vCUJ7NPHoIVMGzmQLfoen) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [New Jawn](https://open.spotify.com/artist/0lpuuN7i6U5mUhMozlFncR) | [Prime](https://open.spotify.com/album/1vFLT0IUByItGLbFDb7NXJ) | 7:15 |
 | 100 | [Look To The Hills](https://open.spotify.com/track/6bfiCXTdEJBTskKdTfqzcj) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Kings Highway](https://open.spotify.com/album/6lenF7EOgaIQ9a1BQZRxac) | 4:20 |
 
-Snapshot ID: `MCwzZTE5MmU3MTY5NDMyNGRlODY2M2YwN2FhZmZkNjYwNmU1NTE4MWY4`
+Snapshot ID: `MCw0Y2FmOGQ1NTNmYmNmODZhZmQ3M2RhNzMwZjIwZGM3NWE3OTgyNzAw`

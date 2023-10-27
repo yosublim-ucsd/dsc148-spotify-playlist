@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,879 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,952 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 9 | [Saxofon](https://open.spotify.com/track/7srKZVPwjXOy1ukLyVtaAL) | [Gio Silva](https://open.spotify.com/artist/1AiJaYXwfdIDA97ytcuWkm) | [Saxofon](https://open.spotify.com/album/33u5LeinGWjWbGi690XPLm) | 4:37 |
 | 10 | [Albaricoque](https://open.spotify.com/track/03A3AxBaHQuDAGnpzVuzB8) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Albaricoque](https://open.spotify.com/album/7oCSkCrfXicf6yIF5M6Psi) | 3:30 |
 | 11 | [La Noche Es Tuya \(feat\. Gerardo Ortíz & América Sierra\)](https://open.spotify.com/track/73tHpsVzELtbluqT2D2YPD) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 3:01 |
-| 12 | [Noches de Soledad](https://open.spotify.com/track/7k9b2xkni9bFGYbywuD53y) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk) | [Noches de Soledad](https://open.spotify.com/album/0pzTO3npRc2nVqQCKaLB1M) | 3:38 |
+| 12 | [Celosa](https://open.spotify.com/track/1zZakVmfBR7AkepHwBCWZ7) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw) | [Los Reyes del Tribal](https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF) | 3:14 |
 | 13 | [El Pesero](https://open.spotify.com/track/05KHhBPrEYhSVnmrWfFXVk) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [El Pesero](https://open.spotify.com/album/1hA3LlcZ0EvtHfLoruHI2z) | 3:28 |
 | 14 | [Dame](https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd), [Aneth](https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7) | [Dame](https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ) | 2:36 |
 | 15 | [Tas pedita bb?](https://open.spotify.com/track/5jvYkMOu0IpNjGzH080zDI) | [AXHE](https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe) | [Tas pedita bb?](https://open.spotify.com/album/3NQgFbC1GTt3rZ2A0vzpvv) | 2:11 |
-| 16 | [Celosa](https://open.spotify.com/track/1zZakVmfBR7AkepHwBCWZ7) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw) | [Los Reyes del Tribal](https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF) | 3:14 |
+| 16 | [Noches de Soledad](https://open.spotify.com/track/7k9b2xkni9bFGYbywuD53y) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk) | [Noches de Soledad](https://open.spotify.com/album/0pzTO3npRc2nVqQCKaLB1M) | 3:38 |
 | 17 | [El Ritmo Fa](https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ) | [DJ kLazH](https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo), [Dj Kury](https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS) | [El Ritmo Fa](https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z) | 5:23 |
 | 18 | [La Trompeta Del Diablo](https://open.spotify.com/track/60cUW8whWzeVIONqISksOO) | [Jey Agredo](https://open.spotify.com/artist/6s6TzzI6MiyL8FzhiEXULY), [Guaracha Aleteo Vip](https://open.spotify.com/artist/4qDy1sm9QajMeYMFflFwUA) | [Aleteo VIP Golden Edition](https://open.spotify.com/album/3UocGQ73CV9X9dJ8mbI7pb) | 4:26 |
 | 19 | [Cuando](https://open.spotify.com/track/55YjhypCixxXshs5zrwT2A) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Cuando](https://open.spotify.com/album/4vjlN1DfaBvhVSGfmmNukt) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 49 | [Brindemos Por Ellas](https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Baby Joss](https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn) | [Brindemos Por Ellas](https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs) | 3:28 |
 | 50 | [Sheeqo, Get Loose](https://open.spotify.com/track/0kAQ4h2COEfGZCTu5KYOaK) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 3:04 |
 
-Snapshot ID: `MCwxODUyYzkwNDU2NjUxNGFlNmE0NGZiNjE3ODJjYWNkM2U2ZWVmZDM0`
+Snapshot ID: `MCw2NWQ4ZTI4MGVkM2I0ZjE4YzM3YmEzZTBiYjhhN2YyNjNkY2FjYjVl`

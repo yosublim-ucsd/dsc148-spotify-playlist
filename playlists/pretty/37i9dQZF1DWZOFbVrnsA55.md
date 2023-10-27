@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,897 likes - 270 songs - 4 day 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,927 likes - 270 songs - 4 day 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 | 269 | [Cascata di Malbacco](https://open.spotify.com/track/3sCaGhYUT0HytB06FG9M23) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Tuscany](https://open.spotify.com/album/3D4mnf0AU05ASyKnf0wEiq) | 18:08 |
 | 270 | [Knot of Spirit](https://open.spotify.com/track/16OWbcIekAVw9vEdiL93My) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Knot of Spirit](https://open.spotify.com/album/6OQQ3ImfeWkqIIRhMr4L5V) | 10:18 |
 
-Snapshot ID: `MCw4MjkwOWQ4M2NmYzY3M2EwMTBiY2RhZmNiMmMxOWMwMTIzY2M0MjBk`
+Snapshot ID: `MCw5YmM2ZWVjOTgzZGFlNDZlZmQ1OGM3OWMwNTY4NzIyMjJjODc4OWJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. BUDAYA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,867 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,881 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Para Ti](https://open.spotify.com/track/2B9fz9WW4XRg1ExCZnfuAI) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1), [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Para Ti](https://open.spotify.com/album/0F4Ex5ET5dBsPX2tAiYRvP) | 3:37 |
 | 50 | [Humo y Menta](https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u), [Charlie Desidney](https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu) | [Humo y Menta](https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ) | 3:03 |
 
-Snapshot ID: `MCw2MDEzNGNiNjIwZjM5Mzc4NjllMWYxYmE2OGY1OGJkM2RhNjJiMzBk`
+Snapshot ID: `MCw1MDk2ODcwYzhlYWRmYmQ5N2I1ZTQ1MmE0ZGY5MGNjMjNmNzNiNjBj`

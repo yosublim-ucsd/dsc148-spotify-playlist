@@ -4001,6 +4001,28 @@
     },
     {
       "album": {
+        "name": "Secrets Of The Dark",
+        "url": "https://open.spotify.com/album/32BDKqBR2U32ouopD2cZIP"
+      },
+      "artists": [
+        {
+          "name": "This Culture",
+          "url": "https://open.spotify.com/artist/6tCfruTJZuo3hKJHyfvBvr"
+        },
+        {
+          "name": "GURLI",
+          "url": "https://open.spotify.com/artist/3gGhgzj2JBJnEhnDdMJQHw"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253110,
+      "name": "Secrets Of The Dark",
+      "url": "https://open.spotify.com/track/6w5gCextRvG72Rkfpy95wf"
+    },
+    {
+      "album": {
         "name": "Set You Free",
         "url": "https://open.spotify.com/album/0xSwrfdhoiHGUi9JTV2Cq8"
       },
@@ -4064,6 +4086,32 @@
       "duration_ms": 194285,
       "name": "Shine",
       "url": "https://open.spotify.com/track/3UU5fQfVKlGBXaL4EVvdHr"
+    },
+    {
+      "album": {
+        "name": "Shot In The Dark",
+        "url": "https://open.spotify.com/album/7equroWORPg8TqJCFAM4so"
+      },
+      "artists": [
+        {
+          "name": "Castor & Pollux",
+          "url": "https://open.spotify.com/artist/6fHUILCpBvfSHB48AEciPG"
+        },
+        {
+          "name": "Over Easy",
+          "url": "https://open.spotify.com/artist/3T9HpHdBgLU9wcB1LUT0U9"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200639,
+      "name": "Shot In The Dark",
+      "url": "https://open.spotify.com/track/3guu1NVq5cglm8yzIbUqAp"
     },
     {
       "album": {

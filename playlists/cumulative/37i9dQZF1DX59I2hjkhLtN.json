@@ -2079,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "Cobras",
+        "url": "https://open.spotify.com/album/6mhOLb92W78LKNAj2q3Yl9"
+      },
+      "artists": [
+        {
+          "name": "Vinagre",
+          "url": "https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Cobras",
+      "url": "https://open.spotify.com/track/7DGsov6vo5L4KI2lG2X8Ls"
+    },
+    {
+      "album": {
         "name": "COBRAS & LAGARTOS",
         "url": "https://open.spotify.com/album/7BmveDTraVGfnbwm7aQotk"
       },
@@ -2280,6 +2298,28 @@
       "duration_ms": 203170,
       "name": "Contra-Tempo",
       "url": "https://open.spotify.com/track/64xoX1XYaE7kOzN39CpReE"
+    },
+    {
+      "album": {
+        "name": "Conversa",
+        "url": "https://open.spotify.com/album/0kzDIRBkdF5duVom5th8d9"
+      },
+      "artists": [
+        {
+          "name": "NUCHOSTAFF",
+          "url": "https://open.spotify.com/artist/3YW5jCp6zcG3iqf2Ez7Gjb"
+        },
+        {
+          "name": "MEGGY",
+          "url": "https://open.spotify.com/artist/0m73zM9yC3JpNhZzlX0LKd"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157974,
+      "name": "Conversa",
+      "url": "https://open.spotify.com/track/1T15viFQN6BbOXuiSOeF5Y"
     },
     {
       "album": {
@@ -4504,7 +4544,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 130539,
       "name": "GAZ",
       "url": "https://open.spotify.com/track/45yWKpK7Xt86QdjCTGDzJU"
@@ -6024,7 +6064,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 153600,
       "name": "Low Battery",
       "url": "https://open.spotify.com/track/1ifKnE1zRakLFvAZXhHip4"
@@ -6086,6 +6126,24 @@
       "duration_ms": 164776,
       "name": "M I A",
       "url": "https://open.spotify.com/track/1EGYWrS4XM2MFLDiZmnTHf"
+    },
+    {
+      "album": {
+        "name": "Life Of Sin PT.1",
+        "url": "https://open.spotify.com/album/53SuWLkxsv3aUR2XTgKyu8"
+      },
+      "artists": [
+        {
+          "name": "Hevvy x Fukk",
+          "url": "https://open.spotify.com/artist/4oKS5QR0v9JXTP3oG78WpJ"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203093,
+      "name": "M.O.B. (Money On Business)",
+      "url": "https://open.spotify.com/track/53yuU8UPysEDGITiqkaNtC"
     },
     {
       "album": {
@@ -6600,7 +6658,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 146591,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/0MV8lykHOTP1L0rluQwNqn"
@@ -7102,7 +7160,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 212020,
       "name": "Musa",
       "url": "https://open.spotify.com/track/5bNmKRaW9AISMPNeDoz0B3"
@@ -11747,6 +11805,24 @@
     },
     {
       "album": {
+        "name": "\u00daltima Vez",
+        "url": "https://open.spotify.com/album/6oXSTXb0fyTm2gMOOwbpBQ"
+      },
+      "artists": [
+        {
+          "name": "Blutab",
+          "url": "https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182756,
+      "name": "Ultima Vez",
+      "url": "https://open.spotify.com/track/75ensuXF7woa77truWNxpn"
+    },
+    {
+      "album": {
         "name": "Um Brinde",
         "url": "https://open.spotify.com/album/1WUXK28K3aakrN7VZPbc9F"
       },
@@ -12260,7 +12336,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 145294,
       "name": "VIP",
       "url": "https://open.spotify.com/track/6aDCLSrSOkvrYZKA25vEyy"
@@ -12746,6 +12822,24 @@
       "duration_ms": 163061,
       "name": "\u00c0s Vezes",
       "url": "https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5"
+    },
+    {
+      "album": {
+        "name": "COSM\u00d3POLIS (DELUXE)",
+        "url": "https://open.spotify.com/album/1cis4DEIlMzfPRvBgvjcEk"
+      },
+      "artists": [
+        {
+          "name": "dazed lex",
+          "url": "https://open.spotify.com/artist/3CEB5Fx5pNe5hlLxjEiwpi"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223923,
+      "name": "\u00e0svezes",
+      "url": "https://open.spotify.com/track/6rksF1VQtsfY2aMwxKQYOk"
     },
     {
       "album": {

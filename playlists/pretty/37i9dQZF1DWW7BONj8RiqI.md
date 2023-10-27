@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by DJ Puffy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,953 likes - 58 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,003 likes - 58 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 12 | [Give It to Ya](https://open.spotify.com/track/75jyBlvlVkSgjXiQDTWUeS) | [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [Give It to Ya](https://open.spotify.com/album/0iopXsva2XNBdBJgUcE5Vc) | 2:52 |
 | 13 | [Hello](https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm) | 3:18 |
 | 14 | [Jub Jub](https://open.spotify.com/track/5tGohHP8EDvVPMPWBs06hM) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Jub Jub](https://open.spotify.com/album/1A2fNybUwoHM6zkbUH2mTV) | 3:11 |
-| 15 | [Fast Wine](https://open.spotify.com/track/2RQ2CwHD5mJBox0Hc6HYRc) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Fast Wine](https://open.spotify.com/album/1mlDPzy4l8LhGVqNEiopIN) | 3:24 |
+| 15 | [Fast Wine](https://open.spotify.com/track/4NwVmwGWpiiPdJj3NCehe9) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Fast Wine](https://open.spotify.com/album/2htMNG5thjmStMpHtdE9iH) | 3:24 |
 | 16 | [Never Again](https://open.spotify.com/track/5RuFeFXb4fmGiNyxedd34J) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happy Daze Riddim](https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb) | 3:51 |
 | 17 | [Bless This Party](https://open.spotify.com/track/0LeRnJGx13yg3jm1h2LObA) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Happy Daze Riddim](https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb) | 3:50 |
 | 18 | [Engine Room](https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Engine Room](https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO) | 3:21 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 57 | [Headways](https://open.spotify.com/track/20DjK18TiILB3N61HUQKFc) | [Esron Y\. Spielberg](https://open.spotify.com/artist/119ijPNXC2y426lTSEVn6Q) | [Headways](https://open.spotify.com/album/0V1ynyrP0K0uzidRCqUXI4) | 3:19 |
 | 58 | [Zen Mode](https://open.spotify.com/track/60JbCdnGtjktguVEToZW6N) | [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Festival of Fire Riddim](https://open.spotify.com/album/6Qtqo6aIFAEUZI0fHVgINC) | 3:50 |
 
-Snapshot ID: `MCw2NjBmMzczZmI0ZWQ5ZWMyYWZhZjljN2YxMWFhYmQyNTZjMDU1ODMy`
+Snapshot ID: `MCwwZjgzODlhY2ZiOWRjNTBjMDI3ZWY3OWYzMzMxMjEwZjFhN2UxZDhh`

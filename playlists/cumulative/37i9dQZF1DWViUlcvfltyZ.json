@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia. Cover: Santa Chiara",
+  "description": "La playlist che \u00e8 come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia. Cover: Any Other",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -859,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Back in the loop",
+        "url": "https://open.spotify.com/album/6qtU0ESjKtzXKIJXABBN4C"
+      },
+      "artists": [
+        {
+          "name": "MILANOSPORT",
+          "url": "https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227381,
+      "name": "Back in the loop",
+      "url": "https://open.spotify.com/track/3INoRjtC6c0SZJaet3465R"
+    },
+    {
+      "album": {
         "name": "Back To Bangkok",
         "url": "https://open.spotify.com/album/17T80PkB923M3sQfkvkDQf"
       },
@@ -978,7 +996,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 268122,
       "name": "Before",
       "url": "https://open.spotify.com/track/1R0Q2qjI1YoViP4O3QDr31"
@@ -2153,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "Colorare/Ritagliare",
+        "url": "https://open.spotify.com/album/4BXbAi8pcEkXVMsDYmxvqP"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e0ra",
+          "url": "https://open.spotify.com/artist/2RJIwXtGg34ECvKxTzYuNF"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188562,
+      "name": "Colorare/Ritagliare",
+      "url": "https://open.spotify.com/track/3B6n3BN9oX79k3JxQeJMn7"
+    },
+    {
+      "album": {
         "name": "Colla",
         "url": "https://open.spotify.com/album/5D5w8JApLuc02WQR6nEUSj"
       },
@@ -2244,6 +2280,24 @@
       "duration_ms": 208863,
       "name": "Come se tu",
       "url": "https://open.spotify.com/track/1gm14I6ZhJt2nZBLVv1slR"
+    },
+    {
+      "album": {
+        "name": "Next Big Niente",
+        "url": "https://open.spotify.com/album/6ULcUBtkjDdSKQ9cDqYyc5"
+      },
+      "artists": [
+        {
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274186,
+      "name": "Come un raggio",
+      "url": "https://open.spotify.com/track/4KwDUgx7TcYyvZ6tZZR7bR"
     },
     {
       "album": {
@@ -2774,7 +2828,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 74990,
       "name": "Diritto Di Obbedire",
       "url": "https://open.spotify.com/track/5v2fyB3sLf7sB7CrLVqmnh"
@@ -3633,6 +3687,24 @@
     },
     {
       "album": {
+        "name": "Formica",
+        "url": "https://open.spotify.com/album/5MILxJcZxxra3LlyGVuikM"
+      },
+      "artists": [
+        {
+          "name": "JAGWARI",
+          "url": "https://open.spotify.com/artist/7lEA9nHCMpZmdjHjKaZFns"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193336,
+      "name": "Formica",
+      "url": "https://open.spotify.com/track/2r9FyfGwi4BfXyU7dlK61f"
+    },
+    {
+      "album": {
         "name": "RAGAZZAcd",
         "url": "https://open.spotify.com/album/5biGGXXcg1SwYrzq5aeH15"
       },
@@ -4450,7 +4522,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 220750,
       "name": "i wish i was here first",
       "url": "https://open.spotify.com/track/0gGC5ImVLnfwwaZIzh6ooe"
@@ -4826,7 +4898,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 215626,
       "name": "Insynthesi",
       "url": "https://open.spotify.com/track/5tJkH7zA6RcXzu0Bv0Lea7"
@@ -5487,6 +5559,24 @@
     },
     {
       "album": {
+        "name": "Nosferatu",
+        "url": "https://open.spotify.com/album/3HdBLDZHW8ghJ7dRfPjD7Z"
+      },
+      "artists": [
+        {
+          "name": "Earthset",
+          "url": "https://open.spotify.com/artist/27FihPbgJOaSdAyq9kgb9t"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129520,
+      "name": "Le prime luci dell'alba",
+      "url": "https://open.spotify.com/track/79AsLIfPHXgSWeQWzwdPkq"
+    },
+    {
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/3578E1xDOOkKh9mVWCHXAP"
       },
@@ -5868,7 +5958,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 271379,
       "name": "Mamma e pap\u00e0",
       "url": "https://open.spotify.com/track/0uCQY7Psi0dql2N0zAEiTl"
@@ -7068,7 +7158,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 199800,
       "name": "occhi",
       "url": "https://open.spotify.com/track/6iW9PegPcomJryqLj5nMOE"
@@ -7569,6 +7659,24 @@
     },
     {
       "album": {
+        "name": "Palo",
+        "url": "https://open.spotify.com/album/4r4hX5EBmbqE8TCJIK3y2P"
+      },
+      "artists": [
+        {
+          "name": "Brucher\u00f2 nei pascoli",
+          "url": "https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195186,
+      "name": "Piccoli fuochi",
+      "url": "https://open.spotify.com/track/3948BtXvNRZgyOB1saVXHf"
+    },
+    {
+      "album": {
         "name": "Walls Have Told Me",
         "url": "https://open.spotify.com/album/0Zz4Ce5RmKBTIT0Hg1EKq3"
       },
@@ -7840,7 +7948,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 183200,
       "name": "Prodotto tipico",
       "url": "https://open.spotify.com/track/1OwwiFx2Y3bYnA1k2RRsHx"
@@ -8169,6 +8277,24 @@
     },
     {
       "album": {
+        "name": "ROCK AND ROLL",
+        "url": "https://open.spotify.com/album/76AWqOYMJCCYC7s1eylgfm"
+      },
+      "artists": [
+        {
+          "name": "Bugo",
+          "url": "https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215384,
+      "name": "ROCK AND ROLL",
+      "url": "https://open.spotify.com/track/2yzrUpnqR8BD43EuTW9Rl4"
+    },
+    {
+      "album": {
         "name": "Ronaldo",
         "url": "https://open.spotify.com/album/5Qav1GCe2ZOKcobjrQvDDG"
       },
@@ -8346,7 +8472,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 146624,
       "name": "sanguino",
       "url": "https://open.spotify.com/track/4kQhL1adPsW5kKTORVdZA4"
@@ -8699,6 +8825,24 @@
     },
     {
       "album": {
+        "name": "Senza te",
+        "url": "https://open.spotify.com/album/2W3ozgLZa2fib6IpbeKHOd"
+      },
+      "artists": [
+        {
+          "name": "m0m0",
+          "url": "https://open.spotify.com/artist/4Zua3WcaeHvivfRH9zPcl6"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159817,
+      "name": "Senza te",
+      "url": "https://open.spotify.com/track/2oGdxKESOwgoRSKPuJtvdq"
+    },
+    {
+      "album": {
         "name": "Serenissima Malcontenta",
         "url": "https://open.spotify.com/album/3iv1zXS4ks9OsT3uwJPHnW"
       },
@@ -8898,6 +9042,24 @@
     {
       "album": {
         "name": "Sit Down for Dinner",
+        "url": "https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208468,
+      "name": "Sit Down for Dinner, Pt. 2",
+      "url": "https://open.spotify.com/track/2fSBTVIsJhUMm9EUbhXwMA"
+    },
+    {
+      "album": {
+        "name": "Sit Down for Dinner",
         "url": "https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS"
       },
       "artists": [
@@ -8908,7 +9070,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 208468,
       "name": "Sit Down for Dinner, Pt. 2",
       "url": "https://open.spotify.com/track/4J9b9lIW0SavuQIlcG8Sgs"

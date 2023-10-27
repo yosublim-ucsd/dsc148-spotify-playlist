@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-20",
-  "description": "East Africa queens in their music bag. Cover: Maya Amolo",
+  "description": "East Africa queens in their music bag. Cover: Xenia Manasseh",
   "name": "Malkia",
   "tracks": [
     {
@@ -812,7 +812,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 170458,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e"
@@ -2012,6 +2012,24 @@
       "duration_ms": 142000,
       "name": "Where (Has the Time Gone)",
       "url": "https://open.spotify.com/track/4CD3Mw4RUa5Igh70CWadbo"
+    },
+    {
+      "album": {
+        "name": "Wild Ride - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162313,
+      "name": "Wild Ride - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
     },
     {
       "album": {

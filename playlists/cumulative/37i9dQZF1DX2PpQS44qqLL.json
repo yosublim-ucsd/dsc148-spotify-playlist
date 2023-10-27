@@ -2550,7 +2550,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-19",
+      "date_removed": null,
       "duration_ms": 311275,
       "name": "Ese Hombre",
       "url": "https://open.spotify.com/track/3czyjbmJQbCQktSgcCec4v"
@@ -4690,7 +4690,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 232478,
       "name": "Ni Guerra, Ni Paz",
       "url": "https://open.spotify.com/track/4RiXckh45ncf3txjfaxwtJ"
@@ -6138,7 +6138,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 263400,
       "name": "Si\u00e9nteme, \u00c1mame, Qui\u00e9reme",
       "url": "https://open.spotify.com/track/25Jcf7afKWtd5FmnaTVGUt"
@@ -6812,6 +6812,24 @@
       "duration_ms": 208979,
       "name": "Tu Ausencia",
       "url": "https://open.spotify.com/track/5EiIpaWstz8Z2271NKeHJP"
+    },
+    {
+      "album": {
+        "name": "Porque Tengo Ganas",
+        "url": "https://open.spotify.com/album/3fQQCAontCpPuImtR4xI4b"
+      },
+      "artists": [
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194800,
+      "name": "Tu Dama De Hierro",
+      "url": "https://open.spotify.com/track/4djS8o4kW0kiETtvkLJN2F"
     },
     {
       "album": {

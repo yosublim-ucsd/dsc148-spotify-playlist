@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-297 songs - 11 hr 32 min
+299 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [HA! Santa!](https://open.spotify.com/track/45PRMPtQ163u47G79aqFbG) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/5zpL1adaFeRNPjgf6SkEei) | 3:00 | 2022-09-30 |  |
 | [Happy Christmas \(War is Over\)](https://open.spotify.com/track/2M35q1wTRD4r8flr66VdFR) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [Happy Christmas](https://open.spotify.com/album/5F1vyxWSEVBWLW8q8ClShQ) | 2:02 | 2022-11-11 |  |
 | [Happy New Year](https://open.spotify.com/track/6kDk8ovTjSwHmhmp2TlPew) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE) | [Christmas Blues](https://open.spotify.com/album/3eQcZ7iihN1QVapxDip2Uu) | 1:27 | 2021-12-20 |  |
+| [Hark! The Herald Angels Sing](https://open.spotify.com/track/0bgcp8ZKgJg2pqCwegbw1M) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU) | 2:40 | 2023-10-27 |  |
 | [Have A Holly Jolly Christmas](https://open.spotify.com/track/5R4WCVOXkIhzD4BR3wtOOb) | [Krissy Kringles](https://open.spotify.com/artist/1Y6ZFnVl6IKYZMn0wAkJfX) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/7IMfzOwRECfh7nRulPgNv5) | 2:09 | 2022-11-11 |  |
 | [Have Yourself a Cozy Christmas](https://open.spotify.com/track/4FHpuJMkrevo3UXWNZ3KfG) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Have Yourself a Cozy Christmas](https://open.spotify.com/album/1k3BRqUpJgNhhMk1pCPscf) | 3:18 | 2021-12-20 | 2023-10-20 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7nM2BaNa4Tc6X9nebfL7LM) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4tFoojI8AJytpZ9EhJ94Id) | 2:31 | 2022-12-05 | 2023-10-20 |
@@ -158,7 +159,7 @@
 | [latenite](https://open.spotify.com/track/4eaNEchs8ADEH5XfhJlk8K) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 1:58 | 2021-12-20 | 2023-09-29 |
 | [latenite](https://open.spotify.com/track/5vSUFyNKpv64p2oIrcHqb9) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/6WYT84o6iLdOkuYTU6858W) | 1:58 | 2021-12-20 | 2022-07-29 |
 | [Let It Snow](https://open.spotify.com/track/6E8zwx9pDjufnHaldsBRdl) | [Cruel Buddhist](https://open.spotify.com/artist/54lvPJJ966M1TPYz0ccBdX) | [A Lofi Christmas, Vol\. 2](https://open.spotify.com/album/0ZspmtfSbC2i4PTGtwZRMP) | 2:00 | 2021-12-20 | 2022-11-12 |
-| [Let It Snow](https://open.spotify.com/track/4YaxX57dvsrkscSHfcebsa) | [Mr Puffles](https://open.spotify.com/artist/27dSqyM2Oxc3Zb2PcCRDZT) | [Lofi Christmas](https://open.spotify.com/album/5Ti5wsHjVFVJRo5Zicrvy7) | 2:06 | 2022-12-09 |  |
+| [Let It Snow](https://open.spotify.com/track/4YaxX57dvsrkscSHfcebsa) | [Mr Puffles](https://open.spotify.com/artist/27dSqyM2Oxc3Zb2PcCRDZT) | [Lofi Christmas](https://open.spotify.com/album/5Ti5wsHjVFVJRo5Zicrvy7) | 2:06 | 2022-12-09 | 2023-10-27 |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/6EHw6eo7BwCiBDUro7YNdp) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Xmas Memories](https://open.spotify.com/album/0Lqo5TfHhxoQmyAPQr1N72) | 1:53 | 2022-11-11 |  |
 | [Light Me Up](https://open.spotify.com/track/4VbMTX1RlbKmZCAVt5hzm0) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [Light Me Up](https://open.spotify.com/album/1oun5kgXlgm2qsTDC14hV4) | 2:18 | 2022-12-09 |  |
 | [Like It's Christmas](https://open.spotify.com/track/2l8DGgpGq4PegU5Psy66dp) | [Rödälv](https://open.spotify.com/artist/02sAm2NhEZw7lM3hHzPG1l) | [Like It's Christmas](https://open.spotify.com/album/1ingkpJcDRAS6EcHiyFJyO) | 2:37 | 2022-11-11 |  |
@@ -201,6 +202,7 @@
 | [O Come, All Ye Faithful \(Lofi Version\)](https://open.spotify.com/track/6Uiguk2IuyNdcRPb3Ss8Ml) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [Xmas in \(\(stereo\)\)](https://open.spotify.com/album/2yp2d2MkvZKQkvfRSZy9Rt) | 3:13 | 2021-12-20 | 2022-11-12 |
 | [O Holy Night](https://open.spotify.com/track/6JKNmlDEVQbHuvKsTYA10h) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [O Holy Lofi Night](https://open.spotify.com/album/6hoTXAp62Za6ETt9zfKMMP) | 2:54 | 2021-12-20 | 2023-10-20 |
 | [O Holy Night](https://open.spotify.com/track/4TH6wPd9S023ujwtWoZewm) | [ZooKeepr](https://open.spotify.com/artist/07hMsm97BWS43F3TVTkl6W) | [O Holy Night](https://open.spotify.com/album/22NAyC8hQBFwzXsMz7OcsY) | 2:33 | 2023-09-04 |  |
+| [O Little Town Of Bethlehem](https://open.spotify.com/track/4JwbRapYxPE883XUslPwIS) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU) | 1:57 | 2023-10-27 |  |
 | [office christmas party](https://open.spotify.com/track/3SzhquDlNLS0LMj7ghULb1) | [Baby Bwoy](https://open.spotify.com/artist/7iEOzm5FQi6hdSe460hENE) | [office christmas party](https://open.spotify.com/album/0lbgCm7v5uEofQTDC3oXmW) | 2:24 | 2022-11-11 |  |
 | [oh! christmas! tree!](https://open.spotify.com/track/3zaGxvoz9D6tQAfrdhdicV) | [Santa BeatBeat](https://open.spotify.com/artist/50UV8GqkoBFiVVtxbO5UBX) | [Holiday Lofi](https://open.spotify.com/album/1CTK60QMHvpRHKjuNdGaIa) | 3:10 | 2022-11-11 |  |
 | [polar bear plunge](https://open.spotify.com/track/0SPN9jcNRZJqsxYOYffStJ) | [Kings Chair](https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac) | [Holiday Beats](https://open.spotify.com/album/7n1IZHrf5dqB8yxvegeUM4) | 2:05 | 2022-11-11 |  |

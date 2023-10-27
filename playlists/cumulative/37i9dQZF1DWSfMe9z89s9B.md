@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Q
 
-1,003 songs - 2 day 5 hr 47 min
+1,004 songs - 2 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,6 +502,7 @@
 | [Let Go](https://open.spotify.com/track/0505eVcf7DTvaXVbTN0L5Y) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Ready Is Always Too Late \(Deluxe\)](https://open.spotify.com/album/7KaTBMubEkwwczNjyLyEB0) | 2:52 | 2022-01-28 | 2022-07-16 |
 | [LET IT GROW](https://open.spotify.com/track/1xvQkUmsKZPjOEcjLc58PP) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [STOUT](https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ) | [DIAMONDS & FREAKS](https://open.spotify.com/album/6do2sjAIStoojPhTMV3ETT) | 3:36 | 2023-06-09 | 2023-07-26 |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-10 | 2023-06-03 |
+| [Let's Get It On](https://open.spotify.com/track/77AvnzAZtM0nXY1kYhQmiu) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Let's Get It On](https://open.spotify.com/album/0SIOOlb2yxgd3pQW1vYVhf) | 3:21 | 2023-10-20 |  |
 | [LET'S GET MARRIED](https://open.spotify.com/track/0XkQ23l4GT8sFHgeNRGAO4) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/2Uyia7M6Hv8XmhMSEbpfgm) | 3:44 | 2022-04-01 | 2022-04-13 |
 | [Light Me Up](https://open.spotify.com/track/0QQMJ3W0zNoHeak1NWnPDm) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Light Me Up](https://open.spotify.com/album/7dZicvXTzIqBHXYpeeeCn2) | 3:49 | 2022-04-01 | 2022-04-16 |
 | [Like a Habit](https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Like a Habit](https://open.spotify.com/album/7LQNO7K3yEVQttdrOVOko3) | 2:46 | 2023-08-11 |  |
@@ -569,7 +570,7 @@
 | [mine](https://open.spotify.com/track/11Alrz5mSQvQNt6VYtCh4t) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [soft thing](https://open.spotify.com/album/1iBeLmJBT417B8XHmIuctN) | 3:58 | 2021-06-25 | 2022-07-28 |
 | [Minotaur](https://open.spotify.com/track/0JPVY47L4Dwi0kjbVbEO6a) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Minotaur](https://open.spotify.com/album/7dHYk2N7AgCFh1eAfHpGlz) | 4:38 | 2022-04-01 | 2022-04-13 |
 | [MiSS BEHAVE](https://open.spotify.com/track/442BDy6jx8GcqKWZmjMaLg) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 2:53 | 2023-05-05 | 2023-06-10 |
-| [MiSS BEHAVE](https://open.spotify.com/track/5ShRfLOfpUdmDLGqLWrGKq) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/3eZdxMaUii7OAahX0hFcJU) | 2:53 | 2023-05-05 |  |
+| [MiSS BEHAVE](https://open.spotify.com/track/5ShRfLOfpUdmDLGqLWrGKq) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/3eZdxMaUii7OAahX0hFcJU) | 2:53 | 2023-05-05 | 2023-10-27 |
 | [Miss Summer](https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Miss Summer](https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco) | 2:42 | 2021-03-19 | 2022-07-30 |
 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 | 2021-03-19 | 2022-07-29 |
 | [Moderation](https://open.spotify.com/track/4wqBRSqEPrL4UjP00lZB1M) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Chekhov's Gun](https://open.spotify.com/album/5Ej0IOSmRQbb1o961TqMzG) | 2:03 | 2023-06-09 | 2023-10-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=QKXC5s4zQk-r0hpZqnAVjA\">HONEYMOAN</a> ",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl?si=AvqIY2gjRqyKhpfGBzZZRQ\">Tyler Page</a> ",
   "name": "SAlt",
   "tracks": [
     {
@@ -428,6 +428,24 @@
       "duration_ms": 202676,
       "name": "Amplified",
       "url": "https://open.spotify.com/track/7iAvEBj3p8VtXmMd68jdQx"
+    },
+    {
+      "album": {
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/0mBjxXRFxMDBbiYDJ5ON3g"
+      },
+      "artists": [
+        {
+          "name": "Steve Umculo",
+          "url": "https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296992,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/7ANSTOU6zS4oQf5Y69Y1yV"
     },
     {
       "album": {
@@ -1439,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Can't Stop the Leaves",
+        "url": "https://open.spotify.com/album/0KhcwN64V5kD0XDGOohKa9"
+      },
+      "artists": [
+        {
+          "name": "Daniel Gadd",
+          "url": "https://open.spotify.com/artist/7yjQG2WkOptNRfNKcZUUOJ"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154088,
+      "name": "Can't Stop the Leaves",
+      "url": "https://open.spotify.com/track/0XFrvXmBUuO35vVvxiGhig"
+    },
+    {
+      "album": {
         "name": "Cannonball",
         "url": "https://open.spotify.com/album/1hU5AwtzXvr19RnrHNOWfB"
       },
@@ -2048,6 +2084,24 @@
       "duration_ms": 266415,
       "name": "Desert in your eyes",
       "url": "https://open.spotify.com/track/6RYcaBTvCwmQLiruPbOHbL"
+    },
+    {
+      "album": {
+        "name": "Designated Observer",
+        "url": "https://open.spotify.com/album/30mj9sd9m8t3b66gIYrWYB"
+      },
+      "artists": [
+        {
+          "name": "Alexis Silvestra",
+          "url": "https://open.spotify.com/artist/6H199k00mZXpsUzJI6yKdu"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242421,
+      "name": "Designated Observer",
+      "url": "https://open.spotify.com/track/6rkUWq5E1hajNe137MnLlw"
     },
     {
       "album": {
@@ -4177,6 +4231,42 @@
     },
     {
       "album": {
+        "name": "Jaguar",
+        "url": "https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175923,
+      "name": "Jaguar",
+      "url": "https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy"
+    },
+    {
+      "album": {
+        "name": "JEALOUSY",
+        "url": "https://open.spotify.com/album/1MbVek8MpYBfm9zl1woBXu"
+      },
+      "artists": [
+        {
+          "name": "JUCINDA",
+          "url": "https://open.spotify.com/artist/70ZW0jioaMggqkfttoWkQo"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192787,
+      "name": "JEALOUSY",
+      "url": "https://open.spotify.com/track/5VdNSYWfAwlp4geQjXpmlg"
+    },
+    {
+      "album": {
         "name": "Jitterbug",
         "url": "https://open.spotify.com/album/455hS0gKWKpiAVMretDPgy"
       },
@@ -4354,6 +4444,32 @@
       "duration_ms": 271956,
       "name": "Key to the Comet",
       "url": "https://open.spotify.com/track/1lv5oeIB7rGsiL52Q24VxI"
+    },
+    {
+      "album": {
+        "name": "Kisses",
+        "url": "https://open.spotify.com/album/6Qy5s1FZIeWGCvqwXauhOj"
+      },
+      "artists": [
+        {
+          "name": "SKTLLZ",
+          "url": "https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5"
+        },
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        },
+        {
+          "name": "KVSE",
+          "url": "https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209782,
+      "name": "Kisses",
+      "url": "https://open.spotify.com/track/2uTOgEF8G1QHrRd85vIgyi"
     },
     {
       "album": {
@@ -5149,6 +5265,24 @@
     },
     {
       "album": {
+        "name": "Mine Of Myself",
+        "url": "https://open.spotify.com/album/1gZ6GbTfp1Cvuwp0tK00Xf"
+      },
+      "artists": [
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155327,
+      "name": "Mine Of Myself",
+      "url": "https://open.spotify.com/track/2qPH0TDd5bVnIaPA7yoV7t"
+    },
+    {
+      "album": {
         "name": "Monster Brain",
         "url": "https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h"
       },
@@ -5254,6 +5388,24 @@
       "duration_ms": 217090,
       "name": "My Best Friend Hates Me",
       "url": "https://open.spotify.com/track/3BAHkbnoHNQi4EkvbOWmbT"
+    },
+    {
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/0XawzyieTnvh4oY6cX9w3n"
+      },
+      "artists": [
+        {
+          "name": "Daniel Swan",
+          "url": "https://open.spotify.com/artist/2MTzEuYjVaguQ1Jc9bXEnv"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291400,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/0RzWnHJmLxw1rYA9vch1o5"
     },
     {
       "album": {
@@ -5402,6 +5554,24 @@
       "duration_ms": 144000,
       "name": "Nice Guy",
       "url": "https://open.spotify.com/track/1D84s1Wi9wDnyiLTrn174x"
+    },
+    {
+      "album": {
+        "name": "A Stone in the Mouth of the Ocean",
+        "url": "https://open.spotify.com/album/3OhGXVRBTDW2omR3hj2gP0"
+      },
+      "artists": [
+        {
+          "name": "Luke Beling",
+          "url": "https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225853,
+      "name": "Nightbirds",
+      "url": "https://open.spotify.com/track/1lTS4fQzd2niFLbQiyRoNy"
     },
     {
       "album": {
@@ -5977,6 +6147,24 @@
     },
     {
       "album": {
+        "name": "Oversized Jersey",
+        "url": "https://open.spotify.com/album/0c9kkxZBN8KLG5ufiwJJZ6"
+      },
+      "artists": [
+        {
+          "name": "Jacob Swann",
+          "url": "https://open.spotify.com/artist/3b8ExEnWwnymMCMM3vcHbe"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192564,
+      "name": "Oversized Jersey",
+      "url": "https://open.spotify.com/track/3tZDaJWJwkUbEM8YaonrYS"
+    },
+    {
+      "album": {
         "name": "Distopia",
         "url": "https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9"
       },
@@ -6270,6 +6458,24 @@
       "duration_ms": 263244,
       "name": "Psych Thrills",
       "url": "https://open.spotify.com/track/2Z2EmJ8dW0lyERmOtL2U15"
+    },
+    {
+      "album": {
+        "name": "Psychoheart",
+        "url": "https://open.spotify.com/album/0llxbNb1hB1ky2nOy8CrxE"
+      },
+      "artists": [
+        {
+          "name": "Tyler Page",
+          "url": "https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Psychoheart",
+      "url": "https://open.spotify.com/track/1rZKQh1xYiEHdUJ90FWLsj"
     },
     {
       "album": {
@@ -7012,7 +7218,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 174323,
       "name": "Show You Off",
       "url": "https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc"
@@ -7418,6 +7624,24 @@
       "duration_ms": 126005,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/2BgpHPF021lgW7igZGGCVa"
+    },
+    {
+      "album": {
+        "name": "I Can't Hide Me Anymore",
+        "url": "https://open.spotify.com/album/2pJQo4qVjG6mve8LNkFdv9"
+      },
+      "artists": [
+        {
+          "name": "Eln\u00e9",
+          "url": "https://open.spotify.com/artist/1Eio90q1NlMKd7aOSk2IuN"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207103,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/4JTtMnkEaOaqzjSMt7PMj0"
     },
     {
       "album": {
@@ -9176,7 +9400,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 103021,
       "name": "Wildfire Love",
       "url": "https://open.spotify.com/track/2Z9r1F0qUif5yjEHq01X60"

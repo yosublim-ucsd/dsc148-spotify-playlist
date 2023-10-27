@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap dá o play e aumenta! Foto: Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,277,627 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,278,222 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 19 | [Namora & Disfarça \- Bonus Track](https://open.spotify.com/track/3qm36Zh1qGQC2PHDQNdify) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Namora & Disfarça \(Bonus Track\)](https://open.spotify.com/album/3pGBkEvbU4alqs6dzJXeAS) | 1:42 |
 | 20 | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB) | 3:41 |
 | 21 | [Tag Heuer](https://open.spotify.com/track/0ZPgczrExiZzzzRKbZ9xCL) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Tag Heuer](https://open.spotify.com/album/09EkyeFUQaZD0sHpAHONBw) | 2:35 |
-| 22 | [Desfile na Favela](https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [O Cenário Certo para o Teatro Perfeito](https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D) | 2:40 |
+| 22 | [Desfile na Favela](https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [O Cenário Certo para o Teatro Perfeito](https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D) | 2:40 |
 | 23 | [Não Me Para](https://open.spotify.com/track/6yFMentQMLOkh24pjQJgsQ) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:29 |
 | 24 | [Fala na Cara](https://open.spotify.com/track/0OBv4CEP5FKS19ZQGHAUM6) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Fala na Cara](https://open.spotify.com/album/7lJy7mlkpSW21llZgg96bb) | 2:51 |
 | 25 | [Alma](https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Alma](https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Dialogo](https://open.spotify.com/track/5T9QnISeG2Q6Ysu9HbaAzS) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [D Santana](https://open.spotify.com/artist/6jTAbPlEnP8A2CG5LX3q2m), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Meu Amigo Diário, Vol\. 1 \- M.A.D](https://open.spotify.com/album/681qRc7HzASc5cALLkOFLO) | 2:21 |
 | 50 | [Vandame](https://open.spotify.com/track/33pxk7eQUhrZI2tiuMd4zZ) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 2:39 |
 
-Snapshot ID: `MCxlOGI4Yzc1MzQ5ZTc5NjE5NmYzODc0YmU0NTdiZDVmMjgyZmI0ZjI2`
+Snapshot ID: `MCwyMmJhZWRmOThhMTg5MGZiNTcyZTc5NzU3NjFmNjMyZTUxYTVjY2Q0`

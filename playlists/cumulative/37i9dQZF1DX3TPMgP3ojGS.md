@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,764 songs - 3 day 7 hr 1 min
+1,766 songs - 3 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,7 +493,7 @@
 | [Falcon](https://open.spotify.com/track/1CY3VyyTLeV7EZ6tb12EH9) | [Eva Maier](https://open.spotify.com/artist/4ygKkX4yx94isjVQS1yN9F) | [Blossom](https://open.spotify.com/album/5WQBpB8H3RB6Bi4uMDJjXY) | 2:57 | 2021-04-29 | 2022-07-19 |
 | [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 | 2023-10-10 |  |
 | [Fall In Grace](https://open.spotify.com/track/7vMeKpR5hUoPo8nylUFO5x) | [Chris DiGiorgio](https://open.spotify.com/artist/2TzK3jTz6ETUS8ElO97lHl) | [Resting Grounds](https://open.spotify.com/album/6a1blpOosJ5ta9nG9eZSX5) | 2:24 | 2022-03-29 | 2022-04-17 |
-| [Fallen Flowers](https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Fallen Flowers](https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7) | 3:09 | 2023-05-30 |  |
+| [Fallen Flowers](https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Fallen Flowers](https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7) | 3:09 | 2023-05-30 | 2023-10-27 |
 | [Falling too Far](https://open.spotify.com/track/5zTaFDGie4WZuJJrcD8BAj) | [Mellancolia](https://open.spotify.com/artist/0oEmWaKRpbaruvfKqucRAn) | [Falling too Far](https://open.spotify.com/album/605kqnu51nCMHGckauKbW5) | 3:20 | 2022-04-14 | 2022-04-18 |
 | [Far and Beyond](https://open.spotify.com/track/3tbVwFLSct63LhbI2mU50s) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Charles Bolt](https://open.spotify.com/album/3j0aL8TLtJ43y0Yd2gGz7O) | 3:17 | 2021-03-17 | 2022-04-21 |
 | [Farewell Armin](https://open.spotify.com/track/5Qt3AhVCUnnLb7kWP6qpXA) | [Pollyanna Maxim](https://open.spotify.com/artist/3vHwVeWJTd3gz5kwysaA5R) | [Nunnally](https://open.spotify.com/album/2vcb7bBqiAO6V88Y2OsCJb) | 3:13 | 2021-03-21 | 2022-07-29 |
@@ -538,6 +538,7 @@
 | [Follow The Wind](https://open.spotify.com/track/5TsrzBIJvEJXoujkVVY6be) | [Jett Ingram](https://open.spotify.com/artist/1OsM3C8DqfNYJc0PXD0Pyv) | [Follow The Wind](https://open.spotify.com/album/00szFnztAJMvCFQI4xN0pe) | 2:24 | 2021-10-10 | 2021-10-11 |
 | [Following a Bark Boat](https://open.spotify.com/track/45p8aONeFVLbkK10UmVxEy) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Flirting at the Masquerade](https://open.spotify.com/album/3ZswBFfSj9IiHpwqPFwyaB) | 3:00 | 2021-03-21 | 2021-12-21 |
 | [Footsteps](https://open.spotify.com/track/4Tp7GqV0ZwPllg07HH25Sv) | [Léonie Deval](https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni) | [Footsteps](https://open.spotify.com/album/0rAXCqSN1YuNvVeLQcLjcH) | 2:36 | 2021-04-26 | 2022-04-05 |
+| [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 | 2023-10-26 |  |
 | [For a While](https://open.spotify.com/track/2DEvpe8l6pxp7izgwcxMiu) | [Maya Wilkes](https://open.spotify.com/artist/1swCRrKnEzyg4wMnKdXjC0) | [For a While](https://open.spotify.com/album/1loTmfeF7wNVfJ7p9VVISu) | 2:15 | 2021-05-19 | 2022-04-21 |
 | [For Ruby](https://open.spotify.com/track/2LEDOIkhBTy39iu4OPE1Qk) | [Dominic Walton](https://open.spotify.com/artist/5yYhE8v7LRvK1dIBCbS4JA) | [The Loop](https://open.spotify.com/album/1RyGxuY2zYWsCtyQ5MATra) | 2:47 | 2021-04-06 | 2022-07-28 |
 | [For Steven](https://open.spotify.com/track/2QE5ILN9NGMWqhIl6P7CJN) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Solipsism](https://open.spotify.com/album/2Q31SUhxKncUHKEZIPjJVn) | 4:44 | 2021-03-20 | 2021-12-21 |
@@ -579,6 +580,7 @@
 | [Frosty The Snowman](https://open.spotify.com/track/5XB4pCmfsspHUDOSTck6tM) | [Clark Anthony](https://open.spotify.com/artist/4LmgGaZAPNgnIWDtwaWMck) | [My Christmas](https://open.spotify.com/album/1tSOQefweVeEW65XKip9X0) | 2:55 | 2021-04-27 | 2022-04-18 |
 | [Früh](https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Früh](https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL) | 2:07 | 2022-07-27 | 2022-08-14 |
 | [Fugetsu](https://open.spotify.com/track/5289GXfRrGAs7fAwiVkqzT) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Fugetsu](https://open.spotify.com/album/3E8NTg2mavhnFMmCiSheBM) | 3:02 | 2022-01-06 | 2022-07-28 |
+| [Full Bloom](https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Full Bloom](https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT) | 2:22 | 2023-10-26 |  |
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2022-03-29 | 2022-04-11 |
 | [Garden Of Eternal Spring](https://open.spotify.com/track/5VAhEON7tTQV76naIyIVXF) | [Evelyn Haidu](https://open.spotify.com/artist/0KLuY1vs0XOszyBK0zwAq0) | [Garden of Eternal Spring](https://open.spotify.com/album/15zG56ZwGXAjLPktRRTfzb) | 3:39 | 2021-03-23 | 2022-07-27 |
 | [Gaze](https://open.spotify.com/track/2XeZi7qwChzLOt32tsoPXV) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [Gaze](https://open.spotify.com/album/3EP4Mrb7MevuHiA2btSpNC) | 2:40 | 2021-03-15 | 2021-03-16 |
@@ -1604,7 +1606,7 @@
 | [Trollvisa](https://open.spotify.com/track/2J1DCLI9tTmxTHQD5gehF5) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Trollvisa](https://open.spotify.com/album/6EH18KiMdEXcQ2jZkwC043) | 2:56 | 2021-03-21 | 2021-04-26 |
 | [Truly Yours](https://open.spotify.com/track/0G1cg2Ezj39U7GI5K0A7ia) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [Truly Yours](https://open.spotify.com/album/67h6iAyVDbAr0baVzyAAG7) | 3:05 | 2021-03-20 | 2021-05-28 |
 | [Truss](https://open.spotify.com/track/1GuA6RiXT3Pwc7Qyuty0pe) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Imvula/Truss](https://open.spotify.com/album/2PgSIpWxAyvrkIw0zhg59c) | 1:56 | 2022-03-29 | 2022-04-04 |
-| [Trust](https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Trust](https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv) | 2:23 | 2022-07-08 |  |
+| [Trust](https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Trust](https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv) | 2:23 | 2022-07-08 | 2023-10-27 |
 | [Truthful](https://open.spotify.com/track/6OQcOlYGnrH4HeiyjvyCOo) | [Cassandra Millen](https://open.spotify.com/artist/1UMCj1ixpKQ4Bg9VWsqQel) | [Truthful](https://open.spotify.com/album/0H5pipOYLuUxNK3GYcPMNx) | 2:07 | 2021-03-22 | 2022-04-17 |
 | [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 | 2021-11-13 |  |
 | [Tsundere](https://open.spotify.com/track/053XLQrUhxw9z3jSNZ8eS9) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Tsundere](https://open.spotify.com/album/2fOHmTIhnX8Hoe4rnrEjhi) | 2:11 | 2022-03-29 | 2022-06-06 |

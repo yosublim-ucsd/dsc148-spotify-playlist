@@ -1,12 +1,12 @@
 {
   "description": "Artistas independientes emergentes, cada mi\u00e9rcoles. Foto: CRISTALINO.",
-  "num_followers": 10150,
+  "num_followers": 10172,
   "original_name": "Fresh Finds Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGMwNmM3ODFiYzg2NzU5ZTEzNGU2NjFhNWYwMDI1YjY4MDY1NzQ5",
+  "snapshot_id": "MCw5YWM4Njg0ZjJkZDRjZGNlYzJjMGIzMGI5Y2ZjYzg4NTMxNDZiNDFk",
   "tracks": [
     {
       "added_at": "2023-10-24 21:59:00",
@@ -419,17 +419,21 @@
     {
       "added_at": "2023-10-24 21:59:00",
       "album": {
-        "name": "KAYKO",
+        "name": "KAYKO (Santiago Rey Remix)",
         "url": "https://open.spotify.com/album/7q3gwuRoYIOWyNzpqHZFp2"
       },
       "artists": [
         {
           "name": "Ana Ruiz",
           "url": "https://open.spotify.com/artist/54ZoJKNSqlR07LKYPixZxu"
+        },
+        {
+          "name": "Santiago Rey",
+          "url": "https://open.spotify.com/artist/3KOg62Nw63sN1i9wZUu5tU"
         }
       ],
       "duration_ms": 174556,
-      "name": "KAYKO",
+      "name": "KAYKO - Santiago Rey Remix",
       "url": "https://open.spotify.com/track/4zpUNT7lldFahM8tuw2Mv2"
     },
     {

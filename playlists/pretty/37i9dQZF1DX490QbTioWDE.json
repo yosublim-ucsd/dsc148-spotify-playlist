@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno, Big One & Rusherking.",
-  "num_followers": 643105,
+  "num_followers": 643531,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmE5ZGI3ZWQwMzcyNzYzOWQ1MTVlYmQxYWRhNGUzMTdjYjA5M2Ey",
+  "snapshot_id": "MCw3Zjg3NTUxYWJlZmIzZGU2MGRlODRjZDhmOTdmNzEyMGYyODlkNGU3",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Triste Canci\u00f3n de Amor / Lo Que Me Duele",
-        "url": "https://open.spotify.com/album/5eKO50JWT0nlxZnCjU6yF6"
+        "name": "Con Toda la Fuerza",
+        "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
       },
       "artists": [
         {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
         }
       ],
-      "duration_ms": 113700,
-      "name": "Triste Canci\u00f3n de Amor",
-      "url": "https://open.spotify.com/track/1VB9mgCv8xb4KvtBjLp994"
+      "duration_ms": 187220,
+      "name": "Ma\u00f1ana sin vos",
+      "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Con Toda la Fuerza",
-        "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
+        "name": "Triste Canci\u00f3n de Amor / Lo Que Me Duele",
+        "url": "https://open.spotify.com/album/5eKO50JWT0nlxZnCjU6yF6"
       },
       "artists": [
         {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
         }
       ],
-      "duration_ms": 187220,
-      "name": "Ma\u00f1ana sin vos",
-      "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
+      "duration_ms": 113700,
+      "name": "Triste Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/1VB9mgCv8xb4KvtBjLp994"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Eran dos locos de amor",
-        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes del Cuarteto",
-          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
-        }
-      ],
-      "duration_ms": 169496,
-      "name": "Eran dos locos de amor",
-      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Me Duele Tu Nombre",
         "url": "https://open.spotify.com/album/3JPCEgj42U1a2DrCUkywMY"
       },
@@ -1667,6 +1651,38 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Espectacular Monada",
+        "url": "https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Dame un Poco Mas",
+      "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Eran dos locos de amor",
+        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes del Cuarteto",
+          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
+        }
+      ],
+      "duration_ms": 169496,
+      "name": "Eran dos locos de amor",
+      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Ferxxo 100",
         "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 169589,
       "name": "Ferxxo 100",
       "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Chachach\u00e1",
-        "url": "https://open.spotify.com/album/2V0O7HPYdlxCdEr4m7AZ3e"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 232269,
-      "name": "Chachach\u00e1",
-      "url": "https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Chachach\u00e1",
+        "url": "https://open.spotify.com/album/2V0O7HPYdlxCdEr4m7AZ3e"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "duration_ms": 232269,
+      "name": "Chachach\u00e1",
+      "url": "https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Esta de Moda",
         "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 348876,
       "name": "Si Pudiera Tenerte - Camina y Ven",
       "url": "https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Espectacular Monada",
-        "url": "https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Dame un Poco Mas",
-      "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
     },
     {
       "added_at": "2023-10-20 03:00:00",

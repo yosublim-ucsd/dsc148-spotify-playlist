@@ -2075,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "Poly Pointillism",
+        "url": "https://open.spotify.com/album/7zmMRLwzf3PPnzEBWI2cLi"
+      },
+      "artists": [
+        {
+          "name": "Chants",
+          "url": "https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130416,
+      "name": "Shimmer and Glimmer",
+      "url": "https://open.spotify.com/track/4w7JDDgv13YI0ZiIwplRSy"
+    },
+    {
+      "album": {
         "name": "Elaenia",
         "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
       },
@@ -2584,7 +2602,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 339480,
       "name": "Together",
       "url": "https://open.spotify.com/track/2u7rfC0PO6XdUBIjS1giEB"

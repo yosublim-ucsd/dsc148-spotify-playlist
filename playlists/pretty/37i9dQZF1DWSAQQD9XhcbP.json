@@ -1,12 +1,12 @@
 {
   "description": "Cozy Christmas vibes. Cover: Norah Jones",
-  "num_followers": 32397,
+  "num_followers": 32427,
   "original_name": "Mellow Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDJhYTlkZDA2MGUyYTNmYjg2YjY5ZWVmZTZhOGUzNWFmZjAxMzZi",
+  "snapshot_id": "MCw2YzIxNjIyMmNmZTUyZjUwMWFhZGY5NGY0Mjg1NzRkMmY4NjE3ODBk",
   "tracks": [
     {
       "added_at": "2022-12-05 16:09:50",
@@ -1375,10 +1375,14 @@
     {
       "added_at": "2022-12-05 16:09:50",
       "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/6HyoKXjrQ2gPomfPd5kq1s"
+        "name": "Christmas Mistletunes",
+        "url": "https://open.spotify.com/album/7hxw2kfP8PliEPbKzaDvoG"
       },
       "artists": [
+        {
+          "name": "The Holiday Place",
+          "url": "https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4"
+        },
         {
           "name": "SYML",
           "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
@@ -1386,7 +1390,7 @@
       ],
       "duration_ms": 197890,
       "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/5b7NpZvS8ueO0B3KNtB0d8"
+      "url": "https://open.spotify.com/track/4KVGhE7rSozVpd6thV94c7"
     },
     {
       "added_at": "2022-12-05 16:09:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 
 > The birth of the blues, as it happened...
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,353 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,381 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 | 40 | [Canned Heat Blues](https://open.spotify.com/track/1Uk2MppskA0wnHUj8JwYfC) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 3:39 |
 | 41 | [When the Levee Breaks \- Alternate Take](https://open.spotify.com/track/45TOuASHdVywkYXVd6CnEl) | [Memphis Minnie](https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC) | [Presenting Memphis Minnie](https://open.spotify.com/album/3dEooHBk6cpxW98yT25Z3T) | 3:09 |
 | 42 | [Good Morning Little Schoolgirl](https://open.spotify.com/track/2LtpyfWWnr5V96l3Js7LLX) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Good Morning Little School Girl](https://open.spotify.com/album/3yYBnIVUvJrM6a0z8HNHOl) | 3:21 |
-| 43 | [Match Box Blues \(Alternate Take 3\)](https://open.spotify.com/track/5i1OyZAOU0ewFLc7txMuTq) | [Blind Lemon Jefferson](https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe) | [Presenting Blind Lemon Jefferson](https://open.spotify.com/album/4Zts8YPK9tFsccSTxf7xMe) | 2:55 |
+| 43 | [Match Box Blues](https://open.spotify.com/track/1c676ThK6tHWNmCZw4yWGN) | [Blind Lemon Jefferson](https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe) | [Presenting Blind Lemon Jefferson](https://open.spotify.com/album/4Zts8YPK9tFsccSTxf7xMe) | 3:03 |
 | 44 | [You Missed a Good Man](https://open.spotify.com/track/5MZk7SARZdDuOMSQgBAzmc) | [Tampa Red](https://open.spotify.com/artist/0XFbUk3QnKwp0vl9sIQtIg) | [Presenting Tampa Red](https://open.spotify.com/album/0rkgubKMe8PInoXKK5NWcU) | 3:34 |
 | 45 | [Saturday Blues](https://open.spotify.com/track/46BA5xsc2MFgFef2wgT8G2) | [Ishman Bracey](https://open.spotify.com/artist/6jAZ0Vg8P52hUomLqMPXcS) | [Suitcase Full of Blues 1928\-1929](https://open.spotify.com/album/2oBd93fHMsEh2eA3ovOIJ5) | 3:29 |
 | 46 | [Rock Daniel \(VD129\)](https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister Rosetta Tharpe Vol\. 2 1942\-1944](https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 | 49 | [A Spoonful Blues](https://open.spotify.com/track/51pOZACVv195eLRsIRVEx6) | [Charley Patton](https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw) | [The Complete Recordings 1929\-34, Vol\. 1](https://open.spotify.com/album/3FNisSG0Qa7d1sbnRDNIob) | 3:10 |
 | 50 | [Double Trouble](https://open.spotify.com/track/4eglzfnT6Z8XiJnJuXtDqF) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Spotlights the Blues Volume 2](https://open.spotify.com/album/7ay3aj05yhwcdS6GIAWcnE) | 3:30 |
 
-Snapshot ID: `MCwzNzYyNDQ3MjkwYTE4M2UyNjU4OWJmNTIzYmU4YTdlNzc1ZWU5MGFi`
+Snapshot ID: `MCwwODM0NWIxODk1MjQ5OGU0OTBmODRhMmY0ZGMwNGMzMmQ0ODQwMWQ3`

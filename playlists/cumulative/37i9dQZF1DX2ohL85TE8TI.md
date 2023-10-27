@@ -2,7 +2,7 @@
 
 ### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: BALLERINA\(발레리나\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 순정복서\)
+> Hot & new K\-Drama OSTs are here! \(Cover: The Escape of the Seven\(7인의 탈출\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 순정복서\)
 
 735 songs - 1 day 20 hr 32 min
 

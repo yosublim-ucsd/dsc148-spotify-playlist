@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 243025,
       "name": "Ganesha Pancharatnam",
       "url": "https://open.spotify.com/track/7c8xzpPAMGus1cM6lV4u5H"
@@ -871,6 +871,24 @@
     },
     {
       "album": {
+        "name": "Nava Durga Gayatri Mantra Jaap",
+        "url": "https://open.spotify.com/album/04ncbuy6fvxvXV3TByqsbg"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1058218,
+      "name": "Nava Durga Gayatri Mantra Jaap",
+      "url": "https://open.spotify.com/track/2UozhIAXupkXrfpnOSG8zT"
+    },
+    {
+      "album": {
         "name": "Navkar Mantra",
         "url": "https://open.spotify.com/album/5SxS1qHZUBNPN2rVVAeErq"
       },
@@ -1114,7 +1132,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 123853,
       "name": "Om Sahana Vavatu (Shanti Mantra)",
       "url": "https://open.spotify.com/track/0qMsQ5dt3QUgA0iJiNCT5r"
@@ -1596,6 +1614,48 @@
       "duration_ms": 388653,
       "name": "Shree Ganapati Atharvashirsha",
       "url": "https://open.spotify.com/track/28PQnEmoE39ZfjgQqttPDR"
+    },
+    {
+      "album": {
+        "name": "Shri Ram Jai Ram (21 Chant)",
+        "url": "https://open.spotify.com/album/74xEYLqBS3lUUoWRy5MJcn"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Amit Bhavsar",
+          "url": "https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2"
+        },
+        {
+          "name": "Nishant Upadhyay",
+          "url": "https://open.spotify.com/artist/6X5A6Nc7hVXf7V88rG7OpB"
+        },
+        {
+          "name": "Vivek Nayi",
+          "url": "https://open.spotify.com/artist/5NmAnk2izH1vPZyUfTUqcR"
+        },
+        {
+          "name": "Margiv Trivedi",
+          "url": "https://open.spotify.com/artist/3tu0DiS7GT1F7k8G3Ktltm"
+        },
+        {
+          "name": "Isha Nair",
+          "url": "https://open.spotify.com/artist/1nLpmgdc1clXUHhNj2C3hG"
+        },
+        {
+          "name": "Deepaali Vyas",
+          "url": "https://open.spotify.com/artist/5aLZJEZZgTBVB9UBiBZ6g2"
+        },
+        {
+          "name": "Bansari Maisuriya",
+          "url": "https://open.spotify.com/artist/6p93w7A249t5ZWqohyXEMl"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 807662,
+      "name": "Shri Ram Jai Ram (21 Chant)",
+      "url": "https://open.spotify.com/track/3k4uDqn0ll7m65127JfsD6"
     },
     {
       "album": {

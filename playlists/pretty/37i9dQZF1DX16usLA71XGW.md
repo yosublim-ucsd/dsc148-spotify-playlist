@@ -2,33 +2,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 ### [Malkia](https://open.spotify.com/playlist/37i9dQZF1DX16usLA71XGW)
 
-> East Africa queens in their music bag\. Cover: Maya Amolo
+> East Africa queens in their music bag\. Cover: Xenia Manasseh
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,989 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,001 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Milele](https://open.spotify.com/track/0GRikCkCDjo6KZflphU4J6) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Milele](https://open.spotify.com/album/19bugQdphaPV2owzpESgWb) | 3:37 |
-| 2 | [Wildin'](https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali \(Sweeter\)](https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R) | 3:01 |
-| 3 | [Inawezekana](https://open.spotify.com/track/5LFqAvooQPm0XFZ63WawzM) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Inawezekana](https://open.spotify.com/album/3335lkgj003Ei3L0JFAtZQ) | 4:14 |
-| 4 | [Utaniua](https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Utaniua](https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb) | 3:36 |
-| 5 | [Yamenizidi](https://open.spotify.com/track/52Hrsu0VFAePA3n2iBJMTF) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Yamenizidi](https://open.spotify.com/album/0zYMkOpb7gzgoNzWyZ0yxq) | 3:35 |
+| 2 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 |
+| 3 | [Wildin'](https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali \(Sweeter\)](https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R) | 3:01 |
+| 4 | [Inawezekana](https://open.spotify.com/track/5LFqAvooQPm0XFZ63WawzM) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Inawezekana](https://open.spotify.com/album/3335lkgj003Ei3L0JFAtZQ) | 4:14 |
+| 5 | [Utaniua](https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Utaniua](https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb) | 3:36 |
 | 6 | [Fire](https://open.spotify.com/track/3ZCtiMBm8r1L4V5lwMOa2l) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Fire](https://open.spotify.com/album/7lAxGA7kdSK6cl3XcVVLpZ) | 3:22 |
-| 7 | [Omwenge](https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Omwenge](https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT) | 3:45 |
-| 8 | [OTD](https://open.spotify.com/track/3iuObMBlVzxmJaym2oAXrd) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [OTD](https://open.spotify.com/album/5dnPXb293B0hQDZoXGPsBh) | 2:27 |
-| 9 | [Touching on My Baby](https://open.spotify.com/track/4TQqtk6JQD6pYBOhiIrNwd) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [Touching on My Baby](https://open.spotify.com/album/72AlrzsvuiyydOXwe09foV) | 2:35 |
-| 10 | [Southwards](https://open.spotify.com/track/0ufIj2swMeqQksU75dVSUJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:24 |
-| 11 | [EN3RGY](https://open.spotify.com/track/7s1cUqddTHFRmL66cuyAlh) | [Polaris](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA), [Mayonde](https://open.spotify.com/artist/3oqMNz2Z6IrQXes2MEA6sr), [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB), [HSKE](https://open.spotify.com/artist/0GHHtw39P3sS8MqYuuR4j8) | [EN3RGY](https://open.spotify.com/album/5RFMuaMkPzV7kpfvGAgjF6) | 3:10 |
-| 12 | [Maajab \(Deluxe Version\)](https://open.spotify.com/track/3vroJW3uILAcovFGkrMp3G) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Maajab \(Deluxe Version\)](https://open.spotify.com/album/5iYZH8RsTKQKQeJdt4Xaje) | 3:18 |
-| 13 | [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 |
-| 14 | [Sita Sita](https://open.spotify.com/track/45Ii0U4wJk9YcIuPRYkLuJ) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Flavour](https://open.spotify.com/album/5YOqPJBwr15Z9RZOca5K1H) | 3:33 |
-| 15 | [On my way!](https://open.spotify.com/track/5gafkd7SV0YJZ3xriEJEqv) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [PINK PM](https://open.spotify.com/album/7Mwbp0ArZhIjOpRdzrGyb8) | 2:34 |
-| 16 | [Guns & Roses \(Yeye\)](https://open.spotify.com/track/6wCgl6zqsyHCiOaMG9egeE) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Love Art Lust](https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8) | 2:36 |
-| 17 | [I Love You \(Nakupenda\)](https://open.spotify.com/track/55XMfPb2ZUm5vNYu8nWdx5) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Bits & Pieces](https://open.spotify.com/album/04rPmSPYevyGVMBtEDtBiY) | 4:24 |
-| 18 | [Matozo](https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:21 |
-| 19 | [Wandiisa Ki](https://open.spotify.com/track/46MwoLINORNKPyqIILxsAo) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Wandiisa Ki](https://open.spotify.com/album/6SYvCQHJcZBBJKkADXL32z) | 3:13 |
-| 20 | [Raha](https://open.spotify.com/track/5L9ABMBidJ9jzZLJEM8ShZ) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Raha](https://open.spotify.com/album/1wroced4483UjUHEPZXfzA) | 3:14 |
-| 21 | [Lowkey](https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lowkey](https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr) | 2:50 |
+| 7 | [Touching on My Baby](https://open.spotify.com/track/4TQqtk6JQD6pYBOhiIrNwd) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [Touching on My Baby](https://open.spotify.com/album/72AlrzsvuiyydOXwe09foV) | 2:35 |
+| 8 | [Yamenizidi](https://open.spotify.com/track/52Hrsu0VFAePA3n2iBJMTF) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Yamenizidi](https://open.spotify.com/album/0zYMkOpb7gzgoNzWyZ0yxq) | 3:35 |
+| 9 | [Omwenge](https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Omwenge](https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT) | 3:45 |
+| 10 | [OTD](https://open.spotify.com/track/3iuObMBlVzxmJaym2oAXrd) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [OTD](https://open.spotify.com/album/5dnPXb293B0hQDZoXGPsBh) | 2:27 |
+| 11 | [Southwards](https://open.spotify.com/track/0ufIj2swMeqQksU75dVSUJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:24 |
+| 12 | [EN3RGY](https://open.spotify.com/track/7s1cUqddTHFRmL66cuyAlh) | [Polaris](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA), [Mayonde](https://open.spotify.com/artist/3oqMNz2Z6IrQXes2MEA6sr), [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB), [HSKE](https://open.spotify.com/artist/0GHHtw39P3sS8MqYuuR4j8) | [EN3RGY](https://open.spotify.com/album/5RFMuaMkPzV7kpfvGAgjF6) | 3:10 |
+| 13 | [Maajab \(Deluxe Version\)](https://open.spotify.com/track/3vroJW3uILAcovFGkrMp3G) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Maajab \(Deluxe Version\)](https://open.spotify.com/album/5iYZH8RsTKQKQeJdt4Xaje) | 3:18 |
+| 14 | [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 |
+| 15 | [Sita Sita](https://open.spotify.com/track/45Ii0U4wJk9YcIuPRYkLuJ) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Flavour](https://open.spotify.com/album/5YOqPJBwr15Z9RZOca5K1H) | 3:33 |
+| 16 | [On my way!](https://open.spotify.com/track/5gafkd7SV0YJZ3xriEJEqv) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [PINK PM](https://open.spotify.com/album/7Mwbp0ArZhIjOpRdzrGyb8) | 2:34 |
+| 17 | [Guns & Roses \(Yeye\)](https://open.spotify.com/track/6wCgl6zqsyHCiOaMG9egeE) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Love Art Lust](https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8) | 2:36 |
+| 18 | [I Love You \(Nakupenda\)](https://open.spotify.com/track/55XMfPb2ZUm5vNYu8nWdx5) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Bits & Pieces](https://open.spotify.com/album/04rPmSPYevyGVMBtEDtBiY) | 4:24 |
+| 19 | [Matozo](https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:21 |
+| 20 | [Wandiisa Ki](https://open.spotify.com/track/46MwoLINORNKPyqIILxsAo) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Wandiisa Ki](https://open.spotify.com/album/6SYvCQHJcZBBJKkADXL32z) | 3:13 |
+| 21 | [Raha](https://open.spotify.com/track/5L9ABMBidJ9jzZLJEM8ShZ) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Raha](https://open.spotify.com/album/1wroced4483UjUHEPZXfzA) | 3:14 |
 | 22 | [Only Girl](https://open.spotify.com/track/6jHmMHZSDWrKLVJiYvYpir) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Only Girl](https://open.spotify.com/album/3MFIO9csbm5ogXyN0UEs7f) | 3:24 |
 | 23 | [Kwakwaru](https://open.spotify.com/track/5jmyQzE9SSxsdXUAkl8QPo) | [Haitham Kim](https://open.spotify.com/artist/750ujPfB38qROElCTru0vL) | [Kwakwaru](https://open.spotify.com/album/4aFwUhySigXFE0QgYJHAHw) | 3:15 |
 | 24 | [Bitimba](https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Bitimba](https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5) | 2:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 59 | [Nyumbani](https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [NYUMBANI](https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s) | 2:00 |
 | 60 | [Nfollowinga](https://open.spotify.com/track/0VNAMIE10wDY5zy6jqmQQY) | [Miriam Namaganda](https://open.spotify.com/artist/4WPIAHlYewpWNZnWOlEhiF), [Angella Katatumba](https://open.spotify.com/artist/1vpGA9WdQqdZHY36FcYoqw) | [Nfollowinga](https://open.spotify.com/album/4gA8KJQVSNlhjy74KRDnLP) | 2:47 |
 
-Snapshot ID: `MCw0NTI3N2RjMzZkZmYyYzIzZWJhMTY4YzM1MzNjMGFkZmQ4MDRmNzgw`
+Snapshot ID: `MCw4NjE2MGVkM2Q4YjczYjM4MWFjNGNmZDg0NGY0ZTc5MWI4N2U4ZTA4`

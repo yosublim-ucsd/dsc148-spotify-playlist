@@ -2488,10 +2488,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 79189,
       "name": "Shirley",
       "url": "https://open.spotify.com/track/3RoXuQNiqtWPigQFfbWqqm"
+    },
+    {
+      "album": {
+        "name": "How It Ends (UNRATED EDITION)",
+        "url": "https://open.spotify.com/album/4XNH2tkgSe8rtFuGRdgWp2"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79189,
+      "name": "Shirley",
+      "url": "https://open.spotify.com/track/7i7vzTKLeeLzbJ3crsTqRB"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-25",
-  "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Silvina Moreno",
+  "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Cata Raybaud y Benjamin Walker",
   "name": "Modo Ac\u00fastico",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "Arrancacorazones - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/1S5nq7DelsGNc4DVFaJHul"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 189283,
       "name": "fue mejor // acoustic",
       "url": "https://open.spotify.com/track/2RjrsjKraJjQUYdCYQ30ap"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 192029,
       "name": "Ley de Atracci\u00f3n",
       "url": "https://open.spotify.com/track/5NRBIHHUCyT8aqi0PTFJ7E"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 145161,
       "name": "Mal Marzo",
       "url": "https://open.spotify.com/track/766ijuYNzQTsmaaUonOvM4"
@@ -1148,6 +1148,24 @@
       "duration_ms": 229943,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
+    },
+    {
+      "album": {
+        "name": "Guerras (Un Viaje en el Tiempo)",
+        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264180,
+      "name": "Me Gusta (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1Cv81Tk7LCeTgZgQPwKxUe"
     },
     {
       "album": {
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 227790,
       "name": "Mira Gar\u00faa - Version Ac\u00fastica",
       "url": "https://open.spotify.com/track/2q3KfJdYpjAcfA70crkfyF"
@@ -1227,6 +1245,28 @@
     },
     {
       "album": {
+        "name": "Mundo Agradable (feat. Ricardo Mollo)",
+        "url": "https://open.spotify.com/album/2nmLLO4dGuIfQ8wTr9esh5"
+      },
+      "artists": [
+        {
+          "name": "David Leb\u00f3n",
+          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
+        },
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273985,
+      "name": "Mundo Agradable (feat. Ricardo Mollo)",
+      "url": "https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in"
+    },
+    {
+      "album": {
         "name": "Musikita del Cielo",
         "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
@@ -1260,7 +1300,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 136132,
       "name": "M\u00e1gica",
       "url": "https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf"
@@ -1433,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "Turf",
+        "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271266,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
+    },
+    {
+      "album": {
         "name": "PITADA",
         "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
       },
@@ -1480,7 +1538,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 299000,
       "name": "Portarse Bien",
       "url": "https://open.spotify.com/track/1b4wKuDw9JCcAaQff5gc98"
@@ -1556,7 +1614,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 192070,
       "name": "Sad Balada",
       "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
@@ -1596,7 +1654,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 186272,
       "name": "Serotonina",
       "url": "https://open.spotify.com/track/6mvzF3fcRrS231G8yN3BaN"
@@ -1762,7 +1820,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 178806,
       "name": "telepat\u00eda // acoustic",
       "url": "https://open.spotify.com/track/2syQErCMMM1rXeZqtuaqxg"
@@ -1838,7 +1896,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 235982,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
@@ -1990,7 +2048,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 131700,
       "name": "Utopia (Versi\u00f3n Ac\u00fastica)",
       "url": "https://open.spotify.com/track/0djYzmnJUd8oiD55itwMM1"
@@ -2008,7 +2066,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 321433,
       "name": "Vasos Vac\u00edos",
       "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"

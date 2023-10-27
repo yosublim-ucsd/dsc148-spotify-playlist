@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Sof\u00eda Reyes & Be\u00e9le",
-  "num_followers": 1900675,
+  "num_followers": 1900856,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmNjOWM0OTAwMzhmNDk2MjBiZDY3MzgwNmQ0NDgzZjRiZmUzZmE2",
+  "snapshot_id": "MCw5NmRhOGY4NTcxZGRhZGVlYTUzZTJlZmYxODI0ZGE4YjhjY2ZjMDcy",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Medicina De Amor",
-        "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
+        "name": "Carta De Verano",
+        "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
       },
       "artists": [
         {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+          "name": "Joe Veras",
+          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
         }
       ],
-      "duration_ms": 360720,
-      "name": "Medicina De Amor",
-      "url": "https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9"
+      "duration_ms": 245253,
+      "name": "Intentalo Tu",
+      "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Carta De Verano",
-        "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
+        "name": "Medicina De Amor",
+        "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
       },
       "artists": [
         {
-          "name": "Joe Veras",
-          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
         }
       ],
-      "duration_ms": 245253,
-      "name": "Intentalo Tu",
-      "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
+      "duration_ms": 360720,
+      "name": "Medicina De Amor",
+      "url": "https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1227,30 +1227,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Que Vuelvas",
-        "url": "https://open.spotify.com/album/4KN1ZXAY94rRlL8IwH1Pxg"
-      },
-      "artists": [
-        {
-          "name": "Lirow",
-          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
-        },
-        {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
-        },
-        {
-          "name": "DJ Ramon",
-          "url": "https://open.spotify.com/artist/6UTnO6XhjHYM2Oe9V0DEH1"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Que Vuelvas",
-      "url": "https://open.spotify.com/track/6YBMVW3OF19qHwJJ6AmQ6N"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Noche Primavera",
         "url": "https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG"
       },
@@ -1271,6 +1247,30 @@
       "duration_ms": 199277,
       "name": "Noche Primavera",
       "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Que Vuelvas",
+        "url": "https://open.spotify.com/album/4KN1ZXAY94rRlL8IwH1Pxg"
+      },
+      "artists": [
+        {
+          "name": "Lirow",
+          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
+        },
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        },
+        {
+          "name": "DJ Ramon",
+          "url": "https://open.spotify.com/artist/6UTnO6XhjHYM2Oe9V0DEH1"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Que Vuelvas",
+      "url": "https://open.spotify.com/track/6YBMVW3OF19qHwJJ6AmQ6N"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Otra Oportunidad",
-        "url": "https://open.spotify.com/album/0dBnPH1ZzYfB6gOUfRUJOZ"
-      },
-      "artists": [
-        {
-          "name": "Tutto Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
-        }
-      ],
-      "duration_ms": 208008,
-      "name": "Otra Oportunidad",
-      "url": "https://open.spotify.com/track/14P7QoGuWWFe7xxzmyQA4o"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 206412,
       "name": "Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Otra Oportunidad",
+        "url": "https://open.spotify.com/album/0dBnPH1ZzYfB6gOUfRUJOZ"
+      },
+      "artists": [
+        {
+          "name": "Tutto Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
+        }
+      ],
+      "duration_ms": 208008,
+      "name": "Otra Oportunidad",
+      "url": "https://open.spotify.com/track/14P7QoGuWWFe7xxzmyQA4o"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Y Los Claveles Mios",
-        "url": "https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "El Verde de Tus Ojos",
-      "url": "https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Bachatica",
         "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 196461,
       "name": "Bachatica",
       "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Y Los Claveles Mios",
+        "url": "https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "El Verde de Tus Ojos",
+      "url": "https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY"
     },
     {
       "added_at": "2023-10-20 04:00:00",

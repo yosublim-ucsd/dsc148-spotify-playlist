@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover： Lolly Talk
+> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover： Gordon Flanders
 
-148 songs - 8 hr 30 min
+149 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [致我們的夢想 \(feat\. Jeffrey 魏浚笙\)](https://open.spotify.com/track/1lY6aCnPSoLbwpukEk9l57) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH), [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [致我們的夢想 \(feat\. Jeffrey 魏浚笙\)](https://open.spotify.com/album/6AMjxEmzxMtlDomTbD13dg) | 4:02 | 2023-09-15 |  |
 | [莊](https://open.spotify.com/track/3EzQ6PZT9eMDKUxsxwFDVt) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 2:50 | 2022-12-29 | 2023-04-14 |
 | [角度 \(feat\. ZAIN\)](https://open.spotify.com/track/1fEOejvs3lGYCkdTmicb8s) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [ZAIN](https://open.spotify.com/artist/4hrSnopounpvRQy7EfH2eY) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 4:29 | 2022-12-29 | 2023-04-14 |
+| [讓我一個人過](https://open.spotify.com/track/0W9UnXy23gylvfBvm0Fs3t) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [讓我一個人過](https://open.spotify.com/album/1H7mGKTxclL94I9tJtxuoU) | 3:30 | 2023-10-26 |  |
 | [跌嘢唔好搵](https://open.spotify.com/track/06bzWBi4FyF85A57GlV4H8) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [跌嘢唔好搵](https://open.spotify.com/album/6IovMmC40xqVfBCzXwxChg) | 3:11 | 2022-05-26 | 2022-07-29 |
 | [跌嘢唔好搵](https://open.spotify.com/track/4i1RCwJXyCM8ay5sXJTK2s) | [MC $oHo & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [跌嘢唔好搵](https://open.spotify.com/album/1qjK50aArwff8NhitLm8KT) | 3:11 | 2022-07-28 | 2023-05-12 |
 | [距離](https://open.spotify.com/track/4jxVPx9LaVbEtJlWTUcqQ1) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [距離](https://open.spotify.com/album/2LzTqzNDP0u9Fh84oF6dE8) | 4:22 | 2022-05-26 | 2022-11-25 |

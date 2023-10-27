@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 17000,
+  "num_followers": 17018,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWJkNDk5Yzc1OWZjZWZkMGQ0MzgxZDVkMjljNjBiNDdlYTQxODYz",
+  "snapshot_id": "MCxjNGQzZjk2ODk4NDIzZmU5MTQ2NzE2MDhjM2Q1ZjIxMTE2MjkzNmZh",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -227,22 +227,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Introspection (Edit)",
-        "url": "https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia"
-      },
-      "artists": [
-        {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
-        }
-      ],
-      "duration_ms": 155411,
-      "name": "Introspection - Edit",
-      "url": "https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 130986,
       "name": "My Gull",
       "url": "https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Introspection (Edit)",
+        "url": "https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia"
+      },
+      "artists": [
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "duration_ms": 155411,
+      "name": "Introspection - Edit",
+      "url": "https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -385,22 +385,6 @@
       "url": "https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx"
     },
     {
-      "added_at": "2022-12-20 22:19:56",
-      "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 262375,
-      "name": "10\u00b0C",
-      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
-    },
-    {
       "added_at": "2022-01-14 00:06:38",
       "album": {
         "name": "Cabara\u00fa",
@@ -417,20 +401,20 @@
       "url": "https://open.spotify.com/track/0DbDPy9K2mLuIBE6ai2XaU"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
+      "added_at": "2022-12-20 22:19:56",
       "album": {
-        "name": "Talk from Home",
-        "url": "https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6"
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
       "artists": [
         {
-          "name": "Suzanne Kraft",
-          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
         }
       ],
-      "duration_ms": 249704,
-      "name": "Renee Sleeping",
-      "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -451,6 +435,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Talk from Home",
+        "url": "https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Kraft",
+          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
+        }
+      ],
+      "duration_ms": 249704,
+      "name": "Renee Sleeping",
+      "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Tomorrow's Harvest",
         "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
       },
@@ -463,22 +463,6 @@
       "duration_ms": 256401,
       "name": "Sick Times",
       "url": "https://open.spotify.com/track/1kWsVllnOYVv84DpXxoWr3"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Cobalt Blue",
-        "url": "https://open.spotify.com/album/5YjTUXG87pwWU4CtbdcA1i"
-      },
-      "artists": [
-        {
-          "name": "Michael Brook",
-          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
-        }
-      ],
-      "duration_ms": 274466,
-      "name": "Ultramarine",
-      "url": "https://open.spotify.com/track/121tcNEsqszGVrJjViZFQR"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -503,6 +487,22 @@
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Cobalt Blue",
+        "url": "https://open.spotify.com/album/5YjTUXG87pwWU4CtbdcA1i"
+      },
+      "artists": [
+        {
+          "name": "Michael Brook",
+          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
+        }
+      ],
+      "duration_ms": 274466,
+      "name": "Ultramarine",
+      "url": "https://open.spotify.com/track/121tcNEsqszGVrJjViZFQR"
     },
     {
       "added_at": "2022-03-30 02:52:41",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
-        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
-      },
-      "artists": [
-        {
-          "name": "Yoshio Ojima",
-          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
-        }
-      ],
-      "duration_ms": 356520,
-      "name": "Glass Chattering",
-      "url": "https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Reassemblage",
         "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 220800,
       "name": "Terrazzo",
       "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        }
+      ],
+      "duration_ms": 356520,
+      "name": "Glass Chattering",
+      "url": "https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -749,20 +749,20 @@
       "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
     },
     {
-      "added_at": "2023-06-07 02:20:45",
+      "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Intrapersonal Experience",
-        "url": "https://open.spotify.com/album/7Lwmz636F3Oa6ezXspUzBg"
+        "name": "Beyond Contact",
+        "url": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i"
       },
       "artists": [
         {
-          "name": "Saphileaum",
-          "url": "https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU"
+          "name": "Vivian Koch",
+          "url": "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Dear",
-      "url": "https://open.spotify.com/track/0tAp8Yk3Sa6GLEaNkXRGzJ"
+      "duration_ms": 232867,
+      "name": "Closed - Yosemite Version",
+      "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -781,20 +781,20 @@
       "url": "https://open.spotify.com/track/1an4tDLE2eH2a21bBpuBh5"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
+      "added_at": "2023-06-07 02:20:45",
       "album": {
-        "name": "Beyond Contact",
-        "url": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i"
+        "name": "Intrapersonal Experience",
+        "url": "https://open.spotify.com/album/7Lwmz636F3Oa6ezXspUzBg"
       },
       "artists": [
         {
-          "name": "Vivian Koch",
-          "url": "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
+          "name": "Saphileaum",
+          "url": "https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU"
         }
       ],
-      "duration_ms": 232867,
-      "name": "Closed - Yosemite Version",
-      "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
+      "duration_ms": 336000,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/0tAp8Yk3Sa6GLEaNkXRGzJ"
     },
     {
       "added_at": "2021-11-12 02:58:17",

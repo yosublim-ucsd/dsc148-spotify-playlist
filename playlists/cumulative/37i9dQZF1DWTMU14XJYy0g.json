@@ -364,7 +364,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 152636,
       "name": "Cada a\u00f1o mas extra\u00f1o",
       "url": "https://open.spotify.com/track/1tX2AyhMF7pp44H0pCwDVU"
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 171536,
       "name": "Kintsukuroi",
       "url": "https://open.spotify.com/track/3Ib7O0KTQOLbbnJMciknVt"
@@ -2982,7 +2982,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 142723,
       "name": "Otra Mujer",
       "url": "https://open.spotify.com/track/3mUo4j1R22tJQdwPxENW8P"
@@ -3264,6 +3264,24 @@
       "duration_ms": 259039,
       "name": "Reflejo",
       "url": "https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I"
+    },
+    {
+      "album": {
+        "name": "Rola de Primera",
+        "url": "https://open.spotify.com/album/4Weh68myPcgmZtGITPYIi1"
+      },
+      "artists": [
+        {
+          "name": "La Franela",
+          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217576,
+      "name": "Rola de Primera",
+      "url": "https://open.spotify.com/track/6DPQLhYRp5PJrhgk2OWVJE"
     },
     {
       "album": {
@@ -4130,7 +4148,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 238809,
       "name": "V\u00edctimas",
       "url": "https://open.spotify.com/track/4FeOc23B21fz3Z1pLnnKo6"

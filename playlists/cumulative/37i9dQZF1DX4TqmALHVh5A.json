@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Simia & KALIKA",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Magenta Club",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -74,6 +74,60 @@
       "duration_ms": 179826,
       "name": "Au Top",
       "url": "https://open.spotify.com/track/65QYWkPPVLsFj0pFGoLSSO"
+    },
+    {
+      "album": {
+        "name": "Bagarre",
+        "url": "https://open.spotify.com/album/5iNxyLikg53HwIGOhnxqs6"
+      },
+      "artists": [
+        {
+          "name": "And\u00e9ol",
+          "url": "https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144480,
+      "name": "Bagarre",
+      "url": "https://open.spotify.com/track/5E7GDG7h7WcIbDqbvpntoU"
+    },
+    {
+      "album": {
+        "name": "Brumeux",
+        "url": "https://open.spotify.com/album/6fjGcQ0v3HrzHE1DMDkqpV"
+      },
+      "artists": [
+        {
+          "name": "Magenta Club",
+          "url": "https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194626,
+      "name": "Brumeux",
+      "url": "https://open.spotify.com/track/1LTH3ADSAIl9tLLyfQnbTu"
+    },
+    {
+      "album": {
+        "name": "Dernier Orage",
+        "url": "https://open.spotify.com/album/1lGNHr5zhRiwKfGbQmHKPY"
+      },
+      "artists": [
+        {
+          "name": "ELOI",
+          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206117,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/2CF2OEphV5XeP0Gz6eICO7"
     },
     {
       "album": {
@@ -294,6 +348,24 @@
       "duration_ms": 131574,
       "name": "d\u00e9nud\u00e9e",
       "url": "https://open.spotify.com/track/4dJo55UsW4gWpKkkRvRTy1"
+    },
+    {
+      "album": {
+        "name": "D\u00e9sol\u00e9, mon c\u0153ur",
+        "url": "https://open.spotify.com/album/0P2z4rhMsoaNmOIFSbGuIl"
+      },
+      "artists": [
+        {
+          "name": "TOMASI",
+          "url": "https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "D\u00e9sol\u00e9, mon c\u0153ur",
+      "url": "https://open.spotify.com/track/2E2sgLXYIFUAEtBtgv0KMT"
     },
     {
       "album": {
@@ -762,7 +834,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 187813,
       "name": "Planisph\u00e8re",
       "url": "https://open.spotify.com/track/4JMVCc9j54W3HqWD33YG46"
@@ -852,7 +924,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 191266,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3XDbBLoiPf3NNR4DY1wMld"
@@ -888,7 +960,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 182106,
       "name": "Rage2",
       "url": "https://open.spotify.com/track/6FEa9mo6Qrd1v0u5rTUlZU"
@@ -928,6 +1000,24 @@
       "duration_ms": 161375,
       "name": "Serie A",
       "url": "https://open.spotify.com/track/0D3MTS7Ea2EgXy6O9Horqc"
+    },
+    {
+      "album": {
+        "name": "Serpent Mental",
+        "url": "https://open.spotify.com/album/4japQNj9fIt6eZo9673y1h"
+      },
+      "artists": [
+        {
+          "name": "Walter Astral",
+          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Serpent Mental",
+      "url": "https://open.spotify.com/track/7Mmfq4pv4eaQRqXPjOl3WJ"
     },
     {
       "album": {
@@ -982,7 +1072,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 192557,
       "name": "STP Apaise toi",
       "url": "https://open.spotify.com/track/1JDY621fH5Ufd0y9AuCg59"
@@ -1126,7 +1216,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 143354,
       "name": "Worried",
       "url": "https://open.spotify.com/track/0Ssz96Q8DAEry7mDrBRbcN"

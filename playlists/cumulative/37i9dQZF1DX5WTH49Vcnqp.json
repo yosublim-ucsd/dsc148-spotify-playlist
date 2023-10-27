@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Music that's hard to define but easy to love. Cover: Matt Corby",
+  "description": "Music that's hard to define but easy to love. Cover: The Rubens",
   "name": "Front Left",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 436569,
       "name": "1975",
       "url": "https://open.spotify.com/track/5RLzgNuAfuKx808CN60gCy"
@@ -1639,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "Badness Issa Habit",
+        "url": "https://open.spotify.com/album/0P8Cek01u4nUNUgkv9k3HV"
+      },
+      "artists": [
+        {
+          "name": "Gold Fang",
+          "url": "https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187949,
+      "name": "Badness Issa Habit",
+      "url": "https://open.spotify.com/track/4sBkozNiL0UXVinXOE030C"
+    },
+    {
+      "album": {
         "name": "Live at Electric Lady",
         "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
       },
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 212333,
       "name": "Bug Like an Angel",
       "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
@@ -3606,6 +3624,24 @@
     {
       "album": {
         "name": "Come With Me",
+        "url": "https://open.spotify.com/album/5SoJVpzfTJWGQir95h7i8n"
+      },
+      "artists": [
+        {
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216455,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/5vGlAX1G2A3wSykiggYcfr"
+    },
+    {
+      "album": {
+        "name": "Come With Me",
         "url": "https://open.spotify.com/album/5S8NHfuBIC28FqbmzWojdY"
       },
       "artists": [
@@ -4326,6 +4362,24 @@
       "duration_ms": 178458,
       "name": "Dead End",
       "url": "https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx"
+    },
+    {
+      "album": {
+        "name": "dead end kids",
+        "url": "https://open.spotify.com/album/1teNbZLz3PUefD4NXLocTl"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197993,
+      "name": "dead end kids",
+      "url": "https://open.spotify.com/track/54w5kOv00WeffHtdNs6Ut4"
     },
     {
       "album": {
@@ -9822,7 +9876,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 255920,
       "name": "Ice Slippin",
       "url": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
@@ -11070,7 +11124,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 306050,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/0jVRZSyLXC48J2G66b12Ms"
@@ -11801,6 +11855,24 @@
     },
     {
       "album": {
+        "name": "Making It Through",
+        "url": "https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282366,
+      "name": "Making It Through",
+      "url": "https://open.spotify.com/track/5gH0m1KstxQ1isPiw7CiYV"
+    },
+    {
+      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
       },
@@ -12146,6 +12218,24 @@
       "duration_ms": 178725,
       "name": "Mid Years",
       "url": "https://open.spotify.com/track/3DweCW4XdD9BWzSjMkj0as"
+    },
+    {
+      "album": {
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/6ehrEjApX0i2oEoYFv6gXF"
+      },
+      "artists": [
+        {
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194184,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/1sbDZ8yjhADmNltySzYyS4"
     },
     {
       "album": {
@@ -14031,6 +14121,24 @@
     },
     {
       "album": {
+        "name": "Over The Moon",
+        "url": "https://open.spotify.com/album/1AWDEudFi6oHl41usPGUYW"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185360,
+      "name": "Over The Moon",
+      "url": "https://open.spotify.com/track/4sp721FZr1KrQS7wwyJ1Q2"
+    },
+    {
+      "album": {
         "name": "Overstimulated",
         "url": "https://open.spotify.com/album/6Lcak4JnxsK4mB4gMhP8wT"
       },
@@ -15114,7 +15222,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 312459,
       "name": "rats in my walls",
       "url": "https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL"
@@ -16706,7 +16814,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 289897,
       "name": "So You Are Tired",
       "url": "https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru"
@@ -16742,7 +16850,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
@@ -18259,6 +18367,24 @@
     },
     {
       "album": {
+        "name": "Tell Her",
+        "url": "https://open.spotify.com/album/5r8xf0HbtvpK61fsiZ4x7I"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "Tell Her",
+      "url": "https://open.spotify.com/track/0WFccOR9KoNU0SXQ3mY7e5"
+    },
+    {
+      "album": {
         "name": "Tell Me What You Dream About",
         "url": "https://open.spotify.com/album/3882i7uBcZratKSUGsWRvo"
       },
@@ -19100,7 +19226,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 189840,
       "name": "Tied Up!",
       "url": "https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd"
@@ -20380,7 +20506,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 231518,
       "name": "What Doesn't Kill You Makes You Paranoid",
       "url": "https://open.spotify.com/track/1na4kP9vFyaXHq8ZOGOC16"

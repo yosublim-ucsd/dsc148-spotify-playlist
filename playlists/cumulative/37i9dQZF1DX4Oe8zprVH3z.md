@@ -4,7 +4,7 @@
 
 > Breathe deep, close your eyes, immerse yourself...\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
 
-102 songs - 5 hr 2 min
+103 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Forest Pan Drum](https://open.spotify.com/track/0nPqH3ynQMcyapW6aLdYjX) | [Quiet Cave](https://open.spotify.com/artist/40wehoOnuir7qPH1QgTXNY) | [Forest Pan Drum](https://open.spotify.com/album/60U5rsvSSbXDizCveA2TVT) | 1:54 | 2022-12-12 |  |
 | [Free Floating](https://open.spotify.com/track/5DHpl94sdHixUL1vP1LzV0) | [Matt Mohandas](https://open.spotify.com/artist/4mawCcl8p3ukw3dbWRoIIG) | [Sunlight Healing](https://open.spotify.com/album/0CenJpIPLs5rGjogAsTSjF) | 3:10 | 2022-12-12 |  |
 | [Garden bliss](https://open.spotify.com/track/0JQ0ojZNoM84rrPhteK0al) | [Franz Emerald](https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv) | [Garden bliss](https://open.spotify.com/album/23Sqgz9agHEmrOCRvTlOSs) | 2:24 | 2022-12-12 |  |
-| [Gratitude](https://open.spotify.com/track/5l41CkujFnEtsOy9SpEn2K) | [Healing Potion](https://open.spotify.com/artist/08sROjr8PALQrgskKAnmaw) | [Gratitude](https://open.spotify.com/album/7rusm2up4CcpsCKdWgN7ji) | 2:46 | 2023-10-16 |  |
+| [Gratitude](https://open.spotify.com/track/5l41CkujFnEtsOy9SpEn2K) | [Healing Potion](https://open.spotify.com/artist/08sROjr8PALQrgskKAnmaw) | [Gratitude](https://open.spotify.com/album/7rusm2up4CcpsCKdWgN7ji) | 2:46 | 2023-10-16 | 2023-10-27 |
 | [Hand Pan Dream in the rain](https://open.spotify.com/track/4PxgYKF0q6ER8JOWCa8X1h) | [Oxyplüs](https://open.spotify.com/artist/4XQOiWoXNYk8Gtf7At9rwH) | [Hand Pan Dream in the rain](https://open.spotify.com/album/3ejjNQ3pBXU1C3hN1S8tLp) | 2:18 | 2022-12-12 | 2023-01-14 |
 | [Handpan Rain](https://open.spotify.com/track/5XDltyzAT7IkZeGu0lAKUf) | [Cosmic Nirvana](https://open.spotify.com/artist/5qJPwmFhAXtQZfxmvmZJmO) | [Handpan Rain](https://open.spotify.com/album/6ewhW60VWUoZc46s3bczJB) | 2:50 | 2022-12-12 |  |
 | [Hang Drum \- Water Sounds](https://open.spotify.com/track/3mGHDE0cYC9NlRk7yTtkQs) | [Izkaya Ten](https://open.spotify.com/artist/1zTZTSgDxQlwEqRwhByiEj) | [Hang Drum \- Water Sounds](https://open.spotify.com/album/3nTXKA7OMc5X732iTGh7bu) | 2:10 | 2022-12-12 |  |
@@ -72,7 +72,7 @@
 | [Rain Lulang](https://open.spotify.com/track/0it6dOQ7wKLCQMHn3nOWNO) | [Calmiosure](https://open.spotify.com/artist/6ECnZS2L9Yn6KY0KzBOkLf) | [Rain Lulang](https://open.spotify.com/album/1AkqHDGkLmGOhfCROXqkg5) | 3:17 | 2022-12-12 |  |
 | [Rainbowls](https://open.spotify.com/track/3qOJ0WsaI1jqQ06lgy24CS) | [Augmented Meditation](https://open.spotify.com/artist/2Gj9De52rmWf9w9esZPs9A) | [Rainbowls](https://open.spotify.com/album/3slFA5CzN0QYb0tzmhDTVZ) | 3:12 | 2022-12-12 |  |
 | [Recalibrated Mind](https://open.spotify.com/track/4VmbFJJGKSKxWkO1L6z0Ca) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Crystal Sound Bath Sanctuary](https://open.spotify.com/album/0F9ckcZjOUN0mvg1tU2yil) | 3:28 | 2023-04-26 |  |
-| [Reflecting Moon \(with Rain\)](https://open.spotify.com/track/6lPMyxkZjITULwBBYQ9xM7) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Reflecting Moon](https://open.spotify.com/album/6Anbyedkfa89KmehHRmJMw) | 3:04 | 2022-12-12 |  |
+| [Reflecting Moon \(with Rain\)](https://open.spotify.com/track/6lPMyxkZjITULwBBYQ9xM7) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Reflecting Moon](https://open.spotify.com/album/6Anbyedkfa89KmehHRmJMw) | 3:04 | 2022-12-12 | 2023-10-27 |
 | [Refreshing Thoughts \- River](https://open.spotify.com/track/5gMX6SqIftxYDqvuzsMGvM) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Soundbath Exploration](https://open.spotify.com/album/2zu28p3ggoO0kvYjlqP2SZ) | 3:08 | 2023-03-03 |  |
 | [Restore](https://open.spotify.com/track/0hqSBm1sipCxHVl3qj1pNX) | [Misha Burton](https://open.spotify.com/artist/4jjbyStVj5wtgQpHtxL3ue) | [Restore](https://open.spotify.com/album/27FSIb0jOgNAiRthYgCWZ0) | 3:02 | 2023-01-13 |  |
 | [River of Dreams](https://open.spotify.com/track/7tL0NVhXlW8W68chWCruDN) | [The Eventide](https://open.spotify.com/artist/6jbL9UQUCzae8Vn3NcwQJ6) | [River of Dreams](https://open.spotify.com/album/0u0sZil12h9RsQc23XSvam) | 2:59 | 2023-04-26 |  |
@@ -93,6 +93,7 @@
 | [Soundbath Levitation \- River](https://open.spotify.com/track/09BHcX0egsFWJmcYpXvsCQ) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Soundbath Levitation](https://open.spotify.com/album/03YIzslxVnY4T3GKRRnfiY) | 2:56 | 2023-04-06 |  |
 | [Starry Night](https://open.spotify.com/track/0VfBUuUgvUfkpxujoNyHuv) | [Siyotanka](https://open.spotify.com/artist/6z7aFfuglPapY8jOgkpuH6) | [Starry Night](https://open.spotify.com/album/3dwR4XJPm8u2mWTohgbBgo) | 5:12 | 2023-02-13 |  |
 | [Stillness](https://open.spotify.com/track/08Gpe8g0L8fI7gkLipbusB) | [Bowls Of Serenity](https://open.spotify.com/artist/5cO4FF3bJZ0euYXHbBWHsz) | [Stillness](https://open.spotify.com/album/35pEhP9EXlnw7BGGkdDlPM) | 3:04 | 2023-10-13 |  |
+| [Sunset By The Lake](https://open.spotify.com/track/5vYNTH3EV54AizNS1DyrAh) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Sunset By The Lake](https://open.spotify.com/album/3kuF2vn6OWgCmjHvO8FnSe) | 2:38 | 2023-10-26 |  |
 | [The Brook](https://open.spotify.com/track/4DxtQrlRQrlS4WVaFYtL4n) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [The Brook](https://open.spotify.com/album/2mKQeiAHIjQU3MeiauWQeM) | 2:58 | 2023-02-13 |  |
 | [The Gong Of Tranquility](https://open.spotify.com/track/1oDglI2wd2T0fPbp6K55ng) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [The Gong Of Tranquility](https://open.spotify.com/album/0B3wR5xrfAy1cu9XdmBik9) | 2:13 | 2023-03-20 |  |
 | [The Riddle of Dreams](https://open.spotify.com/track/3p8EPHwGsP6nX7UrwqzJlp) | [Epilogue Gravity](https://open.spotify.com/artist/1ujQ7yELrx9UJkxV0NiSCe) | [The Riddle of Dreams](https://open.spotify.com/album/0jWXe3O5djbov0RcnXJZFG) | 2:36 | 2023-04-26 |  |

@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Cover: Duster
 
-473 songs - 1 day 6 hr 56 min
+475 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,8 +52,9 @@
 | [Beautiful World](https://open.spotify.com/track/2L7yZATBaLmKEb0BvIBXK2) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/0sLt9EsWnVZgJAO5Sp35YQ) | 5:20 | 2022-12-15 | 2023-05-10 |
 | [Beauty \- Bonus Track](https://open.spotify.com/track/3uROaybnOXpcvQrv47ChcN) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Wait to Pleasure \(10th Anniversary Edition\)](https://open.spotify.com/album/2WSCMIIjNRdYTGvko0E6xS) | 6:09 | 2023-06-23 | 2023-09-02 |
 | [Become](https://open.spotify.com/track/6MxpGNjoKliUlyW9HbKBrH) | [Launder](https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh), [Soko](https://open.spotify.com/artist/4Q3f2YYH4gQxWFS3WY5G3j) | [Happening](https://open.spotify.com/album/1AFBK10RHCuXnHXaTgyonQ) | 3:50 | 2023-02-17 | 2023-08-12 |
-| [Before](https://open.spotify.com/track/1R0Q2qjI1YoViP4O3QDr31) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 4:28 | 2023-08-11 |  |
+| [Before](https://open.spotify.com/track/1R0Q2qjI1YoViP4O3QDr31) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 4:28 | 2023-08-11 | 2023-10-27 |
 | [Before](https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Before](https://open.spotify.com/album/3Bdi9ZTTSMOAZFvRIny7xp) | 4:28 | 2023-08-11 | 2023-10-21 |
+| [Before](https://open.spotify.com/track/6JNSKF9Nsnhb4gNHskBt42) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 4:28 | 2023-08-11 |  |
 | [Belinda Says](https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:45 | 2022-09-29 | 2023-06-08 |
 | [Belinda Says](https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Belinda Says / Very Online Guy](https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q) | 2:45 | 2022-09-29 | 2022-11-27 |
 | [Better Off Alone](https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [Better Off Alone](https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK) | 4:07 | 2023-02-09 | 2023-07-22 |
@@ -293,8 +294,9 @@
 | [Mantra](https://open.spotify.com/track/5iPdRGqkEDG3Y8xTt76Z4T) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [yoyo](https://open.spotify.com/album/4wdbBDjGWuLAN8WQlSDN0H) | 6:28 | 2023-10-12 |  |
 | [Mantra](https://open.spotify.com/track/5t8ykLn9zmfzzFtA5bWBlc) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Mantra](https://open.spotify.com/album/3yBPUOCTZbu2FdwvR2piFY) | 6:28 | 2023-10-12 | 2023-10-14 |
 | [means to an end \(not enough\)](https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [means to an end \(not enough\)](https://open.spotify.com/album/3lSgb650mqEWwBGZB2vwDT) | 4:40 | 2023-02-09 | 2023-08-12 |
-| [Melody Experiment](https://open.spotify.com/track/04SwfL1yAlGgn0EftxX3Jy) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 5:10 | 2023-06-30 |  |
+| [Melody Experiment](https://open.spotify.com/track/04SwfL1yAlGgn0EftxX3Jy) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 5:10 | 2023-06-30 | 2023-10-27 |
 | [Melody Experiment](https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody Experiment](https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho) | 5:10 | 2023-06-30 | 2023-10-21 |
+| [Melody Experiment](https://open.spotify.com/track/5k1c6yaWO1uTSY6wNTVUa6) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 5:10 | 2023-06-30 |  |
 | [Mind the Wires](https://open.spotify.com/track/0rEVhkcwdi9CcKANWYV0Ot) | [Tears Run Rings](https://open.spotify.com/artist/0cNUrcNznBuZErkcSdHoxJ) | [Always, Sometimes, Seldom, Never](https://open.spotify.com/album/795uPXiy5JMXIpsHtEYmoV) | 4:53 | 2021-10-19 | 2022-12-16 |
 | [Mirror](https://open.spotify.com/track/2BEqWfZNSG8LF2YOXzcdW6) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Mirror](https://open.spotify.com/album/3N1aePkaiRx1sgcvviZmBX) | 3:26 | 2023-06-16 |  |
 | [Mobius](https://open.spotify.com/track/1p1qM22fWnEYOOTWBXGhlN) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG) | [相對性靜止](https://open.spotify.com/album/4bzufuzkc1jtHqaYkC5TXi) | 3:06 | 2022-09-29 | 2022-12-02 |

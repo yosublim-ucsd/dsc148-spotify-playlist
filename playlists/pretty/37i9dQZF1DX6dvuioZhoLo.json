@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 288012,
+  "num_followers": 288077,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjdhY2Q3MjVkYzkwNGRmNTA3ZjQ2ZmFhODIzY2JmNmRmNmUxYWI4",
+  "snapshot_id": "MCw1ZTY5MzU4YTMzZjBmMDQxN2NhNjQ0ZWQxMGY3NDk4NTEyNDY0YjFm",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Golden Eagle",
+        "url": "https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL"
+      },
+      "artists": [
+        {
+          "name": "Holly Macve",
+          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
+        }
+      ],
+      "duration_ms": 208826,
+      "name": "No One Has the Answers",
+      "url": "https://open.spotify.com/track/58emzxS7apqOn2amBFfDyr"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Kids In The Street",
         "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 188240,
       "name": "Companion",
       "url": "https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Golden Eagle",
-        "url": "https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL"
-      },
-      "artists": [
-        {
-          "name": "Holly Macve",
-          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
-        }
-      ],
-      "duration_ms": 208826,
-      "name": "No One Has the Answers",
-      "url": "https://open.spotify.com/track/58emzxS7apqOn2amBFfDyr"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Golden Eagle",
+        "url": "https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL"
+      },
+      "artists": [
+        {
+          "name": "Holly Macve",
+          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "Heartbreak Blues",
+      "url": "https://open.spotify.com/track/7lbCzpJx4waIGVSqLwH6tg"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "I Will Not Be Afraid",
         "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 201000,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/3tvlD4NK5C1bGjCu6GM76u"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Golden Eagle",
-        "url": "https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL"
-      },
-      "artists": [
-        {
-          "name": "Holly Macve",
-          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "Heartbreak Blues",
-      "url": "https://open.spotify.com/track/7lbCzpJx4waIGVSqLwH6tg"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Daddy's Country Gold",
-        "url": "https://open.spotify.com/album/1b6lBkE4XKAGB8hGl8C57n"
-      },
-      "artists": [
-        {
-          "name": "Melissa Carper",
-          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "Makin' Memories",
-      "url": "https://open.spotify.com/track/6Q2TsYhosD9BaHio4WLd3o"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Years",
         "url": "https://open.spotify.com/album/4DdokaghnnKmmaWOhO2G0I"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 193306,
       "name": "Good As Gold",
       "url": "https://open.spotify.com/track/5c40AAhGGG0d7iDgXyF38y"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Daddy's Country Gold",
+        "url": "https://open.spotify.com/album/1b6lBkE4XKAGB8hGl8C57n"
+      },
+      "artists": [
+        {
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "Makin' Memories",
+      "url": "https://open.spotify.com/track/6Q2TsYhosD9BaHio4WLd3o"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "All Or Nothin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Faded Gloryville",
         "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 186773,
       "name": "Run-down Neighborhood",
       "url": "https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "All Or Nothin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Let It Pass",
-        "url": "https://open.spotify.com/album/2iZp6ZrhjsPgblTW1UYpDa"
-      },
-      "artists": [
-        {
-          "name": "The Stray Birds",
-          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
-        }
-      ],
-      "duration_ms": 206835,
-      "name": "Light As a Fire",
-      "url": "https://open.spotify.com/track/1GaMKT7VrFJnyzjflhrRHu"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Same Devil (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 187466,
       "name": "Same Devil (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Let It Pass",
+        "url": "https://open.spotify.com/album/2iZp6ZrhjsPgblTW1UYpDa"
+      },
+      "artists": [
+        {
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
+        }
+      ],
+      "duration_ms": 206835,
+      "name": "Light As a Fire",
+      "url": "https://open.spotify.com/track/1GaMKT7VrFJnyzjflhrRHu"
     }
   ],
   "unique_name": "Vintage Vibes",

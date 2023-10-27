@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-289 songs - 13 hr 5 min
+290 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Free at last](https://open.spotify.com/track/6NUq5Cj7Vu4LHjst1Oj1Yu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [From Dusk til Dawn](https://open.spotify.com/album/17eESm3rrSYQUO1EklmVQ4) | 2:35 | 2022-05-13 |  |
 | [Frühlingsgefühle](https://open.spotify.com/track/4h0QLxUzVqQ7QKFSnWjvdu) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Frühlingsgefühle](https://open.spotify.com/album/7M5trxxK8lsEExyuBP1Au8) | 2:16 | 2023-09-29 |  |
 | [Fáilte](https://open.spotify.com/track/7g4jqCEvQZGdRKemCNdOxm) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Fáilte](https://open.spotify.com/album/1Whcn3o7IpIoJtQXEBq6TZ) | 1:44 | 2023-02-24 | 2023-09-16 |
-| [Gallowhill](https://open.spotify.com/track/4mI35hHGS1zML1VhrlQcfw) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Across The Pond](https://open.spotify.com/album/6EdjNwaGHT3ofgwahD8WlH) | 2:05 | 2023-10-13 |  |
+| [Gallowhill](https://open.spotify.com/track/4mI35hHGS1zML1VhrlQcfw) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Across The Pond](https://open.spotify.com/album/6EdjNwaGHT3ofgwahD8WlH) | 2:05 | 2023-10-13 | 2023-10-27 |
 | [Gallowhill](https://open.spotify.com/track/6SxZOktPKFDclsZaXvTyRF) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Across The Pond](https://open.spotify.com/album/4M7nAqMxiwTcWua278roTf) | 2:05 | 2022-05-13 | 2022-07-29 |
 | [Gallowhill](https://open.spotify.com/track/7vaRxV3zmbu9jlkZNfCpDi) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Across The Pond](https://open.spotify.com/album/29nlogZZVuuaLvA9lwjgTj) | 2:05 | 2022-07-22 | 2023-10-26 |
 | [Gilmerton](https://open.spotify.com/track/2zJvW1rqjvYHFNPl2mYuPk) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Gilmerton](https://open.spotify.com/album/1X2C2VeeduvqLPPA9X6KlC) | 2:19 | 2022-05-13 | 2023-03-31 |
@@ -236,6 +236,7 @@
 | [Stream](https://open.spotify.com/track/0iQJKde2ceeY5iu7zX4b6s) | [Masaaki Kishibe](https://open.spotify.com/artist/4D9ADmnRSSpkyrnofqLa7b) | [Stream](https://open.spotify.com/album/4r9WzvRUBLaFP6qep8wHPE) | 2:41 | 2022-05-13 |  |
 | [Sullen Streets](https://open.spotify.com/track/2EQ4Oc2W8iNG9ZpGdl5wpe) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Sullen Streets](https://open.spotify.com/album/09kxEbIQ5Ox5v8hczNkQsW) | 2:22 | 2023-02-24 |  |
 | [Summer Haze](https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Summer Haze](https://open.spotify.com/album/6b5M9uiTVphHivV0LrXWeO) | 1:38 | 2022-05-13 | 2023-09-16 |
+| [Sun over the desert](https://open.spotify.com/track/3wNOEQe2NOlExECcLqVPLG) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Sun over the desert](https://open.spotify.com/album/3sEZnpkw2WFgCLRTRE5BPV) | 2:08 | 2023-10-27 |  |
 | [Sun over the rolling hills](https://open.spotify.com/track/1isTWddGjMgVoDrxsWUBIO) | [Lucy Duclos](https://open.spotify.com/artist/4mcQ5pefKb0EGBe87nvas0) | [Virginia Roads](https://open.spotify.com/album/4sTKdmaDoTWpwCQF1v8nfX) | 2:38 | 2022-05-13 |  |
 | [Sunbeam](https://open.spotify.com/track/5qDr76MRaLPELK9SGKHYu4) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Sunbeam](https://open.spotify.com/album/2PIMTYAFnWmmoBv1cmfTsd) | 2:52 | 2023-08-11 |  |
 | [Sunrise Murmur](https://open.spotify.com/track/1kJApkWnDkH6wgjApxlIcK) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [A Slow Winding Road](https://open.spotify.com/album/2T141nerYqMwPqgCgJk71E) | 3:13 | 2022-05-13 |  |

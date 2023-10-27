@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Earl Sweatshirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,617,419 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,440 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [FromTheProjects \(feat\. Raekwon & Westside Gunn\)](https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY) | [Nappyhigh](https://open.spotify.com/artist/4MnQuPFIfAFg50h0RmnH0q), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [FromTheProjects \(feat\. Raekwon & Westside Gunn\)](https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB) | 2:35 |
 | 50 | [Bless \(feat\. MIKE & Sideshow\)](https://open.spotify.com/track/2iPfam65gH9PWFplrBXwDW) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Sideshow](https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC) | [Flying High](https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz) | 2:59 |
 
-Snapshot ID: `MCwzYjY4NDI3ZjQ5ZGVjODBmMDM5NDQxMjlmZjE5MDk0MTEyYTgyMDk5`
+Snapshot ID: `MCw1OWE3YzJkYWJjYTU5N2M1MTJlNjg2MmM2Y2U5NmRlZjEyZTJlMGRj`

@@ -4,7 +4,7 @@
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-285 songs - 18 hr 2 min
+286 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Home \- 2019 \- Remaster](https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 5:06 | 2021-12-03 |  |
 | [Honey](https://open.spotify.com/track/2InbY91stGdhxZRL4h4IIQ) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Honey](https://open.spotify.com/album/6vkuAUXk0Gm8xizHhtjx0w) | 3:44 | 2021-12-03 | 2022-08-16 |
 | [House](https://open.spotify.com/track/2ev06T7IoIBkBoowmKmoe8) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [House](https://open.spotify.com/album/5JkaAp3q8glruMSwkQpJCm) | 4:15 | 2021-12-03 | 2022-08-16 |
-| [How It Ends](https://open.spotify.com/track/0A71gr6oummBVekQZfg7tP) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends](https://open.spotify.com/album/31x43z5gF8ZJZnpfXFrN24) | 3:07 | 2022-09-23 |  |
+| [How It Ends](https://open.spotify.com/track/0A71gr6oummBVekQZfg7tP) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends](https://open.spotify.com/album/31x43z5gF8ZJZnpfXFrN24) | 3:07 | 2022-09-23 | 2023-10-27 |
+| [How It Ends](https://open.spotify.com/track/2XsfYmzpzvhCmlTvGBssYJ) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends](https://open.spotify.com/album/1moZ22n6w8zWMkWHdHyjSE) | 3:07 | 2023-09-21 |  |
 | [Human](https://open.spotify.com/track/0cAZvq4zhhsKFlqlSB5WiY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7) | 3:31 | 2021-12-03 | 2022-07-29 |
 | [Human](https://open.spotify.com/track/3LCYo0urQaaxYVYXijjE3S) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 3:31 | 2022-06-22 | 2022-08-27 |
 | [I Burned LA Down](https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:15 | 2022-10-06 | 2023-08-09 |

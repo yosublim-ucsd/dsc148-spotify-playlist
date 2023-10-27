@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Black Pumas
 
-775 songs - 1 day 23 hr 38 min
+776 songs - 1 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [B.N.D](https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K) | [Thaïs Lona](https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S) | [CUBE](https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E) | 4:17 | 2022-06-20 | 2023-06-08 |
 | [Baby Got Your Back](https://open.spotify.com/track/77ruUGIXn8JyyLgcNSVN5M) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW), [Nikka Costa](https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK) | [Sunday Afternoon](https://open.spotify.com/album/1S9twQ6gxAP47V8v877Gwb) | 4:59 | 2020-03-25\* | 2021-02-24 |
 | [Back of My Hand \(Live\)](https://open.spotify.com/track/2luK9cqWdNKliKj7xQVaa3) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Original Songs and Sound \(Deluxe Version\)](https://open.spotify.com/album/09wgEiUurhXuqsEOrpk1ud) | 4:25 | 2021-04-17 | 2022-02-11 |
+| [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-10-26 |  |
 | [Back To Me](https://open.spotify.com/track/3Pko6euCnCPuwGy4TVK7o3) | [Super db](https://open.spotify.com/artist/6Fsj5gGio0BcLbbgrKh5IY) | [Back To Me](https://open.spotify.com/album/0d2wOE8aJIRJp6RJO5PJGd) | 4:31 | 2023-06-07 | 2023-07-11 |
 | [Back to your Place](https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Back to your Place](https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3) | 3:22 | 2023-07-10 |  |
 | [Backseat](https://open.spotify.com/track/1GjTnn7p9Rm0B3IN2o7GUk) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/5QNjmWuzmbjl0I27zqdFJ7) | 5:10 | 2021-12-16 | 2022-09-20 |
@@ -158,7 +159,7 @@
 | [Don't Blame NY](https://open.spotify.com/track/3cacc8prCT96QrjXERE6do) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Don't Blame NY](https://open.spotify.com/album/3XPVwXFiWrYDHlg2ALfAyM) | 2:53 | 2020-05-15 | 2020-06-05 |
 | [Don't Doubt It](https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Don't Doubt It](https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN) | 3:02 | 2023-04-27 | 2023-07-11 |
 | [Don't Leave Me on Read \- Moods Remix](https://open.spotify.com/track/7KBLSCXur7xmc0XfAXINwq) | [Yuphoric](https://open.spotify.com/artist/7dUQFBLwkdsa2l4Ttc6EGP), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Don't Leave Me on Read \(Moods Remix\)](https://open.spotify.com/album/19VpcLHHgfbmvhHVaxn4Bi) | 3:19 | 2021-02-06 | 2022-01-14 |
-| [Don't Touch My Hair \(feat\. Sampha\)](https://open.spotify.com/track/2TyCAfhwu5tRqFW8VnGMIL) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:17 | 2023-10-06 |  |
+| [Don't Touch My Hair \(feat\. Sampha\)](https://open.spotify.com/track/2TyCAfhwu5tRqFW8VnGMIL) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:17 | 2023-10-06 | 2023-10-27 |
 | [Don't Walk Away](https://open.spotify.com/track/5wuV0R9HBRuz01Vd8ZFJoE) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Don't Walk Away](https://open.spotify.com/album/13SnQDDikQjAW9rTZiW6Of) | 3:23 | 2023-03-30 | 2023-06-08 |
 | [Don't You Dare Stop](https://open.spotify.com/track/3Ov7P2MYmiZYWOA65sApFj) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Reeling / Don't You Dare Stop](https://open.spotify.com/album/2HFVMUEIfaPQUJt5v1Jg7m) | 4:31 | 2023-06-07 | 2023-10-07 |
 | [Done Days](https://open.spotify.com/track/22poW8l1yrmcf4Sdz7gJDQ) | [Neenah](https://open.spotify.com/artist/4deQnvRX96zMWZzdEInQAr), [Nottz](https://open.spotify.com/artist/1iGcDQbhw4Slu7bygkuV2T) | [RAW](https://open.spotify.com/album/69wKRHpQFmWOXEzzV9ejDj) | 3:30 | 2020-11-28 | 2021-01-16 |

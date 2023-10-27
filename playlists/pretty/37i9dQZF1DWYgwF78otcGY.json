@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 26814,
+  "num_followers": 26816,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTZiNjliMTBjZTE2Zjk2ZDVmZTNmOGFlNWU3N2RlOTQxZTY3MjFl",
+  "snapshot_id": "MCxhNGQzNjBiYjFiM2E5ZGQzMDlhZTMzMjU5YjlmM2I0ODc0OTMzYjIw",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Eloise",
-        "url": "https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR"
-      },
-      "artists": [
-        {
-          "name": "Arvingarna",
-          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Eloise",
-      "url": "https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "\u00c4r",
         "url": "https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 188293,
       "name": "Stad i ljus",
       "url": "https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Eloise",
+        "url": "https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR"
+      },
+      "artists": [
+        {
+          "name": "Arvingarna",
+          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Eloise",
+      "url": "https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg"
     },
     {
       "added_at": "2023-02-26 01:59:39",

@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Ebo Taylor",
+        "url": "https://open.spotify.com/album/5FOShBCFRekNYPZwzKWLB2"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365680,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6V8mQGMlteOnomLViyIRwU"
+    },
+    {
+      "album": {
         "name": "Afro Tropical Soundz, Vol. 1",
         "url": "https://open.spotify.com/album/6qSmpM356gfbFMpy97f2JF"
       },
@@ -620,7 +638,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 365693,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1KT0sltdhzB2LxfS0GM8Uq"

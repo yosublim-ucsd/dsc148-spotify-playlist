@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Christmas Vol. 3",
+        "url": "https://open.spotify.com/album/2hdVR9dhg6UmbY5Dk6qzGT"
+      },
+      "artists": [
+        {
+          "name": "Clementine Duo",
+          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145779,
+      "name": "A Marshmallow World",
+      "url": "https://open.spotify.com/track/6pB2kCDyRizqjFAtw4B8Bp"
+    },
+    {
+      "album": {
         "name": "All I Want for Christmas Is You",
         "url": "https://open.spotify.com/album/474t5zcCFnsicUn3nNooel"
       },

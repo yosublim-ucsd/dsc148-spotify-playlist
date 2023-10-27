@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 163636,
       "name": "Big Girls Don't Cry",
       "url": "https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 213883,
       "name": "Blanket On The Ground",
       "url": "https://open.spotify.com/track/1OisioJjA7Y2pM19yBf4jl"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 168260,
       "name": "Body like backroad",
       "url": "https://open.spotify.com/track/4ftzIVYZ1lhBiQO3vuUfq0"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 198311,
       "name": "Easy From Now On",
       "url": "https://open.spotify.com/track/1zKF9MlZymZ5uuMVv4Us1G"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 331489,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 163414,
       "name": "Hallelujah I Love Her So",
       "url": "https://open.spotify.com/track/4Fuyarf5fHo2zJ6GoYC48N"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 167293,
       "name": "here comes the sun",
       "url": "https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 175432,
       "name": "I'm So Tired...",
       "url": "https://open.spotify.com/track/3KUBVgFUF0JfXI0MkcHgQO"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 172272,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/62rdJywT2r3EAi1KHtw1DA"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 191496,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/0Vdw0avLSgSt2uZoSZOXTx"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 172317,
       "name": "Only Wanna Be With You",
       "url": "https://open.spotify.com/track/6fsm1K4sCxPSp1YqQWKAQe"
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 141237,
       "name": "Someone I Used To Know",
       "url": "https://open.spotify.com/track/3cQlRg6dG0hdA2r9MWtXAW"
@@ -2188,6 +2188,24 @@
       "duration_ms": 255510,
       "name": "What About Us - Acoustic",
       "url": "https://open.spotify.com/track/7e4Pftu2tzDeY0W0690OKQ"
+    },
+    {
+      "album": {
+        "name": "what if",
+        "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "what if",
+      "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
     },
     {
       "album": {

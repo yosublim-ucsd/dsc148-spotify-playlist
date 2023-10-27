@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-464 songs - 1 day 2 hr 25 min
+465 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Peliculón](https://open.spotify.com/track/2MbHcrOARNtKVb5upQb4Kg) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Peliculón](https://open.spotify.com/album/4H9uGHowS5U1eP8lV1u7CB) | 3:18 | 2023-07-28 | 2023-08-18 |
 | [PELÍCULA](https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [PELÍCULA](https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L) | 3:13 | 2022-01-07 | 2023-10-06 |
 | [Pensándote](https://open.spotify.com/track/0eBXYmenc3IatPxBOtX91D) | [Luz Pereyra](https://open.spotify.com/artist/7D1Cr80ZNOkzVkvo53cGjA) | [Pensándote](https://open.spotify.com/album/7CfRSumqqyPF6u17A9BXXm) | 3:20 | 2022-04-01 | 2022-06-19 |
+| [Perdoname amor](https://open.spotify.com/track/60lkCw09ehFMdRAjSZSi8o) | [La Figui](https://open.spotify.com/artist/5QqWmfNdVYRaUOZ93oJJmn), [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Perdoname amor](https://open.spotify.com/album/4kJBJbwTiiWslEAx5S41KU) | 3:22 | 2023-10-26 |  |
 | [Perdón \- 2021 versión remasterizada](https://open.spotify.com/track/3ZVzlYwz3jwvAWDdobx0VN) | [GomaSlash](https://open.spotify.com/artist/2V381Id0YlUspiQorutUmP) | [Perdón \(2021 versión remasterizada\)](https://open.spotify.com/album/0C8rXN56LwFUBWWHME48ZA) | 3:11 | 2022-01-28 | 2022-04-20 |
 | [Piel](https://open.spotify.com/track/4fCRaUeln3PPUGAqWuCY7A) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [Franco Banda](https://open.spotify.com/artist/2bhMtu8Fua2BNTvwbjtJjH) | [Piel](https://open.spotify.com/album/29OY30x1zP4a0zKSfCvu9f) | 3:20 | 2022-01-07 | 2022-07-18 |
 | [pierdo](https://open.spotify.com/track/4ZiEpvfNIzEOWnGYECSEc8) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [pierdo](https://open.spotify.com/album/7qnFpZr8wt6zXg7aAdtFut) | 2:08 | 2022-06-03 | 2023-03-03 |
@@ -426,7 +427,7 @@
 | [Todo lo que hemos hecho](https://open.spotify.com/track/2vPLLswygDu5YPmRCxbNik) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Acto I: La \(Re\) Conciliación](https://open.spotify.com/album/1SJF6XS1MgjBugP0sLeX7Y) | 3:54 | 2022-07-01 | 2022-07-18 |
 | [TODO LO QUE HICIMOS.](https://open.spotify.com/track/4yREnAodtCMnXrOspdO6QR) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc) | [TODO LO QUE HICIMOS.](https://open.spotify.com/album/6tK7ZnVuqJMKX8qXKwwwJK) | 3:37 | 2022-01-28 | 2022-07-25 |
 | [Trenzas](https://open.spotify.com/track/6uqkFnk1cUPSiluuWdY12k) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Andrés Canalla](https://open.spotify.com/artist/1X0yOvDnVkVi33vLB5tBwB) | [Trenzas](https://open.spotify.com/album/4wxjfaHDsvoHrgDXSbE2m7) | 4:22 | 2022-01-28 | 2022-07-24 |
-| [Tripulantes](https://open.spotify.com/track/0wX8N4xGeF5fZnq2yB8CGl) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [Tripulantes](https://open.spotify.com/album/47BgPHezfsfaXbcE0Legup) | 3:48 | 2022-01-28 |  |
+| [Tripulantes](https://open.spotify.com/track/0wX8N4xGeF5fZnq2yB8CGl) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [Tripulantes](https://open.spotify.com/album/47BgPHezfsfaXbcE0Legup) | 3:48 | 2022-01-28 | 2023-10-27 |
 | [Trueno](https://open.spotify.com/track/6xy9QC9gzq1svvnkpbqFk6) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [Trueno](https://open.spotify.com/album/0kcIOQIumDdPdU8JH8UrGS) | 3:36 | 2022-01-07 | 2022-07-16 |
 | [Tu Cabeza](https://open.spotify.com/track/24ZePEqPyCvc2jT2TwLUWA) | [Bleckance](https://open.spotify.com/artist/7g3enk0PeZO2E1vqtVn6UD) | [Tu Cabeza](https://open.spotify.com/album/0o20muf7fSEktMPvoDCPp9) | 2:07 | 2022-04-01 | 2022-07-16 |
 | [Tu Costado Más Feroz](https://open.spotify.com/track/6wLQARt5kV2nigf2dxmCaX) | [Julieta Zylberberg](https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5) | [Tu Costado Más Feroz](https://open.spotify.com/album/6YGEszrMAOBfJZ9ZZFMbUb) | 2:16 | 2022-04-01 | 2022-04-16 |

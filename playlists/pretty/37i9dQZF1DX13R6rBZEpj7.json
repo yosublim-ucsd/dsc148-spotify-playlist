@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Gardna ",
-  "num_followers": 199397,
+  "num_followers": 199422,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjczMDY2Nzc1NjIwZjNhZmY4YTlkYzUwOGY5ODlkYzUyOGU4OGJh",
+  "snapshot_id": "MCw4ZGM4ZDUxNTliOTM5YWE5NDNkZDgzOTZjNDQwYWUwNjg0ZTY1ZGVk",
   "tracks": [
     {
       "added_at": "2023-10-20 15:13:43",
@@ -623,22 +623,18 @@
     {
       "added_at": "2023-10-20 15:13:43",
       "album": {
-        "name": "Icon",
-        "url": "https://open.spotify.com/album/7bwEAWHPjQrk6Qr3fdg2En"
+        "name": "Gimme More",
+        "url": "https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN"
       },
       "artists": [
         {
-          "name": "Digital Koala",
-          "url": "https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU"
-        },
-        {
-          "name": "SK",
-          "url": "https://open.spotify.com/artist/2NrLFUM3oJeTAs8ZX6gFoc"
+          "name": "Distinkt",
+          "url": "https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Icon",
-      "url": "https://open.spotify.com/track/6lHkU1xFBcjMVXeqDscSh7"
+      "duration_ms": 234418,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
     },
     {
       "added_at": "2023-10-20 15:13:43",
@@ -679,18 +675,22 @@
     {
       "added_at": "2023-10-20 15:13:43",
       "album": {
-        "name": "Gimme More",
-        "url": "https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN"
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7bwEAWHPjQrk6Qr3fdg2En"
       },
       "artists": [
         {
-          "name": "Distinkt",
-          "url": "https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug"
+          "name": "Digital Koala",
+          "url": "https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU"
+        },
+        {
+          "name": "SK",
+          "url": "https://open.spotify.com/artist/2NrLFUM3oJeTAs8ZX6gFoc"
         }
       ],
-      "duration_ms": 234418,
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
+      "duration_ms": 157500,
+      "name": "Icon",
+      "url": "https://open.spotify.com/track/6lHkU1xFBcjMVXeqDscSh7"
     },
     {
       "added_at": "2023-10-20 15:13:43",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-10-20 15:13:43",
       "album": {
-        "name": "Troubled Waters (Zed Bias Remixes)",
-        "url": "https://open.spotify.com/album/2PY8eTuCUDIISFcZa6IIWA"
-      },
-      "artists": [
-        {
-          "name": "The Streets",
-          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
-        },
-        {
-          "name": "Zed Bias",
-          "url": "https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7"
-        }
-      ],
-      "duration_ms": 231111,
-      "name": "Troubled Waters - Zed Bias UKG Mix; Radio Edit",
-      "url": "https://open.spotify.com/track/2q3vMfgqIXm08cmVTSyN5P"
-    },
-    {
-      "added_at": "2023-10-20 15:13:43",
-      "album": {
         "name": "Skanker",
         "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 227189,
       "name": "Skanker",
       "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
+    },
+    {
+      "added_at": "2023-10-20 15:13:43",
+      "album": {
+        "name": "Troubled Waters (Zed Bias Remixes)",
+        "url": "https://open.spotify.com/album/2PY8eTuCUDIISFcZa6IIWA"
+      },
+      "artists": [
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        },
+        {
+          "name": "Zed Bias",
+          "url": "https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7"
+        }
+      ],
+      "duration_ms": 231111,
+      "name": "Troubled Waters - Zed Bias UKG Mix; Radio Edit",
+      "url": "https://open.spotify.com/track/2q3vMfgqIXm08cmVTSyN5P"
     },
     {
       "added_at": "2023-10-20 15:13:43",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2023-10-20 15:13:43",
       "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
+      },
+      "artists": [
+        {
+          "name": "Gecha",
+          "url": "https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC"
+        },
+        {
+          "name": "3000 Bass",
+          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
+    },
+    {
+      "added_at": "2023-10-20 15:13:43",
+      "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 249448,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/60GofMxxkrLuEIOS9JluGG"
-    },
-    {
-      "added_at": "2023-10-20 15:13:43",
-      "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
-      },
-      "artists": [
-        {
-          "name": "Gecha",
-          "url": "https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC"
-        },
-        {
-          "name": "3000 Bass",
-          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
     },
     {
       "added_at": "2023-10-20 15:13:43",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-10-20 15:13:43",
       "album": {
+        "name": "Barrington / Bodies",
+        "url": "https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "Barrington",
+      "url": "https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii"
+    },
+    {
+      "added_at": "2023-10-20 15:13:43",
+      "album": {
         "name": "Over / Holding On",
         "url": "https://open.spotify.com/album/6JsTt3BENeBQSdVhEfj5TH"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 273245,
       "name": "Over",
       "url": "https://open.spotify.com/track/3hctz1DZDroVD2i26nGtLQ"
-    },
-    {
-      "added_at": "2023-10-20 15:13:43",
-      "album": {
-        "name": "Barrington / Bodies",
-        "url": "https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 221818,
-      "name": "Barrington",
-      "url": "https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii"
     },
     {
       "added_at": "2023-10-20 15:13:43",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-10-20 15:13:43",
       "album": {
-        "name": "Don't Let Me Down (feat. Prima)",
-        "url": "https://open.spotify.com/album/5dHxGwSxntnWNRQlDXMARR"
-      },
-      "artists": [
-        {
-          "name": "Cajama",
-          "url": "https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY"
-        },
-        {
-          "name": "Prima",
-          "url": "https://open.spotify.com/artist/48mKSP3Udy0jlAXG7uv3lX"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Don't Let Me Down (feat. Prima)",
-      "url": "https://open.spotify.com/track/3kSxlCHp8Fsw9qYR0fI0lh"
-    },
-    {
-      "added_at": "2023-10-20 15:13:43",
-      "album": {
         "name": "Emergency",
         "url": "https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 169846,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
+    },
+    {
+      "added_at": "2023-10-20 15:13:43",
+      "album": {
+        "name": "Don't Let Me Down (feat. Prima)",
+        "url": "https://open.spotify.com/album/5dHxGwSxntnWNRQlDXMARR"
+      },
+      "artists": [
+        {
+          "name": "Cajama",
+          "url": "https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY"
+        },
+        {
+          "name": "Prima",
+          "url": "https://open.spotify.com/artist/48mKSP3Udy0jlAXG7uv3lX"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Don't Let Me Down (feat. Prima)",
+      "url": "https://open.spotify.com/track/3kSxlCHp8Fsw9qYR0fI0lh"
     },
     {
       "added_at": "2023-10-20 15:13:43",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "Only the best in South African and international RnB. Cover: <a href=\"https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=JERMlZ5YQVuqOQz2ox9UsQ\">Manana</a>",
+  "description": "Only the best in South African and international RnB. Cover: <a href=\"https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE?si=OFuCTSgFTWKQJZwmSAiNNg\">Kaien Cruz</a>",
   "name": "BlueZA",
   "tracks": [
     {
@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "ALL4U",
+        "url": "https://open.spotify.com/album/7xVPcDT7xrPrPPah89KQW6"
+      },
+      "artists": [
+        {
+          "name": "Phiwo",
+          "url": "https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "ALL4U",
+      "url": "https://open.spotify.com/track/72sdW7Bn1bcSzD1eoBVgBM"
+    },
+    {
+      "album": {
         "name": "As You Are - A COLORS SHOW",
         "url": "https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc"
       },
@@ -82,7 +100,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 221493,
       "name": "As You Are - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6tDTnxaq8fHXZ63uiseNRH"
@@ -126,6 +144,28 @@
       "duration_ms": 310000,
       "name": "Back 2 U",
       "url": "https://open.spotify.com/track/45GqiF1tr66MeXBeJztwdX"
+    },
+    {
+      "album": {
+        "name": "beb\u00e9",
+        "url": "https://open.spotify.com/album/7iIlZFq4OfdFkEJaPZjl4y"
+      },
+      "artists": [
+        {
+          "name": "Una Rams",
+          "url": "https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS"
+        },
+        {
+          "name": "Tron Pyre",
+          "url": "https://open.spotify.com/artist/3pi8AlHZo5bq0mFi3wZDW8"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "beb\u00e9",
+      "url": "https://open.spotify.com/track/1VzRSPZngDzfXHZNFtKYsW"
     },
     {
       "album": {
@@ -246,7 +286,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 181416,
       "name": "Circles",
       "url": "https://open.spotify.com/track/1YZC8SZJin71ZfItySfe5I"
@@ -264,7 +304,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 227688,
       "name": "CLOWN",
       "url": "https://open.spotify.com/track/4FqZJdnOhx9s2I6o8hmMsd"
@@ -326,6 +366,28 @@
       "duration_ms": 191020,
       "name": "Down",
       "url": "https://open.spotify.com/track/5PcO9uuhPX9PcdPC0SMDmz"
+    },
+    {
+      "album": {
+        "name": "EBBS & FLOWS: Endlessly",
+        "url": "https://open.spotify.com/album/5zuD21xL4m084eqTonEZ6b"
+      },
+      "artists": [
+        {
+          "name": "LANDMARQUE",
+          "url": "https://open.spotify.com/artist/1IPbTwMsCPZBA97EBCYBYL"
+        },
+        {
+          "name": "Ayanda Jiya",
+          "url": "https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "EBBS & FLOWS: Endlessly",
+      "url": "https://open.spotify.com/track/7mgeMBOFtXugHlK0C27UXx"
     },
     {
       "album": {
@@ -394,7 +456,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 144761,
       "name": "Fear",
       "url": "https://open.spotify.com/track/5lntfXi9Feo5T1xR6mTnvR"
@@ -692,10 +754,32 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 153800,
       "name": "Looking Good",
       "url": "https://open.spotify.com/track/5xzmxRIdBaPGp1y6kJa7Hh"
+    },
+    {
+      "album": {
+        "name": "Asali (Sweeter)",
+        "url": "https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/6OM5yjhSYR68YwS4fADK3O"
     },
     {
       "album": {
@@ -909,6 +993,28 @@
     },
     {
       "album": {
+        "name": "I Left My Heart In Ladera",
+        "url": "https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218794,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6xb06ZbAIf45F9Vwiy44FY"
+    },
+    {
+      "album": {
         "name": "Pillow Talk",
         "url": "https://open.spotify.com/album/4hlGB7lWS8cYFWZIhPiAVt"
       },
@@ -992,7 +1098,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 254693,
       "name": "Shows N Hoes",
       "url": "https://open.spotify.com/track/0sTAmXCitR7fOKkVUOZAzD"
@@ -1131,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "KAIEN",
+        "url": "https://open.spotify.com/album/71miAiUyj1kOLJ0yiLgvip"
+      },
+      "artists": [
+        {
+          "name": "Kaien Cruz",
+          "url": "https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Tell No One",
+      "url": "https://open.spotify.com/track/3kdZmjXZCsZGvYgSiigWhn"
+    },
+    {
+      "album": {
         "name": "Tender",
         "url": "https://open.spotify.com/album/4Gp4JlzMRXKuH32Jee28D2"
       },
@@ -1200,7 +1324,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 178793,
       "name": "Until The Morning",
       "url": "https://open.spotify.com/track/2mI4R8Mafb3y6I1gytvkDe"
@@ -1298,6 +1422,24 @@
       "duration_ms": 153684,
       "name": "What Is Love?",
       "url": "https://open.spotify.com/track/2BSIFZLVJ8QIUWvIToGQzb"
+    },
+    {
+      "album": {
+        "name": "Wild Ride - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162313,
+      "name": "Wild Ride - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
     },
     {
       "album": {

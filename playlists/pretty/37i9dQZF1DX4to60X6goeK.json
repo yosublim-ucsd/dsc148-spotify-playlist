@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Bou",
-  "num_followers": 49643,
+  "num_followers": 49736,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmE3YjI3OTc1NzYzNzRlNmRmMDdhNjZmMjBiY2U0MWIzYjA5YjRj",
+  "snapshot_id": "MCw0YjMxMWNiYTM5ZmVkNjJmYjE2M2ExYzM1ZTdiNWVkZWI4NWQ3NzFk",
   "tracks": [
     {
       "added_at": "2023-10-20 08:19:51",
@@ -691,18 +691,22 @@
     {
       "added_at": "2023-10-20 08:19:51",
       "album": {
-        "name": "Nightmares",
-        "url": "https://open.spotify.com/album/2lQ23jZfDgcb2s4v47W1NK"
+        "name": "Forever Changes",
+        "url": "https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6"
       },
       "artists": [
         {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Zara Kershaw",
+          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
         }
       ],
-      "duration_ms": 181032,
-      "name": "Nightmares",
-      "url": "https://open.spotify.com/track/6mzDDGA0c1eNIFRqMt6kB1"
+      "duration_ms": 184065,
+      "name": "Forever Changes",
+      "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
     },
     {
       "added_at": "2023-10-20 08:19:51",
@@ -735,22 +739,18 @@
     {
       "added_at": "2023-10-20 08:19:51",
       "album": {
-        "name": "Forever Changes",
-        "url": "https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6"
+        "name": "Nightmares",
+        "url": "https://open.spotify.com/album/2lQ23jZfDgcb2s4v47W1NK"
       },
       "artists": [
         {
-          "name": "DNMO",
-          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
-        },
-        {
-          "name": "Zara Kershaw",
-          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
         }
       ],
-      "duration_ms": 184065,
-      "name": "Forever Changes",
-      "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
+      "duration_ms": 181032,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/6mzDDGA0c1eNIFRqMt6kB1"
     },
     {
       "added_at": "2023-10-20 08:19:51",

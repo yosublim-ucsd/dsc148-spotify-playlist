@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Stereo Wall",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Naura Ayu",
   "name": "RADAR Indonesia",
   "tracks": [
     {
@@ -2068,6 +2068,24 @@
       "duration_ms": 256614,
       "name": "Pelangi",
       "url": "https://open.spotify.com/track/0ChdsMA1hWkE2I8pd3cpmd"
+    },
+    {
+      "album": {
+        "name": "Pemilik Rindu",
+        "url": "https://open.spotify.com/album/2GqDteGvoqep1CH4cuc67d"
+      },
+      "artists": [
+        {
+          "name": "Naura Ayu",
+          "url": "https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207755,
+      "name": "Pemilik Rindu",
+      "url": "https://open.spotify.com/track/2pIyUkqlkIbinlSyy4pBEv"
     },
     {
       "album": {

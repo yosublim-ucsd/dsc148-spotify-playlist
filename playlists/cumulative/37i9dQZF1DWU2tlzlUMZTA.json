@@ -957,6 +957,32 @@
     },
     {
       "album": {
+        "name": "Restart - Rap (From \"12th Fail\")",
+        "url": "https://open.spotify.com/album/0tCzHbqVkQzwpgwkH6kHR7"
+      },
+      "artists": [
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        },
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Swanand Kirkire",
+          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179062,
+      "name": "Restart - Rap (From \"12th Fail\")",
+      "url": "https://open.spotify.com/track/3j3my4A9TVV3aS5Qt9oqEb"
+    },
+    {
+      "album": {
         "name": "Bluff Master (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5sASM5OybJgExUWUXLH2eQ"
       },

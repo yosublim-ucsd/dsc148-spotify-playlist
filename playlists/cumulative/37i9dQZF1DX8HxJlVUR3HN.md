@@ -2,9 +2,9 @@
 
 ### [VOLUME FRANCE](https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN)
 
-> Les meilleures nouveautés de la scène rock française\. Photo : Skip The Use & Youv Dee
+> Les meilleures nouveautés de la scène rock française\. Photo : Mad Foxes
 
-69 songs - 4 hr 3 min
+72 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Accidents](https://open.spotify.com/track/3IiyRusvy9yOh2uuDsG1Ai) | [Deportivo](https://open.spotify.com/artist/7k8b9tyD9a0WEoPgidHrGK) | [Accidents](https://open.spotify.com/album/5gij4p2FSt40MgqYfnPJyV) | 3:41 | 2023-10-12 | 2023-10-14 |
 | [All Saints](https://open.spotify.com/track/67PbgSOlVPaxKfbG4QosTC) | [Dirty Black Summer](https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq) | [All Saints](https://open.spotify.com/album/6XHyKhBONAA6IH1KTZJHTw) | 4:04 | 2023-10-19 |  |
 | [Anxiety](https://open.spotify.com/track/4WlWURWhySwwK7lq0kwyIO) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [Anxiety](https://open.spotify.com/album/2QRKR6Pm7MjSoDcLZuVdX2) | 3:26 | 2023-09-28 |  |
+| [Autodrama](https://open.spotify.com/track/3uvsiUdJ40LfqYQaok6aEI) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [THIRST](https://open.spotify.com/album/1ihsnvwQh0l61TnWVJN5No) | 4:09 | 2023-10-26 |  |
 | [Baise tout seul](https://open.spotify.com/track/02NcPv5dsj3fCDPyLDtdrc) | [Princesses Leya](https://open.spotify.com/artist/5YunN7uZjy9Tgvds1IKSVT) | [Big Bang Therapy](https://open.spotify.com/album/1suiY7lXk68pCXeJiXi9Yl) | 2:37 | 2023-10-20 |  |
 | [Baise tout seul](https://open.spotify.com/track/5TE991wFPT4dLTlkvgJthg) | [Princesses Leya](https://open.spotify.com/artist/5YunN7uZjy9Tgvds1IKSVT) | [Baise tout seul](https://open.spotify.com/album/3QFJWu9AxTJr7b930GRUQm) | 2:37 | 2023-09-28 | 2023-10-23 |
 | [BIG](https://open.spotify.com/track/5zPzmBPamaT9eDGduGtxqG) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [BIG](https://open.spotify.com/album/1L8bOet9vwhCUUHgJewc2Q) | 2:15 | 2023-10-19 |  |
@@ -20,9 +21,10 @@
 | [Break The Rules](https://open.spotify.com/track/65uA9t4W1khgUaCYg7Y018) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [What A Time To Be Alive](https://open.spotify.com/album/2z8GnZChsFh5azAx1Rpbpl) | 3:19 | 2023-09-28 |  |
 | [Bring the Fun Back to Me](https://open.spotify.com/track/0vXBJJ1cW9Gc3h13Z4NvTp) | [Ponta Preta](https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e) | [Bring the Fun Back to Me](https://open.spotify.com/album/6YXlAgunvz0RKjNXJidPkh) | 3:33 | 2023-09-28 |  |
 | [Broken Bones](https://open.spotify.com/track/2ZTXDpAna2oX7SmxctOjmi) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Broken Bones](https://open.spotify.com/album/7Bo93WOR189AwOAt6RUvAD) | 3:25 | 2023-09-28 | 2023-10-13 |
+| [Bruised And Battered](https://open.spotify.com/track/6EnpuWBCsYGh9Eeq4E3rKR) | [Bad Situation](https://open.spotify.com/artist/6jwj8yMIb86kjEuGVoHKqG) | [Bruised And Battered](https://open.spotify.com/album/7GKpuslNh1hguCV8aJuy3d) | 3:33 | 2023-10-26 |  |
 | [Call Me](https://open.spotify.com/track/11KdG302ZtlT6LUC0NpaAW) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB), [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Call Me](https://open.spotify.com/album/7rD6S3nfNwM3PoVUUAsKsW) | 3:21 | 2023-09-28 |  |
 | [Cassandra](https://open.spotify.com/track/6gspNJTYQYS9ynsN87MU0J) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [This Too Shall Pass](https://open.spotify.com/album/2cQYNZcTP8bD02QwiFCS2i) | 3:44 | 2023-10-12 |  |
-| [Catch Me If You Can](https://open.spotify.com/track/7BiNhBP541SxqgX18naxpu) | [MIDBROOK](https://open.spotify.com/artist/3YYHKuHu9icn2Prrf5W1VY) | [Catch Me If You Can](https://open.spotify.com/album/0toOfWiqnLbzC01QD77PYJ) | 2:05 | 2023-09-28 |  |
+| [Catch Me If You Can](https://open.spotify.com/track/7BiNhBP541SxqgX18naxpu) | [MIDBROOK](https://open.spotify.com/artist/3YYHKuHu9icn2Prrf5W1VY) | [Catch Me If You Can](https://open.spotify.com/album/0toOfWiqnLbzC01QD77PYJ) | 2:05 | 2023-09-28 | 2023-10-27 |
 | [Cold Water Swim](https://open.spotify.com/track/0sUCO8NGZhMG7IXRZ9IQjr) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Cold Water Swim](https://open.spotify.com/album/0awhRPFIuizXkso3zAiwWb) | 2:51 | 2023-10-19 |  |
 | [Coma Kids](https://open.spotify.com/track/6anegGcJvjryHbQ9vS0Ry5) | [Villa Scandal](https://open.spotify.com/artist/0L6WTtHcGGRPP8JKQHkAhW) | [Coma Kids](https://open.spotify.com/album/0rBgxxivQFKCkSN8oqi1N0) | 3:08 | 2023-09-28 | 2023-10-13 |
 | [Counting down the Days](https://open.spotify.com/track/0snV7BsW85mM3Y5J0f0rBN) | [Movement At Night](https://open.spotify.com/artist/3npdUd8ZD22EJkpwOG47fE) | [Failed By Choice](https://open.spotify.com/album/4ZpRjNZsXJIPdIcUO757RE) | 4:26 | 2023-09-28 |  |
@@ -47,11 +49,11 @@
 | [Ma pièce](https://open.spotify.com/track/3gbTHza5asYZ7QrA8RQehA) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Ma pièce](https://open.spotify.com/album/20vx4PPkOcDFPYuV51BoKW) | 2:23 | 2023-09-28 |  |
 | [Me Me and Mine](https://open.spotify.com/track/3Ddpsbd5xVSWZUYKdiKPj0) | [Perfecto](https://open.spotify.com/artist/3DNSdKcse6RBNtXhSAC7nz) | [Quasar of Love](https://open.spotify.com/album/0D6LKEOlGw6DyaRoc0z0FR) | 4:28 | 2023-09-28 | 2023-10-06 |
 | [Model](https://open.spotify.com/track/0PgfUO12sVy39a87M9J0rn) | [FRAGILE](https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu) | [...About Going Home](https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI) | 4:09 | 2023-09-28 | 2023-10-06 |
-| [Moonbow](https://open.spotify.com/track/6y3PeSuZqsfk30d7Pbs8dv) | [Stinky](https://open.spotify.com/artist/1k3zNkpgeygyoc27mNoAsp) | [Moonbow](https://open.spotify.com/album/0zBYVaDpGfIbIxPNs46WIH) | 4:01 | 2023-09-28 |  |
+| [Moonbow](https://open.spotify.com/track/6y3PeSuZqsfk30d7Pbs8dv) | [Stinky](https://open.spotify.com/artist/1k3zNkpgeygyoc27mNoAsp) | [Moonbow](https://open.spotify.com/album/0zBYVaDpGfIbIxPNs46WIH) | 4:01 | 2023-09-28 | 2023-10-27 |
 | [Mysteryland](https://open.spotify.com/track/2He1zZLDLCNq3n3Diq1naW) | [Moonball](https://open.spotify.com/artist/1zssGmXcSwzfO2eVRrHOUj) | [Mysteryland](https://open.spotify.com/album/5QH2cz6F8F7lxENCQzJH8S) | 4:29 | 2023-09-28 |  |
 | [No Way Back](https://open.spotify.com/track/1LOfgqLOdbYOaIUpMNQWqQ) | [Your New Favorite Tape](https://open.spotify.com/artist/4ENnggxXjjdhEKsUwiH2JP) | [No Way Back](https://open.spotify.com/album/1wA9xFBmCIQ86l91WEQvMi) | 2:12 | 2023-09-28 |  |
 | [On My Mind](https://open.spotify.com/track/6BrXzU8dYbWBn1uOa3gfM8) | [HEY LIFE](https://open.spotify.com/artist/1MnMtr6vo41XzjwgRvD5wf) | [On My Mind](https://open.spotify.com/album/5Tc3N95b5Zg5u18ujeu1me) | 2:54 | 2023-09-28 |  |
-| [Passenger](https://open.spotify.com/track/4p6yyTfYGOGWwNtxVMEHmj) | [HEADKEYZ](https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea) | [The Cage & The Crown : Chapter I](https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK) | 4:03 | 2023-09-28 |  |
+| [Passenger](https://open.spotify.com/track/4p6yyTfYGOGWwNtxVMEHmj) | [HEADKEYZ](https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea) | [The Cage & The Crown : Chapter I](https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK) | 4:03 | 2023-09-28 | 2023-10-27 |
 | [Perdu !](https://open.spotify.com/track/3PIF5IalvXFUmghnlRqRMY) | [Deportivo](https://open.spotify.com/artist/7k8b9tyD9a0WEoPgidHrGK) | [Perdu !](https://open.spotify.com/album/2P5iy6qfhAlVh1eDCTqky1) | 1:59 | 2023-09-28 | 2023-10-13 |
 | [Powerback](https://open.spotify.com/track/4tXM3eS5yTpZXRRfCN5uby) | [Shady Fat Kats](https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD) | [Powerback](https://open.spotify.com/album/05dhsqbUKJoc6pvyfnY3dI) | 3:45 | 2023-10-05 | 2023-10-20 |
 | [Pyromane](https://open.spotify.com/track/7fpg6UBygCX0UR93lBPATO) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [11:11](https://open.spotify.com/album/0jfiAUw1sZ8EyNYaNMTe7T) | 2:58 | 2023-09-28 |  |
@@ -64,6 +66,7 @@
 | [SNAKES](https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [SNAKES](https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk) | 3:11 | 2023-09-28 |  |
 | [SOLO](https://open.spotify.com/track/6Qq8s0eASiHcvgbzsMTTo6) | [Sunborn](https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS) | [SOLO](https://open.spotify.com/album/0HboLHFNlLE9YKjvaKzDQQ) | 3:41 | 2023-09-28 |  |
 | [Spin](https://open.spotify.com/track/2bbZeDduBJLuEqZKzGbJvf) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [Spin](https://open.spotify.com/album/3sx15DWfaOrDxTEyzAUHCO) | 3:39 | 2023-10-05 |  |
+| [Splendore Evolution](https://open.spotify.com/track/6sWIbAepi2KBs2sLttYqeD) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Splendore Evolution](https://open.spotify.com/album/1MZeEPvgvGW86AIvg6F46u) | 3:07 | 2023-10-26 |  |
 | [Still There](https://open.spotify.com/track/6nE6Ays1vUQugTCUiUpi6z) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:09 | 2023-09-28 | 2023-10-13 |
 | [Strange Desire II](https://open.spotify.com/track/3SnmkxTuAY2XuRimbloqiG) | [Send Me Love Letters](https://open.spotify.com/artist/5RiWMf3FdQCkeAbwZXNcVk) | [Strange Desire](https://open.spotify.com/album/3juU6WucGVJ0ccA0XQyoDE) | 3:38 | 2023-09-28 |  |
 | [Strange Feeling](https://open.spotify.com/track/1lQdGdF0LNzhy9v5os0pTS) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Strange Feeling](https://open.spotify.com/album/2LRUyObrhcVkssuuhw3C3U) | 3:52 | 2023-09-28 |  |

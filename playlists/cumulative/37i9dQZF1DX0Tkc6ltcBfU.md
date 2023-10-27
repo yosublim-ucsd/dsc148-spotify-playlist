@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Offset
 
-918 songs - 1 day 19 hr 53 min
+919 songs - 1 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,8 @@
 | [Finger Food](https://open.spotify.com/track/1gXOwyDr6zzIL6FHk5L9IJ) | [Rolling Loud](https://open.spotify.com/artist/1KV1kUwVWFHdF8J4GGiMkg), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Finger Food](https://open.spotify.com/album/5PMB3dVQeDR63EftsRyVd1) | 3:38 | 2022-12-09 | 2023-01-28 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-08 | 2022-05-14 |
 | [First Class](https://open.spotify.com/track/0FnmE9EqmI43RBJVLZ0RMM) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [First Class](https://open.spotify.com/album/3X2LJ8UkYIuKiZkFyW5EK2) | 4:31 | 2023-08-25 | 2023-09-02 |
-| [First Day Out \(Freestyle\)](https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u) | 2:22 | 2023-06-30 |  |
+| [First Day Out \(Freestyle\)](https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u) | 2:22 | 2023-06-30 | 2023-10-27 |
+| [First Day Out \(Freestyle\)](https://open.spotify.com/track/7idI4LLo9LVLqrvvzhSj3n) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/31UX5n39Siyj0nXs1s5DSZ) | 2:22 | 2023-10-20 |  |
 | [First Impression \(feat\. Quavo & Yung Miami\)](https://open.spotify.com/track/605q55PSYbR26lHjamODIz) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 5:22 | 2022-06-17 | 2022-07-09 |
 | [First Show](https://open.spotify.com/track/5nGITHcYH3Tt5WolBVEcrJ) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [First Show](https://open.spotify.com/album/1sngfICVppLNMrDKHlBsxC) | 2:01 | 2023-04-21 | 2023-06-24 |
 | [First Time](https://open.spotify.com/track/2LWeSrNPOceNtiGecWLLoe) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Public Housing, Pt\. 2](https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI) | 3:05 | 2023-01-06 | 2023-02-18 |
@@ -537,7 +538,7 @@
 | [Mundo](https://open.spotify.com/track/4sNclT17s1pL7R3n9XBMqg) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Mundo](https://open.spotify.com/album/5zxtWXOO9F7DhU1iwOgWN8) | 2:33 | 2023-06-30 | 2023-07-15 |
 | [Murder & Millions](https://open.spotify.com/track/27RWVlCet2iZlGciBETorw) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Murder & Millions](https://open.spotify.com/album/5Rkqhaapzmtrpv09cdAHWg) | 2:30 | 2023-10-20 |  |
 | [Murder Bitch](https://open.spotify.com/track/1SfiDsFHqJnQoiN7cLaRz0) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Murder Bitch](https://open.spotify.com/album/4jenlFugsErE0X5wP5ot79) | 4:53 | 2022-07-29 | 2022-09-17 |
-| [Must Be Me](https://open.spotify.com/track/6Cxc9tL1sMdivV1Quh0yjZ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Breath of Fresh Air](https://open.spotify.com/album/7yaZiqWLiUdPXwl2m9EnGR) | 3:30 | 2023-10-20 | 2023-10-26 |
+| [Must Be Me](https://open.spotify.com/track/6Cxc9tL1sMdivV1Quh0yjZ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Breath of Fresh Air](https://open.spotify.com/album/7yaZiqWLiUdPXwl2m9EnGR) | 3:30 | 2023-10-20 |  |
 | [My Body \(feat\. B.O.G\. Vonnie\)](https://open.spotify.com/track/2eJXmksBzY3XlLj1obQJs0) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [B.O.G\. Vonnie](https://open.spotify.com/artist/5ZDrZTQOHAwkOmg0IvQO9U) | [UNLV](https://open.spotify.com/album/2599H2Ny0MB33Zvd1n7WNU) | 2:54 | 2022-10-21 | 2022-11-12 |
 | [My Image](https://open.spotify.com/track/7KkNO3y61CXpN1g7qBkg8N) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [My Image](https://open.spotify.com/album/1GQVXe1zAxDTOkBe1m2ehw) | 3:10 | 2023-05-26 | 2023-08-05 |
 | [My Way](https://open.spotify.com/track/5BcIBbBdkjSYnf5jNlLG7j) | [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Emotional Gangsta](https://open.spotify.com/album/09wAIQk3bRrbBlNQZXBv2C) | 4:23 | 2022-11-25 | 2022-12-10 |

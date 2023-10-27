@@ -1,12 +1,12 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=GnO1OB_6S_6kZLJF-0n5sQ\">Jemma Catherine</a>",
-  "num_followers": 15121,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY?si=03c1kirSTgCUAXEoU7gnCw\">West Coast Wolves</a>",
+  "num_followers": 15127,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzNkNjU1Mzc5YTdkNGI2OWE3OTFkZmU5ZDRhMmEyODM0NmVjYTRj",
+  "snapshot_id": "MCw1MWYzN2JmOTdmYjgwYjAxNWMwNjc5ZDNjMWI5OWUxNWUxY2ExYjA1",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -23,6 +23,90 @@
       "duration_ms": 203048,
       "name": "Invisible Walls",
       "url": "https://open.spotify.com/track/1eQRPJcdoX8D4nbnxPlJX1"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/3Pm5DFzMu6MMKeyUlBfT9I"
+      },
+      "artists": [
+        {
+          "name": "Cindy-Louise",
+          "url": "https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD"
+        }
+      ],
+      "duration_ms": 228781,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/2nuJbLSFHbWNYSQ3C7HTay"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "I Don't Feel Like Anything Makes Sense",
+        "url": "https://open.spotify.com/album/0E6TA2CrTRxNzJOj95khrf"
+      },
+      "artists": [
+        {
+          "name": "Kloudink",
+          "url": "https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P"
+        },
+        {
+          "name": "Little Elephants",
+          "url": "https://open.spotify.com/artist/47buibsf7dxNAispmt5N1O"
+        }
+      ],
+      "duration_ms": 216585,
+      "name": "I Don't Feel Like Anything Makes Sense",
+      "url": "https://open.spotify.com/track/6nSY9w8oUTQ7cuB6bC6IwH"
+    },
+    {
+      "added_at": "2023-09-15 04:14:22",
+      "album": {
+        "name": "Pizza Party",
+        "url": "https://open.spotify.com/album/6hzXhNSce8sW2sn4fr5rUd"
+      },
+      "artists": [
+        {
+          "name": "Elle E",
+          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Pizza Party",
+      "url": "https://open.spotify.com/track/34G7rugYnI2n8PMgAjQ1xr"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Unbreasted",
+        "url": "https://open.spotify.com/album/2EeaGJ8yoA1q8lAcRmDWua"
+      },
+      "artists": [
+        {
+          "name": "Babette",
+          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
+        }
+      ],
+      "duration_ms": 182888,
+      "name": "The Great Antagonist",
+      "url": "https://open.spotify.com/track/2wz74k8mcxoYRW4Qvxckrp"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Nakhu Ses\u2019Fika",
+        "url": "https://open.spotify.com/album/2Wvspa9VimsIhlaKrlmfJp"
+      },
+      "artists": [
+        {
+          "name": "Shameless Band",
+          "url": "https://open.spotify.com/artist/1WMFWKZqX2Y5lW2SKetrMz"
+        }
+      ],
+      "duration_ms": 210436,
+      "name": "Nakhu Ses\u2019Fika",
+      "url": "https://open.spotify.com/track/5ldT2XXjE1vGrJqzaeO1Ez"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -103,22 +187,6 @@
       "duration_ms": 212000,
       "name": "Love Remains",
       "url": "https://open.spotify.com/track/39Yc140rdc73NQYiYGRlEh"
-    },
-    {
-      "added_at": "2023-09-15 04:14:22",
-      "album": {
-        "name": "Pizza Party",
-        "url": "https://open.spotify.com/album/6hzXhNSce8sW2sn4fr5rUd"
-      },
-      "artists": [
-        {
-          "name": "Elle E",
-          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Pizza Party",
-      "url": "https://open.spotify.com/track/34G7rugYnI2n8PMgAjQ1xr"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -439,22 +507,6 @@
     {
       "added_at": "2023-08-31 21:59:00",
       "album": {
-        "name": "Bo Dorp",
-        "url": "https://open.spotify.com/album/0ob0rVAs13K2PSZeJ8P49w"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Visagie",
-          "url": "https://open.spotify.com/artist/2iFXBPX3DpgZid32e9QqUK"
-        }
-      ],
-      "duration_ms": 162180,
-      "name": "Die Man",
-      "url": "https://open.spotify.com/track/0UOflpM3Q5WGmigPr4W2We"
-    },
-    {
-      "added_at": "2023-08-31 21:59:00",
-      "album": {
         "name": "Vir Ewig",
         "url": "https://open.spotify.com/album/6vFklUu7QaerJHZdwOjpXZ"
       },
@@ -687,54 +739,6 @@
       "duration_ms": 189493,
       "name": "Outcasts",
       "url": "https://open.spotify.com/track/38WBPi8N2uLBIA03sU0vea"
-    },
-    {
-      "added_at": "2023-07-28 06:52:23",
-      "album": {
-        "name": "Solaris",
-        "url": "https://open.spotify.com/album/6aUt7I50euvGfFJsIxORgk"
-      },
-      "artists": [
-        {
-          "name": "Shaun Orlando Berry",
-          "url": "https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7"
-        }
-      ],
-      "duration_ms": 248684,
-      "name": "Solaris",
-      "url": "https://open.spotify.com/track/5jUykH9QNinvf6LMFN3OFE"
-    },
-    {
-      "added_at": "2023-08-11 08:29:40",
-      "album": {
-        "name": "Let's Lose Our Minds",
-        "url": "https://open.spotify.com/album/2aPkXNnezt7DPLdoz4TnTR"
-      },
-      "artists": [
-        {
-          "name": "Joe, The Thinker",
-          "url": "https://open.spotify.com/artist/2ceKAnQNSsSV1ytRsucnky"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Let's Lose Our Minds",
-      "url": "https://open.spotify.com/track/7czgLEdXVU7oZKAP8izt9x"
-    },
-    {
-      "added_at": "2023-08-04 10:43:32",
-      "album": {
-        "name": "Moeg",
-        "url": "https://open.spotify.com/album/1IZOC8YN6GFWgRdsZGrtVr"
-      },
-      "artists": [
-        {
-          "name": "Rudi Kleingeld",
-          "url": "https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Moeg",
-      "url": "https://open.spotify.com/track/0t9uLw0ZL63rJPSQTBH94z"
     },
     {
       "added_at": "2023-05-25 21:59:00",

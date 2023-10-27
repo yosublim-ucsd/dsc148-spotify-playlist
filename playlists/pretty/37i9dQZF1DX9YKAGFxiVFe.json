@@ -1,12 +1,12 @@
 {
   "description": "temas que repetir\u00edas m\u00e1s que a tu ex. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a> ",
-  "num_followers": 596691,
+  "num_followers": 596533,
   "original_name": "m\u00e1s pegao que poster en la calle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzdlN2YyNTk4OTYwM2Q0YmZlY2M1ZmU0NmJhMThhMDM0ZDczYWM4",
+  "snapshot_id": "MCw2MThjNWZhZGFiNmZjZWY0NzBhNWRkZjIyOGM2OGFhZGExNTgxNTc5",
   "tracks": [
     {
       "added_at": "2023-07-18 19:17:14",
@@ -663,26 +663,6 @@
     {
       "added_at": "2023-07-18 19:17:14",
       "album": {
-        "name": "69",
-        "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 221935,
-      "name": "69",
-      "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
-    },
-    {
-      "added_at": "2023-07-18 19:17:14",
-      "album": {
         "name": "Trap Capos: Season 1",
         "url": "https://open.spotify.com/album/74vYzfJqytyzhahNopSwtg"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 213613,
       "name": "Diablita (feat. Anuel AA & Baby Rasta)",
       "url": "https://open.spotify.com/track/62NeZ2Vtrz5HgtQibleMNs"
+    },
+    {
+      "added_at": "2023-07-18 19:17:14",
+      "album": {
+        "name": "69",
+        "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 221935,
+      "name": "69",
+      "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
     },
     {
       "added_at": "2023-07-18 19:17:14",

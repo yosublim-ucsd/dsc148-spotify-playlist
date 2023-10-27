@@ -4,7 +4,7 @@
 
 > Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:24oVOFAARWAYUb1LaedbI0">Icy Subzero</a>
 
-125 songs - 6 hr 4 min
+126 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Compliquè \(feat\. Shiva & Ghali\)](https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 3:17 | 2022-08-31 | 2023-04-12 |
 | [Copacabana](https://open.spotify.com/track/5S7fTiSn3bpJF9UMCp9j97) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 2:49 | 2022-08-31 | 2023-04-12 |
 | [Così Leggera](https://open.spotify.com/track/27gcKMZcvsiwyVdo0XFZLB) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [No Label](https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx) | [Così Leggera](https://open.spotify.com/album/0Rjhyjo9x4aI0siMTVlOlj) | 2:53 | 2022-08-31 | 2023-04-12 |
+| [Cuore in Gola](https://open.spotify.com/track/6t4dhFqiP2W05yqPX4ebI4) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Cuore in Gola](https://open.spotify.com/album/6YOAAMsWhRujHGP7rPdG4G) | 3:02 | 2023-10-26 |  |
 | [Cuore Spezzato](https://open.spotify.com/track/7zKKDIJ2O9hU60D0QAMovz) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Cuore Spezzato](https://open.spotify.com/album/6XhfFeVmH0ZjtKfhGRDRTq) | 3:46 | 2022-08-31 | 2023-04-12 |
 | [Demo 14\_02\_daeliminare.mp3](https://open.spotify.com/track/4KYe7UW8G9LQqGTn8V52cf) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [Demo 14\_02\_daeliminare.mp3](https://open.spotify.com/album/6NeVjxs2Jg6e83nMTpjFcP) | 1:42 | 2023-04-11 |  |
 | [DIPINGERE LA NOTTE](https://open.spotify.com/track/3Z5Pbe2pvKFwAAbL8E2rQY) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 2:34 | 2022-11-07 | 2022-11-13 |

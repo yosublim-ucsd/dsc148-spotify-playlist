@@ -2,7 +2,7 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> Best of the Indian Indie scene\. Cover \- Prateek Kuhad
+> Best of the Indian Indie scene\. Cover \- 'Mulaqat' by Prateek Kuhad
 
 226 songs - 12 hr 49 min
 

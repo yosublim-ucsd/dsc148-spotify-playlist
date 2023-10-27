@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-190 songs - 12 hr 26 min
+191 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [There Goes My Heart](https://open.spotify.com/track/1LGN3DO6YD61pwb64gQtZx) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [There Goes My Heart](https://open.spotify.com/album/1xNAXGrLepkx1b0pgBFuvn) | 3:42 | 2023-01-19 |  |
 | [There Should Be](https://open.spotify.com/track/4OWELAW8bSXtGVdEm0atsP) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR) | [There Should Be](https://open.spotify.com/album/5cj8BBEipY6So0TWG7TLJq) | 4:38 | 2022-08-25 |  |
 | [These Foolish Things](https://open.spotify.com/track/2GkEZi94MfDIxjp36MAFuj) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [These Foolish Things](https://open.spotify.com/album/5a7xDAK31J6a7T6ExUTDYn) | 3:32 | 2022-08-18 |  |
-| [They All Say I'm The Biggest Fool](https://open.spotify.com/track/0ziWwQKX0s7gZTJALYHQSq) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Easy Walker](https://open.spotify.com/album/6TKMu1gTK6J2ZnTwjKUulJ) | 7:43 | 2022-08-18 |  |
+| [They All Say I'm The Biggest Fool](https://open.spotify.com/track/0ziWwQKX0s7gZTJALYHQSq) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Easy Walker](https://open.spotify.com/album/6TKMu1gTK6J2ZnTwjKUulJ) | 7:43 | 2022-08-18 | 2023-10-27 |
 | [They Said](https://open.spotify.com/track/5fxlpxZnDeUP8Gc98bwVs1) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [They Said](https://open.spotify.com/album/4QyebMBRUiYTbyOIrZux8t) | 3:38 | 2023-08-24 |  |
 | [Through The Raindrops](https://open.spotify.com/track/1w4KVyPxw91ce1Fut6e5DI) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Through The Raindrops](https://open.spotify.com/album/3GnhjFhG9GtAXUkxwxYGNG) | 3:43 | 2023-04-27 |  |
 | [Tidewater](https://open.spotify.com/track/2o8qn04QtYku0WNWxcGps6) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Tidewater](https://open.spotify.com/album/3hX9C1BMAHerJlzLfhupta) | 3:36 | 2022-08-18 |  |
@@ -198,5 +198,6 @@
 | [You Go To My Heart](https://open.spotify.com/track/43bLhZkulGIf55O7fpRRok) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [You Go To My Heart](https://open.spotify.com/album/370Ld8YCqxXQvHIyAh7Efy) | 3:41 | 2023-04-13 |  |
 | [You Must Believe In Spring](https://open.spotify.com/track/0vVpu5nKzGGNRgnBhei5Vc) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Earthshine](https://open.spotify.com/album/1CBELvMmpFlAwF0j2YiveM) | 3:42 | 2022-09-07 |  |
 | [You've Changed \- Remastered 2015](https://open.spotify.com/track/1tYMoCu2u5FCylI4Xn5T8Y) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Doin' Allright \(Remastered\)](https://open.spotify.com/album/14NlniwPg3t0wXuYTbeSyC) | 7:27 | 2022-08-18 | 2023-02-03 |
+| [Your Smile](https://open.spotify.com/track/1j49Blzw3HDfZ3KUs88zzl) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [Your Smile](https://open.spotify.com/album/7FHXsFk96blgIpAujGbNUT) | 3:21 | 2023-10-27 |  |
 
 \*This playlist was first scraped on 2022-08-19. Prior content cannot be recovered.

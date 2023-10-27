@@ -4580,10 +4580,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 235554,
       "name": "Don't Trip",
       "url": "https://open.spotify.com/track/0fpkHQGbWh9riooDthOYx8"
+    },
+    {
+      "album": {
+        "name": "Don't Trip",
+        "url": "https://open.spotify.com/album/7ehj3TAtnA2aDJSA1HP0md"
+      },
+      "artists": [
+        {
+          "name": "Julianna Laine",
+          "url": "https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235554,
+      "name": "Don't Trip",
+      "url": "https://open.spotify.com/track/32BncKYogLQS8i0tgBc9oL"
     },
     {
       "album": {

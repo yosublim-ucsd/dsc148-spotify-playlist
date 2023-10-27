@@ -411,6 +411,24 @@
     },
     {
       "album": {
+        "name": "Down with You",
+        "url": "https://open.spotify.com/album/6NrOQKsvkxcCDIOsnHJyEa"
+      },
+      "artists": [
+        {
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210050,
+      "name": "Down with You",
+      "url": "https://open.spotify.com/track/400SwUtzaJ3Ge8gqBU7Qdt"
+    },
+    {
+      "album": {
         "name": "Down With You - Single",
         "url": "https://open.spotify.com/album/6rDY8B4Q1F3ZBhb7mmfMdT"
       },
@@ -440,7 +458,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 210050,
       "name": "Down With You",
       "url": "https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA"

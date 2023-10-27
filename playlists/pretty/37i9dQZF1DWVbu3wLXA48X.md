@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: BADBADNOTGOOD
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,510 likes - 99 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,534 likes - 99 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 61 | [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 |
 | 62 | [Sunny](https://open.spotify.com/track/5SmJPXHVK4G0oKOdn3D5LP) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Sunny](https://open.spotify.com/album/2i3jnMLFQZewasZEC3gVOB) | 3:31 |
 | 63 | [Easy Thing](https://open.spotify.com/track/3UgSN3Sk0Bj1EdschiKTRB) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Easy Thing](https://open.spotify.com/album/1IMObMG6eLRwu6ZVTkACWa) | 2:43 |
-| 64 | [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/4J9b9lIW0SavuQIlcG8Sgs) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 3:28 |
+| 64 | [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/2fSBTVIsJhUMm9EUbhXwMA) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 3:28 |
 | 65 | [My Body ft Your Lips](https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:53 |
 | 66 | [What You Wanna Be \(feat\. The Kopycat\)](https://open.spotify.com/track/60T43Nrgz4idMlx76UpV9w) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [The Kopycat](https://open.spotify.com/artist/7y4M1no7kXEEsCeIAZkeuR) | [Nightvision \(Love Is God 10/16 Edition\)](https://open.spotify.com/album/1moXnMVFwnceCSjuKlThls) | 5:48 |
 | 67 | [The Show Must Go On](https://open.spotify.com/track/0lKTZbj7of6RjyzsT65SUo) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 4:26 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 98 | [A Noisy Train](https://open.spotify.com/track/3KJHGwOSRZmoM9WD7DaVVd) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [A Noisy Train](https://open.spotify.com/album/1HlFmZZUjGmNgppfCP7yz3) | 4:20 |
 | 99 | [Sojourn](https://open.spotify.com/track/1tN9qCwdEYsYmu3e4IypgE) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Sojourn](https://open.spotify.com/album/3F8zTUdqovD6TNHlNsOPMg) | 3:33 |
 
-Snapshot ID: `MCxhNTM1YzFhOWZjZDIxZGEwMjc2MzQ2YjZlNjJiOGM4OTBkZjRiZjE5`
+Snapshot ID: `MCxhYWM3NTA1MzQzNTBiN2Q1YjVjNDA1NDhkY2MwNzUwYThjZDM1YzA3`

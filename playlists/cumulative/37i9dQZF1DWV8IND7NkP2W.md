@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-675 songs - 1 day 6 hr 13 min
+676 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [letdown](https://open.spotify.com/track/085xntFT3ILjAWurpEbmXR) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [4 million](https://open.spotify.com/album/5ArljGAioG93q3pt3N2vTZ) | 3:50 | 2022-01-06 | 2022-07-20 |
 | [letter \-second page\-](https://open.spotify.com/track/4Ne8nOvDRXS41vHpKhjBob) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [letter \-second page\-](https://open.spotify.com/album/4TM4cgxfI5DjBfpB4ObLAe) | 4:00 | 2021-12-23 | 2022-02-11 |
 | [Libration](https://open.spotify.com/track/58H942tr6mbp7FR5q3kwcB) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Libration](https://open.spotify.com/album/4Eb3vT3dEiwXO1FGvfAJmm) | 3:04 | 2022-03-24 | 2023-07-12 |
+| [lighthouse](https://open.spotify.com/track/75bwkrAjDrR1sI9Cij1fUZ) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [lighthouse](https://open.spotify.com/album/2pBOANdncgocwoEnEd7Wpt) | 2:25 | 2023-10-26 |  |
 | [Little Krumbs](https://open.spotify.com/track/19eL5iDhBdJWPaoN1CsHpS) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA) | [Little Krumbs](https://open.spotify.com/album/0XukDaihdwBpk2RazkS7OR) | 1:14 | 2022-04-07 | 2022-04-21 |
 | [Little Krumbs](https://open.spotify.com/track/6i2Ar88y3LRCsU8JAPvncA) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Little Krumbs](https://open.spotify.com/album/0cmgxanno5gmLe6MLPQSwT) | 1:14 | 2023-03-23 |  |
 | [Lofi Meme Girl Chill](https://open.spotify.com/track/5jGtFQ5z9gSqrAXRO51DPI) | [Chill Cow Lofi](https://open.spotify.com/artist/3emGyIhxtXqOxFjZGecwvs), [Lofi Chillhop](https://open.spotify.com/artist/2DsCIarBJtLrQiy1rSW0SU) | [Lofi Hip Hop Beats & Chill Music](https://open.spotify.com/album/5HZ7VhO8ppHoXFdnUfhchy) | 1:36 | 2021-12-23 | 2022-07-25 |
@@ -639,7 +640,7 @@
 | [utatane](https://open.spotify.com/track/0tqoNuBVHZ0IG5B9rxeFi8) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [utatane](https://open.spotify.com/album/2OQ9WXPNJkksdtFqQhgqdl) | 3:12 | 2023-05-25 |  |
 | [utsuroi](https://open.spotify.com/track/3AgJ12XgvmFmyFZEBx3auH) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [utsuroi](https://open.spotify.com/album/71CddnY001Q5e6BebJrfIs) | 2:29 | 2023-04-13 | 2023-04-28 |
 | [Views \- Instrumental](https://open.spotify.com/track/2T2V3tQ742UrCPMfYrMxz5) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Views \(Instrumental\)](https://open.spotify.com/album/56WEsAYBimDZwH5cfMkkkh) | 1:51 | 2021-12-23 | 2022-07-23 |
-| [VIVID](https://open.spotify.com/track/4Uu7OhRshxKLyOuIN2ukzv) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep), [Tyga Ichinose](https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK) | [VIVID](https://open.spotify.com/album/682KBDNKNKJdlo8KrDCeEQ) | 2:15 | 2023-10-19 |  |
+| [VIVID](https://open.spotify.com/track/4Uu7OhRshxKLyOuIN2ukzv) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep), [Tyga Ichinose](https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK) | [VIVID](https://open.spotify.com/album/682KBDNKNKJdlo8KrDCeEQ) | 2:15 | 2023-10-19 | 2023-10-27 |
 | [VIVID](https://open.spotify.com/track/5dWDYXom1nEpDmi77lD9sy) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep), [Tyga Ichinose](https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK) | [VIVID](https://open.spotify.com/album/1s96h3ZTUVClEPuL6vB2f8) | 2:15 | 2023-10-19 | 2023-10-21 |
 | [Void](https://open.spotify.com/track/1tBS3K8IdJSF556lcdnMHj) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Void](https://open.spotify.com/album/5tWnUMtomZthQIgvjDLypc) | 1:25 | 2022-01-27 | 2022-07-06 |
 | [Void](https://open.spotify.com/track/5d3vsDFDDEBdZSpmKcaO7f) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Void](https://open.spotify.com/album/4II68c2qHou7hW8jltuggK) | 1:25 | 2022-07-28 | 2022-12-24 |

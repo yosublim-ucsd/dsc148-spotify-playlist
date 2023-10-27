@@ -538,7 +538,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 141636,
       "name": "Autumn Coming",
       "url": "https://open.spotify.com/track/4FMe5WxTUYxd4U9jk0C4yl"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 176207,
       "name": "Bastiments",
       "url": "https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7"
@@ -3871,6 +3871,24 @@
     },
     {
       "album": {
+        "name": "Sun over the desert",
+        "url": "https://open.spotify.com/album/3sEZnpkw2WFgCLRTRE5BPV"
+      },
+      "artists": [
+        {
+          "name": "lili may",
+          "url": "https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128167,
+      "name": "Sun over the desert",
+      "url": "https://open.spotify.com/track/3wNOEQe2NOlExECcLqVPLG"
+    },
+    {
+      "album": {
         "name": "Sunbeam",
         "url": "https://open.spotify.com/album/2PIMTYAFnWmmoBv1cmfTsd"
       },
@@ -4718,7 +4736,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 199729,
       "name": "With Eyes Closed",
       "url": "https://open.spotify.com/track/1iTlxUv96DWOGIbHCoL8Dr"

@@ -4,7 +4,7 @@
 
 > Well known songs in a soft Bossa landscape.
 
-189 songs - 11 hr 0 min
+190 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Summertime Sadness \(Bossa Nova Version\) \[Originally Performed By Lana Del Rey\]](https://open.spotify.com/track/7fu2faNjkEZWrHxpBdHJw6) | [The Bossa Nova All Stars](https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box) | [Relaxing Bossa Nova Cover Hits](https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO) | 4:32 | 2022-03-10 | 2023-04-14 |
 | [Sunday Best](https://open.spotify.com/track/5RrY34g0sNf76ynA3SEarW) | [Hot Spot Band](https://open.spotify.com/artist/280Ye8CB89v9PCZE1b2H8s), [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Sunday Best](https://open.spotify.com/album/4K3x2c6Juuuq5nTHR56TYr) | 2:36 | 2022-03-10 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/2DHoF695nEPtbWMiqFeDTy) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Sweet Child O' Mine](https://open.spotify.com/album/7k2tdsIiuaQY0fLXiO7V1a) | 3:24 | 2022-05-04 | 2023-05-17 |
+| [Sweet Dreams \(Are Made of This\) \- Bossa Nova Version](https://open.spotify.com/track/67PFYFZIywl6xjGVCpLJmW) | [Lisa Laew](https://open.spotify.com/artist/1BJxvqEKk18whkqb6eNUSR) | [Sweet Dreams \(Are Made of This\)](https://open.spotify.com/album/417nFOw9t04mP8GCqMKqps) | 2:35 | 2023-10-27 |  |
 | [Take on me](https://open.spotify.com/track/6TYgHFFLZRbX491zjRjcND) | [Sonya](https://open.spotify.com/artist/4c9gY5cZpArATWNkbG1lT3) | [Bossanova Chill 1](https://open.spotify.com/album/3i1c4TS3vifZBHzCVF18i2) | 3:38 | 2023-04-13 | 2023-05-17 |
 | [Thank You Next \- Bossa Nova](https://open.spotify.com/track/0oDaCDJSz9K878vbIOmQsT) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Thank You Next \- Bossa Nova](https://open.spotify.com/album/4cpGMTeSx4MyAbDgfW51ih) | 3:47 | 2022-03-10 | 2023-06-23 |
 | [The Hardest Part](https://open.spotify.com/track/7rUOWbFE4GJ4od2W7at9uC) | [Paulina Rodriguez](https://open.spotify.com/artist/365WhazRqqOCcrIMEcBtpn) | [The Hardest Part](https://open.spotify.com/album/1dM2zZhgkmRgKbWPpTjqQ2) | 4:20 | 2022-03-10 | 2023-06-02 |

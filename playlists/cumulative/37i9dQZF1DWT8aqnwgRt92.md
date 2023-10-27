@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,014 songs - 2 day 15 hr 56 min
+1,016 songs - 2 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Anagram of Coda](https://open.spotify.com/track/5VEqP2gCkD2u7m5451CO0J) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [Anagram of Coda](https://open.spotify.com/album/0MgCo4HDr5LKp6jks5wBh0) | 4:40 | 2022-08-23 | 2022-08-25 |
 | [Anagram of Coda \- off vocal](https://open.spotify.com/track/3pp0QnYSYdK1xGIetlfqnh) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [Anagram of Coda](https://open.spotify.com/album/5rLplZ8aZBpjNCQyOaX7aT) | 4:40 | 2022-08-23 | 2022-09-21 |
 | [ANIMA \-Naked Style.\-](https://open.spotify.com/track/7yqxGBNHp7K1of6vriCB69) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 5:14 | 2022-05-28 | 2022-07-06 |
-| [Another Complex](https://open.spotify.com/track/6FZSpjDp4A6AZE0mIPUHio) | [somei](https://open.spotify.com/artist/0tVhHQ4UZHCOsvrd3wf0km) | [Another Complex](https://open.spotify.com/album/4sqKDhjSQHH4hPYPim5pMY) | 4:27 | 2023-10-17 |  |
+| [Another Complex](https://open.spotify.com/track/6FZSpjDp4A6AZE0mIPUHio) | [somei](https://open.spotify.com/artist/0tVhHQ4UZHCOsvrd3wf0km) | [Another Complex](https://open.spotify.com/album/4sqKDhjSQHH4hPYPim5pMY) | 4:27 | 2023-10-17 | 2023-10-27 |
 | [Another Self](https://open.spotify.com/track/7gz4Eo94PvX01geJuH8xDx) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb) | [Another Self](https://open.spotify.com/album/2txcg6rnTnKDCfHy9DivYm) | 3:35 | 2023-07-18 | 2023-09-08 |
 | [ANSWER](https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ANSWER](https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD) | 3:24 | 2022-12-27 | 2023-02-15 |
 | [Anytime Anywhere](https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X) | 3:50 | 2023-09-28 |  |
@@ -588,7 +588,7 @@
 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 | 2023-01-10 | 2023-06-09 |
 | [WHO ARE ME？](https://open.spotify.com/track/0GNW0n51GebjUm7rNkAheS) | [峯田茉優](https://open.spotify.com/artist/6upQVPtLKJ0PQJRsw9LiRy) | [WHO ARE ME？](https://open.spotify.com/album/0Osc6NIlI0TOSsIE1ncgmq) | 3:00 | 2023-08-01 | 2023-10-04 |
 | [WILDER](https://open.spotify.com/track/6iczknaVftpxX229RnqOzY) | [UPSTART](https://open.spotify.com/artist/4PLPwM88KIwvLnDqSt5S6M) | [WILDER](https://open.spotify.com/album/7gyD3siobyffjzTIz2ZRxz) | 3:18 | 2023-08-01 | 2023-10-04 |
-| [WILDER \- feat\. Hiro from MY FIRST STORY](https://open.spotify.com/track/45ox7i49tAE2cyJHhHYK6C) | [UPSTART](https://open.spotify.com/artist/4PLPwM88KIwvLnDqSt5S6M), [Hiro from MY FIRST STORY](https://open.spotify.com/artist/7BYZgMC85TULFyMg1KFNZO) | [WILDER \(feat\. Hiro from MY FIRST STORY\)](https://open.spotify.com/album/7hipmZB6fH7K44ZUHtydc2) | 3:18 | 2023-10-03 |  |
+| [WILDER \- feat\. Hiro from MY FIRST STORY](https://open.spotify.com/track/45ox7i49tAE2cyJHhHYK6C) | [UPSTART](https://open.spotify.com/artist/4PLPwM88KIwvLnDqSt5S6M), [Hiro from MY FIRST STORY](https://open.spotify.com/artist/7BYZgMC85TULFyMg1KFNZO) | [WILDER \(feat\. Hiro from MY FIRST STORY\)](https://open.spotify.com/album/7hipmZB6fH7K44ZUHtydc2) | 3:18 | 2023-10-03 | 2023-10-27 |
 | [WINNER](https://open.spotify.com/track/3hRqmUI4Mzh5h0drGk24AF) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [WINNER](https://open.spotify.com/album/2i7pkoWfNRHz9aIrTQ3Lmp) | 3:32 | 2022-10-18 | 2022-11-25 |
 | [Wish](https://open.spotify.com/track/6wMnf3VRkhtT8NmJuWNimt) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [Wish](https://open.spotify.com/album/2RFVJfCtxR9E8NoFOG0Jgi) | 4:46 | 2022-10-03 | 2022-12-02 |
 | [With You](https://open.spotify.com/track/0c6N2M3SJS081a3n1Vutuy) | [cluppo](https://open.spotify.com/artist/0Hb4LfqZcAmGidmZJJzG2v) | [With You](https://open.spotify.com/album/6fbXXOpIKmv5Zfd8ajyaPp) | 4:34 | 2022-07-28 | 2022-09-02 |
@@ -656,6 +656,7 @@
 | [るんっ♪てぃてぃー!](https://open.spotify.com/track/7zTR57cszx0z1D868Vjes5) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [るんっ♪てぃてぃー!](https://open.spotify.com/album/1ZCYoH9MgcpWVDc85CtAeW) | 3:50 | 2022-06-23 | 2022-07-01 |
 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 | 2022-10-13 | 2023-01-13 |
 | [アイオライト](https://open.spotify.com/track/3aEkoZxIUDLgca5DQaZr5r) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [アイオライト](https://open.spotify.com/album/231sUO0rctK4kQGp4efhFA) | 3:45 | 2023-04-18 | 2023-07-12 |
+| [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 | 2023-10-26 |  |
 | [アイタリナイ](https://open.spotify.com/track/67seLhibwW3OAyZcEw5Ijh) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [アイタリナイ](https://open.spotify.com/album/1C5VITN2qaLE4PChtSmSrj) | 2:42 | 2023-01-12 | 2023-05-09 |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-04-11 |  |
 | [アイム \(feat\. つむぎしゃち\)](https://open.spotify.com/track/792UyynavOCo8iUoD8WcG0) | [夢見クジラ](https://open.spotify.com/artist/0utvO9BKKww2LIPIHiFztn), [つむぎしゃち](https://open.spotify.com/artist/4DwHYRFsgn4OgTzg6rqiBV) | [アイム \(feat\. つむぎしゃち\)](https://open.spotify.com/album/1FWp934PtHYG9EmC3uFZ9F) | 3:13 | 2023-07-11 | 2023-08-02 |
@@ -755,6 +756,7 @@
 | [ハチミツ](https://open.spotify.com/track/3ysIJIGK9TrlYNekfLwXvQ) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [ハチミツ](https://open.spotify.com/album/1mUPUNowP2dUKjV8ZBjNAf) | 3:39 | 2023-04-11 | 2023-04-13 |
 | [ハニージェットコースター](https://open.spotify.com/track/1SFS6Anu0829AMCXKltlNw) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [TVアニメ「可愛いだけじゃない式守さん」オープニングテーマ「ハニージェットコースター」](https://open.spotify.com/album/6lEkrGHvjvWYNs2Mwo0yoy) | 3:33 | 2022-05-28 | 2022-07-27 |
 | [ハピネス オブ ザ デッド](https://open.spotify.com/track/05IbSlTnKUcZ1vFyG3aUzQ) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ハピネス オブ ザ デッド](https://open.spotify.com/album/2qUA9ZKcJgOmGkWRbnqCsV) | 2:54 | 2023-07-18 | 2023-10-06 |
+| [ハロ](https://open.spotify.com/track/69cF34CNjzxX1ySIPJxtMf) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [ハロ](https://open.spotify.com/album/0mzoRF3WErpncvKCQqoHEu) | 3:18 | 2023-10-26 |  |
 | [ハートはお手上げ](https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ハートはお手上げ](https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6) | 3:47 | 2022-05-28 | 2022-07-13 |
 | [バイオレンス](https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [バイオレンス](https://open.spotify.com/album/4ci2aR3GoukVAmJwIfaQ61) | 3:52 | 2022-12-20 | 2023-01-11 |
 | [バグちゃん](https://open.spotify.com/track/6MjzbRuEpkmP7fwvwaUF4T) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [バグちゃん\(TVアニメ「聖者無双\~サラリーマン、異世界で生き残るために歩む道\~オープニングテーマ\)](https://open.spotify.com/album/1TuhgrZsLfLks3CRShYoq7) | 3:37 | 2023-07-13 | 2023-08-09 |

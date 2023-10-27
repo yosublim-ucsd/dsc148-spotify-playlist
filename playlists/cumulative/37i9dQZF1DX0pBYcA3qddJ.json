@@ -8601,6 +8601,28 @@
     },
     {
       "album": {
+        "name": "The Two Of Us (feat. Clara Mann)",
+        "url": "https://open.spotify.com/album/1xI6SdJtqpXDJbJH1XRWHz"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        },
+        {
+          "name": "Clara Mann",
+          "url": "https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289856,
+      "name": "The Two Of Us (feat. Clara Mann)",
+      "url": "https://open.spotify.com/track/514zM3fP40Dubmz2bQJSw3"
+    },
+    {
+      "album": {
         "name": "Theme of \"Life is Climbing\"",
         "url": "https://open.spotify.com/album/336RBsESEoPbt71FeIT0yw"
       },
@@ -9004,7 +9026,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 154182,
       "name": "Vega",
       "url": "https://open.spotify.com/track/2qJggGKzjnU43FVserdo3G"

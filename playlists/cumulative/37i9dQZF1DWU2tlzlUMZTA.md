@@ -4,7 +4,7 @@
 
 > Where Bollywood meets the hood\. Cover: Badshah
 
-51 songs - 1 hr 48 min
+52 songs - 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Real Talk](https://open.spotify.com/track/1IuZ1WioES1D3ep0j3ahhr) | [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [Bloody Daddy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pmBPVa6MtjFYVBTeODYBl) | 2:55 | 2023-06-08 |  |
 | [Real Talk](https://open.spotify.com/track/1WPs49cOzviyirquav1Tua) | [GD47](https://open.spotify.com/artist/6GoLWfS71I2gXBtCiKCceD) | [Bloody Daddy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Sd5XckyAsTOXGXwjQd8ED) | 2:55 | 2023-06-08 | 2023-06-12 |
 | [Restart \- Rap 'N' Folk \(From "12th Fail"\)](https://open.spotify.com/track/3YsIhbpU8StAMQpNXZNPAo) | [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Vidhu Vinod Chopra](https://open.spotify.com/artist/736GTzt9gLXfEX8pbUaTV5), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Restart \- Rap 'N' Folk \(From "12th Fail"\)](https://open.spotify.com/album/75KxFwlzKngNyZV2MCOE0n) | 3:47 | 2023-10-19 |  |
+| [Restart \- Rap \(From "12th Fail"\)](https://open.spotify.com/track/3j3my4A9TVV3aS5Qt9oqEb) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz) | [Restart \- Rap \(From "12th Fail"\)](https://open.spotify.com/album/0tCzHbqVkQzwpgwkH6kHR7) | 2:59 | 2023-10-26 |  |
 | [Right Here Right Now](https://open.spotify.com/track/4pVnxSz312uhq2hM3b8CAO) | [Abhishek Bachchan](https://open.spotify.com/artist/7e6AfoPhtlBJGQ9iNMAckD), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Bluff Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5sASM5OybJgExUWUXLH2eQ) | 3:02 | 2023-02-15 |  |
 | [Saturday Saturday](https://open.spotify.com/track/5L9gWUx3Ystgb42kn3AF0i) | [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Indeep Bakshi](https://open.spotify.com/artist/0Te1QGD9jtzrxPa8nie9OQ), [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW) | [Humpty Sharma Ki Dulhania \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jqOPaSXkGQv3IH62dHoUE) | 3:30 | 2023-02-15 |  |
 | [Sheher Ki Ladki \(From "Khandaani Shafakhana"\)](https://open.spotify.com/track/24d3IPklAxzBJB2nuWeSpg) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Chandra Dixit](https://open.spotify.com/artist/7yO17B2aZWbkuTh5kpgee4), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Anand\-Milind](https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk) | [Sheher Ki Ladki \(From "Khandaani Shafakhana"\)](https://open.spotify.com/album/4aroXseEbgMQBVvF0SfAHz) | 2:52 | 2023-02-15 |  |

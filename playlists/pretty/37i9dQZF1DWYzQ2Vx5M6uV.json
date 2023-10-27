@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Feid & Rema",
-  "num_followers": 114457,
+  "num_followers": 114473,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzYwYjA3M2ZlYTEzZDA1NGQ2ODJkYTlhNmMxN2VkZTUxMWRjYmJi",
+  "snapshot_id": "MCwzODJkMzVlOTQ1OGQzYzdjNmEyOWVhYTE0OWUwODgyNDhiZGQxNmQ1",
   "tracks": [
     {
       "added_at": "2023-09-22 06:08:09",
@@ -999,30 +999,6 @@
     {
       "added_at": "2023-09-22 06:08:09",
       "album": {
-        "name": "Boom Bam (with Afro B & Mariah Angeliq",
-        "url": "https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH"
-      },
-      "artists": [
-        {
-          "name": "Team Salut",
-          "url": "https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Boom Bam (with Afro B & Mariah Angeliq",
-      "url": "https://open.spotify.com/track/3VmnJVSkgLIZujxut5yf73"
-    },
-    {
-      "added_at": "2023-09-22 06:08:09",
-      "album": {
         "name": "Hapo Tu",
         "url": "https://open.spotify.com/album/24PHVy5OkPyLKeR3Jjh6nc"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 212307,
       "name": "Zimenice",
       "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
+    },
+    {
+      "added_at": "2023-09-22 06:08:09",
+      "album": {
+        "name": "Boom Bam (with Afro B & Mariah Angeliq",
+        "url": "https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH"
+      },
+      "artists": [
+        {
+          "name": "Team Salut",
+          "url": "https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Boom Bam (with Afro B & Mariah Angeliq",
+      "url": "https://open.spotify.com/track/3VmnJVSkgLIZujxut5yf73"
     },
     {
       "added_at": "2023-09-22 06:08:09",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-09-22 06:08:09",
       "album": {
+        "name": "Parcerita",
+        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
+      },
+      "artists": [
+        {
+          "name": "Dahili",
+          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
+        }
+      ],
+      "duration_ms": 166950,
+      "name": "Parcerita",
+      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
+    },
+    {
+      "added_at": "2023-09-22 06:08:09",
+      "album": {
         "name": "Son of the City",
         "url": "https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 334000,
       "name": "Cheza Kama Wewe",
       "url": "https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5"
-    },
-    {
-      "added_at": "2023-09-22 06:08:09",
-      "album": {
-        "name": "Parcerita",
-        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
-      },
-      "artists": [
-        {
-          "name": "Dahili",
-          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "Parcerita",
-      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
     },
     {
       "added_at": "2023-09-22 06:08:09",

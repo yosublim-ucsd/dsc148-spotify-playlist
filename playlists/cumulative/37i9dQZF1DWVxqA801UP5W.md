@@ -4,7 +4,7 @@
 
 > All your favourite pop songs, remixed to perfection\. Cover: David Guetta, Zara Larsson
 
-94 songs - 5 hr 6 min
+95 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [My Heart Goes \(La Di Da\) \(Jess Bays Remix feat\. Topic\)](https://open.spotify.com/track/5LMdfaHWbYqeI7Bx8S6VJS) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [My Heart Goes \(La Di Da\) \(Jess Bays Remix feat\. Topic\)](https://open.spotify.com/album/309IRNiwNgoSmBdB7l2Wgd) | 2:29 | 2022-06-20 | 2023-09-16 |
 | [Nice To Meet Ya \- Diplo Remix](https://open.spotify.com/track/2r4mpuIYFgKsjeykJTQMqX) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Nice To Meet Ya \(Diplo Remix\)](https://open.spotify.com/album/3UuXPv0M71CU6m3On0wIwb) | 3:35 | 2022-06-20 | 2023-09-05 |
 | [OK Not To Be OK \- Duke & Jones Remix](https://open.spotify.com/track/3qRBN8te6leaLPLXQ7ML9A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [OK Not To Be OK \(Duke & Jones Remix\)](https://open.spotify.com/album/3VEYp7SGrFbn6P91uTiY5J) | 2:34 | 2022-06-20 | 2023-04-13 |
+| [On My Love \- Felix Jaehn Remix](https://open.spotify.com/track/1CCjb1x6tRof8W6ApIJy6o) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [On My Love \(Felix Jaehn Remix\)](https://open.spotify.com/album/0LMyvKO91nmgBAb1JFpIQw) | 3:30 | 2023-10-20 |  |
 | [Padam Padam \- Jax Jones Remix](https://open.spotify.com/track/5HSbqwNpsP7XeQyrGIO8M2) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/album/56MZdg3g5dvDMwC5GsxbQQ) | 3:24 | 2023-09-04 |  |
 | [people pleaser \- TeeDee Remix](https://open.spotify.com/track/1H1PMVu34Fy9XmXm8xWJx6) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [people pleaser \(TeeDee Remix\)](https://open.spotify.com/album/1t8qr9i7Fv2zaECOMgdOC9) | 2:52 | 2023-04-12 | 2023-09-16 |
 | [Post Malone \(feat\. RANI\) \- VIZE Remix](https://open.spotify.com/track/3mruwwpKfG5NYmnEr6O5Dw) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Post Malone \(feat\. RANI\) \[VIZE Remix\]](https://open.spotify.com/album/2idnYaYkAG2xDus7xk1yNZ) | 2:34 | 2022-06-20 |  |

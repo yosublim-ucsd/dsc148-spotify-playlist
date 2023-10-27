@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-162 songs - 12 hr 33 min
+163 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Brudmarsch från Boda](https://open.spotify.com/track/3k3h25bsMzaXMSsWEhRi7Q) | [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy), [Jan Johansson](https://open.spotify.com/artist/6DVjEzweNkvMlFBepu9crb) | [Swedish Jazz History 1928\-1969](https://open.spotify.com/album/7bkTkuMV6QvkKBVkWJf7Sf) | 2:09 | 2023-03-23 |  |
 | [Brudmarsch från Boda](https://open.spotify.com/track/4kwKxWe4FR5K8aoKvJiRwY) | [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy), [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Swedish Jazz History 1928\-1969](https://open.spotify.com/album/4zE9QIiX8Vdrqx155CIlfx) | 2:09 | 2021-11-08 | 2023-03-26 |
 | [Canción Contra La Indecisión](https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 4:12 | 2021-11-08 |  |
-| [Cheek to Cheek](https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Cheek to Cheek](https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot) | 7:03 | 2021-11-08 |  |
+| [Cheek to Cheek](https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Cheek to Cheek](https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot) | 7:03 | 2021-11-08 | 2023-10-27 |
 | [Childhood](https://open.spotify.com/track/6yOA4oobnVP9wJ53TnI4lA) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 6:41 | 2022-04-07 |  |
 | [Craftsman](https://open.spotify.com/track/0POkWuNjH2Z01YgewPxhsd) | [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq) | [Craftsman](https://open.spotify.com/album/1QTzNVk2AUJwUdiiHO81mg) | 6:12 | 2021-11-08 |  |
 | [Dagen till ära](https://open.spotify.com/track/3Sb7YhLgRrsfYqzcpNxkjJ) | [Julia Strzalek](https://open.spotify.com/artist/1EbW3Q2y5bhyoy0UgzctuB) | [TVÅ](https://open.spotify.com/album/2iEvgN4SWNm6UeR44hPCJe) | 3:51 | 2021-11-08 |  |
@@ -64,6 +64,7 @@
 | [Händelse](https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Händelse](https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4) | 4:39 | 2021-11-08 | 2023-01-13 |
 | [Heaven or elsewhere](https://open.spotify.com/track/2sU4q3tbkXym4thZpo5mtS) | [Daniel Karlsson Trio](https://open.spotify.com/artist/050olItM6cAiBVEMYC6LQf) | [Sorry Boss](https://open.spotify.com/album/5Ci6NtAwtf5x9kozaOvODD) | 6:18 | 2023-10-06 |  |
 | [Hermetic Boogey](https://open.spotify.com/track/0utXKhCXxreupSQICsuwkr) | [Tonbruket](https://open.spotify.com/artist/5Txp8CzIIEwkALY9agmKpJ) | [Hermetic Boogey](https://open.spotify.com/album/6HsoNd9kAenZ7AcY2ptML5) | 6:13 | 2023-08-24 |  |
+| [How Could You](https://open.spotify.com/track/5bXjwGL7zwsokVQHN8hhLh) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [How Could You](https://open.spotify.com/album/0qY5Zfzo9OyXobt1JJgSKH) | 4:53 | 2023-10-27 |  |
 | [Humankind](https://open.spotify.com/track/1eZUNGAKtNBE1JNOEWsTqs) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv), [Josef Kallerdahl](https://open.spotify.com/artist/5Wc1iOuZi2XsaM1ppRsAaN) | [The Clouds](https://open.spotify.com/album/5OjwtLOD0Bz7wymZc647bJ) | 3:14 | 2021-11-08 | 2022-04-22 |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/0a8LOrGltmx7rWvK5ex8Nb) | [Svante Henryson](https://open.spotify.com/artist/5gD2IIwhFa7qrXTWCmvMPn), [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6) | [I Fall in Love Too Easily](https://open.spotify.com/album/1ARNBkNhtWFb7hdnBuXcM0) | 5:19 | 2021-11-08 |  |
 | [I Get Along Without You Very Well](https://open.spotify.com/track/7hRQbdvbeRFlrDwc1wDpBC) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [I Get Along Without You Very Well](https://open.spotify.com/album/754b4BY8ZevSpdjl9VAota) | 4:09 | 2023-10-06 |  |

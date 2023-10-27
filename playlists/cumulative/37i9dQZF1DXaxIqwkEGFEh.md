@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: Lil Durk
 
-1,070 songs - 2 day 1 hr 42 min
+1,071 songs - 2 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,8 @@
 | [Finish \(feat\. PGF Nuk\)](https://open.spotify.com/track/5h2Zeh9a3iTVOJt66ymosq) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [FLYEST OOTA](https://open.spotify.com/album/39kwAzCvXewcbqclbXHE9X) | 2:53 | 2022-07-22 | 2022-07-30 |
 | [Finsta \(feat\. Big Boogie\)](https://open.spotify.com/track/549FVHJDMSppqOQYg0hvdt) | [Fat Trel](https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Finsta \(feat\. Big Boogie\)](https://open.spotify.com/album/6vefuCd9t3K2Vwj9fNj1fG) | 3:20 | 2023-03-17 | 2023-05-20 |
 | [FIRST 48 GANG](https://open.spotify.com/track/1pYMHLKLyPUcyi45pYPL0b) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 2:13 | 2023-06-09 | 2023-08-05 |
-| [First Day Out \(Freestyle\)](https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u) | 2:22 | 2023-04-14 |  |
+| [First Day Out \(Freestyle\)](https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u) | 2:22 | 2023-04-14 | 2023-10-27 |
+| [First Day Out \(Freestyle\)](https://open.spotify.com/track/7idI4LLo9LVLqrvvzhSj3n) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/31UX5n39Siyj0nXs1s5DSZ) | 2:22 | 2023-10-20 |  |
 | [First Time](https://open.spotify.com/track/2LWeSrNPOceNtiGecWLLoe) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Public Housing, Pt\. 2](https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI) | 3:05 | 2023-01-06 | 2023-03-25 |
 | [First Time in Vegas](https://open.spotify.com/track/6T0wusFb4QCtic6XxTKOQv) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz) | [First Time in Vegas](https://open.spotify.com/album/5kIbbKwNlcPRaqMHdWxb3x) | 2:15 | 2022-09-02 | 2022-09-24 |
 | [Flip](https://open.spotify.com/track/4UaCxi9htAxjx9s7LPMHMt) | [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3) | [Flip](https://open.spotify.com/album/00u5422vYIX9Qwu2DliOzS) | 2:50 | 2021-09-24 | 2022-01-15 |

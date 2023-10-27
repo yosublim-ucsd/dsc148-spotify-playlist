@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-519 songs - 2 day 2 hr 23 min
+520 songs - 2 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Let Us Be Free](https://open.spotify.com/track/6JPFfWs7C54hsD4WwhNKun) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Let Us Be Free](https://open.spotify.com/album/21mYe46OSTD40v2dq4Qgga) | 7:07 | 2022-12-09 | 2023-02-20 |
 | [Let's Pretend](https://open.spotify.com/track/2w4OE0IjsQdmB07DDsc4r9) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Let's Pretend](https://open.spotify.com/album/7vFNsn1Tp7f5r0w1ntL35K) | 3:40 | 2022-11-18 |  |
 | [Life Is...](https://open.spotify.com/track/0DSxtNjXsZk06n3Fqdjl26) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Life Is...](https://open.spotify.com/album/2kVQXgXsVuu41T86tXb4vo) | 4:13 | 2022-10-24 | 2022-11-18 |
+| [Like That](https://open.spotify.com/track/7MJY6QjGV2Rf4LbGt4hxEV) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3) | [Like That](https://open.spotify.com/album/03PlGHrwDyR7tqCln65Kqq) | 3:42 | 2023-10-20 |  |
 | [Lion Rock](https://open.spotify.com/track/7AFmB72s93HsxKbq32KVJO) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz) | [Lion Rock](https://open.spotify.com/album/5zwAJDzfCHfPFtM5EH8zyk) | 4:36 | 2021-04-21 | 2022-04-21 |
 | [Little Darling](https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Little Darling](https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA) | 3:40 | 2021-05-26 | 2023-09-30 |
 | [Little Darling \- Joris Voorn Remix](https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Little Darling \(Joris Voorn Remix\)](https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU) | 3:20 | 2023-03-31 |  |
@@ -381,7 +382,7 @@
 | [Raven](https://open.spotify.com/track/3DSz44pPAfri3xhLvoGLaY) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C) | [Lux EP](https://open.spotify.com/album/5U8s00tqXWFwUfXD8eprtV) | 7:19 | 2021-04-21 | 2022-07-29 |
 | [Real Love \- Liva K Remix](https://open.spotify.com/track/3TyPUGvK4G8pdrM3oEWlwg) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g), [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [Real Love \(Liva K Remix\)](https://open.spotify.com/album/3joNpvmZheGoKgbIiQL1kd) | 2:57 | 2023-10-20 |  |
 | [Regado](https://open.spotify.com/track/4v6sh0roVtsDwDLCCRIFeV) | [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Regado](https://open.spotify.com/album/2fOtyH0xBYLXZInmq1KItS) | 5:07 | 2023-01-13 | 2023-02-26 |
-| [Regina Blue](https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Regina Blue EP](https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f) | 8:45 | 2022-09-02 |  |
+| [Regina Blue](https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Regina Blue EP](https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f) | 8:45 | 2022-09-02 | 2023-10-27 |
 | [Reign \- Okuma Remix](https://open.spotify.com/track/07ysv62qaOQmIEIvcIX2Wr) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [One by One Remixes](https://open.spotify.com/album/2VFxjPMUpN6n2aU8UdN4Ap) | 7:11 | 2021-05-07 | 2022-07-29 |
 | [Rej](https://open.spotify.com/track/3wgJgvlQ1HXJvt61NRE08e) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Neil Amarey](https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ) | [Rej](https://open.spotify.com/album/6wD1X9ScsDcxnVOCtA3LUv) | 2:39 | 2023-10-20 |  |
 | [Relax Shiva](https://open.spotify.com/track/6bU5V5LKTHjFB9LvJaH0xH) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Relax Shiva](https://open.spotify.com/album/0Qp3gmNLo5zqYutS7F0wDe) | 3:56 | 2023-06-16 | 2023-07-09 |

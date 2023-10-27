@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Ad\u00e8le Castillon",
+  "description": "The best French indie tracks right now. Cover : Clio",
   "name": "Made in France",
   "tracks": [
     {
@@ -540,7 +540,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 204000,
       "name": "bb l'eau sal\u00e9e <3",
       "url": "https://open.spotify.com/track/6qMeuBJkaGj9rGDkw550pV"
@@ -562,6 +562,24 @@
       "duration_ms": 172509,
       "name": "BB toi & moi",
       "url": "https://open.spotify.com/track/1CyELRjfViP1ihdN8i0GKI"
+    },
+    {
+      "album": {
+        "name": "october tape",
+        "url": "https://open.spotify.com/album/7ytaeCJGzgd0JbZtdSUTvY"
+      },
+      "artists": [
+        {
+          "name": "Emma Castellino",
+          "url": "https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218370,
+      "name": "Be me for a minute",
+      "url": "https://open.spotify.com/track/1xfLzOnwmmUtKTcs5C3p8n"
     },
     {
       "album": {
@@ -1543,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "DON'T YOU THINK IT'D BE NICE",
+        "url": "https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190292,
+      "name": "DON'T YOU THINK IT'D BE NICE",
+      "url": "https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D"
+    },
+    {
+      "album": {
         "name": "Dormir debout",
         "url": "https://open.spotify.com/album/6TsNsHp2zPycXn1lpvM6jg"
       },
@@ -1590,7 +1626,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 184832,
       "name": "DOWN BY YOU",
       "url": "https://open.spotify.com/track/5fagnXIy20bLyP4XoIXOwV"
@@ -3277,6 +3313,24 @@
     },
     {
       "album": {
+        "name": "Carambolages",
+        "url": "https://open.spotify.com/album/5UF124cCkyEHbPzvlPFJMp"
+      },
+      "artists": [
+        {
+          "name": "Clio",
+          "url": "https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160920,
+      "name": "L'imb\u00e9cile",
+      "url": "https://open.spotify.com/track/0RcaTIQtHiyJjlllYoCLAz"
+    },
+    {
+      "album": {
         "name": "L'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/7xTNZ0EmI8hmzZLFwQRUAB"
       },
@@ -3288,7 +3342,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 200355,
       "name": "L'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/3BsWBBgjhc9Iaqh74ffpTf"
@@ -4127,6 +4181,28 @@
     },
     {
       "album": {
+        "name": "Many Lives",
+        "url": "https://open.spotify.com/album/59bHilulRFxXPtzqocpXoX"
+      },
+      "artists": [
+        {
+          "name": "Courrier Sud",
+          "url": "https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm"
+        },
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218932,
+      "name": "Many Lives",
+      "url": "https://open.spotify.com/track/3RGO73FmSCNy4ttRjuRZIJ"
+    },
+    {
+      "album": {
         "name": "Marathon",
         "url": "https://open.spotify.com/album/5uiYpDm2jyWh7rrb3mFuMm"
       },
@@ -4960,7 +5036,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 146350,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/6p5gfF0VxadWM9elzdlvG6"

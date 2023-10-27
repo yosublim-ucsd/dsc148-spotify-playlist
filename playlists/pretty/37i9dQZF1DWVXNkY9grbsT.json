@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 46488,
+  "num_followers": 46542,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmIxNmJmMjJhNzU3NWJhZmQ5ZTAxM2EyMGRmYzhjYzhmYmE1NGNh",
+  "snapshot_id": "MCwwMWZjM2NhYWY1NjNjYTNlZWQxYzZjNjI4OWVlYmNiMTMzZjkxMzU3",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -339,18 +339,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Infirmary / Unknown Summer",
-        "url": "https://open.spotify.com/album/5ZlBVAiMNEnlgrXGNu1tiE"
+        "name": "Unknown Tokyo",
+        "url": "https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh"
       },
       "artists": [
         {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
         }
       ],
-      "duration_ms": 580834,
-      "name": "Unknown Summer",
-      "url": "https://open.spotify.com/track/4ulN5Xnx05Vkzq3tSqTGGP"
+      "duration_ms": 245008,
+      "name": "Unknown Tokyo",
+      "url": "https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -371,22 +375,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Unknown Tokyo",
-        "url": "https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh"
+        "name": "Infirmary / Unknown Summer",
+        "url": "https://open.spotify.com/album/5ZlBVAiMNEnlgrXGNu1tiE"
       },
       "artists": [
         {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
-        },
-        {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
         }
       ],
-      "duration_ms": 245008,
-      "name": "Unknown Tokyo",
-      "url": "https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g"
+      "duration_ms": 580834,
+      "name": "Unknown Summer",
+      "url": "https://open.spotify.com/track/4ulN5Xnx05Vkzq3tSqTGGP"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Mango Feedback",
-        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 260612,
-      "name": "Watersynth",
-      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Human By Mistake",
         "url": "https://open.spotify.com/album/6uHXUChW9vvjmX2KkIArwF"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Periphera",
-        "url": "https://open.spotify.com/album/2XajyrsNkVgdsR68pJBDUY"
+        "name": "Mango Feedback",
+        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
       },
       "artists": [
         {
-          "name": "Pataphysical",
-          "url": "https://open.spotify.com/artist/4K1gxhkzaKIv8prbKAIIGC"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 279304,
-      "name": "Aun Cyc",
-      "url": "https://open.spotify.com/track/6xOUTeROja1JmSpoiGLpl9"
+      "duration_ms": 260612,
+      "name": "Watersynth",
+      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -531,6 +515,22 @@
       "duration_ms": 322857,
       "name": "Tagtraum",
       "url": "https://open.spotify.com/track/2wY21rTqBmiqenCLLGDQG6"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Periphera",
+        "url": "https://open.spotify.com/album/2XajyrsNkVgdsR68pJBDUY"
+      },
+      "artists": [
+        {
+          "name": "Pataphysical",
+          "url": "https://open.spotify.com/artist/4K1gxhkzaKIv8prbKAIIGC"
+        }
+      ],
+      "duration_ms": 279304,
+      "name": "Aun Cyc",
+      "url": "https://open.spotify.com/track/6xOUTeROja1JmSpoiGLpl9"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/5d6P1j9WQSrkcT9DpwMk8x"
-      },
-      "artists": [
-        {
-          "name": "Pablo Bolivar",
-          "url": "https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs"
-        },
-        {
-          "name": "Nacho Sanchez",
-          "url": "https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf"
-        }
-      ],
-      "duration_ms": 293331,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/22Td0L84DAT9G819RIfIQz"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "58500 (Daniel Avery Remix)",
         "url": "https://open.spotify.com/album/2t85UNkhR842v0V60Fb3N8"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 223986,
       "name": "58500 - Daniel Avery Remix",
       "url": "https://open.spotify.com/track/2ejCzJvM2f7tqG2fu56EEm"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/5d6P1j9WQSrkcT9DpwMk8x"
+      },
+      "artists": [
+        {
+          "name": "Pablo Bolivar",
+          "url": "https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs"
+        },
+        {
+          "name": "Nacho Sanchez",
+          "url": "https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf"
+        }
+      ],
+      "duration_ms": 293331,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/22Td0L84DAT9G819RIfIQz"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Night Journeys II",
-        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 436776,
-      "name": "Night Journeys II",
-      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Entropy",
         "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 289642,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Night Journeys II",
+        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        }
+      ],
+      "duration_ms": 436776,
+      "name": "Night Journeys II",
+      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 319047,
+      "name": "Amygdala",
+      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Future Falling",
         "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 120000,
       "name": "Dogtooth",
       "url": "https://open.spotify.com/track/0uTTMTQdkZjmacsiSMQ71s"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 319047,
-      "name": "Amygdala",
-      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1107,38 +1107,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
+        "name": "Metamorphose",
+        "url": "https://open.spotify.com/album/6k9zEfwG9jfM5WvEtnob5o"
       },
       "artists": [
         {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
         }
       ],
-      "duration_ms": 238029,
-      "name": "Belt & Carpet",
-      "url": "https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "R Abacus Lndr",
-        "url": "https://open.spotify.com/album/543Orm1f55ALN6N8QAgwkf"
-      },
-      "artists": [
-        {
-          "name": "Pulse Mandala",
-          "url": "https://open.spotify.com/artist/2aD4tPvrEtBG5CUwddFGLX"
-        },
-        {
-          "name": "Distant Fires Burning",
-          "url": "https://open.spotify.com/artist/1E7PNU01XheUuvLAlCZP5z"
-        }
-      ],
-      "duration_ms": 432439,
-      "name": "Antikythera Rddl",
-      "url": "https://open.spotify.com/track/2wyilqh7Q8GK0ws10oF1qk"
+      "duration_ms": 190983,
+      "name": "Transformation",
+      "url": "https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1159,18 +1139,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Metamorphose",
-        "url": "https://open.spotify.com/album/6k9zEfwG9jfM5WvEtnob5o"
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
       },
       "artists": [
         {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
         }
       ],
-      "duration_ms": 190983,
-      "name": "Transformation",
-      "url": "https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy"
+      "duration_ms": 238029,
+      "name": "Belt & Carpet",
+      "url": "https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1199,18 +1179,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Extemperate",
-        "url": "https://open.spotify.com/album/1CU6vcBYMcbV4NUIUpRGtn"
+        "name": "R Abacus Lndr",
+        "url": "https://open.spotify.com/album/543Orm1f55ALN6N8QAgwkf"
       },
       "artists": [
         {
-          "name": "Matt Robertson",
-          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
+          "name": "Pulse Mandala",
+          "url": "https://open.spotify.com/artist/2aD4tPvrEtBG5CUwddFGLX"
+        },
+        {
+          "name": "Distant Fires Burning",
+          "url": "https://open.spotify.com/artist/1E7PNU01XheUuvLAlCZP5z"
         }
       ],
-      "duration_ms": 240636,
-      "name": "Boundary Effect",
-      "url": "https://open.spotify.com/track/6EXvFsFMtcobZApGF0SVdT"
+      "duration_ms": 432439,
+      "name": "Antikythera Rddl",
+      "url": "https://open.spotify.com/track/2wyilqh7Q8GK0ws10oF1qk"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1231,6 +1215,42 @@
       "duration_ms": 210889,
       "name": "Must Have Been Good",
       "url": "https://open.spotify.com/track/0TmdUleVkt3Bq9Pv1uYzw5"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Extemperate",
+        "url": "https://open.spotify.com/album/1CU6vcBYMcbV4NUIUpRGtn"
+      },
+      "artists": [
+        {
+          "name": "Matt Robertson",
+          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
+        }
+      ],
+      "duration_ms": 240636,
+      "name": "Boundary Effect",
+      "url": "https://open.spotify.com/track/6EXvFsFMtcobZApGF0SVdT"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Pause (Reimagined by Hinako Omori)",
+        "url": "https://open.spotify.com/album/2KbOkrUDzIkEEE10TqZA9a"
+      },
+      "artists": [
+        {
+          "name": "Poppy Ackroyd",
+          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
+        },
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "Pause - Reimagined by Hinako Omori",
+      "url": "https://open.spotify.com/track/0ZmLT1FDXPa831isUVS7gV"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1271,26 +1291,6 @@
       "duration_ms": 242142,
       "name": "17\u00b0C",
       "url": "https://open.spotify.com/track/5bWxtgC36JZDNgXckBfXGy"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Pause (Reimagined by Hinako Omori)",
-        "url": "https://open.spotify.com/album/2KbOkrUDzIkEEE10TqZA9a"
-      },
-      "artists": [
-        {
-          "name": "Poppy Ackroyd",
-          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
-        },
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "Pause - Reimagined by Hinako Omori",
-      "url": "https://open.spotify.com/track/0ZmLT1FDXPa831isUVS7gV"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Closer Now",
-        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
-      },
-      "artists": [
-        {
-          "name": "Earth Trax",
-          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
-        }
-      ],
-      "duration_ms": 283673,
-      "name": "White Carnations",
-      "url": "https://open.spotify.com/track/5DyWnH4QyIbWzJKN6tReXg"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Being There (Ambient)",
         "url": "https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 303157,
       "name": "Drive West On Sunset - Ambient",
       "url": "https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Closer Now",
+        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
+      },
+      "artists": [
+        {
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
+        }
+      ],
+      "duration_ms": 283673,
+      "name": "White Carnations",
+      "url": "https://open.spotify.com/track/5DyWnH4QyIbWzJKN6tReXg"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+        "name": "Information - EP",
+        "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
       },
       "artists": [
         {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+          "name": "Synkro",
+          "url": "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
+      "duration_ms": 330673,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Information - EP",
-        "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
       },
       "artists": [
         {
-          "name": "Synkro",
-          "url": "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
         }
       ],
-      "duration_ms": 330673,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i"
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Night Journeys III",
-        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 388452,
-      "name": "Night Journeys III",
-      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "In Electric Time",
         "url": "https://open.spotify.com/album/7hwgIUsEcY3xfvC3I947TL"
       },
@@ -1707,38 +1691,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Undulations and Aberrations",
-        "url": "https://open.spotify.com/album/6MX6ANSOwS8BTL6RtP7Ffg"
+        "name": "Night Journeys III",
+        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
       },
       "artists": [
         {
-          "name": "Drew McDowall",
-          "url": "https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4"
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
         }
       ],
-      "duration_ms": 413755,
-      "name": "VCDB",
-      "url": "https://open.spotify.com/track/1AyFY68bV6nIaO6E8Arcyp"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Made In Silence",
-        "url": "https://open.spotify.com/album/3ei0jT1ME3lIF1nvBy3riV"
-      },
-      "artists": [
-        {
-          "name": "dBridge",
-          "url": "https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y"
-        },
-        {
-          "name": "Madison Willing",
-          "url": "https://open.spotify.com/artist/6b94jpRH15mdDslUuqDwMl"
-        }
-      ],
-      "duration_ms": 154740,
-      "name": "One Note",
-      "url": "https://open.spotify.com/track/3P8AwFnMXOgHNkbuwu8GfP"
+      "duration_ms": 388452,
+      "name": "Night Journeys III",
+      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1763,18 +1727,54 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Yellowstone Ambient",
-        "url": "https://open.spotify.com/album/4hUZot6kLlzNs6K2xewkO4"
+        "name": "Made In Silence",
+        "url": "https://open.spotify.com/album/3ei0jT1ME3lIF1nvBy3riV"
       },
       "artists": [
         {
-          "name": "Airbird",
-          "url": "https://open.spotify.com/artist/2Yk1UXf6iXf0XpMxoKIMDD"
+          "name": "dBridge",
+          "url": "https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y"
+        },
+        {
+          "name": "Madison Willing",
+          "url": "https://open.spotify.com/artist/6b94jpRH15mdDslUuqDwMl"
         }
       ],
-      "duration_ms": 396152,
-      "name": "Hellroaring Suspension Bridge",
-      "url": "https://open.spotify.com/track/2VZP3a2fFKUok9PMXenZjD"
+      "duration_ms": 154740,
+      "name": "One Note",
+      "url": "https://open.spotify.com/track/3P8AwFnMXOgHNkbuwu8GfP"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Undulations and Aberrations",
+        "url": "https://open.spotify.com/album/6MX6ANSOwS8BTL6RtP7Ffg"
+      },
+      "artists": [
+        {
+          "name": "Drew McDowall",
+          "url": "https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4"
+        }
+      ],
+      "duration_ms": 413755,
+      "name": "VCDB",
+      "url": "https://open.spotify.com/track/1AyFY68bV6nIaO6E8Arcyp"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Arrow Map",
+        "url": "https://open.spotify.com/album/0p289J7yWaIqWMsTg0CPe3"
+      },
+      "artists": [
+        {
+          "name": "Graintable",
+          "url": "https://open.spotify.com/artist/0NXPdtXsGvsPSQ68kmFqfG"
+        }
+      ],
+      "duration_ms": 395000,
+      "name": "Arrow Map",
+      "url": "https://open.spotify.com/track/4uaAKISGtheqOFGab9j801"
     }
   ],
   "unique_name": "Electronic X",

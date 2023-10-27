@@ -344,7 +344,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 172042,
       "name": "BLESS",
       "url": "https://open.spotify.com/track/2VuA20x246Ayzil4Ng1NZ9"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 228260,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/21Jy2EJECcC8FQSKiiWmAJ"
@@ -402,6 +402,24 @@
       "duration_ms": 196440,
       "name": "Culture Rap Series (C.R.S) Episode I",
       "url": "https://open.spotify.com/track/0SzPFt8cZApjg8mVS5woac"
+    },
+    {
+      "album": {
+        "name": "Daddy Issues",
+        "url": "https://open.spotify.com/album/0mW2ngUVUED2RLX1W0Nq14"
+      },
+      "artists": [
+        {
+          "name": "DJ Gibbzy",
+          "url": "https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179142,
+      "name": "Daddy Issues",
+      "url": "https://open.spotify.com/track/2pF3kr4LYju9dBNZz5cnNo"
     },
     {
       "album": {
@@ -464,6 +482,28 @@
       "duration_ms": 240326,
       "name": "Dear Gambe",
       "url": "https://open.spotify.com/track/2IUvtf5mREXmyLm2R4Ewkh"
+    },
+    {
+      "album": {
+        "name": "Debbie",
+        "url": "https://open.spotify.com/album/3BD5EDEiEw40c6Oke3xVH8"
+      },
+      "artists": [
+        {
+          "name": "DJ Gibbzy",
+          "url": "https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB"
+        },
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208285,
+      "name": "Debbie",
+      "url": "https://open.spotify.com/track/40YWoIsRFKXZkCTTwZjpE6"
     },
     {
       "album": {
@@ -960,7 +1000,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 110480,
       "name": "Long dayz",
       "url": "https://open.spotify.com/track/3iSrds7rKPjoA2HP5LbzZd"
@@ -1004,6 +1044,32 @@
       "duration_ms": 169263,
       "name": "Makasia",
       "url": "https://open.spotify.com/track/5MFbesCGzh06gWihcMf1m3"
+    },
+    {
+      "album": {
+        "name": "Malume",
+        "url": "https://open.spotify.com/album/5qUOx9PNiugWjY420uFKu9"
+      },
+      "artists": [
+        {
+          "name": "Q Chief",
+          "url": "https://open.spotify.com/artist/2CL7c3WDQbjC7qoWwFjEig"
+        },
+        {
+          "name": "Rapcha",
+          "url": "https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa"
+        },
+        {
+          "name": "Chidi Benz",
+          "url": "https://open.spotify.com/artist/1lTGyFO9KjwT8dsrhS9RxH"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256329,
+      "name": "MALUME",
+      "url": "https://open.spotify.com/track/6PurjVxHGLhG896qwH2YTS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,107 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,126 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 61 | [Corazon, Perro Fiel, Echame La Culpa,](https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy) | [Version Cumbia La Plata](https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv) | [Corazon, Perro Fiel, Echame La Culpa,](https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9) | 3:13 |
 | 62 | [Come As You Are](https://open.spotify.com/track/4HYoMVI4mBbMsfXStbTPYX) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Smells Like Cumbia](https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9) | 2:57 |
 | 63 | [No Pares Hasta Tener lo Suficiente \(Don't Stop 'til You Get Enough\)](https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 2:54 |
-| 64 | [La Mejor Version de Mi](https://open.spotify.com/track/6yBbgqbWxMVLqnzGwiiB8r) | [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Tropitango](https://open.spotify.com/album/4dOlABdZn7dUJwrzJCX4pb) | 1:52 |
-| 65 | [Dulce \(A La La La La Long\)](https://open.spotify.com/track/6wUz0vZ4F3ceJVN6XoTtbT) | [Los Fumancheros](https://open.spotify.com/artist/1ddoQssa4i9K8i5NXDknd7) | [Dulce \(A La La La La Long\)](https://open.spotify.com/album/1CKYVWjxAdkdNbd6RPaCN0) | 3:32 |
+| 64 | [Dulce \(A La La La La Long\)](https://open.spotify.com/track/6wUz0vZ4F3ceJVN6XoTtbT) | [Los Fumancheros](https://open.spotify.com/artist/1ddoQssa4i9K8i5NXDknd7) | [Dulce \(A La La La La Long\)](https://open.spotify.com/album/1CKYVWjxAdkdNbd6RPaCN0) | 3:32 |
+| 65 | [La Mejor Version de Mi](https://open.spotify.com/track/6yBbgqbWxMVLqnzGwiiB8r) | [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Tropitango](https://open.spotify.com/album/4dOlABdZn7dUJwrzJCX4pb) | 1:52 |
 | 66 | [Como Yo Nadie Te a Amado / MI Historia Entre Tus Dedos](https://open.spotify.com/track/5A9eRb37HxwUTHn8WHTQ8J) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Como Yo Nadie Te Ha Amado / Mi Historia Entre Tus Dedos](https://open.spotify.com/album/4HCrPU5PaQr2QXtYghu5uM) | 5:53 |
 | 67 | [Ya No Tiene Novio \- Version Cumbia](https://open.spotify.com/track/2akbizyZrFqGzUZzSUQiVq) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Cande Grau](https://open.spotify.com/artist/6HxOHuLKJXWfA1txQu0A1o), [Agu Cartier](https://open.spotify.com/artist/4fqtP4zl3FiAwzrmPUInbW) | [Ya No Tiene Novio \(Version Cumbia\)](https://open.spotify.com/album/6Ke6vYnNX8xsOHiLKl9m77) | 3:00 |
 | 68 | [Despacito](https://open.spotify.com/track/4MJFHjrzeFsia49jrsh2lu) | [Nuevo Klan](https://open.spotify.com/artist/6wwRGPHUmHBGYbyHnBa50u) | [2017 \(\#Veintediecisiete\)](https://open.spotify.com/album/6cOefEIxlLxmiK3oz0OypE) | 4:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 74 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO) | [Musicalísimo Fuego Indio](https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN) | [Retro Con](https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt) | 3:25 |
 | 75 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
 
-Snapshot ID: `MCxiODljYjg4ZjEyNzg1MzFjYTBkYjM4NjI5NzkwYmZmZTc0MGY0NTY1`
+Snapshot ID: `MCw4MjAwMmU1NmNmMjQ5MjgwNWQ1Y2UyODU2YzkwN2M2MjcyYzY5YmE3`

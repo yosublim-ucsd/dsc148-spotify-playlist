@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 781778,
+  "num_followers": 783659,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2VmODdjMTQ3MjA1YzBhOGIzNTM5MmM2NDM4M2VmMTJiOTJiMDdi",
+  "snapshot_id": "MCw3MmZiOWIxNWU4N2ZjYTZkZGZkNDE1OGY4YTgyZGM5NzExNmM2YTEx",
   "tracks": [
     {
       "added_at": "2023-09-26 20:58:57",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
+        "name": "kenopsia",
+        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
+      },
+      "artists": [
+        {
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+        }
+      ],
+      "duration_ms": 203294,
+      "name": "life imitates life",
+      "url": "https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
         "name": "BABY I'M HOME (w/ Kanii & 9lives)",
         "url": "https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 208938,
       "name": "BABY I'M HOME (w/ Kanii & 9lives)",
       "url": "https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
-        "name": "kenopsia",
-        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
-      },
-      "artists": [
-        {
-          "name": "quannnic",
-          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
-        }
-      ],
-      "duration_ms": 203294,
-      "name": "life imitates life",
-      "url": "https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
+        "name": "COWBELL WARRIOR!",
+        "url": "https://open.spotify.com/album/7E5iS4h201MO7HWZqbrMU4"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "COWBELL WARRIOR!",
+      "url": "https://open.spotify.com/track/3yMrcqveZ2DrWBYJbDsous"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7"
       },
@@ -1201,22 +1217,6 @@
       "url": "https://open.spotify.com/track/3f1Jurx7wpabtVoxpLrtCE"
     },
     {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
-        "name": "COWBELL WARRIOR!",
-        "url": "https://open.spotify.com/album/7E5iS4h201MO7HWZqbrMU4"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "COWBELL WARRIOR!",
-      "url": "https://open.spotify.com/track/3yMrcqveZ2DrWBYJbDsous"
-    },
-    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "The Perfect Girl (Instrumental)",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
-        "name": "JoJo Pose",
-        "url": "https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Apollo Fresh",
-          "url": "https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ"
-        }
-      ],
-      "duration_ms": 105333,
-      "name": "JoJo Pose",
-      "url": "https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
         "name": "KILL!",
         "url": "https://open.spotify.com/album/2Bk3pomO5BGIJrNhwjzqRE"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 94235,
       "name": "EXORCIST",
       "url": "https://open.spotify.com/track/6qwEeAl6Cl32odNr2GIMjm"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
+        "name": "JoJo Pose",
+        "url": "https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ"
+      },
+      "artists": [
+        {
+          "name": "Apollo Fresh",
+          "url": "https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ"
+        }
+      ],
+      "duration_ms": 105333,
+      "name": "JoJo Pose",
+      "url": "https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -1319,18 +1319,34 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
-        "name": "V-12",
-        "url": "https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE"
+        "name": "DONNA",
+        "url": "https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI"
       },
       "artists": [
         {
-          "name": "Lil Dew'",
-          "url": "https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ"
+          "name": "Softwilly",
+          "url": "https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc"
+        },
+        {
+          "name": "void",
+          "url": "https://open.spotify.com/artist/4jtsFTEnLnF4zDZaBWrH6L"
+        },
+        {
+          "name": "LEX PAIN",
+          "url": "https://open.spotify.com/artist/5gs6KOePAS97FunPmAheEE"
+        },
+        {
+          "name": "$atori Zoom",
+          "url": "https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic"
+        },
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
         }
       ],
-      "duration_ms": 140460,
-      "name": "V-12",
-      "url": "https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"
+      "duration_ms": 158710,
+      "name": "CHROME BERETTA",
+      "url": "https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL"
     }
   ],
   "unique_name": "sh\u014dnen",

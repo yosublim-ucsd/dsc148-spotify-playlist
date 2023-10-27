@@ -1435,6 +1435,28 @@
     },
     {
       "album": {
+        "name": "alive",
+        "url": "https://open.spotify.com/album/6EebIEnkHOZkgvyaRhQQaK"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108049,
+      "name": "alive",
+      "url": "https://open.spotify.com/track/2XqX1e0lH7O83AaDzbsD8s"
+    },
+    {
+      "album": {
         "name": "Alive!",
         "url": "https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn"
       },
@@ -1778,6 +1800,24 @@
       "duration_ms": 170386,
       "name": "Alpha Zulu",
       "url": "https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F"
+    },
+    {
+      "album": {
+        "name": "Always / Never",
+        "url": "https://open.spotify.com/album/16f1fDWr5jRAcGiqFoZSFI"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221290,
+      "name": "Always / Never",
+      "url": "https://open.spotify.com/track/3n9EfOy7vlDIXbDyntRLxc"
     },
     {
       "album": {
@@ -8216,7 +8256,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 219973,
       "name": "Dying",
       "url": "https://open.spotify.com/track/60kl9blMLz8yl3akeh6sXe"
@@ -11303,6 +11343,24 @@
     },
     {
       "album": {
+        "name": "GLOW / AGNOSTIC",
+        "url": "https://open.spotify.com/album/1bEikzQV0ZKvnYHTzIYjsi"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166643,
+      "name": "GLOW",
+      "url": "https://open.spotify.com/track/0i8EbwLvGtg3u9hq896b1A"
+    },
+    {
+      "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
       },
@@ -12506,6 +12564,28 @@
       "duration_ms": 224333,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4inoOfvjCBQrJKdVwfJjlT"
+    },
+    {
+      "album": {
+        "name": "My Big Day",
+        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322453,
+      "name": "Heaven - feat. Damon Albarn",
+      "url": "https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC"
     },
     {
       "album": {
@@ -13974,6 +14054,24 @@
       "duration_ms": 219360,
       "name": "I Don't Know What You See In Me",
       "url": "https://open.spotify.com/track/3kgF5sMaCPSrWh4HV6wIpG"
+    },
+    {
+      "album": {
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/0zT2ilSANN1bLI7gV6lqCl"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224373,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/43DsSmYR7rk3LKnyY8wkGI"
     },
     {
       "album": {
@@ -19082,10 +19180,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 310094,
       "name": "Melody Experiment",
       "url": "https://open.spotify.com/track/04SwfL1yAlGgn0EftxX3Jy"
+    },
+    {
+      "album": {
+        "name": "Sit Down for Dinner",
+        "url": "https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310094,
+      "name": "Melody Experiment",
+      "url": "https://open.spotify.com/track/5k1c6yaWO1uTSY6wNTVUa6"
     },
     {
       "album": {
@@ -20606,6 +20722,24 @@
       "duration_ms": 230760,
       "name": "Night Vision",
       "url": "https://open.spotify.com/track/6J4LmfWAfxkEfQZE0OKCo6"
+    },
+    {
+      "album": {
+        "name": "Nightclubs in Heaven",
+        "url": "https://open.spotify.com/album/1o3BEceG30UxS6fvjN40sj"
+      },
+      "artists": [
+        {
+          "name": "Henry Morris",
+          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119875,
+      "name": "Nightclubs in Heaven",
+      "url": "https://open.spotify.com/track/66iox4Zx8x9VmE0ON7jueN"
     },
     {
       "album": {
@@ -26463,6 +26597,28 @@
     },
     {
       "album": {
+        "name": "Sleeper",
+        "url": "https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244271,
+      "name": "Sleeper",
+      "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
+    },
+    {
+      "album": {
         "name": "Bunny",
         "url": "https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V"
       },
@@ -26953,6 +27109,24 @@
     },
     {
       "album": {
+        "name": "I Don't Want You Anymore",
+        "url": "https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb"
+      },
+      "artists": [
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198333,
+      "name": "Soft Like a Flower",
+      "url": "https://open.spotify.com/track/2hj7KCZ38HJWlEfQDs4IQH"
+    },
+    {
+      "album": {
         "name": "Soft Like a Flower",
         "url": "https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV"
       },
@@ -26964,7 +27138,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 198333,
       "name": "Soft Like a Flower",
       "url": "https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj"
@@ -28038,6 +28212,28 @@
       "duration_ms": 60053,
       "name": "Strike",
       "url": "https://open.spotify.com/track/4GTA7LtqEO2b5kMT6EHfZ2"
+    },
+    {
+      "album": {
+        "name": "Suburban House",
+        "url": "https://open.spotify.com/album/4rFmHomF53LoM6DGOSeOwA"
+      },
+      "artists": [
+        {
+          "name": "Holly Macve",
+          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229878,
+      "name": "Suburban House",
+      "url": "https://open.spotify.com/track/676TvM26wVq88afbYDPRO3"
     },
     {
       "album": {

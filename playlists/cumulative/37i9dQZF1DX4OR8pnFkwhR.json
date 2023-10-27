@@ -8648,6 +8648,10 @@
         {
           "name": "Furui Riho",
           "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        },
+        {
+          "name": "knoak",
+          "url": "https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP"
         }
       ],
       "date_added": "2023-08-15",
@@ -11950,7 +11954,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 157924,
       "name": "Unmellow",
       "url": "https://open.spotify.com/track/0QBMxVVIXqVNp2Yce45nBQ"
@@ -12646,7 +12650,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 300160,
       "name": "Yakoh",
       "url": "https://open.spotify.com/track/6dUcef2suTSNVXSW78gBh8"
@@ -13685,6 +13689,24 @@
     },
     {
       "album": {
+        "name": "\u3057\u3087\u3046\u304c\u306a\u3044",
+        "url": "https://open.spotify.com/album/30fwOEXpsdBOnLQz5D5jbB"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199875,
+      "name": "\u3057\u3087\u3046\u304c\u306a\u3044",
+      "url": "https://open.spotify.com/track/6knXRV59KfhPg7o1FkbDfQ"
+    },
+    {
+      "album": {
         "name": "\u3057\u3088\u3063\u304b\u3002(feat.meiyo)",
         "url": "https://open.spotify.com/album/3lvj2EyFe7SZJi0dbraD12"
       },
@@ -14626,6 +14648,24 @@
       "duration_ms": 223458,
       "name": "\u30aa\u30ea\u30b8\u30ca\u30eb\u30b9\u30af\u30fc\u30d7",
       "url": "https://open.spotify.com/track/6coXH7cxTNneEHPbXvCmNA"
+    },
+    {
+      "album": {
+        "name": "\u30aa\u30ec\u30f3\u30b8",
+        "url": "https://open.spotify.com/album/1XjBlUkXj8I4EyIgmjckDa"
+      },
+      "artists": [
+        {
+          "name": "\u3056\u304d\u306e\u3059\u3051\u3002",
+          "url": "https://open.spotify.com/artist/2QydRp0HEq0iP0W3XPHZKm"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188166,
+      "name": "\u30aa\u30ec\u30f3\u30b8",
+      "url": "https://open.spotify.com/track/5gXnaa6k4HdwuNTAZzYyzd"
     },
     {
       "album": {

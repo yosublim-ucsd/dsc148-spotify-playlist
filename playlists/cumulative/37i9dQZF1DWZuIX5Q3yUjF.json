@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Queen of Saba",
+  "description": "Il meglio dell'R&B italiano. Cover: Federico di Napoli",
   "name": "anima R&B",
   "tracks": [
     {
@@ -646,7 +646,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 165527,
       "name": "BOLLICINE",
       "url": "https://open.spotify.com/track/3YNZBHzSKxfEvv801uyh72"
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 165937,
       "name": "CORALLO",
       "url": "https://open.spotify.com/track/7lcOsb2oHn2MIPGS3Kj1r2"
@@ -2548,7 +2548,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 200946,
       "name": "Fuori dai guai (feat. Gemitaiz)",
       "url": "https://open.spotify.com/track/1Dd1l5fKJEInJlH8eKWJ0L"
@@ -4081,6 +4081,24 @@
     },
     {
       "album": {
+        "name": "Ma non adesso",
+        "url": "https://open.spotify.com/album/5c5y9fkL7WNktLPPQLvQ8k"
+      },
+      "artists": [
+        {
+          "name": "JeBel",
+          "url": "https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179861,
+      "name": "Ma non adesso",
+      "url": "https://open.spotify.com/track/7LVIJLuM7agM4C32LivEYX"
+    },
+    {
+      "album": {
         "name": "Mai",
         "url": "https://open.spotify.com/album/15yYnAkNRCm31esmGNf6ew"
       },
@@ -4154,7 +4172,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 196363,
       "name": "Mare 'e Buc\u00ece (feat. Livio Cori)",
       "url": "https://open.spotify.com/track/4ZavEIlFvl74MIBuepDXja"
@@ -4400,6 +4418,24 @@
       "duration_ms": 209525,
       "name": "Morsi",
       "url": "https://open.spotify.com/track/5k0bWnsm97QQQHuMs0wIvG"
+    },
+    {
+      "album": {
+        "name": "N'Anima",
+        "url": "https://open.spotify.com/album/13ECmY0qa7soTUErZ1IElY"
+      },
+      "artists": [
+        {
+          "name": "Naomi",
+          "url": "https://open.spotify.com/artist/3dbuSqzwPQGqucy4evhJUB"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174137,
+      "name": "N'Anima",
+      "url": "https://open.spotify.com/track/5lELyaYDICf3gj0xjXleOs"
     },
     {
       "album": {
@@ -4877,6 +4913,24 @@
     },
     {
       "album": {
+        "name": "Aurora Boreale",
+        "url": "https://open.spotify.com/album/3oh4nZNcAzLtV6KKBohGfK"
+      },
+      "artists": [
+        {
+          "name": "Shadaloo",
+          "url": "https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166624,
+      "name": "Nuvole bianche",
+      "url": "https://open.spotify.com/track/53ElUkXHe9yi0UhVP5ZCF2"
+    },
+    {
+      "album": {
         "name": "San Castrese",
         "url": "https://open.spotify.com/album/3rYuPwrwUSE7wEE89lcC4G"
       },
@@ -5170,7 +5224,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 173913,
       "name": "PARLAME 'E TE (con Federico Di Napoli & O'Tsunami)",
       "url": "https://open.spotify.com/track/5hdEy03sDt2rk2hDMGUIUg"
@@ -5892,6 +5946,32 @@
       "duration_ms": 174193,
       "name": "Rosso",
       "url": "https://open.spotify.com/track/3CcaCV8H6VsCm2SkuY7QbO"
+    },
+    {
+      "album": {
+        "name": "Rosso di Marte",
+        "url": "https://open.spotify.com/album/1nnn1v9kESLFSWOO2QjgQ5"
+      },
+      "artists": [
+        {
+          "name": "Eakos",
+          "url": "https://open.spotify.com/artist/4DPWOt9FehGYFm4Al5bA92"
+        },
+        {
+          "name": "The ego",
+          "url": "https://open.spotify.com/artist/7CUwMTIN5PXXb2AAzAdJQj"
+        },
+        {
+          "name": "RudeBobo",
+          "url": "https://open.spotify.com/artist/36y0bh05LsRHDaRRJqDiZc"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176585,
+      "name": "Rosso di Marte",
+      "url": "https://open.spotify.com/track/5rMe8OtABwtqal2o4e7bDL"
     },
     {
       "album": {
@@ -7291,6 +7371,28 @@
     },
     {
       "album": {
+        "name": "Tutto Come Prima",
+        "url": "https://open.spotify.com/album/6iAgkNGERqODgB7Mb7xiNI"
+      },
+      "artists": [
+        {
+          "name": "Federico Di Napoli",
+          "url": "https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu"
+        },
+        {
+          "name": "Gorbaciof",
+          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164062,
+      "name": "Tutto Come Prima",
+      "url": "https://open.spotify.com/track/1gtm2k8TmikVUI8SxeAuf4"
+    },
+    {
+      "album": {
         "name": "Tutto da rifare",
         "url": "https://open.spotify.com/album/5BFCtA2Ld80YBsLsjvgL5N"
       },
@@ -7436,7 +7538,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 148224,
       "name": "Un'altra festa",
       "url": "https://open.spotify.com/track/1KpgcZBATfN2xyoKcyj1TH"
@@ -7672,7 +7774,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 139636,
       "name": "Vivere",
       "url": "https://open.spotify.com/track/40P8i5YKA3xMDSozUw1vgK"

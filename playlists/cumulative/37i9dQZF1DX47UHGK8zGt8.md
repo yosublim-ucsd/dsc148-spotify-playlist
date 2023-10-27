@@ -4,7 +4,7 @@
 
 > Músicas calminhas pra começar o dia bem relax.
 
-222 songs - 12 hr 38 min
+223 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Cais](https://open.spotify.com/track/3d4Ve0MGsj6nJuu4gFgID1) | [KARINE](https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8) | [Cais](https://open.spotify.com/album/26Whcw57vCgEvwgUiWjt2q) | 3:07 | 2022-02-18 | 2022-07-20 |
 | [Calmô](https://open.spotify.com/track/5DHApowmRCAlCHRiLapAPh) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi) | [Calmô](https://open.spotify.com/album/3sd79IarRG4KrhNIRlxNy1) | 4:14 | 2022-04-01 | 2022-04-19 |
 | [Cantinho](https://open.spotify.com/track/6lp1heMwkQlw4njiSTrjtU) | [Pedro Blum](https://open.spotify.com/artist/2mGkV2eAFSt9i83sLlD4n2) | [Cantinho](https://open.spotify.com/album/5TRpUlnfHTbzN6O0cWIo1g) | 2:55 | 2022-04-01 | 2022-06-12 |
+| [Cara a Cara \(Live Session\)](https://open.spotify.com/track/3HlqxgiaWK3DFkAN9sYpNH) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Sonas Sessions \(Live Session\)](https://open.spotify.com/album/6F8v6e4TlUZ8oTv5IQpgMJ) | 3:40 | 2023-10-24 |  |
 | [Carnaval a Dois \- Acústico](https://open.spotify.com/track/5eHz8dzy0WsvYEqnDpPtWN) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Carnaval a Dois \(Acústico\)](https://open.spotify.com/album/4tMGcI3AI8sIiqiuX39EWe) | 3:11 | 2022-02-18 | 2022-07-29 |
 | [Carnaval de Salvador](https://open.spotify.com/track/1Z4O9L42qpYFkQCy0lvMHZ) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Carnaval de Salvador](https://open.spotify.com/album/5MOjunWyZe3tcv7ORSok5q) | 3:30 | 2022-04-01 | 2022-04-19 |
 | [Casa Pronta](https://open.spotify.com/track/1wwfsmydqA3Q8FK1vWj83J) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/5rCOOZsVbPWwuAVKrA5Xug) | 3:18 | 2022-02-18 | 2022-07-25 |

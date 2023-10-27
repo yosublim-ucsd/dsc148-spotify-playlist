@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 238527,
+  "num_followers": 238587,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmJkZjg0OWRlNTFlNTFjZDcwYzBlYTAyNWRmZmY1N2UyZmVjN2Fi",
+  "snapshot_id": "MCw0ZjJlOGMxNmEyODAxYjI4ODIwMGUzNThkOGFiODJiMjg4NDFmMGM5",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -315,6 +315,26 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "JEANS",
+        "url": "https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 195186,
+      "name": "JEANS (with Miguel)",
+      "url": "https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
         "url": "https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 195000,
       "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
       "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "JEANS",
-        "url": "https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 195186,
-      "name": "JEANS (with Miguel)",
-      "url": "https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "calm & patient",
+        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "calm & patient",
+      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Don't Give It Away",
         "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 206143,
       "name": "Don't Give It Away (with Chris Brown)",
       "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "calm & patient",
-        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "calm & patient",
-      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 173377,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Look My Way",
         "url": "https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 174000,
       "name": "Look My Way",
       "url": "https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 173377,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Simp",
+        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "duration_ms": 151676,
+      "name": "Simp",
+      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
         "url": "https://open.spotify.com/album/0t2ykalFeWerglEzAC9tBS"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 154552,
       "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
       "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Simp",
-        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 151676,
-      "name": "Simp",
-      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Bag (with Lucky Daye)",
-        "url": "https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Bag (with Lucky Daye)",
-      "url": "https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Online",
         "url": "https://open.spotify.com/album/2U4iDmJzwom2wsG7u0bN0v"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 165146,
       "name": "Online",
       "url": "https://open.spotify.com/track/7oPafvnkhwW6BPEmIvdzVk"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Bag (with Lucky Daye)",
+        "url": "https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Bag (with Lucky Daye)",
+      "url": "https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/6OskzKNJss2nReEKRchfiy"
       },
       "artists": [
         {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+          "name": "Sky Feliz",
+          "url": "https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O"
         }
       ],
-      "duration_ms": 183996,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ"
+      "duration_ms": 164286,
+      "name": "Linger On",
+      "url": "https://open.spotify.com/track/6sAhTL86FQa2RhdbozNECI"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/6OskzKNJss2nReEKRchfiy"
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
       },
       "artists": [
         {
-          "name": "Sky Feliz",
-          "url": "https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O"
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
         }
       ],
-      "duration_ms": 164286,
-      "name": "Linger On",
-      "url": "https://open.spotify.com/track/6sAhTL86FQa2RhdbozNECI"
+      "duration_ms": 183996,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/5NeVFESnfQbNb14PTKn3y4"
-      },
-      "artists": [
-        {
-          "name": "Sky Feliz",
-          "url": "https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O"
-        }
-      ],
-      "duration_ms": 152562,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/50YvgSEJQpNlvOaTNJzwnk"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Say That",
         "url": "https://open.spotify.com/album/1PQe82S6RF7feFvSBAn3yh"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 227142,
       "name": "Say That",
       "url": "https://open.spotify.com/track/3I2OTaL3DTKB6MK24nKYJy"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/5NeVFESnfQbNb14PTKn3y4"
+      },
+      "artists": [
+        {
+          "name": "Sky Feliz",
+          "url": "https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O"
+        }
+      ],
+      "duration_ms": 152562,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/50YvgSEJQpNlvOaTNJzwnk"
     },
     {
       "added_at": "2023-10-12 22:00:00",

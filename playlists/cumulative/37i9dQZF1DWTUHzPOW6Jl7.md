@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-202 songs - 12 hr 29 min
+203 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Undecided](https://open.spotify.com/track/7uiBocndm12aKbsdnQ3Scx) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Undecided](https://open.spotify.com/album/0JOT3Ff4gJ939hqdeEpsZv) | 3:07 | 2021-12-17 | 2022-07-29 |
 | [Vibe](https://open.spotify.com/track/6M2aVK2M2cj7ywBis4tkMH) | [J\. Brown](https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb) | [Vibe](https://open.spotify.com/album/1dRkctmEH6bGNEo3m8nVal) | 3:15 | 2021-12-17 |  |
 | [Wassup](https://open.spotify.com/track/1EIF2vRR3CNoytVR8JPL2G) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:46 | 2023-07-14 |  |
+| [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-10-26 |  |
 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 | 2023-03-24 |  |
 | [Who's That Girl?](https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 4:41 | 2021-12-17 | 2023-08-26 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2023-08-25 |  |

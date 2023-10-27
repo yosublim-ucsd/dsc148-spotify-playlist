@@ -1539,6 +1539,32 @@
     },
     {
       "album": {
+        "name": "His Name Is John",
+        "url": "https://open.spotify.com/album/1fFGoi6U2Jc9QMvP0pOYwM"
+      },
+      "artists": [
+        {
+          "name": "Tomas Raae",
+          "url": "https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL"
+        },
+        {
+          "name": "Carolyn Goodwin",
+          "url": "https://open.spotify.com/artist/2QvI4tY5g3f9udmc0Iw2oO"
+        },
+        {
+          "name": "Victor Dybbroe",
+          "url": "https://open.spotify.com/artist/0UCArTjGDCDNDPyAuYojfT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547803,
+      "name": "Fear Not, Zechariah",
+      "url": "https://open.spotify.com/track/0lrJbYLN79ODux7O2bldys"
+    },
+    {
+      "album": {
         "name": "Fear Not, Zechariah",
         "url": "https://open.spotify.com/album/64vGhTLHLsKKhSEx8tfwlL"
       },
@@ -3340,7 +3366,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 306093,
       "name": "Mountains, Trees and Seas",
       "url": "https://open.spotify.com/track/6h52zNa8ChwfY3SuQb1NzD"

@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 80421,
+  "num_followers": 80555,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjJlNDQ2ZDcyZDRmOWJmYzI0YjEwOWFiZDhhYjM3ZDY3ZTMwNGYx",
+  "snapshot_id": "MCxjZGQyMTY3YzA4ZjI5NzRjNTkxYTU1NmI0ZDRkMDQ3Nzc3MTA2ODlh",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "This Empty Northern Hemisphere",
-        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Big Black Car",
-      "url": "https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 238520,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Everything All The Time",
+        "url": "https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 322173,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -91,18 +91,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Everything All The Time",
-        "url": "https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3"
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
       },
       "artists": [
         {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 322173,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
+      "duration_ms": 247002,
+      "name": "Little Lion Man",
+      "url": "https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -135,22 +135,6 @@
       "duration_ms": 172840,
       "name": "Fake Palindromes",
       "url": "https://open.spotify.com/track/50woGYhAqV3KXvO1LG4zLg"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 247002,
-      "name": "Little Lion Man",
-      "url": "https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -219,6 +203,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217984,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "First Collection 2006-2009",
         "url": "https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud"
       },
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217984,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Veneer",
         "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
       },
@@ -303,22 +287,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Naked as We Came",
-      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Riot On An Empty Street",
         "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
       },
@@ -347,6 +315,22 @@
       "duration_ms": 259120,
       "name": "Lost in My Mind",
       "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -463,6 +447,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Flume",
+      "url": "https://open.spotify.com/track/0bhBtXHQX3u6dSAPF59qGx"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
       },
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Flume",
-      "url": "https://open.spotify.com/track/0bhBtXHQX3u6dSAPF59qGx"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Mouthfuls",
         "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
       },
@@ -587,22 +571,6 @@
       "duration_ms": 216453,
       "name": "Your Rocky Spine",
       "url": "https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Chutes Too Narrow",
-        "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 168533,
-      "name": "So Says I",
-      "url": "https://open.spotify.com/track/6WBNQSfB047hAZ7tusGhqB"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -811,22 +779,6 @@
       "duration_ms": 286653,
       "name": "The Blower's Daughter",
       "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Chutes Too Narrow",
-        "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 193546,
-      "name": "Gone for Good",
-      "url": "https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1295,6 +1247,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Cassadaga",
+        "url": "https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 256262,
+      "name": "Four Winds",
+      "url": "https://open.spotify.com/track/7iV2w73aB3oL7UWgEAWuiN"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Emotionalism (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pb5b6XKuzzh5CqPFOzptQ"
       },
@@ -1311,34 +1279,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Middle Cyclone",
-        "url": "https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ"
+        "name": "Music For A French Elevator And Other Oddities",
+        "url": "https://open.spotify.com/album/4naPotuOdRMQga4C8ZAm2C"
       },
       "artists": [
         {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+          "name": "The Books",
+          "url": "https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1"
         }
       ],
-      "duration_ms": 199226,
-      "name": "This Tornado Loves You",
-      "url": "https://open.spotify.com/track/5FRmsiVS8ybJHQCV0fjuI1"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Cassadaga",
-        "url": "https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 256262,
-      "name": "Four Winds",
-      "url": "https://open.spotify.com/track/7iV2w73aB3oL7UWgEAWuiN"
+      "duration_ms": 234106,
+      "name": "Cello Song Feat. Jose Gonzales",
+      "url": "https://open.spotify.com/track/55Q6Pf0xufUM8MEjbqEfcp"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1359,6 +1311,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Middle Cyclone",
+        "url": "https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "This Tornado Loves You",
+      "url": "https://open.spotify.com/track/5FRmsiVS8ybJHQCV0fjuI1"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "The Stand Ins",
         "url": "https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi"
       },
@@ -1371,22 +1339,6 @@
       "duration_ms": 331800,
       "name": "Lost Coastlines",
       "url": "https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Music For A French Elevator And Other Oddities",
-        "url": "https://open.spotify.com/album/4naPotuOdRMQga4C8ZAm2C"
-      },
-      "artists": [
-        {
-          "name": "The Books",
-          "url": "https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Cello Song Feat. Jose Gonzales",
-      "url": "https://open.spotify.com/track/55Q6Pf0xufUM8MEjbqEfcp"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1423,22 +1375,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Yellow House",
-        "url": "https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta"
-      },
-      "artists": [
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 317173,
-      "name": "Knife",
-      "url": "https://open.spotify.com/track/2L7DZcRNEA7ZGiaHC6vlJw"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "A Ghost Is Born (Deluxe Version)",
         "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
       },
@@ -1451,6 +1387,22 @@
       "duration_ms": 363000,
       "name": "Handshake Drugs",
       "url": "https://open.spotify.com/track/7wOXAS9DfepmybaTYyfYwd"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Yellow House",
+        "url": "https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 317173,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/2L7DZcRNEA7ZGiaHC6vlJw"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1487,22 +1439,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Animal Years",
-        "url": "https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 263862,
-      "name": "Girl in the War",
-      "url": "https://open.spotify.com/track/2XQ6xhvd1q5JQyY21F198g"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Woke On A Whaleheart",
         "url": "https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH"
       },
@@ -1519,6 +1455,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "The Animal Years",
+        "url": "https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 263862,
+      "name": "Girl in the War",
+      "url": "https://open.spotify.com/track/2XQ6xhvd1q5JQyY21F198g"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Mountain Rock",
         "url": "https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy"
       },
@@ -1531,22 +1483,6 @@
       "duration_ms": 91320,
       "name": "The Lonesome Border, Pt. 1",
       "url": "https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Yankee Hotel Foxtrot",
-        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 418200,
-      "name": "I Am Trying to Break Your Heart",
-      "url": "https://open.spotify.com/track/3HWxpLKnTlz6jE3Vi5dTF2"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1603,6 +1539,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Yankee Hotel Foxtrot",
+        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 418200,
+      "name": "I Am Trying to Break Your Heart",
+      "url": "https://open.spotify.com/track/3HWxpLKnTlz6jE3Vi5dTF2"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Lookaftering",
         "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
       },
@@ -1615,6 +1567,54 @@
       "duration_ms": 135440,
       "name": "If I Were",
       "url": "https://open.spotify.com/track/1Jri474VM7yyIlglywQOx5"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Dongs Of Sevotion",
+        "url": "https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27"
+      },
+      "artists": [
+        {
+          "name": "Smog",
+          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
+        }
+      ],
+      "duration_ms": 330133,
+      "name": "Dress Sexy At My Funeral",
+      "url": "https://open.spotify.com/track/2lTnA8Z6rmjIvQRcEy3XLH"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Rook",
+        "url": "https://open.spotify.com/album/5pYcP11SaCxYKqUAXeBIu2"
+      },
+      "artists": [
+        {
+          "name": "Shearwater",
+          "url": "https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "Rooks",
+      "url": "https://open.spotify.com/track/2UZnNDCLZHMWR0LCEzFxBB"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Upper Air",
+        "url": "https://open.spotify.com/album/6j7VkUjGahbmwgPchYezpZ"
+      },
+      "artists": [
+        {
+          "name": "Bowerbirds",
+          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/4r9PnuIGOJOZ6UofWyMdow"
     }
   ],
   "unique_name": "00s Indie Folk",

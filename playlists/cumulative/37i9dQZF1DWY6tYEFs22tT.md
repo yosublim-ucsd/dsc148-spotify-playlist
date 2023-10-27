@@ -4,7 +4,7 @@
 
 > Today's Hip\-Hop with Offset, Gucci Mane,  Wale and Drake!
 
-871 songs - 1 day 19 hr 37 min
+873 songs - 1 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,8 @@
 | [Fire Proof](https://open.spotify.com/track/3QANNgnNhT17Ll4xbPPKpY) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Fire Proof](https://open.spotify.com/album/1lkXpwEqvshMPhGFLm8gJI) | 2:02 | 2022-08-19 | 2022-08-27 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-08 | 2022-06-04 |
 | [First Day Out \(Freestyle\)](https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u) | 2:22 | 2023-09-01 | 2023-10-14 |
-| [First Day Out \(Freestyle\) Pt\. 2](https://open.spotify.com/track/4oeUol0xLGJYCmiPypgUvi) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\) Pt\. 2](https://open.spotify.com/album/2GMbT6TVTPmb8XQc2IOBNW) | 3:17 | 2023-09-08 |  |
+| [First Day Out \(Freestyle\) Pt\. 2](https://open.spotify.com/track/4oeUol0xLGJYCmiPypgUvi) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\) Pt\. 2](https://open.spotify.com/album/2GMbT6TVTPmb8XQc2IOBNW) | 3:17 | 2023-09-08 | 2023-10-27 |
+| [First Day Out \(Freestyle\), Pt\. 2](https://open.spotify.com/track/5rgBgO4HZfem8Pdf6j9d3y) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\), Pt\. 2](https://open.spotify.com/album/3VQJA4yTdEPDe8konqav6f) | 3:17 | 2023-10-20 |  |
 | [First Impression \(feat\. Quavo & Yung Miami\)](https://open.spotify.com/track/605q55PSYbR26lHjamODIz) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 5:22 | 2022-06-17 | 2022-07-09 |
 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 | 2023-10-06 |  |
 | [Fish Scale](https://open.spotify.com/track/116HT0QgVhzSxydCwRgpTY) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Colors \(Deluxe\)](https://open.spotify.com/album/23xXG1FGqcdDVUCUIfTuUt) | 2:50 | 2022-01-28 | 2022-03-05 |
@@ -490,7 +491,8 @@
 | [Mel Made Me Do It](https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mel Made Me Do It](https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw) | 7:20 | 2022-09-23 | 2022-11-26 |
 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2023-07-28 |  |
 | [Merch Madness](https://open.spotify.com/track/5BM6yfBokOMMgD6h869lRc) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Merch Madness](https://open.spotify.com/album/1iq2ZBnpKsrrM1hr85pw2r) | 2:28 | 2023-07-07 | 2023-09-02 |
-| [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 | 2023-08-25 |  |
+| [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 | 2023-10-20 |  |
+| [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 | 2023-08-25 | 2023-10-27 |
 | [Million Dollars Worth of Game \(feat\. 42 Dugg\)](https://open.spotify.com/track/3IZWCcD1FYpyeY3ki2VUmL) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Million Dollars Worth of Game \(feat\. 42 Dugg\)](https://open.spotify.com/album/0eIUsIe0Bo1gH7gld8lFbg) | 2:39 | 2022-01-07 | 2022-10-22 |
 | [MILLIONS](https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:52 | 2023-07-28 | 2023-09-30 |
 | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk) | 2:02 | 2022-06-03 | 2022-07-30 |

@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-323 songs - 23 hr 15 min
+324 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Fading Lights](https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fading Lights](https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi) | 3:46 | 2022-11-17 |  |
 | [Falling For Love](https://open.spotify.com/track/2qWNjbqDTXBGRdcmZDcUXg) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [New York City Dreamin'](https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U) | 4:13 | 2023-04-14 |  |
 | [Fear Not, Zechariah](https://open.spotify.com/track/7F2LDxjeZkyyJCog1Fwvx0) | [Tomas Raae](https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL) | [His Name Is John](https://open.spotify.com/album/3UdnxBLoBqAiaZSqtVv0gN) | 9:07 | 2022-06-29 | 2023-09-25 |
+| [Fear Not, Zechariah](https://open.spotify.com/track/0lrJbYLN79ODux7O2bldys) | [Tomas Raae](https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL), [Carolyn Goodwin](https://open.spotify.com/artist/2QvI4tY5g3f9udmc0Iw2oO), [Victor Dybbroe](https://open.spotify.com/artist/0UCArTjGDCDNDPyAuYojfT) | [His Name Is John](https://open.spotify.com/album/1fFGoi6U2Jc9QMvP0pOYwM) | 9:07 | 2023-10-27 |  |
 | [Fear Not, Zechariah](https://open.spotify.com/track/2KXJiwIG1GO9tWrcbtmUbK) | [Tomas Raae](https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL), [Emil Goldschmidt](https://open.spotify.com/artist/3y0zcOZw5SlIfKKVVOUZnI), [Carolyn Goodwin](https://open.spotify.com/artist/2QvI4tY5g3f9udmc0Iw2oO) | [Fear Not, Zechariah](https://open.spotify.com/album/64vGhTLHLsKKhSEx8tfwlL) | 9:07 | 2021-12-17 | 2022-07-29 |
 | [February Brings The Rain](https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [February Brings The Rain](https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv) | 3:41 | 2023-02-02 |  |
 | [First Call](https://open.spotify.com/track/4uQsV0JHfafKxe8RbSPkfx) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [First Call](https://open.spotify.com/album/4wZFlDHSxEZ5UVUiFgZrpA) | 2:44 | 2023-06-01 |  |
@@ -178,7 +179,7 @@
 | [Morning Moon](https://open.spotify.com/track/4b1cZXkFtOdpZnyU0GfZWm) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Morning Moon](https://open.spotify.com/album/3n781Nd8Ff9001PJNWTuUq) | 5:52 | 2022-03-03 | 2022-11-13 |
 | [Morning Song](https://open.spotify.com/track/29GCaqKf8MDuv6FPeLYD6W) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Uma Elmo](https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts) | 6:55 | 2021-12-17 |  |
 | [motives](https://open.spotify.com/track/5Uexo5FnxDGXPV9v92y00W) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP), [Eric Vloeimans](https://open.spotify.com/artist/0GJnVOotvnAmZvUYL8Kpmx) | [motives](https://open.spotify.com/album/09YRRKJN5WAhr3KgivvcdW) | 2:22 | 2022-03-31 | 2022-11-11 |
-| [Mountains, Trees and Seas](https://open.spotify.com/track/6h52zNa8ChwfY3SuQb1NzD) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Mountains, Trees and Seas](https://open.spotify.com/album/16xRAk41n6Qpmz0kput949) | 5:06 | 2023-08-03 |  |
+| [Mountains, Trees and Seas](https://open.spotify.com/track/6h52zNa8ChwfY3SuQb1NzD) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Mountains, Trees and Seas](https://open.spotify.com/album/16xRAk41n6Qpmz0kput949) | 5:06 | 2023-08-03 | 2023-10-27 |
 | [My Heart Is A Prism](https://open.spotify.com/track/5KdeyyZl1bKXHRrtzNefOi) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [My Heart Is A Prism](https://open.spotify.com/album/3qakmpWIbDJHI8zXNN3Fkc) | 3:50 | 2023-06-21 |  |
 | [Mysterious Stranger](https://open.spotify.com/track/5NBmnHqnUz4fOn3e1hHIaI) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Mysterious Stranger](https://open.spotify.com/album/6R7K535bnjXQy4DYE9VYnI) | 4:00 | 2023-01-19 |  |
 | [Mógrá](https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8) | [Magnús Jóhann](https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5), [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh) | [Án tillits](https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi) | 2:32 | 2021-12-17 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODY5YjM3N2Q0ODc2YzZhYmFjNDIwYTU3MmZlYWI3OWU5ZjY5Yzky",
+  "snapshot_id": "MCxlNTNmYTIwZjBmODc3NGFkNjg2NDhmNjU3Nzk1NWY4NTIzZDU2YzY2",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -779,18 +779,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Ce que je te donne ne dispara\u00eet pas",
-        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
+        "name": "27 fois l'aurore",
+        "url": "https://open.spotify.com/album/50NmsF9dRHdp2vXaVwTvfT"
       },
       "artists": [
         {
-          "name": "St\u00e9phanie Boulay",
-          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+          "name": "Salom\u00e9 Leclerc",
+          "url": "https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I"
         }
       ],
-      "duration_ms": 212488,
-      "name": "Je pourrai plus jamais",
-      "url": "https://open.spotify.com/track/6lxNePxaJrBt3KkPj0bv6X"
+      "duration_ms": 191853,
+      "name": "Vers le sud",
+      "url": "https://open.spotify.com/track/7k5JH3TPQppL1zZt40kIbz"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -815,6 +815,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Ce que je te donne ne dispara\u00eet pas",
+        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+        }
+      ],
+      "duration_ms": 212488,
+      "name": "Je pourrai plus jamais",
+      "url": "https://open.spotify.com/track/6lxNePxaJrBt3KkPj0bv6X"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Silhouettes",
         "url": "https://open.spotify.com/album/17JhlO2Y0kvAIJwML6jkzJ"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 456688,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/6X9B7GfAc8Po0DyW3UA9m0"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "27 fois l'aurore",
-        "url": "https://open.spotify.com/album/50NmsF9dRHdp2vXaVwTvfT"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00e9 Leclerc",
-          "url": "https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I"
-        }
-      ],
-      "duration_ms": 191853,
-      "name": "Vers le sud",
-      "url": "https://open.spotify.com/track/7k5JH3TPQppL1zZt40kIbz"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -899,6 +899,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Les amours parall\u00e8les",
+        "url": "https://open.spotify.com/album/6t5F9hgEjkanSW3opjKB82"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Lapointe",
+          "url": "https://open.spotify.com/artist/0bEvfTJsHHsTxqpqzWGXDw"
+        }
+      ],
+      "duration_ms": 218935,
+      "name": "L\u2019oiseau m\u00e9canique",
+      "url": "https://open.spotify.com/track/1TCklgqTPFMMD8YV5G4wNB"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Fatale",
         "url": "https://open.spotify.com/album/0RB7JoaGx5mcCcDbMDyRM9"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 202333,
       "name": "L'atelier",
       "url": "https://open.spotify.com/track/1bfhchdMYgx3kbieRtemH2"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Les amours parall\u00e8les",
-        "url": "https://open.spotify.com/album/6t5F9hgEjkanSW3opjKB82"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phanie Lapointe",
-          "url": "https://open.spotify.com/artist/0bEvfTJsHHsTxqpqzWGXDw"
-        }
-      ],
-      "duration_ms": 218935,
-      "name": "L\u2019oiseau m\u00e9canique",
-      "url": "https://open.spotify.com/track/1TCklgqTPFMMD8YV5G4wNB"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "A Wider Space, B-Sides",
+        "url": "https://open.spotify.com/album/5mUBEzLAxef1iGhMFIEcLx"
+      },
+      "artists": [
+        {
+          "name": "Groenland",
+          "url": "https://open.spotify.com/artist/5jf8dqTo3zaKS16FmTFxWC"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Cabin (VF)",
+      "url": "https://open.spotify.com/track/1LEB7rebJJrztPAKKa8zay"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Vingt",
         "url": "https://open.spotify.com/album/3KVmGQVPJHhR324wgfySWH"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 291720,
       "name": "Rester l\u00e0",
       "url": "https://open.spotify.com/track/1o6qhANR6l2ffQk5YiKJEn"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "A Wider Space, B-Sides",
-        "url": "https://open.spotify.com/album/5mUBEzLAxef1iGhMFIEcLx"
-      },
-      "artists": [
-        {
-          "name": "Groenland",
-          "url": "https://open.spotify.com/artist/5jf8dqTo3zaKS16FmTFxWC"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Cabin (VF)",
-      "url": "https://open.spotify.com/track/1LEB7rebJJrztPAKKa8zay"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Alexe",
+        "url": "https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL"
+      },
+      "artists": [
+        {
+          "name": "Alexe",
+          "url": "https://open.spotify.com/artist/25OceRescHJwftJk284v8K"
+        }
+      ],
+      "duration_ms": 273473,
+      "name": "L'hiver",
+      "url": "https://open.spotify.com/track/4wK5JsT3ptA1cSX0Fvm5bh"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Politesses",
         "url": "https://open.spotify.com/album/3iCs4w50p4r4PY9ZKF9800"
       },
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Alexe",
-        "url": "https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL"
+        "name": "Et toi, tu fais quoi?",
+        "url": "https://open.spotify.com/album/2DcbZ4lcUpvrnorUuiAXZX"
       },
       "artists": [
         {
-          "name": "Alexe",
-          "url": "https://open.spotify.com/artist/25OceRescHJwftJk284v8K"
+          "name": "Jo\u00eblle Saint-Pierre",
+          "url": "https://open.spotify.com/artist/2zRlXq6hJhad1sQiqAZjl7"
         }
       ],
-      "duration_ms": 273473,
-      "name": "L'hiver",
-      "url": "https://open.spotify.com/track/4wK5JsT3ptA1cSX0Fvm5bh"
+      "duration_ms": 189586,
+      "name": "Jamais seule",
+      "url": "https://open.spotify.com/track/6NrmySVZbHNk5vBbZeYOop"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Et toi, tu fais quoi?",
-        "url": "https://open.spotify.com/album/2DcbZ4lcUpvrnorUuiAXZX"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00eblle Saint-Pierre",
-          "url": "https://open.spotify.com/artist/2zRlXq6hJhad1sQiqAZjl7"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "Jamais seule",
-      "url": "https://open.spotify.com/track/6NrmySVZbHNk5vBbZeYOop"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le courant",
         "url": "https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr"
       },
@@ -1527,6 +1527,22 @@
       "duration_ms": 194042,
       "name": "Le courant",
       "url": "https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Voix de No\u00ebl",
+        "url": "https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc"
+      },
+      "artists": [
+        {
+          "name": "May Wells",
+          "url": "https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM"
+        }
+      ],
+      "duration_ms": 211915,
+      "name": "Je ne t'oublie pas - Bonus",
+      "url": "https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1559,22 +1575,6 @@
       "duration_ms": 256361,
       "name": "Dactylo",
       "url": "https://open.spotify.com/track/4XX69muE4DKyvFKZ6I6K7m"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Voix de No\u00ebl",
-        "url": "https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc"
-      },
-      "artists": [
-        {
-          "name": "May Wells",
-          "url": "https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM"
-        }
-      ],
-      "duration_ms": 211915,
-      "name": "Je ne t'oublie pas - Bonus",
-      "url": "https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "T\u00e9lescope",
-        "url": "https://open.spotify.com/album/5Ku7Xs7EaxBsm83Z9DZqCO"
-      },
-      "artists": [
-        {
-          "name": "Ga\u00eble",
-          "url": "https://open.spotify.com/artist/6MnPFVtcXiuBiAGles7uDj"
-        }
-      ],
-      "duration_ms": 284826,
-      "name": "Poisson d'abysse",
-      "url": "https://open.spotify.com/track/0LR8ALW0z4Spd58XNvKuQe"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Kirchner",
         "url": "https://open.spotify.com/album/6XwqIP029mhVPAiNKTdX5p"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 180215,
       "name": "Kirchner",
       "url": "https://open.spotify.com/track/21amYb20XPokNPMsyQHHZq"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "T\u00e9lescope",
+        "url": "https://open.spotify.com/album/5Ku7Xs7EaxBsm83Z9DZqCO"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00eble",
+          "url": "https://open.spotify.com/artist/6MnPFVtcXiuBiAGles7uDj"
+        }
+      ],
+      "duration_ms": 284826,
+      "name": "Poisson d'abysse",
+      "url": "https://open.spotify.com/track/0LR8ALW0z4Spd58XNvKuQe"
     },
     {
       "added_at": "2021-02-06 03:12:40",

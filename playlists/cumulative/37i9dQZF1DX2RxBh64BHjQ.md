@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-1,366 songs - 2 day 13 hr 51 min
+1,367 songs - 2 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,7 +390,8 @@
 | [FINALLY](https://open.spotify.com/track/1qPRRErp0RlPJ74tWj2QJr) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [THE INSPECTION](https://open.spotify.com/album/7r0skq33hRLV2Sr4xYGp9B) | 2:12 | 2022-06-24 | 2022-08-06 |
 | [Finally Rich](https://open.spotify.com/track/4pydOE3qfJa4ZGkjxZhNjy) | [FCG Heem](https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC) | [Finally Rich](https://open.spotify.com/album/1gS8CUGOioIED4xKBC9vuJ) | 2:51 | 2022-09-02 | 2022-10-01 |
 | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/track/3kCLRQ1HwXVj0sZA0G7MnG) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/album/5g9wAOfzvkf7piGN5EiFKZ) | 2:07 | 2021-12-10 | 2022-03-05 |
-| [First Day Out \(Freestyle\)](https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u) | 2:22 | 2023-04-14 |  |
+| [First Day Out \(Freestyle\)](https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u) | 2:22 | 2023-04-14 | 2023-10-27 |
+| [First Day Out \(Freestyle\)](https://open.spotify.com/track/7idI4LLo9LVLqrvvzhSj3n) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/31UX5n39Siyj0nXs1s5DSZ) | 2:22 | 2023-10-20 |  |
 | [First Show](https://open.spotify.com/track/5nGITHcYH3Tt5WolBVEcrJ) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [First Show](https://open.spotify.com/album/1sngfICVppLNMrDKHlBsxC) | 2:01 | 2023-04-21 | 2023-09-16 |
 | [First Time](https://open.spotify.com/track/2LWeSrNPOceNtiGecWLLoe) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Public Housing, Pt\. 2](https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI) | 3:05 | 2023-01-06 | 2023-03-04 |
 | [Flags To The Sky \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/34nGTjKinQV46a8C8T2HfY) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Mr\. Crawford](https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7) | 2:28 | 2022-04-29 | 2022-06-26 |

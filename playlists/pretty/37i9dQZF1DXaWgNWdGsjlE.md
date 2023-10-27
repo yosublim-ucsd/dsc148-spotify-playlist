@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,179 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,332 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 44 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 |
 | 45 | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/track/2IxZuWNPfPkD2Pr31cGgDH) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/album/24OEI2mUMsUvo7yZFvFeKa) | 1:41 |
 | 46 | [Jealousy](https://open.spotify.com/track/1ioUAJiIHAoimp2QGhWXXM) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Jealousy](https://open.spotify.com/album/61T3geiuTQFQXmYWWLMGjk) | 2:30 |
-| 47 | [GauzeValley](https://open.spotify.com/track/5o0bG13lRrsVGSaeZU6NAl) | [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [GauzeValley](https://open.spotify.com/album/3tzOxmJbLNcBMeNvlxmY8T) | 2:30 |
+| 47 | [GauzeValley](https://open.spotify.com/track/36sdifWfDrwaR5x4QrrQ6Y) | [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [GauzeValley](https://open.spotify.com/album/5paHLzewvgX7QCz1LP73MO) | 2:30 |
 | 48 | [Gravedigger](https://open.spotify.com/track/640WAiBLYvKmUBtskbfEYG) | [MXMS](https://open.spotify.com/artist/385fK73L7PCt3RMlZQOu6t) | [Gravedigger](https://open.spotify.com/album/6QawVhtF8UkiA78NUbVFGr) | 3:30 |
 | 49 | [WHY WOULD I BOTHER](https://open.spotify.com/track/3wd5pxc7UgHAwLiCrIz0ye) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [HELL OR HIGH WATER](https://open.spotify.com/album/3H4hHVygBP5MlpXmgbbjXi) | 2:58 |
 | 50 | [Believe the Hype](https://open.spotify.com/track/5LaT6csofzDEaFf8cmqoaQ) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Let's Hope Heteros Fail, Learn and Retire](https://open.spotify.com/album/5YjuPPmMZy5VGjlesAPbHG) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 99 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 |
 | 100 | [Structure of Love II \- Renholdër Remix](https://open.spotify.com/track/1PfCGcRzrnTCFJVoVy03yp) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9), [Renholdër](https://open.spotify.com/artist/7nPKXL3VRokWPSYHtsDD5i) | [Structure of Love II \(Renholdër Remix\)](https://open.spotify.com/album/1koqkGT2Qsd5ToPJZgMFCn) | 3:21 |
 
-Snapshot ID: `MCw2MDlmYTBhZjJjMjcxNTMzZWNhZWFmZTVkZGY5Yjc3NDg2ODJhZjNj`
+Snapshot ID: `MCxkMDYwZmE2OTUxYzM3YWE5NDJjODkxMTYyODU4MTlkMDMyNmE5ZGY4`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf?si=5gZ509tfQq-jkEMtvo7aCw\"> Sista Afia </a>",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY?si=FwdivXrBQw6pLoy3l3WtHQ\"> Kwesi Arthur </a>",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 163111,
       "name": "2 Shots",
       "url": "https://open.spotify.com/track/7D5teOLgUBiDS4LrKIVNGe"
+    },
+    {
+      "album": {
+        "name": "4LYFE",
+        "url": "https://open.spotify.com/album/3UEA2UkF8k5Nf3o6X3UK4m"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "4LYFE",
+      "url": "https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs"
     },
     {
       "album": {
@@ -166,6 +184,24 @@
       "duration_ms": 164000,
       "name": "Affairs",
       "url": "https://open.spotify.com/track/7jbLmF56d83iYzKZMnwP8a"
+    },
+    {
+      "album": {
+        "name": "Africa Money",
+        "url": "https://open.spotify.com/album/7kpWSh8UcAGkcxZVUibqCh"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143934,
+      "name": "Africa Money",
+      "url": "https://open.spotify.com/track/6kQlDRYfRhzjfisBceYJkJ"
     },
     {
       "album": {
@@ -560,7 +596,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 175800,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/6CXRRCv2CM0bRn4RgmNR8J"
@@ -662,6 +698,28 @@
       "duration_ms": 219846,
       "name": "Botos",
       "url": "https://open.spotify.com/track/6O3TZOULjDgvSSXpI7VdvL"
+    },
+    {
+      "album": {
+        "name": "Broken Heart (feat. Kuami Eugene)",
+        "url": "https://open.spotify.com/album/2wP11FwHQj4zg9x9XBo1r4"
+      },
+      "artists": [
+        {
+          "name": "DJ Vyrusky",
+          "url": "https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178931,
+      "name": "Broken Heart (feat. Kuami Eugene)",
+      "url": "https://open.spotify.com/track/3CTLElO2jgzX3pUU571Nfk"
     },
     {
       "album": {
@@ -3542,7 +3600,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 207008,
       "name": "Party Of The Year (feat. Mr Drew)",
       "url": "https://open.spotify.com/track/2l7g9za5ukNtQN4h1vSCbK"
@@ -4551,6 +4609,28 @@
     },
     {
       "album": {
+        "name": "Till We Die (feat. Ruger)",
+        "url": "https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183289,
+      "name": "Till We Die (feat. Ruger)",
+      "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
+    },
+    {
+      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/6rXRhlh1NEEI5eLb6UdRVk"
       },
@@ -4886,7 +4966,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 230000,
       "name": "Wossop",
       "url": "https://open.spotify.com/track/6QvgQtIQzYy48w68M4iFhL"

@@ -1,12 +1,12 @@
 {
   "description": "Musiquita sabrosa que te hace bailar el coraz\u00f3n.",
-  "num_followers": 140718,
+  "num_followers": 140790,
   "original_name": "Amor Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmFlOGZjZGJiNjUyNGMyNGIyNGViYjg3N2Q3YWNjYjllYmQ1NTJi",
+  "snapshot_id": "MCwxZTgxMGUwYWFmOWMxY2VkOTE1Y2Q5YTEyNzRmMWMwNjYyZjc5YWMx",
   "tracks": [
     {
       "added_at": "2023-10-20 08:22:21",
@@ -1027,26 +1027,18 @@
     {
       "added_at": "2023-10-20 08:22:21",
       "album": {
-        "name": "No Es Normal",
-        "url": "https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163"
+        "name": "...A Pasito Lento!",
+        "url": "https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1"
       },
       "artists": [
         {
-          "name": "Venesti",
-          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
         }
       ],
-      "duration_ms": 181894,
-      "name": "No Es Normal",
-      "url": "https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri"
+      "duration_ms": 272400,
+      "name": "Quiz\u00e1s Si, Quiz\u00e1s No",
+      "url": "https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX"
     },
     {
       "added_at": "2023-10-20 08:22:21",
@@ -1083,18 +1075,26 @@
     {
       "added_at": "2023-10-20 08:22:21",
       "album": {
-        "name": "...A Pasito Lento!",
-        "url": "https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1"
+        "name": "No Es Normal",
+        "url": "https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163"
       },
       "artists": [
         {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
         }
       ],
-      "duration_ms": 272400,
-      "name": "Quiz\u00e1s Si, Quiz\u00e1s No",
-      "url": "https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX"
+      "duration_ms": 181894,
+      "name": "No Es Normal",
+      "url": "https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri"
     },
     {
       "added_at": "2023-10-20 08:22:21",

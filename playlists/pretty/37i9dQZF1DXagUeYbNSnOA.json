@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Baby City Club. Updates every Wednesday.",
-  "num_followers": 172579,
+  "num_followers": 172595,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDVjYjY3ZDRiYmU1MjUyZDI4MzU5NTQ4MzllMzJiNzVlNzUzYzBh",
+  "snapshot_id": "MCw3OWMwNGU5ZTNlMzZkMmEyZTNkMjZhNWNkMjE5MjM1Y2ZhMTA3ZmE1",
   "tracks": [
     {
       "added_at": "2023-10-25 04:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-10-25 04:00:00",
       "album": {
+        "name": "Japon",
+        "url": "https://open.spotify.com/album/4k7yAgOLUdeNQkUCEqDlgv"
+      },
+      "artists": [
+        {
+          "name": "Barbara Doza",
+          "url": "https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0"
+        }
+      ],
+      "duration_ms": 170920,
+      "name": "Japon",
+      "url": "https://open.spotify.com/track/3sRXcjvBl5L7vhaZyc1dj9"
+    },
+    {
+      "added_at": "2023-10-25 04:00:00",
+      "album": {
         "name": "Perdoname amor",
         "url": "https://open.spotify.com/album/4kJBJbwTiiWslEAx5S41KU"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2023-10-25 04:00:00",
       "album": {
-        "name": "Japon",
-        "url": "https://open.spotify.com/album/4k7yAgOLUdeNQkUCEqDlgv"
-      },
-      "artists": [
-        {
-          "name": "Barbara Doza",
-          "url": "https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0"
-        }
-      ],
-      "duration_ms": 170920,
-      "name": "Japon",
-      "url": "https://open.spotify.com/track/3sRXcjvBl5L7vhaZyc1dj9"
-    },
-    {
-      "added_at": "2023-10-25 04:00:00",
-      "album": {
         "name": "HOOKIAO",
         "url": "https://open.spotify.com/album/6OILaDsLhUVPJBXG1YZd6h"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-10-25 04:00:00",
       "album": {
-        "name": "Hungry",
-        "url": "https://open.spotify.com/album/6zMdYzZ0KUzvCUlOVJvboc"
-      },
-      "artists": [
-        {
-          "name": "Olivia Bec",
-          "url": "https://open.spotify.com/artist/4PqejznzweGXKiJZimh7a6"
-        }
-      ],
-      "duration_ms": 228181,
-      "name": "Hungry",
-      "url": "https://open.spotify.com/track/58p1AX65B7OIVlxahsU8hl"
-    },
-    {
-      "added_at": "2023-10-25 04:00:00",
-      "album": {
         "name": "Una Ma\u00f1ana",
         "url": "https://open.spotify.com/album/1viiLY7oeUX6GkIdJ9XxnZ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 221831,
       "name": "Una Ma\u00f1ana",
       "url": "https://open.spotify.com/track/4svWyFxwaXJYfLlUNqw0uv"
+    },
+    {
+      "added_at": "2023-10-25 04:00:00",
+      "album": {
+        "name": "Hungry",
+        "url": "https://open.spotify.com/album/6zMdYzZ0KUzvCUlOVJvboc"
+      },
+      "artists": [
+        {
+          "name": "Olivia Bec",
+          "url": "https://open.spotify.com/artist/4PqejznzweGXKiJZimh7a6"
+        }
+      ],
+      "duration_ms": 228181,
+      "name": "Hungry",
+      "url": "https://open.spotify.com/track/58p1AX65B7OIVlxahsU8hl"
     },
     {
       "added_at": "2023-10-25 04:00:00",

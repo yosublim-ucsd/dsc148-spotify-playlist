@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=-9JFuiccQya_Jl9YM4qbQQ\">Benjamin Dube</a>\n",
+  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=mJ2HCpbYRBmFG_qFtWvyeQ\">Omega Khunou</a>\n",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -759,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Inkosi ikubusise weNceku yenkosi",
+        "url": "https://open.spotify.com/album/0ucT0TpBcwkGQWInat6L7Z"
+      },
+      "artists": [
+        {
+          "name": "Mpumelelo Dumisa",
+          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405368,
+      "name": "Inkosi ikubusise weNceku yenkosi",
+      "url": "https://open.spotify.com/track/5MP0zJ7GrOYAiAw83mAuyA"
+    },
+    {
+      "album": {
         "name": "Moments in Time (Live)",
         "url": "https://open.spotify.com/album/0cUbjH2QskXdLLtnkEU6CX"
       },
@@ -972,7 +990,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 253877,
       "name": "Joy, Peace and Happiness",
       "url": "https://open.spotify.com/track/7M7f0aEGP5JLB6Se7JBoE7"
@@ -1669,6 +1687,28 @@
     },
     {
       "album": {
+        "name": "Mo Roriseng (Live at Mosaiek Theatre, 2023)",
+        "url": "https://open.spotify.com/album/0KDGCLqGhPxcY8FN5PYtd4"
+      },
+      "artists": [
+        {
+          "name": "Omega Khunou",
+          "url": "https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3"
+        },
+        {
+          "name": "Dumi Mkokstad",
+          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 668687,
+      "name": "Nguna Phakade (Live)",
+      "url": "https://open.spotify.com/track/0oSn99YO48dZWxNox6oHYF"
+    },
+    {
+      "album": {
         "name": "Nithini Webantu (Ilizwi Lenkosi)",
         "url": "https://open.spotify.com/album/2jQWjxTc0RNj8BeCDck1E6"
       },
@@ -1702,6 +1742,24 @@
       "duration_ms": 202706,
       "name": "Nkosi Ndithembe Wena",
       "url": "https://open.spotify.com/track/0EZNwUJat1DX09UdqoEm4S"
+    },
+    {
+      "album": {
+        "name": "Nkosi Nkosi Bubusise",
+        "url": "https://open.spotify.com/album/4cFOwbqaOmUNQnzZtVITpU"
+      },
+      "artists": [
+        {
+          "name": "Mpumelelo Dumisa",
+          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203807,
+      "name": "Nkosi Nkosi Bubusise",
+      "url": "https://open.spotify.com/track/2N5Za701OwilHIPsYuwZR8"
     },
     {
       "album": {
@@ -2335,6 +2393,40 @@
     },
     {
       "album": {
+        "name": "Ukholo",
+        "url": "https://open.spotify.com/album/2Io8Y6e1kUIcn4mYL1dfLq"
+      },
+      "artists": [
+        {
+          "name": "Asanda Mqiki",
+          "url": "https://open.spotify.com/artist/0778udtHEQ5T3HZQEDelAf"
+        },
+        {
+          "name": "StussyV",
+          "url": "https://open.spotify.com/artist/3CAwqYTdNKxX52nrkSf52s"
+        },
+        {
+          "name": "Tee Jay",
+          "url": "https://open.spotify.com/artist/2FgJA67LUo0uQ6WXafNTKQ"
+        },
+        {
+          "name": "Nonka",
+          "url": "https://open.spotify.com/artist/7owh85VxGfhYd41wHZ9nZA"
+        },
+        {
+          "name": "DJ GHETTO HD",
+          "url": "https://open.spotify.com/artist/21B7fICxbXLlcfr3Es8jiS"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353800,
+      "name": "Ukholo",
+      "url": "https://open.spotify.com/track/6XXwIEbcmh6IKl1qGd3J5i"
+    },
+    {
+      "album": {
         "name": "Ukholo Lwam (A Song of Hope)",
         "url": "https://open.spotify.com/album/4KXmXlnwjO8xJvKLC0fBOf"
       },
@@ -2577,6 +2669,24 @@
     },
     {
       "album": {
+        "name": "Uthando Lwakho Luyangengama",
+        "url": "https://open.spotify.com/album/5NH9mTLkfgXouUoDG9IhHg"
+      },
+      "artists": [
+        {
+          "name": "Njabulo Masinga",
+          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268512,
+      "name": "Uthando Lwakho Luyangengama",
+      "url": "https://open.spotify.com/track/3Epue4IrmtoN8KB4O2wF6R"
+    },
+    {
+      "album": {
         "name": "UThixo Babhem",
         "url": "https://open.spotify.com/album/0ziZSA0rjmw4O0hIuNeT3G"
       },
@@ -2610,6 +2720,28 @@
       "duration_ms": 370853,
       "name": "Uyalalelwa - Live",
       "url": "https://open.spotify.com/track/79RgrJnjNbFEsb6VfD8ZXr"
+    },
+    {
+      "album": {
+        "name": "What's Coming",
+        "url": "https://open.spotify.com/album/7btZCei8TAMJaCoiRPbSmW"
+      },
+      "artists": [
+        {
+          "name": "Double Drop",
+          "url": "https://open.spotify.com/artist/1KiSpGrzs4IkIUb83atLVr"
+        },
+        {
+          "name": "Healling",
+          "url": "https://open.spotify.com/artist/2Gd5qK78l1BeejHMAxBOki"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358678,
+      "name": "UYesu",
+      "url": "https://open.spotify.com/track/1TH90Rg3SZ7cNU9YQICwE0"
     },
     {
       "album": {

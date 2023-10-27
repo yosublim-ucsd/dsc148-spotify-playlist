@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: kiwiseed",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Zelos Wong",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -5599,6 +5599,24 @@
     },
     {
       "album": {
+        "name": "One More Round",
+        "url": "https://open.spotify.com/album/78Zdxbk2r8xrTa4ivaB50Q"
+      },
+      "artists": [
+        {
+          "name": "THAIMAY",
+          "url": "https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199859,
+      "name": "One More Round",
+      "url": "https://open.spotify.com/track/35dJ3LvEcV52F5R17IOFRC"
+    },
+    {
+      "album": {
         "name": "One time.",
         "url": "https://open.spotify.com/album/3g5WG402FY5v4IgOELXPV9"
       },
@@ -7162,6 +7180,24 @@
       "duration_ms": 347647,
       "name": "Summer Ride (With No Brakes)",
       "url": "https://open.spotify.com/track/0v83kmxHU1U4JI5KNWINe5"
+    },
+    {
+      "album": {
+        "name": "summerfling*",
+        "url": "https://open.spotify.com/album/4eQXyiXvXByOadOwuRIbnE"
+      },
+      "artists": [
+        {
+          "name": "5gjm999",
+          "url": "https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "summer's luv",
+      "url": "https://open.spotify.com/track/3ufpkdyCjcewTOF7QrmNKB"
     },
     {
       "album": {
@@ -10333,6 +10369,24 @@
     },
     {
       "album": {
+        "name": "\u5929\u4f7f999%",
+        "url": "https://open.spotify.com/album/5sG2VZ8ou6pGukVpWvNnn1"
+      },
+      "artists": [
+        {
+          "name": "Helen So \u8607\u51f1\u502b",
+          "url": "https://open.spotify.com/artist/5xlDKh4xnSrMDM35VCGb11"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170578,
+      "name": "\u5929\u4f7f999%",
+      "url": "https://open.spotify.com/track/5gheISXZ452VrOcVnpy69G"
+    },
+    {
+      "album": {
         "name": "\u5929\u6c23\u4e4b\u5973",
         "url": "https://open.spotify.com/album/1qyTHpCoEhSgSF4bQK1y1F"
       },
@@ -12865,6 +12919,24 @@
     },
     {
       "album": {
+        "name": "\u843d",
+        "url": "https://open.spotify.com/album/6a4yDv2n8sz3xFBOETb6BF"
+      },
+      "artists": [
+        {
+          "name": "Zelos Wong \u9ec3\u51f1\u9038",
+          "url": "https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234100,
+      "name": "\u843d",
+      "url": "https://open.spotify.com/track/6y7fatGRm0Z8aPA4lg137f"
+    },
+    {
+      "album": {
         "name": "\u843d\u96e8\u4e00\u9f4a\u7559\u4fc2\u5c4b\u4f01",
         "url": "https://open.spotify.com/album/00ckJrDa0KH5gDjZjDAIkE"
       },
@@ -13112,6 +13184,24 @@
       "duration_ms": 261000,
       "name": "\u8b1b\u518d\u898b",
       "url": "https://open.spotify.com/track/6A1Nw8alBWUyvxhTRSBxVG"
+    },
+    {
+      "album": {
+        "name": "\u8b93\u6211\u4e00\u500b\u4eba\u904e",
+        "url": "https://open.spotify.com/album/1H7mGKTxclL94I9tJtxuoU"
+      },
+      "artists": [
+        {
+          "name": "Gordon Flanders",
+          "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "\u8b93\u6211\u4e00\u500b\u4eba\u904e",
+      "url": "https://open.spotify.com/track/0W9UnXy23gylvfBvm0Fs3t"
     },
     {
       "album": {

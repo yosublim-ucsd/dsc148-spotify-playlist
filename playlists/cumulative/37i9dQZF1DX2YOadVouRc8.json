@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 161828,
       "name": "'00 Nostalgia",
       "url": "https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH"
@@ -104,6 +104,24 @@
       "duration_ms": 142120,
       "name": "22",
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
+    },
+    {
+      "album": {
+        "name": "4LYFE",
+        "url": "https://open.spotify.com/album/3UEA2UkF8k5Nf3o6X3UK4m"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "4LYFE",
+      "url": "https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs"
     },
     {
       "album": {
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 160862,
       "name": "Complete",
       "url": "https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN"
@@ -3254,7 +3272,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 172040,
       "name": "My Lover",
       "url": "https://open.spotify.com/track/1blEpIJSU20zH1u14FxT6X"
@@ -3276,7 +3294,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 180765,
       "name": "My Own (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8"
@@ -3316,7 +3334,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 162352,
       "name": "Naked Wire",
       "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
@@ -3836,7 +3854,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 133564,
       "name": "Realize (feat. taves)",
       "url": "https://open.spotify.com/track/5odFUgF0MS8DAnvlJpYdUd"
@@ -5066,7 +5084,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 259545,
       "name": "Thang For You (feat. NoCap)",
       "url": "https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC"
@@ -5246,7 +5264,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 134526,
       "name": "Touch\u00e9",
       "url": "https://open.spotify.com/track/6AmCAKY1V1msPUiqogglVW"
@@ -5593,6 +5611,24 @@
     },
     {
       "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "We Dey",
+      "url": "https://open.spotify.com/track/21pyLwhAiXgqYvKXRmI6h3"
+    },
+    {
+      "album": {
         "name": "Weep, No More",
         "url": "https://open.spotify.com/album/2nw55c24zEeo0RAhQhkWxB"
       },
@@ -5724,6 +5760,24 @@
       "duration_ms": 151578,
       "name": "Wicked City",
       "url": "https://open.spotify.com/track/7m3ENcp0gz3FXZ6eVApM5f"
+    },
+    {
+      "album": {
+        "name": "Wild Ride - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162313,
+      "name": "Wild Ride - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
     },
     {
       "album": {

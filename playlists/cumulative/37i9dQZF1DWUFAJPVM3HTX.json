@@ -161,6 +161,28 @@
     },
     {
       "album": {
+        "name": "100 Days of Summer",
+        "url": "https://open.spotify.com/album/6msWUz2IjKxfBVWT0tLa9I"
+      },
+      "artists": [
+        {
+          "name": "July Drama",
+          "url": "https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug"
+        },
+        {
+          "name": "Jul\u00eda",
+          "url": "https://open.spotify.com/artist/4bnUE0CiExZDgh8mh9Dx8n"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160575,
+      "name": "100 days of summer ..",
+      "url": "https://open.spotify.com/track/49mk9XwZIe96e2CQ79Y6UC"
+    },
+    {
+      "album": {
         "name": "10FT",
         "url": "https://open.spotify.com/album/77Rmp58si3hxeVSdPpVcxK"
       },
@@ -708,6 +730,24 @@
       "duration_ms": 238550,
       "name": "7am",
       "url": "https://open.spotify.com/track/4e1DrOj0LNZzNyOX0PxN3i"
+    },
+    {
+      "album": {
+        "name": "7teen",
+        "url": "https://open.spotify.com/album/6pz8DE7NiLEoq1jEQQHHdr"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6nt Lee",
+          "url": "https://open.spotify.com/artist/3LgLAfUhyG05PIkoRiBeqH"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175583,
+      "name": "7teen",
+      "url": "https://open.spotify.com/track/3L1d3NJ3cdmXUcx9GzeNs8"
     },
     {
       "album": {
@@ -4915,6 +4955,24 @@
     },
     {
       "album": {
+        "name": "Can't Decide",
+        "url": "https://open.spotify.com/album/7kSbqwB6xz6paoaBcWw6iM"
+      },
+      "artists": [
+        {
+          "name": "Tre\u0300 Samuels",
+          "url": "https://open.spotify.com/artist/45vC474xQVArVv4KZ4K8Kq"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203297,
+      "name": "Can't Decide",
+      "url": "https://open.spotify.com/track/6yJBhyj64sD25LTv34fwKK"
+    },
+    {
+      "album": {
         "name": "Can't Fake What You Feel",
         "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
       },
@@ -6384,6 +6442,24 @@
       "duration_ms": 153582,
       "name": "Contagious",
       "url": "https://open.spotify.com/track/3rDQEIQQAzsW9TMDuJYwvo"
+    },
+    {
+      "album": {
+        "name": "Contraband",
+        "url": "https://open.spotify.com/album/0DBxNEtZisbJ4z11AN5lCq"
+      },
+      "artists": [
+        {
+          "name": "The BLK LT$",
+          "url": "https://open.spotify.com/artist/7GP4XKvNCPHXWJ2n8Nmdil"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210731,
+      "name": "Contraband",
+      "url": "https://open.spotify.com/track/4sjM3d1n2pPJrPlhyC2FMX"
     },
     {
       "album": {
@@ -9425,6 +9501,28 @@
     },
     {
       "album": {
+        "name": "The Lover's Suite",
+        "url": "https://open.spotify.com/album/2nfUqB7k14H6Uc3z7GRUva"
+      },
+      "artists": [
+        {
+          "name": "Brandon Williams",
+          "url": "https://open.spotify.com/artist/34JZOVpxRwjTgbt5kMfRtX"
+        },
+        {
+          "name": "Brian McKnight Jr.",
+          "url": "https://open.spotify.com/artist/3kMMoBYpbDgdN3zvQedA8U"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232835,
+      "name": "Everything & More",
+      "url": "https://open.spotify.com/track/5WxS0ESb1pzXGtMRehiiLV"
+    },
+    {
+      "album": {
         "name": "Everything's Unknown",
         "url": "https://open.spotify.com/album/2RaeCcmJBCcN0nORLHl0Sx"
       },
@@ -11484,6 +11582,24 @@
       "duration_ms": 150857,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/7GX8dnikAPOsFjaantOhlv"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/5iXqysDs9zrHoFWhGhrrFl"
+      },
+      "artists": [
+        {
+          "name": "Hailey Kilgore",
+          "url": "https://open.spotify.com/artist/115mPxOV2kmLVd8a6tHsqb"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226798,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6KtIgUXxudfBXk3cMehiBN"
     },
     {
       "album": {
@@ -13749,6 +13865,24 @@
     },
     {
       "album": {
+        "name": "Honey Child",
+        "url": "https://open.spotify.com/album/6sBqZzpw0SJOgY6G0GUINR"
+      },
+      "artists": [
+        {
+          "name": "Will Heard",
+          "url": "https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238186,
+      "name": "Honey Child",
+      "url": "https://open.spotify.com/track/1Gh8LZKDWM0DuZq7rKC4B9"
+    },
+    {
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/6Y79p5G0pLNoCjibPgtx1R"
       },
@@ -15429,6 +15563,24 @@
     },
     {
       "album": {
+        "name": "Is He Man Enough?",
+        "url": "https://open.spotify.com/album/4r3LR8CgX2P9r7lmir3ICQ"
+      },
+      "artists": [
+        {
+          "name": "H33RA",
+          "url": "https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178583,
+      "name": "Is He Man Enough?",
+      "url": "https://open.spotify.com/track/7vmdPJtDv6JdAdwAD6SrvR"
+    },
+    {
+      "album": {
         "name": "Is It Love?",
         "url": "https://open.spotify.com/album/4MgeGr34ni6NO5MEPAQ0Tz"
       },
@@ -16186,6 +16338,32 @@
       "duration_ms": 146039,
       "name": "Keep It Private",
       "url": "https://open.spotify.com/track/14ActYOMcY8WBaTKFsaVWa"
+    },
+    {
+      "album": {
+        "name": "Keep on",
+        "url": "https://open.spotify.com/album/78Z4pdFAVs9ljwXGKrxBDK"
+      },
+      "artists": [
+        {
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
+        },
+        {
+          "name": "Jussi Halme",
+          "url": "https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K"
+        },
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224287,
+      "name": "Keep on",
+      "url": "https://open.spotify.com/track/1rP4jmLoQYkhIPmKCbJCvw"
     },
     {
       "album": {
@@ -19731,6 +19909,28 @@
     },
     {
       "album": {
+        "name": "MONSTER!",
+        "url": "https://open.spotify.com/album/4D37Y7OKOCJBlGQ57L0H4q"
+      },
+      "artists": [
+        {
+          "name": "Cyn\u00e1a-Nicole",
+          "url": "https://open.spotify.com/artist/2Z2jypOqQRJFfQDyABIO7c"
+        },
+        {
+          "name": "Buto",
+          "url": "https://open.spotify.com/artist/4xRMrvQ4gCKJYl2nR2shal"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170711,
+      "name": "MONSTER!",
+      "url": "https://open.spotify.com/track/5rLkXX1jm8OGRGarxEbPY1"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/6MBbyh68wDw1FL72MP4vvt"
       },
@@ -22761,6 +22961,24 @@
     },
     {
       "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/3pxn7msCzPbThoezW8Wp4y"
+      },
+      "artists": [
+        {
+          "name": "Tara Carosielli",
+          "url": "https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220226,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/7EOxUy73ZCaUtyU6yEwz9t"
+    },
+    {
+      "album": {
         "name": "Palace",
         "url": "https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO"
       },
@@ -23870,6 +24088,24 @@
       "duration_ms": 141803,
       "name": "ppl plsr",
       "url": "https://open.spotify.com/track/2jVmmqqKTyauM6uEbVh7UX"
+    },
+    {
+      "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224606,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
     },
     {
       "album": {
@@ -26025,6 +26261,24 @@
     },
     {
       "album": {
+        "name": "Sabrina",
+        "url": "https://open.spotify.com/album/0s4Ys2QV9vFmebRfNFPLYk"
+      },
+      "artists": [
+        {
+          "name": "Nic Dean",
+          "url": "https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172930,
+      "name": "Sabrina",
+      "url": "https://open.spotify.com/track/4IJ1l7gJvXjoxPbRkgYZIA"
+    },
+    {
+      "album": {
         "name": "SAD",
         "url": "https://open.spotify.com/album/2O0balhhPlFZQEfLPCAm6f"
       },
@@ -26787,6 +27041,24 @@
     },
     {
       "album": {
+        "name": "Sexy & You Know It",
+        "url": "https://open.spotify.com/album/4MMvZIIiOLFad4mC8bJ8cx"
+      },
+      "artists": [
+        {
+          "name": "Samoht",
+          "url": "https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177234,
+      "name": "Sexy & You Know It",
+      "url": "https://open.spotify.com/track/78Dr8ajIaBDzkoT8H6AWUN"
+    },
+    {
+      "album": {
         "name": "sexy in the morning",
         "url": "https://open.spotify.com/album/3lbdO3O0YiBCWVb8jC41Y6"
       },
@@ -27062,6 +27334,42 @@
       "duration_ms": 197043,
       "name": "Show Me Something",
       "url": "https://open.spotify.com/track/6sAic1RifoLBsJApRomgkq"
+    },
+    {
+      "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/3NeGz5eGD5F2cjLoC8acaD"
+      },
+      "artists": [
+        {
+          "name": "A\u00e1yanna",
+          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147538,
+      "name": "Show Up",
+      "url": "https://open.spotify.com/track/3l5OFU1tiqryc4NTBKkxZa"
+    },
+    {
+      "album": {
+        "name": "If Not Now?",
+        "url": "https://open.spotify.com/album/6f1Ricfkmh1nUSqhjdtd6F"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173008,
+      "name": "Sick of Me",
+      "url": "https://open.spotify.com/track/3mmT3RlQ4bYTWReGecai7g"
     },
     {
       "album": {

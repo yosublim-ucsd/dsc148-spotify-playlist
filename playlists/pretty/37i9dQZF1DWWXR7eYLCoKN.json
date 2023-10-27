@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 131229,
+  "num_followers": 131296,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGQ3MTUxNTcwYWJjOGJhYmYzNzc4NDJiYzkxNGU0MWNjOTQ3YWJk",
+  "snapshot_id": "MCxiNzhmNzFmZDYyODY3ZjE2Nzg4MmY4MWY5YjFiNWI0NTE3YTU2ZDU5",
   "tracks": [
     {
       "added_at": "2023-10-13 17:04:48",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-10-13 17:04:48",
       "album": {
-        "name": "Espiral de Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 220320,
-      "name": "L\u00e1 Vem Voc\u00ea",
-      "url": "https://open.spotify.com/track/1NLv2AywCBibMUaGLKj5B4"
-    },
-    {
-      "added_at": "2023-10-13 17:04:48",
-      "album": {
         "name": "Chico Buarque De Hollanda N\u00ba4",
         "url": "https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 199666,
       "name": "Samba E Amor",
       "url": "https://open.spotify.com/track/4uEYpkj1LftTpAXpUwqQo0"
+    },
+    {
+      "added_at": "2023-10-13 17:04:48",
+      "album": {
+        "name": "Espiral de Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 220320,
+      "name": "L\u00e1 Vem Voc\u00ea",
+      "url": "https://open.spotify.com/track/1NLv2AywCBibMUaGLKj5B4"
     },
     {
       "added_at": "2023-10-13 17:04:48",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-10-13 17:04:48",
       "album": {
-        "name": "Samba a Dois",
-        "url": "https://open.spotify.com/album/626nhdq0blndq0o6jT6Rm3"
-      },
-      "artists": [
-        {
-          "name": "Samb\u00f4",
-          "url": "https://open.spotify.com/artist/6IToOQDfAKMsBckqH9tDUZ"
-        }
-      ],
-      "duration_ms": 156031,
-      "name": "Samba a Dois",
-      "url": "https://open.spotify.com/track/4lNEzj1ojOucvZKD6vFiX7"
-    },
-    {
-      "added_at": "2023-10-13 17:04:48",
-      "album": {
         "name": "Tropicalia 2",
         "url": "https://open.spotify.com/album/2ybYLHauxa3H7MdxQmCDIg"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 311240,
       "name": "Desde Que O Samba E Samba",
       "url": "https://open.spotify.com/track/6juNy6ewMDMU38YRpgcWR3"
+    },
+    {
+      "added_at": "2023-10-13 17:04:48",
+      "album": {
+        "name": "Samba a Dois",
+        "url": "https://open.spotify.com/album/626nhdq0blndq0o6jT6Rm3"
+      },
+      "artists": [
+        {
+          "name": "Samb\u00f4",
+          "url": "https://open.spotify.com/artist/6IToOQDfAKMsBckqH9tDUZ"
+        }
+      ],
+      "duration_ms": 156031,
+      "name": "Samba a Dois",
+      "url": "https://open.spotify.com/track/4lNEzj1ojOucvZKD6vFiX7"
     },
     {
       "added_at": "2023-10-13 17:04:48",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-10-13 17:04:48",
       "album": {
-        "name": "Se Me Chamar, \u00d4 Sorte",
-        "url": "https://open.spotify.com/album/6On7sJLC8PM1TM4FLdHNZt"
-      },
-      "artists": [
-        {
-          "name": "Wilson Das Neves",
-          "url": "https://open.spotify.com/artist/0dDz30ZxGRurnghF0Q6Oxn"
-        },
-        {
-          "name": "Cl\u00e1udio Jorge",
-          "url": "https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Se Me Chamar, \u00d4 Sorte!",
-      "url": "https://open.spotify.com/track/0CbaCHAddjPeDbA7x5Y2xp"
-    },
-    {
-      "added_at": "2023-10-13 17:04:48",
-      "album": {
         "name": "Pagode Novo",
         "url": "https://open.spotify.com/album/0s8D5BFXXSI6sxJuszFphf"
       },
@@ -1259,6 +1239,26 @@
     {
       "added_at": "2023-10-13 17:04:48",
       "album": {
+        "name": "Se Me Chamar, \u00d4 Sorte",
+        "url": "https://open.spotify.com/album/6On7sJLC8PM1TM4FLdHNZt"
+      },
+      "artists": [
+        {
+          "name": "Wilson Das Neves",
+          "url": "https://open.spotify.com/artist/0dDz30ZxGRurnghF0Q6Oxn"
+        },
+        {
+          "name": "Cl\u00e1udio Jorge",
+          "url": "https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Se Me Chamar, \u00d4 Sorte!",
+      "url": "https://open.spotify.com/track/0CbaCHAddjPeDbA7x5Y2xp"
+    },
+    {
+      "added_at": "2023-10-13 17:04:48",
+      "album": {
         "name": "Bis - Paulinho Da Viola",
         "url": "https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-10-13 17:04:48",
       "album": {
-        "name": "Voo Longe",
-        "url": "https://open.spotify.com/album/3JPhFJD014NCB2JreVEcuv"
-      },
-      "artists": [
-        {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Enquanto Voc\u00ea N\u00e3o Chega",
-      "url": "https://open.spotify.com/track/2C2Y5LuGMxklegoSOc54fC"
-    },
-    {
-      "added_at": "2023-10-13 17:04:48",
-      "album": {
         "name": "NEKTAR",
         "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 206442,
       "name": "LONGE LONGE DE MIM",
       "url": "https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI"
+    },
+    {
+      "added_at": "2023-10-13 17:04:48",
+      "album": {
+        "name": "Voo Longe",
+        "url": "https://open.spotify.com/album/3JPhFJD014NCB2JreVEcuv"
+      },
+      "artists": [
+        {
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Enquanto Voc\u00ea N\u00e3o Chega",
+      "url": "https://open.spotify.com/track/2C2Y5LuGMxklegoSOc54fC"
     },
     {
       "added_at": "2023-10-13 17:04:48",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-10-13 17:04:48",
       "album": {
-        "name": "Ind\u00edcio de Amor",
-        "url": "https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn"
-      },
-      "artists": [
-        {
-          "name": "Tel\u00ea",
-          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
-        }
-      ],
-      "duration_ms": 208736,
-      "name": "Ind\u00edcio de Amor",
-      "url": "https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL"
-    },
-    {
-      "added_at": "2023-10-13 17:04:48",
-      "album": {
         "name": "Dia De Gl\u00f3ria",
         "url": "https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 242589,
       "name": "Dia De Gl\u00f3ria",
       "url": "https://open.spotify.com/track/33zWdhvtorBDf3voIMVZe6"
+    },
+    {
+      "added_at": "2023-10-13 17:04:48",
+      "album": {
+        "name": "Ind\u00edcio de Amor",
+        "url": "https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn"
+      },
+      "artists": [
+        {
+          "name": "Tel\u00ea",
+          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
+        }
+      ],
+      "duration_ms": 208736,
+      "name": "Ind\u00edcio de Amor",
+      "url": "https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL"
     },
     {
       "added_at": "2023-10-13 17:04:48",

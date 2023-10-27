@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Alles brennt",
+        "url": "https://open.spotify.com/album/7BPlWwf1Fz3whC5nj6qxlB"
+      },
+      "artists": [
+        {
+          "name": "TEMMIS",
+          "url": "https://open.spotify.com/artist/0zJI6wuVa9gi4ir8zlU6Km"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193979,
+      "name": "Alles brennt",
+      "url": "https://open.spotify.com/track/5uV6ftXE1C8zCexmCDBVIO"
+    },
+    {
+      "album": {
         "name": "Alles Neu",
         "url": "https://open.spotify.com/album/1fM6vzYrjVcN8RuC83bvhv"
       },
@@ -854,7 +872,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 183401,
       "name": "berlin night life",
       "url": "https://open.spotify.com/track/2ZmE6SXMTsHpcbR14awchh"
@@ -1254,7 +1272,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 196354,
       "name": "Da f\u00fcr dich",
       "url": "https://open.spotify.com/track/3NkJtlg9t7NhkyUMDetOHg"
@@ -2001,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "Emilia",
+        "url": "https://open.spotify.com/album/3PiVrkbyisLkVdPyS54ssK"
+      },
+      "artists": [
+        {
+          "name": "Paul Weber",
+          "url": "https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216887,
+      "name": "Emilia",
+      "url": "https://open.spotify.com/track/6vllGaWzVzupq8gXkrmzc0"
+    },
+    {
+      "album": {
         "name": "Emilie",
         "url": "https://open.spotify.com/album/2ILOpPY9AXngArmL2GX2ug"
       },
@@ -2127,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "Etwas Neues Beginnt",
+        "url": "https://open.spotify.com/album/6ccUBn5gB1wqIS5KfRqaSG"
+      },
+      "artists": [
+        {
+          "name": "RAR",
+          "url": "https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180525,
+      "name": "Etwas Neues Beginnt",
+      "url": "https://open.spotify.com/track/69S8tugy2hU1qGVXQ6c5lD"
+    },
+    {
+      "album": {
         "name": "Wir Werden Sehen",
         "url": "https://open.spotify.com/album/3qx0YVMoydVJuhLPdyimfH"
       },
@@ -2214,7 +2268,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 146964,
       "name": "Farbverlauf",
       "url": "https://open.spotify.com/track/0mSTVa3P2tv6zGRK2J63wI"
@@ -3220,7 +3274,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 158500,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/5tv97DXj6v30wMa30SsA3p"
@@ -3879,6 +3933,24 @@
     },
     {
       "album": {
+        "name": "Kopf wie 808",
+        "url": "https://open.spotify.com/album/3tze6a9M4EpizktkjhzjL5"
+      },
+      "artists": [
+        {
+          "name": "ANOKI",
+          "url": "https://open.spotify.com/artist/3EhgyxwXCxedAWunhIwSFx"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162229,
+      "name": "Kopf wie 808",
+      "url": "https://open.spotify.com/track/2GplBE1oOYUQJOowvEOOj8"
+    },
+    {
+      "album": {
         "name": "Kurz vor Mitternacht",
         "url": "https://open.spotify.com/album/7snqlkdNQbrjlFpixzg1vw"
       },
@@ -4056,7 +4128,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 137973,
       "name": "Laut Denken",
       "url": "https://open.spotify.com/track/0ByVX07lcLowwxoSOEeMGo"
@@ -4972,7 +5044,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 150520,
       "name": "Ohne uns",
       "url": "https://open.spotify.com/track/7APp1SPNTDUWUPBl4CjqcK"
@@ -5275,6 +5347,24 @@
     },
     {
       "album": {
+        "name": "PRIMETIME",
+        "url": "https://open.spotify.com/album/3RK4pNM1XeJ0ZxhKHdSuKr"
+      },
+      "artists": [
+        {
+          "name": "Alli Neumann",
+          "url": "https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171906,
+      "name": "primetime",
+      "url": "https://open.spotify.com/track/2gsaXMADNny0n6eHFeBryZ"
+    },
+    {
+      "album": {
         "name": "PRiNZESSiN",
         "url": "https://open.spotify.com/album/77pzd3wtag6QL9bThafT9L"
       },
@@ -5340,7 +5430,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 149189,
       "name": "Radioaktiv",
       "url": "https://open.spotify.com/track/0SQzPiHEiNvR5eMAStBUke"
@@ -5416,6 +5506,24 @@
       "duration_ms": 174283,
       "name": "Regenbogen",
       "url": "https://open.spotify.com/track/6FTtryKq4A4j3Ic92Dhvw9"
+    },
+    {
+      "album": {
+        "name": "Renn weg",
+        "url": "https://open.spotify.com/album/0b6EdgDzNVk385fBQuFzur"
+      },
+      "artists": [
+        {
+          "name": "raumfisch",
+          "url": "https://open.spotify.com/artist/5PWhkydVS4baSEsnLJmFey"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187272,
+      "name": "Renn weg",
+      "url": "https://open.spotify.com/track/0TNBsOW9U5jXmGjhOug77E"
     },
     {
       "album": {
@@ -5793,6 +5901,28 @@
     },
     {
       "album": {
+        "name": "Seifenblase",
+        "url": "https://open.spotify.com/album/452pLNzYYdjvWsVlIc0i08"
+      },
+      "artists": [
+        {
+          "name": "RAUM27",
+          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
+        },
+        {
+          "name": "CONNY",
+          "url": "https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201426,
+      "name": "Seifenblase",
+      "url": "https://open.spotify.com/track/2YKPy9smBSO3g01qXWoCNK"
+    },
+    {
+      "album": {
         "name": "Sekundenschlaf",
         "url": "https://open.spotify.com/album/58wvPo48VlBS9ySAYlUhGs"
       },
@@ -5840,7 +5970,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 174546,
       "name": "Selbstsp\u00fcren",
       "url": "https://open.spotify.com/track/5NtwruoP4MFCJw3OndR3tF"
@@ -5876,7 +6006,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 179960,
       "name": "Shots",
       "url": "https://open.spotify.com/track/3SZ0pzEWeUTMvF2b9e5ak6"
@@ -5938,7 +6068,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 123779,
       "name": "SIE WOLLEN DIES SIE WOLLEN DAS",
       "url": "https://open.spotify.com/track/0EH4T1vEnWzbzYYRNGNAf3"
@@ -5978,6 +6108,32 @@
       "duration_ms": 130720,
       "name": "So bin ich halt / blablabla",
       "url": "https://open.spotify.com/track/6utOJJy9KE3GxeIeAMAS9H"
+    },
+    {
+      "album": {
+        "name": "so k.o.",
+        "url": "https://open.spotify.com/album/4lEsfnmMIQKOn21J4PMwmc"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214506,
+      "name": "so k.o.",
+      "url": "https://open.spotify.com/track/0B4gBXd4XLXGvaBl7pI2vL"
     },
     {
       "album": {
@@ -7107,6 +7263,24 @@
     },
     {
       "album": {
+        "name": "was du brauchst (st.pauli)",
+        "url": "https://open.spotify.com/album/3oDTvsk2LaznvOfTDpko7g"
+      },
+      "artists": [
+        {
+          "name": "katlix",
+          "url": "https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152594,
+      "name": "was du brauchst (st.pauli)",
+      "url": "https://open.spotify.com/track/0evN6KOmUZVaZue7ca0ce1"
+    },
+    {
+      "album": {
         "name": "Was ich will",
         "url": "https://open.spotify.com/album/0Hy10iQNqlseGiXEpgEa5b"
       },
@@ -7458,6 +7632,24 @@
       "duration_ms": 170434,
       "name": "Wie Du",
       "url": "https://open.spotify.com/track/1HQVrKIUKAF6pq1JYqNMzS"
+    },
+    {
+      "album": {
+        "name": "Wie lang",
+        "url": "https://open.spotify.com/album/3QLqXwmTBLdIEYPhMzxmvo"
+      },
+      "artists": [
+        {
+          "name": "Ami Warning",
+          "url": "https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149815,
+      "name": "Wie lang",
+      "url": "https://open.spotify.com/track/5jMbm8FdjIu3dmBEm19IJv"
     },
     {
       "album": {

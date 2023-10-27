@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-288 songs - 15 hr 44 min
+289 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Best Part](https://open.spotify.com/track/5L6dqgjZVv8doJFtlar1I5) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Lúc EP](https://open.spotify.com/album/4TUtNswdfx1J2kt0eKQqE2) | 3:58 | 2022-08-26 | 2023-02-18 |
 | [Better Now \(Acoustic\)](https://open.spotify.com/track/7BSAXJ5iT5ERuzduIvX8Ol) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2jnbvIEWopuhDSftIelDN0) | 3:40 | 2022-12-02 | 2023-10-21 |
 | [Big Girls Don't Cry](https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Big Girls Don't Cry](https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6) | 2:43 | 2023-05-12 |  |
-| [Big Yellow Taxi \(Acoustic\)](https://open.spotify.com/track/4Q8tqm45ywADimlsmdWhf7) | [Nora & Will](https://open.spotify.com/artist/7cvGxq0fxExeN11zWh59OL) | [Big Yellow Taxi \(Acoustic\)](https://open.spotify.com/album/4EEcgGddPSiUJsqLmceGQQ) | 3:11 | 2022-08-26 |  |
+| [Big Yellow Taxi \(Acoustic\)](https://open.spotify.com/track/4Q8tqm45ywADimlsmdWhf7) | [Nora & Will](https://open.spotify.com/artist/7cvGxq0fxExeN11zWh59OL) | [Big Yellow Taxi \(Acoustic\)](https://open.spotify.com/album/4EEcgGddPSiUJsqLmceGQQ) | 3:11 | 2022-08-26 | 2023-10-27 |
 | [BLACKBIRD](https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [BLACKBIRD](https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW) | 2:08 | 2023-02-03 |  |
 | [Blackbird](https://open.spotify.com/track/2gHs36DV2So9lW0boL5XeY) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 4:19 | 2023-01-04 | 2023-01-20 |
 | [Blackbird \- Special Edition](https://open.spotify.com/track/0UHG3Gy4tL87HzRktavNr1) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:19 | 2022-08-26 | 2023-01-12 |
@@ -68,7 +68,7 @@
 | [Dancing In The Dark](https://open.spotify.com/track/1bqxj84nNs2iic1dsi6h9K) | [Bear Little](https://open.spotify.com/artist/5gf3VTWJ6siWvD4xtPUfJf) | [Dancing In The Dark](https://open.spotify.com/album/6OV5a9PVlsfnMVtgKPc1Gy) | 3:17 | 2022-08-26 | 2023-02-03 |
 | [Dancing Queen](https://open.spotify.com/track/0BCtUTZyRh2VO3QgSl3rAi) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [Dancing Queen / Girls Just Want To Have Fun](https://open.spotify.com/album/7ir0ig1WFPiizNnrE51VDM) | 3:52 | 2022-08-26 | 2022-12-02 |
 | [Dare You To Move \- Acoustic](https://open.spotify.com/track/6y0G798fs8GW7hgAZ9Jqbx) | [Ryan de Mel](https://open.spotify.com/artist/1y9pThgXl37Polk4oXP07E) | [Dare You To Move \(Acoustic\)](https://open.spotify.com/album/3jge9qVwcy42Za1AZz0390) | 4:06 | 2022-08-26 | 2022-12-24 |
-| [Desperado](https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Desperado](https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ) | 3:11 | 2023-05-12 |  |
+| [Desperado](https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Desperado](https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ) | 3:11 | 2023-05-12 | 2023-10-27 |
 | [Don't Be Cruel](https://open.spotify.com/track/7vtFqEe5DJRyV2S06Kwz9z) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Don't Be Cruel](https://open.spotify.com/album/5I0vtlkT4LxPddbRCtOpvq) | 2:41 | 2022-08-26 | 2023-05-12 |
 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 | 2022-08-26 | 2022-12-10 |
 | [Don't Stop Me Now \- Acoustic](https://open.spotify.com/track/0EPEtFHI4c6tf17RLLrvYb) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Here I Go Again \- Acoustic EP](https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3) | 3:20 | 2022-10-28 | 2023-01-20 |
@@ -234,7 +234,7 @@
 | [Say you won't let go](https://open.spotify.com/track/3jUhEX67qxI3SNbfk6kMSH) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Say you won't let go](https://open.spotify.com/album/0U4G71eZFGgeMSlOZ3qDYF) | 3:19 | 2022-10-28 |  |
 | [see you soon](https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [see you soon](https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW) | 2:38 | 2022-12-02 |  |
 | [Sex is on fire](https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Sex is on fire](https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e) | 2:43 | 2023-01-20 |  |
-| [She Doesn't Mind](https://open.spotify.com/track/1bmt9LlrjBT0JH1nHpoiaI) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [Covers By OSIS \(Pt\. 1\)](https://open.spotify.com/album/5TDrj1NmZ1JGtV837nf2iK) | 3:29 | 2022-08-26 |  |
+| [She Doesn't Mind](https://open.spotify.com/track/1bmt9LlrjBT0JH1nHpoiaI) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [Covers By OSIS \(Pt\. 1\)](https://open.spotify.com/album/5TDrj1NmZ1JGtV837nf2iK) | 3:29 | 2022-08-26 | 2023-10-27 |
 | [She Doesn't Mind](https://open.spotify.com/track/2Zis5AikaFO9h8rM5e4Z1v) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [She Doesn't Mind](https://open.spotify.com/album/0evXINNrzDRfe18Y9qXR8D) | 3:29 | 2022-10-28 | 2022-11-13 |
 | [she's all i wanna be](https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [she's all i wanna be](https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul) | 3:17 | 2022-10-28 |  |
 | [Silence](https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D) | [Reggii](https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP) | [Silence](https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk) | 2:54 | 2022-08-26 |  |
@@ -278,6 +278,7 @@
 | [Watermelon Sugar \- Acoustic](https://open.spotify.com/track/1TZBg0IBHvqfSAlHvVd8eH) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Watermelon Sugar \(Acoustic\)](https://open.spotify.com/album/4vljiSAPCLIfX03BwIgRhk) | 3:03 | 2022-08-26 |  |
 | [We Can't Stop \- Acoustic](https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [We Can't Stop \(Acoustic\)](https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk) | 2:58 | 2022-08-26 |  |
 | [What About Us \- Acoustic](https://open.spotify.com/track/7e4Pftu2tzDeY0W0690OKQ) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [What About Us \(Acoustic\)](https://open.spotify.com/album/0oqgSmNw05kvsTG9ap2Vv5) | 4:15 | 2022-08-26 | 2023-01-20 |
+| [what if](https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [what if](https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq) | 3:21 | 2023-10-27 |  |
 | [What Makes You Beautiful](https://open.spotify.com/track/1H42VdCQ97or9QjnH5tlXf) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [What Makes You Beautiful](https://open.spotify.com/album/4iW9eYGpYhIQ1p4QC05ihN) | 2:48 | 2022-09-29 |  |
 | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA) | 3:22 | 2023-08-31 |  |
 | [When I Get There](https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [When I Get There](https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m) | 3:53 | 2023-04-14 |  |

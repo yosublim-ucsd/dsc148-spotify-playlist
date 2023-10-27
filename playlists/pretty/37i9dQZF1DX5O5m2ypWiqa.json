@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Banda MS en portada",
-  "num_followers": 1768645,
+  "num_followers": 1769209,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmYwOTVlZDBjOTlmMjNiMzgzNDBlNDM4M2Q5ZjUzM2M0NTVhYmNl",
+  "snapshot_id": "MCwxMjM2NTQ1MjY4N2Q1MGNkNWI0NDczY2Q4NjVlZDA4OTA2YTdlN2Ji",
   "tracks": [
     {
       "added_at": "2023-08-08 23:26:41",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
+        "name": "Tu Yo Y La Luna",
+        "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Si Yo Fuera Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/3smCnGYSUF8BwNDjbpAZZA"
+    },
+    {
+      "added_at": "2023-08-08 23:26:41",
+      "album": {
         "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
         "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 258355,
       "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
       "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
-    },
-    {
-      "added_at": "2023-08-08 23:26:41",
-      "album": {
-        "name": "Tu Yo Y La Luna",
-        "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "Si Yo Fuera Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/3smCnGYSUF8BwNDjbpAZZA"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "Te Voy A Amar",
-        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
-      },
-      "artists": [
-        {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Me Encantar\u00eda",
-      "url": "https://open.spotify.com/track/2uEqb2TEV29ktnJl8DyObt"
-    },
-    {
-      "added_at": "2023-08-08 23:26:41",
-      "album": {
         "name": "Reencuentro",
         "url": "https://open.spotify.com/album/7AAMxkRhwiPTDzApQYJdns"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 226360,
       "name": "Reencuentro",
       "url": "https://open.spotify.com/track/3jq17jcifw4s9ORbLxr4iJ"
+    },
+    {
+      "added_at": "2023-08-08 23:26:41",
+      "album": {
+        "name": "Te Voy A Amar",
+        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Me Encantar\u00eda",
+      "url": "https://open.spotify.com/track/2uEqb2TEV29ktnJl8DyObt"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "Las M\u00e1s Perronas de Banda",
-        "url": "https://open.spotify.com/album/5YaunEHdo66ZySyG3kGhNu"
-      },
-      "artists": [
-        {
-          "name": "DCO",
-          "url": "https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Muchas Gracias",
-      "url": "https://open.spotify.com/track/0hMrhXemQsyYON48v8k21H"
-    },
-    {
-      "added_at": "2023-08-08 23:26:41",
-      "album": {
         "name": "25 A\u00f1os, Vol. 1",
         "url": "https://open.spotify.com/album/6yftM74Ij8cxnOSRax1hRE"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 266000,
       "name": "En Esta Vida No Se Pudo",
       "url": "https://open.spotify.com/track/4ZRWZSgXGuMe9kILi6hzKL"
+    },
+    {
+      "added_at": "2023-08-08 23:26:41",
+      "album": {
+        "name": "Las M\u00e1s Perronas de Banda",
+        "url": "https://open.spotify.com/album/5YaunEHdo66ZySyG3kGhNu"
+      },
+      "artists": [
+        {
+          "name": "DCO",
+          "url": "https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Muchas Gracias",
+      "url": "https://open.spotify.com/track/0hMrhXemQsyYON48v8k21H"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "La N\u00famero 20",
-      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
-    },
-    {
-      "added_at": "2023-08-08 23:26:41",
-      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 197133,
       "name": "Vanidosa",
       "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
+    },
+    {
+      "added_at": "2023-08-08 23:26:41",
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "La N\u00famero 20",
+      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Arboles De La Barranca",
-      "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
-    },
-    {
-      "added_at": "2023-08-08 23:26:41",
-      "album": {
         "name": "Disfrut\u00e9 Enga\u00f1arte",
         "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 234480,
       "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
       "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
+    },
+    {
+      "added_at": "2023-08-08 23:26:41",
+      "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
     },
     {
       "added_at": "2023-08-08 23:26:41",

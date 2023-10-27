@@ -4,7 +4,7 @@
 
 > ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Loyal Lobos
 
-67 songs - 3 hr 46 min
+68 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Ciudad Espanto](https://open.spotify.com/track/1LaVxGRKECxCucel5Gs8tt) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki) | [Muchachito Roto](https://open.spotify.com/album/59EbB1Kyy8ThhlY9QJFPev) | 3:13 | 2023-09-22 |  |
 | [Claroscuro](https://open.spotify.com/track/5p5AhrRFj9HUaxqDXDL5rh) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD) | [Claroscuro](https://open.spotify.com/album/7yfdxsGFK68Q5P2kGaqK3Y) | 3:04 | 2023-09-22 | 2023-10-21 |
 | [coral](https://open.spotify.com/track/3UOo8zf78epJdsoFo50AOF) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [coral](https://open.spotify.com/album/78K4xSAjShKybDLVkkWH6J) | 3:47 | 2023-09-22 |  |
-| [Corolla 94](https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp) | 3:21 | 2023-09-22 |  |
+| [Corolla 94](https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp) | 3:21 | 2023-09-22 | 2023-10-27 |
+| [Corolla 94](https://open.spotify.com/track/2n9rhvlYHPaMEFOmw5Y1QX) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/0ntx5OUeKXWlmEiXHh7jXN) | 3:21 | 2023-10-20 |  |
 | [Corriendo](https://open.spotify.com/track/19B8jai2irsTUVsJxGhRTR) | [Canales Nacionales](https://open.spotify.com/artist/6IKWIwAANTdlk5fSh2PBDJ) | [Corriendo](https://open.spotify.com/album/1oF3W8fNMxBs4u7sbKLZJe) | 3:47 | 2023-09-22 |  |
 | [De Maravilla](https://open.spotify.com/track/7osWLKq6j6KxoMT03EdvHv) | [The Vue](https://open.spotify.com/artist/1bCVI2X0v8Ext3IXFNd0oY) | [Las Cosas Que No Dije \(LCQND\)](https://open.spotify.com/album/2uC2X3vkFU4hLmRUPKWZ98) | 3:22 | 2023-09-22 | 2023-10-14 |
 | [Desprevenido](https://open.spotify.com/track/2iJwRkYxLQ5qK3yCPOHYYK) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Desprevenido](https://open.spotify.com/album/5b7GmiY0WfSAAPDdfI4Hoh) | 3:17 | 2023-09-22 |  |

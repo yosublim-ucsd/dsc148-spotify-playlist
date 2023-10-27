@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 63348,
+  "num_followers": 63396,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTU4ODQ3ZWRlYzVmOGI5NTFmYmIxMzBjMzA5YzdkN2ZjNDI1ZTg0",
+  "snapshot_id": "MCw5OGNkNmU4OWNkNTc1Yjk4MGM2ZWU1ZTY1OTc5N2FiMjZkYmIzMDk1",
   "tracks": [
     {
       "added_at": "2023-10-19 23:00:00",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-10-19 23:00:00",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
+    },
+    {
+      "added_at": "2023-10-19 23:00:00",
+      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
-    },
-    {
-      "added_at": "2023-10-19 23:00:00",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 198448,
-      "name": "Got Me Started",
-      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
     },
     {
       "added_at": "2023-10-19 23:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-10-19 23:00:00",
       "album": {
-        "name": "Three Second Memory (Deluxe)",
-        "url": "https://open.spotify.com/album/4zfXvbTiPAfmHt56Q3tQEc"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        }
-      ],
-      "duration_ms": 359226,
-      "name": "Moonwalk Away",
-      "url": "https://open.spotify.com/track/7pcd9XP1fZsiFGFCOFhtY3"
-    },
-    {
-      "added_at": "2023-10-19 23:00:00",
-      "album": {
         "name": "Drive (feat. Delilah Montagu)",
         "url": "https://open.spotify.com/album/3EDihmekkrp2FXfJiMAJlV"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 191258,
       "name": "Drive (feat. Delilah Montagu) - Edit",
       "url": "https://open.spotify.com/track/6X7PK2UQMUU36ux9pynSkV"
+    },
+    {
+      "added_at": "2023-10-19 23:00:00",
+      "album": {
+        "name": "Three Second Memory (Deluxe)",
+        "url": "https://open.spotify.com/album/4zfXvbTiPAfmHt56Q3tQEc"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        }
+      ],
+      "duration_ms": 359226,
+      "name": "Moonwalk Away",
+      "url": "https://open.spotify.com/track/7pcd9XP1fZsiFGFCOFhtY3"
     },
     {
       "added_at": "2023-10-19 23:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-10-19 23:00:00",
       "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/6GHb9FYG7HnVet0rQs0Dq9"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 212849,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/7DH3o4acluc4mUUsAoLeBN"
+    },
+    {
+      "added_at": "2023-10-19 23:00:00",
+      "album": {
         "name": "If Summer Was A Sound",
         "url": "https://open.spotify.com/album/3XfgIeHgOAfAeQz5qBXIzh"
       },
@@ -963,6 +979,22 @@
     {
       "added_at": "2023-10-19 23:00:00",
       "album": {
+        "name": "\u2018Til I Found You",
+        "url": "https://open.spotify.com/album/1Vk4CueKjarGcPSoWX8DUE"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 172182,
+      "name": "'Til I Found You",
+      "url": "https://open.spotify.com/track/0LcCeKrpFTzqKrTAzNFIHo"
+    },
+    {
+      "added_at": "2023-10-19 23:00:00",
+      "album": {
         "name": "Life Without Fantasies (Radio Edit)",
         "url": "https://open.spotify.com/album/2CbKkBdhAHKiKkZ8MrkdGf"
       },
@@ -979,22 +1011,6 @@
       "duration_ms": 161456,
       "name": "Life Without Fantasies - Radio Edit",
       "url": "https://open.spotify.com/track/2Q9QrDU4LUDot1mpYcntiC"
-    },
-    {
-      "added_at": "2023-10-19 23:00:00",
-      "album": {
-        "name": "\u2018Til I Found You",
-        "url": "https://open.spotify.com/album/1Vk4CueKjarGcPSoWX8DUE"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 172182,
-      "name": "'Til I Found You",
-      "url": "https://open.spotify.com/track/0LcCeKrpFTzqKrTAzNFIHo"
     },
     {
       "added_at": "2023-10-19 23:00:00",
@@ -1019,6 +1035,22 @@
     {
       "added_at": "2023-10-19 23:00:00",
       "album": {
+        "name": "The Hanging Gardens Of Beatenberg",
+        "url": "https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ"
+      },
+      "artists": [
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "duration_ms": 352493,
+      "name": "Pluto - Live",
+      "url": "https://open.spotify.com/track/59oBTOQ2aidtB5RRbfLdRz"
+    },
+    {
+      "added_at": "2023-10-19 23:00:00",
+      "album": {
         "name": "Best Night of My Life",
         "url": "https://open.spotify.com/album/4XxDkLqQfNsGHHsiWOTGpB"
       },
@@ -1031,6 +1063,22 @@
       "duration_ms": 154855,
       "name": "Best Night of My Life",
       "url": "https://open.spotify.com/track/3oSGH1ibFHx3aCHS4Fk3vV"
+    },
+    {
+      "added_at": "2023-10-19 23:00:00",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf"
+      },
+      "artists": [
+        {
+          "name": "Majozi",
+          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k"
     },
     {
       "added_at": "2023-10-19 23:00:00",
@@ -1051,22 +1099,6 @@
     {
       "added_at": "2023-10-19 23:00:00",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/6GHb9FYG7HnVet0rQs0Dq9"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 212849,
-      "name": "Take It Easy",
-      "url": "https://open.spotify.com/track/7DH3o4acluc4mUUsAoLeBN"
-    },
-    {
-      "added_at": "2023-10-19 23:00:00",
-      "album": {
         "name": "Oh My Soul (Bloukaas Remix)",
         "url": "https://open.spotify.com/album/0lLLTsyd0ix7BXFJYuhDrs"
       },
@@ -1083,50 +1115,18 @@
     {
       "added_at": "2023-10-19 23:00:00",
       "album": {
-        "name": "The Hanging Gardens Of Beatenberg",
-        "url": "https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ"
+        "name": "Taking It Easy",
+        "url": "https://open.spotify.com/album/7tpKCYCD9014y6vclyHMaG"
       },
       "artists": [
         {
-          "name": "Beatenberg",
-          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+          "name": "GoodLuck",
+          "url": "https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3"
         }
       ],
-      "duration_ms": 352493,
-      "name": "Pluto - Live",
-      "url": "https://open.spotify.com/track/59oBTOQ2aidtB5RRbfLdRz"
-    },
-    {
-      "added_at": "2023-10-19 23:00:00",
-      "album": {
-        "name": "echo: dawn",
-        "url": "https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF"
-      },
-      "artists": [
-        {
-          "name": "Just a Band",
-          "url": "https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA"
-        }
-      ],
-      "duration_ms": 187375,
-      "name": "Thank You/Rebel and a Cause - from ech0",
-      "url": "https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0"
-    },
-    {
-      "added_at": "2023-10-19 23:00:00",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf"
-      },
-      "artists": [
-        {
-          "name": "Majozi",
-          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k"
+      "duration_ms": 244030,
+      "name": "Taking It Easy",
+      "url": "https://open.spotify.com/track/3TxzxETVzNxcVgyH046azF"
     }
   ],
   "unique_name": "Feel Good Look Good",

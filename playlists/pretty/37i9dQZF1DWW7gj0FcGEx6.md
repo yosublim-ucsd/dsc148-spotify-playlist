@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,772 likes - 195 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,835 likes - 195 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 82 | [A Good Son \- From "What's Love Got to Do with It?" Soundtrack](https://open.spotify.com/track/7mdfc67axIpeKYXHuVO5Eg) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [A Good Son \(From "What's Love Got to Do with It?" Soundtrack\)](https://open.spotify.com/album/6oYVqBYCqMMEyB3bSwEYTg) | 1:46 |
 | 83 | [The Story of the First Witcher](https://open.spotify.com/track/27IauLSoyh3hseoltgWrRP) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 3:41 |
 | 84 | [1923 Opus](https://open.spotify.com/track/6s2P2eVtO19XxuyWbPzDDH) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [1923 Opus](https://open.spotify.com/album/0f0ohvltggTLzAHOYV955K) | 4:43 |
-| 85 | [Doing Nothing With Friends](https://open.spotify.com/track/7aik1FI7t1PUka7u6zwDEh) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [The Boy, the Mole, the Fox and the Horse \(Official Short Film Soundtrack\)](https://open.spotify.com/album/3DAsjqarjzBKn8JYxrlVtq) | 2:42 |
+| 85 | [Doing Nothing With Friends](https://open.spotify.com/track/7aik1FI7t1PUka7u6zwDEh) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [The Boy, the Mole, the Fox and The Horse \(Official Short Film Soundtrack\)](https://open.spotify.com/album/3DAsjqarjzBKn8JYxrlVtq) | 2:42 |
 | 86 | [A Mother's Touch \- From ”A Mother's Touch" Soundtrack](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(From ”A Mother's Touch" Soundtrack\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 |
 | 87 | [Overture](https://open.spotify.com/track/3yFOslxT9EZHLaoZ9YKXoA) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni), [Caitlin Sullivan](https://open.spotify.com/artist/2yKRNZMmVZvvGf60cxTxqa) | [She Said \(Original Motion Picture Score\)](https://open.spotify.com/album/3UAjGfniReEmKuZjDQHnFN) | 2:02 |
 | 88 | [Father Ghost](https://open.spotify.com/track/0GREywg9ilk2u04Oy22Apu) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Alejandro G\. Iñárritu](https://open.spotify.com/artist/2qI1BI8FZYj7AYhxBIlK6R) | [Bardo \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2LaSuEnvNjz5Q311ATpioK) | 2:33 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 194 | [Friendship Theme](https://open.spotify.com/track/317Tb1dzMW3KTUjiTcsN4b) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Brandon Roberts](https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo) | [Chaos Walking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2hqIiiiQXOUCkAx2i0JKje) | 1:58 |
 | 195 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 |
 
-Snapshot ID: `MCwzMWUzODBiODFmY2Y3NDM2ZmVhMDEwZGI4YTQxY2U2YjRjOGIyYjU2`
+Snapshot ID: `MCw0NmUwZTczYzU4MjE2MmQ1YmY5YjA1YTc2ZTUwOTFkZjE1NTc2Zjhi`

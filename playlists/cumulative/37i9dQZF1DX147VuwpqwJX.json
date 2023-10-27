@@ -979,6 +979,40 @@
     },
     {
       "album": {
+        "name": "HOUSE OF KETA (Remixes)",
+        "url": "https://open.spotify.com/album/2GvCfFZs0Nat2VziFK0KfN"
+      },
+      "artists": [
+        {
+          "name": "FLUIDOSTUDIO",
+          "url": "https://open.spotify.com/artist/51aWIDc4ApbJEEe3Ua2wRy"
+        },
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        },
+        {
+          "name": "Kenjiii",
+          "url": "https://open.spotify.com/artist/5kIf0pfMAuESNIuaTnrqfI"
+        },
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        },
+        {
+          "name": "Playgirls from Caracas",
+          "url": "https://open.spotify.com/artist/2DtlP0AAGRMHdesTux8mu9"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222508,
+      "name": "HOUSE OF KETA - Playgirls from Caracas Remix",
+      "url": "https://open.spotify.com/track/0rMS1zM1oEbD7Nl7LI9iia"
+    },
+    {
+      "album": {
         "name": "HOUSE OF KETA",
         "url": "https://open.spotify.com/album/5bKEalOUBTY6CvdXoIVAyQ"
       },
@@ -1040,7 +1074,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 222508,
       "name": "HOUSE OF KETA - Playgirls from Caracas Remix",
       "url": "https://open.spotify.com/track/5qcx6g6Z4tZJszOU5q4eMM"

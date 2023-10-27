@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 62028,
+  "num_followers": 62076,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTE4ZTZjNDFmNzY1ZWU0MGJiM2FmZmI3MmRlNDY3OGFjYmIyZjM5",
+  "snapshot_id": "MCxhZGIyOWM1MmNhOTMwM2M0YzA0YzZhOTNlMTk1OTgwNzhjZGExN2Nh",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -143,18 +143,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Sou Livre",
-        "url": "https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M"
+        "name": "Spoleta",
+        "url": "https://open.spotify.com/album/5XtJA6IrAUBAGlO3hcDIro"
       },
       "artists": [
         {
-          "name": "Rebeca Nemer",
-          "url": "https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk"
+          "name": "Spoleta",
+          "url": "https://open.spotify.com/artist/29FAWlmhQUsUO7T2blu9Ci"
+        },
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
         }
       ],
-      "duration_ms": 252720,
-      "name": "Poror\u00f3",
-      "url": "https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr"
+      "duration_ms": 86883,
+      "name": "T\u00e3o Pequeno",
+      "url": "https://open.spotify.com/track/6GAFddIaa9OBHZRZRTttKc"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -223,22 +227,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Spoleta",
-        "url": "https://open.spotify.com/album/5XtJA6IrAUBAGlO3hcDIro"
+        "name": "Sou Livre",
+        "url": "https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M"
       },
       "artists": [
         {
-          "name": "Spoleta",
-          "url": "https://open.spotify.com/artist/29FAWlmhQUsUO7T2blu9Ci"
-        },
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+          "name": "Rebeca Nemer",
+          "url": "https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk"
         }
       ],
-      "duration_ms": 86883,
-      "name": "T\u00e3o Pequeno",
-      "url": "https://open.spotify.com/track/6GAFddIaa9OBHZRZRTttKc"
+      "duration_ms": 252720,
+      "name": "Poror\u00f3",
+      "url": "https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Eu Sou Um Cordeirinho",
-        "url": "https://open.spotify.com/album/7uVIoEnQpDw7N8hRh07uUo"
-      },
-      "artists": [
-        {
-          "name": "3 Palavrinhas",
-          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Eu Sou Um Cordeirinho",
-      "url": "https://open.spotify.com/track/3S638bURBDmKdnoFbTEwXE"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Toc Toc Toc - Baby Fun (Remix)",
         "url": "https://open.spotify.com/album/1g7vUqTtKS2DzSRn3lugll"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 137639,
       "name": "Toc Toc Toc - Baby Fun - Remix",
       "url": "https://open.spotify.com/track/6KjIPIOhwSHq2K4ItYRDJb"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Eu Sou Um Cordeirinho",
+        "url": "https://open.spotify.com/album/7uVIoEnQpDw7N8hRh07uUo"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Eu Sou Um Cordeirinho",
+      "url": "https://open.spotify.com/track/3S638bURBDmKdnoFbTEwXE"
     },
     {
       "added_at": "2023-10-20 03:00:00",

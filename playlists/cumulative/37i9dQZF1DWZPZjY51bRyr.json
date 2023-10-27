@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "432 Hz Delta Earth",
+        "url": "https://open.spotify.com/album/5MDAtNZmWg0GfB23Rvyaas"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Sorrow",
+          "url": "https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142422,
+      "name": "432 Hz Delta Earth",
+      "url": "https://open.spotify.com/track/0yClwB7zCLWhcshv29Oep6"
+    },
+    {
+      "album": {
         "name": "432 Hz Serenity Embrace",
         "url": "https://open.spotify.com/album/66mC8CxQZFCfinlZw5QyTh"
       },
@@ -509,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Beyond Thought",
+        "url": "https://open.spotify.com/album/2IbXteNkbRdqEutQXJg95b"
+      },
+      "artists": [
+        {
+          "name": "Astral Shade",
+          "url": "https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Beyond Thought",
+      "url": "https://open.spotify.com/track/7InybwB0mEGdaWyWHxqRQq"
+    },
+    {
+      "album": {
         "name": "Birth",
         "url": "https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM"
       },
@@ -524,6 +560,24 @@
       "duration_ms": 175802,
       "name": "Birth",
       "url": "https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy"
+    },
+    {
+      "album": {
+        "name": "Blissful Pulses",
+        "url": "https://open.spotify.com/album/6ix5Or8Zc4ins5o7AYcAkY"
+      },
+      "artists": [
+        {
+          "name": "astral rhythms",
+          "url": "https://open.spotify.com/artist/41e1gVX7wXCRGUGmFcajEu"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Blissful Pulses",
+      "url": "https://open.spotify.com/track/05lZVhGjLi84vuGB4pa4QF"
     },
     {
       "album": {
@@ -668,6 +722,24 @@
       "duration_ms": 244000,
       "name": "BYND TME",
       "url": "https://open.spotify.com/track/1h3wacc0OmdTvQOply0ulc"
+    },
+    {
+      "album": {
+        "name": "Calm Cosmos",
+        "url": "https://open.spotify.com/album/7wUSmY0F0eoFd5pa644lvE"
+      },
+      "artists": [
+        {
+          "name": "Franz Emerald",
+          "url": "https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137250,
+      "name": "Calm Cosmos",
+      "url": "https://open.spotify.com/track/2lrjDsy5PFchhGWXgDkDMG"
     },
     {
       "album": {
@@ -848,6 +920,24 @@
       "duration_ms": 195913,
       "name": "Coastal Route",
       "url": "https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu"
+    },
+    {
+      "album": {
+        "name": "Comfortable Ease",
+        "url": "https://open.spotify.com/album/2C6fwWe4cy1meGy8m8nof0"
+      },
+      "artists": [
+        {
+          "name": "Leigh Erin",
+          "url": "https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "Comfortable Ease",
+      "url": "https://open.spotify.com/track/4bjaDDWTwOAEL7kFAnpy4R"
     },
     {
       "album": {
@@ -1046,6 +1136,24 @@
       "duration_ms": 180052,
       "name": "Drift",
       "url": "https://open.spotify.com/track/5zf9eb8R4j4X1rWMhfvcw2"
+    },
+    {
+      "album": {
+        "name": "Earth",
+        "url": "https://open.spotify.com/album/6pnmHrY94xQ1kAM8r5iRlM"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/5MiVwcz77IjPJ3v81lofEy"
     },
     {
       "album": {
@@ -1870,7 +1978,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 154786,
       "name": "Messiah Silica",
       "url": "https://open.spotify.com/track/00dKAndxIdVhbJv0f2IKi7"
@@ -1895,6 +2003,24 @@
     },
     {
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/5r4Jy8mDacGJHNOpxmPYgx"
+      },
+      "artists": [
+        {
+          "name": "Aasha",
+          "url": "https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/4GDND8Yo6fiuZyDLb3AZFc"
+    },
+    {
+      "album": {
         "name": "Nereal Beauty",
         "url": "https://open.spotify.com/album/6jHxOlPcctkQrPcBjtEwwi"
       },
@@ -1913,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Night Bells (432 Hz)",
+        "url": "https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr"
+      },
+      "artists": [
+        {
+          "name": "Tsuchida Kasumi",
+          "url": "https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Night Bells (432 Hz)",
+      "url": "https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc"
+    },
+    {
+      "album": {
         "name": "One Giant Leap",
         "url": "https://open.spotify.com/album/6fleY1qghIw98enZVZw7u9"
       },
@@ -1924,7 +2068,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 157000,
       "name": "One Giant Leap",
       "url": "https://open.spotify.com/track/782QwZQiP9OIZcZhEF0lQ9"

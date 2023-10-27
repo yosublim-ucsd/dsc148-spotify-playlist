@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Julieta Venegas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,866 likes - 49 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,891 likes - 49 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 48 | [Horse of Love](https://open.spotify.com/track/00NAMnbG4Mf3BWSUDOlpgC) | [Needshes](https://open.spotify.com/artist/0k56foV9FjTbDpDa8M39Hx) | [Horse of Love](https://open.spotify.com/album/7oa4AhlPy8RPDjK8JGlA8P) | 2:20 |
 | 49 | [Hella](https://open.spotify.com/track/1esb9jNolNQV9uFSHf4fnc) | [Hexagrams](https://open.spotify.com/artist/5VaIrmCpCIwTJDhqncsYGe) | [Hella](https://open.spotify.com/album/2fdTpFLC4BqsJP5UcwA0sh) | 5:06 |
 
-Snapshot ID: `MCw3OGJhOTAwMGQ4NzU5MDgxZDBmNGZlM2UwNmMyMjQ5OTZmZjMzZWVm`
+Snapshot ID: `MCxmNmEwODRlMzY4MTUxMDg5Mzg0ZGI0YjFlNmNiNDE5ZGFjODIwODU2`

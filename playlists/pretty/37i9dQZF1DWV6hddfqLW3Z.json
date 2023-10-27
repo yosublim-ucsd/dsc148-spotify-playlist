@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 783502,
+  "num_followers": 783729,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjA4YTUwNDg5NzliZjUzMTYyNGJhZWMzNjZjOTFkMDgzZjUyY2Uz",
+  "snapshot_id": "MCw2NWNiNmI5YmFhYzNmMDA0NjEwMGQ2YjYxMTY4MmU1YzE5NTVjMzVh",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
-        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 123386,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/7jcLeqojncPZAFh2VUO7mD"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Ac\u00fastico - Ao Vivo",
         "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 219728,
       "name": "Lugar Ao Sol - Ao Vivo | Ac\u00fastico",
       "url": "https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
+        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 123386,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/7jcLeqojncPZAFh2VUO7mD"
     },
     {
       "added_at": "2023-10-20 03:00:00",

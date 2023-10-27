@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 67779,
+  "num_followers": 67816,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmYwOTg0ZjM4ZmU4MDUxOTJkNzYyNDg2MjhlZWE4YjcyOGQyMDMy",
+  "snapshot_id": "MCwxYWY4YTE0NTBlMTkxZjI0NmNiMzY5YmFiMzEyMWJkYzZiYWE0ZGMz",
   "tracks": [
     {
       "added_at": "2023-08-11 03:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Zamba para Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/0Yu1ZRD84F4phx551aEUl5"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        }
+      ],
+      "duration_ms": 234347,
+      "name": "Zamba para Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1XojvsvPtUsG4SqgHiGiGX"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "PACHAKUTI",
         "url": "https://open.spotify.com/album/5vSZkx2vIdCNH0IVndOHpi"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 216066,
       "name": "Te Pido En Agosto",
       "url": "https://open.spotify.com/track/39EGOt9hySCsyT0Bamt8v2"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Zamba para Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/0Yu1ZRD84F4phx551aEUl5"
-      },
-      "artists": [
-        {
-          "name": "Campedrinos",
-          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
-        }
-      ],
-      "duration_ms": 234347,
-      "name": "Zamba para Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1XojvsvPtUsG4SqgHiGiGX"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/55sN3ewoEyGxBfaJ5klMeb"
-      },
-      "artists": [
-        {
-          "name": "Los Cantores del Alba",
-          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Nuestro Juramento",
-      "url": "https://open.spotify.com/track/5u7V5Mgr9RGuNcJKVYLRlx"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Sol Nocturno, Pt. 1",
         "url": "https://open.spotify.com/album/7i5RT2diSWPj2jX4G8iyoR"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 233275,
       "name": "Sol Nocturno",
       "url": "https://open.spotify.com/track/4t38rSXR39gjVi5E7NwoLR"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/55sN3ewoEyGxBfaJ5klMeb"
+      },
+      "artists": [
+        {
+          "name": "Los Cantores del Alba",
+          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/5u7V5Mgr9RGuNcJKVYLRlx"
     },
     {
       "added_at": "2023-08-11 03:00:00",

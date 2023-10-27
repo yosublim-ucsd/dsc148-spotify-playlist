@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Rawayana
 
-143 songs - 8 hr 41 min
+144 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Cremosa](https://open.spotify.com/track/6UMKk8R4XdJFouZUNHIG5I) | [El Arka](https://open.spotify.com/artist/70Dxh945oypt9niP4GLc67), [Budu](https://open.spotify.com/artist/7n0qv6tQpogYMmeLs0nYAD) | [Cremosa](https://open.spotify.com/album/46KPvKMJ7XHo4Ml6IIbf8K) | 3:42 | 2021-12-17 |  |
 | [Culpable Soy Yo](https://open.spotify.com/track/1ASbVP7bURAn44DmhqCNjY) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Dos Clásicos](https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2) | 3:22 | 2021-12-17 | 2022-04-23 |
 | [Cómo No Voy a Decirlo](https://open.spotify.com/track/2t0dKVFtDolRZKh2vi1wEZ) | [Luis Silva](https://open.spotify.com/artist/3B53VdSraW2MeEeLYAvEs1) | [Cómo No Voy a Decirlo](https://open.spotify.com/album/1KFJK6q57o7aKvjquy2nmi) | 3:31 | 2022-09-30 | 2022-11-13 |
-| [Daikiri](https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Daikiri](https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C) | 3:57 | 2021-12-17 |  |
+| [Daikiri](https://open.spotify.com/track/44HnCocL3nA1J795oIdNgu) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Bahía Margarita](https://open.spotify.com/album/0wAN9WxtYgJUdIEczdzF2l) | 3:57 | 2023-09-22 |  |
+| [Daikiri](https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Daikiri](https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C) | 3:57 | 2021-12-17 | 2023-10-27 |
 | [Dame Tu Amor](https://open.spotify.com/track/3gYgGSRPR5hhmgIVR2WUEK) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2) | [Dame Tu Amor](https://open.spotify.com/album/4xufwDFjdZjQWxgYf8FxFP) | 3:38 | 2022-09-30 | 2022-11-13 |
 | [Dame Tu Amor](https://open.spotify.com/track/7K8McJwmdbCSiRfHtbnuf2) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2) | [Da Capo](https://open.spotify.com/album/4v88hZMgEg2b8j8NWnkv8n) | 3:38 | 2022-07-01 |  |
 | [Dame Tu Amor](https://open.spotify.com/track/1gT4h8bz6nKs39oQ8b2uwB) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2) | [Da Capo](https://open.spotify.com/album/5necXB57Rq5a4rtzv9ndqH) | 3:38 | 2021-12-17 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-129 songs - 7 hr 50 min
+130 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,9 @@
 | [DJs](https://open.spotify.com/track/53jbCI3T7Enf0ts76ySNYn) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [DJs](https://open.spotify.com/album/7xMJkHig1DBtwA6um5ltM1) | 3:24 | 2021-08-24 | 2022-07-29 |
 | [Do Anything](https://open.spotify.com/track/0RPWvTmpHCKp46eyjVZCWm) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/7mOChcsSzAoc1TjQr6TRRt) | 2:57 | 2021-08-24 | 2023-09-16 |
 | [Do Anything](https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a) | 2:57 | 2023-06-08 |  |
+| [Down with You](https://open.spotify.com/track/400SwUtzaJ3Ge8gqBU7Qdt) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down with You](https://open.spotify.com/album/6NrOQKsvkxcCDIOsnHJyEa) | 3:30 | 2023-06-08 |  |
 | [Down With You](https://open.spotify.com/track/47Axm1bTbEbOvkXpzOv5ZQ) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/6rDY8B4Q1F3ZBhb7mmfMdT) | 3:30 | 2022-06-09 | 2022-11-12 |
-| [Down With You](https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ) | 3:30 | 2022-08-07 |  |
+| [Down With You](https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ) | 3:30 | 2022-08-07 | 2023-10-27 |
 | [Down With You](https://open.spotify.com/track/5Iok4ErbMb8ozpzZkLe2VA) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You](https://open.spotify.com/album/6AlOEPBNtnf5aFlKZ9JR4b) | 3:30 | 2021-08-24 | 2022-07-29 |
 | [Duduke](https://open.spotify.com/track/2rcH25kgOyS0cQbtiMkhQw) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Duduke](https://open.spotify.com/album/0GxxbvuvH78qHtiAWz7P4R) | 2:52 | 2021-08-24 | 2022-07-29 |
 | [Duduke](https://open.spotify.com/track/0MardG1WRPku1zcG7X2fBf) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [To Be Honest Tour](https://open.spotify.com/album/1GEaHcKNp2obE9fusfaaoR) | 2:52 | 2022-08-07 | 2022-11-13 |

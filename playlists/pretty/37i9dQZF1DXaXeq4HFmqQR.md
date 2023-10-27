@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. Foto: Marineros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,873 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,876 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 17 | [Decidí](https://open.spotify.com/track/526Et8BPKtXBTIctZsrm3Z) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 3:26 |
 | 18 | [Pájaros de fuego \- Banda Sonora Original del documental "Hawker Hunter: El ruido del silencio"](https://open.spotify.com/track/4qsgzEP6xq3jYHdj7eocub) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Pájaros de fuego \(Banda Sonora Original del documental "Hawker Hunter: El ruido del silencio"\)](https://open.spotify.com/album/3Xc48Ap1RROgCr5OTr8w7C) | 4:36 |
 | 19 | [Amarte así](https://open.spotify.com/track/7KV3kUktIYB0dCnZCzHQac) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 3:35 |
-| 20 | [perfecta](https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [perfecta](https://open.spotify.com/album/6be5PkRtr6n5UURCX3hvoK) | 2:40 |
-| 21 | [Misericordia](https://open.spotify.com/track/05xaOXkSjjALluPQDgYlhP) | [Luta Cruz](https://open.spotify.com/artist/6Fzbkrh3lrfCZYK8xzZLm7) | [Primera Mujer](https://open.spotify.com/album/5Y4PCUyOZ643BqblohiBjE) | 4:07 |
+| 20 | [Misericordia](https://open.spotify.com/track/05xaOXkSjjALluPQDgYlhP) | [Luta Cruz](https://open.spotify.com/artist/6Fzbkrh3lrfCZYK8xzZLm7) | [Primera Mujer](https://open.spotify.com/album/5Y4PCUyOZ643BqblohiBjE) | 4:07 |
+| 21 | [perfecta](https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [perfecta](https://open.spotify.com/album/6be5PkRtr6n5UURCX3hvoK) | 2:40 |
 | 22 | [Dream Love](https://open.spotify.com/track/6vStWiIMErT2VNSGnpfXaj) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Dream Love](https://open.spotify.com/album/7fgGpLBb7ujLOECT2x5svf) | 2:55 |
 | 23 | [y las flores? \(en bruto 1/2\)](https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:36 |
 | 24 | [Hacerlo Mejor](https://open.spotify.com/track/5iynCs4hZitCbgHuW53yX5) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Macree](https://open.spotify.com/artist/2ug0FuyOBDhxMovvNYBXGg) | [Hacerlo Mejor](https://open.spotify.com/album/6fdXfuTQQrBnpNTz8pXiJk) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Soltera \- Remix](https://open.spotify.com/track/73IXhWTLFCycLmvuAk33mY) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT), [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI) | [Soltera \(Remix\)](https://open.spotify.com/album/6oduJOhQOBYZ8gnfSyUMvn) | 3:23 |
 | 50 | [No Resultó](https://open.spotify.com/track/5b1iIkqkzCFRgpaTAB29do) | [Carolina Nissen](https://open.spotify.com/artist/1DqfzBVRtZaQXS63wWCYMM) | [No Resultó](https://open.spotify.com/album/5Xu25GHIBlSxtOzSBAKCPm) | 3:24 |
 
-Snapshot ID: `MCwwZjVlYTU5NTA3ODcwMmZkNGRkOTdkNjdmNmQ0YmM3Mjc0NDc0YTcw`
+Snapshot ID: `MCxjZDA3NjI2NmNiNTI1ODY4OTc1YjNlNWNlNGM2NDY3YjU5MGRkYmZm`

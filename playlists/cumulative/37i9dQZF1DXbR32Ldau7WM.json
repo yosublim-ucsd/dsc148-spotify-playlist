@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock bands/artists in Japan right now! Cover: 04 Limited Sazabys",
+  "description": "The biggest rock bands/artists in Japan right now! Cover: \u30a8\u30ec\u30d5\u30a1\u30f3\u30c8\u30ab\u30b7\u30de\u30b7",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 249200,
       "name": "13\u6708",
       "url": "https://open.spotify.com/track/5blfqjxdPOzx5oV0dkcn3s"
+    },
+    {
+      "album": {
+        "name": "Tokyo Emotional Gakuen",
+        "url": "https://open.spotify.com/album/2hdZVSnRHEe58scxlLK4JS"
+      },
+      "artists": [
+        {
+          "name": "BIGMAMA",
+          "url": "https://open.spotify.com/artist/1hLhr1vN1iKGMb0B0MTN6k"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265417,
+      "name": "17 (until the day I die)",
+      "url": "https://open.spotify.com/track/3wtd7yHCfguOUw29er37ai"
     },
     {
       "album": {
@@ -424,7 +442,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 236280,
       "name": "Aozora Brand New",
       "url": "https://open.spotify.com/track/1srFThaZmklInc18cbxlQb"
@@ -2654,7 +2672,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 195750,
       "name": "GET BACK",
       "url": "https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR"
@@ -2744,7 +2762,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 262945,
       "name": "GHOST SUMMER",
       "url": "https://open.spotify.com/track/4z5rrFnhA8Agb3yGjjBItv"
@@ -3074,6 +3092,24 @@
       "duration_ms": 191309,
       "name": "Hello Stray Kitty",
       "url": "https://open.spotify.com/track/0sg5ungKUSkUVWkNIJS67m"
+    },
+    {
+      "album": {
+        "name": "No more cry",
+        "url": "https://open.spotify.com/album/3dLb0zF4wHNks6n9oeHryj"
+      },
+      "artists": [
+        {
+          "name": "Elephant Kashimashi",
+          "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235586,
+      "name": "Hello. I love you",
+      "url": "https://open.spotify.com/track/6Ii2BslnUonm8N8OwKfZ2h"
     },
     {
       "album": {
@@ -5546,7 +5582,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 278293,
       "name": "No more cry",
       "url": "https://open.spotify.com/track/0pxhbWaseLjZbcFCKpMrn3"
@@ -5604,7 +5640,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 205653,
       "name": "O.T.S.S.",
       "url": "https://open.spotify.com/track/1xp4xPXKoWHkB6yWxfJaNT"
@@ -6268,7 +6304,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 203666,
       "name": "Re-monolith",
       "url": "https://open.spotify.com/track/2P406Mp2LZ8Iqai7WAUDs3"
@@ -7466,7 +7502,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 191000,
       "name": "Specter",
       "url": "https://open.spotify.com/track/7CvcVIkXP5GzAItfkRkRvQ"
@@ -8560,7 +8596,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 302696,
       "name": "Twilight Dance",
       "url": "https://open.spotify.com/track/7Ac59Y7c3ljeLyJQYiQufV"
@@ -9336,6 +9372,24 @@
       "duration_ms": 326061,
       "name": "Yasashiku Naritai (ROCK'N ROLL Recording Session 2023)",
       "url": "https://open.spotify.com/track/5Di7mAEctcwaj2HpoW4DAu"
+    },
+    {
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0NhUnxavKjNKP6YU1TBOoL"
+      },
+      "artists": [
+        {
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207444,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/7pRtSBPQJ9rH0i1bcOegtc"
     },
     {
       "album": {
@@ -10612,7 +10666,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 214088,
       "name": "\u30a2\u30b2\u30a4\u30f3",
       "url": "https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh"
@@ -10688,6 +10742,24 @@
       "duration_ms": 325693,
       "name": "\u30a2\u30ec\u30ad\u30b7\u30b5\u30a4\u30df\u30a2\u30b9\u30da\u30a2",
       "url": "https://open.spotify.com/track/1pQ9MUBDpe5AVnpxha0uso"
+    },
+    {
+      "album": {
+        "name": "\u6c38\u9060\u5e02",
+        "url": "https://open.spotify.com/album/5STqcXt9yxV4dpDCTB2D62"
+      },
+      "artists": [
+        {
+          "name": "amazarashi",
+          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290293,
+      "name": "\u30a4\u30f3\u30d2\u30e5\u30fc\u30de\u30f3\u30a8\u30f3\u30d1\u30b7\u30fc",
+      "url": "https://open.spotify.com/track/6ite4gtP02Vfb8NvXxlI1Q"
     },
     {
       "album": {
@@ -10864,7 +10936,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 222320,
       "name": "\u30ad\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
       "url": "https://open.spotify.com/track/7bDgXhmpzHjvWx4qrtFaDS"
@@ -11744,7 +11816,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 238586,
       "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
       "url": "https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp"
@@ -12014,7 +12086,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 273514,
       "name": "\u30d7\u30e9\u30cd\u30bf\u30ea\u30a2",
       "url": "https://open.spotify.com/track/1m0rRTBTKBCiXDkNdEKbYo"
@@ -13280,6 +13352,24 @@
       "duration_ms": 222640,
       "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35"
+    },
+    {
+      "album": {
+        "name": "800TRIBUTE-champloo is the BEST!!2-",
+        "url": "https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260278,
+      "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X"
     },
     {
       "album": {
@@ -14718,7 +14808,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 253413,
       "name": "\u7a81\u7834\u53e3",
       "url": "https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW"

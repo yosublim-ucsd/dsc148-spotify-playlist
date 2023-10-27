@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 82000,
       "name": "actias",
       "url": "https://open.spotify.com/track/0xjYcnG8veIrT3CJX2rBe5"
@@ -256,6 +256,24 @@
       "duration_ms": 127384,
       "name": "Aerials",
       "url": "https://open.spotify.com/track/5wvxuJbX7HoiLHESWpfYlG"
+    },
+    {
+      "album": {
+        "name": "after dark",
+        "url": "https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM"
+      },
+      "artists": [
+        {
+          "name": "takemefaraway",
+          "url": "https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141886,
+      "name": "after dark",
+      "url": "https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14"
     },
     {
       "album": {
@@ -532,7 +550,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 129229,
       "name": "Apaixonar",
       "url": "https://open.spotify.com/track/0uX8h1vgDzUwQJAH4jEYsV"
@@ -644,7 +662,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 141818,
       "name": "balcony chaser",
       "url": "https://open.spotify.com/track/2EJQ2sHsGWpfbhq9v3q0ra"
@@ -1020,7 +1038,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 100508,
       "name": "Camping",
       "url": "https://open.spotify.com/track/6JJOCnGGphX1aSLMEDeY3m"
@@ -1372,7 +1390,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 95384,
       "name": "clima",
       "url": "https://open.spotify.com/track/47hnVFWuVJW0K4tzoDfCat"
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 107865,
       "name": "Coconut Crab",
       "url": "https://open.spotify.com/track/4qtD8XG4cpzW8nLSAVhA78"
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 134855,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/1PSQGXCHE2ilzbBBBapF5B"
@@ -2064,7 +2082,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 175234,
       "name": "East Coast",
       "url": "https://open.spotify.com/track/5E9Hv0qJghwtMpkf8rZdqW"
@@ -3616,7 +3634,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 96442,
       "name": "ipanema",
       "url": "https://open.spotify.com/track/18u4WwiGLzWT8xpLmUAHN7"
@@ -3978,7 +3996,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 92530,
       "name": "lightworks",
       "url": "https://open.spotify.com/track/6MkBupjsDf6EELEznF7mk3"
@@ -4788,7 +4806,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 154838,
       "name": "Nice monsters and scary spirits",
       "url": "https://open.spotify.com/track/7iaf0xFvyWxFOaGZoSuo8R"
@@ -5722,10 +5740,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 164825,
       "name": "Pristine",
       "url": "https://open.spotify.com/track/5hU6UR3JAmobbRF8in1hpN"
+    },
+    {
+      "album": {
+        "name": "Pure Water",
+        "url": "https://open.spotify.com/album/0pdsUyxPplZqjQ2oRBkmcD"
+      },
+      "artists": [
+        {
+          "name": "JAKKARTA",
+          "url": "https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177923,
+      "name": "Pure Water",
+      "url": "https://open.spotify.com/track/2ZLJrHbLNkj8rrnh9ECyxU"
     },
     {
       "album": {
@@ -5798,7 +5834,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 160263,
       "name": "Reading Minds",
       "url": "https://open.spotify.com/track/4dc2zA87qHnlJn8QK7XOUr"
@@ -6764,7 +6800,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 139616,
       "name": "Steadyme",
       "url": "https://open.spotify.com/track/6U374P7SqFo42pRrZZJkWx"
@@ -6934,7 +6970,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 159699,
       "name": "Summer",
       "url": "https://open.spotify.com/track/3uJc3NYue0tKZJT8H1v4Z7"
@@ -7260,7 +7296,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 138367,
       "name": "Sunset lointain",
       "url": "https://open.spotify.com/track/52h5FSpV5OysOWoLk7qsYV"
@@ -7332,7 +7368,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 135843,
       "name": "sweet and lovely",
       "url": "https://open.spotify.com/track/4aawMY32xXkK6QE4bT9enl"
@@ -7550,7 +7586,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 127058,
       "name": "Teenage Saint",
       "url": "https://open.spotify.com/track/0RtbYXFstFCtdWKtGDfdRO"
@@ -7608,7 +7644,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 121479,
       "name": "That Gurl",
       "url": "https://open.spotify.com/track/5E2ZlARzfpAfvM6F5Db1Iz"

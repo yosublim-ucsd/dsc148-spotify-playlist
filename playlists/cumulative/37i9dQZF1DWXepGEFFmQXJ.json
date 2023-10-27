@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Chris Stapelton",
+  "description": "The cream of today's Country crop. Cover: Jessie Murph & Jelly Roll",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 200133,
       "name": "Can't Break Up Now",
       "url": "https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz"
@@ -1802,6 +1802,24 @@
       "duration_ms": 186635,
       "name": "Dancing in the Sky",
       "url": "https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr"
+    },
+    {
+      "album": {
+        "name": "Dancing On The Tables",
+        "url": "https://open.spotify.com/album/4JEB3AmMnStHSmVLfRos56"
+      },
+      "artists": [
+        {
+          "name": "Hudson Rose",
+          "url": "https://open.spotify.com/artist/2OVd5jsVZnxyb1jI35yDEX"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171285,
+      "name": "Dancing On The Tables",
+      "url": "https://open.spotify.com/track/0PB8X1URo1d36ltWZ0ivXk"
     },
     {
       "album": {
@@ -6771,6 +6789,24 @@
     },
     {
       "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/2c4Ls6gjK0JwPTtIZ8mKrn"
+      },
+      "artists": [
+        {
+          "name": "Darlinghurst",
+          "url": "https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194441,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/6NKjPJS3dRoY8weRf3EnC3"
+    },
+    {
+      "album": {
         "name": "Kids on Cassette",
         "url": "https://open.spotify.com/album/5VoiqgwCQqpnMB55nIMGni"
       },
@@ -7383,6 +7419,24 @@
     },
     {
       "album": {
+        "name": "Summer You",
+        "url": "https://open.spotify.com/album/6jRppK7fDnHxfA5D8MWLHD"
+      },
+      "artists": [
+        {
+          "name": "Route 33",
+          "url": "https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201496,
+      "name": "Summer You",
+      "url": "https://open.spotify.com/track/0ji6YIynl98z5b5qRYaVbj"
+    },
+    {
+      "album": {
         "name": "Sunday Best",
         "url": "https://open.spotify.com/album/6ICdRiXlIgUk87yd43eBsP"
       },
@@ -7962,6 +8016,24 @@
       "duration_ms": 208733,
       "name": "Tomorrow Me",
       "url": "https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4"
+    },
+    {
+      "album": {
+        "name": "Too Far Gone",
+        "url": "https://open.spotify.com/album/1WLgw88p4v0I3MYoA3L1ze"
+      },
+      "artists": [
+        {
+          "name": "Zac Cross Band",
+          "url": "https://open.spotify.com/artist/6l91CwKtYnZKbKbGS0CRIw"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Too Far Gone",
+      "url": "https://open.spotify.com/track/0yJbmeXPDK1dXsCEshUuMC"
     },
     {
       "album": {

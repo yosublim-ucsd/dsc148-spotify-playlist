@@ -991,6 +991,32 @@
     },
     {
       "album": {
+        "name": "Daadey",
+        "url": "https://open.spotify.com/album/432wkwsdlyvcW99ePM2I85"
+      },
+      "artists": [
+        {
+          "name": "Hunar Sidhu",
+          "url": "https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm"
+        },
+        {
+          "name": "Divrose",
+          "url": "https://open.spotify.com/artist/2vozhmDOGI7uIqNM1v7GHE"
+        },
+        {
+          "name": "Shevv",
+          "url": "https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127659,
+      "name": "Daadey",
+      "url": "https://open.spotify.com/track/4wQoYEtHU6oXo9z62GITtH"
+    },
+    {
+      "album": {
         "name": "Daku",
         "url": "https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR"
       },
@@ -1083,6 +1109,32 @@
     },
     {
       "album": {
+        "name": "Dil Tod Da (Remix) [Remix Version]",
+        "url": "https://open.spotify.com/album/62J5P4loHXbElzgJwdQydO"
+      },
+      "artists": [
+        {
+          "name": "Hunar Sidhu",
+          "url": "https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm"
+        },
+        {
+          "name": "Rajdeep Mangat",
+          "url": "https://open.spotify.com/artist/0ozlrA0RXlU4UcIZeaZ96y"
+        },
+        {
+          "name": "Real Satnam",
+          "url": "https://open.spotify.com/artist/6elDtbrVYRzdQ5RB9AgVTV"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166617,
+      "name": "Dil Tod Da (Remix) - Remix Version",
+      "url": "https://open.spotify.com/track/44GrxMXyek8xNJ67pzEu1q"
+    },
+    {
+      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/2bEjkwncDxc9oZCpbZ1Km8"
       },
@@ -1094,7 +1146,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 149126,
       "name": "Dior",
       "url": "https://open.spotify.com/track/0DoyE2iuXrUjrHr9cLqCmp"
@@ -1250,7 +1302,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 131162,
       "name": "Elite",
       "url": "https://open.spotify.com/track/2m9aE9cICRHXEg3s4Tqoti"
@@ -1656,7 +1708,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 188661,
       "name": "Gabru Brown",
       "url": "https://open.spotify.com/track/2jlldULbq2etolo9VA76Pj"
@@ -4206,6 +4258,24 @@
       "duration_ms": 159014,
       "name": "Stick Talk",
       "url": "https://open.spotify.com/track/61sbacNWadHqNi8U0ew7rt"
+    },
+    {
+      "album": {
+        "name": "STRAP",
+        "url": "https://open.spotify.com/album/4S53T78rr9YNwFGG08bkNI"
+      },
+      "artists": [
+        {
+          "name": "Zehr Vibe",
+          "url": "https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162506,
+      "name": "STRAP",
+      "url": "https://open.spotify.com/track/1GmaStjvbOzszpxINI8oTi"
     },
     {
       "album": {

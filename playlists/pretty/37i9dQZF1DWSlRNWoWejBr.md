@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > dá o play e fica suave ai ô bactério
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,624 likes - 76 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,387 likes - 76 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 21 | [Praiou](https://open.spotify.com/track/6FNItOka2SwtgxvIxihjsU) | [Mc Lipi](https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Praiou](https://open.spotify.com/album/1RhZQfAVRfCKtpX3wf2MBC) | 3:23 |
 | 22 | [Montagem Coral](https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix) | [DJ Holanda](https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [MC Cyclope](https://open.spotify.com/artist/5yGArOIHgCn6AOA86LaW9N) | [Montagem Coral](https://open.spotify.com/album/7yB8cqc8wyJXq9w4oEZ9Qu) | 2:25 |
 | 23 | [AUTOMOTIVO MORRO DO SAPO](https://open.spotify.com/track/150zX7fhfeBsCOuiSuvwMo) | [DJ Lukinhas 011](https://open.spotify.com/artist/3nvX0kitJrrZnavNshtXeO), [CLUB DA DZ7](https://open.spotify.com/artist/0OYVtrqGQ97ub2QGLNbOql), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC LIPEX](https://open.spotify.com/artist/0ec8S8fFaIBKnKTTGcEZon), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [AUTOMOTIVO MORRO DO SAPO](https://open.spotify.com/album/7xlFk7uWA9VEjmokaj30WS) | 2:06 |
-| 24 | [Tipo Hollywood](https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C), [Mc Chothiê](https://open.spotify.com/artist/2VngfW14xdHwv72pQRdoLv) | [Tipo Hollywood](https://open.spotify.com/album/4KTN4Sx4Dp1G3MrgUTcZv6) | 2:11 |
+| 24 | [Tipo Hollywood](https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k) | [Tipo Hollywood](https://open.spotify.com/album/4KTN4Sx4Dp1G3MrgUTcZv6) | 2:11 |
 | 25 | [Mtg É Madeirada Até O Amanhecer](https://open.spotify.com/track/7gRzoWCpcfSs2yU9XeOhlh) | [Dj Vitão da ZL](https://open.spotify.com/artist/76NC6up0g0RCsGRma5lwrI), [Neto LX](https://open.spotify.com/artist/5Llx4U4MgdWDvK34NpNUyi), [Dj Bel Bertinelli](https://open.spotify.com/artist/7M4wGNG2NYHUBFHOMKeg2V) | [Mtg É Madeirada Até O Amanhecer](https://open.spotify.com/album/2Fxs8GgpPujcs44vbH4SFn) | 3:20 |
 | 26 | [QUE EU VOU TE BOTAR](https://open.spotify.com/track/5KeRe32bIOU5rUa2MBzJnW) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Menor do Engenho](https://open.spotify.com/artist/48OIkMByRxvJ6bxHrnCwLS) | [QUE EU VOU TE BOTAR](https://open.spotify.com/album/5fUkvbwQFcdsOHtEd1IkC3) | 2:16 |
 | 27 | [Halls na Língua \- Remix](https://open.spotify.com/track/5uTVtc2Oc93nBVqPPI8Ijj) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [DJ LUCAS DE PAULA](https://open.spotify.com/artist/48H2LKju3qH1hMJhhnhYvY), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Halls na Língua](https://open.spotify.com/album/0FiyzguzViQQbVwi9QcgLl) | 2:23 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 75 | [Automotivo dos Maloqueiro Chique](https://open.spotify.com/track/2gqWOOwS0m048Uryo4zdZt) | [DJ Erik JP](https://open.spotify.com/artist/0G50WjP6s1v6zLeOl33BwK), [MC K.K](https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod), [MC Renatinho Falcão](https://open.spotify.com/artist/5ni5kHDqfUWwlJNpJcCdnO) | [Automotivo dos Maloqueiro Chique](https://open.spotify.com/album/3ROvdfNMXWMwEuXhYTkfBR) | 2:26 |
 | 76 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 |
 
-Snapshot ID: `MCw2MWQ3YTZjMTQ1Zjg5MTgyZTU2ZWY4MTM2ZDQ1MDFlMWM4MTM4ZDdi`
+Snapshot ID: `MCw0M2JhNzNmZDAxMjgzNDdmODAwNGYxY2E1NWMwMjVkNTMyM2NlODBl`

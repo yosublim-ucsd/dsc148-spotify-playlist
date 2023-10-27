@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Delacruz",
-  "num_followers": 289647,
+  "num_followers": 289893,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTk0OTczNTIyMzk3YTRkOTNhNTA5NDFjMjlhYzNjMjhkZWU1NDEx",
+  "snapshot_id": "MCw2YWZiZTAxYzE0MWNiNzgwNjAwMTMzNzZlYjc5OTJkZWJiNDU3MDI4",
   "tracks": [
     {
       "added_at": "2023-10-23 12:58:00",
@@ -527,6 +527,30 @@
     {
       "added_at": "2023-10-23 12:58:00",
       "album": {
+        "name": "Teu Sorriso",
+        "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Teu Sorriso",
+      "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
+    },
+    {
+      "added_at": "2023-10-23 12:58:00",
+      "album": {
         "name": "de: para:",
         "url": "https://open.spotify.com/album/5eWtjMLQlSVVC7fa1f7hk3"
       },
@@ -551,30 +575,6 @@
       "duration_ms": 163764,
       "name": "\u00c0s Escuras",
       "url": "https://open.spotify.com/track/1MfkPdgUhNLcOEisXGNdl0"
-    },
-    {
-      "added_at": "2023-10-23 12:58:00",
-      "album": {
-        "name": "Teu Sorriso",
-        "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Teu Sorriso",
-      "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
     },
     {
       "added_at": "2023-10-23 12:58:00",
@@ -1043,6 +1043,30 @@
     {
       "added_at": "2023-10-23 12:58:00",
       "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+    },
+    {
+      "added_at": "2023-10-23 12:58:00",
+      "album": {
         "name": "Toda Mal\u00e9vola",
         "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
       },
@@ -1067,30 +1091,6 @@
       "duration_ms": 196691,
       "name": "Toda Mal\u00e9vola",
       "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
-    },
-    {
-      "added_at": "2023-10-23 12:58:00",
-      "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
     },
     {
       "added_at": "2023-10-23 12:58:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-10-23 12:58:00",
       "album": {
+        "name": "Nenhuma Outra Mulher",
+        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 147025,
+      "name": "Nenhuma Outra Mulher",
+      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
+    },
+    {
+      "added_at": "2023-10-23 12:58:00",
+      "album": {
         "name": "O que restou da Maravilha",
         "url": "https://open.spotify.com/album/3wNYTUaJuK5e4XQDP1V115"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 209247,
       "name": "QUEM?",
       "url": "https://open.spotify.com/track/02xe8NW9qbBGbTa4YPkSCg"
-    },
-    {
-      "added_at": "2023-10-23 12:58:00",
-      "album": {
-        "name": "Nenhuma Outra Mulher",
-        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 147025,
-      "name": "Nenhuma Outra Mulher",
-      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
     },
     {
       "added_at": "2023-10-23 12:58:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-10-23 12:58:00",
       "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
-      },
-      "artists": [
-        {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
-    },
-    {
-      "added_at": "2023-10-23 12:58:00",
-      "album": {
         "name": "Aquelas Coisas",
         "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 196363,
       "name": "Aquelas Coisas",
       "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
+    },
+    {
+      "added_at": "2023-10-23 12:58:00",
+      "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
+      },
+      "artists": [
+        {
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
     },
     {
       "added_at": "2023-10-23 12:58:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-10-23 12:58:00",
       "album": {
+        "name": "Calma Z\u00e9 (vers\u00e3o do mato)",
+        "url": "https://open.spotify.com/album/0ZDn9Z3IhB77qcNmM7ZI06"
+      },
+      "artists": [
+        {
+          "name": "Hot",
+          "url": "https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A"
+        }
+      ],
+      "duration_ms": 253575,
+      "name": "Calma Z\u00e9 (vers\u00e3o do mato)",
+      "url": "https://open.spotify.com/track/25j65WWQsSUhgbXGJSbxAi"
+    },
+    {
+      "added_at": "2023-10-23 12:58:00",
+      "album": {
         "name": "L\u00e1bia",
         "url": "https://open.spotify.com/album/3wEHJr1DqFpzRNbFk4o5hC"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 177997,
       "name": "L\u00e1bia",
       "url": "https://open.spotify.com/track/3jiSDYClzVY31izbE8lxGQ"
-    },
-    {
-      "added_at": "2023-10-23 12:58:00",
-      "album": {
-        "name": "Calma Z\u00e9 (vers\u00e3o do mato)",
-        "url": "https://open.spotify.com/album/0ZDn9Z3IhB77qcNmM7ZI06"
-      },
-      "artists": [
-        {
-          "name": "Hot",
-          "url": "https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A"
-        }
-      ],
-      "duration_ms": 253575,
-      "name": "Calma Z\u00e9 (vers\u00e3o do mato)",
-      "url": "https://open.spotify.com/track/25j65WWQsSUhgbXGJSbxAi"
     },
     {
       "added_at": "2023-10-23 12:58:00",

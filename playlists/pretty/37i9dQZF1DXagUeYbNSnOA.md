@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Baby City Club\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,579 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,595 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 34 | [Tu mirar](https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd) | [Sara Sístole](https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8) | [Tu mirar](https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae) | 2:42 |
 | 35 | [SE DESVANECIÓ](https://open.spotify.com/track/4q0AvJnUh3y2ADKcaIUYgi) | [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL) | [SE DESVANECIÓ](https://open.spotify.com/album/0yww6xqlxtNQLcb1EsAXGP) | 2:41 |
 | 36 | [SABI](https://open.spotify.com/track/30UQMD34yVMjJKnTS9QEjL) | [Amantina](https://open.spotify.com/artist/7hc53iJC9NjiLwr0BLWim7) | [SABI](https://open.spotify.com/album/0gvi2Qze85ds6I9cNEUDGU) | 2:40 |
-| 37 | [Perdoname amor](https://open.spotify.com/track/60lkCw09ehFMdRAjSZSi8o) | [La Figui](https://open.spotify.com/artist/5QqWmfNdVYRaUOZ93oJJmn), [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Perdoname amor](https://open.spotify.com/album/4kJBJbwTiiWslEAx5S41KU) | 3:22 |
-| 38 | [Pintando el Humo](https://open.spotify.com/track/72Sy0iRM8dW4ZnF9XH16OC) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Pintando el Humo](https://open.spotify.com/album/3C4GHvi4luCWSrD276xE5n) | 3:22 |
-| 39 | [Japon](https://open.spotify.com/track/3sRXcjvBl5L7vhaZyc1dj9) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Japon](https://open.spotify.com/album/4k7yAgOLUdeNQkUCEqDlgv) | 2:50 |
+| 37 | [Japon](https://open.spotify.com/track/3sRXcjvBl5L7vhaZyc1dj9) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Japon](https://open.spotify.com/album/4k7yAgOLUdeNQkUCEqDlgv) | 2:50 |
+| 38 | [Perdoname amor](https://open.spotify.com/track/60lkCw09ehFMdRAjSZSi8o) | [La Figui](https://open.spotify.com/artist/5QqWmfNdVYRaUOZ93oJJmn), [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Perdoname amor](https://open.spotify.com/album/4kJBJbwTiiWslEAx5S41KU) | 3:22 |
+| 39 | [Pintando el Humo](https://open.spotify.com/track/72Sy0iRM8dW4ZnF9XH16OC) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Pintando el Humo](https://open.spotify.com/album/3C4GHvi4luCWSrD276xE5n) | 3:22 |
 | 40 | [HOOKIA0](https://open.spotify.com/track/7lWzXhCH8Fa0qj4xa0vyqx) | [YE¥O](https://open.spotify.com/artist/7cTXxe0MaqxzG4inknB8Ov) | [HOOKIAO](https://open.spotify.com/album/6OILaDsLhUVPJBXG1YZd6h) | 2:20 |
-| 41 | [Hungry](https://open.spotify.com/track/58p1AX65B7OIVlxahsU8hl) | [Olivia Bec](https://open.spotify.com/artist/4PqejznzweGXKiJZimh7a6) | [Hungry](https://open.spotify.com/album/6zMdYzZ0KUzvCUlOVJvboc) | 3:48 |
-| 42 | [Una Mañana](https://open.spotify.com/track/4svWyFxwaXJYfLlUNqw0uv) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Una Mañana](https://open.spotify.com/album/1viiLY7oeUX6GkIdJ9XxnZ) | 3:41 |
+| 41 | [Una Mañana](https://open.spotify.com/track/4svWyFxwaXJYfLlUNqw0uv) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Una Mañana](https://open.spotify.com/album/1viiLY7oeUX6GkIdJ9XxnZ) | 3:41 |
+| 42 | [Hungry](https://open.spotify.com/track/58p1AX65B7OIVlxahsU8hl) | [Olivia Bec](https://open.spotify.com/artist/4PqejznzweGXKiJZimh7a6) | [Hungry](https://open.spotify.com/album/6zMdYzZ0KUzvCUlOVJvboc) | 3:48 |
 | 43 | [DeGustarte < 3](https://open.spotify.com/track/31DAfrjCKYtuy0G8ppp9RB) | [Melej](https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py) | [DeGustarte < 3](https://open.spotify.com/album/22BZmWrAseNlVAkNnEEqs0) | 2:25 |
 | 44 | [Brinquitos Sanjoaquín](https://open.spotify.com/track/5qGjPXsFI3fvbWWoLH7RrS) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Brinquitos Sanjoaquín](https://open.spotify.com/album/46265H4cwQ05bXuK5mOTzW) | 5:10 |
 | 45 | [Dame de Ese Amor](https://open.spotify.com/track/1ESJXU1v2ZbTQCmPDI9lJT) | [CHICOCHICA](https://open.spotify.com/artist/6vdC8DQQOSdDudNNE2BCVI) | [Dame de Ese Amor](https://open.spotify.com/album/22rra4M4dp3eli8H7Xffgn) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Ya Lo Sé, Pero Igual](https://open.spotify.com/track/6XQfcsz1rjEYWhFKN6JXBR) | [Luciano Altair](https://open.spotify.com/artist/5zYGj1hsIxc6gjoLLTs9IQ) | [Ya Lo Sé, Pero Igual](https://open.spotify.com/album/5yYSt3CC3iidgCucpNRbe0) | 4:23 |
 | 50 | [Sigo Aquí](https://open.spotify.com/track/410ERvIbH3m8mM1zKVgV2Q) | [Intervenciones](https://open.spotify.com/artist/7He11U01wHq1zaIU6GXSKd) | [Las Flores](https://open.spotify.com/album/71dj5Mh0BvHxtiBoXOdivw) | 3:43 |
 
-Snapshot ID: `MCwzMDVjYjY3ZDRiYmU1MjUyZDI4MzU5NTQ4MzllMzJiNzVlNzUzYzBh`
+Snapshot ID: `MCw3OWMwNGU5ZTNlMzZkMmEyZTNkMjZhNWNkMjE5MjM1Y2ZhMTA3ZmE1`

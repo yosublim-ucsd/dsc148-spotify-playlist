@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1743658,
+  "num_followers": 1743795,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTRmOTU0ZTgxNzE2YWY1YjBiZDIxOGU4ZjU2MThiYjFhZGM4MTYy",
+  "snapshot_id": "MCwyOTdkYWQ5MTJjYzI2ZmUzZDNiMTNlNTVlZjBiNzAzOTg1NmI0ZDM4",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 291493,
+      "name": "Vivir Sin Aire",
+      "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 212986,
       "name": "Todav\u00eda No Te Olvido (feat. Carlos Rivera)",
       "url": "https://open.spotify.com/track/1o4NhRBP3RSnK73rxfW4tU"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 291493,
-      "name": "Vivir Sin Aire",
-      "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -507,6 +507,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Rayando El Sol (feat. Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 258937,
+      "name": "Rayando el Sol (feat. Pablo Albor\u00e1n)",
+      "url": "https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Un Mill\u00f3n Como T\u00fa",
         "url": "https://open.spotify.com/album/5r75ptD4oGxvbu9iWUhqCB"
       },
@@ -559,6 +579,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Muero",
+        "url": "https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Muero",
+      "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Empezar Desde Cero",
         "url": "https://open.spotify.com/album/3dFYNMT0LYCPhpw8Q010pJ"
       },
@@ -595,46 +635,6 @@
       "duration_ms": 254773,
       "name": "Inalcanzable",
       "url": "https://open.spotify.com/track/3VlS9yWZ9WkzaePi8oobTj"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Muero",
-        "url": "https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Muero",
-      "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Rayando El Sol (feat. Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 258937,
-      "name": "Rayando el Sol (feat. Pablo Albor\u00e1n)",
-      "url": "https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Rabia",
+        "url": "https://open.spotify.com/album/2LKP2fXNzRdyPF3n5vsvOf"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Rabia",
+      "url": "https://open.spotify.com/track/2QwS2wHRPuSBeN9XGfQ6hD"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/05ZaKm4eYlGXsesyzD1fZK"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 224013,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/6WSAPEkvEfcEUgSTAo1D3S"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Rabia",
-        "url": "https://open.spotify.com/album/2LKP2fXNzRdyPF3n5vsvOf"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Rabia",
-      "url": "https://open.spotify.com/track/2QwS2wHRPuSBeN9XGfQ6hD"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Amar Sin Mentiras",
-        "url": "https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 305346,
-      "name": "Ahora Quien",
-      "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Por Tu Bien",
         "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 233026,
       "name": "Por Tu Bien",
       "url": "https://open.spotify.com/track/5znXf6RfeOEQhD5qkupv8C"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Amar Sin Mentiras",
+        "url": "https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 305346,
+      "name": "Ahora Quien",
+      "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/4iCm5y1XREMD9eIq0rIbct"
-      },
-      "artists": [
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 236485,
-      "name": "Suficiente",
-      "url": "https://open.spotify.com/track/3FVnwugdti1mSy5xjpXCaz"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Te Necesito (Live Acoustic)",
         "url": "https://open.spotify.com/album/2N2uXaMFPE1ijwSgJADheH"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 195929,
       "name": "Te Necesito (Live Acoustic)",
       "url": "https://open.spotify.com/track/5WKZKW5LNPUYI8X5AZAxau"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/4iCm5y1XREMD9eIq0rIbct"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 236485,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/3FVnwugdti1mSy5xjpXCaz"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Amarte y Perderte",
-        "url": "https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL"
+        "name": "Nada de Nada",
+        "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
       },
       "artists": [
         {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
         }
       ],
-      "duration_ms": 208947,
-      "name": "Amarte y Perderte",
-      "url": "https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d"
+      "duration_ms": 217500,
+      "name": "Nada de Nada",
+      "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
     }
   ],
   "unique_name": "Sin Ti",

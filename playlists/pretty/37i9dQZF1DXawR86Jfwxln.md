@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 
 > Revisit the year in Folk & Americana with the best songs released in 2022\. Cover: Madison Cunningham \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,405 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,406 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 | 74 | [The Spur](https://open.spotify.com/track/1Wa3kpcwsBdkuQ5XMWjnP2) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [The Spur](https://open.spotify.com/album/17JVuhlvgwEEk5fv3ISJdQ) | 3:52 |
 | 75 | [te quiero tanto](https://open.spotify.com/track/04aBuWoZeHYJeDDTWYSgso) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 5:25 |
 
-Snapshot ID: `MCw5NzhiOTBhMjRlNmU2YjcxYzBmYjFlODVkMmQ5YWRhMmY3NDc1OWFl`
+Snapshot ID: `MCxmYzZiNTUzMTA0ZmU2YjgxMjRhNmQ5YTA2MWE0OTIyNTM3MTJjMWRh`

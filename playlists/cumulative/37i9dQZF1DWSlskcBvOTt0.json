@@ -5183,6 +5183,28 @@
     },
     {
       "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/03PlGHrwDyR7tqCln65Kqq"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Baron (FR)",
+          "url": "https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222080,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/7MJY6QjGV2Rf4LbGt4hxEV"
+    },
+    {
+      "album": {
         "name": "Lion Rock",
         "url": "https://open.spotify.com/album/5zwAJDzfCHfPFtM5EH8zyk"
       },
@@ -7822,7 +7844,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 525619,
       "name": "Regina Blue",
       "url": "https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts"

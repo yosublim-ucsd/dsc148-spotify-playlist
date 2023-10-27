@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 501428,
+  "num_followers": 501485,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGNkYzhlM2YzZWU1YjlkNTI2MmZkYWI2ZmUyZGE4MjNiYjUxMTBm",
+  "snapshot_id": "MCxiNTZjYTU1YTNlOGM3ZGM1ZWZjNjI3ZmY5YWU5MTMzZWU2YzQ0MDk0",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "These Streets",
-        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Last Request",
-      "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Freya Ridings",
         "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 225853,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "These Streets",
+        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Last Request",
+      "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Wherever You Will Go",
         "url": "https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 197577,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1793,22 +1793,6 @@
       "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
     },
     {
-      "added_at": "2023-04-21 11:59:42",
-      "album": {
-        "name": "Talk Luv",
-        "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 164468,
-      "name": "Talk Luv",
-      "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Only Ticket Home",
@@ -1823,6 +1807,22 @@
       "duration_ms": 247842,
       "name": "Always",
       "url": "https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw"
+    },
+    {
+      "added_at": "2023-04-21 11:59:42",
+      "album": {
+        "name": "Talk Luv",
+        "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 164468,
+      "name": "Talk Luv",
+      "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 234384,
-      "name": "Foreigner",
-      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Ayra Starr",
         "url": "https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 155150,
       "name": "Memories",
       "url": "https://open.spotify.com/track/1PDAEpGPDZ0QGWNt3C5Dck"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 234384,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 190104,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "May I Have This Dance",
         "url": "https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 211316,
       "name": "May I Have This Dance",
       "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 190104,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
     },
     {
       "added_at": "2023-02-13 10:37:00",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Rebekah - EP",
-        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
-      },
-      "artists": [
-        {
-          "name": "Jack Vallier",
-          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
-        }
-      ],
-      "duration_ms": 179783,
-      "name": "Change Your Mind - Stripped",
-      "url": "https://open.spotify.com/track/7Iv4hZIAi4np1d8VBwoNqA"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Eyes on You",
         "url": "https://open.spotify.com/album/1EyIaOsVGxxr2LKxlxCH9Q"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 168080,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/5ewnuTcT10UI7zOx3OWRmQ"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Rebekah - EP",
+        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
+      },
+      "artists": [
+        {
+          "name": "Jack Vallier",
+          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
+        }
+      ],
+      "duration_ms": 179783,
+      "name": "Change Your Mind - Stripped",
+      "url": "https://open.spotify.com/track/7Iv4hZIAi4np1d8VBwoNqA"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Rebekah - EP",
-        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
-      },
-      "artists": [
-        {
-          "name": "Jack Vallier",
-          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
-        }
-      ],
-      "duration_ms": 200747,
-      "name": "Rebekah",
-      "url": "https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Beautiful Lies",
         "url": "https://open.spotify.com/album/2MmBJ72Yh8qfH8tIWEkhID"
       },
@@ -2423,22 +2407,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Paupers Field",
-        "url": "https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1"
-      },
-      "artists": [
-        {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "If the Creek Don't Rise",
-      "url": "https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Baby Teeth",
         "url": "https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht"
       },
@@ -2451,6 +2419,38 @@
       "duration_ms": 211826,
       "name": "Joshua",
       "url": "https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Rebekah - EP",
+        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
+      },
+      "artists": [
+        {
+          "name": "Jack Vallier",
+          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
+        }
+      ],
+      "duration_ms": 200747,
+      "name": "Rebekah",
+      "url": "https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Paupers Field",
+        "url": "https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1"
+      },
+      "artists": [
+        {
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "If the Creek Don't Rise",
+      "url": "https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS"
     },
     {
       "added_at": "2023-02-10 11:00:00",

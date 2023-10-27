@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 155597,
       "name": "2 MANY MEN (feat. Shely210)",
       "url": "https://open.spotify.com/track/0BNUspVwO9YxkXJBrXhR5L"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 131071,
       "name": "777",
       "url": "https://open.spotify.com/track/7MZ5uD8Ak34XOt6cgzQGM3"
@@ -290,6 +290,24 @@
       "duration_ms": 181112,
       "name": "96 Bulls",
       "url": "https://open.spotify.com/track/7j2RJA45G8l0ZcDK2bOJJL"
+    },
+    {
+      "album": {
+        "name": "A Hoochie Tale",
+        "url": "https://open.spotify.com/album/45nkru8SAn2PqXy1Y6uWtq"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Vendetta",
+          "url": "https://open.spotify.com/artist/0qYhGiA7BARkaoJbklqLG7"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166683,
+      "name": "A Hoochie Tale",
+      "url": "https://open.spotify.com/track/4WRPcEvn4VoajAwr0WmQmw"
     },
     {
       "album": {
@@ -962,7 +980,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 134700,
       "name": "Besties",
       "url": "https://open.spotify.com/track/4xlq4QkyZIaaZW1Mep6RJS"
@@ -1142,7 +1160,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 137142,
       "name": "BigBag",
       "url": "https://open.spotify.com/track/0RBxEXzaKvC3ZQIQV5WftZ"
@@ -1684,6 +1702,28 @@
       "duration_ms": 165600,
       "name": "Burn Dat",
       "url": "https://open.spotify.com/track/6BImby3pdYdP0BnieFxBLt"
+    },
+    {
+      "album": {
+        "name": "Burst",
+        "url": "https://open.spotify.com/album/5fcFn01621UFEQNauNchfh"
+      },
+      "artists": [
+        {
+          "name": "Tyr\u00f8ne",
+          "url": "https://open.spotify.com/artist/3XiTKd8B9JR5nunJZV5nK0"
+        },
+        {
+          "name": "Big Skeez",
+          "url": "https://open.spotify.com/artist/5pSy3Q1Uj87Z21phGKFxEj"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155962,
+      "name": "Burst",
+      "url": "https://open.spotify.com/track/5EtEvqQzoBjbgBjD9g0X6T"
     },
     {
       "album": {
@@ -2883,6 +2923,28 @@
     },
     {
       "album": {
+        "name": "Drip (feat. SISO)",
+        "url": "https://open.spotify.com/album/1Wer7qtMigJSaAoPWpemsC"
+      },
+      "artists": [
+        {
+          "name": "Lawd Lance",
+          "url": "https://open.spotify.com/artist/2PUgqVHa3xxbtHd8MRQCxb"
+        },
+        {
+          "name": "SISO",
+          "url": "https://open.spotify.com/artist/5vHdYS2fmsbczjuuKUrk3I"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204785,
+      "name": "Drip (feat. SISO)",
+      "url": "https://open.spotify.com/track/2eSQB2VwcZ7yDeeesgOVOr"
+    },
+    {
+      "album": {
         "name": "DRIV\u00cb B\u0178",
         "url": "https://open.spotify.com/album/2prLJE0G0K4lmeDTVxuLcV"
       },
@@ -3080,8 +3142,8 @@
       },
       "artists": [
         {
-          "name": "KingTheFreeSoul",
-          "url": "https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq"
+          "name": "King Roman",
+          "url": "https://open.spotify.com/artist/73WOqCWqhy3BhdMzu2rrxn"
         }
       ],
       "date_added": "2023-08-24",
@@ -3232,7 +3294,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 120000,
       "name": "Essence",
       "url": "https://open.spotify.com/track/3vCOvH3YuzL6OpoO2Nzuti"
@@ -3818,6 +3880,24 @@
       "duration_ms": 180500,
       "name": "Game Day Ritual",
       "url": "https://open.spotify.com/track/4LWjiqxih81T0MwcNwZMUZ"
+    },
+    {
+      "album": {
+        "name": "Gammon",
+        "url": "https://open.spotify.com/album/5EaXgTjOzfEw2aY3ONBDuD"
+      },
+      "artists": [
+        {
+          "name": "J-MILLA",
+          "url": "https://open.spotify.com/artist/1sQJVmNoYaMV05kdys6jy0"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148757,
+      "name": "Gammon",
+      "url": "https://open.spotify.com/track/7klZOiqWVvF6G15AkvJFed"
     },
     {
       "album": {
@@ -4610,7 +4690,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 203277,
       "name": "Hold Yah",
       "url": "https://open.spotify.com/track/24AlYmObaxnokyprUZFfRl"
@@ -5212,7 +5292,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 156000,
       "name": "infinite money glitch",
       "url": "https://open.spotify.com/track/5VnxkeWulq8p3DYzrvSoVP"
@@ -5626,7 +5706,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 102000,
       "name": "Led Zeppelin",
       "url": "https://open.spotify.com/track/5fVwIgwwa2f25OMq4luuGr"
@@ -6071,6 +6151,24 @@
     },
     {
       "album": {
+        "name": "LOST SOULS",
+        "url": "https://open.spotify.com/album/589yXgWUhVd5EvKlIDaBx1"
+      },
+      "artists": [
+        {
+          "name": "Kid Rey",
+          "url": "https://open.spotify.com/artist/7o3qyJI8ODvWje1f5U52jp"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113385,
+      "name": "LOST SOULS",
+      "url": "https://open.spotify.com/track/0HTn7A9rEj6i7qRyCMrJLo"
+    },
+    {
+      "album": {
         "name": "Loui & Trap",
         "url": "https://open.spotify.com/album/4Oc00JjKH0zxbqIz4hJA7R"
       },
@@ -6082,7 +6180,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 165905,
       "name": "Loui & Trap",
       "url": "https://open.spotify.com/track/48tSd85jnXAcvs9XAwIl4S"
@@ -6450,7 +6548,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 149052,
       "name": "Me & My Bro",
       "url": "https://open.spotify.com/track/2rHq0RPEMossYbAB0GiB8H"
@@ -6582,7 +6680,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 124025,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/6VruexMGmO8zonX9LIU4cK"
@@ -7590,7 +7688,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 165416,
       "name": "On Me",
       "url": "https://open.spotify.com/track/0UEFangrAqa2TpQI6VIK3I"
@@ -8127,6 +8225,24 @@
     },
     {
       "album": {
+        "name": "Please Explain",
+        "url": "https://open.spotify.com/album/2B3x1q4E17aIDbATRywkLu"
+      },
+      "artists": [
+        {
+          "name": "Brothers",
+          "url": "https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327887,
+      "name": "Please Explain",
+      "url": "https://open.spotify.com/track/5w9lYiAZOOG2y1EfMHOXb3"
+    },
+    {
+      "album": {
         "name": "plug call",
         "url": "https://open.spotify.com/album/6mUqZUlaAaHlWEfdm39k3j"
       },
@@ -8506,6 +8622,24 @@
       "duration_ms": 207428,
       "name": "Quarantine",
       "url": "https://open.spotify.com/track/6JekNdh8yb0jig33CgUnxN"
+    },
+    {
+      "album": {
+        "name": "Queenstown",
+        "url": "https://open.spotify.com/album/2oLD4argcWCIATfbaTBb3n"
+      },
+      "artists": [
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Queenstown",
+      "url": "https://open.spotify.com/track/6L0MbYJhGk4XoEaZwWGVVw"
     },
     {
       "album": {
@@ -9454,7 +9588,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 127880,
       "name": "Silent Assassin",
       "url": "https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0"
@@ -9708,7 +9842,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 175160,
       "name": "Spain",
       "url": "https://open.spotify.com/track/58BxlRQ1k8MPTEVFppp4Hk"
@@ -9988,7 +10122,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 152561,
       "name": "Sway",
       "url": "https://open.spotify.com/track/4b6PF6INUHpeoYtEQTWOxD"
@@ -11408,7 +11542,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 171037,
       "name": "We All Gonna Eat",
       "url": "https://open.spotify.com/track/2dkXrcFhSIHkA6pJ1GISLc"
@@ -11946,7 +12080,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 135652,
       "name": "YAPPA YAPPA",
       "url": "https://open.spotify.com/track/78SgARD9dvoL6P3E3WSXWA"

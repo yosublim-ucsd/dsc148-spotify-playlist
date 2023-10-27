@@ -4689,6 +4689,28 @@
     },
     {
       "album": {
+        "name": "Blonde Chaya",
+        "url": "https://open.spotify.com/album/2w8tcAjEybwT3I1Rzaddi2"
+      },
+      "artists": [
+        {
+          "name": "Amaru",
+          "url": "https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz"
+        },
+        {
+          "name": "Gringo Bamba",
+          "url": "https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209186,
+      "name": "Blonde Chaya",
+      "url": "https://open.spotify.com/track/2MSEDiJsSYB4fh03mxZGIz"
+    },
+    {
+      "album": {
         "name": "Blonde Chaya (Sped up)",
         "url": "https://open.spotify.com/album/1AEkNrupHvnPkit7mBJUKY"
       },
@@ -9088,7 +9110,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 160119,
       "name": "Du liebst mich nicht",
       "url": "https://open.spotify.com/track/1BIlJwEG65zHLto667VpnH"
@@ -11624,7 +11646,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 146086,
       "name": "Friesenjung",
       "url": "https://open.spotify.com/track/7b8Z1GU2plJy3aASZTiolF"
@@ -30838,7 +30860,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -33849,6 +33871,24 @@
     },
     {
       "album": {
+        "name": "Wenn du l\u00e4chelst",
+        "url": "https://open.spotify.com/album/4I8gxBLb7kYZpHI2ScIXvu"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123887,
+      "name": "Wenn du l\u00e4chelst",
+      "url": "https://open.spotify.com/track/47mweMIEiVG1VTURjooVdU"
+    },
+    {
+      "album": {
         "name": "Zukunft",
         "url": "https://open.spotify.com/album/5ZC4ojBjk7xtoB2GXGbJuH"
       },
@@ -34138,7 +34178,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

@@ -4,7 +4,7 @@
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-123 songs - 6 hr 51 min
+124 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [It's the Most Wonderful Time of the Year \- Spotify Singles Holiday](https://open.spotify.com/track/7878uDHPFOucHPBEZNqvdO) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [It's the Most Wonderful Time of the Year \(Spotify Singles Holiday\)](https://open.spotify.com/album/4BuhsOIhCtbXzuDzJeyH1e) | 3:25 | 2021-12-23 | 2022-11-12 |
 | [I’ll Be Home For Christmas \(feat\. Ella Jane\)](https://open.spotify.com/track/6i8DfgC9GbM4uj414QBlve) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN), [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [I’ll Be Home For Christmas \(feat\. Ella Jane\)](https://open.spotify.com/album/12d69q94iPjV8fJTZqvvEd) | 3:14 | 2022-11-12 |  |
 | [Jingle Bells](https://open.spotify.com/track/0zOCEVRQNntm6lw97oJRt5) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Jingle Bells](https://open.spotify.com/album/3Ynv2EAtbbI3w7FWDMmN5N) | 3:17 | 2021-12-23 | 2022-07-29 |
-| [Jingle Bells](https://open.spotify.com/track/5b7NpZvS8ueO0B3KNtB0d8) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Jingle Bells](https://open.spotify.com/album/6HyoKXjrQ2gPomfPd5kq1s) | 3:17 | 2021-12-23 |  |
+| [Jingle Bells](https://open.spotify.com/track/5b7NpZvS8ueO0B3KNtB0d8) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Jingle Bells](https://open.spotify.com/album/6HyoKXjrQ2gPomfPd5kq1s) | 3:17 | 2021-12-23 | 2023-10-27 |
+| [Jingle Bells](https://open.spotify.com/track/4KVGhE7rSozVpd6thV94c7) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Christmas Mistletunes](https://open.spotify.com/album/7hxw2kfP8PliEPbKzaDvoG) | 3:17 | 2022-12-05 |  |
 | [Joy](https://open.spotify.com/track/1mH6oU3m70PZmqe9lnrbmV) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Hell of a Holiday](https://open.spotify.com/album/0xsa9tFddApdX5wlHtKROP) | 2:56 | 2021-12-23 |  |
 | [Joy To The World](https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 4:20 | 2021-12-23 |  |
 | [Joy To The World](https://open.spotify.com/track/2wIcC00knzyI889QUMQy4D) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/26kXeKHRO3RcNbQ5Onc4QQ) | 4:20 | 2021-12-23 | 2022-07-29 |

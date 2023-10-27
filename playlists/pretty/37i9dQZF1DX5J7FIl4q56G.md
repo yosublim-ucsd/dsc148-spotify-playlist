@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: The Callous Daoboys
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,155 likes - 62 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,238 likes - 62 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 61 | [The Horde](https://open.spotify.com/track/3nVDyoqaBuQ14AsAVvctCt) | [Wratheon](https://open.spotify.com/artist/2gHr1QhqdYhG5xikeSjHXm) | [Becoming Nil](https://open.spotify.com/album/1JPits7XjUaEaymRI918IE) | 2:49 |
 | 62 | [Lost in Chaos](https://open.spotify.com/track/6MZO58CQWrw6C6XjRM50U2) | [FHORCE](https://open.spotify.com/artist/1LN7EN8sPFrm2tMtRtdYTr) | [Lost in Chaos](https://open.spotify.com/album/4WVDlcOJpN6XkdQHmwSVZ5) | 3:51 |
 
-Snapshot ID: `MCwxY2M2MzkyYzEwODhhNjI3Yjg3YWFmY2Q0NmViOWM4MGQxYzhmN2Q0`
+Snapshot ID: `MCw3OTRmN2ZiZTQwODdmMTE5ZmU2NDdkMGU1ZDdlZGYwNjU4ODZjMjk4`

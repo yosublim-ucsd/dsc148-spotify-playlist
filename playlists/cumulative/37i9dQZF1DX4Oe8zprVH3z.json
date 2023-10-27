@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 166689,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/5l41CkujFnEtsOy9SpEn2K"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 184000,
       "name": "Reflecting Moon (with Rain)",
       "url": "https://open.spotify.com/track/6lPMyxkZjITULwBBYQ9xM7"
@@ -1532,6 +1532,24 @@
       "duration_ms": 184179,
       "name": "Stillness",
       "url": "https://open.spotify.com/track/08Gpe8g0L8fI7gkLipbusB"
+    },
+    {
+      "album": {
+        "name": "Sunset By The Lake",
+        "url": "https://open.spotify.com/album/3kuF2vn6OWgCmjHvO8FnSe"
+      },
+      "artists": [
+        {
+          "name": "Chris Lukas",
+          "url": "https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Sunset By The Lake",
+      "url": "https://open.spotify.com/track/5vYNTH3EV54AizNS1DyrAh"
     },
     {
       "album": {

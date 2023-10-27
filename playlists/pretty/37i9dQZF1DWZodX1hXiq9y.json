@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 79099,
+  "num_followers": 79243,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDA0NDAyNDQ3NDJiYzlmODVhNTEzZjNkNGVkMDBlNzQ3ZTM2MDZh",
+  "snapshot_id": "MCwyNDBiNWJmZmU3YTg2ZTU0ZTM0NTY5M2MwOGQ2YjI3YTE4ZTMyMDBk",
   "tracks": [
     {
       "added_at": "2023-09-01 07:42:13",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 310666,
-      "name": "Where Are You - Remastered",
-      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Used To Be Duke",
         "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 200626,
       "name": "Warm Valley",
       "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 310666,
+      "name": "Where Are You - Remastered",
+      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -315,26 +315,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        },
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 302666,
-      "name": "Rosita",
-      "url": "https://open.spotify.com/track/3tzOXO0tEqbI4SCrSDhZ4J"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "A Love Supreme",
         "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 251346,
       "name": "Nobody Else But Me",
       "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 302666,
+      "name": "Rosita",
+      "url": "https://open.spotify.com/track/3tzOXO0tEqbI4SCrSDhZ4J"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -431,26 +431,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Stan Getz & Bill Evans",
-        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 304426,
-      "name": "Melinda",
-      "url": "https://open.spotify.com/track/3sXEl50soxZQDJD4LCX6Xq"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Used To Be Duke",
         "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 407600,
       "name": "St. Thomas",
       "url": "https://open.spotify.com/track/05LNBtMuc26HSAHh7C6iG8"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Stan Getz & Bill Evans",
+        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 304426,
+      "name": "Melinda",
+      "url": "https://open.spotify.com/track/3sXEl50soxZQDJD4LCX6Xq"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Soulville",
-        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
-      },
-      "artists": [
-        {
-          "name": "The Ben Webster Quintet",
-          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
-        }
-      ],
-      "duration_ms": 508933,
-      "name": "Lover Come Back To Me",
-      "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Inner Urge (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 442200,
       "name": "You Know I Care - Rudy Van Gelder Edition / 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/7eHpseL2CAKKtZmM56SiGV"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Soulville",
+        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
+      },
+      "artists": [
+        {
+          "name": "The Ben Webster Quintet",
+          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
+        }
+      ],
+      "duration_ms": 508933,
+      "name": "Lover Come Back To Me",
+      "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "The Complete Savoy & Dial Master Takes",
+        "url": "https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Ornithology",
+      "url": "https://open.spotify.com/track/7s1fLxwhmKa6VDNqzJzOsE"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "Third Season",
         "url": "https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 614533,
       "name": "It Had To Be You - Live At The Half Note, NYC, 1959",
       "url": "https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "The Complete Savoy & Dial Master Takes",
-        "url": "https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Ornithology",
-      "url": "https://open.spotify.com/track/7s1fLxwhmKa6VDNqzJzOsE"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Pepper Steak",
-      "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Triology",
         "url": "https://open.spotify.com/album/3hbxsG0MNq1k5SblPQ2CJc"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 416653,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/5utnd69OazUzLkC6lQnKN2"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Pepper Steak",
+      "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith",
+        "url": "https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp"
+      },
+      "artists": [
+        {
+          "name": "Roland Kirk Quartet",
+          "url": "https://open.spotify.com/artist/0SCzoP5VlkILozXUjaf3Gk"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/4T43EB5BkiOq3XpYB3VPts"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "Twio",
         "url": "https://open.spotify.com/album/2ekSSgd5FCCjgkMwT3qVXb"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 367773,
       "name": "On the Trail",
       "url": "https://open.spotify.com/track/5MKKKVSZZalOWxwTfIDxkO"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith",
-        "url": "https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp"
-      },
-      "artists": [
-        {
-          "name": "Roland Kirk Quartet",
-          "url": "https://open.spotify.com/artist/0SCzoP5VlkILozXUjaf3Gk"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Once In A While",
-      "url": "https://open.spotify.com/track/4T43EB5BkiOq3XpYB3VPts"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "The Cool Sounds Of Pepper Adams",
-        "url": "https://open.spotify.com/album/7pTUQRvzI4d9BDledmEmPF"
-      },
-      "artists": [
-        {
-          "name": "Pepper Adams",
-          "url": "https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR"
-        }
-      ],
-      "duration_ms": 617173,
-      "name": "Bloos, Booze, Blues",
-      "url": "https://open.spotify.com/track/73hj1t2tGYe5uZS8XHUiqC"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Analog Man",
         "url": "https://open.spotify.com/album/1CO7OMJS4alGJG1gKOnKlP"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 605013,
       "name": "Joshua",
       "url": "https://open.spotify.com/track/1F8VmUxEtg73rrugqyMUqU"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "The Cool Sounds Of Pepper Adams",
+        "url": "https://open.spotify.com/album/7pTUQRvzI4d9BDledmEmPF"
+      },
+      "artists": [
+        {
+          "name": "Pepper Adams",
+          "url": "https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR"
+        }
+      ],
+      "duration_ms": 617173,
+      "name": "Bloos, Booze, Blues",
+      "url": "https://open.spotify.com/track/73hj1t2tGYe5uZS8XHUiqC"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Rights Of Swing (Remastered)",
-        "url": "https://open.spotify.com/album/3o9hV5EHfdTas5OgNCJ56V"
-      },
-      "artists": [
-        {
-          "name": "Phil Woods",
-          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
-        }
-      ],
-      "duration_ms": 397306,
-      "name": "Prelude And Part 1 - Remastered",
-      "url": "https://open.spotify.com/track/2BaEvkAEiyN7IkPcgkyZZr"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Four For Trane",
         "url": "https://open.spotify.com/album/2bZJE5GJyEH2l60yMvbC4n"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 434000,
       "name": "Cousin Mary",
       "url": "https://open.spotify.com/track/6xXrlNoRO2huakbn56b88W"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Rights Of Swing (Remastered)",
+        "url": "https://open.spotify.com/album/3o9hV5EHfdTas5OgNCJ56V"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+        }
+      ],
+      "duration_ms": 397306,
+      "name": "Prelude And Part 1 - Remastered",
+      "url": "https://open.spotify.com/track/2BaEvkAEiyN7IkPcgkyZZr"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "The Congregation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 449293,
-      "name": "I Remember You - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Parker, Charlie: Ornithology (1945-1947)",
         "url": "https://open.spotify.com/album/3KIQyUFgbHKf8WjBhwYCaK"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 176040,
       "name": "Scrapple From The Apple",
       "url": "https://open.spotify.com/track/4pHMQ2nhXitWc4NpvfnzH9"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "The Congregation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 449293,
+      "name": "I Remember You - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju"
     },
     {
       "added_at": "2023-09-01 07:42:13",

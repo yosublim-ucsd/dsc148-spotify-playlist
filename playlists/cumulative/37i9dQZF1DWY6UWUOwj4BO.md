@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment en version acoustique.
 
-79 songs - 4 hr 12 min
+80 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Hold Me Closer \- Acoustic](https://open.spotify.com/track/5kXZv2JwuZ0qgqNalgwvJt) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer \(Acoustic\)](https://open.spotify.com/album/1vN546nWNaesS0pAAL017l) | 3:22 | 2022-12-21 |  |
 | [How Do I Say Goodbye \- Acoustic](https://open.spotify.com/track/7fAoDr6naastKUtqo75SNm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/1F0usgSkjLQNKW7wRsNvRY) | 2:44 | 2022-12-21 |  |
 | [How Do I Say Goodbye \- Guitar Acoustic](https://open.spotify.com/track/14gvk01eM5IRCg16zgKIqN) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3zSsXVUo30ceghixa71luU) | 2:43 | 2022-12-21 | 2023-02-22 |
-| [Hurricane \- Acoustic Version](https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane \(Acoustic Version\)](https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy) | 2:50 | 2022-12-21 |  |
+| [Hurricane \- Acoustic Version](https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane \(Acoustic Version\)](https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy) | 2:50 | 2022-12-21 | 2023-10-27 |
 | [Hypnotized \- Acoustic](https://open.spotify.com/track/47iizIcROe1dhW3ii9cvTf) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Hypnotized \(Acoustic\)](https://open.spotify.com/album/31sIFQ5fOYUQZ62LpNmQzY) | 3:31 | 2022-12-21 |  |
 | [I Ain’t Worried \- Acoustic](https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \- Acoustic \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG) | 2:29 | 2022-12-21 |  |
 | [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 | 2022-12-21 | 2023-03-10 |
@@ -77,6 +77,7 @@
 | [Shivers \- Acoustic Version](https://open.spotify.com/track/7BiRw4sgXQMyNx8nPltnQr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers \(Acoustic Version\)](https://open.spotify.com/album/1CM3OBIxS9yzSiIAOW0gIF) | 3:26 | 2022-12-21 | 2023-06-03 |
 | [SNAP \- Acoustic](https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 3:28 | 2023-06-16 |  |
 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 | 2022-12-21 |  |
+| [Strangers \- sad acoustic version](https://open.spotify.com/track/3FdmZW1QbdYwV1Iqomtbrt) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(sad acoustic version\)](https://open.spotify.com/album/5IbJJqixgNWbwpipRhOagt) | 3:04 | 2023-10-26 |  |
 | [Sweet but Psycho \- Acoustic](https://open.spotify.com/track/10WVEHOf1FZf5XgK6dUWvN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Sweet but Psycho \(Acoustic\)](https://open.spotify.com/album/2oKx85K5SRVksSS9aN1Lon) | 2:59 | 2022-12-21 |  |
 | [Tattoo \- Acoustic](https://open.spotify.com/track/5V2wCtKTQEQlWr0igELU4x) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo \(Acoustic\)](https://open.spotify.com/album/6EtQsunaDhISsreHCSplVY) | 3:34 | 2023-05-14 |  |
 | [Te Amo \- DJ Youcef Remix – Version Acoustique](https://open.spotify.com/track/5DiKjTMmJfdIROpZXAzLwY) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Te Amo \(DJ Youcef Remix – Version Acoustique\)](https://open.spotify.com/album/4we58LKZyy9dtDRIJXeUJs) | 4:18 | 2022-12-21 | 2023-06-03 |

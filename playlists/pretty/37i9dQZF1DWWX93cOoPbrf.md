@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Herencia de Grandes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,164 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,332 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 53 | [M.L.P](https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [M.L.P](https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1) | 3:31 |
 | 54 | [VVS](https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:42 |
 | 55 | [Cuerno Mio](https://open.spotify.com/track/1kiwk2pQBVQNIbx7Hf3y8Z) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Cuerno Mio](https://open.spotify.com/album/7JsxIQrW9Wyvnw2hzmEiqY) | 2:47 |
-| 56 | [Belicamente De Acción](https://open.spotify.com/track/5fyWAm1MYH2zZ9BGR5iPFp) | [La Autorización](https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ), [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Belicamente De Acción](https://open.spotify.com/album/2zd2JBVZaaXjMlMVdfhhgu) | 2:55 |
+| 56 | [Belicamente De Accion](https://open.spotify.com/track/59R4ci9k2CZDWRbhjjfTmw) | [La Autorización](https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ), [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Belicamente De Accion](https://open.spotify.com/album/51Cw0W3OkWD4RAiqfIkG97) | 2:55 |
 | 57 | [Que las Cuartitos No Falten](https://open.spotify.com/track/5ZFk83GnBDgpzKpXGPllCg) | [La Bertiniza De Culiacan](https://open.spotify.com/artist/7ky1WrqzDILf6obnwFMc8J) | [Me Estoy Quemando por Tomar](https://open.spotify.com/album/3UytMWt8nhi6WjZZXInhTI) | 2:55 |
 | 58 | [Punto y Aparte](https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0) | 2:38 |
 | 59 | [Así Fue](https://open.spotify.com/track/2wuwB4O4Lq3RSDEbWPcFgJ) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Así Fue](https://open.spotify.com/album/456gDR9yVbr3yYwv2dXUlb) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Yo Fui El 4 De Los Antrax](https://open.spotify.com/track/6yWZvj6xQW6axcJtns5Cba) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Yo Fui El 4 De Los Antrax](https://open.spotify.com/album/7ygPV1gBmEI8nJinZpQ7Cn) | 3:09 |
 | 75 | [Confesiones Del RR \- En Vivo](https://open.spotify.com/track/4sNBqV3HWzYtVgNo3BmYBN) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW), [El León Y Su Gente](https://open.spotify.com/artist/4q9U0JuiWGhcZEFREIGCVH), [Máxima Ventaja](https://open.spotify.com/artist/5I8HriBeRyNsjTLSHsok0N) | [Confesiones Del RR \(En Vivo\)](https://open.spotify.com/album/4hXmypcqmI3CtGa2WVAkYr) | 3:39 |
 
-Snapshot ID: `MCw1YzkzZjNmM2U2NWU0YjY5ZjZmMDFmMzE2MDc4ODBjZTVlNDYzMjhk`
+Snapshot ID: `MCw4M2QzNDgzZWY1ZGIyMzc2YzlmNGQyYzMzMzZlMmEzMDQ1MWM2MDJj`

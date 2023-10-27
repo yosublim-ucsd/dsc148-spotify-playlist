@@ -768,6 +768,24 @@
     {
       "album": {
         "name": "For The Night (Baltimore Club Mix)",
+        "url": "https://open.spotify.com/album/5ufzuclWKdvN31KhFKBVvX"
+      },
+      "artists": [
+        {
+          "name": "Bandingo YGNE",
+          "url": "https://open.spotify.com/artist/4WChwgMrLJSFKqAbfYA4Es"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124708,
+      "name": "For The Night - Baltimore Club Mix",
+      "url": "https://open.spotify.com/track/187SG6g9RppGMsUhuhJZom"
+    },
+    {
+      "album": {
+        "name": "For The Night (Baltimore Club Mix)",
         "url": "https://open.spotify.com/album/2ovGhu12Tw1KGGKmu8p1ee"
       },
       "artists": [
@@ -778,7 +796,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 124708,
       "name": "For The Night - Baltimore Club Mix",
       "url": "https://open.spotify.com/track/51R4WX6DStgRHLbUAolVbC"

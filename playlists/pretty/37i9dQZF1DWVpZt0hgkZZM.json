@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 24148,
+  "num_followers": 24184,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDE3YjA1ZmNhM2E5MzFmZGIyN2JiNWZiM2I1YTkxNjkwMzJkMWI0",
+  "snapshot_id": "MCwxNmI4ZDYxZTk2MWVhN2IyMDA2ODc3MGM1NDJmYTdhMmVjNTBjZmM0",
   "tracks": [
     {
       "added_at": "2021-12-16 22:41:17",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 266762,
-      "name": "El Jardinero",
-      "url": "https://open.spotify.com/track/5O4a5RCYTJ452nsCuiPwtD"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "17 \u00c9xitos",
         "url": "https://open.spotify.com/album/3TWu5whCfUMJbbzaNXqved"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 182715,
       "name": "Cumbia del Amor",
       "url": "https://open.spotify.com/track/2MazrWNhGfpvWnFcgGTyQZ"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 266762,
+      "name": "El Jardinero",
+      "url": "https://open.spotify.com/track/5O4a5RCYTJ452nsCuiPwtD"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -823,18 +823,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Y Como Se Mata El Gusano?",
-        "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
+        "name": "Discos de Oro: Pastor L\u00f3pez y Su Combo Volume 3",
+        "url": "https://open.spotify.com/album/4f99jZmWiZEGRTlmBFfNgk"
       },
       "artists": [
         {
-          "name": "Miguel Moly",
-          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
+          "name": "Pastor Lopez Y Su Combo",
+          "url": "https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde"
         }
       ],
-      "duration_ms": 196040,
-      "name": "Junto A Tu Corazon",
-      "url": "https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx"
+      "duration_ms": 212293,
+      "name": "Las Cale\u00f1as",
+      "url": "https://open.spotify.com/track/3ti0XBQOyhgSRI4Ulqj5As"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -855,18 +855,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Discos de Oro: Pastor L\u00f3pez y Su Combo Volume 3",
-        "url": "https://open.spotify.com/album/4f99jZmWiZEGRTlmBFfNgk"
+        "name": "Y Como Se Mata El Gusano?",
+        "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
       },
       "artists": [
         {
-          "name": "Pastor Lopez Y Su Combo",
-          "url": "https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde"
+          "name": "Miguel Moly",
+          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
         }
       ],
-      "duration_ms": 212293,
-      "name": "Las Cale\u00f1as",
-      "url": "https://open.spotify.com/track/3ti0XBQOyhgSRI4Ulqj5As"
+      "duration_ms": 196040,
+      "name": "Junto A Tu Corazon",
+      "url": "https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Los Dos Inseparables",
-        "url": "https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Gutierrez",
-          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
-        },
-        {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
-        }
-      ],
-      "duration_ms": 176533,
-      "name": "Anhelos",
-      "url": "https://open.spotify.com/track/0WkSkuHCOF5sIRfhmYGs0J"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Nelson Henr\u00edquez vs. Pastor L\u00f3pez",
         "url": "https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 248373,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Los Dos Inseparables",
+        "url": "https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gutierrez",
+          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+        },
+        {
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+        }
+      ],
+      "duration_ms": 176533,
+      "name": "Anhelos",
+      "url": "https://open.spotify.com/track/0WkSkuHCOF5sIRfhmYGs0J"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Nosotros",
-        "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
-      },
-      "artists": [
-        {
-          "name": "Rhapsodia",
-          "url": "https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL"
-        }
-      ],
-      "duration_ms": 410070,
-      "name": "Nuestro Amor Ser\u00e1",
-      "url": "https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Bailando Con Roberto Antonio",
         "url": "https://open.spotify.com/album/0doc3F2HPyvkprfqQkyD3w"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Natusha & Kondor Band",
-        "url": "https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3"
+        "name": "Nosotros",
+        "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
       },
       "artists": [
         {
-          "name": "Natusha & Kondor Band",
-          "url": "https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj"
+          "name": "Rhapsodia",
+          "url": "https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL"
         }
       ],
-      "duration_ms": 227333,
-      "name": "El la Enga\u00f1\u00f3",
-      "url": "https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX"
+      "duration_ms": 410070,
+      "name": "Nuestro Amor Ser\u00e1",
+      "url": "https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1399,6 +1383,22 @@
       "duration_ms": 162826,
       "name": "Los Sabanales",
       "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Natusha & Kondor Band",
+        "url": "https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3"
+      },
+      "artists": [
+        {
+          "name": "Natusha & Kondor Band",
+          "url": "https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "El la Enga\u00f1\u00f3",
+      "url": "https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX"
     },
     {
       "added_at": "2021-12-16 22:41:17",

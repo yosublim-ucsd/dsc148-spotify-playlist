@@ -4,7 +4,7 @@
 
 > Midwest music breaking waves\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-522 songs - 1 day 1 hr 26 min
+523 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Fee](https://open.spotify.com/track/63ijZK3Q0lXJQNWHbs2Du1) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [Fee](https://open.spotify.com/album/0e2ru3NAva6jXCYfmJEiBb) | 4:28 | 2023-08-11 | 2023-10-14 |
 | [Feel Like Somebody](https://open.spotify.com/track/2dFqGqBSDSGPwIBp40VaLf) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Feel Like Somebody](https://open.spotify.com/album/0JImc5bbj65Uk2LRYGdNLo) | 2:44 | 2022-09-09 | 2022-12-03 |
 | [FEELS LIKE I'M ON DOPE](https://open.spotify.com/track/0yAkJR810xbF2byrHcmp7W) | [DJ SKOLi](https://open.spotify.com/artist/11xA8dVoB14BOk9nPrITwN) | [FEELS LIKE I'M IN A NEW POSITION](https://open.spotify.com/album/7utSs9yH5UrtUZku84O3WF) | 2:24 | 2023-04-15 | 2023-04-25 |
-| [First Day Out \(Freestyle\) Pt\. 2](https://open.spotify.com/track/4oeUol0xLGJYCmiPypgUvi) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\) Pt\. 2](https://open.spotify.com/album/2GMbT6TVTPmb8XQc2IOBNW) | 3:17 | 2023-10-13 |  |
+| [First Day Out \(Freestyle\) Pt\. 2](https://open.spotify.com/track/4oeUol0xLGJYCmiPypgUvi) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\) Pt\. 2](https://open.spotify.com/album/2GMbT6TVTPmb8XQc2IOBNW) | 3:17 | 2023-10-13 | 2023-10-27 |
+| [First Day Out \(Freestyle\), Pt\. 2](https://open.spotify.com/track/5rgBgO4HZfem8Pdf6j9d3y) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\), Pt\. 2](https://open.spotify.com/album/3VQJA4yTdEPDe8konqav6f) | 3:17 | 2023-10-13 |  |
 | [Five Guys](https://open.spotify.com/track/6PCvjSXZSULzzlFoohAc9l) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Switch Music](https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7) | 2:16 | 2022-07-18 | 2022-09-03 |
 | [FLAT EARTHER](https://open.spotify.com/track/55KcKevJmSeduUO8MAMLwR) | [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi), [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [FLAT EARTHER](https://open.spotify.com/album/5O6QvUFvNzL6jqqDREXJBN) | 3:03 | 2023-08-11 | 2023-08-26 |
 | [Float \- Coco & Breezy Remix](https://open.spotify.com/track/7MJc1Z7tTRVCCw63JhWyAv) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Float \(Coco & Breezy Remix\)](https://open.spotify.com/album/6zNU2h4HyMVpFz8MdBTIjF) | 2:28 | 2023-04-24 | 2023-10-14 |

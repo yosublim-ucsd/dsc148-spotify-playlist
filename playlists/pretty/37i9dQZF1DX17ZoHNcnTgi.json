@@ -1,12 +1,12 @@
 {
   "description": "Una uni\u00f3n que no sabr\u00e1s olvidar. Escucha la Fusi\u00f3n entre Jos\u00e9 Alfredo y Silvana Estrada. ",
-  "num_followers": 18939,
+  "num_followers": 18997,
   "original_name": "Silvana Estrada + Jos\u00e9 Alfredo Jim\u00e9nez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTM5MDQ2ZjI0MzZjODlhYzNmY2YzNzVhOTE0MGU5ODc3NTBmOTdm",
+  "snapshot_id": "MCxjOWUyMjFkNmIyYzgxZDY4MDRiZmU5YjkwNzEzZjBiMjgyYzMzZmVj",
   "tracks": [
     {
       "added_at": "2023-10-17 06:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
-      },
-      "artists": [
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 167226,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/74wCVAy23zlSs39EP2A4u4"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/0eU0VNeD4aSjjaTeyBrlyT"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 262826,
       "name": "Fallaste coraz\u00f3n",
       "url": "https://open.spotify.com/track/4aqT7emPTdp0lPhbMMMzRT"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 167226,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/74wCVAy23zlSs39EP2A4u4"
     },
     {
       "added_at": "2023-10-17 06:00:00",

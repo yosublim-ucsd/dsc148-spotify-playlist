@@ -2,7 +2,7 @@
 
 ### [Dembow Pegao](https://open.spotify.com/playlist/37i9dQZF1DWWWpEY2WZLnS)
 
-> Los éxitos del Dembow\. Portada: Peso Pluma y El Alfa
+> Los éxitos del Dembow\. Portada: Jey One
 
 313 songs - 15 hr 51 min
 

@@ -2,7 +2,7 @@
 
 ### [I Love My '90s R&B](https://open.spotify.com/playlist/37i9dQZF1DX6VDO8a6cQME)
 
-> Celebrating 25 years of The Miseducation of Lauryn Hill\. Cover: Ms\. Lauryn Hill
+> The most essential R&B songs from the 90s\. Cover: Ms\. Lauryn Hill
 
 136 songs - 10 hr 19 min
 

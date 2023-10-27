@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: CMK, Jhony Mc, Choice, MAGR\u00c3O XRE, Spike mc, Terror da Cena",
-  "num_followers": 34197,
+  "num_followers": 34227,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTBkNTBmZGI3MzYzNzcyNjI2MDRlYzQzNmM5NTU1MmI1MzIxYmE5",
+  "snapshot_id": "MCw1Yzg2MmIxNDMzNjk0YTMzZmM0OThkYWM0OGVkN2EzNjRmODM4ODlh",
   "tracks": [
     {
       "added_at": "2023-10-20 03:14:28",
@@ -887,6 +887,26 @@
     {
       "added_at": "2023-10-20 03:14:28",
       "album": {
+        "name": "Ainda \u00c9 o Rap dos Novos Bandidos",
+        "url": "https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "duration_ms": 125793,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O"
+    },
+    {
+      "added_at": "2023-10-20 03:14:28",
+      "album": {
         "name": "Passa Nada",
         "url": "https://open.spotify.com/album/7AAwkqFgpxCSOomrrxQFlT"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 224216,
       "name": "Passa Nada",
       "url": "https://open.spotify.com/track/2ppPUewH2bl3W80Zp6zKcD"
-    },
-    {
-      "added_at": "2023-10-20 03:14:28",
-      "album": {
-        "name": "Ainda \u00c9 o Rap dos Novos Bandidos",
-        "url": "https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy"
-      },
-      "artists": [
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "LP Beatzz",
-          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
-        }
-      ],
-      "duration_ms": 125793,
-      "name": "9mm",
-      "url": "https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O"
     },
     {
       "added_at": "2023-10-20 03:14:28",

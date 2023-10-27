@@ -4,7 +4,7 @@
 
 > La bande\-son de votre apéro\. Santé !
 
-147 songs - 8 hr 49 min
+148 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Toujours \(feat\. Tim Dup & Lass\)](https://open.spotify.com/track/6w8cza3O4lfQksOP94V2Qw) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE), [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX) | [Toujours \(feat\. Tim Dup & Lass\)](https://open.spotify.com/album/7hFlZmAmRd64a8sh7MfQmv) | 3:21 | 2022-12-08 | 2023-02-25 |
 | [Two Years](https://open.spotify.com/track/6a2z6P7iSN9CTnR3NYyCKV) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [Two Years](https://open.spotify.com/album/4UckwDR1GDGS6DN1YsTqql) | 2:48 | 2022-12-08 | 2023-09-23 |
 | [wait outside](https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [wait outside](https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E) | 2:31 | 2023-03-24 |  |
-| [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2022-12-08 |  |
+| [Walking On A Dream](https://open.spotify.com/track/3HfhB8sYqLlVmpBPb7cc2x) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/3qFui1PcteHFky44CeUflG) | 3:18 | 2023-09-22 |  |
+| [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2022-12-08 | 2023-10-27 |
 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 | 2022-12-08 | 2023-07-29 |
 | [What A Life \(j'fais ma life\) \[feat\. Suzane\]](https://open.spotify.com/track/3KkdZgcQxYQQZQXumGO1Cy) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6), [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [What A Life \(j'fais ma life\) \[feat\. Suzane\]](https://open.spotify.com/album/5VDE8rAYryH4lTbGDvSMVQ) | 3:05 | 2022-12-08 | 2023-04-29 |
 | [When It All Falls Down](https://open.spotify.com/track/3lvj20MikepdxKpadT7mBF) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Persona \(Deluxe\)](https://open.spotify.com/album/6DBFehDJdkqSMBdoIl9YaB) | 2:27 | 2023-04-28 |  |

@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover\- Raftaar
 
-112 songs - 6 hr 18 min
+114 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,8 @@
 | [Khadhhar](https://open.spotify.com/track/6BlFOA7vsaG83IMAbEgkEY) | [MC Hari](https://open.spotify.com/artist/5fAyRRV9ivuTIRFVpwzxF8) | [Khadhhar](https://open.spotify.com/album/74QC2sAPIRHcHwr6zg8b3z) | 2:43 | 2023-06-01 | 2023-06-09 |
 | [King Of Indian Hip Hop](https://open.spotify.com/track/21noylFh40f8j2lyWah95R) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of Indian Hip Hop](https://open.spotify.com/album/6CiopvBPnSPd7G6l3qbbHt) | 7:20 | 2023-06-08 |  |
 | [Kohinoor](https://open.spotify.com/track/6SNFuJXjkgauo3Kg9XJcj6) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kohinoor](https://open.spotify.com/album/47prNGpfOQnYYf5mIKaGNL) | 3:18 | 2023-03-27 | 2023-09-02 |
+| [Koi Nahi Puchta](https://open.spotify.com/track/08y3eOkOpfQ9VE49XMDBiz) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Robin Hood](https://open.spotify.com/album/6sVYed41ypnAPwcoHOXzWu) | 3:45 | 2023-10-26 |  |
+| [Krantinaari](https://open.spotify.com/track/7g8Tz72jAN2IdrZs7q13zG) | [Krantinaari](https://open.spotify.com/artist/6Tu5CwG6fBnZqlH5jac6XP), [RaaKshaS Sound](https://open.spotify.com/artist/5UvJGAboUH4MluIk0o5CS0) | [Krantinaari](https://open.spotify.com/album/1pV4OORNDkksKLH5M8cmHG) | 2:34 | 2023-10-26 |  |
 | [Kudi](https://open.spotify.com/track/0oRcVOYsdFICJsH5FD9Rj5) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Swaalina](https://open.spotify.com/artist/2mIcM14FamHYPzBbHRIsPE) | [Kudi](https://open.spotify.com/album/73ATQ9LpJkVKtUDTyZ9aob) | 3:10 | 2023-08-03 |  |
 | [Kya Bolti Public](https://open.spotify.com/track/5pbabJiM6eIIm1x3pWBnbl) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Kya Bolti Public](https://open.spotify.com/album/3C6F1TyvCL67WNnYLNlzvK) | 2:24 | 2023-05-08 | 2023-08-18 |
 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 | 2023-09-01 |  |
@@ -104,7 +106,7 @@
 | [Satya](https://open.spotify.com/track/1xSCr5uIndaHKFdO4s2V6B) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:02 | 2023-03-27 | 2023-06-02 |
 | [Saza\-E\-Maut](https://open.spotify.com/track/2ikI9Y7PCPIavU0TMSpF31) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:00 | 2023-03-27 | 2023-06-02 |
 | [Scene Change](https://open.spotify.com/track/5IVfZKvSkv8XtlswgBcmCE) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Scene Change](https://open.spotify.com/album/5kbJnCRw1otr7gLtD515ZH) | 3:30 | 2023-03-27 | 2023-09-21 |
-| [Second Day Of School](https://open.spotify.com/track/0suHYhqXOeGDXg26tqL2UJ) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ) | [God Is Watching Through Birds](https://open.spotify.com/album/0ZH2sDBTe5f6u2selUJX9P) | 4:05 | 2023-06-23 |  |
+| [Second Day Of School](https://open.spotify.com/track/0suHYhqXOeGDXg26tqL2UJ) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ) | [God Is Watching Through Birds](https://open.spotify.com/album/0ZH2sDBTe5f6u2selUJX9P) | 4:05 | 2023-06-23 | 2023-10-27 |
 | [Shana Bann](https://open.spotify.com/track/5ZTsPwtt7aCuzbWd5rDGys) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Shana Bann](https://open.spotify.com/album/2Tw9GDRPo2ITN5CbBFAkJn) | 3:48 | 2023-03-27 | 2023-10-10 |
 | [Showtime](https://open.spotify.com/track/5WOcMWqXg2nTnWrAfJwf4v) | [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:58 | 2023-03-27 | 2023-08-09 |
 | [Sitara](https://open.spotify.com/track/3j796EeLMLBqwlzwufeS7c) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:59 | 2023-06-08 |  |
@@ -113,7 +115,7 @@
 | [Still Rollin](https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-06-01 |  |
 | [Streetwise](https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:44 | 2023-09-04 | 2023-10-04 |
 | [Sunn Na](https://open.spotify.com/track/7b8BHkjW0vfgT54yXp0Lvn) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8) | [Sunn Na](https://open.spotify.com/album/7ghJOs6RjHWSl4nuqYi1v8) | 2:51 | 2023-03-27 | 2023-08-18 |
-| [Systumm](https://open.spotify.com/track/3cBFnVztvQnMcPcIgipLTV) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Systumm](https://open.spotify.com/album/3X6OFKhCfx2cG3rzLHDkAK) | 2:34 | 2023-08-17 |  |
+| [Systumm](https://open.spotify.com/track/3cBFnVztvQnMcPcIgipLTV) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Systumm](https://open.spotify.com/album/3X6OFKhCfx2cG3rzLHDkAK) | 2:34 | 2023-08-17 | 2023-10-27 |
 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2023-03-27 |  |
 | [TRAP PRAA](https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 3:11 | 2023-04-19 |  |
 | [Tu Hai Kaun](https://open.spotify.com/track/4gJwX0QLUXwjwmQG77ihLS) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Tu Hai Kaun](https://open.spotify.com/album/4YrdmA8BUodffcJGjJnks9) | 3:24 | 2023-03-27 | 2023-04-20 |

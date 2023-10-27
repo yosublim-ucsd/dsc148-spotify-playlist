@@ -4,7 +4,7 @@
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-103 songs - 6 hr 1 min
+106 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,9 @@
 | [Cowboy Take Me Away](https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Cowboy Take Me Away](https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm) | 4:29 | 2023-06-15 |  |
 | [Dance with Me \(feat\. Kelsea Ballerini\)](https://open.spotify.com/track/07sa7qkxpemze5BBE7jufs) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Things That We Drink To](https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc) | 3:19 | 2023-06-15 |  |
 | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN) | 2:51 | 2023-08-01 |  |
+| [Diamonds and Gold](https://open.spotify.com/track/6aFfDXmScA1MoYepsaD3pm) | [Meghan Maike](https://open.spotify.com/artist/4kBaxVPaAbjTyIb7qItJzl) | [Dead Horse Creek](https://open.spotify.com/album/35AQrnW1vnZFyFtyRA27s3) | 4:41 | 2023-10-27 |  |
 | [Different Kind Of High](https://open.spotify.com/track/6qFyQDHtl1WgnTt2bGi74U) | [Katelann Maree](https://open.spotify.com/artist/4oHkIit2ZOd9HqKws5LKcf) | [Different Kind Of High](https://open.spotify.com/album/454VDDoKkNtDWpmlGyimoq) | 3:56 | 2023-06-15 | 2023-07-07 |
+| [Don't Wanna Meet Your Parents](https://open.spotify.com/track/288yWYGCLTgvgeuz3XKYJI) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [Don't Wanna Meet Your Parents](https://open.spotify.com/album/7FxEaf5QzdEYno0jDfPVY1) | 3:06 | 2023-10-27 |  |
 | [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 | 2023-06-15 |  |
 | [Every Beginning Ends](https://open.spotify.com/track/4iAjjXGCKNQCtFklN48w7n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 2:30 | 2023-06-15 |  |
 | [Everything Falls for You](https://open.spotify.com/track/4KUTGzToT4a4Ktk9VTBTkH) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Everything Falls for You](https://open.spotify.com/album/24i3BA0medfiaWug4wLyWE) | 3:00 | 2023-06-15 | 2023-09-08 |
@@ -40,6 +42,7 @@
 | [Find a River](https://open.spotify.com/track/1rA9rH9nBHIwjuF5MnWbaW) | [The Mitchell Twins](https://open.spotify.com/artist/6hxv3JmXDPj5gdUFh7V89D) | [Find a River](https://open.spotify.com/album/52kQ6HLEUNVqwlyhYWFwG5) | 4:15 | 2023-06-15 |  |
 | [Fix You Too \(feat\. Kameron Marlowe\)](https://open.spotify.com/track/4eIGig7wMD4iZfPKGinoGr) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Lucky \(Deluxe\)](https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4) | 3:19 | 2023-09-21 |  |
 | [Flame Trees](https://open.spotify.com/track/2co9PSsx9Iya7fjpP90tpy) | [Loren Ryan](https://open.spotify.com/artist/7feL5IApbaRD52R2efI9NG) | [Flame Trees](https://open.spotify.com/album/1EjnQlHUJ3goSocfydn1bK) | 4:30 | 2023-06-15 |  |
+| [Flip a Coin](https://open.spotify.com/track/3fNV0e9te9ZJeGEvSPR6N5) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [No Better Time](https://open.spotify.com/album/0RrvvsNs4lpXuf7VHI8z4s) | 3:38 | 2023-10-27 |  |
 | [Fly On The Wall](https://open.spotify.com/track/6W3JjPwkdUBB8h467l6wfW) | [Caitlyn Shadbolt](https://open.spotify.com/artist/4AnRUN3FJq0GZ0RCoRpgNC) | [Fly On The Wall](https://open.spotify.com/album/06wQFpjorX15jtHc7ECtK1) | 2:43 | 2023-06-15 |  |
 | [For A Day](https://open.spotify.com/track/3ImUotYT19T3vXDVOWAXAm) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i) | 2:48 | 2023-06-15 |  |
 | [For The Both of Us](https://open.spotify.com/track/0QIiiAoUQru2NQtRBrihII) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [For The Both of Us](https://open.spotify.com/album/0fxF1wmYvHSPbche9nHviN) | 2:45 | 2023-09-07 |  |

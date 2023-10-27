@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 
 > Marília Mendonça e os artistas mais ouvidos no Brasil em 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,113 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,134 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 49 | [Superação Digital](https://open.spotify.com/track/6AQqsFYtCQi9m7MJcMjGup) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Viva la Vida](https://open.spotify.com/album/6UaJBNokr5RFYIGwzkK8Qn) | 2:56 |
 | 50 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 |
 
-Snapshot ID: `MCwyMzkyMTdiODI0YTg1NDY0NjNmNGJiYmRlYzgzOTk0ZjliMDE2NzUy`
+Snapshot ID: `MCwyM2U3OTE2MDQzNGIwM2U5MzJhOTdjYzRkZjMyYTc1ZTAzZTExNTA5`

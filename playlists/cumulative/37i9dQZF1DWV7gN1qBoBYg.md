@@ -2,15 +2,16 @@
 
 ### [RADAR Nordics](https://open.spotify.com/playlist/37i9dQZF1DWV7gN1qBoBYg)
 
-> Welcome to RADAR: A space for storytelling going beyond the music featuring Jaeger, Sam Ezeh, LOVA, Mina Okabe, Augustine & IVAN$ITO from the Nordics!
+> Welcome to RADAR: A space for storytelling going beyond the music featuring Yaeger, Sam Ezeh, LOVA, Mina Okabe, Augustine & IVAN$ITO from the Nordics!
 
-58 songs - 2 hr 52 min
+61 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ahorita](https://open.spotify.com/track/6eaupQfbjsvOsTCNqz4SQv) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [Everything Is Reggaeton](https://open.spotify.com/album/3uudLdE8l4cC7ridZzYf0O) | 3:23 | 2022-04-25 |  |
 | [All My Thoughts](https://open.spotify.com/track/1XUFRMGnLUjESmegODafq9) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:20 | 2022-04-25 |  |
 | [Awful Lot of Time](https://open.spotify.com/track/2rHwZH39RB1aCRQSQETOzf) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Weeks Above The Earth](https://open.spotify.com/album/030P1hbKI1OLAPVpThG5gl) | 3:46 | 2022-04-25 |  |
+| [Awkward](https://open.spotify.com/track/1DwFRzuCCcU7iogXAieS6V) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey mom, don’t worry I’m fine](https://open.spotify.com/album/6zclTvnQt7riaa8pLl99Ba) | 2:33 | 2023-10-26 |  |
 | [Backseat](https://open.spotify.com/track/4Sec4YoFHueidjEW8fQDSj) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Weeks Above The Earth](https://open.spotify.com/album/030P1hbKI1OLAPVpThG5gl) | 3:04 | 2022-04-25 |  |
 | [Black Converse](https://open.spotify.com/track/2NQtXwEgMkIeTiThSdbWPq) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Varm Sommar 2020](https://open.spotify.com/album/5bBWHe49fHsZ2vQyPS9gWy) | 3:06 | 2022-04-25 | 2023-10-22 |
 | [Black Converse](https://open.spotify.com/track/7axPmEf1nwosqBDVoMugvD) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 3:06 | 2023-10-05 |  |
@@ -36,6 +37,7 @@
 | [Guts](https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Guts](https://open.spotify.com/album/6szOt2A9ABSPorygYiIKY1) | 3:26 | 2022-04-25 |  |
 | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/album/0lcmBSL5gnznCRwyX6boRL) | 3:04 | 2022-04-25 |  |
 | [I'm Done](https://open.spotify.com/track/31woMxYB85YfABARqqJm7e) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [I'm Done](https://open.spotify.com/album/7zPEYCY2jACwkAd3SM7qWb) | 3:09 | 2022-04-25 |  |
+| [Jaguar](https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Jaguar](https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc) | 2:55 | 2023-10-26 |  |
 | [Jealous Of My Friends](https://open.spotify.com/track/7H8VxrYJR2sWWLBrtcmQgt) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 2:27 | 2022-04-25 |  |
 | [Leal](https://open.spotify.com/track/534uRWyOMtDiYTZUSc4eyj) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [$OLO MEMOS](https://open.spotify.com/album/1HEVveDgR4D3nJViD3q9Yq) | 3:15 | 2022-04-25 |  |
 | [Lento](https://open.spotify.com/track/6ELwRYRmWonbkZWeVx55qV) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [$OLO MEMOS](https://open.spotify.com/album/1HEVveDgR4D3nJViD3q9Yq) | 2:32 | 2022-04-25 |  |
@@ -57,6 +59,7 @@
 | [Relay](https://open.spotify.com/track/7cHLutQTiJ5cMfVI5Bg7nQ) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Relay](https://open.spotify.com/album/43skczn9Io3vAXh97760qM) | 3:05 | 2022-04-25 |  |
 | [Sapphire Alley](https://open.spotify.com/track/5DamCARBr1qv1aiPS2Hip9) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Sapphire Alley](https://open.spotify.com/album/7swcD8JF9TCG4Qw4UTeFpE) | 3:22 | 2022-04-25 |  |
 | [Sin Preocupación](https://open.spotify.com/track/1ERZ1Y2Fgc54Rs09ZvgrNv) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [Everything Is Reggaeton](https://open.spotify.com/album/3uudLdE8l4cC7ridZzYf0O) | 2:38 | 2022-04-25 |  |
+| [Stolen](https://open.spotify.com/track/1ykt4FccCEkspnAP8G5544) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Jaguar](https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc) | 3:35 | 2023-10-26 |  |
 | [Summer Wine](https://open.spotify.com/track/7b8IcOvAOdaYJEaLW5dv9C) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Summer Wine](https://open.spotify.com/album/0On0y1iTi5xDGokahA6iMS) | 2:15 | 2022-04-25 |  |
 | [Suspension](https://open.spotify.com/track/3yPLXJ8tLM2K8FCgCakpTq) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Night at Ezeh's](https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl) | 2:26 | 2022-04-25 |  |
 | [Sweet Love](https://open.spotify.com/track/1vbVS8vpaFQNjketow7tse) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Weeks Above The Earth](https://open.spotify.com/album/030P1hbKI1OLAPVpThG5gl) | 2:33 | 2022-04-25 |  |

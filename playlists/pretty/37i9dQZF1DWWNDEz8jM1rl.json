@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 117964,
+  "num_followers": 118009,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGVlYzUyMTllMzdjMjM4OTgxMTY0NTZiYzA0ZTc0NWNmOGQxZmU3",
+  "snapshot_id": "MCxmYzdmMzBiOTYxZWVmNjgyMWQ4ZmU1ZjQ2ODU3M2VhYTZhNWM2Y2Ji",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -147,18 +147,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Armon\u00eda",
-        "url": "https://open.spotify.com/album/60vy0EV9wPovDXlZUVCr4u"
+        "name": "Soldados",
+        "url": "https://open.spotify.com/album/408HP6kZX2afGve443MAyu"
       },
       "artists": [
         {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 175456,
-      "name": "Armon\u00eda",
-      "url": "https://open.spotify.com/track/0h81kXmPh8rG5vp8dkYbVD"
+      "duration_ms": 224817,
+      "name": "Yo Tierra, T\u00fa Semilla",
+      "url": "https://open.spotify.com/track/0S79RX2oFmRsD1gjbwdXVC"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -175,22 +175,6 @@
       "duration_ms": 264826,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/57ogj5vevbzdRtC8Ng2Rtx"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Soldados",
-        "url": "https://open.spotify.com/album/408HP6kZX2afGve443MAyu"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 224817,
-      "name": "Yo Tierra, T\u00fa Semilla",
-      "url": "https://open.spotify.com/track/0S79RX2oFmRsD1gjbwdXVC"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -279,22 +263,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Acceso Total Tour Edition",
-        "url": "https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 249920,
-      "name": "Mi Maestro",
-      "url": "https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Historia",
         "url": "https://open.spotify.com/album/2wBNUXXpdNns2ReHXr0Vvx"
       },
@@ -307,6 +275,22 @@
       "duration_ms": 265453,
       "name": "El Cristiano No Se Enoja",
       "url": "https://open.spotify.com/track/1m4pJIKdaMuyEUiqZiyxCE"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Acceso Total Tour Edition",
+        "url": "https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Mi Maestro",
+      "url": "https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -331,22 +315,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Tengo Victoria",
-      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Nonstop",
         "url": "https://open.spotify.com/album/2hIXO8X9iQA1XhFQZWrHdA"
       },
@@ -359,6 +327,22 @@
       "duration_ms": 194018,
       "name": "Fue Por Ti",
       "url": "https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Tengo Victoria",
+      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -499,22 +483,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Soy Sonero",
-        "url": "https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS"
-      },
-      "artists": [
-        {
-          "name": "Jose \"Papo\" Rivera",
-          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
-        }
-      ],
-      "duration_ms": 255242,
-      "name": "Salsa del Cielo",
-      "url": "https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Favor y Gracia",
         "url": "https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C"
       },
@@ -547,18 +515,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Traigo Alabanza",
-        "url": "https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c"
+        "name": "Soy Sonero",
+        "url": "https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS"
       },
       "artists": [
         {
-          "name": "Richard Cepeda",
-          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+          "name": "Jose \"Papo\" Rivera",
+          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
         }
       ],
-      "duration_ms": 251453,
-      "name": "Estoy Contento",
-      "url": "https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s"
+      "duration_ms": 255242,
+      "name": "Salsa del Cielo",
+      "url": "https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -591,6 +559,22 @@
       "duration_ms": 223516,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Traigo Alabanza",
+        "url": "https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c"
+      },
+      "artists": [
+        {
+          "name": "Richard Cepeda",
+          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+        }
+      ],
+      "duration_ms": 251453,
+      "name": "Estoy Contento",
+      "url": "https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -723,22 +707,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
-      },
-      "artists": [
-        {
-          "name": "Richard Cepeda",
-          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Soy Bendecido",
-      "url": "https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Lo Que Dice El Alma",
         "url": "https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu"
       },
@@ -759,18 +727,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Los \u00c9xitos De Marcos Witt En Bachata",
-        "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
+        "name": "Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
       },
       "artists": [
         {
-          "name": "Nicold Frias",
-          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
+          "name": "Richard Cepeda",
+          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
         }
       ],
-      "duration_ms": 259626,
-      "name": "Un adorador",
-      "url": "https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho"
+      "duration_ms": 263506,
+      "name": "Soy Bendecido",
+      "url": "https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -787,6 +755,22 @@
       "duration_ms": 212022,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/3GZlpgiwHlh5Zw1Ptcw9h3"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Los \u00c9xitos De Marcos Witt En Bachata",
+        "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
+      },
+      "artists": [
+        {
+          "name": "Nicold Frias",
+          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
+        }
+      ],
+      "duration_ms": 259626,
+      "name": "Un adorador",
+      "url": "https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -871,6 +855,22 @@
       "duration_ms": 219559,
       "name": "Jesucristo Me Toco - En Vivo",
       "url": "https://open.spotify.com/track/3ykdbXSC9DYF3CXqlvCs3J"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Los \u00c9xitos De Marcos Witt En Bachata",
+        "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
+      },
+      "artists": [
+        {
+          "name": "Nicold Frias",
+          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
+        }
+      ],
+      "duration_ms": 271053,
+      "name": "Motivo de mi cancion",
+      "url": "https://open.spotify.com/track/2PNGkt8Xu4ex0e38LwBQVI"
     }
   ],
   "unique_name": "Baila Con Dios",

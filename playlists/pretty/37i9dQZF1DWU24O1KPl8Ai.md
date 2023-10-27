@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 
 > Celebrate APIHM with music from Asian and Pacific Islander artists for the whole family\. Cover: Falu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,789 likes - 36 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,794 likes - 36 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,6 +43,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 | 33 | [Halo\-Halo](https://open.spotify.com/track/6C7jV3ooKAYhB1DNjun4Ho) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt), [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [Don't Gotta Be Cool](https://open.spotify.com/album/7Dmkj0ruoRevuG1gKXRpfy) | 2:30 |
 | 34 | [Small but Mighty](https://open.spotify.com/track/2tSaIsNOHPULivFVlHejoG) | [Ginalina](https://open.spotify.com/artist/06QOnJaT57H3lQcrx3B1kP) | [Small but Mighty](https://open.spotify.com/album/02oEsC2mLDX2DcK13w23hI) | 2:54 |
 | 35 | [Ma Ma Milk](https://open.spotify.com/track/1TwncWnOqITdWsf3FcGt6Y) | [BNK48](https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD) | [Warota People \(หัวเราะเซ่\)](https://open.spotify.com/album/2Q5yTezFLPUqCK80DOgElC) | 2:08 |
-| 36 | [Old Macdonald Had a Farm \(Fijian Animals\)](https://open.spotify.com/track/3W81h9LL3CJ5aLgPNtpIVw) | [Loopy Tunes Preschool Music](https://open.spotify.com/artist/0nyv9lZZ2dBi8WzcRfyH6y), [Whānau Āwhina Plunket\-Pasifika Beatz](https://open.spotify.com/artist/69gi80HKXW67UHDsNLBTWT) | [Pasifika Beatz \- Fiji](https://open.spotify.com/album/48yJ52hSvTKfFqPRSgAa8i) | 1:47 |
+| 36 | [The Jackfruit Song](https://open.spotify.com/track/73FuPPW3RJQCXX7bpZoWfD) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Romeo Eats](https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd) | [The Jackfruit Song](https://open.spotify.com/album/7FpIebCGpeEGB8WoiWEywF) | 2:19 |
 
-Snapshot ID: `MCwxMzI2YjAwMWMyMDI5ZDMzYWEyOWY4NjVjNzA0YTViMmYzZjUyYzZh`
+Snapshot ID: `MCwxZWExMzI3YzY3M2IxZjNjMjU1MWFlMDZmMWYwNTk3YTVhOWZmZmM3`

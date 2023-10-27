@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Mx Blouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,098,848 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,098,737 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Esta Vida Loca](https://open.spotify.com/track/1ineIuphIroBEhGJi9MJeW) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Esta Vida Loca](https://open.spotify.com/album/7npZ7YNVeuLwAt6u0DrkUL) | 2:22 |
 | 50 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
 
-Snapshot ID: `MCw4NTNlZDQ5YWYzY2U2YzQ3MmU3ZDNiNmI1ZjAxNDE5MzY0YmE3ODBj`
+Snapshot ID: `MCwyNGRlNmNhMDdhY2IxNmRhZjlhZmRkOWZjMzQ2NjgxMWM1MmYzNDNk`

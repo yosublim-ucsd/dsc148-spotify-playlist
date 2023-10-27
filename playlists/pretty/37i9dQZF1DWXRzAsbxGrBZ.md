@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,943 likes - 50 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,060 likes - 50 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 27 | [Octave](https://open.spotify.com/track/0VnmFajFeWDUE2FO9jPIAy) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [OVGSREPUBLIC](https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU) | 7:33 |
 | 28 | [With You](https://open.spotify.com/track/63haVmKN5Arr9MgN1z6Qdw) | [Dj Burger](https://open.spotify.com/artist/0oVArDDqG7UfqZqwGskQVH), [Ryu Ken](https://open.spotify.com/artist/1rp6OXNShKdYKMug01rPlq), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [With You](https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE) | 6:06 |
 | 29 | [Vertigo](https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683) | [Jazzuelle](https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu), [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [NEO](https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986) | 7:16 |
-| 30 | [Before Everything](https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Fictions](https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH) | 6:15 |
-| 31 | [See the Light](https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu) | [Bless\_SA](https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP), [Kyika DeSoul](https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I) | [See the Light](https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA) | 6:45 |
+| 30 | [See the Light](https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu) | [Bless\_SA](https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP), [Kyika DeSoul](https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I) | [See the Light](https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA) | 6:45 |
+| 31 | [Before Everything](https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Fictions](https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH) | 6:15 |
 | 32 | [Confident \(feat\. Kali Mija\)](https://open.spotify.com/track/18TurB98aOL6s0bhPlI2uH) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Confident \(feat\. Kali Mija\)](https://open.spotify.com/album/0s5sUEzHMd8BGP46oCA2ck) | 7:43 |
 | 33 | [Four Lessons](https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Dafrotone](https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N) | 7:33 |
 | 34 | [Flute Activation \- Original Mix](https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Artform](https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5) | 7:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 49 | [Gambiando Caras](https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL) | [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [Gambiando Caras](https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG) | 7:15 |
 | 50 | [7 Steps \- Soulcalmic Mingle](https://open.spotify.com/track/0iI8NQxWTWVmRpdTEOCKfs) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [7 Steps \(Soulcalmic Mingle\)](https://open.spotify.com/album/2L18EV5XIALri7ko5ZqSw8) | 5:33 |
 
-Snapshot ID: `MCxmZTVkNTJiZWRiMGQyYzcyYmUxMDk2YThjZDY2ZTMzYzg5MjRmZWRm`
+Snapshot ID: `MCxiNmM1M2U3YTNjZWZjMGVkNjI5NjA3ZTlkZGFhYzg3YmI2ZWM1MmQ2`

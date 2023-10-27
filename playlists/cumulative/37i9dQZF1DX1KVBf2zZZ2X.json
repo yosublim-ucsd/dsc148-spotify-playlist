@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Absence",
       "url": "https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm"
@@ -272,6 +272,24 @@
       "duration_ms": 159709,
       "name": "Bayou",
       "url": "https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS"
+    },
+    {
+      "album": {
+        "name": "Beautiful Nature",
+        "url": "https://open.spotify.com/album/1xzSTEV4uuA8KvCXuiNpdY"
+      },
+      "artists": [
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177197,
+      "name": "Beautiful Nature",
+      "url": "https://open.spotify.com/track/5y25kyQQTAqyPoSchOAnxS"
     },
     {
       "album": {
@@ -635,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Forest Dreams (432 Hz)",
+        "url": "https://open.spotify.com/album/7B50BUzP7oYe4I4guHZonZ"
+      },
+      "artists": [
+        {
+          "name": "Orvalis",
+          "url": "https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "Forest Dreams (432 Hz)",
+      "url": "https://open.spotify.com/track/1eLXhJf2bLfeghNsz7FpxV"
+    },
+    {
+      "album": {
         "name": "Back to life",
         "url": "https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS"
       },
@@ -650,6 +686,24 @@
       "duration_ms": 141624,
       "name": "Forgotten letters",
       "url": "https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR"
+    },
+    {
+      "album": {
+        "name": "Giardino Di Corde",
+        "url": "https://open.spotify.com/album/68jzD6LRy7YFOXvrlnGpDR"
+      },
+      "artists": [
+        {
+          "name": "Moshi Moshi Desu",
+          "url": "https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161124,
+      "name": "Giardino Di Corde",
+      "url": "https://open.spotify.com/track/6yMAHBIAadsh7lM5ISrSzt"
     },
     {
       "album": {
@@ -772,7 +826,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 146500,
       "name": "Hygrometer",
       "url": "https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz"
@@ -830,6 +884,24 @@
       "duration_ms": 142660,
       "name": "Juncture",
       "url": "https://open.spotify.com/track/5kBWSTxxpQHjh2p49YM4xq"
+    },
+    {
+      "album": {
+        "name": "Lights & Dust",
+        "url": "https://open.spotify.com/album/0v7xw83LjYF3WrJo9M7OZD"
+      },
+      "artists": [
+        {
+          "name": "Memories of the Forgotten",
+          "url": "https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Lights & Dust",
+      "url": "https://open.spotify.com/track/21uooqLNsuCRtjZmTzOIpj"
     },
     {
       "album": {
@@ -977,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Morning Calm",
+        "url": "https://open.spotify.com/album/5Wz3ispw5iUtBpQ44kHNoC"
+      },
+      "artists": [
+        {
+          "name": "Emil Bod\u00e9n",
+          "url": "https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136250,
+      "name": "Morning Calm",
+      "url": "https://open.spotify.com/track/1XMu12aUx68QKvgSfkGU8C"
+    },
+    {
+      "album": {
         "name": "Morning on a STHLM Island",
         "url": "https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU"
       },
@@ -1010,6 +1100,24 @@
       "duration_ms": 167678,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp"
+    },
+    {
+      "album": {
+        "name": "Mystic Nature",
+        "url": "https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP"
+      },
+      "artists": [
+        {
+          "name": "Dawe Natauk",
+          "url": "https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202789,
+      "name": "Mystic Nature",
+      "url": "https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag"
     },
     {
       "album": {
@@ -1708,7 +1816,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "The Sparrow",
       "url": "https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1"
@@ -1816,7 +1924,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 231341,
       "name": "Wave",
       "url": "https://open.spotify.com/track/3WTAaJFI1oGbw0sCBgnjWF"

@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-722 songs - 1 day 6 hr 20 min
+723 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Helgafell](https://open.spotify.com/track/1uLAimb1FsPL3K5n5f81SN) | [Agnes Ross](https://open.spotify.com/artist/6n0EoqtgCg1IHEMaU6J1ML) | [Hekla](https://open.spotify.com/album/7byhTf36ViyuDqCYmf4woy) | 2:23 | 2022-05-27 | 2022-09-24 |
 | [Help me find a way](https://open.spotify.com/track/6OL7lU0n7HrNvxM22bHoxW) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Help me find a way](https://open.spotify.com/album/28W9ZCs4H4PenLaqNYYq2w) | 3:03 | 2022-05-27 | 2022-09-27 |
 | [Heppi](https://open.spotify.com/track/5IV9Wpx895vHTojOVBIzgx) | [Simone d'Harmange](https://open.spotify.com/artist/3KCBSE8eMElAuHP9NhHstd) | [Heppi](https://open.spotify.com/album/0Oxpmbqv0qq1ls2TGQrv3P) | 2:00 | 2023-04-25 |  |
+| [Herald](https://open.spotify.com/track/5DmCoazpQN9id60LYIFqCj) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Herald](https://open.spotify.com/album/5l1LblT9yXaajjWm80L68J) | 2:43 | 2023-10-23 |  |
 | [Here](https://open.spotify.com/track/3rLYj3hgyEw9BhGgcJER8O) | [Leonardo Cupelli](https://open.spotify.com/artist/4aTJ4F6R23RQkM2ZJKU3vD) | [Here](https://open.spotify.com/album/6TzBL8Jxr3OjvgBRmOWdce) | 2:26 | 2022-05-27 | 2022-09-24 |
 | [Hidden place](https://open.spotify.com/track/3NZVlwqVu3qMwYM7EXaMV9) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Hidden place](https://open.spotify.com/album/782ma7pykAubjHJsjDvEEx) | 3:15 | 2022-07-20 |  |
 | [Hideaway](https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Hideaway](https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765) | 2:39 | 2022-05-27 | 2022-07-21 |
@@ -283,7 +284,7 @@
 | [I Remember](https://open.spotify.com/track/1tIqpXyBu4DTgzpp5nkk1G) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [I Remember](https://open.spotify.com/album/1yI3LXQAcNZx7LWVfFJLZg) | 2:22 | 2022-05-27 | 2022-07-21 |
 | [I Try](https://open.spotify.com/track/2iqN4qtrdyp43YZONn3sgF) | [Helena Gabriel](https://open.spotify.com/artist/5AW3NFlJDX8SX4LoHNTZOO) | [I Try](https://open.spotify.com/album/6EZsJTZbEkW91ZFgpzCchU) | 1:49 | 2022-05-27 | 2023-03-19 |
 | [If Only](https://open.spotify.com/track/3NBuhsRRawz3pK7Y8MImwX) | [Jamie Bendrodt](https://open.spotify.com/artist/3NBXKIjJCcTcDmhq7cbyei) | [If Only](https://open.spotify.com/album/7K5p6bRBT9M1a9qzTPtvmQ) | 2:04 | 2022-05-27 | 2022-09-24 |
-| [Il mio cuore brucia per te](https://open.spotify.com/track/2Wvu8d2R1Ish33Jl67JEdI) | [Oddo Fava](https://open.spotify.com/artist/3DbqhQZ1BfpxozIDPMjZDd) | [Il mio cuore brucia per te](https://open.spotify.com/album/65YsTIbDwGwTGVxGjpDMvy) | 2:10 | 2022-05-27 |  |
+| [Il mio cuore brucia per te](https://open.spotify.com/track/2Wvu8d2R1Ish33Jl67JEdI) | [Oddo Fava](https://open.spotify.com/artist/3DbqhQZ1BfpxozIDPMjZDd) | [Il mio cuore brucia per te](https://open.spotify.com/album/65YsTIbDwGwTGVxGjpDMvy) | 2:10 | 2022-05-27 | 2023-10-27 |
 | [Illusive Appearance](https://open.spotify.com/track/1TjW6B6oAQTyh4ca3r32DA) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Illusive Appearance](https://open.spotify.com/album/1B1fTeAhsxFmMQtRvsRqSF) | 3:09 | 2022-05-27 | 2022-09-24 |
 | [Imagine](https://open.spotify.com/track/6Q0m7E33lcj6FOgdEsH448) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Imagine](https://open.spotify.com/album/7azCak0GgPVaSFelg61xYa) | 2:09 | 2023-09-25 |  |
 | [Imbolc](https://open.spotify.com/track/0Lac4ar1MABDEvZ0RFIA36) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Imbolc](https://open.spotify.com/album/0J6pG8QWSeb8jShtQ0MWi3) | 2:56 | 2022-07-20 | 2023-10-22 |

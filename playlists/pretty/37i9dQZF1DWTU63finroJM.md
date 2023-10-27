@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,277 likes - 134 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,310 likes - 134 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 69 | [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 |
 | 70 | [Kele Kele](https://open.spotify.com/track/2iJVEBnGX2QW41fUIyyhLe) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Kele Kele \- Spotify Singles](https://open.spotify.com/album/6uTuS5g5Vhq3IqrT6VJj9c) | 2:10 |
 | 71 | [NOT ALONE](https://open.spotify.com/track/4GYmqDC7trdgCL6It6oWDd) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:03 |
-| 72 | [Psycho](https://open.spotify.com/track/3ifDwg8GUpVtBzfk3FBc22) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Psycho](https://open.spotify.com/album/39CCXCE9ccNdvzc00JfYdn) | 2:49 |
+| 72 | [Psycho](https://open.spotify.com/track/3ifDwg8GUpVtBzfk3FBc22) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Psycho](https://open.spotify.com/album/39CCXCE9ccNdvzc00JfYdn) | 2:49 |
 | 73 | [MUSE](https://open.spotify.com/track/7bRSjYVqEPeAvKG1KrlPtI) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [MUSE](https://open.spotify.com/album/0JApBQ8xuOnFPw32RnoGrS) | 3:27 |
 | 74 | [OLE](https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OLE](https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy) | 2:31 |
 | 75 | [somebody's daughter](https://open.spotify.com/track/2J6rRsmKn1TpGOfQagoRVr) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6), [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [somebody's daughter](https://open.spotify.com/album/6GmLbLRhlsFwHN5IRimKBo) | 3:07 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 133 | [Ánh Đèn Phố](https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Rừng Đom Đóm](https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn) | 4:42 |
 | 134 | [台北宵夜指南](https://open.spotify.com/track/0eLiTFv7m8O6ScxJVQZyCR) | [胡家誠](https://open.spotify.com/artist/200pQawht4r55tBNrWTVpx) | [台北宵夜指南](https://open.spotify.com/album/0g6Hzc1A6nAOAloMQtUDPn) | 3:44 |
 
-Snapshot ID: `MCxiYzMwMjNmYjMyYTEwOWU2Y2U3YzY0NzY0YzI2N2JjMmI2M2Y0YjA4`
+Snapshot ID: `MCw2NDVmYWI5MGI2NTNlMTI1M2U1MzkwMWRiZjFmMmFjMjhlNzJlNjJi`

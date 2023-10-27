@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-573 songs - 1 day 14 hr 45 min
+574 songs - 1 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [The Grants](https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Grants](https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA) | 4:55 | 2023-03-14 | 2023-03-25 |
 | [The moon, The dawn](https://open.spotify.com/track/2DlkC3f5kQDf6oImgAUaRr) | [soejima takuma](https://open.spotify.com/artist/44CDiqPtSg1pkVHZ7TwfD3), [delgir sarin](https://open.spotify.com/artist/0jL3AV0GdDvC6vtXaE1Uqc) | [The moon, The dawn](https://open.spotify.com/album/0RcrfUSIfcG3qyCGawSd03) | 2:25 | 2023-01-24 | 2023-03-01 |
 | [The Rip Tide \- BER\-ABQ Version](https://open.spotify.com/track/5Rj08pbmKK9kpxgCWw18Bj) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Berlin\-Albuquerque Sessions Vol 3](https://open.spotify.com/album/2HMsVCSKJx0Ujg6cQoMhcY) | 4:14 | 2022-11-22 | 2023-01-06 |
+| [The Two Of Us \(feat\. Clara Mann\)](https://open.spotify.com/track/514zM3fP40Dubmz2bQJSw3) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND), [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [The Two Of Us \(feat\. Clara Mann\)](https://open.spotify.com/album/1xI6SdJtqpXDJbJH1XRWHz) | 4:49 | 2023-10-26 |  |
 | [Theme of "Life is Climbing"](https://open.spotify.com/track/72QD2eOduUtm3P4csHCnaV) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Theme of "Life is Climbing"](https://open.spotify.com/album/336RBsESEoPbt71FeIT0yw) | 4:55 | 2023-05-04 | 2023-06-14 |
 | [Time Capsule](https://open.spotify.com/track/45gbM4zsiz7ekoIaqD2hKZ) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [Time Capsule](https://open.spotify.com/album/1RgUSMkPgxdbKG6cy9R9Tv) | 5:21 | 2023-01-10 | 2023-02-01 |
 | [Tissue No\. 7](https://open.spotify.com/track/5PIijxAWbWAOvJ3TKhejPA) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Camille Thomas](https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD), [Julien Brocal](https://open.spotify.com/artist/5xFAEWAcB0A5e7qk3UO2pc) | [Glass: Tissue No\. 7 \(Musical Moments\)](https://open.spotify.com/album/6NLMY1DYWgGhKq0c1pjlZs) | 3:15 | 2023-02-28 | 2023-04-05 |
@@ -470,7 +471,7 @@
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-07-20 |  |
 | [Variations Concertantes, Op\. 17](https://open.spotify.com/track/6WneainaytyKYXAgHyKTz4) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Haruma Sato](https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk), [久末 航](https://open.spotify.com/artist/4F682tC1bLChNJpYReJL78) | [Mendelssohn: Variations Concertantes, Op\. 17](https://open.spotify.com/album/38QqAYKcPRnpQiTXtBBBsz) | 9:02 | 2023-03-14 | 2023-09-06 |
 | [Variations on a Polish Folk Theme, Op\. 10: Var\. 5\. Andantino](https://open.spotify.com/track/07f9skCq3UJKxj7szEoC04) | [Karol Szymanowski](https://open.spotify.com/artist/3WLh1Qe8WgEBbb2QJWYYal), [Krystian Zimerman](https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz) | [Karol Szymanowski: Piano Works](https://open.spotify.com/album/6iF2vN5SK1pXAn2jdND1Zq) | 1:09 | 2022-10-20 | 2022-11-23 |
-| [Vega](https://open.spotify.com/track/2qJggGKzjnU43FVserdo3G) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Vega](https://open.spotify.com/album/76BMPNgKggRkhwoDbPAJbf) | 2:34 | 2023-06-15 |  |
+| [Vega](https://open.spotify.com/track/2qJggGKzjnU43FVserdo3G) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Vega](https://open.spotify.com/album/76BMPNgKggRkhwoDbPAJbf) | 2:34 | 2023-06-15 | 2023-10-27 |
 | [Vera](https://open.spotify.com/track/5Lu0PGLEEPGNtj1YOREOCe) | [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [NOCHE](https://open.spotify.com/album/4miUxGfTsngMRsrVKwB2D4) | 2:16 | 2023-10-19 |  |
 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 | 2022-11-01 | 2022-12-14 |
 | [Violin Concerto, Op\. 30: If\. Studio V \- Per gli armonici\. Andante](https://open.spotify.com/track/3B87yX3OSqvLKhvHVKPhfv) | [Alberto Ginastera](https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk), [Hilary Hahn](https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX), [Frankfurt Radio Symphony Orchestra](https://open.spotify.com/artist/1XoXD9qLXeOBK6CtR2bbZQ), [Andrés Orozco\-Estrada](https://open.spotify.com/artist/5NL2rslgSdYEMujmzqJDO2) | [Ginastera: Violin Concerto, Op\. 30: If\. Studio V \- Per gli armonici\. Andante](https://open.spotify.com/album/56JMy4PIDBd7ZSGR0cKuIt) | 2:14 | 2022-10-20 | 2022-11-23 |

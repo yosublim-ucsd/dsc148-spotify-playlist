@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG?si=EkIivxk7RU2wk4u8lu0xHA"> Lady Donli</a>
 
-167 songs - 10 hr 1 min
+169 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dia](https://open.spotify.com/track/0ifPsNJwearRtX0v1wR75a) | [Les Mamans du Congo](https://open.spotify.com/artist/7i6SYXEQQzBMOlb4M9hE1I), [RROBIN](https://open.spotify.com/artist/2xPaqV5LOTeUjSsMGaLVmY) | [Kikento](https://open.spotify.com/album/4m5qOzQLSLJnGSKPGQrDzM) | 3:49 | 2023-03-03 | 2023-04-21 |
 | [Don't Care](https://open.spotify.com/track/6ZVQ4U55BqXLvLhOUOpkdb) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Senth Of Her](https://open.spotify.com/album/0YZHDg8vEVvf1O2yPIizzu) | 3:22 | 2022-12-18 | 2023-02-04 |
 | [Dry](https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Dry](https://open.spotify.com/album/66IrzcJ0xrFyfzeh51DbyS) | 3:59 | 2023-03-17 | 2023-04-15 |
+| [Dumb Luck](https://open.spotify.com/track/6SJzX7MUAK21qS8T3DbEbA) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Dumb Luck](https://open.spotify.com/album/5HiGR5M1pRcgp5N10mEPNN) | 4:04 | 2023-10-27 |  |
 | [Dunia](https://open.spotify.com/track/7ojNfKBmSyIAEIwZWPltL2) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Dunia](https://open.spotify.com/album/1hXshFVVMUj9ezwxRqwYSH) | 2:45 | 2023-04-27 |  |
 | [Emu Oguro](https://open.spotify.com/track/6vFtcu7AenyFL4wBdDdOOZ) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [Emu Oguro](https://open.spotify.com/album/5XDeRDMJP5DYQ2LfZD9uP5) | 3:13 | 2023-03-31 |  |
 | [Eyes Don't See](https://open.spotify.com/track/4avUDzXj79BrSOSRg3V0KA) | [Nyamekye Junction](https://open.spotify.com/artist/5PJMSOd80lQy16KzHyNfTi) | [Eyes Don't See](https://open.spotify.com/album/2YfwitkJ23gFSfbQJEh0XZ) | 5:47 | 2022-05-26 | 2023-05-12 |
@@ -55,6 +56,7 @@
 | [Holding On \- Live Dub Mix](https://open.spotify.com/track/4MzxG2az6IMFAMNlUlivwP) | [Sena](https://open.spotify.com/artist/1erBTcAMRYO1WTjsdv0Dma), [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH) | [The Ghana Live Sessions](https://open.spotify.com/album/0B5DMQdDvi7IJpPu7AUYfc) | 9:16 | 2023-03-17 | 2023-06-09 |
 | [Home](https://open.spotify.com/track/7l0EYGVhGZcuLyphccTcp0) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Home](https://open.spotify.com/album/7qZiuy7KLt5j5BXrs76wo3) | 2:17 | 2022-10-28 | 2023-02-04 |
 | [HURTING](https://open.spotify.com/track/3V2qkG0MbPwwMHUJNsxcuR) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [HURTING](https://open.spotify.com/album/4xpvcoxHFtD7JjRs0FyJ42) | 2:38 | 2023-05-26 | 2023-06-09 |
+| [Ibaasi](https://open.spotify.com/track/4FFAIsIjrbkA8W7lP64v2y) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Ibaasi](https://open.spotify.com/album/47BT0AkQNjqq5YExNikw43) | 4:33 | 2023-10-27 |  |
 | [Illusions](https://open.spotify.com/track/4VLqFjpM1vTzSTYemO9WWA) | [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [Theta](https://open.spotify.com/album/0YpkGecTgnIsXmKHh2KA3n) | 5:39 | 2022-06-09 | 2023-05-27 |
 | [Imali](https://open.spotify.com/track/0POdzGSgOhsL9oPX4ERj6q) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/3UkDRVrOBRrMvoMsb0EGim) | 2:42 | 2023-08-03 | 2023-08-05 |
 | [Imali](https://open.spotify.com/track/3Z9lmDapyI88AyHZ8utTf1) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/1bgbyxRaOGJaHu4Qze6rle) | 2:42 | 2023-08-03 |  |
@@ -162,7 +164,7 @@
 | [Waxtu](https://open.spotify.com/track/0rVGeHX2i6H5Entk7tUiiH) | [Kya Loum](https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm) | [Niit](https://open.spotify.com/album/0gp7HDhEZinV3HSFIXyV08) | 3:27 | 2022-10-13 | 2023-02-27 |
 | [Waxtu](https://open.spotify.com/track/7ntV80tB9wbRpDJz2Lf5ZT) | [Kya Loum](https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm) | [Niit](https://open.spotify.com/album/6yxgpB7XI5e72889GB0G9i) | 3:27 | 2023-01-27 | 2023-07-29 |
 | [WDYWFM \(feat\. L0la\)](https://open.spotify.com/track/48m7Kit1AFXmJuH244X4x7) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [L0la](https://open.spotify.com/artist/0Ba1FVGkH6ur9DLz6o9P62) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 3:01 | 2022-11-25 | 2022-12-02 |
-| [We Should've Talked About Saturday](https://open.spotify.com/track/1SI38tpcZbWCtxeqqEB8AM) | [Ndung'u Mbithi](https://open.spotify.com/artist/1Xae29olA5X6qpDX6MOvHO), [Ashley Kitonga](https://open.spotify.com/artist/0gpPjpebiHO5IkBBro2CyI) | [We Should've Talked About Saturday](https://open.spotify.com/album/1MxPoF95ecdKumtef1QGGJ) | 3:58 | 2023-09-21 |  |
+| [We Should've Talked About Saturday](https://open.spotify.com/track/1SI38tpcZbWCtxeqqEB8AM) | [Ndung'u Mbithi](https://open.spotify.com/artist/1Xae29olA5X6qpDX6MOvHO), [Ashley Kitonga](https://open.spotify.com/artist/0gpPjpebiHO5IkBBro2CyI) | [We Should've Talked About Saturday](https://open.spotify.com/album/1MxPoF95ecdKumtef1QGGJ) | 3:58 | 2023-09-21 | 2023-10-27 |
 | [What Are You Waiting For?](https://open.spotify.com/track/0vWrao6ShhQN2F1uZiHYHp) | [Nenor](https://open.spotify.com/artist/1HMwAssufObyNKkyHyCB3V), [Eyal Rob](https://open.spotify.com/artist/0bRtE2c9aw4IRXncNPSZba), [ELi A Free](https://open.spotify.com/artist/6OO7XtWXbXexb35OPRtTsE) | [What Are You Waiting For?](https://open.spotify.com/album/2pwWi3XR7NaplbMD4OU0HQ) | 5:05 | 2023-08-10 | 2023-08-18 |
 | [What You Want](https://open.spotify.com/track/1faFaJQTmGg6CV39W2RvSB) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [What You Want](https://open.spotify.com/album/6LNHDMFwWvS9LKJ0ArIVki) | 2:56 | 2020-09-10 | 2023-02-17 |
 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 | 2023-09-29 |  |
@@ -174,6 +176,6 @@
 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 | 2023-08-03 |  |
 | [Yeni Abre](https://open.spotify.com/track/5PR0Mk6xqpMoKh8D9GXbeQ) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Yeni Abre](https://open.spotify.com/album/1C9Xf13fBpa09nVuwlxaWW) | 4:18 | 2023-04-27 | 2023-09-29 |
 | [Your Dream](https://open.spotify.com/track/5adGSGSECey89gMxhbm1tZ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [NGABO](https://open.spotify.com/artist/73wyT5lSevGrU1bQhuDYdZ) | [Your Dream](https://open.spotify.com/album/0Gpl5YL9YKbvGbDe3xuGks) | 3:38 | 2022-04-21 | 2022-11-04 |
-| [Your Turn](https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Your Turn](https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e) | 3:54 | 2022-11-17 |  |
+| [Your Turn](https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Your Turn](https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e) | 3:54 | 2022-11-17 | 2023-10-27 |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

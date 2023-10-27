@@ -1,12 +1,12 @@
 {
   "description": "The best new rock tracks every week. Cover: YUNGBLUD & Oli Sykes",
-  "num_followers": 429257,
+  "num_followers": 429518,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Yzg4OGI1OWY5YjkyZTgxMDkxMDRmMTEwM2E0MTNiNGE2MmJmNjA4",
+  "snapshot_id": "MCxjMDYxOTFmZmI3Mzk2YzY4NjYxNzYyNTgzYTQ4NWM3MDY4M2Y5MzQ1",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Black Balloons",
+        "url": "https://open.spotify.com/album/6i1eBfd25KyOdtOaZpeJxW"
+      },
+      "artists": [
+        {
+          "name": "The Rare Occasions",
+          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        }
+      ],
+      "duration_ms": 113605,
+      "name": "Black Balloons",
+      "url": "https://open.spotify.com/track/6GcGjg0IfSzcnlrATESE4S"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Constant Headache",
         "url": "https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 181430,
       "name": "Constant Headache",
       "url": "https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Black Balloons",
-        "url": "https://open.spotify.com/album/6i1eBfd25KyOdtOaZpeJxW"
-      },
-      "artists": [
-        {
-          "name": "The Rare Occasions",
-          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
-        }
-      ],
-      "duration_ms": 113605,
-      "name": "Black Balloons",
-      "url": "https://open.spotify.com/track/6GcGjg0IfSzcnlrATESE4S"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Better Left Unsaid",
-        "url": "https://open.spotify.com/album/4P5FGoVB47l0tcYp39XnX6"
-      },
-      "artists": [
-        {
-          "name": "Connor Kauffman",
-          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
-        }
-      ],
-      "duration_ms": 171914,
-      "name": "Better Left Unsaid",
-      "url": "https://open.spotify.com/track/36ktIIw7DOCSodyqO3nsPB"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/1yiipBDOi6JJZecycXOlE7"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Better Left Unsaid",
+        "url": "https://open.spotify.com/album/4P5FGoVB47l0tcYp39XnX6"
+      },
+      "artists": [
+        {
+          "name": "Connor Kauffman",
+          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
+        }
+      ],
+      "duration_ms": 171914,
+      "name": "Better Left Unsaid",
+      "url": "https://open.spotify.com/track/36ktIIw7DOCSodyqO3nsPB"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Call Us by Her Name",
         "url": "https://open.spotify.com/album/3OMKbvZnvcUqCjB31U7YzI"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 211702,
       "name": "Call Us by Her Name",
       "url": "https://open.spotify.com/track/3I6n7hgL6fwhsPleITTwGn"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "I'm Not Sorry",
+        "url": "https://open.spotify.com/album/1DyR4ZshrCKDhlPVzC0NBv"
+      },
+      "artists": [
+        {
+          "name": "The Pinpricks",
+          "url": "https://open.spotify.com/artist/0B134UxWQkuc1kVfjsuDsr"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "I'm Not Sorry",
+      "url": "https://open.spotify.com/track/0JGcwV70md4Xgysgj420Yg"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -627,22 +643,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "I'm Not Sorry",
-        "url": "https://open.spotify.com/album/1DyR4ZshrCKDhlPVzC0NBv"
-      },
-      "artists": [
-        {
-          "name": "The Pinpricks",
-          "url": "https://open.spotify.com/artist/0B134UxWQkuc1kVfjsuDsr"
-        }
-      ],
-      "duration_ms": 170814,
-      "name": "I'm Not Sorry",
-      "url": "https://open.spotify.com/track/0JGcwV70md4Xgysgj420Yg"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Goliathette",
         "url": "https://open.spotify.com/album/56cPdkBWLopCvPJXTWEZ0S"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 214186,
       "name": "Goliathette",
       "url": "https://open.spotify.com/track/1SYHyCNtg6E2BDyhxowRG3"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Alligator Death Roll",
-        "url": "https://open.spotify.com/album/6Z1dLwNlEQb9LpVCktBTCZ"
-      },
-      "artists": [
-        {
-          "name": "Olivver the Kid",
-          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
-        }
-      ],
-      "duration_ms": 207626,
-      "name": "Superman(ic)",
-      "url": "https://open.spotify.com/track/2NZ6l7ZaO5hACwRpbw9a7n"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -703,6 +687,22 @@
       "duration_ms": 149263,
       "name": "Chalk",
       "url": "https://open.spotify.com/track/4Cvpb8DicKbLSiftBmac99"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Alligator Death Roll",
+        "url": "https://open.spotify.com/album/6Z1dLwNlEQb9LpVCktBTCZ"
+      },
+      "artists": [
+        {
+          "name": "Olivver the Kid",
+          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
+        }
+      ],
+      "duration_ms": 207626,
+      "name": "Superman(ic)",
+      "url": "https://open.spotify.com/track/2NZ6l7ZaO5hACwRpbw9a7n"
     },
     {
       "added_at": "2023-10-20 04:01:00",

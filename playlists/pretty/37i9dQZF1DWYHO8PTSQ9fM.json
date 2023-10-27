@@ -1,12 +1,12 @@
 {
   "description": "Les hits du moment sont ici. Cover : Morad, GIMS",
-  "num_followers": 360633,
+  "num_followers": 361050,
   "original_name": "Hot Hits Maghreb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGVkZGQyNGM0YjVmNDMzOTQ2ZDdhZGZhMTYxZjBmM2JjMWVlNzE0",
+  "snapshot_id": "MCxmMTQzMTA1NmY2OTBiNmQzZTU1ODUzZWEzYWJjMzcwYThjMDRiMGY2",
   "tracks": [
     {
       "added_at": "2023-10-20 07:37:47",
@@ -78,6 +78,10 @@
         {
           "name": "Naza",
           "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "Unleaded",
+          "url": "https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun"
         }
       ],
       "duration_ms": 170435,
@@ -302,6 +306,10 @@
         {
           "name": "MHD",
           "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        },
+        {
+          "name": "YAM",
+          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
         }
       ],
       "duration_ms": 161506,

@@ -24207,20 +24207,24 @@
     },
     {
       "album": {
-        "name": "KAYKO",
+        "name": "KAYKO (Santiago Rey Remix)",
         "url": "https://open.spotify.com/album/7q3gwuRoYIOWyNzpqHZFp2"
       },
       "artists": [
         {
           "name": "Ana Ruiz",
           "url": "https://open.spotify.com/artist/54ZoJKNSqlR07LKYPixZxu"
+        },
+        {
+          "name": "Santiago Rey",
+          "url": "https://open.spotify.com/artist/3KOg62Nw63sN1i9wZUu5tU"
         }
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174556,
-      "name": "KAYKO",
+      "name": "KAYKO - Santiago Rey Remix",
       "url": "https://open.spotify.com/track/4zpUNT7lldFahM8tuw2Mv2"
     },
     {

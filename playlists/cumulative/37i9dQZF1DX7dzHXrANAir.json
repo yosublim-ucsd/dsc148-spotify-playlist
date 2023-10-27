@@ -1745,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/0Ruw6EAFove5eAZrf7cU6l"
+      },
+      "artists": [
+        {
+          "name": "David A. Molina",
+          "url": "https://open.spotify.com/artist/6OmPjTPiNJ2IGNjcgg3Oug"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238223,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3l3ahfNRJqe58020fZz10w"
+    },
+    {
+      "album": {
         "name": "Geneva",
         "url": "https://open.spotify.com/album/1RcopfYKcxb1fLgjtrGLs5"
       },
@@ -2960,7 +2978,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 210600,
       "name": "Minquiers",
       "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
@@ -3736,7 +3754,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 139130,
       "name": "Overture",
       "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
@@ -3754,7 +3772,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 242880,
       "name": "Owls",
       "url": "https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO"
@@ -5246,8 +5264,24 @@
       },
       "artists": [
         {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
           "name": "Thylacine",
           "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        },
+        {
+          "name": "U\u00e8le Lamore",
+          "url": "https://open.spotify.com/artist/12jPinlyvDpbdEHwg0oXXl"
+        },
+        {
+          "name": "Pierre-Louis Bonamy",
+          "url": "https://open.spotify.com/artist/0SRstnr4CDVioPCrDDFoch"
+        },
+        {
+          "name": "Orchestre national des Pays de la Loire",
+          "url": "https://open.spotify.com/artist/1i7fbBvtzozXObZKcL6sGH"
         }
       ],
       "date_added": "2023-09-29",

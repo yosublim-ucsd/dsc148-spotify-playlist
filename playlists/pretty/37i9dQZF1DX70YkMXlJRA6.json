@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 47115,
+  "num_followers": 47143,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Yjk4OTMyODZjY2QzNDg0Y2JmMmE4OTQxNDBkNWFjYTdkMWI5ODlm",
+  "snapshot_id": "MCxhNzQ0NzU4YjM1MzIyZDBmOTYzYmUxM2RjZDQwYjMzMzM3OTIwMDVm",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -245,6 +245,22 @@
       "url": "https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt"
     },
     {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Matanza",
+        "url": "https://open.spotify.com/album/53Ckzqd3sEAJ6inu7Vgozq"
+      },
+      "artists": [
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        }
+      ],
+      "duration_ms": 368176,
+      "name": "Canto al Fuego",
+      "url": "https://open.spotify.com/track/3R9l60BDCH4pq8iaR44i0O"
+    },
+    {
       "added_at": "2023-03-31 18:13:24",
       "album": {
         "name": "Dubby Sunday",
@@ -263,22 +279,6 @@
       "duration_ms": 348662,
       "name": "Dubby Sunday",
       "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Matanza",
-        "url": "https://open.spotify.com/album/53Ckzqd3sEAJ6inu7Vgozq"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 368176,
-      "name": "Canto al Fuego",
-      "url": "https://open.spotify.com/track/3R9l60BDCH4pq8iaR44i0O"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -421,6 +421,30 @@
       "url": "https://open.spotify.com/track/4c5nygEjIwHZSgAFPVXfiJ"
     },
     {
+      "added_at": "2023-03-23 21:34:53",
+      "album": {
+        "name": "Gato Negro (Daniel Hokum & Okuma Remix)",
+        "url": "https://open.spotify.com/album/23hqOpIvA1VbjM6INLeuvg"
+      },
+      "artists": [
+        {
+          "name": "Klik & Frik",
+          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
+        },
+        {
+          "name": "Daniel Hokum",
+          "url": "https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd"
+        },
+        {
+          "name": "okuma",
+          "url": "https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q"
+        }
+      ],
+      "duration_ms": 395632,
+      "name": "Gato Negro - Daniel Hokum & okuma Remix",
+      "url": "https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp"
+    },
+    {
       "added_at": "2022-06-07 16:47:23",
       "album": {
         "name": "Mira Bien",
@@ -459,30 +483,6 @@
       "duration_ms": 220452,
       "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
       "url": "https://open.spotify.com/track/6GMd54cabubG2fdz438cmF"
-    },
-    {
-      "added_at": "2023-03-23 21:34:53",
-      "album": {
-        "name": "Gato Negro (Daniel Hokum & Okuma Remix)",
-        "url": "https://open.spotify.com/album/23hqOpIvA1VbjM6INLeuvg"
-      },
-      "artists": [
-        {
-          "name": "Klik & Frik",
-          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
-        },
-        {
-          "name": "Daniel Hokum",
-          "url": "https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd"
-        },
-        {
-          "name": "okuma",
-          "url": "https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q"
-        }
-      ],
-      "duration_ms": 395632,
-      "name": "Gato Negro - Daniel Hokum & okuma Remix",
-      "url": "https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Baile Fodongo",
-        "url": "https://open.spotify.com/album/64c3abWCWgsE90nB69DsPE"
-      },
-      "artists": [
-        {
-          "name": "Altoparlante",
-          "url": "https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU"
-        }
-      ],
-      "duration_ms": 306599,
-      "name": "Baile Fodongo",
-      "url": "https://open.spotify.com/track/1dlyPfKv2Bl5nYZzpO1VUX"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Beat Cari",
         "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 332142,
       "name": "Beat Cari",
       "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Baile Fodongo",
+        "url": "https://open.spotify.com/album/64c3abWCWgsE90nB69DsPE"
+      },
+      "artists": [
+        {
+          "name": "Altoparlante",
+          "url": "https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU"
+        }
+      ],
+      "duration_ms": 306599,
+      "name": "Baile Fodongo",
+      "url": "https://open.spotify.com/track/1dlyPfKv2Bl5nYZzpO1VUX"
     },
     {
       "added_at": "2023-03-24 19:41:45",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Magnetica",
-        "url": "https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Sol Clap",
-      "url": "https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Pulso",
         "url": "https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 284000,
       "name": "Costa Para\u00edso",
       "url": "https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Magnetica",
+        "url": "https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Sol Clap",
+      "url": "https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta"
     },
     {
       "added_at": "2022-06-07 16:47:23",

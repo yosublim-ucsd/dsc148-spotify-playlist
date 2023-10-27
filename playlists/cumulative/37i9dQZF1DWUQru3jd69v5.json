@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Il Ghost, Darden",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Gheba",
   "name": "Raptopia",
   "tracks": [
     {
@@ -1146,10 +1146,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 158400,
       "name": "ASSISTE 2 (feat. Kilimoney)",
       "url": "https://open.spotify.com/track/6uJCQb6kWhXfWrIXnDP8mx"
+    },
+    {
+      "album": {
+        "name": "ATTIMO",
+        "url": "https://open.spotify.com/album/0nlhPomopFpYGyEkUUzjNj"
+      },
+      "artists": [
+        {
+          "name": "Bubu Doc",
+          "url": "https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166151,
+      "name": "ATTIMO",
+      "url": "https://open.spotify.com/track/01nHhpyMvqwrOaObKtGwRz"
     },
     {
       "album": {
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 165034,
       "name": "BEBECITA",
       "url": "https://open.spotify.com/track/79hRcrehOEmreZjXjSsfds"
@@ -1646,7 +1664,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 157611,
       "name": "Bella Vita",
       "url": "https://open.spotify.com/track/6xHhvz7EFjQFAlm42ePpQB"
@@ -2684,6 +2702,28 @@
       "duration_ms": 132330,
       "name": "CAPISCI CHE INTENDO 2 (grazie)",
       "url": "https://open.spotify.com/track/1gJKUQZH9Xd3weNmLLUiZx"
+    },
+    {
+      "album": {
+        "name": "CAPO MOVES",
+        "url": "https://open.spotify.com/album/0pkxqmGIy5z6Q0h6eu60h5"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136682,
+      "name": "CAPO MOVES",
+      "url": "https://open.spotify.com/track/0liE5Cvv22tXUNGmtV9Arp"
     },
     {
       "album": {
@@ -4969,6 +5009,36 @@
     },
     {
       "album": {
+        "name": "NO REGULAR MUSIC",
+        "url": "https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2"
+      },
+      "artists": [
+        {
+          "name": "Sadturs",
+          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+        },
+        {
+          "name": "KIID",
+          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+        },
+        {
+          "name": "Faneto",
+          "url": "https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4"
+        },
+        {
+          "name": "Melons el pejor",
+          "url": "https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159101,
+      "name": "EVIL TWINS (feat. Faneto, Melons el pejor)",
+      "url": "https://open.spotify.com/track/4Ojlf4ztVp8AsIS2SJV6H0"
+    },
+    {
+      "album": {
         "name": "Exodus 23.1",
         "url": "https://open.spotify.com/album/4BmIACbPUjVdF5CYo3YXSi"
       },
@@ -5130,6 +5200,24 @@
       "duration_ms": 113142,
       "name": "fashion killa \u00a1!",
       "url": "https://open.spotify.com/track/4PXyibxfJl3kcjO1Ha8xHf"
+    },
+    {
+      "album": {
+        "name": "FAT",
+        "url": "https://open.spotify.com/album/6AEugZyw2iAaoVGEgNdbdI"
+      },
+      "artists": [
+        {
+          "name": "Lokita",
+          "url": "https://open.spotify.com/artist/0qkSFtzIwfHhZhTaFGXfxp"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "FAT",
+      "url": "https://open.spotify.com/track/4TLOGF37OKLeNkvCeFaohW"
     },
     {
       "album": {
@@ -8572,7 +8660,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 148872,
       "name": "Ma Bella",
       "url": "https://open.spotify.com/track/5eeMVrbremAMXoU0NuiXgz"
@@ -8948,6 +9036,28 @@
       "duration_ms": 145263,
       "name": "Mamma Santa",
       "url": "https://open.spotify.com/track/7lVZFwGZlbDB3kXyOjYpyh"
+    },
+    {
+      "album": {
+        "name": "MAR7ABA (feat. Nabi)",
+        "url": "https://open.spotify.com/album/0EzPLBiSfAiOYD1q68c6ch"
+      },
+      "artists": [
+        {
+          "name": "Y.E.B",
+          "url": "https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif"
+        },
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180046,
+      "name": "MAR7ABA (feat. Nabi)",
+      "url": "https://open.spotify.com/track/3WFlIMxM6GteBtgtt5nNFg"
     },
     {
       "album": {
@@ -9349,6 +9459,24 @@
     },
     {
       "album": {
+        "name": "Merdaparlando 2",
+        "url": "https://open.spotify.com/album/6cfIC3yvjQz2BjdUGwsFXk"
+      },
+      "artists": [
+        {
+          "name": "Dot Valentino",
+          "url": "https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126373,
+      "name": "Merdaparlando 2",
+      "url": "https://open.spotify.com/track/3Qi32QyMXpUpaRRq84ljO5"
+    },
+    {
+      "album": {
         "name": "METEORITE",
         "url": "https://open.spotify.com/album/1I5KZqe0ngRm1YGgabWQbn"
       },
@@ -9554,6 +9682,28 @@
       "duration_ms": 136478,
       "name": "MILKA",
       "url": "https://open.spotify.com/track/0SuASbFf1CcYDASZ16XEFR"
+    },
+    {
+      "album": {
+        "name": "Million Dollar",
+        "url": "https://open.spotify.com/album/4wdR5BTgIKCnADDGb9eqIP"
+      },
+      "artists": [
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        },
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159961,
+      "name": "Million Dollar",
+      "url": "https://open.spotify.com/track/1rTwPO0jWUcjB6Qpwk4vKo"
     },
     {
       "album": {
@@ -11716,7 +11866,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 92432,
       "name": "POGO",
       "url": "https://open.spotify.com/track/65dszUrHA9RcgJUTMGCSaH"
@@ -14545,6 +14695,28 @@
     },
     {
       "album": {
+        "name": "Talento 1",
+        "url": "https://open.spotify.com/album/0HXIPwmEkOiEbt9L55XhWp"
+      },
+      "artists": [
+        {
+          "name": "LJK",
+          "url": "https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd"
+        },
+        {
+          "name": "Damo",
+          "url": "https://open.spotify.com/artist/5LAlkPIJfTgQ7w65HPMll2"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183272,
+      "name": "Talento 1",
+      "url": "https://open.spotify.com/track/5TAQklwUEGBAAiTFhCyxM0"
+    },
+    {
+      "album": {
         "name": "TAXI",
         "url": "https://open.spotify.com/album/2ODeD4PHuifsm7n6ea9ZaN"
       },
@@ -14921,6 +15093,24 @@
     },
     {
       "album": {
+        "name": "Top Boy",
+        "url": "https://open.spotify.com/album/6bsDeN3YlLDok3kefnmSZF"
+      },
+      "artists": [
+        {
+          "name": "Lele",
+          "url": "https://open.spotify.com/artist/5Ef0bhKWbzbSgfKlCguEoQ"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167106,
+      "name": "Top Boy",
+      "url": "https://open.spotify.com/track/1ulJFkCkrNued2jimxc8PL"
+    },
+    {
+      "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
       },
@@ -15251,6 +15441,36 @@
     },
     {
       "album": {
+        "name": "NO REGULAR MUSIC",
+        "url": "https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2"
+      },
+      "artists": [
+        {
+          "name": "Sadturs",
+          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+        },
+        {
+          "name": "KIID",
+          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+        },
+        {
+          "name": "Digital Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "TURBO (feat. Digital Astro, Tony Boy)",
+      "url": "https://open.spotify.com/track/04VLT3WTmhaNKsNnIMnV2I"
+    },
+    {
+      "album": {
         "name": "Turn Up #4",
         "url": "https://open.spotify.com/album/2SUjwyPhhmrqYsCTKPwDya"
       },
@@ -15302,7 +15522,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 124920,
       "name": "Tutta Tatuata",
       "url": "https://open.spotify.com/track/45g7ALZKKjiaUvH5o6ovxC"
@@ -16082,6 +16302,24 @@
       "duration_ms": 181472,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/7K508JqcqeUNqrDgZKpjkX"
+    },
+    {
+      "album": {
+        "name": "WHITE",
+        "url": "https://open.spotify.com/album/2IjGyAVDRWAnmlbPDXIt5j"
+      },
+      "artists": [
+        {
+          "name": "Skinny",
+          "url": "https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178750,
+      "name": "WHITE",
+      "url": "https://open.spotify.com/track/1yZm8DsxzsLuBqo6ih9ccu"
     },
     {
       "album": {

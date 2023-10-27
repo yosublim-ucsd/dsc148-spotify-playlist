@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. 🌍 Photo: Ferre Gola
 
-289 songs - 18 hr 14 min
+291 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Mbappé](https://open.spotify.com/track/4x8jFY4oAcBsAt67pjonSS) | [Ibn Itaka](https://open.spotify.com/artist/3ZyajuEhPOcKzQTObbskL2), [Julien Makarabianko](https://open.spotify.com/artist/6AgeuJ3W2MHEvlqc9fCzPw) | [Mbappé](https://open.spotify.com/album/4TdC4zH22pUkAkW2eVQm2A) | 4:08 | 2022-07-08 | 2022-08-06 |
 | [Mbila \- João Selva Remix](https://open.spotify.com/track/1gW5zzEe41Hdbd3l1CYllP) | [Les Mamans du Congo](https://open.spotify.com/artist/7i6SYXEQQzBMOlb4M9hE1I), [RROBIN](https://open.spotify.com/artist/2xPaqV5LOTeUjSsMGaLVmY), [João Selva](https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG) | [Mbila \(João Selva Remix\)](https://open.spotify.com/album/4CexHLC4PDH9rCz9l33xpo) | 4:02 | 2022-06-30 | 2023-02-11 |
 | [Mbongo](https://open.spotify.com/track/7MNpmYELfvKKdLHAEUbCet) | [Juvelly](https://open.spotify.com/artist/76JitTMfMxdrHfWZzyqJMh) | [Mbongo](https://open.spotify.com/album/5Jg5DLWuVnf08USPjI1cBs) | 3:56 | 2022-06-30 | 2023-01-06 |
-| [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 | 2023-08-25 |  |
+| [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 | 2023-10-20 |  |
+| [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 | 2023-08-25 | 2023-10-27 |
 | [Miso](https://open.spotify.com/track/4wjnWG0gIg1jDtLSuTMbGK) | [Hugo Kafumbi](https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te) | [Miso](https://open.spotify.com/album/1NliySxbgFExAbNOjLDMMe) | 2:15 | 2023-03-31 | 2023-07-15 |
 | [Misu na misu](https://open.spotify.com/track/0rEnLlgpNdxntNU7irVb51) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Misu na misu](https://open.spotify.com/album/4kI0FPGAJdKHE7DEvfNv1i) | 3:28 | 2022-06-30 | 2023-05-06 |
 | [MK II \- Version Libanga](https://open.spotify.com/track/58HxwiXZMSzFp0feDTpAcX) | [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l) | [MK II](https://open.spotify.com/album/0ZSPkwitGGzb6PRqXSqc4B) | 3:16 | 2023-04-21 | 2023-05-06 |
@@ -248,7 +249,8 @@
 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 | 2023-03-24 | 2023-06-10 |
 | [Soldat](https://open.spotify.com/track/0mMlg9IjOqcDYFIkWiJUnC) | [Samy palila](https://open.spotify.com/artist/0ie8C29F5qLW9CoMdogwyL), [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Soldat](https://open.spotify.com/album/6B8xFNUP5v5zneQMo6eENp) | 3:14 | 2023-09-08 |  |
 | [Solola bien](https://open.spotify.com/track/2DojN92dP5pBFCQK5YLGQJ) | [Wenge Musica Maison Mère](https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp) | [Maison mère](https://open.spotify.com/album/5M8p6oL21ngPA4E5lSIGbU) | 7:02 | 2022-06-30 |  |
-| [Special](https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Special](https://open.spotify.com/album/6TGfYxyok74SZjidtVZB79) | 4:07 | 2023-08-26 |  |
+| [Special](https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Special](https://open.spotify.com/album/6TGfYxyok74SZjidtVZB79) | 4:07 | 2023-08-26 | 2023-10-27 |
+| [Special](https://open.spotify.com/track/7AxbDCxi8MWazbVUR11nfK) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:07 | 2023-10-20 |  |
 | [Ta Présence](https://open.spotify.com/track/4GLxG7EniRu9Py6soT2vBf) | [Daniel Mundos](https://open.spotify.com/artist/3aLEhh4HY2Sdl0v0lWhZwc) | [Ta Présence](https://open.spotify.com/album/7mrRTvQ2OCI3XOZkmvSpgy) | 3:06 | 2023-09-15 | 2023-09-30 |
 | [Tant Pis](https://open.spotify.com/track/4ZmqFrZr2ItfKrM9BUOqDS) | [IDPizzle](https://open.spotify.com/artist/3tHfJUWTW4xMGVrUuFD7DC) | [Tant Pis](https://open.spotify.com/album/0F8diwVEi6B37A7ftlPHe8) | 3:05 | 2023-03-24 | 2023-06-10 |
 | [Techno malewa mécanique](https://open.spotify.com/track/5O34o7gWa08iA4giYbY6mS) | [Werrason](https://open.spotify.com/artist/5QnSd8nC7fUp47pEma0sqU), [Wenge Musica Maison Mère](https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp) | [Techno malewa, vol\. 1 : sans cesse](https://open.spotify.com/album/6Zt11836h7D2abgRex1UXR) | 12:18 | 2022-06-30 | 2022-07-09 |

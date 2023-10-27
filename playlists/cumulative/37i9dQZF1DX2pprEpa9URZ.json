@@ -1165,6 +1165,28 @@
     },
     {
       "album": {
+        "name": "Beyond Strings",
+        "url": "https://open.spotify.com/album/4O3CN6cMyHP95IpF7QcPJa"
+      },
+      "artists": [
+        {
+          "name": "Ghenwa Nemnom",
+          "url": "https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp"
+        },
+        {
+          "name": "Mohab Sammy",
+          "url": "https://open.spotify.com/artist/223p44YDBTVmvgi2NeHC5j"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451525,
+      "name": "Beyond Strings",
+      "url": "https://open.spotify.com/track/0X0nx6xOexUGeR5lGfqXCE"
+    },
+    {
+      "album": {
         "name": "Black Rat",
         "url": "https://open.spotify.com/album/5crhRNXwKWNmdw6Qho9NM0"
       },
@@ -3342,7 +3364,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 391511,
       "name": "Jendayi",
       "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"

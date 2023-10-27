@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 11164,
+  "num_followers": 11196,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjA2NzljM2NmNmIzNWI3NDQ1NmNlZmUyODViNTU5Zjc5OWE1MWQ3",
+  "snapshot_id": "MCw3MjJjMTQ3ZTgzMjM2ODI4NTMyMDI5ZDJlNTk1NDBmNmIzZDE4NmRm",
   "tracks": [
     {
       "added_at": "2023-10-16 07:47:53",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-10-16 07:47:53",
       "album": {
-        "name": "PLAYLIST (Original Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Like a Bird",
-      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
-    },
-    {
-      "added_at": "2023-10-16 07:47:53",
-      "album": {
         "name": "Lean On Me (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 153000,
       "name": "It will be all fine",
       "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
+    },
+    {
+      "added_at": "2023-10-16 07:47:53",
+      "album": {
+        "name": "PLAYLIST (Original Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Like a Bird",
+      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
     },
     {
       "added_at": "2023-10-16 07:47:53",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-10-16 07:47:53",
       "album": {
+        "name": "\uac74\uac15\ud558\uc138\ubaa8 Take care",
+        "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
+      },
+      "artists": [
+        {
+          "name": "IMSEMO",
+          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
+        }
+      ],
+      "duration_ms": 186441,
+      "name": "\uc9c0\ucce4\uc5b4 Burned out",
+      "url": "https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2"
+    },
+    {
+      "added_at": "2023-10-16 07:47:53",
+      "album": {
         "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
         "url": "https://open.spotify.com/album/0qBs5065OHejWFDLs9Rd87"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 220496,
       "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
       "url": "https://open.spotify.com/track/5AYbwrmi3OmNXSNoEtCgZi"
-    },
-    {
-      "added_at": "2023-10-16 07:47:53",
-      "album": {
-        "name": "\uac74\uac15\ud558\uc138\ubaa8 Take care",
-        "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
-      },
-      "artists": [
-        {
-          "name": "IMSEMO",
-          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
-        }
-      ],
-      "duration_ms": 186441,
-      "name": "\uc9c0\ucce4\uc5b4 Burned out",
-      "url": "https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2"
     },
     {
       "added_at": "2023-10-16 07:47:53",

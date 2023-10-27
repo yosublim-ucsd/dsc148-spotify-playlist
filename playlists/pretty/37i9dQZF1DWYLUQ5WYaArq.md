@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > A \~ spooky \~ mix for Halloween 👻
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,585 likes - 51 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,890 likes - 51 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 50 | [Halloween](https://open.spotify.com/track/3lM9UdOYvDIs5PSY8aBEl2) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:41 |
 | 51 | [Zombie Zoo](https://open.spotify.com/track/6fKYUIurKDNTHz7bEOaOj6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
 
-Snapshot ID: `MCw2M2NiMWIwMjAwOGQ1N2NmODc2NGU5YzQzMGRlNGJkYThkMGQ0ZTUz`
+Snapshot ID: `MCxmODQ2NWEwMDBjNTY4NzYxMzg0NTZkZWVhNzgzY2ZkZjJlZTkyYWE1`

@@ -1,64 +1,28 @@
 {
   "description": "New music from Sufjan Stevens, boygenius, Caroline Polachek, Mitski and more. ",
-  "num_followers": 2196548,
+  "num_followers": 2196550,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDllOTRiMGYwMDExN2I5YWRjOTA5NzE2ZWNkYzdmZTIzNzA3NDll",
+  "snapshot_id": "MCwyMWJkYTQyZmEzNGM5ODM5M2FkZmE3MzRlOWJjOTBmYzY3MmY5ZjFh",
   "tracks": [
     {
-      "added_at": "2023-10-18 03:30:00",
+      "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Dang",
-        "url": "https://open.spotify.com/album/3DZodwqZN2YkjgI0NAwyS8"
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
       },
       "artists": [
         {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 164514,
-      "name": "Dang",
-      "url": "https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 169472,
-      "name": "I've Been In Love",
-      "url": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
-    },
-    {
-      "added_at": "2023-09-19 19:10:28",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+      "duration_ms": 302578,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -81,20 +45,40 @@
       "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
+      "added_at": "2023-10-26 22:36:02",
       "album": {
-        "name": "A Running Start",
-        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
+        "name": "Suburban House",
+        "url": "https://open.spotify.com/album/4rFmHomF53LoM6DGOSeOwA"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Holly Macve",
+          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 249259,
-      "name": "Will Anybody Ever Love Me?",
-      "url": "https://open.spotify.com/track/6GY4onk77lT1xcDHT9rsvh"
+      "duration_ms": 229878,
+      "name": "Suburban House",
+      "url": "https://open.spotify.com/track/676TvM26wVq88afbYDPRO3"
+    },
+    {
+      "added_at": "2023-09-19 19:10:28",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -115,6 +99,114 @@
       "duration_ms": 294396,
       "name": "Thick Skull (Re: Julien Baker)",
       "url": "https://open.spotify.com/track/7JH2H8oc2LfcEfiiEN0mML"
+    },
+    {
+      "added_at": "2023-10-26 22:36:02",
+      "album": {
+        "name": "My Big Day",
+        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        }
+      ],
+      "duration_ms": 322453,
+      "name": "Heaven - feat. Damon Albarn",
+      "url": "https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 169472,
+      "name": "I've Been In Love",
+      "url": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
+    },
+    {
+      "added_at": "2023-10-18 03:30:00",
+      "album": {
+        "name": "Dang",
+        "url": "https://open.spotify.com/album/3DZodwqZN2YkjgI0NAwyS8"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 164514,
+      "name": "Dang",
+      "url": "https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "A Running Start",
+        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 249259,
+      "name": "Will Anybody Ever Love Me?",
+      "url": "https://open.spotify.com/track/6GY4onk77lT1xcDHT9rsvh"
+    },
+    {
+      "added_at": "2023-10-26 22:36:02",
+      "album": {
+        "name": "Sleeper",
+        "url": "https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 244271,
+      "name": "Sleeper",
+      "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
+    },
+    {
+      "added_at": "2023-10-02 17:23:54",
+      "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "MUD",
+      "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -149,22 +241,6 @@
       "url": "https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ"
     },
     {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Funny",
-        "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 302578,
-      "name": "Funny",
-      "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
-    },
-    {
       "added_at": "2023-10-18 03:30:00",
       "album": {
         "name": "Paint My Bedroom Black",
@@ -181,20 +257,20 @@
       "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
     },
     {
-      "added_at": "2023-10-02 17:23:54",
+      "added_at": "2023-10-26 22:36:02",
       "album": {
-        "name": "Yard",
-        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/0zT2ilSANN1bLI7gV6lqCl"
       },
       "artists": [
         {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
         }
       ],
-      "duration_ms": 246426,
-      "name": "MUD",
-      "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
+      "duration_ms": 224373,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/43DsSmYR7rk3LKnyY8wkGI"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -263,6 +339,26 @@
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
+    {
+      "added_at": "2023-10-26 22:36:02",
+      "album": {
+        "name": "alive",
+        "url": "https://open.spotify.com/album/6EebIEnkHOZkgvyaRhQQaK"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 108049,
+      "name": "alive",
+      "url": "https://open.spotify.com/track/2XqX1e0lH7O83AaDzbsD8s"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -377,24 +473,20 @@
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
-      "added_at": "2023-10-18 03:30:00",
+      "added_at": "2023-10-26 22:36:02",
       "album": {
-        "name": "Jonny",
-        "url": "https://open.spotify.com/album/2yyDNz8lkP0igqZfZzEgv0"
+        "name": "Always / Never",
+        "url": "https://open.spotify.com/album/16f1fDWr5jRAcGiqFoZSFI"
       },
       "artists": [
         {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
         }
       ],
-      "duration_ms": 219973,
-      "name": "Dying",
-      "url": "https://open.spotify.com/track/60kl9blMLz8yl3akeh6sXe"
+      "duration_ms": 221290,
+      "name": "Always / Never",
+      "url": "https://open.spotify.com/track/3n9EfOy7vlDIXbDyntRLxc"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -475,6 +567,22 @@
       "duration_ms": 214073,
       "name": "Born For Loving You",
       "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
+    },
+    {
+      "added_at": "2023-10-26 22:36:02",
+      "album": {
+        "name": "GLOW / AGNOSTIC",
+        "url": "https://open.spotify.com/album/1bEikzQV0ZKvnYHTzIYjsi"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 166643,
+      "name": "GLOW",
+      "url": "https://open.spotify.com/track/0i8EbwLvGtg3u9hq896b1A"
     },
     {
       "added_at": "2023-07-07 22:04:26",
@@ -591,6 +699,22 @@
       "duration_ms": 179037,
       "name": "Theatre",
       "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
+    },
+    {
+      "added_at": "2023-10-26 22:36:02",
+      "album": {
+        "name": "Nightclubs in Heaven",
+        "url": "https://open.spotify.com/album/1o3BEceG30UxS6fvjN40sj"
+      },
+      "artists": [
+        {
+          "name": "Henry Morris",
+          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+        }
+      ],
+      "duration_ms": 119875,
+      "name": "Nightclubs in Heaven",
+      "url": "https://open.spotify.com/track/66iox4Zx8x9VmE0ON7jueN"
     },
     {
       "added_at": "2023-10-18 03:30:00",
@@ -784,7 +908,7 @@
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "Sit Down for Dinner",
-        "url": "https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS"
+        "url": "https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq"
       },
       "artists": [
         {
@@ -794,7 +918,7 @@
       ],
       "duration_ms": 310094,
       "name": "Melody Experiment",
-      "url": "https://open.spotify.com/track/04SwfL1yAlGgn0EftxX3Jy"
+      "url": "https://open.spotify.com/track/5k1c6yaWO1uTSY6wNTVUa6"
     },
     {
       "added_at": "2023-08-17 18:35:07",
@@ -1759,8 +1883,8 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Soft Like a Flower",
-        "url": "https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV"
+        "name": "I Don't Want You Anymore",
+        "url": "https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb"
       },
       "artists": [
         {
@@ -1770,7 +1894,7 @@
       ],
       "duration_ms": 198333,
       "name": "Soft Like a Flower",
-      "url": "https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj"
+      "url": "https://open.spotify.com/track/2hj7KCZ38HJWlEfQDs4IQH"
     },
     {
       "added_at": "2023-07-28 18:11:23",

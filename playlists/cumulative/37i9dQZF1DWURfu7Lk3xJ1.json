@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "after dark",
+        "url": "https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM"
+      },
+      "artists": [
+        {
+          "name": "takemefaraway",
+          "url": "https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141886,
+      "name": "after dark",
+      "url": "https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14"
+    },
+    {
+      "album": {
         "name": "After the Storm",
         "url": "https://open.spotify.com/album/617l8QGitmDeLXCNEGexkb"
       },
@@ -2721,6 +2739,24 @@
     },
     {
       "album": {
+        "name": "follow curves",
+        "url": "https://open.spotify.com/album/55IZEKu9b2Nf57guiXN7ca"
+      },
+      "artists": [
+        {
+          "name": "aUra Lu",
+          "url": "https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123815,
+      "name": "follow curves",
+      "url": "https://open.spotify.com/track/6ySxZ4DIudwVEohGVNJJBy"
+    },
+    {
+      "album": {
         "name": "forest trails",
         "url": "https://open.spotify.com/album/1XzTJ6rS4TBVrPgLt6EdsB"
       },
@@ -3838,7 +3874,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 129882,
       "name": "Little Soul",
       "url": "https://open.spotify.com/track/4Ht6KepmTnEG0yymwBZkWS"
@@ -5553,6 +5589,24 @@
     },
     {
       "album": {
+        "name": "Pure Water",
+        "url": "https://open.spotify.com/album/0pdsUyxPplZqjQ2oRBkmcD"
+      },
+      "artists": [
+        {
+          "name": "JAKKARTA",
+          "url": "https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177923,
+      "name": "Pure Water",
+      "url": "https://open.spotify.com/track/2ZLJrHbLNkj8rrnh9ECyxU"
+    },
+    {
+      "album": {
         "name": "purple growth",
         "url": "https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK"
       },
@@ -5910,7 +5964,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 116000,
       "name": "remote cabin",
       "url": "https://open.spotify.com/track/1k1ioWy2YBIlZ7RqpTpUnl"
@@ -7394,7 +7448,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 127058,
       "name": "The Sanctuary",
       "url": "https://open.spotify.com/track/5qLcBKR3trt9qU20VRcD2g"
@@ -7662,7 +7716,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 138784,
       "name": "Treasure Chest",
       "url": "https://open.spotify.com/track/2EtnxLV4JoKkt6W6EoqeIJ"
@@ -7948,7 +8002,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 141818,
       "name": "Vea",
       "url": "https://open.spotify.com/track/0jcXqk1KCUqerxnO79bnKt"
@@ -8072,6 +8126,24 @@
       "duration_ms": 134000,
       "name": "Warm Depths",
       "url": "https://open.spotify.com/track/1HX5jfauL0xXno0AY6I8nt"
+    },
+    {
+      "album": {
+        "name": "Warm Weather",
+        "url": "https://open.spotify.com/album/47PV2WKeOwohlF0OzZ9lrt"
+      },
+      "artists": [
+        {
+          "name": "ATONED",
+          "url": "https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149119,
+      "name": "Warm Weather",
+      "url": "https://open.spotify.com/track/5WyejtsDpXpq2CGz2hzMju"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Fall Out Boy
 
-304 songs - 19 hr 33 min
+305 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 | 2020-12-16 |  |
 | [Enter Sandman](https://open.spotify.com/track/5zpubzwKoDQupHOCI6kgMf) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [The Metallica Blacklist](https://open.spotify.com/album/7N32mF0BlA3BOhlSyCiHgf) | 4:22 | 2021-09-03 | 2022-07-29 |
 | [Enter Sandman](https://open.spotify.com/track/5wTtMsguqbZ1T2wPx0Yx34) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Enter Sandman](https://open.spotify.com/album/6G11fV7vuHS1WAhOs1eVNG) | 5:34 | 2021-08-04 | 2022-07-29 |
-| [Enter Sandman](https://open.spotify.com/track/6fwMnm8o21YXOgvSoKA9Fz) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Enter Sandman](https://open.spotify.com/album/5HlUYZ4PmGgKFEo25loCzf) | 5:34 | 2022-06-17 |  |
+| [Enter Sandman](https://open.spotify.com/track/4p917G7Uah157GTr90hMMy) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Enter Sandman](https://open.spotify.com/album/1ehQ8M5aitBHw4bvqaNE3h) | 5:34 | 2023-06-30 |  |
+| [Enter Sandman](https://open.spotify.com/track/6fwMnm8o21YXOgvSoKA9Fz) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Enter Sandman](https://open.spotify.com/album/5HlUYZ4PmGgKFEo25loCzf) | 5:34 | 2022-06-17 | 2023-10-27 |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/2D7Y1yPOEuJGNrSFGV14fb) | [Hot Oil](https://open.spotify.com/artist/1UI0jhMVym8sbBDKBjfpde) | [Everybody Wants To Rule The World](https://open.spotify.com/album/582KkPlNnohMQT5jdWYtsB) | 2:35 | 2021-06-11 | 2022-07-26 |
 | [Everything She Wants](https://open.spotify.com/track/01pR1krOFbSYfTbSaxYHq0) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Everything She Wants](https://open.spotify.com/album/5fCJH4JORE9qWixhlniKem) | 3:41 | 2020-12-16 | 2022-07-29 |
 | [Fade Into You](https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Falling In](https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU) | 5:15 | 2022-03-25 |  |

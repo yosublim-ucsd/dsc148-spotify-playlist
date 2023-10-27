@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today's pop, featuring Charli XCX & Sam Smith, Troye Sivan and Rêve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,905 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,929 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq) | 3:11 |
 | 100 | [Different](https://open.spotify.com/track/5RSl1dMfQNZFv2TuZYGbmF) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Different](https://open.spotify.com/album/2X5j7Nf3LOJgr1YKFTbwTq) | 3:09 |
 
-Snapshot ID: `MCw3NjNkNjAwODQyOWJhMmE2NWE5OTgxNjkxZGJlMzQyNGFlYmNkMWRk`
+Snapshot ID: `MCwyODA2NWQ5NWJlMDUxNmE5NWZkOTI2NTc0MmYwZWMyMTQ3OWE5ODhh`

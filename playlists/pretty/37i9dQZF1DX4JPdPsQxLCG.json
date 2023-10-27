@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road. ",
-  "num_followers": 75069,
+  "num_followers": 75101,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmNjYTFmNjA3NGQ0NDVkMTkyMmE5MjEyZGZmY2VmYjExNTc0ODk3",
+  "snapshot_id": "MCxiMjAyOWU2ZDI4OGE2NDViNGQ0MGViZmY5YTczODcwYTllMmNhOGYz",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "The Sheepdogs (Deluxe)",
-        "url": "https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Almost Naked",
         "url": "https://open.spotify.com/album/4rE15VDZytTzb0139CTBdm"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 200251,
       "name": "Sweet Sublime",
       "url": "https://open.spotify.com/track/5S4R8KlTV0yWk25RgYIivV"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "The Sheepdogs (Deluxe)",
+        "url": "https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Laundry Pile",
-        "url": "https://open.spotify.com/album/1QlYhaYb8Tfd47iuoUKaaz"
-      },
-      "artists": [
-        {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/2wvW8xOZAD9n0vMuVxUrTl"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "TRIPtych",
         "url": "https://open.spotify.com/album/1q1DoRb0McqviO1JCwJ7mQ"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 241293,
       "name": "Heaven Coming Down",
       "url": "https://open.spotify.com/track/6lOvhkSYAU6xde5BvtWNbB"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Laundry Pile",
+        "url": "https://open.spotify.com/album/1QlYhaYb8Tfd47iuoUKaaz"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/2wvW8xOZAD9n0vMuVxUrTl"
     },
     {
       "added_at": "2023-10-20 04:01:00",

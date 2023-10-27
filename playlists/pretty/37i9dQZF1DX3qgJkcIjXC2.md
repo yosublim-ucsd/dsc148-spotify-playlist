@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qgJkcIjXC2.md) - [plain]
 
 > Spotify's first ever all\-women soccer playlist\. Built by your favorite players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,085 likes - 127 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,128 likes - 127 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qgJkcIjXC2.md) - [plain]
 | 99 | [Formation](https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:26 |
 | 100 | [Só Depois do Carnaval](https://open.spotify.com/track/6HtVFR6WAeJRgYtleNcEE8) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Só Depois do Carnaval](https://open.spotify.com/album/4UPVYuREwSxXKWtAHlSz7E) | 2:46 |
 | 101 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
-| 102 | [Na You Dey Reign](https://open.spotify.com/track/2cf0ayENplwaFuiG0aphAS) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Na You Dey Reign](https://open.spotify.com/album/7EUG7ICDtR5G6FLseXjADm) | 4:27 |
+| 102 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
 | 103 | [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 |
 | 104 | [L'Anima Vola](https://open.spotify.com/track/0KgYcUcrDaUhqooqQReb0F) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [L'Anima Vola \(Deluxe Edition\)](https://open.spotify.com/album/6IWcTSqWt2Xd712WckzTp1) | 4:03 |
 | 105 | [Goodness of God \- Live](https://open.spotify.com/track/6vXOAkNQQ1KLmnC7vGYA0c) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 4:57 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qgJkcIjXC2.md) - [plain]
 | 126 | [Suzanne](https://open.spotify.com/track/3MBZ0BaWosUjsn40TeYYk5) | [Bermuda Triangle](https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE) | [Suzanne](https://open.spotify.com/album/5N8jCZO1JZpiEMl1AyBZou) | 2:57 |
 | 127 | [Sway](https://open.spotify.com/track/3JtRSUOj7wSAXFG76T89v8) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Drive](https://open.spotify.com/album/6RKelNVLEA7UeWnJJaKcGo) | 4:22 |
 
-Snapshot ID: `MCxhODBkODNmZmYxNzFjNDJlNGJiNzM3MmVkZWFlYjI5NTlkNmQ1MTMw`
+Snapshot ID: `MCwzOGFjZDIzZTIzZmQ1ZDRlZjk3ZGMxY2VjNzQ0NzU4YjQxZjI3ZTkx`

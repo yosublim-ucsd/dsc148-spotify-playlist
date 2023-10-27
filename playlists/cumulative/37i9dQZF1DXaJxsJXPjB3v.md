@@ -4,7 +4,7 @@
 
 > Revisit memories and make new ones with the best Kwaito songs ever released\. Cover: Spikiri
 
-86 songs - 7 hr 38 min
+87 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Ratlala](https://open.spotify.com/track/0TRVmZwsu14poorzV522Uy) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [The Best Of Da Best](https://open.spotify.com/album/4kl73tU6gO5PpQZ2GFmv4C) | 5:59 | 2022-04-25 |  |
 | [Safety Belt](https://open.spotify.com/track/3bd3f5BXwLs2p7kRHY5a8j) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Kalawa Jazmee Classics: Thebe, The Top Dawg](https://open.spotify.com/album/0PSKT9iKGBHpTxJ5IdDjl0) | 4:15 | 2022-04-25 | 2023-08-10 |
 | [Safety Belt](https://open.spotify.com/track/57PeIcXUaNCBjlQbt0M5qS) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Lenyora](https://open.spotify.com/album/4kxZRm7DFKwEmwgqvMtAq4) | 4:17 | 2022-04-25 |  |
-| [Sana Luma \(That's The Way Love Is\)](https://open.spotify.com/track/6UiuOhWSurVn1DUcpdA6Vf) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/5xmeO5jAS6KCMByzQD8Fdg) | 5:17 | 2022-04-25 |  |
+| [Sana Luma \(That's The Way Love Is\)](https://open.spotify.com/track/6UiuOhWSurVn1DUcpdA6Vf) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/5xmeO5jAS6KCMByzQD8Fdg) | 5:17 | 2022-04-25 | 2023-10-27 |
+| [Sana Luma \(Thats The Way Love Is\)](https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [Khokhovula](https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK) | 5:17 | 2022-04-25 |  |
 | [Sana Luma \(Thats The Way Love Is\)](https://open.spotify.com/track/3YqlnQEyawncmoFW4YTMJS) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/6YXDLVdeZESEiQnJhVyTkr) | 5:17 | 2022-04-25 | 2023-01-29 |
 | [Sgelekeqe \- Mindlo Mix](https://open.spotify.com/track/4Xqec5nATHVa8bsHngCMKE) | [Mandoza](https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH) | [Mandoza](https://open.spotify.com/album/5mt82F2mozkrikmeYeFU80) | 4:21 | 2022-04-25 |  |
 | [Sigiya Ngengoma](https://open.spotify.com/track/06kbqjPVZqti4au7Z0xqtc) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Sound Offerings from South Africa, Vol\. 2](https://open.spotify.com/album/7jje9BYfxaWiPZPUQQfEX3) | 6:39 | 2022-04-25 | 2022-11-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTp4cr7PRsK.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ogchaseb/">Chase B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,954 likes - 31 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,966 likes - 31 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTp4cr7PRsK.md) - [plain]
 | 5 | [Overrated](https://open.spotify.com/track/6Fc9IYSkbmVwv4dlzn8hJb) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Love Lost](https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9) | 2:26 |
 | 6 | [Next To You](https://open.spotify.com/track/2SSyJ6hTS0JeHTg63wVDZ7) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 3:10 |
 | 7 | [To Be Honest](https://open.spotify.com/track/2OmElPC8H23YsekF58fSbm) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 2:39 |
-| 8 | [WUNNA](https://open.spotify.com/track/0y7Ao3CVJsyKFmqdjutiIF) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:38 |
-| 9 | [Lost Kids Get Money](https://open.spotify.com/track/47y5boKoOnJoSpBpPEZvhz) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 2:58 |
+| 8 | [Lost Kids Get Money](https://open.spotify.com/track/47y5boKoOnJoSpBpPEZvhz) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 2:58 |
+| 9 | [WUNNA](https://open.spotify.com/track/0y7Ao3CVJsyKFmqdjutiIF) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:38 |
 | 10 | [DYING 4 YOUR LOVE](https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:24 |
 | 11 | [Make It Rain](https://open.spotify.com/track/4TgHt7vKCimpywaiKfl0uj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Make It Rain](https://open.spotify.com/album/0XaqBneSJFz2ZVVlUM2neC) | 3:24 |
 | 12 | [Still Your Best](https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 2:57 |
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTp4cr7PRsK.md) - [plain]
 | 16 | [Reality Check](https://open.spotify.com/track/2p72O2JobPc9sVz520Hil5) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Reality Check](https://open.spotify.com/album/2ypwyxLk2t1LUWW6rKyePH) | 3:52 |
 | 17 | [Wavy \(Remix\) \[feat\. Travis Scott\]](https://open.spotify.com/track/7kRVWQ1G4o8w3ubfNW2ZHB) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Trapped On Cleveland 3](https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM) | 4:00 |
 | 18 | [Prospect \(feat\. Lil Baby\)](https://open.spotify.com/track/19WJ1TEz7RlwUrt7NFEW7t) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [I'm Gone](https://open.spotify.com/album/3MZ9DaqqNeedTrOsfYH93Q) | 3:46 |
-| 19 | [Money Maker \(feat\. Lil Wayne\)](https://open.spotify.com/track/5ntqpbNqI2ZXWiPA1Pr46f) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [So Help Me God!](https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF) | 2:58 |
+| 19 | [Lemonade \- Remix](https://open.spotify.com/track/3gU7Pr1I4plN6QSxF6jFh3) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [B4 The Storm](https://open.spotify.com/album/7bPIbMw7lgncHBoFfzjQRj) | 3:01 |
 | 20 | [MAYDAY \(feat\. Sheck Wes & Young Thug\)](https://open.spotify.com/track/7J2DtwsxdoyrhgNV3Vzmos) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [MAYDAY \(feat\. Sheck Wes & Young Thug\)](https://open.spotify.com/album/3dPUHr57sBFTHiVtpeO7rv) | 2:59 |
 | 21 | [Over Your Head](https://open.spotify.com/track/7JsuXl9Odf3V38ksu4FWDZ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto \(Deluxe\)](https://open.spotify.com/album/3aITAVBURujVe8fhI2seeR) | 3:06 |
-| 22 | [Lemonade \- Remix](https://open.spotify.com/track/3gU7Pr1I4plN6QSxF6jFh3) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [B4 The Storm](https://open.spotify.com/album/7bPIbMw7lgncHBoFfzjQRj) | 3:01 |
+| 22 | [Money Maker \(feat\. Lil Wayne\)](https://open.spotify.com/track/5ntqpbNqI2ZXWiPA1Pr46f) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [So Help Me God!](https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF) | 2:58 |
 | 23 | [Respect It \(with Hit\-Boy feat\. Young Thug\)](https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:27 |
 | 24 | [Dance Like No One’s Watching](https://open.spotify.com/track/2kuYZZvjwzYWPA8L7ICFXn) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Dance Like No One's Watching](https://open.spotify.com/album/1FfR1LHCNsM7DScxws7L0N) | 3:31 |
 | 25 | [Slidin](https://open.spotify.com/track/1ztkjvyidhhYNg1QSG3KjA) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II \[CHOPPED NOT SLOPPED\]](https://open.spotify.com/album/263anqt2ayA25jSEXfs0i1) | 3:05 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTp4cr7PRsK.md) - [plain]
 | 30 | [Almost There](https://open.spotify.com/track/4IfowS5OhB5DDYtuKmoo4v) | [Ashton Travis](https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8) | [PHOENIX MODE](https://open.spotify.com/album/3gp0vjA9L16pBIs0vrWzL9) | 3:15 |
 | 31 | [Luka/New President](https://open.spotify.com/track/0OIXxIL4UmAU0vO30lwEUY) | [Dougie F](https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ) | [Without A Smile](https://open.spotify.com/album/50lVvEUE53is3DbDazGMHr) | 3:04 |
 
-Snapshot ID: `MCxmNWZlNGUxOGQ2MjMxYmUxMDU4OWRmMmI4ZTQ2ZTM5NjFhZWY1NzMz`
+Snapshot ID: `MCwxYzE5YzNkMjYwNjMzMWZhNDVjNzY4MWQ1MGIyZjgzNjJlODRjM2U5`

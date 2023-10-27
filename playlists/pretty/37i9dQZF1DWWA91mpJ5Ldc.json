@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 119637,
+  "num_followers": 119676,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDY2OTE1N2VkZDIwYjdiYTliZGE3NWNhNTkzZDJhMWU5MTg3Yzhl",
+  "snapshot_id": "MCxkNDBlMzE1MmEwZjQyMTZiYTgwNzhkNjg5ZmU0NDhkMTZkOGM3MWUw",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Pra todas as mulheres",
+        "url": "https://open.spotify.com/album/4OiLzpWqd2LTlqxOHOtjXQ"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 168251,
+      "name": "Pra todas as mulheres",
+      "url": "https://open.spotify.com/track/1ixHR8sknQnSFD9lR6Pn6K"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Portas",
         "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
       },
@@ -439,18 +455,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Pra todas as mulheres",
-        "url": "https://open.spotify.com/album/4OiLzpWqd2LTlqxOHOtjXQ"
+        "name": "Nonsense, Vol. 1",
+        "url": "https://open.spotify.com/album/1V04SFSq2Fr9m6lnSDZujG"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
         }
       ],
-      "duration_ms": 168251,
-      "name": "Pra todas as mulheres",
-      "url": "https://open.spotify.com/track/1ixHR8sknQnSFD9lR6Pn6K"
+      "duration_ms": 217110,
+      "name": "Onde Estar\u00e1",
+      "url": "https://open.spotify.com/track/0R6eisAFzeF5pe4k7pkLgg"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -471,22 +487,6 @@
       "duration_ms": 213893,
       "name": "Besteira",
       "url": "https://open.spotify.com/track/5JEC6CnLu9Vejy8257rCgd"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Nonsense, Vol. 1",
-        "url": "https://open.spotify.com/album/1V04SFSq2Fr9m6lnSDZujG"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        }
-      ],
-      "duration_ms": 217110,
-      "name": "Onde Estar\u00e1",
-      "url": "https://open.spotify.com/track/0R6eisAFzeF5pe4k7pkLgg"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
-      },
-      "artists": [
-        {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Flavia Coelho",
-          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
-        }
-      ],
-      "duration_ms": 262281,
-      "name": "Caf\u00e9 Com Leite",
-      "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "S\u00f3 Porque Eu Sou Mulher",
         "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 163535,
       "name": "S\u00f3 Porque Eu Sou Mulher",
       "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+        }
+      ],
+      "duration_ms": 262281,
+      "name": "Caf\u00e9 Com Leite",
+      "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Servi\u00e7o",
+        "url": "https://open.spotify.com/album/4HN3LF9h0II1QfSJvs5x96"
+      },
+      "artists": [
+        {
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 179622,
+      "name": "C\u00e9u da Boca",
+      "url": "https://open.spotify.com/track/5RYsihoTr47Rd9uXYrVZpC"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Bota Pra Tocar Tim Maia",
         "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
       },
@@ -1087,22 +1107,6 @@
       "duration_ms": 222577,
       "name": "Bota Pra Tocar Tim Maia",
       "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Condom Black",
-        "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
-      },
-      "artists": [
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 342160,
-      "name": "Dias de Janeiro",
-      "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
     }
   ],
   "unique_name": "Cozinhando em Casa",

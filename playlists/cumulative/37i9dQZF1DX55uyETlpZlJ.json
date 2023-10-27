@@ -1629,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Kannada Balso",
+        "url": "https://open.spotify.com/album/1w3uXnjR5gDuVTNTdnqlsO"
+      },
+      "artists": [
+        {
+          "name": "Vibe Guru",
+          "url": "https://open.spotify.com/artist/7bd8H4hvMWUY8v6I54DCvi"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166593,
+      "name": "Kannada Balso",
+      "url": "https://open.spotify.com/track/5XoGUpJ2Q7u2lBfpgznbxG"
+    },
+    {
+      "album": {
         "name": "Kannalle",
         "url": "https://open.spotify.com/album/3w0f7cvKqi5sQ8wWxJJTAV"
       },
@@ -2276,6 +2294,24 @@
       "duration_ms": 189232,
       "name": "Munjaneya",
       "url": "https://open.spotify.com/track/44karZEYKnZwsLXtsB0T8n"
+    },
+    {
+      "album": {
+        "name": "Na Ninne Preetisuve",
+        "url": "https://open.spotify.com/album/6lV86HmyPdaunD5CCpEuB8"
+      },
+      "artists": [
+        {
+          "name": "Anita Iyer",
+          "url": "https://open.spotify.com/artist/5PeZkX7HUpSAYNso5kCoZM"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220053,
+      "name": "Na Ninne Preetisuve",
+      "url": "https://open.spotify.com/track/3QneWObcFZcEvpMNhAxxJZ"
     },
     {
       "album": {

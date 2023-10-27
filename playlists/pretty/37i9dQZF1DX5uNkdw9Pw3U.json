@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 86332,
+  "num_followers": 86851,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzYwOWNmMmNlMjgzYWI0YjM2MzNlNThjOTUzM2JmYWQwZjIyOGE3",
+  "snapshot_id": "MCwwNWYyNzVjMmVlZmRkM2JkYjJiYTM3YTQ4ODk3OTdlMWM0Nzg0MjJk",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Yo Love (From \"Queen & Slim: The Soundtrack\")",
         "url": "https://open.spotify.com/album/09VyQ2zwUx0EBKTJNBUZv1"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 143830,
       "name": "Yo Love - From \"Queen & Slim: The Soundtrack\"",
       "url": "https://open.spotify.com/track/3Vj8RQkFwOmDvUrwu6MtQZ"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Coastin\u2019",
+        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Coastin\u2019",
+      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "A Real Romantic",
+        "url": "https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC"
+      },
+      "artists": [
+        {
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
+        }
+      ],
+      "duration_ms": 236662,
+      "name": "Wasn't Looking",
+      "url": "https://open.spotify.com/track/4VP3WbWh2BZ8xNEp6tLr6P"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "How You Want It?",
         "url": "https://open.spotify.com/album/3dPk7WASa1GmL7vluAP4ff"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 222213,
       "name": "How You Want It?",
       "url": "https://open.spotify.com/track/0rbnYyj0Zq2pNJSzWqtf4g"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "A Real Romantic",
-        "url": "https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC"
-      },
-      "artists": [
-        {
-          "name": "ELIZA",
-          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
-        }
-      ],
-      "duration_ms": 236662,
-      "name": "Wasn't Looking",
-      "url": "https://open.spotify.com/track/4VP3WbWh2BZ8xNEp6tLr6P"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Sweet Life",
-        "url": "https://open.spotify.com/album/0saOIEtDIQ0DyauxiejMHr"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        },
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/5Yr0XWjR4eX41pwPljs7NV"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Seasons (with Khalid)",
         "url": "https://open.spotify.com/album/39g2Ja05Jgah0iO3TGI11f"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 250001,
       "name": "Seasons (with Khalid)",
       "url": "https://open.spotify.com/track/19tuFV8B1ckjHzdRrH6Bqs"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/0saOIEtDIQ0DyauxiejMHr"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        },
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/5Yr0XWjR4eX41pwPljs7NV"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Square 1",
-        "url": "https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 220306,
-      "name": "Square 1",
-      "url": "https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Tamale",
         "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 227880,
       "name": "Tamale",
       "url": "https://open.spotify.com/track/6CEiPLGmX7V2GQwMYjB6DL"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Square 1",
+        "url": "https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 220306,
+      "name": "Square 1",
+      "url": "https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O"
-      },
-      "artists": [
-        {
-          "name": "Dan Bravo",
-          "url": "https://open.spotify.com/artist/0NRKyezW2cOBJs7DEIPk5F"
-        },
-        {
-          "name": "J.O.Y",
-          "url": "https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm"
-        }
-      ],
-      "duration_ms": 173809,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "sukkerspinn & hodepine (Del 2)",
         "url": "https://open.spotify.com/album/1VMrZTOpnA6v86LaR8YST0"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 163366,
       "name": "gangster romanse (feat. Magdi)",
       "url": "https://open.spotify.com/track/1wYNkGybIdmnXFtTM7sS9C"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O"
+      },
+      "artists": [
+        {
+          "name": "Dan Bravo",
+          "url": "https://open.spotify.com/artist/0NRKyezW2cOBJs7DEIPk5F"
+        },
+        {
+          "name": "J.O.Y",
+          "url": "https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm"
+        }
+      ],
+      "duration_ms": 173809,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT"
     },
     {
       "added_at": "2023-10-19 22:00:00",

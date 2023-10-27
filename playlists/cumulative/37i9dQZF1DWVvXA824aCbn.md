@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-493 songs - 1 day 7 hr 38 min
+494 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Easy Dreamin'](https://open.spotify.com/track/5024U9ydj0BegOuxeNqRyU) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Easy Dreamin'](https://open.spotify.com/album/4JkR0RYW5wCohQPke2Kwl2) | 3:58 | 2023-09-22 | 2023-10-01 |
 | [Easy To Love](https://open.spotify.com/track/5SAndzGm2VigenSmI1C3TP) | [Johnny Christoff](https://open.spotify.com/artist/2waZtHlhD0EjlIQl5Kpbmo) | [Easy To Love](https://open.spotify.com/album/3AH2fKZ4ERtOrXx4zo01Pw) | 3:28 | 2020-10-20\* | 2021-01-21 |
 | [Easy To Love](https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Easy To Love](https://open.spotify.com/album/3UdLObFDAErU8FcAkhtPCr) | 3:23 | 2022-09-08 |  |
-| [Embraceable You](https://open.spotify.com/track/5oEyPyit0Qov2p1E6GLtnJ) | [Barry Harris Trio](https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH) | [Breakin' It Up](https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S) | 3:56 | 2021-01-21 |  |
+| [Embraceable You](https://open.spotify.com/track/5oEyPyit0Qov2p1E6GLtnJ) | [Barry Harris Trio](https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH) | [Breakin' It Up](https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S) | 3:56 | 2021-01-21 | 2023-10-27 |
 | [English Rose](https://open.spotify.com/track/1vNFoWu3d80MnNkgjlaQ7k) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [English Rose](https://open.spotify.com/album/1Glhi5IB4ukDTgnfuzTwdX) | 3:06 | 2023-06-08 |  |
 | [estate](https://open.spotify.com/track/18NxSIKcBgidhFiY37s9tC) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 4:20 | 2020-10-20\* | 2021-01-21 |
 | [Evening Silence](https://open.spotify.com/track/3ObWIAbtVhxTPguDsHT9vf) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 4:27 | 2022-08-10 |  |
@@ -436,6 +436,7 @@
 | [The yellow note](https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [The yellow note](https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD) | 3:49 | 2023-09-29 |  |
 | [Theme For Ernie](https://open.spotify.com/track/0nKb0vq42f1y3CuikU00vF) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Manhattan](https://open.spotify.com/album/22afwFb9s4NeLLKBlKrZ8T) | 5:16 | 2023-09-22 | 2023-09-24 |
 | [Theme for Ernie](https://open.spotify.com/track/7BBjGMkN02GH8apJ7hobZp) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Manhattan](https://open.spotify.com/album/11M7ItdqUALh6mbcE8I2Rs) | 5:16 | 2021-02-03 | 2022-07-04 |
+| [There Was Nothing Wrong](https://open.spotify.com/track/65C7E1ayf2iyyemUNA9DwY) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [There Was Nothing Wrong](https://open.spotify.com/album/6SkYp9Iq0B5ZjlIGBUozyW) | 3:34 | 2023-10-27 |  |
 | [There Will Be Better Days](https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [There Will Be Better Days](https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli) | 4:59 | 2023-09-22 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/5mJK27i7xPE9Whf5WdXGOx) | [Gerald McCarthy](https://open.spotify.com/artist/3cw2WUJF88MB3xRS3VHU9a) | [There Will Never Be Another You](https://open.spotify.com/album/3qF2MbH2rh7QCMheIJXWk0) | 3:00 | 2020-12-02 | 2021-01-21 |
 | [There You Were](https://open.spotify.com/track/2m6G2vP3x33rQhfmSYB9Iy) | [Vina Anais](https://open.spotify.com/artist/4JuT70DV2rTZTNpMaP8Tto) | [There You Were](https://open.spotify.com/album/0UC1V9t6aGAElVezqqT2LG) | 2:19 | 2020-10-20\* | 2021-01-21 |

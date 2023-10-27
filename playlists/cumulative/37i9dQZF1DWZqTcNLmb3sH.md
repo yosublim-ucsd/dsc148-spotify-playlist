@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Ghost
 
-919 songs - 2 day 8 hr 40 min
+920 songs - 2 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -798,6 +798,7 @@
 | [Salaam Soldier \(From "James \- Kannada"\)](https://open.spotify.com/track/7xceseyyaE9PY2A0VbYxuZ) | [Charan Raj](https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Salaam Soldier \(From "James \- Kannada"\)](https://open.spotify.com/album/4uVTOLHzHXFboW8COx4RRu) | 3:16 | 2022-03-11 | 2022-08-25 |
 | [Samayave \(From "Kadala Theerada Bhargava"\)](https://open.spotify.com/track/0CjZunXbb6apEwHBGn59qD) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Samayave \(From "Kadala Theerada Bhargava"\)](https://open.spotify.com/album/57JzDj0jyzlNhbKqVtpIk8) | 4:52 | 2021-12-06 | 2022-03-18 |
 | [Samayave Saaladu](https://open.spotify.com/track/3XRMSg7cT5tgrzkRFYDDpE) | [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96), [Kalyan Manjunath](https://open.spotify.com/artist/35Wzhm2uv7DeqM1xRQwcU6) | [Samayave Saaladu](https://open.spotify.com/album/6MlNNbgEbayMwkaLyZygar) | 4:55 | 2023-10-06 |  |
+| [Sambanja Annodu Doddu Kana \(From "Tagaru Palya"\)](https://open.spotify.com/track/3BbIvJDP3w2ZxxC8EIflQT) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5), [Daali Dhananjaya](https://open.spotify.com/artist/5mMIF7hi9U0WgMjhqHE0eQ), [Prems](https://open.spotify.com/artist/3G7Az2OVHmqsad3NREZPYY) | [Sambanja Annodu Doddu Kana \(From "Tagaru Palya"\)](https://open.spotify.com/album/1oFAC88niTj949cpBlAWlg) | 3:06 | 2023-10-26 |  |
 | [Sampige Maradalli Gubbi](https://open.spotify.com/track/1oh2Mq8yyrDDJfdtRqAuQu) | [Bhojaraj Vamanjoor](https://open.spotify.com/artist/66n8R79mIEJSXaK7Osf2FM) | [Sampige Maradalli Gubbi](https://open.spotify.com/album/4YiXu9oMuZ4MQhYmhrd8E2) | 3:03 | 2022-12-28 | 2023-03-25 |
 | [Sampige Maradalli Gubbi](https://open.spotify.com/track/61yDMGZDD3BueMJGTCgiY8) | [Bhojaraj Vamanjoor](https://open.spotify.com/artist/66n8R79mIEJSXaK7Osf2FM) | [Naanu Adu Matthu Saroja](https://open.spotify.com/album/5xJjmrxoUAnkf0GzfZ20jX) | 3:03 | 2022-12-28 | 2023-03-11 |
 | [Sanchari](https://open.spotify.com/track/0s49zgu70ZProx7jJn5q09) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Radhe Shyam](https://open.spotify.com/album/1kjkfSQ954S0wZRlrBmkII) | 4:28 | 2022-03-13 | 2022-04-28 |

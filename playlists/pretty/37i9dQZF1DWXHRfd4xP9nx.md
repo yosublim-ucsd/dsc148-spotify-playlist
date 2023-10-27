@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,094 likes - 170 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,112 likes - 170 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 | 169 | [Rainy Nights](https://open.spotify.com/track/0rAc8hJhlILO2N4Peo0Y75) | [humidum](https://open.spotify.com/artist/1jtVdZK2EbmvWwytD9GCSp) | [Rainy Nights](https://open.spotify.com/album/0keGZBa42JeCzQbdKXmwzO) | 3:28 |
 | 170 | [There Is Always Tomorrow](https://open.spotify.com/track/5w2MqEtJPba4bMvVn7wtkh) | [Aquamoon](https://open.spotify.com/artist/20FQZwDT0EqBx7aSMrt5NA) | [Waterworlds](https://open.spotify.com/album/3UO36j9PRWy5ORvJbuJ5zM) | 1:48 |
 
-Snapshot ID: `MCxiY2RiMTliMWUzODU5MDE4NmJkNzk1YWFkMTY3MzgzODA4NjdkMjAx`
+Snapshot ID: `MCw2ZDEyMmY4MTYyMDc4MTA3Y2Y5OTQzZWUyYjhiYjc2OGIyNzMxMDYw`

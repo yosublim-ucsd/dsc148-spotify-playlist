@@ -1665,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Hark! The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU"
+      },
+      "artists": [
+        {
+          "name": "louke's beats",
+          "url": "https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160166,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/0bgcp8ZKgJg2pqCwegbw1M"
+    },
+    {
+      "album": {
         "name": "Have A Holly Jolly Christmas",
         "url": "https://open.spotify.com/album/7IMfzOwRECfh7nRulPgNv5"
       },
@@ -2740,7 +2758,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 126315,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/4YaxX57dvsrkscSHfcebsa"
@@ -3504,6 +3522,24 @@
       "duration_ms": 153442,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/4TH6wPd9S023ujwtWoZewm"
+    },
+    {
+      "album": {
+        "name": "Hark! The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU"
+      },
+      "artists": [
+        {
+          "name": "louke's beats",
+          "url": "https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117041,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/4JwbRapYxPE883XUslPwIS"
     },
     {
       "album": {

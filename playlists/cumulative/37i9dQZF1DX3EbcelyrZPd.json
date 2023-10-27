@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/0FkKqxcA1miGb9IkW2Vbgp"
+      },
+      "artists": [
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187155,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/7wsTFtax8COrbO5BYRD3Dh"
+    },
+    {
+      "album": {
         "name": "The Kid You Know",
         "url": "https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84"
       },
@@ -192,6 +210,28 @@
       "duration_ms": 221591,
       "name": "Asali",
       "url": "https://open.spotify.com/track/6zOkUcfqRYE6vc1iIa2KtB"
+    },
+    {
+      "album": {
+        "name": "Asante",
+        "url": "https://open.spotify.com/album/4aMXNnKrAnvfZjDgKGlwhC"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        },
+        {
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247659,
+      "name": "Asante",
+      "url": "https://open.spotify.com/track/1F2rGbWtuyZKdoCBTxWGLP"
     },
     {
       "album": {
@@ -430,7 +470,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 203877,
       "name": "Bobea",
       "url": "https://open.spotify.com/track/0YcIY0C7NS6Yzngjdrnb3W"
@@ -2067,6 +2107,28 @@
     },
     {
       "album": {
+        "name": "Lala",
+        "url": "https://open.spotify.com/album/3Q5t1pavhxERt0kOKv0Bdw"
+      },
+      "artists": [
+        {
+          "name": "Yaba Buluku Boyz",
+          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261819,
+      "name": "Lala",
+      "url": "https://open.spotify.com/track/0FoemawOPj4ILZR9EZkX30"
+    },
+    {
+      "album": {
         "name": "Leave Me Alone",
         "url": "https://open.spotify.com/album/2XJgEcuJZxdCAO5QiCFLXa"
       },
@@ -2800,7 +2862,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 193596,
       "name": "Morning Call",
       "url": "https://open.spotify.com/track/6EGQ8LxufhYEkN4btEJ1Vu"
@@ -3342,7 +3404,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 173114,
       "name": "Nani",
       "url": "https://open.spotify.com/track/4dj9HTABb7AGD4ocx9DLUx"
@@ -4482,7 +4544,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 227817,
       "name": "Rockabye (feat. Otile Brown) - Remix",
       "url": "https://open.spotify.com/track/5nEdZmQdw7wnMHizKDLXvb"
@@ -4662,6 +4724,24 @@
       "duration_ms": 191150,
       "name": "Shetani (feat. Costa Titch & Alfa Kat)",
       "url": "https://open.spotify.com/track/4zCzPIdWmPDnvcyhSGvHqS"
+    },
+    {
+      "album": {
+        "name": "Shika",
+        "url": "https://open.spotify.com/album/0Z1NRlQAq2ZJKYpqibIBMB"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191302,
+      "name": "Shika",
+      "url": "https://open.spotify.com/track/6XxqdIiwZNUwJkXZVEmXJD"
     },
     {
       "album": {

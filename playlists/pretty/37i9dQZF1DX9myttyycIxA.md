@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Babehoven
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,481 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,520 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 43 | [Here Forever](https://open.spotify.com/track/5cfMeTRIX6feTG6JOMCd3V) | [buffchick](https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn) | [Here Forever](https://open.spotify.com/album/3gahadLXizRTaPjvdTDGKh) | 2:20 |
 | 44 | [Candle](https://open.spotify.com/track/2Elr1Zc3CIhfAdxBA8oD58) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q) | [Candle](https://open.spotify.com/album/5Gqr5h8mLjgcs3hUSAY24E) | 3:08 |
 | 45 | [Truck](https://open.spotify.com/track/3gpFdIoxvpOPYPbxAcq9VZ) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Truck](https://open.spotify.com/album/4fxXwdUoB6iJ0x2Ik7eNTu) | 3:53 |
-| 46 | [Sugar](https://open.spotify.com/track/6sfjX5Q0qNKzQYDupMixI1) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Sugar](https://open.spotify.com/album/5jskWgV62IYvxCKjpuuWSx) | 3:15 |
+| 46 | [Sugar](https://open.spotify.com/track/66YbJfNnj4MBf7xZ3JQYvB) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [I Don't Want You Anymore](https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb) | 3:15 |
 | 47 | [fool for you](https://open.spotify.com/track/2WN6K7GSUcYh90kSq6bVAz) | [yuronono](https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj) | [fool for you](https://open.spotify.com/album/4CpWJqS8wfTKf3Osp4uwoz) | 3:19 |
 | 48 | [iwantthis2last!](https://open.spotify.com/track/1e9MeUoNqaTNzdXOUdFlNu) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [iwantthis2last!](https://open.spotify.com/album/4CEglkGds2zn6r6OgJtu6S) | 3:14 |
 | 49 | [Tin Man](https://open.spotify.com/track/1BYmpDprZGuCfuZolqwuk9) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Tin Man](https://open.spotify.com/album/2zcAU1ZzOSw5c7islwbVZP) | 2:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 |
 | 100 | [bleed](https://open.spotify.com/track/1KaqkPcXRryyLcxhed4zj2) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [bleed](https://open.spotify.com/album/5g7nVEocQGj2yBKJcWVgIX) | 2:57 |
 
-Snapshot ID: `MCxiMGE1YzRlZDhhZGY2Yjg2MzE0ZTU0MWI4N2RmZjllMmZmNDVlNGJj`
+Snapshot ID: `MCxjMTRmYWMwNGNiOTcyMGM1NTFlN2Q5NTQwNjhhMGY3NmU2MDI4YmY5`

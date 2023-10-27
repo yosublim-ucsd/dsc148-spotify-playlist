@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Danny Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,459 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,469 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Who I Am](https://open.spotify.com/track/4MZzg9F3yJcfyPRBWLs8kg) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [RIDDY'S REVENGE \(DELUXE\)](https://open.spotify.com/album/7rLyczUVVyfIVSiSXGuVOq) | 2:33 |
 | 50 | [Sideways \(with NLE Choppa\)](https://open.spotify.com/track/3dX2DItyqF78yNhPJZakmM) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Sideways](https://open.spotify.com/album/0ylJgtYMwhgSeiz7bgtWr1) | 2:00 |
 
-Snapshot ID: `MCxkM2JlYjhjYTY4NzY3YzU0ZDE3YWZkYjVkMmNkNjU1NzUyNTg3NjJk`
+Snapshot ID: `MCxkZmQ2NjM5YzM0NWU2ZWUxMjYwNTA0ZDhjOGY1MWNkNmFhNWU4MjE3`

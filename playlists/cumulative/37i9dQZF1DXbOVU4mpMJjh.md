@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-945 songs - 2 day 17 hr 18 min
+946 songs - 2 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,7 +557,7 @@
 | [My Fortune](https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [My Fortune](https://open.spotify.com/album/4FEMX7bMR5J0w3cRUXOoKJ) | 4:31 | 2022-10-06 |  |
 | [My Funny Valentine](https://open.spotify.com/track/0MfK7lsLUvMq2CURkt61uF) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Cookin' With The Miles Davis Quintet \[Rudy Van Gelder edition\] \(Remastered\)](https://open.spotify.com/album/4klctF4THHFlLLTZGpa4D2) | 6:00 | 2022-04-14 | 2022-07-29 |
 | [My Funny Valentine \- Rudy Van Gelder Remaster 2007](https://open.spotify.com/track/5FYgwqjjq9kPCMj8yArfTr) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Cookin' With The Miles Davis Quintet](https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y) | 5:58 | 2022-06-30 | 2022-09-30 |
-| [My Heart Is For You](https://open.spotify.com/track/7tDpSRvJUjQ4kfjQK1pIkc) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 5:34 | 2022-06-30 |  |
+| [My Heart Is For You](https://open.spotify.com/track/7tDpSRvJUjQ4kfjQK1pIkc) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 5:34 | 2022-06-30 | 2023-10-27 |
 | [My Heart Is For You](https://open.spotify.com/track/3u6fXPiITVsTNolEqapeBU) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0bjvkCZgQWIFDRedJAoxTO) | 5:39 | 2022-04-14 | 2022-07-29 |
 | [My Heart Stood Still](https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [My Heart Stood Still](https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj) | 4:06 | 2022-12-08 |  |
 | [My Home](https://open.spotify.com/track/3KdDCxjdjKcGPkzWvRK6O4) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [My Home](https://open.spotify.com/album/0LOEMiRv333HtclEArNGjC) | 2:41 | 2023-06-01 |  |
@@ -615,6 +615,7 @@
 | [Old Fashioned Morphine](https://open.spotify.com/track/2zuCel4NqWnLH28iUQemw1) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ) | [Escondida](https://open.spotify.com/album/75yVGSOBXe3OI8bRrIMalh) | 4:35 | 2022-04-21 | 2022-04-27 |
 | [Old Folks](https://open.spotify.com/track/1pfckgGedZWa6JGNhAWdOI) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Old Folks](https://open.spotify.com/album/74XZhsk5g0Mm6Pf7vX6VuT) | 5:50 | 2023-08-18 | 2023-10-04 |
 | [Old Folks](https://open.spotify.com/track/42Xv2whNPhZtJv9z0DvyVA) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Paris](https://open.spotify.com/album/0or0gacjz3Rx1mTw4DrVnX) | 5:50 | 2023-10-06 | 2023-10-23 |
+| [Old Folks](https://open.spotify.com/track/5iLiu2yxhOs97x9VILKzHF) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Vol\. 1](https://open.spotify.com/album/5ogYqVF7SaAZSgdYM9sDba) | 5:50 | 2023-10-27 |  |
 | [Old Folks](https://open.spotify.com/track/0GrelUYKejuSl9O36VdMA3) | [Geoffrey Christensen](https://open.spotify.com/artist/2W1wcm0Yt8Mcx55CRxC013) | [Gone With The Wind](https://open.spotify.com/album/5htrKxxejBR8OJBnLH9eSa) | 6:30 | 2022-04-14 | 2022-04-27 |
 | [Old Georgie](https://open.spotify.com/track/5TUShaJuppEAb1FVctgy6V) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Old Georgie](https://open.spotify.com/album/4Hfo3rFHpvtatFFe4Suba9) | 3:02 | 2023-03-09 |  |
 | [Old Person Eyes](https://open.spotify.com/track/34jngIAweykNyuwP52VCaQ) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Old Person Eyes](https://open.spotify.com/album/34x4zL9sqIP8YGfbRwxX3v) | 3:39 | 2022-05-24 | 2023-03-18 |

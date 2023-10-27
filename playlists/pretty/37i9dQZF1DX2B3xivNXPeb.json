@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 36000,
+  "num_followers": 36008,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Njg3MWYwZTg5NjRmYmY1ODE5ODFmMmVhZWNjZGUxZWI5YTUxMjQ3",
+  "snapshot_id": "MCw0MTc3MTkzZGM2NDY1MTJkYWY3M2IyZmZhMzczZDFiYTI0YTcwNTUx",
   "tracks": [
     {
       "added_at": "2023-06-16 14:02:21",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "I Wish I Knew How It Would Feel to Be Free",
+      "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 354533,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
-        "name": "Silk & Soul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "I Wish I Knew How It Would Feel to Be Free",
-      "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Al Green Explores Your Mind",
-        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Superfly (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 233600,
       "name": "Superfly",
       "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Al Green Explores Your Mind",
+        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "Baltimore",
+      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
         "name": "No Time For Dreaming",
         "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 202492,
       "name": "The World (Is Going Up in Flames)",
       "url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
-        "name": "Baltimore",
-        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "Baltimore",
-      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "54-46 Was My Number",
-      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Nina Simone Sings The Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 152106,
       "name": "I Want a Little Sugar In My Bowl",
       "url": "https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "54-46 Was My Number",
+      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Phases EP",
-        "url": "https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG"
+        "name": "Heavy Heavy",
+        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
       },
       "artists": [
         {
-          "name": "Hamzaa",
-          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
         }
       ],
-      "duration_ms": 200680,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU"
+      "duration_ms": 159616,
+      "name": "Rice",
+      "url": "https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Heavy Heavy",
-        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
+        "name": "Phases EP",
+        "url": "https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG"
       },
       "artists": [
         {
-          "name": "Young Fathers",
-          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+          "name": "Hamzaa",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
         }
       ],
-      "duration_ms": 159616,
-      "name": "Rice",
-      "url": "https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3"
+      "duration_ms": 200680,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Crying, Laughing, Loving, Lying (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "duration_ms": 213200,
-      "name": "Watch Me",
-      "url": "https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Giving It In",
         "url": "https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 200347,
       "name": "Giving It In",
       "url": "https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 213200,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Lonely Are the Brave (Mav's Version)",
-        "url": "https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph"
-      },
-      "artists": [
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "I Need - Mav's Version",
-      "url": "https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Kitchen Sunset",
         "url": "https://open.spotify.com/album/00o8IpCGek8T29qGdxkjfs"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
+        "name": "Lonely Are the Brave (Mav's Version)",
+        "url": "https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "I Need - Mav's Version",
+      "url": "https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
         "name": "Please Love Me Again",
         "url": "https://open.spotify.com/album/6DBdEhwchCMmQFJh5mhFXt"
       },
@@ -1403,6 +1403,22 @@
       "duration_ms": 186582,
       "name": "Please Love Me Again",
       "url": "https://open.spotify.com/track/4b605Ezmi2n7Oyk4vbdhsh"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 245290,
+      "name": "Defection",
+      "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1423,22 +1439,6 @@
       "duration_ms": 203985,
       "name": "The Love I Need",
       "url": "https://open.spotify.com/track/6kMz52ZCGAPfeoVrZM759i"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 245290,
-      "name": "Defection",
-      "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Resting State",
-        "url": "https://open.spotify.com/album/3RMcQ8d4hH9nK2hBNKx8Gy"
-      },
-      "artists": [
-        {
-          "name": "Lucy Park",
-          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "Resting State",
-      "url": "https://open.spotify.com/track/2PwJU6fEjoThOXal3axKEf"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Caustic Love",
         "url": "https://open.spotify.com/album/7M0WhcuEYzzeQwTNy1bDDO"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 189566,
       "name": "Scream (Funk My Life Up)",
       "url": "https://open.spotify.com/track/56oQl8ABVlcZlJN43wooTd"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Resting State",
+        "url": "https://open.spotify.com/album/3RMcQ8d4hH9nK2hBNKx8Gy"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Resting State",
+      "url": "https://open.spotify.com/track/2PwJU6fEjoThOXal3axKEf"
     },
     {
       "added_at": "2023-06-16 14:02:21",

@@ -4,10 +4,11 @@
 
 > pra entrar e ficar na onda
 
-75 songs - 3 hr 6 min
+76 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(NUNCA SOZINHO\)](https://open.spotify.com/track/3x8VWTMV6Paz9qQMaYzhqR) | [Nico Is Lost](https://open.spotify.com/artist/19QPe8JtnJBuQEFAiUbEaB) | [\(NUNCA SOZINHO\)](https://open.spotify.com/album/2Uvq2MIzpRYEfmQPjLIzdk) | 2:17 | 2023-10-20 |  |
 | [2O2](https://open.spotify.com/track/2sYMOSctTL2Jxp8scdcwE1) | [ICQ BABY](https://open.spotify.com/artist/5YQnfA7pMHo9MriIb2l0kO) | [essentials v1](https://open.spotify.com/album/2CsZISRhwzhuNtaTya7mhe) | 2:05 | 2023-09-15 |  |
 | [5 da manhã](https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:53 | 2023-10-13 |  |
 | [Abençoado](https://open.spotify.com/track/1QUOw9BKGEWSlo5XLt5vey) | [Vineee](https://open.spotify.com/artist/46BTmgvrCz09lWP0KxSRES) | [Vitória](https://open.spotify.com/album/7JfBKyoDTo9347LleQlGbG) | 2:59 | 2023-09-15 | 2023-09-23 |
@@ -51,7 +52,7 @@
 | [Máximo](https://open.spotify.com/track/4VFm1V3xdsDFA0e1KsAuTu) | [Lag](https://open.spotify.com/artist/51HoKSnYsi1GH04NC4cYYE), [Usina de Flows](https://open.spotify.com/artist/2CCIVDIhNn5HIJ1CnhEK31) | [Máximo](https://open.spotify.com/album/1ciJRj9YQTXpwV3wiJJdGq) | 2:53 | 2023-09-29 |  |
 | [Namora & Disfarça \- Bonus Track](https://open.spotify.com/track/3qm36Zh1qGQC2PHDQNdify) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Namora & Disfarça \(Bonus Track\)](https://open.spotify.com/album/3pGBkEvbU4alqs6dzJXeAS) | 1:42 | 2023-10-06 |  |
 | [Novinha Grandona](https://open.spotify.com/track/5VhV7UaJv6HTt6lbr9oxPx) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Novinha Grandona](https://open.spotify.com/album/0S038UJN1XgC1Asdx97gLJ) | 3:00 | 2023-10-20 |  |
-| [Nunca Sozinho](https://open.spotify.com/track/5QZEKx4SQOxABjMvcJjrGj) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Nunca Sozinho](https://open.spotify.com/album/0aUlKZZU5PNjviB2BbVRW5) | 2:17 | 2023-09-15 |  |
+| [Nunca Sozinho](https://open.spotify.com/track/5QZEKx4SQOxABjMvcJjrGj) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Nunca Sozinho](https://open.spotify.com/album/0aUlKZZU5PNjviB2BbVRW5) | 2:17 | 2023-09-15 | 2023-10-27 |
 | [Não Tem Outra](https://open.spotify.com/track/1auS0HfKQ8dooy12OyrlgW) | [Bokage](https://open.spotify.com/artist/4npdXEx9VZU1RG7vpAQEyh), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Não Tem Outra](https://open.spotify.com/album/70Xzw60lDTWOuyMsYiILxV) | 2:30 | 2023-09-15 |  |
 | [Não Vou Dançar Sozinho](https://open.spotify.com/track/4XMnWCE1u1qYFcnmNf1xFS) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [Não Vou Dançar Sozinho](https://open.spotify.com/album/0zL7xX3yuzJde6dkkhgoXV) | 2:04 | 2023-09-15 |  |
 | [Oba Oba](https://open.spotify.com/track/5zYB4ofqooGCbxKDAAYF0o) | [RealLamak](https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb), [PDRAX](https://open.spotify.com/artist/02aKkSb0RYHN3Qe2CuaTZw) | [Ar Puro](https://open.spotify.com/album/56FcmH9Od5EodcuZMgK5mV) | 1:54 | 2023-10-13 |  |

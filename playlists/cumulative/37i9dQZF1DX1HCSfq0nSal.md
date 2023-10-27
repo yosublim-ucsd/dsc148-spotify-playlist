@@ -2,9 +2,9 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. Rauw
+> Si está pegao, está aquí\. Feat\. Saiko
 
-461 songs - 1 day 1 hr 35 min
+464 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Baila Bien](https://open.spotify.com/track/49DcRL4LLu599I5xsrjcm9) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [15](https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6) | 3:17 | 2022-03-03 | 2022-03-18 |
 | [Bajo El Sol](https://open.spotify.com/track/57mxKzlcRGGZKLlVVDpztL) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Bajo El Sol](https://open.spotify.com/album/6ziFA6M7TxdCQ2bxplctdK) | 3:05 | 2023-08-29 |  |
 | [Bandido \(Remix\)](https://open.spotify.com/track/6ExTczq02XIWJjGKoi13RJ) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS) | [Bandido \(Remix\)](https://open.spotify.com/album/2rPtgNYHmXlZpKds0vIE56) | 4:06 | 2022-01-24 | 2022-09-20 |
+| [Bandidona](https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Bandidona](https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx) | 2:40 | 2023-10-26 |  |
 | [Bellacon](https://open.spotify.com/track/4Zj3K3UaUMC6ndSwl05Zyd) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Bellacon](https://open.spotify.com/album/6BkZqvJEJ9moiKKP0yXgce) | 3:32 | 2022-09-08 | 2022-09-20 |
 | [Bendición](https://open.spotify.com/track/5fIpvX6QRQ9hLtMjJYeKty) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Bendición](https://open.spotify.com/album/7Eo44MvuVaLGz2zIlvrhTO) | 2:49 | 2022-01-07 | 2022-01-17 |
 | [Besos Moja2](https://open.spotify.com/track/3XIIcuVsJbSj5tNNu46JF8) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Besos Moja2](https://open.spotify.com/album/2KUHWofjBWPyEsoAx8izNn) | 3:49 | 2022-09-30 | 2022-10-09 |
@@ -101,6 +102,7 @@
 | [Cosa Guapa](https://open.spotify.com/track/5o9NxjgOMpdGDYswuNv7yu) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 4:15 | 2022-01-07 | 2022-04-14 |
 | [Cosas Locas 2.0](https://open.spotify.com/track/0R4ZQFb0RmTAiQY22SbnSM) | [Danny Romero](https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ) | [Cosas Locas 2.0](https://open.spotify.com/album/5PMH8pV4lGzvyEY3PWcTVz) | 4:52 | 2023-03-28 | 2023-06-30 |
 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 | 2023-08-04 |  |
+| [CRUSH](https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [CRUSH](https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf) | 3:53 | 2023-10-26 |  |
 | [Cuerpecito](https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Cuerpecito](https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad) | 3:15 | 2023-03-31 | 2023-06-08 |
 | [Cuerpo a Cuerpo](https://open.spotify.com/track/59cCMgCXQNLCk4AEnXr5GJ) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Cuerpo a Cuerpo](https://open.spotify.com/album/7jqGVZrtpQty4hCslVZJb9) | 4:04 | 2023-09-07 | 2023-09-22 |
 | [CXO \(A Quién No Le Gusta\)](https://open.spotify.com/track/5Oticg4aAjACVhbzqe6KDY) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [CXO \(A Quién No Le Gusta\)](https://open.spotify.com/album/77istRQF1XwnI20tjlcwYu) | 3:56 | 2022-09-05 | 2022-09-20 |
@@ -380,6 +382,7 @@
 | [SAOKO](https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [SAOKO](https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If) | 2:17 | 2022-02-03 | 2022-02-19 |
 | [Sci\-Fi](https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sci\-Fi](https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu) | 3:18 | 2022-07-26 | 2022-08-09 |
 | [Se Menea](https://open.spotify.com/track/1ZcrHpBbILPNfhBtPhQVHh) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Se Menea](https://open.spotify.com/album/1MtqA947JKdlShamS80Wr5) | 3:10 | 2022-01-07 | 2022-02-23 |
+| [Se Va](https://open.spotify.com/track/6ccKcHU9zglIBSop0tkKhs) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Se Va](https://open.spotify.com/album/3niJjxTeQfaP0j86bDksq6) | 2:47 | 2023-10-26 |  |
 | [SEDA](https://open.spotify.com/track/1YnChEM51BVZ5dRhbVFEMl) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:10 | 2023-10-16 |  |
 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 | 2022-03-10 | 2022-07-27 |
 | [Si La Calle Llama \- Remix](https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:00 | 2023-03-21 |  |

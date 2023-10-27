@@ -12477,6 +12477,24 @@
     },
     {
       "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/2ga1ZzloXfkl48E80aDaon"
+      },
+      "artists": [
+        {
+          "name": "THE CHARM PARK",
+          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260265,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/5WlcbvvsEcHhpMmSiu3sfy"
+    },
+    {
+      "album": {
         "name": "Snake",
         "url": "https://open.spotify.com/album/0GTl9PHpXPLCJ50xra0AQs"
       },
@@ -13448,7 +13466,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 222255,
       "name": "Summer Ghost",
       "url": "https://open.spotify.com/track/7GsURClW23nEe0UX4hKW3z"
@@ -15340,6 +15358,28 @@
       "duration_ms": 230346,
       "name": "U.F.O",
       "url": "https://open.spotify.com/track/19EJa9xsAVtkpsTnynNQpN"
+    },
+    {
+      "album": {
+        "name": "For The Aliens EP",
+        "url": "https://open.spotify.com/album/2MNj6Y8pkeTUXUwJAsA9j0"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
+        },
+        {
+          "name": "The Hair Kid",
+          "url": "https://open.spotify.com/artist/0VFeaq5HusM9WgvSkRIBZi"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197023,
+      "name": "UFO-mie - original mix",
+      "url": "https://open.spotify.com/track/5jhjAMLOA86d3KviOuF0Lz"
     },
     {
       "album": {
@@ -19968,7 +20008,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 207624,
       "name": "\u6b7b\u3093\u3067\u304f\u308c",
       "url": "https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf"

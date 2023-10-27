@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: NASKA",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: VillaBanks",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -457,6 +457,32 @@
     },
     {
       "album": {
+        "name": "VILLABANKS",
+        "url": "https://open.spotify.com/album/1v4ennAZieVxb71tEgpjnZ"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "Linch",
+          "url": "https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126730,
+      "name": "Bella (ft. Boro)",
+      "url": "https://open.spotify.com/track/1yBBuN8zzSXkew8qe12Xlt"
+    },
+    {
+      "album": {
         "name": "bellissimissima <3",
         "url": "https://open.spotify.com/album/2uKdFaQMLtLkOHthm855ns"
       },
@@ -602,6 +628,28 @@
       "duration_ms": 163706,
       "name": "CARAMELLE",
       "url": "https://open.spotify.com/track/4YQ9Fbo5xyKlenSjmNbcqk"
+    },
+    {
+      "album": {
+        "name": "caramelle",
+        "url": "https://open.spotify.com/album/10qQiupoXWL01OVJRjRTj8"
+      },
+      "artists": [
+        {
+          "name": "blame",
+          "url": "https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8"
+        },
+        {
+          "name": "Angie",
+          "url": "https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "caramelle",
+      "url": "https://open.spotify.com/track/0dMl7ZeyKbUh5sPkwBFAWN"
     },
     {
       "album": {
@@ -1118,7 +1166,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 126618,
       "name": "DAI FIDATI DI ME",
       "url": "https://open.spotify.com/track/4MxoqD2NAjBzKUAwAQGLOE"
@@ -1140,6 +1188,24 @@
       "duration_ms": 176190,
       "name": "Del + e del -",
       "url": "https://open.spotify.com/track/3XLiJfgPLGbOhemWzuNpHO"
+    },
+    {
+      "album": {
+        "name": "die young",
+        "url": "https://open.spotify.com/album/7wAwsRkIHJYFJ9OM4r8rn8"
+      },
+      "artists": [
+        {
+          "name": "Loomy",
+          "url": "https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146880,
+      "name": "die young",
+      "url": "https://open.spotify.com/track/0PB5FBrdJJYJb306JHZazg"
     },
     {
       "album": {
@@ -1851,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "IL MIO MIGLIOR NEMICO",
+        "url": "https://open.spotify.com/album/0BEUay4OiO1kmxSfhqREQQ"
+      },
+      "artists": [
+        {
+          "name": "Benji",
+          "url": "https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152279,
+      "name": "IL MIO MIGLIOR NEMICO",
+      "url": "https://open.spotify.com/track/727b2Tqk054VaqdizPo2in"
+    },
+    {
+      "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
       },
@@ -2044,7 +2128,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 135172,
       "name": "La parte pi\u00f9 bella di me - RMX",
       "url": "https://open.spotify.com/track/0pBKfPHCqniryGa355fuxX"
@@ -2066,7 +2150,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 135172,
       "name": "La parte pi\u00f9 bella di me - RMX",
       "url": "https://open.spotify.com/track/3fqElKBSWrAvObrMqx5oP8"
@@ -2102,7 +2186,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 165120,
       "name": "Laila",
       "url": "https://open.spotify.com/track/2RDXSZsF1B28g2e4tjyVIa"
@@ -2728,7 +2812,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 144000,
       "name": "Niente da perdere",
       "url": "https://open.spotify.com/track/60UzJigT6149nbKWCzo3WK"
@@ -3342,7 +3426,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 148839,
       "name": "PETARDI",
       "url": "https://open.spotify.com/track/6aBkkxEVmDGC1o0DpxQcjM"
@@ -3936,7 +4020,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 135428,
       "name": "SOBRIO",
       "url": "https://open.spotify.com/track/1eFWY1K9xr166GR7BZeJnp"
@@ -4554,6 +4638,24 @@
       "duration_ms": 160000,
       "name": "UN MILIONE DI NOTTI",
       "url": "https://open.spotify.com/track/2ro9FlKCYKTLHB6Ke7Uqld"
+    },
+    {
+      "album": {
+        "name": "Un po' di te",
+        "url": "https://open.spotify.com/album/1ayaxYovLmlTBMLMZjSA9M"
+      },
+      "artists": [
+        {
+          "name": "Alex W",
+          "url": "https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Un po' di te",
+      "url": "https://open.spotify.com/track/7l20UfYfWQDfElcp1rvkjd"
     },
     {
       "album": {

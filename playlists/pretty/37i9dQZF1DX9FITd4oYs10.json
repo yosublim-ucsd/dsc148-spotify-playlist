@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17407,
+  "num_followers": 17417,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTM4MmNkNGNmMmQ4YjgxODZiOGNmNjA2Y2ZmODg2NTczMTNiM2Uz",
+  "snapshot_id": "MCw5YjcyYTkwMThiNGYxNjE3Nzc5NzBiZWViYmFjODRhNjlmYTY0OGRk",
   "tracks": [
     {
       "added_at": "2023-10-13 15:01:59",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-13 15:01:59",
       "album": {
-        "name": "Eletrocardiograma",
-        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 224272,
-      "name": "Bora Dan\u00e7ar",
-      "url": "https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6"
-    },
-    {
-      "added_at": "2023-10-13 15:01:59",
-      "album": {
         "name": "Cacife Gold, Vol. 1",
         "url": "https://open.spotify.com/album/1bhmo9qkQv9WrNVmby54Sp"
       },
@@ -1123,6 +1107,38 @@
       "duration_ms": 283585,
       "name": "Miss",
       "url": "https://open.spotify.com/track/3CxiFRL9ehmQCGGpORlPAg"
+    },
+    {
+      "added_at": "2023-10-13 15:01:59",
+      "album": {
+        "name": "Eletrocardiograma",
+        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 224272,
+      "name": "Bora Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6"
+    },
+    {
+      "added_at": "2023-10-13 15:01:59",
+      "album": {
+        "name": "Racionais Mc's",
+        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 270188,
+      "name": "Mente do Vil\u00e3o",
+      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
     },
     {
       "added_at": "2023-10-13 15:01:59",
@@ -1155,22 +1171,6 @@
       "duration_ms": 270000,
       "name": "Poesia Ac\u00fastica Ep. Acabou",
       "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
-    },
-    {
-      "added_at": "2023-10-13 15:01:59",
-      "album": {
-        "name": "Racionais Mc's",
-        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 270188,
-      "name": "Mente do Vil\u00e3o",
-      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
     },
     {
       "added_at": "2023-10-13 15:01:59",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-10-13 15:01:59",
       "album": {
-        "name": "Fuga",
-        "url": "https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost"
-      },
-      "artists": [
-        {
-          "name": "Cacife Clandestino",
-          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 232191,
-      "name": "Fuga",
-      "url": "https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR"
-    },
-    {
-      "added_at": "2023-10-13 15:01:59",
-      "album": {
         "name": "The Cypher Deffect 2",
         "url": "https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 335907,
       "name": "The Cypher Deffect 2",
       "url": "https://open.spotify.com/track/6GYrNXsWoprEndJCoKLfAB"
+    },
+    {
+      "added_at": "2023-10-13 15:01:59",
+      "album": {
+        "name": "Fuga",
+        "url": "https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost"
+      },
+      "artists": [
+        {
+          "name": "Cacife Clandestino",
+          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 232191,
+      "name": "Fuga",
+      "url": "https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR"
     },
     {
       "added_at": "2023-10-13 15:01:59",

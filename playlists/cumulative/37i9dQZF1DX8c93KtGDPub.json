@@ -796,6 +796,10 @@
       },
       "artists": [
         {
+          "name": "The Holiday Place",
+          "url": "https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4"
+        },
+        {
           "name": "Current Swell",
           "url": "https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4"
         }
@@ -917,7 +921,7 @@
     },
     {
       "album": {
-        "name": "Maybe This Christmas, Vol. 7: Country Sleigh Ride",
+        "name": "Maybe This Christmas, Vol. 7: The Christmas Cottage",
         "url": "https://open.spotify.com/album/7dkbS28jW8LVyfKWtFwls2"
       },
       "artists": [
@@ -1577,28 +1581,6 @@
     },
     {
       "album": {
-        "name": "Maybe This Christmas, Vol. 6: Holiday Cheer",
-        "url": "https://open.spotify.com/album/6cymDG3h1yntlgB608r5Ux"
-      },
-      "artists": [
-        {
-          "name": "Almost Christmas",
-          "url": "https://open.spotify.com/artist/4mHwDjQ0plVFwIb6EeLMoF"
-        },
-        {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
-        }
-      ],
-      "date_added": "2022-11-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 174173,
-      "name": "Hang a String of Lights",
-      "url": "https://open.spotify.com/track/6gj7JWe25jFSpFEWKjxadz"
-    },
-    {
-      "album": {
         "name": "Isn't This World Enough?? A Nettwerk Christmas",
         "url": "https://open.spotify.com/album/3o2aareSZ1ku3Sw0BCixcT"
       },
@@ -1614,6 +1596,28 @@
       "duration_ms": 174173,
       "name": "Hang a String of Lights",
       "url": "https://open.spotify.com/track/57sCC8Igwgq174nkBYqcMF"
+    },
+    {
+      "album": {
+        "name": "Maybe This Christmas, Vol. 6: Holiday Cheer",
+        "url": "https://open.spotify.com/album/6cymDG3h1yntlgB608r5Ux"
+      },
+      "artists": [
+        {
+          "name": "The Holiday Place",
+          "url": "https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4"
+        },
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174173,
+      "name": "Hang a String of Lights",
+      "url": "https://open.spotify.com/track/6gj7JWe25jFSpFEWKjxadz"
     },
     {
       "album": {

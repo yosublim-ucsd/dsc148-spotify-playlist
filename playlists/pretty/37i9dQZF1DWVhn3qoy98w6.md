@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: CRISTALINO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,150 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,172 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 21 | [SE ME CAE EL CIELO](https://open.spotify.com/track/7GMjWZIHoGLIW0Tm67XYTb) | [Suave](https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu), [Aymí](https://open.spotify.com/artist/2yqqAZVzblILJYubLxFfeS) | [SE ME CAE EL CIELO](https://open.spotify.com/album/7utY6aOPbuZVMEh0UT6vjF) | 2:32 |
 | 22 | [SENTIMIENTO](https://open.spotify.com/track/3TFLfOlzPhvntqfsyDaMZV) | [MENTIRA](https://open.spotify.com/artist/025KCrdT7Sl83OzsBfEhtu) | [NADA ES PARA SIEMPRE](https://open.spotify.com/album/4ix7diO6OG54OiScomTyTg) | 3:43 |
 | 23 | [DESDE SEPTIEMBRE](https://open.spotify.com/track/6YGSZ68lvK5C5xzd4wskcR) | [Carlos Ann](https://open.spotify.com/artist/7nFWWb167KxqVj9AnWUNGB) | [DESDE SEPTIEMBRE](https://open.spotify.com/album/10PoyB5bEkWu1uSQ1W2huo) | 3:14 |
-| 24 | [KAYKO](https://open.spotify.com/track/4zpUNT7lldFahM8tuw2Mv2) | [Ana Ruiz](https://open.spotify.com/artist/54ZoJKNSqlR07LKYPixZxu) | [KAYKO](https://open.spotify.com/album/7q3gwuRoYIOWyNzpqHZFp2) | 2:54 |
+| 24 | [KAYKO \- Santiago Rey Remix](https://open.spotify.com/track/4zpUNT7lldFahM8tuw2Mv2) | [Ana Ruiz](https://open.spotify.com/artist/54ZoJKNSqlR07LKYPixZxu), [Santiago Rey](https://open.spotify.com/artist/3KOg62Nw63sN1i9wZUu5tU) | [KAYKO \(Santiago Rey Remix\)](https://open.spotify.com/album/7q3gwuRoYIOWyNzpqHZFp2) | 2:54 |
 | 25 | [Te perdí](https://open.spotify.com/track/6tbAjclwunSmd13v5t2VOH) | [Ivan Hidra](https://open.spotify.com/artist/7B0zeX05g1h9HZhQngumgF) | [Te perdí](https://open.spotify.com/album/0OhNqkpd8if8pbwsGDoWQA) | 2:54 |
 | 26 | [The Sun](https://open.spotify.com/track/5AMNt02aQY55Q6nIOZffdS) | [Sara Zozaya](https://open.spotify.com/artist/0kJdtWJm7Aqpdk7hn7AN8n), [Liam](https://open.spotify.com/artist/5oSJa1FE1TFFQZJtlnrbZ4) | [Nara](https://open.spotify.com/album/3uaPqD3tp5jRGIPqV5PUsV) | 2:24 |
 | 27 | [si te vas](https://open.spotify.com/track/3RcncBqS5SyMRcM04oFOsp) | [ivansan](https://open.spotify.com/artist/3agUYgPABTYLQYmh77GgbJ) | [si te vas](https://open.spotify.com/album/5qR2Myhes1urnHWl7w0Lxz) | 2:28 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 48 | [2035](https://open.spotify.com/track/3nbCRULrZIFo4prDNzOZ75) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln), [Nina Emocional](https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz) | [2035](https://open.spotify.com/album/7xcHmGc4ctuRjSQn54hZst) | 1:52 |
 | 49 | [Peter Pan](https://open.spotify.com/track/1yuvkcayFZKZtDeBCB4ZBZ) | [Marcos Naide](https://open.spotify.com/artist/0w2oYmjQYOPqe74dZ5LuwF) | [Peter Pan](https://open.spotify.com/album/51LUFLNFNP8860vj81kDWZ) | 2:21 |
 
-Snapshot ID: `MCw1MGMwNmM3ODFiYzg2NzU5ZTEzNGU2NjFhNWYwMDI1YjY4MDY1NzQ5`
+Snapshot ID: `MCw5YWM4Njg0ZjJkZDRjZGNlYzJjMGIzMGI5Y2ZjYzg4NTMxNDZiNDFk`

@@ -4,7 +4,7 @@
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-380 songs - 1 day 17 hr 40 min
+381 songs - 1 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Bekaboo](https://open.spotify.com/track/1HYPIyMIgHN9Gmv12es0xd) | [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Bekaboo](https://open.spotify.com/album/1A05Xaf6VxzQVJpEiMsa75) | 3:09 | 2023-03-25 | 2023-04-23 |
 | [Believe](https://open.spotify.com/track/5FRiawD1neBjKVFZWODYqR) | [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7) | [Aragatz](https://open.spotify.com/album/76ORVgHLwFHWHCnO0Z5i8D) | 6:43 | 2019-08-02\* | 2019-09-20 |
 | [Between Dreams and Reality \- Niko Schwind Remix](https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2), [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM) | [Between Dreams and Reality EP](https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4) | 8:48 | 2019-08-02\* | 2023-02-01 |
+| [Beyond Strings](https://open.spotify.com/track/0X0nx6xOexUGeR5lGfqXCE) | [Ghenwa Nemnom](https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp), [Mohab Sammy](https://open.spotify.com/artist/223p44YDBTVmvgi2NeHC5j) | [Beyond Strings](https://open.spotify.com/album/4O3CN6cMyHP95IpF7QcPJa) | 7:31 | 2023-09-01 |  |
 | [Black Rat](https://open.spotify.com/track/2dxNw2J0C80RocWjyIbq1U) | [Christos Fourkis](https://open.spotify.com/artist/4IQHUz0kIZfHNEOyPQwI7J) | [Black Rat](https://open.spotify.com/album/5crhRNXwKWNmdw6Qho9NM0) | 6:18 | 2019-08-02\* | 2021-05-30 |
 | [Boho](https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Boho](https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU) | 4:53 | 2023-04-20 |  |
 | [Bosque](https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Bosque](https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt) | 6:33 | 2021-05-08 |  |
@@ -171,7 +172,7 @@
 | [Izvor](https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1) | 6:40 | 2023-06-30 |  |
 | [Izvor](https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71) | 6:40 | 2022-09-30 | 2023-06-25 |
 | [Jangal](https://open.spotify.com/track/3IdFbXj1lsIXJmvESPmFFL) | [Mikah](https://open.spotify.com/artist/3jPTUhclHgDcj0RdPcWaqJ) | [Jangal EP](https://open.spotify.com/album/6LnZlCh9FixolLKG28HGLY) | 6:48 | 2020-01-01 | 2020-01-04 |
-| [Jendayi](https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp) | [Anber](https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc) | [Jendayi EP](https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks) | 6:31 | 2020-08-20 |  |
+| [Jendayi](https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp) | [Anber](https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc) | [Jendayi EP](https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks) | 6:31 | 2020-08-20 | 2023-10-27 |
 | [Kabsa](https://open.spotify.com/track/5QAnwHfL5QsI8fcUzvlBBJ) | [Auntie Flo](https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d) | [Kabsa](https://open.spotify.com/album/3rsx9zNkL5gBM6njN11P0n) | 5:21 | 2019-08-02\* | 2021-07-06 |
 | [Kairosmind](https://open.spotify.com/track/0wmsIEMUdPD7NUfS5LzsJ3) | [Geju](https://open.spotify.com/artist/33AlE9XaZmnAtfWFhjNL5e), [Waxwood](https://open.spotify.com/artist/6Yu6Z8MkOoeLpHtTU0IE3c) | [Water Elements](https://open.spotify.com/album/2pSt4WkO1z5pyNM673d9g9) | 8:34 | 2019-08-02\* | 2021-01-18 |
 | [Kali Koi](https://open.spotify.com/track/50qzFvOVwaTmsmF8fxq1fF) | [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG) | [Kali Koi](https://open.spotify.com/album/0liy6uyX169BMp5UpEqVST) | 5:44 | 2020-02-11 | 2020-03-05 |

@@ -4,7 +4,7 @@
 
 > Amapiano tracks to fuel your beast mode!
 
-135 songs - 13 hr 29 min
+136 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Jabula](https://open.spotify.com/track/4xMAU5EoZ4vIVRKB0degt4) | [Mfana Kah Gogo](https://open.spotify.com/artist/0gGBj3AcYMHRa32eeikJg1) | [Jabula](https://open.spotify.com/album/3q8Qzr7YmiISGyKv88LLTW) | 6:05 | 2022-09-15 | 2023-04-15 |
 | [JAGERMEISTER](https://open.spotify.com/track/3VBwoaePYGdOmG1YHgGOHi) | [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML) | [JAGERMEISTER](https://open.spotify.com/album/5Tk2uNjYtHL9V0uEhSQAYx) | 5:27 | 2023-04-14 |  |
 | [JAGERMEISTER](https://open.spotify.com/track/67iNlrjPKMiqrpY5mTne2u) | [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML) | [Hakuna Mathata](https://open.spotify.com/album/5WsgpaaHCVDm0Mn1Dllm2Q) | 5:27 | 2023-09-21 |  |
-| [John Vuli Gate](https://open.spotify.com/track/0iHnYSPIQlmQzo1NVN6kRJ) | [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY), [Colano](https://open.spotify.com/artist/02OOc2ZYid4CK1DJF5RXrI) | [John Vuli Gate](https://open.spotify.com/album/2LV2PfwatDDB9HeMs9NeH0) | 5:55 | 2023-10-05 |  |
+| [John Vuli Gate](https://open.spotify.com/track/0iHnYSPIQlmQzo1NVN6kRJ) | [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY), [Colano](https://open.spotify.com/artist/02OOc2ZYid4CK1DJF5RXrI) | [John Vuli Gate](https://open.spotify.com/album/2LV2PfwatDDB9HeMs9NeH0) | 5:55 | 2023-10-05 | 2023-10-27 |
+| [John Vuli Gate \(feat\. Ntosh Gazi & Colano\)](https://open.spotify.com/track/2wTFpjguU3GqWQMATlIKGb) | [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Colano](https://open.spotify.com/artist/02OOc2ZYid4CK1DJF5RXrI), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY) | [John Vuli Gate](https://open.spotify.com/album/2mq9D18bETC9Yf7bv99FiR) | 5:55 | 2023-10-12 |  |
 | [John Vuli Gate \(feat\. Ntosh Gazi & Colano\)](https://open.spotify.com/track/5JiC9aVRdEaEylSPhs9SXC) | [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Colano](https://open.spotify.com/artist/02OOc2ZYid4CK1DJF5RXrI), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY) | [John Vuli Gate](https://open.spotify.com/album/7LaWhzEvDOvuKIHg1DsQT4) | 5:55 | 2022-09-15 | 2022-10-22 |
 | [John Vuli Gate \(feat\. Ntosh Gazi & Colano\)](https://open.spotify.com/track/7IAMurey3mCF73caRZcdOC) | [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Colano](https://open.spotify.com/artist/02OOc2ZYid4CK1DJF5RXrI), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY) | [John Vuli Gate \(feat\. Ntosh Gazi & Colano\)](https://open.spotify.com/album/1MOJaKNs5h3Pz5gA8WAc7r) | 5:55 | 2022-09-15 | 2023-10-11 |
 | [John Wick](https://open.spotify.com/track/4nLJnkaFq9VNYVz1SxJsXi) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve) | [Ace Of Spades \(Reshuffle\)](https://open.spotify.com/album/2kE4dNChxoaS64Xdt6XLvu) | 6:56 | 2022-09-15 |  |

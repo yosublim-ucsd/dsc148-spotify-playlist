@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 284794,
+  "num_followers": 284949,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTNjMzk2MjhmYjQzNzVjMWZmZGM5YjU5ZjdlNjUyN2Y1NDNiNDQ1",
+  "snapshot_id": "MCw0MTM1MTgwZmI4MzQ4MDYyMGE3NTgzZTlkOTBkMTFmMzI0NzA5ZjMx",
   "tracks": [
     {
       "added_at": "2023-08-21 19:26:53",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Rose Garden",
-        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
-      },
-      "artists": [
-        {
-          "name": "Lynn Anderson",
-          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Rose Garden",
-      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Whiskey Bent And Hell Bound",
         "url": "https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 188386,
       "name": "Whiskey Bent And Hell Bound",
       "url": "https://open.spotify.com/track/5TWhLgjy8cgb6CRPnnlnn2"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Rose Garden",
+        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
+      },
+      "artists": [
+        {
+          "name": "Lynn Anderson",
+          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Rose Garden",
+      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
-      },
-      "artists": [
-        {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "When You're Hot, You're Hot",
-      "url": "https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Love In The Hot Afternoon",
         "url": "https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 199400,
       "name": "Love In The Hot Afternoon",
       "url": "https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "The Essential Jerry Reed",
+        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
+      },
+      "artists": [
+        {
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "When You're Hot, You're Hot",
+      "url": "https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5"
     },
     {
       "added_at": "2023-08-21 19:26:53",

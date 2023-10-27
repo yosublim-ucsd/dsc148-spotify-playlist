@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan & Salim Sulaiman
 
-82 songs - 5 hr 6 min
+83 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Daana Paani \(From "Daana Paani" Soundtrack\)](https://open.spotify.com/track/7xT9DUDXxmjb1hsIcnzGrq) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Bir Singh](https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi) | [Daana Paani \(From "Daana Paani" Soundtrack\)](https://open.spotify.com/album/73oPRBDmqdR1SWaFWd8WzO) | 2:36 | 2021-11-03 |  |
 | [Das Main Ki Pyar Wichon Khatyal](https://open.spotify.com/track/0je2FP3jnEOzma2eHaUPA7) | [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [Lak Hile Majajan Jandi Da](https://open.spotify.com/album/4lXQtIeUiDuEQ0H8rM0FDp) | 3:15 | 2021-11-03 | 2022-07-29 |
 | [Das Main Ki Pyar Wichon Khatyal](https://open.spotify.com/track/2sHtt2EVbN0vFZTFYuYdlQ) | [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [Lak Hile Majajan Jandi Da](https://open.spotify.com/album/4v2E9Up8kfr2W0gkUrlL4P) | 3:15 | 2022-07-16 |  |
+| [Din Shagna](https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Din Shagna](https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm) | 3:49 | 2023-10-26 |  |
 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [The Best of Hans Raj Hans](https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK) | 8:52 | 2021-11-03 |  |
 | [Dupatta Tera Sat Rang Da](https://open.spotify.com/track/4ADBNyJrE1xDeOGU8aCByZ) | [Surjit Bindrakhia](https://open.spotify.com/artist/2tcB32mxjVzmLcyfGizWNX) | [Dupatta Tera Sat Rang Da](https://open.spotify.com/album/3v6noFGkc8KKejSetXmWLv) | 4:28 | 2021-11-03 | 2022-07-29 |
 | [Dupatta Tera Sat Rang Da](https://open.spotify.com/track/7GOVdCsVtKiVdyFjXJERDm) | [Surjit Bindrakhia](https://open.spotify.com/artist/2tcB32mxjVzmLcyfGizWNX) | [Greatest Old Skool Bhangra Hits, Vol\. 2](https://open.spotify.com/album/4oluT9XHuyEP7eegMh4xTa) | 4:28 | 2022-11-09 | 2022-11-13 |
@@ -70,7 +71,7 @@
 | [Latthe Di Chadar \- Mahiya](https://open.spotify.com/track/4hvesFus234aJFjiExrWmY) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG) | 3:02 | 2021-11-03 | 2022-07-29 |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-18 |  |
 | [Madhaniya](https://open.spotify.com/track/7JhqIABcX6GZLbVRbbKsKZ) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Madhaniya](https://open.spotify.com/album/1PxxiGMkxPXAqVNT5IvJX8) | 2:04 | 2021-11-03 |  |
-| [Madhaniya](https://open.spotify.com/track/1X9TM5uBUe8NBeM3CE9pg8) | [Tanuja Kumari](https://open.spotify.com/artist/1VuoDqqpoQ2FE6A4VHLid5), [Gargi Sarkar](https://open.spotify.com/artist/3lAIYCe8WEl7Gjni7XT3v7) | [Mitti \- Folk Vibes Of Punjab](https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj) | 3:04 | 2023-08-08 |  |
+| [Madhaniya](https://open.spotify.com/track/1X9TM5uBUe8NBeM3CE9pg8) | [Tanuja Kumari](https://open.spotify.com/artist/1VuoDqqpoQ2FE6A4VHLid5), [Gargi Sarkar](https://open.spotify.com/artist/3lAIYCe8WEl7Gjni7XT3v7) | [Mitti \- Folk Vibes Of Punjab](https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj) | 3:04 | 2023-08-08 | 2023-10-27 |
 | [Majhe Diye Mombattiye](https://open.spotify.com/track/2gP09WRLU9PajUoOgCDYWU) | [Balkar Sidhu](https://open.spotify.com/artist/6uBqTShUAXu6jwhxxvhuhZ) | [Best of Balkar Sidhu](https://open.spotify.com/album/72HqqELNR5MK8wGgPxjOfQ) | 7:31 | 2021-11-03 |  |
 | [Mathe Te Chamkan Vaal \(Live\)](https://open.spotify.com/track/5A3PfcBVxvN06YcWBrAbCU) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Mathe Te Chamkan Vaal \(Live\)](https://open.spotify.com/album/6M5JcBhM7iAJBsO4jDJGPC) | 3:38 | 2023-08-17 |  |
 | [Mathe Te Chamkan Vaal \- Live](https://open.spotify.com/track/3SkUaDTh5M4BDdQOLzLiol) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Mathe Te Chamkan Vaal / Gidde Vich \(Live\) \- Single](https://open.spotify.com/album/4FMCAGhni2EPuBGxw6Dq9O) | 3:38 | 2021-11-03 | 2023-09-03 |

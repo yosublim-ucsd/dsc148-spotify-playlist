@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,635 likes - 46 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,730 likes - 46 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 4 | [Bargain](https://open.spotify.com/track/5YS2n7FHAGsEdMrtUzHbo9) | [Rob](https://open.spotify.com/artist/4bhBtxtDWGCSaRXztdrDMq) | [Make It Fast, Make It Slow](https://open.spotify.com/album/4x6UecIxC8wmIffb272emB) | 5:17 |
 | 5 | [Watch Your Life](https://open.spotify.com/track/2vbRZMSsenMBhpF6am4uRc) | [Itadi](https://open.spotify.com/artist/4VJPktEOBTcv5oRRXrPhne) | [Itadi](https://open.spotify.com/album/0FPxNka2LFpFgHTT5zCtRj) | 6:10 |
 | 6 | [Afro Beat Blues](https://open.spotify.com/track/4xclRUqjOM5HMzDZQyRaPo) | [Ojah](https://open.spotify.com/artist/4BlnK8TML5QzxndhXN2NeJ), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [The Chisa Years 1965\-1975 \(Rare and Unreleased\)](https://open.spotify.com/album/3GWyP7C2a9aydvTavoMtgZ) | 6:48 |
-| 7 | [Heaven](https://open.spotify.com/track/1KT0sltdhzB2LxfS0GM8Uq) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/6qSmpM356gfbFMpy97f2JF) | 6:05 |
+| 7 | [Heaven](https://open.spotify.com/track/6V8mQGMlteOnomLViyIRwU) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Ebo Taylor](https://open.spotify.com/album/5FOShBCFRekNYPZwzKWLB2) | 6:05 |
 | 8 | [It's Not Easy](https://open.spotify.com/track/2pm72A1aBHKwqr05xaDW8h) | [Ofege](https://open.spotify.com/artist/05LK9pT8ScfWNT0UbDsyqe) | [Forge Your Own Chains: Heavy Psychedelic Ballads and Dirges 1968\-1974](https://open.spotify.com/album/1TQtU1pMPnhKv3Nz23TGMI) | 4:20 |
 | 9 | [Afe Ato Yen Bio](https://open.spotify.com/track/6IwbrqhA8HxDwcIWNbAbGV) | [De Frank Professionals](https://open.spotify.com/artist/1fE63ATeabzzI5ohMJSw7n) | [Afro\-Beat Airways: Ghana & Togo 1974\-1978 \(Analog Africa No\. 8\)](https://open.spotify.com/album/4ogePZ3mtDw3frtBFbkhGZ) | 4:42 |
 | 10 | [Khala My Friend](https://open.spotify.com/track/17WvocrxbKL2t7HyoSpSCK) | [Amanaz](https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:20 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 45 | [In The Jungle \(Instrumental\)](https://open.spotify.com/track/4Maj54gxqVxtDkV7NVhuGA) | [The Hygrades](https://open.spotify.com/artist/6kP2CQaCRWY4aTw6hzLfXU) | [Keep On Moving](https://open.spotify.com/album/5FdJf2mAyJnQ6h7eoC8alN) | 3:08 |
 | 46 | [You Are My Heart](https://open.spotify.com/track/5r2cbcTE0HhvRO2avP8GAh) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 3:13 |
 
-Snapshot ID: `MCxjMjM1NmU1ZmYwNjVhZWEzMjllOWUwYTM2YWFmOTYxMWMwOTY0MWRh`
+Snapshot ID: `MCwwNDJmNjA1NDQyYjkxYjQ1ODNiYjViYmJlMmQyOGI1ZmU1ZTllMzFk`

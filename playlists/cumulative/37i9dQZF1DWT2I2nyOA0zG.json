@@ -184,10 +184,36 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 222846,
       "name": "Akwaba",
       "url": "https://open.spotify.com/track/6cOqoDln6OzVrjc2xI4Wsu"
+    },
+    {
+      "album": {
+        "name": "Akwaba",
+        "url": "https://open.spotify.com/album/6fy8ndrkD16idsJ22b8cFo"
+      },
+      "artists": [
+        {
+          "name": "Magic System",
+          "url": "https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223122,
+      "name": "Akwaba",
+      "url": "https://open.spotify.com/track/1RpYaDpoVelSpkVHj2yNYv"
     },
     {
       "album": {

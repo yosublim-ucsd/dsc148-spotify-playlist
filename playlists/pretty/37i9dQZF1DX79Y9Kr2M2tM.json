@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 843852,
+  "num_followers": 843924,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGM1NTliYWEzZjZkZGQ3MTdlN2MzMWIwNzJjMTBhMjBhNDc2YmFk",
+  "snapshot_id": "MCxkNThhMjE1YTliMTIwNzUwOGE5YTU1NTE2ODQ2NjA4NTZmNDJjM2Ew",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Elk Grove",
-        "url": "https://open.spotify.com/album/6bSWCDheGUZVfCSKZw4F8I"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 215712,
-      "name": "Elk Grove",
-      "url": "https://open.spotify.com/track/0AhiwX5iV3gd8IvUUQ4TYQ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "White Water",
         "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 233391,
       "name": "White Water",
       "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Elk Grove",
+        "url": "https://open.spotify.com/album/6bSWCDheGUZVfCSKZw4F8I"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 215712,
+      "name": "Elk Grove",
+      "url": "https://open.spotify.com/track/0AhiwX5iV3gd8IvUUQ4TYQ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Hanging",
+        "url": "https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 233680,
+      "name": "Hanging",
+      "url": "https://open.spotify.com/track/6khrKsm3I0OJb4WB5Ogs2j"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Do It All Again",
         "url": "https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1"
       },
@@ -1015,6 +1031,22 @@
       "duration_ms": 192000,
       "name": "You and I",
       "url": "https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "All We've Known",
+        "url": "https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/574uSIfe7tTBLCFjN38vij"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1055,18 +1087,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Hanging",
-        "url": "https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz"
+        "name": "You Stay by the Sea (Deluxe)",
+        "url": "https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4"
       },
       "artists": [
         {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
         }
       ],
-      "duration_ms": 233680,
-      "name": "Hanging",
-      "url": "https://open.spotify.com/track/6khrKsm3I0OJb4WB5Ogs2j"
+      "duration_ms": 256394,
+      "name": "Sea Creatures",
+      "url": "https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1091,38 +1123,6 @@
       "duration_ms": 214933,
       "name": "Hunger Of The Pine - Jody Wisternoff & James Grant Remix",
       "url": "https://open.spotify.com/track/6jrztnYIBYFo121nj0Oajx"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "You Stay by the Sea (Deluxe)",
-        "url": "https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 256394,
-      "name": "Sea Creatures",
-      "url": "https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "All We've Known",
-        "url": "https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A"
-      },
-      "artists": [
-        {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/574uSIfe7tTBLCFjN38vij"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Bare",
+        "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 257582,
+      "name": "Awake Me",
+      "url": "https://open.spotify.com/track/4H9aMftedBe0UEHv0IXYgQ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Rolling Thunder",
         "url": "https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 241785,
       "name": "Rolling Thunder",
       "url": "https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Bare",
-        "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 257582,
-      "name": "Awake Me",
-      "url": "https://open.spotify.com/track/4H9aMftedBe0UEHv0IXYgQ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/49K2MThrpYALEgaFoqraaF"
-      },
-      "artists": [
-        {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/0GxvJu5SzVMtZIpsUv6NjW"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Shiftshaping",
         "url": "https://open.spotify.com/album/16i0VFecMUrw9lzFH4UxA3"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 221076,
       "name": "Shiftshaping",
       "url": "https://open.spotify.com/track/6hQTXfHQzrWa6RP6PlB1dX"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/49K2MThrpYALEgaFoqraaF"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/0GxvJu5SzVMtZIpsUv6NjW"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Spirits",
-        "url": "https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4"
-      },
-      "artists": [
-        {
-          "name": "French For Rabbits",
-          "url": "https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "Goat",
-      "url": "https://open.spotify.com/track/2YEa3nFylD0cX3RZ48IJol"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "A Light Left On",
         "url": "https://open.spotify.com/album/1AexYaxNPcGb3PY3icXXIX"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 269746,
       "name": "I Still Remain",
       "url": "https://open.spotify.com/track/5Q1Bjrgo3VqdyyojOkpXvW"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Spirits",
+        "url": "https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4"
+      },
+      "artists": [
+        {
+          "name": "French For Rabbits",
+          "url": "https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "Goat",
+      "url": "https://open.spotify.com/track/2YEa3nFylD0cX3RZ48IJol"
     },
     {
       "added_at": "2023-10-20 04:00:00",

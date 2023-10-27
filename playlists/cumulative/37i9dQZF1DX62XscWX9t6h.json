@@ -768,7 +768,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 158853,
       "name": "Human (feat. JONA XX) - Spotify Singles",
       "url": "https://open.spotify.com/track/48UIC5kKvE8ftxKyXvlvg7"
@@ -1568,6 +1568,24 @@
       "duration_ms": 316093,
       "name": "Savanne",
       "url": "https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm"
+    },
+    {
+      "album": {
+        "name": "Enter J's Chamber",
+        "url": "https://open.spotify.com/album/0SYCOHLxNJksWTbAtP9PYo"
+      },
+      "artists": [
+        {
+          "name": "Takeshi's Cashew",
+          "url": "https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287026,
+      "name": "Serpentines (to Nik\u0161i\u0107)",
+      "url": "https://open.spotify.com/track/3qOF9KosQNYRlyoWQF5eAY"
     },
     {
       "album": {

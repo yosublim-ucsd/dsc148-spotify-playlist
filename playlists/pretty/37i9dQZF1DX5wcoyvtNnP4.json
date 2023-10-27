@@ -1,12 +1,12 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 492838,
+  "num_followers": 492834,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjRhOGQ3MGZjY2RkNWViZDQzNDQ1MjU1MDkzMzliZWM1ZmMxYTA2",
+  "snapshot_id": "MCw4MGZjNTUxODA2OTE4Yjk5NzdhNzdmYmU0NTYyZDk5ODk5MjY3NDU4",
   "tracks": [
     {
       "added_at": "2023-10-13 08:00:00",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+    },
+    {
+      "added_at": "2023-10-13 08:00:00",
+      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 154560,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
-    },
-    {
-      "added_at": "2023-10-13 08:00:00",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/1JQOUrnGO8cW4ozVKAIbID"
+      },
+      "artists": [
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        }
+      ],
+      "duration_ms": 174998,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/0kDI42WWRwsrKAmE7wmQbt"
+    },
+    {
+      "added_at": "2023-10-13 08:00:00",
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/7xWgrLBIQVECzOsNvo2OHU"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 121000,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/01a7nB3AywapMgbLi3LGbZ"
-    },
-    {
-      "added_at": "2023-10-13 08:00:00",
-      "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/1JQOUrnGO8cW4ozVKAIbID"
-      },
-      "artists": [
-        {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
-        }
-      ],
-      "duration_ms": 174998,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/0kDI42WWRwsrKAmE7wmQbt"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/7qnMJEfvGH0G9X6Y3RgJrP"
-      },
-      "artists": [
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Hanne Mj\u00f8en",
-          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg"
-    },
-    {
-      "added_at": "2023-10-13 08:00:00",
-      "album": {
         "name": "Better Me",
         "url": "https://open.spotify.com/album/5IYf8D3VoKSaFcDJm6o9qL"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 166080,
       "name": "Better Me",
       "url": "https://open.spotify.com/track/7JStcVqmZ7NbI76tRerzaB"
+    },
+    {
+      "added_at": "2023-10-13 08:00:00",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7qnMJEfvGH0G9X6Y3RgJrP"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -1195,22 +1195,6 @@
       "duration_ms": 201700,
       "name": "Sun Will Shine",
       "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
-    },
-    {
-      "added_at": "2023-10-13 08:00:00",
-      "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/0pQF3bDC9wGPa5QhhF1w0s"
-      },
-      "artists": [
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        }
-      ],
-      "duration_ms": 137826,
-      "name": "COLD",
-      "url": "https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -1303,6 +1287,42 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
+        "name": "Boots",
+        "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
+      },
+      "artists": [
+        {
+          "name": "TMW",
+          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
+        },
+        {
+          "name": "BE.TH",
+          "url": "https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Boots",
+      "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
+    },
+    {
+      "added_at": "2023-10-13 08:00:00",
+      "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/0pQF3bDC9wGPa5QhhF1w0s"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        }
+      ],
+      "duration_ms": 137826,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U"
+    },
+    {
+      "added_at": "2023-10-13 08:00:00",
+      "album": {
         "name": "Sweet Goodbye",
         "url": "https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 160842,
       "name": "Dirty Dancing",
       "url": "https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J"
-    },
-    {
-      "added_at": "2023-10-13 08:00:00",
-      "album": {
-        "name": "Boots",
-        "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
-      },
-      "artists": [
-        {
-          "name": "TMW",
-          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
-        },
-        {
-          "name": "BE.TH",
-          "url": "https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Boots",
-      "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
     },
     {
       "added_at": "2023-10-13 08:00:00",

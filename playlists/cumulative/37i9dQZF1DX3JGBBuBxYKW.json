@@ -703,6 +703,24 @@
     },
     {
       "album": {
+        "name": "El Mundo",
+        "url": "https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213183,
+      "name": "El Mundo",
+      "url": "https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L"
+    },
+    {
+      "album": {
         "name": "En Peligro de Extinci\u00f3n",
         "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
       },
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 233973,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/0cDY6YWjTuodhVZbMce478"

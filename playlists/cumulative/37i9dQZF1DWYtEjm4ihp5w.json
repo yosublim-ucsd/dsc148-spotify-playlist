@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Bo9al",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: ElGrandeToto",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -216,7 +216,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 159456,
       "name": "Badi 7efyan",
       "url": "https://open.spotify.com/track/0jCo4rohuFfNSXSluXaw8i"
@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Chabiba",
+        "url": "https://open.spotify.com/album/6qQNLM5mRSFkjucuy8ghvn"
+      },
+      "artists": [
+        {
+          "name": "Clemando",
+          "url": "https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148383,
+      "name": "Chabiba",
+      "url": "https://open.spotify.com/track/1BYBQKiPt5Nn2Qr9voSabo"
+    },
+    {
+      "album": {
         "name": "CHICHI",
         "url": "https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu"
       },
@@ -662,7 +680,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 168411,
       "name": "Dexter",
       "url": "https://open.spotify.com/track/5anrH8SzdtPP1fMz3eOBvS"
@@ -790,6 +808,24 @@
       "duration_ms": 154673,
       "name": "Eufury",
       "url": "https://open.spotify.com/track/6qLmmvQDXYI9jesFhTdOEn"
+    },
+    {
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/3uaYjrZkX6GWwH4kT3I0Cj"
+      },
+      "artists": [
+        {
+          "name": "Diib",
+          "url": "https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129192,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/2Be8nEJt4Hb7FSc2XvvGvU"
     },
     {
       "album": {
@@ -1780,7 +1816,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 232727,
       "name": "M3a L3echrane",
       "url": "https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw"
@@ -3006,6 +3042,24 @@
       "duration_ms": 259506,
       "name": "Wayli",
       "url": "https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc"
+    },
+    {
+      "album": {
+        "name": "WELD LAADOUL",
+        "url": "https://open.spotify.com/album/6K7uE5ShRxDxz9UWFMxSLx"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218937,
+      "name": "WELD LAADOUL",
+      "url": "https://open.spotify.com/track/6Yu03XnLWHxvBPbu7tzYBe"
     },
     {
       "album": {

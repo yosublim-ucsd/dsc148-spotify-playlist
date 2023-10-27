@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Văn Mai Hương
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,851 likes - 57 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,943 likes - 57 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lệ Lưu Ly](https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [DT Tập Rap](https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj) | [Lệ Lưu Ly](https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34) | 3:20 |
-| 2 | [Martini](https://open.spotify.com/track/73YA19nNitv1AzmxQlabGq) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm) | [Minh Tinh](https://open.spotify.com/album/2jNxIyiGLvQz7UPCRUuU76) | 3:20 |
-| 3 | [Tình cờ yêu em](https://open.spotify.com/track/0gzpqwLf1jhNjnSJEyweAX) | [Kuun Đức Nam](https://open.spotify.com/artist/05xxXziuRhVsmlSjTD4Soh), [Linh Thộn](https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq) | [Tình cờ yêu em](https://open.spotify.com/album/633b3JiGJnZoepcvZeu2yo) | 4:18 |
-| 4 | [Miên Man](https://open.spotify.com/track/7tFwBnuaGXqiiONukPRaCo) | [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Miên Man](https://open.spotify.com/album/4z7HfTeYfrAUm4e84Y1oPw) | 3:17 |
-| 5 | [Hit Me Up \(feat\. Nomovodka\)](https://open.spotify.com/track/4acXEYw7ayyJnm9GXDrqiL) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Nomovodka](https://open.spotify.com/artist/79BbybQeUyNyFB8ghq4neb) | [Hit Me Up \(feat\. Nomovodka\)](https://open.spotify.com/album/0FZXUfdUtrkzNyzmT1VLlB) | 4:28 |
+| 2 | [Tình cờ yêu em](https://open.spotify.com/track/0gzpqwLf1jhNjnSJEyweAX) | [Kuun Đức Nam](https://open.spotify.com/artist/05xxXziuRhVsmlSjTD4Soh), [Linh Thộn](https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq) | [Tình cờ yêu em](https://open.spotify.com/album/633b3JiGJnZoepcvZeu2yo) | 4:18 |
+| 3 | [Miên Man](https://open.spotify.com/track/7tFwBnuaGXqiiONukPRaCo) | [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Miên Man](https://open.spotify.com/album/4z7HfTeYfrAUm4e84Y1oPw) | 3:17 |
+| 4 | [Hit Me Up \(feat\. Nomovodka\)](https://open.spotify.com/track/4acXEYw7ayyJnm9GXDrqiL) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Nomovodka](https://open.spotify.com/artist/79BbybQeUyNyFB8ghq4neb) | [Hit Me Up \(feat\. Nomovodka\)](https://open.spotify.com/album/0FZXUfdUtrkzNyzmT1VLlB) | 4:28 |
+| 5 | [Martini](https://open.spotify.com/track/73YA19nNitv1AzmxQlabGq) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Minh Tinh](https://open.spotify.com/album/2jNxIyiGLvQz7UPCRUuU76) | 3:20 |
 | 6 | [Hà Nội \(ft\. VSTRA\)](https://open.spotify.com/track/0SLhB9JLM4Ksz1XdwK3aQD) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 2:45 |
 | 7 | [tình yêu chậm trễ](https://open.spotify.com/track/6jcLKVmEKAQIXIVHJZ8vzS) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Over The Moon](https://open.spotify.com/album/4bC0p7T5Wy2kqCuQ0uK4D7) | 4:05 |
 | 8 | [Ngõ Chạm](https://open.spotify.com/track/0Qs29ApstkrU5T8S5Hxazw) | [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6), [Emily](https://open.spotify.com/artist/2XKlSkrslCs0egLOvSB4Ul) | [Ngõ Chạm](https://open.spotify.com/album/7hLzVQlvUB5uwpf03mB06A) | 3:52 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 13 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1) | 3:53 |
 | 14 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 |
 | 15 | [để tôi ôm em bằng giai điệu này](https://open.spotify.com/track/5qbjUmVV1yOOjcMOInNPYD) | [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [winter warmer](https://open.spotify.com/album/2ga21N5DWcqLLiBsLADCE3) | 4:24 |
-| 16 | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Muộii \(Starry Night\)](https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8) | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo) | 3:28 |
+| 16 | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Muộii \(Starry Night\)](https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8) | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo) | 3:28 |
 | 17 | [Ánh Sao Và Bầu Trời](https://open.spotify.com/track/5iZHnufFUgATzrpGgH1K0W) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ánh Sao Và Bầu Trời](https://open.spotify.com/album/1JLUfM3IFpFyBSyhNQWkYw) | 4:20 |
 | 18 | [Một Ngàn Nỗi Đau](https://open.spotify.com/track/05X3a0YGmS1rbH50aL8lGF) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Một Ngàn Nỗi Đau](https://open.spotify.com/album/3STAYL3gX9aQx2oi3yslIz) | 5:21 |
 | 19 | [Muốn Nói Với Em](https://open.spotify.com/track/5Um995yUx3GSJ6uNOMaaP4) | [T Team](https://open.spotify.com/artist/7gJkNlcHtpuOhvl1FIDK1y) | [Muốn Nói Với Em](https://open.spotify.com/album/1D5q4yg90UnV6e4sMRuLzz) | 3:53 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 56 | [Có đau thì đau một mình](https://open.spotify.com/track/37od1g713ZvI32VA2diR9L) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j) | [Có đau thì đau một mình](https://open.spotify.com/album/0CUpq5X4lU88UaDjg04HjJ) | 3:30 |
 | 57 | [id 072019](https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD) | [id 072019](https://open.spotify.com/album/7ftthhLvgY5KSMOcpQsMCS) | 4:31 |
 
-Snapshot ID: `MCwwYzY2OGY1ZWIwMDUxMzRmMGUxMjA5NmZiZTY3ZDdjZGFhZDczYWQ3`
+Snapshot ID: `MCwxOWYxYWRjMjA3ZDA3YmVlYTVjYTRlZTRiYmM4M2JmNDY2MTFlMDUy`

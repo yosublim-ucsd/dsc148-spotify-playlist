@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Arjun Tikadar , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,515 likes - 101 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,526 likes - 101 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 100 | [Zindagi Kya Hai Tu](https://open.spotify.com/track/7yKgwroibBix9wNOdfxxmy) | [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Zindagi Kya Hai Tu](https://open.spotify.com/album/5eq8YiBlX958Wb3A1WGmbq) | 4:55 |
 | 101 | [Aao Zara](https://open.spotify.com/track/6Zc1kIVs8fAt5Rol3CjQg4) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Aao Zara](https://open.spotify.com/album/4QvcSQ2zjaoAGmk8ZZzCvI) | 3:42 |
 
-Snapshot ID: `MCw2NjlhOTMxNzM3YWEzNTg1ZDUzODdmNzkwYzg1NDdhYTg2OGE1NzU4`
+Snapshot ID: `MCwxMTYyMjhmYzM0NjA0NzlmZGZhYjI1MDAyNzExNzU5Yjk1NjYzYjZh`

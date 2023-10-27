@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Guiba
 
-952 songs - 2 day 11 hr 11 min
+954 songs - 2 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Daydream Believer feat\. BIM](https://open.spotify.com/track/4fA0MAm36U4x4B3gb9qE36) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Sweet Home](https://open.spotify.com/album/6U8mea9zHq3z2yJmx8wKA7) | 2:56 | 2023-03-30 | 2023-04-14 |
 | [dead and breakfast](https://open.spotify.com/track/0XMtzum82NlWZugjm3RaLp) | [YOHLU](https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl) | [DEAD AND BREAKFAST](https://open.spotify.com/album/0orGDBvpMtcFP6O5M0mS4w) | 3:42 | 2023-08-30 | 2023-09-01 |
 | [dead and breakfast](https://open.spotify.com/track/6Wq1MSFJVPsVyWBHaGImW8) | [YOHLU](https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl) | [DEAD AND BREAKFAST](https://open.spotify.com/album/7J7BgYGnKt5pZmoRTaIIbW) | 3:42 | 2023-08-29 | 2023-08-31 |
+| [Demon](https://open.spotify.com/track/0zZ7wK7JjXXLKd38i2M0zh) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [Demon](https://open.spotify.com/album/4m0qYtUPfTAPtCitvg1Bz1) | 2:54 | 2023-10-26 |  |
 | [Depression \- No Joy Remix](https://open.spotify.com/track/4Mv4PAsS2Q2bv8CJsTM9se) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq), [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Depression \(No Joy Remix\)](https://open.spotify.com/album/5akrcqcTzwHEJoB3OFGY9R) | 2:57 | 2023-02-28 | 2023-03-18 |
 | [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 | 2023-09-29 |  |
 | [DIScommunication](https://open.spotify.com/track/69Xc4wPl8QDY5Mt9StUmQc) | [Rasen.](https://open.spotify.com/artist/6YP3gT2SzsGxYinr85SUSs) | [Togaru to Rasen.](https://open.spotify.com/album/3cfCCF47aaXjD3l8YB5GtF) | 2:57 | 2023-03-23 | 2023-03-29 |
@@ -355,7 +356,7 @@
 | [morning shimmer](https://open.spotify.com/track/6RttXnsUdXhNNj8zP6LjKi) | [Sept.](https://open.spotify.com/artist/5vRnwNYjntZajB1Qx4DCXw) | [Wander Wander](https://open.spotify.com/album/1mWMyBY9xYSMYTvRCCBrjQ) | 5:03 | 2023-06-13 | 2023-06-15 |
 | [Morning Shimmer](https://open.spotify.com/track/6wbqFlG24beQbsgl5fhDOa) | [Sept.](https://open.spotify.com/artist/5vRnwNYjntZajB1Qx4DCXw) | [Wander Wander](https://open.spotify.com/album/1aFFBDlKtZGKw5SROlidMb) | 5:03 | 2023-06-13 | 2023-06-21 |
 | [MORNINGRISE](https://open.spotify.com/track/3ZmuvMWz1of98dbuKkjSR0) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Heavenly Heavenly](https://open.spotify.com/album/219OTmvtVH4PzBiDWYLGp0) | 3:18 | 2023-05-09 | 2023-05-31 |
-| [Mother](https://open.spotify.com/track/7IY2Ro6XnoIAtr5bLuoCJD) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ), [ILL\-BOSSTINO](https://open.spotify.com/artist/5jhQeriKleBz95HuKGNcbO), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [Mother](https://open.spotify.com/album/6dxnxwVjewZUp8K967BUaq) | 4:07 | 2023-06-21 |  |
+| [Mother](https://open.spotify.com/track/7IY2Ro6XnoIAtr5bLuoCJD) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ), [ILL\-BOSSTINO](https://open.spotify.com/artist/5jhQeriKleBz95HuKGNcbO), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [Mother](https://open.spotify.com/album/6dxnxwVjewZUp8K967BUaq) | 4:07 | 2023-06-21 | 2023-10-27 |
 | [mother ship](https://open.spotify.com/track/6JOWEwvMzumEvZlXNOVWOM) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [mother ship](https://open.spotify.com/album/25VaqWv7lR45TaIdRReDIp) | 2:57 | 2023-04-11 | 2023-04-26 |
 | [Motion \(2019 Sessions\)](https://open.spotify.com/track/7gRYo4ZETjCw8n3MqCs2Ut) | [YOUR SONG IS GOOD](https://open.spotify.com/artist/4Yt6N4u5vIpjRhT2O7zsLk) | [Sessions](https://open.spotify.com/album/1ML2YxT5dB7PeXoOtw3enA) | 6:18 | 2023-03-30 | 2023-04-19 |
 | [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/track/7ab0UuDPSaMymJ9oCYDMnT) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/album/0M6EYq1XZBMbBe7TRTasu2) | 3:50 | 2023-07-25 | 2023-10-11 |
@@ -642,7 +643,7 @@
 | [いけしゃあしゃあ](https://open.spotify.com/track/4TonR0Lu99AkpVEUXLdNRy) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [いけしゃあしゃあ](https://open.spotify.com/album/54PsZSN7E8UYIWMqOLo4Wp) | 4:14 | 2023-01-12 | 2023-02-01 |
 | [いちごミルク](https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [いちごミルク](https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5) | 2:37 | 2023-04-13 | 2023-08-09 |
 | [いちごミルク \- mybear Remix](https://open.spotify.com/track/7nNaFyN5PPT3QzTaT7OZNT) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [mybear](https://open.spotify.com/artist/0ITxoL63pB9x5WkB8dxgqw) | [いちごミルク Remixes \(vol.2\)](https://open.spotify.com/album/2QhzLfuTQjhvz2ffw8VQne) | 2:35 | 2023-10-12 | 2023-10-18 |
-| [いつか渚へ](https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いつか渚へ](https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds) | 3:02 | 2023-07-27 |  |
+| [いつか渚へ](https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いつか渚へ](https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds) | 3:02 | 2023-07-27 | 2023-10-27 |
 | [うつつの在り処](https://open.spotify.com/track/5HkN90H6tnBaNLLN8AUgSV) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [うつつの在り処](https://open.spotify.com/album/6Z8H4xZkf36EwUt62Y8N3d) | 4:35 | 2023-07-18 | 2023-08-26 |
 | [うわついた気持ち](https://open.spotify.com/track/1nGmT1izZX9bIHfUQ7mkYA) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN), [鎮座DOPENESS](https://open.spotify.com/artist/2yV4op1t2gPNi8AxB3tQWu) | [うわついた気持ち](https://open.spotify.com/album/2Yf2pfS9eksNJkyO1CLU8o) | 4:26 | 2023-08-08 | 2023-08-10 |
 | [おすし](https://open.spotify.com/track/432b1BqmBhTu0YcQtZu3k0) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [おすし](https://open.spotify.com/album/5WYAvW8s9xG4ESshoqffaJ) | 3:44 | 2023-10-17 |  |
@@ -812,6 +813,7 @@
 | [天使のキス](https://open.spotify.com/track/0BPqXMCGVxCIcBo7WPjOzj) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [天使のキス](https://open.spotify.com/album/3lt2LRlBbR6N0OuRSpCuz4) | 3:00 | 2023-05-30 | 2023-06-21 |
 | [天国](https://open.spotify.com/track/5SKNiRWWcH4QO7u7Vw6ijk) | [toro](https://open.spotify.com/artist/0KS9S3hmcIdhBBlbbuswGH) | [TORO](https://open.spotify.com/album/6YqIAhkm55sO2lSomELmjM) | 3:42 | 2023-08-29 | 2023-09-06 |
 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 | 2023-01-12 | 2023-02-22 |
+| [太陽の光線](https://open.spotify.com/track/61jvNTYOe5bwKEqiL8st2p) | [THE LOVE NINGEN](https://open.spotify.com/artist/5fJn0h6ZtPjwNZQcjCbdBI) | [太陽の光線](https://open.spotify.com/album/399Flm56mUfu8LKqTkfXEA) | 6:46 | 2023-10-26 |  |
 | [好きなように](https://open.spotify.com/track/3tLyaiz0o1oKcibp8NaZK3) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [好きなように](https://open.spotify.com/album/6vvPUBVIrAEPXB9nkrhmsX) | 3:15 | 2023-03-21 | 2023-04-11 |
 | [季節すら追い抜いて](https://open.spotify.com/track/4P0Gq52E5FmBp4IAcJa2eh) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [季節すら追い抜いて](https://open.spotify.com/album/1gAHpVKkoX5GPmKHwOsx7f) | 3:13 | 2023-05-30 | 2023-09-05 |
 | [定刻が過ぎて](https://open.spotify.com/track/1aBfnGTsDlJepUBaKf9gh7) | [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7) | [定刻が過ぎて](https://open.spotify.com/album/3sRmij0HZYroryWMWujGZB) | 4:30 | 2023-08-15 | 2023-08-23 |

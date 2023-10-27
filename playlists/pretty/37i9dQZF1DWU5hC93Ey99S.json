@@ -1,12 +1,12 @@
 {
   "description": "all the stutter, all the feels.",
-  "num_followers": 25814,
+  "num_followers": 25948,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjMzMGI4MGJmMDMyYWQ0NThiNDZjMDgxY2IzOWZiYTgzMzk3N2Rh",
+  "snapshot_id": "MCwyN2MwZGZhNzQzYTljYjllYjM0N2RlMjdiZjk0MjEzMjdhOTExNzg0",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -81,6 +81,26 @@
       "url": "https://open.spotify.com/track/2SbAoNQVqVkIuFTFV94Bdm"
     },
     {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Hold You Down",
+        "url": "https://open.spotify.com/album/21V3q9UH4Wg7W2XSg3blKq"
+      },
+      "artists": [
+        {
+          "name": "Alex Parker",
+          "url": "https://open.spotify.com/artist/7oOfZSYouCcyk13dNrOpiX"
+        },
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/1B7cXxCiF8Je72dc2XTt6M"
+        }
+      ],
+      "duration_ms": 197482,
+      "name": "Hold You Down",
+      "url": "https://open.spotify.com/track/5WLcxGiKOoqD0pfeAR1RCP"
+    },
+    {
       "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "La le\u00e7on particuli\u00e8re",
@@ -121,24 +141,40 @@
       "url": "https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "HOLD TIGHT",
-        "url": "https://open.spotify.com/album/4obNCFuwOgF4C6en6QXSAe"
+        "name": "Looking For Love (Duskus Remix)",
+        "url": "https://open.spotify.com/album/7FXaI1qZ7Vtb13FnaqLO41"
       },
       "artists": [
         {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "Chrystel",
-          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
+          "name": "Duskus",
+          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
         }
       ],
-      "duration_ms": 199318,
-      "name": "HOLD TIGHT",
-      "url": "https://open.spotify.com/track/1TOBYH7YalbblKJ7M8ufRx"
+      "duration_ms": 212339,
+      "name": "Looking For Love - Duskus Remix",
+      "url": "https://open.spotify.com/track/1P4M5cERVSYoANyIbrjjqH"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/5H9WQRjWS7VmKHQusS3jXW"
+      },
+      "artists": [
+        {
+          "name": "19Clouds",
+          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
+        }
+      ],
+      "duration_ms": 226791,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -195,6 +231,26 @@
       "duration_ms": 201023,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/2N1teUVGfP3vWKKGq0ZxvH"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "duration_ms": 151690,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -301,6 +357,50 @@
       "url": "https://open.spotify.com/track/6zynDuNBoBD7AITlS2htjj"
     },
     {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "BYE.",
+        "url": "https://open.spotify.com/album/3eVQAoOGoHQNhZShyVlA9C"
+      },
+      "artists": [
+        {
+          "name": "19Clouds",
+          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
+        },
+        {
+          "name": "B Martin",
+          "url": "https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD"
+        }
+      ],
+      "duration_ms": 145866,
+      "name": "BYE.",
+      "url": "https://open.spotify.com/track/4woipfCAkLPEBxKowGcB9G"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/3cSoAAG3sON0XcwTV3gAIn"
+      },
+      "artists": [
+        {
+          "name": "Alex Keeper",
+          "url": "https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB"
+        },
+        {
+          "name": "Homem",
+          "url": "https://open.spotify.com/artist/5AGCm0GQFxSSAGRXWuQS0w"
+        },
+        {
+          "name": "doVicente",
+          "url": "https://open.spotify.com/artist/3LZegs6tK4WeVei1K0WaNU"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/007grkEd7bTnPSQILkslCZ"
+    },
+    {
       "added_at": "2023-10-19 22:00:00",
       "album": {
         "name": "HOLD ON TO / THE FEELING",
@@ -319,6 +419,50 @@
       "duration_ms": 128000,
       "name": "HOLD ON TO (feat. Boy Beverly)",
       "url": "https://open.spotify.com/track/7tPr0sdfWxxsr1pv42FlTh"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "HOLD TIGHT",
+        "url": "https://open.spotify.com/album/4obNCFuwOgF4C6en6QXSAe"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
+        }
+      ],
+      "duration_ms": 199318,
+      "name": "HOLD TIGHT",
+      "url": "https://open.spotify.com/track/1TOBYH7YalbblKJ7M8ufRx"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "God Is In The Soundwaves",
+        "url": "https://open.spotify.com/album/20ssXnN1FKqAfIE6zSM8gQ"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Xoro",
+          "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
+        },
+        {
+          "name": "Yola Recoba",
+          "url": "https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7"
+        }
+      ],
+      "duration_ms": 163510,
+      "name": "God Is In The Soundwaves",
+      "url": "https://open.spotify.com/track/51w0BMC24JALh8uzwRzjMB"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -375,6 +519,22 @@
       "duration_ms": 171470,
       "name": "Moss",
       "url": "https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "In Touch",
+        "url": "https://open.spotify.com/album/1tTTWPiuqDvopsS3bY1pj1"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/3uBukmF5QcHj4RjX7EV5wU"
     },
     {
       "added_at": "2023-10-12 22:00:00",

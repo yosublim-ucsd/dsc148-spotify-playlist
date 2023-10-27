@@ -4,7 +4,7 @@
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-424 songs - 22 hr 5 min
+430 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Come Lay beside Me](https://open.spotify.com/track/5FzAFM8TN0RyOXHNO5tHTm) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Come Lay beside Me](https://open.spotify.com/album/1IQfTAYfEDbuZ4RwbU26di) | 3:03 | 2022-09-20 |  |
 | [Come Rain Or Come Shine](https://open.spotify.com/track/2KaiRciXTCoGWvDUG6UyXy) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Come Rain Or Come Shine](https://open.spotify.com/album/4BXX5ct1sM5Uk2J1SeY0TH) | 3:40 | 2022-04-26 |  |
 | [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2022-05-10 |  |
+| [Crosby Street](https://open.spotify.com/track/22ugSr3HnMXfxTiXsroNQD) | [Carmen Simmons](https://open.spotify.com/artist/6HhW3vf5i1Ao2KsOsdHfbV) | [Crosby Street](https://open.spotify.com/album/5lN5yfRTiTpukhAWyFHxxW) | 2:26 | 2023-10-27 |  |
 | [Cry Me A River](https://open.spotify.com/track/67iXiDkmgd5cy2Tfcowx1G) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Past Closing Time](https://open.spotify.com/album/1E9xMRwRNCkkIW1sCTZm9z) | 3:28 | 2022-01-13 | 2023-05-12 |
 | [Dancing on the ceiling](https://open.spotify.com/track/1fn5QC6Cauel9hmwjb6Jjq) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [Dancing on the ceiling](https://open.spotify.com/album/3JgJZaMMSUiIrfvtTADQN6) | 2:20 | 2023-06-22 |  |
 | [Dansero](https://open.spotify.com/track/72A294OT4WtwLqmMvm5uhB) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [Dansero](https://open.spotify.com/album/5imNzHswQu9mbRp64AInqs) | 3:38 | 2023-08-11 |  |
@@ -114,6 +115,7 @@
 | [Everything Happens To Me](https://open.spotify.com/track/6nDBKDiLUbrRFe2Wyghmrb) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Everything Happens To Me](https://open.spotify.com/album/7tr6GwglHf1iIz81pe1j8p) | 3:46 | 2021-12-14 |  |
 | [Everything I Love](https://open.spotify.com/track/2AzamFQR3qc6SK12Dt97WD) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [Everything I Love](https://open.spotify.com/album/20C4KS94fNfd8H1w0OWNek) | 2:28 | 2022-06-22 |  |
 | [Exactly Like You](https://open.spotify.com/track/3vBEW0nRntYnJwHxWLQRaV) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Exactly Like You](https://open.spotify.com/album/7r71Jc9D1EFnVeQgxVWXoM) | 2:14 | 2023-04-14 |  |
+| [Fall Season](https://open.spotify.com/track/2lHTRwS933i16QlQqOcKHs) | [Jonathán Bridges](https://open.spotify.com/artist/2dQCJiivYdK2HuhoUKcerS) | [Fall Season](https://open.spotify.com/album/6xITORsdl8I0P0mLVVYpHz) | 2:37 | 2023-10-27 |  |
 | [Falling In Love With Love](https://open.spotify.com/track/0ydPwnqqLcnUkJpZ7tfYiu) | [Ray Horne](https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS) | [Falling In Love With Love](https://open.spotify.com/album/3OxWfxfTgrO0oiOmmFY9qL) | 2:58 | 2023-03-02 |  |
 | [February Brings The Rain](https://open.spotify.com/track/4gR8q8utqVSpwz5Vv8gMys) | [Mill Basin](https://open.spotify.com/artist/2JJLo6OchMfh5VgpVZmVTw) | [February Brings The Rain](https://open.spotify.com/album/2EEMlPkIAUOtxLs4ADIW3w) | 2:47 | 2023-04-14 |  |
 | [Figured Out](https://open.spotify.com/track/03xzKObUNNpLWE4VhYkgOV) | [Jimmy Udonis](https://open.spotify.com/artist/4GqHV4WkSR2W6K3llEOf4X) | [Figured Out](https://open.spotify.com/album/2YYkG47uGuKWyhcUW6VclR) | 3:04 | 2023-08-31 |  |
@@ -253,6 +255,7 @@
 | [My Confidant](https://open.spotify.com/track/1Dpp6Mfle3B7LOYMu2oFD9) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [My Confidant](https://open.spotify.com/album/5j4kWDbtE1ImHbXjKViBPH) | 3:00 | 2023-08-11 |  |
 | [My Favorite Things](https://open.spotify.com/track/29Z43s5cYYulFEkGJYMLkb) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [My Favorite Things](https://open.spotify.com/album/678aa3LRKcsZilzocaADh1) | 2:53 | 2023-01-05 | 2023-09-01 |
 | [My Foolish Heart](https://open.spotify.com/track/5abQoyD2C7Uh7jL8lzZ26X) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [My Foolish Heart](https://open.spotify.com/album/5lXdRcDwhDBavsabE7E437) | 4:40 | 2022-08-11 |  |
+| [My Foolishness](https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe) | [Franck Byrne](https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq) | [My Foolishness](https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ) | 2:46 | 2023-10-27 |  |
 | [My Funny Valentine](https://open.spotify.com/track/2A6qg2En98HEsRYEOk51fi) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [My Funny Valentine](https://open.spotify.com/album/0MhVtAsuAec2fIiiX7XBHB) | 2:49 | 2021-12-14 | 2023-05-05 |
 | [My Ideal](https://open.spotify.com/track/587Od7PBk6Zh3voXvj91vG) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [My Ideal](https://open.spotify.com/album/0qnqcSIA0b9d9pf9Tpoc8V) | 3:30 | 2022-08-11 |  |
 | [My Old Town](https://open.spotify.com/track/4bgcSZ5LgC8O6KBHyybI6T) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [My Old Town](https://open.spotify.com/album/5Fen3A5kz69GvxgEl016un) | 3:33 | 2023-01-26 |  |
@@ -282,6 +285,7 @@
 | [On The Sunny Side Of The Street](https://open.spotify.com/track/0LZ678lgdb9f0ab8AyZBHH) | [Ellen Thomas](https://open.spotify.com/artist/5SKCgE6dXEIQuEHfRzQYIj) | [Darn That Dream](https://open.spotify.com/album/2ql7oxvh5zWMOvCutpd4pP) | 3:02 | 2022-03-10 | 2022-05-25 |
 | [On the Sunny Side of the Street](https://open.spotify.com/track/4D3Yd7spmD1lJiXkCYAuDU) | [Winola Weber](https://open.spotify.com/artist/0KfXDCKVMe0yr65RVDFZoL) | [On the Sunny Side of the Street](https://open.spotify.com/album/3a3kKQAfeBVFkosQpWBRfo) | 2:27 | 2022-06-29 |  |
 | [Once I Had A secret Love](https://open.spotify.com/track/7kvwOnTBlrIAkScJkjIPUR) | [Jeff Robins](https://open.spotify.com/artist/74TmlbkJzQhvG8Jurm01cE) | [Once I Had A secret Love](https://open.spotify.com/album/0cBqA8iqJvj72zbk5etg5b) | 5:46 | 2022-01-13 | 2022-12-02 |
+| [Once In A Serenade](https://open.spotify.com/track/6Ia3eru04MZCaWHSjXuf42) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Once In A Serenade](https://open.spotify.com/album/21tgArGIfB91eKUkndpfJG) | 2:57 | 2023-10-27 |  |
 | [Once Upon A Summertime](https://open.spotify.com/track/6zLP6Ncnlg35teWbdEQtOa) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Once Upon A Summertime](https://open.spotify.com/album/3AjC99OAj3KhvfGrIBjgeg) | 2:16 | 2022-08-11 |  |
 | [One Day We'll Find Our Way](https://open.spotify.com/track/27ljy6g5ghJo1ZeoOsHsB7) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [One Day We'll Find Our Way](https://open.spotify.com/album/3tSFilzfu3rrcY1BfPfm3x) | 3:06 | 2022-06-09 |  |
 | [Out Of Nowhere](https://open.spotify.com/track/6CPmUmMMXvGombRcl8p5Iw) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Out Of Nowhere](https://open.spotify.com/album/0cu8JtZHQDqNPT0zmnDh2w) | 2:39 | 2022-11-17 |  |
@@ -349,6 +353,7 @@
 | [Still playing](https://open.spotify.com/track/3ZmMB5MLuocZsQ7zqoqjMX) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Still playing](https://open.spotify.com/album/2ATOhcvDREGBOSfpGb2ecZ) | 2:54 | 2023-06-15 |  |
 | [Stormy Weather](https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Stormy Weather](https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO) | 4:07 | 2022-01-13 |  |
 | [Street Of Dreams](https://open.spotify.com/track/783BlsF88Ae8b0Xs4ZDzQy) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Street Of Dreams](https://open.spotify.com/album/1bM7zzY2xmI0TMMFQKeNFu) | 2:39 | 2023-03-23 |  |
+| [Sudden Light](https://open.spotify.com/track/4n1f5JBvnngHCassE6jyt6) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Sudden Light](https://open.spotify.com/album/5A6oIf1TnaPU8NJL6MKLq4) | 3:23 | 2023-10-27 |  |
 | [Summer in Central Park](https://open.spotify.com/track/1LI1odohhRVtGSqRuEABw9) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Summer in Central Park](https://open.spotify.com/album/6KlLMcXaSJtFeUvWexpaEA) | 3:31 | 2023-09-08 |  |
 | [Summer Love](https://open.spotify.com/track/3V0JLSKOckMOO9Eh2N5rbT) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [Summer Love](https://open.spotify.com/album/6S7rGAffgFdrMIHY6DjUAv) | 3:33 | 2023-08-17 |  |
 | [Summer Nights](https://open.spotify.com/track/6D6GDjjDDWU3nnxQt3Rh9z) | [Mia Bartlett](https://open.spotify.com/artist/6u5Do41YWoyiW2fgAAthlP) | [Summer Nights](https://open.spotify.com/album/0XTX6KnTG5hBnBBds9N9no) | 2:53 | 2022-12-01 | 2023-02-03 |
@@ -359,6 +364,7 @@
 | [Taking A Chance On Love](https://open.spotify.com/track/1f9NMymXfaYatJPvlkilXv) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Grand Piano](https://open.spotify.com/album/4nkc7tvHOT1xhiaTbjuFiL) | 2:35 | 2022-03-10 | 2022-05-25 |
 | [Tangerine](https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Tangerine](https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ) | 2:39 | 2023-01-05 |  |
 | [tea for two](https://open.spotify.com/track/2hX0ncE771SfgEmu1wBBi8) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 5:44 | 2021-12-14 | 2023-05-05 |
+| [Tender Nocturne](https://open.spotify.com/track/6Cx1VeqZG4vkZdC4ffsXAy) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Tender Nocturne](https://open.spotify.com/album/3JVmL0xyHtxUPYKZb2yTBI) | 2:36 | 2023-10-27 |  |
 | [Tenderly](https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lover Man](https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz) | 2:40 | 2021-12-14 | 2022-08-18 |
 | [That Old Fashioned Moon](https://open.spotify.com/track/00nvkAH00WYbmXddpr9i3v) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [That Old Fashioned Moon](https://open.spotify.com/album/7K81q7vpeES90oyfHnltli) | 2:49 | 2022-08-11 |  |
 | [The Drive](https://open.spotify.com/track/5mbWFrquPO3HGkShUuoW1s) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Drive](https://open.spotify.com/album/0iOkAxEHl2pxlAu9edGyJu) | 2:40 | 2023-06-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
-  "num_followers": 270664,
+  "num_followers": 270915,
   "original_name": "Puras Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGZlYTliNjdkODVkZDNlYTZiOWFjN2EyNTk5NDhiMTllNzBmMzI3",
+  "snapshot_id": "MCwwMGE1YmIxMDA1ZWRkMmQ1NDliMGVhZjM2YWFkNGI0ODhiYzAyZDYz",
   "tracks": [
     {
       "added_at": "2023-10-06 02:08:04",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "Ll\u00e9vame Contigo",
-        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "\u00bfY Todo Para Qu\u00e9?",
-      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
-    },
-    {
-      "added_at": "2023-10-06 02:08:04",
-      "album": {
         "name": "Corridos Tumbados",
         "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 187352,
       "name": "Disfruto Lo Malo",
       "url": "https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx"
+    },
+    {
+      "added_at": "2023-10-06 02:08:04",
+      "album": {
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "\u00bfY Todo Para Qu\u00e9?",
+      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "Se Cancela La Depre (En Vivo)",
-        "url": "https://open.spotify.com/album/07tgEwwKVe516EcidYUrUd"
+        "name": "Las Pacas",
+        "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Alame\u00f1os de la Sierra",
+          "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
         }
       ],
-      "duration_ms": 232842,
-      "name": "Se Cancela La Depre (En Vivo)",
-      "url": "https://open.spotify.com/track/4NJAXc8SambFCaVoWOkUyw"
+      "duration_ms": 281518,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "Las Pacas",
-        "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
+        "name": "Se Cancela La Depre (En Vivo)",
+        "url": "https://open.spotify.com/album/07tgEwwKVe516EcidYUrUd"
       },
       "artists": [
         {
-          "name": "Alame\u00f1os de la Sierra",
-          "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 281518,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6"
+      "duration_ms": 232842,
+      "name": "Se Cancela La Depre (En Vivo)",
+      "url": "https://open.spotify.com/track/4NJAXc8SambFCaVoWOkUyw"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "La Chapiza",
-        "url": "https://open.spotify.com/album/7ieAksoGopSGThjXsE6Djr"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "La Chapiza",
-      "url": "https://open.spotify.com/track/4cbrG70rLLAnWy0Q86FRgL"
-    },
-    {
-      "added_at": "2023-10-06 02:08:04",
-      "album": {
         "name": "Una Raya M\u00e1s al Tigre",
         "url": "https://open.spotify.com/album/1hZdcTNXS48yGctGfpQPpB"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 139658,
       "name": "Una Raya M\u00e1s al Tigre",
       "url": "https://open.spotify.com/track/3fzC9A2azykZmtSHuXt0kg"
+    },
+    {
+      "added_at": "2023-10-06 02:08:04",
+      "album": {
+        "name": "La Chapiza",
+        "url": "https://open.spotify.com/album/7ieAksoGopSGThjXsE6Djr"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "La Chapiza",
+      "url": "https://open.spotify.com/track/4cbrG70rLLAnWy0Q86FRgL"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -1603,22 +1603,18 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "Cabrones y Vagos",
-        "url": "https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1"
+        "name": "La Borrachera",
+        "url": "https://open.spotify.com/album/7vWcwj2KErotDLAn5NJIhN"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Los Inquietos Del Norte",
+          "url": "https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya"
         }
       ],
-      "duration_ms": 136615,
-      "name": "Cabr\u00f3n y Vago",
-      "url": "https://open.spotify.com/track/0AJOO4nzdWyiQUn0t27Pr7"
+      "duration_ms": 127320,
+      "name": "La Borrachera",
+      "url": "https://open.spotify.com/track/4BdYvtV6Qg461Vdcyr3j8X"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -1655,18 +1651,22 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "La Borrachera",
-        "url": "https://open.spotify.com/album/7vWcwj2KErotDLAn5NJIhN"
+        "name": "Cabrones y Vagos",
+        "url": "https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1"
       },
       "artists": [
         {
-          "name": "Los Inquietos Del Norte",
-          "url": "https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 127320,
-      "name": "La Borrachera",
-      "url": "https://open.spotify.com/track/4BdYvtV6Qg461Vdcyr3j8X"
+      "duration_ms": 136615,
+      "name": "Cabr\u00f3n y Vago",
+      "url": "https://open.spotify.com/track/0AJOO4nzdWyiQUn0t27Pr7"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
+        "name": "M\u00e1s Caro, que ayer",
+        "url": "https://open.spotify.com/album/1lvumJJFlnydYEOXwdNrnk"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 147221,
+      "name": "M\u00e1s Caro, que ayer",
+      "url": "https://open.spotify.com/track/62hyMZrYL0AjHgndb9ebZO"
+    },
+    {
+      "added_at": "2023-10-06 02:08:04",
+      "album": {
         "name": "Coquio Castro (En Vivo)",
         "url": "https://open.spotify.com/album/4RCrIPTYt1YCI96WEunbuH"
       },
@@ -2323,22 +2339,6 @@
       "duration_ms": 191829,
       "name": "Coquio Castro - En Vivo",
       "url": "https://open.spotify.com/track/1EGcw5OrBiqQUYHW51IMYT"
-    },
-    {
-      "added_at": "2023-10-06 02:08:04",
-      "album": {
-        "name": "M\u00e1s Caro, que ayer",
-        "url": "https://open.spotify.com/album/1lvumJJFlnydYEOXwdNrnk"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 147221,
-      "name": "M\u00e1s Caro, que ayer",
-      "url": "https://open.spotify.com/track/62hyMZrYL0AjHgndb9ebZO"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "Corridos A Quema Ropa",
-        "url": "https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 163400,
-      "name": "Mis Tres Animales",
-      "url": "https://open.spotify.com/track/3bDjUO2LwwEOZsTQotZ1in"
-    },
-    {
-      "added_at": "2023-10-06 02:08:04",
-      "album": {
         "name": "Sin Perder El Estilo",
         "url": "https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 226154,
       "name": "Contra Mis Principios - Bonus Track",
       "url": "https://open.spotify.com/track/0bp7iqBd58Quykcujvd9P3"
+    },
+    {
+      "added_at": "2023-10-06 02:08:04",
+      "album": {
+        "name": "Corridos A Quema Ropa",
+        "url": "https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 163400,
+      "name": "Mis Tres Animales",
+      "url": "https://open.spotify.com/track/3bDjUO2LwwEOZsTQotZ1in"
     },
     {
       "added_at": "2023-10-06 02:08:04",

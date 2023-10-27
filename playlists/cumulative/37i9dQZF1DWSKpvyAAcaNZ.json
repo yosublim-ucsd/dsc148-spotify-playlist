@@ -2039,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "How Long",
+        "url": "https://open.spotify.com/album/0ssN0rucOvi8W4Sy2inv6a"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Amorosi",
+          "url": "https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239246,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/3Y01uxGrWEnR9U78AUSwr5"
+    },
+    {
+      "album": {
         "name": "How Long?",
         "url": "https://open.spotify.com/album/7IDrMmvLYjBPHXWhLSloO2"
       },

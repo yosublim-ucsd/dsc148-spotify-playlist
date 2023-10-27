@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 
 > Listen to the soundtracks of the Twinkling Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,958 likes - 58 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,090 likes - 58 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 | 57 | [About loneliness \- Instrumental](https://open.spotify.com/track/3hIKQTSkysKIWfuehaX9c6) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq) | 3:53 |
 | 58 | [You’re Precious \- Instrumental](https://open.spotify.com/track/3vfKwI37sjz161GNU7dv9A) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/1UwKfiByjSWdIt2xGiE0Ig) | 3:17 |
 
-Snapshot ID: `MCxhYzY2OTA5Zjk4N2JlMzc0YjVjOTgxOWNkNzQwMmUyMzIxMDMwNTEz`
+Snapshot ID: `MCxiZWMwNTMyOWU2ODZmZTE0MGEzNjI2YzE0MjAyNTc4MDgxZWJhMjIz`

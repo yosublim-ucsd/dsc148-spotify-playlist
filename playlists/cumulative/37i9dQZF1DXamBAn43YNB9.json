@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Dead Horse Creek",
+        "url": "https://open.spotify.com/album/35AQrnW1vnZFyFtyRA27s3"
+      },
+      "artists": [
+        {
+          "name": "Meghan Maike",
+          "url": "https://open.spotify.com/artist/4kBaxVPaAbjTyIb7qItJzl"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281253,
+      "name": "Diamonds and Gold",
+      "url": "https://open.spotify.com/track/6aFfDXmScA1MoYepsaD3pm"
+    },
+    {
+      "album": {
         "name": "Different Kind Of High",
         "url": "https://open.spotify.com/album/454VDDoKkNtDWpmlGyimoq"
       },
@@ -468,6 +486,24 @@
       "duration_ms": 236725,
       "name": "Different Kind Of High",
       "url": "https://open.spotify.com/track/6qFyQDHtl1WgnTt2bGi74U"
+    },
+    {
+      "album": {
+        "name": "Don't Wanna Meet Your Parents",
+        "url": "https://open.spotify.com/album/7FxEaf5QzdEYno0jDfPVY1"
+      },
+      "artists": [
+        {
+          "name": "Emmagen Rain",
+          "url": "https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186976,
+      "name": "Don't Wanna Meet Your Parents",
+      "url": "https://open.spotify.com/track/288yWYGCLTgvgeuz3XKYJI"
     },
     {
       "album": {
@@ -602,6 +638,24 @@
       "duration_ms": 270000,
       "name": "Flame Trees",
       "url": "https://open.spotify.com/track/2co9PSsx9Iya7fjpP90tpy"
+    },
+    {
+      "album": {
+        "name": "No Better Time",
+        "url": "https://open.spotify.com/album/0RrvvsNs4lpXuf7VHI8z4s"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218813,
+      "name": "Flip a Coin",
+      "url": "https://open.spotify.com/track/3fNV0e9te9ZJeGEvSPR6N5"
     },
     {
       "album": {

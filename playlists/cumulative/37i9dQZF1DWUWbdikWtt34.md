@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
+> Dendang Dangdut teratas\. Cover: Lesti
 
-128 songs - 9 hr 55 min
+130 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Pergi](https://open.spotify.com/track/6QCnymtBJNwdv6pIipGk4T) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Pergi](https://open.spotify.com/album/1VDEAgE1vlNpwTrBbpSG2Y) | 4:06 | 2021-08-23 | 2023-09-22 |
 | [Perjalanan Cinta](https://open.spotify.com/track/7mAj5C8G5OGxbtrEuxTL4i) | [Ucie Sucita](https://open.spotify.com/artist/03qsCoduQN1ffTfhVCijJp), [Sule](https://open.spotify.com/artist/7dFuuEw7vtremmH04grgC6) | [Perjalanan Cinta](https://open.spotify.com/album/0dRuc3F24fnfzP9AW5d4qp) | 4:08 | 2023-05-25 |  |
 | [Perlahan](https://open.spotify.com/track/01TdkJ0lorIzBsdks8X1Tb) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Perlahan](https://open.spotify.com/album/13KPnJMze6Ndt2u2KgSrtG) | 5:00 | 2021-08-23 |  |
+| [Pintu Berkah](https://open.spotify.com/track/3WyOay9X5Nnd43HHvSCNvy) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p), [Hari Putra](https://open.spotify.com/artist/7rghk7Vdh0DpjZOpp9zSwN) | [Pintu Berkah](https://open.spotify.com/album/49GYCqpTtiXImRZnB3lKRI) | 4:15 | 2023-10-26 |  |
 | [Racun Asmara](https://open.spotify.com/track/4snJpcd1vXnhlrSF3tZA4W) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Racun Asmara](https://open.spotify.com/album/5aH9pPOs9g6K63DZYBpJBf) | 6:11 | 2023-08-03 |  |
 | [Rasa Yang Salah](https://open.spotify.com/track/2j0nGluWGv7bUS7CihEPXH) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Rasa Yang Salah](https://open.spotify.com/album/6jVMOyooGnu49SsAZyuObH) | 4:47 | 2021-08-23 | 2023-09-15 |
 | [Rumit](https://open.spotify.com/track/33TCMtMtSaA3svfYfdkMHo) | [Anggi Rayns](https://open.spotify.com/artist/0WzERYbfqhfsmcg6axzGvT) | [Rumit](https://open.spotify.com/album/1IrWJfXPkvTimTDo3eCMEg) | 4:28 | 2023-09-07 |  |
@@ -125,6 +126,7 @@
 | [Tatu](https://open.spotify.com/track/55XnOFlzoXBcx1Ov0UvzeL) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/45mzuK7vN3XolfmyyEoOh3) | 4:54 | 2023-02-02 |  |
 | [Terbuai Cinta Palsu \- Live Ska Reggae](https://open.spotify.com/track/3zb04SuRpCGf9U45hcaDdZ) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Terbuai Cinta Palsu \(Live Ska Reggae\)](https://open.spotify.com/album/0WznoxDQEe7I64PQTKsswJ) | 4:58 | 2023-02-02 |  |
 | [Terdiam Sepi](https://open.spotify.com/track/0o6Pfgqbq7kQBd1uYpf6Ds) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Terdiam Sepi](https://open.spotify.com/album/5NEDhtZJZg1QhcloFWRPhc) | 4:39 | 2021-08-23 |  |
+| [Terkesan](https://open.spotify.com/track/3luAGhDWJJ00VxuVVX364j) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Terkesan](https://open.spotify.com/album/5KjuTPMCZzBhFo6l7TjVnF) | 5:25 | 2023-10-26 |  |
 | [Terluka Cinta](https://open.spotify.com/track/08g2X36etHHW9XJWEnuNkw) | [Jirayut](https://open.spotify.com/artist/1Iql7RUVcNTNZ1hlfhaKnd) | [Terluka Cinta](https://open.spotify.com/album/21jf0mQwADcYgUhe1uMKUo) | 4:22 | 2023-08-17 |  |
 | [Tiara](https://open.spotify.com/track/3Qoes6Dqk3L33gskQybbAH) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Tiara](https://open.spotify.com/album/6IjJUCwDvhnVXRmOCbGwCv) | 5:09 | 2023-09-14 |  |
 | [Tresnane Wong Kere](https://open.spotify.com/track/4ig8rr39dqGCM27aJcmCz5) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Tresnane Wong Kere](https://open.spotify.com/album/7vNxqBRt7gBPlrjwRWwXdb) | 3:49 | 2021-08-23 | 2023-07-28 |

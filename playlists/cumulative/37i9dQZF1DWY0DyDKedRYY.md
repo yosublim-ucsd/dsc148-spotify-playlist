@@ -4,7 +4,7 @@
 
 > The most exciting new music, featuring RADAR official artist Peso Pluma on the cover.
 
-604 songs - 1 day 7 hr 11 min
+606 songs - 1 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,8 @@
 | [Fides](https://open.spotify.com/track/4OLhdPyYxmTCWJ2fLk7AYD) | [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE) | [Fides](https://open.spotify.com/album/2Wgr8fBOOBGhqJ4F6CYlJT) | 6:58 | 2023-01-04 | 2023-04-01 |
 | [FIND MY WAY](https://open.spotify.com/track/32oM6ZiwrFcXtscoQWpN76) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [FIND MY WAY](https://open.spotify.com/album/6zMB1gaaFKxJIWQtYnsES5) | 1:50 | 2023-08-30 |  |
 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 | 2022-05-17 | 2022-06-15 |
-| [First Day Out \(Freestyle\)](https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u) | 2:22 | 2023-08-30 |  |
+| [First Day Out \(Freestyle\)](https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u) | 2:22 | 2023-08-30 | 2023-10-27 |
+| [First Day Out \(Freestyle\)](https://open.spotify.com/track/7idI4LLo9LVLqrvvzhSj3n) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/31UX5n39Siyj0nXs1s5DSZ) | 2:22 | 2023-10-05 |  |
 | [FLATLINE](https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [FLATLINE](https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf) | 3:45 | 2023-03-31 | 2023-05-09 |
 | [Flicker](https://open.spotify.com/track/5GynUhuFgbs1GBwIjzRr8U) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Flicker](https://open.spotify.com/album/2Dnl22XDB6TpawpGUE2eCE) | 3:17 | 2023-03-31 | 2023-05-09 |
 | [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 | 2023-05-08 | 2023-06-10 |
@@ -446,7 +447,8 @@
 | [Puppet](https://open.spotify.com/track/0H5fa5efEeedloCGpTvst4) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Puppet](https://open.spotify.com/album/6PInrJ37V4KoLMpp37VWWh) | 2:55 | 2021-12-01 | 2022-04-09 |
 | [PutItInACoffin](https://open.spotify.com/track/59lFGOr4uzc6jS4LPwRuwm) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [PutItInACoffin](https://open.spotify.com/album/3GHk3Q1tFZP8NSYYG2dLWz) | 3:16 | 2023-03-31 | 2023-05-09 |
 | [radiator](https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [Radiator](https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA) | 3:54 | 2022-07-26 | 2022-09-07 |
-| [Ready For You](https://open.spotify.com/track/3cDHpCGXwtmwlYG03O73UD) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Ready For You](https://open.spotify.com/album/1h4w0lyV12u3CuxsvQvEKR) | 3:00 | 2023-08-30 |  |
+| [Ready For You](https://open.spotify.com/track/73HF6dF6a3XjmVMW30Zjp0) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [I Don't Want You Anymore](https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb) | 2:58 | 2023-10-05 |  |
+| [Ready For You](https://open.spotify.com/track/3cDHpCGXwtmwlYG03O73UD) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Ready For You](https://open.spotify.com/album/1h4w0lyV12u3CuxsvQvEKR) | 3:00 | 2023-08-30 | 2023-10-27 |
 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR) | 5:26 | 2022-09-06 | 2022-11-15 |
 | [Red Flags](https://open.spotify.com/track/2Dx0UA8OwEqrZbQIs0yKXv) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Red Flags](https://open.spotify.com/album/1xGyeyfEO4oEler6lHxF56) | 2:52 | 2023-05-08 | 2023-08-31 |
 | [Respecter](https://open.spotify.com/track/40mdIBvQMIVrUJv2oZMvNe) | [Taipei Houston](https://open.spotify.com/artist/1jnyf6lf0zcETB79xWnHF4) | [Once Bit Never Bored](https://open.spotify.com/album/5tPb1hNoIz58BWNrEmelY9) | 3:54 | 2022-11-14 | 2023-01-05 |

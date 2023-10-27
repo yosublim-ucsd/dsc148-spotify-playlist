@@ -4,7 +4,7 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-135 songs - 6 hr 54 min
+138 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Christmas Time](https://open.spotify.com/track/3Cs5m2rS0UnYx4UWppPLP8) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 2:02 | 2021-12-21 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/0wBv6Ho71bhsn5L0ievJRe) | [Laurie Sharon Quartet](https://open.spotify.com/artist/2fMJvUaoJ5LN2k49ZCdC5m) | [Christmas Time Is Here](https://open.spotify.com/album/1OXS29ichXPRgHY2WGNh3f) | 3:16 | 2022-10-27 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/4RHhF5oVeV0ubNBcvKgCX9) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3) | [European Quartet: A Little Christmas Music](https://open.spotify.com/album/1ufkzsMX60Mt6E2eCrpOff) | 5:26 | 2021-12-21 | 2022-10-28 |
+| [Come Thou Fount of Every Blessing](https://open.spotify.com/track/55tU7r4O96CUsaWZuMDaBo) | [Upstage Trio](https://open.spotify.com/artist/5jBnVpfLHeBEXaDAG0MD1L) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/4sBMrHHFC65NetHmShTGgO) | 2:48 | 2023-10-27 |  |
 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/7h4Ayplz18fKgoPUIWfaJd) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Frosty The Snowman](https://open.spotify.com/album/008Ifp6NdPVfUafKcraamu) | 1:54 | 2023-10-13 |  |
 | [Deck The Halls](https://open.spotify.com/track/0SD5t32YWkTFMFOAig3dRG) | [The Holiday Horns](https://open.spotify.com/artist/4BUCzxTW8MiC4TT0C29CKF) | [Deck The Halls](https://open.spotify.com/album/0Xom85WcjyXZcX4stFhVS8) | 3:22 | 2021-12-21 |  |
 | [Ding Dong Merrily on High](https://open.spotify.com/track/0ETXxrPmqmWNuxpuHRqWfb) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Ding Dong Merrily on High](https://open.spotify.com/album/4B6xLARC7he8mOqBA0yjKu) | 2:22 | 2021-12-21 |  |
@@ -63,7 +64,8 @@
 | [I Wonder As I Wander](https://open.spotify.com/track/0kzHQzoXWk9lBrXgKPXMNz) | [Leif Shires](https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE) | [Christmas Jazz 2: Instrumental Jazz For The Holidays](https://open.spotify.com/album/3PxUEXG9yUTdT9vcopnWD9) | 3:57 | 2022-12-23 |  |
 | [I Wonder as I Wander](https://open.spotify.com/track/2MQcRhTYOzARoJqeMjaU7t) | [Leif Shires](https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE) | [Christmas Jazz 2](https://open.spotify.com/album/28uj6wDrwR9YLC4DPYjrT2) | 3:57 | 2021-12-21 | 2023-07-05 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/6dEz0rAh85G3fsTIUcEU0o) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [I'll Be Home for Christmas](https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8) | 3:02 | 2021-12-21 |  |
-| [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/3zENRCKW6v5R0DxD3y8UoA) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI) | [The Ultimate Christmas Playlist](https://open.spotify.com/album/5UA8tyVUcZI7EzW1O2JFFx) | 3:19 | 2021-12-21 |  |
+| [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/3zENRCKW6v5R0DxD3y8UoA) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI) | [The Ultimate Christmas Playlist](https://open.spotify.com/album/5UA8tyVUcZI7EzW1O2JFFx) | 3:19 | 2021-12-21 | 2023-10-27 |
+| [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/7A7CHS1v0c0uy6Yf89lXI2) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [I've Got My Love To Keep Me Warm](https://open.spotify.com/album/5aB8qoGTXzpnlE7XSxCFdJ) | 3:00 | 2023-10-27 |  |
 | [In the Bleak Midwinter](https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:27 | 2021-12-21 |  |
 | [It Came Upon the Midnight Clear](https://open.spotify.com/track/5LdDxFsB3UlT9b1OmPKDeI) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 1:53 | 2021-12-21 |  |
 | [It Is Well With My Soul](https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 2:05 | 2021-12-21 |  |
@@ -101,8 +103,9 @@
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/1QtANQCg5sUog4R0fBCToN) | [The Jazzagogs](https://open.spotify.com/artist/7pFWPdj7yTUGqLUCoIOHjF) | [Jazzy Christmas](https://open.spotify.com/album/6tb3VXCdGgjreH2uUrWoOU) | 2:27 | 2021-12-21 | 2022-09-17 |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/05WIbRwXFuQQKmPMf9KF0U) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 4:23 | 2021-12-21 |  |
 | [Santa Baby](https://open.spotify.com/track/2SOy3BewGYpYy3zIJKREqw) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Santa Baby](https://open.spotify.com/album/3LZEEwdEdWvZW0EIWHFhcL) | 2:50 | 2021-12-21 |  |
+| [Santa Claus Is Coming To Town](https://open.spotify.com/track/1CwPdEzZttnLS0PBFdvfwg) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/61sANkI7vX05AZCNhoQCEL) | 2:31 | 2023-10-27 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 4:24 | 2021-12-21 | 2023-10-20 |
-| [Santa Claus Is Coming To Town](https://open.spotify.com/track/4z5PJl8Ujm17RUBpF8kQH8) | [Stephen Stevens Quartet](https://open.spotify.com/artist/0sHjwkrwfeNPET9gG2nNfQ) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/29NEpWZtAc1pKuVl6LvEvm) | 3:22 | 2023-10-20 |  |
+| [Santa Claus Is Coming To Town](https://open.spotify.com/track/4z5PJl8Ujm17RUBpF8kQH8) | [Stephen Stevens Quartet](https://open.spotify.com/artist/0sHjwkrwfeNPET9gG2nNfQ) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/29NEpWZtAc1pKuVl6LvEvm) | 3:22 | 2023-10-20 | 2023-10-27 |
 | [Santa tell me](https://open.spotify.com/track/1g5N61jKCHgVpSYYBz9FDV) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Santa tell me](https://open.spotify.com/album/7Jtr3x70ZlCJ5Igqw1Zwhu) | 2:18 | 2023-10-13 |  |
 | [Santa Tell Me](https://open.spotify.com/track/44RdYUqTwUvlQlTBnRNUkq) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 2:18 | 2023-10-13 | 2023-10-14 |
 | [Santa's Way Home](https://open.spotify.com/track/1UCAVkeC3iShW7B2uoK39C) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Santa's Way Home](https://open.spotify.com/album/4xq5dmKLHqupgbLvrAeYyY) | 3:05 | 2023-10-20 |  |

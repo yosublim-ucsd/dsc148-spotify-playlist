@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Austin Snell
 
-402 songs - 20 hr 13 min
+403 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,8 +376,9 @@
 | [Waves](https://open.spotify.com/track/1NqxPghuptyRlGwKOZANG4) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Waves](https://open.spotify.com/album/0cFNX1KyyhJWqryF4ofYM0) | 3:29 | 2021-12-10 | 2022-06-11 |
 | [Way Down Yonder](https://open.spotify.com/track/418ve8CTLM3XbeGWSq8fA6) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Way Down Yonder](https://open.spotify.com/album/6mUJMoaJvC273B1Dxsu4fL) | 3:38 | 2022-10-14 |  |
 | [We Both Know](https://open.spotify.com/track/1RcJ0gnr3TXWXBKY3RB9xQ) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [We Both Know](https://open.spotify.com/album/1rPwBSAtBuu7hl9xFMLeCe) | 4:10 | 2021-12-10 | 2022-06-04 |
+| [We Did](https://open.spotify.com/track/1Ia1nVuJYsaQjArfY7pOd4) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/79iCUqx4rgAItI7BFPJkJC) | 3:03 | 2023-10-06 |  |
 | [We Did](https://open.spotify.com/track/2Fc13mlF3nMqeFm2MY5Pnz) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4ewGerVWPwgTWwD0m0NdNG) | 3:03 | 2022-02-04 | 2022-07-29 |
-| [We Did](https://open.spotify.com/track/2uqPdi0TFoCYZaAoGYf8zr) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 3:03 | 2022-07-22 |  |
+| [We Did](https://open.spotify.com/track/2uqPdi0TFoCYZaAoGYf8zr) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 3:03 | 2022-07-22 | 2023-10-27 |
 | [We Met Too Young](https://open.spotify.com/track/2b81fjvZeVKXWDa2mv9iom) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [We Met Too Young](https://open.spotify.com/album/4M3Ndgpwxd7xJwIXPLrfpF) | 2:31 | 2022-10-14 | 2023-01-04 |
 | [Welcome to the Club](https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW) | 3:09 | 2022-02-18 |  |
 | [What Goes Around Comes Around](https://open.spotify.com/track/2qNSWj0RK7vcWBy7bBQKjR) | [El Ray](https://open.spotify.com/artist/32pa3a2Tu9C4TmrAtN6cyO) | [What Goes Around Comes Around](https://open.spotify.com/album/1In7ivLqLjKBVPPAbj5g8r) | 2:57 | 2023-05-19 |  |

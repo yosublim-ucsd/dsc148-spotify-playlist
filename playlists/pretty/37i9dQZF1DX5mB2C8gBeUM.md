@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Austin Snell
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,246 likes - 144 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,465 likes - 144 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 125 | [Depression](https://open.spotify.com/track/0yxPUMQsHJXThYjYMoIJU5) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Depression](https://open.spotify.com/album/6O8efloF476sH5FzVzLYSw) | 4:09 |
 | 126 | [Boots, Jeans, & Jesus](https://open.spotify.com/track/4S7yZud2fDiFHjgE5YazJm) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Boots, Jeans, & Jesus](https://open.spotify.com/album/7FVrXxjvf7zhCNBGOw0dJ8) | 2:37 |
 | 127 | [Lets Go!](https://open.spotify.com/track/4TlFm4IsztCzL26COpgOcw) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw), [Phillip Good](https://open.spotify.com/artist/7IgNmZLjmhgaH3L83GPVeN) | [Lets Go!](https://open.spotify.com/album/440CLUzPDP9fm53GgsKBHu) | 2:34 |
-| 128 | [We Did](https://open.spotify.com/track/2uqPdi0TFoCYZaAoGYf8zr) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 3:03 |
+| 128 | [We Did](https://open.spotify.com/track/1Ia1nVuJYsaQjArfY7pOd4) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/79iCUqx4rgAItI7BFPJkJC) | 3:03 |
 | 129 | [Tequila Talkin'](https://open.spotify.com/track/2fr7A7d2eg1j2NcteyXz9B) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q), [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe) | [Bettie James Gold Edition](https://open.spotify.com/album/3IqbCcRHR6MWLONfEsa34O) | 3:18 |
 | 130 | [EASY TONIGHT](https://open.spotify.com/track/6v9ZG6Mqt0ORN4N9jN1Nh0) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [EASY TONIGHT](https://open.spotify.com/album/4VANWG21U2nsR2f2b1CLJr) | 2:55 |
 | 131 | [Summer's ours](https://open.spotify.com/track/0sAYagHcwzRJYRcpI63T15) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Summer's ours](https://open.spotify.com/album/2TwlpEvZCPiWzD68BTuSv7) | 2:55 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 143 | [Can't Stop Us Now](https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Can't Stop Us Now](https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf) | 3:22 |
 | 144 | [Raised Right](https://open.spotify.com/track/2TPhxHTLZA7Rncf2NZFQho) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Raised Right](https://open.spotify.com/album/46DaRD6UeqBpfhlULp0Zdy) | 3:11 |
 
-Snapshot ID: `MCw3NjM5Y2RmYmZlN2I2MjdhZGZhZjhlODcyNjE1OTBhNjg2YTI3MjRj`
+Snapshot ID: `MCxiOWU1Yzk1ODE5YzUwOGQxMjE0MGY2ZjA0OWM2YWQwMjZiNGYxZWY2`

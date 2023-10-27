@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Shemekia Copeland
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,058 likes - 101 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,069 likes - 101 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 100 | [Always Free](https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 2:57 |
 | 101 | [She Calls Me Kingfish](https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:12 |
 
-Snapshot ID: `MCwyZDc4MWJlZDJlNWRiZTZkOTk3NTFjYmJmYzVkZTZlMjhlMTRhYzc5`
+Snapshot ID: `MCxjNzE0OWI0OTdiYzkyY2EwMjJlNWFjMWFlODJlNmViOGNiOWQ4NTU3`

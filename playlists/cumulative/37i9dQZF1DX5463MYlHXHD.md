@@ -2,9 +2,9 @@
 
 ### [Cumbia de Barrio](https://open.spotify.com/playlist/37i9dQZF1DX5463MYlHXHD)
 
-> Cumbia pa' volar la chapa\. Foto: BM & La Champions Liga.
+> Cumbia pa' volar la chapa con Marka Akme, DJ Tao, Lauty Gram, Migrantes & Peipper.
 
-163 songs - 8 hr 55 min
+164 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Hoy Te Vi](https://open.spotify.com/track/21GP0hz3tF36WvSIwBYsGP) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6), [Melodia Kallejera](https://open.spotify.com/artist/0E36ZeuCI1sTkXy8Vol6pL) | [Gracia Divina](https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz) | 3:38 | 2023-05-26 |  |
 | [IRA](https://open.spotify.com/track/6QWMTay1cFyn1u4CJF8e6X) | [Cryollo](https://open.spotify.com/artist/6alYcVCAp3aaGIIYW7aTEj), [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [IRA](https://open.spotify.com/album/3opqiuWSL4VaMF4jmxXx5c) | 4:13 | 2023-10-20 |  |
 | [Junto a una Estrella](https://open.spotify.com/track/3evAMaE0IS2VXx2qfnk72X) | [Suena Cabrón](https://open.spotify.com/artist/7tiSMmDMypYbYiCG2nxJ7Z), [Cotto Rng](https://open.spotify.com/artist/1zBDgn3DfQ8GhgXL1z7ege) | [Junto a una Estrella](https://open.spotify.com/album/7mJXyJZscONbOarv7T5YS6) | 3:12 | 2023-08-25 | 2023-09-02 |
-| [L\-Gante \- El Apache Ness \- Perro Primo](https://open.spotify.com/track/7xPuaedCi3GLu5TmtuUkt9) | [El Apache Ness](https://open.spotify.com/artist/5lPewWWLzFoRj13tTLgeF8), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [L\-Gante \- El Apache Ness \- Perro Primo](https://open.spotify.com/album/0GnWjEYxMShvTyDeBynKBs) | 3:23 | 2023-05-26 |  |
+| [L\-Gante \- El Apache Ness \- Perro Primo](https://open.spotify.com/track/7xPuaedCi3GLu5TmtuUkt9) | [El Apache Ness](https://open.spotify.com/artist/5lPewWWLzFoRj13tTLgeF8), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [L\-Gante \- El Apache Ness \- Perro Primo](https://open.spotify.com/album/0GnWjEYxMShvTyDeBynKBs) | 3:23 | 2023-05-26 | 2023-10-27 |
 | [La Bomba](https://open.spotify.com/track/0VK2WShGGSlD8wCD9DSxup) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [Puro Movimiento](https://open.spotify.com/album/6D53J2Fx7FANdtNngTsWCi) | 4:53 | 2023-05-26 | 2023-10-21 |
 | [La colorada](https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:13 | 2023-05-26 |  |
 | [La Cumbia De Los Trapos](https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 4:11 | 2023-05-26 |  |
@@ -93,6 +93,7 @@
 | [Lejos de Ti](https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw), [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [Close de Ort!](https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f) | 4:35 | 2023-05-26 |  |
 | [Leña para el Carbon](https://open.spotify.com/track/7FNsfEyNOXiK6hzZ1kK5aA) | [El Jarra](https://open.spotify.com/artist/3o42Mj5a6vwbelxOjuWq9e) | [Los del Momento](https://open.spotify.com/album/6G8N46ftkHtaeznBBUzJ7i) | 2:34 | 2023-05-26 | 2023-08-16 |
 | [Linda](https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Linda](https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey) | 2:58 | 2023-05-26 |  |
+| [Linda \- Remix](https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Linda \(Remix\)](https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb) | 3:54 | 2023-10-26 |  |
 | [Llegamos los Pibes Chorros](https://open.spotify.com/track/5CORS17eUEK7kZOiwDarzj) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Solo Le Pido a Dios](https://open.spotify.com/album/2wNfH17ST3K7xM2OjeZDWY) | 3:49 | 2023-06-09 |  |
 | [LOGI](https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [LOGI](https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA) | 3:54 | 2023-05-26 |  |
 | [Los Dos Fallamos](https://open.spotify.com/track/54cM6oKMmHbhrzTV6Qj0KQ) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Los Dos Fallamos](https://open.spotify.com/album/0oMFwEMTOKAE1RdDh3bKqz) | 2:40 | 2023-05-26 |  |

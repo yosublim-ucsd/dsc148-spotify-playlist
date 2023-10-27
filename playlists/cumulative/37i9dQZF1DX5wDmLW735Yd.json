@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: venbee\n",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Mollie Collins\n",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 233949,
       "name": "Anyone I Want - DRIIA's Jungle VIP Mix",
       "url": "https://open.spotify.com/track/366YpB8SjB6jfakfD5E83x"
@@ -1119,6 +1119,32 @@
     },
     {
       "album": {
+        "name": "bluetooth",
+        "url": "https://open.spotify.com/album/3xVATlIyBxFu2g97TJ1oui"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156235,
+      "name": "bluetooth",
+      "url": "https://open.spotify.com/track/5XY1nWnaGz5pqk8ZrhgQpw"
+    },
+    {
+      "album": {
         "name": "Boom (feat. Tonn Piper)",
         "url": "https://open.spotify.com/album/3wyb69Ob1i59qg6O2DVK3g"
       },
@@ -1541,6 +1567,28 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/2G4RSEGI7S5DxQjKrbu3MX"
+      },
+      "artists": [
+        {
+          "name": "CAZZETTE",
+          "url": "https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS"
+        },
+        {
+          "name": "Rama Duke",
+          "url": "https://open.spotify.com/artist/3X99p7B7g1mSgjDeQwb0dp"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222068,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/3YJhDAwf73DSatiAVZrRQG"
+    },
+    {
+      "album": {
         "name": "Chant",
         "url": "https://open.spotify.com/album/1W9a0pnDZti59LWh8e1Tiu"
       },
@@ -1852,7 +1900,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 253793,
       "name": "Colours Of My Mind",
       "url": "https://open.spotify.com/track/6Tsgdnj9ezGo6cIgOKbl1m"
@@ -2500,7 +2548,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 181689,
       "name": "Downers - Rework",
       "url": "https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi"
@@ -3359,6 +3407,28 @@
     },
     {
       "album": {
+        "name": "Found Magic",
+        "url": "https://open.spotify.com/album/1aBkr8EeTFPay0CkSPhyO9"
+      },
+      "artists": [
+        {
+          "name": "DJ Marky",
+          "url": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
+        },
+        {
+          "name": "Makoto",
+          "url": "https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248265,
+      "name": "Found Magic",
+      "url": "https://open.spotify.com/track/7zeeaFEbI8qGY2TEhgnVGN"
+    },
+    {
+      "album": {
         "name": "Freak (Used Remix)",
         "url": "https://open.spotify.com/album/1MCWIGoES5nxFBS2inrKRn"
       },
@@ -3382,6 +3452,32 @@
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/1fbHuU5L4ztC5JRwd2JIbV"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/0TU1txO73cwnDnDc2a9twG"
+      },
+      "artists": [
+        {
+          "name": "Emz",
+          "url": "https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9"
+        },
+        {
+          "name": "Nasser UK",
+          "url": "https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD"
+        },
+        {
+          "name": "Valor",
+          "url": "https://open.spotify.com/artist/2hdUuoqJUD7RXiGBNhEeUL"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187133,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2C0IvokSio8N7UyHwuB638"
     },
     {
       "album": {
@@ -3454,7 +3550,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 174069,
       "name": "fumble (feat. piri)",
       "url": "https://open.spotify.com/track/1vyzpZ8td4h4QNpuATl3ZX"
@@ -3977,6 +4073,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5utKEyKtyUReHABwsSJtjV"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205717,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/29F8Xxbq2IVpb7GuyaCiiI"
+    },
+    {
+      "album": {
         "name": "Cognition",
         "url": "https://open.spotify.com/album/4fbTcsvGcoM2OZMC3mPgl0"
       },
@@ -4156,7 +4270,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 196598,
       "name": "Higher Than Ever Before",
       "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
@@ -6240,7 +6354,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 275251,
       "name": "No Sunset For Soul",
       "url": "https://open.spotify.com/track/5oSPJQpLTiKOLjjUYbw0rn"
@@ -7080,7 +7194,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 432650,
       "name": "Ready or Not - DJ Zinc '96 Remix",
       "url": "https://open.spotify.com/track/17t0Gdztr6gbLHtWmEKs9S"
@@ -7128,6 +7242,24 @@
       "duration_ms": 262346,
       "name": "READY4DEM",
       "url": "https://open.spotify.com/track/6vFjgISjK4fwJYPnMt8zAX"
+    },
+    {
+      "album": {
+        "name": "InHer World",
+        "url": "https://open.spotify.com/album/0COY2S4CiGsR1dgwKKRqmc"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192344,
+      "name": "Redline",
+      "url": "https://open.spotify.com/track/4n7npue0fQKKmgC1CcHmao"
     },
     {
       "album": {
@@ -7706,6 +7838,28 @@
       "duration_ms": 232568,
       "name": "Say No More",
       "url": "https://open.spotify.com/track/3FyrVjLHV3TbmhS6QEJPsJ"
+    },
+    {
+      "album": {
+        "name": "Say The Word (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237133,
+      "name": "Say The Word (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
     },
     {
       "album": {
@@ -9928,7 +10082,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 202758,
       "name": "Way Up",
       "url": "https://open.spotify.com/track/2398MESeCtzwLjjjJGIFl3"
@@ -10082,6 +10236,28 @@
       "duration_ms": 224030,
       "name": "What Is Jungle",
       "url": "https://open.spotify.com/track/5cilLV9owJSyEAqmYpEKyK"
+    },
+    {
+      "album": {
+        "name": "What It Seems",
+        "url": "https://open.spotify.com/album/68UR53XGY9plCCMBEx149b"
+      },
+      "artists": [
+        {
+          "name": "GLXY",
+          "url": "https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT"
+        },
+        {
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "What It Seems",
+      "url": "https://open.spotify.com/track/7dPpBcmpNGxWST0UXZaZhL"
     },
     {
       "album": {

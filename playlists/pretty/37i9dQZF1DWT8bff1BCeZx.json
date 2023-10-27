@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 7600,
+  "num_followers": 7644,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWFhOThmZGU1MmIxNjM3NjY4NGU2ZjJkZGI4NjliZWVlNWY2ZmU4",
+  "snapshot_id": "MCxlYzE2MGI0MGRlMDViYmEzYjU4NmMzZTcwODZhNjVmNTVjOWI2MTY4",
   "tracks": [
     {
       "added_at": "2023-10-20 00:01:00",
@@ -323,30 +323,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Miracle Worker (Live)",
-        "url": "https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 507400,
-      "name": "Excess Love - Live",
-      "url": "https://open.spotify.com/track/3eqODi0QYCr5nqMtzpYMoL"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Igwe",
         "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
       },
@@ -437,6 +413,22 @@
       "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
     },
     {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "RADICAL",
+        "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 188540,
+      "name": "Greatest",
+      "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
+    },
+    {
       "added_at": "2023-04-14 16:41:04",
       "album": {
         "name": "Shout It Loud (Live)",
@@ -455,18 +447,26 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Na You Dey Reign",
-        "url": "https://open.spotify.com/album/7EUG7ICDtR5G6FLseXjADm"
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
       "artists": [
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         }
       ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/2cf0ayENplwaFuiG0aphAS"
+      "duration_ms": 507376,
+      "name": "Excess Love (feat. JJ Hairston & Youthful Praise) - Remix",
+      "url": "https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -507,38 +507,6 @@
       "duration_ms": 629497,
       "name": "Who Is on the Lord's Side",
       "url": "https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "RADICAL",
-        "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 188540,
-      "name": "Greatest",
-      "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "My Dey",
-        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "My Dey",
-      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -591,6 +559,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "My Dey",
+        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "My Dey",
+      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Praises",
         "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 244300,
       "name": "Praises",
       "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -647,6 +647,26 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Taking Care",
+        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Taking Care - Remix",
+      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "S. W. A. G (Saved with Amazing Grace)",
         "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 262321,
       "name": "COME AND SEE",
       "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Taking Care",
-        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Taking Care - Remix",
-      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Hosanna",
-        "url": "https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV"
-      },
-      "artists": [
-        {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        }
-      ],
-      "duration_ms": 321684,
-      "name": "Hosanna",
-      "url": "https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Joyous Celebration 13: Live At The Mosaeik Theatre JHB",
         "url": "https://open.spotify.com/album/5dfZbEUBENJSFgzb6krR1F"
       },
@@ -815,22 +799,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
+        "name": "Hosanna",
+        "url": "https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV"
       },
       "artists": [
         {
-          "name": "Jermaine Edwards",
-          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
-        },
-        {
-          "name": "Rushawn",
-          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
         }
       ],
-      "duration_ms": 154218,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
+      "duration_ms": 321684,
+      "name": "Hosanna",
+      "url": "https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -851,6 +831,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Bianule",
+        "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
+      },
+      "artists": [
+        {
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+        }
+      ],
+      "duration_ms": 284080,
+      "name": "Bianule",
+      "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Na God I Dey Praise (Craze)",
         "url": "https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz"
       },
@@ -867,18 +863,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Bianule",
-        "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
       },
       "artists": [
         {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+          "name": "Jermaine Edwards",
+          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
+        },
+        {
+          "name": "Rushawn",
+          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
         }
       ],
-      "duration_ms": 284080,
-      "name": "Bianule",
-      "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
+      "duration_ms": 154218,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Confam",
-        "url": "https://open.spotify.com/album/7r0C7rE7lg3GjQX8Wuwzln"
-      },
-      "artists": [
-        {
-          "name": "Okey Sokay",
-          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
-        },
-        {
-          "name": "Hugo David",
-          "url": "https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Confam",
-      "url": "https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Glorious",
         "url": "https://open.spotify.com/album/4uoShwbFnmUlYGJpBp0nNe"
       },
@@ -971,6 +951,26 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Confam",
+        "url": "https://open.spotify.com/album/7r0C7rE7lg3GjQX8Wuwzln"
+      },
+      "artists": [
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        },
+        {
+          "name": "Hugo David",
+          "url": "https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Confam",
+      "url": "https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "This Far by Grace",
         "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
       },
@@ -987,26 +987,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Right Here (It Must Be)",
-        "url": "https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM"
+        "name": "As I Am: In His Image",
+        "url": "https://open.spotify.com/album/4cY1hBJNFUtaYeOJPZ6oxK"
       },
       "artists": [
         {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        },
-        {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+          "name": "Pita",
+          "url": "https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em"
         }
       ],
-      "duration_ms": 189382,
-      "name": "Right Here (It Must Be)",
-      "url": "https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64"
+      "duration_ms": 245333,
+      "name": "Ope Mi",
+      "url": "https://open.spotify.com/track/5Tf3Pu5PUTzdKysGXnijAQ"
     }
   ],
   "unique_name": "Higher",

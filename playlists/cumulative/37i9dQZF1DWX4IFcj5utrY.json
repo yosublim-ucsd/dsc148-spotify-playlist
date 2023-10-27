@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105?si=AmHcNx6vRn2YMJMwgwtHTw\">Darque</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL?si=eXl17VJUS4GDhWyI-5C6WQ\">Zakes Bantwini</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 469776,
       "name": "(Dusk Dusk)",
       "url": "https://open.spotify.com/track/3vTS2lXuazMGr68Z89WZrB"
+    },
+    {
+      "album": {
+        "name": "(It Goes Like) Nanana",
+        "url": "https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/1SwmINnHRKk4RiZGdarOv1"
     },
     {
       "album": {
@@ -2733,6 +2751,32 @@
     },
     {
       "album": {
+        "name": "Big FU",
+        "url": "https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161770,
+      "name": "Big FU",
+      "url": "https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh"
+    },
+    {
+      "album": {
         "name": "Black Heirs",
         "url": "https://open.spotify.com/album/4EiKw9ZjnOhc97TqjG94aE"
       },
@@ -4220,7 +4264,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 402801,
       "name": "D2MA 2",
       "url": "https://open.spotify.com/track/5jGIn2VfNEUXPwEEMML8ps"
@@ -8224,7 +8268,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 349226,
       "name": "Indlela",
       "url": "https://open.spotify.com/track/1gINTM4XrnZ3Cke3KRvHYk"
@@ -8542,7 +8586,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 344458,
       "name": "Insimbi",
       "url": "https://open.spotify.com/track/4hgAosW5zsnd2hdJUdxwxF"
@@ -9130,7 +9174,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 407060,
       "name": "Just Stay",
       "url": "https://open.spotify.com/track/34g1jYzb1Ik43xSDEqrVXl"
@@ -9594,7 +9638,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 501000,
       "name": "Kingdoms",
       "url": "https://open.spotify.com/track/7k9zZSveLo1J6sikJZOlDB"
@@ -9612,7 +9656,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 412561,
       "name": "Kipaji",
       "url": "https://open.spotify.com/track/2sKbBvOJ7isL4PnIVNsCTX"
@@ -9638,6 +9682,28 @@
       "duration_ms": 463728,
       "name": "Kivuna",
       "url": "https://open.spotify.com/track/3XpQVMKhYmwWjoGt2FnpLs"
+    },
+    {
+      "album": {
+        "name": "Know My Worth",
+        "url": "https://open.spotify.com/album/15x8MZp4sthrR8borJolm3"
+      },
+      "artists": [
+        {
+          "name": "Jay Em",
+          "url": "https://open.spotify.com/artist/0zIl4civXJUhG3jlhyrcOw"
+        },
+        {
+          "name": "Thandi Phoenix",
+          "url": "https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315897,
+      "name": "Know My Worth",
+      "url": "https://open.spotify.com/track/6C2L4UE4UOGUZLkRbSEMBr"
     },
     {
       "album": {
@@ -10334,7 +10400,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 346729,
       "name": "Lie To Me - Kenza Remix",
       "url": "https://open.spotify.com/track/5mHtTYySBVcQHVAOOGquvR"
@@ -11111,6 +11177,36 @@
     },
     {
       "album": {
+        "name": "Mama Thula",
+        "url": "https://open.spotify.com/album/6YMpRJfQ3fnI2v0NPJVwEJ"
+      },
+      "artists": [
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Skye Wanda",
+          "url": "https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1"
+        },
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Suffocate SA",
+          "url": "https://open.spotify.com/artist/424Tqq4kwbnQ4197BuEdTS"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361493,
+      "name": "Mama Thula",
+      "url": "https://open.spotify.com/track/5lyU83MdLTyJpnmCl3NjOi"
+    },
+    {
+      "album": {
         "name": "Mambo Vedu",
         "url": "https://open.spotify.com/album/2yEFJVnf5vaTn1ctNWUkmo"
       },
@@ -11166,6 +11262,28 @@
       "duration_ms": 456585,
       "name": "Mandalorian",
       "url": "https://open.spotify.com/track/7DN3XdkOBIOHJHp8zTdsQj"
+    },
+    {
+      "album": {
+        "name": "Mandaro",
+        "url": "https://open.spotify.com/album/6bzepfcED8an1Xumeu3S5X"
+      },
+      "artists": [
+        {
+          "name": "Don Jongle",
+          "url": "https://open.spotify.com/artist/2Uv8jEgOa89arlQB7nIksx"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258057,
+      "name": "Mandaro",
+      "url": "https://open.spotify.com/track/7MCAsfepOYNLhjIL807DXk"
     },
     {
       "album": {
@@ -11964,6 +12082,36 @@
       "duration_ms": 352000,
       "name": "Molili",
       "url": "https://open.spotify.com/track/4jEx2UOP274e3tO2hKZcMD"
+    },
+    {
+      "album": {
+        "name": "More Love (Rampa &ME Remix)",
+        "url": "https://open.spotify.com/album/4ml88dBgRFbbucUERI1BYC"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371897,
+      "name": "More Love - Rampa &ME Remix",
+      "url": "https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO"
     },
     {
       "album": {
@@ -14334,6 +14482,24 @@
       "duration_ms": 453766,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/1N2q5BW9USnkKs5oDD8DiF"
+    },
+    {
+      "album": {
+        "name": "InHer World",
+        "url": "https://open.spotify.com/album/0COY2S4CiGsR1dgwKKRqmc"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192344,
+      "name": "Redline",
+      "url": "https://open.spotify.com/track/4n7npue0fQKKmgC1CcHmao"
     },
     {
       "album": {
@@ -17827,6 +17993,24 @@
     },
     {
       "album": {
+        "name": "Time to Dance",
+        "url": "https://open.spotify.com/album/0zP0o4TYEjt3vM9u3SNEXV"
+      },
+      "artists": [
+        {
+          "name": "DJ Cleo",
+          "url": "https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470867,
+      "name": "Time To Dance",
+      "url": "https://open.spotify.com/track/29ycplqUCPpRNEevsdpEQ7"
+    },
+    {
+      "album": {
         "name": "Tobelani",
         "url": "https://open.spotify.com/album/4iv8bxFrFenIk9rPA7Y8xE"
       },
@@ -19326,7 +19510,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 260414,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3OscqkhDRo7AixWCMzLVQg"

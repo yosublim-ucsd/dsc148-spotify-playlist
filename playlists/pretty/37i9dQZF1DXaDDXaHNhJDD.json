@@ -1,60 +1,32 @@
 {
   "description": "Your ultimate playlist for the best in Mollywood!\nCover: 2018",
-  "num_followers": 78075,
+  "num_followers": 78212,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGQxOGExZjc4OGQyMDI4MjgwNzRkYzVhNzgyYzVlYWJhMzQ3Y2Jm",
+  "snapshot_id": "MCwwMmYzODJjOGNhNzU4MGQ0NmJmMmYwYzE5NzVjNTEwODQzZjQyZmQ5",
   "tracks": [
     {
       "added_at": "2023-09-15 11:12:56",
       "album": {
-        "name": "Malik (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4nEDUHDqYhwz2OqBzCIHZV"
+        "name": "Adam Joan",
+        "url": "https://open.spotify.com/album/1c0bWXAeQ4tNpIB7Ok3pSo"
       },
       "artists": [
         {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
         },
         {
-          "name": "K. S. Chithra",
-          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
-        },
-        {
-          "name": "Sooraj Santhosh",
-          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+          "name": "Deepak Dev",
+          "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
         }
       ],
-      "duration_ms": 263082,
-      "name": "Theerame",
-      "url": "https://open.spotify.com/track/3UHB6erVvDNX0OaqX3ncO3"
-    },
-    {
-      "added_at": "2023-09-27 10:00:03",
-      "album": {
-        "name": "2018 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3J2gTFZt1B5DITYXVXCEes"
-      },
-      "artists": [
-        {
-          "name": "Nobin Paul",
-          "url": "https://open.spotify.com/artist/1IePb1XERqYnAqO9dWi2pf"
-        },
-        {
-          "name": "Joe Paul",
-          "url": "https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t"
-        },
-        {
-          "name": "K. S. Harisankar",
-          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
-        }
-      ],
-      "duration_ms": 195513,
-      "name": "Venmegham - From \"2018\"",
-      "url": "https://open.spotify.com/track/1GcMVclJHbwwbGC6zBc2bJ"
+      "duration_ms": 328542,
+      "name": "Ee Kaattu",
+      "url": "https://open.spotify.com/track/2uddWiAVaH4owVLOHZgjGp"
     },
     {
       "added_at": "2023-09-18 05:21:56",
@@ -81,6 +53,78 @@
       "url": "https://open.spotify.com/track/73rMD23ocpYxwQXJQJyRDv"
     },
     {
+      "added_at": "2023-09-27 10:00:03",
+      "album": {
+        "name": "2018 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3J2gTFZt1B5DITYXVXCEes"
+      },
+      "artists": [
+        {
+          "name": "Nobin Paul",
+          "url": "https://open.spotify.com/artist/1IePb1XERqYnAqO9dWi2pf"
+        },
+        {
+          "name": "Joe Paul",
+          "url": "https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t"
+        },
+        {
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+        }
+      ],
+      "duration_ms": 195513,
+      "name": "Venmegham - From \"2018\"",
+      "url": "https://open.spotify.com/track/1GcMVclJHbwwbGC6zBc2bJ"
+    },
+    {
+      "added_at": "2023-09-15 11:12:56",
+      "album": {
+        "name": "Aravindante Athidhikal",
+        "url": "https://open.spotify.com/album/6f8gkMmob6hQhSfxc87AOC"
+      },
+      "artists": [
+        {
+          "name": "Shaan Rahman",
+          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
+        },
+        {
+          "name": "Vineeth Sreenivasan",
+          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
+        },
+        {
+          "name": "Liya Susan Verghese",
+          "url": "https://open.spotify.com/artist/6cVIRWhVS0NSebE0KqIlQK"
+        }
+      ],
+      "duration_ms": 238173,
+      "name": "Rasathi",
+      "url": "https://open.spotify.com/track/6DCWVyJ3uE3xxTg2Wp60Aj"
+    },
+    {
+      "added_at": "2023-09-15 11:12:56",
+      "album": {
+        "name": "Honey Bee",
+        "url": "https://open.spotify.com/album/0l8jp7Eam8gqZIRIh4o0KE"
+      },
+      "artists": [
+        {
+          "name": "Lal",
+          "url": "https://open.spotify.com/artist/6dDZQ5OKlFni8gWZBecf9m"
+        },
+        {
+          "name": "Job Kurian",
+          "url": "https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS"
+        },
+        {
+          "name": "Deepak Dev",
+          "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
+        }
+      ],
+      "duration_ms": 237098,
+      "name": "Ennalakalle",
+      "url": "https://open.spotify.com/track/7eTLnhsPWXcfQWcRg3YFj5"
+    },
+    {
       "added_at": "2023-09-15 11:12:56",
       "album": {
         "name": "Kumbalangi Nights (Original Motion Picture Soundtrack)",
@@ -103,6 +147,30 @@
       "duration_ms": 236013,
       "name": "Uyiril Thodum (From \"Kumbalangi Nights\")",
       "url": "https://open.spotify.com/track/4J0UI8dLtEpT9ATtVEjCnD"
+    },
+    {
+      "added_at": "2023-09-15 11:12:56",
+      "album": {
+        "name": "Malik (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4nEDUHDqYhwz2OqBzCIHZV"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        }
+      ],
+      "duration_ms": 263082,
+      "name": "Theerame",
+      "url": "https://open.spotify.com/track/3UHB6erVvDNX0OaqX3ncO3"
     },
     {
       "added_at": "2023-09-15 11:12:56",
@@ -511,26 +579,6 @@
       "duration_ms": 272430,
       "name": "Sita Kalyanam",
       "url": "https://open.spotify.com/track/2ZppB7cqsWeEdJgU1TgXxK"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
-        "name": "Adam Joan",
-        "url": "https://open.spotify.com/album/1c0bWXAeQ4tNpIB7Ok3pSo"
-      },
-      "artists": [
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        },
-        {
-          "name": "Deepak Dev",
-          "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
-        }
-      ],
-      "duration_ms": 328542,
-      "name": "Ee Kaattu",
-      "url": "https://open.spotify.com/track/2uddWiAVaH4owVLOHZgjGp"
     },
     {
       "added_at": "2023-09-15 11:12:56",
@@ -1379,30 +1427,6 @@
     {
       "added_at": "2023-09-15 11:12:56",
       "album": {
-        "name": "Honey Bee",
-        "url": "https://open.spotify.com/album/0l8jp7Eam8gqZIRIh4o0KE"
-      },
-      "artists": [
-        {
-          "name": "Lal",
-          "url": "https://open.spotify.com/artist/6dDZQ5OKlFni8gWZBecf9m"
-        },
-        {
-          "name": "Job Kurian",
-          "url": "https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS"
-        },
-        {
-          "name": "Deepak Dev",
-          "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
-        }
-      ],
-      "duration_ms": 237098,
-      "name": "Ennalakalle",
-      "url": "https://open.spotify.com/track/7eTLnhsPWXcfQWcRg3YFj5"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
         "name": "Ayyappanum Koshiyum (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0GWt8AypWByLvy3G0oWIAH"
       },
@@ -1587,30 +1611,6 @@
       "duration_ms": 218610,
       "name": "Etho Mazhayil",
       "url": "https://open.spotify.com/track/2Psbt9MZfVJNuHXFgG7DHh"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
-        "name": "Aravindante Athidhikal",
-        "url": "https://open.spotify.com/album/6f8gkMmob6hQhSfxc87AOC"
-      },
-      "artists": [
-        {
-          "name": "Shaan Rahman",
-          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
-        },
-        {
-          "name": "Vineeth Sreenivasan",
-          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
-        },
-        {
-          "name": "Liya Susan Verghese",
-          "url": "https://open.spotify.com/artist/6cVIRWhVS0NSebE0KqIlQK"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Rasathi",
-      "url": "https://open.spotify.com/track/6DCWVyJ3uE3xxTg2Wp60Aj"
     },
     {
       "added_at": "2023-09-15 11:12:56",

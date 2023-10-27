@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 291756,
+  "num_followers": 291962,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWEyNDY2NGYwZGM2ZWM3YjQwN2QzMjNmNzE5ZTU4NzUyN2E5MjFm",
+  "snapshot_id": "MCxmNGUwNzE2YjY5ZjAzMmYxOWJiOWVlY2E5ZDdmYmNjMDFlOTUxMGYy",
   "tracks": [
     {
       "added_at": "2023-10-25 14:30:59",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Bad Vibrations (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 200676,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Ember",
         "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Dosage",
-        "url": "https://open.spotify.com/album/5YcqcN9ZyZIS2vYYT4WC66"
+        "name": "Bad Vibrations (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
       },
       "artists": [
         {
-          "name": "Collective Soul",
-          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 174912,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/0VbOBom0Ya2zrlSpv7II1C"
+      "duration_ms": 200676,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -639,6 +623,22 @@
       "duration_ms": 218560,
       "name": "Face to the Floor",
       "url": "https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Dosage",
+        "url": "https://open.spotify.com/album/5YcqcN9ZyZIS2vYYT4WC66"
+      },
+      "artists": [
+        {
+          "name": "Collective Soul",
+          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
+        }
+      ],
+      "duration_ms": 174912,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/0VbOBom0Ya2zrlSpv7II1C"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -835,8 +835,8 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Will Of The People",
-        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 198849,
-      "name": "Will Of The People",
-      "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
+      "duration_ms": 235600,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -915,8 +915,8 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 235600,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW"
+      "duration_ms": 198849,
+      "name": "Will Of The People",
+      "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
-      },
-      "artists": [
-        {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "\"45\"",
-      "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "\"45\"",
+      "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
     },
     {
       "added_at": "2023-10-25 14:30:59",

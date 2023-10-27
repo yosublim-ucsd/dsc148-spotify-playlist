@@ -578,7 +578,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 191948,
       "name": "Big Yellow Taxi (Acoustic)",
       "url": "https://open.spotify.com/track/4Q8tqm45ywADimlsmdWhf7"
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 191971,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44"
@@ -4168,7 +4168,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 209089,
       "name": "She Doesn't Mind",
       "url": "https://open.spotify.com/track/1bmt9LlrjBT0JH1nHpoiaI"
@@ -4962,6 +4962,24 @@
       "duration_ms": 255510,
       "name": "What About Us - Acoustic",
       "url": "https://open.spotify.com/track/7e4Pftu2tzDeY0W0690OKQ"
+    },
+    {
+      "album": {
+        "name": "what if",
+        "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "what if",
+      "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
     },
     {
       "album": {

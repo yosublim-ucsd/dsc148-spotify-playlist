@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 158390,
+  "num_followers": 158591,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGMyYTBkYjYwMzIyZTVhZWZiZjFlNzEzNTI4Yzc3NmRmZWM3NDZm",
+  "snapshot_id": "MCxlMWRlYWFmZjFkMmM5OTI5OTVmNWNlYTAyMzI2MmFmNjgzMzc5N2Jj",
   "tracks": [
     {
       "added_at": "2023-10-13 04:59:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Me rindo a ti",
-        "url": "https://open.spotify.com/album/3slWjvvWZv9pqUgzkI0A22"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        }
-      ],
-      "duration_ms": 291428,
-      "name": "Me rindo a ti",
-      "url": "https://open.spotify.com/track/1elgJB7cf8pf66fyIeQWzM"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "La Compilaci\u00f3n",
         "url": "https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 245893,
       "name": "Iglesia",
       "url": "https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Me rindo a ti",
+        "url": "https://open.spotify.com/album/3slWjvvWZv9pqUgzkI0A22"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 291428,
+      "name": "Me rindo a ti",
+      "url": "https://open.spotify.com/track/1elgJB7cf8pf66fyIeQWzM"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -703,18 +703,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "El Mismo Cielo",
-        "url": "https://open.spotify.com/album/4a1zDZ3LqsdOsCb43s6l4r"
+        "name": "M\u00e1s De Ti",
+        "url": "https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v"
       },
       "artists": [
         {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 230893,
-      "name": "Como R\u00edo En Primavera",
-      "url": "https://open.spotify.com/track/1yWXAAeTbbjWEfzKvNBLQA"
+      "duration_ms": 189075,
+      "name": "M\u00e1s De Ti",
+      "url": "https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -739,18 +743,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "En Esto Creo (Live)",
-        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
+        "name": "El Mismo Cielo",
+        "url": "https://open.spotify.com/album/4a1zDZ3LqsdOsCb43s6l4r"
       },
       "artists": [
         {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
         }
       ],
-      "duration_ms": 259613,
-      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
-      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
+      "duration_ms": 230893,
+      "name": "Como R\u00edo En Primavera",
+      "url": "https://open.spotify.com/track/1yWXAAeTbbjWEfzKvNBLQA"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -787,22 +791,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "M\u00e1s De Ti",
-        "url": "https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v"
+        "name": "En Esto Creo (Live)",
+        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
       },
       "artists": [
         {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        },
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
         }
       ],
-      "duration_ms": 189075,
-      "name": "M\u00e1s De Ti",
-      "url": "https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks"
+      "duration_ms": 259613,
+      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
+      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1367,18 +1367,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Gloria al Rey",
-        "url": "https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz"
+        "name": "People En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/3TJCEB18pWSsmbsHTIIEzi"
       },
       "artists": [
         {
-          "name": "Jaci Velasquez",
-          "url": "https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
         }
       ],
-      "duration_ms": 264626,
-      "name": "Gloria al Rey",
-      "url": "https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP"
+      "duration_ms": 360186,
+      "name": "Por Su Gracia",
+      "url": "https://open.spotify.com/track/3lTfA15qXGXNKadA1XVXMs"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1399,22 +1403,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "People En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/3TJCEB18pWSsmbsHTIIEzi"
+        "name": "Gloria al Rey",
+        "url": "https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+          "name": "Jaci Velasquez",
+          "url": "https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko"
         }
       ],
-      "duration_ms": 360186,
-      "name": "Por Su Gracia",
-      "url": "https://open.spotify.com/track/3lTfA15qXGXNKadA1XVXMs"
+      "duration_ms": 264626,
+      "name": "Gloria al Rey",
+      "url": "https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Unidos Permanecemos (Live)",
-        "url": "https://open.spotify.com/album/6L9KwXjzjFaM1PhQMvYYmm"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 329000,
-      "name": "Solo Cristo (None But Jesus) - Live",
-      "url": "https://open.spotify.com/track/3YloTZWHLZ2PadUE4LBLMu"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/7up0mQ3oTyRGHGwa9YXVES"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 309400,
       "name": "El Justo Vivir\u00e1 Por Fe",
       "url": "https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Unidos Permanecemos (Live)",
+        "url": "https://open.spotify.com/album/6L9KwXjzjFaM1PhQMvYYmm"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 329000,
+      "name": "Solo Cristo (None But Jesus) - Live",
+      "url": "https://open.spotify.com/track/3YloTZWHLZ2PadUE4LBLMu"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 393769,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Yo Navegar\u00e9",
         "url": "https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 385066,
       "name": "Mateo 17",
       "url": "https://open.spotify.com/track/6phOeAec12tnILyQPwNmej"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 393769,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "El Eco De Su Voz",
-        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 327146,
-      "name": "Alabar\u00e9 Al Se\u00f1or (An\u00e1stasis)",
-      "url": "https://open.spotify.com/track/17tQn0PVAVheKCGg24RFMQ"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Tengo Sed de Ti",
         "url": "https://open.spotify.com/album/5zAbXo2ZOulzunX8MOl4Eh"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 302146,
       "name": "Tengo Sed de Ti",
       "url": "https://open.spotify.com/track/5Nk0ShheLjX4aKMZgRsd8y"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "El Eco De Su Voz",
+        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 327146,
+      "name": "Alabar\u00e9 Al Se\u00f1or (An\u00e1stasis)",
+      "url": "https://open.spotify.com/track/17tQn0PVAVheKCGg24RFMQ"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1763,22 +1763,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Esto Es Jesus Culture",
-        "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
+        "name": "Nunca para de Llover",
+        "url": "https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
         }
       ],
-      "duration_ms": 225493,
-      "name": "Amor Imparable",
-      "url": "https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U"
+      "duration_ms": 222613,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN"
     }
   ],
   "unique_name": "Jes\u00fas Vive",

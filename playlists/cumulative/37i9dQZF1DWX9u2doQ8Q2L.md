@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,057 songs - 2 day 17 hr 16 min
+1,059 songs - 2 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [Skyline](https://open.spotify.com/track/4eKbNMZEejC4lWxkRaDyan) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Skyline](https://open.spotify.com/album/6MiQuUPf4xQK3QaVC2f7uO) | 3:57 | 2023-10-03 |  |
 | [Skyline](https://open.spotify.com/track/5Y7I67xCLNaPTHvUP78AI2) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Skyline](https://open.spotify.com/album/6oKA6EIqSIXyFiDwPnVqwM) | 3:57 | 2023-10-03 | 2023-10-05 |
 | [SLOW](https://open.spotify.com/track/3bL3FdQBW9AXBnB5RatG8f) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [SLOW](https://open.spotify.com/album/58OlJOI1kHspo4iAA7yvAz) | 4:13 | 2023-10-24 |  |
+| [Slow Down](https://open.spotify.com/track/5WlcbvvsEcHhpMmSiu3sfy) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Slow Down](https://open.spotify.com/album/2ga1ZzloXfkl48E80aDaon) | 4:20 | 2023-10-26 |  |
 | [Snake](https://open.spotify.com/track/3gC9PXSvfJuLc6V9NjL9bf) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Snake](https://open.spotify.com/album/0GTl9PHpXPLCJ50xra0AQs) | 3:07 | 2023-08-29 |  |
 | [So am I](https://open.spotify.com/track/2JsVTIGU8AH4U0Z4LZY0II) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/5CyzUnjMCkWpPSZiCaXJDG) | 4:31 | 2023-07-04 | 2023-08-02 |
 | [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 | 2023-07-04 | 2023-07-06 |
@@ -678,7 +679,7 @@
 | [Summer Again](https://open.spotify.com/track/1TvZNdyMxCL6LcN5CZyCvC) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Summer Again](https://open.spotify.com/album/49CjefUtjsPjvtiDgZUuaH) | 4:09 | 2022-05-26 | 2022-06-17 |
 | [Summer Breezin'](https://open.spotify.com/track/5UHa3acNN5TRlySTh7aKWx) | [Purple Drip](https://open.spotify.com/artist/57AcMFAHVRDjh4jQ192fQf) | [Summer Breezin'](https://open.spotify.com/album/0vkQzj9TlazS1ATRpdeq0I) | 5:12 | 2022-07-28 | 2022-09-07 |
 | [Summer Breezin’](https://open.spotify.com/track/7l0gkhracl0YHt0T5nivl2) | [Purple Drip](https://open.spotify.com/artist/57AcMFAHVRDjh4jQ192fQf) | [Summer Breezin’](https://open.spotify.com/album/4difJVvfZwNIaOEOC7jU7w) | 5:12 | 2022-06-28 | 2022-07-29 |
-| [Summer Ghost](https://open.spotify.com/track/7GsURClW23nEe0UX4hKW3z) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [Summer Ghost](https://open.spotify.com/album/3Pv50hUUVfvuN1ajFxYjBF) | 3:42 | 2023-07-11 |  |
+| [Summer Ghost](https://open.spotify.com/track/7GsURClW23nEe0UX4hKW3z) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [Summer Ghost](https://open.spotify.com/album/3Pv50hUUVfvuN1ajFxYjBF) | 3:42 | 2023-07-11 | 2023-10-27 |
 | [Summer Ghost feat\. KIRINJI](https://open.spotify.com/track/0BlR8rZiO5pk4VjMT0Vkqo) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Summer Ghost feat\. KIRINJI](https://open.spotify.com/album/5tuIFFFK621MJKQ5e9yKsA) | 4:14 | 2023-04-25 | 2023-05-17 |
 | [summercut](https://open.spotify.com/track/4SDFECUJAYtTEElw4cgZ9e) | [Cruyff](https://open.spotify.com/artist/7lSyPTZ8neNa8NSrRYyx8A) | [lovefullstudentnerdthings](https://open.spotify.com/album/6lqDNJ9mpw2n9LLTtLJFmQ) | 5:49 | 2023-04-11 | 2023-04-19 |
 | [Sunday Cruisin'](https://open.spotify.com/track/6PqeczYy3ZEvRwYPUK3tk6) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Sunday Cruisin'](https://open.spotify.com/album/1yhQHrMfcwUcblVzmsTqAR) | 4:00 | 2023-05-04 | 2023-05-10 |
@@ -771,6 +772,7 @@
 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 | 2022-09-27 | 2023-05-13 |
 | [U.F.O](https://open.spotify.com/track/1z43YoQTKU3LfOqiMCwvWo) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/7uuke3GUh1KabuRDyoHEe0) | 3:50 | 2022-09-27 | 2022-09-29 |
 | [U.F.O](https://open.spotify.com/track/19EJa9xsAVtkpsTnynNQpN) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [The Lover](https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc) | 3:50 | 2023-05-23 |  |
+| [UFO\-mie \- original mix](https://open.spotify.com/track/5jhjAMLOA86d3KviOuF0Lz) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [The Hair Kid](https://open.spotify.com/artist/0VFeaq5HusM9WgvSkRIBZi) | [For The Aliens EP](https://open.spotify.com/album/2MNj6Y8pkeTUXUwJAsA9j0) | 3:17 | 2023-10-26 |  |
 | [UMAMI](https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [whoosh](https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA) | [UMAMI](https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g) | 3:22 | 2023-10-24 |  |
 | [umi tsuki \(feat\. iri\) \(Prod\. Chaki Zulu\)](https://open.spotify.com/track/4bxgzMlcoQ21W7hcWr6v7k) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup), [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [umi tsuki \(feat\. iri\) \(Prod\. Chaki Zulu\)](https://open.spotify.com/album/23EkcKAnLu6wUqEeCUe9sa) | 4:29 | 2023-08-22 |  |
 | [Unmellow](https://open.spotify.com/track/0QBMxVVIXqVNp2Yce45nBQ) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Unmellow](https://open.spotify.com/album/3BaxIQ05k9jCiYsks7kLqZ) | 2:37 | 2023-08-24 |  |
@@ -1006,7 +1008,7 @@
 | [東京晴れ舞台](https://open.spotify.com/track/6fadsldE9B6L7Tl67x8neK) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [東京晴れ舞台](https://open.spotify.com/album/25X4Heouq0txqUK4TFPlZj) | 3:32 | 2023-06-27 | 2023-07-05 |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-08-24 | 2022-09-29 |
 | [死ぬのがいいわ](https://open.spotify.com/track/54mG1R0iqWi7COJrHAXSkg) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [The Best J\-Pop 2022](https://open.spotify.com/album/1sMOVQA0CuRIWvD5XKgVLn) | 3:05 | 2022-11-10 | 2022-11-13 |
-| [死んでくれ](https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Bee and The Whales](https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs) | 3:27 | 2023-05-30 |  |
+| [死んでくれ](https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Bee and The Whales](https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs) | 3:27 | 2023-05-30 | 2023-10-27 |
 | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/track/1PvDnTxwVndr7bOrbtI2Zx) | [池田智子 × TENDRE](https://open.spotify.com/artist/3fakwzQVQaFb8QNhRNttmt) | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/album/1mMru6AAyUijyh3vMMjJpk) | 5:01 | 2022-05-26 | 2022-06-08 |
 | [永久彗星短歌水](https://open.spotify.com/track/71YRYbFlbyYXLHhZN2zpDJ) | [bonobos](https://open.spotify.com/artist/4TFfPbcLZFXw1C6zsJhoeX) | [.jp](https://open.spotify.com/album/2f4dNQKKphfenMl0Ll3MTJ) | 6:12 | 2022-11-08 | 2022-11-22 |
 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 | 2023-02-28 |  |

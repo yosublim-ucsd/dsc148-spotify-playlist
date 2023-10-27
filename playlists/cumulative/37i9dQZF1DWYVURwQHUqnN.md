@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo: KeBlack
+> Photo: Morad x GIMS
 
-47 songs - 2 hr 20 min
+48 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,13 +12,14 @@
 | [760](https://open.spotify.com/track/2MrFSzJuda5Hwp40iQfcdR) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [760](https://open.spotify.com/album/4434yKaCsQSw2tliaR2PvX) | 3:00 | 2023-09-28 |  |
 | [Avec elle](https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Avec elle](https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg) | 2:46 | 2023-10-12 |  |
 | [Benda](https://open.spotify.com/track/4gGtXfBmsTlglZm6FeJ1T9) | [Dadinho](https://open.spotify.com/artist/0zw74GbIgk0thLlMGeQV2H) | [Benda](https://open.spotify.com/album/3fPapZVnsbmGKldPL9TmER) | 2:51 | 2023-09-28 |  |
-| [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 | 2023-09-28 |  |
+| [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 | 2023-09-28 | 2023-10-27 |
 | [Blue](https://open.spotify.com/track/74Sbxr7GNTQM8RyPEmp9Nq) | [Kaneki](https://open.spotify.com/artist/6y9D9asiDbnfHSZETC6pkZ), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Blue](https://open.spotify.com/album/029ymf5WOrdIbvXv1EdmSN) | 3:07 | 2023-09-28 |  |
 | [C'est carré le S](https://open.spotify.com/track/2f8JQJctq8LZtaq6Hgdgb8) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [En temps réel](https://open.spotify.com/album/3Axd0NV5EcNnWzkvHqijzQ) | 3:21 | 2023-09-28 |  |
 | [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 | 2023-09-28 |  |
 | [Cleopatra](https://open.spotify.com/track/7xkOpZUJgKGdtM1jKzxbuw) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Cleopatra](https://open.spotify.com/album/4jPqEGoEVD2cer3Qm78kUw) | 4:33 | 2023-09-28 | 2023-10-13 |
 | [Coco](https://open.spotify.com/track/49XICf008slp1Aek6LYzmQ) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/1WYGwCvsfFrr7kuQcfNnJr) | 2:33 | 2023-09-28 |  |
 | [Crazy](https://open.spotify.com/track/4boEoouWug1KL4oIdO6yOn) | [Lamatrix](https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Crazy](https://open.spotify.com/album/6lLXMBYHPG6LziicXBNOiU) | 2:14 | 2023-09-28 |  |
+| [Eh toi](https://open.spotify.com/track/04IKxemPvQl0z76VGhqTQr) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Eh toi](https://open.spotify.com/album/6Bt2qMEBgt0qbmtsOeEeL9) | 2:50 | 2023-10-26 |  |
 | [Favel \(feat\. Leto\)](https://open.spotify.com/track/4f4naiLQhNYCI7vnE0Yew0) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Favel \(feat\. Leto\)](https://open.spotify.com/album/0tdVu7eDcfQcj2ECMutN2q) | 2:24 | 2023-09-28 |  |
 | [Guadalajara](https://open.spotify.com/track/4e8h0zqi70JHvZbCzrgcHE) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Guadalajara](https://open.spotify.com/album/4ORZW3jfpRuUYC7hg3IBKf) | 2:41 | 2023-09-28 |  |
 | [Je remplace mes exs](https://open.spotify.com/track/3QSTzAm336llccLmSrdqzI) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Je remplace mes exs](https://open.spotify.com/album/1JCfwbRtYqlTF6sQChqcuM) | 2:53 | 2023-09-28 | 2023-10-13 |

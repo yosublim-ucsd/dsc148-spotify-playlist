@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Angels We Have Heard On High",
+        "url": "https://open.spotify.com/album/0ySU6Z24ezxmtznYm934Jg"
+      },
+      "artists": [
+        {
+          "name": "Frederic Dupont",
+          "url": "https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130618,
+      "name": "Angels We Have Heard On High",
+      "url": "https://open.spotify.com/track/7CIrypZm7JYGM6Llfp97vp"
+    },
+    {
+      "album": {
         "name": "Steve Petrunak: Christmas Music",
         "url": "https://open.spotify.com/album/2ZFsMS7reDxNByznWX9c2i"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 203852,
       "name": "Angels We Have Heard on High",
       "url": "https://open.spotify.com/track/4zUrEicnZk7cXYcntIX12b"
@@ -244,6 +262,24 @@
       "duration_ms": 159509,
       "name": "Away In A Manger",
       "url": "https://open.spotify.com/track/3DFJrpeXcfHYqcgGrG3hH3"
+    },
+    {
+      "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/21w7OtjUD2N02608s1pYNE"
+      },
+      "artists": [
+        {
+          "name": "Azur",
+          "url": "https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144699,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/1v8bO1Ch34mz2ecSSzo203"
     },
     {
       "album": {
@@ -654,10 +690,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 255113,
       "name": "Greensleeves",
       "url": "https://open.spotify.com/track/2J1S7jDflYwZ34LtFDIPWY"
+    },
+    {
+      "album": {
+        "name": "Greensleeves",
+        "url": "https://open.spotify.com/album/1DyIszWVuCH2JhfVCHjfop"
+      },
+      "artists": [
+        {
+          "name": "Adrian Edblad",
+          "url": "https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145750,
+      "name": "Greensleeves",
+      "url": "https://open.spotify.com/track/1cMIQmeD76HUgYEjtnPXj5"
     },
     {
       "album": {
@@ -877,6 +931,24 @@
     },
     {
       "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/21w7OtjUD2N02608s1pYNE"
+      },
+      "artists": [
+        {
+          "name": "Azur",
+          "url": "https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132179,
+      "name": "In The Bleak Midwinter",
+      "url": "https://open.spotify.com/track/1OqSragbUUlPg7WKF01prY"
+    },
+    {
+      "album": {
         "name": "Silent Night (Christmas Carols on Acoustic Guitar)",
         "url": "https://open.spotify.com/album/5a8rDCGZi82Uo1mcAF9Oq7"
       },
@@ -888,7 +960,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 129106,
       "name": "In the Bleak Midwinter",
       "url": "https://open.spotify.com/track/2yYTQ6Jjz9lSIcytWrdbTq"
@@ -942,10 +1014,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 139333,
       "name": "It's Beginning to Look a Lot Like Christmas",
       "url": "https://open.spotify.com/track/1zo1WCdXM70TiBJHuyPdrK"
+    },
+    {
+      "album": {
+        "name": "It's Beginning To Look A Lot Like Christmas",
+        "url": "https://open.spotify.com/album/7q2FCx4GuSOPTZpuz5sBV1"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198250,
+      "name": "It's Beginning To Look A Lot Like Christmas",
+      "url": "https://open.spotify.com/track/3ry6n349kyaCvCfUUPHiDc"
     },
     {
       "album": {
@@ -1569,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "Silver Bells",
+        "url": "https://open.spotify.com/album/4B3tGmzWIPSkjj220NYqU1"
+      },
+      "artists": [
+        {
+          "name": "Otar Dunley",
+          "url": "https://open.spotify.com/artist/62ChKuMPRbU7UViE8M6pwX"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163587,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/1dJDKpryY3jvBe5a7qtpW7"
+    },
+    {
+      "album": {
         "name": "Christmas Background Guitar Music",
         "url": "https://open.spotify.com/album/5KopTRQVMOhW1zSP2Ju1wn"
       },
@@ -1588,7 +1696,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 160040,
       "name": "Silver Bells (Instrumental Version)",
       "url": "https://open.spotify.com/track/1SAvJB3SuxnZteaz8HsO4u"
@@ -1690,6 +1798,24 @@
       "duration_ms": 179760,
       "name": "The Little Drummer Boy",
       "url": "https://open.spotify.com/track/2xgdBf1HwP2frbKncjEszh"
+    },
+    {
+      "album": {
+        "name": "I'll Be Home For Christmas",
+        "url": "https://open.spotify.com/album/1gjQmgVD2VYajXY21Xh8UM"
+      },
+      "artists": [
+        {
+          "name": "Kaspar Mann",
+          "url": "https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101082,
+      "name": "Toyland",
+      "url": "https://open.spotify.com/track/3N207kwhnDjWI2tRWfSaOG"
     },
     {
       "album": {

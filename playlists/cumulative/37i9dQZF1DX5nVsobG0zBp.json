@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "3815",
+        "url": "https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90"
+      },
+      "artists": [
+        {
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "3815",
+      "url": "https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe"
+    },
+    {
+      "album": {
         "name": "A Chuva",
         "url": "https://open.spotify.com/album/4vgaPBoGEMRS4gtl1Nq5RR"
       },
@@ -194,7 +212,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 298710,
       "name": "A Chuva",
       "url": "https://open.spotify.com/track/0BeusjQlyZQEZO45q5Py3U"
@@ -579,6 +597,24 @@
     },
     {
       "album": {
+        "name": "Olho de Tigre",
+        "url": "https://open.spotify.com/album/0jhj4SwIWQGON36aDMeEwb"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165555,
+      "name": "Bon App\u00e9tit",
+      "url": "https://open.spotify.com/track/7uHLAlgUhSOwnnbXJeG7ai"
+    },
+    {
+      "album": {
         "name": "Borboletas",
         "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
       },
@@ -630,6 +666,24 @@
       "duration_ms": 272577,
       "name": "B\u00fassola",
       "url": "https://open.spotify.com/track/5WJDT0RGxHU8vqpC7MkMfp"
+    },
+    {
+      "album": {
+        "name": "CABARET",
+        "url": "https://open.spotify.com/album/31BxT3LcIPCP5P04rZgoah"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135117,
+      "name": "CABARET",
+      "url": "https://open.spotify.com/track/4r1Mvqp7prTkjH5OiVXC6r"
     },
     {
       "album": {
@@ -714,6 +768,28 @@
       "duration_ms": 153703,
       "name": "Carta",
       "url": "https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD"
+    },
+    {
+      "album": {
+        "name": "CHRISTIAN DIOR",
+        "url": "https://open.spotify.com/album/53mSlu9sPIazTH9T5McbmU"
+      },
+      "artists": [
+        {
+          "name": "Wayn Dior",
+          "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
+        },
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194782,
+      "name": "CHRISTIAN DIOR",
+      "url": "https://open.spotify.com/track/1hERc5FfnJ09h2wMHBJOqN"
     },
     {
       "album": {
@@ -1003,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "Entre os Dois (feat. Julinho Ksd )",
+        "url": "https://open.spotify.com/album/17wFwqW7zLXEFqx59NmIqS"
+      },
+      "artists": [
+        {
+          "name": "Kosmo Da Gun",
+          "url": "https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Entre os Dois (feat. Julinho Ksd )",
+      "url": "https://open.spotify.com/track/5OcuLlg5EdDE01ZGbQaIIa"
+    },
+    {
+      "album": {
         "name": "ES7\u00c1DIO",
         "url": "https://open.spotify.com/album/4ix8vvB3aP45fYYsZobRLq"
       },
@@ -1158,7 +1256,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 149796,
       "name": "FAMA",
       "url": "https://open.spotify.com/track/35uZfu8sybuugk9DkelTFv"
@@ -1230,7 +1328,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 197360,
       "name": "Fendi",
       "url": "https://open.spotify.com/track/29pZGynpAvASlWqVIinmGP"
@@ -1510,7 +1608,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 265631,
       "name": "Hospedeira",
       "url": "https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9"
@@ -1710,6 +1808,24 @@
       "duration_ms": 204320,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
+    },
+    {
+      "album": {
+        "name": "Lingerie",
+        "url": "https://open.spotify.com/album/2SopLfpjAF0IespcnP6LG0"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214530,
+      "name": "Lingerie",
+      "url": "https://open.spotify.com/track/2Cq6yIgdyyaDmY7pvnADVP"
     },
     {
       "album": {
@@ -2154,7 +2270,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-16",
+      "date_removed": null,
       "duration_ms": 207658,
       "name": "Morte do Artista",
       "url": "https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr"
@@ -2226,7 +2342,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 187826,
       "name": "NASTY",
       "url": "https://open.spotify.com/track/09882XP1lt5VQwc2I9i9Pf"
@@ -2390,7 +2506,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 304600,
       "name": "O Re$To",
       "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
@@ -2532,6 +2648,24 @@
       "duration_ms": 172800,
       "name": "Peso",
       "url": "https://open.spotify.com/track/0jqh2tqBk2MSTP3E16ns2E"
+    },
+    {
+      "album": {
+        "name": "Pontos Finais",
+        "url": "https://open.spotify.com/album/5kytfMGwFyzMPcwJfmmCzg"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194039,
+      "name": "Pontos Finais",
+      "url": "https://open.spotify.com/track/4YNdviC7wvO6oTdMm8z40S"
     },
     {
       "album": {
@@ -2964,7 +3098,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 159906,
       "name": "Suprior",
       "url": "https://open.spotify.com/track/1u2KCIJPqtsl9Vz243FQtp"

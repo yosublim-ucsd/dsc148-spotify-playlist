@@ -3631,6 +3631,24 @@
     },
     {
       "album": {
+        "name": "JJ",
+        "url": "https://open.spotify.com/album/4FIFNBWXW67UsD1PNX0XrE"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214727,
+      "name": "JJ",
+      "url": "https://open.spotify.com/track/5mDMtKrEbFyVwdLMqLS7jO"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/2M5ORHcAPHnk1u925k3E4B"
       },
@@ -3884,6 +3902,24 @@
       "duration_ms": 289320,
       "name": "Light Dance",
       "url": "https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF"
+    },
+    {
+      "album": {
+        "name": "lighthouse",
+        "url": "https://open.spotify.com/album/2pBOANdncgocwoEnEd7Wpt"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145824,
+      "name": "lighthouse",
+      "url": "https://open.spotify.com/track/75bwkrAjDrR1sI9Cij1fUZ"
     },
     {
       "album": {
@@ -4496,7 +4532,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 502364,
       "name": "Monotony",
       "url": "https://open.spotify.com/track/09V60XC2fnZQ69LY6saLt1"
@@ -4994,7 +5030,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 103360,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
@@ -5182,6 +5218,28 @@
       "duration_ms": 258876,
       "name": "Particle",
       "url": "https://open.spotify.com/track/3JTMA055FKYtnC6ttoe1on"
+    },
+    {
+      "album": {
+        "name": "Past From (Rebelski Remix)",
+        "url": "https://open.spotify.com/album/6YidGPbvQ6iC6LJx3XFIQK"
+      },
+      "artists": [
+        {
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+        },
+        {
+          "name": "Rebelski",
+          "url": "https://open.spotify.com/artist/18zTVJ6fMHo39oGuHINfOX"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295505,
+      "name": "Past From - Rebelski Remix",
+      "url": "https://open.spotify.com/track/3pCjv2qXqPpiCttub0jk32"
     },
     {
       "album": {
@@ -7964,7 +8022,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 224298,
       "name": "vi (almost equal to) ix",
       "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"

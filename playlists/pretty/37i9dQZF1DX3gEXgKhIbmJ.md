@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,218 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,271 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 45 | [Truva](https://open.spotify.com/track/0l3swCsYyU4lhj1M9SuqHA) | [RealLamak](https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb) | [Truva](https://open.spotify.com/album/73EmcHHL6kbzPcMAvpvme2) | 1:45 |
 | 46 | [Postura de Braba](https://open.spotify.com/track/5HfQbACsPDEKVkjhJYqYKe) | [Kloe](https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Postura de Braba](https://open.spotify.com/album/3HzyX6tFFie2A0U0vYKb0z) | 2:08 |
 | 47 | [2O2](https://open.spotify.com/track/2sYMOSctTL2Jxp8scdcwE1) | [ICQ BABY](https://open.spotify.com/artist/5YQnfA7pMHo9MriIb2l0kO) | [essentials v1](https://open.spotify.com/album/2CsZISRhwzhuNtaTya7mhe) | 2:05 |
-| 48 | [Nunca Sozinho](https://open.spotify.com/track/5QZEKx4SQOxABjMvcJjrGj) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Nunca Sozinho](https://open.spotify.com/album/0aUlKZZU5PNjviB2BbVRW5) | 2:17 |
+| 48 | [\(NUNCA SOZINHO\)](https://open.spotify.com/track/3x8VWTMV6Paz9qQMaYzhqR) | [Nico Is Lost](https://open.spotify.com/artist/19QPe8JtnJBuQEFAiUbEaB) | [\(NUNCA SOZINHO\)](https://open.spotify.com/album/2Uvq2MIzpRYEfmQPjLIzdk) | 2:17 |
 | 49 | [DO IT AGAIN \(feat\. 2Rare\)](https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [DO IT AGAIN \(feat\. 2Rare\)](https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe) | 3:33 |
 | 50 | [My Humps \- JBroadway Remix](https://open.spotify.com/track/3jCMS72hCFNF1NESsL6L9m) | [JBroadway](https://open.spotify.com/artist/6WdccSPsTJcEHFoSdWpYvh), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [My Humps \(JBroadway Remix\)](https://open.spotify.com/album/2YFV7FShMxZW4zUMF0KnXw) | 2:15 |
 
-Snapshot ID: `MCw1ZTBjZGNmNDAyMDU5MjIyMDIyZmQ2MmY4NmIyYmYyMDNjYWQwMjlj`
+Snapshot ID: `MCxlMThiYWUyMGE4MGQwMzVjZWJkMTQxNmExYjJmZDBmNzI5ZjRhYWZm`

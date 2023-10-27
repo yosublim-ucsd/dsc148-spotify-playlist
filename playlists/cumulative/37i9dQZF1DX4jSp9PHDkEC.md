@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-330 songs - 22 hr 7 min
+333 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,9 @@
 | [Ballad of the Dying Man](https://open.spotify.com/track/0IFIJrJhp4UlMde4OYCPxb) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Pure Comedy](https://open.spotify.com/album/6nyf9D2M4je5BdNXwycoIe) | 4:50 | 2023-01-17 |  |
 | [Be On Your Way](https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:04 | 2023-01-17 |  |
 | [Beating](https://open.spotify.com/track/5EQHQEFO3S4Kv20cD6wSRX) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Colourgrade](https://open.spotify.com/album/0Uu5MAL65d04IDQ3h1waXy) | 3:41 | 2023-01-17 | 2023-09-28 |
-| [Before](https://open.spotify.com/track/1R0Q2qjI1YoViP4O3QDr31) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 4:28 | 2023-09-25 |  |
+| [Before](https://open.spotify.com/track/1R0Q2qjI1YoViP4O3QDr31) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 4:28 | 2023-09-25 | 2023-10-27 |
 | [Before](https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Before](https://open.spotify.com/album/3Bdi9ZTTSMOAZFvRIny7xp) | 4:28 | 2023-09-25 | 2023-10-21 |
+| [Before](https://open.spotify.com/track/6JNSKF9Nsnhb4gNHskBt42) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 4:28 | 2023-09-25 |  |
 | [Before We Begin](https://open.spotify.com/track/4yx0aYJgnWIy18akJtxmON) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP) | 3:22 | 2023-01-17 |  |
 | [Believe](https://open.spotify.com/track/7LU69DVvvm8SXa3f4R7qzH) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Believe](https://open.spotify.com/album/317uI12DItPAj28IxEA8qz) | 3:22 | 2023-01-17 |  |
 | [Bend The Round](https://open.spotify.com/track/4CeI9wWFAWcxkkANWKV1XB) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Bend The Round](https://open.spotify.com/album/5wnRlXirKPPP7DrFswTIdq) | 3:27 | 2023-07-25 |  |
@@ -183,8 +184,9 @@
 | [Magician's Success](https://open.spotify.com/track/3lTrCTKTggljIq5WCNNp1T) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [The Age of Immunology](https://open.spotify.com/album/415aJSNYQzadqE4p5l51NE) | 3:55 | 2023-01-17 |  |
 | [Maker](https://open.spotify.com/track/2QzMBWIuleaRF4qGARXEmv) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Public Storage](https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S) | 3:32 | 2023-01-17 |  |
 | [Me & My Dog](https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:26 | 2023-01-17 |  |
-| [Melody Experiment](https://open.spotify.com/track/04SwfL1yAlGgn0EftxX3Jy) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 5:10 | 2023-06-30 |  |
+| [Melody Experiment](https://open.spotify.com/track/04SwfL1yAlGgn0EftxX3Jy) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 5:10 | 2023-06-30 | 2023-10-27 |
 | [Melody Experiment](https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody Experiment](https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho) | 5:10 | 2023-06-30 | 2023-10-21 |
+| [Melody Experiment](https://open.spotify.com/track/5k1c6yaWO1uTSY6wNTVUa6) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 5:10 | 2023-06-30 |  |
 | [Michigan](https://open.spotify.com/track/0u0DSp1eSzb4i3ErTCaTEG) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Singles](https://open.spotify.com/album/6EXy3sgDAoWuR5zyPm150T) | 3:35 | 2023-01-17 |  |
 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 | 2023-01-17 |  |
 | [Misery Is a Butterfly](https://open.spotify.com/track/05EdW6Mba6PNtnutYAnvAA) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Misery Is a Butterfly](https://open.spotify.com/album/1DJALnYQFDZa22GSo5dBTt) | 5:08 | 2023-01-17 |  |
@@ -256,8 +258,9 @@
 | [Skrting On The Surface](https://open.spotify.com/track/0AmkMHfI5zFNuptoglfmOp) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 5:31 | 2023-01-17 |  |
 | [Slow Disco \- piano version](https://open.spotify.com/track/2stcQY2OjzSIdk3I9Y1sCW) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MassEducation](https://open.spotify.com/album/3XwQPcRrrSNxETjuD5ka5r) | 2:30 | 2023-01-17 |  |
 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 | 2023-01-17 |  |
-| [Snowman](https://open.spotify.com/track/3xKvXle8QcTpWz2al4WzaB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 5:15 | 2023-06-07 |  |
+| [Snowman](https://open.spotify.com/track/3xKvXle8QcTpWz2al4WzaB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 5:15 | 2023-06-07 | 2023-10-27 |
 | [Snowman](https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Snowman](https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh) | 5:15 | 2023-06-07 | 2023-10-20 |
+| [Snowman](https://open.spotify.com/track/6gGKU1PSWNdLyjiURjfPil) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 5:15 | 2023-06-07 |  |
 | [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 | 2023-01-17 |  |
 | [Softly \- Mahogany Sessions](https://open.spotify.com/track/3TRleR2FHWPDWHKQf9P66X) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Softly / Please \(Mahogany Sessions\)](https://open.spotify.com/album/0EiZGhflsBj4D3ysECkNsm) | 5:04 | 2023-01-17 |  |
 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 | 2023-01-17 |  |

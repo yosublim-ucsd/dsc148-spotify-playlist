@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation Cover: Arcy Drive
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,317 likes - 149 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,396 likes - 149 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 116 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
 | 117 | [The Stranger \(feat\. Sachi, Dan Reeder, Tobias Jesso Jr., John C\. Reilly, Becky and the Birds\)](https://open.spotify.com/track/2TfcFXI1FOsO5HCz4X6uRk) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4), [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d), [Dan Reeder](https://open.spotify.com/artist/4pzjm2iMtclScYmoJ7q9tD), [John C\. Reilly](https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G), [Sachi](https://open.spotify.com/artist/0RvKwfTA8QrkZfXm7cflNr), [Tobias Jesso Jr.](https://open.spotify.com/artist/3RosuARXNIOfNYoJXR7fzA) | [The Stranger \(feat\. Sachi, Dan Reeder, Tobias Jesso Jr., John C\. Reilly, Becky and the Birds\)](https://open.spotify.com/album/0eqovZBbtZFa07tA9OGcWt) | 4:30 |
 | 118 | [Rivers That You Cannot See](https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Rivers That You Cannot See](https://open.spotify.com/album/35iioCINJwSsujHf6csIMy) | 3:55 |
-| 119 | [Shirley](https://open.spotify.com/track/3RoXuQNiqtWPigQFfbWqqm) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Shirley](https://open.spotify.com/album/1yAdXJsVvczv434ikVJf5I) | 1:19 |
+| 119 | [Shirley](https://open.spotify.com/track/7i7vzTKLeeLzbJ3crsTqRB) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends \(UNRATED EDITION\)](https://open.spotify.com/album/4XNH2tkgSe8rtFuGRdgWp2) | 1:19 |
 | 120 | [The Bottom of It](https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:01 |
 | 121 | [Daydream](https://open.spotify.com/track/2Mh9ifVSvGj6l80ZPi9o7Q) | [Baby Cool](https://open.spotify.com/artist/6tChZB9BU0fHdHrrwU5vgb) | [Daydream](https://open.spotify.com/album/4bTMGUi39C1EEMJW8Fmpbd) | 4:03 |
 | 122 | [Runner](https://open.spotify.com/track/5DRnssBoVo8e7uAQZkNT8O) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 2:36 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 148 | [Voicemail](https://open.spotify.com/track/1BhIBuQqcc797NM9gwJWwE) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Place to Land](https://open.spotify.com/album/55pfu2IeDDtlhtKuFl1krR) | 3:11 |
 | 149 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 |
 
-Snapshot ID: `MCw4MzYwNmQxYTgxOWE0MTUzNmUyNTRkMTI2YWM0N2NjMGFmODdjNTNh`
+Snapshot ID: `MCxhYzFkMGM0MThmNjAxY2VlOWYyOGM0ZmE0MjkzOWQ1MzcxZWRlMGE4`

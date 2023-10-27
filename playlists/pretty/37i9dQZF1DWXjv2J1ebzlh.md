@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,221 likes - 1,190 songs - 3 day 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,258 likes - 1,190 songs - 3 day 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -803,7 +803,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 793 | [Homem Pássaro](https://open.spotify.com/track/1Uqv00LUu1Tcc88ODusHbH) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Deus, A Natureza E A Música](https://open.spotify.com/album/0bDXy2W26ogvTl4tWPwWqm) | 4:00 |
 | 794 | [Ali Baba](https://open.spotify.com/track/6WF6PDqP61rFsUgD00NCcI) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Like a Bolt \(Expanded Version\)](https://open.spotify.com/album/1l67YjSveSFg50ajxWcsHX) | 2:40 |
 | 795 | [Mouhamadou Bamba](https://open.spotify.com/track/5QdcVm85PHGVXtA14LoG59) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9), [Baobab\-Gouye\-Gui de Dakar](https://open.spotify.com/artist/396biTOuSgatR6cQxDFL2T) | [Mouhamadou Bamba](https://open.spotify.com/album/4h4yBxb4nKA2t7WH5GfXFe) | 6:35 |
-| 796 | [Heaven](https://open.spotify.com/track/1KT0sltdhzB2LxfS0GM8Uq) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/6qSmpM356gfbFMpy97f2JF) | 6:05 |
+| 796 | [Heaven](https://open.spotify.com/track/6V8mQGMlteOnomLViyIRwU) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Ebo Taylor](https://open.spotify.com/album/5FOShBCFRekNYPZwzKWLB2) | 6:05 |
 | 797 | [Edinya Benya](https://open.spotify.com/track/6pre7E5PU8rMvSYIT1HXgz) | [Hedzoleh Soundz](https://open.spotify.com/artist/7GCftuKAPtpukG1SW4FGF2) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/7JxOC157mJOWGQmIpCv6YL) | 3:17 |
 | 798 | [Omar Gatlato](https://open.spotify.com/track/07Kt1YhE5CYi5mmy71aHkG) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Musique originale de films \(Habibi Funk 003\)](https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F) | 3:10 |
 | 799 | [You've Got a Woman](https://open.spotify.com/track/6G6mulVvHFpJsnoKASUPYP) | [Lion](https://open.spotify.com/artist/37UBXFAuwG66gXZSVL4Qnk) | [You've Got a Woman](https://open.spotify.com/album/2RfURH6OZDRc4sHloLYC3D) | 3:25 |
@@ -1199,4 +1199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1189 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1190 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw4OTA2MmY5NjgzYzczMWQxNzYyZTRkZDcwZThiNzI0NDA2NDNhZDY0`
+Snapshot ID: `MCw4YjQzNjBjODU5ZTYzODVkM2EzODUxYjQxODY0OThjZmQ2MDUxZTc1`

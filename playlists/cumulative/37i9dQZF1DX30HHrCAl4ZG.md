@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring new music by Mannequin Pussy
 
-1,237 songs - 2 day 19 hr 31 min
+1,238 songs - 2 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -734,8 +734,9 @@
 | [Me And All My Friends](https://open.spotify.com/track/1vZ1IDnjiGKddKlEAI0sGY) | [Tribe Friday](https://open.spotify.com/artist/27Hd2l3rnMm3JL9hm31RE7) | [Me And All My Friends](https://open.spotify.com/album/5kn6B2JR1o6rr4ESSFit2R) | 1:56 | 2023-04-21 | 2023-05-27 |
 | [Medicine](https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:49 | 2021-06-07 | 2022-06-11 |
 | [Medicine \- Edit](https://open.spotify.com/track/5fxjGUTu5OFVb5gJkRnM22) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Medicine](https://open.spotify.com/album/7f7bav5WirOo4GctDwQ7tp) | 3:41 | 2021-11-19 | 2022-02-10 |
-| [Melody Experiment](https://open.spotify.com/track/04SwfL1yAlGgn0EftxX3Jy) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 5:10 | 2023-10-20 |  |
+| [Melody Experiment](https://open.spotify.com/track/04SwfL1yAlGgn0EftxX3Jy) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 5:10 | 2023-10-20 | 2023-10-27 |
 | [Melody Experiment](https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody Experiment](https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho) | 5:10 | 2023-06-30 | 2023-10-21 |
+| [Melody Experiment](https://open.spotify.com/track/5k1c6yaWO1uTSY6wNTVUa6) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 5:10 | 2023-10-20 |  |
 | [Melt](https://open.spotify.com/track/41kgbvc2t0U8g1H2yDU9P2) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite EP](https://open.spotify.com/album/0tK8eY4V3CywBybDvu8P1N) | 3:04 | 2023-07-07 | 2023-08-26 |
 | [Memoryology](https://open.spotify.com/track/5sQxDTlROyotpupjQ9M60q) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [NOAH](https://open.spotify.com/album/4BIysF8o9wr5FArNPzak2t) | 3:04 | 2023-10-13 |  |
 | [MENTHOL\*](https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf) | 3:07 | 2022-01-14 | 2022-06-01 |

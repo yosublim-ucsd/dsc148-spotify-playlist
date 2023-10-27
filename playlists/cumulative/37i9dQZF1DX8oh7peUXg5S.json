@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Pedro Guerra y Bunbury.",
   "name": "Cantautores",
   "tracks": [
     {
@@ -114,6 +114,28 @@
       "duration_ms": 205247,
       "name": "A Virxe Do Portovello",
       "url": "https://open.spotify.com/track/0yXXN5T9QYHuFHhgdlNGzM"
+    },
+    {
+      "album": {
+        "name": "Acaso",
+        "url": "https://open.spotify.com/album/4wALhbk6F1YilNThaNPDhC"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222677,
+      "name": "Acaso",
+      "url": "https://open.spotify.com/track/39tmRtKKAWb6PyvUioJOD1"
     },
     {
       "album": {
@@ -404,7 +426,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 247997,
       "name": "Amor a Tres",
       "url": "https://open.spotify.com/track/7xZgcL8Nty3F7VXJzLrXLV"
@@ -788,6 +810,24 @@
       "duration_ms": 166475,
       "name": "Cantemos",
       "url": "https://open.spotify.com/track/5p95jCRYdFtazDos009mW5"
+    },
+    {
+      "album": {
+        "name": "Can\u00e7\u00f3 de Nadal",
+        "url": "https://open.spotify.com/album/0UakZEMLJxs9SZ9HZSE8IJ"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Can\u00e7\u00f3 de Nadal",
+      "url": "https://open.spotify.com/track/1XheQm7y912AOlnGEdEZBO"
     },
     {
       "album": {
@@ -1854,7 +1894,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 196325,
       "name": "Grillos",
       "url": "https://open.spotify.com/track/2zXdBlMG4D8Rkgan0I31VY"
@@ -2518,6 +2558,28 @@
       "duration_ms": 191647,
       "name": "lo que siento",
       "url": "https://open.spotify.com/track/6cMql2rbxU8fKCDjNIdjBu"
+    },
+    {
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209471,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX"
     },
     {
       "album": {
@@ -4023,6 +4085,24 @@
     },
     {
       "album": {
+        "name": "SENCILLO",
+        "url": "https://open.spotify.com/album/2mGzOvYjy6sMqUelE2advD"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207617,
+      "name": "SENCILLO",
+      "url": "https://open.spotify.com/track/5knUczKxRmqga38xt3Dpx6"
+    },
+    {
+      "album": {
         "name": "Lunas Rotas: De casa a las ventas (Standard version)",
         "url": "https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR"
       },
@@ -4670,7 +4750,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 201209,
       "name": "Un D\u00eda De Estos",
       "url": "https://open.spotify.com/track/6ZmJgYJp4agUqbcPVPCTv9"
@@ -4800,7 +4880,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 224293,
       "name": "Verde Selva",
       "url": "https://open.spotify.com/track/5xUdjeu6jLea7OniZP7d8e"

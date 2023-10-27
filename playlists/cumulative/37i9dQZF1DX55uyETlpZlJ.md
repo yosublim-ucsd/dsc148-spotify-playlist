@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-194 songs - 10 hr 31 min
+196 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Kanchana](https://open.spotify.com/track/5k3rN09gDr1nr22wBR42zm) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [shi om](https://open.spotify.com/artist/1E6vRpChFEVeD8sl19ZEkX) | [Kanchana](https://open.spotify.com/album/6BUwtDXUkPp7yP3uplAvU7) | 4:20 | 2022-12-15 | 2023-08-17 |
 | [Kanmaniye](https://open.spotify.com/track/34R3HbV4JtHmDALFBubr7G) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kanmaniye](https://open.spotify.com/album/3nMc1lXmEmhpgE1KDZ3Wgq) | 1:32 | 2023-06-19 | 2023-07-05 |
 | [Kanmaniye](https://open.spotify.com/track/3qm6n1CpNTb3OllQZpI2db) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ), [Chaithra Ganiga](https://open.spotify.com/artist/19MiECEeL27gGfhbyxRfEK) | [Kanmaniye](https://open.spotify.com/album/40I6bsgUWOe19iiJkNDlbL) | 4:29 | 2023-08-05 |  |
+| [Kannada Balso](https://open.spotify.com/track/5XoGUpJ2Q7u2lBfpgznbxG) | [Vibe Guru](https://open.spotify.com/artist/7bd8H4hvMWUY8v6I54DCvi) | [Kannada Balso](https://open.spotify.com/album/1w3uXnjR5gDuVTNTdnqlsO) | 2:46 | 2023-10-26 |  |
 | [Kannalle](https://open.spotify.com/track/4V8RNKh9RTAdGMnZOSlrpp) | [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i) | [Kannalle](https://open.spotify.com/album/3w0f7cvKqi5sQ8wWxJJTAV) | 1:11 | 2023-09-04 |  |
 | [Karma](https://open.spotify.com/track/5uOfjSX8fqPKTqdmDwoXKK) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Karma](https://open.spotify.com/album/0otfI7PmqVOgKLlmktOaB9) | 1:25 | 2023-07-17 |  |
 | [Kelilli](https://open.spotify.com/track/7oVFj9kWbTuHbNafpcLqbi) | [Gubbi](https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3), [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS) | [Kelilli](https://open.spotify.com/album/0Tzvd8xmI0kKZPwIIedKHM) | 2:22 | 2023-10-19 |  |
@@ -113,6 +114,7 @@
 | [Mouna](https://open.spotify.com/track/6dG12cvw63gOIxoTFBpSQI) | [Sanjay Purohit](https://open.spotify.com/artist/2hT9BPXOfxIpkHvyQjro4i), [Samuel Narendra](https://open.spotify.com/artist/0mlMH3WO33o79nD5Z1kHgh), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Mouna](https://open.spotify.com/album/1sJRxkAhSj7VhukFLbcvBU) | 3:31 | 2023-03-13 | 2023-06-20 |
 | [Move Shawty](https://open.spotify.com/track/4YPHF1rdgGnMSSL9tp5qxr) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Move Shawty](https://open.spotify.com/album/3OFC5ZwSnLdXPa1iOrgOsO) | 2:09 | 2023-04-28 | 2023-09-05 |
 | [Munjaneya](https://open.spotify.com/track/44karZEYKnZwsLXtsB0T8n) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [GRV](https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU) | [Munjaneya](https://open.spotify.com/album/1IzIrAqGBd58GjkaL6l4e9) | 3:09 | 2023-06-22 | 2023-07-09 |
+| [Na Ninne Preetisuve](https://open.spotify.com/track/3QneWObcFZcEvpMNhAxxJZ) | [Anita Iyer](https://open.spotify.com/artist/5PeZkX7HUpSAYNso5kCoZM) | [Na Ninne Preetisuve](https://open.spotify.com/album/6lV86HmyPdaunD5CCpEuB8) | 3:40 | 2023-10-26 |  |
 | [Naa Arive](https://open.spotify.com/track/0qFEglcQZCUMNADVKihoYy) | [Madhuri Seshadri](https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx) | [Naa Arive](https://open.spotify.com/album/0gQRlHibWUXKObi4Csgvn9) | 4:26 | 2023-08-08 |  |
 | [Naanu Ninna Kandaaga](https://open.spotify.com/track/3cxzI6pUtRClB1DIkfuBd7) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Naanu Ninna Kandaaga](https://open.spotify.com/album/3PwHzItm79bmaIESi7MFBb) | 3:20 | 2023-05-18 | 2023-06-08 |
 | [Naavu Kuuda OG](https://open.spotify.com/track/2FKlfqCs0ouc6W9fvsRTQM) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Naavu Kuuda OG](https://open.spotify.com/album/7gu9H6jz3APyKRuxhqMkEq) | 1:00 | 2023-08-18 |  |

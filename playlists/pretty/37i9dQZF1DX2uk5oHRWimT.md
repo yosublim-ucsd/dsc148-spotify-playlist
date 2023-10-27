@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,946 likes - 134 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,956 likes - 134 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 8 | [Little Drummer Boy](https://open.spotify.com/track/29fdyIvVGmhRqj0rMOfaJi) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [On Christmas Day](https://open.spotify.com/album/0Enxtkz1M9zc020K4qVrc3) | 3:10 |
 | 9 | [Silver Bells](https://open.spotify.com/track/6g2yyTTnyEVr9VZjVexg1J) | [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB), [Tancred](https://open.spotify.com/artist/4rdoYKpVduYtHfKJgUnOkS), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Fireside](https://open.spotify.com/album/1RQbuf7X5Xy2KfrTwi6DR9) | 2:43 |
 | 10 | [Blue Christmas](https://open.spotify.com/track/7rTHZv5l8ibgPUW24qfmwj) | [David Shaw](https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe) | [Blue Christmas](https://open.spotify.com/album/2NnZ0WkPHuDd3IYiROdB7E) | 2:05 |
-| 11 | [Christmas Dream](https://open.spotify.com/track/7ocYQjcixPueybqtaw4GGl) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Maybe This Christmas, Vol\. 7: Country Sleigh Ride](https://open.spotify.com/album/7dkbS28jW8LVyfKWtFwls2) | 2:57 |
+| 11 | [Christmas Dream](https://open.spotify.com/track/7ocYQjcixPueybqtaw4GGl) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Maybe This Christmas, Vol\. 7: The Christmas Cottage](https://open.spotify.com/album/7dkbS28jW8LVyfKWtFwls2) | 2:57 |
 | 12 | [Angels We Have Heard on High](https://open.spotify.com/track/41acBwmsazBajcgBiJZtJP) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [The Songs the Season Brings, Vols\. 1\-4](https://open.spotify.com/album/6GLUn1i6c7EeyGemSgddOm) | 2:14 |
 | 13 | [Have Yourself A Merry Little Christmas \(feat\. Missy Higgins\)](https://open.spotify.com/track/1mgs3y0GGmKA941T9qQicU) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N), [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Have Yourself A Merry Little Christmas \(feat\. Missy Higgins\)](https://open.spotify.com/album/4ymnWZQ8tAE6AkyhlwEags) | 3:17 |
 | 14 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 99 | [Holiday Road](https://open.spotify.com/track/7IcIV1aPl0myGMsfB13Mxd) | [Matt Pond PA](https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4) | [Winter Songs EP](https://open.spotify.com/album/18vxOALcuUFyKB2emCqiv2) | 3:38 |
 | 100 | [Christmas Kiss](https://open.spotify.com/track/3elTRcb0pkf3YtuMfYIghB) | [Jetty Rae](https://open.spotify.com/artist/2noDZGJxViSST2C5kyz3Gt) | [More Than December](https://open.spotify.com/album/7CENQCViYlqvmTj4GLGRE5) | 2:44 |
 | 101 | [First Snow](https://open.spotify.com/track/0zUAob6pnNxXj6hK2JK61r) | [Friend Of All The World](https://open.spotify.com/artist/3q3lXlWQztweePxKwV6mHY) | [The Wild](https://open.spotify.com/album/6ycQqH1vzOGCRVDTiLDI8y) | 3:46 |
-| 102 | [Christmas Alone](https://open.spotify.com/track/6CiWjivcgYzpHZ44XiHoqW) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Maybe This Christmas, Vol 4: Holiday Folk](https://open.spotify.com/album/2081ZONNeBVsfDhuXw86JI) | 3:48 |
+| 102 | [Christmas Alone](https://open.spotify.com/track/6CiWjivcgYzpHZ44XiHoqW) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Maybe This Christmas, Vol 4: Holiday Folk](https://open.spotify.com/album/2081ZONNeBVsfDhuXw86JI) | 3:48 |
 | 103 | [O Holy Night](https://open.spotify.com/track/4t00TeUJmmFg9tZoJ0twpx) | [Jetty Rae](https://open.spotify.com/artist/2noDZGJxViSST2C5kyz3Gt) | [More Than December](https://open.spotify.com/album/7CENQCViYlqvmTj4GLGRE5) | 5:15 |
 | 104 | [A Child's Christmas in Wales](https://open.spotify.com/track/4gydEH2RTA91rV5F8NkonM) | [Al Lewis](https://open.spotify.com/artist/6uOcVdgW1WKRk2K6ufcIi7) | [A Child's Christmas in Wales](https://open.spotify.com/album/2ixBkmoRp6Mnt6irGcr9B1) | 3:53 |
 | 105 | [Christmas Tree](https://open.spotify.com/track/3gKRfnGUslHVHIA0EhkucQ) | [Cary Brothers](https://open.spotify.com/artist/21R50WhyQI5HxWOTr6MyY1) | [Father Christmas](https://open.spotify.com/album/67Cc0oA2zbfJQDs1V0kFSY) | 3:13 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 133 | [Christmas Wish](https://open.spotify.com/track/4juMWUhR22wHYG4MxxUdSp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:57 |
 | 134 | [What Are You Doing New Year’s Eve?](https://open.spotify.com/track/0SZim5k1ypcgRsWmFcrGfs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:28 |
 
-Snapshot ID: `MCwzMTYyZjZiMjhkNjkyMzg2YjU3ZjgyNTY5NWE4OWU0MGMzZTJiZDI2`
+Snapshot ID: `MCw3ZGIyYWI0M2Q5YzEwN2ZiNTU3Zjk4NWYyMjcxMmQ3Y2YwMzBlNDRk`

@@ -1,12 +1,12 @@
 {
   "description": "Funky blips and blops",
-  "num_followers": 5303,
+  "num_followers": 5309,
   "original_name": "Electro Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODEzNzkzOTVjMzU4ODk3NjM3Y2NlOWQ2YzMwNTE4NWNjMjZiZjY3",
+  "snapshot_id": "MCw2YmY1ZTM2OWUxY2ZkNmY2NzFlMGVmODdiZWJlNWRlYjQ1NDE3ZmYy",
   "tracks": [
     {
       "added_at": "2020-08-28 18:46:05",
@@ -739,22 +739,6 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
-        "name": "The Sugar Hill Records Story",
-        "url": "https://open.spotify.com/album/27rUdsqReF9tEWcG2Wv04U"
-      },
-      "artists": [
-        {
-          "name": "West Street Mob",
-          "url": "https://open.spotify.com/artist/1DF9I8WTbKvhEifX7RwXbO"
-        }
-      ],
-      "duration_ms": 409133,
-      "name": "Let's Dance (Make Your Body Move)",
-      "url": "https://open.spotify.com/track/3BuIjV42Tsc3o3n2jp4S0Y"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
         "name": "Rockin' Radio (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Ic14256Mmnh7tJqF6T7kc"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 374120,
       "name": "Rockin' Radio",
       "url": "https://open.spotify.com/track/3VRhXuwcMg3nzod1mZgtzO"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
+        "name": "The Sugar Hill Records Story",
+        "url": "https://open.spotify.com/album/27rUdsqReF9tEWcG2Wv04U"
+      },
+      "artists": [
+        {
+          "name": "West Street Mob",
+          "url": "https://open.spotify.com/artist/1DF9I8WTbKvhEifX7RwXbO"
+        }
+      ],
+      "duration_ms": 409133,
+      "name": "Let's Dance (Make Your Body Move)",
+      "url": "https://open.spotify.com/track/3BuIjV42Tsc3o3n2jp4S0Y"
     },
     {
       "added_at": "2020-08-28 18:46:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: IDLES
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,929 likes - 125 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,949 likes - 125 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 116 | [Bigger](https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Bigger](https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl) | 3:18 |
 | 117 | [Riot](https://open.spotify.com/track/04ozu87GNHVPVgd8qhBUJU) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Cult Classic](https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3) | 2:17 |
 | 118 | [Cool Cat](https://open.spotify.com/track/55tNMlkritjhghkaoHBNZk) | [HalfNoise](https://open.spotify.com/artist/0y0UzT7xPdd9niCbsODXES) | [Cool Cat](https://open.spotify.com/album/6jxQWwR8oZYUZmFxZktXVS) | 3:19 |
-| 119 | [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:18 |
+| 119 | [Soft Like a Flower](https://open.spotify.com/track/2hj7KCZ38HJWlEfQDs4IQH) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [I Don't Want You Anymore](https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb) | 3:18 |
 | 120 | [Your Spit](https://open.spotify.com/track/0Qb74CrDtWBDOhl6olXnXr) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Your Spit](https://open.spotify.com/album/7j9dqURBPIkDguiJrWgkiR) | 3:25 |
 | 121 | [This Isn't Me](https://open.spotify.com/track/2foKNLF3iIbX8cs0NyGMB2) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [This Isn't Me](https://open.spotify.com/album/7IOGKde0zgOWxGdImhJ0TN) | 3:37 |
 | 122 | [Street Rat](https://open.spotify.com/track/6QEXgIEYghZjsFcQPohZ9q) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Street Rat](https://open.spotify.com/album/1dSWDvAoExxAwJj2Hf7kTB) | 3:30 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 124 | [Impressively Average](https://open.spotify.com/track/1sL6n9kMtrlAvPokQKlZGP) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Impressively Average](https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv) | 3:18 |
 | 125 | [DUMB](https://open.spotify.com/track/47MthNdmvuTrV3SP4MPFGV) | [Hunter Oliveri](https://open.spotify.com/artist/1y3NQbmjuRQshFiRjiterz) | [DUMB](https://open.spotify.com/album/1CEYnd0M5NIW7u6HheJka5) | 2:53 |
 
-Snapshot ID: `MCw1NjI0YTljMzM2MDU2NWQ3MjBhNDc3ZDhlODM2MjgzMDEzYjA2NGE0`
+Snapshot ID: `MCxjMTA0OTEwOTFjMzhiZTkzNDAxMDg3MTgwNmUxMWI2NDFiZjEzN2M0`

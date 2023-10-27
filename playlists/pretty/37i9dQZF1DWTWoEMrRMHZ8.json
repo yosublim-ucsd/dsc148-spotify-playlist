@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Chico Buarque",
-  "num_followers": 345293,
+  "num_followers": 345339,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTc2NTBkOWI1NGFhNGU2MTMxMDNmNmJhYjA3YmEwNWMxZDRjYzFl",
+  "snapshot_id": "MCw2MzYwZDdmYzQxZWQ3ZjFjMGI5ZjgxMTQwMTYxZmJiOTk1YTA0ZjRj",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 212540,
+      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Pago Pra Ver",
         "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 212540,
-      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Nu Com a Minha M\u00fasica (EP)",
         "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
       },
@@ -787,23 +787,7 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Caravana Sair\u00e9",
-        "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        }
-      ],
-      "duration_ms": 240834,
-      "name": "Lembran\u00e7a de um Beijo",
-      "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Sonhos & Ilus\u00f5es (acoustic version)",
+        "name": "Sonhos & Ilus\u00f5es (acoustic)",
         "url": "https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f"
       },
       "artists": [
@@ -816,9 +800,25 @@
           "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 241250,
-      "name": "Sonhos & Ilus\u00f5es - acoustic version",
+      "duration_ms": 231250,
+      "name": "Sonhos & Ilus\u00f5es - acoustic",
       "url": "https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Caravana Sair\u00e9",
+        "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        }
+      ],
+      "duration_ms": 240834,
+      "name": "Lembran\u00e7a de um Beijo",
+      "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Novo Samba Sempre Novo",
-        "url": "https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf"
-      },
-      "artists": [
-        {
-          "name": "Benito 80",
-          "url": "https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1"
-        },
-        {
-          "name": "Ju\u00e7ara Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i"
-        }
-      ],
-      "duration_ms": 237234,
-      "name": "Retalhos De Cetim",
-      "url": "https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Tocando Em Frente",
         "url": "https://open.spotify.com/album/4LjOAlMvo0ubUMx6Tq01X9"
       },
@@ -903,18 +883,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Ata-me",
-        "url": "https://open.spotify.com/album/5m1WwMk6bpyxqU5A0TCRog"
+        "name": "Novo Samba Sempre Novo",
+        "url": "https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf"
       },
       "artists": [
         {
-          "name": "Ala\u00edde Costa",
-          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
+          "name": "Benito 80",
+          "url": "https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1"
+        },
+        {
+          "name": "Ju\u00e7ara Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i"
         }
       ],
-      "duration_ms": 216986,
-      "name": "Ata-me",
-      "url": "https://open.spotify.com/track/3zFak51eEEHDHxmBnms9sm"
+      "duration_ms": 237234,
+      "name": "Retalhos De Cetim",
+      "url": "https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -931,6 +915,22 @@
       "duration_ms": 286052,
       "name": "Esot\u00e9rico",
       "url": "https://open.spotify.com/track/1zVqEY9PXPpYJKMi9Kk9yn"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Ata-me",
+        "url": "https://open.spotify.com/album/5m1WwMk6bpyxqU5A0TCRog"
+      },
+      "artists": [
+        {
+          "name": "Ala\u00edde Costa",
+          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Ata-me",
+      "url": "https://open.spotify.com/track/3zFak51eEEHDHxmBnms9sm"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "coisa mais bonita",
+        "url": "https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "duration_ms": 176103,
+      "name": "coisa mais bonita",
+      "url": "https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Alceu Valen\u00e7a e Paulo Rafael",
         "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Grand' Hotel",
-        "url": "https://open.spotify.com/album/0Qb5Hrxo4ALD7SkUQlTRmj"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 203434,
-      "name": "Grand' Hotel",
-      "url": "https://open.spotify.com/track/3z0d0L04jSDRHxWItUy0cP"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "desculpe o au\u00ea",
         "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 178867,
       "name": "desculpe o au\u00ea",
       "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Grand' Hotel",
+        "url": "https://open.spotify.com/album/0Qb5Hrxo4ALD7SkUQlTRmj"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 203434,
+      "name": "Grand' Hotel",
+      "url": "https://open.spotify.com/track/3z0d0L04jSDRHxWItUy0cP"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Lusco-Fusco",
-        "url": "https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW"
-      },
-      "artists": [
-        {
-          "name": "Assucena",
-          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
-        }
-      ],
-      "duration_ms": 272842,
-      "name": "Reluzente",
-      "url": "https://open.spotify.com/track/2UeumKHIIwlHuZS09znv0P"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Paci\u00eancia",
         "url": "https://open.spotify.com/album/6cXORwSG04rxXhOJwYDNYK"
       },
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Lusco-Fusco",
+        "url": "https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW"
+      },
+      "artists": [
+        {
+          "name": "Assucena",
+          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
+        }
+      ],
+      "duration_ms": 272842,
+      "name": "Reluzente",
+      "url": "https://open.spotify.com/track/2UeumKHIIwlHuZS09znv0P"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Pra lhe Dizer",
         "url": "https://open.spotify.com/album/2FCd8bsBEd34LSKEVci8o8"
       },
@@ -1463,6 +1479,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Marujo",
+        "url": "https://open.spotify.com/album/5uoYiANXjRDCKedZeuuPDO"
+      },
+      "artists": [
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        },
+        {
+          "name": "Roberto Mendes",
+          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
+        }
+      ],
+      "duration_ms": 168512,
+      "name": "Marujo",
+      "url": "https://open.spotify.com/track/6MJHXSrRfSWESgjTalaSIU"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Aqui em Casa (Ep 02)",
         "url": "https://open.spotify.com/album/55d26HxQZEQLu4Kny8Ce6B"
       },
@@ -1487,42 +1523,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Marujo",
-        "url": "https://open.spotify.com/album/5uoYiANXjRDCKedZeuuPDO"
-      },
-      "artists": [
-        {
-          "name": "Mariene De Castro",
-          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
-        },
-        {
-          "name": "Roberto Mendes",
-          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
-        }
-      ],
-      "duration_ms": 168512,
-      "name": "Marujo",
-      "url": "https://open.spotify.com/track/6MJHXSrRfSWESgjTalaSIU"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Porto",
-        "url": "https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj"
-      },
-      "artists": [
-        {
-          "name": "MPB4",
-          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "Porto",
-      "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Se N\u00e3o For Amor",
         "url": "https://open.spotify.com/album/58tRsnbneeUALoTYhCYbr7"
       },
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Porto",
+        "url": "https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj"
+      },
+      "artists": [
+        {
+          "name": "MPB4",
+          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "Porto",
+      "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Tenho Sede",
         "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 190468,
       "name": "Tenho Sede",
       "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "coisa mais bonita",
-        "url": "https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb"
-      },
-      "artists": [
-        {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
-        }
-      ],
-      "duration_ms": 176103,
-      "name": "coisa mais bonita",
-      "url": "https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T"
+      },
+      "artists": [
+        {
+          "name": "Tuca Oliveira",
+          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
+        }
+      ],
+      "duration_ms": 196319,
+      "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Dia De Gl\u00f3ria",
         "url": "https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 229500,
       "name": "Um Pescador",
       "url": "https://open.spotify.com/track/5DBVaJ9xCQ5cyRV02s0IF9"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T"
-      },
-      "artists": [
-        {
-          "name": "Tuca Oliveira",
-          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
-        }
-      ],
-      "duration_ms": 196319,
-      "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Bom Dia",
-        "url": "https://open.spotify.com/album/1ewAbVlnYMY7NhhkYSBKmg"
-      },
-      "artists": [
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
-        }
-      ],
-      "duration_ms": 165826,
-      "name": "Bom Dia",
-      "url": "https://open.spotify.com/track/4ucz6yGAHvmL4V5DrfNrcK"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Gente S\u00e9ria (Letra In\u00e9dita)",
         "url": "https://open.spotify.com/album/5Vs97HPoTHUh3YgORdpjqs"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 106658,
       "name": "Gente S\u00e9ria (Letra In\u00e9dita)",
       "url": "https://open.spotify.com/track/1ckmCrRl0uPRvRicggdf40"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Bom Dia",
+        "url": "https://open.spotify.com/album/1ewAbVlnYMY7NhhkYSBKmg"
+      },
+      "artists": [
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+        }
+      ],
+      "duration_ms": 165826,
+      "name": "Bom Dia",
+      "url": "https://open.spotify.com/track/4ucz6yGAHvmL4V5DrfNrcK"
     },
     {
       "added_at": "2023-10-20 03:00:00",

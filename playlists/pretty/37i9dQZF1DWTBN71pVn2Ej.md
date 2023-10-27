@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,429 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,500 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 47 | [Torched](https://open.spotify.com/track/7inaTyQTHJq8G18vFU2J6X) | [Colourblind](https://open.spotify.com/artist/2Tzh2zHsSIBYCkytK2L82k) | [Torched](https://open.spotify.com/album/1hRNwx5co2OS2a2XEVDxky) | 2:28 |
 | 48 | [Hyper Trophy](https://open.spotify.com/track/3kHSUwpxqdXaKONV3ECNL8) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Hyper Trophy](https://open.spotify.com/album/0Pt5wGMaHSrmNSjzHVag6e) | 2:55 |
 | 49 | [Pendulum](https://open.spotify.com/track/5v2WvShCblt55NLy82Orod) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Pendulum](https://open.spotify.com/album/0euPsI7rBBsxArzy7gvgVF) | 3:34 |
-| 50 | [Hiraeth](https://open.spotify.com/track/7J1rx8Kkbuagoi3EYuyEl1) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn), [Further Seems Forever](https://open.spotify.com/artist/1Enp9WKfk0aI9CFi2YGBq7), [Jason Gleason](https://open.spotify.com/artist/1CW0lVVHTQXygXWLJJgYU9) | [Hiraeth](https://open.spotify.com/album/3iih8XrFxJMaDEjW6DEvON) | 3:45 |
+| 50 | [Hiraeth](https://open.spotify.com/track/7J1rx8Kkbuagoi3EYuyEl1) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn) | [Hiraeth](https://open.spotify.com/album/3iih8XrFxJMaDEjW6DEvON) | 3:45 |
 | 51 | [Victim](https://open.spotify.com/track/6HVukYjftyc9qD2XDsFlzk) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Victim / The Bear](https://open.spotify.com/album/1pmdl1AYc4lglNYjqexpDA) | 3:44 |
 | 52 | [Moments of Clarity](https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:50 |
 | 53 | [Feel Good](https://open.spotify.com/track/1SG5OMNLi4WIexCt7UDDj7) | [Nature Trip](https://open.spotify.com/artist/6pgJjdomiwN8ryoe9Ukqgg) | [Feel Good](https://open.spotify.com/album/14lddxFbU85X0qQCReRlW5) | 3:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | ['Til Forever](https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | ['Til Forever](https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q) | 2:48 |
 | 60 | [Stuck In a Car With You](https://open.spotify.com/track/105tJEDg9Q5LF5aoZ96ckp) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Stuck In a Car With You](https://open.spotify.com/album/24Vd6jQWV2gf3MbIxAOc8t) | 3:59 |
 
-Snapshot ID: `MCwxNjI3YjcwOWNmZWJiODhlNTk0ZDQ3NmM1OTM3MGNhZGI1N2MxOTUy`
+Snapshot ID: `MCwwM2I5NWM3M2UwZDY1YWJkMGQwNzZmMjIzMTVhNWI4MDM2ZWY2YjZk`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 142398,
+  "num_followers": 142409,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWFmOWE1YThhNDdlYWEyNWVjODdlNzZlZjlmZGFhZDk2MDQ4OWVh",
+  "snapshot_id": "MCw2Y2E2OGExOWRkNTE0ZGU5ZjI0MWI3MTJhNTRiZGY4MmM4ZTE3NWM0",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 176586,
-      "name": "Use Somebody - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2qCB3BnsOtq3Rja6nPslrk"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 234840,
       "name": "Here I Am Again",
       "url": "https://open.spotify.com/track/1uZ5Ulb2qfle3HbqB12vNQ"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 176586,
+      "name": "Use Somebody - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Maula",
+        "url": "https://open.spotify.com/album/1OIWkzjWFJuClJVm7DEry4"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Maula",
+      "url": "https://open.spotify.com/track/7pncFFzijtxIQtLpNwiAyO"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Learning To Live Without You",
         "url": "https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 202446,
       "name": "Con La Miel En Los Labios",
       "url": "https://open.spotify.com/track/5VOPzPBHcubxHK1BEru2G5"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Maula",
-        "url": "https://open.spotify.com/album/1OIWkzjWFJuClJVm7DEry4"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Maula",
-      "url": "https://open.spotify.com/track/7pncFFzijtxIQtLpNwiAyO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Jet Lag",
-        "url": "https://open.spotify.com/album/70CaXkLUnM9Ht9BrSxKHIm"
-      },
-      "artists": [
-        {
-          "name": "Gavin Haley",
-          "url": "https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f"
-        }
-      ],
-      "duration_ms": 150011,
-      "name": "Jet Lag",
-      "url": "https://open.spotify.com/track/4nDNTISVKzP3YjW4vvW1B1"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Kezbi Wara Kezbi",
         "url": "https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 236697,
       "name": "Wassellik Khabar",
       "url": "https://open.spotify.com/track/46Q88zCtao0J39Z2dr1ynN"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Jet Lag",
+        "url": "https://open.spotify.com/album/70CaXkLUnM9Ht9BrSxKHIm"
+      },
+      "artists": [
+        {
+          "name": "Gavin Haley",
+          "url": "https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f"
+        }
+      ],
+      "duration_ms": 150011,
+      "name": "Jet Lag",
+      "url": "https://open.spotify.com/track/4nDNTISVKzP3YjW4vvW1B1"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "criminal",
+        "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 157186,
+      "name": "criminal",
+      "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Zina",
         "url": "https://open.spotify.com/album/4tOUBy2cTlm0bliEb6ZeiU"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 148085,
       "name": "Zina",
       "url": "https://open.spotify.com/track/7nPK9IbFaBZ698nz8oy5BV"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "criminal",
-        "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 157186,
-      "name": "criminal",
-      "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Media Tinta",
+        "url": "https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ellar",
+          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
+        }
+      ],
+      "duration_ms": 234340,
+      "name": "Media Tinta",
+      "url": "https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Benar Cinta",
         "url": "https://open.spotify.com/album/1S5z8cgI402Rf59cpT6ESv"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 239330,
       "name": "Benar Cinta",
       "url": "https://open.spotify.com/track/7nG9CHpSwPyONyB8hdlZ5k"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Media Tinta",
-        "url": "https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2"
-      },
-      "artists": [
-        {
-          "name": "Sofia Ellar",
-          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
-        }
-      ],
-      "duration_ms": 234340,
-      "name": "Media Tinta",
-      "url": "https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1967,22 +1967,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Vanha (feat. BEHM)",
-        "url": "https://open.spotify.com/album/6cjvE8s8S7B11IvfjQNZhA"
+        "name": "Flourishing",
+        "url": "https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt"
       },
       "artists": [
         {
-          "name": "Keko Salata",
-          "url": "https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN"
-        },
-        {
-          "name": "BEHM",
-          "url": "https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE"
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
         }
       ],
-      "duration_ms": 209627,
-      "name": "Vanha (feat. BEHM)",
-      "url": "https://open.spotify.com/track/3VMLjw1WTEU5xEcNfNiUMd"
+      "duration_ms": 241093,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2003,18 +1999,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Flourishing",
-        "url": "https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt"
+        "name": "Vanha (feat. BEHM)",
+        "url": "https://open.spotify.com/album/6cjvE8s8S7B11IvfjQNZhA"
       },
       "artists": [
         {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+          "name": "Keko Salata",
+          "url": "https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN"
+        },
+        {
+          "name": "BEHM",
+          "url": "https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE"
         }
       ],
-      "duration_ms": 241093,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9"
+      "duration_ms": 209627,
+      "name": "Vanha (feat. BEHM)",
+      "url": "https://open.spotify.com/track/3VMLjw1WTEU5xEcNfNiUMd"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
-      },
-      "artists": [
-        {
-          "name": "Bigman",
-          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
-        }
-      ],
-      "duration_ms": 218501,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "I mecht nur wissn wo du bist (I.U.E.)",
         "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 207920,
       "name": "I mecht nur wissn wo du bist - I.U.E.",
       "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
+      },
+      "artists": [
+        {
+          "name": "Bigman",
+          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
+        }
+      ],
+      "duration_ms": 218501,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2419,6 +2419,26 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Kyle",
+        "url": "https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY"
+      },
+      "artists": [
+        {
+          "name": "Qaayel",
+          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+        },
+        {
+          "name": "Nada",
+          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Cardamom Tea",
         "url": "https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq"
       },
@@ -2431,26 +2451,6 @@
       "duration_ms": 221714,
       "name": "Cardamom Tea",
       "url": "https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438 (Ice Lyrical Version)",
-        "url": "https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y"
-      },
-      "artists": [
-        {
-          "name": "Nyusha",
-          "url": "https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza"
-        },
-        {
-          "name": "Artem Kacher",
-          "url": "https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438 - Ice Lyrical Version",
-      "url": "https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2475,22 +2475,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Kyle",
-        "url": "https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY"
+        "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438 (Ice Lyrical Version)",
+        "url": "https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y"
       },
       "artists": [
         {
-          "name": "Qaayel",
-          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+          "name": "Nyusha",
+          "url": "https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza"
         },
         {
-          "name": "Nada",
-          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
+          "name": "Artem Kacher",
+          "url": "https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17"
+      "duration_ms": 223200,
+      "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438 - Ice Lyrical Version",
+      "url": "https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9"
     },
     {
       "added_at": "2022-10-17 15:00:00",

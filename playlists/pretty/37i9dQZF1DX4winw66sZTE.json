@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 18288,
+  "num_followers": 18372,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTdmMDI0MmE1OTI0YmZmZDU5N2ZkYzE2ZjVlZTlkYzAxOWE3ZDc2",
+  "snapshot_id": "MCw1M2IxMTBlZThhY2Q2ZDFiNjhkMDIxZTMzZWM4ZWEyNzU1NTVlYzQ0",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/01zi2Tsa9ojYgPY5Q08aUb"
+      },
+      "artists": [
+        {
+          "name": "miss A",
+          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
+        }
+      ],
+      "duration_ms": 186799,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/3jb7gznZVfqyMQGJo4hzG2"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "Why So Lonely",
         "url": "https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 233955,
       "name": "Baby, Don't Cry",
       "url": "https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/01zi2Tsa9ojYgPY5Q08aUb"
-      },
-      "artists": [
-        {
-          "name": "miss A",
-          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
-        }
-      ],
-      "duration_ms": 186799,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/3jb7gznZVfqyMQGJo4hzG2"
     },
     {
       "added_at": "2021-03-01 03:07:22",

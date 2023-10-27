@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 126584,
+  "num_followers": 126651,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmNkYmU3MDQ4NGE3NzdmM2JlZTA5YjdmNjgyOWRjNmYwNGMwMjQz",
+  "snapshot_id": "MCwwNjllMmUyMjgyZDRkNTMwYzViOWI0YWY2N2JiODNlMTEyOGVlOTM3",
   "tracks": [
     {
       "added_at": "2023-06-19 13:01:14",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87"
-      },
-      "artists": [
-        {
-          "name": "Relaxed Minds",
-          "url": "https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R"
-        }
-      ],
-      "duration_ms": 249739,
-      "name": "Wave Foam",
-      "url": "https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Healing Rainforest",
         "url": "https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 208000,
       "name": "Walking In The Rainforest",
       "url": "https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87"
+      },
+      "artists": [
+        {
+          "name": "Relaxed Minds",
+          "url": "https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R"
+        }
+      ],
+      "duration_ms": 249739,
+      "name": "Wave Foam",
+      "url": "https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp"
     },
     {
       "added_at": "2023-06-19 13:01:14",

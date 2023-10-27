@@ -1,12 +1,12 @@
 {
   "description": "Where music and emotions meet. Cover: <a href=\"spotify:artist:7Ddov9nbJDbpgzvBVb7cU1\">George Wassouf</a>",
-  "num_followers": 70774,
+  "num_followers": 70835,
   "original_name": "Tarab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTZiMDBkMjJiMDFjNjk0ZWIxN2E0MWFiNmU0M2ViZDgwMGUxMGI1",
+  "snapshot_id": "MCw2ZGU1NmE5YmM4NTNjZGJhYjFmZDY2YTI2MzM4Mjk3Yjk1Y2NlOWY1",
   "tracks": [
     {
       "added_at": "2022-09-13 14:22:57",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Ossit Helem",
-        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 303765,
-      "name": "Debna Aa Ghiyabak (Live)",
-      "url": "https://open.spotify.com/track/5pNkQiWpr5rLUB8Pii7QrG"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Tarab Hits",
         "url": "https://open.spotify.com/album/0OgTQ6y9BY3fZ4RaCsM6wJ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 213786,
       "name": "Ashka We Ghalbana",
       "url": "https://open.spotify.com/track/20hX2SNY7z2Eesit48jH1p"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Ossit Helem",
+        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 303765,
+      "name": "Debna Aa Ghiyabak (Live)",
+      "url": "https://open.spotify.com/track/5pNkQiWpr5rLUB8Pii7QrG"
     },
     {
       "added_at": "2022-09-13 14:22:57",

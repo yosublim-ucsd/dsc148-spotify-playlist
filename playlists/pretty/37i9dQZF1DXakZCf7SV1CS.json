@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 64467,
+  "num_followers": 64598,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDVhMDI2NmYwZTYxZThkMTliYWMxMTlhYjljM2RhMmIyZTY2OWRl",
+  "snapshot_id": "MCw2YmRmZmM0MmI0YzRhN2RjNjYwNzdhNjA0YjM4NjU4NTY2Y2M1ZjBj",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "mortal",
-        "url": "https://open.spotify.com/album/2O0IaA0jv0zsu0BW7qm4CM"
-      },
-      "artists": [
-        {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
-        }
-      ],
-      "duration_ms": 102362,
-      "name": "IRIS",
-      "url": "https://open.spotify.com/track/5ruHCGUNXz9q9fGagRo9TO"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "i hate it here",
         "url": "https://open.spotify.com/album/0zCWwURtHzZhsNjg4gziIU"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 157144,
       "name": "i hate it here",
       "url": "https://open.spotify.com/track/2raN4Xp2bY3MAeU0OBx9Bg"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "mortal",
+        "url": "https://open.spotify.com/album/2O0IaA0jv0zsu0BW7qm4CM"
+      },
+      "artists": [
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        }
+      ],
+      "duration_ms": 102362,
+      "name": "IRIS",
+      "url": "https://open.spotify.com/track/5ruHCGUNXz9q9fGagRo9TO"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -973,6 +973,42 @@
       "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
     },
     {
+      "added_at": "2023-06-20 14:29:14",
+      "album": {
+        "name": "bad idea",
+        "url": "https://open.spotify.com/album/3uhiRR9njhC3ALTQrRksmK"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        },
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        }
+      ],
+      "duration_ms": 69041,
+      "name": "bad idea",
+      "url": "https://open.spotify.com/track/7hXEc9Hk5MS2BVoSFx4H5X"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 236937,
+      "name": "Faceshopping",
+      "url": "https://open.spotify.com/track/0y4YmA9UGpQnWdIFbWBHu0"
+    },
+    {
       "added_at": "2023-04-27 17:13:18",
       "album": {
         "name": "Good Luck (Deluxe)",
@@ -999,22 +1035,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 236937,
-      "name": "Faceshopping",
-      "url": "https://open.spotify.com/track/0y4YmA9UGpQnWdIFbWBHu0"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "Visored Vitality",
         "url": "https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 152032,
       "name": "Butterfly Bankai",
       "url": "https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T"
-    },
-    {
-      "added_at": "2023-06-20 14:29:14",
-      "album": {
-        "name": "bad idea",
-        "url": "https://open.spotify.com/album/3uhiRR9njhC3ALTQrRksmK"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        },
-        {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
-        }
-      ],
-      "duration_ms": 69041,
-      "name": "bad idea",
-      "url": "https://open.spotify.com/track/7hXEc9Hk5MS2BVoSFx4H5X"
     },
     {
       "added_at": "2023-04-27 17:13:18",

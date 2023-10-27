@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Barry Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,396 likes - 150 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,419 likes - 150 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 149 | [Best of Me](https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Best of Me](https://open.spotify.com/album/4nNPzcNhJRIV2einl7IK4n) | 4:22 |
 | 150 | [SWIM](https://open.spotify.com/track/7pAEVIFvGRMACtxmVN7F7a) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [SWIM](https://open.spotify.com/album/76yrE6R1C84sv00YnZRoUi) | 3:18 |
 
-Snapshot ID: `MCwwODY4MmFhYTU3NDcwYTc0NTM5YmRmY2ZlMzg3OGFkYmNiYTBlNzYy`
+Snapshot ID: `MCw0NjYwYTc3MmUxMTQ0YTk5YzQ3N2VhZDE3ZGE1Y2NlMzMwNzRkODk5`

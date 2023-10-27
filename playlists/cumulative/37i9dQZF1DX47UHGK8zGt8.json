@@ -767,6 +767,28 @@
     },
     {
       "album": {
+        "name": "Sonas Sessions (Live Session)",
+        "url": "https://open.spotify.com/album/6F8v6e4TlUZ8oTv5IQpgMJ"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "Sonast\u00e9rio",
+          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220990,
+      "name": "Cara a Cara (Live Session)",
+      "url": "https://open.spotify.com/track/3HlqxgiaWK3DFkAN9sYpNH"
+    },
+    {
+      "album": {
         "name": "Carnaval a Dois (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4tMGcI3AI8sIiqiuX39EWe"
       },

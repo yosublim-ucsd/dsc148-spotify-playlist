@@ -4,7 +4,7 @@
 
 > Fresh Christmas songs para los días festivos\. Cover: DannyLux
 
-148 songs - 8 hr 3 min
+149 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Mi Estrella](https://open.spotify.com/track/2OLLrr5uDVfWTOCM8t8IaA) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Gisela](https://open.spotify.com/artist/6SxnKPhYvkTKp2FtBzh6CI) | [Feliz Navidad](https://open.spotify.com/album/4lLFP1YjoYBN36q3XfmVjl) | 4:25 | 2021-12-15 | 2022-07-28 |
 | [Mi Estrella](https://open.spotify.com/track/6Db1sQZCfT3kKI73uLmFYW) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Gisela](https://open.spotify.com/artist/6SxnKPhYvkTKp2FtBzh6CI) | [Sueño Navideño Vol\. 1](https://open.spotify.com/album/5segjXcXIviv0I60iy87FP) | 4:25 | 2022-11-08 | 2022-11-26 |
 | [Mi Estrella](https://open.spotify.com/track/2LZkBWdmv9zYZdWXlesVlF) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Gisela](https://open.spotify.com/artist/6SxnKPhYvkTKp2FtBzh6CI) | [Superestrellas En Navidad](https://open.spotify.com/album/37KAP4I6Cmu0W2sMAV5YFH) | 4:28 | 2021-12-15 | 2022-12-19 |
+| [Mi Mejor Regalo](https://open.spotify.com/track/04KZnB9Gb8WCHF1AMaGzwj) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF), [Juan Jose Diaz](https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz), [Victoria Montero](https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3) | [Mi Mejor Regalo](https://open.spotify.com/album/5o46YcPUqnzB6QK4TRwD5C) | 2:57 | 2023-10-20 |  |
 | [Mi Mejor Regalo](https://open.spotify.com/track/5mlT0dwuKmWnoslcFXRrSa) | [Juan Jose Diaz](https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz), [Victoria Montero](https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Mi Mejor Regalo](https://open.spotify.com/album/50Bt4ZSpTurO3QCBc5a4ad) | 2:57 | 2022-12-19 | 2023-10-25 |
 | [Mi Regalito Eres Tu](https://open.spotify.com/track/2EgcqhH32EIu8qlcuAnToy) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [Somos Navidad](https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea) | 3:01 | 2022-12-18 |  |
 | [Mi Regalito Eres Tú](https://open.spotify.com/track/2Oej5AvQmrjaReH7zQq7MQ) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [Somos Navidad](https://open.spotify.com/album/0LXg2Cuuc3p2txsIh8BlCI) | 3:01 | 2021-12-15 | 2022-11-14 |
@@ -107,7 +108,7 @@
 | [Noche De Paz](https://open.spotify.com/track/0bxz99lTmipy9D9MXcRRke) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [Noche De Paz](https://open.spotify.com/album/5qFuUfQqVm3m5hNhiCQids) | 3:11 | 2021-12-15 | 2022-12-19 |
 | [Nuestra Canción De Navidad](https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nuestra Navidad](https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG) | 3:36 | 2022-12-13 |  |
 | [O Holy Night](https://open.spotify.com/track/7rRhq2CEg8JhFKdtX5vIzz) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:55 | 2021-12-15 | 2022-12-20 |
-| [O Holy Night/Noche Divina](https://open.spotify.com/track/3g0wUS9mythjpq3GI7fyrV) | [Leyo](https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO) | [Noche Divina](https://open.spotify.com/album/4eygw8F891MRinJ4NUUD70) | 4:03 | 2022-12-19 |  |
+| [O Holy Night/Noche Divina](https://open.spotify.com/track/3g0wUS9mythjpq3GI7fyrV) | [Leyo](https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO) | [Noche Divina](https://open.spotify.com/album/4eygw8F891MRinJ4NUUD70) | 4:03 | 2022-12-19 | 2023-10-27 |
 | [Oh Holy Night \(Instrumental\)](https://open.spotify.com/track/1m87edJoNGUHHtcPmgGwWT) | [Mariachi Divas](https://open.spotify.com/artist/27c4TvzdsKPi3kDRPBW96u) | [My Grown\-up Christmas List](https://open.spotify.com/album/31FO9vaH0PeeIkDJtUfL8d) | 3:30 | 2021-12-15 | 2022-12-20 |
 | [Otra Navidad :\(](https://open.spotify.com/track/0stGjckaqF832pf74QJT0l) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 3:07 | 2022-12-19 |  |
 | [Otro año +](https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Otro año +](https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob) | 1:40 | 2022-12-19 |  |

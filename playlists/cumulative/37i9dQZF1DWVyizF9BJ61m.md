@@ -4,7 +4,7 @@
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-84 songs - 6 hr 58 min
+85 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Gbomei Adesai](https://open.spotify.com/track/3aup2Wb74T0uWASlue8sqP) | [The Psychedelic Aliens](https://open.spotify.com/artist/7KJFSOY3DpBSS9yy8vCGWG) | [Psycho African Beat](https://open.spotify.com/album/1DIyUBpOICsZ9UuMn8Mmmj) | 3:08 | 2019-03-22 |  |
 | [Greetings](https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:13 | 2019-03-22 |  |
 | [Greetings](https://open.spotify.com/track/7lSNZV9U8D7BnzwTIM8zlG) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/4Qdl3L0yx9NmcbupcyhdSf) | 6:13 | 2019-03-22 | 2022-07-29 |
-| [Heaven](https://open.spotify.com/track/1KT0sltdhzB2LxfS0GM8Uq) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/6qSmpM356gfbFMpy97f2JF) | 6:05 | 2023-03-17 |  |
+| [Heaven](https://open.spotify.com/track/6V8mQGMlteOnomLViyIRwU) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Ebo Taylor](https://open.spotify.com/album/5FOShBCFRekNYPZwzKWLB2) | 6:05 | 2023-07-21 |  |
+| [Heaven](https://open.spotify.com/track/1KT0sltdhzB2LxfS0GM8Uq) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/6qSmpM356gfbFMpy97f2JF) | 6:05 | 2023-03-17 | 2023-10-27 |
 | [Heaven](https://open.spotify.com/track/2GNzKVnqNE1E6VcHn9QjH7) | [Ebo Taylor](https://open.spotify.com/artist/1yDtHakLGMYiERfsHbXiv7) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/65bFwgGVr8WOlERe4kt5Gz) | 6:05 | 2019-03-22 | 2023-04-30 |
 | [Heaven](https://open.spotify.com/track/6lx5aHjUesS2XEyLxXknLQ) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Life Stories](https://open.spotify.com/album/5vf9w7uDuKx6FbaC82TlYg) | 6:05 | 2019-03-22 | 2022-07-29 |
 | [Heavy Heavy Heavy](https://open.spotify.com/track/5PD8YhpV4a0BhMjwo0QVsx) | [Geraldo Pino](https://open.spotify.com/artist/6aUmoNP3dS6an1wvsfK7vg), [The Heartbeats](https://open.spotify.com/artist/4MxxWlqPodeCP8CqrT6Jps) | [Afro\-Rock Vol\. 1](https://open.spotify.com/album/46ZQZkK27RoM56LLt8xkSY) | 6:33 | 2019-03-22 |  |

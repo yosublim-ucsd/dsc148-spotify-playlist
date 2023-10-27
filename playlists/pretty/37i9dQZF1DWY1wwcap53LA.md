@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Reyna Roberts
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,550 likes - 122 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,571 likes - 122 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 16 | [Tennessee \- Bonus Track](https://open.spotify.com/track/1QeMa8hBjIIarFqOalHc99) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Tennessee](https://open.spotify.com/album/6xNoGdNiorsLLPxF1SAhND) | 3:17 |
 | 17 | [Cottonmouth](https://open.spotify.com/track/5xDEoJdz8iW75JKYeFX9uH) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Cottonmouth](https://open.spotify.com/album/4vXr75Mz2JyIdwwh0gKz0F) | 2:34 |
 | 18 | [Raised Right](https://open.spotify.com/track/2TPhxHTLZA7Rncf2NZFQho) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Raised Right](https://open.spotify.com/album/46DaRD6UeqBpfhlULp0Zdy) | 3:11 |
-| 19 | [We Did](https://open.spotify.com/track/2uqPdi0TFoCYZaAoGYf8zr) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 3:03 |
+| 19 | [We Did](https://open.spotify.com/track/1Ia1nVuJYsaQjArfY7pOd4) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/79iCUqx4rgAItI7BFPJkJC) | 3:03 |
 | 20 | [Night To Go](https://open.spotify.com/track/65JhcwbMrDlQAxrRDi79Ns) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Night To Go](https://open.spotify.com/album/0NmgdVPj95vVLLxDor1R8T) | 2:43 |
 | 21 | [Standards](https://open.spotify.com/track/1XQcnIA8QsYmNuNVUzWVMQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [The Best Thing](https://open.spotify.com/album/7Gw93eT5wLVQfpRVizuNka) | 2:54 |
 | 22 | [Shoebox Money](https://open.spotify.com/track/7zp625x7gldRjoBuvcZ1MP) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Shoebox Money](https://open.spotify.com/album/66Aq72ocAWuVw0dDI1LXci) | 2:56 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 121 | [Good Love](https://open.spotify.com/track/7sMoGNd6xOM7CD1WdFRWBQ) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Good Love](https://open.spotify.com/album/3lpdLJbh71M7f7YezuOEww) | 2:59 |
 | 122 | [Small Town](https://open.spotify.com/track/2AQNauizjgSmFeUIdtlNqS) | [Warrick McZeke](https://open.spotify.com/artist/49r2zkItXkIJc5tDfnVCIi) | [Small Town](https://open.spotify.com/album/7ESdUin17RB1cW22mGntRb) | 3:42 |
 
-Snapshot ID: `MCwyOTAwZjViZTc4OTkxZmQxYmM2MTI0MThhODE0OGM4NzlhMzVlOGMx`
+Snapshot ID: `MCw5ZWU1NGZjODdhY2NlOTgzNGEyNjE3YmQ3YjkyYjUxMzA3N2MzZWZh`

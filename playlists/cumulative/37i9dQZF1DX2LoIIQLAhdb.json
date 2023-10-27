@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda",
   "name": "R&Bae",
   "tracks": [
     {
@@ -194,6 +194,24 @@
       "duration_ms": 190951,
       "name": "Au revoir",
       "url": "https://open.spotify.com/track/23wU0bMRU5wdIivfygtfIE"
+    },
+    {
+      "album": {
+        "name": "Au suivant",
+        "url": "https://open.spotify.com/album/6ckMeHqNLxSIHSWVpXQyA7"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199123,
+      "name": "Au suivant",
+      "url": "https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz"
     },
     {
       "album": {
@@ -581,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Hokage",
+        "url": "https://open.spotify.com/album/67hwyicW6wPonYbfc4rjet"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152813,
+      "name": "Coco & Chanel",
+      "url": "https://open.spotify.com/track/3UfSihvkEvTWNH7sFCKB3Q"
+    },
+    {
+      "album": {
         "name": "Colombe",
         "url": "https://open.spotify.com/album/4icE1928MumHUI9Y1sxnHq"
       },
@@ -846,7 +882,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 168760,
       "name": "Dernier je t'aime",
       "url": "https://open.spotify.com/track/3lFku3uFAQlxhI6HQs2orW"
@@ -930,7 +966,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 167573,
       "name": "Djo",
       "url": "https://open.spotify.com/track/0vlD8VhPNpg6NUl14sUtZw"
@@ -1322,7 +1358,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 161122,
       "name": "G\u00c9 VOULAIT",
       "url": "https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH"
@@ -1388,6 +1424,24 @@
       "duration_ms": 149106,
       "name": "Henny",
       "url": "https://open.spotify.com/track/5kFqyOxSzbsXVaqVfXhJ57"
+    },
+    {
+      "album": {
+        "name": "Hollandaise",
+        "url": "https://open.spotify.com/album/7ezf5Jqi7MmodNkl2rFZOQ"
+      },
+      "artists": [
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158352,
+      "name": "Hollandaise",
+      "url": "https://open.spotify.com/track/0rQV3d6ckeCZAQrIvOaICE"
     },
     {
       "album": {
@@ -1902,7 +1956,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 207760,
       "name": "Le coeur ou la raison",
       "url": "https://open.spotify.com/track/5e19nB0x3kkuIDPjfQx609"
@@ -2372,7 +2426,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 164745,
       "name": "Mon coco",
       "url": "https://open.spotify.com/track/5XTtRcxSLqyflaklKITjvi"
@@ -2787,6 +2841,24 @@
     },
     {
       "album": {
+        "name": "Pas deux fois",
+        "url": "https://open.spotify.com/album/4v04mvu8sazAy4w0bbtHWi"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164584,
+      "name": "Pas deux fois",
+      "url": "https://open.spotify.com/track/7rHVUZyPGUAUobgJ4raVjQ"
+    },
+    {
+      "album": {
         "name": "Pas Les Mots",
         "url": "https://open.spotify.com/album/6WyzXWdIMI09xHThKp8Hbt"
       },
@@ -2939,6 +3011,24 @@
     },
     {
       "album": {
+        "name": "Plus jamais",
+        "url": "https://open.spotify.com/album/1ThA5Ig20ituoUdDKjsi7v"
+      },
+      "artists": [
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160604,
+      "name": "Plus jamais",
+      "url": "https://open.spotify.com/track/0ppnuARg9o6Alh2QLXHZse"
+    },
+    {
+      "album": {
         "name": "Pour nous",
         "url": "https://open.spotify.com/album/51rumLSZOQswEty93fSey3"
       },
@@ -2954,10 +3044,28 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 167251,
       "name": "Pour nous",
       "url": "https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y"
+    },
+    {
+      "album": {
+        "name": "Pourquoi",
+        "url": "https://open.spotify.com/album/2OPzyKmOwQErxw9sxWXbLd"
+      },
+      "artists": [
+        {
+          "name": "Celyane",
+          "url": "https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161725,
+      "name": "Pourquoi",
+      "url": "https://open.spotify.com/track/1ivRvCyLMNSWuVZ25a9rf6"
     },
     {
       "album": {
@@ -3682,6 +3790,24 @@
       "duration_ms": 158971,
       "name": "Tout",
       "url": "https://open.spotify.com/track/5Lz5K5wFwBIkUYnzNTEdpA"
+    },
+    {
+      "album": {
+        "name": "Pi\u00e8ce Ma\u00eetresse",
+        "url": "https://open.spotify.com/album/3ZAiBEiCKVYwdeiWHEYIU3"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00efssa",
+          "url": "https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176423,
+      "name": "Trahison",
+      "url": "https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9"
     },
     {
       "album": {

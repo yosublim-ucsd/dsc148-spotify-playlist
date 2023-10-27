@@ -1,51 +1,155 @@
 {
-  "description": "The best jazz new releases. Cover: L\u00e9on Phal",
-  "num_followers": 126526,
+  "description": "The best jazz new releases. Cover: Gregory Porter",
+  "num_followers": 126591,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTg0YmI1OTlkM2VkNjU3MWI5NTJhZjllYzQ1ZTZlYTY4Y2U1OTRj",
+  "snapshot_id": "MCw4MTFlODg0YzNhYjRjZWMwZmUyY2U4OWJlZDg2MWIzMDQ1MDljNzJl",
   "tracks": [
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Stress Killer",
-        "url": "https://open.spotify.com/album/2h0W4dYtIysda9qgmm3jV7"
+        "name": "Everything\u2019s Not Lost",
+        "url": "https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO"
       },
       "artists": [
         {
-          "name": "L\u00e9on Phal",
-          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 248689,
+      "name": "Everything\u2019s Not Lost",
+      "url": "https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "A Night To Remember",
+        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         },
         {
-          "name": "Lorine Chia",
-          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 192440,
-      "name": "Something Inside",
-      "url": "https://open.spotify.com/track/1f3KNJkqDaebhZNZBh5nKi"
+      "duration_ms": 233388,
+      "name": "A Night To Remember",
+      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Behind the Tea Chronicles",
-        "url": "https://open.spotify.com/album/2NRg9UqRH3YFWJG7XEwba9"
+        "name": "Bir\u00e9li Lagr\u00e8ne plays Loulou Gast\u00e9",
+        "url": "https://open.spotify.com/album/18j6w0grfr4xEHUn9fUDUc"
       },
       "artists": [
         {
-          "name": "Ed Motta",
-          "url": "https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D"
+          "name": "Bir\u00e9li Lagr\u00e8ne",
+          "url": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS"
         }
       ],
-      "duration_ms": 294777,
-      "name": "Newsroom Customers",
-      "url": "https://open.spotify.com/track/0Wz0QhOSNyRsNsABrQtlrP"
+      "duration_ms": 152146,
+      "name": "Trop beau pour \u00eatre vrai",
+      "url": "https://open.spotify.com/track/6bBpA9MKQTyRrdENizWJYf"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Third Times the Charm",
+        "url": "https://open.spotify.com/album/6JpdUA6AjMUOU3ZX3RB8XZ"
+      },
+      "artists": [
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        }
+      ],
+      "duration_ms": 330480,
+      "name": "Scootin'",
+      "url": "https://open.spotify.com/track/0OnwVifjJwOvrPqRKQxdQt"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Clap!",
+        "url": "https://open.spotify.com/album/1HV1d1eZnnlAQkG5beiBQi"
+      },
+      "artists": [
+        {
+          "name": "Erik Truffaz",
+          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
+        },
+        {
+          "name": "Bertrand Belin",
+          "url": "https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h"
+        }
+      ],
+      "duration_ms": 198866,
+      "name": "In Heaven",
+      "url": "https://open.spotify.com/track/3YjDLKrBH1u30LCnT2l1gt"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Feel Good Music",
+        "url": "https://open.spotify.com/album/4zqHegtEjjOFhFg95YjQwi"
+      },
+      "artists": [
+        {
+          "name": "Endea Owens",
+          "url": "https://open.spotify.com/artist/632l8G3bwQHQcFDDbWVXAH"
+        }
+      ],
+      "duration_ms": 410600,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/1I4hekWxSDBawYgh1AZuMg"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Timba a la Americana",
+        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "duration_ms": 181928,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Sunset Ballad",
+        "url": "https://open.spotify.com/album/6Wk5CDla9XNKvAJHdAGqJP"
+      },
+      "artists": [
+        {
+          "name": "Bellaire",
+          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
+        }
+      ],
+      "duration_ms": 189373,
+      "name": "Sunset Ballad",
+      "url": "https://open.spotify.com/track/7krneDaWsDdXN2Qt5AHxMA"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Day In Day Out (Florian Pellissier Extended Version)",
         "url": "https://open.spotify.com/album/7urOxAlRsgKpA64cKZ6jWw"
@@ -69,123 +173,31 @@
       "url": "https://open.spotify.com/track/2HCLYRJnXDMQ9yfjHIiL60"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Teo",
-        "url": "https://open.spotify.com/album/1nhW2dBhlBtfuzB4GwlHy4"
+        "name": "Dada Pulp",
+        "url": "https://open.spotify.com/album/020HlvI3o3TYr0fTMysQ7m"
       },
       "artists": [
         {
-          "name": "Emile Londonien",
-          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
-        }
-      ],
-      "duration_ms": 215482,
-      "name": "Teo",
-      "url": "https://open.spotify.com/track/445N8tdrFPPQiEXm8x8vES"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Third Times the Charm",
-        "url": "https://open.spotify.com/album/6JpdUA6AjMUOU3ZX3RB8XZ"
-      },
-      "artists": [
-        {
-          "name": "Benny Benack III",
-          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+          "name": "Charley Rose Trio",
+          "url": "https://open.spotify.com/artist/5VW8lQtZn9995Dbtf7FSRL"
         },
         {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
-        }
-      ],
-      "duration_ms": 330480,
-      "name": "Scootin'",
-      "url": "https://open.spotify.com/track/0OnwVifjJwOvrPqRKQxdQt"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "If You Go Away / Ne me quitte pas",
-        "url": "https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx"
-      },
-      "artists": [
+          "name": "Enzo Carniel",
+          "url": "https://open.spotify.com/artist/2g4MfwXbDBoVoyeE54DIEk"
+        },
         {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+          "name": "Ariel Tessier",
+          "url": "https://open.spotify.com/artist/7y16hI4NEVEspAqNm7nG5H"
         }
       ],
-      "duration_ms": 295148,
-      "name": "If You Go Away",
-      "url": "https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT"
+      "duration_ms": 384976,
+      "name": "I Might Never See You Again",
+      "url": "https://open.spotify.com/track/2ERNVROnqMvIdWTVT8bkim"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Everything\u2019s Not Lost",
-        "url": "https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 248689,
-      "name": "Everything\u2019s Not Lost",
-      "url": "https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/1bRx5KpYksNlMDbzbotYiU"
-      },
-      "artists": [
-        {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "MAD",
-      "url": "https://open.spotify.com/track/3dbkTfj3VgC7IUHxDH8dO4"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Bir\u00e9li Lagr\u00e8ne plays Loulou Gast\u00e9",
-        "url": "https://open.spotify.com/album/18j6w0grfr4xEHUn9fUDUc"
-      },
-      "artists": [
-        {
-          "name": "Bir\u00e9li Lagr\u00e8ne",
-          "url": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS"
-        }
-      ],
-      "duration_ms": 152146,
-      "name": "Trop beau pour \u00eatre vrai",
-      "url": "https://open.spotify.com/track/6bBpA9MKQTyRrdENizWJYf"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Feel Good Music",
-        "url": "https://open.spotify.com/album/4zqHegtEjjOFhFg95YjQwi"
-      },
-      "artists": [
-        {
-          "name": "Endea Owens",
-          "url": "https://open.spotify.com/artist/632l8G3bwQHQcFDDbWVXAH"
-        }
-      ],
-      "duration_ms": 410600,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/1I4hekWxSDBawYgh1AZuMg"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Maledetta Quella Notte",
         "url": "https://open.spotify.com/album/53rZDVzeELEDGg9XSfoYym"
@@ -201,39 +213,7 @@
       "url": "https://open.spotify.com/track/2Wz8vQMgkpnUallH0caj1r"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "La Gran Diversi\u00f3n",
-        "url": "https://open.spotify.com/album/4UO0arXcVIKzndEZIAp6Co"
-      },
-      "artists": [
-        {
-          "name": "Roberto Fonseca",
-          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
-        }
-      ],
-      "duration_ms": 203394,
-      "name": "Baila Mulata",
-      "url": "https://open.spotify.com/track/7Ax9Ex9DhMnczPd0pjlPQr"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Timba a la Americana",
-        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
-      },
-      "artists": [
-        {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
-        }
-      ],
-      "duration_ms": 181928,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Give Me A Reason",
         "url": "https://open.spotify.com/album/78pQHAt8HWRK8WVAUdmR2h"
@@ -249,75 +229,7 @@
       "url": "https://open.spotify.com/track/3dvGUfs6L9q6AwuAGEaswW"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Aw\u00e9 ! (Les In\u00e9dits)",
-        "url": "https://open.spotify.com/album/5QSIUcwXCeD2sBT8OQ2PSW"
-      },
-      "artists": [
-        {
-          "name": "Samy Thi\u00e9bault",
-          "url": "https://open.spotify.com/artist/797YMCRJhlhkokujV4RLih"
-        },
-        {
-          "name": "Eric Legnini",
-          "url": "https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi"
-        }
-      ],
-      "duration_ms": 142169,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/2T5yV3TK952ePPnWpIXE3h"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "L'alpagueur",
-        "url": "https://open.spotify.com/album/3elFUdRNF2mhWovGqzHsqd"
-      },
-      "artists": [
-        {
-          "name": "Erik Truffaz",
-          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "L'alpagueur",
-      "url": "https://open.spotify.com/track/5Vz2c5K4uEAkweIBENQJ2u"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Sunset Ballad",
-        "url": "https://open.spotify.com/album/6Wk5CDla9XNKvAJHdAGqJP"
-      },
-      "artists": [
-        {
-          "name": "Bellaire",
-          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
-        }
-      ],
-      "duration_ms": 189373,
-      "name": "Sunset Ballad",
-      "url": "https://open.spotify.com/track/7krneDaWsDdXN2Qt5AHxMA"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Mangrove",
-        "url": "https://open.spotify.com/album/52u1Jd1pll9AAnJeeOMa14"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00eb Defays",
-          "url": "https://open.spotify.com/artist/0QytOJIXShUqZUANBDno3J"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "Mangrove",
-      "url": "https://open.spotify.com/track/5jMErITrJizIjsGGUt3BDh"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Retrograde",
         "url": "https://open.spotify.com/album/3GANzjs5JVExRBMrub9hJa"
@@ -337,7 +249,147 @@
       "url": "https://open.spotify.com/track/5uOOqzmhFT5bnwjbQtSJ9k"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Habana-Bahia",
+        "url": "https://open.spotify.com/album/40Glzz3JECT8bA1w7TXzkw"
+      },
+      "artists": [
+        {
+          "name": "Yilian Ca\u00f1izares",
+          "url": "https://open.spotify.com/artist/51kjU9cCnLDzokU3agspnv"
+        },
+        {
+          "name": "Tigan\u00e1 Santana",
+          "url": "https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9"
+        }
+      ],
+      "duration_ms": 201992,
+      "name": "La Gloria Eres T\u00fa",
+      "url": "https://open.spotify.com/track/1CpwwKDtTwWJ4NNC6gVygw"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Aw\u00e9 ! (Les In\u00e9dits)",
+        "url": "https://open.spotify.com/album/5QSIUcwXCeD2sBT8OQ2PSW"
+      },
+      "artists": [
+        {
+          "name": "Samy Thi\u00e9bault",
+          "url": "https://open.spotify.com/artist/797YMCRJhlhkokujV4RLih"
+        },
+        {
+          "name": "Eric Legnini",
+          "url": "https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi"
+        }
+      ],
+      "duration_ms": 142169,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/2T5yV3TK952ePPnWpIXE3h"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Stress Killer",
+        "url": "https://open.spotify.com/album/2h0W4dYtIysda9qgmm3jV7"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        },
+        {
+          "name": "Lorine Chia",
+          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Something Inside",
+      "url": "https://open.spotify.com/track/1f3KNJkqDaebhZNZBh5nKi"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Fray",
+        "url": "https://open.spotify.com/album/5iNTpKhAny2Jsz7MYjoe3G"
+      },
+      "artists": [
+        {
+          "name": "Lucy Woodward",
+          "url": "https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE"
+        }
+      ],
+      "duration_ms": 271487,
+      "name": "Fray",
+      "url": "https://open.spotify.com/track/2FRJTSOJjRGZx5i9MhBI6E"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Behind the Tea Chronicles",
+        "url": "https://open.spotify.com/album/2NRg9UqRH3YFWJG7XEwba9"
+      },
+      "artists": [
+        {
+          "name": "Ed Motta",
+          "url": "https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D"
+        }
+      ],
+      "duration_ms": 294777,
+      "name": "Newsroom Customers",
+      "url": "https://open.spotify.com/track/0Wz0QhOSNyRsNsABrQtlrP"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "La Gran Diversi\u00f3n",
+        "url": "https://open.spotify.com/album/4UO0arXcVIKzndEZIAp6Co"
+      },
+      "artists": [
+        {
+          "name": "Roberto Fonseca",
+          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+        }
+      ],
+      "duration_ms": 203394,
+      "name": "Baila Mulata",
+      "url": "https://open.spotify.com/track/7Ax9Ex9DhMnczPd0pjlPQr"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/1bRx5KpYksNlMDbzbotYiU"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "MAD",
+      "url": "https://open.spotify.com/track/3dbkTfj3VgC7IUHxDH8dO4"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Teo",
+        "url": "https://open.spotify.com/album/1nhW2dBhlBtfuzB4GwlHy4"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "duration_ms": 215482,
+      "name": "Teo",
+      "url": "https://open.spotify.com/track/445N8tdrFPPQiEXm8x8vES"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Storyboard",
         "url": "https://open.spotify.com/album/1fQxFXmN51ghwHl2AWsXga"
@@ -357,79 +409,23 @@
       "url": "https://open.spotify.com/track/23prDH0nwHcIi5YQ54Sl8l"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "I Could Write a Book (Live)",
-        "url": "https://open.spotify.com/album/0OHbrzksuN7cmKja6RzzRN"
+        "name": "Postcard Lovers",
+        "url": "https://open.spotify.com/album/2pIsRpTZaE0sIq8Y2w9AA9"
       },
       "artists": [
         {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
         }
       ],
-      "duration_ms": 458458,
-      "name": "I Could Write a Book - Live",
-      "url": "https://open.spotify.com/track/6Z6pduayBS4ntLNvIXOTdx"
+      "duration_ms": 302753,
+      "name": "Postcard Lovers",
+      "url": "https://open.spotify.com/track/23tdrZCsUcMvhWBTGvar34"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Excess",
-        "url": "https://open.spotify.com/album/38PEARcrLFjKJSRhVuZ4cX"
-      },
-      "artists": [
-        {
-          "name": "Edouard Ferlet",
-          "url": "https://open.spotify.com/artist/5Xk2kN7YHolwzGSrjmx0Ni"
-        }
-      ],
-      "duration_ms": 229613,
-      "name": "Excess",
-      "url": "https://open.spotify.com/track/0jKIn0FfNhlqno58x4HBY2"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Love is Never Too Late",
-        "url": "https://open.spotify.com/album/7Ei7dL4kmIJhDlie2zHmOc"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 217275,
-      "name": "Love is Never Too Late",
-      "url": "https://open.spotify.com/track/1srnJ1GiGTgnTmc3uoOI3l"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Discotheques 001",
-        "url": "https://open.spotify.com/album/3v11OGRfUdnN6IGp2tdcAm"
-      },
-      "artists": [
-        {
-          "name": "JaRon Marshall",
-          "url": "https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8"
-        },
-        {
-          "name": "Paul Grant",
-          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
-        },
-        {
-          "name": "Amahla",
-          "url": "https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj"
-        }
-      ],
-      "duration_ms": 212194,
-      "name": "Sunseekers",
-      "url": "https://open.spotify.com/track/2hD250ixyqBjvYHpsOOEqG"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Brexit Music",
         "url": "https://open.spotify.com/album/4Syh9y7tKbCtkHRsSOjxNB"
@@ -453,7 +449,95 @@
       "url": "https://open.spotify.com/track/2UqjB852n1IxWh2GDbyD9u"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "I Could Write a Book (Live)",
+        "url": "https://open.spotify.com/album/0OHbrzksuN7cmKja6RzzRN"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 458458,
+      "name": "I Could Write a Book - Live",
+      "url": "https://open.spotify.com/track/6Z6pduayBS4ntLNvIXOTdx"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Excess",
+        "url": "https://open.spotify.com/album/38PEARcrLFjKJSRhVuZ4cX"
+      },
+      "artists": [
+        {
+          "name": "Edouard Ferlet",
+          "url": "https://open.spotify.com/artist/5Xk2kN7YHolwzGSrjmx0Ni"
+        }
+      ],
+      "duration_ms": 229613,
+      "name": "Excess",
+      "url": "https://open.spotify.com/track/0jKIn0FfNhlqno58x4HBY2"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Mangrove",
+        "url": "https://open.spotify.com/album/52u1Jd1pll9AAnJeeOMa14"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00eb Defays",
+          "url": "https://open.spotify.com/artist/0QytOJIXShUqZUANBDno3J"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "Mangrove",
+      "url": "https://open.spotify.com/track/5jMErITrJizIjsGGUt3BDh"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Discotheques 001",
+        "url": "https://open.spotify.com/album/3v11OGRfUdnN6IGp2tdcAm"
+      },
+      "artists": [
+        {
+          "name": "JaRon Marshall",
+          "url": "https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        },
+        {
+          "name": "Amahla",
+          "url": "https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj"
+        }
+      ],
+      "duration_ms": 212194,
+      "name": "Sunseekers",
+      "url": "https://open.spotify.com/track/2hD250ixyqBjvYHpsOOEqG"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Love is Never Too Late",
+        "url": "https://open.spotify.com/album/7Ei7dL4kmIJhDlie2zHmOc"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 217275,
+      "name": "Love is Never Too Late",
+      "url": "https://open.spotify.com/track/1srnJ1GiGTgnTmc3uoOI3l"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Forest Habits",
         "url": "https://open.spotify.com/album/3zFC5FLr1Q7sPbsatVEYPX"
@@ -473,23 +557,7 @@
       "url": "https://open.spotify.com/track/5HCYWa3Jg38TXYhlsvwAaX"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Corner Kisses",
-        "url": "https://open.spotify.com/album/3gGiLP5nx1WsiXLkulXYV4"
-      },
-      "artists": [
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 300031,
-      "name": "Corner Kisses",
-      "url": "https://open.spotify.com/track/1DUQwRzzAeOhFAc5CD7qD9"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Why Am I Treated So Bad (with Questlove, Christian McBride) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
         "url": "https://open.spotify.com/album/4JdmT4JJgQFP3dUgvpjx3H"
@@ -513,7 +581,7 @@
       "url": "https://open.spotify.com/track/22OeSoWelZKWr5On4XIaKP"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Behind the Tea Chronicles",
         "url": "https://open.spotify.com/album/2NRg9UqRH3YFWJG7XEwba9"
@@ -529,7 +597,23 @@
       "url": "https://open.spotify.com/track/3bPk42yKpTX0UWkICl8btZ"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Corner Kisses",
+        "url": "https://open.spotify.com/album/3gGiLP5nx1WsiXLkulXYV4"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 300031,
+      "name": "Corner Kisses",
+      "url": "https://open.spotify.com/track/1DUQwRzzAeOhFAc5CD7qD9"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Call Off The Search",
         "url": "https://open.spotify.com/album/2c6GalSbICqbbg7CW9U5KX"
@@ -545,55 +629,7 @@
       "url": "https://open.spotify.com/track/7KdUI2n3d32uGGso0rD7wc"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 210826,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Stings",
-        "url": "https://open.spotify.com/album/09easBrTbXjhnsqORAvkiK"
-      },
-      "artists": [
-        {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
-        }
-      ],
-      "duration_ms": 290000,
-      "name": "Stings",
-      "url": "https://open.spotify.com/track/7zdBfReMVQKgxO5Pa5O3Hf"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Ela E Carioca",
-        "url": "https://open.spotify.com/album/28ltl7z5ZfsZYijVumSgaJ"
-      },
-      "artists": [
-        {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Ela E Carioca",
-      "url": "https://open.spotify.com/track/7AzWgXu2tfrcNx9sQaCjBx"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Heat Of The Moment",
         "url": "https://open.spotify.com/album/79Bhfp8xlbhgfZ0jLWMuSj"
@@ -609,7 +645,39 @@
       "url": "https://open.spotify.com/track/24eVMVDkDqLr1XGlnpOjtv"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Stings",
+        "url": "https://open.spotify.com/album/09easBrTbXjhnsqORAvkiK"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Stings",
+      "url": "https://open.spotify.com/track/7zdBfReMVQKgxO5Pa5O3Hf"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Ela E Carioca",
+        "url": "https://open.spotify.com/album/28ltl7z5ZfsZYijVumSgaJ"
+      },
+      "artists": [
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Ela E Carioca",
+      "url": "https://open.spotify.com/track/7AzWgXu2tfrcNx9sQaCjBx"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Temperature High",
         "url": "https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD"
@@ -633,7 +701,7 @@
       "url": "https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/7rh3PfTK0nrnjzyamfGvjU"
@@ -649,7 +717,7 @@
       "url": "https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/4mJZ4q8XBAJiAwKEEIHwq1"
@@ -665,7 +733,7 @@
       "url": "https://open.spotify.com/track/2PjW6wCK1eBD0CGcswZMTw"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Dolce Vita",
         "url": "https://open.spotify.com/album/3BtyE6qhphnxtfmZqQTlRg"
@@ -681,7 +749,7 @@
       "url": "https://open.spotify.com/track/1fxupOuHbut5ml1Dsu4q2c"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "SuperBlue: The Iridescent Spree",
         "url": "https://open.spotify.com/album/5qMLFAqVK8IwPRcpuH88R8"
@@ -705,23 +773,7 @@
       "url": "https://open.spotify.com/track/5K0V5WtaEJMYc3izrQ6vQV"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Under Paris Skies",
-        "url": "https://open.spotify.com/album/0OWbqXbC1TvwtPZNVrrlpP"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 261319,
-      "name": "Under Paris Skies",
-      "url": "https://open.spotify.com/track/4HnZtTEp8wQfF43Km2w6G7"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Plays Mac Rebennack",
         "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
@@ -737,27 +789,47 @@
       "url": "https://open.spotify.com/track/179Jr6fqOod5QM4vdyVgwN"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "A Night To Remember",
-        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
+        "name": "An Indian's Life",
+        "url": "https://open.spotify.com/album/3oS8EOgDeE4fByuRhMFpIw"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Henri Texier",
+          "url": "https://open.spotify.com/artist/7nFb95Ufz3MkdXP4bnlSES"
         },
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Manu Codjia",
+          "url": "https://open.spotify.com/artist/5pgPy5GD36vX0EM48DrvE4"
+        },
+        {
+          "name": "Gautier Garrigue",
+          "url": "https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO"
+        },
+        {
+          "name": "Carlo Nardozza",
+          "url": "https://open.spotify.com/artist/1eYCiyEsYPHpLci3OUborg"
+        },
+        {
+          "name": "Sylvain Rifflet",
+          "url": "https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni"
+        },
+        {
+          "name": "S\u00e9bastien Texier",
+          "url": "https://open.spotify.com/artist/6zwjF5PQCREmT9hfRnSEeu"
+        },
+        {
+          "name": "Himiko Paganotti",
+          "url": "https://open.spotify.com/artist/7nOiX0kJl9GXiBt8GmFhYC"
         }
       ],
-      "duration_ms": 233388,
-      "name": "A Night To Remember",
-      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
+      "duration_ms": 333800,
+      "name": "Black and Blue",
+      "url": "https://open.spotify.com/track/5xIPNPw7SVIZTIjQfghGO3"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Seetu",
         "url": "https://open.spotify.com/album/0fdAABWwycrJZzuBRNeX8y"
@@ -773,23 +845,7 @@
       "url": "https://open.spotify.com/track/5b5PCqVD2atBc9MFLGXIuj"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Fray",
-        "url": "https://open.spotify.com/album/5iNTpKhAny2Jsz7MYjoe3G"
-      },
-      "artists": [
-        {
-          "name": "Lucy Woodward",
-          "url": "https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE"
-        }
-      ],
-      "duration_ms": 271487,
-      "name": "Fray",
-      "url": "https://open.spotify.com/track/2FRJTSOJjRGZx5i9MhBI6E"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Have A Talk With God",
         "url": "https://open.spotify.com/album/46GEMh4lyKE3Y3XKKDH4Qf"
@@ -809,7 +865,7 @@
       "url": "https://open.spotify.com/track/4wGhj2z3EHOKr3BsIjFgNa"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "One Week",
         "url": "https://open.spotify.com/album/5kCMg3tpv9Qu25zUFem5VI"
@@ -829,27 +885,23 @@
       "url": "https://open.spotify.com/track/3ILAN6s1hxqjRrhB6J5ron"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Habana-Bahia",
-        "url": "https://open.spotify.com/album/40Glzz3JECT8bA1w7TXzkw"
+        "name": "If You Go Away / Ne me quitte pas",
+        "url": "https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx"
       },
       "artists": [
         {
-          "name": "Yilian Ca\u00f1izares",
-          "url": "https://open.spotify.com/artist/51kjU9cCnLDzokU3agspnv"
-        },
-        {
-          "name": "Tigan\u00e1 Santana",
-          "url": "https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9"
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
         }
       ],
-      "duration_ms": 201992,
-      "name": "La Gloria Eres T\u00fa",
-      "url": "https://open.spotify.com/track/1CpwwKDtTwWJ4NNC6gVygw"
+      "duration_ms": 295148,
+      "name": "If You Go Away",
+      "url": "https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Jazz Hands (feat. CeeLo Green)",
         "url": "https://open.spotify.com/album/3womuEXUOjSxKvWvdmFgNv"
@@ -869,52 +921,20 @@
       "url": "https://open.spotify.com/track/5o0EnxQGxtzMH23QEiOsXL"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Black Classical Music",
-        "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
       "artists": [
         {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Bahia Dayes",
-          "url": "https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 340840,
-      "name": "The Light (feat. Bahia Dayes)",
-      "url": "https://open.spotify.com/track/1mkzHA0suincRybCyk5fis"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Yesterday's Price",
-        "url": "https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        },
-        {
-          "name": "Joshua Karpeh",
-          "url": "https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF"
-        },
-        {
-          "name": "Immanuel Wilkins",
-          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
-        },
-        {
-          "name": "Ambrose Akinmusire",
-          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
-        }
-      ],
-      "duration_ms": 315561,
-      "name": "Yesterday's Price",
-      "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
+      "duration_ms": 200626,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q"
     }
   ],
   "unique_name": "Jazz Club",

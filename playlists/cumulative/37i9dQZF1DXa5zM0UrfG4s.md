@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-329 songs - 15 hr 14 min
+330 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Kjære Kristine](https://open.spotify.com/track/6CYfuolGiwqQqrcQzP62iP) | [Contrazt](https://open.spotify.com/artist/6PF8pPXvzffFLPcbLCgz5M) | [Uten Kart og Kompass](https://open.spotify.com/album/5tW1vD4mltxM5eMCgvXtQC) | 3:57 | 2022-03-24 | 2022-07-25 |
 | [KJØPE HELE SVERIGE](https://open.spotify.com/track/50JIJWXNfJYU2clG8oMoeF) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [KJØPE HELE SVERIGE](https://open.spotify.com/album/0ZgDNxfaVeihCzeTzDQVw6) | 1:57 | 2022-10-15 |  |
 | [Kjøret Stopper Aldri](https://open.spotify.com/track/6wfSoiPBDeE9MYEIXGjd8o) | [Meland x Hauken](https://open.spotify.com/artist/1lel1kMN3SUvXOtrO2tmfr) | [Graduation 2022](https://open.spotify.com/album/0IxNPToiIjAyJAGezxTbSy) | 2:41 | 2022-06-16 | 2022-07-04 |
-| [Kompis](https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Kompis](https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE) | 2:41 | 2022-01-27 |  |
+| [Kompis](https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Kompis](https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE) | 2:41 | 2022-01-27 | 2023-10-27 |
 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 | 2022-05-12 |  |
 | [Kongen av campen](https://open.spotify.com/track/5hwySzV76a0LyYExMoK5tq) | [BEIST](https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC), [Stjørna Heimbrentslag](https://open.spotify.com/artist/40WYRdzpABj4U2tEGEUpHP) | [Kongen av campen](https://open.spotify.com/album/2tNoKYU0O4q6hwXiJbhmOC) | 2:42 | 2022-05-19 | 2022-07-13 |
 | [Kongen av campingplassen](https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi) | [Ole Ivars](https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6) | [En får være som en er](https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT) | 3:25 | 2022-10-13 | 2023-09-07 |
@@ -336,6 +336,7 @@
 | [Ærbeskær](https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Ærbeskær](https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds) | 2:15 | 2021-12-16 | 2023-07-02 |
 | [Ærmen i kærmen](https://open.spotify.com/track/6KYDEP132TspYEaEvobbuQ) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Ærmen i kærmen](https://open.spotify.com/album/1USwG4JXrWi6NYZoiskH4S) | 2:16 | 2021-12-16 | 2022-11-16 |
 | [Ærmen i kærmen \- Remix](https://open.spotify.com/track/6U1SykqBrf8ogs548afPUW) | [Adrian Sellevoll](https://open.spotify.com/artist/7A3fefmffBi6jDv2MxMcz3), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Mr\. Pimp\-Lotion](https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Ærmen i kærmen \(Remix\)](https://open.spotify.com/album/2zSfoNFUTIFuT5CaH9C8zY) | 2:43 | 2023-05-18 | 2023-08-11 |
+| [Över gränsen](https://open.spotify.com/track/3MWFPfsyvLWKceLAPx0hHY) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [Över gränsen](https://open.spotify.com/album/5NmNTHYvTGmVOxRmuEr1YA) | 2:18 | 2023-10-26 |  |
 | [Øl&Jæger](https://open.spotify.com/track/2BMGGXsF4CPVJK5vWj4Lc0) | [Holmsve](https://open.spotify.com/artist/4XkDTdhLAkoEzRDohLoT1o) | [Øl&Jæger](https://open.spotify.com/album/3Z17RskjniNcxXnfimW0Cm) | 3:06 | 2021-12-16 | 2022-04-20 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

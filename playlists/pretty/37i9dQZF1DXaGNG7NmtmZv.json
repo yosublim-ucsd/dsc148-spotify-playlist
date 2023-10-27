@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 200010,
+  "num_followers": 200116,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzlkNTBiNjBhMTVhOTQ4MmFiZWE1YjkxZTdmMGY0NzNkYjM3NjA3",
+  "snapshot_id": "MCw3NDA5MjNkNTU3MGNjNWQ0MGZiZjYxNjJmNTE1NTk4OTk4MWMxYTcx",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/2OTTz23owLC2seOMfgJbqR"
-      },
-      "artists": [
-        {
-          "name": "H2O",
-          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
-        }
-      ],
-      "duration_ms": 170213,
-      "name": "I Know Why",
-      "url": "https://open.spotify.com/track/2rVBgcN49HJaYttxOzTogJ"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Everything You Know",
         "url": "https://open.spotify.com/album/4xh3WT4Y416HM7KKUAFwXx"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 203440,
       "name": "Chasing the Dragon",
       "url": "https://open.spotify.com/track/4MJkV5HQSuaLxFgM7yvTiy"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/2OTTz23owLC2seOMfgJbqR"
+      },
+      "artists": [
+        {
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+        }
+      ],
+      "duration_ms": 170213,
+      "name": "I Know Why",
+      "url": "https://open.spotify.com/track/2rVBgcN49HJaYttxOzTogJ"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -427,6 +427,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Silence Is Betrayal",
+        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
+      },
+      "artists": [
+        {
+          "name": "First Blood",
+          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
+        }
+      ],
+      "duration_ms": 53168,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Break Down The Walls",
         "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 170453,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Silence Is Betrayal",
-        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
-      },
-      "artists": [
-        {
-          "name": "First Blood",
-          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
-        }
-      ],
-      "duration_ms": 53168,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Count Me In",
-        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
-      },
-      "artists": [
-        {
-          "name": "Death Before Dishonor",
-          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
-        }
-      ],
-      "duration_ms": 181226,
-      "name": "Break Through It All",
-      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Friendship Loyalty Commitment",
         "url": "https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 125746,
       "name": "Over the Years",
       "url": "https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Count Me In",
+        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
+      },
+      "artists": [
+        {
+          "name": "Death Before Dishonor",
+          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
+        }
+      ],
+      "duration_ms": 181226,
+      "name": "Break Through It All",
+      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
     },
     {
       "added_at": "2020-12-08 15:12:11",

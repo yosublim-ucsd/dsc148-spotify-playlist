@@ -2,9 +2,9 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> De nieuwste Nederlandse liedjes! Cover: Metejoor
+> De nieuwste Nederlandse liedjes! Cover: Hannah Mae
 
-383 songs - 18 hr 35 min
+391 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Goddamn](https://open.spotify.com/track/1RKkXpPjda5Ow3dih6nNI8) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Lima](https://open.spotify.com/album/5Xj9VAjRTCfXHTWjHn2bxM) | 2:25 | 2023-02-23 | 2023-04-07 |
 | [Goed Nieuws](https://open.spotify.com/track/1qSTVPUUf1JGUc5NpIZ6mB) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Goed Nieuws](https://open.spotify.com/album/3iAznDDuEi5gm0XP4cAF1s) | 3:43 | 2023-06-01 | 2023-06-23 |
 | [Grootste Nachtmerrie](https://open.spotify.com/track/024n8ZBMNDs0lPWXVbiPhE) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd) | [Grootste Nachtmerrie](https://open.spotify.com/album/1oN4gY30vybE4aeYfcsPPL) | 3:29 | 2023-09-28 |  |
+| [Grote Dromen, Klein Dorp](https://open.spotify.com/track/0uqEpwCl4BHilst3RZmGTV) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Grote Dromen, Klein Dorp](https://open.spotify.com/album/4nbh9yi0MfNZfRgLTR66F4) | 2:21 | 2023-10-26 |  |
 | [Haast](https://open.spotify.com/track/399bjhgodMuQoMkynf8rVM) | [ZWIJMEL](https://open.spotify.com/artist/7swrz956hjUaa1XUSXMdkd) | [Haast](https://open.spotify.com/album/1xXJ4D4MG5CDPqePtylf6T) | 2:44 | 2023-06-29 | 2023-09-22 |
 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 | 2023-09-28 |  |
 | [Heel Voorzichtig](https://open.spotify.com/track/4tztLvoZQM8dh9igywG5lj) | [Phillis](https://open.spotify.com/artist/0N9WidPPwB2dGm2q8umfFp) | [Heel Voorzichtig](https://open.spotify.com/album/6TuzXkeovBRJESi56txMVU) | 3:01 | 2023-06-15 | 2023-09-15 |
@@ -176,6 +177,7 @@
 | [Hou Me Vast](https://open.spotify.com/track/5cEXuATPIXChMiJ9J2K8N5) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Hou Me Vast](https://open.spotify.com/album/1V0jz27qKfVx0veO3QrdhJ) | 3:03 | 2023-02-23 | 2023-05-19 |
 | [Hou Me Vast](https://open.spotify.com/track/575YSTycxx4BQpgNB5oG49) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:36 | 2023-02-23 | 2023-05-10 |
 | [Hou Me Vast](https://open.spotify.com/track/4dvcGvGH1mplQpqfA0XeU9) | [Sem van Dijk](https://open.spotify.com/artist/3d8u5GVopjyTpSDW3v534V), [Xander de Buisonjé](https://open.spotify.com/artist/0VuP43Q70c5QRXrdgVNQXP) | [Hou Me Vast](https://open.spotify.com/album/01Dhacpie9pClDaIe3qCXj) | 3:11 | 2023-06-15 | 2023-09-22 |
+| [Houden Van Mij](https://open.spotify.com/track/6YydP7xxbousqGYDNIpwtc) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Houden Van Mij](https://open.spotify.com/album/3QUGk8yFDNJWqlUU8iu0ty) | 2:18 | 2023-10-26 |  |
 | [Houden Van Mij](https://open.spotify.com/track/6EuitFOryzqbENBhziq2aS) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Houden Van Mij](https://open.spotify.com/album/0H1bolHYB0kTUHvs7cc7Zd) | 2:38 | 2023-08-24 | 2023-09-22 |
 | [Hypnose](https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hypnose](https://open.spotify.com/album/3SyrnhZBklWC6wMamSxfQF) | 2:32 | 2023-07-13 | 2023-09-22 |
 | [Ik Ben Jij](https://open.spotify.com/track/1nfbxZYGqSmHhi8PDE7X0Y) | [Dany](https://open.spotify.com/artist/02nYwglWHsI4nowQWSrf32) | [Ik Ben Jij](https://open.spotify.com/album/5YcRkwaP4xkAiliHuJumPs) | 3:46 | 2023-09-07 | 2023-09-22 |
@@ -243,6 +245,7 @@
 | [Moeilijk](https://open.spotify.com/track/3t1kY2rVGBGxFjUw1kxIdD) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Moeilijk](https://open.spotify.com/album/3nATqZ2lFP9DYKDcajA8Yd) | 2:37 | 2023-02-23 | 2023-06-09 |
 | [Moment Zonder Jou](https://open.spotify.com/track/4DEQOhoCywtYBB7ykV8IGQ) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Moment Zonder Jou](https://open.spotify.com/album/5poj1NeSGNbDRavXtthovt) | 2:25 | 2023-02-23 | 2023-03-31 |
 | [Money Op De Tafel \(Slowed\) \[feat\. Rolf Sanchez\]](https://open.spotify.com/track/6vnU92r5HwYD3gysXjd2JN) | [Glen Faria](https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Money Op De Tafel \(Deluxe Versie\)](https://open.spotify.com/album/5lNrtqxB7CUXs1knU2nRIY) | 3:31 | 2023-02-23 | 2023-03-31 |
+| [Monster](https://open.spotify.com/track/5TEkJECu40iwrM8AOSITBt) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/0258dItR7nbdZhF0fRCbOC) | 2:54 | 2023-10-26 |  |
 | [Mooi Geweest](https://open.spotify.com/track/5o2faEX74VH3rc1gKB6nx1) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Mooi Geweest](https://open.spotify.com/album/4pSWksRCcg369pG3LjChh2) | 2:51 | 2023-02-23 | 2023-03-25 |
 | [Mooier Als Je Lacht](https://open.spotify.com/track/0DJ1GDJ7PQkNdHFeFfdV2E) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Mooier Als Je Lacht](https://open.spotify.com/album/35IrJEnHoJZo7BueWiI3XL) | 3:38 | 2023-02-23 | 2023-05-27 |
 | [Morgen Gaan We Praten](https://open.spotify.com/track/1hq1XJPTjakVHRjntJxGG9) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS), [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Morgen Gaan We Praten](https://open.spotify.com/album/4LGsHcf4ciNkjFNwWe03Nx) | 2:48 | 2023-09-07 |  |
@@ -283,6 +286,7 @@
 | [Perfect](https://open.spotify.com/track/5II9sxBAPumEcpYQ3azCcT) | [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ) | [Perfect](https://open.spotify.com/album/1PyesUCvtqfk5Jq4jSoq6D) | 3:02 | 2023-02-23 | 2023-03-18 |
 | [Plaatje](https://open.spotify.com/track/1RCxak1HohZMPlZMFaeg63) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Plaatje](https://open.spotify.com/album/68NmDfErCwLSWNbsIkHo5Q) | 2:32 | 2023-06-29 | 2023-09-22 |
 | [Popstar](https://open.spotify.com/track/1GC9tmklZQlK4gae2qJUJa) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Verbinding](https://open.spotify.com/album/2cPEG61GY9UQVPuI00YRMw) | 2:14 | 2023-06-29 | 2023-08-18 |
+| [PROBLEEM](https://open.spotify.com/track/22UbNMNZsFftv6nwNv6Bmm) | [Dirikteur](https://open.spotify.com/artist/2RvGx3eWrv0Yiq6nJQNXwA) | [PROBLEEM](https://open.spotify.com/album/2US0jASNyZgkL0NYQo8MHs) | 2:37 | 2023-10-26 |  |
 | [Proosten](https://open.spotify.com/track/17RCtGei6r6tWw1QGZEJfE) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 3:02 | 2023-05-09 | 2023-05-19 |
 | [Radio](https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Radio](https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L) | 3:05 | 2023-08-17 |  |
 | [Reden](https://open.spotify.com/track/01D46oDUTJaykFjldVmWEe) | [Boaz Tooren](https://open.spotify.com/artist/3naJPrcJbwO1ibrVzpbTTs) | [Reden](https://open.spotify.com/album/1ubTnY6I7QZsnZqbOiQPYR) | 2:52 | 2023-08-24 | 2023-09-15 |
@@ -305,6 +309,7 @@
 | [Sluitingstijd](https://open.spotify.com/track/4vF5DBqxvRDaJJGumOsAZb) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Sluitingstijd](https://open.spotify.com/album/3BQ2NJ6hQYu6WyT6CUjG2X) | 2:50 | 2023-02-23 | 2023-05-19 |
 | [Small Talk](https://open.spotify.com/track/2M6sp60mWuRoGHapvKDapT) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Small Talk](https://open.spotify.com/album/3lCs6eE88aVxRpgFCkVYkO) | 2:52 | 2023-05-26 | 2023-09-15 |
 | [Spijt](https://open.spotify.com/track/6sKhdsXpgWSO2QMGQTINIk) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Aurelia \(Deluxe\)](https://open.spotify.com/album/685rvbfLSwlnFArXpendcy) | 2:07 | 2023-02-23 | 2023-04-28 |
+| [Stel Dat](https://open.spotify.com/track/2Yyv8SThjKpwURXlw2wO1G) | [Glen Faria](https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC) | [FARIA](https://open.spotify.com/album/11ImjaOmbpe4qcKRwrHxGw) | 2:40 | 2023-10-26 |  |
 | [Sterallures](https://open.spotify.com/track/2ZnJgOaJKJWgWfQ5YmlsRg) | [Cheyenne Toney](https://open.spotify.com/artist/1sTs8GU5lgBiANf1OypPp8), [The Boy Next Door](https://open.spotify.com/artist/4QfOh8rJ0OddhhXHD5QyWs) | [Sterallures](https://open.spotify.com/album/5FkeEs40WayZ59XSWX6YcW) | 2:25 | 2023-06-22 | 2023-09-08 |
 | [Sterker Aan Jouw Zij](https://open.spotify.com/track/6exOnXSrSeRXD7SQHPo4ob) | [LAKSHMI](https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW), [Iris Hond](https://open.spotify.com/artist/1F3I9lXbjp3zfI8F9Ayhk5) | [Sterker Aan Jouw Zij](https://open.spotify.com/album/0evbHjDpdYx2JjODZtB665) | 3:32 | 2023-02-23 | 2023-04-07 |
 | [Sterker Dan De Storm](https://open.spotify.com/track/0QPyuBHMMxBPq2RFSUUBQ0) | [Van Den Hil](https://open.spotify.com/artist/5P5E6jVSNpreJUSWRJNjcl) | [Sterker Dan De Storm](https://open.spotify.com/album/11qRTASG7HKr227g4cdmz8) | 2:58 | 2023-04-20 | 2023-07-21 |
@@ -312,6 +317,7 @@
 | [Stiekem \(nog wel lief\)](https://open.spotify.com/track/0e0MPJ03NIOkqtC6TwsSQJ) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL) | [Stiekem \(nog wel lief\)](https://open.spotify.com/album/5J3ZXy05NPyM2mjW57R8ai) | 2:38 | 2023-02-23 | 2023-05-19 |
 | [Stil In De Stad](https://open.spotify.com/track/3zKok5SsKBwSdM1kfedrga) | [Piet Junior](https://open.spotify.com/artist/5FFXksa2XnPdQ6ImtCZstd) | [Stil in De Stad](https://open.spotify.com/album/33VBZM81ptqhiPqYMdh33e) | 2:40 | 2023-02-23 | 2023-03-18 |
 | [Stilte](https://open.spotify.com/track/1DbUqQsA59SdJ2bJbreuLN) | [Stenfert](https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8) | [Stilte](https://open.spotify.com/album/05UIOGNkytQHWK8uznXwld) | 2:54 | 2023-02-23 | 2023-05-12 |
+| [Stoel In De Hemel](https://open.spotify.com/track/6bNfLrjVk5xFZSOQOhroYt) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [AEDM](https://open.spotify.com/album/3ua3jJ5hreBT7dp0D8TJya) | 3:13 | 2023-10-26 |  |
 | [Te Goed Om Waar Te Zijn](https://open.spotify.com/track/5xROc7yMnVnPBuGw9bTCTK) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Te Goed Om Waar Te Zijn](https://open.spotify.com/album/2mRv3JeT8QvCy44FknVLqF) | 2:49 | 2023-03-16 | 2023-06-09 |
 | [Tegen Beter Weten In](https://open.spotify.com/track/6pYrY75o2iVJVlX2n5d59c) | [Daniel Kist](https://open.spotify.com/artist/3hcVwibmXAqkX0DIWxDVLA) | [Tegen Beter Weten In](https://open.spotify.com/album/3zsaqHqGx1MaalIXkGyGiI) | 2:43 | 2023-02-23 | 2023-04-07 |
 | [Terug In M'n Armen](https://open.spotify.com/track/6pwln6CjzTKZJuYdoA0jSc) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 3:27 | 2023-05-09 | 2023-08-18 |
@@ -332,6 +338,7 @@
 | [Tsunami](https://open.spotify.com/track/2yEgte8dgqwF38TMT7Qxyw) | [STEFF](https://open.spotify.com/artist/1ngLK13t5KqbnQh8pN0k9i) | [Tsunami](https://open.spotify.com/album/3BV0vov8j0blp76wUBY9pH) | 2:19 | 2023-07-13 | 2023-08-18 |
 | [Tussendoor](https://open.spotify.com/track/5ejOlSH4f8M5Tqrisvjpsz) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Tussendoor](https://open.spotify.com/album/1uiD722Lty54S0hMv6DAXS) | 3:05 | 2023-09-21 |  |
 | [Underdog Superster Asterisk](https://open.spotify.com/track/072XjMU0RR8HTAW9pTQytO) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag](https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS) | 2:20 | 2023-02-23 | 2023-04-07 |
+| [Vaders Zoon](https://open.spotify.com/track/5TGv7eOHSbsxktJJVFc21Q) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Vaders Zoon](https://open.spotify.com/album/0KHAWF4hTfJgRg0TaLNSOE) | 4:05 | 2023-10-26 |  |
 | [Vallen](https://open.spotify.com/track/41eqyX8AkVLck2y8WE3y5j) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Vallen](https://open.spotify.com/album/5yjHp3FxUjwGgb6MWQHDFW) | 3:02 | 2023-02-23 | 2023-03-18 |
 | [Vallen en Weer Opstaan](https://open.spotify.com/track/4jkmmV57x7CY8K4f0wKbi3) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Vallen en Weer Opstaan](https://open.spotify.com/album/5qWstIv3DEVpfUvfXHCCHu) | 3:45 | 2023-02-23 | 2023-03-18 |
 | [Van Goed Naar Beter](https://open.spotify.com/track/0nfFsJLVTNTNFAPn7L8THP) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Nu Of Ooit](https://open.spotify.com/album/0LgIADRXaWlGGorozeFfNR) | 2:51 | 2023-02-23 | 2023-03-18 |
@@ -375,6 +382,7 @@
 | [Ze Redt Zich Wel](https://open.spotify.com/track/7HD3Hz5p3ZIoCRVLxzVuMi) | [Maya Shanti](https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn) | [Ze Redt Zich Wel](https://open.spotify.com/album/14SgT1lfqsH40QuxFSvwuy) | 2:26 | 2023-03-23 | 2023-08-11 |
 | [Zeg Hem Dat Het Goed Gaat](https://open.spotify.com/track/291F9nIoCvpnDLjXCpOXbk) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Zeg Hem Dat Het Goed Gaat](https://open.spotify.com/album/4g1R7DADArViw4J1ZERU7f) | 3:42 | 2023-07-13 | 2023-08-30 |
 | [Zie Haar Gaan](https://open.spotify.com/track/1Y04IOxtfXx9J3vyy1dEGo) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Zie Haar Gaan](https://open.spotify.com/album/46QGaDM02l1OOJptgLFZ1P) | 2:29 | 2023-08-10 | 2023-09-01 |
+| [Zie jij het ook](https://open.spotify.com/track/5bMPwUAC4VdX3c3ChuIogI) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [Zie jij het ook](https://open.spotify.com/album/4C2NAdpmvnaobYuIYWPG3s) | 3:47 | 2023-10-26 |  |
 | [Zij Heeft Alles](https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Zij Heeft Alles](https://open.spotify.com/album/69jSlMa042sypmsAS7rORE) | 3:03 | 2023-03-16 | 2023-07-11 |
 | [ZO BEN JIJ](https://open.spotify.com/track/4DzdniulQXcwnnjUabxHLb) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [ZO BEN JIJ](https://open.spotify.com/album/4LY7izKbtV5aoHaQfDbmtn) | 2:02 | 2023-09-21 | 2023-10-06 |
 | [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/2p8EJUT61FPH3cax0UdSnK) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/1OuwGZMLpotXelAT54hv4C) | 3:07 | 2023-09-04 | 2023-09-21 |

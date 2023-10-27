@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-289 songs - 16 hr 3 min
+290 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Flow](https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd) | [Pool Blue](https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL) | [Flow](https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67) | 1:56 | 2021-12-09 |  |
 | [Flowers](https://open.spotify.com/track/67P8NxXLKkwdBx6LjzndgR) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Flowers](https://open.spotify.com/album/2I2VoGHrwQ8k8RpUzJSbyd) | 3:02 | 2023-09-13 |  |
 | [flux de vibrations](https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [flux de vibrations](https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9) | 2:56 | 2022-06-02 |  |
-| [Follow Me](https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Follow Me](https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq) | 3:03 | 2021-12-09 |  |
+| [Follow Me](https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Follow Me](https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq) | 3:03 | 2021-12-09 | 2023-10-27 |
 | [Follow Up](https://open.spotify.com/track/7sxfrgHZkrpl74e7UlJGNH) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Follow Up](https://open.spotify.com/album/7cjTvqHIXbcN0qmNmSfZmO) | 2:48 | 2021-12-09 | 2022-04-20 |
 | [Forever](https://open.spotify.com/track/0d3aVK5p4ULp4r2Nmd7f3C) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Forever](https://open.spotify.com/album/608b83QDjBMRWUyeKuPqHR) | 3:37 | 2023-02-17 |  |
 | [Forrest Glade](https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Forrest Glade](https://open.spotify.com/album/7hRyQtQhYkVC0QQV3D5F2r) | 7:17 | 2021-12-09 | 2023-09-06 |
@@ -129,6 +129,7 @@
 | [Imotski](https://open.spotify.com/track/6jxHr45dbSbKuGin1pHNbp) | [M.O.S.](https://open.spotify.com/artist/14S8eJJkmkNw4SaiXI8fwR) | [Imotski](https://open.spotify.com/album/5PzM6KWTgaekJTnQ7x2rTk) | 7:33 | 2022-09-12 | 2023-09-05 |
 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 | 2022-03-11 |  |
 | [In the Mirror](https://open.spotify.com/track/205U3hn1052lvW97Adry7h) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [In the Mirror](https://open.spotify.com/album/3pakGLnxN48aQvbe7VVXaE) | 2:07 | 2021-12-09 | 2023-06-17 |
+| [In the Mirror](https://open.spotify.com/track/39US9RrwQtLld8H0Cofii3) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [In the Mirror](https://open.spotify.com/album/4I21qLgqAPYlfJGJ1V4Ol6) | 2:07 | 2023-10-13 |  |
 | [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 | 2021-12-09 | 2023-02-18 |
 | [IOU](https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [IOU](https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp) | 3:32 | 2023-06-09 |  |
 | [Ipanema](https://open.spotify.com/track/4nXjQX3YnsTsKNJucIK1Vo) | [Pureblue](https://open.spotify.com/artist/0ytRHtQMhO8Sts30vPTcON) | [Ipanema](https://open.spotify.com/album/1hCZk8eJdYdtNogEsWGbGq) | 2:04 | 2022-01-21 | 2022-05-14 |

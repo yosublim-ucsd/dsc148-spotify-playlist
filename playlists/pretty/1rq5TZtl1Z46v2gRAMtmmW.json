@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 28550,
+  "num_followers": 28558,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzUxNSw2MmU2NDFkZmVmZWIyZDE3MGRjYjI4NGNmY2Y5ZGJkN2ZhNzk0ODIw",
+  "snapshot_id": "MzUxNywwMDgzNGVhN2E4OWZhYWNjYmI4ZDMwZjAzODllYjc2NzI4MmFiZDdj",
   "tracks": [
+    {
+      "added_at": "2023-10-26 16:46:10",
+      "album": {
+        "name": "Satisfy You",
+        "url": "https://open.spotify.com/album/5tkytLQFtBzhfXtXhrWVYg"
+      },
+      "artists": [
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Satisfy You",
+      "url": "https://open.spotify.com/track/5kEw87BEeUlM4Y3z7e31wq"
+    },
     {
       "added_at": "2023-10-20 13:46:42",
       "album": {
@@ -575,22 +591,6 @@
       "duration_ms": 158882,
       "name": "Now U Do - Edit",
       "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
-    },
-    {
-      "added_at": "2023-07-10 22:43:19",
-      "album": {
-        "name": "Time To Run",
-        "url": "https://open.spotify.com/album/0LE5rOqzQKsyodOvKqf5KX"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Time To Run",
-      "url": "https://open.spotify.com/track/6XeCSv9nzMDc5t3acbleYE"
     },
     {
       "added_at": "2023-06-27 16:21:53",

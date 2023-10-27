@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-330 songs - 17 hr 3 min
+331 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All Over You](https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [All Over You / Mon Bébé](https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0) | 2:20 | 2023-06-22 | 2023-08-11 |
 | [Amapiano](https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Amapiano](https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6) | 2:45 | 2023-05-26 | 2023-10-18 |
 | [Amapiano Breakfast](https://open.spotify.com/track/0gmOq5XKYzf2qSIGNxXiYn) | [Voltage Of Hype](https://open.spotify.com/artist/0CFQLmE65niPZASy6fPgXE), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan) | [Amapiano Breakfast](https://open.spotify.com/album/5c9tFSs7w4Uh0Kc1MLdo6V) | 2:26 | 2023-06-02 | 2023-06-17 |
+| [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 | 2023-10-27 |  |
 | [Anti Social](https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Anti Social \(feat\. Jeremih & Young Jonn\)](https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5) | 2:36 | 2023-08-10 | 2023-10-01 |
 | [Apollo](https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:50 | 2022-03-11 |  |
 | [Apollo](https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz) | 2:50 | 2022-03-11 | 2022-12-18 |
@@ -199,7 +200,7 @@
 | [Lose Guard](https://open.spotify.com/track/5rcKUjXT6wD6jlr4pEELSe) | [Tobby Drillz](https://open.spotify.com/artist/0FU0EmYetJ5Ra6InKkHu7J) | [Lose Guard](https://open.spotify.com/album/2SyBiiwQtd9trJt6IlyRAM) | 2:57 | 2022-02-17 | 2022-07-28 |
 | [Maame Water](https://open.spotify.com/track/3jbTDcDDTAg8knx5dZgYFP) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Maame Water](https://open.spotify.com/album/4On2TPasGNGWc7yfkCi8zI) | 2:40 | 2022-10-13 | 2022-11-19 |
 | [Machala](https://open.spotify.com/track/0cukQLqNf7Ac4AGehrRUlj) | [Carterefe](https://open.spotify.com/artist/7cB5IJo0SflSjFEMUq6EOD), [Berri tiga](https://open.spotify.com/artist/5jW7tz7f3EPcJFtdqTsVCL) | [Machala](https://open.spotify.com/album/0DohYufzYWLr8QnL5BypdI) | 2:34 | 2022-08-08 | 2022-09-18 |
-| [Machala](https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/6YUssf4d3nQuCcQVRwRwqr) | 2:34 | 2022-08-08 |  |
+| [Machala](https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/6YUssf4d3nQuCcQVRwRwqr) | 2:34 | 2022-08-08 | 2023-10-27 |
 | [Machala](https://open.spotify.com/track/2GiyNwLCSfXjsb1nwAg1Sq) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/2wzBXrWlqM29fbmKCT7J0I) | 2:34 | 2022-08-08 | 2022-09-11 |
 | [Magic](https://open.spotify.com/track/7HJG4B32llcqQgqHzLhof5) | [Wiz Ofuasia](https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Magic \(with Amartey\)](https://open.spotify.com/album/5FBCdiSwNLrokFxpiR7c3C) | 3:26 | 2021-12-09 | 2022-08-07 |
 | [Majo](https://open.spotify.com/track/3b3bC9PL21scD8cyqEgHuK) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [Majo](https://open.spotify.com/album/62I8Iq14u5T618srVJm3pd) | 3:29 | 2023-06-30 | 2023-07-12 |

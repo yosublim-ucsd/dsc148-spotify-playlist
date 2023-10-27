@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta?si=buZB_ByvSiaAfMN7mBHiXg\">No\u00ebl Mio</a> ",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be?si=6CcYgZxjRbK_erao2CAlyA\">Drakare</a> ",
   "name": "Youth Service",
   "tracks": [
     {
@@ -1299,6 +1299,32 @@
     },
     {
       "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/03HzonbxWmGSWrMDKW2dHk"
+      },
+      "artists": [
+        {
+          "name": "Photizo",
+          "url": "https://open.spotify.com/artist/37SQpQ58OXMe2bsqkan9dV"
+        },
+        {
+          "name": "Sam Jamz",
+          "url": "https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd"
+        },
+        {
+          "name": "Favblings",
+          "url": "https://open.spotify.com/artist/0nUqiVKvYLkuqgYWLVTZSI"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139428,
+      "name": "Chosen",
+      "url": "https://open.spotify.com/track/4zlPjYdpcAtadh9ZJpSag2"
+    },
+    {
+      "album": {
         "name": "Clear the Hold Up",
         "url": "https://open.spotify.com/album/1r2URzUCOcvnwE6DZt8zs0"
       },
@@ -1482,7 +1508,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 159217,
       "name": "Constantly",
       "url": "https://open.spotify.com/track/4lAOzZCEklb7KiZfDlUgLI"
@@ -1596,6 +1622,32 @@
       "duration_ms": 168012,
       "name": "Curry",
       "url": "https://open.spotify.com/track/2S6JR0CGGHCtVwjuNoBRza"
+    },
+    {
+      "album": {
+        "name": "Daddy",
+        "url": "https://open.spotify.com/album/4XbflW1n9R8PT6HiVrf7M5"
+      },
+      "artists": [
+        {
+          "name": "Nuelzo",
+          "url": "https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR"
+        },
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        },
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/6vbJ5IM4aUeoeBE7tUVTO6"
     },
     {
       "album": {
@@ -1810,7 +1862,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 150000,
       "name": "Denge",
       "url": "https://open.spotify.com/track/5gUzlhiXmEJcbl8dYRvRXH"
@@ -2427,6 +2479,28 @@
     },
     {
       "album": {
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/33IS3ibSQBRCKT5cWkZyBL"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176379,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/7uEkbtNgUSECmGBWsHmwjT"
+    },
+    {
+      "album": {
         "name": "EXPOSE MYSELF (Radio Edit)",
         "url": "https://open.spotify.com/album/5QnlezG50Pr1Wy5nOb0m4R"
       },
@@ -2526,6 +2600,28 @@
       "duration_ms": 176482,
       "name": "Falala",
       "url": "https://open.spotify.com/track/64VQFnOF4na9PpqsSeg36E"
+    },
+    {
+      "album": {
+        "name": "Fall my hand",
+        "url": "https://open.spotify.com/album/4Kdenihxhm7htVDFCHOioa"
+      },
+      "artists": [
+        {
+          "name": "Kinsu",
+          "url": "https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh"
+        },
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191584,
+      "name": "Fall my hand",
+      "url": "https://open.spotify.com/track/26XsykNb04PVOljNt0ancu"
     },
     {
       "album": {
@@ -2922,7 +3018,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 142733,
       "name": "For Days",
       "url": "https://open.spotify.com/track/1eAnuw6ZvT4PpI93kwZImV"
@@ -3039,6 +3135,28 @@
     },
     {
       "album": {
+        "name": "The Rubble",
+        "url": "https://open.spotify.com/album/7Kjqr2xjgOQpFItLq5nvkz"
+      },
+      "artists": [
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+        },
+        {
+          "name": "Glitzbeatz",
+          "url": "https://open.spotify.com/artist/6STIHlNG2q6dwVWkccjvVK"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185782,
+      "name": "Friday",
+      "url": "https://open.spotify.com/track/6XrKk0ENod8h5oK47TohYg"
+    },
+    {
+      "album": {
         "name": "Get Life",
         "url": "https://open.spotify.com/album/4ze6VirKRBFHmYcBUoeE0W"
       },
@@ -3072,7 +3190,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 168440,
       "name": "Getaway (Bring Your Burdens)",
       "url": "https://open.spotify.com/track/0n2ib05PwBIvRbBpt0e6Bv"
@@ -3344,7 +3462,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 198974,
       "name": "God Never Fails",
       "url": "https://open.spotify.com/track/5IisENOR5O8RkMt2Zo6l5K"
@@ -4328,7 +4446,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 192705,
       "name": "I No Go Give Up",
       "url": "https://open.spotify.com/track/2d5K8YIQHGGsUbG9OVdwws"
@@ -5649,6 +5767,28 @@
     },
     {
       "album": {
+        "name": "Mind, Pt. 2",
+        "url": "https://open.spotify.com/album/58iFBfd1wzWtF5RX4kENhL"
+      },
+      "artists": [
+        {
+          "name": "Maikon West",
+          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183719,
+      "name": "Mind, Pt. 2",
+      "url": "https://open.spotify.com/track/5LhF2qQfS0wdBqCOkIRB5w"
+    },
+    {
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/5WDozjL7F7vkVByckbjUeO"
       },
@@ -5958,7 +6098,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 139000,
       "name": "My Dey, Pt. 2",
       "url": "https://open.spotify.com/track/1W2QdIOWrApLDdGdLN2y4c"
@@ -7424,7 +7564,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 203893,
       "name": "Running",
       "url": "https://open.spotify.com/track/50qf4Vm3nkbT0k7LR3ltxh"
@@ -7827,6 +7967,32 @@
     },
     {
       "album": {
+        "name": "Steppin' Again",
+        "url": "https://open.spotify.com/album/4fG4iqq399kfFJGdsvEV4f"
+      },
+      "artists": [
+        {
+          "name": "K.Lewis",
+          "url": "https://open.spotify.com/artist/7vFAdz20PKx9iyB63dKHwc"
+        },
+        {
+          "name": "Elikem Kofi",
+          "url": "https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl"
+        },
+        {
+          "name": "Tidez",
+          "url": "https://open.spotify.com/artist/12eUUHfSG9IGizOvLcvuq4"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152941,
+      "name": "Steppin' Again",
+      "url": "https://open.spotify.com/track/4sdCEHKxKt6HIoZEgC0Go4"
+    },
+    {
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/46Xv9JDjZmRr7xXvrRuZ5b"
       },
@@ -8149,6 +8315,28 @@
     },
     {
       "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/1ZjYyqnWU5CV1buejFZFk1"
+      },
+      "artists": [
+        {
+          "name": "Tondi Rams",
+          "url": "https://open.spotify.com/artist/7yauy0FdzPmCzc6rbSN0W1"
+        },
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195882,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/1jSHuG8UuSHITdKR8EqtrE"
+    },
+    {
+      "album": {
         "name": "The Head",
         "url": "https://open.spotify.com/album/01ytqCBRi27L9mnCQrecQD"
       },
@@ -8274,14 +8462,14 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-27",
       "duration_ms": 126206,
       "name": "THIS YEAR (Blessings)",
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
       "album": {
-        "name": "THIS YEAR (Blessings) (feat. Ehis 'D' Greatest) [Remix]",
+        "name": "THIS YEAR (Blessings) [Remix]",
         "url": "https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U"
       },
       "artists": [
@@ -8302,7 +8490,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 160239,
-      "name": "THIS YEAR (Blessings) (feat. Ehis 'D' Greatest) - Remix",
+      "name": "THIS YEAR (Blessings) - Remix",
       "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
     },
     {
@@ -9114,6 +9302,32 @@
       "duration_ms": 142577,
       "name": "You Love Me",
       "url": "https://open.spotify.com/track/0gCXS2EhUCxQOdihVxsidH"
+    },
+    {
+      "album": {
+        "name": "Your Baby",
+        "url": "https://open.spotify.com/album/6u0kjDG6yQ7CVWbU23Ye45"
+      },
+      "artists": [
+        {
+          "name": "Echow Clay",
+          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176808,
+      "name": "Your Baby",
+      "url": "https://open.spotify.com/track/71PQ7kp54INFntc0r3J47y"
     },
     {
       "album": {
