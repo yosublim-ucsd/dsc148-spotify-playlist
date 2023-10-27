@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6933\)
+## Playlists \(6934\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2883,6 +2883,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [King of Pop](/playlists/pretty/653U7cDBXXkPZ07Xk8kxL6.md)
 - [Kiss Sixth Sense\(키스 식스 센스\)](/playlists/pretty/37i9dQZF1DWWaUALc1m7Xc.md)
 - [Kitchen Swagger](/playlists/pretty/37i9dQZF1DX2FsCLsHeMrM.md)
+- [Klassische Musik zum Lesen, Lernen & Studieren](/playlists/pretty/3QfEWUJA2k1c2AICnunShP.md)
 - [Kofi Siriboe's Taste](/playlists/pretty/37i9dQZF1DWV47Icj1uAZ8.md)
 - [Kollywood Cream](/playlists/pretty/37i9dQZF1DX0TyiNWW7uUQ.md)
 - [Kollywood Rap](/playlists/pretty/37i9dQZF1DXcZdJumtdMCZ.md)
